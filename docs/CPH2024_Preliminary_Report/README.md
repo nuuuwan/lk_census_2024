@@ -32,7 +32,6 @@ kilometer.
 9. Administrative changes: The number of GN Divisions dropped slightly (14,021 in 2012 → 14,008 in 2024), due to projects like Moragahakanda & Kaluganga reservoirs submerging villages.
 10. Regional variation in growth: District-level growth shows contrast — Mullaitivu growing rapidly (2.23%) vs. Vavuniya stagnant (0.01%), highlighting uneven demographic trends.
 
-
 ### Table 01: Enumerated population by census year, inter-census growth and average annual growth rate, 1871 - 2024
 
 | Census date     | Enumerated Population | Intercensal increase |                | Average annual growth rate (Percent)  |
@@ -54,10 +53,9 @@ kilometer.
 | 2012 March 20   | 20,359,439            | 1,562,182            | 8.3            | 0.7                                   |
 | 2024 December 19| 21,763,170            | 1,403,731            | 6.9            | 0.5                                   |
 
-
 [JSON Data](Table-01.json)
 
-## Figure 02: Distribution of Population by District - 2024 
+## Figure 02: Distribution of Population by District - 2024
 
 ![Figure 02: Distribution of Population by District - 2024](Fig-02.png)
 
@@ -94,6 +92,6 @@ kilometer.
 
 [JSON Data](Table-03.json)
 
-## Figure 03: Population Density by District - 2024 
+## Figure 03: Population Density by District - 2024
 
 ![Figure 03: Population Density by District - 2024](Fig-03.png)
