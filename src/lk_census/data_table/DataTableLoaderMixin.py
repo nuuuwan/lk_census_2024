@@ -2,7 +2,7 @@ import os
 
 from utils import JSONFile
 
-from lk_census.OriginalDoc import OriginalDoc
+from lk_census.original_doc.OriginalDoc import OriginalDoc
 
 
 class DataTableLoaderMixin:

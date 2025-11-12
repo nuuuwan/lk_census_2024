@@ -4,11 +4,12 @@ from dataclasses import dataclass
 
 from utils import Log
 
-from lk_census.data_table.DataTableExtractDataMixin import \
-    DataTableExtractDataMixin
+from lk_census.data_table.DataTableExtractDataMixin import (
+    DataTableExtractDataMixin,
+)
 from lk_census.data_table.DataTableLoaderMixin import DataTableLoaderMixin
 from lk_census.data_table.DataTablePDFMixin import DataTablePDFMixin
-from lk_census.OriginalDoc import OriginalDoc
+from lk_census.original_doc.OriginalDoc import OriginalDoc
 
 log = Log("DataTable")
 
