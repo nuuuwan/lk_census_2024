@@ -86,4 +86,5 @@ class DataTablePDFMixin:
         json_file = JSONFile(os.path.join(self.dir_table, "raw-table.json"))
         json_file.write(arr_of_arr)
         log.debug(f"Wrote {len(arr_of_arr)} raw rows to {json_file}")
+        assert len(arr_of_arr) > 0, "No raw table extracted"
         return arr_of_arr
