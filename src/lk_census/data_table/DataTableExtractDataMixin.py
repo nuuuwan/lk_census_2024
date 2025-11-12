@@ -33,14 +33,12 @@ class DataTableExtractDataMixin(DataTableExtractDataValidateMixin):
         return raw_table
 
     def __split_row_if_merged__(self, row):
-        if len(row) != 1 + self.n_fields:
-            return row
         first_cell = row[0]
         tokens = str(first_cell).split(" ")
         if len(tokens) < 2:
             return row
 
-        value = self.parse_int(tokens[0])
+        value = self.__parse_int__(tokens[0])
         if not isinstance(value, int):
             return row
 
@@ -55,7 +53,8 @@ class DataTableExtractDataMixin(DataTableExtractDataValidateMixin):
         cleaned_raw_table = []
         for i_row in range(n_rows):
             row = raw_table[i_row]
-            row = self.__split_row_if_merged__(row)
+            if len(row) != 1 + self.n_fields:
+                row = self.__split_row_if_merged__(row)
             if len(row) != 2 + self.n_fields:
                 continue
             cleaned_raw_table.append(row)
