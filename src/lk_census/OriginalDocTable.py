@@ -194,10 +194,23 @@ class OriginalDocTable:
 
     def clean_raw_table(self, raw_table):
         n_rows = len(raw_table)
+
+        # check 0: shift shifted region names (in-place)
+        for i_row in range(len(raw_table) - 1):
+            row = raw_table[i_row]
+            if len(row) != 2 + self.n_fields:
+                continue
+            if raw_table[i_row][0] == "":
+                if raw_table[i_row + 1][0] != "":
+                    log.debug(f"<- {raw_table[i_row + 1][0]}")
+                    raw_table[i_row][0] = raw_table[i_row + 1][0]
+                    if len(raw_table[i_row + 1]) == 2 + self.n_fields:
+                        raw_table[i_row + 1][0] = ""
+
         cleaned_raw_table = []
         for i_row in range(n_rows):
             row = raw_table[i_row]
-
+            # check 1: split first cell if merged
             if len(row) == 1 + self.n_fields:
                 first_cell = row[0]
                 tokens = str(first_cell).split(" ")
@@ -209,13 +222,9 @@ class OriginalDocTable:
                 region_name = " ".join(tokens[1:])
                 row = [region_name, value] + row[1:].copy()
 
+            # check 2: correct number of columns
             if len(row) != 2 + self.n_fields:
                 continue
-
-            if row[0] == "":
-                next_row = raw_table[i_row + 1]
-                row = [next_row[0]] + row[1:].copy()
-
             cleaned_raw_table.append(row)
 
         return cleaned_raw_table
