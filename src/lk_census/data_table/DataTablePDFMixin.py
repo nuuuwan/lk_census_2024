@@ -26,6 +26,7 @@ class DataTablePDFMixin:
             if page_num < len(reader.pages):
                 writer.add_page(reader.pages[page_num])
 
+        os.makedirs(self.dir_table, exist_ok=True)
         with open(self.subset_pdf_path, "wb") as output_file:
             writer.write(output_file)
 

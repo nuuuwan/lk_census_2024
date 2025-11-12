@@ -3,10 +3,12 @@ import os
 from gig import Ent, EntType
 from utils import JSONFile, Log, TSVFile
 
-from lk_census.data_table.DataTableExtractDataCleanerMixin import \
-    DataTableExtractDataCleanerMixin
-from lk_census.data_table.DataTableExtractDataValidateMixin import \
-    DataTableExtractDataValidateMixin
+from lk_census.data_table.DataTableExtractDataCleanerMixin import (
+    DataTableExtractDataCleanerMixin,
+)
+from lk_census.data_table.DataTableExtractDataValidateMixin import (
+    DataTableExtractDataValidateMixin,
+)
 
 log = Log("DataTable")
 
@@ -98,11 +100,13 @@ class DataTableExtractDataMixin(
 
     def __write_json__(self, d_list):
         json_file = JSONFile(os.path.join(self.dir_table, "data.json"))
+        os.makedirs(self.dir_table, exist_ok=True)
         json_file.write(d_list)
         log.debug(f"Wrote {len(d_list)} data rows to {json_file}")
 
     def __write_tsv__(self, d_list):
         tsv_file = TSVFile(os.path.join(self.dir_table, "data.tsv"))
+        os.makedirs(self.dir_table, exist_ok=True)
         tsv_file.write(d_list)
         log.debug(f"Wrote {len(d_list)} data rows to {tsv_file}")
 
