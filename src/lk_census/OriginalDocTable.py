@@ -192,14 +192,9 @@ class OriginalDocTable:
                     + f" total={d['total']} vs sum_of_fields={d['total_from_fields']}"
                 )
 
-    def extract_data(self):
-        raw_table = self.extract_raw_table()
-        d_list = []
-        current_parent_id = None
-
-        parsed_region_set = set()
+    def clean_raw_table(self, raw_table):
         n_rows = len(raw_table)
-        region_names_without_ents = []
+        cleaned_raw_table = []
         for i_row in range(n_rows):
             row = raw_table[i_row]
 
@@ -220,6 +215,23 @@ class OriginalDocTable:
             if row[0] == "":
                 next_row = raw_table[i_row + 1]
                 row = [next_row[0]] + row[1:].copy()
+
+            cleaned_raw_table.append(row)
+
+        return cleaned_raw_table
+
+    def extract_data(self):
+        raw_table = self.extract_raw_table()
+        raw_table = self.clean_raw_table(raw_table)
+
+        d_list = []
+        current_parent_id = None
+
+        parsed_region_set = set()
+        n_rows = len(raw_table)
+        region_names_without_ents = []
+        for i_row in range(n_rows):
+            row = raw_table[i_row]
 
             region_name_in_data = row[0]
             region_name = region_name_in_data
@@ -308,12 +320,32 @@ class OriginalDocTable:
             #     + "-by-Districts-and-Divisional-Secretary-Divisions",
             #     "A6. Population by ethnicity and district according to DSD",
             #     (137, 161),
+            #     [
+            #         "sinhalese",
+            #         "sri_lanka_tamil",
+            #         "indian_tamil_or_malaiyaga_thamilar",
+            #         "sri_lanka_moor_or_muslim",
+            #         "burgher",
+            #         "malay",
+            #         "sri_lanka_chetty",
+            #         "bharatha",
+            #         "veddhas",
+            #         "other",
+            #     ],
             # ),
             # OriginalDocTable(
             #     "Basic-Population-Information"
             #     + "-by-Districts-and-Divisional-Secretary-Divisions",
             #     "A7. Population by religion and district according to DSD",
             #     (162, 185),
+            #     [
+            #         "buddhist",
+            #         "hindu",
+            #         "islam",
+            #         "roman_catholic",
+            #         "other_christian",
+            #         "other",
+            #     ],
             # ),
         ]
 
@@ -324,5 +356,5 @@ class OriginalDocTable:
             # shutil.rmtree(original_doc_table.dir_table, ignore_errors=True)
             os.makedirs(original_doc_table.dir_table, exist_ok=True)
 
-            original_doc_table.save_subset_pdf()
+            # original_doc_table.save_subset_pdf()
             original_doc_table.extract_data()
