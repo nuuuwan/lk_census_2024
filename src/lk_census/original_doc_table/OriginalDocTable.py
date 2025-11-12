@@ -4,11 +4,12 @@ from dataclasses import dataclass
 
 from utils import Log
 
-from lk_census.OriginalDocTableExtractDataMixin import (
-    OriginalDocTableExtractDataMixin,
-)
-from lk_census.OriginalDocTableLoaderMixin import OriginalDocTableLoaderMixin
-from lk_census.OriginalDocTablePDFMixin import OriginalDocTablePDFMixin
+from lk_census.original_doc_table.OriginalDocTableExtractDataMixin import \
+    OriginalDocTableExtractDataMixin
+from lk_census.original_doc_table.OriginalDocTableLoaderMixin import \
+    OriginalDocTableLoaderMixin
+from lk_census.original_doc_table.OriginalDocTablePDFMixin import \
+    OriginalDocTablePDFMixin
 
 log = Log("OriginalDocTable")
 

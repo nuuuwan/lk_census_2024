@@ -3,9 +3,8 @@ import os
 from gig import Ent, EntType
 from utils import JSONFile, Log, TSVFile
 
-from lk_census.OriginalDocTableExtractDataValidateMixin import (
-    OriginalDocTableExtractDataValidateMixin,
-)
+from lk_census.original_doc_table.OriginalDocTableExtractDataValidateMixin import \
+    OriginalDocTableExtractDataValidateMixin
 
 log = Log("OriginalDocTable")
 
