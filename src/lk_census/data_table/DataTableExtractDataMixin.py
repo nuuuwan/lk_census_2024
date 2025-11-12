@@ -3,8 +3,9 @@ import os
 from gig import Ent, EntType
 from utils import JSONFile, Log, TSVFile
 
-from lk_census.data_table.DataTableExtractDataValidateMixin import \
-    DataTableExtractDataValidateMixin
+from lk_census.data_table.DataTableExtractDataValidateMixin import (
+    DataTableExtractDataValidateMixin,
+)
 
 log = Log("DataTable")
 
@@ -63,9 +64,7 @@ class DataTableExtractDataMixin(DataTableExtractDataValidateMixin):
         d_list = []
         current_parent_id = None
 
-        parsed_region_set = set()
         n_rows = len(raw_table)
-        region_names_without_ents = []
         for i_row in range(n_rows):
             row = raw_table[i_row]
 
@@ -95,7 +94,6 @@ class DataTableExtractDataMixin(DataTableExtractDataValidateMixin):
                     + f" {region_name}/{current_parent_id}."
                 )
                 region_id = f"{current_parent_id}XX"
-                region_names_without_ents.append((region_id, region_name))
             else:
                 region_ent = candidate_ents[0]
                 region_id = region_ent.id
@@ -111,7 +109,6 @@ class DataTableExtractDataMixin(DataTableExtractDataValidateMixin):
                 region_ent_type=ent_type.name,
                 total=int(row[1]),
             )
-            parsed_region_set.add(region_id)
 
             for i_field, field_name in enumerate(self.field_list):
                 value = int(row[2 + i_field])
