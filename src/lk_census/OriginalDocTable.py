@@ -6,7 +6,7 @@ import camelot
 import pandas as pd
 from gig import Ent, EntType
 from pypdf import PdfReader, PdfWriter
-from utils import JSONFile, Log, PDFFile
+from utils import JSONFile, Log, PDFFile, TSVFile
 
 log = Log("OriginalDocTable")
 
@@ -335,6 +335,11 @@ class OriginalDocTable:
         json_file = JSONFile(os.path.join(self.dir_table, "data.json"))
         json_file.write(d_list)
         log.debug(f"Wrote {len(d_list)} data rows to {json_file}")
+
+        tsv_file = TSVFile(os.path.join(self.dir_table, "data.tsv"))
+        tsv_file.write(d_list)
+        log.debug(f"Wrote {len(d_list)} data rows to {tsv_file}")
+
         return d_list
 
     @classmethod
