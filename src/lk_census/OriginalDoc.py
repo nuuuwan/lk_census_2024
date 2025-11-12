@@ -51,6 +51,13 @@ class OriginalDoc:
         return doc_list
 
     @classmethod
+    def from_doc_name(cls, doc_name: str) -> "OriginalDoc":
+        for original_doc in cls.list_all():
+            if original_doc.doc_name == doc_name:
+                return original_doc
+        raise ValueError(f"No OriginalDoc with doc_name='{doc_name}'")
+
+    @classmethod
     def download_all(cls):
         for original_doc in cls.list_all():
             original_doc.download()
