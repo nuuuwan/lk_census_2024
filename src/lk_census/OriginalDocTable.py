@@ -85,15 +85,15 @@ class OriginalDocTable:
 
     def extract_tables(self):
         pages = f"{self.page_start}-{self.page_end}"
-        for flavour in ["lattice", "stream"]:
+        for flavor in ["lattice", "stream"]:
             tables = camelot.read_pdf(
                 self.pdf_path,
                 pages=pages,
-                flavor="lattice",
+                flavor=flavor,
                 strip_text="\n",
             )
             for i_table, table in enumerate(tables, start=1):
-                table_id = f"{flavour}-{i_table}"
+                table_id = f"{flavor}-{i_table}"
                 os.makedirs(self.dir_table, exist_ok=True)
 
                 plot_path = os.path.join(
