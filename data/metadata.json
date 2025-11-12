@@ -1,7 +1,7 @@
 [
   {
     "doc_name": "Basic-Population",
-    "table_title": "A5. Population by sex, age and district according to DSD",
+    "table_title": "Population by sex, age and district according to DSD",
     "pages": [112, 136],
     "field_list": [
       "sex-male",
@@ -14,7 +14,7 @@
   },
   {
     "doc_name": "Basic-Population",
-    "table_title": "A6. Population by ethnicity and district according to DSD",
+    "table_title": "Population by ethnicity and district according to DSD",
     "pages": [137, 161],
     "field_list": [
       "sinhalese",
@@ -31,7 +31,7 @@
   },
   {
     "doc_name": "Basic-Population",
-    "table_title": "A7. Population by religion and district according to DSD",
+    "table_title": "Population by religion and district according to DSD",
     "pages": [162, 185],
     "field_list": [
       "buddhist",
@@ -44,7 +44,7 @@
   },
   {
     "doc_name": "Basic-Housing",
-    "table_title": "A8. Number of housing units by housing unit structure at district level and DSDs",
+    "table_title": "Number of housing units by housing unit structure at district level and DSDs",
     "pages": [109, 127],
     "field_list": [
       "single_house_single_storeyed",
@@ -61,7 +61,7 @@
   },
   {
     "doc_name": "Basic-Housing",
-    "table_title": "A9. Number of housing units by main material used for walls construction at district level and DSDs",
+    "table_title": "Number of housing units by main material used for walls construction at district level and DSDs",
     "pages": [128, 143],
     "field_list": [
       "brick",
@@ -79,7 +79,7 @@
   },
   {
     "doc_name": "Basic-Housing",
-    "table_title": "A10. Number of housing units by main material used for roof construction at district level and DSDs",
+    "table_title": "Number of housing units by main material used for roof construction at district level and DSDs",
     "pages": [144, 161],
     "field_list": [
       "tile",
@@ -94,7 +94,7 @@
   },
   {
     "doc_name": "Basic-Housing",
-    "table_title": "A11. Number of households by main material used for floor construction at district level and DSDs",
+    "table_title": "Number of households by main material used for floor construction at district level and DSDs",
     "pages": [162, 181],
     "field_list": [
       "cement",
@@ -109,7 +109,7 @@
   },
   {
     "doc_name": "Basic-Housing",
-    "table_title": "A12. Number of households by main source of drinking water at district level and DSDs",
+    "table_title": "Number of households by main source of drinking water at district level and DSDs",
     "pages": [182, 200],
     "field_list": [
       "ground_water-_protected_well",
@@ -131,7 +131,7 @@
   },
   {
     "doc_name": "Basic-Housing",
-    "table_title": "A13. Number of households by source of lighting at district level and DSDs",
+    "table_title": "Number of households by source of lighting at district level and DSDs",
     "pages": [201, 222],
     "field_list": [
       "electricity-from_national_grid",
@@ -146,7 +146,7 @@
   },
   {
     "doc_name": "Basic-Housing",
-    "table_title": "A14. Number of households using toilet facilities at district level and DSDs",
+    "table_title": "Number of households using toilet facilities at district level and DSDs",
     "pages": [223, 247],
     "field_list": [
       "within_the_unit-exclusively_for_the_household",
