@@ -122,6 +122,12 @@ class OriginalDocTable:
                 + " by reason for migrating according to districts",
                 (110, 111),
             ),
+            OriginalDocTable(
+                "Basic-Population-Information"
+                + "-by-Districts-and-Divisional-Secretary-Divisions",
+                "A5. Population by sex, age and district according to DSD",
+                (112, 121),
+            ),
         ]
 
     @classmethod
