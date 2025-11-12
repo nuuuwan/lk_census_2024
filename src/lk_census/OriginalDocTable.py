@@ -189,7 +189,7 @@ class OriginalDocTable:
             for d in total_mismatch_d_list:
                 log.error(
                     f" - {d['region_id']} {d['region_name']}:"
-                    + f" total={d['total']} vs sum_of_fields={d['total_from_fields']}"
+                    + f" {d['total']} != {d['total_from_fields']}"
                 )
 
         d_list_population_mismatch = []
@@ -385,28 +385,26 @@ class OriginalDocTable:
             #         "other",
             #     ],
             # ),
-            # OriginalDocTable(
-            #     "Basic-Population-Information"
-            #     + "-by-Districts-and-Divisional-Secretary-Divisions",
-            #     "A7. Population by religion and district according to DSD",
-            #     (162, 185),
-            #     [
-            #         "buddhist",
-            #         "hindu",
-            #         "islam",
-            #         "roman_catholic",
-            #         "other_christian",
-            #         "other",
-            #     ],
-            # ),
+            OriginalDocTable(
+                "Basic-Population-Information"
+                + "-by-Districts-and-Divisional-Secretary-Divisions",
+                "A7. Population by religion and district according to DSD",
+                (162, 185),
+                [
+                    "buddhist",
+                    "hindu",
+                    "islam",
+                    "roman_catholic",
+                    "other_christian",
+                    "other",
+                ],
+            ),
         ]
 
     @classmethod
     def extract_all(cls):
 
         for original_doc_table in cls.list_all():
-            # shutil.rmtree(original_doc_table.dir_table, ignore_errors=True)
             os.makedirs(original_doc_table.dir_table, exist_ok=True)
-
-            # original_doc_table.save_subset_pdf()
+            original_doc_table.save_subset_pdf()
             original_doc_table.extract_data()
