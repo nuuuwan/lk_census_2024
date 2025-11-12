@@ -22,14 +22,13 @@ class DataTableExtractDataMixin(DataTableExtractDataValidateMixin):
     def __shift_shifted_region_names__(self, raw_table):
         for i_row in range(len(raw_table) - 1):
             row = raw_table[i_row]
-            if len(row) != 2 + self.n_fields:
+            if len(row) != 2 + self.n_fields or raw_table[i_row][0] != "":
                 continue
-            if raw_table[i_row][0] == "":
-                if raw_table[i_row + 1][0] != "":
-                    log.debug(f"<- {raw_table[i_row + 1][0]}")
-                    raw_table[i_row][0] = raw_table[i_row + 1][0]
-                    if len(raw_table[i_row + 1]) == 2 + self.n_fields:
-                        raw_table[i_row + 1][0] = ""
+            if raw_table[i_row + 1][0] != "":
+                log.debug(f"<- {raw_table[i_row + 1][0]}")
+                raw_table[i_row][0] = raw_table[i_row + 1][0]
+                if len(raw_table[i_row + 1]) == 2 + self.n_fields:
+                    raw_table[i_row + 1][0] = ""
         return raw_table
 
     def __split_row_if_merged__(self, row):
