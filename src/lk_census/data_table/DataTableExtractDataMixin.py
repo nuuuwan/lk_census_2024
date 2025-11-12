@@ -19,10 +19,7 @@ class DataTableExtractDataMixin(DataTableExtractDataValidateMixin):
             return EntType.DISTRICT
         return EntType.DSD
 
-    def clean_raw_table(self, raw_table):
-        n_rows = len(raw_table)
-
-        # check 0: shift shifted region names (in-place)
+    def __shift_shifted_region_names__(self, raw_table):
         for i_row in range(len(raw_table) - 1):
             row = raw_table[i_row]
             if len(row) != 2 + self.n_fields:
@@ -33,23 +30,32 @@ class DataTableExtractDataMixin(DataTableExtractDataValidateMixin):
                     raw_table[i_row][0] = raw_table[i_row + 1][0]
                     if len(raw_table[i_row + 1]) == 2 + self.n_fields:
                         raw_table[i_row + 1][0] = ""
+        return raw_table
 
+    def __split_row_if_merged__(self, row):
+        if len(row) != 1 + self.n_fields:
+            return row
+        first_cell = row[0]
+        tokens = str(first_cell).split(" ")
+        if len(tokens) < 2:
+            return row
+
+        value = self.parse_int(tokens[0])
+        if not isinstance(value, int):
+            return row
+
+        region_name = " ".join(tokens[1:])
+        row = [region_name, value] + row[1:].copy()
+        return row
+
+    def clean_raw_table(self, raw_table):
+        raw_table = self.__shift_shifted_region_names__(raw_table)
+
+        n_rows = len(raw_table)
         cleaned_raw_table = []
         for i_row in range(n_rows):
             row = raw_table[i_row]
-            # check 1: split first cell if merged
-            if len(row) == 1 + self.n_fields:
-                first_cell = row[0]
-                tokens = str(first_cell).split(" ")
-                if len(tokens) < 2:
-                    continue
-                value = self.parse_int(tokens[0])
-                if not isinstance(value, int):
-                    continue
-                region_name = " ".join(tokens[1:])
-                row = [region_name, value] + row[1:].copy()
-
-            # check 2: correct number of columns
+            row = self.__split_row_if_merged__(row)
             if len(row) != 2 + self.n_fields:
                 continue
             cleaned_raw_table.append(row)
