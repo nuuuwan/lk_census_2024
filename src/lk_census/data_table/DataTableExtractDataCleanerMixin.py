@@ -42,7 +42,7 @@ class DataTableExtractDataCleanerMixin:
         cleaned_raw_table = []
         for i_row in range(n_rows):
             row = raw_table[i_row]
-            if len(row) != 1 + self.n_fields:
+            if len(row) == 1 + self.n_fields:
                 row = self.__split_row_if_merged__(row)
             if len(row) != 2 + self.n_fields:
                 continue
