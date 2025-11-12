@@ -361,38 +361,38 @@ class OriginalDocTable:
                     "age-65-and-over",
                 ],
             ),
-            # OriginalDocTable(
-            #     "Basic-Population-Information"
-            #     + "-by-Districts-and-Divisional-Secretary-Divisions",
-            #     "A6. Population by ethnicity and district according to DSD",
-            #     (137, 161),
-            #     [
-            #         "sinhalese",
-            #         "sri_lanka_tamil",
-            #         "indian_tamil_or_malaiyaga_thamilar",
-            #         "sri_lanka_moor_or_muslim",
-            #         "burgher",
-            #         "malay",
-            #         "sri_lanka_chetty",
-            #         "bharatha",
-            #         "veddhas",
-            #         "other",
-            #     ],
-            # ),
-            # OriginalDocTable(
-            #     "Basic-Population-Information"
-            #     + "-by-Districts-and-Divisional-Secretary-Divisions",
-            #     "A7. Population by religion and district according to DSD",
-            #     (162, 185),
-            #     [
-            #         "buddhist",
-            #         "hindu",
-            #         "islam",
-            #         "roman_catholic",
-            #         "other_christian",
-            #         "other",
-            #     ],
-            # ),
+            OriginalDocTable(
+                "Basic-Population-Information"
+                + "-by-Districts-and-Divisional-Secretary-Divisions",
+                "A6. Population by ethnicity and district according to DSD",
+                (137, 161),
+                [
+                    "sinhalese",
+                    "sri_lanka_tamil",
+                    "indian_tamil_or_malaiyaga_thamilar",
+                    "sri_lanka_moor_or_muslim",
+                    "burgher",
+                    "malay",
+                    "sri_lanka_chetty",
+                    "bharatha",
+                    "veddhas",
+                    "other",
+                ],
+            ),
+            OriginalDocTable(
+                "Basic-Population-Information"
+                + "-by-Districts-and-Divisional-Secretary-Divisions",
+                "A7. Population by religion and district according to DSD",
+                (162, 185),
+                [
+                    "buddhist",
+                    "hindu",
+                    "islam",
+                    "roman_catholic",
+                    "other_christian",
+                    "other",
+                ],
+            ),
         ]
 
     @classmethod
