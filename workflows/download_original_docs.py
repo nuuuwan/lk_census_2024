@@ -1,10 +1,5 @@
 from lk_census import OriginalDoc
 
-
-def main():
+if __name__ == "__main__":
     OriginalDoc.download_all()
     OriginalDoc.build_readme()
-
-
-if __name__ == "__main__":
-    main()
