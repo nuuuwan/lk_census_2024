@@ -14,6 +14,10 @@ class DataTableExtractDataCleanerMixin:
                 raw_table[i_row][0] = raw_table[i_row + 1][0]
                 if len(raw_table[i_row + 1]) == 2 + self.n_fields:
                     raw_table[i_row + 1][0] = ""
+
+        assert (
+            len(raw_table) > 0
+        ), "No raw table rows, after shifting region names"
         return raw_table
 
     def __split_row_if_merged__(self, row):
@@ -31,6 +35,7 @@ class DataTableExtractDataCleanerMixin:
         return row
 
     def clean_raw_table(self, raw_table):
+        log.debug(f"self.n_fields={self.n_fields}")
         raw_table = self.__shift_shifted_region_names__(raw_table)
 
         n_rows = len(raw_table)
@@ -43,4 +48,5 @@ class DataTableExtractDataCleanerMixin:
                 continue
             cleaned_raw_table.append(row)
 
+        assert len(cleaned_raw_table) > 0, "No cleaned raw table rows"
         return cleaned_raw_table
