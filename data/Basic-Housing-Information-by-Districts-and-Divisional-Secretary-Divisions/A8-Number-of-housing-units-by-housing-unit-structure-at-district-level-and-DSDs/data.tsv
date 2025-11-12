@@ -1,0 +1,367 @@
+region_id	region_name	region_name_in_data	region_ent_type	total	single_house_single_storeyed	single_house_two_storeyed	single_house_more_than_two_storeyed	attached_house_1st_floor	attached_house_2nd_floor	attached_house_3rd_or_4th_floor	attached_house_5th_to_10th_floor	attached_house_11th_to_19th_floor	attached_house_from_20th_floor_or_more	other
+LK	Sri Lanka	Sri Lanka	country	6030541	4958008	751375	59484	164419	50030	25373	12854	6031	1756	1211
+LK-11	Colombo	Colombo District	district	654051	355982	185828	24207	27406	24275	16529	11907	5994	1756	167
+LK-1103	Colombo	Colombo	dsd	71142	25169	16686	4070	7029	5779	4710	3951	3082	639	27
+LK-1106	Kolonnawa	Kolonnawa	dsd	56100	28973	18317	2107	2548	2190	804	483	612	2	64
+LK-1109	Kaduwela	Kaduwela	dsd	79742	47189	25773	2334	1963	1474	461	217	125	203	3
+LK-1112	Homagama	Homagama	dsd	79737	55581	19739	1089	1327	1342	611	14	2	3	29
+LK-1115	Seethawaka	Seethawaka	dsd	34414	27639	5257	288	919	268	34	3	0	2	4
+LK-1118	Padukka	Padukka	dsd	20691	17571	2645	114	290	56	10	0	1	2	2
+LK-1121	Maharagama	Maharagama	dsd	56550	27298	21445	2617	2283	2131	573	185	4	5	9
+LK-1124	Sri Jayawardanapura Kotte	Sri Jayawardanapura Kotte	dsd	27833	11585	11878	2078	568	685	357	346	148	185	3
+LK-1127	Thimbirigasyaya	Thimbirigasyaya	dsd	58102	22014	13561	3236	3145	3371	4898	5236	1931	700	10
+LK-1130	Dehiwala	Dehiwala	dsd	25382	9014	8660	1968	1665	1711	1372	930	57	1	4
+LK-1131	Ratmalana	Ratmalana	dsd	25005	12272	8066	1427	1160	1295	662	119	4	0	0
+LK-1133	Moratuwa	Moratuwa	dsd	43985	26783	11491	1016	1481	1251	1577	351	26	4	5
+LK-1136	Kesbewa	Kesbewa	dsd	75368	44894	22310	1863	3028	2722	460	72	2	10	7
+LK-12	Gampaha	Gampaha District	district	683025	534645	123034	6482	10860	5848	1802	296	0	0	58
+LK-1203	Negombo	Negombo	dsd	35897	28345	6369	285	353	223	322	0	0	0	0
+LK-1206	Katana	Katana	dsd	74870	57804	10850	435	4100	1421	249	8	0	0	3
+LK-1209	Divulapitiya	Divulapitiya	dsd	44830	41263	3266	53	167	60	13	0	0	0	8
+LK-1212	Mirigama	Mirigama	dsd	49540	43440	5786	160	90	53	7	1	0	0	3
+LK-1215	Minuwangoda	Minuwangoda	dsd	56287	47809	7688	150	421	155	56	4	0	0	4
+LK-1218	Wattala	Wattala	dsd	48787	34583	11523	977	705	566	325	96	0	0	12
+LK-1221	Ja-Ela	- - Ja-Ela	dsd	57159	43283	12275	564	510	372	130	22	0	0	3
+LK-1224	Gampaha	Gampaha	dsd	57568	42694	12933	580	797	336	123	102	0	0	3
+LK-1227	Attanagalla	Attanagalla	dsd	54037	44352	8797	275	265	287	58	1	0	0	2
+LK-1230	Dompe	Dompe	dsd	47297	41593	5263	152	162	98	25	2	0	0	2
+LK-1233	Mahara	Mahara	dsd	61376	45637	13798	775	515	519	119	9	0	0	4
+LK-1236	Kelaniya	Kelaniya	dsd	36692	22918	10515	1157	1148	739	162	43	0	0	10
+LK-1239	Biyagama	Biyagama	dsd	58685	40924	13971	927	1627	1019	213	8	0	0	4
+LK-13	Kalutara	Kalutara District	district	349430	286667	51470	2033	6361	2341	444	69	0	0	45
+LK-1303	Panadura	Panadura	dsd	49198	35332	11711	514	761	699	166	6	0	0	9
+LK-1306	Bandaragama	Bandaragama	dsd	33138	26423	5959	209	244	283	15	1	0	0	4
+LK-1309	Horana	Horana	dsd	37489	30816	5841	273	338	152	46	19	0	0	4
+LK-1310	Ingiriya	Ingiriya	dsd	16382	14342	1605	78	298	47	10	1	0	0	1
+LK-1312	Bulathsinhala	Bulathsinhala	dsd	18669	16369	1325	27	907	32	6	0	0	0	3
+LK-1315	Madurawala	Madurawala	dsd	10362	8594	1383	30	325	19	10	0	0	0	1
+LK-1318	Millaniya	Millaniya	dsd	15648	14325	1224	32	51	14	0	0	0	0	2
+LK-1321	Kalutara	Kalutara	dsd	43722	34561	7722	372	403	502	128	28	0	0	6
+LK-1324	Beruwala	Beruwala	dsd	41819	34520	5901	275	651	423	42	2	0	0	5
+LK-1327	Dodangoda	Dodangoda	dsd	18525	14883	2434	58	1090	40	7	7	0	0	6
+LK-1330	Mathugama	Mathugama	dsd	23326	19413	3019	97	734	54	6	1	0	0	2
+LK-1333	Agalawatta	Agalawatta	dsd	10425	9095	1156	25	123	23	2	0	0	0	1
+LK-1336	Palindanuwara	Palindanuwara	dsd	14918	13392	1100	22	365	30	4	4	0	0	1
+LK-1339	Walallavita	Walallavita	dsd	15809	14602	1090	21	71	23	2	0	0	0	0
+LK-21	Kandy	Kandy District	district	389826	291819	68443	8761	14534	4520	1237	458	23	0	31
+LK-2103	Thumpane	Thumpane	dsd	10774	8963	1548	119	84	47	11	0	0	0	2
+LK-2106	Pujapitiya	Pujapitiya	dsd	15610	12154	2909	290	187	45	16	9	0	0	0
+LK-2109	Akurana	Akurana	dsd	15564	9709	3766	766	612	576	125	9	0	0	1
+LK-2112	Pathadumbara	Pathadumbara	dsd	25283	18733	4648	549	589	604	157	2	0	0	1
+LK-2115	Panvila	Panvila	dsd	7203	4758	390	39	1981	29	6	0	0	0	0
+LK-2118	Udadumbara	Udadumbara	dsd	6720	6196	283	31	187	18	5	0	0	0	0
+LK-2121	Minipe	Minipe	dsd	15952	15296	590	16	37	12	1	0	0	0	0
+LK-2124	Medadumbara	Medadumbara	dsd	17917	14267	1948	184	1416	74	22	6	0	0	0
+LK-2127	Kundasale	Kundasale	dsd	39297	29511	8118	708	533	332	44	46	0	0	5
+LK-2130	Kandy Four Gravets & Gangawata Korale	Kandy Four Gravets Gangawata Korale	dsd	39803	21567	11506	2677	1968	1492	465	102	23	0	3
+LK-2133	Harispattuwa	Harispattuwa	dsd	25869	18966	5386	610	506	322	71	0	0	0	8
+LK-2134	Hatharaliyadda	Hatharaliyadda	dsd	8636	7631	917	38	49	1	0	0	0	0	0
+LK-2136	Yatinuwara	Yatinuwara	dsd	30659	22086	7320	911	179	125	27	9	0	0	2
+LK-2139	Udunuwara	Udunuwara	dsd	31284	23391	6628	654	324	226	38	22	0	0	1
+LK-2142	Doluwa	Doluwa	dsd	14236	12000	1452	131	600	27	26	0	0	0	0
+LK-2145	Pathahewaheta	Pathahewaheta	dsd	16618	14161	2078	165	159	34	19	0	0	0	2
+LK-2148	Deltota	Delthota	dsd	8725	6798	719	101	1050	49	7	0	0	0	1
+LK-2151	Udapalatha	Udapalatha	dsd	26879	19929	4801	519	1080	235	90	220	0	0	5
+LK-2154	Ganga Ihala Korale	Ganga Ihala Korale	dsd	15525	13077	1585	55	798	7	3	0	0	0	0
+LK-2157	Pasbage Korale	Pasbage Korale	dsd	17272	12626	1851	198	2195	265	104	33	0	0	0
+LK-22	Matale	Matale District	district	148184	128107	13811	594	4629	909	116	6	0	0	12
+LK-2203	Galewela	Galewela	dsd	22154	20595	1477	24	44	10	2	1	0	0	1
+LK-2206	Dambulla	Dambulla	dsd	22894	21083	1678	38	75	17	2	0	0	0	1
+LK-2209	Naula	Naula	dsd	8834	8112	688	10	12	10	1	1	0	0	0
+LK-2212	Pallepola	Pallepola	dsd	9069	8169	717	12	143	21	7	0	0	0	0
+LK-2215	Yatawatta	Yatawatta	dsd	8886	7900	649	24	302	11	0	0	0	0	0
+LK-2218	Matale	Matale	dsd	21828	16032	4104	278	762	558	87	4	0	0	3
+LK-2221	Ambanganga Korale	Ambanganga Korale	dsd	4682	4125	258	9	290	0	0	0	0	0	0
+LK-2224	Laggala-Pallegama	- - Laggala-Pallegama	dsd	4876	4656	178	3	34	3	1	0	0	0	1
+LK-2227	Wilgamuwa	Wilgamuwa	dsd	9813	9576	226	2	7	2	0	0	0	0	0
+LK-2230	Rattota	Rattota	dsd	15594	12616	1241	59	1604	66	4	0	0	0	4
+LK-2233	Ukuwela	Ukuwela	dsd	19554	15243	2595	135	1356	211	12	0	0	0	2
+LK-23	Nuwara Eliya	Nuwara Eliya District	district	192915	119904	12981	2399	51345	3720	2513	6	0	0	47
+LK-2303	Kothmale	Kothmale West	dsd	11360	9306	834	69	1118	31	0	0	0	0	2
+LK-2303	Kothmale	Kothmale East	dsd	16612	10628	953	190	4555	162	120	0	0	0	4
+LK-2306	Hanguranketha	Hanguranketha	dsd	16557	13829	1512	187	996	26	5	0	0	0	2
+LK-2309	Walapane	Walapane	dsd	17697	12991	1170	189	3096	162	87	0	0	0	2
+LK-2312	Nuwara Eliya	Nuwara Eliya	dsd	22302	14492	1985	320	4951	281	261	6	0	0	6
+LK-2315	Ambagamuwa	Ambagamuwa	dsd	12515	9693	1157	130	1338	190	7	0	0	0	0
+LK-23XX	Mathurata	Mathurata	dsd	9375	7901	795	84	540	39	16	0	0	0	0
+LK-23XX	Nildandahinna	Nildandahinna	dsd	12232	10509	581	47	1071	21	1	0	0	0	2
+LK-23XX	Thalawakele	Thalawakele	dsd	32304	14389	1562	317	14400	1015	607	0	0	0	14
+LK-23XX	Norwood	Norwood	dsd	41961	16166	2432	866	19280	1793	1409	0	0	0	15
+LK-31	Galle	Galle District	district	305379	254574	43339	2545	2916	1545	366	60	14	0	20
+LK-3103	Bentota	Benthota	dsd	13661	12232	1369	37	8	12	3	0	0	0	0
+LK-3106	Balapitiya	Balapitiya	dsd	18692	16120	2431	78	37	22	3	1	0	0	0
+LK-3109	Karandeniya	Karandeniya	dsd	19823	17268	2447	74	20	9	1	1	0	0	3
+LK-3112	Elpitiya	Elpitiya	dsd	19310	16617	2335	108	233	16	1	0	0	0	0
+LK-3115	Niyagama	Niyagama	dsd	10330	9485	788	25	26	5	0	0	0	0	1
+LK-3118	Thawalama	Thawalama	dsd	9468	8623	655	39	117	29	5	0	0	0	0
+LK-3121	Neluwa	Neluwa	dsd	8429	7636	701	56	28	5	3	0	0	0	0
+LK-3124	Nagoda	Nagoda	dsd	15445	13430	1543	97	363	10	2	0	0	0	0
+LK-3127	Baddegama	Baddegama	dsd	14223	12366	1770	46	21	16	3	0	0	0	1
+LK-3130	Welivitiya-Divithura	-- Welivitiya-Divithura	dsd	8597	7530	883	22	157	5	0	0	0	0	0
+LK-3133	Ambalangoda	Ambalangoda	dsd	16798	12869	3588	221	54	55	11	0	0	0	0
+LK-3134	Gonapeenuwala	Gonapeenuwala	dsd	6749	5692	965	45	21	24	2	0	0	0	0
+LK-3136	Hikkaduwa	Hikkaduwa	dsd	7386	5786	1411	87	64	33	5	0	0	0	0
+LK-3139	Galle Four Gravets	Galle Four Gravets	dsd	26173	16620	6628	618	1147	908	192	54	0	0	6
+LK-3142	Bope-Poddala	--Bope-Poddala	dsd	15444	10440	4164	373	226	189	49	1	0	0	2
+LK-3145	Akmeemana	Akmeemana	dsd	23381	18861	4048	278	95	67	14	2	14	0	2
+LK-3148	Yakkalamulla	Yakkalamulla	dsd	13328	11987	1172	61	99	6	2	0	0	0	1
+LK-3151	Imaduwa	Imaduwa	dsd	13341	11874	1368	51	31	14	1	0	0	0	2
+LK-3154	Habaraduwa	Habaraduwa	dsd	16999	14668	2132	125	32	24	16	0	0	0	2
+LK-31XX	Wanduramba	Wanduramba	dsd	7908	7029	726	30	108	12	2	1	0	0	0
+LK-31XX	Madampagama	Madampagama	dsd	9143	8058	919	17	18	80	51	0	0	0	0
+LK-31XX	Rathgama	Rathgama	dsd	10751	9383	1296	57	11	4	0	0	0	0	0
+LK-32	Matara	Matara District	district	230034	190760	31234	2172	3904	1597	352	0	0	0	15
+LK-3203	Pitabeddara	Pitabeddara	dsd	14606	12683	1248	94	483	87	11	0	0	0	0
+LK-3206	Kotapola	Kotapola	dsd	17734	14464	1772	146	1296	42	14	0	0	0	0
+LK-3209	Pasgoda	Pasgoda	dsd	18139	15975	1603	131	345	73	10	0	0	0	2
+LK-3212	Mulatiyana	Mulatiyana	dsd	14550	12768	1563	134	35	40	10	0	0	0	0
+LK-3215	Athuraliya	Athuraliya	dsd	9020	7913	883	35	140	42	7	0	0	0	0
+LK-3218	Akuressa	Akuressa	dsd	15065	13411	1391	95	112	45	10	0	0	0	1
+LK-3221	Welipitiya	Welipitiya	dsd	14800	13266	1391	51	62	28	2	0	0	0	0
+LK-3224	Malimbada	Malimbada	dsd	10206	8645	1414	74	26	33	13	0	0	0	1
+LK-3227	Kamburupitiya	Kamburupitiya	dsd	11827	10109	1514	86	50	50	16	0	0	0	2
+LK-3230	Hakmana	Hakmana	dsd	9127	7942	1098	46	23	16	2	0	0	0	0
+LK-3233	Kirinda Puhulwella	Kirinda Puhulwella	dsd	5778	5136	602	33	5	2	0	0	0	0	0
+LK-3236	Thihagoda	Thihagoda	dsd	9668	7978	1474	41	80	75	17	0	0	0	3
+LK-3239	Weligama	Weligam	dsd	19263	15587	2937	154	351	217	15	0	0	0	2
+LK-3242	Matara Four Gravets	Matara Four Gravets	dsd	32080	20326	9203	879	732	721	217	0	0	0	2
+LK-3245	Devinuwara	Devinuwara	dsd	13098	11456	1342	71	144	81	3	0	0	0	1
+LK-3248	Dickwella	Dickwella	dsd	15073	13101	1799	102	20	45	5	0	0	0	1
+LK-33	Hambantota	Hambantota District	district	187558	170180	16473	600	139	129	30	0	0	0	7
+LK-3303	Sooriyawewa	Sooriyawewa	dsd	14365	13339	961	39	11	10	3	0	0	0	2
+LK-3306	Lunugamvehera	Lunugamwehera	dsd	10381	9893	466	7	7	7	1	0	0	0	0
+LK-3309	Thissamaharama	Thissamaharama	dsd	20935	19168	1660	70	20	15	2	0	0	0	0
+LK-3312	Hambantota	Hambantota	dsd	18259	16945	1251	44	11	6	2	0	0	0	0
+LK-3315	Ambalantota	Ambalantota	dsd	22250	20345	1790	61	23	26	5	0	0	0	0
+LK-3318	Angunakolapelessa	Angunakolapelessa	dsd	15372	14305	1008	43	12	3	0	0	0	0	1
+LK-3321	Weeraketiya	Weeraketiya	dsd	13610	12248	1314	37	5	4	2	0	0	0	0
+LK-3324	Katuwana	Katuwana	dsd	15091	13970	1038	56	9	13	4	0	0	0	1
+LK-3325	Walasmulla	Walasmulla	dsd	13427	11951	1396	46	13	16	4	0	0	0	1
+LK-3327	Okewela	Okewela	dsd	5664	4998	641	17	6	2	0	0	0	0	0
+LK-3330	Beliatta	Beliatta	dsd	16473	14040	2339	80	6	8	0	0	0	0	0
+LK-3333	Tangalle	Tangalle	dsd	21731	18978	2609	100	16	19	7	0	0	0	2
+LK-41	Jaffna	Jaffna District	district	156797	147174	8637	406	215	175	76	5	0	0	109
+LK-4103	Island North (Kayts)	Island North Kayts	dsd	2633	2602	30	1	0	0	0	0	0	0	0
+LK-4104	Karainagar	Karainagar	dsd	2630	2608	21	0	0	0	0	0	0	0	1
+LK-4106	Valikamam West (Chankanai)	Valikamam West Chankanai	dsd	11568	11282	264	6	3	3	1	0	0	0	9
+LK-4109	Valikamam South-West (Sandilipay)	Valikamam South-West Sandilipay	dsd	13821	13091	678	18	12	7	4	1	0	0	10
+LK-4112	Valikamam North (Tellipallai)	Valikamam North	dsd	11932	11540	367	9	1	1	1	0	0	0	13
+LK-4115	Valikamam South (Uduvil)	Valikamam South Uduvil	dsd	13108	12412	665	14	10	4	0	0	0	0	3
+LK-4118	Valikamam East (Kopay)	Valikamam East Kopay	dsd	19402	18579	753	19	8	5	1	0	0	0	37
+LK-4121	Vadamaradchi South-West (Karaveddy)	Vadamaradchy South-West Karaveddy	dsd	11195	10553	500	127	3	6	2	1	0	0	3
+LK-4124	Vadamaradchi East	Vadamaradchy East	dsd	3950	3880	57	0	0	0	1	0	0	0	12
+LK-4127	Vadamaradchi North (Point Pedro)	Vadamaradchy North Point Perdro	dsd	12253	11731	491	5	18	3	1	0	0	0	4
+LK-4130	Thenmaradchi (Chavakachcheri)	Thenmaradchy Chavakachcheri	dsd	18897	18308	556	19	7	3	1	0	0	0	3
+LK-4133	Nallur	Nallur	dsd	18614	15788	2673	101	19	21	3	1	0	0	8
+LK-4136	Jaffna	Jaffna	dsd	11522	9588	1525	85	133	122	61	2	0	0	6
+LK-4139	Island South (Velanai)	Island South Velanai	dsd	4379	4328	49	1	1	0	0	0	0	0	0
+LK-4142	Delft	Delft	dsd	893	884	8	1	0	0	0	0	0	0	0
+LK-42	Mannar	Mannar District	district	32005	30553	1309	51	21	28	24	0	0	0	19
+LK-4203	Mannar Town	Mannar Town	dsd	14549	13552	874	46	17	28	24	0	0	0	8
+LK-4206	Manthai West	Manthai West	dsd	5071	4987	83	1	0	0	0	0	0	0	0
+LK-4209	Madhu	Madhu	dsd	2702	2671	31	0	0	0	0	0	0	0	0
+LK-4212	Nanattan	Nanattan	dsd	5337	5094	225	3	4	0	0	0	0	0	11
+LK-4215	Musali	Musali	dsd	4346	4249	96	1	0	0	0	0	0	0	0
+LK-43	Vavuniya	Vavuniya District	district	47825	45145	2219	113	218	117	9	0	0	0	4
+LK-4303	Vavuniya North	Vavuniya North	dsd	4284	4240	42	0	2	0	0	0	0	0	0
+LK-4306	Vavuniya South	Vavuniya South	dsd	4488	4380	95	3	8	1	0	0	0	0	1
+LK-4309	Vavuniya	Vavuniya	dsd	32007	29560	2004	108	207	116	9	0	0	0	3
+LK-4312	Vengalacheddikulam	Vengalacheddikulam	dsd	7046	6965	78	2	1	0	0	0	0	0	0
+LK-44	Mullaitivu	Mullaitivu District	district	34348	33729	559	11	5	4	0	0	0	0	40
+LK-4403	Thunukkai	Thunukkai	dsd	2829	2788	40	0	0	0	0	0	0	0	1
+LK-4406	Manthai East	Manthai East	dsd	2178	2154	23	0	1	0	0	0	0	0	0
+LK-4409	Puthukkudiyiruppu	Puthukudiyiruppu	dsd	10667	10452	175	5	2	0	0	0	0	0	33
+LK-4412	Oddusuddan	Oddusudan	dsd	5078	5018	54	3	1	0	0	0	0	0	2
+LK-4415	Maritimepattu	Maritimepattu	dsd	10393	10151	231	3	1	3	0	0	0	0	4
+LK-4418	Welioya	Welioya	dsd	3203	3166	36	0	0	1	0	0	0	0	0
+LK-45	Kilinochchi	Kilinochchi District	district	36484	35770	672	23	7	1	0	0	0	0	11
+LK-4503	Pachchilaipalli	Pachchilaipalli	dsd	3835	3786	47	0	0	0	0	0	0	0	2
+LK-4506	Kandavalai	Kandavalai	dsd	6858	6785	70	2	1	0	0	0	0	0	0
+LK-4509	Karachchi	Karachchi	dsd	19488	18972	482	21	5	1	0	0	0	0	7
+LK-4512	Poonakary	Poonakary	dsd	6303	6227	73	0	1	0	0	0	0	0	2
+LK-51	Batticaloa	Batticaloa District	district	167150	154487	11503	614	203	115	5	0	0	0	223
+LK-5103	Koralai Pattu North (Vaharai)	Koralai Pattu North Vaharai	dsd	7758	7280	184	200	2	0	0	0	0	0	92
+LK-5104	Koralai Pattu Central	Koralai Pattu Central	dsd	8481	7976	470	10	6	8	0	0	0	0	11
+LK-5106	Koralai Pattu  West (Oddamavadi)	Koralai Pattu West Oddamavadi	dsd	7200	6658	516	11	5	8	1	0	0	0	1
+LK-5109	Koralai Pattu (Valachchenai)	Koralai Pattu Valachchenai	dsd	8313	8035	260	2	1	2	0	0	0	0	13
+LK-5110	Koralai Pattu South (Kiran)	Koralai Pattu South Kiran	dsd	8528	8372	152	4	0	0	0	0	0	0	0
+LK-5112	Eravur Pattu	Eravur Pattu	dsd	25613	24934	647	18	6	5	0	0	0	0	3
+LK-5115	Eravur Town	Eravur Town	dsd	7172	6338	788	27	10	2	1	0	0	0	6
+LK-5118	Manmunai North	Manmunai North	dsd	25590	21026	4228	111	123	67	1	0	0	0	34
+LK-5121	Manmunai West	Manmunai West	dsd	9647	9541	102	2	2	0	0	0	0	0	0
+LK-5124	Kattankudy	Kattankudy	dsd	12899	10859	1791	193	27	14	1	0	0	0	14
+LK-5127	Manmunai Pattu (Araipattai)	Manmunai Pattu Araipattai	dsd	10254	9715	499	13	12	5	1	0	0	0	9
+LK-5130	Manmunai South-West	Manmunai South-West	dsd	7745	7507	214	3	3	0	0	0	0	0	18
+LK-5133	Porativu Pattu	Poratheevu Pattu	dsd	11378	10976	389	3	1	1	0	0	0	0	8
+LK-5136	Manmunai South & Eruvil pattu	Manmunai South Eruvil Pattu	dsd	16572	15270	1263	17	5	3	0	0	0	0	14
+LK-52	Ampara	Ampara District	district	202861	184418	15935	486	933	582	424	0	0	0	83
+LK-5203	Dehiattakandiya	Dehiattakandiya	dsd	18437	17720	681	19	11	4	0	0	0	0	2
+LK-5206	Padiyathalawa	Padiyathalawa	dsd	6260	6145	106	4	2	2	0	0	0	0	1
+LK-5209	Mahaoya	Mahaoya	dsd	6968	6854	108	1	2	3	0	0	0	0	0
+LK-5212	Uhana	Uhana	dsd	17326	16678	612	28	5	1	1	0	0	0	1
+LK-5215	Ampara	Ampara	dsd	13172	11828	1162	43	119	20	0	0	0	0	0
+LK-5216	Navithanveli	Navithanveli	dsd	6288	6075	210	0	2	0	0	0	0	0	1
+LK-5218	Samanthurai	Samanthurai	dsd	19400	17161	2131	45	44	17	0	0	0	0	2
+LK-5221	Kalmunai Tamil Division	Kalmunai Tamil Division	dsd	8675	7072	854	23	251	267	207	0	0	0	1
+LK-5224	Kalmunai	Kalmunai	dsd	13481	10126	2544	100	280	216	213	0	0	0	2
+LK-5225	Sainthamaruthu	Sainthamarathu	dsd	7804	5366	2321	85	13	17	1	0	0	0	1
+LK-5227	Karaitheevu	Karaitheevu	dsd	5241	4473	708	19	34	1	0	0	0	0	6
+LK-5230	Ninthavur	Ninthavur	dsd	8729	7698	947	13	60	10	1	0	0	0	0
+LK-5233	Addalachchenai	Addalachchenai	dsd	13178	12356	763	23	15	9	0	0	0	0	12
+LK-5234	Irakkamam	Irakkamam	dsd	4649	4487	156	1	4	1	0	0	0	0	0
+LK-5236	Akkaraipattu	Akkaraipattu	dsd	12052	10585	1393	57	11	6	0	0	0	0	0
+LK-5239	Alayadiwembu	Alayadiwembu	dsd	7017	6711	293	13	0	0	0	0	0	0	0
+LK-5242	Damana	Damana	dsd	11478	11165	300	5	5	3	0	0	0	0	0
+LK-5245	Thirukkovil	Thirukkovil	dsd	8338	8012	285	3	0	0	0	0	0	0	38
+LK-5248	Pothuvil	Pothuvil	dsd	11466	11089	277	4	75	4	1	0	0	0	16
+LK-5251	Lahugala	Lahugala	dsd	2902	2817	84	0	0	1	0	0	0	0	0
+LK-53	Trincomalee	Trincomalee District	district	119351	113267	5264	265	296	77	62	8	0	0	112
+LK-5303	Padavi Sri Pura	Padavisiripura	dsd	3438	3357	77	2	0	1	0	0	0	0	1
+LK-5306	Kuchchaveli	Kuchchaveli	dsd	10805	10552	215	7	1	0	0	0	0	0	30
+LK-5309	Gomarankadawala	Gomarankadawala	dsd	2446	2406	37	1	0	0	0	0	0	0	2
+LK-5312	Morawewa	Morawewa	dsd	2688	2659	27	1	0	0	0	0	0	0	1
+LK-5315	Trincomalee Town and Gravets	Trincomalee Town and Gravets	dsd	26784	23873	2311	196	262	70	60	8	0	0	4
+LK-5318	Thambalagamuwa	Thambalagamuwa	dsd	9324	9088	222	7	7	0	0	0	0	0	0
+LK-5321	Kanthale	Kanthale	dsd	14128	13450	657	15	1	2	0	0	0	0	3
+LK-5324	Kinniya	Kinniya	dsd	21750	20542	1166	20	16	3	2	0	0	0	1
+LK-5327	Muttur	Muttur	dsd	19400	18914	406	12	2	0	0	0	0	0	66
+LK-5330	Seruvila	Seruvila	dsd	4655	4527	118	2	7	1	0	0	0	0	0
+LK-5333	Verugal (Eachchilampattu)	Verugal Eachchilampattu	dsd	3933	3899	28	2	0	0	0	0	0	0	4
+LK-61	Kurunegala	Kurunegala District	district	506909	463412	40530	1033	1274	512	96	14	0	0	38
+LK-6103	Giribawa	Giribawa	dsd	10396	10119	264	4	5	2	0	0	0	0	2
+LK-6106	Galgamuwa	Galgamuwa	dsd	17858	16961	873	12	6	5	0	0	0	0	1
+LK-6109	Ehetuwewa	Ehetuwewa	dsd	8227	7896	321	6	2	0	2	0	0	0	0
+LK-6112	Ambanpola	Ambanpola	dsd	7706	7330	366	5	3	2	0	0	0	0	0
+LK-6115	Kotavehera	Kotavehera	dsd	6923	6749	170	1	2	1	0	0	0	0	0
+LK-6118	Rasnayakapura	Rasnayakapura	dsd	7192	7032	158	1	1	0	0	0	0	0	0
+LK-6121	Nikaweratiya	Nikaweratiya	dsd	12752	12029	679	11	17	15	1	0	0	0	0
+LK-6124	Maho	Maho	dsd	18820	17729	1035	17	26	10	0	0	0	0	3
+LK-6127	Polpithigama	Polpithigama	dsd	25354	24348	986	12	4	3	0	0	0	0	1
+LK-6130	Ibbagamuwa	Ibbagamuwa	dsd	26761	24213	2431	42	46	21	4	0	0	0	4
+LK-6133	Ganewatta	Ganewatta	dsd	12898	12185	690	16	6	0	0	0	0	0	1
+LK-6136	Wariyapola	Wariyapola	dsd	19586	17946	1585	19	25	10	0	0	0	0	1
+LK-6139	Kobeigane	Kobeigane	dsd	11689	11225	458	3	2	1	0	0	0	0	0
+LK-6142	Bingiriya	Bingiriya	dsd	19673	18993	653	10	9	7	0	0	0	0	1
+LK-6145	Panduwasnuwara West	Panduwasnuwara West	dsd	20217	19067	1101	14	18	15	0	0	0	0	2
+LK-6148	Panduwasnuwara East	Panduwasnuwara East	dsd	9394	8971	410	5	7	0	1	0	0	0	0
+LK-6149	Bamunakotuwa	Bamunakotuwa	dsd	11659	10660	966	11	13	5	3	0	0	0	1
+LK-6151	Maspotha	Maspotha	dsd	12094	9948	2027	68	18	23	8	2	0	0	0
+LK-6154	Kurunegala	Kurunegala	dsd	23802	18403	4713	284	234	118	34	12	0	0	4
+LK-6157	Mallawapitiya	Mallawapitiya	dsd	16432	13450	2772	86	62	56	5	0	0	0	1
+LK-6160	Mawathagama	Mawathagama	dsd	19764	16645	2793	68	210	36	9	0	0	0	3
+LK-6163	Rideegama	Rideegama	dsd	26848	24007	2575	60	181	21	1	0	0	0	3
+LK-6166	Weerambugedara	Weerambugedara	dsd	10730	9717	974	19	13	5	2	0	0	0	0
+LK-6169	Kuliyapitiya East	Kuliyapitiya East	dsd	16420	15262	1103	24	24	5	2	0	0	0	0
+LK-6172	Kuliyapitiya West	Kuliyapitiya West	dsd	24056	21888	1927	50	119	61	10	0	0	0	1
+LK-6175	Udubaddawa	Udubaddawa	dsd	15815	15084	688	11	18	12	1	0	0	0	1
+LK-6178	Pannala	Pannala	dsd	38853	36512	2123	58	117	34	4	0	0	0	5
+LK-6181	Narammala	Narammala	dsd	17026	15454	1523	29	13	6	1	0	0	0	0
+LK-6184	Alawwa	Alawwa	dsd	19020	17286	1692	30	7	2	2	0	0	0	1
+LK-6187	Polgahawela	Polgahawela	dsd	18944	16303	2474	57	66	36	6	0	0	0	2
+LK-62	Puttalam	Puttalam District	district	231494	218131	11820	262	869	273	43	24	0	0	72
+LK-6203	Kalpitiya	Kalpitiya	dsd	24165	23207	723	18	159	41	0	0	0	0	17
+LK-6206	Vanathawilluwa	Vanathawilluwa	dsd	5846	5755	75	1	11	2	0	0	0	0	2
+LK-6209	Karuwalagaswewa	Karuwalagaswewa	dsd	7941	7788	147	5	1	0	0	0	0	0	0
+LK-6212	Nawagattegama	Nawagattegama	dsd	5271	5140	129	0	1	1	0	0	0	0	0
+LK-6215	Puttalam	Puttalam	dsd	23692	21715	1500	28	372	71	3	0	0	0	3
+LK-6218	Mundel	Mundel	dsd	18707	18256	426	7	13	0	0	0	0	0	5
+LK-6221	Mahakumbukkadawala	Mahakumbukkadawala	dsd	6599	6484	102	3	1	0	3	0	0	0	6
+LK-6224	Anamaduwa	Anamaduwa	dsd	12891	12538	340	5	6	1	0	0	0	0	1
+LK-6227	Pallama	Pallama	dsd	8263	8102	152	2	2	3	0	0	0	0	2
+LK-6230	Arachchikattuwa	Arachchikattuwa	dsd	12661	12129	512	11	5	1	0	0	0	0	3
+LK-6233	Chilaw	Chilaw	dsd	18494	16573	1655	67	109	66	12	8	0	0	4
+LK-6236	Madampe	Madampe	dsd	14626	13894	649	19	46	15	3	0	0	0	0
+LK-6239	Mahawewa	Mahawewa	dsd	14662	13814	815	11	6	8	2	2	0	0	4
+LK-6242	Nattandiya	Nattandiya	dsd	19220	17595	1545	32	23	7	3	13	0	0	2
+LK-6245	Wennappuwa	Wennappuwa	dsd	19695	17577	1961	25	75	33	11	0	0	0	13
+LK-6248	Dankotuwa	Dankotuwa	dsd	18761	17564	1089	28	39	24	6	1	0	0	10
+LK-71	Anuradhapura	Anuradhapura District	district	271408	254764	15511	330	426	330	30	0	0	0	17
+LK-7103	Padaviya	Padaviya	dsd	7164	7025	138	1	0	0	0	0	0	0	0
+LK-7106	Kebithigollewa	Kebithigollewa	dsd	7625	7487	134	1	2	0	1	0	0	0	0
+LK-7109	Medawachchiya	Medawachchiya	dsd	15056	14515	528	8	1	3	0	0	0	0	1
+LK-7112	Mahawilachchiya	Mahawilachchiya	dsd	7081	6935	143	1	2	0	0	0	0	0	0
+LK-7115	Nuwaragam Palatha Central	Nuwaragam Palatha Central	dsd	19849	18527	1269	25	19	7	1	0	0	0	1
+LK-7118	Rambewa	Rambewa	dsd	11382	11038	324	2	10	8	0	0	0	0	0
+LK-7121	Kahatagasdigiliya	Kahatagasdigiliya	dsd	12483	12030	440	2	4	5	0	0	0	0	2
+LK-7124	Horowpothana	Horowpothana	dsd	11190	10906	259	16	8	0	0	0	0	0	1
+LK-7127	Galenbindunuwewa	Galenbindunuwewa	dsd	14371	13786	556	9	7	10	1	0	0	0	2
+LK-7130	Mihinthale	Mihinthale	dsd	11419	10378	981	9	30	18	3	0	0	0	0
+LK-7133	Nuwaragam Palatha East	Nuwaragam Palatha East	dsd	21194	16754	3919	143	190	164	21	0	0	0	3
+LK-7136	Nachchaduwa	Nachchaduwa	dsd	8180	7574	511	10	63	21	0	0	0	0	1
+LK-7139	Nochchiyagama	Nochchiyagama	dsd	15943	15281	649	8	3	1	0	0	0	0	1
+LK-7142	Rajanganaya	Rajanganaya	dsd	10677	10154	512	5	3	1	0	0	0	0	2
+LK-7145	Thambuttegama	Thambuttegama	dsd	13271	12151	1013	14	43	47	1	0	0	0	2
+LK-7148	Thalawa	Thalawa	dsd	17628	16649	947	23	4	5	0	0	0	0	0
+LK-7151	Thirappane	Thirappane	dsd	8897	8494	384	6	9	4	0	0	0	0	0
+LK-7154	Kekirawa	Kekirawa	dsd	18082	16819	1200	27	15	18	2	0	0	0	1
+LK-7157	Palugaswewa	Palugaswewa	dsd	5145	4917	211	4	5	8	0	0	0	0	0
+LK-7160	Ipalogama	Ipalogama	dsd	12338	11726	598	5	4	5	0	0	0	0	0
+LK-7163	Galnewa	Galnewa	dsd	11372	10942	419	4	2	5	0	0	0	0	0
+LK-7166	Palagala	Palagala	dsd	11061	10676	376	7	2	0	0	0	0	0	0
+LK-72	Polonnaruwa	Polonnaruwa District	district	126482	118981	6958	229	155	63	87	1	0	0	8
+LK-7203	Hingurakgoda	Hingurakgoda	dsd	20141	18597	1475	43	14	9	1	0	0	0	2
+LK-7206	Medirigiriya	Medirigiriya	dsd	20510	19385	1046	43	13	10	13	0	0	0	0
+LK-7209	Lankapura	Lankapura	dsd	11364	10797	544	10	9	4	0	0	0	0	0
+LK-7210	Welikanda	Welikanda	dsd	11005	10784	208	8	0	0	0	0	0	0	5
+LK-7212	Dimbulagala	Dimbulagala	dsd	24257	23537	702	15	3	0	0	0	0	0	0
+LK-7215	Thamankaduwa	Thamankaduwa	dsd	25158	22492	2341	99	114	38	73	1	0	0	0
+LK-7218	Elahera	Elahera	dsd	14047	13389	642	11	2	2	0	0	0	0	1
+LK-81	Badulla	Badulla District	district	239417	195196	20112	2138	19950	1268	736	0	0	0	17
+LK-8103	Mahiyanganaya	Mahiyanganaya	dsd	25173	23799	1317	33	16	4	2	0	0	0	2
+LK-8106	Rideemaliyadda	Rideemaliyadda	dsd	17251	16819	410	18	2	0	0	0	0	0	2
+LK-8109	Meegahakivula	Meegahakivula	dsd	6396	5868	240	4	283	1	0	0	0	0	0
+LK-8112	Kandaketiya	Kandaketiya	dsd	7410	6869	343	14	184	0	0	0	0	0	0
+LK-8115	Soranathota	Soranathota	dsd	6781	6023	424	32	291	8	3	0	0	0	0
+LK-8118	Passara	Passara	dsd	13500	9856	973	86	2456	72	55	0	0	0	2
+LK-8119	Lunugala	Lunugala	dsd	8885	5906	217	63	2544	75	79	0	0	0	1
+LK-8121	Badulla	Badulla	dsd	21528	14684	4421	540	1373	438	71	0	0	0	1
+LK-8124	Hali-Ela	- Hali-Ela	dsd	25945	18834	2316	188	4220	269	118	0	0	0	0
+LK-8127	Uva Paranagama	Uva Paranagama	dsd	22605	20344	1236	79	902	27	16	0	0	0	1
+LK-8130	Welimada	Welimada	dsd	28668	24927	2378	237	1023	56	43	0	0	0	4
+LK-8133	Bandarawela	Bandarawela	dsd	17973	13280	2645	491	1185	130	241	0	0	0	1
+LK-8136	Ella	Ella	dsd	13052	9639	1274	144	1858	89	48	0	0	0	0
+LK-8139	Haputale	Haputale	dsd	13280	9419	1421	179	2143	80	37	0	0	0	1
+LK-8142	Haldummulla	Haldummulla	dsd	10970	8929	497	30	1470	19	23	0	0	0	2
+LK-82	Moneragala	Monaragala District	district	150728	142586	7068	217	682	116	45	0	0	0	14
+LK-8203	Bibile	Bibile	dsd	13645	12842	655	26	105	14	3	0	0	0	0
+LK-8206	Madulla	Madulla	dsd	10309	9866	433	8	1	0	0	0	0	0	1
+LK-8209	Medagama	Medagama	dsd	12316	11774	438	8	70	20	6	0	0	0	0
+LK-8212	Siyambalanduwa	Siyambalanduwa	dsd	17784	17373	388	11	11	0	0	0	0	0	1
+LK-8215	Moneragala	Moneragala	dsd	15888	14499	1232	42	74	20	18	0	0	0	3
+LK-8218	Badalkumbura	Badalkumbura	dsd	13219	12263	591	24	333	7	0	0	0	0	1
+LK-8221	Wellawaya	Wellawaya	dsd	21409	20223	1047	27	54	37	16	0	0	0	5
+LK-8224	Buttala	Buttala	dsd	17488	16640	795	29	14	9	0	0	0	0	1
+LK-8227	Katharagama	Katharagama	dsd	5324	4950	355	12	3	2	1	0	0	0	1
+LK-8230	Thanamalvila	Thanamalvila	dsd	9468	9188	255	9	11	5	0	0	0	0	0
+LK-8233	Sevanagala	Sevanagala	dsd	13878	12968	879	21	6	2	1	0	0	0	1
+LK-91	Ratnapura	Rathnapura District	district	324853	285973	26214	1609	10176	674	191	0	0	0	16
+LK-9103	Eheliyagoda	Eheliyagoda	dsd	20297	18109	1958	78	111	34	6	0	0	0	1
+LK-9106	Kuruvita	Kuruvita	dsd	26914	23967	2371	92	427	49	8	0	0	0	0
+LK-9109	Kiriella	Kiriella	dsd	9606	8728	647	49	153	14	15	0	0	0	0
+LK-9112	Ratnapura	Ratnapura	dsd	33231	26373	4509	410	1698	186	49	0	0	0	6
+LK-9115	Imbulpe	Imbulpe	dsd	18205	16237	1294	82	574	16	1	0	0	0	1
+LK-9118	Balangoda	Balangoda	dsd	20998	17832	2011	200	850	85	17	0	0	0	3
+LK-9121	Opanayake	Opanayake	dsd	8102	7379	468	42	201	9	3	0	0	0	0
+LK-9124	Pelmadulla	Pelmadulla	dsd	26068	22560	2038	148	1251	43	25	0	0	0	3
+LK-9127	Elapatha	Elapatha	dsd	10784	9684	873	22	200	5	0	0	0	0	0
+LK-9130	Ayagama	Ayagama	dsd	8847	7921	447	13	458	8	0	0	0	0	0
+LK-9133	Kalawana	Kalawana	dsd	15099	13129	1208	58	631	52	20	0	0	0	1
+LK-9136	Nivithigala	Nivithigala	dsd	16642	14510	1105	54	962	10	1	0	0	0	0
+LK-9139	Kahawatta	Kahawatta	dsd	12358	10774	788	100	672	22	2	0	0	0	0
+LK-9142	Godakawela	Godakawela	dsd	22586	19674	1559	85	1156	73	38	0	0	0	1
+LK-9145	Weligepola	Weligepola	dsd	10598	10175	385	7	28	3	0	0	0	0	0
+LK-9148	Embilipitiya	Embilipitiya	dsd	45752	41946	3545	118	84	55	4	0	0	0	0
+LK-9151	Kolonna	Kolonna	dsd	14773	13064	930	49	718	10	2	0	0	0	0
+LK-91XX	Kalthota	Kalthota	dsd	3993	3911	78	2	2	0	0	0	0	0	0
+LK-92	Kegalle	Kegalle District	district	242027	201784	30451	1904	6895	811	156	0	0	0	26
+LK-9203	Rambukkana	Rambukkana	dsd	24601	20770	3611	139	56	23	2	0	0	0	0
+LK-9206	Mawanella	Mawanella	dsd	33009	25984	5789	416	426	337	52	0	0	0	5
+LK-9209	Aranayaka	Aranayaka	dsd	19811	17203	2266	123	146	66	6	0	0	0	1
+LK-9212	Kegalle	Kegalle	dsd	26532	20990	4686	463	217	135	37	0	0	0	4
+LK-9215	Galigamuwa	Galigamuwa	dsd	21095	18203	2455	96	302	31	7	0	0	0	1
+LK-9218	Warakapola	Warakapola	dsd	32191	27881	3822	213	222	42	6	0	0	0	5
+LK-9221	Ruwanwella	Ruwanwella	dsd	18290	15873	1878	93	387	48	6	0	0	0	5
+LK-9224	Bulathkohupitiya	Bulathkohupitiya	dsd	12895	10792	949	27	1114	9	3	0	0	0	1
+LK-9227	Yatiyanthota	Yatiyanthota	dsd	17393	14283	1555	137	1349	57	11	0	0	0	1
+LK-9230	Dehiovita	Dehiovita	dsd	23238	19294	2638	148	1081	49	25	0	0	0	3
+LK-9233	Deraniyagala	Deraniyagala	dsd	12972	10511	802	49	1595	14	1	0	0	0	0
