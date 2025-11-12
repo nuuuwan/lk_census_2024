@@ -3,6 +3,8 @@ import re
 from dataclasses import dataclass
 
 import camelot
+import pandas as pd
+from gig import Ent, EntType
 from pypdf import PdfReader, PdfWriter
 from utils import JSONFile, Log, PDFFile
 
@@ -14,8 +16,13 @@ class OriginalDocTable:
     doc_name: str
     table_title: str
     pages: tuple[int, int]
+    field_list: list[str]
 
     DIR_DATA = "data"
+
+    @property
+    def n_fields(self) -> int:
+        return len(self.field_list)
 
     @property
     def pdf_file(self):
@@ -73,119 +80,249 @@ class OriginalDocTable:
             if page_num < len(reader.pages):
                 writer.add_page(reader.pages[page_num])
 
-        os.makedirs(self.dir_table, exist_ok=True)
         with open(self.subset_pdf_path, "wb") as output_file:
             writer.write(output_file)
 
         log.debug(
-            f"Wrote {self.page_start}-{self.page_end} "
+            f"Wrote pages {self.page_start}-{self.page_end} "
             + f"to {PDFFile(self.subset_pdf_path)}"
         )
         return self.subset_pdf_path
 
-    def extract_tables(self):
+    @staticmethod
+    def parse_int(x: str) -> int | str:
+        try:
+            return int(x)
+        except ValueError:
+            return x
+
+    def extract_raw_table(self):
         pages = f"{self.page_start}-{self.page_end}"
-        for flavor in ["lattice", "stream"]:
-            tables = camelot.read_pdf(
-                self.pdf_path,
-                pages=pages,
-                flavor=flavor,
-                strip_text="\n",
-            )
-            for i_table, table in enumerate(tables, start=1):
-                table_id = f"{flavor}-{i_table}"
-                os.makedirs(self.dir_table, exist_ok=True)
-
-                plot_path = os.path.join(
-                    self.dir_table, f"{table_id}.camelot.plot.png"
-                )
-                camelot.plot(table, kind="contour").savefig(
-                    plot_path, dpi=300
-                )
-                log.debug(f"Saved plot to {plot_path}")
-
-                # Save table as JSON
-                table_data = table.df.to_dict(orient="records")
-
-                json_file = JSONFile(
-                    os.path.join(self.dir_table, f"{table_id}.subtable.json")
-                )
-                json_file.write(table_data)
-                log.debug(f"Wrote {len(table_data)} rows to {json_file}")
-
-    def get_fields(self):
-        lattice_subtable_1 = JSONFile(
-            os.path.join(self.dir_table, "lattice-1.subtable.json")
+        tables = camelot.read_pdf(
+            self.pdf_path,
+            pages=pages,
+            flavor="stream",
+            strip_text="\n",
+            row_tol=20,
+            edge_tol=300,
         )
-        field_groups = {}
-        subtable = lattice_subtable_1.read()
-        log.debug(f"{subtable=}")
-        for cells in subtable:
-            cur_cell = None
-            for i_cell, cell in enumerate(cells.values()):
+        df = pd.concat([t.df for t in tables], ignore_index=True)
+        table_data = df.to_dict(orient="records")
+
+        arr_of_arr = []
+        for row_data in table_data:
+            arr = []
+            for cell_original in row_data.values():
+                cell = str(cell_original)
+                if cell in ["", "nan"]:
+                    continue
                 cell = cell.replace("‐", "-")
-                cell_en_only = re.sub(r"[^A-Za-z0-9\s\-]", "", cell)
-                cell_en_only = re.sub(r"\s+", " ", cell_en_only).strip()
-                if i_cell not in field_groups:
-                    field_groups[i_cell] = []
+                cell = cell.replace("- - ", "")
+                cell = cell.replace("- - ", "")
+                cell = re.sub(r"[^A-Za-z0-9\s\-]", "", cell)
+                cell = re.sub(r"\s+", " ", cell).strip()
+                cell = self.parse_int(cell)
 
-                if cell_en_only:
-                    cur_cell = cell_en_only
-                elif cur_cell:
-                    cell_en_only = cur_cell
+                arr.append(cell)
+            arr_of_arr.append(arr)
 
-                field_groups[i_cell].append(cell_en_only)
-        fields = []
-        for field_group in field_groups.values():
-            field = "-".join([item for item in field_group if item.strip()])
-            for replace_text in [
-                "15 15 ",
-                "15-59 15-59 ",
-                "60-64 60-64 ",
-                "65 65 ",
-            ]:
-                field = field.replace(replace_text, "")
-            fields.append(field)
-        log.info(f"len(fields)={len(fields)}, {fields=}")
-        return fields
+        json_file = JSONFile(os.path.join(self.dir_table, "raw-table.json"))
+        json_file.write(arr_of_arr)
+        log.debug(f"Wrote {len(arr_of_arr)} raw rows to {json_file}")
+        return arr_of_arr
+
+    @staticmethod
+    def get_ent_type(region_name: str) -> EntType:
+        if region_name == "Sri Lanka":
+            return EntType.COUNTRY
+        if "District" in region_name:
+            return EntType.DISTRICT
+        return EntType.DSD
+
+    @staticmethod
+    def validate(d_list: list[dict]):
+        d_list_without_ents = [
+            ent for ent in d_list if ent.get("region_id", "").endswith("XX")
+        ]
+
+        if not d_list_without_ents:
+            log.debug("✅ All region names mapped to Ents successfully.")
+        else:
+            log.error(
+                f"⁉️ {len(d_list_without_ents)} region names"
+                + " could not be mapped to Ents:"
+            )
+            for d in d_list_without_ents:
+                log.error(f" - {d['region_id']} {d['region_name']}")
+
+        parsed_id_set = set([d["region_id"] for d in d_list])
+        for ent_type in [EntType.COUNTRY, EntType.DISTRICT, EntType.DSD]:
+            ent_id_set = set([ent.id for ent in Ent.list_from_type(ent_type)])
+            non_parsed_district_set = ent_id_set - parsed_id_set
+            if non_parsed_district_set:
+                log.error(
+                    f"⁉️ {len(non_parsed_district_set)}"
+                    + f" {ent_type.name}s not parsed:"
+                )
+                for ent_id in non_parsed_district_set:
+                    ent = Ent.from_id(ent_id)
+                    log.error(f" - {ent.id} {ent.name}")
+            else:
+                log.debug(f"✅All {ent_type.name}s parsed successfully.")
+
+        total_mismatch_d_list = []
+        for d in d_list:
+            total = d["total"]
+            total_from_fields = sum([v for v in list(d.values())[5:]])
+            if total != total_from_fields and 2 * total != total_from_fields:
+                total_mismatch_d_list.append(
+                    d | dict(total_from_fields=total_from_fields)
+                )
+
+        if not total_mismatch_d_list:
+            log.debug("✅ All totals match sum of fields.")
+        else:
+            log.error(
+                f"⁉️ {len(total_mismatch_d_list)} rows with"
+                + " total mismatch errors:"
+            )
+            for d in total_mismatch_d_list:
+                log.error(
+                    f" - {d['region_id']} {d['region_name']}:"
+                    + f" total={d['total']} vs sum_of_fields={d['total_from_fields']}"
+                )
 
     def extract_data(self):
-        fields = self.get_fields()
-        return fields
+        raw_table = self.extract_raw_table()
+        d_list = []
+        current_parent_id = None
+
+        parsed_region_set = set()
+        n_rows = len(raw_table)
+        region_names_without_ents = []
+        for i_row in range(n_rows):
+            row = raw_table[i_row]
+
+            if len(row) == 1 + self.n_fields:
+                first_cell = row[0]
+                tokens = str(first_cell).split(" ")
+                if len(tokens) < 2:
+                    continue
+                value = self.parse_int(tokens[0])
+                if not isinstance(value, int):
+                    continue
+                region_name = " ".join(tokens[1:])
+                row = [region_name, value] + row[1:].copy()
+
+            if len(row) != 2 + self.n_fields:
+                continue
+
+            if row[0] == "":
+                next_row = raw_table[i_row + 1]
+                row = [next_row[0]] + row[1:].copy()
+
+            region_name_in_data = row[0]
+            region_name = region_name_in_data
+
+            region_name = {
+                "Valikamam North": "Valikamam North (Tellipallai)",
+                "Kalmunai North Sub": "Kalmunai Tamil Division",
+            }.get(region_name, region_name)
+
+            ent_type = self.get_ent_type(region_name)
+            if ent_type == EntType.DISTRICT:
+                region_name = region_name.replace("District", "").strip()
+                current_parent_id = "LK"
+
+            candidate_ents = Ent.list_from_name_fuzzy(
+                name_fuzzy=region_name,
+                filter_ent_type=ent_type,
+                filter_parent_id=current_parent_id,
+                min_fuzz_ratio=70,
+            )
+
+            if len(candidate_ents) == 0:
+                log.warning(
+                    "Could not find Ent for"
+                    + f" {region_name}/{current_parent_id}."
+                )
+                region_id = f"{current_parent_id}XX"
+                region_names_without_ents.append((region_id, region_name))
+            else:
+                region_ent = candidate_ents[0]
+                region_id = region_ent.id
+                region_name = region_ent.name
+
+            if ent_type in [EntType.COUNTRY, EntType.DISTRICT]:
+                current_parent_id = region_ent.id
+
+            d = dict(
+                region_id=region_id,
+                region_name=region_name,
+                region_name_in_data=region_name_in_data,
+                region_ent_type=ent_type.name,
+                total=int(row[1]),
+            )
+            parsed_region_set.add(region_id)
+
+            for i_field, field_name in enumerate(self.field_list):
+                value = int(row[2 + i_field])
+                d[field_name] = value
+
+            d_list.append(d)
+
+        d_list.sort(key=lambda x: x["region_id"])
+
+        self.validate(d_list)
+        json_file = JSONFile(os.path.join(self.dir_table, "data.json"))
+        json_file.write(d_list)
+        log.debug(f"Wrote {len(d_list)} data rows to {json_file}")
+        return d_list
 
     @classmethod
     def list_all(cls) -> list["OriginalDocTable"]:
         return [
-            OriginalDocTable(
-                "Basic-Population-Information"
-                + "-by-Districts-and-Divisional-Secretary-Divisions",
-                "A4. Migrant population"
-                + " by reason for migrating according to districts",
-                (110, 111),
-            ),
+            # OriginalDocTable(
+            #     "Basic-Population-Information"
+            #     + "-by-Districts-and-Divisional-Secretary-Divisions",
+            #     "A4. Migrant population"
+            #     + " by reason for migrating according to districts",
+            #     (110, 111),
+            # ),
             OriginalDocTable(
                 "Basic-Population-Information"
                 + "-by-Districts-and-Divisional-Secretary-Divisions",
                 "A5. Population by sex, age and district according to DSD",
                 (112, 136),
+                [
+                    "sex-male",
+                    "sex-female",
+                    "age-under-15",
+                    "age-15-to-59",
+                    "age-60-to-64",
+                    "age-65-and-over",
+                ],
             ),
-            OriginalDocTable(
-                "Basic-Population-Information"
-                + "-by-Districts-and-Divisional-Secretary-Divisions",
-                "A6. Population by ethnicity and district according to DSD",
-                (137, 161),
-            ),
-            OriginalDocTable(
-                "Basic-Population-Information"
-                + "-by-Districts-and-Divisional-Secretary-Divisions",
-                "A7. Population by religion and district according to DSD",
-                (162, 185),
-            ),
+            # OriginalDocTable(
+            #     "Basic-Population-Information"
+            #     + "-by-Districts-and-Divisional-Secretary-Divisions",
+            #     "A6. Population by ethnicity and district according to DSD",
+            #     (137, 161),
+            # ),
+            # OriginalDocTable(
+            #     "Basic-Population-Information"
+            #     + "-by-Districts-and-Divisional-Secretary-Divisions",
+            #     "A7. Population by religion and district according to DSD",
+            #     (162, 185),
+            # ),
         ]
 
     @classmethod
     def extract_all(cls):
+
         for original_doc_table in cls.list_all():
-            # original_doc_table.save_subset_pdf()
-            # original_doc_table.extract_tables()
+            # shutil.rmtree(original_doc_table.dir_table, ignore_errors=True)
+            os.makedirs(original_doc_table.dir_table, exist_ok=True)
+
+            original_doc_table.save_subset_pdf()
             original_doc_table.extract_data()
