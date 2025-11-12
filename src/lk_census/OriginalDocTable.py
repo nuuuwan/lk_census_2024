@@ -106,7 +106,6 @@ class OriginalDocTable:
 
                 # Save table as JSON
                 table_data = table.df.to_dict(orient="records")
-                from utils import JSONFile
 
                 json_file = JSONFile(
                     os.path.join(self.dir_table, f"{table_id}.subtable.json")
