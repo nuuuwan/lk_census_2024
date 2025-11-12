@@ -70,6 +70,23 @@ class ReadMe:
             ]
         )
 
+        region_ent_type_to_n = {}
+        for d in data_list:
+            region_ent_type = d["region_ent_type"]
+            region_ent_type_to_n[region_ent_type] = (
+                region_ent_type_to_n.get(region_ent_type, 0) + 1
+            )
+        tokens = []
+        for region_ent_type, n in region_ent_type_to_n.items():
+            tokens.append(f"{region_ent_type.title()} ({n})")
+        n = len(data_list)
+        lines.extend(
+            [
+                f"{n} rows in total, by " + ", ".join(tokens),
+                "",
+            ]
+        )
+
         return lines
 
     def get_lines_for_data_tables(self) -> list[str]:
