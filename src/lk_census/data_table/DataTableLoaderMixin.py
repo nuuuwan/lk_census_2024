@@ -2,6 +2,8 @@ import os
 
 from utils import JSONFile
 
+from lk_census.OriginalDoc import OriginalDoc
+
 
 class DataTableLoaderMixin:
     DIR_DATA = "data"
@@ -13,7 +15,7 @@ class DataTableLoaderMixin:
         for t in JSONFile(cls.METADATA_PATH).read():
             table_list.append(
                 cls(
-                    doc_name=t["doc_name"],
+                    original_doc=OriginalDoc.from_doc_name(t["doc_name"]),
                     table_title=t["table_title"],
                     pages=tuple(t["pages"]),
                     field_list=t["field_list"],

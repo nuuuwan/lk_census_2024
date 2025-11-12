@@ -8,6 +8,7 @@ from lk_census.data_table.DataTableExtractDataMixin import \
     DataTableExtractDataMixin
 from lk_census.data_table.DataTableLoaderMixin import DataTableLoaderMixin
 from lk_census.data_table.DataTablePDFMixin import DataTablePDFMixin
+from lk_census.OriginalDoc import OriginalDoc
 
 log = Log("DataTable")
 
@@ -18,7 +19,7 @@ class DataTable(
     DataTablePDFMixin,
     DataTableExtractDataMixin,
 ):
-    doc_name: str
+    original_doc: OriginalDoc
     table_title: str
     pages: tuple[int, int]
     field_list: list[str]
@@ -27,7 +28,7 @@ class DataTable(
 
     @property
     def is_population_table(self) -> bool:
-        return self.doc_name.startswith("Basic-Population")
+        return self.original_doc.doc_name.startswith("Basic-Population")
 
     @property
     def n_fields(self) -> int:
@@ -54,7 +55,7 @@ class DataTable(
     def dir_table(self):
         return os.path.join(
             self.DIR_DATA,
-            self.doc_name,
+            self.original_doc.doc_name,
             self.name_safe,
         )
 
