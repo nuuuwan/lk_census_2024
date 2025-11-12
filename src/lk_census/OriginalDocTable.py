@@ -146,7 +146,7 @@ class OriginalDocTable:
             ]:
                 field = field.replace(replace_text, "")
             fields.append(field)
-        log.info(f"{fields=}")
+        log.info(f"len(fields)={len(fields)}, {fields=}")
         return fields
 
     def extract_data(self):
@@ -156,13 +156,13 @@ class OriginalDocTable:
     @classmethod
     def list_all(cls) -> list["OriginalDocTable"]:
         return [
-            # OriginalDocTable(
-            #     "Basic-Population-Information"
-            #     + "-by-Districts-and-Divisional-Secretary-Divisions",
-            #     "A4. Migrant population"
-            #     + " by reason for migrating according to districts",
-            #     (110, 111),
-            # ),
+            OriginalDocTable(
+                "Basic-Population-Information"
+                + "-by-Districts-and-Divisional-Secretary-Divisions",
+                "A4. Migrant population"
+                + " by reason for migrating according to districts",
+                (110, 111),
+            ),
             OriginalDocTable(
                 "Basic-Population-Information"
                 + "-by-Districts-and-Divisional-Secretary-Divisions",
