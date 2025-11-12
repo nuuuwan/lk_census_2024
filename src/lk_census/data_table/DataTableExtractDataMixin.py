@@ -125,3 +125,8 @@ class DataTableExtractDataMixin(
         self.__write_json__(d_list)
         self.__write_tsv__(d_list)
         return d_list
+
+    @property
+    def data_list(self):
+        json_file = JSONFile(self.json_path)
+        return json_file.read()
