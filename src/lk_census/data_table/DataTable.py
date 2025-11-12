@@ -4,9 +4,8 @@ from dataclasses import dataclass
 
 from utils import File, Log
 
-from lk_census.data_table.DataTableExtractDataMixin import (
-    DataTableExtractDataMixin,
-)
+from lk_census.data_table.DataTableExtractDataMixin import \
+    DataTableExtractDataMixin
 from lk_census.data_table.DataTableLoaderMixin import DataTableLoaderMixin
 from lk_census.data_table.DataTablePDFMixin import DataTablePDFMixin
 from lk_census.original_doc.OriginalDoc import OriginalDoc
