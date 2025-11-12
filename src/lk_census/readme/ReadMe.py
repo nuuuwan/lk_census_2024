@@ -1,6 +1,6 @@
 import os
 
-from utils import File, Log
+from utils import File, Format, Log, Time, TimeFormat
 
 from lk_census.data_table import DataTable
 from lk_census.original_doc import OriginalDoc
@@ -12,9 +12,15 @@ class ReadMe:
     PATH = "README.md"
 
     def get_lines_for_header(self) -> list[str]:
+        time_updated_for_badge = Format.badge(
+            TimeFormat.TIME.format(Time.now())
+        )
         return [
-            "# 🇱🇰 Sri Lanka - "
-            + "Census of Population and Housing 2024 (CPH-2024)",
+            "# 🇱🇰 Sri Lanka - " + "Census of Population and Housing 2024",
+            "",
+            "![CPH]" + "(https://img.shields.io/badge/CPH-2024-blue)",
+            "![LastUpdated](https://img.shields.io/badge"
+            + f"/last_updated-{time_updated_for_badge}-green)",
             "",
         ]
 
@@ -35,7 +41,12 @@ class ReadMe:
         return lines
 
     def get_lines_for_data_tables(self) -> list[str]:
-        lines = ["## Data Tables", ""]
+        lines = [
+            "## Data Tables",
+            "",
+            "The source documents have been parsed to extract the following datasets: ",
+            "",
+        ]
         for i_table, data_table in enumerate(DataTable.list_all(), start=1):
             line = (
                 f"{i_table}. [{data_table.table_title}]"
@@ -46,7 +57,16 @@ class ReadMe:
         return lines
 
     def get_lines_for_footer(self) -> list[str]:
-        return []
+        return [
+            "![Maintainer]"
+            + "(https://img.shields.io/badge/maintainer-nuuuwan-red)",
+            "![MadeWith]"
+            + "(https://img.shields.io/badge/made_with-python-blue)",
+            "[![License: MIT]"
+            + "(https://img.shields.io/badge/License-MIT-yellow.svg)]"
+            + "(https://opensource.org/licenses/MIT)",
+            "",
+        ]
 
     def get_lines(self) -> list[str]:
         return (

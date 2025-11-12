@@ -1,4 +1,7 @@
-# 🇱🇰 Sri Lanka - Census of Population and Housing 2024 (CPH-2024)
+# 🇱🇰 Sri Lanka - Census of Population and Housing 2024
+
+![CPH](https://img.shields.io/badge/CPH-2024-blue)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--11--12_18:31:54-green)
 
 ## Original Source Documents
 
@@ -10,6 +13,8 @@ The following original documents have been downloaded from [https://www.statisti
 
 ## Data Tables
 
+The source documents have been parsed to extract the following datasets: 
+
 1. [Population by sex, age and district according to DSD](Basic-Population/Population-by-sex-age-and-district-according-to-DSD)
 2. [Population by ethnicity and district according to DSD](Basic-Population/Population-by-ethnicity-and-district-according-to-DSD)
 3. [Population by religion and district according to DSD](Basic-Population/Population-by-religion-and-district-according-to-DSD)
@@ -20,3 +25,7 @@ The following original documents have been downloaded from [https://www.statisti
 8. [Number of households by main source of drinking water at district level and DSDs](Basic-Housing/Number-of-households-by-main-source-of-drinking-water-at-district-level-and-DSDs)
 9. [Number of households by source of lighting at district level and DSDs](Basic-Housing/Number-of-households-by-source-of-lighting-at-district-level-and-DSDs)
 10. [Number of households using toilet facilities at district level and DSDs](Basic-Housing/Number-of-households-using-toilet-facilities-at-district-level-and-DSDs)
+
+![Maintainer](https://img.shields.io/badge/maintainer-nuuuwan-red)
+![MadeWith](https://img.shields.io/badge/made_with-python-blue)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
