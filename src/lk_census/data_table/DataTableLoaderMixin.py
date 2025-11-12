@@ -107,7 +107,6 @@ class DataTableLoaderMixin:
             "tile",
             "asbestos",
             "concrete",
-            "cabook",
             "zinc_aluminium_sheets",
             "metal_sheets",
             "kadjan_or_palmyrah_or_straw",
