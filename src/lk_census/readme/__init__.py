@@ -2,3 +2,4 @@
 # flake8: noqa: F408
 
 from lk_census.readme.ReadMe import ReadMe
+from lk_census.readme.ReadMeDataTableMixin import ReadMeDataTableMixin

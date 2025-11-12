@@ -1,7 +1,7 @@
 # 🇱🇰 Sri Lanka - Census of Population and Housing 2024
 
 ![CPH](https://img.shields.io/badge/CPH-2024-blue)
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--11--12_18:47:26-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--11--12_18:51:13-green)
 
 ## Original Source Documents
 
@@ -40,7 +40,7 @@ The source documents have been parsed to extract the following datasets:
 }
 ```
 
-365 rows in total, by Country (1), District (25), Dsd (339)
+**365** rows in total, by Country (1), District (25), Dsd (339)
 
 ### 02. [Population by ethnicity and district according to DSD](Basic-Population/Population-by-ethnicity-and-district-according-to-DSD)
 
@@ -71,7 +71,7 @@ The source documents have been parsed to extract the following datasets:
 }
 ```
 
-366 rows in total, by Country (1), District (25), Dsd (340)
+**366** rows in total, by Country (1), District (25), Dsd (340)
 
 ### 03. [Population by religion and district according to DSD](Basic-Population/Population-by-religion-and-district-according-to-DSD)
 
@@ -98,7 +98,7 @@ The source documents have been parsed to extract the following datasets:
 }
 ```
 
-366 rows in total, by Country (1), District (25), Dsd (340)
+**366** rows in total, by Country (1), District (25), Dsd (340)
 
 ### 04. [Number of housing units by housing unit structure at district level and DSDs](Basic-Housing/Number-of-housing-units-by-housing-unit-structure-at-district-level-and-DSDs)
 
@@ -129,7 +129,7 @@ The source documents have been parsed to extract the following datasets:
 }
 ```
 
-366 rows in total, by Country (1), District (25), Dsd (340)
+**366** rows in total, by Country (1), District (25), Dsd (340)
 
 ### 05. [Number of housing units by main material used for walls construction at district level and DSDs](Basic-Housing/Number-of-housing-units-by-main-material-used-for-walls-construction-at-district-level-and-DSDs)
 
@@ -161,7 +161,7 @@ The source documents have been parsed to extract the following datasets:
 }
 ```
 
-366 rows in total, by Country (1), District (25), Dsd (340)
+**366** rows in total, by Country (1), District (25), Dsd (340)
 
 ### 06. [Number of housing units by main material used for roof construction at district level and DSDs](Basic-Housing/Number-of-housing-units-by-main-material-used-for-roof-construction-at-district-level-and-DSDs)
 
@@ -190,7 +190,7 @@ The source documents have been parsed to extract the following datasets:
 }
 ```
 
-366 rows in total, by Country (1), District (25), Dsd (340)
+**366** rows in total, by Country (1), District (25), Dsd (340)
 
 ### 07. [Number of households by main material used for floor construction at district level and DSDs](Basic-Housing/Number-of-households-by-main-material-used-for-floor-construction-at-district-level-and-DSDs)
 
@@ -219,7 +219,7 @@ The source documents have been parsed to extract the following datasets:
 }
 ```
 
-366 rows in total, by Country (1), District (25), Dsd (340)
+**366** rows in total, by Country (1), District (25), Dsd (340)
 
 ### 08. [Number of households by main source of drinking water at district level and DSDs](Basic-Housing/Number-of-households-by-main-source-of-drinking-water-at-district-level-and-DSDs)
 
@@ -255,7 +255,7 @@ The source documents have been parsed to extract the following datasets:
 }
 ```
 
-381 rows in total, by Country (2), District (26), Dsd (353)
+**381** rows in total, by Country (2), District (26), Dsd (353)
 
 ### 09. [Number of households by source of lighting at district level and DSDs](Basic-Housing/Number-of-households-by-source-of-lighting-at-district-level-and-DSDs)
 
@@ -284,7 +284,7 @@ The source documents have been parsed to extract the following datasets:
 }
 ```
 
-366 rows in total, by Country (1), District (25), Dsd (340)
+**366** rows in total, by Country (1), District (25), Dsd (340)
 
 ### 10. [Number of households using toilet facilities at district level and DSDs](Basic-Housing/Number-of-households-using-toilet-facilities-at-district-level-and-DSDs)
 
@@ -312,7 +312,7 @@ The source documents have been parsed to extract the following datasets:
 }
 ```
 
-366 rows in total, by Country (1), District (25), Dsd (340)
+**366** rows in total, by Country (1), District (25), Dsd (340)
 
 ![Maintainer](https://img.shields.io/badge/maintainer-nuuuwan-red)
 ![MadeWith](https://img.shields.io/badge/made_with-python-blue)
