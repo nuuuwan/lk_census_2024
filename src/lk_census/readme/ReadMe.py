@@ -40,20 +40,24 @@ class ReadMe:
         lines.append("")
         return lines
 
+    def get_lines_for_data_table(self, i_table, data_table) -> list[str]:
+        lines = [
+            f"### {i_table:02d}. [{data_table.table_title}]"
+            + f"({data_table.dir_table.replace('data/', '')})",
+            "",
+        ]
+        return lines
+
     def get_lines_for_data_tables(self) -> list[str]:
         lines = [
             "## Data Tables",
             "",
-            "The source documents have been parsed to extract the following datasets: ",
+            "The source documents have been parsed"
+            + " to extract the following datasets: ",
             "",
         ]
         for i_table, data_table in enumerate(DataTable.list_all(), start=1):
-            line = (
-                f"{i_table}. [{data_table.table_title}]"
-                + f"({data_table.dir_table.replace('data/', '')})"
-            )
-            lines.append(line)
-        lines.append("")
+            lines.extend(self.get_lines_for_data_table(i_table, data_table))
         return lines
 
     def get_lines_for_footer(self) -> list[str]:
