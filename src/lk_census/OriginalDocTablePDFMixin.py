@@ -8,7 +8,7 @@ from utils import JSONFile, Log, PDFFile
 
 from lk_census.OriginalDoc import OriginalDoc
 
-log = Log("OriginalDocTablePDFMixin")
+log = Log("OriginalDocTable")
 
 
 class OriginalDocTablePDFMixin:
