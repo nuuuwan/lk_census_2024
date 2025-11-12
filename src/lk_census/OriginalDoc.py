@@ -2,7 +2,7 @@ import os
 import re
 from dataclasses import dataclass
 
-from utils import WWW, File, Log
+from utils import WWW, File, JSONFile, Log
 
 log = Log("OriginalDoc")
 
@@ -15,6 +15,7 @@ class OriginalDoc:
     DIR_ORIGINAL_DOCS = "original_docs"
     README_PATH = os.path.join(DIR_ORIGINAL_DOCS, "README.md")
     URL_BASE = "https://www.statistics.gov.lk"
+    METADATA_PATH = os.path.join(DIR_ORIGINAL_DOCS, "metadata.json")
 
     @property
     def url(self) -> str:
@@ -41,32 +42,10 @@ class OriginalDoc:
         log.info(f"Downloaded '{self.title}' to '{File(self.file_path)}'")
         return self.file_path
 
-    BASIC_POPULATION = (
-        "Basic Population"
-        + " by Districts and Divisional Secretary Divisions",
-        "Resource/en/Population/CPH_2024"
-        + "/Population_Preliminary_Report.pdf",
-    )
-
-    BASIC_HOUSING = (
-        "Basic Housing Information"
-        + " by Districts and Divisional Secretary Divisions",
-        "Resource/en/Population/CPH_2024" + "/Housing_Preliminary_Report.pdf",
-    )
-
-    PRELIMINARY_REPORT = (
-        "Preliminary Report - Census of Population & Housing 2024",
-        "Resource/en/Population/CPH_2024" + "/CPH2024_Preliminary_Report.pdf",
-    )
-
     @classmethod
     def list_all(cls) -> list["OriginalDoc"]:
         doc_list = []
-        for t in [
-            cls.BASIC_POPULATION,
-            cls.BASIC_HOUSING,
-            cls.PRELIMINARY_REPORT,
-        ]:
+        for t in JSONFile(cls.METADATA_PATH).read():
             doc = cls(*t)
             doc_list.append(doc)
         return doc_list
