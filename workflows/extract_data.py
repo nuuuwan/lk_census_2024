@@ -1,8 +1,8 @@
-from lk_census import OriginalDocTable
+from lk_census import DataTable
 
 
 def main():
-    OriginalDocTable.extract_all()
+    DataTable.extract_all()
 
 
 if __name__ == "__main__":

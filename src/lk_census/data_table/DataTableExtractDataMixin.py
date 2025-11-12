@@ -3,15 +3,13 @@ import os
 from gig import Ent, EntType
 from utils import JSONFile, Log, TSVFile
 
-from lk_census.original_doc_table.OriginalDocTableExtractDataValidateMixin import \
-    OriginalDocTableExtractDataValidateMixin
+from lk_census.data_table.DataTableExtractDataValidateMixin import \
+    DataTableExtractDataValidateMixin
 
-log = Log("OriginalDocTable")
+log = Log("DataTable")
 
 
-class OriginalDocTableExtractDataMixin(
-    OriginalDocTableExtractDataValidateMixin
-):
+class DataTableExtractDataMixin(DataTableExtractDataValidateMixin):
 
     @staticmethod
     def get_ent_type(region_name: str) -> EntType:

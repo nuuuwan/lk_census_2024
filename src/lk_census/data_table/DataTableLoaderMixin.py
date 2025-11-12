@@ -1,4 +1,4 @@
-class OriginalDocTableLoaderMixin:
+class DataTableLoaderMixin:
     @classmethod
     def list_all(cls):
         return [

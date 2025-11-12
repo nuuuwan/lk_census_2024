@@ -4,21 +4,19 @@ from dataclasses import dataclass
 
 from utils import Log
 
-from lk_census.original_doc_table.OriginalDocTableExtractDataMixin import \
-    OriginalDocTableExtractDataMixin
-from lk_census.original_doc_table.OriginalDocTableLoaderMixin import \
-    OriginalDocTableLoaderMixin
-from lk_census.original_doc_table.OriginalDocTablePDFMixin import \
-    OriginalDocTablePDFMixin
+from lk_census.data_table.DataTableExtractDataMixin import \
+    DataTableExtractDataMixin
+from lk_census.data_table.DataTableLoaderMixin import DataTableLoaderMixin
+from lk_census.data_table.DataTablePDFMixin import DataTablePDFMixin
 
-log = Log("OriginalDocTable")
+log = Log("DataTable")
 
 
 @dataclass
-class OriginalDocTable(
-    OriginalDocTableLoaderMixin,
-    OriginalDocTablePDFMixin,
-    OriginalDocTableExtractDataMixin,
+class DataTable(
+    DataTableLoaderMixin,
+    DataTablePDFMixin,
+    DataTableExtractDataMixin,
 ):
     doc_name: str
     table_title: str
@@ -59,7 +57,7 @@ class OriginalDocTable(
     @classmethod
     def extract_all(cls):
 
-        for original_doc_table in cls.list_all():
-            os.makedirs(original_doc_table.dir_table, exist_ok=True)
-            original_doc_table.save_subset_pdf()
-            original_doc_table.extract_data()
+        for data_table in cls.list_all():
+            os.makedirs(data_table.dir_table, exist_ok=True)
+            data_table.save_subset_pdf()
+            data_table.extract_data()

@@ -1,10 +1,10 @@
 from gig import Ent, EntType
 from utils import Log
 
-log = Log("OriginalDocTable")
+log = Log("DataTable")
 
 
-class OriginalDocTableExtractDataValidateMixin:
+class DataTableExtractDataValidateMixin:
     @staticmethod
     def validate(d_list: list[dict]):
         d_list_without_ents = [

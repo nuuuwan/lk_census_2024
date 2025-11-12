@@ -8,10 +8,10 @@ from utils import JSONFile, Log, PDFFile
 
 from lk_census.OriginalDoc import OriginalDoc
 
-log = Log("OriginalDocTable")
+log = Log("DataTable")
 
 
-class OriginalDocTablePDFMixin:
+class DataTablePDFMixin:
     @property
     def pdf_path(self):
         return os.path.join(
@@ -64,7 +64,7 @@ class OriginalDocTablePDFMixin:
                 cell = cell.replace("- - ", "")
                 cell = re.sub(r"[^A-Za-z0-9\s\-]", "", cell)
                 cell = re.sub(r"\s+", " ", cell).strip()
-                cell = OriginalDocTablePDFMixin.__parse_int__(cell)
+                cell = DataTablePDFMixin.__parse_int__(cell)
 
                 arr.append(cell)
             arr_of_arr.append(arr)
