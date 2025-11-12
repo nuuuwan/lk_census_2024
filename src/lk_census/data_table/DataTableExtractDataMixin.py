@@ -3,10 +3,12 @@ import os
 from gig import Ent, EntType
 from utils import JSONFile, Log, TSVFile
 
-from lk_census.data_table.DataTableExtractDataCleanerMixin import \
-    DataTableExtractDataCleanerMixin
-from lk_census.data_table.DataTableExtractDataValidateMixin import \
-    DataTableExtractDataValidateMixin
+from lk_census.data_table.DataTableExtractDataCleanerMixin import (
+    DataTableExtractDataCleanerMixin,
+)
+from lk_census.data_table.DataTableExtractDataValidateMixin import (
+    DataTableExtractDataValidateMixin,
+)
 
 log = Log("DataTable")
 
@@ -33,10 +35,6 @@ class DataTableExtractDataMixin(
         )
 
         if len(candidate_ents) == 0:
-            log.warning(
-                "Could not find Ent for"
-                + f" {region_name}/{current_parent_id}."
-            )
             region_id = f"{current_parent_id}XX"
         else:
             region_ent = candidate_ents[0]
