@@ -201,16 +201,16 @@ class DataTableLoaderMixin:
     @classmethod
     def list_all(cls):
         for t in [
-            # cls.POPULATION_A4,
-            # cls.POPULATION_A5,
-            # cls.POPULATION_A6,
-            # cls.POPULATION_A7,
+            cls.POPULATION_A4,
+            cls.POPULATION_A5,
+            cls.POPULATION_A6,
+            cls.POPULATION_A7,
             cls.HOUSING_A8,
-            # cls.HOUSING_A9,
-            # cls.HOUSING_A10,
-            # cls.HOUSING_A11,
-            # cls.HOUSING_A12,
-            # cls.HOUSING_A13,
-            # cls.HOUSING_A14,
+            cls.HOUSING_A9,
+            cls.HOUSING_A10,
+            cls.HOUSING_A11,
+            cls.HOUSING_A12,
+            cls.HOUSING_A13,
+            cls.HOUSING_A14,
         ]:
             yield cls(*t)
