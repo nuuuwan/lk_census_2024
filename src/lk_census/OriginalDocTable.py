@@ -8,63 +8,18 @@ from gig import Ent, EntType
 from pypdf import PdfReader, PdfWriter
 from utils import JSONFile, Log, PDFFile, TSVFile
 
+from lk_census.OriginalDoc import OriginalDoc
 from lk_census.OriginalDocTableLoaderMixin import OriginalDocTableLoaderMixin
 
 log = Log("OriginalDocTable")
 
 
-@dataclass
-class OriginalDocTable(OriginalDocTableLoaderMixin):
-    doc_name: str
-    table_title: str
-    pages: tuple[int, int]
-    field_list: list[str]
-
-    DIR_DATA = "data"
-
-    @property
-    def n_fields(self) -> int:
-        return len(self.field_list)
-
-    @property
-    def pdf_file(self):
-        return PDFFile(
-            os.path.join(
-                "original_docs",
-                f"{self.doc_name}.pdf",
-            )
-        )
-
-    @property
-    def page_start(self):
-        return self.pages[0]
-
-    @property
-    def page_end(self):
-        return self.pages[1]
-
+class OriginalDocTablePDFMixin:
     @property
     def pdf_path(self):
         return os.path.join(
-            "original_docs",
-            f"{self.doc_name}.pdf",
-        )
-
-    @property
-    def name_safe(self):
-        name_safe = re.sub(r"\s+", " ", self.table_title)
-        name_safe = name_safe.replace(" ", "-")
-        name_safe = "".join(
-            char for char in name_safe if char.isalnum() or char == "-"
-        )
-        return name_safe
-
-    @property
-    def dir_table(self):
-        return os.path.join(
-            self.DIR_DATA,
-            self.doc_name,
-            self.name_safe,
+            OriginalDoc.DIR_ORIGINAL_DOCS,
+            self.doc_name + ".pdf",
         )
 
     @property
@@ -92,25 +47,14 @@ class OriginalDocTable(OriginalDocTableLoaderMixin):
         return self.subset_pdf_path
 
     @staticmethod
-    def parse_int(x: str) -> int | str:
+    def __parse_int__(x: str) -> int | str:
         try:
             return int(x)
         except ValueError:
             return x
 
-    def extract_raw_table(self):
-        pages = f"{self.page_start}-{self.page_end}"
-        tables = camelot.read_pdf(
-            self.pdf_path,
-            pages=pages,
-            flavor="stream",
-            strip_text="\n",
-            row_tol=20,
-            edge_tol=300,
-        )
-        df = pd.concat([t.df for t in tables], ignore_index=True)
-        table_data = df.to_dict(orient="records")
-
+    @staticmethod
+    def __flatten__(table_data):
         arr_of_arr = []
         for row_data in table_data:
             arr = []
@@ -123,15 +67,68 @@ class OriginalDocTable(OriginalDocTableLoaderMixin):
                 cell = cell.replace("- - ", "")
                 cell = re.sub(r"[^A-Za-z0-9\s\-]", "", cell)
                 cell = re.sub(r"\s+", " ", cell).strip()
-                cell = self.parse_int(cell)
+                cell = OriginalDocTablePDFMixin.__parse_int__(cell)
 
                 arr.append(cell)
             arr_of_arr.append(arr)
+        return arr_of_arr
+
+    def extract_raw_table(self):
+        tables = camelot.read_pdf(
+            self.subset_pdf_path,
+            pages="all",
+            flavor="stream",
+            strip_text="\n",
+            row_tol=20,
+            edge_tol=300,
+        )
+        df = pd.concat([t.df for t in tables], ignore_index=True)
+        table_data = df.to_dict(orient="records")
+        arr_of_arr = self.__flatten__(table_data)
 
         json_file = JSONFile(os.path.join(self.dir_table, "raw-table.json"))
         json_file.write(arr_of_arr)
         log.debug(f"Wrote {len(arr_of_arr)} raw rows to {json_file}")
         return arr_of_arr
+
+
+@dataclass
+class OriginalDocTable(OriginalDocTableLoaderMixin, OriginalDocTablePDFMixin):
+    doc_name: str
+    table_title: str
+    pages: tuple[int, int]
+    field_list: list[str]
+
+    DIR_DATA = "data"
+
+    @property
+    def n_fields(self) -> int:
+        return len(self.field_list)
+
+    @property
+    def page_start(self):
+        return self.pages[0]
+
+    @property
+    def page_end(self):
+        return self.pages[1]
+
+    @property
+    def name_safe(self):
+        name_safe = re.sub(r"\s+", " ", self.table_title)
+        name_safe = name_safe.replace(" ", "-")
+        name_safe = "".join(
+            char for char in name_safe if char.isalnum() or char == "-"
+        )
+        return name_safe
+
+    @property
+    def dir_table(self):
+        return os.path.join(
+            self.DIR_DATA,
+            self.doc_name,
+            self.name_safe,
+        )
 
     @staticmethod
     def get_ent_type(region_name: str) -> EntType:

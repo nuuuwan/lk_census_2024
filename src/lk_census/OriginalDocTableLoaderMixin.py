@@ -1,6 +1,6 @@
 class OriginalDocTableLoaderMixin:
     @classmethod
-    def list_all(cls) -> list["OriginalDocTable"]:
+    def list_all(cls):
         return [
             # cls(
             #     "Basic-Population-Information"
