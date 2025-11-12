@@ -1,7 +1,7 @@
 # 🇱🇰 Sri Lanka - Census of Population and Housing 2024
 
 ![CPH](https://img.shields.io/badge/CPH-2024-blue)
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--11--12_18:51:13-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--11--12_18:55:09-green)
 
 ## Original Source Documents
 
@@ -11,7 +11,7 @@ The following original documents have been downloaded from [https://www.statisti
 2. [Basic Housing Information by Districts and Divisional Secretary Divisions](Basic-Housing.pdf)
 3. [Preliminary Report - Census of Population & Housing 2024](Preliminary-Report.pdf)
 
-## Data Tables
+## Data Table (10)
 
 The source documents have been parsed to extract the following datasets: 
 

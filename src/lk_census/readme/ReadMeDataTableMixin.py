@@ -59,13 +59,15 @@ class ReadMeDataTableMixin:
         return lines
 
     def get_lines_for_data_tables(self) -> list[str]:
+        data_table_list = DataTable.list_all()
+        n_tables = len(data_table_list)
         lines = [
-            "## Data Tables",
+            f"## Data Table ({n_tables:,})",
             "",
             "The source documents have been parsed"
             + " to extract the following datasets: ",
             "",
         ]
-        for i_table, data_table in enumerate(DataTable.list_all(), start=1):
+        for i_table, data_table in enumerate(data_table_list, start=1):
             lines.extend(self.get_lines_for_data_table(i_table, data_table))
         return lines
