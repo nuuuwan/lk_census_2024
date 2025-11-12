@@ -22,25 +22,28 @@ class OriginalDoc:
         return f"{self.URL_BASE}/{self.url_prefix}"
 
     @property
-    def file_path(self) -> str:
+    def doc_name(self) -> str:
         safe_name = re.sub(r"\s+", " ", self.title)
         safe_name = self.title.replace(" ", "-")
         safe_name = "".join(
             char for char in safe_name if char.isalnum() or char == "-"
         )
         tokens = safe_name.split("-")
-        file_name = "-".join(tokens[:2]) + ".pdf"
-        return os.path.join(self.DIR_ORIGINAL_DOCS, file_name)
+        return "-".join(tokens[:2])
+
+    @property
+    def pdf_path(self) -> str:
+        return os.path.join(self.DIR_ORIGINAL_DOCS, f"{self.doc_name}.pdf")
 
     def download(self) -> str:
-        if os.path.exists(self.file_path):
-            log.warning(f"{File(self.file_path)} exists. Skipping download.")
-            return self.file_path
+        if os.path.exists(self.pdf_path):
+            log.warning(f"{File(self.pdf_path)} exists. Skipping download.")
+            return self.pdf_path
         www = WWW(self.url)
         os.makedirs(self.DIR_ORIGINAL_DOCS, exist_ok=True)
-        www.download_binary(self.file_path)
-        log.info(f"Downloaded '{self.title}' to '{File(self.file_path)}'")
-        return self.file_path
+        www.download_binary(self.pdf_path)
+        log.info(f"Downloaded '{self.title}' to '{File(self.pdf_path)}'")
+        return self.pdf_path
 
     @classmethod
     def list_all(cls) -> list["OriginalDoc"]:
@@ -74,7 +77,7 @@ class OriginalDoc:
         for i_doc, original_doc in enumerate(cls.list_all(), start=1):
             lines.append(
                 f"{i_doc}. [{original_doc.title}]"
-                + f"({os.path.basename(original_doc.file_path)})"
+                + f"({os.path.basename(original_doc.pdf_path)})"
             )
         lines.append("")
         readme_file = File(cls.README_PATH)

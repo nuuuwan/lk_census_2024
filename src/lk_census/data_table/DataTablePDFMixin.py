@@ -6,18 +6,10 @@ import pandas as pd
 from pypdf import PdfReader, PdfWriter
 from utils import JSONFile, Log, PDFFile
 
-from lk_census.OriginalDoc import OriginalDoc
-
 log = Log("DataTable")
 
 
 class DataTablePDFMixin:
-    @property
-    def pdf_path(self):
-        return os.path.join(
-            OriginalDoc.DIR_ORIGINAL_DOCS,
-            self.doc_name + ".pdf",
-        )
 
     @property
     def subset_pdf_path(self):
@@ -27,7 +19,7 @@ class DataTablePDFMixin:
         )
 
     def save_subset_pdf(self):
-        reader = PdfReader(self.pdf_path)
+        reader = PdfReader(self.original_doc.pdf_path)
         writer = PdfWriter()
 
         for page_num in range(self.page_start - 1, self.page_end):
