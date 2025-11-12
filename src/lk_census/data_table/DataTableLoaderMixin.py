@@ -142,15 +142,18 @@ class DataTableLoaderMixin:
         + " at district level and DSDs",
         (182, 200),
         [
+            # ground_water (5)
             "ground_water-_protected_well",
             "ground_water-semi_protected_well",
             "ground_water-unprotected_well",
             "ground_water-tube_well",
             "ground_water-spring_or_fountain",
+            # pipe_borne_water (4)
             "pipe_borne_water-national_water_supply_and_drainage_board",
             "pipe_borne_water-local_authority",
-            "pipe_borne_water-community_based_organizations"
+            "pipe_borne_water-community_based_organizations",
             "pipe_borne_water-private_water_supply_project",
+            # other_sources (6)
             "other-tank_or_river_or_stream",
             "other-rain_water",
             "other-bottled_water",
