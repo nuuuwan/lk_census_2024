@@ -3,3 +3,4 @@
 
 from lk_census.OriginalDoc import OriginalDoc
 from lk_census.OriginalDocTable import OriginalDocTable
+from lk_census.OriginalDocTableLoaderMixin import OriginalDocTableLoaderMixin
