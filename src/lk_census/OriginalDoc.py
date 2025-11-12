@@ -39,35 +39,36 @@ class OriginalDoc:
         log.info(f"Downloaded '{self.title}' to '{File(self.file_path)}'")
         return self.file_path
 
+    BASIC_POPULATION = (
+        "Basic Population"
+        + " by Districts and Divisional Secretary Divisions",
+        "Resource/en/Population/CPH_2024"
+        + "/Population_Preliminary_Report.pdf",
+    )
+
+    BASIC_HOUSING = (
+        "Basic Housing Information"
+        + " by Districts and Divisional Secretary Divisions",
+        "Resource/en/Population/CPH_2024" + "/Housing_Preliminary_Report.pdf",
+    )
+
+    PRELIMINARY_REPORT = (
+        "Population of Sri Lanka"
+        + " by District - Census of Population & Housing 2024",
+        "Resource/en/Population/CPH_2024" + "/CPH2024_Preliminary_Report.pdf",
+    )
+
     @classmethod
-    def list_all(
-        cls,
-    ) -> list["OriginalDoc"]:
-        return [
-            OriginalDoc(
-                "Basic Population Information"
-                + " by Districts and Divisional Secretary Divisions",
-                "Resource/en/Population/CPH_2024"
-                + "/Population_Preliminary_Report.pdf",
-            ),
-            OriginalDoc(
-                "Basic Housing Information"
-                + " by Districts and Divisional Secretary Divisions",
-                "Resource/en/Population/CPH_2024"
-                + "/Housing_Preliminary_Report.pdf",
-            ),
-            OriginalDoc(
-                "Population of Sri Lanka"
-                + " by District - Census of Population & Housing 2024",
-                "Resource/en/Population/CPH_2024"
-                + "/CPH2024_Preliminary_Report.pdf",
-            ),
-            OriginalDoc(
-                "Preliminary Report Listing Stage",
-                "Resource/en/Population/CPH_2024"
-                + "/CPH2024_Preliminary_Report.pdf",
-            ),
-        ]
+    def list_all(cls) -> list["OriginalDoc"]:
+        doc_list = []
+        for t in [
+            cls.BASIC_POPULATION,
+            cls.BASIC_HOUSING,
+            cls.PRELIMINARY_REPORT,
+        ]:
+            doc = cls(*t)
+            doc_list.append(doc)
+        return doc_list
 
     @classmethod
     def download_all(cls):
