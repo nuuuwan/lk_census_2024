@@ -112,6 +112,9 @@ class DataTableExtractDataMixin(
 
     def extract_data(self):
         d_list = self.__extract_data_d_list__()
+        if not d_list:
+            log.error(f"No data extracted for {self.name_safe}")
+            return []
         self.validate(d_list, check_population=self.is_population_table)
         self.__write_json__(d_list)
         self.__write_tsv__(d_list)
