@@ -46,6 +46,15 @@ class ReadMe:
             + f"({data_table.dir_table.replace('data/', '')})",
             "",
         ]
+
+        for label, file_path in [
+            ("📄 JSON", data_table.json_path),
+            ("📄 TSV Table", data_table.tsv_path),
+            ("📜 PDF-Table Only", data_table.subset_pdf_path),
+            ("📜 Original Source PDF", data_table.original_doc.pdf_path),
+        ]:
+            lines.append(f"- [{label}]({file_path})")
+        lines.append("")
         return lines
 
     def get_lines_for_data_tables(self) -> list[str]:
