@@ -4,14 +4,11 @@ from dataclasses import dataclass
 
 from utils import WWW, File, JSONFile, Log
 
-from lk_census.original_doc.OriginalDocReadMeMixin import \
-    OriginalDocReadMeMixin
-
 log = Log("OriginalDoc")
 
 
 @dataclass
-class OriginalDoc(OriginalDocReadMeMixin):
+class OriginalDoc:
     title: str
     url_prefix: str
 
