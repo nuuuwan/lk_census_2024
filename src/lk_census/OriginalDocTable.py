@@ -85,31 +85,32 @@ class OriginalDocTable:
 
     def extract_tables(self):
         pages = f"{self.page_start}-{self.page_end}"
-        tables = camelot.read_pdf(
-            self.pdf_path,
-            pages=pages,
-            flavor="stream",
-            strip_text="\n",
-        )
-        for i_table, table in enumerate(tables, start=1):
-            table_id = f"table-{i_table}"
-            os.makedirs(self.dir_table, exist_ok=True)
-
-            plot_path = os.path.join(
-                self.dir_table, f"{table_id}.camelot.plot.png"
+        for flavour in ["lattice", "stream"]:
+            tables = camelot.read_pdf(
+                self.pdf_path,
+                pages=pages,
+                flavor="lattice",
+                strip_text="\n",
             )
-            camelot.plot(table, kind="contour").savefig(plot_path)
-            log.debug(f"Saved plot to {plot_path}")
+            for i_table, table in enumerate(tables, start=1):
+                table_id = f"{flavour}-{i_table}"
+                os.makedirs(self.dir_table, exist_ok=True)
 
-            # Save table as JSON
-            table_data = table.df.to_dict(orient="records")
-            from utils import JSONFile
+                plot_path = os.path.join(
+                    self.dir_table, f"{table_id}.camelot.plot.png"
+                )
+                camelot.plot(table, kind="contour").savefig(plot_path)
+                log.debug(f"Saved plot to {plot_path}")
 
-            json_file = JSONFile(
-                os.path.join(self.dir_table, f"{table_id}.json")
-            )
-            json_file.write(table_data)
-            log.debug(f"Wrote {len(table_data)} rows to {json_file}")
+                # Save table as JSON
+                table_data = table.df.to_dict(orient="records")
+                from utils import JSONFile
+
+                json_file = JSONFile(
+                    os.path.join(self.dir_table, f"{table_id}.json")
+                )
+                json_file.write(table_data)
+                log.debug(f"Wrote {len(table_data)} rows to {json_file}")
 
     @classmethod
     def list_all(cls) -> list["OriginalDocTable"]:
