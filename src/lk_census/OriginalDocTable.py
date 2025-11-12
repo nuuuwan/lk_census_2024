@@ -192,6 +192,43 @@ class OriginalDocTable:
                     + f" total={d['total']} vs sum_of_fields={d['total_from_fields']}"
                 )
 
+        d_list_population_mismatch = []
+        MAX_POPULATION_CHANGE_RATIO = 1.5
+        for d in d_list:
+            if "XX" in d["region_id"]:
+                continue
+            ent = Ent.from_id(d["region_id"])
+            total = d["total"]
+            total_from_ent_2012 = ent.population
+            population_change_ratio = total / total_from_ent_2012
+
+            if (
+                population_change_ratio > MAX_POPULATION_CHANGE_RATIO
+                or population_change_ratio < 1 / MAX_POPULATION_CHANGE_RATIO
+            ):
+                d_list_population_mismatch.append(
+                    d
+                    | dict(
+                        total_from_ent_2012=total_from_ent_2012,
+                        population_change_ratio=population_change_ratio,
+                    )
+                )
+
+        if len(d_list_population_mismatch) == 0:
+            log.debug("✅ All population changes within expected range.")
+        else:
+            log.error(
+                f"⚠️ {len(d_list_population_mismatch)} rows with"
+                + " large population changes:"
+            )
+            for d in d_list_population_mismatch:
+                population_change_ratio = d["population_change_ratio"]
+                log.error(
+                    f" - {d['region_id']} {d['region_name']}:"
+                    + f" {d['total_from_ent_2012']:,} -> {d['total']:,}"
+                    + f" ({population_change_ratio:.2}x)"
+                )
+
     def clean_raw_table(self, raw_table):
         n_rows = len(raw_table)
 
