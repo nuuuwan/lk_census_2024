@@ -24,10 +24,12 @@ class OriginalDoc:
     def file_path(self) -> str:
         safe_name = re.sub(r"\s+", " ", self.title)
         safe_name = self.title.replace(" ", "-")
-        safe_title = "".join(
+        safe_name = "".join(
             char for char in safe_name if char.isalnum() or char == "-"
         )
-        return os.path.join(self.DIR_ORIGINAL_DOCS, f"{safe_title}.pdf")
+        tokens = safe_name.split("-")
+        file_name = "-".join(tokens[:2]) + ".pdf"
+        return os.path.join(self.DIR_ORIGINAL_DOCS, file_name)
 
     def download(self) -> str:
         if os.path.exists(self.file_path):
@@ -53,8 +55,7 @@ class OriginalDoc:
     )
 
     PRELIMINARY_REPORT = (
-        "Population of Sri Lanka"
-        + " by District - Census of Population & Housing 2024",
+        "Preliminary Report - Census of Population & Housing 2024",
         "Resource/en/Population/CPH_2024" + "/CPH2024_Preliminary_Report.pdf",
     )
 
