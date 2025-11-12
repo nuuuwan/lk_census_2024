@@ -1,3 +1,4 @@
+import json
 import os
 
 from utils import File, Format, Log, Time, TimeFormat
@@ -55,6 +56,20 @@ class ReadMe:
         ]:
             lines.append(f"- [{label}]({file_path})")
         lines.append("")
+
+        data_list = data_table.data_list
+        first_data = data_list[0]
+        lines.extend(
+            [
+                "#### Example Data",
+                "",
+                "```json",
+                json.dumps(first_data, indent=4),
+                "```",
+                "",
+            ]
+        )
+
         return lines
 
     def get_lines_for_data_tables(self) -> list[str]:
