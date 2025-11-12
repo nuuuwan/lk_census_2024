@@ -54,12 +54,33 @@ class DataTableLoaderMixin:
         ],
     )
 
+    HOUSING_A8 = (
+        "Basic-Housing-Information"
+        + "-by-Districts-and-Divisional-Secretary-Divisions",
+        "A8. Number of housing units by housing unit structure"
+        + " at district level and DSDs",
+        (109, 127),
+        [
+            "single_house_single_storeyed",
+            "single_house_two_storeyed",
+            "single_house_more_than_two_storeyed",
+            "attached_house_1st_floor",
+            "attached_house_2nd_floor",
+            "attached_house_3rd_or_4th_floor",
+            "attached_house_5th_to_10th_floor",
+            "attached_house_11th_to_19th_floor",
+            "attached_house_from_20th_floor_or_more",
+            "other",
+        ],
+    )
+
     @classmethod
     def list_all(cls):
         for t in [
             # cls.POPULATION_A4,
             # cls.POPULATION_A5,
             # cls.POPULATION_A6,
-            cls.POPULATION_A7,
+            # cls.POPULATION_A7,
+            cls.HOUSING_A8,
         ]:
             yield cls(*t)

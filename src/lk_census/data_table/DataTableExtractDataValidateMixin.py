@@ -103,7 +103,7 @@ class DataTableExtractDataValidateMixin:
             )
 
     @staticmethod
-    def validate(d_list: list[dict]):
+    def validate(d_list: list[dict], check_population):
         d_list_with_ents = [
             d for d in d_list if not d.get("region_id", "").endswith("XX")
         ]
@@ -115,6 +115,7 @@ class DataTableExtractDataValidateMixin:
         )
         DataTableExtractDataValidateMixin.__validate_totals__(d_list)
 
-        DataTableExtractDataValidateMixin.__validate_population_change__(
-            d_list_with_ents
-        )
+        if check_population:
+            DataTableExtractDataValidateMixin.__validate_population_change__(
+                d_list_with_ents
+            )

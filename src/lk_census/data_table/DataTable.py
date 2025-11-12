@@ -26,6 +26,10 @@ class DataTable(
     DIR_DATA = "data"
 
     @property
+    def is_population_table(self) -> bool:
+        return self.doc_name.startswith("Basic-Population")
+
+    @property
     def n_fields(self) -> int:
         return len(self.field_list)
 
