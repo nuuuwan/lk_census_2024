@@ -5,22 +5,9 @@ log = Log("DataTable")
 
 
 class DataTableExtractDataValidateMixin:
+
     @staticmethod
-    def validate(d_list: list[dict]):
-        d_list_without_ents = [
-            ent for ent in d_list if ent.get("region_id", "").endswith("XX")
-        ]
-
-        if not d_list_without_ents:
-            log.debug("✅ All region names mapped to Ents successfully.")
-        else:
-            log.error(
-                f"⁉️ {len(d_list_without_ents)} region names"
-                + " could not be mapped to Ents:"
-            )
-            for d in d_list_without_ents:
-                log.error(f" - {d['region_id']} {d['region_name']}")
-
+    def __validate_ents_without_data__(d_list: list[dict]):
         parsed_id_set = set([d["region_id"] for d in d_list])
         for ent_type in [EntType.COUNTRY, EntType.DISTRICT, EntType.DSD]:
             ent_id_set = set([ent.id for ent in Ent.list_from_type(ent_type)])
@@ -35,6 +22,25 @@ class DataTableExtractDataValidateMixin:
                     log.error(f" - {ent.id} {ent.name}")
             else:
                 log.debug(f"✅All {ent_type.name}s parsed successfully.")
+
+    @staticmethod
+    def __validate_data_without_ents__(d_list: list[dict]):
+        d_list_without_ents = [
+            ent for ent in d_list if ent.get("region_id", "").endswith("XX")
+        ]
+
+        if not d_list_without_ents:
+            log.debug("✅ All region names mapped to Ents successfully.")
+        else:
+            log.error(
+                f"⁉️ {len(d_list_without_ents)} region names"
+                + " could not be mapped to Ents:"
+            )
+            for d in d_list_without_ents:
+                log.error(f" - {d['region_id']} {d['region_name']}")
+
+    @staticmethod
+    def __validate_totals__(d_list: list[dict]):
 
         total_mismatch_d_list = []
         for d in d_list:
@@ -58,6 +64,9 @@ class DataTableExtractDataValidateMixin:
                     + f" {d['total']} != {d['total_from_fields']}"
                 )
 
+    @staticmethod
+    def __validate_population_change__(d_list: list[dict]):
+
         d_list_population_mismatch = []
         MAX_POPULATION_CHANGE_RATIO = 1.5
         for d in d_list:
@@ -79,7 +88,6 @@ class DataTableExtractDataValidateMixin:
                         population_change_ratio=population_change_ratio,
                     )
                 )
-
         if len(d_list_population_mismatch) == 0:
             log.debug("✅ All population changes within expected range.")
         else:
@@ -94,3 +102,17 @@ class DataTableExtractDataValidateMixin:
                     + f" {d['total_from_ent_2012']:,} -> {d['total']:,}"
                     + f" ({population_change_ratio:.2}x)"
                 )
+
+    @staticmethod
+    def validate(d_list: list[dict]):
+        DataTableExtractDataValidateMixin.__validate_data_without_ents__(
+            d_list
+        )
+        DataTableExtractDataValidateMixin.__validate_ents_without_data__(
+            d_list
+        )
+        DataTableExtractDataValidateMixin.__validate_totals__(d_list)
+
+        DataTableExtractDataValidateMixin.__validate_population_change__(
+            d_list
+        )
