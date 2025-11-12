@@ -77,7 +77,7 @@ class OriginalDoc:
     @classmethod
     def build_readme(cls):
         lines = [
-            "# Original Documents",
+            "# Original Documents for Census 2024",
             "",
             "The following original documents have been"
             + f" downloaded from [{cls.URL_BASE}]({cls.URL_BASE})",
