@@ -287,7 +287,7 @@
   },
   {
     "region_id": "LK-1221",
-    "region_name": "Ja-Ela",
+    "region_name": "Ja Ela",
     "region_name_in_data": "- - Ja-Ela",
     "region_ent_type": "dsd",
     "total": 204806,
@@ -521,7 +521,7 @@
   },
   {
     "region_id": "LK-1330",
-    "region_name": "Mathugama",
+    "region_name": "Matugama",
     "region_name_in_data": "Mathugama",
     "region_ent_type": "dsd",
     "total": 86065,
@@ -560,7 +560,7 @@
   },
   {
     "region_id": "LK-1339",
-    "region_name": "Walallavita",
+    "region_name": "Walallawita",
     "region_name_in_data": "Walallavita",
     "region_ent_type": "dsd",
     "total": 55333,
@@ -586,7 +586,7 @@
   },
   {
     "region_id": "LK-2103",
-    "region_name": "Thumpane",
+    "region_name": "Tumpane",
     "region_name_in_data": "Thumpane",
     "region_ent_type": "dsd",
     "total": 38776,
@@ -599,7 +599,7 @@
   },
   {
     "region_id": "LK-2106",
-    "region_name": "Pujapitiya",
+    "region_name": "Poojapitiya",
     "region_name_in_data": "Pujapitiya",
     "region_ent_type": "dsd",
     "total": 60316,
@@ -651,7 +651,7 @@
   },
   {
     "region_id": "LK-2118",
-    "region_name": "Udadumbara",
+    "region_name": "Ududumbara",
     "region_name_in_data": "Udadumbara",
     "region_ent_type": "dsd",
     "total": 23046,
@@ -703,7 +703,7 @@
   },
   {
     "region_id": "LK-2130",
-    "region_name": "Kandy Four Gravets & Gangawata Korale",
+    "region_name": "Gangawata Korale",
     "region_name_in_data": "Kandy Four Gravets Gangawata Korale",
     "region_ent_type": "dsd",
     "total": 153329,
@@ -833,7 +833,7 @@
   },
   {
     "region_id": "LK-2157",
-    "region_name": "Pasbage Korale",
+    "region_name": "Pasbagekorale",
     "region_name_in_data": "Pasbage Korale",
     "region_ent_type": "dsd",
     "total": 65553,
@@ -937,7 +937,7 @@
   },
   {
     "region_id": "LK-2221",
-    "region_name": "Ambanganga Korale",
+    "region_name": "Ambanganga",
     "region_name_in_data": "Ambanganga Korale",
     "region_ent_type": "dsd",
     "total": 15876,
@@ -950,7 +950,7 @@
   },
   {
     "region_id": "LK-2224",
-    "region_name": "Laggala-Pallegama",
+    "region_name": "Laggala",
     "region_name_in_data": "- - Laggala-Pallegama",
     "region_ent_type": "dsd",
     "total": 16300,
@@ -1015,20 +1015,7 @@
   },
   {
     "region_id": "LK-2303",
-    "region_name": "Kothmale",
-    "region_name_in_data": "Kothmale West",
-    "region_ent_type": "dsd",
-    "total": 41955,
-    "sex-male": 20009,
-    "sex-female": 21946,
-    "age-under-15": 9733,
-    "age-15-to-59": 24198,
-    "age-60-to-64": 2566,
-    "age-65-and-over": 5458
-  },
-  {
-    "region_id": "LK-2303",
-    "region_name": "Kothmale",
+    "region_name": "Kothmale East",
     "region_name_in_data": "Kothmale East",
     "region_ent_type": "dsd",
     "total": 61742,
@@ -1040,8 +1027,21 @@
     "age-65-and-over": 7367
   },
   {
+    "region_id": "LK-2304",
+    "region_name": "Kothmale West",
+    "region_name_in_data": "Kothmale West",
+    "region_ent_type": "dsd",
+    "total": 41955,
+    "sex-male": 20009,
+    "sex-female": 21946,
+    "age-under-15": 9733,
+    "age-15-to-59": 24198,
+    "age-60-to-64": 2566,
+    "age-65-and-over": 5458
+  },
+  {
     "region_id": "LK-2306",
-    "region_name": "Hanguranketha",
+    "region_name": "Hanguranketa",
     "region_name_in_data": "Hanguranketha",
     "region_ent_type": "dsd",
     "total": 58931,
@@ -1051,6 +1051,19 @@
     "age-15-to-59": 34341,
     "age-60-to-64": 3581,
     "age-65-and-over": 7973
+  },
+  {
+    "region_id": "LK-2307",
+    "region_name": "Mathurata",
+    "region_name_in_data": "Mathurata",
+    "region_ent_type": "dsd",
+    "total": 33175,
+    "sex-male": 15940,
+    "sex-female": 17235,
+    "age-under-15": 7354,
+    "age-15-to-59": 19182,
+    "age-60-to-64": 2110,
+    "age-65-and-over": 4529
   },
   {
     "region_id": "LK-2309",
@@ -1066,6 +1079,19 @@
     "age-65-and-over": 7897
   },
   {
+    "region_id": "LK-2310",
+    "region_name": "Nildandahinna",
+    "region_name_in_data": "Nildandahinna",
+    "region_ent_type": "dsd",
+    "total": 42422,
+    "sex-male": 20410,
+    "sex-female": 22012,
+    "age-under-15": 9480,
+    "age-15-to-59": 24527,
+    "age-60-to-64": 2688,
+    "age-65-and-over": 5727
+  },
+  {
     "region_id": "LK-2312",
     "region_name": "Nuwara Eliya",
     "region_name_in_data": "Nuwara Eliya",
@@ -1079,46 +1105,7 @@
     "age-65-and-over": 9542
   },
   {
-    "region_id": "LK-2315",
-    "region_name": "Ambagamuwa",
-    "region_name_in_data": "Ambagamuwa",
-    "region_ent_type": "dsd",
-    "total": 42538,
-    "sex-male": 19982,
-    "sex-female": 22556,
-    "age-under-15": 8780,
-    "age-15-to-59": 25081,
-    "age-60-to-64": 2539,
-    "age-65-and-over": 6138
-  },
-  {
-    "region_id": "LK-23XX",
-    "region_name": "Mathurata",
-    "region_name_in_data": "Mathurata",
-    "region_ent_type": "dsd",
-    "total": 33175,
-    "sex-male": 15940,
-    "sex-female": 17235,
-    "age-under-15": 7354,
-    "age-15-to-59": 19182,
-    "age-60-to-64": 2110,
-    "age-65-and-over": 4529
-  },
-  {
-    "region_id": "LK-23XX",
-    "region_name": "Nildandahinna",
-    "region_name_in_data": "Nildandahinna",
-    "region_ent_type": "dsd",
-    "total": 42422,
-    "sex-male": 20410,
-    "sex-female": 22012,
-    "age-under-15": 9480,
-    "age-15-to-59": 24527,
-    "age-60-to-64": 2688,
-    "age-65-and-over": 5727
-  },
-  {
-    "region_id": "LK-23XX",
+    "region_id": "LK-2313",
     "region_name": "Thalawakele",
     "region_name_in_data": "Thalawakele",
     "region_ent_type": "dsd",
@@ -1131,7 +1118,20 @@
     "age-65-and-over": 14258
   },
   {
-    "region_id": "LK-23XX",
+    "region_id": "LK-2315",
+    "region_name": "Ambagamuwa Korale",
+    "region_name_in_data": "Ambagamuwa",
+    "region_ent_type": "dsd",
+    "total": 42538,
+    "sex-male": 19982,
+    "sex-female": 22556,
+    "age-under-15": 8780,
+    "age-15-to-59": 25081,
+    "age-60-to-64": 2539,
+    "age-65-and-over": 6138
+  },
+  {
+    "region_id": "LK-2316",
     "region_name": "Norwood",
     "region_name_in_data": "Norwood",
     "region_ent_type": "dsd",
@@ -1274,6 +1274,19 @@
     "age-65-and-over": 8101
   },
   {
+    "region_id": "LK-3128",
+    "region_name": "Wanduramba",
+    "region_name_in_data": "Wanduramba",
+    "region_ent_type": "dsd",
+    "total": 27702,
+    "sex-male": 13375,
+    "sex-female": 14327,
+    "age-under-15": 5473,
+    "age-15-to-59": 16495,
+    "age-60-to-64": 1590,
+    "age-65-and-over": 4144
+  },
+  {
     "region_id": "LK-3133",
     "region_name": "Ambalangoda",
     "region_name_in_data": "Ambalangoda",
@@ -1288,7 +1301,7 @@
   },
   {
     "region_id": "LK-3134",
-    "region_name": "Gonapeenuwala",
+    "region_name": "Gonapinuwala",
     "region_name_in_data": "Gonapeenuwala",
     "region_ent_type": "dsd",
     "total": 23271,
@@ -1313,8 +1326,34 @@
     "age-65-and-over": 4331
   },
   {
+    "region_id": "LK-3137",
+    "region_name": "Rathgama",
+    "region_name_in_data": "Rathgama",
+    "region_ent_type": "dsd",
+    "total": 41456,
+    "sex-male": 20052,
+    "sex-female": 21404,
+    "age-under-15": 8596,
+    "age-15-to-59": 25101,
+    "age-60-to-64": 2275,
+    "age-65-and-over": 5484
+  },
+  {
+    "region_id": "LK-3138",
+    "region_name": "Madampagama",
+    "region_name_in_data": "Madampagama",
+    "region_ent_type": "dsd",
+    "total": 33408,
+    "sex-male": 16011,
+    "sex-female": 17397,
+    "age-under-15": 7149,
+    "age-15-to-59": 20000,
+    "age-60-to-64": 1883,
+    "age-65-and-over": 4376
+  },
+  {
     "region_id": "LK-3139",
-    "region_name": "Galle Four Gravets",
+    "region_name": "Galle 4 Gravets",
     "region_name_in_data": "Galle Four Gravets",
     "region_ent_type": "dsd",
     "total": 108321,
@@ -1391,45 +1430,6 @@
     "age-65-and-over": 9062
   },
   {
-    "region_id": "LK-31XX",
-    "region_name": "Wanduramba",
-    "region_name_in_data": "Wanduramba",
-    "region_ent_type": "dsd",
-    "total": 27702,
-    "sex-male": 13375,
-    "sex-female": 14327,
-    "age-under-15": 5473,
-    "age-15-to-59": 16495,
-    "age-60-to-64": 1590,
-    "age-65-and-over": 4144
-  },
-  {
-    "region_id": "LK-31XX",
-    "region_name": "Madampagama",
-    "region_name_in_data": "Madampagama",
-    "region_ent_type": "dsd",
-    "total": 33408,
-    "sex-male": 16011,
-    "sex-female": 17397,
-    "age-under-15": 7149,
-    "age-15-to-59": 20000,
-    "age-60-to-64": 1883,
-    "age-65-and-over": 4376
-  },
-  {
-    "region_id": "LK-31XX",
-    "region_name": "Rathgama",
-    "region_name_in_data": "Rathgama",
-    "region_ent_type": "dsd",
-    "total": 41456,
-    "sex-male": 20052,
-    "sex-female": 21404,
-    "age-under-15": 8596,
-    "age-15-to-59": 25101,
-    "age-60-to-64": 2275,
-    "age-65-and-over": 5484
-  },
-  {
     "region_id": "LK-32",
     "region_name": "Matara",
     "region_name_in_data": "Matara District",
@@ -1444,7 +1444,7 @@
   },
   {
     "region_id": "LK-3203",
-    "region_name": "Pitabeddara",
+    "region_name": "Pitabaddara",
     "region_name_in_data": "Pitabeddara",
     "region_ent_type": "dsd",
     "total": 48867,
@@ -1548,7 +1548,7 @@
   },
   {
     "region_id": "LK-3227",
-    "region_name": "Kamburupitiya",
+    "region_name": "Kaburupitiya",
     "region_name_in_data": "Kamburupitiya",
     "region_ent_type": "dsd",
     "total": 42816,
@@ -1639,7 +1639,7 @@
   },
   {
     "region_id": "LK-3248",
-    "region_name": "Dickwella",
+    "region_name": "Dikwella",
     "region_name_in_data": "Dickwella",
     "region_ent_type": "dsd",
     "total": 56468,
@@ -1678,7 +1678,7 @@
   },
   {
     "region_id": "LK-3306",
-    "region_name": "Lunugamvehera",
+    "region_name": "Lunugamwehera",
     "region_name_in_data": "Lunugamwehera",
     "region_ent_type": "dsd",
     "total": 36923,
@@ -1834,7 +1834,7 @@
   },
   {
     "region_id": "LK-4103",
-    "region_name": "Island North (Kayts)",
+    "region_name": "Islands North (Kayts)",
     "region_name_in_data": "Island North Kayts",
     "region_ent_type": "dsd",
     "total": 9931,
@@ -1873,7 +1873,7 @@
   },
   {
     "region_id": "LK-4109",
-    "region_name": "Valikamam South-West (Sandilipay)",
+    "region_name": "Valikamam South West (Sandilipay)",
     "region_name_in_data": "Valikamam South-West Sandilipay",
     "region_ent_type": "dsd",
     "total": 52121,
@@ -1886,7 +1886,7 @@
   },
   {
     "region_id": "LK-4112",
-    "region_name": "Valikamam North (Tellipallai)",
+    "region_name": "Valikamam North (Thllippalai)",
     "region_name_in_data": "Valikamam North",
     "region_ent_type": "dsd",
     "total": 44914,
@@ -1925,7 +1925,7 @@
   },
   {
     "region_id": "LK-4121",
-    "region_name": "Vadamaradchi South-West (Karaveddy)",
+    "region_name": "Vadamaradchchi South-West (Karaveddy)",
     "region_name_in_data": "Vadamaradchy South-West Karaveddy",
     "region_ent_type": "dsd",
     "total": 41102,
@@ -1938,7 +1938,7 @@
   },
   {
     "region_id": "LK-4124",
-    "region_name": "Vadamaradchi East",
+    "region_name": "Vadamaradchchi East",
     "region_name_in_data": "Vadamaradchy East",
     "region_ent_type": "dsd",
     "total": 13537,
@@ -2003,7 +2003,7 @@
   },
   {
     "region_id": "LK-4139",
-    "region_name": "Island South (Velanai)",
+    "region_name": "Islands South (Velanai)",
     "region_name_in_data": "Island South Velanai",
     "region_ent_type": "dsd",
     "total": 16600,
@@ -2081,7 +2081,7 @@
   },
   {
     "region_id": "LK-4212",
-    "region_name": "Nanattan",
+    "region_name": "Nanaddan",
     "region_name_in_data": "Nanattan",
     "region_ent_type": "dsd",
     "total": 19674,
@@ -2341,7 +2341,7 @@
   },
   {
     "region_id": "LK-5103",
-    "region_name": "Koralai Pattu North (Vaharai)",
+    "region_name": "Koralai Pattu North",
     "region_name_in_data": "Koralai Pattu North Vaharai",
     "region_ent_type": "dsd",
     "total": 25475,
@@ -2366,21 +2366,8 @@
     "age-65-and-over": 1930
   },
   {
-    "region_id": "LK-5106",
-    "region_name": "Koralai Pattu  West (Oddamavadi)",
-    "region_name_in_data": "Koralai Pattu West Oddamavadi",
-    "region_ent_type": "dsd",
-    "total": 24583,
-    "sex-male": 11670,
-    "sex-female": 12913,
-    "age-under-15": 6422,
-    "age-15-to-59": 15163,
-    "age-60-to-64": 1134,
-    "age-65-and-over": 1864
-  },
-  {
-    "region_id": "LK-5109",
-    "region_name": "Koralai Pattu (Valachchenai)",
+    "region_id": "LK-5104",
+    "region_name": "Koralai Pattu Central",
     "region_name_in_data": "Koralai Pattu Valachchenai",
     "region_ent_type": "dsd",
     "total": 28762,
@@ -2392,8 +2379,21 @@
     "age-65-and-over": 2014
   },
   {
+    "region_id": "LK-5106",
+    "region_name": "Koralai Pattu West",
+    "region_name_in_data": "Koralai Pattu West Oddamavadi",
+    "region_ent_type": "dsd",
+    "total": 24583,
+    "sex-male": 11670,
+    "sex-female": 12913,
+    "age-under-15": 6422,
+    "age-15-to-59": 15163,
+    "age-60-to-64": 1134,
+    "age-65-and-over": 1864
+  },
+  {
     "region_id": "LK-5110",
-    "region_name": "Koralai Pattu South (Kiran)",
+    "region_name": "Koralai Pattu South",
     "region_name_in_data": "Koralai Pattu South Kiran",
     "region_ent_type": "dsd",
     "total": 28302,
@@ -2405,7 +2405,7 @@
     "age-65-and-over": 2098
   },
   {
-    "region_id": "LK-5112",
+    "region_id": "LK-5115",
     "region_name": "Eravur Pattu",
     "region_name_in_data": "Eravur Pattu",
     "region_ent_type": "dsd",
@@ -2416,19 +2416,6 @@
     "age-15-to-59": 59202,
     "age-60-to-64": 3638,
     "age-65-and-over": 6783
-  },
-  {
-    "region_id": "LK-5115",
-    "region_name": "Eravur Town",
-    "region_name_in_data": "Eravur Town",
-    "region_ent_type": "dsd",
-    "total": 26468,
-    "sex-male": 12218,
-    "sex-female": 14250,
-    "age-under-15": 7257,
-    "age-15-to-59": 15813,
-    "age-60-to-64": 1156,
-    "age-65-and-over": 2242
   },
   {
     "region_id": "LK-5118",
@@ -2471,7 +2458,7 @@
   },
   {
     "region_id": "LK-5127",
-    "region_name": "Manmunai Pattu (Araipattai)",
+    "region_name": "Manmunai Pattu",
     "region_name_in_data": "Manmunai Pattu Araipattai",
     "region_ent_type": "dsd",
     "total": 36533,
@@ -2484,7 +2471,7 @@
   },
   {
     "region_id": "LK-5130",
-    "region_name": "Manmunai South-West",
+    "region_name": "Manmunai South West",
     "region_name_in_data": "Manmunai South-West",
     "region_ent_type": "dsd",
     "total": 26676,
@@ -2510,7 +2497,7 @@
   },
   {
     "region_id": "LK-5136",
-    "region_name": "Manmunai South & Eruvil pattu",
+    "region_name": "Manmunai South & Eruvil Pattu",
     "region_name_in_data": "Manmunai South Eruvil Pattu",
     "region_ent_type": "dsd",
     "total": 62920,
@@ -2520,6 +2507,19 @@
     "age-15-to-59": 39977,
     "age-60-to-64": 3043,
     "age-65-and-over": 5913
+  },
+  {
+    "region_id": "LK-5139",
+    "region_name": "Eravur Town",
+    "region_name_in_data": "Eravur Town",
+    "region_ent_type": "dsd",
+    "total": 26468,
+    "sex-male": 12218,
+    "sex-female": 14250,
+    "age-under-15": 7257,
+    "age-15-to-59": 15813,
+    "age-60-to-64": 1156,
+    "age-65-and-over": 2242
   },
   {
     "region_id": "LK-52",
@@ -2614,7 +2614,7 @@
   },
   {
     "region_id": "LK-5218",
-    "region_name": "Samanthurai",
+    "region_name": "Sammanthurai",
     "region_name_in_data": "Samanthurai",
     "region_ent_type": "dsd",
     "total": 72794,
@@ -2627,19 +2627,6 @@
   },
   {
     "region_id": "LK-5221",
-    "region_name": "Kalmunai Tamil Division",
-    "region_name_in_data": "Kalmunai North Sub",
-    "region_ent_type": "dsd",
-    "total": 31556,
-    "sex-male": 14355,
-    "sex-female": 17201,
-    "age-under-15": 7504,
-    "age-15-to-59": 19153,
-    "age-60-to-64": 1655,
-    "age-65-and-over": 3244
-  },
-  {
-    "region_id": "LK-5224",
     "region_name": "Kalmunai",
     "region_name_in_data": "Kalmunai",
     "region_ent_type": "dsd",
@@ -2666,7 +2653,7 @@
   },
   {
     "region_id": "LK-5227",
-    "region_name": "Karaitheevu",
+    "region_name": "Karaitivu",
     "region_name_in_data": "Karaitheevu",
     "region_ent_type": "dsd",
     "total": 19493,
@@ -2679,7 +2666,7 @@
   },
   {
     "region_id": "LK-5230",
-    "region_name": "Ninthavur",
+    "region_name": "Nintavur",
     "region_name_in_data": "Ninthavur",
     "region_ent_type": "dsd",
     "total": 30671,
@@ -2692,7 +2679,7 @@
   },
   {
     "region_id": "LK-5233",
-    "region_name": "Addalachchenai",
+    "region_name": "Addalaichenai",
     "region_name_in_data": "Addalachchenai",
     "region_ent_type": "dsd",
     "total": 53214,
@@ -2731,7 +2718,7 @@
   },
   {
     "region_id": "LK-5239",
-    "region_name": "Alayadiwembu",
+    "region_name": "Alayadivembu",
     "region_name_in_data": "Alayadiwembu",
     "region_ent_type": "dsd",
     "total": 24838,
@@ -2757,7 +2744,7 @@
   },
   {
     "region_id": "LK-5245",
-    "region_name": "Thirukkovil",
+    "region_name": "Tirukkovil",
     "region_name_in_data": "Thirukkovil",
     "region_ent_type": "dsd",
     "total": 29252,
@@ -2770,7 +2757,7 @@
   },
   {
     "region_id": "LK-5248",
-    "region_name": "Pothuvil",
+    "region_name": "Pottuvil",
     "region_name_in_data": "Pothuvil",
     "region_ent_type": "dsd",
     "total": 42908,
@@ -2793,6 +2780,19 @@
     "age-15-to-59": 6828,
     "age-60-to-64": 444,
     "age-65-and-over": 898
+  },
+  {
+    "region_id": "LK-52XX",
+    "region_name": "Kalmunai Tamil Division",
+    "region_name_in_data": "Kalmunai North Sub",
+    "region_ent_type": "dsd",
+    "total": 31556,
+    "sex-male": 14355,
+    "sex-female": 17201,
+    "age-under-15": 7504,
+    "age-15-to-59": 19153,
+    "age-60-to-64": 1655,
+    "age-65-and-over": 3244
   },
   {
     "region_id": "LK-53",
@@ -2822,7 +2822,7 @@
   },
   {
     "region_id": "LK-5306",
-    "region_name": "Kuchchaveli",
+    "region_name": "Kuchchaweli",
     "region_name_in_data": "Kuchchaveli",
     "region_ent_type": "dsd",
     "total": 39873,
@@ -2861,7 +2861,7 @@
   },
   {
     "region_id": "LK-5315",
-    "region_name": "Trincomalee Town and Gravets",
+    "region_name": "Town & Gravets",
     "region_name_in_data": "Trincomalee Town and Gravets",
     "region_ent_type": "dsd",
     "total": 100270,
@@ -2887,7 +2887,7 @@
   },
   {
     "region_id": "LK-5321",
-    "region_name": "Kanthale",
+    "region_name": "Kantale",
     "region_name_in_data": "Kanthale",
     "region_ent_type": "dsd",
     "total": 50840,
@@ -2913,7 +2913,7 @@
   },
   {
     "region_id": "LK-5327",
-    "region_name": "Muttur",
+    "region_name": "Muthur",
     "region_name_in_data": "Muttur",
     "region_ent_type": "dsd",
     "total": 71881,
@@ -2939,7 +2939,7 @@
   },
   {
     "region_id": "LK-5333",
-    "region_name": "Verugal (Eachchilampattu)",
+    "region_name": "Verugal",
     "region_name_in_data": "Verugal Eachchilampattu",
     "region_ent_type": "dsd",
     "total": 14062,
@@ -3017,7 +3017,7 @@
   },
   {
     "region_id": "LK-6115",
-    "region_name": "Kotavehera",
+    "region_name": "Kotawehera",
     "region_name_in_data": "Kotavehera",
     "region_ent_type": "dsd",
     "total": 24031,
@@ -3069,7 +3069,7 @@
   },
   {
     "region_id": "LK-6127",
-    "region_name": "Polpithigama",
+    "region_name": "Polpitigama",
     "region_name_in_data": "Polpithigama",
     "region_ent_type": "dsd",
     "total": 86411,
@@ -3251,7 +3251,7 @@
   },
   {
     "region_id": "LK-6166",
-    "region_name": "Weerambugedara",
+    "region_name": "Weerabugedara",
     "region_name_in_data": "Weerambugedara",
     "region_ent_type": "dsd",
     "total": 36590,
@@ -3381,7 +3381,7 @@
   },
   {
     "region_id": "LK-6206",
-    "region_name": "Vanathawilluwa",
+    "region_name": "Vanathavilluwa",
     "region_name_in_data": "Vanathawilluwa",
     "region_ent_type": "dsd",
     "total": 19991,
@@ -3680,7 +3680,7 @@
   },
   {
     "region_id": "LK-7124",
-    "region_name": "Horowpothana",
+    "region_name": "Horowpathana",
     "region_name_in_data": "Horowpothana",
     "region_ent_type": "dsd",
     "total": 41261,
@@ -3693,7 +3693,7 @@
   },
   {
     "region_id": "LK-7127",
-    "region_name": "Galenbindunuwewa",
+    "region_name": "Galenbidunuwewa",
     "region_name_in_data": "Galenbindunuwewa",
     "region_ent_type": "dsd",
     "total": 51952,
@@ -3771,7 +3771,7 @@
   },
   {
     "region_id": "LK-7145",
-    "region_name": "Thambuttegama",
+    "region_name": "Thambuththegama",
     "region_name_in_data": "Thambuttegama",
     "region_ent_type": "dsd",
     "total": 47061,
@@ -3888,7 +3888,7 @@
   },
   {
     "region_id": "LK-7203",
-    "region_name": "Hingurakgoda",
+    "region_name": "Higurakgoda",
     "region_name_in_data": "Hingurakgoda",
     "region_ent_type": "dsd",
     "total": 70651,
@@ -4018,7 +4018,7 @@
   },
   {
     "region_id": "LK-8109",
-    "region_name": "Meegahakivula",
+    "region_name": "Meegahakiula",
     "region_name_in_data": "Meegahakivula",
     "region_ent_type": "dsd",
     "total": 22683,
@@ -4031,7 +4031,7 @@
   },
   {
     "region_id": "LK-8112",
-    "region_name": "Kandaketiya",
+    "region_name": "Kandeketiya",
     "region_name_in_data": "Kandaketiya",
     "region_ent_type": "dsd",
     "total": 26913,
@@ -4109,7 +4109,7 @@
   },
   {
     "region_id": "LK-8127",
-    "region_name": "Uva Paranagama",
+    "region_name": "Uvaparanagama",
     "region_name_in_data": "Uva Paranagama",
     "region_ent_type": "dsd",
     "total": 82069,
@@ -4187,7 +4187,7 @@
   },
   {
     "region_id": "LK-82",
-    "region_name": "Moneragala",
+    "region_name": "Monaragala",
     "region_name_in_data": "Moneragala District",
     "region_ent_type": "district",
     "total": 527585,
@@ -4252,7 +4252,7 @@
   },
   {
     "region_id": "LK-8215",
-    "region_name": "Moneragala",
+    "region_name": "Monaragala",
     "region_name_in_data": "Moneragala",
     "region_ent_type": "dsd",
     "total": 56951,
@@ -4317,7 +4317,7 @@
   },
   {
     "region_id": "LK-8230",
-    "region_name": "Thanamalvila",
+    "region_name": "Thanamalwila",
     "region_name_in_data": "Thanamalvila",
     "region_ent_type": "dsd",
     "total": 31238,
@@ -4433,6 +4433,19 @@
     "age-65-and-over": 9743
   },
   {
+    "region_id": "LK-9119",
+    "region_name": "Kalthota",
+    "region_name_in_data": "Kalthota",
+    "region_ent_type": "dsd",
+    "total": 13018,
+    "sex-male": 6440,
+    "sex-female": 6578,
+    "age-under-15": 2772,
+    "age-15-to-59": 7588,
+    "age-60-to-64": 759,
+    "age-65-and-over": 1899
+  },
+  {
     "region_id": "LK-9121",
     "region_name": "Opanayake",
     "region_name_in_data": "Opanayake",
@@ -4512,7 +4525,7 @@
   },
   {
     "region_id": "LK-9139",
-    "region_name": "Kahawatta",
+    "region_name": "Kahawattha",
     "region_name_in_data": "Kahawatta",
     "region_ent_type": "dsd",
     "total": 43708,
@@ -4576,19 +4589,6 @@
     "age-65-and-over": 6471
   },
   {
-    "region_id": "LK-91XX",
-    "region_name": "Kalthota",
-    "region_name_in_data": "Kalthota",
-    "region_ent_type": "dsd",
-    "total": 13018,
-    "sex-male": 6440,
-    "sex-female": 6578,
-    "age-under-15": 2772,
-    "age-15-to-59": 7588,
-    "age-60-to-64": 759,
-    "age-65-and-over": 1899
-  },
-  {
     "region_id": "LK-92",
     "region_name": "Kegalle",
     "region_name_in_data": "Kegalle District",
@@ -4629,7 +4629,7 @@
   },
   {
     "region_id": "LK-9209",
-    "region_name": "Aranayaka",
+    "region_name": "Aranayake",
     "region_name_in_data": "Aranayaka",
     "region_ent_type": "dsd",
     "total": 69075,
@@ -4694,7 +4694,7 @@
   },
   {
     "region_id": "LK-9224",
-    "region_name": "Bulathkohupitiya",
+    "region_name": "Bulathkohipitiya",
     "region_name_in_data": "Bulathkohupitiya",
     "region_ent_type": "dsd",
     "total": 45237,
@@ -4707,7 +4707,7 @@
   },
   {
     "region_id": "LK-9227",
-    "region_name": "Yatiyanthota",
+    "region_name": "Yatiyantota",
     "region_name_in_data": "Yatiyanthota",
     "region_ent_type": "dsd",
     "total": 62255,
@@ -4720,7 +4720,7 @@
   },
   {
     "region_id": "LK-9230",
-    "region_name": "Dehiovita",
+    "region_name": "Dehiowita",
     "region_name_in_data": "Dehiovita",
     "region_ent_type": "dsd",
     "total": 84967,

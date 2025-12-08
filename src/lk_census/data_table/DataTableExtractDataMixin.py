@@ -3,10 +3,12 @@ import os
 from gig import Ent, EntType
 from utils import JSONFile, Log, TSVFile
 
-from lk_census.data_table.DataTableExtractDataCleanerMixin import \
-    DataTableExtractDataCleanerMixin
-from lk_census.data_table.DataTableExtractDataValidateMixin import \
-    DataTableExtractDataValidateMixin
+from lk_census.data_table.DataTableExtractDataCleanerMixin import (
+    DataTableExtractDataCleanerMixin,
+)
+from lk_census.data_table.DataTableExtractDataValidateMixin import (
+    DataTableExtractDataValidateMixin,
+)
 
 log = Log("DataTable")
 
@@ -25,6 +27,16 @@ class DataTableExtractDataMixin(
 
     @staticmethod
     def __get_ent_data__(region_name, ent_type, current_parent_id):
+        region_name = region_name.replace("- -", "").strip()
+
+        region_name = {
+            "Laggala-Pallegama": "Laggala",
+            "Kandy Four Gravets Gangawata Korale": "Gangawata Korale",
+            "Kandy Four Gravets Gangawata Korale": "Gangawata Korale",
+            "Trincomalee Town and Gravets": "Town & Gravets",
+            "Verugal Eachchilampattu": "Verugal",
+        }.get(region_name, region_name)
+
         candidate_ents = Ent.list_from_name_fuzzy(
             name_fuzzy=region_name,
             filter_ent_type=ent_type,
@@ -121,7 +133,7 @@ class DataTableExtractDataMixin(
         if not d_list:
             log.error(f"No data extracted for {self.name_safe}")
             return []
-        self.validate(d_list, check_population=self.is_population_table)
+        self.validate(d_list)
         self.__write_json__(d_list)
         self.__write_tsv__(d_list)
         return d_list

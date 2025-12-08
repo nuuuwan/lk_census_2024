@@ -331,7 +331,7 @@
   },
   {
     "region_id": "LK-1221",
-    "region_name": "Ja-Ela",
+    "region_name": "Ja Ela",
     "region_name_in_data": "- - Ja-Ela",
     "region_ent_type": "dsd",
     "total": 57689,
@@ -601,7 +601,7 @@
   },
   {
     "region_id": "LK-1330",
-    "region_name": "Mathugama",
+    "region_name": "Matugama",
     "region_name_in_data": "Mathugama",
     "region_ent_type": "dsd",
     "total": 23503,
@@ -646,7 +646,7 @@
   },
   {
     "region_id": "LK-1339",
-    "region_name": "Walallavita",
+    "region_name": "Walallawita",
     "region_name_in_data": "Walallavita",
     "region_ent_type": "dsd",
     "total": 15924,
@@ -676,7 +676,7 @@
   },
   {
     "region_id": "LK-2103",
-    "region_name": "Thumpane",
+    "region_name": "Tumpane",
     "region_name_in_data": "Thumpane",
     "region_ent_type": "dsd",
     "total": 10897,
@@ -691,7 +691,7 @@
   },
   {
     "region_id": "LK-2106",
-    "region_name": "Pujapitiya",
+    "region_name": "Poojapitiya",
     "region_name_in_data": "Pujapitiya",
     "region_ent_type": "dsd",
     "total": 15815,
@@ -751,7 +751,7 @@
   },
   {
     "region_id": "LK-2118",
-    "region_name": "Udadumbara",
+    "region_name": "Ududumbara",
     "region_name_in_data": "Udadumbara",
     "region_ent_type": "dsd",
     "total": 6902,
@@ -811,7 +811,7 @@
   },
   {
     "region_id": "LK-2130",
-    "region_name": "Kandy Four Gravets & Gangawata Korale",
+    "region_name": "Gangawata Korale",
     "region_name_in_data": "Kandy Four Gravets Gangawata Korale",
     "region_ent_type": "dsd",
     "total": 40324,
@@ -961,7 +961,7 @@
   },
   {
     "region_id": "LK-2157",
-    "region_name": "Pasbage Korale",
+    "region_name": "Pasbagekorale",
     "region_name_in_data": "Pasbage Korale",
     "region_ent_type": "dsd",
     "total": 17634,
@@ -1081,7 +1081,7 @@
   },
   {
     "region_id": "LK-2221",
-    "region_name": "Ambanganga Korale",
+    "region_name": "Ambanganga",
     "region_name_in_data": "Ambanganga Korale",
     "region_ent_type": "dsd",
     "total": 4732,
@@ -1096,7 +1096,7 @@
   },
   {
     "region_id": "LK-2224",
-    "region_name": "Laggala-Pallegama",
+    "region_name": "Laggala",
     "region_name_in_data": "- - Laggala-Pallegama",
     "region_ent_type": "dsd",
     "total": 5093,
@@ -1171,22 +1171,7 @@
   },
   {
     "region_id": "LK-2303",
-    "region_name": "Kothmale",
-    "region_name_in_data": "Kothmale West",
-    "region_ent_type": "dsd",
-    "total": 11632,
-    "electricity-from_national_grid": 11339,
-    "electricity-from_rural_hydro_power_project": 104,
-    "other-kerosene_lamp": 168,
-    "other-solar_power_grid_connected": 0,
-    "other-solar_power_standalone": 2,
-    "other-bio_gas": 0,
-    "other-generator": 1,
-    "other-other": 18
-  },
-  {
-    "region_id": "LK-2303",
-    "region_name": "Kothmale",
+    "region_name": "Kothmale East",
     "region_name_in_data": "Kothmale East",
     "region_ent_type": "dsd",
     "total": 17473,
@@ -1200,8 +1185,23 @@
     "other-other": 17
   },
   {
+    "region_id": "LK-2304",
+    "region_name": "Kothmale West",
+    "region_name_in_data": "Kothmale West",
+    "region_ent_type": "dsd",
+    "total": 11632,
+    "electricity-from_national_grid": 11339,
+    "electricity-from_rural_hydro_power_project": 104,
+    "other-kerosene_lamp": 168,
+    "other-solar_power_grid_connected": 0,
+    "other-solar_power_standalone": 2,
+    "other-bio_gas": 0,
+    "other-generator": 1,
+    "other-other": 18
+  },
+  {
     "region_id": "LK-2306",
-    "region_name": "Hanguranketha",
+    "region_name": "Hanguranketa",
     "region_name_in_data": "Hanguranketha",
     "region_ent_type": "dsd",
     "total": 16950,
@@ -1213,6 +1213,21 @@
     "other-bio_gas": 0,
     "other-generator": 3,
     "other-other": 44
+  },
+  {
+    "region_id": "LK-2307",
+    "region_name": "Mathurata",
+    "region_name_in_data": "Mathurata",
+    "region_ent_type": "dsd",
+    "total": 9768,
+    "electricity-from_national_grid": 9519,
+    "electricity-from_rural_hydro_power_project": 12,
+    "other-kerosene_lamp": 196,
+    "other-solar_power_grid_connected": 2,
+    "other-solar_power_standalone": 17,
+    "other-bio_gas": 0,
+    "other-generator": 3,
+    "other-other": 19
   },
   {
     "region_id": "LK-2309",
@@ -1230,6 +1245,21 @@
     "other-other": 50
   },
   {
+    "region_id": "LK-2310",
+    "region_name": "Nildandahinna",
+    "region_name_in_data": "Nildandahinna",
+    "region_ent_type": "dsd",
+    "total": 12587,
+    "electricity-from_national_grid": 12025,
+    "electricity-from_rural_hydro_power_project": 228,
+    "other-kerosene_lamp": 298,
+    "other-solar_power_grid_connected": 6,
+    "other-solar_power_standalone": 16,
+    "other-bio_gas": 0,
+    "other-generator": 1,
+    "other-other": 13
+  },
+  {
     "region_id": "LK-2312",
     "region_name": "Nuwara Eliya",
     "region_name_in_data": "Nuwara Eliya",
@@ -1245,52 +1275,7 @@
     "other-other": 25
   },
   {
-    "region_id": "LK-2315",
-    "region_name": "Ambagamuwa",
-    "region_name_in_data": "Ambagamuwa",
-    "region_ent_type": "dsd",
-    "total": 12791,
-    "electricity-from_national_grid": 12598,
-    "electricity-from_rural_hydro_power_project": 17,
-    "other-kerosene_lamp": 151,
-    "other-solar_power_grid_connected": 1,
-    "other-solar_power_standalone": 3,
-    "other-bio_gas": 0,
-    "other-generator": 1,
-    "other-other": 20
-  },
-  {
-    "region_id": "LK-23XX",
-    "region_name": "Mathurata",
-    "region_name_in_data": "Mathurata",
-    "region_ent_type": "dsd",
-    "total": 9768,
-    "electricity-from_national_grid": 9519,
-    "electricity-from_rural_hydro_power_project": 12,
-    "other-kerosene_lamp": 196,
-    "other-solar_power_grid_connected": 2,
-    "other-solar_power_standalone": 17,
-    "other-bio_gas": 0,
-    "other-generator": 3,
-    "other-other": 19
-  },
-  {
-    "region_id": "LK-23XX",
-    "region_name": "Nildandahinna",
-    "region_name_in_data": "Nildandahinna",
-    "region_ent_type": "dsd",
-    "total": 12587,
-    "electricity-from_national_grid": 12025,
-    "electricity-from_rural_hydro_power_project": 228,
-    "other-kerosene_lamp": 298,
-    "other-solar_power_grid_connected": 6,
-    "other-solar_power_standalone": 16,
-    "other-bio_gas": 0,
-    "other-generator": 1,
-    "other-other": 13
-  },
-  {
-    "region_id": "LK-23XX",
+    "region_id": "LK-2313",
     "region_name": "Thalawakele",
     "region_name_in_data": "Thalawakele",
     "region_ent_type": "dsd",
@@ -1305,7 +1290,22 @@
     "other-other": 93
   },
   {
-    "region_id": "LK-23XX",
+    "region_id": "LK-2315",
+    "region_name": "Ambagamuwa Korale",
+    "region_name_in_data": "Ambagamuwa",
+    "region_ent_type": "dsd",
+    "total": 12791,
+    "electricity-from_national_grid": 12598,
+    "electricity-from_rural_hydro_power_project": 17,
+    "other-kerosene_lamp": 151,
+    "other-solar_power_grid_connected": 1,
+    "other-solar_power_standalone": 3,
+    "other-bio_gas": 0,
+    "other-generator": 1,
+    "other-other": 20
+  },
+  {
+    "region_id": "LK-2316",
     "region_name": "Norwood",
     "region_name_in_data": "Norwood",
     "region_ent_type": "dsd",
@@ -1470,8 +1470,23 @@
     "other-other": 42
   },
   {
+    "region_id": "LK-3128",
+    "region_name": "Wanduramba",
+    "region_name_in_data": "Wanduramba",
+    "region_ent_type": "dsd",
+    "total": 7997,
+    "electricity-from_national_grid": 7891,
+    "electricity-from_rural_hydro_power_project": 21,
+    "other-kerosene_lamp": 64,
+    "other-solar_power_grid_connected": 1,
+    "other-solar_power_standalone": 2,
+    "other-bio_gas": 0,
+    "other-generator": 2,
+    "other-other": 16
+  },
+  {
     "region_id": "LK-3130",
-    "region_name": "Welivitiya-Divithura",
+    "region_name": "Welivitiya-Divitura",
     "region_name_in_data": "-- Welivitiya-Divithura",
     "region_ent_type": "dsd",
     "total": 8632,
@@ -1501,7 +1516,7 @@
   },
   {
     "region_id": "LK-3134",
-    "region_name": "Gonapeenuwala",
+    "region_name": "Gonapinuwala",
     "region_name_in_data": "Gonapeenuwala",
     "region_ent_type": "dsd",
     "total": 6833,
@@ -1530,8 +1545,38 @@
     "other-other": 17
   },
   {
+    "region_id": "LK-3137",
+    "region_name": "Rathgama",
+    "region_name_in_data": "Rathgama",
+    "region_ent_type": "dsd",
+    "total": 10829,
+    "electricity-from_national_grid": 10726,
+    "electricity-from_rural_hydro_power_project": 7,
+    "other-kerosene_lamp": 69,
+    "other-solar_power_grid_connected": 5,
+    "other-solar_power_standalone": 6,
+    "other-bio_gas": 0,
+    "other-generator": 1,
+    "other-other": 15
+  },
+  {
+    "region_id": "LK-3138",
+    "region_name": "Madampagama",
+    "region_name_in_data": "Madampagama",
+    "region_ent_type": "dsd",
+    "total": 9205,
+    "electricity-from_national_grid": 9061,
+    "electricity-from_rural_hydro_power_project": 34,
+    "other-kerosene_lamp": 63,
+    "other-solar_power_grid_connected": 9,
+    "other-solar_power_standalone": 4,
+    "other-bio_gas": 0,
+    "other-generator": 0,
+    "other-other": 34
+  },
+  {
     "region_id": "LK-3139",
-    "region_name": "Galle Four Gravets",
+    "region_name": "Galle 4 Gravets",
     "region_name_in_data": "Galle Four Gravets",
     "region_ent_type": "dsd",
     "total": 26475,
@@ -1620,51 +1665,6 @@
     "other-other": 32
   },
   {
-    "region_id": "LK-31XX",
-    "region_name": "Wanduramba",
-    "region_name_in_data": "Wanduramba",
-    "region_ent_type": "dsd",
-    "total": 7997,
-    "electricity-from_national_grid": 7891,
-    "electricity-from_rural_hydro_power_project": 21,
-    "other-kerosene_lamp": 64,
-    "other-solar_power_grid_connected": 1,
-    "other-solar_power_standalone": 2,
-    "other-bio_gas": 0,
-    "other-generator": 2,
-    "other-other": 16
-  },
-  {
-    "region_id": "LK-31XX",
-    "region_name": "Madampagama",
-    "region_name_in_data": "Madampagama",
-    "region_ent_type": "dsd",
-    "total": 9205,
-    "electricity-from_national_grid": 9061,
-    "electricity-from_rural_hydro_power_project": 34,
-    "other-kerosene_lamp": 63,
-    "other-solar_power_grid_connected": 9,
-    "other-solar_power_standalone": 4,
-    "other-bio_gas": 0,
-    "other-generator": 0,
-    "other-other": 34
-  },
-  {
-    "region_id": "LK-31XX",
-    "region_name": "Rathgama",
-    "region_name_in_data": "Rathgama",
-    "region_ent_type": "dsd",
-    "total": 10829,
-    "electricity-from_national_grid": 10726,
-    "electricity-from_rural_hydro_power_project": 7,
-    "other-kerosene_lamp": 69,
-    "other-solar_power_grid_connected": 5,
-    "other-solar_power_standalone": 6,
-    "other-bio_gas": 0,
-    "other-generator": 1,
-    "other-other": 15
-  },
-  {
     "region_id": "LK-32",
     "region_name": "Matara",
     "region_name_in_data": "Matara District",
@@ -1681,7 +1681,7 @@
   },
   {
     "region_id": "LK-3203",
-    "region_name": "Pitabeddara",
+    "region_name": "Pitabaddara",
     "region_name_in_data": "Pitabeddara",
     "region_ent_type": "dsd",
     "total": 14652,
@@ -1801,7 +1801,7 @@
   },
   {
     "region_id": "LK-3227",
-    "region_name": "Kamburupitiya",
+    "region_name": "Kaburupitiya",
     "region_name_in_data": "Kamburupitiya",
     "region_ent_type": "dsd",
     "total": 11943,
@@ -1906,7 +1906,7 @@
   },
   {
     "region_id": "LK-3248",
-    "region_name": "Dickwella",
+    "region_name": "Dikwella",
     "region_name_in_data": "Dickwella",
     "region_ent_type": "dsd",
     "total": 15182,
@@ -1951,7 +1951,7 @@
   },
   {
     "region_id": "LK-3306",
-    "region_name": "Lunugamvehera",
+    "region_name": "Lunugamwehera",
     "region_name_in_data": "Lunugamwehera",
     "region_ent_type": "dsd",
     "total": 10415,
@@ -2131,7 +2131,7 @@
   },
   {
     "region_id": "LK-4103",
-    "region_name": "Island North (Kayts)",
+    "region_name": "Islands North (Kayts)",
     "region_name_in_data": "Island North Kayts",
     "region_ent_type": "dsd",
     "total": 2646,
@@ -2176,7 +2176,7 @@
   },
   {
     "region_id": "LK-4109",
-    "region_name": "Valikamam South-West (Sandilipay)",
+    "region_name": "Valikamam South West (Sandilipay)",
     "region_name_in_data": "Valikamam South-West Sandilipay",
     "region_ent_type": "dsd",
     "total": 14196,
@@ -2191,7 +2191,7 @@
   },
   {
     "region_id": "LK-4112",
-    "region_name": "Valikamam North (Tellipallai)",
+    "region_name": "Valikamam North (Thllippalai)",
     "region_name_in_data": "Valikamam North",
     "region_ent_type": "dsd",
     "total": 12093,
@@ -2236,7 +2236,7 @@
   },
   {
     "region_id": "LK-4121",
-    "region_name": "Vadamaradchi South-West (Karaveddy)",
+    "region_name": "Vadamaradchchi South-West (Karaveddy)",
     "region_name_in_data": "Vadamaradchy South-West Karaveddy",
     "region_ent_type": "dsd",
     "total": 11394,
@@ -2251,7 +2251,7 @@
   },
   {
     "region_id": "LK-4124",
-    "region_name": "Vadamaradchi East",
+    "region_name": "Vadamaradchchi East",
     "region_name_in_data": "Vadamaradchy East",
     "region_ent_type": "dsd",
     "total": 4037,
@@ -2326,7 +2326,7 @@
   },
   {
     "region_id": "LK-4139",
-    "region_name": "Island South (Velanai)",
+    "region_name": "Islands South (Velanai)",
     "region_name_in_data": "Island South Velanai",
     "region_ent_type": "dsd",
     "total": 4434,
@@ -2416,7 +2416,7 @@
   },
   {
     "region_id": "LK-4212",
-    "region_name": "Nanattan",
+    "region_name": "Nanaddan",
     "region_name_in_data": "Nanattan",
     "region_ent_type": "dsd",
     "total": 5394,
@@ -2716,7 +2716,7 @@
   },
   {
     "region_id": "LK-5103",
-    "region_name": "Koralai Pattu North (Vaharai)",
+    "region_name": "Koralai Pattu North",
     "region_name_in_data": "Koralai Pattu North Vaharai",
     "region_ent_type": "dsd",
     "total": 7882,
@@ -2745,23 +2745,8 @@
     "other-other": 24
   },
   {
-    "region_id": "LK-5106",
-    "region_name": "Koralai Pattu  West (Oddamavadi)",
-    "region_name_in_data": "Koralai Pattu West Oddamavadi",
-    "region_ent_type": "dsd",
-    "total": 7223,
-    "electricity-from_national_grid": 6914,
-    "electricity-from_rural_hydro_power_project": 187,
-    "other-kerosene_lamp": 91,
-    "other-solar_power_grid_connected": 0,
-    "other-solar_power_standalone": 1,
-    "other-bio_gas": 0,
-    "other-generator": 0,
-    "other-other": 30
-  },
-  {
-    "region_id": "LK-5109",
-    "region_name": "Koralai Pattu (Valachchenai)",
+    "region_id": "LK-5104",
+    "region_name": "Koralai Pattu Central",
     "region_name_in_data": "Koralai Pattu Valachchenai",
     "region_ent_type": "dsd",
     "total": 8379,
@@ -2775,8 +2760,23 @@
     "other-other": 10
   },
   {
+    "region_id": "LK-5106",
+    "region_name": "Koralai Pattu West",
+    "region_name_in_data": "Koralai Pattu West Oddamavadi",
+    "region_ent_type": "dsd",
+    "total": 7223,
+    "electricity-from_national_grid": 6914,
+    "electricity-from_rural_hydro_power_project": 187,
+    "other-kerosene_lamp": 91,
+    "other-solar_power_grid_connected": 0,
+    "other-solar_power_standalone": 1,
+    "other-bio_gas": 0,
+    "other-generator": 0,
+    "other-other": 30
+  },
+  {
     "region_id": "LK-5110",
-    "region_name": "Koralai Pattu South (Kiran)",
+    "region_name": "Koralai Pattu South",
     "region_name_in_data": "Koralai Pattu South Kiran",
     "region_ent_type": "dsd",
     "total": 8608,
@@ -2790,7 +2790,7 @@
     "other-other": 12
   },
   {
-    "region_id": "LK-5112",
+    "region_id": "LK-5115",
     "region_name": "Eravur Pattu",
     "region_name_in_data": "Eravur Pattu",
     "region_ent_type": "dsd",
@@ -2803,21 +2803,6 @@
     "other-bio_gas": 0,
     "other-generator": 6,
     "other-other": 29
-  },
-  {
-    "region_id": "LK-5115",
-    "region_name": "Eravur Town",
-    "region_name_in_data": "Eravur Town",
-    "region_ent_type": "dsd",
-    "total": 7214,
-    "electricity-from_national_grid": 7068,
-    "electricity-from_rural_hydro_power_project": 44,
-    "other-kerosene_lamp": 90,
-    "other-solar_power_grid_connected": 5,
-    "other-solar_power_standalone": 1,
-    "other-bio_gas": 0,
-    "other-generator": 1,
-    "other-other": 5
   },
   {
     "region_id": "LK-5118",
@@ -2866,7 +2851,7 @@
   },
   {
     "region_id": "LK-5127",
-    "region_name": "Manmunai Pattu (Araipattai)",
+    "region_name": "Manmunai Pattu",
     "region_name_in_data": "Manmunai Pattu Araipattai",
     "region_ent_type": "dsd",
     "total": 10433,
@@ -2881,7 +2866,7 @@
   },
   {
     "region_id": "LK-5130",
-    "region_name": "Manmunai South-West",
+    "region_name": "Manmunai South West",
     "region_name_in_data": "Manmunai South-West",
     "region_ent_type": "dsd",
     "total": 7767,
@@ -2911,7 +2896,7 @@
   },
   {
     "region_id": "LK-5136",
-    "region_name": "Manmunai South & Eruvil pattu",
+    "region_name": "Manmunai South & Eruvil Pattu",
     "region_name_in_data": "Manmunai South Eruvil Pattu",
     "region_ent_type": "dsd",
     "total": 17315,
@@ -2923,6 +2908,21 @@
     "other-bio_gas": 0,
     "other-generator": 0,
     "other-other": 8
+  },
+  {
+    "region_id": "LK-5139",
+    "region_name": "Eravur Town",
+    "region_name_in_data": "Eravur Town",
+    "region_ent_type": "dsd",
+    "total": 7214,
+    "electricity-from_national_grid": 7068,
+    "electricity-from_rural_hydro_power_project": 44,
+    "other-kerosene_lamp": 90,
+    "other-solar_power_grid_connected": 5,
+    "other-solar_power_standalone": 1,
+    "other-bio_gas": 0,
+    "other-generator": 1,
+    "other-other": 5
   },
   {
     "region_id": "LK-52",
@@ -3031,7 +3031,7 @@
   },
   {
     "region_id": "LK-5218",
-    "region_name": "Samanthurai",
+    "region_name": "Sammanthurai",
     "region_name_in_data": "Samanthurai",
     "region_ent_type": "dsd",
     "total": 19719,
@@ -3046,21 +3046,6 @@
   },
   {
     "region_id": "LK-5221",
-    "region_name": "Kalmunai Tamil Division",
-    "region_name_in_data": "Kalmunai Tamil Division",
-    "region_ent_type": "dsd",
-    "total": 8960,
-    "electricity-from_national_grid": 8667,
-    "electricity-from_rural_hydro_power_project": 17,
-    "other-kerosene_lamp": 258,
-    "other-solar_power_grid_connected": 8,
-    "other-solar_power_standalone": 1,
-    "other-bio_gas": 1,
-    "other-generator": 2,
-    "other-other": 6
-  },
-  {
-    "region_id": "LK-5224",
     "region_name": "Kalmunai",
     "region_name_in_data": "Kalmunai",
     "region_ent_type": "dsd",
@@ -3091,7 +3076,7 @@
   },
   {
     "region_id": "LK-5227",
-    "region_name": "Karaitheevu",
+    "region_name": "Karaitivu",
     "region_name_in_data": "Karaitheevu",
     "region_ent_type": "dsd",
     "total": 5347,
@@ -3106,7 +3091,7 @@
   },
   {
     "region_id": "LK-5230",
-    "region_name": "Ninthavur",
+    "region_name": "Nintavur",
     "region_name_in_data": "Ninthavur",
     "region_ent_type": "dsd",
     "total": 8884,
@@ -3121,7 +3106,7 @@
   },
   {
     "region_id": "LK-5233",
-    "region_name": "Addalachchenai",
+    "region_name": "Addalaichenai",
     "region_name_in_data": "Addalachchenai",
     "region_ent_type": "dsd",
     "total": 13503,
@@ -3166,7 +3151,7 @@
   },
   {
     "region_id": "LK-5239",
-    "region_name": "Alayadiwembu",
+    "region_name": "Alayadivembu",
     "region_name_in_data": "Alayadiwembu",
     "region_ent_type": "dsd",
     "total": 7104,
@@ -3196,7 +3181,7 @@
   },
   {
     "region_id": "LK-5245",
-    "region_name": "Thirukkovil",
+    "region_name": "Tirukkovil",
     "region_name_in_data": "Thirukkovil",
     "region_ent_type": "dsd",
     "total": 8369,
@@ -3211,7 +3196,7 @@
   },
   {
     "region_id": "LK-5248",
-    "region_name": "Pothuvil",
+    "region_name": "Pottuvil",
     "region_name_in_data": "Pothuvil",
     "region_ent_type": "dsd",
     "total": 11850,
@@ -3238,6 +3223,21 @@
     "other-bio_gas": 0,
     "other-generator": 6,
     "other-other": 1
+  },
+  {
+    "region_id": "LK-52XX",
+    "region_name": "Kalmunai Tamil Division",
+    "region_name_in_data": "Kalmunai Tamil Division",
+    "region_ent_type": "dsd",
+    "total": 8960,
+    "electricity-from_national_grid": 8667,
+    "electricity-from_rural_hydro_power_project": 17,
+    "other-kerosene_lamp": 258,
+    "other-solar_power_grid_connected": 8,
+    "other-solar_power_standalone": 1,
+    "other-bio_gas": 1,
+    "other-generator": 2,
+    "other-other": 6
   },
   {
     "region_id": "LK-53",
@@ -3271,7 +3271,7 @@
   },
   {
     "region_id": "LK-5306",
-    "region_name": "Kuchchaveli",
+    "region_name": "Kuchchaweli",
     "region_name_in_data": "Kuchchaveli",
     "region_ent_type": "dsd",
     "total": 11313,
@@ -3316,7 +3316,7 @@
   },
   {
     "region_id": "LK-5315",
-    "region_name": "Trincomalee Town and Gravets",
+    "region_name": "Town & Gravets",
     "region_name_in_data": "Trincomalee Town and Gravets",
     "region_ent_type": "dsd",
     "total": 27668,
@@ -3346,7 +3346,7 @@
   },
   {
     "region_id": "LK-5321",
-    "region_name": "Kanthale",
+    "region_name": "Kantale",
     "region_name_in_data": "Kanthale",
     "region_ent_type": "dsd",
     "total": 14499,
@@ -3376,7 +3376,7 @@
   },
   {
     "region_id": "LK-5327",
-    "region_name": "Muttur",
+    "region_name": "Muthur",
     "region_name_in_data": "Muttur",
     "region_ent_type": "dsd",
     "total": 19502,
@@ -3406,7 +3406,7 @@
   },
   {
     "region_id": "LK-5333",
-    "region_name": "Verugal (Eachchilampattu)",
+    "region_name": "Verugal",
     "region_name_in_data": "Verugal Eachchilampattu",
     "region_ent_type": "dsd",
     "total": 3960,
@@ -3496,7 +3496,7 @@
   },
   {
     "region_id": "LK-6115",
-    "region_name": "Kotavehera",
+    "region_name": "Kotawehera",
     "region_name_in_data": "Kotavehera",
     "region_ent_type": "dsd",
     "total": 7015,
@@ -3556,7 +3556,7 @@
   },
   {
     "region_id": "LK-6127",
-    "region_name": "Polpithigama",
+    "region_name": "Polpitigama",
     "region_name_in_data": "Polpithigama",
     "region_ent_type": "dsd",
     "total": 25632,
@@ -3766,7 +3766,7 @@
   },
   {
     "region_id": "LK-6166",
-    "region_name": "Weerambugedara",
+    "region_name": "Weerabugedara",
     "region_name_in_data": "Weerambugedara",
     "region_ent_type": "dsd",
     "total": 10844,
@@ -3916,7 +3916,7 @@
   },
   {
     "region_id": "LK-6206",
-    "region_name": "Vanathawilluwa",
+    "region_name": "Vanathavilluwa",
     "region_name_in_data": "Vanathawilluwa",
     "region_ent_type": "dsd",
     "total": 5910,
@@ -4261,7 +4261,7 @@
   },
   {
     "region_id": "LK-7124",
-    "region_name": "Horowpothana",
+    "region_name": "Horowpathana",
     "region_name_in_data": "Horowpothana",
     "region_ent_type": "dsd",
     "total": 11339,
@@ -4276,7 +4276,7 @@
   },
   {
     "region_id": "LK-7127",
-    "region_name": "Galenbindunuwewa",
+    "region_name": "Galenbidunuwewa",
     "region_name_in_data": "Galenbindunuwewa",
     "region_ent_type": "dsd",
     "total": 14458,
@@ -4366,7 +4366,7 @@
   },
   {
     "region_id": "LK-7145",
-    "region_name": "Thambuttegama",
+    "region_name": "Thambuththegama",
     "region_name_in_data": "Thambuttegama",
     "region_ent_type": "dsd",
     "total": 13432,
@@ -4501,7 +4501,7 @@
   },
   {
     "region_id": "LK-7203",
-    "region_name": "Hingurakgoda",
+    "region_name": "Higurakgoda",
     "region_name_in_data": "Hingurakgoda",
     "region_ent_type": "dsd",
     "total": 20319,
@@ -4651,7 +4651,7 @@
   },
   {
     "region_id": "LK-8109",
-    "region_name": "Meegahakivula",
+    "region_name": "Meegahakiula",
     "region_name_in_data": "Meegahakivula",
     "region_ent_type": "dsd",
     "total": 6583,
@@ -4666,7 +4666,7 @@
   },
   {
     "region_id": "LK-8112",
-    "region_name": "Kandaketiya",
+    "region_name": "Kandeketiya",
     "region_name_in_data": "Kandaketiya",
     "region_ent_type": "dsd",
     "total": 7824,
@@ -4756,7 +4756,7 @@
   },
   {
     "region_id": "LK-8127",
-    "region_name": "Uva Paranagama",
+    "region_name": "Uvaparanagama",
     "region_name_in_data": "Uva Paranagama",
     "region_ent_type": "dsd",
     "total": 23299,
@@ -4846,7 +4846,7 @@
   },
   {
     "region_id": "LK-82",
-    "region_name": "Moneragala",
+    "region_name": "Monaragala",
     "region_name_in_data": "Monaragala District",
     "region_ent_type": "district",
     "total": 151763,
@@ -4921,7 +4921,7 @@
   },
   {
     "region_id": "LK-8215",
-    "region_name": "Moneragala",
+    "region_name": "Monaragala",
     "region_name_in_data": "Moneragala",
     "region_ent_type": "dsd",
     "total": 15981,
@@ -4996,7 +4996,7 @@
   },
   {
     "region_id": "LK-8230",
-    "region_name": "Thanamalvila",
+    "region_name": "Thanamalwila",
     "region_name_in_data": "Thanamalvila",
     "region_ent_type": "dsd",
     "total": 9537,
@@ -5130,6 +5130,21 @@
     "other-other": 36
   },
   {
+    "region_id": "LK-9119",
+    "region_name": "Kalthota",
+    "region_name_in_data": "Kalthota",
+    "region_ent_type": "dsd",
+    "total": 4026,
+    "electricity-from_national_grid": 3900,
+    "electricity-from_rural_hydro_power_project": 8,
+    "other-kerosene_lamp": 99,
+    "other-solar_power_grid_connected": 4,
+    "other-solar_power_standalone": 8,
+    "other-bio_gas": 0,
+    "other-generator": 0,
+    "other-other": 7
+  },
+  {
     "region_id": "LK-9121",
     "region_name": "Opanayake",
     "region_name_in_data": "Opanayake",
@@ -5221,7 +5236,7 @@
   },
   {
     "region_id": "LK-9139",
-    "region_name": "Kahawatta",
+    "region_name": "Kahawattha",
     "region_name_in_data": "Kahawatta",
     "region_ent_type": "dsd",
     "total": 12482,
@@ -5295,21 +5310,6 @@
     "other-other": 23
   },
   {
-    "region_id": "LK-91XX",
-    "region_name": "Kalthota",
-    "region_name_in_data": "Kalthota",
-    "region_ent_type": "dsd",
-    "total": 4026,
-    "electricity-from_national_grid": 3900,
-    "electricity-from_rural_hydro_power_project": 8,
-    "other-kerosene_lamp": 99,
-    "other-solar_power_grid_connected": 4,
-    "other-solar_power_standalone": 8,
-    "other-bio_gas": 0,
-    "other-generator": 0,
-    "other-other": 7
-  },
-  {
     "region_id": "LK-92",
     "region_name": "Kegalle",
     "region_name_in_data": "Kegalle District",
@@ -5356,7 +5356,7 @@
   },
   {
     "region_id": "LK-9209",
-    "region_name": "Aranayaka",
+    "region_name": "Aranayake",
     "region_name_in_data": "Aranayaka",
     "region_ent_type": "dsd",
     "total": 20062,
@@ -5431,7 +5431,7 @@
   },
   {
     "region_id": "LK-9224",
-    "region_name": "Bulathkohupitiya",
+    "region_name": "Bulathkohipitiya",
     "region_name_in_data": "Bulathkohupitiya",
     "region_ent_type": "dsd",
     "total": 12978,
@@ -5446,7 +5446,7 @@
   },
   {
     "region_id": "LK-9227",
-    "region_name": "Yatiyanthota",
+    "region_name": "Yatiyantota",
     "region_name_in_data": "Yatiyanthota",
     "region_ent_type": "dsd",
     "total": 17541,
@@ -5461,7 +5461,7 @@
   },
   {
     "region_id": "LK-9230",
-    "region_name": "Dehiovita",
+    "region_name": "Dehiowita",
     "region_name_in_data": "Dehiovita",
     "region_ent_type": "dsd",
     "total": 23403,

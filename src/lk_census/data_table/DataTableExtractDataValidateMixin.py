@@ -66,44 +66,7 @@ class DataTableExtractDataValidateMixin:
             )
 
     @staticmethod
-    def __validate_population_change__(d_list: list[dict]):
-        d_list_population_mismatch = []
-        MAX_POPULATION_CHANGE_RATIO = 1.5
-        for d in d_list:
-            total = d["total"]
-            total_from_ent_2012 = Ent.from_id(d["region_id"]).population
-            population_change_ratio = total / total_from_ent_2012
-
-            if not (
-                1.0 / MAX_POPULATION_CHANGE_RATIO
-                < population_change_ratio
-                < MAX_POPULATION_CHANGE_RATIO
-            ):
-                d_list_population_mismatch.append(
-                    d
-                    | dict(
-                        total_from_ent_2012=total_from_ent_2012,
-                        population_change_ratio=population_change_ratio,
-                    )
-                )
-        if len(d_list_population_mismatch) == 0:
-            log.debug("✅ All population changes within expected range.")
-            return
-
-        log.error(
-            f"⚠️ {len(d_list_population_mismatch)} rows with"
-            + " large population changes:"
-        )
-        for d in d_list_population_mismatch:
-            population_change_ratio = d["population_change_ratio"]
-            log.error(
-                f" - {d['region_id']} {d['region_name']}:"
-                + f" {d['total_from_ent_2012']:,} -> {d['total']:,}"
-                + f" ({population_change_ratio:.2}x)"
-            )
-
-    @staticmethod
-    def validate(d_list: list[dict], check_population):
+    def validate(d_list: list[dict]):
         d_list_with_ents = [
             d for d in d_list if not d.get("region_id", "").endswith("XX")
         ]
@@ -114,8 +77,3 @@ class DataTableExtractDataValidateMixin:
             d_list_with_ents
         )
         DataTableExtractDataValidateMixin.__validate_totals__(d_list)
-
-        if check_population:
-            DataTableExtractDataValidateMixin.__validate_population_change__(
-                d_list_with_ents
-            )

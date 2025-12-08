@@ -331,7 +331,7 @@
   },
   {
     "region_id": "LK-1221",
-    "region_name": "Ja-Ela",
+    "region_name": "Ja Ela",
     "region_name_in_data": "- - Ja-Ela",
     "region_ent_type": "dsd",
     "total": 57159,
@@ -601,7 +601,7 @@
   },
   {
     "region_id": "LK-1330",
-    "region_name": "Mathugama",
+    "region_name": "Matugama",
     "region_name_in_data": "Mathugama",
     "region_ent_type": "dsd",
     "total": 23326,
@@ -646,7 +646,7 @@
   },
   {
     "region_id": "LK-1339",
-    "region_name": "Walallavita",
+    "region_name": "Walallawita",
     "region_name_in_data": "Walallavita",
     "region_ent_type": "dsd",
     "total": 15809,
@@ -676,7 +676,7 @@
   },
   {
     "region_id": "LK-2103",
-    "region_name": "Thumpane",
+    "region_name": "Tumpane",
     "region_name_in_data": "Thumpane",
     "region_ent_type": "dsd",
     "total": 10774,
@@ -691,7 +691,7 @@
   },
   {
     "region_id": "LK-2106",
-    "region_name": "Pujapitiya",
+    "region_name": "Poojapitiya",
     "region_name_in_data": "Pujapitiya",
     "region_ent_type": "dsd",
     "total": 15610,
@@ -751,7 +751,7 @@
   },
   {
     "region_id": "LK-2118",
-    "region_name": "Udadumbara",
+    "region_name": "Ududumbara",
     "region_name_in_data": "Udadumbara",
     "region_ent_type": "dsd",
     "total": 6720,
@@ -811,7 +811,7 @@
   },
   {
     "region_id": "LK-2130",
-    "region_name": "Kandy Four Gravets & Gangawata Korale",
+    "region_name": "Gangawata Korale",
     "region_name_in_data": "Kandy Four Gravets Gangawata Korale",
     "region_ent_type": "dsd",
     "total": 39803,
@@ -961,7 +961,7 @@
   },
   {
     "region_id": "LK-2157",
-    "region_name": "Pasbage Korale",
+    "region_name": "Pasbagekorale",
     "region_name_in_data": "Pasbage Korale",
     "region_ent_type": "dsd",
     "total": 17272,
@@ -1081,7 +1081,7 @@
   },
   {
     "region_id": "LK-2221",
-    "region_name": "Ambanganga Korale",
+    "region_name": "Ambanganga",
     "region_name_in_data": "Ambanganga Korale",
     "region_ent_type": "dsd",
     "total": 4682,
@@ -1096,7 +1096,7 @@
   },
   {
     "region_id": "LK-2224",
-    "region_name": "Laggala-Pallegama",
+    "region_name": "Laggala",
     "region_name_in_data": "- - Laggala-Pallegama",
     "region_ent_type": "dsd",
     "total": 4876,
@@ -1171,22 +1171,7 @@
   },
   {
     "region_id": "LK-2303",
-    "region_name": "Kothmale",
-    "region_name_in_data": "Kothmale West",
-    "region_ent_type": "dsd",
-    "total": 11360,
-    "tile": 129,
-    "asbestos": 8342,
-    "concrete": 625,
-    "zinc_aluminium_sheets": 396,
-    "metal_sheets": 1760,
-    "kadjan_or_palmyrah_or_straw": 100,
-    "other": 6,
-    "not_relevant": 2
-  },
-  {
-    "region_id": "LK-2303",
-    "region_name": "Kothmale",
+    "region_name": "Kothmale East",
     "region_name_in_data": "Kothmale East",
     "region_ent_type": "dsd",
     "total": 16612,
@@ -1200,8 +1185,23 @@
     "not_relevant": 4
   },
   {
+    "region_id": "LK-2304",
+    "region_name": "Kothmale West",
+    "region_name_in_data": "Kothmale West",
+    "region_ent_type": "dsd",
+    "total": 11360,
+    "tile": 129,
+    "asbestos": 8342,
+    "concrete": 625,
+    "zinc_aluminium_sheets": 396,
+    "metal_sheets": 1760,
+    "kadjan_or_palmyrah_or_straw": 100,
+    "other": 6,
+    "not_relevant": 2
+  },
+  {
     "region_id": "LK-2306",
-    "region_name": "Hanguranketha",
+    "region_name": "Hanguranketa",
     "region_name_in_data": "Hanguranketha",
     "region_ent_type": "dsd",
     "total": 16557,
@@ -1215,6 +1215,21 @@
     "not_relevant": 2
   },
   {
+    "region_id": "LK-2307",
+    "region_name": "Mathurata",
+    "region_name_in_data": "Mathurata",
+    "region_ent_type": "dsd",
+    "total": 9375,
+    "tile": 1030,
+    "asbestos": 6034,
+    "concrete": 713,
+    "zinc_aluminium_sheets": 311,
+    "metal_sheets": 1178,
+    "kadjan_or_palmyrah_or_straw": 106,
+    "other": 3,
+    "not_relevant": 0
+  },
+  {
     "region_id": "LK-2309",
     "region_name": "Walapane",
     "region_name_in_data": "Walapane",
@@ -1226,6 +1241,21 @@
     "zinc_aluminium_sheets": 949,
     "metal_sheets": 3654,
     "kadjan_or_palmyrah_or_straw": 563,
+    "other": 19,
+    "not_relevant": 2
+  },
+  {
+    "region_id": "LK-2310",
+    "region_name": "Nildandahinna",
+    "region_name_in_data": "Nildandahinna",
+    "region_ent_type": "dsd",
+    "total": 12232,
+    "tile": 1636,
+    "asbestos": 6417,
+    "concrete": 567,
+    "zinc_aluminium_sheets": 1444,
+    "metal_sheets": 1752,
+    "kadjan_or_palmyrah_or_straw": 395,
     "other": 19,
     "not_relevant": 2
   },
@@ -1245,52 +1275,7 @@
     "not_relevant": 6
   },
   {
-    "region_id": "LK-2315",
-    "region_name": "Ambagamuwa",
-    "region_name_in_data": "Ambagamuwa",
-    "region_ent_type": "dsd",
-    "total": 12515,
-    "tile": 129,
-    "asbestos": 9862,
-    "concrete": 585,
-    "zinc_aluminium_sheets": 339,
-    "metal_sheets": 1421,
-    "kadjan_or_palmyrah_or_straw": 165,
-    "other": 14,
-    "not_relevant": 0
-  },
-  {
-    "region_id": "LK-23XX",
-    "region_name": "Mathurata",
-    "region_name_in_data": "Mathurata",
-    "region_ent_type": "dsd",
-    "total": 9375,
-    "tile": 1030,
-    "asbestos": 6034,
-    "concrete": 713,
-    "zinc_aluminium_sheets": 311,
-    "metal_sheets": 1178,
-    "kadjan_or_palmyrah_or_straw": 106,
-    "other": 3,
-    "not_relevant": 0
-  },
-  {
-    "region_id": "LK-23XX",
-    "region_name": "Nildandahinna",
-    "region_name_in_data": "Nildandahinna",
-    "region_ent_type": "dsd",
-    "total": 12232,
-    "tile": 1636,
-    "asbestos": 6417,
-    "concrete": 567,
-    "zinc_aluminium_sheets": 1444,
-    "metal_sheets": 1752,
-    "kadjan_or_palmyrah_or_straw": 395,
-    "other": 19,
-    "not_relevant": 2
-  },
-  {
-    "region_id": "LK-23XX",
+    "region_id": "LK-2313",
     "region_name": "Thalawakele",
     "region_name_in_data": "Thalawakele",
     "region_ent_type": "dsd",
@@ -1305,7 +1290,22 @@
     "not_relevant": 14
   },
   {
-    "region_id": "LK-23XX",
+    "region_id": "LK-2315",
+    "region_name": "Ambagamuwa Korale",
+    "region_name_in_data": "Ambagamuwa",
+    "region_ent_type": "dsd",
+    "total": 12515,
+    "tile": 129,
+    "asbestos": 9862,
+    "concrete": 585,
+    "zinc_aluminium_sheets": 339,
+    "metal_sheets": 1421,
+    "kadjan_or_palmyrah_or_straw": 165,
+    "other": 14,
+    "not_relevant": 0
+  },
+  {
+    "region_id": "LK-2316",
     "region_name": "Norwood",
     "region_name_in_data": "Norwood",
     "region_ent_type": "dsd",
@@ -1470,8 +1470,23 @@
     "not_relevant": 1
   },
   {
+    "region_id": "LK-3128",
+    "region_name": "Wanduramba",
+    "region_name_in_data": "Wanduramba",
+    "region_ent_type": "dsd",
+    "total": 7908,
+    "tile": 2290,
+    "asbestos": 5230,
+    "concrete": 151,
+    "zinc_aluminium_sheets": 60,
+    "metal_sheets": 100,
+    "kadjan_or_palmyrah_or_straw": 76,
+    "other": 1,
+    "not_relevant": 0
+  },
+  {
     "region_id": "LK-3130",
-    "region_name": "Welivitiya-Divithura",
+    "region_name": "Welivitiya-Divitura",
     "region_name_in_data": "-- Welivitiya-Divithura",
     "region_ent_type": "dsd",
     "total": 8597,
@@ -1501,7 +1516,7 @@
   },
   {
     "region_id": "LK-3134",
-    "region_name": "Gonapeenuwala",
+    "region_name": "Gonapinuwala",
     "region_name_in_data": "Gonapeenuwala",
     "region_ent_type": "dsd",
     "total": 6749,
@@ -1530,8 +1545,38 @@
     "not_relevant": 0
   },
   {
+    "region_id": "LK-3137",
+    "region_name": "Rathgama",
+    "region_name_in_data": "Rathgama",
+    "region_ent_type": "dsd",
+    "total": 10751,
+    "tile": 4676,
+    "asbestos": 5569,
+    "concrete": 382,
+    "zinc_aluminium_sheets": 12,
+    "metal_sheets": 55,
+    "kadjan_or_palmyrah_or_straw": 55,
+    "other": 2,
+    "not_relevant": 0
+  },
+  {
+    "region_id": "LK-3138",
+    "region_name": "Madampagama",
+    "region_name_in_data": "Madampagama",
+    "region_ent_type": "dsd",
+    "total": 9143,
+    "tile": 4340,
+    "asbestos": 4457,
+    "concrete": 277,
+    "zinc_aluminium_sheets": 13,
+    "metal_sheets": 33,
+    "kadjan_or_palmyrah_or_straw": 19,
+    "other": 4,
+    "not_relevant": 0
+  },
+  {
     "region_id": "LK-3139",
-    "region_name": "Galle Four Gravets",
+    "region_name": "Galle 4 Gravets",
     "region_name_in_data": "Galle Four Gravets",
     "region_ent_type": "dsd",
     "total": 26173,
@@ -1620,51 +1665,6 @@
     "not_relevant": 2
   },
   {
-    "region_id": "LK-31XX",
-    "region_name": "Wanduramba",
-    "region_name_in_data": "Wanduramba",
-    "region_ent_type": "dsd",
-    "total": 7908,
-    "tile": 2290,
-    "asbestos": 5230,
-    "concrete": 151,
-    "zinc_aluminium_sheets": 60,
-    "metal_sheets": 100,
-    "kadjan_or_palmyrah_or_straw": 76,
-    "other": 1,
-    "not_relevant": 0
-  },
-  {
-    "region_id": "LK-31XX",
-    "region_name": "Madampagama",
-    "region_name_in_data": "Madampagama",
-    "region_ent_type": "dsd",
-    "total": 9143,
-    "tile": 4340,
-    "asbestos": 4457,
-    "concrete": 277,
-    "zinc_aluminium_sheets": 13,
-    "metal_sheets": 33,
-    "kadjan_or_palmyrah_or_straw": 19,
-    "other": 4,
-    "not_relevant": 0
-  },
-  {
-    "region_id": "LK-31XX",
-    "region_name": "Rathgama",
-    "region_name_in_data": "Rathgama",
-    "region_ent_type": "dsd",
-    "total": 10751,
-    "tile": 4676,
-    "asbestos": 5569,
-    "concrete": 382,
-    "zinc_aluminium_sheets": 12,
-    "metal_sheets": 55,
-    "kadjan_or_palmyrah_or_straw": 55,
-    "other": 2,
-    "not_relevant": 0
-  },
-  {
     "region_id": "LK-32",
     "region_name": "Matara",
     "region_name_in_data": "Matara District",
@@ -1681,7 +1681,7 @@
   },
   {
     "region_id": "LK-3203",
-    "region_name": "Pitabeddara",
+    "region_name": "Pitabaddara",
     "region_name_in_data": "Pitabeddara",
     "region_ent_type": "dsd",
     "total": 14606,
@@ -1801,7 +1801,7 @@
   },
   {
     "region_id": "LK-3227",
-    "region_name": "Kamburupitiya",
+    "region_name": "Kaburupitiya",
     "region_name_in_data": "Kamburupitiya",
     "region_ent_type": "dsd",
     "total": 11827,
@@ -1906,7 +1906,7 @@
   },
   {
     "region_id": "LK-3248",
-    "region_name": "Dickwella",
+    "region_name": "Dikwella",
     "region_name_in_data": "Dickwella",
     "region_ent_type": "dsd",
     "total": 15073,
@@ -1951,7 +1951,7 @@
   },
   {
     "region_id": "LK-3306",
-    "region_name": "Lunugamvehera",
+    "region_name": "Lunugamwehera",
     "region_name_in_data": "Lunugamwehera",
     "region_ent_type": "dsd",
     "total": 10381,
@@ -2131,7 +2131,7 @@
   },
   {
     "region_id": "LK-4103",
-    "region_name": "Island North (Kayts)",
+    "region_name": "Islands North (Kayts)",
     "region_name_in_data": "Island North Kayts",
     "region_ent_type": "dsd",
     "total": 2633,
@@ -2176,7 +2176,7 @@
   },
   {
     "region_id": "LK-4109",
-    "region_name": "Valikamam South-West (Sandilipay)",
+    "region_name": "Valikamam South West (Sandilipay)",
     "region_name_in_data": "Valikamam South-West Sandilipay",
     "region_ent_type": "dsd",
     "total": 13821,
@@ -2191,7 +2191,7 @@
   },
   {
     "region_id": "LK-4112",
-    "region_name": "Valikamam North (Tellipallai)",
+    "region_name": "Valikamam North (Thllippalai)",
     "region_name_in_data": "Valikamam North",
     "region_ent_type": "dsd",
     "total": 11932,
@@ -2236,7 +2236,7 @@
   },
   {
     "region_id": "LK-4121",
-    "region_name": "Vadamaradchi South-West (Karaveddy)",
+    "region_name": "Vadamaradchchi South-West (Karaveddy)",
     "region_name_in_data": "Vadamaradchy South-West Karaveddy",
     "region_ent_type": "dsd",
     "total": 11195,
@@ -2251,7 +2251,7 @@
   },
   {
     "region_id": "LK-4124",
-    "region_name": "Vadamaradchi East",
+    "region_name": "Vadamaradchchi East",
     "region_name_in_data": "Vadamaradchy East",
     "region_ent_type": "dsd",
     "total": 3950,
@@ -2326,7 +2326,7 @@
   },
   {
     "region_id": "LK-4139",
-    "region_name": "Island South (Velanai)",
+    "region_name": "Islands South (Velanai)",
     "region_name_in_data": "Island South Velanai",
     "region_ent_type": "dsd",
     "total": 4379,
@@ -2416,7 +2416,7 @@
   },
   {
     "region_id": "LK-4212",
-    "region_name": "Nanattan",
+    "region_name": "Nanaddan",
     "region_name_in_data": "Nanattan",
     "region_ent_type": "dsd",
     "total": 5337,
@@ -2716,7 +2716,7 @@
   },
   {
     "region_id": "LK-5103",
-    "region_name": "Koralai Pattu North (Vaharai)",
+    "region_name": "Koralai Pattu North",
     "region_name_in_data": "Koralai Pattu North Vaharai",
     "region_ent_type": "dsd",
     "total": 7758,
@@ -2745,23 +2745,8 @@
     "not_relevant": 11
   },
   {
-    "region_id": "LK-5106",
-    "region_name": "Koralai Pattu  West (Oddamavadi)",
-    "region_name_in_data": "Koralai Pattu West Oddamavadi",
-    "region_ent_type": "dsd",
-    "total": 7200,
-    "tile": 5707,
-    "asbestos": 272,
-    "concrete": 1026,
-    "zinc_aluminium_sheets": 42,
-    "metal_sheets": 37,
-    "kadjan_or_palmyrah_or_straw": 91,
-    "other": 24,
-    "not_relevant": 1
-  },
-  {
-    "region_id": "LK-5109",
-    "region_name": "Koralai Pattu (Valachchenai)",
+    "region_id": "LK-5104",
+    "region_name": "Koralai Pattu Central",
     "region_name_in_data": "Koralai Pattu Valachchenai",
     "region_ent_type": "dsd",
     "total": 8313,
@@ -2775,8 +2760,23 @@
     "not_relevant": 13
   },
   {
+    "region_id": "LK-5106",
+    "region_name": "Koralai Pattu West",
+    "region_name_in_data": "Koralai Pattu West Oddamavadi",
+    "region_ent_type": "dsd",
+    "total": 7200,
+    "tile": 5707,
+    "asbestos": 272,
+    "concrete": 1026,
+    "zinc_aluminium_sheets": 42,
+    "metal_sheets": 37,
+    "kadjan_or_palmyrah_or_straw": 91,
+    "other": 24,
+    "not_relevant": 1
+  },
+  {
     "region_id": "LK-5110",
-    "region_name": "Koralai Pattu South (Kiran)",
+    "region_name": "Koralai Pattu South",
     "region_name_in_data": "Koralai Pattu South Kiran",
     "region_ent_type": "dsd",
     "total": 8528,
@@ -2790,7 +2790,7 @@
     "not_relevant": 0
   },
   {
-    "region_id": "LK-5112",
+    "region_id": "LK-5115",
     "region_name": "Eravur Pattu",
     "region_name_in_data": "Eravur Pattu",
     "region_ent_type": "dsd",
@@ -2803,21 +2803,6 @@
     "kadjan_or_palmyrah_or_straw": 787,
     "other": 450,
     "not_relevant": 3
-  },
-  {
-    "region_id": "LK-5115",
-    "region_name": "Eravur Town",
-    "region_name_in_data": "Eravur Town",
-    "region_ent_type": "dsd",
-    "total": 7172,
-    "tile": 4937,
-    "asbestos": 186,
-    "concrete": 1830,
-    "zinc_aluminium_sheets": 85,
-    "metal_sheets": 48,
-    "kadjan_or_palmyrah_or_straw": 63,
-    "other": 17,
-    "not_relevant": 6
   },
   {
     "region_id": "LK-5118",
@@ -2866,7 +2851,7 @@
   },
   {
     "region_id": "LK-5127",
-    "region_name": "Manmunai Pattu (Araipattai)",
+    "region_name": "Manmunai Pattu",
     "region_name_in_data": "Manmunai Pattu Araipattai",
     "region_ent_type": "dsd",
     "total": 10254,
@@ -2881,7 +2866,7 @@
   },
   {
     "region_id": "LK-5130",
-    "region_name": "Manmunai South-West",
+    "region_name": "Manmunai South West",
     "region_name_in_data": "Manmunai South-West",
     "region_ent_type": "dsd",
     "total": 7745,
@@ -2911,7 +2896,7 @@
   },
   {
     "region_id": "LK-5136",
-    "region_name": "Manmunai South & Eruvil pattu",
+    "region_name": "Manmunai South & Eruvil Pattu",
     "region_name_in_data": "Manmunai South Eruvil Pattu",
     "region_ent_type": "dsd",
     "total": 16572,
@@ -2923,6 +2908,21 @@
     "kadjan_or_palmyrah_or_straw": 291,
     "other": 62,
     "not_relevant": 14
+  },
+  {
+    "region_id": "LK-5139",
+    "region_name": "Eravur Town",
+    "region_name_in_data": "Eravur Town",
+    "region_ent_type": "dsd",
+    "total": 7172,
+    "tile": 4937,
+    "asbestos": 186,
+    "concrete": 1830,
+    "zinc_aluminium_sheets": 85,
+    "metal_sheets": 48,
+    "kadjan_or_palmyrah_or_straw": 63,
+    "other": 17,
+    "not_relevant": 6
   },
   {
     "region_id": "LK-52",
@@ -3031,7 +3031,7 @@
   },
   {
     "region_id": "LK-5218",
-    "region_name": "Samanthurai",
+    "region_name": "Sammanthurai",
     "region_name_in_data": "Samanthurai",
     "region_ent_type": "dsd",
     "total": 19400,
@@ -3046,21 +3046,6 @@
   },
   {
     "region_id": "LK-5221",
-    "region_name": "Kalmunai Tamil Division",
-    "region_name_in_data": "Kalmunai Tamil Division",
-    "region_ent_type": "dsd",
-    "total": 8675,
-    "tile": 6460,
-    "asbestos": 246,
-    "concrete": 1778,
-    "zinc_aluminium_sheets": 59,
-    "metal_sheets": 51,
-    "kadjan_or_palmyrah_or_straw": 71,
-    "other": 9,
-    "not_relevant": 1
-  },
-  {
-    "region_id": "LK-5224",
     "region_name": "Kalmunai",
     "region_name_in_data": "Kalmunai",
     "region_ent_type": "dsd",
@@ -3091,7 +3076,7 @@
   },
   {
     "region_id": "LK-5227",
-    "region_name": "Karaitheevu",
+    "region_name": "Karaitivu",
     "region_name_in_data": "Karaitheevu",
     "region_ent_type": "dsd",
     "total": 5241,
@@ -3106,7 +3091,7 @@
   },
   {
     "region_id": "LK-5230",
-    "region_name": "Ninthavur",
+    "region_name": "Nintavur",
     "region_name_in_data": "Ninthavur",
     "region_ent_type": "dsd",
     "total": 8729,
@@ -3121,7 +3106,7 @@
   },
   {
     "region_id": "LK-5233",
-    "region_name": "Addalachchenai",
+    "region_name": "Addalaichenai",
     "region_name_in_data": "Addalachchenai",
     "region_ent_type": "dsd",
     "total": 13178,
@@ -3166,7 +3151,7 @@
   },
   {
     "region_id": "LK-5239",
-    "region_name": "Alayadiwembu",
+    "region_name": "Alayadivembu",
     "region_name_in_data": "Alayadiwembu",
     "region_ent_type": "dsd",
     "total": 7017,
@@ -3196,7 +3181,7 @@
   },
   {
     "region_id": "LK-5245",
-    "region_name": "Thirukkovil",
+    "region_name": "Tirukkovil",
     "region_name_in_data": "Thirukkovil",
     "region_ent_type": "dsd",
     "total": 8338,
@@ -3211,7 +3196,7 @@
   },
   {
     "region_id": "LK-5248",
-    "region_name": "Pothuvil",
+    "region_name": "Pottuvil",
     "region_name_in_data": "Pothuvil",
     "region_ent_type": "dsd",
     "total": 11466,
@@ -3238,6 +3223,21 @@
     "kadjan_or_palmyrah_or_straw": 33,
     "other": 7,
     "not_relevant": 0
+  },
+  {
+    "region_id": "LK-52XX",
+    "region_name": "Kalmunai Tamil Division",
+    "region_name_in_data": "Kalmunai Tamil Division",
+    "region_ent_type": "dsd",
+    "total": 8675,
+    "tile": 6460,
+    "asbestos": 246,
+    "concrete": 1778,
+    "zinc_aluminium_sheets": 59,
+    "metal_sheets": 51,
+    "kadjan_or_palmyrah_or_straw": 71,
+    "other": 9,
+    "not_relevant": 1
   },
   {
     "region_id": "LK-53",
@@ -3271,7 +3271,7 @@
   },
   {
     "region_id": "LK-5306",
-    "region_name": "Kuchchaveli",
+    "region_name": "Kuchchaweli",
     "region_name_in_data": "Kuchchaveli",
     "region_ent_type": "dsd",
     "total": 10805,
@@ -3316,7 +3316,7 @@
   },
   {
     "region_id": "LK-5315",
-    "region_name": "Trincomalee Town and Gravets",
+    "region_name": "Town & Gravets",
     "region_name_in_data": "Trincomalee Town and Gravets",
     "region_ent_type": "dsd",
     "total": 26784,
@@ -3346,7 +3346,7 @@
   },
   {
     "region_id": "LK-5321",
-    "region_name": "Kanthale",
+    "region_name": "Kantale",
     "region_name_in_data": "Kanthale",
     "region_ent_type": "dsd",
     "total": 14128,
@@ -3376,7 +3376,7 @@
   },
   {
     "region_id": "LK-5327",
-    "region_name": "Muttur",
+    "region_name": "Muthur",
     "region_name_in_data": "Muttur",
     "region_ent_type": "dsd",
     "total": 19400,
@@ -3406,7 +3406,7 @@
   },
   {
     "region_id": "LK-5333",
-    "region_name": "Verugal (Eachchilampattu)",
+    "region_name": "Verugal",
     "region_name_in_data": "Verugal Eachchilampattu",
     "region_ent_type": "dsd",
     "total": 3933,
@@ -3496,7 +3496,7 @@
   },
   {
     "region_id": "LK-6115",
-    "region_name": "Kotavehera",
+    "region_name": "Kotawehera",
     "region_name_in_data": "Kotavehera",
     "region_ent_type": "dsd",
     "total": 6923,
@@ -3556,7 +3556,7 @@
   },
   {
     "region_id": "LK-6127",
-    "region_name": "Polpithigama",
+    "region_name": "Polpitigama",
     "region_name_in_data": "Polpithigama",
     "region_ent_type": "dsd",
     "total": 25354,
@@ -3766,7 +3766,7 @@
   },
   {
     "region_id": "LK-6166",
-    "region_name": "Weerambugedara",
+    "region_name": "Weerabugedara",
     "region_name_in_data": "Weerambugedara",
     "region_ent_type": "dsd",
     "total": 10730,
@@ -3916,7 +3916,7 @@
   },
   {
     "region_id": "LK-6206",
-    "region_name": "Vanathawilluwa",
+    "region_name": "Vanathavilluwa",
     "region_name_in_data": "Vanathawilluwa",
     "region_ent_type": "dsd",
     "total": 5846,
@@ -4261,7 +4261,7 @@
   },
   {
     "region_id": "LK-7124",
-    "region_name": "Horowpothana",
+    "region_name": "Horowpathana",
     "region_name_in_data": "Horowpothana",
     "region_ent_type": "dsd",
     "total": 11190,
@@ -4276,7 +4276,7 @@
   },
   {
     "region_id": "LK-7127",
-    "region_name": "Galenbindunuwewa",
+    "region_name": "Galenbidunuwewa",
     "region_name_in_data": "Galenbindunuwewa",
     "region_ent_type": "dsd",
     "total": 14371,
@@ -4366,7 +4366,7 @@
   },
   {
     "region_id": "LK-7145",
-    "region_name": "Thambuttegama",
+    "region_name": "Thambuththegama",
     "region_name_in_data": "Thambuttegama",
     "region_ent_type": "dsd",
     "total": 13271,
@@ -4501,7 +4501,7 @@
   },
   {
     "region_id": "LK-7203",
-    "region_name": "Hingurakgoda",
+    "region_name": "Higurakgoda",
     "region_name_in_data": "Hingurakgoda",
     "region_ent_type": "dsd",
     "total": 20141,
@@ -4651,7 +4651,7 @@
   },
   {
     "region_id": "LK-8109",
-    "region_name": "Meegahakivula",
+    "region_name": "Meegahakiula",
     "region_name_in_data": "Meegahakivula",
     "region_ent_type": "dsd",
     "total": 6396,
@@ -4666,7 +4666,7 @@
   },
   {
     "region_id": "LK-8112",
-    "region_name": "Kandaketiya",
+    "region_name": "Kandeketiya",
     "region_name_in_data": "Kandaketiya",
     "region_ent_type": "dsd",
     "total": 7410,
@@ -4756,7 +4756,7 @@
   },
   {
     "region_id": "LK-8127",
-    "region_name": "Uva Paranagama",
+    "region_name": "Uvaparanagama",
     "region_name_in_data": "Uva Paranagama",
     "region_ent_type": "dsd",
     "total": 22605,
@@ -4846,7 +4846,7 @@
   },
   {
     "region_id": "LK-82",
-    "region_name": "Moneragala",
+    "region_name": "Monaragala",
     "region_name_in_data": "Monaragala District",
     "region_ent_type": "district",
     "total": 150728,
@@ -4921,7 +4921,7 @@
   },
   {
     "region_id": "LK-8215",
-    "region_name": "Moneragala",
+    "region_name": "Monaragala",
     "region_name_in_data": "Moneragala",
     "region_ent_type": "dsd",
     "total": 15888,
@@ -4996,7 +4996,7 @@
   },
   {
     "region_id": "LK-8230",
-    "region_name": "Thanamalvila",
+    "region_name": "Thanamalwila",
     "region_name_in_data": "Thanamalvila",
     "region_ent_type": "dsd",
     "total": 9468,
@@ -5130,6 +5130,21 @@
     "not_relevant": 3
   },
   {
+    "region_id": "LK-9119",
+    "region_name": "Kalthota",
+    "region_name_in_data": "Kalthota",
+    "region_ent_type": "dsd",
+    "total": 3993,
+    "tile": 999,
+    "asbestos": 2756,
+    "concrete": 54,
+    "zinc_aluminium_sheets": 4,
+    "metal_sheets": 112,
+    "kadjan_or_palmyrah_or_straw": 68,
+    "other": 0,
+    "not_relevant": 0
+  },
+  {
     "region_id": "LK-9121",
     "region_name": "Opanayake",
     "region_name_in_data": "Opanayake",
@@ -5221,7 +5236,7 @@
   },
   {
     "region_id": "LK-9139",
-    "region_name": "Kahawatta",
+    "region_name": "Kahawattha",
     "region_name_in_data": "Kahawatta",
     "region_ent_type": "dsd",
     "total": 12358,
@@ -5295,21 +5310,6 @@
     "not_relevant": 0
   },
   {
-    "region_id": "LK-91XX",
-    "region_name": "Kalthota",
-    "region_name_in_data": "Kalthota",
-    "region_ent_type": "dsd",
-    "total": 3993,
-    "tile": 999,
-    "asbestos": 2756,
-    "concrete": 54,
-    "zinc_aluminium_sheets": 4,
-    "metal_sheets": 112,
-    "kadjan_or_palmyrah_or_straw": 68,
-    "other": 0,
-    "not_relevant": 0
-  },
-  {
     "region_id": "LK-92",
     "region_name": "Kegalle",
     "region_name_in_data": "Kegalle District",
@@ -5356,7 +5356,7 @@
   },
   {
     "region_id": "LK-9209",
-    "region_name": "Aranayaka",
+    "region_name": "Aranayake",
     "region_name_in_data": "Aranayaka",
     "region_ent_type": "dsd",
     "total": 19811,
@@ -5431,7 +5431,7 @@
   },
   {
     "region_id": "LK-9224",
-    "region_name": "Bulathkohupitiya",
+    "region_name": "Bulathkohipitiya",
     "region_name_in_data": "Bulathkohupitiya",
     "region_ent_type": "dsd",
     "total": 12895,
@@ -5446,7 +5446,7 @@
   },
   {
     "region_id": "LK-9227",
-    "region_name": "Yatiyanthota",
+    "region_name": "Yatiyantota",
     "region_name_in_data": "Yatiyanthota",
     "region_ent_type": "dsd",
     "total": 17393,
@@ -5461,7 +5461,7 @@
   },
   {
     "region_id": "LK-9230",
-    "region_name": "Dehiovita",
+    "region_name": "Dehiowita",
     "region_name_in_data": "Dehiovita",
     "region_ent_type": "dsd",
     "total": 23238,
