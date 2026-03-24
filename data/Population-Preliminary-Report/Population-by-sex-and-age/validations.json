@@ -1,0 +1,36 @@
+[
+  {
+    "name": "data_without_ents",
+    "status": "fail",
+    "error_count": 1,
+    "errors": [
+      {
+        "region_id": "LK-52XX",
+        "region_name": "Kalmunai Tamil Division"
+      }
+    ]
+  },
+  {
+    "name": "ents_without_data",
+    "status": "fail",
+    "error_count": 2,
+    "errors": [
+      {
+        "region_id": "LK-3130",
+        "region_name": "Welivitiya-Divitura",
+        "ent_type": "dsd"
+      },
+      {
+        "region_id": "LK-5109",
+        "region_name": "Koralai Pattu",
+        "ent_type": "dsd"
+      }
+    ]
+  },
+  {
+    "name": "totals",
+    "status": "pass",
+    "error_count": 0,
+    "errors": []
+  }
+]
