@@ -30,11 +30,26 @@ class ReadMeDataTableMixin:
         failures = [r for r in results if r["status"] == "fail"]
         if not failures:
             return []
-        tokens = []
+        lines = ["#### Validation Errors", ""]
         for r in failures:
             desc = self._VALIDATION_DESCRIPTIONS.get(r["name"], r["name"])
-            tokens.append(f"**{r['name']}** ({r['error_count']:,}: {desc})")
-        return [f"⚠️ " + "; ".join(tokens), ""]
+            lines.append(f"⚠️ **{r['error_count']:,}** {desc}")
+            examples = r.get("errors", [])[:3]
+            for ex in examples:
+                name = (
+                    ex.get("region_name")
+                    or ex.get("region_name_in_data")
+                    or ex.get("region_id")
+                )
+                label = f"{name} (`{ex['region_id']}`)"
+                if "total" in ex and "total_from_fields" in ex:
+                    label += (
+                        f" — total: {ex['total']:,},"
+                        f" sum of fields: {ex['total_from_fields']:,}"
+                    )
+                lines.append(f"  - {label}")
+            lines.append("")
+        return lines
 
     def get_lines_for_example_data(self, data_table) -> list[str]:
         lines = []

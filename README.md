@@ -1,7 +1,7 @@
 # 🇱🇰 Sri Lanka - Census of Population and Housing 2024
 
 ![CPH](https://img.shields.io/badge/CPH-2024-blue)
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--03--24_17:50:04-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--03--24_17:58:23-green)
 
 ## Original Source Documents
 
@@ -45,7 +45,14 @@ The following datasets have been extracted from the PDF source documents:
 
 **365** rows in total, by Country (1), District (25), Dsd (339)
 
-⚠️ **data_without_ents** (1: rows in data couldn't be matched to a known administrative entity); **ents_without_data** (2: known administrative entities have no corresponding row in data)
+#### Validation Errors
+
+⚠️ **1** rows in data couldn't be matched to a known administrative entity
+  - Kalmunai Tamil Division (`LK-52XX`)
+
+⚠️ **2** known administrative entities have no corresponding row in data
+  - Welivitiya-Divitura (`LK-3130`)
+  - Koralai Pattu (`LK-5109`)
 
 ### 02. [Population by ethnicity](Population-Preliminary-Report/Population-by-ethnicity)
 
@@ -78,7 +85,16 @@ The following datasets have been extracted from the PDF source documents:
 
 **366** rows in total, by Country (1), District (25), Dsd (340)
 
-⚠️ **data_without_ents** (1: rows in data couldn't be matched to a known administrative entity); **ents_without_data** (1: known administrative entities have no corresponding row in data); **totals** (1: rows where 'total' field doesn't equal sum of other fields)
+#### Validation Errors
+
+⚠️ **1** rows in data couldn't be matched to a known administrative entity
+  - Kalmunai Tamil Division (`LK-52XX`)
+
+⚠️ **1** known administrative entities have no corresponding row in data
+  - Koralai Pattu (`LK-5109`)
+
+⚠️ **1** rows where 'total' field doesn't equal sum of other fields
+  - Kilinochchi (`LK-45`) — total: 136,710, sum of fields: 136,712
 
 ### 03. [Population by religion](Population-Preliminary-Report/Population-by-religion)
 
@@ -107,7 +123,13 @@ The following datasets have been extracted from the PDF source documents:
 
 **366** rows in total, by Country (1), District (25), Dsd (340)
 
-⚠️ **data_without_ents** (1: rows in data couldn't be matched to a known administrative entity); **ents_without_data** (1: known administrative entities have no corresponding row in data)
+#### Validation Errors
+
+⚠️ **1** rows in data couldn't be matched to a known administrative entity
+  - Kalmunai Tamil Division (`LK-52XX`)
+
+⚠️ **1** known administrative entities have no corresponding row in data
+  - Koralai Pattu (`LK-5109`)
 
 ### 04. [Number of housing units by housing unit structure](Housing-Preliminary-Report/Number-of-housing-units-by-housing-unit-structure)
 
@@ -140,7 +162,13 @@ The following datasets have been extracted from the PDF source documents:
 
 **366** rows in total, by Country (1), District (25), Dsd (340)
 
-⚠️ **data_without_ents** (1: rows in data couldn't be matched to a known administrative entity); **ents_without_data** (1: known administrative entities have no corresponding row in data)
+#### Validation Errors
+
+⚠️ **1** rows in data couldn't be matched to a known administrative entity
+  - Kalmunai Tamil Division (`LK-52XX`)
+
+⚠️ **1** known administrative entities have no corresponding row in data
+  - Koralai Pattu (`LK-5109`)
 
 ### 05. [Number of housing units by main material used for walls construction](Housing-Preliminary-Report/Number-of-housing-units-by-main-material-used-for-walls-construction)
 
@@ -174,7 +202,13 @@ The following datasets have been extracted from the PDF source documents:
 
 **366** rows in total, by Country (1), District (25), Dsd (340)
 
-⚠️ **data_without_ents** (1: rows in data couldn't be matched to a known administrative entity); **ents_without_data** (1: known administrative entities have no corresponding row in data)
+#### Validation Errors
+
+⚠️ **1** rows in data couldn't be matched to a known administrative entity
+  - Kalmunai Tamil Division (`LK-52XX`)
+
+⚠️ **1** known administrative entities have no corresponding row in data
+  - Koralai Pattu (`LK-5109`)
 
 ### 06. [Number of housing units by main material used for roof construction](Housing-Preliminary-Report/Number-of-housing-units-by-main-material-used-for-roof-construction)
 
@@ -205,7 +239,13 @@ The following datasets have been extracted from the PDF source documents:
 
 **366** rows in total, by Country (1), District (25), Dsd (340)
 
-⚠️ **data_without_ents** (1: rows in data couldn't be matched to a known administrative entity); **ents_without_data** (1: known administrative entities have no corresponding row in data)
+#### Validation Errors
+
+⚠️ **1** rows in data couldn't be matched to a known administrative entity
+  - Kalmunai Tamil Division (`LK-52XX`)
+
+⚠️ **1** known administrative entities have no corresponding row in data
+  - Koralai Pattu (`LK-5109`)
 
 ### 07. [Number of households by main material used for floor construction](Housing-Preliminary-Report/Number-of-households-by-main-material-used-for-floor-construction)
 
@@ -236,7 +276,13 @@ The following datasets have been extracted from the PDF source documents:
 
 **366** rows in total, by Country (1), District (25), Dsd (340)
 
-⚠️ **data_without_ents** (1: rows in data couldn't be matched to a known administrative entity); **ents_without_data** (1: known administrative entities have no corresponding row in data)
+#### Validation Errors
+
+⚠️ **1** rows in data couldn't be matched to a known administrative entity
+  - Kalmunai Tamil Division (`LK-52XX`)
+
+⚠️ **1** known administrative entities have no corresponding row in data
+  - Koralai Pattu (`LK-5109`)
 
 ### 08. [Number of households by main source of energy/fuel used for cooking](Housing-Preliminary-Report/Number-of-households-by-main-source-of-energyfuel-used-for-cooking)
 
@@ -267,7 +313,13 @@ The following datasets have been extracted from the PDF source documents:
 
 **366** rows in total, by Country (1), District (25), Dsd (340)
 
-⚠️ **data_without_ents** (1: rows in data couldn't be matched to a known administrative entity); **ents_without_data** (1: known administrative entities have no corresponding row in data)
+#### Validation Errors
+
+⚠️ **1** rows in data couldn't be matched to a known administrative entity
+  - Kalmunai Tamil Division (`LK-52XX`)
+
+⚠️ **1** known administrative entities have no corresponding row in data
+  - Koralai Pattu (`LK-5109`)
 
 ### 09. [Number of households by main source of drinking water](Housing-Preliminary-Report/Number-of-households-by-main-source-of-drinking-water)
 
@@ -305,7 +357,13 @@ The following datasets have been extracted from the PDF source documents:
 
 **366** rows in total, by Country (1), District (25), Dsd (340)
 
-⚠️ **data_without_ents** (1: rows in data couldn't be matched to a known administrative entity); **ents_without_data** (1: known administrative entities have no corresponding row in data)
+#### Validation Errors
+
+⚠️ **1** rows in data couldn't be matched to a known administrative entity
+  - Kalmunai Tamil Division (`LK-52XX`)
+
+⚠️ **1** known administrative entities have no corresponding row in data
+  - Koralai Pattu (`LK-5109`)
 
 ### 10. [Number of households by source of lighting](Housing-Preliminary-Report/Number-of-households-by-source-of-lighting)
 
@@ -335,7 +393,13 @@ The following datasets have been extracted from the PDF source documents:
 
 **366** rows in total, by Country (1), District (25), Dsd (340)
 
-⚠️ **data_without_ents** (1: rows in data couldn't be matched to a known administrative entity); **ents_without_data** (1: known administrative entities have no corresponding row in data)
+#### Validation Errors
+
+⚠️ **1** rows in data couldn't be matched to a known administrative entity
+  - Kalmunai Tamil Division (`LK-52XX`)
+
+⚠️ **1** known administrative entities have no corresponding row in data
+  - Koralai Pattu (`LK-5109`)
 
 ### 11. [Number of households using toilet facilities](Housing-Preliminary-Report/Number-of-households-using-toilet-facilities)
 
@@ -365,7 +429,13 @@ The following datasets have been extracted from the PDF source documents:
 
 **366** rows in total, by Country (1), District (25), Dsd (340)
 
-⚠️ **data_without_ents** (1: rows in data couldn't be matched to a known administrative entity); **ents_without_data** (1: known administrative entities have no corresponding row in data)
+#### Validation Errors
+
+⚠️ **1** rows in data couldn't be matched to a known administrative entity
+  - Kalmunai Tamil Division (`LK-52XX`)
+
+⚠️ **1** known administrative entities have no corresponding row in data
+  - Koralai Pattu (`LK-5109`)
 
 ## XLSX Data Tables (8)
 
@@ -393,7 +463,17 @@ The following datasets have been extracted from the XLSX source documents:
 
 **14,383** rows in total, by Country (1), Province (9), District (25), Dsd (340), Gnd (14,008)
 
-⚠️ **all_gig_gnds_present** (354: GNDs in the reference gazetteer missing from this dataset (boundary differences)); **gnds_are_valid** (319: GND IDs in this dataset not found in the reference gazetteer (boundary differences))
+#### Validation Errors
+
+⚠️ **354** GNDs in the reference gazetteer missing from this dataset (boundary differences)
+  - Kandalama (`LK-2206300`)
+  - Medapihilla (`LK-2209125`)
+  - Kadawatha (`LK-2209130`)
+
+⚠️ **319** GND IDs in this dataset not found in the reference gazetteer (boundary differences)
+  - Kiralessa (`LK-2206265`)
+  - Aluthwatta (`LK-2215150`)
+  - Kirigalpotta (`LK-2218120`)
 
 ### 02. [Population by Age Group](GN_population_excel/Population-by-Age-Group)
 
@@ -419,7 +499,17 @@ The following datasets have been extracted from the XLSX source documents:
 
 **14,383** rows in total, by Country (1), Province (9), District (25), Dsd (340), Gnd (14,008)
 
-⚠️ **all_gig_gnds_present** (354: GNDs in the reference gazetteer missing from this dataset (boundary differences)); **gnds_are_valid** (319: GND IDs in this dataset not found in the reference gazetteer (boundary differences))
+#### Validation Errors
+
+⚠️ **354** GNDs in the reference gazetteer missing from this dataset (boundary differences)
+  - Kandalama (`LK-2206300`)
+  - Medapihilla (`LK-2209125`)
+  - Kadawatha (`LK-2209130`)
+
+⚠️ **319** GND IDs in this dataset not found in the reference gazetteer (boundary differences)
+  - Kiralessa (`LK-2206265`)
+  - Aluthwatta (`LK-2215150`)
+  - Kirigalpotta (`LK-2218120`)
 
 ### 03. [Occupied Housing Units](GN_housing_excel/Occupied-Housing-Units)
 
@@ -441,7 +531,17 @@ The following datasets have been extracted from the XLSX source documents:
 
 **14,383** rows in total, by Country (1), Province (9), District (25), Dsd (340), Gnd (14,008)
 
-⚠️ **all_gig_gnds_present** (354: GNDs in the reference gazetteer missing from this dataset (boundary differences)); **gnds_are_valid** (319: GND IDs in this dataset not found in the reference gazetteer (boundary differences))
+#### Validation Errors
+
+⚠️ **354** GNDs in the reference gazetteer missing from this dataset (boundary differences)
+  - Kandalama (`LK-2206300`)
+  - Medapihilla (`LK-2209125`)
+  - Kadawatha (`LK-2209130`)
+
+⚠️ **319** GND IDs in this dataset not found in the reference gazetteer (boundary differences)
+  - Kiralessa (`LK-2206265`)
+  - Aluthwatta (`LK-2215150`)
+  - Kirigalpotta (`LK-2218120`)
 
 ### 04. [Number of Households](HH_GND_excel/Number-of-Households)
 
@@ -463,7 +563,17 @@ The following datasets have been extracted from the XLSX source documents:
 
 **14,383** rows in total, by Country (1), Province (9), District (25), Dsd (340), Gnd (14,008)
 
-⚠️ **all_gig_gnds_present** (354: GNDs in the reference gazetteer missing from this dataset (boundary differences)); **gnds_are_valid** (319: GND IDs in this dataset not found in the reference gazetteer (boundary differences))
+#### Validation Errors
+
+⚠️ **354** GNDs in the reference gazetteer missing from this dataset (boundary differences)
+  - Kandalama (`LK-2206300`)
+  - Medapihilla (`LK-2209125`)
+  - Kadawatha (`LK-2209130`)
+
+⚠️ **319** GND IDs in this dataset not found in the reference gazetteer (boundary differences)
+  - Kiralessa (`LK-2206265`)
+  - Aluthwatta (`LK-2215150`)
+  - Kirigalpotta (`LK-2218120`)
 
 ### 05. [Number of households by main source of drinking water](HH_GND_excel/Number-of-households-by-main-source-of-drinking-water)
 
@@ -499,7 +609,17 @@ The following datasets have been extracted from the XLSX source documents:
 
 **14,383** rows in total, by Country (1), Province (9), District (25), Dsd (340), Gnd (14,008)
 
-⚠️ **all_gig_gnds_present** (354: GNDs in the reference gazetteer missing from this dataset (boundary differences)); **gnds_are_valid** (319: GND IDs in this dataset not found in the reference gazetteer (boundary differences))
+#### Validation Errors
+
+⚠️ **354** GNDs in the reference gazetteer missing from this dataset (boundary differences)
+  - Kandalama (`LK-2206300`)
+  - Medapihilla (`LK-2209125`)
+  - Kadawatha (`LK-2209130`)
+
+⚠️ **319** GND IDs in this dataset not found in the reference gazetteer (boundary differences)
+  - Kiralessa (`LK-2206265`)
+  - Aluthwatta (`LK-2215150`)
+  - Kirigalpotta (`LK-2218120`)
 
 ### 06. [Number of households by main source of energy/fuel used for cooking](HH_GND_excel/Number-of-households-by-main-source-of-energyfuel-used-for-cooking)
 
@@ -528,7 +648,17 @@ The following datasets have been extracted from the XLSX source documents:
 
 **14,383** rows in total, by Country (1), Province (9), District (25), Dsd (340), Gnd (14,008)
 
-⚠️ **all_gig_gnds_present** (354: GNDs in the reference gazetteer missing from this dataset (boundary differences)); **gnds_are_valid** (319: GND IDs in this dataset not found in the reference gazetteer (boundary differences))
+#### Validation Errors
+
+⚠️ **354** GNDs in the reference gazetteer missing from this dataset (boundary differences)
+  - Kandalama (`LK-2206300`)
+  - Medapihilla (`LK-2209125`)
+  - Kadawatha (`LK-2209130`)
+
+⚠️ **319** GND IDs in this dataset not found in the reference gazetteer (boundary differences)
+  - Kiralessa (`LK-2206265`)
+  - Aluthwatta (`LK-2215150`)
+  - Kirigalpotta (`LK-2218120`)
 
 ### 07. [Number of households by source of lighting](HH_GND_excel/Number-of-households-by-source-of-lighting)
 
@@ -556,7 +686,17 @@ The following datasets have been extracted from the XLSX source documents:
 
 **14,383** rows in total, by Country (1), Province (9), District (25), Dsd (340), Gnd (14,008)
 
-⚠️ **all_gig_gnds_present** (354: GNDs in the reference gazetteer missing from this dataset (boundary differences)); **gnds_are_valid** (319: GND IDs in this dataset not found in the reference gazetteer (boundary differences))
+#### Validation Errors
+
+⚠️ **354** GNDs in the reference gazetteer missing from this dataset (boundary differences)
+  - Kandalama (`LK-2206300`)
+  - Medapihilla (`LK-2209125`)
+  - Kadawatha (`LK-2209130`)
+
+⚠️ **319** GND IDs in this dataset not found in the reference gazetteer (boundary differences)
+  - Kiralessa (`LK-2206265`)
+  - Aluthwatta (`LK-2215150`)
+  - Kirigalpotta (`LK-2218120`)
 
 ### 08. [Number of households using toilet facilities](HH_GND_excel/Number-of-households-using-toilet-facilities)
 
@@ -584,7 +724,17 @@ The following datasets have been extracted from the XLSX source documents:
 
 **14,383** rows in total, by Country (1), Province (9), District (25), Dsd (340), Gnd (14,008)
 
-⚠️ **all_gig_gnds_present** (354: GNDs in the reference gazetteer missing from this dataset (boundary differences)); **gnds_are_valid** (319: GND IDs in this dataset not found in the reference gazetteer (boundary differences))
+#### Validation Errors
+
+⚠️ **354** GNDs in the reference gazetteer missing from this dataset (boundary differences)
+  - Kandalama (`LK-2206300`)
+  - Medapihilla (`LK-2209125`)
+  - Kadawatha (`LK-2209130`)
+
+⚠️ **319** GND IDs in this dataset not found in the reference gazetteer (boundary differences)
+  - Kiralessa (`LK-2206265`)
+  - Aluthwatta (`LK-2215150`)
+  - Kirigalpotta (`LK-2218120`)
 
 ![Maintainer](https://img.shields.io/badge/maintainer-nuuuwan-red)
 ![MadeWith](https://img.shields.io/badge/made_with-python-blue)
