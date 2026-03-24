@@ -5,3 +5,6 @@ from lk_census.xlsx_data_table.XLSXDataTableExtractDataMixin import (
 from lk_census.xlsx_data_table.XLSXDataTableLoaderMixin import (
     XLSXDataTableLoaderMixin,
 )
+from lk_census.xlsx_data_table.XLSXDataTableValidateMixin import (
+    XLSXDataTableValidateMixin,
+)

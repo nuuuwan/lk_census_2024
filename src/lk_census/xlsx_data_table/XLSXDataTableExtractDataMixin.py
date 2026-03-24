@@ -5,6 +5,10 @@ import openpyxl
 from gig import Ent, EntType
 from utils import JSONFile, Log, TSVFile
 
+from lk_census.xlsx_data_table.XLSXDataTableValidateMixin import (
+    XLSXDataTableValidateMixin,
+)
+
 log = Log("XLSXDataTable")
 
 # Pre-load all entities keyed by ID for canonical name lookup
@@ -26,7 +30,7 @@ def _ent_name(region_id: str, fallback: str) -> str:
     return ent.name if ent else fallback
 
 
-class XLSXDataTableExtractDataMixin:
+class XLSXDataTableExtractDataMixin(XLSXDataTableValidateMixin):
 
     @property
     def xlsx_path(self):
@@ -119,6 +123,7 @@ class XLSXDataTableExtractDataMixin:
         log.info("Extracting data for " + self.name_safe)
         raw_rows = self.__extract_raw_rows__()
         d_list = self.__build_all_levels__(raw_rows)
+        self.validate(d_list)
         os.makedirs(self.dir_table, exist_ok=True)
         JSONFile(self.json_path).write(d_list)
         log.info(f"Wrote {len(d_list)} rows to {self.json_path}")
