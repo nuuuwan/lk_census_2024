@@ -87,7 +87,7 @@ class ReadMeDataTableMixin:
     def get_lines_for_data_table(self, i_table, data_table) -> list[str]:
         lines = [
             f"### {i_table:02d}. [{data_table.table_title}]"
-            + f"({data_table.dir_table.replace('data/', '')})",
+            + f"({data_table.dir_table})",
             "",
         ]
 
@@ -121,7 +121,7 @@ class ReadMeDataTableMixin:
     def get_lines_for_xlsx_data_table(self, i_table, data_table) -> list[str]:
         lines = [
             f"### {i_table:02d}. [{data_table.table_title}]"
-            + f"({data_table.dir_table.replace('data/', '')})",
+            + f"({data_table.dir_table})",
             "",
         ]
         for label, file_path in [

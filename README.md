@@ -1,7 +1,7 @@
 # 🇱🇰 Sri Lanka - Census of Population and Housing 2024
 
 ![CPH](https://img.shields.io/badge/CPH-2024-blue)
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--03--24_18:06:42-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--03--24_18:12:17-green)
 
 ## Original Source Documents
 
@@ -18,7 +18,7 @@ The following original documents have been downloaded from [https://www.statisti
 
 The following datasets have been extracted from the PDF source documents:
 
-### 01. [Population by sex and age](Population-Preliminary-Report/Population-by-sex-and-age)
+### 01. [Population by sex and age](data/Population-Preliminary-Report/Population-by-sex-and-age)
 
 - [📄 JSON](data/Population-Preliminary-Report/Population-by-sex-and-age/data.json)
 - [📄 TSV Table](data/Population-Preliminary-Report/Population-by-sex-and-age/data.tsv)
@@ -54,7 +54,7 @@ The following datasets have been extracted from the PDF source documents:
   - Welivitiya-Divitura (`LK-3130`)
   - Koralai Pattu (`LK-5109`)
 
-### 02. [Population by ethnicity](Population-Preliminary-Report/Population-by-ethnicity)
+### 02. [Population by ethnicity](data/Population-Preliminary-Report/Population-by-ethnicity)
 
 - [📄 JSON](data/Population-Preliminary-Report/Population-by-ethnicity/data.json)
 - [📄 TSV Table](data/Population-Preliminary-Report/Population-by-ethnicity/data.tsv)
@@ -96,7 +96,7 @@ The following datasets have been extracted from the PDF source documents:
 ⚠️ **1** rows where 'total' field doesn't equal sum of other fields
   - Kilinochchi (`LK-45`) — total: 136,710, sum of fields: 136,712
 
-### 03. [Population by religion](Population-Preliminary-Report/Population-by-religion)
+### 03. [Population by religion](data/Population-Preliminary-Report/Population-by-religion)
 
 - [📄 JSON](data/Population-Preliminary-Report/Population-by-religion/data.json)
 - [📄 TSV Table](data/Population-Preliminary-Report/Population-by-religion/data.tsv)
@@ -131,7 +131,7 @@ The following datasets have been extracted from the PDF source documents:
 ⚠️ **1** known administrative entities have no corresponding row in data
   - Koralai Pattu (`LK-5109`)
 
-### 04. [Number of housing units by housing unit structure](Housing-Preliminary-Report/Number-of-housing-units-by-housing-unit-structure)
+### 04. [Number of housing units by housing unit structure](data/Housing-Preliminary-Report/Number-of-housing-units-by-housing-unit-structure)
 
 - [📄 JSON](data/Housing-Preliminary-Report/Number-of-housing-units-by-housing-unit-structure/data.json)
 - [📄 TSV Table](data/Housing-Preliminary-Report/Number-of-housing-units-by-housing-unit-structure/data.tsv)
@@ -170,7 +170,7 @@ The following datasets have been extracted from the PDF source documents:
 ⚠️ **1** known administrative entities have no corresponding row in data
   - Koralai Pattu (`LK-5109`)
 
-### 05. [Number of housing units by main material used for walls construction](Housing-Preliminary-Report/Number-of-housing-units-by-main-material-used-for-walls-construction)
+### 05. [Number of housing units by main material used for walls construction](data/Housing-Preliminary-Report/Number-of-housing-units-by-main-material-used-for-walls-construction)
 
 - [📄 JSON](data/Housing-Preliminary-Report/Number-of-housing-units-by-main-material-used-for-walls-construction/data.json)
 - [📄 TSV Table](data/Housing-Preliminary-Report/Number-of-housing-units-by-main-material-used-for-walls-construction/data.tsv)
@@ -210,7 +210,7 @@ The following datasets have been extracted from the PDF source documents:
 ⚠️ **1** known administrative entities have no corresponding row in data
   - Koralai Pattu (`LK-5109`)
 
-### 06. [Number of housing units by main material used for roof construction](Housing-Preliminary-Report/Number-of-housing-units-by-main-material-used-for-roof-construction)
+### 06. [Number of housing units by main material used for roof construction](data/Housing-Preliminary-Report/Number-of-housing-units-by-main-material-used-for-roof-construction)
 
 - [📄 JSON](data/Housing-Preliminary-Report/Number-of-housing-units-by-main-material-used-for-roof-construction/data.json)
 - [📄 TSV Table](data/Housing-Preliminary-Report/Number-of-housing-units-by-main-material-used-for-roof-construction/data.tsv)
@@ -247,7 +247,7 @@ The following datasets have been extracted from the PDF source documents:
 ⚠️ **1** known administrative entities have no corresponding row in data
   - Koralai Pattu (`LK-5109`)
 
-### 07. [Number of households by main material used for floor construction](Housing-Preliminary-Report/Number-of-households-by-main-material-used-for-floor-construction)
+### 07. [Number of households by main material used for floor construction](data/Housing-Preliminary-Report/Number-of-households-by-main-material-used-for-floor-construction)
 
 - [📄 JSON](data/Housing-Preliminary-Report/Number-of-households-by-main-material-used-for-floor-construction/data.json)
 - [📄 TSV Table](data/Housing-Preliminary-Report/Number-of-households-by-main-material-used-for-floor-construction/data.tsv)
@@ -284,7 +284,7 @@ The following datasets have been extracted from the PDF source documents:
 ⚠️ **1** known administrative entities have no corresponding row in data
   - Koralai Pattu (`LK-5109`)
 
-### 08. [Number of households by main source of energy/fuel used for cooking](Housing-Preliminary-Report/Number-of-households-by-main-source-of-energyfuel-used-for-cooking)
+### 08. [Number of households by main source of energy/fuel used for cooking](data/Housing-Preliminary-Report/Number-of-households-by-main-source-of-energyfuel-used-for-cooking)
 
 - [📄 JSON](data/Housing-Preliminary-Report/Number-of-households-by-main-source-of-energyfuel-used-for-cooking/data.json)
 - [📄 TSV Table](data/Housing-Preliminary-Report/Number-of-households-by-main-source-of-energyfuel-used-for-cooking/data.tsv)
@@ -321,7 +321,7 @@ The following datasets have been extracted from the PDF source documents:
 ⚠️ **1** known administrative entities have no corresponding row in data
   - Koralai Pattu (`LK-5109`)
 
-### 09. [Number of households by main source of drinking water](Housing-Preliminary-Report/Number-of-households-by-main-source-of-drinking-water)
+### 09. [Number of households by main source of drinking water](data/Housing-Preliminary-Report/Number-of-households-by-main-source-of-drinking-water)
 
 - [📄 JSON](data/Housing-Preliminary-Report/Number-of-households-by-main-source-of-drinking-water/data.json)
 - [📄 TSV Table](data/Housing-Preliminary-Report/Number-of-households-by-main-source-of-drinking-water/data.tsv)
@@ -365,7 +365,7 @@ The following datasets have been extracted from the PDF source documents:
 ⚠️ **1** known administrative entities have no corresponding row in data
   - Koralai Pattu (`LK-5109`)
 
-### 10. [Number of households by source of lighting](Housing-Preliminary-Report/Number-of-households-by-source-of-lighting)
+### 10. [Number of households by source of lighting](data/Housing-Preliminary-Report/Number-of-households-by-source-of-lighting)
 
 - [📄 JSON](data/Housing-Preliminary-Report/Number-of-households-by-source-of-lighting/data.json)
 - [📄 TSV Table](data/Housing-Preliminary-Report/Number-of-households-by-source-of-lighting/data.tsv)
@@ -401,7 +401,7 @@ The following datasets have been extracted from the PDF source documents:
 ⚠️ **1** known administrative entities have no corresponding row in data
   - Koralai Pattu (`LK-5109`)
 
-### 11. [Number of households using toilet facilities](Housing-Preliminary-Report/Number-of-households-using-toilet-facilities)
+### 11. [Number of households using toilet facilities](data/Housing-Preliminary-Report/Number-of-households-using-toilet-facilities)
 
 - [📄 JSON](data/Housing-Preliminary-Report/Number-of-households-using-toilet-facilities/data.json)
 - [📄 TSV Table](data/Housing-Preliminary-Report/Number-of-households-using-toilet-facilities/data.tsv)
@@ -441,7 +441,7 @@ The following datasets have been extracted from the PDF source documents:
 
 The following datasets have been extracted from the XLSX source documents:
 
-### 01. [Population by Sex](GN_population_excel/Population-by-Sex)
+### 01. [Population by Sex](data/GN_population_excel/Population-by-Sex)
 
 - [📄 JSON](data/GN_population_excel/Population-by-Sex/data.json)
 - [📄 TSV Table](data/GN_population_excel/Population-by-Sex/data.tsv)
@@ -475,7 +475,7 @@ The following datasets have been extracted from the XLSX source documents:
   - Aluthwatta (`LK-2215150`)
   - Kirigalpotta (`LK-2218120`)
 
-### 02. [Population by Age Group](GN_population_excel/Population-by-Age-Group)
+### 02. [Population by Age Group](data/GN_population_excel/Population-by-Age-Group)
 
 - [📄 JSON](data/GN_population_excel/Population-by-Age-Group/data.json)
 - [📄 TSV Table](data/GN_population_excel/Population-by-Age-Group/data.tsv)
@@ -511,7 +511,7 @@ The following datasets have been extracted from the XLSX source documents:
   - Aluthwatta (`LK-2215150`)
   - Kirigalpotta (`LK-2218120`)
 
-### 03. [Occupied Housing Units](GN_housing_excel/Occupied-Housing-Units)
+### 03. [Occupied Housing Units](data/GN_housing_excel/Occupied-Housing-Units)
 
 - [📄 JSON](data/GN_housing_excel/Occupied-Housing-Units/data.json)
 - [📄 TSV Table](data/GN_housing_excel/Occupied-Housing-Units/data.tsv)
@@ -543,7 +543,7 @@ The following datasets have been extracted from the XLSX source documents:
   - Aluthwatta (`LK-2215150`)
   - Kirigalpotta (`LK-2218120`)
 
-### 04. [Number of Households](HH_GND_excel/Number-of-Households)
+### 04. [Number of Households](data/HH_GND_excel/Number-of-Households)
 
 - [📄 JSON](data/HH_GND_excel/Number-of-Households/data.json)
 - [📄 TSV Table](data/HH_GND_excel/Number-of-Households/data.tsv)
@@ -575,7 +575,7 @@ The following datasets have been extracted from the XLSX source documents:
   - Aluthwatta (`LK-2215150`)
   - Kirigalpotta (`LK-2218120`)
 
-### 05. [Number of households by main source of drinking water](HH_GND_excel/Number-of-households-by-main-source-of-drinking-water)
+### 05. [Number of households by main source of drinking water](data/HH_GND_excel/Number-of-households-by-main-source-of-drinking-water)
 
 - [📄 JSON](data/HH_GND_excel/Number-of-households-by-main-source-of-drinking-water/data.json)
 - [📄 TSV Table](data/HH_GND_excel/Number-of-households-by-main-source-of-drinking-water/data.tsv)
@@ -621,7 +621,7 @@ The following datasets have been extracted from the XLSX source documents:
   - Aluthwatta (`LK-2215150`)
   - Kirigalpotta (`LK-2218120`)
 
-### 06. [Number of households by main source of energy/fuel used for cooking](HH_GND_excel/Number-of-households-by-main-source-of-energyfuel-used-for-cooking)
+### 06. [Number of households by main source of energy/fuel used for cooking](data/HH_GND_excel/Number-of-households-by-main-source-of-energyfuel-used-for-cooking)
 
 - [📄 JSON](data/HH_GND_excel/Number-of-households-by-main-source-of-energyfuel-used-for-cooking/data.json)
 - [📄 TSV Table](data/HH_GND_excel/Number-of-households-by-main-source-of-energyfuel-used-for-cooking/data.tsv)
@@ -660,7 +660,7 @@ The following datasets have been extracted from the XLSX source documents:
   - Aluthwatta (`LK-2215150`)
   - Kirigalpotta (`LK-2218120`)
 
-### 07. [Number of households by source of lighting](HH_GND_excel/Number-of-households-by-source-of-lighting)
+### 07. [Number of households by source of lighting](data/HH_GND_excel/Number-of-households-by-source-of-lighting)
 
 - [📄 JSON](data/HH_GND_excel/Number-of-households-by-source-of-lighting/data.json)
 - [📄 TSV Table](data/HH_GND_excel/Number-of-households-by-source-of-lighting/data.tsv)
@@ -698,7 +698,7 @@ The following datasets have been extracted from the XLSX source documents:
   - Aluthwatta (`LK-2215150`)
   - Kirigalpotta (`LK-2218120`)
 
-### 08. [Number of households using toilet facilities](HH_GND_excel/Number-of-households-using-toilet-facilities)
+### 08. [Number of households using toilet facilities](data/HH_GND_excel/Number-of-households-using-toilet-facilities)
 
 - [📄 JSON](data/HH_GND_excel/Number-of-households-using-toilet-facilities/data.json)
 - [📄 TSV Table](data/HH_GND_excel/Number-of-households-using-toilet-facilities/data.tsv)
