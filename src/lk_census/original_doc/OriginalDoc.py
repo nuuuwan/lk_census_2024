@@ -61,6 +61,22 @@ class OriginalDoc:
         return doc_list
 
     @classmethod
+    def list_all_pdf(cls) -> list["OriginalDoc"]:
+        return [
+            doc
+            for doc in cls.list_all()
+            if doc.file_path.lower().endswith(".pdf")
+        ]
+
+    @classmethod
+    def list_all_excel(cls) -> list["OriginalDoc"]:
+        return [
+            doc
+            for doc in cls.list_all()
+            if doc.file_path.lower().endswith(".xlsx")
+        ]
+
+    @classmethod
     def from_doc_name(cls, doc_name: str) -> "OriginalDoc":
         for original_doc in cls.list_all():
             if original_doc.doc_name == doc_name:
