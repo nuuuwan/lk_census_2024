@@ -13,7 +13,9 @@ class OriginalDoc:
     file_path: str
 
     DIR_ORIGINAL_DOCS = "original_docs"
-    METADATA_PATH = os.path.join(DIR_ORIGINAL_DOCS, "metadata.json")
+    DOC_METADATA_PATH = os.path.join(
+        DIR_ORIGINAL_DOCS, "metadata", "docs.json"
+    )
     URL_BASE = "https://www.statistics.gov.lk"
 
     @property
@@ -53,7 +55,7 @@ class OriginalDoc:
     @classmethod
     def list_all(cls) -> list["OriginalDoc"]:
         doc_list = []
-        for t in JSONFile(cls.METADATA_PATH).read():
+        for t in JSONFile(cls.DOC_METADATA_PATH).read():
             doc = cls(url=t["url"], file_path=t["file_path"])
             doc_list.append(doc)
         return doc_list

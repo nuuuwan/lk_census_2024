@@ -6,13 +6,14 @@ from lk_census.original_doc.OriginalDoc import OriginalDoc
 
 
 class DataTableLoaderMixin:
-    DIR_DATA = "data"
-    METADATA_PATH = os.path.join(DIR_DATA, "metadata.json")
+    PDF_TABLE_METADATA_PATH = os.path.join(
+        OriginalDoc.DIR_ORIGINAL_DOCS, "metadata", "pdf_tables.json"
+    )
 
     @classmethod
     def list_all(cls):
         table_list = []
-        for t in JSONFile(cls.METADATA_PATH).read():
+        for t in JSONFile(cls.PDF_TABLE_METADATA_PATH).read():
             table_list.append(
                 cls(
                     original_doc=OriginalDoc.from_doc_name(t["doc_name"]),
