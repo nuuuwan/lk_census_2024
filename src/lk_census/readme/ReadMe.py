@@ -32,7 +32,9 @@ class ReadMe(ReadMeDataTableMixin):
             + f" [{OriginalDoc.URL_BASE}]({OriginalDoc.URL_BASE})",
             "",
         ]
-        for i_doc, original_doc in enumerate(OriginalDoc.list_all(), start=1):
+        for i_doc, original_doc in enumerate(
+            OriginalDoc.list_all_pdf(), start=1
+        ):
             try:
                 lines.append(
                     f"{i_doc}. [{original_doc.title}]"
