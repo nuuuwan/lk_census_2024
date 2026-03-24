@@ -1,7 +1,7 @@
 # 🇱🇰 Sri Lanka - Census of Population and Housing 2024
 
 ![CPH](https://img.shields.io/badge/CPH-2024-blue)
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--03--24_17:38:56-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--03--24_17:50:04-green)
 
 ## Original Source Documents
 
@@ -10,6 +10,9 @@ The following original documents have been downloaded from [https://www.statisti
 1. [Population_Preliminary_Report.pdf](Population_Preliminary_Report.pdf)
 2. [Housing_Preliminary_Report.pdf](Housing_Preliminary_Report.pdf)
 3. [CPH2024_Preliminary_Report.pdf](CPH2024_Preliminary_Report.pdf)
+4. [GN_population_excel.xlsx](GN_population_excel.xlsx)
+5. [GN_housing_excel.xlsx](GN_housing_excel.xlsx)
+6. [HH_GND_excel.xlsx](HH_GND_excel.xlsx)
 
 ## PDF Data Tables (11)
 
