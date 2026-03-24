@@ -33,10 +33,15 @@ class ReadMe(ReadMeDataTableMixin):
             "",
         ]
         for i_doc, original_doc in enumerate(OriginalDoc.list_all(), start=1):
-            lines.append(
-                f"{i_doc}. [{original_doc.title}]"
-                + f"({os.path.basename(original_doc.pdf_path)})"
-            )
+            try:
+                lines.append(
+                    f"{i_doc}. [{original_doc.title}]"
+                    + f"({os.path.basename(original_doc.pdf_path)})"
+                )
+            except Exception as e:
+                log.error(
+                    f"Error processing original_doc '{original_doc}': {e}"
+                )
         lines.append("")
         return lines
 

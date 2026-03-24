@@ -14,6 +14,7 @@ class OriginalDoc:
 
     DIR_ORIGINAL_DOCS = "original_docs"
     METADATA_PATH = os.path.join(DIR_ORIGINAL_DOCS, "metadata.json")
+    URL_BASE = "https://www.statistics.gov.lk"
 
     @property
     def doc_name(self) -> str:
@@ -34,6 +35,10 @@ class OriginalDoc:
         if not self.file_path.lower().endswith(".pdf"):
             raise ValueError(f"file_path '{self.file_path}' is not a PDF")
         return self.file_path
+
+    @property
+    def title(self) -> str:
+        return os.path.basename(self.file_path)
 
     def download(self) -> str:
         if os.path.exists(self.file_path):

@@ -1,26 +1,26 @@
 # 🇱🇰 Sri Lanka - Census of Population and Housing 2024
 
 ![CPH](https://img.shields.io/badge/CPH-2024-blue)
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--11--12_18:55:09-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--03--24_16:01:23-green)
 
 ## Original Source Documents
 
 The following original documents have been downloaded from [https://www.statistics.gov.lk](https://www.statistics.gov.lk)
 
-1. [Basic Population by Districts and Divisional Secretary Divisions](Basic-Population.pdf)
-2. [Basic Housing Information by Districts and Divisional Secretary Divisions](Basic-Housing.pdf)
-3. [Preliminary Report - Census of Population & Housing 2024](Preliminary-Report.pdf)
+1. [Population_Preliminary_Report.pdf](Population_Preliminary_Report.pdf)
+2. [Housing_Preliminary_Report.pdf](Housing_Preliminary_Report.pdf)
+3. [CPH2024_Preliminary_Report.pdf](CPH2024_Preliminary_Report.pdf)
 
-## Data Table (10)
+## Data Table (11)
 
 The source documents have been parsed to extract the following datasets: 
 
-### 01. [Population by sex, age and district according to DSD](Basic-Population/Population-by-sex-age-and-district-according-to-DSD)
+### 01. [Population by sex and age](Population-Preliminary-Report/Population-by-sex-and-age)
 
-- [📄 JSON](data/Basic-Population/Population-by-sex-age-and-district-according-to-DSD/data.json)
-- [📄 TSV Table](data/Basic-Population/Population-by-sex-age-and-district-according-to-DSD/data.tsv)
-- [📜 PDF-Table Only](data/Basic-Population/Population-by-sex-age-and-district-according-to-DSD/table.pdf)
-- [📜 Original Source PDF](original_docs/Basic-Population.pdf)
+- [📄 JSON](data/Population-Preliminary-Report/Population-by-sex-and-age/data.json)
+- [📄 TSV Table](data/Population-Preliminary-Report/Population-by-sex-and-age/data.tsv)
+- [📜 PDF-Table Only](data/Population-Preliminary-Report/Population-by-sex-and-age/table.pdf)
+- [📜 Original Source PDF](original_docs/Population_Preliminary_Report.pdf)
 
 #### Example Data
 
@@ -42,12 +42,12 @@ The source documents have been parsed to extract the following datasets:
 
 **365** rows in total, by Country (1), District (25), Dsd (339)
 
-### 02. [Population by ethnicity and district according to DSD](Basic-Population/Population-by-ethnicity-and-district-according-to-DSD)
+### 02. [Population by ethnicity](Population-Preliminary-Report/Population-by-ethnicity)
 
-- [📄 JSON](data/Basic-Population/Population-by-ethnicity-and-district-according-to-DSD/data.json)
-- [📄 TSV Table](data/Basic-Population/Population-by-ethnicity-and-district-according-to-DSD/data.tsv)
-- [📜 PDF-Table Only](data/Basic-Population/Population-by-ethnicity-and-district-according-to-DSD/table.pdf)
-- [📜 Original Source PDF](original_docs/Basic-Population.pdf)
+- [📄 JSON](data/Population-Preliminary-Report/Population-by-ethnicity/data.json)
+- [📄 TSV Table](data/Population-Preliminary-Report/Population-by-ethnicity/data.tsv)
+- [📜 PDF-Table Only](data/Population-Preliminary-Report/Population-by-ethnicity/table.pdf)
+- [📜 Original Source PDF](original_docs/Population_Preliminary_Report.pdf)
 
 #### Example Data
 
@@ -73,12 +73,12 @@ The source documents have been parsed to extract the following datasets:
 
 **366** rows in total, by Country (1), District (25), Dsd (340)
 
-### 03. [Population by religion and district according to DSD](Basic-Population/Population-by-religion-and-district-according-to-DSD)
+### 03. [Population by religion and district according to DSD](Population-Preliminary-Report/Population-by-religion-and-district-according-to-DSD)
 
-- [📄 JSON](data/Basic-Population/Population-by-religion-and-district-according-to-DSD/data.json)
-- [📄 TSV Table](data/Basic-Population/Population-by-religion-and-district-according-to-DSD/data.tsv)
-- [📜 PDF-Table Only](data/Basic-Population/Population-by-religion-and-district-according-to-DSD/table.pdf)
-- [📜 Original Source PDF](original_docs/Basic-Population.pdf)
+- [📄 JSON](data/Population-Preliminary-Report/Population-by-religion-and-district-according-to-DSD/data.json)
+- [📄 TSV Table](data/Population-Preliminary-Report/Population-by-religion-and-district-according-to-DSD/data.tsv)
+- [📜 PDF-Table Only](data/Population-Preliminary-Report/Population-by-religion-and-district-according-to-DSD/table.pdf)
+- [📜 Original Source PDF](original_docs/Population_Preliminary_Report.pdf)
 
 #### Example Data
 
@@ -100,12 +100,12 @@ The source documents have been parsed to extract the following datasets:
 
 **366** rows in total, by Country (1), District (25), Dsd (340)
 
-### 04. [Number of housing units by housing unit structure at district level and DSDs](Basic-Housing/Number-of-housing-units-by-housing-unit-structure-at-district-level-and-DSDs)
+### 04. [Number of housing units by housing unit structure](Housing-Preliminary-Report/Number-of-housing-units-by-housing-unit-structure)
 
-- [📄 JSON](data/Basic-Housing/Number-of-housing-units-by-housing-unit-structure-at-district-level-and-DSDs/data.json)
-- [📄 TSV Table](data/Basic-Housing/Number-of-housing-units-by-housing-unit-structure-at-district-level-and-DSDs/data.tsv)
-- [📜 PDF-Table Only](data/Basic-Housing/Number-of-housing-units-by-housing-unit-structure-at-district-level-and-DSDs/table.pdf)
-- [📜 Original Source PDF](original_docs/Basic-Housing.pdf)
+- [📄 JSON](data/Housing-Preliminary-Report/Number-of-housing-units-by-housing-unit-structure/data.json)
+- [📄 TSV Table](data/Housing-Preliminary-Report/Number-of-housing-units-by-housing-unit-structure/data.tsv)
+- [📜 PDF-Table Only](data/Housing-Preliminary-Report/Number-of-housing-units-by-housing-unit-structure/table.pdf)
+- [📜 Original Source PDF](original_docs/Housing_Preliminary_Report.pdf)
 
 #### Example Data
 
@@ -116,13 +116,13 @@ The source documents have been parsed to extract the following datasets:
     "region_name_in_data": "Sri Lanka",
     "region_ent_type": "country",
     "total": 6030541,
-    "single_house_single_storeyed": 4958008,
+    "single_house_single_storeyed": 4958009,
     "single_house_two_storeyed": 751375,
     "single_house_more_than_two_storeyed": 59484,
     "attached_house_1st_floor": 164419,
     "attached_house_2nd_floor": 50030,
     "attached_house_3rd_or_4th_floor": 25373,
-    "attached_house_5th_to_10th_floor": 12854,
+    "attached_house_5th_to_10th_floor": 12853,
     "attached_house_11th_to_19th_floor": 6031,
     "attached_house_from_20th_floor_or_more": 1756,
     "other": 1211
@@ -131,12 +131,12 @@ The source documents have been parsed to extract the following datasets:
 
 **366** rows in total, by Country (1), District (25), Dsd (340)
 
-### 05. [Number of housing units by main material used for walls construction at district level and DSDs](Basic-Housing/Number-of-housing-units-by-main-material-used-for-walls-construction-at-district-level-and-DSDs)
+### 05. [Number of housing units by main material used for walls construction](Housing-Preliminary-Report/Number-of-housing-units-by-main-material-used-for-walls-construction)
 
-- [📄 JSON](data/Basic-Housing/Number-of-housing-units-by-main-material-used-for-walls-construction-at-district-level-and-DSDs/data.json)
-- [📄 TSV Table](data/Basic-Housing/Number-of-housing-units-by-main-material-used-for-walls-construction-at-district-level-and-DSDs/data.tsv)
-- [📜 PDF-Table Only](data/Basic-Housing/Number-of-housing-units-by-main-material-used-for-walls-construction-at-district-level-and-DSDs/table.pdf)
-- [📜 Original Source PDF](original_docs/Basic-Housing.pdf)
+- [📄 JSON](data/Housing-Preliminary-Report/Number-of-housing-units-by-main-material-used-for-walls-construction/data.json)
+- [📄 TSV Table](data/Housing-Preliminary-Report/Number-of-housing-units-by-main-material-used-for-walls-construction/data.tsv)
+- [📜 PDF-Table Only](data/Housing-Preliminary-Report/Number-of-housing-units-by-main-material-used-for-walls-construction/table.pdf)
+- [📜 Original Source PDF](original_docs/Housing_Preliminary_Report.pdf)
 
 #### Example Data
 
@@ -163,12 +163,12 @@ The source documents have been parsed to extract the following datasets:
 
 **366** rows in total, by Country (1), District (25), Dsd (340)
 
-### 06. [Number of housing units by main material used for roof construction at district level and DSDs](Basic-Housing/Number-of-housing-units-by-main-material-used-for-roof-construction-at-district-level-and-DSDs)
+### 06. [Number of housing units by main material used for roof construction](Housing-Preliminary-Report/Number-of-housing-units-by-main-material-used-for-roof-construction)
 
-- [📄 JSON](data/Basic-Housing/Number-of-housing-units-by-main-material-used-for-roof-construction-at-district-level-and-DSDs/data.json)
-- [📄 TSV Table](data/Basic-Housing/Number-of-housing-units-by-main-material-used-for-roof-construction-at-district-level-and-DSDs/data.tsv)
-- [📜 PDF-Table Only](data/Basic-Housing/Number-of-housing-units-by-main-material-used-for-roof-construction-at-district-level-and-DSDs/table.pdf)
-- [📜 Original Source PDF](original_docs/Basic-Housing.pdf)
+- [📄 JSON](data/Housing-Preliminary-Report/Number-of-housing-units-by-main-material-used-for-roof-construction/data.json)
+- [📄 TSV Table](data/Housing-Preliminary-Report/Number-of-housing-units-by-main-material-used-for-roof-construction/data.tsv)
+- [📜 PDF-Table Only](data/Housing-Preliminary-Report/Number-of-housing-units-by-main-material-used-for-roof-construction/table.pdf)
+- [📜 Original Source PDF](original_docs/Housing_Preliminary_Report.pdf)
 
 #### Example Data
 
@@ -183,8 +183,8 @@ The source documents have been parsed to extract the following datasets:
     "asbestos": 3209496,
     "concrete": 440761,
     "zinc_aluminium_sheets": 85422,
-    "metal_sheets": 150713,
-    "kadjan_or_palmyrah_or_straw": 101842,
+    "metal_sheets": 163735,
+    "kadjan_or_palmyrah_or_straw": 88820,
     "other": 8655,
     "not_relevant": 1211
 }
@@ -192,12 +192,12 @@ The source documents have been parsed to extract the following datasets:
 
 **366** rows in total, by Country (1), District (25), Dsd (340)
 
-### 07. [Number of households by main material used for floor construction at district level and DSDs](Basic-Housing/Number-of-households-by-main-material-used-for-floor-construction-at-district-level-and-DSDs)
+### 07. [Number of households by main material used for floor construction](Housing-Preliminary-Report/Number-of-households-by-main-material-used-for-floor-construction)
 
-- [📄 JSON](data/Basic-Housing/Number-of-households-by-main-material-used-for-floor-construction-at-district-level-and-DSDs/data.json)
-- [📄 TSV Table](data/Basic-Housing/Number-of-households-by-main-material-used-for-floor-construction-at-district-level-and-DSDs/data.tsv)
-- [📜 PDF-Table Only](data/Basic-Housing/Number-of-households-by-main-material-used-for-floor-construction-at-district-level-and-DSDs/table.pdf)
-- [📜 Original Source PDF](original_docs/Basic-Housing.pdf)
+- [📄 JSON](data/Housing-Preliminary-Report/Number-of-households-by-main-material-used-for-floor-construction/data.json)
+- [📄 TSV Table](data/Housing-Preliminary-Report/Number-of-households-by-main-material-used-for-floor-construction/data.tsv)
+- [📜 PDF-Table Only](data/Housing-Preliminary-Report/Number-of-households-by-main-material-used-for-floor-construction/table.pdf)
+- [📜 Original Source PDF](original_docs/Housing_Preliminary_Report.pdf)
 
 #### Example Data
 
@@ -221,12 +221,41 @@ The source documents have been parsed to extract the following datasets:
 
 **366** rows in total, by Country (1), District (25), Dsd (340)
 
-### 08. [Number of households by main source of drinking water at district level and DSDs](Basic-Housing/Number-of-households-by-main-source-of-drinking-water-at-district-level-and-DSDs)
+### 08. [Number of households by main source of energy/fuel used](Housing-Preliminary-Report/Number-of-households-by-main-source-of-energyfuel-used)
 
-- [📄 JSON](data/Basic-Housing/Number-of-households-by-main-source-of-drinking-water-at-district-level-and-DSDs/data.json)
-- [📄 TSV Table](data/Basic-Housing/Number-of-households-by-main-source-of-drinking-water-at-district-level-and-DSDs/data.tsv)
-- [📜 PDF-Table Only](data/Basic-Housing/Number-of-households-by-main-source-of-drinking-water-at-district-level-and-DSDs/table.pdf)
-- [📜 Original Source PDF](original_docs/Basic-Housing.pdf)
+- [📄 JSON](data/Housing-Preliminary-Report/Number-of-households-by-main-source-of-energyfuel-used/data.json)
+- [📄 TSV Table](data/Housing-Preliminary-Report/Number-of-households-by-main-source-of-energyfuel-used/data.tsv)
+- [📜 PDF-Table Only](data/Housing-Preliminary-Report/Number-of-households-by-main-source-of-energyfuel-used/table.pdf)
+- [📜 Original Source PDF](original_docs/Housing_Preliminary_Report.pdf)
+
+#### Example Data
+
+```json
+{
+    "region_id": "LK",
+    "region_name": "Sri Lanka",
+    "region_name_in_data": "Sri Lanka",
+    "region_ent_type": "country",
+    "total": 6111315,
+    "firewood": 3381781,
+    "kerosene": 32974,
+    "gas": 2588502,
+    "electricity": 19540,
+    "saw_dust_or_paddy_husk": 1739,
+    "bio_gas": 7179,
+    "other": 2361,
+    "not_relevant": 77239
+}
+```
+
+**366** rows in total, by Country (1), District (25), Dsd (340)
+
+### 09. [Number of households by main source of drinking water](Housing-Preliminary-Report/Number-of-households-by-main-source-of-drinking-water)
+
+- [📄 JSON](data/Housing-Preliminary-Report/Number-of-households-by-main-source-of-drinking-water/data.json)
+- [📄 TSV Table](data/Housing-Preliminary-Report/Number-of-households-by-main-source-of-drinking-water/data.tsv)
+- [📜 PDF-Table Only](data/Housing-Preliminary-Report/Number-of-households-by-main-source-of-drinking-water/table.pdf)
+- [📜 Original Source PDF](original_docs/Housing_Preliminary_Report.pdf)
 
 #### Example Data
 
@@ -255,14 +284,14 @@ The source documents have been parsed to extract the following datasets:
 }
 ```
 
-**381** rows in total, by Country (2), District (26), Dsd (353)
+**366** rows in total, by Country (1), District (25), Dsd (340)
 
-### 09. [Number of households by source of lighting at district level and DSDs](Basic-Housing/Number-of-households-by-source-of-lighting-at-district-level-and-DSDs)
+### 10. [Number of households by source of lighting](Housing-Preliminary-Report/Number-of-households-by-source-of-lighting)
 
-- [📄 JSON](data/Basic-Housing/Number-of-households-by-source-of-lighting-at-district-level-and-DSDs/data.json)
-- [📄 TSV Table](data/Basic-Housing/Number-of-households-by-source-of-lighting-at-district-level-and-DSDs/data.tsv)
-- [📜 PDF-Table Only](data/Basic-Housing/Number-of-households-by-source-of-lighting-at-district-level-and-DSDs/table.pdf)
-- [📜 Original Source PDF](original_docs/Basic-Housing.pdf)
+- [📄 JSON](data/Housing-Preliminary-Report/Number-of-households-by-source-of-lighting/data.json)
+- [📄 TSV Table](data/Housing-Preliminary-Report/Number-of-households-by-source-of-lighting/data.tsv)
+- [📜 PDF-Table Only](data/Housing-Preliminary-Report/Number-of-households-by-source-of-lighting/table.pdf)
+- [📜 Original Source PDF](original_docs/Housing_Preliminary_Report.pdf)
 
 #### Example Data
 
@@ -273,25 +302,24 @@ The source documents have been parsed to extract the following datasets:
     "region_name_in_data": "Sri Lanka",
     "region_ent_type": "country",
     "total": 6111315,
-    "electricity-from_national_grid": 5952365,
-    "electricity-from_rural_hydro_power_project": 35220,
-    "other-kerosene_lamp": 95150,
-    "other-solar_power_grid_connected": 8093,
-    "other-solar_power_standalone": 5817,
-    "other-bio_gas": 244,
-    "other-generator": 1230,
-    "other-other": 13196
+    "electricity-from_national_grid_or_from_rural_hydro_power_project": 5987585,
+    "kerosene_lamp": 95150,
+    "solar_power_grid_connected": 8093,
+    "solar_power_standalone": 5817,
+    "bio_gas": 244,
+    "rural_water_supply_project": 1230,
+    "other": 13196
 }
 ```
 
 **366** rows in total, by Country (1), District (25), Dsd (340)
 
-### 10. [Number of households using toilet facilities at district level and DSDs](Basic-Housing/Number-of-households-using-toilet-facilities-at-district-level-and-DSDs)
+### 11. [Number of households using toilet facilities](Housing-Preliminary-Report/Number-of-households-using-toilet-facilities)
 
-- [📄 JSON](data/Basic-Housing/Number-of-households-using-toilet-facilities-at-district-level-and-DSDs/data.json)
-- [📄 TSV Table](data/Basic-Housing/Number-of-households-using-toilet-facilities-at-district-level-and-DSDs/data.tsv)
-- [📜 PDF-Table Only](data/Basic-Housing/Number-of-households-using-toilet-facilities-at-district-level-and-DSDs/table.pdf)
-- [📜 Original Source PDF](original_docs/Basic-Housing.pdf)
+- [📄 JSON](data/Housing-Preliminary-Report/Number-of-households-using-toilet-facilities/data.json)
+- [📄 TSV Table](data/Housing-Preliminary-Report/Number-of-households-using-toilet-facilities/data.tsv)
+- [📜 PDF-Table Only](data/Housing-Preliminary-Report/Number-of-households-using-toilet-facilities/table.pdf)
+- [📜 Original Source PDF](original_docs/Housing_Preliminary_Report.pdf)
 
 #### Example Data
 
@@ -303,11 +331,11 @@ The source documents have been parsed to extract the following datasets:
     "region_ent_type": "country",
     "total": 6111315,
     "within_the_unit-exclusively_for_the_household": 3798777,
-    "within_the_unit-sharing_with_another_household": 157346,
+    "within_the_unit-sharing_with_another_household": 157456,
     "outside_the_unit-exclusively_for_the_household": 1832587,
     "outside_the_unit-sharing_with_another_household": 197678,
     "other-no_toilet_but_sharing_with_another_household": 101924,
-    "other-common_or_public_toilet": 9677,
+    "other-common_or_public_toilet": 9567,
     "other-not_using_a_toilet": 13326
 }
 ```
