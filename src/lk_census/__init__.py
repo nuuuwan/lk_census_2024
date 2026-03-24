@@ -11,3 +11,8 @@ from lk_census.pdf_data_table import (
     PDFDataTablePDFMixin,
 )
 from lk_census.readme import ReadMe, ReadMeDataTableMixin
+from lk_census.xlsx_data_table import (
+    XLSXDataTable,
+    XLSXDataTableExtractDataMixin,
+    XLSXDataTableLoaderMixin,
+)
