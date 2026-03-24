@@ -1,4 +1,5 @@
 import os
+from collections import defaultdict
 
 import openpyxl
 from gig import Ent, EntType
@@ -6,12 +7,23 @@ from utils import JSONFile, Log, TSVFile
 
 log = Log("XLSXDataTable")
 
-# Pre-load all GND entities keyed by ID for fast lookup
-_GND_BY_ID = {ent.id: ent for ent in Ent.list_from_type(EntType.GND)}
+# Pre-load all entities keyed by ID for canonical name lookup
+_ENT_BY_ID = {
+    ent.id: ent
+    for et in [
+        EntType.COUNTRY,
+        EntType.PROVINCE,
+        EntType.DISTRICT,
+        EntType.DSD,
+        EntType.GND,
+    ]
+    for ent in Ent.list_from_type(et)
+}
 
 
-def _build_region_id(district_id: int, dsd_id: int, gnd_id: int) -> str:
-    return f"LK-{district_id:02d}{dsd_id:02d}{gnd_id:03d}"
+def _ent_name(region_id: str, fallback: str) -> str:
+    ent = _ENT_BY_ID.get(region_id)
+    return ent.name if ent else fallback
 
 
 class XLSXDataTableExtractDataMixin:
@@ -25,33 +37,74 @@ class XLSXDataTableExtractDataMixin:
         ws = list(wb.worksheets)[0]
         rows = []
         for row in ws.iter_rows(values_only=True):
-            # Data rows have an integer province code in column 0
             if not isinstance(row[0], (int, float)):
                 continue
             rows.append(row)
         wb.close()
         return rows
 
-    def __build_d__(self, row):
-        district_id = int(row[2])
-        dsd_id = int(row[4])
-        gnd_id = int(row[6])
-        region_name_in_data = str(row[7])
+    def __field_values__(self, row):
+        return {
+            field: (
+                int(row[self.column_offset + i])
+                if row[self.column_offset + i] is not None
+                else 0
+            )
+            for i, field in enumerate(self.field_list)
+        }
 
-        region_id = _build_region_id(district_id, dsd_id, gnd_id)
-        gnd_ent = _GND_BY_ID.get(region_id)
-        region_name = gnd_ent.name if gnd_ent else region_name_in_data
+    def __build_all_levels__(self, raw_rows):
+        # Accumulators: region_id → {field: sum}
+        sums = defaultdict(lambda: defaultdict(int))
+        # Canonical name fallbacks from raw data
+        raw_names = {}
 
-        d = dict(
-            region_id=region_id,
-            region_name=region_name,
-            region_name_in_data=region_name_in_data,
-            region_ent_type=EntType.GND.name,
-        )
-        for i, field_name in enumerate(self.field_list):
-            val = row[self.column_offset + i]
-            d[field_name] = int(val) if val is not None else 0
-        return d
+        for row in raw_rows:
+            province_id = int(row[0])
+            province_name = str(row[1])
+            district_id = int(row[2])
+            district_name = str(row[3])
+            dsd_id = int(row[4])
+            dsd_name = str(row[5])
+            gnd_id = int(row[6])
+            gnd_name = str(row[7])
+
+            ids = {
+                "COUNTRY": "LK",
+                "PROVINCE": f"LK-{province_id}",
+                "DISTRICT": f"LK-{district_id:02d}",
+                "DSD": f"LK-{district_id:02d}{dsd_id:02d}",
+                "GND": f"LK-{district_id:02d}{dsd_id:02d}{gnd_id:03d}",
+            }
+            fallbacks = {
+                "COUNTRY": "Sri Lanka",
+                "PROVINCE": province_name,
+                "DISTRICT": district_name,
+                "DSD": dsd_name,
+                "GND": gnd_name,
+            }
+
+            field_vals = self.__field_values__(row)
+            for ent_type, rid in ids.items():
+                for field, val in field_vals.items():
+                    sums[rid][field] += val
+                raw_names.setdefault(rid, (ent_type, fallbacks[ent_type]))
+
+        d_list = []
+        for region_id, field_sums in sums.items():
+            ent_type, fallback_name = raw_names[region_id]
+            region_name = _ent_name(region_id, fallback_name)
+            d = dict(
+                region_id=region_id,
+                region_name=region_name,
+                region_name_in_data=fallback_name,
+                region_ent_type=ent_type,
+            )
+            d.update(field_sums)
+            d_list.append(d)
+
+        d_list.sort(key=lambda x: x["region_id"])
+        return d_list
 
     @property
     def json_path(self):
@@ -65,8 +118,7 @@ class XLSXDataTableExtractDataMixin:
         log.debug("-" * 40)
         log.info("Extracting data for " + self.name_safe)
         raw_rows = self.__extract_raw_rows__()
-        d_list = [self.__build_d__(row) for row in raw_rows]
-        d_list.sort(key=lambda x: x["region_id"])
+        d_list = self.__build_all_levels__(raw_rows)
         os.makedirs(self.dir_table, exist_ok=True)
         JSONFile(self.json_path).write(d_list)
         log.info(f"Wrote {len(d_list)} rows to {self.json_path}")
