@@ -1,7 +1,7 @@
 # 🇱🇰 Sri Lanka - Census of Population and Housing 2024
 
 ![CPH](https://img.shields.io/badge/CPH-2024-blue)
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--03--24_16:01:23-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--03--24_16:08:30-green)
 
 ## Original Source Documents
 
@@ -73,11 +73,11 @@ The source documents have been parsed to extract the following datasets:
 
 **366** rows in total, by Country (1), District (25), Dsd (340)
 
-### 03. [Population by religion and district according to DSD](Population-Preliminary-Report/Population-by-religion-and-district-according-to-DSD)
+### 03. [Population by religion](Population-Preliminary-Report/Population-by-religion)
 
-- [📄 JSON](data/Population-Preliminary-Report/Population-by-religion-and-district-according-to-DSD/data.json)
-- [📄 TSV Table](data/Population-Preliminary-Report/Population-by-religion-and-district-according-to-DSD/data.tsv)
-- [📜 PDF-Table Only](data/Population-Preliminary-Report/Population-by-religion-and-district-according-to-DSD/table.pdf)
+- [📄 JSON](data/Population-Preliminary-Report/Population-by-religion/data.json)
+- [📄 TSV Table](data/Population-Preliminary-Report/Population-by-religion/data.tsv)
+- [📜 PDF-Table Only](data/Population-Preliminary-Report/Population-by-religion/table.pdf)
 - [📜 Original Source PDF](original_docs/Population_Preliminary_Report.pdf)
 
 #### Example Data
