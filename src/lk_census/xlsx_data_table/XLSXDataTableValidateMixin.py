@@ -6,27 +6,47 @@ log = Log("XLSXDataTable")
 _GIG_GND_IDS = {ent.id for ent in Ent.list_from_type(EntType.GND)}
 
 
+def _get_parent_id(region_id: str) -> str | None:
+    """Return the parent region_id in the hierarchy, or None for country."""
+    if region_id == "LK":
+        return None
+    parts = region_id.split("-")
+    if len(parts) != 2:
+        return None
+    suffix = parts[1]
+    if len(suffix) == 7:  # GND → DSD
+        return f"LK-{suffix[:4]}"
+    if len(suffix) == 4:  # DSD → District
+        return f"LK-{suffix[:2]}"
+    if len(suffix) == 2:  # District → Province
+        return f"LK-{suffix[0]}"
+    if len(suffix) == 1:  # Province → Country
+        return "LK"
+    return None
+
+
 class XLSXDataTableValidateMixin:
 
     def _validate_parent_child_totals(self, d_list: list[dict]):
         """Validation 1: each non-GND region's field values equal the sum of
         its direct children's field values."""
+        # O(n): build id→row dict and parent→children map in a single pass
         by_id = {d["region_id"]: d for d in d_list}
-        errors = 0
+        children_map: dict[str, list[dict]] = {}
         for d in d_list:
-            rid = d["region_id"]
-            # Only check regions that have children in the dataset
-            children = [
-                x for x in d_list if _is_direct_child(x["region_id"], rid)
-            ]
-            if not children:
-                continue
+            parent_id = _get_parent_id(d["region_id"])
+            if parent_id and parent_id in by_id:
+                children_map.setdefault(parent_id, []).append(d)
+
+        errors = 0
+        for parent_id, children in children_map.items():
+            parent = by_id[parent_id]
             for field in self.field_list:
-                parent_val = d.get(field, 0)
+                parent_val = parent.get(field, 0)
                 child_sum = sum(c.get(field, 0) for c in children)
                 if parent_val != child_sum:
                     log.error(
-                        f"⁉️ Parent-child mismatch for {rid} field={field}: "
+                        f"⁉️ Parent-child mismatch for {parent_id} field={field}: "
                         f"parent={parent_val}, sum_of_children={child_sum}"
                     )
                     errors += 1
@@ -96,28 +116,3 @@ class XLSXDataTableValidateMixin:
         self._validate_all_gig_gnds_present(d_list)
         self._validate_gnds_are_valid(d_list)
         self._validate_total_field(d_list)
-
-
-def _is_direct_child(child_id: str, parent_id: str) -> bool:
-    """Return True if child_id is a direct child of parent_id in the
-    administrative hierarchy."""
-    if parent_id == "LK":
-        # Direct children of country are provinces: "LK-1", "LK-2", ...
-        parts = child_id.split("-")
-        return len(parts) == 2 and len(parts[1]) == 1
-    parts_p = parent_id.split("-")
-    parts_c = child_id.split("-")
-    if len(parts_p) != 2 or len(parts_c) != 2:
-        return False
-    suffix_p = parts_p[1]
-    suffix_c = parts_c[1]
-    if len(suffix_p) == 1:
-        # Province → District: "LK-1" parent, "LK-11".."LK-19" children
-        return suffix_c.startswith(suffix_p) and len(suffix_c) == 2
-    if len(suffix_p) == 2:
-        # District → DSD: "LK-11" parent, "LK-1103" children
-        return suffix_c.startswith(suffix_p) and len(suffix_c) == 4
-    if len(suffix_p) == 4:
-        # DSD → GND: "LK-1103" parent, "LK-1103005" children
-        return suffix_c.startswith(suffix_p) and len(suffix_c) == 7
-    return False
