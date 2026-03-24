@@ -1,7 +1,7 @@
 # 🇱🇰 Sri Lanka - Census of Population and Housing 2024
 
 ![CPH](https://img.shields.io/badge/CPH-2024-blue)
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--03--24_17:58:23-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--03--24_18:06:42-green)
 
 ## Original Source Documents
 
