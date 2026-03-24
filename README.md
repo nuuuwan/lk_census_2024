@@ -1,7 +1,7 @@
 # 🇱🇰 Sri Lanka - Census of Population and Housing 2024
 
 ![CPH](https://img.shields.io/badge/CPH-2024-blue)
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--03--24_16:19:52-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--03--24_17:11:57-green)
 
 ## Original Source Documents
 
@@ -11,9 +11,9 @@ The following original documents have been downloaded from [https://www.statisti
 2. [Housing_Preliminary_Report.pdf](Housing_Preliminary_Report.pdf)
 3. [CPH2024_Preliminary_Report.pdf](CPH2024_Preliminary_Report.pdf)
 
-## Data Table (11)
+## PDF Data Tables (11)
 
-The source documents have been parsed to extract the following datasets: 
+The following datasets have been extracted from the PDF source documents:
 
 ### 01. [Population by sex and age](Population-Preliminary-Report/Population-by-sex-and-age)
 
@@ -221,11 +221,11 @@ The source documents have been parsed to extract the following datasets:
 
 **366** rows in total, by Country (1), District (25), Dsd (340)
 
-### 08. [Number of households by main source of energy/fuel used](Housing-Preliminary-Report/Number-of-households-by-main-source-of-energyfuel-used)
+### 08. [Number of households by main source of energy/fuel used for cooking](Housing-Preliminary-Report/Number-of-households-by-main-source-of-energyfuel-used-for-cooking)
 
-- [📄 JSON](data/Housing-Preliminary-Report/Number-of-households-by-main-source-of-energyfuel-used/data.json)
-- [📄 TSV Table](data/Housing-Preliminary-Report/Number-of-households-by-main-source-of-energyfuel-used/data.tsv)
-- [📜 PDF-Table Only](data/Housing-Preliminary-Report/Number-of-households-by-main-source-of-energyfuel-used/table.pdf)
+- [📄 JSON](data/Housing-Preliminary-Report/Number-of-households-by-main-source-of-energyfuel-used-for-cooking/data.json)
+- [📄 TSV Table](data/Housing-Preliminary-Report/Number-of-households-by-main-source-of-energyfuel-used-for-cooking/data.tsv)
+- [📜 PDF-Table Only](data/Housing-Preliminary-Report/Number-of-households-by-main-source-of-energyfuel-used-for-cooking/table.pdf)
 - [📜 Original Source PDF](original_docs/Housing_Preliminary_Report.pdf)
 
 #### Example Data
@@ -341,6 +341,209 @@ The source documents have been parsed to extract the following datasets:
 ```
 
 **366** rows in total, by Country (1), District (25), Dsd (340)
+
+## XLSX Data Tables (8)
+
+The following datasets have been extracted from the XLSX source documents:
+
+### 01. [Population by Sex](GN_population_excel/Population-by-Sex)
+
+- [📄 JSON](data/GN_population_excel/Population-by-Sex/data.json)
+- [📄 TSV Table](data/GN_population_excel/Population-by-Sex/data.tsv)
+- [📊 Source XLSX](original_docs/GN_population_excel.xlsx)
+
+#### Example Data
+
+```json
+{
+    "region_id": "LK",
+    "region_name": "Sri Lanka",
+    "region_name_in_data": "Sri Lanka",
+    "region_ent_type": "COUNTRY",
+    "total": 21781800,
+    "male": 10512344,
+    "female": 11269456
+}
+```
+
+**14,383** rows in total, by Country (1), Province (9), District (25), Dsd (340), Gnd (14,008)
+
+### 02. [Population by Age Group](GN_population_excel/Population-by-Age-Group)
+
+- [📄 JSON](data/GN_population_excel/Population-by-Age-Group/data.json)
+- [📄 TSV Table](data/GN_population_excel/Population-by-Age-Group/data.tsv)
+- [📊 Source XLSX](original_docs/GN_population_excel.xlsx)
+
+#### Example Data
+
+```json
+{
+    "region_id": "LK",
+    "region_name": "Sri Lanka",
+    "region_name_in_data": "Sri Lanka",
+    "region_ent_type": "COUNTRY",
+    "total": 21781800,
+    "age_0_14": 4506839,
+    "age_15_59": 13353837,
+    "age_60_64": 1183310,
+    "age_65_and_above": 2737814
+}
+```
+
+**14,383** rows in total, by Country (1), Province (9), District (25), Dsd (340), Gnd (14,008)
+
+### 03. [Occupied Housing Units](GN_housing_excel/Occupied-Housing-Units)
+
+- [📄 JSON](data/GN_housing_excel/Occupied-Housing-Units/data.json)
+- [📄 TSV Table](data/GN_housing_excel/Occupied-Housing-Units/data.tsv)
+- [📊 Source XLSX](original_docs/GN_housing_excel.xlsx)
+
+#### Example Data
+
+```json
+{
+    "region_id": "LK",
+    "region_name": "Sri Lanka",
+    "region_name_in_data": "Sri Lanka",
+    "region_ent_type": "COUNTRY",
+    "occupied_housing_units": 6030541
+}
+```
+
+**14,383** rows in total, by Country (1), Province (9), District (25), Dsd (340), Gnd (14,008)
+
+### 04. [Number of Households](HH_GND_excel/Number-of-Households)
+
+- [📄 JSON](data/HH_GND_excel/Number-of-Households/data.json)
+- [📄 TSV Table](data/HH_GND_excel/Number-of-Households/data.tsv)
+- [📊 Source XLSX](original_docs/HH_GND_excel.xlsx)
+
+#### Example Data
+
+```json
+{
+    "region_id": "LK",
+    "region_name": "Sri Lanka",
+    "region_name_in_data": "Sri Lanka",
+    "region_ent_type": "COUNTRY",
+    "n_households": 6111315
+}
+```
+
+**14,383** rows in total, by Country (1), Province (9), District (25), Dsd (340), Gnd (14,008)
+
+### 05. [Number of households by main source of drinking water](HH_GND_excel/Number-of-households-by-main-source-of-drinking-water)
+
+- [📄 JSON](data/HH_GND_excel/Number-of-households-by-main-source-of-drinking-water/data.json)
+- [📄 TSV Table](data/HH_GND_excel/Number-of-households-by-main-source-of-drinking-water/data.tsv)
+- [📊 Source XLSX](original_docs/HH_GND_excel.xlsx)
+
+#### Example Data
+
+```json
+{
+    "region_id": "LK",
+    "region_name": "Sri Lanka",
+    "region_name_in_data": "Sri Lanka",
+    "region_ent_type": "COUNTRY",
+    "protected_well": 1624506,
+    "semi_protected_well": 267327,
+    "unprotected_well": 77806,
+    "tube_well": 270401,
+    "spring_fountain": 230268,
+    "pipe_borne_nwsdb": 2374349,
+    "pipe_borne_local_authority": 100764,
+    "pipe_borne_community": 419247,
+    "pipe_borne_private": 130394,
+    "tank_river_stream": 59336,
+    "rain_water": 4346,
+    "bottled_water": 63753,
+    "filter_ro": 456849,
+    "bowser": 31208,
+    "other": 761
+}
+```
+
+**14,383** rows in total, by Country (1), Province (9), District (25), Dsd (340), Gnd (14,008)
+
+### 06. [Number of households by main source of energy/fuel used for cooking](HH_GND_excel/Number-of-households-by-main-source-of-energyfuel-used-for-cooking)
+
+- [📄 JSON](data/HH_GND_excel/Number-of-households-by-main-source-of-energyfuel-used-for-cooking/data.json)
+- [📄 TSV Table](data/HH_GND_excel/Number-of-households-by-main-source-of-energyfuel-used-for-cooking/data.tsv)
+- [📊 Source XLSX](original_docs/HH_GND_excel.xlsx)
+
+#### Example Data
+
+```json
+{
+    "region_id": "LK",
+    "region_name": "Sri Lanka",
+    "region_name_in_data": "Sri Lanka",
+    "region_ent_type": "COUNTRY",
+    "firewood": 3381781,
+    "kerosene": 32974,
+    "gas": 2588502,
+    "electricity": 19540,
+    "sawdust_paddy_husk": 1739,
+    "bio_gas": 7179,
+    "other": 2361,
+    "not_relevant": 77239
+}
+```
+
+**14,383** rows in total, by Country (1), Province (9), District (25), Dsd (340), Gnd (14,008)
+
+### 07. [Number of households by source of lighting](HH_GND_excel/Number-of-households-by-source-of-lighting)
+
+- [📄 JSON](data/HH_GND_excel/Number-of-households-by-source-of-lighting/data.json)
+- [📄 TSV Table](data/HH_GND_excel/Number-of-households-by-source-of-lighting/data.tsv)
+- [📊 Source XLSX](original_docs/HH_GND_excel.xlsx)
+
+#### Example Data
+
+```json
+{
+    "region_id": "LK",
+    "region_name": "Sri Lanka",
+    "region_name_in_data": "Sri Lanka",
+    "region_ent_type": "COUNTRY",
+    "electricity_grid": 5987585,
+    "kerosene_lamp": 95150,
+    "solar_grid": 8093,
+    "solar_standalone": 5817,
+    "bio_gas": 244,
+    "generator": 1230,
+    "other": 13196
+}
+```
+
+**14,383** rows in total, by Country (1), Province (9), District (25), Dsd (340), Gnd (14,008)
+
+### 08. [Number of households using toilet facilities](HH_GND_excel/Number-of-households-using-toilet-facilities)
+
+- [📄 JSON](data/HH_GND_excel/Number-of-households-using-toilet-facilities/data.json)
+- [📄 TSV Table](data/HH_GND_excel/Number-of-households-using-toilet-facilities/data.tsv)
+- [📊 Source XLSX](original_docs/HH_GND_excel.xlsx)
+
+#### Example Data
+
+```json
+{
+    "region_id": "LK",
+    "region_name": "Sri Lanka",
+    "region_name_in_data": "Sri Lanka",
+    "region_ent_type": "COUNTRY",
+    "within_unit_exclusive": 3798777,
+    "within_unit_shared": 157456,
+    "within_premises_exclusive": 1832587,
+    "within_premises_shared": 197678,
+    "no_toilet_sharing": 101924,
+    "common_public": 9567,
+    "none": 13326
+}
+```
+
+**14,383** rows in total, by Country (1), Province (9), District (25), Dsd (340), Gnd (14,008)
 
 ![Maintainer](https://img.shields.io/badge/maintainer-nuuuwan-red)
 ![MadeWith](https://img.shields.io/badge/made_with-python-blue)
