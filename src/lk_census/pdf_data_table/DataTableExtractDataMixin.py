@@ -3,10 +3,10 @@ import os
 from gig import Ent, EntType
 from utils import JSONFile, Log, TSVFile
 
-from lk_census.data_table.DataTableExtractDataCleanerMixin import (
+from lk_census.pdf_data_table.DataTableExtractDataCleanerMixin import (
     DataTableExtractDataCleanerMixin,
 )
-from lk_census.data_table.DataTableExtractDataValidateMixin import (
+from lk_census.pdf_data_table.DataTableExtractDataValidateMixin import (
     DataTableExtractDataValidateMixin,
 )
 

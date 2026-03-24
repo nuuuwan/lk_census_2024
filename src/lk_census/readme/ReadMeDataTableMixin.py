@@ -1,6 +1,6 @@
 import json
 
-from lk_census.data_table import DataTable
+from lk_census.pdf_data_table import DataTable
 
 
 class ReadMeDataTableMixin:
