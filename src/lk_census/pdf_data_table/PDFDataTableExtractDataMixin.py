@@ -3,18 +3,18 @@ import os
 from gig import Ent, EntType
 from utils import JSONFile, Log, TSVFile
 
-from lk_census.pdf_data_table.DataTableExtractDataCleanerMixin import (
-    DataTableExtractDataCleanerMixin,
+from lk_census.pdf_data_table.PDFDataTableExtractDataCleanerMixin import (
+    PDFDataTableExtractDataCleanerMixin,
 )
-from lk_census.pdf_data_table.DataTableExtractDataValidateMixin import (
-    DataTableExtractDataValidateMixin,
+from lk_census.pdf_data_table.PDFDataTableExtractDataValidateMixin import (
+    PDFDataTableExtractDataValidateMixin,
 )
 
-log = Log("DataTable")
+log = Log("PDFDataTable")
 
 
-class DataTableExtractDataMixin(
-    DataTableExtractDataCleanerMixin, DataTableExtractDataValidateMixin
+class PDFDataTableExtractDataMixin(
+    PDFDataTableExtractDataCleanerMixin, PDFDataTableExtractDataValidateMixin
 ):
 
     @staticmethod
@@ -64,11 +64,11 @@ class DataTableExtractDataMixin(
             "Kalmunai North Sub": "Kalmunai Tamil Division",
         }.get(region_name, region_name)
 
-        ent_type = DataTableExtractDataMixin.get_ent_type(region_name)
+        ent_type = PDFDataTableExtractDataMixin.get_ent_type(region_name)
         if ent_type == EntType.DISTRICT:
             region_name = region_name.replace("District", "").strip()
             current_parent_id = "LK"
-        region_id, region_name = DataTableExtractDataMixin.__get_ent_data__(
+        region_id, region_name = PDFDataTableExtractDataMixin.__get_ent_data__(
             region_name, ent_type, current_parent_id
         )
 

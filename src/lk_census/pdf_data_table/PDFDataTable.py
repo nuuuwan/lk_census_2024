@@ -5,20 +5,22 @@ from dataclasses import dataclass
 from utils import Log
 
 from lk_census.original_doc.OriginalDoc import OriginalDoc
-from lk_census.pdf_data_table.DataTableExtractDataMixin import (
-    DataTableExtractDataMixin,
+from lk_census.pdf_data_table.PDFDataTableExtractDataMixin import (
+    PDFDataTableExtractDataMixin,
 )
-from lk_census.pdf_data_table.DataTableLoaderMixin import DataTableLoaderMixin
-from lk_census.pdf_data_table.DataTablePDFMixin import DataTablePDFMixin
+from lk_census.pdf_data_table.PDFDataTableLoaderMixin import (
+    PDFDataTableLoaderMixin,
+)
+from lk_census.pdf_data_table.PDFDataTablePDFMixin import PDFDataTablePDFMixin
 
-log = Log("DataTable")
+log = Log("PDFDataTable")
 
 
 @dataclass
-class DataTable(
-    DataTableLoaderMixin,
-    DataTablePDFMixin,
-    DataTableExtractDataMixin,
+class PDFDataTable(
+    PDFDataTableLoaderMixin,
+    PDFDataTablePDFMixin,
+    PDFDataTableExtractDataMixin,
 ):
     original_doc: OriginalDoc
     table_title: str

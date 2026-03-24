@@ -5,7 +5,7 @@ from utils import JSONFile
 from lk_census.original_doc.OriginalDoc import OriginalDoc
 
 
-class DataTableLoaderMixin:
+class PDFDataTableLoaderMixin:
     PDF_TABLE_METADATA_PATH = os.path.join(
         OriginalDoc.DIR_ORIGINAL_DOCS, "metadata", "pdf_tables.json"
     )

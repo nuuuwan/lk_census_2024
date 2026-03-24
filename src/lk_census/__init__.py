@@ -2,9 +2,12 @@
 # flake8: noqa: F408
 
 from lk_census.original_doc import OriginalDoc
-from lk_census.pdf_data_table import (DataTable,
-                                      DataTableExtractDataCleanerMixin,
-                                      DataTableExtractDataMixin,
-                                      DataTableExtractDataValidateMixin,
-                                      DataTableLoaderMixin, DataTablePDFMixin)
+from lk_census.pdf_data_table import (
+    PDFDataTable,
+    PDFDataTableExtractDataCleanerMixin,
+    PDFDataTableExtractDataMixin,
+    PDFDataTableExtractDataValidateMixin,
+    PDFDataTableLoaderMixin,
+    PDFDataTablePDFMixin,
+)
 from lk_census.readme import ReadMe, ReadMeDataTableMixin

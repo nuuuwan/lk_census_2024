@@ -1,6 +1,6 @@
 import json
 
-from lk_census.pdf_data_table import DataTable
+from lk_census.pdf_data_table import PDFDataTable
 
 
 class ReadMeDataTableMixin:
@@ -59,7 +59,7 @@ class ReadMeDataTableMixin:
         return lines
 
     def get_lines_for_data_tables(self) -> list[str]:
-        data_table_list = DataTable.list_all()
+        data_table_list = PDFDataTable.list_all()
         n_tables = len(data_table_list)
         lines = [
             f"## Data Table ({n_tables:,})",

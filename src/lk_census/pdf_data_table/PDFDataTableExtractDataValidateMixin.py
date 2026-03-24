@@ -1,10 +1,10 @@
 from gig import Ent, EntType
 from utils import Log
 
-log = Log("DataTable")
+log = Log("PDFDataTable")
 
 
-class DataTableExtractDataValidateMixin:
+class PDFDataTableExtractDataValidateMixin:
 
     @staticmethod
     def __validate_ents_without_data__(d_list: list[dict]):
@@ -70,10 +70,10 @@ class DataTableExtractDataValidateMixin:
         d_list_with_ents = [
             d for d in d_list if not d.get("region_id", "").endswith("XX")
         ]
-        DataTableExtractDataValidateMixin.__validate_data_without_ents__(
+        PDFDataTableExtractDataValidateMixin.__validate_data_without_ents__(
             d_list
         )
-        DataTableExtractDataValidateMixin.__validate_ents_without_data__(
+        PDFDataTableExtractDataValidateMixin.__validate_ents_without_data__(
             d_list_with_ents
         )
-        DataTableExtractDataValidateMixin.__validate_totals__(d_list)
+        PDFDataTableExtractDataValidateMixin.__validate_totals__(d_list)

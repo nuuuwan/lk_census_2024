@@ -6,10 +6,10 @@ import pandas as pd
 from pypdf import PdfReader, PdfWriter
 from utils import JSONFile, Log, PDFFile
 
-log = Log("DataTable")
+log = Log("PDFDataTable")
 
 
-class DataTablePDFMixin:
+class PDFDataTablePDFMixin:
 
     @property
     def subset_pdf_path(self):
@@ -57,7 +57,7 @@ class DataTablePDFMixin:
                 cell = cell.replace("- - ", "")
                 cell = re.sub(r"[^A-Za-z0-9\s\-]", "", cell)
                 cell = re.sub(r"\s+", " ", cell).strip()
-                cell = DataTablePDFMixin.__parse_int__(cell)
+                cell = PDFDataTablePDFMixin.__parse_int__(cell)
 
                 arr.append(cell)
             arr_of_arr.append(arr)

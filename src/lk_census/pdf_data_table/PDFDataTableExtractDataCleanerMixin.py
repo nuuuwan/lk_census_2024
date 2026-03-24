@@ -1,9 +1,9 @@
 from utils import Log
 
-log = Log("DataTable")
+log = Log("PDFDataTable")
 
 
-class DataTableExtractDataCleanerMixin:
+class PDFDataTableExtractDataCleanerMixin:
     def __shift_shifted_region_names__(self, raw_table):
         for i_row in range(len(raw_table) - 1):
             row = raw_table[i_row]
