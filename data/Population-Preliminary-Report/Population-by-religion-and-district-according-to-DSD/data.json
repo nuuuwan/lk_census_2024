@@ -702,6 +702,19 @@
     "other": 10
   },
   {
+    "region_id": "LK-2130",
+    "region_name": "Gangawata Korale",
+    "region_name_in_data": "Kandy Four Gravets Gangawata",
+    "region_ent_type": "dsd",
+    "total": 153329,
+    "buddhist": 110984,
+    "hindu": 15674,
+    "islam": 18558,
+    "roman_catholic": 5616,
+    "other_christian": 2454,
+    "other": 43
+  },
+  {
     "region_id": "LK-2133",
     "region_name": "Harispattuwa",
     "region_name_in_data": "Harispattuwa",
@@ -830,19 +843,6 @@
     "roman_catholic": 2268,
     "other_christian": 965,
     "other": 38
-  },
-  {
-    "region_id": "LK-21XX",
-    "region_name": "Kandy Four Gravets Gangawata",
-    "region_name_in_data": "Kandy Four Gravets Gangawata",
-    "region_ent_type": "dsd",
-    "total": 153329,
-    "buddhist": 110984,
-    "hindu": 15674,
-    "islam": 18558,
-    "roman_catholic": 5616,
-    "other_christian": 2454,
-    "other": 43
   },
   {
     "region_id": "LK-22",

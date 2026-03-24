@@ -32,6 +32,7 @@ class DataTableExtractDataMixin(
         region_name = {
             "Laggala-Pallegama": "Laggala",
             "Kandy Four Gravets Gangawata Korale": "Gangawata Korale",
+            "Kandy Four Gravets Gangawata": "Gangawata Korale",
             "Kandy Four Gravets Gangawata Korale": "Gangawata Korale",
             "Trincomalee Town and Gravets": "Town & Gravets",
             "Verugal Eachchilampattu": "Verugal",
