@@ -35,10 +35,9 @@ class DataTableExtractDataCleanerMixin:
         return row
 
     def clean_raw_table(self, raw_table):
-        log.debug(f"self.n_fields={self.n_fields}")
         raw_table = self.__shift_shifted_region_names__(raw_table)
-
         n_rows = len(raw_table)
+
         cleaned_raw_table = []
         for i_row in range(n_rows):
             row = raw_table[i_row]

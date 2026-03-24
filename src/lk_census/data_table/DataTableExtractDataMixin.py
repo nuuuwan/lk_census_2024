@@ -116,7 +116,7 @@ class DataTableExtractDataMixin(
         json_file = JSONFile(self.json_path)
         os.makedirs(self.dir_table, exist_ok=True)
         json_file.write(d_list)
-        log.debug(f"Wrote {len(d_list)} data rows to {json_file}")
+        log.info(f"Wrote {len(d_list)} data rows to {json_file}")
 
     @property
     def tsv_path(self):
@@ -126,9 +126,11 @@ class DataTableExtractDataMixin(
         tsv_file = TSVFile(self.tsv_path)
         os.makedirs(self.dir_table, exist_ok=True)
         tsv_file.write(d_list)
-        log.debug(f"Wrote {len(d_list)} data rows to {tsv_file}")
+        log.info(f"Wrote {len(d_list)} data rows to {tsv_file}")
 
     def extract_data(self):
+        log.debug("-" * 40)
+        log.info("Extracting data for " + self.name_safe)
         d_list = self.__extract_data_d_list__()
         if not d_list:
             log.error(f"No data extracted for {self.name_safe}")

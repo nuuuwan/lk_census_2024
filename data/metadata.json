@@ -1,8 +1,8 @@
 [
   {
-    "doc_name": "Basic-Population",
-    "table_title": "Population by sex, age and district according to DSD",
-    "pages": [112, 136],
+    "doc_name": "Population-Preliminary-Report",
+    "table_title": "Population by sex and age",
+    "pages": [113, 137],
     "field_list": [
       "sex-male",
       "sex-female",
@@ -13,9 +13,9 @@
     ]
   },
   {
-    "doc_name": "Basic-Population",
-    "table_title": "Population by ethnicity and district according to DSD",
-    "pages": [137, 161],
+    "doc_name": "Population-Preliminary-Report",
+    "table_title": "Population by ethnicity",
+    "pages": [138, 162],
     "field_list": [
       "sinhalese",
       "sri_lanka_tamil",
@@ -30,9 +30,9 @@
     ]
   },
   {
-    "doc_name": "Basic-Population",
+    "doc_name": "Population-Preliminary-Report",
     "table_title": "Population by religion and district according to DSD",
-    "pages": [162, 185],
+    "pages": [163, 186],
     "field_list": [
       "buddhist",
       "hindu",
@@ -43,9 +43,9 @@
     ]
   },
   {
-    "doc_name": "Basic-Housing",
-    "table_title": "Number of housing units by housing unit structure at district level and DSDs",
-    "pages": [109, 127],
+    "doc_name": "Housing-Preliminary-Report",
+    "table_title": "Number of housing units by housing unit structure",
+    "pages": [110, 130],
     "field_list": [
       "single_house_single_storeyed",
       "single_house_two_storeyed",
@@ -60,9 +60,9 @@
     ]
   },
   {
-    "doc_name": "Basic-Housing",
-    "table_title": "Number of housing units by main material used for walls construction at district level and DSDs",
-    "pages": [128, 143],
+    "doc_name": "Housing-Preliminary-Report",
+    "table_title": "Number of housing units by main material used for walls construction",
+    "pages": [131, 146],
     "field_list": [
       "brick",
       "cement_block",
@@ -78,9 +78,9 @@
     ]
   },
   {
-    "doc_name": "Basic-Housing",
-    "table_title": "Number of housing units by main material used for roof construction at district level and DSDs",
-    "pages": [144, 161],
+    "doc_name": "Housing-Preliminary-Report",
+    "table_title": "Number of housing units by main material used for roof construction",
+    "pages": [147, 164],
     "field_list": [
       "tile",
       "asbestos",
@@ -93,9 +93,9 @@
     ]
   },
   {
-    "doc_name": "Basic-Housing",
-    "table_title": "Number of households by main material used for floor construction at district level and DSDs",
-    "pages": [162, 181],
+    "doc_name": "Housing-Preliminary-Report",
+    "table_title": "Number of households by main material used for floor construction",
+    "pages": [165, 184],
     "field_list": [
       "cement",
       "terrazzo_or_tile_or_granite_or_wood_or_titanium",
@@ -108,9 +108,24 @@
     ]
   },
   {
-    "doc_name": "Basic-Housing",
-    "table_title": "Number of households by main source of drinking water at district level and DSDs",
-    "pages": [182, 200],
+    "doc_name": "Housing-Preliminary-Report",
+    "table_title": "Number of households by main source of energy/fuel used",
+    "pages": [185, 203],
+    "field_list": [
+      "firewood",
+      "kerosene",
+      "gas",
+      "electricity",
+      "saw_dust_or_paddy_husk",
+      "bio_gas",
+      "other",
+      "not_relevant"
+    ]
+  },
+  {
+    "doc_name": "Housing-Preliminary-Report",
+    "table_title": "Number of households by main source of drinking water",
+    "pages": [204, 222],
     "field_list": [
       "ground_water-_protected_well",
       "ground_water-semi_protected_well",
@@ -130,24 +145,23 @@
     ]
   },
   {
-    "doc_name": "Basic-Housing",
-    "table_title": "Number of households by source of lighting at district level and DSDs",
-    "pages": [201, 222],
+    "doc_name": "Housing-Preliminary-Report",
+    "table_title": "Number of households by source of lighting",
+    "pages": [223, 245],
     "field_list": [
-      "electricity-from_national_grid",
-      "electricity-from_rural_hydro_power_project",
-      "other-kerosene_lamp",
-      "other-solar_power_grid_connected",
-      "other-solar_power_standalone",
-      "other-bio_gas",
-      "other-generator",
-      "other-other"
+      "electricity-from_national_grid_or_from_rural_hydro_power_project",
+      "kerosene_lamp",
+      "solar_power_grid_connected",
+      "solar_power_standalone",
+      "bio_gas",
+      "rural_water_supply_project",
+      "other"
     ]
   },
   {
-    "doc_name": "Basic-Housing",
-    "table_title": "Number of households using toilet facilities at district level and DSDs",
-    "pages": [223, 247],
+    "doc_name": "Housing-Preliminary-Report",
+    "table_title": "Number of households using toilet facilities",
+    "pages": [246, 270],
     "field_list": [
       "within_the_unit-exclusively_for_the_household",
       "within_the_unit-sharing_with_another_household",

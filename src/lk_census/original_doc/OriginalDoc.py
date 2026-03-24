@@ -9,7 +9,6 @@ log = Log("OriginalDoc")
 
 @dataclass
 class OriginalDoc:
-    name: str
     url: str
     file_path: str
 
@@ -18,13 +17,23 @@ class OriginalDoc:
 
     @property
     def doc_name(self) -> str:
-        safe_name = re.sub(r"\s+", " ", self.name)
-        safe_name = self.name.replace(" ", "-")
+        file_name = os.path.basename(self.file_path)
+        file_name = os.path.splitext(file_name)[0]
+
+        safe_name = re.sub(r"\s+", " ", file_name)
+        safe_name = file_name.replace(" ", "-")
+        safe_name = file_name.replace("_", "-")
         safe_name = "".join(
             char for char in safe_name if char.isalnum() or char == "-"
         )
         tokens = safe_name.split("-")
-        return "-".join(tokens[:2])
+        return "-".join(tokens)
+
+    @property
+    def pdf_path(self) -> str:
+        if not self.file_path.lower().endswith(".pdf"):
+            raise ValueError(f"file_path '{self.file_path}' is not a PDF")
+        return self.file_path
 
     def download(self) -> str:
         if os.path.exists(self.file_path):
@@ -33,14 +42,14 @@ class OriginalDoc:
         www = WWW(self.url)
         os.makedirs(self.DIR_ORIGINAL_DOCS, exist_ok=True)
         www.download_binary(self.file_path)
-        log.info(f"Downloaded '{self.name}' to '{File(self.file_path)}'")
+        log.info(f"Downloaded '{self.url}' to '{File(self.file_path)}'")
         return self.file_path
 
     @classmethod
     def list_all(cls) -> list["OriginalDoc"]:
         doc_list = []
         for t in JSONFile(cls.METADATA_PATH).read():
-            doc = cls(name=t["name"], url=t["url"], file_path=t["file_path"])
+            doc = cls(url=t["url"], file_path=t["file_path"])
             doc_list.append(doc)
         return doc_list
 

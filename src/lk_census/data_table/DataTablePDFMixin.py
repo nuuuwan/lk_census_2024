@@ -30,7 +30,7 @@ class DataTablePDFMixin:
         with open(self.subset_pdf_path, "wb") as output_file:
             writer.write(output_file)
 
-        log.debug(
+        log.info(
             f"Wrote pages {self.page_start}-{self.page_end} "
             + f"to {PDFFile(self.subset_pdf_path)}"
         )
@@ -78,6 +78,6 @@ class DataTablePDFMixin:
 
         json_file = JSONFile(os.path.join(self.dir_table, "raw-table.json"))
         json_file.write(arr_of_arr)
-        log.debug(f"Wrote {len(arr_of_arr)} raw rows to {json_file}")
+        log.info(f"Wrote {len(arr_of_arr)} raw rows to {json_file}")
         assert len(arr_of_arr) > 0, "No raw table extracted"
         return arr_of_arr
