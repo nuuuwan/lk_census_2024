@@ -1,0 +1,97 @@
+[
+  {
+    "doc_name": "GN_population_excel",
+    "table_title": "Population by Sex",
+    "column_offset": 9,
+    "field_list": ["total", "male", "female"]
+  },
+  {
+    "doc_name": "GN_population_excel",
+    "table_title": "Population by Age Group",
+    "column_offset": 12,
+    "field_list": [
+      "total",
+      "age_0_14",
+      "age_15_59",
+      "age_60_64",
+      "age_65_and_above"
+    ]
+  },
+  {
+    "doc_name": "GN_housing_excel",
+    "table_title": "Occupied Housing Units",
+    "column_offset": 9,
+    "field_list": ["occupied_housing_units"]
+  },
+  {
+    "doc_name": "HH_GND_excel",
+    "table_title": "Number of Households",
+    "column_offset": 9,
+    "field_list": ["n_households"]
+  },
+  {
+    "doc_name": "HH_GND_excel",
+    "table_title": "Main Source of Drinking Water",
+    "column_offset": 10,
+    "field_list": [
+      "protected_well",
+      "semi_protected_well",
+      "unprotected_well",
+      "tube_well",
+      "spring_fountain",
+      "pipe_borne_nwsdb",
+      "pipe_borne_local_authority",
+      "pipe_borne_community",
+      "pipe_borne_private",
+      "tank_river_stream",
+      "rain_water",
+      "bottled_water",
+      "filter_ro",
+      "bowser",
+      "other"
+    ]
+  },
+  {
+    "doc_name": "HH_GND_excel",
+    "table_title": "Main Source of Energy/Fuel Used for Cooking",
+    "column_offset": 25,
+    "field_list": [
+      "firewood",
+      "kerosene",
+      "gas",
+      "electricity",
+      "sawdust_paddy_husk",
+      "bio_gas",
+      "other",
+      "not_relevant"
+    ]
+  },
+  {
+    "doc_name": "HH_GND_excel",
+    "table_title": "Main Source of Lighting",
+    "column_offset": 33,
+    "field_list": [
+      "electricity_grid",
+      "kerosene_lamp",
+      "solar_grid",
+      "solar_standalone",
+      "bio_gas",
+      "generator",
+      "other"
+    ]
+  },
+  {
+    "doc_name": "HH_GND_excel",
+    "table_title": "Toilet Facilities",
+    "column_offset": 40,
+    "field_list": [
+      "within_unit_exclusive",
+      "within_unit_shared",
+      "within_premises_exclusive",
+      "within_premises_shared",
+      "no_toilet_sharing",
+      "common_public",
+      "none"
+    ]
+  }
+]
