@@ -44,4 +44,4 @@ Regions with an unusually high or low share of a category (≥ 2 standard deviat
 - 🔺 **Kilinochchi** — Rural Water Supply Project: **0.1%** vs district avg 0.0% (z = +2.4)
 
 ---
-*Data covers **366** rows down to **dsd** level (340 dsds).*
+*Data covers **375** rows down to **dsd** level (340 dsds).*

@@ -18,6 +18,24 @@
     "not_relevant": 1211
   },
   {
+    "region_id": "LK-1",
+    "region_name": "Western",
+    "region_name_in_data": "(computed)",
+    "region_ent_type": "province",
+    "total": 1686506,
+    "brick": 444198,
+    "cement_block": 1147193,
+    "granite_or_cube_stones": 8468,
+    "cabook": 48401,
+    "pressed_soil_bricks": 15695,
+    "mud_or_warichchi": 9478,
+    "kadjan_or_palmyrah": 122,
+    "plank_or_metal_sheet_or_asbestos": 12045,
+    "zinc_aluminium_sheets": 407,
+    "other": 229,
+    "not_relevant": 270
+  },
+  {
     "region_id": "LK-11",
     "region_name": "Colombo",
     "region_name_in_data": "Colombo District",
@@ -790,6 +808,24 @@
     "zinc_aluminium_sheets": 0,
     "other": 5,
     "not_relevant": 0
+  },
+  {
+    "region_id": "LK-2",
+    "region_name": "Central",
+    "region_name_in_data": "(computed)",
+    "region_ent_type": "province",
+    "total": 730925,
+    "brick": 282854,
+    "cement_block": 363613,
+    "granite_or_cube_stones": 49021,
+    "cabook": 1925,
+    "pressed_soil_bricks": 21108,
+    "mud_or_warichchi": 8484,
+    "kadjan_or_palmyrah": 35,
+    "plank_or_metal_sheet_or_asbestos": 3318,
+    "zinc_aluminium_sheets": 332,
+    "other": 145,
+    "not_relevant": 90
   },
   {
     "region_id": "LK-21",
@@ -1582,6 +1618,24 @@
     "zinc_aluminium_sheets": 26,
     "other": 9,
     "not_relevant": 15
+  },
+  {
+    "region_id": "LK-3",
+    "region_name": "Southern",
+    "region_name_in_data": "(computed)",
+    "region_ent_type": "province",
+    "total": 722971,
+    "brick": 365930,
+    "cement_block": 313267,
+    "granite_or_cube_stones": 4658,
+    "cabook": 10786,
+    "pressed_soil_bricks": 14814,
+    "mud_or_warichchi": 9670,
+    "kadjan_or_palmyrah": 41,
+    "plank_or_metal_sheet_or_asbestos": 3546,
+    "zinc_aluminium_sheets": 111,
+    "other": 106,
+    "not_relevant": 42
   },
   {
     "region_id": "LK-31",
@@ -2538,6 +2592,24 @@
     "not_relevant": 2
   },
   {
+    "region_id": "LK-4",
+    "region_name": "Northern",
+    "region_name_in_data": "(computed)",
+    "region_ent_type": "province",
+    "total": 307459,
+    "brick": 17403,
+    "cement_block": 280072,
+    "granite_or_cube_stones": 516,
+    "cabook": 147,
+    "pressed_soil_bricks": 1122,
+    "mud_or_warichchi": 1376,
+    "kadjan_or_palmyrah": 1569,
+    "plank_or_metal_sheet_or_asbestos": 4395,
+    "zinc_aluminium_sheets": 642,
+    "other": 34,
+    "not_relevant": 183
+  },
+  {
     "region_id": "LK-41",
     "region_name": "Jaffna",
     "region_name_in_data": "Jaffna District",
@@ -3238,6 +3310,24 @@
     "zinc_aluminium_sheets": 23,
     "other": 0,
     "not_relevant": 2
+  },
+  {
+    "region_id": "LK-5",
+    "region_name": "Eastern",
+    "region_name_in_data": "(computed)",
+    "region_ent_type": "province",
+    "total": 489362,
+    "brick": 361634,
+    "cement_block": 108255,
+    "granite_or_cube_stones": 482,
+    "cabook": 217,
+    "pressed_soil_bricks": 1475,
+    "mud_or_warichchi": 4504,
+    "kadjan_or_palmyrah": 2306,
+    "plank_or_metal_sheet_or_asbestos": 8428,
+    "zinc_aluminium_sheets": 1599,
+    "other": 44,
+    "not_relevant": 418
   },
   {
     "region_id": "LK-51",
@@ -4104,6 +4194,24 @@
     "not_relevant": 4
   },
   {
+    "region_id": "LK-6",
+    "region_name": "North Western",
+    "region_name_in_data": "(computed)",
+    "region_ent_type": "province",
+    "total": 738403,
+    "brick": 595052,
+    "cement_block": 118669,
+    "granite_or_cube_stones": 725,
+    "cabook": 365,
+    "pressed_soil_bricks": 5526,
+    "mud_or_warichchi": 7102,
+    "kadjan_or_palmyrah": 3440,
+    "plank_or_metal_sheet_or_asbestos": 6863,
+    "zinc_aluminium_sheets": 437,
+    "other": 114,
+    "not_relevant": 110
+  },
+  {
     "region_id": "LK-61",
     "region_name": "Kurunegala",
     "region_name_in_data": "Kurunegala District",
@@ -4968,6 +5076,24 @@
     "not_relevant": 10
   },
   {
+    "region_id": "LK-7",
+    "region_name": "North Central",
+    "region_name_in_data": "(computed)",
+    "region_ent_type": "province",
+    "total": 397890,
+    "brick": 335859,
+    "cement_block": 53722,
+    "granite_or_cube_stones": 238,
+    "cabook": 108,
+    "pressed_soil_bricks": 1936,
+    "mud_or_warichchi": 5107,
+    "kadjan_or_palmyrah": 57,
+    "plank_or_metal_sheet_or_asbestos": 667,
+    "zinc_aluminium_sheets": 123,
+    "other": 48,
+    "not_relevant": 25
+  },
+  {
     "region_id": "LK-71",
     "region_name": "Anuradhapura",
     "region_name_in_data": "Anuradhapura District",
@@ -5526,6 +5652,24 @@
     "not_relevant": 1
   },
   {
+    "region_id": "LK-8",
+    "region_name": "Uva",
+    "region_name_in_data": "(computed)",
+    "region_ent_type": "province",
+    "total": 390145,
+    "brick": 215064,
+    "cement_block": 114216,
+    "granite_or_cube_stones": 11494,
+    "cabook": 2313,
+    "pressed_soil_bricks": 36894,
+    "mud_or_warichchi": 8617,
+    "kadjan_or_palmyrah": 38,
+    "plank_or_metal_sheet_or_asbestos": 1089,
+    "zinc_aluminium_sheets": 135,
+    "other": 254,
+    "not_relevant": 31
+  },
+  {
     "region_id": "LK-81",
     "region_name": "Badulla",
     "region_name_in_data": "Badulla District",
@@ -6028,6 +6172,24 @@
     "zinc_aluminium_sheets": 4,
     "other": 3,
     "not_relevant": 1
+  },
+  {
+    "region_id": "LK-9",
+    "region_name": "Sabaragamuwa",
+    "region_name_in_data": "(computed)",
+    "region_ent_type": "province",
+    "total": 566880,
+    "brick": 181919,
+    "cement_block": 329020,
+    "granite_or_cube_stones": 20115,
+    "cabook": 4235,
+    "pressed_soil_bricks": 12675,
+    "mud_or_warichchi": 15673,
+    "kadjan_or_palmyrah": 42,
+    "plank_or_metal_sheet_or_asbestos": 2909,
+    "zinc_aluminium_sheets": 84,
+    "other": 166,
+    "not_relevant": 42
   },
   {
     "region_id": "LK-91",

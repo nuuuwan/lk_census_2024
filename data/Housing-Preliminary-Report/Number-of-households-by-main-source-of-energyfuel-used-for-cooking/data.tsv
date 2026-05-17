@@ -1,5 +1,6 @@
 region_id	region_name	region_name_in_data	region_ent_type	total	firewood	kerosene	gas	electricity	saw_dust_or_paddy_husk	bio_gas	other	not_relevant
 LK	Sri Lanka	Sri Lanka	country	6111315	3381781	32974	2588502	19540	1739	7179	2361	77239
+LK-1	Western	(computed)	province	1703420	433777	15637	1203412	10508	303	356	1152	38275
 LK-11	Colombo	Colombo District	district	661822	65584	9106	566183	6425	134	157	380	13853
 LK-1103	Colombo	Colombo	dsd	72479	876	3291	65872	466	7	47	63	1857
 LK-1106	Kolonnawa	Kolonnawa	dsd	56756	2648	1324	50976	658	4	17	25	1104
@@ -43,6 +44,7 @@ LK-1330	Matugama	Mathugama	dsd	23503	11632	54	11604	61	1	1	5	145
 LK-1333	Agalawatta	Agalawatta	dsd	10502	6507	18	3891	7	0	0	1	78
 LK-1336	Palindanuwara	Palindanuwara	dsd	14996	11504	45	3350	12	1	1	2	81
 LK-1339	Walallawita	Walallavita	dsd	15924	11325	43	4433	11	0	2	2	108
+LK-2	Central	(computed)	province	749019	489749	2717	249179	2191	84	559	175	4365
 LK-21	Kandy	Kandy District	district	397626	231787	1321	160277	1447	51	24	110	2609
 LK-2103	Tumpane	Thumpane	dsd	10897	7684	18	3075	22	0	0	6	92
 LK-2106	Poojapitiya	Pujapitiya	dsd	15815	10733	19	4948	31	2	3	1	78
@@ -87,6 +89,7 @@ LK-2312	Nuwara Eliya	Nuwara Eliya	dsd	23014	10640	345	11709	69	8	166	0	77
 LK-2313	Thalawakele	Thalawakele	dsd	33685	20802	300	12305	46	5	175	6	46
 LK-2315	Ambagamuwa Korale	Ambagamuwa	dsd	12791	9643	13	3039	13	2	1	1	79
 LK-2316	Norwood	Norwood	dsd	44120	29724	371	13477	245	11	101	1	190
+LK-3	Southern	(computed)	province	728288	438164	1173	277959	1226	89	82	304	9291
 LK-31	Galle	Galle District	district	307704	160388	522	141680	504	54	46	153	4357
 LK-3103	Bentota	Benthota	dsd	13749	7722	35	5762	10	1	0	9	210
 LK-3106	Balapitiya	Balapitiya	dsd	18886	8346	29	10170	22	4	0	15	300
@@ -140,6 +143,7 @@ LK-3325	Walasmulla	Walasmulla	dsd	13475	10886	10	2486	8	1	4	4	76
 LK-3327	Okewela	Okewela	dsd	5687	4641	2	992	4	0	1	0	47
 LK-3330	Beliatta	Beliatta	dsd	16586	10183	19	6127	21	1	9	6	220
 LK-3333	Tangalle	Tangalle	dsd	22032	11915	43	9786	74	0	0	7	207
+LK-4	Northern	(computed)	province	312002	186993	2879	117444	422	95	1814	40	2315
 LK-41	Jaffna	Jaffna District	district	159753	87518	1606	67620	271	88	1099	18	1533
 LK-4103	Islands North (Kayts)	Island North Kayts	dsd	2646	1961	21	647	3	0	0	2	12
 LK-4104	Karainagar	Karainagar	dsd	2641	2444	5	181	0	0	2	0	9
@@ -179,6 +183,7 @@ LK-4503	Pachchilaipalli	Pachchilaipalli	dsd	3872	3389	25	451	0	0	2	0	5
 LK-4506	Kandavalai	Kandavalai	dsd	6929	5541	31	1285	8	0	33	0	31
 LK-4509	Karachchi	Karachchi	dsd	19564	13645	93	5582	10	2	136	3	93
 LK-4512	Poonakary	Poonakary	dsd	6369	5828	30	463	1	0	30	0	17
+LK-5	Eastern	(computed)	province	499217	232633	5032	251630	1291	1007	3557	111	3956
 LK-51	Batticaloa	Batticaloa District	district	170262	72927	2051	92746	440	289	745	44	1020
 LK-5103	Koralai Pattu North	Koralai Pattu North Vaharai	dsd	7882	6988	61	783	2	1	26	0	21
 LK-5104	Koralai Pattu Central	Koralai Pattu Central	dsd	8590	1623	189	6583	10	19	98	4	64
@@ -227,6 +232,7 @@ LK-5324	Kinniya	Kinniya	dsd	22139	9467	161	11903	85	7	305	1	210
 LK-5327	Muthur	Muttur	dsd	19502	10294	231	8579	36	2	215	2	143
 LK-5330	Seruvila	Seruvila	dsd	4704	3650	14	981	3	2	3	0	51
 LK-5333	Verugal	Verugal Eachchilampattu	dsd	3960	3677	28	242	5	0	3	0	5
+LK-6	North Western	(computed)	province	745193	534964	2782	195933	1394	35	570	272	9243
 LK-61	Kurunegala	Kurunegala District	district	511166	394682	677	108665	1015	13	45	158	5911
 LK-6103	Giribawa	Giribawa	dsd	10522	9658	11	787	7	0	1	0	58
 LK-6106	Galgamuwa	Galgamuwa	dsd	18036	15478	19	2327	19	2	1	3	187
@@ -275,6 +281,7 @@ LK-6239	Mahawewa	Mahawewa	dsd	14718	7394	27	7011	42	0	0	2	242
 LK-6242	Nattandiya	Nattandiya	dsd	19335	11936	73	7045	52	3	4	15	207
 LK-6245	Wennappuwa	Wennappuwa	dsd	19939	9776	25	9619	46	5	3	23	442
 LK-6248	Dankotuwa	Dankotuwa	dsd	18823	11701	55	6613	27	1	4	14	408
+LK-7	North Central	(computed)	province	402469	304792	737	92753	560	12	186	103	3326
 LK-71	Anuradhapura	Anuradhapura District	district	275084	205964	531	65810	386	6	58	64	2265
 LK-7103	Padaviya	Padaviya	dsd	7211	6457	15	705	6	0	0	0	28
 LK-7106	Kebithigollewa	Kebithigollewa	dsd	7702	6739	13	875	8	0	1	0	66
@@ -306,6 +313,7 @@ LK-7210	Welikanda	Welikanda	dsd	11051	8907	37	2033	11	1	0	1	61
 LK-7212	Dimbulagala	Dimbulagala	dsd	24354	21942	28	2249	31	0	0	6	98
 LK-7215	Thamankaduwa	Thamankaduwa	dsd	25391	14230	52	10596	55	5	1	20	432
 LK-7218	Elahera	Elahera	dsd	14222	13032	9	1103	6	0	0	2	70
+LK-8	Uva	(computed)	province	400025	327040	957	68808	988	82	32	50	2068
 LK-81	Badulla	Badulla District	district	248262	200159	651	45606	583	81	20	18	1144
 LK-8103	Mahiyanganaya	Mahiyanganaya	dsd	25579	22398	49	2981	31	1	0	3	116
 LK-8106	Rideemaliyadda	Rideemaliyadda	dsd	17356	16189	55	922	110	0	0	0	80
@@ -334,6 +342,7 @@ LK-8224	Buttala	Buttala	dsd	17706	14698	14	2745	178	0	0	4	67
 LK-8227	Katharagama	Katharagama	dsd	5395	3623	11	1658	13	0	1	2	87
 LK-8230	Thanamalwila	Thanamalvila	dsd	9537	8376	8	1050	8	0	0	1	94
 LK-8233	Sevanagala	Sevanagala	dsd	13916	11280	17	2498	16	0	2	2	101
+LK-9	Sabaragamuwa	(computed)	province	571682	433669	1060	131384	960	32	23	154	4400
 LK-91	Ratnapura	Rathnapura District	district	327645	255732	687	68039	493	19	11	67	2597
 LK-9103	Eheliyagoda	Eheliyagoda	dsd	20443	13470	58	6655	58	3	2	6	191
 LK-9106	Kuruvita	Kuruvita	dsd	27041	20239	60	6487	34	2	5	11	203

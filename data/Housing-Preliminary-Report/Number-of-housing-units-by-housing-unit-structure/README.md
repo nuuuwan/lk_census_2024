@@ -50,4 +50,4 @@ Regions with an unusually high or low share of a category (≥ 2 standard deviat
 - 🔺 **Colombo** — Single House Two Storeyed: **28.4%** vs district avg 9.0% (z = +3.3)
 
 ---
-*Data covers **366** rows down to **dsd** level (340 dsds).*
+*Data covers **375** rows down to **dsd** level (340 dsds).*

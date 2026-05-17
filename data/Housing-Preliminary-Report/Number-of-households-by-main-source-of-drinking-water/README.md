@@ -60,4 +60,4 @@ Regions with an unusually high or low share of a category (≥ 2 standard deviat
 - 🔺 **Puttalam** — Other Bottled Water: **7.4%** vs district avg 1.1% (z = +3.7)
 
 ---
-*Data covers **366** rows down to **dsd** level (340 dsds).*
+*Data covers **375** rows down to **dsd** level (340 dsds).*

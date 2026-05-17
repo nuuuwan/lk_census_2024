@@ -44,4 +44,4 @@ Regions with an unusually high or low share of a category (≥ 2 standard deviat
 - 🔺 **Anuradhapura** — Concrete: **17.8%** vs district avg 7.9% (z = +2.2)
 
 ---
-*Data covers **366** rows down to **dsd** level (340 dsds).*
+*Data covers **375** rows down to **dsd** level (340 dsds).*

@@ -14,6 +14,20 @@
     "other": 13196
   },
   {
+    "region_id": "LK-1",
+    "region_name": "Western",
+    "region_name_in_data": "(computed)",
+    "region_ent_type": "province",
+    "total": 1703420,
+    "electricity-from_national_grid_or_from_rural_hydro_power_project": 1682433,
+    "kerosene_lamp": 10565,
+    "solar_power_grid_connected": 5206,
+    "solar_power_standalone": 1514,
+    "bio_gas": 121,
+    "rural_water_supply_project": 288,
+    "other": 3293
+  },
+  {
     "region_id": "LK-11",
     "region_name": "Colombo",
     "region_name_in_data": "Colombo District",
@@ -614,6 +628,20 @@
     "bio_gas": 1,
     "rural_water_supply_project": 1,
     "other": 13
+  },
+  {
+    "region_id": "LK-2",
+    "region_name": "Central",
+    "region_name_in_data": "(computed)",
+    "region_ent_type": "province",
+    "total": 749019,
+    "electricity-from_national_grid_or_from_rural_hydro_power_project": 736755,
+    "kerosene_lamp": 9880,
+    "solar_power_grid_connected": 360,
+    "solar_power_standalone": 495,
+    "bio_gas": 27,
+    "rural_water_supply_project": 127,
+    "other": 1375
   },
   {
     "region_id": "LK-21",
@@ -1230,6 +1258,20 @@
     "bio_gas": 8,
     "rural_water_supply_project": 25,
     "other": 101
+  },
+  {
+    "region_id": "LK-3",
+    "region_name": "Southern",
+    "region_name_in_data": "(computed)",
+    "region_ent_type": "province",
+    "total": 728288,
+    "electricity-from_national_grid_or_from_rural_hydro_power_project": 717303,
+    "kerosene_lamp": 7272,
+    "solar_power_grid_connected": 705,
+    "solar_power_standalone": 496,
+    "bio_gas": 11,
+    "rural_water_supply_project": 76,
+    "other": 2425
   },
   {
     "region_id": "LK-31",
@@ -1974,6 +2016,20 @@
     "other": 113
   },
   {
+    "region_id": "LK-4",
+    "region_name": "Northern",
+    "region_name_in_data": "(computed)",
+    "region_ent_type": "province",
+    "total": 312002,
+    "electricity-from_national_grid_or_from_rural_hydro_power_project": 301963,
+    "kerosene_lamp": 8902,
+    "solar_power_grid_connected": 284,
+    "solar_power_standalone": 294,
+    "bio_gas": 12,
+    "rural_water_supply_project": 156,
+    "other": 391
+  },
+  {
     "region_id": "LK-41",
     "region_name": "Jaffna",
     "region_name_in_data": "Jaffna District",
@@ -2518,6 +2574,20 @@
     "bio_gas": 0,
     "rural_water_supply_project": 2,
     "other": 14
+  },
+  {
+    "region_id": "LK-5",
+    "region_name": "Eastern",
+    "region_name_in_data": "(computed)",
+    "region_ent_type": "province",
+    "total": 499217,
+    "electricity-from_national_grid_or_from_rural_hydro_power_project": 479020,
+    "kerosene_lamp": 18042,
+    "solar_power_grid_connected": 393,
+    "solar_power_standalone": 213,
+    "bio_gas": 17,
+    "rural_water_supply_project": 102,
+    "other": 1430
   },
   {
     "region_id": "LK-51",
@@ -3192,6 +3262,20 @@
     "other": 56
   },
   {
+    "region_id": "LK-6",
+    "region_name": "North Western",
+    "region_name_in_data": "(computed)",
+    "region_ent_type": "province",
+    "total": 745193,
+    "electricity-from_national_grid_or_from_rural_hydro_power_project": 729060,
+    "kerosene_lamp": 13132,
+    "solar_power_grid_connected": 553,
+    "solar_power_standalone": 1252,
+    "bio_gas": 28,
+    "rural_water_supply_project": 164,
+    "other": 1004
+  },
+  {
     "region_id": "LK-61",
     "region_name": "Kurunegala",
     "region_name_in_data": "Kurunegala District",
@@ -3864,6 +3948,20 @@
     "other": 18
   },
   {
+    "region_id": "LK-7",
+    "region_name": "North Central",
+    "region_name_in_data": "(computed)",
+    "region_ent_type": "province",
+    "total": 402469,
+    "electricity-from_national_grid_or_from_rural_hydro_power_project": 392571,
+    "kerosene_lamp": 8494,
+    "solar_power_grid_connected": 206,
+    "solar_power_standalone": 440,
+    "bio_gas": 12,
+    "rural_water_supply_project": 31,
+    "other": 715
+  },
+  {
     "region_id": "LK-71",
     "region_name": "Anuradhapura",
     "region_name_in_data": "Anuradhapura District",
@@ -4298,6 +4396,20 @@
     "other": 8
   },
   {
+    "region_id": "LK-8",
+    "region_name": "Uva",
+    "region_name_in_data": "(computed)",
+    "region_ent_type": "province",
+    "total": 400025,
+    "electricity-from_national_grid_or_from_rural_hydro_power_project": 389582,
+    "kerosene_lamp": 8556,
+    "solar_power_grid_connected": 183,
+    "solar_power_standalone": 571,
+    "bio_gas": 8,
+    "rural_water_supply_project": 93,
+    "other": 1032
+  },
+  {
     "region_id": "LK-81",
     "region_name": "Badulla",
     "region_name_in_data": "Badulla District",
@@ -4688,6 +4800,20 @@
     "bio_gas": 0,
     "rural_water_supply_project": 0,
     "other": 91
+  },
+  {
+    "region_id": "LK-9",
+    "region_name": "Sabaragamuwa",
+    "region_name_in_data": "(computed)",
+    "region_ent_type": "province",
+    "total": 571682,
+    "electricity-from_national_grid_or_from_rural_hydro_power_project": 558898,
+    "kerosene_lamp": 10307,
+    "solar_power_grid_connected": 203,
+    "solar_power_standalone": 542,
+    "bio_gas": 8,
+    "rural_water_supply_project": 193,
+    "other": 1531
   },
   {
     "region_id": "LK-91",

@@ -43,4 +43,4 @@ Regions with an unusually high or low share of a category (≥ 2 standard deviat
 - 🔺 **Ampara** — Bio Gas: **0.9%** vs district avg 0.2% (z = +2.2)
 
 ---
-*Data covers **366** rows down to **dsd** level (340 dsds).*
+*Data covers **375** rows down to **dsd** level (340 dsds).*

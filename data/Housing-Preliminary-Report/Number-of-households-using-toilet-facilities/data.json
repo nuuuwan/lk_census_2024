@@ -14,6 +14,20 @@
     "other-not_using_a_toilet": 13326
   },
   {
+    "region_id": "LK-1",
+    "region_name": "Western",
+    "region_name_in_data": "(computed)",
+    "region_ent_type": "province",
+    "total": 1703420,
+    "within_the_unit-exclusively_for_the_household": 1402581,
+    "within_the_unit-sharing_with_another_household": 39527,
+    "outside_the_unit-exclusively_for_the_household": 206499,
+    "outside_the_unit-sharing_with_another_household": 37544,
+    "other-no_toilet_but_sharing_with_another_household": 11147,
+    "other-common_or_public_toilet": 5440,
+    "other-not_using_a_toilet": 682
+  },
+  {
     "region_id": "LK-11",
     "region_name": "Colombo",
     "region_name_in_data": "Colombo District",
@@ -614,6 +628,20 @@
     "other-no_toilet_but_sharing_with_another_household": 228,
     "other-common_or_public_toilet": 0,
     "other-not_using_a_toilet": 24
+  },
+  {
+    "region_id": "LK-2",
+    "region_name": "Central",
+    "region_name_in_data": "(computed)",
+    "region_ent_type": "province",
+    "total": 749019,
+    "within_the_unit-exclusively_for_the_household": 458565,
+    "within_the_unit-sharing_with_another_household": 26474,
+    "outside_the_unit-exclusively_for_the_household": 219652,
+    "outside_the_unit-sharing_with_another_household": 28760,
+    "other-no_toilet_but_sharing_with_another_household": 12295,
+    "other-common_or_public_toilet": 1882,
+    "other-not_using_a_toilet": 1391
   },
   {
     "region_id": "LK-21",
@@ -1230,6 +1258,20 @@
     "other-no_toilet_but_sharing_with_another_household": 1306,
     "other-common_or_public_toilet": 110,
     "other-not_using_a_toilet": 403
+  },
+  {
+    "region_id": "LK-3",
+    "region_name": "Southern",
+    "region_name_in_data": "(computed)",
+    "region_ent_type": "province",
+    "total": 728288,
+    "within_the_unit-exclusively_for_the_household": 415171,
+    "within_the_unit-sharing_with_another_household": 13432,
+    "outside_the_unit-exclusively_for_the_household": 265541,
+    "outside_the_unit-sharing_with_another_household": 21117,
+    "other-no_toilet_but_sharing_with_another_household": 12060,
+    "other-common_or_public_toilet": 375,
+    "other-not_using_a_toilet": 592
   },
   {
     "region_id": "LK-31",
@@ -1974,6 +2016,20 @@
     "other-not_using_a_toilet": 23
   },
   {
+    "region_id": "LK-4",
+    "region_name": "Northern",
+    "region_name_in_data": "(computed)",
+    "region_ent_type": "province",
+    "total": 312002,
+    "within_the_unit-exclusively_for_the_household": 132194,
+    "within_the_unit-sharing_with_another_household": 7133,
+    "outside_the_unit-exclusively_for_the_household": 155196,
+    "outside_the_unit-sharing_with_another_household": 7486,
+    "other-no_toilet_but_sharing_with_another_household": 8163,
+    "other-common_or_public_toilet": 214,
+    "other-not_using_a_toilet": 1616
+  },
+  {
     "region_id": "LK-41",
     "region_name": "Jaffna",
     "region_name_in_data": "Jaffna District",
@@ -2518,6 +2574,20 @@
     "other-no_toilet_but_sharing_with_another_household": 338,
     "other-common_or_public_toilet": 3,
     "other-not_using_a_toilet": 94
+  },
+  {
+    "region_id": "LK-5",
+    "region_name": "Eastern",
+    "region_name_in_data": "(computed)",
+    "region_ent_type": "province",
+    "total": 499217,
+    "within_the_unit-exclusively_for_the_household": 286398,
+    "within_the_unit-sharing_with_another_household": 14745,
+    "outside_the_unit-exclusively_for_the_household": 156914,
+    "outside_the_unit-sharing_with_another_household": 16916,
+    "other-no_toilet_but_sharing_with_another_household": 19498,
+    "other-common_or_public_toilet": 258,
+    "other-not_using_a_toilet": 4488
   },
   {
     "region_id": "LK-51",
@@ -3192,6 +3262,20 @@
     "other-not_using_a_toilet": 17
   },
   {
+    "region_id": "LK-6",
+    "region_name": "North Western",
+    "region_name_in_data": "(computed)",
+    "region_ent_type": "province",
+    "total": 745193,
+    "within_the_unit-exclusively_for_the_household": 407961,
+    "within_the_unit-sharing_with_another_household": 17499,
+    "outside_the_unit-exclusively_for_the_household": 277976,
+    "outside_the_unit-sharing_with_another_household": 27876,
+    "other-no_toilet_but_sharing_with_another_household": 11301,
+    "other-common_or_public_toilet": 624,
+    "other-not_using_a_toilet": 1956
+  },
+  {
     "region_id": "LK-61",
     "region_name": "Kurunegala",
     "region_name_in_data": "Kurunegala District",
@@ -3864,6 +3948,20 @@
     "other-not_using_a_toilet": 12
   },
   {
+    "region_id": "LK-7",
+    "region_name": "North Central",
+    "region_name_in_data": "(computed)",
+    "region_ent_type": "province",
+    "total": 402469,
+    "within_the_unit-exclusively_for_the_household": 193979,
+    "within_the_unit-sharing_with_another_household": 10318,
+    "outside_the_unit-exclusively_for_the_household": 170120,
+    "outside_the_unit-sharing_with_another_household": 18899,
+    "other-no_toilet_but_sharing_with_another_household": 7869,
+    "other-common_or_public_toilet": 135,
+    "other-not_using_a_toilet": 1149
+  },
+  {
     "region_id": "LK-71",
     "region_name": "Anuradhapura",
     "region_name_in_data": "Anuradhapura District",
@@ -4298,6 +4396,20 @@
     "other-not_using_a_toilet": 22
   },
   {
+    "region_id": "LK-8",
+    "region_name": "Uva",
+    "region_name_in_data": "(computed)",
+    "region_ent_type": "province",
+    "total": 400025,
+    "within_the_unit-exclusively_for_the_household": 177500,
+    "within_the_unit-sharing_with_another_household": 14094,
+    "outside_the_unit-exclusively_for_the_household": 177759,
+    "outside_the_unit-sharing_with_another_household": 20475,
+    "other-no_toilet_but_sharing_with_another_household": 9071,
+    "other-common_or_public_toilet": 245,
+    "other-not_using_a_toilet": 881
+  },
+  {
     "region_id": "LK-81",
     "region_name": "Badulla",
     "region_name_in_data": "Badulla District",
@@ -4688,6 +4800,20 @@
     "other-no_toilet_but_sharing_with_another_household": 366,
     "other-common_or_public_toilet": 0,
     "other-not_using_a_toilet": 12
+  },
+  {
+    "region_id": "LK-9",
+    "region_name": "Sabaragamuwa",
+    "region_name_in_data": "(computed)",
+    "region_ent_type": "province",
+    "total": 571682,
+    "within_the_unit-exclusively_for_the_household": 324428,
+    "within_the_unit-sharing_with_another_household": 14234,
+    "outside_the_unit-exclusively_for_the_household": 202930,
+    "outside_the_unit-sharing_with_another_household": 18605,
+    "other-no_toilet_but_sharing_with_another_household": 10520,
+    "other-common_or_public_toilet": 394,
+    "other-not_using_a_toilet": 571
   },
   {
     "region_id": "LK-91",

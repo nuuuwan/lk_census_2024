@@ -15,6 +15,21 @@
     "not_relevant": 1211
   },
   {
+    "region_id": "LK-1",
+    "region_name": "Western",
+    "region_name_in_data": "(computed)",
+    "region_ent_type": "province",
+    "total": 1686506,
+    "cement": 836713,
+    "terrazzo_or_tile_or_granite_or_wood_or_titanium": 754097,
+    "concrete": 87793,
+    "mud": 5688,
+    "wood": 1159,
+    "sand": 578,
+    "other": 208,
+    "not_relevant": 270
+  },
+  {
     "region_id": "LK-11",
     "region_name": "Colombo",
     "region_name_in_data": "Colombo District",
@@ -658,6 +673,21 @@
     "sand": 4,
     "other": 1,
     "not_relevant": 0
+  },
+  {
+    "region_id": "LK-2",
+    "region_name": "Central",
+    "region_name_in_data": "(computed)",
+    "region_ent_type": "province",
+    "total": 730925,
+    "cement": 486204,
+    "terrazzo_or_tile_or_granite_or_wood_or_titanium": 160536,
+    "concrete": 58877,
+    "mud": 24089,
+    "wood": 361,
+    "sand": 385,
+    "other": 383,
+    "not_relevant": 90
   },
   {
     "region_id": "LK-21",
@@ -1318,6 +1348,21 @@
     "sand": 57,
     "other": 101,
     "not_relevant": 15
+  },
+  {
+    "region_id": "LK-3",
+    "region_name": "Southern",
+    "region_name_in_data": "(computed)",
+    "region_ent_type": "province",
+    "total": 722971,
+    "cement": 408910,
+    "terrazzo_or_tile_or_granite_or_wood_or_titanium": 236461,
+    "concrete": 66411,
+    "mud": 10752,
+    "wood": 190,
+    "sand": 109,
+    "other": 96,
+    "not_relevant": 42
   },
   {
     "region_id": "LK-31",
@@ -2115,6 +2160,21 @@
     "not_relevant": 2
   },
   {
+    "region_id": "LK-4",
+    "region_name": "Northern",
+    "region_name_in_data": "(computed)",
+    "region_ent_type": "province",
+    "total": 307459,
+    "cement": 250340,
+    "terrazzo_or_tile_or_granite_or_wood_or_titanium": 43976,
+    "concrete": 7171,
+    "mud": 4107,
+    "wood": 114,
+    "sand": 1039,
+    "other": 529,
+    "not_relevant": 183
+  },
+  {
     "region_id": "LK-41",
     "region_name": "Jaffna",
     "region_name_in_data": "Jaffna District",
@@ -2698,6 +2758,21 @@
     "sand": 29,
     "other": 15,
     "not_relevant": 2
+  },
+  {
+    "region_id": "LK-5",
+    "region_name": "Eastern",
+    "region_name_in_data": "(computed)",
+    "region_ent_type": "province",
+    "total": 489362,
+    "cement": 392963,
+    "terrazzo_or_tile_or_granite_or_wood_or_titanium": 54405,
+    "concrete": 30161,
+    "mud": 7006,
+    "wood": 93,
+    "sand": 3989,
+    "other": 327,
+    "not_relevant": 418
   },
   {
     "region_id": "LK-51",
@@ -3420,6 +3495,21 @@
     "not_relevant": 4
   },
   {
+    "region_id": "LK-6",
+    "region_name": "North Western",
+    "region_name_in_data": "(computed)",
+    "region_ent_type": "province",
+    "total": 738403,
+    "cement": 466494,
+    "terrazzo_or_tile_or_granite_or_wood_or_titanium": 173106,
+    "concrete": 85119,
+    "mud": 11929,
+    "wood": 304,
+    "sand": 1117,
+    "other": 224,
+    "not_relevant": 110
+  },
+  {
     "region_id": "LK-61",
     "region_name": "Kurunegala",
     "region_name_in_data": "Kurunegala District",
@@ -4140,6 +4230,21 @@
     "not_relevant": 10
   },
   {
+    "region_id": "LK-7",
+    "region_name": "North Central",
+    "region_name_in_data": "(computed)",
+    "region_ent_type": "province",
+    "total": 397890,
+    "cement": 249106,
+    "terrazzo_or_tile_or_granite_or_wood_or_titanium": 69140,
+    "concrete": 68233,
+    "mud": 11145,
+    "wood": 46,
+    "sand": 138,
+    "other": 57,
+    "not_relevant": 25
+  },
+  {
     "region_id": "LK-71",
     "region_name": "Anuradhapura",
     "region_name_in_data": "Anuradhapura District",
@@ -4605,6 +4710,21 @@
     "not_relevant": 1
   },
   {
+    "region_id": "LK-8",
+    "region_name": "Uva",
+    "region_name_in_data": "(computed)",
+    "region_ent_type": "province",
+    "total": 390145,
+    "cement": 249488,
+    "terrazzo_or_tile_or_granite_or_wood_or_titanium": 68548,
+    "concrete": 47422,
+    "mud": 24260,
+    "wood": 132,
+    "sand": 176,
+    "other": 88,
+    "not_relevant": 31
+  },
+  {
     "region_id": "LK-81",
     "region_name": "Badulla",
     "region_name_in_data": "Badulla District",
@@ -5023,6 +5143,21 @@
     "sand": 10,
     "other": 0,
     "not_relevant": 1
+  },
+  {
+    "region_id": "LK-9",
+    "region_name": "Sabaragamuwa",
+    "region_name_in_data": "(computed)",
+    "region_ent_type": "province",
+    "total": 566880,
+    "cement": 369945,
+    "terrazzo_or_tile_or_granite_or_wood_or_titanium": 132390,
+    "concrete": 47738,
+    "mud": 16283,
+    "wood": 180,
+    "sand": 176,
+    "other": 126,
+    "not_relevant": 42
   },
   {
     "region_id": "LK-91",

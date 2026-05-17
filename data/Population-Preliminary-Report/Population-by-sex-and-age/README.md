@@ -38,4 +38,4 @@ Regions with an unusually high or low share of a category (≥ 2 standard deviat
 - 🔻 **Kilinochchi** — Age 60 To 64: **3.8%** vs district avg 5.2% (z = -2.2)
 
 ---
-*Data covers **365** rows down to **dsd** level (339 dsds).*
+*Data covers **374** rows down to **dsd** level (339 dsds).*

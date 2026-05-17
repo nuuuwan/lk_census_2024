@@ -17,6 +17,23 @@
     "other": 9160
   },
   {
+    "region_id": "LK-1",
+    "region_name": "Western",
+    "region_name_in_data": "(computed)",
+    "region_ent_type": "province",
+    "total": 6117341,
+    "sinhalese": 5115566,
+    "sri_lanka_tamil": 383142,
+    "indian_tamil_or_malaiyaga_thamilar": 29200,
+    "sri_lanka_moor_or_muslim": 544978,
+    "burgher": 18513,
+    "malay": 18213,
+    "sri_lanka_chetty": 2186,
+    "bharatha": 957,
+    "veddhas": 26,
+    "other": 4560
+  },
+  {
     "region_id": "LK-11",
     "region_name": "Colombo",
     "region_name_in_data": "Colombo District",
@@ -746,6 +763,23 @@
     "bharatha": 0,
     "veddhas": 0,
     "other": 2
+  },
+  {
+    "region_id": "LK-2",
+    "region_name": "Central",
+    "region_name_in_data": "(computed)",
+    "region_ent_type": "province",
+    "total": 2714045,
+    "sinhalese": 1784004,
+    "sri_lanka_tamil": 225232,
+    "indian_tamil_or_malaiyaga_thamilar": 408326,
+    "sri_lanka_moor_or_muslim": 290621,
+    "burgher": 3502,
+    "malay": 1500,
+    "sri_lanka_chetty": 37,
+    "bharatha": 50,
+    "veddhas": 0,
+    "other": 773
   },
   {
     "region_id": "LK-21",
@@ -1494,6 +1528,23 @@
     "bharatha": 4,
     "veddhas": 0,
     "other": 2
+  },
+  {
+    "region_id": "LK-3",
+    "region_name": "Southern",
+    "region_name_in_data": "(computed)",
+    "region_ent_type": "province",
+    "total": 2606679,
+    "sinhalese": 2470432,
+    "sri_lanka_tamil": 30773,
+    "indian_tamil_or_malaiyaga_thamilar": 11086,
+    "sri_lanka_moor_or_muslim": 88911,
+    "burgher": 602,
+    "malay": 4060,
+    "sri_lanka_chetty": 39,
+    "bharatha": 39,
+    "veddhas": 1,
+    "other": 736
   },
   {
     "region_id": "LK-31",
@@ -2397,6 +2448,23 @@
     "other": 38
   },
   {
+    "region_id": "LK-4",
+    "region_name": "Northern",
+    "region_name_in_data": "(computed)",
+    "region_ent_type": "province",
+    "total": 1150148,
+    "sinhalese": 35542,
+    "sri_lanka_tamil": 1052752,
+    "indian_tamil_or_malaiyaga_thamilar": 3634,
+    "sri_lanka_moor_or_muslim": 57706,
+    "burgher": 132,
+    "malay": 19,
+    "sri_lanka_chetty": 17,
+    "bharatha": 13,
+    "veddhas": 2,
+    "other": 333
+  },
+  {
     "region_id": "LK-41",
     "region_name": "Jaffna",
     "region_name_in_data": "Jaffna District",
@@ -3058,6 +3126,23 @@
     "bharatha": 0,
     "veddhas": 0,
     "other": 0
+  },
+  {
+    "region_id": "LK-5",
+    "region_name": "Eastern",
+    "region_name_in_data": "(computed)",
+    "region_ent_type": "province",
+    "total": 1783214,
+    "sinhalese": 392114,
+    "sri_lanka_tamil": 678549,
+    "indian_tamil_or_malaiyaga_thamilar": 2421,
+    "sri_lanka_moor_or_muslim": 703561,
+    "burgher": 4928,
+    "malay": 464,
+    "sri_lanka_chetty": 29,
+    "bharatha": 29,
+    "veddhas": 915,
+    "other": 204
   },
   {
     "region_id": "LK-51",
@@ -3876,6 +3961,23 @@
     "other": 0
   },
   {
+    "region_id": "LK-6",
+    "region_name": "North Western",
+    "region_name_in_data": "(computed)",
+    "region_ent_type": "province",
+    "total": 2586972,
+    "sinhalese": 2193652,
+    "sri_lanka_tamil": 70319,
+    "indian_tamil_or_malaiyaga_thamilar": 3017,
+    "sri_lanka_moor_or_muslim": 315385,
+    "burgher": 2204,
+    "malay": 1354,
+    "sri_lanka_chetty": 75,
+    "bharatha": 36,
+    "veddhas": 5,
+    "other": 925
+  },
+  {
     "region_id": "LK-61",
     "region_name": "Kurunegala",
     "region_name_in_data": "Kurunegala District",
@@ -4692,6 +4794,23 @@
     "other": 12
   },
   {
+    "region_id": "LK-7",
+    "region_name": "North Central",
+    "region_name_in_data": "(computed)",
+    "region_ent_type": "province",
+    "total": 1407610,
+    "sinhalese": 1272834,
+    "sri_lanka_tamil": 12457,
+    "indian_tamil_or_malaiyaga_thamilar": 506,
+    "sri_lanka_moor_or_muslim": 120147,
+    "burgher": 229,
+    "malay": 126,
+    "sri_lanka_chetty": 18,
+    "bharatha": 11,
+    "veddhas": 228,
+    "other": 1054
+  },
+  {
     "region_id": "LK-71",
     "region_name": "Anuradhapura",
     "region_name_in_data": "Anuradhapura District",
@@ -5219,6 +5338,23 @@
     "other": 60
   },
   {
+    "region_id": "LK-8",
+    "region_name": "Uva",
+    "region_name_in_data": "(computed)",
+    "region_ent_type": "province",
+    "total": 1399892,
+    "sinhalese": 1139991,
+    "sri_lanka_tamil": 96619,
+    "indian_tamil_or_malaiyaga_thamilar": 96935,
+    "sri_lanka_moor_or_muslim": 64273,
+    "burgher": 951,
+    "malay": 732,
+    "sri_lanka_chetty": 19,
+    "bharatha": 24,
+    "veddhas": 193,
+    "other": 155
+  },
+  {
     "region_id": "LK-81",
     "region_name": "Badulla",
     "region_name_in_data": "Badulla District",
@@ -5693,6 +5829,23 @@
     "bharatha": 0,
     "veddhas": 0,
     "other": 4
+  },
+  {
+    "region_id": "LK-9",
+    "region_name": "Sabaragamuwa",
+    "region_name_in_data": "(computed)",
+    "region_ent_type": "province",
+    "total": 2015899,
+    "sinhalese": 1739902,
+    "sri_lanka_tamil": 131784,
+    "indian_tamil_or_malaiyaga_thamilar": 45235,
+    "sri_lanka_moor_or_muslim": 97664,
+    "burgher": 660,
+    "malay": 182,
+    "sri_lanka_chetty": 23,
+    "bharatha": 24,
+    "veddhas": 5,
+    "other": 420
   },
   {
     "region_id": "LK-91",

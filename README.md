@@ -1,7 +1,7 @@
 # 🇱🇰 Sri Lanka - Census of Population and Housing 2024
 
 ![CPH](https://img.shields.io/badge/CPH-2024-blue)
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--03--24_18:18:13-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--05--17_10:14:51-green)
 
 ## Original Source Documents
 
@@ -43,7 +43,7 @@ The following datasets have been extracted from the PDF source documents:
 }
 ```
 
-**365** rows in total, by Country (1), District (25), Dsd (339)
+**374** rows in total, by Country (1), Province (9), District (25), Dsd (339)
 
 #### Validation Errors
 
@@ -83,7 +83,7 @@ The following datasets have been extracted from the PDF source documents:
 }
 ```
 
-**366** rows in total, by Country (1), District (25), Dsd (340)
+**375** rows in total, by Country (1), Province (9), District (25), Dsd (340)
 
 #### Validation Errors
 
@@ -93,7 +93,8 @@ The following datasets have been extracted from the PDF source documents:
 ⚠️ **1** known administrative entities have no corresponding row in data
   - Koralai Pattu (`LK-5109`)
 
-⚠️ **1** rows where 'total' field doesn't equal sum of other fields
+⚠️ **2** rows where 'total' field doesn't equal sum of other fields
+  - Northern (`LK-4`) — total: 1,150,148, sum of fields: 1,150,150
   - Kilinochchi (`LK-45`) — total: 136,710, sum of fields: 136,712
 
 ### 03. [Population by religion](data/Population-Preliminary-Report/Population-by-religion)
@@ -121,7 +122,7 @@ The following datasets have been extracted from the PDF source documents:
 }
 ```
 
-**366** rows in total, by Country (1), District (25), Dsd (340)
+**375** rows in total, by Country (1), Province (9), District (25), Dsd (340)
 
 #### Validation Errors
 
@@ -160,7 +161,7 @@ The following datasets have been extracted from the PDF source documents:
 }
 ```
 
-**366** rows in total, by Country (1), District (25), Dsd (340)
+**375** rows in total, by Country (1), Province (9), District (25), Dsd (340)
 
 #### Validation Errors
 
@@ -200,7 +201,7 @@ The following datasets have been extracted from the PDF source documents:
 }
 ```
 
-**366** rows in total, by Country (1), District (25), Dsd (340)
+**375** rows in total, by Country (1), Province (9), District (25), Dsd (340)
 
 #### Validation Errors
 
@@ -237,7 +238,7 @@ The following datasets have been extracted from the PDF source documents:
 }
 ```
 
-**366** rows in total, by Country (1), District (25), Dsd (340)
+**375** rows in total, by Country (1), Province (9), District (25), Dsd (340)
 
 #### Validation Errors
 
@@ -274,7 +275,7 @@ The following datasets have been extracted from the PDF source documents:
 }
 ```
 
-**366** rows in total, by Country (1), District (25), Dsd (340)
+**375** rows in total, by Country (1), Province (9), District (25), Dsd (340)
 
 #### Validation Errors
 
@@ -311,7 +312,7 @@ The following datasets have been extracted from the PDF source documents:
 }
 ```
 
-**366** rows in total, by Country (1), District (25), Dsd (340)
+**375** rows in total, by Country (1), Province (9), District (25), Dsd (340)
 
 #### Validation Errors
 
@@ -355,7 +356,7 @@ The following datasets have been extracted from the PDF source documents:
 }
 ```
 
-**366** rows in total, by Country (1), District (25), Dsd (340)
+**375** rows in total, by Country (1), Province (9), District (25), Dsd (340)
 
 #### Validation Errors
 
@@ -391,7 +392,7 @@ The following datasets have been extracted from the PDF source documents:
 }
 ```
 
-**366** rows in total, by Country (1), District (25), Dsd (340)
+**375** rows in total, by Country (1), Province (9), District (25), Dsd (340)
 
 #### Validation Errors
 
@@ -427,7 +428,7 @@ The following datasets have been extracted from the PDF source documents:
 }
 ```
 
-**366** rows in total, by Country (1), District (25), Dsd (340)
+**375** rows in total, by Country (1), Province (9), District (25), Dsd (340)
 
 #### Validation Errors
 

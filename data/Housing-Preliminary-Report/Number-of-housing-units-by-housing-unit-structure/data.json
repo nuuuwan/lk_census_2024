@@ -17,6 +17,23 @@
     "other": 1211
   },
   {
+    "region_id": "LK-1",
+    "region_name": "Western",
+    "region_name_in_data": "(computed)",
+    "region_ent_type": "province",
+    "total": 1686506,
+    "single_house_single_storeyed": 1177294,
+    "single_house_two_storeyed": 360332,
+    "single_house_more_than_two_storeyed": 32722,
+    "attached_house_1st_floor": 44627,
+    "attached_house_2nd_floor": 32464,
+    "attached_house_3rd_or_4th_floor": 18775,
+    "attached_house_5th_to_10th_floor": 12272,
+    "attached_house_11th_to_19th_floor": 5994,
+    "attached_house_from_20th_floor_or_more": 1756,
+    "other": 270
+  },
+  {
     "region_id": "LK-11",
     "region_name": "Colombo",
     "region_name_in_data": "Colombo District",
@@ -746,6 +763,23 @@
     "attached_house_11th_to_19th_floor": 0,
     "attached_house_from_20th_floor_or_more": 0,
     "other": 0
+  },
+  {
+    "region_id": "LK-2",
+    "region_name": "Central",
+    "region_name_in_data": "(computed)",
+    "region_ent_type": "province",
+    "total": 730925,
+    "single_house_single_storeyed": 539831,
+    "single_house_two_storeyed": 95235,
+    "single_house_more_than_two_storeyed": 11754,
+    "attached_house_1st_floor": 70508,
+    "attached_house_2nd_floor": 9149,
+    "attached_house_3rd_or_4th_floor": 3866,
+    "attached_house_5th_to_10th_floor": 469,
+    "attached_house_11th_to_19th_floor": 23,
+    "attached_house_from_20th_floor_or_more": 0,
+    "other": 90
   },
   {
     "region_id": "LK-21",
@@ -1494,6 +1528,23 @@
     "attached_house_11th_to_19th_floor": 0,
     "attached_house_from_20th_floor_or_more": 0,
     "other": 15
+  },
+  {
+    "region_id": "LK-3",
+    "region_name": "Southern",
+    "region_name_in_data": "(computed)",
+    "region_ent_type": "province",
+    "total": 722971,
+    "single_house_single_storeyed": 615514,
+    "single_house_two_storeyed": 91046,
+    "single_house_more_than_two_storeyed": 5317,
+    "attached_house_1st_floor": 6959,
+    "attached_house_2nd_floor": 3271,
+    "attached_house_3rd_or_4th_floor": 748,
+    "attached_house_5th_to_10th_floor": 60,
+    "attached_house_11th_to_19th_floor": 14,
+    "attached_house_from_20th_floor_or_more": 0,
+    "other": 42
   },
   {
     "region_id": "LK-31",
@@ -2397,6 +2448,23 @@
     "other": 2
   },
   {
+    "region_id": "LK-4",
+    "region_name": "Northern",
+    "region_name_in_data": "(computed)",
+    "region_ent_type": "province",
+    "total": 307459,
+    "single_house_single_storeyed": 292371,
+    "single_house_two_storeyed": 13396,
+    "single_house_more_than_two_storeyed": 604,
+    "attached_house_1st_floor": 466,
+    "attached_house_2nd_floor": 325,
+    "attached_house_3rd_or_4th_floor": 109,
+    "attached_house_5th_to_10th_floor": 5,
+    "attached_house_11th_to_19th_floor": 0,
+    "attached_house_from_20th_floor_or_more": 0,
+    "other": 183
+  },
+  {
     "region_id": "LK-41",
     "region_name": "Jaffna",
     "region_name_in_data": "Jaffna District",
@@ -3058,6 +3126,23 @@
     "attached_house_11th_to_19th_floor": 0,
     "attached_house_from_20th_floor_or_more": 0,
     "other": 2
+  },
+  {
+    "region_id": "LK-5",
+    "region_name": "Eastern",
+    "region_name_in_data": "(computed)",
+    "region_ent_type": "province",
+    "total": 489362,
+    "single_house_single_storeyed": 452172,
+    "single_house_two_storeyed": 32702,
+    "single_house_more_than_two_storeyed": 1365,
+    "attached_house_1st_floor": 1432,
+    "attached_house_2nd_floor": 774,
+    "attached_house_3rd_or_4th_floor": 491,
+    "attached_house_5th_to_10th_floor": 8,
+    "attached_house_11th_to_19th_floor": 0,
+    "attached_house_from_20th_floor_or_more": 0,
+    "other": 418
   },
   {
     "region_id": "LK-51",
@@ -3876,6 +3961,23 @@
     "other": 4
   },
   {
+    "region_id": "LK-6",
+    "region_name": "North Western",
+    "region_name_in_data": "(computed)",
+    "region_ent_type": "province",
+    "total": 738403,
+    "single_house_single_storeyed": 681543,
+    "single_house_two_storeyed": 52350,
+    "single_house_more_than_two_storeyed": 1295,
+    "attached_house_1st_floor": 2143,
+    "attached_house_2nd_floor": 785,
+    "attached_house_3rd_or_4th_floor": 139,
+    "attached_house_5th_to_10th_floor": 38,
+    "attached_house_11th_to_19th_floor": 0,
+    "attached_house_from_20th_floor_or_more": 0,
+    "other": 110
+  },
+  {
     "region_id": "LK-61",
     "region_name": "Kurunegala",
     "region_name_in_data": "Kurunegala District",
@@ -4692,6 +4794,23 @@
     "other": 10
   },
   {
+    "region_id": "LK-7",
+    "region_name": "North Central",
+    "region_name_in_data": "(computed)",
+    "region_ent_type": "province",
+    "total": 397890,
+    "single_house_single_storeyed": 373745,
+    "single_house_two_storeyed": 22469,
+    "single_house_more_than_two_storeyed": 559,
+    "attached_house_1st_floor": 581,
+    "attached_house_2nd_floor": 393,
+    "attached_house_3rd_or_4th_floor": 117,
+    "attached_house_5th_to_10th_floor": 1,
+    "attached_house_11th_to_19th_floor": 0,
+    "attached_house_from_20th_floor_or_more": 0,
+    "other": 25
+  },
+  {
     "region_id": "LK-71",
     "region_name": "Anuradhapura",
     "region_name_in_data": "Anuradhapura District",
@@ -5219,6 +5338,23 @@
     "other": 1
   },
   {
+    "region_id": "LK-8",
+    "region_name": "Uva",
+    "region_name_in_data": "(computed)",
+    "region_ent_type": "province",
+    "total": 390145,
+    "single_house_single_storeyed": 337782,
+    "single_house_two_storeyed": 27180,
+    "single_house_more_than_two_storeyed": 2355,
+    "attached_house_1st_floor": 20632,
+    "attached_house_2nd_floor": 1384,
+    "attached_house_3rd_or_4th_floor": 781,
+    "attached_house_5th_to_10th_floor": 0,
+    "attached_house_11th_to_19th_floor": 0,
+    "attached_house_from_20th_floor_or_more": 0,
+    "other": 31
+  },
+  {
     "region_id": "LK-81",
     "region_name": "Badulla",
     "region_name_in_data": "Badulla District",
@@ -5693,6 +5829,23 @@
     "attached_house_11th_to_19th_floor": 0,
     "attached_house_from_20th_floor_or_more": 0,
     "other": 1
+  },
+  {
+    "region_id": "LK-9",
+    "region_name": "Sabaragamuwa",
+    "region_name_in_data": "(computed)",
+    "region_ent_type": "province",
+    "total": 566880,
+    "single_house_single_storeyed": 487757,
+    "single_house_two_storeyed": 56665,
+    "single_house_more_than_two_storeyed": 3513,
+    "attached_house_1st_floor": 17071,
+    "attached_house_2nd_floor": 1485,
+    "attached_house_3rd_or_4th_floor": 347,
+    "attached_house_5th_to_10th_floor": 0,
+    "attached_house_11th_to_19th_floor": 0,
+    "attached_house_from_20th_floor_or_more": 0,
+    "other": 42
   },
   {
     "region_id": "LK-91",

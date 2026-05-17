@@ -15,6 +15,21 @@
     "not_relevant": 1211
   },
   {
+    "region_id": "LK-1",
+    "region_name": "Western",
+    "region_name_in_data": "(computed)",
+    "region_ent_type": "province",
+    "total": 1686506,
+    "tile": 363704,
+    "asbestos": 1098621,
+    "concrete": 190819,
+    "zinc_aluminium_sheets": 10224,
+    "metal_sheets": 12480,
+    "kadjan_or_palmyrah_or_straw": 10085,
+    "other": 303,
+    "not_relevant": 270
+  },
+  {
     "region_id": "LK-11",
     "region_name": "Colombo",
     "region_name_in_data": "Colombo District",
@@ -658,6 +673,21 @@
     "kadjan_or_palmyrah_or_straw": 280,
     "other": 5,
     "not_relevant": 0
+  },
+  {
+    "region_id": "LK-2",
+    "region_name": "Central",
+    "region_name_in_data": "(computed)",
+    "region_ent_type": "province",
+    "total": 730925,
+    "tile": 66210,
+    "asbestos": 471886,
+    "concrete": 83423,
+    "zinc_aluminium_sheets": 34464,
+    "metal_sheets": 53758,
+    "kadjan_or_palmyrah_or_straw": 20521,
+    "other": 573,
+    "not_relevant": 90
   },
   {
     "region_id": "LK-21",
@@ -1318,6 +1348,21 @@
     "kadjan_or_palmyrah_or_straw": 408,
     "other": 53,
     "not_relevant": 15
+  },
+  {
+    "region_id": "LK-3",
+    "region_name": "Southern",
+    "region_name_in_data": "(computed)",
+    "region_ent_type": "province",
+    "total": 722971,
+    "tile": 311194,
+    "asbestos": 365468,
+    "concrete": 31230,
+    "zinc_aluminium_sheets": 2162,
+    "metal_sheets": 7330,
+    "kadjan_or_palmyrah_or_straw": 5322,
+    "other": 223,
+    "not_relevant": 42
   },
   {
     "region_id": "LK-31",
@@ -2115,6 +2160,21 @@
     "not_relevant": 2
   },
   {
+    "region_id": "LK-4",
+    "region_name": "Northern",
+    "region_name_in_data": "(computed)",
+    "region_ent_type": "province",
+    "total": 307459,
+    "tile": 182198,
+    "asbestos": 100468,
+    "concrete": 7101,
+    "zinc_aluminium_sheets": 6190,
+    "metal_sheets": 5841,
+    "kadjan_or_palmyrah_or_straw": 3731,
+    "other": 1747,
+    "not_relevant": 183
+  },
+  {
     "region_id": "LK-41",
     "region_name": "Jaffna",
     "region_name_in_data": "Jaffna District",
@@ -2698,6 +2758,21 @@
     "kadjan_or_palmyrah_or_straw": 125,
     "other": 164,
     "not_relevant": 2
+  },
+  {
+    "region_id": "LK-5",
+    "region_name": "Eastern",
+    "region_name_in_data": "(computed)",
+    "region_ent_type": "province",
+    "total": 489362,
+    "tile": 285586,
+    "asbestos": 121898,
+    "concrete": 54518,
+    "zinc_aluminium_sheets": 7358,
+    "metal_sheets": 7875,
+    "kadjan_or_palmyrah_or_straw": 8896,
+    "other": 2813,
+    "not_relevant": 418
   },
   {
     "region_id": "LK-51",
@@ -3420,6 +3495,21 @@
     "not_relevant": 4
   },
   {
+    "region_id": "LK-6",
+    "region_name": "North Western",
+    "region_name_in_data": "(computed)",
+    "region_ent_type": "province",
+    "total": 738403,
+    "tile": 487945,
+    "asbestos": 192946,
+    "concrete": 18700,
+    "zinc_aluminium_sheets": 9457,
+    "metal_sheets": 14211,
+    "kadjan_or_palmyrah_or_straw": 12523,
+    "other": 2511,
+    "not_relevant": 110
+  },
+  {
     "region_id": "LK-61",
     "region_name": "Kurunegala",
     "region_name_in_data": "Kurunegala District",
@@ -4140,6 +4230,21 @@
     "not_relevant": 10
   },
   {
+    "region_id": "LK-7",
+    "region_name": "North Central",
+    "region_name_in_data": "(computed)",
+    "region_ent_type": "province",
+    "total": 397890,
+    "tile": 96127,
+    "asbestos": 280591,
+    "concrete": 9748,
+    "zinc_aluminium_sheets": 2902,
+    "metal_sheets": 4495,
+    "kadjan_or_palmyrah_or_straw": 3826,
+    "other": 176,
+    "not_relevant": 25
+  },
+  {
     "region_id": "LK-71",
     "region_name": "Anuradhapura",
     "region_name_in_data": "Anuradhapura District",
@@ -4605,6 +4710,21 @@
     "not_relevant": 1
   },
   {
+    "region_id": "LK-8",
+    "region_name": "Uva",
+    "region_name_in_data": "(computed)",
+    "region_ent_type": "province",
+    "total": 390145,
+    "tile": 90405,
+    "asbestos": 232820,
+    "concrete": 18874,
+    "zinc_aluminium_sheets": 7033,
+    "metal_sheets": 36734,
+    "kadjan_or_palmyrah_or_straw": 4085,
+    "other": 163,
+    "not_relevant": 31
+  },
+  {
     "region_id": "LK-81",
     "region_name": "Badulla",
     "region_name_in_data": "Badulla District",
@@ -5023,6 +5143,21 @@
     "kadjan_or_palmyrah_or_straw": 209,
     "other": 18,
     "not_relevant": 1
+  },
+  {
+    "region_id": "LK-9",
+    "region_name": "Sabaragamuwa",
+    "region_name_in_data": "(computed)",
+    "region_ent_type": "province",
+    "total": 566880,
+    "tile": 149072,
+    "asbestos": 344798,
+    "concrete": 26348,
+    "zinc_aluminium_sheets": 5632,
+    "metal_sheets": 21011,
+    "kadjan_or_palmyrah_or_straw": 19831,
+    "other": 146,
+    "not_relevant": 42
   },
   {
     "region_id": "LK-91",

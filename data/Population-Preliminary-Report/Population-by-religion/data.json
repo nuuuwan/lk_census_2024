@@ -13,6 +13,19 @@
     "other": 3956
   },
   {
+    "region_id": "LK-1",
+    "region_name": "Western",
+    "region_name_in_data": "(computed)",
+    "region_ent_type": "province",
+    "total": 6117341,
+    "buddhist": 4507637,
+    "hindu": 309716,
+    "islam": 571074,
+    "roman_catholic": 618683,
+    "other_christian": 107897,
+    "other": 2334
+  },
+  {
     "region_id": "LK-11",
     "region_name": "Colombo",
     "region_name_in_data": "Colombo District",
@@ -570,6 +583,19 @@
     "roman_catholic": 118,
     "other_christian": 63,
     "other": 2
+  },
+  {
+    "region_id": "LK-2",
+    "region_name": "Central",
+    "region_name_in_data": "(computed)",
+    "region_ent_type": "province",
+    "total": 2714045,
+    "buddhist": 1760947,
+    "hindu": 568065,
+    "islam": 298150,
+    "roman_catholic": 58125,
+    "other_christian": 28419,
+    "other": 339
   },
   {
     "region_id": "LK-21",
@@ -1142,6 +1168,19 @@
     "roman_catholic": 12306,
     "other_christian": 5750,
     "other": 28
+  },
+  {
+    "region_id": "LK-3",
+    "region_name": "Southern",
+    "region_name_in_data": "(computed)",
+    "region_ent_type": "province",
+    "total": 2606679,
+    "buddhist": 2463070,
+    "hindu": 31626,
+    "islam": 93843,
+    "roman_catholic": 7669,
+    "other_christian": 10243,
+    "other": 228
   },
   {
     "region_id": "LK-31",
@@ -1833,6 +1872,19 @@
     "other": 10
   },
   {
+    "region_id": "LK-4",
+    "region_name": "Northern",
+    "region_name_in_data": "(computed)",
+    "region_ent_type": "province",
+    "total": 1150148,
+    "buddhist": 33288,
+    "hindu": 829235,
+    "islam": 60683,
+    "roman_catholic": 176123,
+    "other_christian": 50701,
+    "other": 118
+  },
+  {
     "region_id": "LK-41",
     "region_name": "Jaffna",
     "region_name_in_data": "Jaffna District",
@@ -2338,6 +2390,19 @@
     "roman_catholic": 5767,
     "other_christian": 1112,
     "other": 0
+  },
+  {
+    "region_id": "LK-5",
+    "region_name": "Eastern",
+    "region_name_in_data": "(computed)",
+    "region_ent_type": "province",
+    "total": 1783214,
+    "buddhist": 389119,
+    "hindu": 597472,
+    "islam": 707054,
+    "roman_catholic": 47507,
+    "other_christian": 41928,
+    "other": 134
   },
   {
     "region_id": "LK-51",
@@ -2964,6 +3029,19 @@
     "other": 0
   },
   {
+    "region_id": "LK-6",
+    "region_name": "North Western",
+    "region_name_in_data": "(computed)",
+    "region_ent_type": "province",
+    "total": 2586972,
+    "buddhist": 1918702,
+    "hindu": 46319,
+    "islam": 320262,
+    "roman_catholic": 281248,
+    "other_christian": 20032,
+    "other": 409
+  },
+  {
     "region_id": "LK-61",
     "region_name": "Kurunegala",
     "region_name_in_data": "Kurunegala District",
@@ -3588,6 +3666,19 @@
     "other": 10
   },
   {
+    "region_id": "LK-7",
+    "region_name": "North Central",
+    "region_name_in_data": "(computed)",
+    "region_ent_type": "province",
+    "total": 1407610,
+    "buddhist": 1262295,
+    "hindu": 10970,
+    "islam": 121076,
+    "roman_catholic": 8320,
+    "other_christian": 4742,
+    "other": 207
+  },
+  {
     "region_id": "LK-71",
     "region_name": "Anuradhapura",
     "region_name_in_data": "Anuradhapura District",
@@ -3991,6 +4082,19 @@
     "other": 62
   },
   {
+    "region_id": "LK-8",
+    "region_name": "Uva",
+    "region_name_in_data": "(computed)",
+    "region_ent_type": "province",
+    "total": 1399892,
+    "buddhist": 1135424,
+    "hindu": 181354,
+    "islam": 65825,
+    "roman_catholic": 10774,
+    "other_christian": 6442,
+    "other": 73
+  },
+  {
     "region_id": "LK-81",
     "region_name": "Badulla",
     "region_name_in_data": "Badulla District",
@@ -4353,6 +4457,19 @@
     "roman_catholic": 36,
     "other_christian": 26,
     "other": 1
+  },
+  {
+    "region_id": "LK-9",
+    "region_name": "Sabaragamuwa",
+    "region_name_in_data": "(computed)",
+    "region_ent_type": "province",
+    "total": 2015899,
+    "buddhist": 1728611,
+    "hindu": 160082,
+    "islam": 99412,
+    "roman_catholic": 15899,
+    "other_christian": 11781,
+    "other": 114
   },
   {
     "region_id": "LK-91",

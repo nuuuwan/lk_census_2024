@@ -13,6 +13,19 @@
     "age-65-and-over": 2737814
   },
   {
+    "region_id": "LK-1",
+    "region_name": "Western",
+    "region_name_in_data": "(computed)",
+    "region_ent_type": "province",
+    "total": 6117341,
+    "sex-male": 2961374,
+    "sex-female": 3155967,
+    "age-under-15": 1085456,
+    "age-15-to-59": 3870376,
+    "age-60-to-64": 343392,
+    "age-65-and-over": 818117
+  },
+  {
     "region_id": "LK-11",
     "region_name": "Colombo",
     "region_name_in_data": "Colombo District",
@@ -570,6 +583,19 @@
     "age-15-to-59": 33188,
     "age-60-to-64": 2988,
     "age-65-and-over": 8351
+  },
+  {
+    "region_id": "LK-2",
+    "region_name": "Central",
+    "region_name_in_data": "(computed)",
+    "region_ent_type": "province",
+    "total": 2714045,
+    "sex-male": 1298405,
+    "sex-female": 1415640,
+    "age-under-15": 593856,
+    "age-15-to-59": 1609010,
+    "age-60-to-64": 155726,
+    "age-65-and-over": 355453
   },
   {
     "region_id": "LK-21",
@@ -1142,6 +1168,19 @@
     "age-15-to-59": 93724,
     "age-60-to-64": 8271,
     "age-65-and-over": 18308
+  },
+  {
+    "region_id": "LK-3",
+    "region_name": "Southern",
+    "region_name_in_data": "(computed)",
+    "region_ent_type": "province",
+    "total": 2606679,
+    "sex-male": 1258830,
+    "sex-female": 1347849,
+    "age-under-15": 543038,
+    "age-15-to-59": 1553430,
+    "age-60-to-64": 143734,
+    "age-65-and-over": 366477
   },
   {
     "region_id": "LK-31",
@@ -1820,6 +1859,19 @@
     "age-65-and-over": 10668
   },
   {
+    "region_id": "LK-4",
+    "region_name": "Northern",
+    "region_name_in_data": "(computed)",
+    "region_ent_type": "province",
+    "total": 1150148,
+    "sex-male": 551273,
+    "sex-female": 598875,
+    "age-under-15": 243768,
+    "age-15-to-59": 715128,
+    "age-60-to-64": 54236,
+    "age-65-and-over": 137016
+  },
+  {
     "region_id": "LK-41",
     "region_name": "Jaffna",
     "region_name_in_data": "Jaffna District",
@@ -2325,6 +2377,19 @@
     "age-15-to-59": 15397,
     "age-60-to-64": 917,
     "age-65-and-over": 2099
+  },
+  {
+    "region_id": "LK-5",
+    "region_name": "Eastern",
+    "region_name_in_data": "(computed)",
+    "region_ent_type": "province",
+    "total": 1783214,
+    "sex-male": 850607,
+    "sex-female": 932607,
+    "age-under-15": 451962,
+    "age-15-to-59": 1106895,
+    "age-60-to-64": 79012,
+    "age-65-and-over": 145345
   },
   {
     "region_id": "LK-51",
@@ -2951,6 +3016,19 @@
     "age-65-and-over": 655
   },
   {
+    "region_id": "LK-6",
+    "region_name": "North Western",
+    "region_name_in_data": "(computed)",
+    "region_ent_type": "province",
+    "total": 2586972,
+    "sex-male": 1243316,
+    "sex-female": 1343656,
+    "age-under-15": 550822,
+    "age-15-to-59": 1562231,
+    "age-60-to-64": 144739,
+    "age-65-and-over": 329180
+  },
+  {
     "region_id": "LK-61",
     "region_name": "Kurunegala",
     "region_name_in_data": "Kurunegala District",
@@ -3575,6 +3653,19 @@
     "age-65-and-over": 8581
   },
   {
+    "region_id": "LK-7",
+    "region_name": "North Central",
+    "region_name_in_data": "(computed)",
+    "region_ent_type": "province",
+    "total": 1407610,
+    "sex-male": 686257,
+    "sex-female": 721353,
+    "age-under-15": 321520,
+    "age-15-to-59": 867136,
+    "age-60-to-64": 72924,
+    "age-65-and-over": 146030
+  },
+  {
     "region_id": "LK-71",
     "region_name": "Anuradhapura",
     "region_name_in_data": "Anuradhapura District",
@@ -3978,6 +4069,19 @@
     "age-65-and-over": 5875
   },
   {
+    "region_id": "LK-8",
+    "region_name": "Uva",
+    "region_name_in_data": "(computed)",
+    "region_ent_type": "province",
+    "total": 1399892,
+    "sex-male": 683745,
+    "sex-female": 716147,
+    "age-under-15": 312262,
+    "age-15-to-59": 853238,
+    "age-60-to-64": 76368,
+    "age-65-and-over": 158024
+  },
+  {
     "region_id": "LK-81",
     "region_name": "Badulla",
     "region_name_in_data": "Badulla District",
@@ -4340,6 +4444,19 @@
     "age-15-to-59": 29991,
     "age-60-to-64": 2124,
     "age-65-and-over": 5189
+  },
+  {
+    "region_id": "LK-9",
+    "region_name": "Sabaragamuwa",
+    "region_name_in_data": "(computed)",
+    "region_ent_type": "province",
+    "total": 2015899,
+    "sex-male": 978537,
+    "sex-female": 1037362,
+    "age-under-15": 404155,
+    "age-15-to-59": 1216393,
+    "age-60-to-64": 113179,
+    "age-65-and-over": 282172
   },
   {
     "region_id": "LK-91",

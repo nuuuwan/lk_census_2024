@@ -15,6 +15,21 @@
     "not_relevant": 77239
   },
   {
+    "region_id": "LK-1",
+    "region_name": "Western",
+    "region_name_in_data": "(computed)",
+    "region_ent_type": "province",
+    "total": 1703420,
+    "firewood": 433777,
+    "kerosene": 15637,
+    "gas": 1203412,
+    "electricity": 10508,
+    "saw_dust_or_paddy_husk": 303,
+    "bio_gas": 356,
+    "other": 1152,
+    "not_relevant": 38275
+  },
+  {
     "region_id": "LK-11",
     "region_name": "Colombo",
     "region_name_in_data": "Colombo District",
@@ -658,6 +673,21 @@
     "bio_gas": 2,
     "other": 2,
     "not_relevant": 108
+  },
+  {
+    "region_id": "LK-2",
+    "region_name": "Central",
+    "region_name_in_data": "(computed)",
+    "region_ent_type": "province",
+    "total": 749019,
+    "firewood": 489749,
+    "kerosene": 2717,
+    "gas": 249179,
+    "electricity": 2191,
+    "saw_dust_or_paddy_husk": 84,
+    "bio_gas": 559,
+    "other": 175,
+    "not_relevant": 4365
   },
   {
     "region_id": "LK-21",
@@ -1318,6 +1348,21 @@
     "bio_gas": 101,
     "other": 1,
     "not_relevant": 190
+  },
+  {
+    "region_id": "LK-3",
+    "region_name": "Southern",
+    "region_name_in_data": "(computed)",
+    "region_ent_type": "province",
+    "total": 728288,
+    "firewood": 438164,
+    "kerosene": 1173,
+    "gas": 277959,
+    "electricity": 1226,
+    "saw_dust_or_paddy_husk": 89,
+    "bio_gas": 82,
+    "other": 304,
+    "not_relevant": 9291
   },
   {
     "region_id": "LK-31",
@@ -2115,6 +2160,21 @@
     "not_relevant": 207
   },
   {
+    "region_id": "LK-4",
+    "region_name": "Northern",
+    "region_name_in_data": "(computed)",
+    "region_ent_type": "province",
+    "total": 312002,
+    "firewood": 186993,
+    "kerosene": 2879,
+    "gas": 117444,
+    "electricity": 422,
+    "saw_dust_or_paddy_husk": 95,
+    "bio_gas": 1814,
+    "other": 40,
+    "not_relevant": 2315
+  },
+  {
     "region_id": "LK-41",
     "region_name": "Jaffna",
     "region_name_in_data": "Jaffna District",
@@ -2698,6 +2758,21 @@
     "bio_gas": 30,
     "other": 0,
     "not_relevant": 17
+  },
+  {
+    "region_id": "LK-5",
+    "region_name": "Eastern",
+    "region_name_in_data": "(computed)",
+    "region_ent_type": "province",
+    "total": 499217,
+    "firewood": 232633,
+    "kerosene": 5032,
+    "gas": 251630,
+    "electricity": 1291,
+    "saw_dust_or_paddy_husk": 1007,
+    "bio_gas": 3557,
+    "other": 111,
+    "not_relevant": 3956
   },
   {
     "region_id": "LK-51",
@@ -3420,6 +3495,21 @@
     "not_relevant": 5
   },
   {
+    "region_id": "LK-6",
+    "region_name": "North Western",
+    "region_name_in_data": "(computed)",
+    "region_ent_type": "province",
+    "total": 745193,
+    "firewood": 534964,
+    "kerosene": 2782,
+    "gas": 195933,
+    "electricity": 1394,
+    "saw_dust_or_paddy_husk": 35,
+    "bio_gas": 570,
+    "other": 272,
+    "not_relevant": 9243
+  },
+  {
     "region_id": "LK-61",
     "region_name": "Kurunegala",
     "region_name_in_data": "Kurunegala District",
@@ -4140,6 +4230,21 @@
     "not_relevant": 408
   },
   {
+    "region_id": "LK-7",
+    "region_name": "North Central",
+    "region_name_in_data": "(computed)",
+    "region_ent_type": "province",
+    "total": 402469,
+    "firewood": 304792,
+    "kerosene": 737,
+    "gas": 92753,
+    "electricity": 560,
+    "saw_dust_or_paddy_husk": 12,
+    "bio_gas": 186,
+    "other": 103,
+    "not_relevant": 3326
+  },
+  {
     "region_id": "LK-71",
     "region_name": "Anuradhapura",
     "region_name_in_data": "Anuradhapura District",
@@ -4605,6 +4710,21 @@
     "not_relevant": 70
   },
   {
+    "region_id": "LK-8",
+    "region_name": "Uva",
+    "region_name_in_data": "(computed)",
+    "region_ent_type": "province",
+    "total": 400025,
+    "firewood": 327040,
+    "kerosene": 957,
+    "gas": 68808,
+    "electricity": 988,
+    "saw_dust_or_paddy_husk": 82,
+    "bio_gas": 32,
+    "other": 50,
+    "not_relevant": 2068
+  },
+  {
     "region_id": "LK-81",
     "region_name": "Badulla",
     "region_name_in_data": "Badulla District",
@@ -5023,6 +5143,21 @@
     "bio_gas": 2,
     "other": 2,
     "not_relevant": 101
+  },
+  {
+    "region_id": "LK-9",
+    "region_name": "Sabaragamuwa",
+    "region_name_in_data": "(computed)",
+    "region_ent_type": "province",
+    "total": 571682,
+    "firewood": 433669,
+    "kerosene": 1060,
+    "gas": 131384,
+    "electricity": 960,
+    "saw_dust_or_paddy_husk": 32,
+    "bio_gas": 23,
+    "other": 154,
+    "not_relevant": 4400
   },
   {
     "region_id": "LK-91",
