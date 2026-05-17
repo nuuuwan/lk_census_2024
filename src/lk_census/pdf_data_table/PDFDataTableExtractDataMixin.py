@@ -12,6 +12,8 @@ from lk_census.pdf_data_table.PDFDataTableExtractDataValidateMixin import (
 
 log = Log("PDFDataTable")
 
+_PROVINCE_BY_ID = {ent.id: ent for ent in Ent.list_from_type(EntType.PROVINCE)}
+
 
 class PDFDataTableExtractDataMixin(
     PDFDataTableExtractDataCleanerMixin, PDFDataTableExtractDataValidateMixin
@@ -93,6 +95,43 @@ class PDFDataTableExtractDataMixin(
 
         return d, current_parent_id
 
+    def __compute_province_data__(self, d_list):
+        """Aggregate district rows into province-level entries."""
+        province_sums = {}
+
+        for d in d_list:
+            if d["region_ent_type"] != EntType.DISTRICT.name:
+                continue
+            district_id = d["region_id"]
+            province_id = district_id[:-1]  # e.g., "LK-11" -> "LK-1"
+
+            if province_id not in province_sums:
+                province_sums[province_id] = {
+                    "total": 0,
+                    **{field: 0 for field in self.field_list},
+                }
+
+            province_sums[province_id]["total"] += d["total"]
+            for field in self.field_list:
+                province_sums[province_id][field] += d[field]
+
+        province_entries = []
+        for province_id, sums in province_sums.items():
+            province_ent = _PROVINCE_BY_ID.get(province_id)
+            province_name = province_ent.name if province_ent else province_id
+            entry = dict(
+                region_id=province_id,
+                region_name=province_name,
+                region_name_in_data="(computed)",
+                region_ent_type=EntType.PROVINCE.name,
+                total=sums["total"],
+            )
+            for field in self.field_list:
+                entry[field] = sums[field]
+            province_entries.append(entry)
+
+        return province_entries
+
     def __extract_data_d_list__(self):
         raw_table = self.extract_raw_table()
         raw_table = self.clean_raw_table(raw_table)
@@ -106,6 +145,8 @@ class PDFDataTableExtractDataMixin(
                 self.field_list, row, current_parent_id
             )
             d_list.append(d)
+        d_list.sort(key=lambda x: x["region_id"])
+        d_list += self.__compute_province_data__(d_list)
         d_list.sort(key=lambda x: x["region_id"])
         return d_list
 
