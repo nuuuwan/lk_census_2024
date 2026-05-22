@@ -1,7 +1,7 @@
 # 🇱🇰 Sri Lanka - Census of Population and Housing 2024
 
 ![CPH](https://img.shields.io/badge/CPH-2024-blue)
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--05--22_11:31:41-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--05--22_11:37:16-green)
 
 ## Original Source Documents
 
@@ -50,8 +50,7 @@ The following datasets have been extracted from the PDF source documents:
 ⚠️ **1** rows in data couldn't be matched to a known administrative entity
   - Kalmunai Tamil Division (`LK-52XX`)
 
-⚠️ **2** known administrative entities have no corresponding row in data
-  - Koralai Pattu (`LK-5109`)
+⚠️ **1** known administrative entities have no corresponding row in data
   - Welivitiya-Divitura (`LK-3130`)
 
 ### 02. [Population by ethnicity](data/Population-Preliminary-Report/Population-by-ethnicity)
@@ -90,9 +89,6 @@ The following datasets have been extracted from the PDF source documents:
 ⚠️ **1** rows in data couldn't be matched to a known administrative entity
   - Kalmunai Tamil Division (`LK-52XX`)
 
-⚠️ **1** known administrative entities have no corresponding row in data
-  - Koralai Pattu (`LK-5109`)
-
 ⚠️ **2** rows where 'total' field doesn't equal sum of other fields
   - Northern (`LK-4`) — total: 1,150,148, sum of fields: 1,150,150
   - Kilinochchi (`LK-45`) — total: 136,710, sum of fields: 136,712
@@ -129,9 +125,6 @@ The following datasets have been extracted from the PDF source documents:
 ⚠️ **1** rows in data couldn't be matched to a known administrative entity
   - Kalmunai Tamil Division (`LK-52XX`)
 
-⚠️ **1** known administrative entities have no corresponding row in data
-  - Koralai Pattu (`LK-5109`)
-
 ### 04. [Number of housing units by housing unit structure](data/Housing-Preliminary-Report/Number-of-housing-units-by-housing-unit-structure)
 
 - [📄 JSON](data/Housing-Preliminary-Report/Number-of-housing-units-by-housing-unit-structure/data.json)
@@ -167,9 +160,6 @@ The following datasets have been extracted from the PDF source documents:
 
 ⚠️ **1** rows in data couldn't be matched to a known administrative entity
   - Kalmunai Tamil Division (`LK-52XX`)
-
-⚠️ **1** known administrative entities have no corresponding row in data
-  - Koralai Pattu (`LK-5109`)
 
 ### 05. [Number of housing units by main material used for walls construction](data/Housing-Preliminary-Report/Number-of-housing-units-by-main-material-used-for-walls-construction)
 
@@ -208,9 +198,6 @@ The following datasets have been extracted from the PDF source documents:
 ⚠️ **1** rows in data couldn't be matched to a known administrative entity
   - Kalmunai Tamil Division (`LK-52XX`)
 
-⚠️ **1** known administrative entities have no corresponding row in data
-  - Koralai Pattu (`LK-5109`)
-
 ### 06. [Number of housing units by main material used for roof construction](data/Housing-Preliminary-Report/Number-of-housing-units-by-main-material-used-for-roof-construction)
 
 - [📄 JSON](data/Housing-Preliminary-Report/Number-of-housing-units-by-main-material-used-for-roof-construction/data.json)
@@ -244,9 +231,6 @@ The following datasets have been extracted from the PDF source documents:
 
 ⚠️ **1** rows in data couldn't be matched to a known administrative entity
   - Kalmunai Tamil Division (`LK-52XX`)
-
-⚠️ **1** known administrative entities have no corresponding row in data
-  - Koralai Pattu (`LK-5109`)
 
 ### 07. [Number of households by main material used for floor construction](data/Housing-Preliminary-Report/Number-of-households-by-main-material-used-for-floor-construction)
 
@@ -282,9 +266,6 @@ The following datasets have been extracted from the PDF source documents:
 ⚠️ **1** rows in data couldn't be matched to a known administrative entity
   - Kalmunai Tamil Division (`LK-52XX`)
 
-⚠️ **1** known administrative entities have no corresponding row in data
-  - Koralai Pattu (`LK-5109`)
-
 ### 08. [Number of households by main source of energy/fuel used for cooking](data/Housing-Preliminary-Report/Number-of-households-by-main-source-of-energyfuel-used-for-cooking)
 
 - [📄 JSON](data/Housing-Preliminary-Report/Number-of-households-by-main-source-of-energyfuel-used-for-cooking/data.json)
@@ -318,9 +299,6 @@ The following datasets have been extracted from the PDF source documents:
 
 ⚠️ **1** rows in data couldn't be matched to a known administrative entity
   - Kalmunai Tamil Division (`LK-52XX`)
-
-⚠️ **1** known administrative entities have no corresponding row in data
-  - Koralai Pattu (`LK-5109`)
 
 ### 09. [Number of households by main source of drinking water](data/Housing-Preliminary-Report/Number-of-households-by-main-source-of-drinking-water)
 
@@ -363,9 +341,6 @@ The following datasets have been extracted from the PDF source documents:
 ⚠️ **1** rows in data couldn't be matched to a known administrative entity
   - Kalmunai Tamil Division (`LK-52XX`)
 
-⚠️ **1** known administrative entities have no corresponding row in data
-  - Koralai Pattu (`LK-5109`)
-
 ### 10. [Number of households by source of lighting](data/Housing-Preliminary-Report/Number-of-households-by-source-of-lighting)
 
 - [📄 JSON](data/Housing-Preliminary-Report/Number-of-households-by-source-of-lighting/data.json)
@@ -399,9 +374,6 @@ The following datasets have been extracted from the PDF source documents:
 ⚠️ **1** rows in data couldn't be matched to a known administrative entity
   - Kalmunai Tamil Division (`LK-52XX`)
 
-⚠️ **1** known administrative entities have no corresponding row in data
-  - Koralai Pattu (`LK-5109`)
-
 ### 11. [Number of households using toilet facilities](data/Housing-Preliminary-Report/Number-of-households-using-toilet-facilities)
 
 - [📄 JSON](data/Housing-Preliminary-Report/Number-of-households-using-toilet-facilities/data.json)
@@ -434,9 +406,6 @@ The following datasets have been extracted from the PDF source documents:
 
 ⚠️ **1** rows in data couldn't be matched to a known administrative entity
   - Kalmunai Tamil Division (`LK-52XX`)
-
-⚠️ **1** known administrative entities have no corresponding row in data
-  - Koralai Pattu (`LK-5109`)
 
 ## XLSX Data Tables (8)
 
