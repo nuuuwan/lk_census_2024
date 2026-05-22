@@ -58,8 +58,6 @@ class PDFDataTableExtractDataMixin(
 
     @staticmethod
     def extract_datum(field_list, row, current_parent_id):
-        if current_parent_id == "LK-51":
-            print(row)
         region_name_in_data = row[0]
         region_name = region_name_in_data
 
