@@ -2820,21 +2820,6 @@
     "not_relevant": 11
   },
   {
-    "region_id": "LK-5104",
-    "region_name": "Koralai Pattu Central",
-    "region_name_in_data": "Koralai Pattu Valachchenai",
-    "region_ent_type": "dsd",
-    "total": 8313,
-    "tile": 6901,
-    "asbestos": 275,
-    "concrete": 437,
-    "zinc_aluminium_sheets": 160,
-    "metal_sheets": 107,
-    "kadjan_or_palmyrah_or_straw": 302,
-    "other": 118,
-    "not_relevant": 13
-  },
-  {
     "region_id": "LK-5106",
     "region_name": "Koralai Pattu West",
     "region_name_in_data": "Koralai Pattu West Oddamavadi",
@@ -2848,6 +2833,21 @@
     "kadjan_or_palmyrah_or_straw": 91,
     "other": 24,
     "not_relevant": 1
+  },
+  {
+    "region_id": "LK-5109",
+    "region_name": "Koralai Pattu",
+    "region_name_in_data": "Koralai Pattu Valachchenai",
+    "region_ent_type": "dsd",
+    "total": 8313,
+    "tile": 6901,
+    "asbestos": 275,
+    "concrete": 437,
+    "zinc_aluminium_sheets": 160,
+    "metal_sheets": 107,
+    "kadjan_or_palmyrah_or_straw": 302,
+    "other": 118,
+    "not_relevant": 13
   },
   {
     "region_id": "LK-5110",

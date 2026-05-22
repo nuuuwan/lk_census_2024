@@ -2820,21 +2820,6 @@
     "not_relevant": 64
   },
   {
-    "region_id": "LK-5104",
-    "region_name": "Koralai Pattu Central",
-    "region_name_in_data": "Koralai Pattu Valachchenai",
-    "region_ent_type": "dsd",
-    "total": 8379,
-    "firewood": 3930,
-    "kerosene": 309,
-    "gas": 4023,
-    "electricity": 67,
-    "saw_dust_or_paddy_husk": 2,
-    "bio_gas": 14,
-    "other": 1,
-    "not_relevant": 33
-  },
-  {
     "region_id": "LK-5106",
     "region_name": "Koralai Pattu West",
     "region_name_in_data": "Koralai Pattu West Oddamavadi",
@@ -2848,6 +2833,21 @@
     "bio_gas": 6,
     "other": 7,
     "not_relevant": 88
+  },
+  {
+    "region_id": "LK-5109",
+    "region_name": "Koralai Pattu",
+    "region_name_in_data": "Koralai Pattu Valachchenai",
+    "region_ent_type": "dsd",
+    "total": 8379,
+    "firewood": 3930,
+    "kerosene": 309,
+    "gas": 4023,
+    "electricity": 67,
+    "saw_dust_or_paddy_husk": 2,
+    "bio_gas": 14,
+    "other": 1,
+    "not_relevant": 33
   },
   {
     "region_id": "LK-5110",

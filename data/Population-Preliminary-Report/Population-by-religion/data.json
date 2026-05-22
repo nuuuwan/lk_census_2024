@@ -2444,19 +2444,6 @@
     "other": 0
   },
   {
-    "region_id": "LK-5104",
-    "region_name": "Koralai Pattu Central",
-    "region_name_in_data": "Koralai Pattu Valachchenai",
-    "region_ent_type": "dsd",
-    "total": 28762,
-    "buddhist": 569,
-    "hindu": 23383,
-    "islam": 94,
-    "roman_catholic": 1257,
-    "other_christian": 3459,
-    "other": 0
-  },
-  {
     "region_id": "LK-5106",
     "region_name": "Koralai Pattu West",
     "region_name_in_data": "Koralai Pattu West Oddamavadi",
@@ -2467,6 +2454,19 @@
     "islam": 24550,
     "roman_catholic": 1,
     "other_christian": 0,
+    "other": 0
+  },
+  {
+    "region_id": "LK-5109",
+    "region_name": "Koralai Pattu",
+    "region_name_in_data": "Koralai Pattu Valachchenai",
+    "region_ent_type": "dsd",
+    "total": 28762,
+    "buddhist": 569,
+    "hindu": 23383,
+    "islam": 94,
+    "roman_catholic": 1257,
+    "other_christian": 3459,
     "other": 0
   },
   {

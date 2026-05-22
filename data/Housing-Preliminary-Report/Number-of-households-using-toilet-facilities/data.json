@@ -2632,20 +2632,6 @@
     "other-not_using_a_toilet": 6
   },
   {
-    "region_id": "LK-5104",
-    "region_name": "Koralai Pattu Central",
-    "region_name_in_data": "Koralai Pattu Valachchenai",
-    "region_ent_type": "dsd",
-    "total": 8379,
-    "within_the_unit-exclusively_for_the_household": 3012,
-    "within_the_unit-sharing_with_another_household": 294,
-    "outside_the_unit-exclusively_for_the_household": 4054,
-    "outside_the_unit-sharing_with_another_household": 261,
-    "other-no_toilet_but_sharing_with_another_household": 678,
-    "other-common_or_public_toilet": 0,
-    "other-not_using_a_toilet": 80
-  },
-  {
     "region_id": "LK-5106",
     "region_name": "Koralai Pattu West",
     "region_name_in_data": "Koralai Pattu West Oddamavadi",
@@ -2658,6 +2644,20 @@
     "other-no_toilet_but_sharing_with_another_household": 84,
     "other-common_or_public_toilet": 0,
     "other-not_using_a_toilet": 11
+  },
+  {
+    "region_id": "LK-5109",
+    "region_name": "Koralai Pattu",
+    "region_name_in_data": "Koralai Pattu Valachchenai",
+    "region_ent_type": "dsd",
+    "total": 8379,
+    "within_the_unit-exclusively_for_the_household": 3012,
+    "within_the_unit-sharing_with_another_household": 294,
+    "outside_the_unit-exclusively_for_the_household": 4054,
+    "outside_the_unit-sharing_with_another_household": 261,
+    "other-no_toilet_but_sharing_with_another_household": 678,
+    "other-common_or_public_toilet": 0,
+    "other-not_using_a_toilet": 80
   },
   {
     "region_id": "LK-5110",

@@ -2820,21 +2820,6 @@
     "not_relevant": 11
   },
   {
-    "region_id": "LK-5104",
-    "region_name": "Koralai Pattu Central",
-    "region_name_in_data": "Koralai Pattu Valachchenai",
-    "region_ent_type": "dsd",
-    "total": 8313,
-    "cement": 7340,
-    "terrazzo_or_tile_or_granite_or_wood_or_titanium": 399,
-    "concrete": 278,
-    "mud": 7,
-    "wood": 1,
-    "sand": 271,
-    "other": 4,
-    "not_relevant": 13
-  },
-  {
     "region_id": "LK-5106",
     "region_name": "Koralai Pattu West",
     "region_name_in_data": "Koralai Pattu West Oddamavadi",
@@ -2848,6 +2833,21 @@
     "sand": 36,
     "other": 11,
     "not_relevant": 1
+  },
+  {
+    "region_id": "LK-5109",
+    "region_name": "Koralai Pattu",
+    "region_name_in_data": "Koralai Pattu Valachchenai",
+    "region_ent_type": "dsd",
+    "total": 8313,
+    "cement": 7340,
+    "terrazzo_or_tile_or_granite_or_wood_or_titanium": 399,
+    "concrete": 278,
+    "mud": 7,
+    "wood": 1,
+    "sand": 271,
+    "other": 4,
+    "not_relevant": 13
   },
   {
     "region_id": "LK-5110",

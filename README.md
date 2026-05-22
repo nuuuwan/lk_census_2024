@@ -1,7 +1,7 @@
 # 🇱🇰 Sri Lanka - Census of Population and Housing 2024
 
 ![CPH](https://img.shields.io/badge/CPH-2024-blue)
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--05--17_10:14:51-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--05--22_11:31:41-green)
 
 ## Original Source Documents
 
@@ -51,8 +51,8 @@ The following datasets have been extracted from the PDF source documents:
   - Kalmunai Tamil Division (`LK-52XX`)
 
 ⚠️ **2** known administrative entities have no corresponding row in data
-  - Welivitiya-Divitura (`LK-3130`)
   - Koralai Pattu (`LK-5109`)
+  - Welivitiya-Divitura (`LK-3130`)
 
 ### 02. [Population by ethnicity](data/Population-Preliminary-Report/Population-by-ethnicity)
 

@@ -3196,23 +3196,6 @@
     "other": 11
   },
   {
-    "region_id": "LK-5104",
-    "region_name": "Koralai Pattu Central",
-    "region_name_in_data": "Koralai Pattu Valachchenai",
-    "region_ent_type": "dsd",
-    "total": 8313,
-    "single_house_single_storeyed": 8035,
-    "single_house_two_storeyed": 260,
-    "single_house_more_than_two_storeyed": 2,
-    "attached_house_1st_floor": 1,
-    "attached_house_2nd_floor": 2,
-    "attached_house_3rd_or_4th_floor": 0,
-    "attached_house_5th_to_10th_floor": 0,
-    "attached_house_11th_to_19th_floor": 0,
-    "attached_house_from_20th_floor_or_more": 0,
-    "other": 13
-  },
-  {
     "region_id": "LK-5106",
     "region_name": "Koralai Pattu West",
     "region_name_in_data": "Koralai Pattu West Oddamavadi",
@@ -3228,6 +3211,23 @@
     "attached_house_11th_to_19th_floor": 0,
     "attached_house_from_20th_floor_or_more": 0,
     "other": 1
+  },
+  {
+    "region_id": "LK-5109",
+    "region_name": "Koralai Pattu",
+    "region_name_in_data": "Koralai Pattu Valachchenai",
+    "region_ent_type": "dsd",
+    "total": 8313,
+    "single_house_single_storeyed": 8035,
+    "single_house_two_storeyed": 260,
+    "single_house_more_than_two_storeyed": 2,
+    "attached_house_1st_floor": 1,
+    "attached_house_2nd_floor": 2,
+    "attached_house_3rd_or_4th_floor": 0,
+    "attached_house_5th_to_10th_floor": 0,
+    "attached_house_11th_to_19th_floor": 0,
+    "attached_house_from_20th_floor_or_more": 0,
+    "other": 13
   },
   {
     "region_id": "LK-5110",

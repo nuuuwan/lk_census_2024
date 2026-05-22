@@ -2431,19 +2431,6 @@
     "age-65-and-over": 1930
   },
   {
-    "region_id": "LK-5104",
-    "region_name": "Koralai Pattu Central",
-    "region_name_in_data": "Koralai Pattu Valachchenai",
-    "region_ent_type": "dsd",
-    "total": 28762,
-    "sex-male": 14086,
-    "sex-female": 14676,
-    "age-under-15": 6505,
-    "age-15-to-59": 19169,
-    "age-60-to-64": 1074,
-    "age-65-and-over": 2014
-  },
-  {
     "region_id": "LK-5106",
     "region_name": "Koralai Pattu West",
     "region_name_in_data": "Koralai Pattu West Oddamavadi",
@@ -2455,6 +2442,19 @@
     "age-15-to-59": 15163,
     "age-60-to-64": 1134,
     "age-65-and-over": 1864
+  },
+  {
+    "region_id": "LK-5109",
+    "region_name": "Koralai Pattu",
+    "region_name_in_data": "Koralai Pattu Valachchenai",
+    "region_ent_type": "dsd",
+    "total": 28762,
+    "sex-male": 14086,
+    "sex-female": 14676,
+    "age-under-15": 6505,
+    "age-15-to-59": 19169,
+    "age-60-to-64": 1074,
+    "age-65-and-over": 2014
   },
   {
     "region_id": "LK-5110",

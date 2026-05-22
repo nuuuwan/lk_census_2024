@@ -2632,20 +2632,6 @@
     "other": 24
   },
   {
-    "region_id": "LK-5104",
-    "region_name": "Koralai Pattu Central",
-    "region_name_in_data": "Koralai Pattu Valachchenai",
-    "region_ent_type": "dsd",
-    "total": 8379,
-    "electricity-from_national_grid_or_from_rural_hydro_power_project": 7770,
-    "kerosene_lamp": 592,
-    "solar_power_grid_connected": 1,
-    "solar_power_standalone": 4,
-    "bio_gas": 1,
-    "rural_water_supply_project": 1,
-    "other": 10
-  },
-  {
     "region_id": "LK-5106",
     "region_name": "Koralai Pattu West",
     "region_name_in_data": "Koralai Pattu West Oddamavadi",
@@ -2658,6 +2644,20 @@
     "bio_gas": 0,
     "rural_water_supply_project": 0,
     "other": 30
+  },
+  {
+    "region_id": "LK-5109",
+    "region_name": "Koralai Pattu",
+    "region_name_in_data": "Koralai Pattu Valachchenai",
+    "region_ent_type": "dsd",
+    "total": 8379,
+    "electricity-from_national_grid_or_from_rural_hydro_power_project": 7770,
+    "kerosene_lamp": 592,
+    "solar_power_grid_connected": 1,
+    "solar_power_standalone": 4,
+    "bio_gas": 1,
+    "rural_water_supply_project": 1,
+    "other": 10
   },
   {
     "region_id": "LK-5110",

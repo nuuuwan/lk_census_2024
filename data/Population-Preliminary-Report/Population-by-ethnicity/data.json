@@ -3196,23 +3196,6 @@
     "other": 1
   },
   {
-    "region_id": "LK-5104",
-    "region_name": "Koralai Pattu Central",
-    "region_name_in_data": "Koralai Pattu Valachchenai",
-    "region_ent_type": "dsd",
-    "total": 28762,
-    "sinhalese": 689,
-    "sri_lanka_tamil": 27792,
-    "indian_tamil_or_malaiyaga_thamilar": 35,
-    "sri_lanka_moor_or_muslim": 85,
-    "burgher": 160,
-    "malay": 0,
-    "sri_lanka_chetty": 0,
-    "bharatha": 0,
-    "veddhas": 0,
-    "other": 1
-  },
-  {
     "region_id": "LK-5106",
     "region_name": "Koralai Pattu West",
     "region_name_in_data": "Koralai Pattu West Oddamavadi",
@@ -3228,6 +3211,23 @@
     "bharatha": 0,
     "veddhas": 0,
     "other": 3
+  },
+  {
+    "region_id": "LK-5109",
+    "region_name": "Koralai Pattu",
+    "region_name_in_data": "Koralai Pattu Valachchenai",
+    "region_ent_type": "dsd",
+    "total": 28762,
+    "sinhalese": 689,
+    "sri_lanka_tamil": 27792,
+    "indian_tamil_or_malaiyaga_thamilar": 35,
+    "sri_lanka_moor_or_muslim": 85,
+    "burgher": 160,
+    "malay": 0,
+    "sri_lanka_chetty": 0,
+    "bharatha": 0,
+    "veddhas": 0,
+    "other": 1
   },
   {
     "region_id": "LK-5110",
