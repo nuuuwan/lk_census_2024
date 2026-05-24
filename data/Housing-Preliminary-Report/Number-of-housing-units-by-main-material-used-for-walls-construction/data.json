@@ -1440,6 +1440,24 @@
     "not_relevant": 47
   },
   {
+    "region_id": "LK-2302",
+    "region_name": "Kothmale West",
+    "region_name_in_data": "Kothmale West",
+    "region_ent_type": "dsd",
+    "total": 11360,
+    "brick": 409,
+    "cement_block": 8632,
+    "granite_or_cube_stones": 1878,
+    "cabook": 34,
+    "pressed_soil_bricks": 195,
+    "mud_or_warichchi": 116,
+    "kadjan_or_palmyrah": 0,
+    "plank_or_metal_sheet_or_asbestos": 87,
+    "zinc_aluminium_sheets": 2,
+    "other": 5,
+    "not_relevant": 2
+  },
+  {
     "region_id": "LK-2303",
     "region_name": "Kothmale East",
     "region_name_in_data": "Kothmale East",
@@ -1456,24 +1474,6 @@
     "zinc_aluminium_sheets": 12,
     "other": 19,
     "not_relevant": 4
-  },
-  {
-    "region_id": "LK-2304",
-    "region_name": "Kothmale West",
-    "region_name_in_data": "Kothmale West",
-    "region_ent_type": "dsd",
-    "total": 11360,
-    "brick": 409,
-    "cement_block": 8632,
-    "granite_or_cube_stones": 1878,
-    "cabook": 34,
-    "pressed_soil_bricks": 195,
-    "mud_or_warichchi": 116,
-    "kadjan_or_palmyrah": 0,
-    "plank_or_metal_sheet_or_asbestos": 87,
-    "zinc_aluminium_sheets": 2,
-    "other": 5,
-    "not_relevant": 2
   },
   {
     "region_id": "LK-2306",
@@ -1584,6 +1584,24 @@
     "not_relevant": 14
   },
   {
+    "region_id": "LK-2314",
+    "region_name": "Norwood",
+    "region_name_in_data": "Norwood",
+    "region_ent_type": "dsd",
+    "total": 41961,
+    "brick": 1090,
+    "cement_block": 33303,
+    "granite_or_cube_stones": 6290,
+    "cabook": 173,
+    "pressed_soil_bricks": 504,
+    "mud_or_warichchi": 331,
+    "kadjan_or_palmyrah": 3,
+    "plank_or_metal_sheet_or_asbestos": 217,
+    "zinc_aluminium_sheets": 26,
+    "other": 9,
+    "not_relevant": 15
+  },
+  {
     "region_id": "LK-2315",
     "region_name": "Ambagamuwa Korale",
     "region_name_in_data": "Ambagamuwa",
@@ -1600,24 +1618,6 @@
     "zinc_aluminium_sheets": 7,
     "other": 6,
     "not_relevant": 0
-  },
-  {
-    "region_id": "LK-2316",
-    "region_name": "Norwood",
-    "region_name_in_data": "Norwood",
-    "region_ent_type": "dsd",
-    "total": 41961,
-    "brick": 1090,
-    "cement_block": 33303,
-    "granite_or_cube_stones": 6290,
-    "cabook": 173,
-    "pressed_soil_bricks": 504,
-    "mud_or_warichchi": 331,
-    "kadjan_or_palmyrah": 3,
-    "plank_or_metal_sheet_or_asbestos": 217,
-    "zinc_aluminium_sheets": 26,
-    "other": 9,
-    "not_relevant": 15
   },
   {
     "region_id": "LK-3",
@@ -1890,6 +1890,24 @@
     "not_relevant": 0
   },
   {
+    "region_id": "LK-3135",
+    "region_name": "Madampagama",
+    "region_name_in_data": "Madampagama",
+    "region_ent_type": "dsd",
+    "total": 9143,
+    "brick": 2044,
+    "cement_block": 6726,
+    "granite_or_cube_stones": 47,
+    "cabook": 12,
+    "pressed_soil_bricks": 204,
+    "mud_or_warichchi": 66,
+    "kadjan_or_palmyrah": 0,
+    "plank_or_metal_sheet_or_asbestos": 42,
+    "zinc_aluminium_sheets": 2,
+    "other": 0,
+    "not_relevant": 0
+  },
+  {
     "region_id": "LK-3136",
     "region_name": "Hikkaduwa",
     "region_name_in_data": "Hikkaduwa",
@@ -1923,24 +1941,6 @@
     "plank_or_metal_sheet_or_asbestos": 64,
     "zinc_aluminium_sheets": 1,
     "other": 3,
-    "not_relevant": 0
-  },
-  {
-    "region_id": "LK-3138",
-    "region_name": "Madampagama",
-    "region_name_in_data": "Madampagama",
-    "region_ent_type": "dsd",
-    "total": 9143,
-    "brick": 2044,
-    "cement_block": 6726,
-    "granite_or_cube_stones": 47,
-    "cabook": 12,
-    "pressed_soil_bricks": 204,
-    "mud_or_warichchi": 66,
-    "kadjan_or_palmyrah": 0,
-    "plank_or_metal_sheet_or_asbestos": 42,
-    "zinc_aluminium_sheets": 2,
-    "other": 0,
     "not_relevant": 0
   },
   {
@@ -3438,7 +3438,7 @@
     "not_relevant": 0
   },
   {
-    "region_id": "LK-5115",
+    "region_id": "LK-5112",
     "region_name": "Eravur Pattu",
     "region_name_in_data": "Eravur Pattu",
     "region_ent_type": "dsd",
@@ -3454,6 +3454,24 @@
     "zinc_aluminium_sheets": 138,
     "other": 2,
     "not_relevant": 3
+  },
+  {
+    "region_id": "LK-5115",
+    "region_name": "Eravur Town",
+    "region_name_in_data": "Eravur Town",
+    "region_ent_type": "dsd",
+    "total": 7172,
+    "brick": 6702,
+    "cement_block": 299,
+    "granite_or_cube_stones": 4,
+    "cabook": 2,
+    "pressed_soil_bricks": 2,
+    "mud_or_warichchi": 2,
+    "kadjan_or_palmyrah": 7,
+    "plank_or_metal_sheet_or_asbestos": 136,
+    "zinc_aluminium_sheets": 12,
+    "other": 0,
+    "not_relevant": 6
   },
   {
     "region_id": "LK-5118",
@@ -3580,24 +3598,6 @@
     "zinc_aluminium_sheets": 75,
     "other": 1,
     "not_relevant": 14
-  },
-  {
-    "region_id": "LK-5139",
-    "region_name": "Eravur Town",
-    "region_name_in_data": "Eravur Town",
-    "region_ent_type": "dsd",
-    "total": 7172,
-    "brick": 6702,
-    "cement_block": 299,
-    "granite_or_cube_stones": 4,
-    "cabook": 2,
-    "pressed_soil_bricks": 2,
-    "mud_or_warichchi": 2,
-    "kadjan_or_palmyrah": 7,
-    "plank_or_metal_sheet_or_asbestos": 136,
-    "zinc_aluminium_sheets": 12,
-    "other": 0,
-    "not_relevant": 6
   },
   {
     "region_id": "LK-52",

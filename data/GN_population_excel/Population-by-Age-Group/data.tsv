@@ -3863,7 +3863,7 @@ LK-2206245	Embulambe	Embulambe	GND	953	204	577	47	125
 LK-2206250	Puwak Attawala	Puwak Attawala	GND	1005	252	608	59	86
 LK-2206255	Kalundewa Paranagama	Kalundewa Paranagama	GND	759	157	471	44	87
 LK-2206260	Walgamwewa	Walgamwewa	GND	1994	458	1217	100	219
-LK-2206265	Kiralessa	Kiralessa	GND	685	169	406	39	71
+LK-2206265	Kandalama	Kiralessa	GND	685	169	406	39	71
 LK-2206270	Pannampitiya	Pannampitiya	GND	1500	295	947	76	182
 LK-2206275	Welamitiyawa	Welamitiyawa	GND	471	109	278	26	58
 LK-2206280	Etha Bendiwewa	Athabandiwewa	GND	1750	388	1065	112	185
@@ -3993,7 +3993,7 @@ LK-2215130	Dangan Place	Dangan Place	GND	1650	365	1046	70	169
 LK-2215135	Alokagama	Alokagama	GND	591	164	330	33	64
 LK-2215140	Walpola	Walpola	GND	551	105	335	34	77
 LK-2215145	Maligathenna	Maligathenna	GND	530	141	297	28	64
-LK-2215150	Aluthwatta	Aluthwatta	GND	187	39	104	12	32
+LK-2215150	nan	Aluthwatta	GND	187	39	104	12	32
 LK-2215155	Ambanpola	Ambanpola	GND	583	107	335	38	103
 LK-2215160	Lakshahena	Lakshahena	GND	481	93	295	29	64
 LK-2215165	Deevilla South	Deevilla South	GND	509	141	284	25	59
@@ -4044,7 +4044,7 @@ LK-2218100	Kottagoda	Kottagoda	GND	1046	280	588	70	108
 LK-2218105	Owala Polwatta	Owala Polwatta	GND	1094	225	628	74	167
 LK-2218110	Makulgaharuppa	Makulgaharuppa	GND	1031	165	642	68	156
 LK-2218115	Udugama	Udugama	GND	758	118	422	64	154
-LK-2218120	Kirigalpotta	Kirigalpotta	GND	2143	446	1257	124	316
+LK-2218120	nan	Kirigalpotta	GND	2143	446	1257	124	316
 LK-2218125	Dunkalawatta	Dunkalawatta	GND	1647	373	940	108	226
 LK-2218130	Dorakumbura	Dorakumbura	GND	1985	385	1136	131	333
 LK-2218135	Biridewala	Biridewala	GND	984	235	562	64	123
@@ -4091,7 +4091,7 @@ LK-2221070	Kavudagammana	Kavudagammana	GND	440	105	250	25	60
 LK-2221075	Narangolla	Narangolla	GND	626	119	378	41	88
 LK-2221080	Hunukete	Hunukete	GND	1252	271	717	97	167
 LK-2221085	Metihakka	Metihakka	GND	1224	260	695	80	189
-LK-2221090	Aluthwela	Aluthwela	GND	606	137	314	43	112
+LK-2221090	nan	Aluthwela	GND	606	137	314	43	112
 LK-2221095	Cloda	Cloda	GND	616	118	377	31	90
 LK-2221100	Gurubebila	Gurubebila	GND	591	96	345	41	109
 LK-2224	Laggala	Laggala-Pallegama	DSD	16300	3394	9830	1027	2049
@@ -4298,7 +4298,7 @@ LK-2302	Kothmale West	Kothmale West	DSD	41955	9733	24198	2566	5458
 LK-2302005	Doruwadeniya	Doruwadeniya	GND	449	85	257	25	82
 LK-2302010	Polwathura	Polwathura	GND	720	155	431	43	91
 LK-2302015	Pahala Gorakaoya	Pahala Gorakaoya	GND	1762	510	1011	78	163
-LK-2302020	Dambagolla	Dambagolla	GND	920	246	532	49	93
+LK-2302020	Dambagalla	Dambagolla	GND	920	246	532	49	93
 LK-2302025	Nayapana	Nayapana	GND	1060	224	618	72	146
 LK-2302030	Kadadora	Kadadora	GND	1165	263	705	70	127
 LK-2302035	Kotagepitiya North	Kotagepitiya North	GND	516	122	285	41	68
@@ -4741,15 +4741,15 @@ LK-2314215	Hatton North	Hatton North	GND	7918	1740	4842	412	924
 LK-2314220	Dickoya	Dickoya	GND	3774	889	2334	169	382
 LK-2314225	Annfield	Annfield	GND	7246	1877	4177	344	848
 LK-2314230	Dickoya South	Dickoya South	GND	4233	1048	2503	220	462
-LK-2314235	Injustry	Injustry	GND	5121	1227	3049	278	567
+LK-2314235	Injuster	Injustry	GND	5121	1227	3049	278	567
 LK-2314240	Wanarajah	Wanarajah	GND	4476	1212	2562	223	479
-LK-2314245	New Weligama	New Weligama	GND	3890	915	2293	196	486
+LK-2314245	Newvalleygama	New Weligama	GND	3890	915	2293	196	486
 LK-2314250	Norwood	Norwood	GND	6681	1753	3855	326	747
 LK-2314255	Maskeliya	Maskeliya	GND	4212	1022	2497	186	507
 LK-2314260	Brownlow	Brownlow	GND	4589	1126	2684	229	550
 LK-2314265	Seethagangula	Seethagangula	GND	3994	1066	2303	227	398
 LK-2314270	Moray	Moray	GND	3464	991	1980	168	325
-LK-2314275	Moca	Moca	GND	3680	1022	2039	176	443
+LK-2314275	Mocha	Moca	GND	3680	1022	2039	176	443
 LK-2314280	Brownswick	Brownswick	GND	5079	1362	2823	290	604
 LK-2314285	Gawarawila	Gawarawila	GND	4945	1327	2819	268	531
 LK-2314290	Mahanelu	Mahanelu	GND	2496	598	1485	141	272
@@ -5178,10 +5178,10 @@ LK-3127095	Ganegama North	Ganegama North	GND	983	194	548	60	181
 LK-3127100	Sandarawala	Sandarawala	GND	736	135	401	48	152
 LK-3127105	Boralukada	Boralukada	GND	773	140	454	38	141
 LK-3127110	Mahahengoda	Mahahengoda	GND	1214	215	733	84	182
-LK-3127115	Mahalapitiya	Mahalapitiya	GND	1096	212	649	48	187
+LK-3127115	Pahala Keembiya	Mahalapitiya	GND	1096	212	649	48	187
 LK-3127120	Mahalapitiya	Pilagoda	GND	473	78	278	23	94
-LK-3127125	Thilaka Udagama	Thilaka Udagama	GND	459	79	292	20	68
-LK-3127130	Ganegama East	Ganegama East	GND	1969	372	1211	102	284
+LK-3127125	Warakapitikanda	Thilaka Udagama	GND	459	79	292	20	68
+LK-3127130	Ginimellagaha South	Ganegama East	GND	1969	372	1211	102	284
 LK-3127135	Thilaka Udagama	Ganegama South	GND	1109	221	618	54	216
 LK-3127140	Pilagoda	Ganegama West	GND	857	170	499	46	142
 LK-3127145	Ganegama East	Lelkada	GND	911	194	544	46	127
@@ -5199,7 +5199,7 @@ LK-3127200	Kasideniya	Pituwalgoda	GND	510	76	287	41	106
 LK-3127205	Thelikada Nagaraya	Thelikada Nagaraya	GND	531	125	289	21	96
 LK-3127210	Balagoda	Balagoda	GND	1021	218	574	55	174
 LK-3127215	Adurathvila	Adurathvila	GND	2388	465	1429	128	366
-LK-3127220	Kohombanadeniya	Kohombanadeniya	GND	1878	433	1125	88	232
+LK-3127220	Pituwalgoda	Kohombanadeniya	GND	1878	433	1125	88	232
 LK-3127225	Walpita South	Walpita South	GND	1256	244	797	69	146
 LK-3127230	Gonapura	Gonapura	GND	1239	257	735	59	188
 LK-3127235	Horagampita Central	Horagampita Central	GND	954	212	519	60	163
@@ -5317,7 +5317,7 @@ LK-3135040	Galagoda West	Galagoda West	GND	787	167	458	56	106
 LK-3135045	Kuleegoda East	Kuleegoda East	GND	825	203	455	47	120
 LK-3135050	Wellabada	Wellabada	GND	1188	246	712	65	165
 LK-3135055	Usmudulawa	Usmudulawa	GND	1420	290	828	86	216
-LK-3135060	wenamulla	wenamulla	GND	929	183	559	51	136
+LK-3135060	Wenamulla	wenamulla	GND	929	183	559	51	136
 LK-3135065	Dimbuldoowa	Dimbuldoowa	GND	995	222	621	41	111
 LK-3135070	Andurangoda	Andurangoda	GND	958	221	557	56	124
 LK-3135075	Galdoowa	Galdoowa	GND	814	133	504	53	124
@@ -5337,7 +5337,7 @@ LK-3135140	Thelwatta	Thelwatta	GND	907	210	520	76	101
 LK-3135145	Pereliya North	Pereliya North	GND	516	101	298	31	86
 LK-3135150	Pereliya South	Pereliya South	GND	231	49	130	14	38
 LK-3135155	Seenigama	Seenigama	GND	459	114	253	23	69
-LK-3135160	seenigama East	seenigama East	GND	664	142	396	45	81
+LK-3135160	Seenigama East	seenigama East	GND	664	142	396	45	81
 LK-3135165	Malawenna	Malawenna	GND	1807	389	1112	92	214
 LK-3135170	Kalupe	Kalupe	GND	1508	342	914	86	166
 LK-3135175	Udumulla	Udumulla	GND	1752	404	1069	93	186
@@ -8008,7 +8008,7 @@ LK-5112015	Sittandy 4	Sittandy 4	GND	2441	602	1565	103	171
 LK-5112020	Sittandy 1	Sittandy 1	GND	3436	959	2159	105	213
 LK-5112025	Mavadivembu 2	Mavadivembu 2	GND	2471	720	1550	74	127
 LK-5112030	Mavadivembu 1	Mavadivembu 1	GND	3621	987	2297	128	209
-LK-5112035	Kaluvankerny 1	Kaluvankerny 1	GND	2660	765	1652	89	154
+LK-5112035	Kaluwankerny 1	Kaluvankerny 1	GND	2660	765	1652	89	154
 LK-5112040	Kaluwankerny 2	Kaluwankerny 2	GND	2046	522	1305	82	137
 LK-5112045	Thalavai	Thalavai	GND	2400	641	1496	98	165
 LK-5112050	Iyankerny Tamil	Iyankerny Tamil	GND	3927	1074	2466	126	261
@@ -8017,46 +8017,46 @@ LK-5112060	Palachcholai	Palachcholai	GND	2401	595	1591	66	149
 LK-5112065	Vantharumoolai East	Vantharumoolai East	GND	5251	801	3992	142	316
 LK-5112070	Vantharumoolai West	Vantharumoolai West	GND	3662	855	2322	161	324
 LK-5112075	Eralakkulam	Eralakkulam	GND	873	177	545	60	91
-LK-5112080	Mailavaddavan	Mailavaddavan	GND	321	78	212	13	18
+LK-5112080	Mylavedduvan	Mailavaddavan	GND	321	78	212	13	18
 LK-5112085	Koduwamadu	Koduwamadu	GND	1439	389	896	58	96
 LK-5112090	Kommathurai West	Kommathurai West	GND	858	195	533	35	95
 LK-5112095	Kommathurai East	Kommathurai East	GND	1995	500	1232	84	179
-LK-5112100	Chenkalady 2	Chenkalady 2	GND	1801	444	1114	93	150
-LK-5112105	Chenkalady 1	Chenkalady 1	GND	3210	822	2011	127	250
+LK-5112100	Chenkalady-2	Chenkalady 2	GND	1801	444	1114	93	150
+LK-5112105	Chenkalady-1	Chenkalady 1	GND	3210	822	2011	127	250
 LK-5112110	Iyankerny Muslim	Iyankerny Muslim	GND	3271	975	1953	132	211
 LK-5112115	Meerakerny	Meerakerny	GND	6628	2094	3875	260	399
-LK-5112120	Mich Nagar	Mich Nagar	GND	7542	2410	4462	246	424
+LK-5112120	Michnagar	Mich Nagar	GND	7542	2410	4462	246	424
 LK-5112125	Savukkady	Savukkady	GND	2109	596	1303	78	132
 LK-5112130	Thannamunai	Thannamunai	GND	1802	433	1110	84	175
 LK-5112135	Mylampavely	Mylampavely	GND	3391	855	2114	142	280
-LK-5112140	Arumugathan kudiyiruppu 2	Arumugathan kudiyiruppu 2	GND	2172	510	1382	90	190
+LK-5112140	Arumugathan Kudiyiruppu 2	Arumugathan kudiyiruppu 2	GND	2172	510	1382	90	190
 LK-5112145	Arumugathan Kudiyiruppu 1	Arumugathan Kudiyiruppu 1	GND	1909	505	1179	88	137
-LK-5112150	Kumaraveliar Kiramam	Kumaraveliar Kiramam	GND	2141	489	1357	92	203
+LK-5112150	Kumaraveliyar Kiramam	Kumaraveliar Kiramam	GND	2141	489	1357	92	203
 LK-5112155	Pankudahvely	Pankudahvely	GND	1891	478	1192	72	149
 LK-5112160	Vepavedduwan	Vepavedduwan	GND	2823	737	1757	121	208
 LK-5112165	Karadiyanaru	Karadiyanaru	GND	1976	571	1198	79	128
 LK-5112170	Marappalam	Marappalam	GND	1576	335	1015	71	155
-LK-5112175	Kithulwewa	Kithulwewa	GND	1392	400	809	65	118
+LK-5112175	Kithul	Kithulwewa	GND	1392	400	809	65	118
 LK-5112180	Rugam	Rugam	GND	682	189	408	31	54
 LK-5112185	Koppavely	Koppavely	GND	911	229	569	44	69
 LK-5112190	Periyapullumalai	Periyapullumalai	GND	677	175	385	34	83
 LK-5112195	Gemunupura	Gemunupura	GND	1774	437	1127	76	134
-LK-5115	Eravur Pattu	Eravur Town	DSD	26468	7257	15813	1156	2242
-LK-5115005	Sittandy 3	Ellainagar	GND	1146	263	697	57	129
-LK-5115010	Sittandy 2	Eravur 04	GND	847	211	524	32	80
-LK-5115015	Sittandy 4	Eravur 03	GND	3337	996	1972	118	251
-LK-5115020	Sittandy 1	Eravur 03A	GND	3357	910	1992	172	283
-LK-5115025	Mavadivembu 2	Eravur 02	GND	1752	497	1048	81	126
-LK-5115030	Mavadivembu 1	Eravur 02B	GND	1098	307	670	43	78
-LK-5115035	Kaluwankerny 1	Eravur 02C	GND	2463	701	1489	103	170
-LK-5115040	Kaluwankerny 2	Eravur 02A	GND	1722	490	1003	91	138
-LK-5115045	Thalavai	Eravur 01B	GND	1750	482	1078	61	129
-LK-5115050	Iyankerny Tamil	Eravur 01	GND	1667	479	1024	61	103
-LK-5115055	Kommathurai North	Eravur 01A	GND	1665	455	995	66	149
-LK-5115060	Palachcholai	Eravur 06A	GND	1671	486	954	78	153
-LK-5115065	Vantharumoolai East	Eravur 06D	GND	1197	308	697	61	131
-LK-5115070	Vantharumoolai West	Eravur 06	GND	1242	332	704	56	150
-LK-5115075	Eralakkulam	Eravur 05	GND	1554	340	966	76	172
+LK-5115	Eravur Town	Eravur Town	DSD	26468	7257	15813	1156	2242
+LK-5115005	Ellainagar	Ellainagar	GND	1146	263	697	57	129
+LK-5115010	Eravur 04	Eravur 04	GND	847	211	524	32	80
+LK-5115015	Eravur 03	Eravur 03	GND	3337	996	1972	118	251
+LK-5115020	Eravur 03A	Eravur 03A	GND	3357	910	1992	172	283
+LK-5115025	Eravur 02	Eravur 02	GND	1752	497	1048	81	126
+LK-5115030	Eravur 02B	Eravur 02B	GND	1098	307	670	43	78
+LK-5115035	Eravur 02C	Eravur 02C	GND	2463	701	1489	103	170
+LK-5115040	Eravur 02A	Eravur 02A	GND	1722	490	1003	91	138
+LK-5115045	Eravur 01B	Eravur 01B	GND	1750	482	1078	61	129
+LK-5115050	Eravur 01	Eravur 01	GND	1667	479	1024	61	103
+LK-5115055	Eravur 01A	Eravur 01A	GND	1665	455	995	66	149
+LK-5115060	Eravur 06A	Eravur 06A	GND	1671	486	954	78	153
+LK-5115065	Eravur 06D	Eravur 06D	GND	1197	308	697	61	131
+LK-5115070	Eravur 06	Eravur 06	GND	1242	332	704	56	150
+LK-5115075	Eravur 05	Eravur 05	GND	1554	340	966	76	172
 LK-5118	Manmunai North	Manmunai North	DSD	95107	20079	60001	4876	10151
 LK-5118005	Palameenmadu	Palameenmadu	GND	1146	223	727	63	133
 LK-5118010	Navalady	Navalady	GND	423	68	294	23	38
@@ -8501,66 +8501,66 @@ LK-5218245	Valathapitty 02	Valathapitty 02	GND	235	64	140	9	22
 LK-5218250	Valathapitty 01	Valathapitty 01	GND	3560	1087	2142	129	202
 LK-5218255	Malwatte 04	Malwatte 04	GND	521	155	294	26	46
 LK-5221	Kalmunai	Kalmunai North Sub	DSD	31556	7504	19153	1655	3244
-LK-5221005	Periyaneelavanai 01B	Periyaneelavanai  01B	GND	1969	527	1176	103	163
-LK-5221010	Periyaneelavanai 01A	Periyaneelavanai  01A	GND	874	236	501	47	90
-LK-5221015	Periyaneelavanai 01	Periyaneelavanai  01	GND	1373	355	817	78	123
-LK-5221020	Periyaneelavanai 02	Periyaneelavanai  02	GND	3445	882	2147	159	257
-LK-5221025	Chenaikudiyiruppu 01A	Chenaikudiyiruppu 01A	GND	1462	365	890	74	133
-LK-5221030	Pandiruppu 01	Pandiruppu 01	GND	1076	251	656	53	116
-LK-5221035	Pandiruppu 01B	Pandiruppu 01B	GND	864	197	543	30	94
-LK-5221040	Pandiruppu 01C	Pandiruppu 01C	GND	809	178	480	43	108
-LK-5221045	Pandiruppu 01A	Pandiruppu 01A	GND	883	218	560	36	69
-LK-5221050	Pandiruppu 02	"Pandiruppu 02_x000D_
+LK-5221005	nan	Periyaneelavanai  01B	GND	1969	527	1176	103	163
+LK-5221010	nan	Periyaneelavanai  01A	GND	874	236	501	47	90
+LK-5221015	nan	Periyaneelavanai  01	GND	1373	355	817	78	123
+LK-5221020	nan	Periyaneelavanai  02	GND	3445	882	2147	159	257
+LK-5221025	nan	Chenaikudiyiruppu 01A	GND	1462	365	890	74	133
+LK-5221030	nan	Pandiruppu 01	GND	1076	251	656	53	116
+LK-5221035	nan	Pandiruppu 01B	GND	864	197	543	30	94
+LK-5221040	nan	Pandiruppu 01C	GND	809	178	480	43	108
+LK-5221045	nan	Pandiruppu 01A	GND	883	218	560	36	69
+LK-5221050	nan	"Pandiruppu 02_x000D_
 "	GND	1678	354	1024	96	204
-LK-5221055	Pandiruppu 02B	Pandiruppu 02B	GND	659	142	398	33	86
-LK-5221060	Pandiruppu 02C	Pandiruppu 02C	GND	1069	223	653	48	145
-LK-5221065	Pandiruppu 02A	Pandiruppu 02A	GND	818	186	502	38	92
-LK-5221070	Kalmunai 01D	Kalmunai  01D	GND	856	214	531	49	62
-LK-5221075	Kalmunai 01B	Kalmunai  01B	GND	468	97	274	36	61
-LK-5221080	Kalmunai 01A	Kalmunai  01A	GND	847	176	506	56	109
-LK-5221085	Kalmunai 01	Kalmunai  01	GND	1215	271	755	59	130
-LK-5221090	Natpiddimunai Td 03	Natpiddimunai (T.P ) 03	GND	1123	252	696	71	104
-LK-5221095	Natpiddimunai Td 02	Natpiddimunai (T.P ) 02	GND	1363	327	848	71	117
-LK-5221100	Natpiddimunai Td 01	Natpiddimunai (T.P ) 01	GND	881	218	505	45	113
-LK-5221105	Chenaikudiyiruppu 01B	Chenaikudiyiruppu 01B	GND	1049	281	599	50	119
-LK-5221110	Chenaikudiyiruppu 01	Chenaikudiyiruppu 01	GND	965	242	577	44	102
-LK-5221115	Kalmunai 01C	Kalmunai  01C	GND	717	170	426	45	76
-LK-5221120	Kalmunai 01E	Kalmunai  01E	GND	1031	239	637	62	93
-LK-5221125	Kalmunai 02B	Kalmunai  02B	GND	602	123	374	34	71
-LK-5221130	Kalmunai 02A	Kalmunai  02A	GND	912	203	551	49	109
-LK-5221135	Kalmunai 02	Kalmunai  02	GND	1256	270	772	64	150
-LK-5221140	Kalmunai 03	Kalmunai  03	GND	922	228	537	62	95
-LK-5221145	Kalmunai 03A	Kalmunai  03A	GND	370	79	218	20	53
+LK-5221055	nan	Pandiruppu 02B	GND	659	142	398	33	86
+LK-5221060	nan	Pandiruppu 02C	GND	1069	223	653	48	145
+LK-5221065	nan	Pandiruppu 02A	GND	818	186	502	38	92
+LK-5221070	nan	Kalmunai  01D	GND	856	214	531	49	62
+LK-5221075	nan	Kalmunai  01B	GND	468	97	274	36	61
+LK-5221080	nan	Kalmunai  01A	GND	847	176	506	56	109
+LK-5221085	nan	Kalmunai  01	GND	1215	271	755	59	130
+LK-5221090	nan	Natpiddimunai (T.P ) 03	GND	1123	252	696	71	104
+LK-5221095	nan	Natpiddimunai (T.P ) 02	GND	1363	327	848	71	117
+LK-5221100	nan	Natpiddimunai (T.P ) 01	GND	881	218	505	45	113
+LK-5221105	nan	Chenaikudiyiruppu 01B	GND	1049	281	599	50	119
+LK-5221110	nan	Chenaikudiyiruppu 01	GND	965	242	577	44	102
+LK-5221115	nan	Kalmunai  01C	GND	717	170	426	45	76
+LK-5221120	nan	Kalmunai  01E	GND	1031	239	637	62	93
+LK-5221125	nan	Kalmunai  02B	GND	602	123	374	34	71
+LK-5221130	nan	Kalmunai  02A	GND	912	203	551	49	109
+LK-5221135	nan	Kalmunai  02	GND	1256	270	772	64	150
+LK-5221140	nan	Kalmunai  03	GND	922	228	537	62	95
+LK-5221145	nan	Kalmunai  03A	GND	370	79	218	20	53
 LK-5224	Kalmunai	Kalmunai	DSD	52798	14465	31740	2562	4031
-LK-5224005	Periyaneelavanai  Muslim Section	Periyaneelavanai  Muslim Section	GND	2245	579	1356	145	165
-LK-5224010	Periyaneelavanai  Muslim Section	Periyaneelavanai  Muslim Section	GND	1199	325	746	54	74
-LK-5224015	Maruthamunai 01	Maruthamunai 01	GND	1141	226	797	45	73
-LK-5224020	Maruthamunai 02	Maruthamunai 02	GND	1419	336	905	75	103
-LK-5224025	Maruthamunai 03	Maruthamunai 03	GND	4840	1294	2979	223	344
-LK-5224030	Maruthamunai 04	Maruthamunai 04	GND	2162	554	1348	109	151
-LK-5224035	Maruthamunai 05	Maruthamunai 05	GND	1360	314	841	64	141
-LK-5224040	Maruthamunai 06	Maruthamunai 06	GND	4251	1072	2612	206	361
-LK-5224045	Natpiddimunai (M.P ) 03	Natpiddimunai (M.P ) 03	GND	1167	297	737	46	87
-LK-5224050	Natpiddimunai (M.P ) 02	Natpiddimunai (M.P ) 02	GND	877	235	523	45	74
-LK-5224055	Natpiddimunai (M.P ) 01	Natpiddimunai (M.P ) 01	GND	947	230	564	50	103
-LK-5224060	Natpiddimunai (M.P ) 05	Natpiddimunai (M.P ) 05	GND	1046	257	637	59	93
-LK-5224065	Natpiddimunai (M.P ) 04	Natpiddimunai (M.P ) 04	GND	1127	313	676	50	88
-LK-5224070	Islamabad & kalmunai Town	Islamabad & kalmunai Town	GND	1684	543	1007	66	68
-LK-5224075	Kalmunai Muslim Section	Kalmunai Muslim Section	GND	3546	1005	2144	158	239
-LK-5224080	Kalmunaikudi 01	Kalmunaikudi 01	GND	1565	467	911	63	124
-LK-5224085	Kalmunaikudi 03	Kalmunaikudi 03	GND	2880	879	1690	116	195
-LK-5224090	Kalmunaikudi 02	Kalmunaikudi 02	GND	1599	426	1017	72	84
-LK-5224095	Kalmunaikudi 04	Kalmunaikudi 04	GND	950	305	534	53	58
-LK-5224100	Kalmunaikudi 05	Kalmunaikudi 05	GND	1827	519	1057	95	156
-LK-5224105	Kalmunaikudi 06	Kalmunaikudi 06	GND	1281	373	727	62	119
-LK-5224110	Kalmunaikudi 08	Kalmunaikudi 08	GND	1117	270	676	60	111
-LK-5224115	Kalmunaikudi 09	Kalmunaikudi 09	GND	3267	1022	1837	161	247
-LK-5224120	Kalmunaikudi 07	Kalmunaikudi 07	GND	1792	515	1032	97	148
-LK-5224125	Kalmunaikudi 10	Kalmunaikudi 10	GND	1075	290	623	57	105
-LK-5224130	Kalmunaikudi 11	Kalmunaikudi 11	GND	1218	342	716	61	99
-LK-5224135	Kalmunaikudi 12	Kalmunaikudi 12	GND	1105	321	632	56	96
-LK-5224140	Kalmunaikudi 13	Kalmunaikudi 13	GND	1899	502	1126	108	163
-LK-5224145	Kalmunaikudi 14	Kalmunaikudi 14	GND	2212	654	1290	106	162
+LK-5224005	Periyaneelavanai 01B	Periyaneelavanai  Muslim Section	GND	2245	579	1356	145	165
+LK-5224010	Periyaneelavanai 01A	Periyaneelavanai  Muslim Section	GND	1199	325	746	54	74
+LK-5224015	Periyaneelavanai 01	Maruthamunai 01	GND	1141	226	797	45	73
+LK-5224020	Periyaneelavanai 02	Maruthamunai 02	GND	1419	336	905	75	103
+LK-5224025	Chenaikudiyiruppu 01A	Maruthamunai 03	GND	4840	1294	2979	223	344
+LK-5224030	Pandiruppu 01	Maruthamunai 04	GND	2162	554	1348	109	151
+LK-5224035	Pandiruppu 01B	Maruthamunai 05	GND	1360	314	841	64	141
+LK-5224040	Pandiruppu 01C	Maruthamunai 06	GND	4251	1072	2612	206	361
+LK-5224045	Pandiruppu 01A	Natpiddimunai (M.P ) 03	GND	1167	297	737	46	87
+LK-5224050	Pandiruppu 02	Natpiddimunai (M.P ) 02	GND	877	235	523	45	74
+LK-5224055	Pandiruppu 02B	Natpiddimunai (M.P ) 01	GND	947	230	564	50	103
+LK-5224060	Pandiruppu 02C	Natpiddimunai (M.P ) 05	GND	1046	257	637	59	93
+LK-5224065	Pandiruppu 02A	Natpiddimunai (M.P ) 04	GND	1127	313	676	50	88
+LK-5224070	Kalmunai 01D	Islamabad & kalmunai Town	GND	1684	543	1007	66	68
+LK-5224075	Kalmunai 01B	Kalmunai Muslim Section	GND	3546	1005	2144	158	239
+LK-5224080	Kalmunai 01A	Kalmunaikudi 01	GND	1565	467	911	63	124
+LK-5224085	Kalmunai 01	Kalmunaikudi 03	GND	2880	879	1690	116	195
+LK-5224090	Natpiddimunai Td 03	Kalmunaikudi 02	GND	1599	426	1017	72	84
+LK-5224095	Natpiddimunai Td 02	Kalmunaikudi 04	GND	950	305	534	53	58
+LK-5224100	Natpiddimunai Td 01	Kalmunaikudi 05	GND	1827	519	1057	95	156
+LK-5224105	Chenaikudiyiruppu 01B	Kalmunaikudi 06	GND	1281	373	727	62	119
+LK-5224110	Chenaikudiyiruppu 01	Kalmunaikudi 08	GND	1117	270	676	60	111
+LK-5224115	Kalmunai 01C	Kalmunaikudi 09	GND	3267	1022	1837	161	247
+LK-5224120	Kalmunai 01E	Kalmunaikudi 07	GND	1792	515	1032	97	148
+LK-5224125	Kalmunai 02B	Kalmunaikudi 10	GND	1075	290	623	57	105
+LK-5224130	Kalmunai 02A	Kalmunaikudi 11	GND	1218	342	716	61	99
+LK-5224135	Kalmunai 02	Kalmunaikudi 12	GND	1105	321	632	56	96
+LK-5224140	Kalmunai 03	Kalmunaikudi 13	GND	1899	502	1126	108	163
+LK-5224145	Kalmunai 03A	Kalmunaikudi 14	GND	2212	654	1290	106	162
 LK-5225	Sainthamaruthu	Sainthamaruthu	DSD	29873	8310	17638	1422	2503
 LK-5225005	Sainthamaruthu 01	Sainthamaruthu 01	GND	2169	572	1315	98	184
 LK-5225010	Sainthamaruthu 02	Sainthamaruthu 02	GND	2210	672	1291	94	153
@@ -13072,7 +13072,7 @@ LK-8215085	Viharamulla	Viharamulla	GND	3012	700	1891	131	290
 LK-8215090	Muppane	Muppane	GND	4155	941	2594	195	425
 LK-8215095	Maduruketiya	Maduruketiya	GND	5976	1479	3692	264	541
 LK-8215100	Kumbukkana	Kumbukkana	GND	2569	623	1611	119	216
-LK-8215105	Horombuwa	Horombuwa	GND	2587	605	1634	117	231
+LK-8215105	nan	Horombuwa	GND	2587	605	1634	117	231
 LK-8215110	Hulandawa South	Hulandawa South	GND	2614	535	1646	132	301
 LK-8215115	Marawa	Marawa	GND	1534	371	920	79	164
 LK-8215120	Veheragala	Veheragala	GND	1138	277	716	53	92
@@ -13096,7 +13096,7 @@ LK-8218070	Alupotha	Alupotha	GND	2471	761	1428	87	195
 LK-8218075	Wasipaha	Wasipaha	GND	1455	320	863	94	178
 LK-8218080	Badalkumbura	Badalkumbura	GND	1877	408	1211	95	163
 LK-8218085	Maligathenna	Maligathenna	GND	1385	338	799	85	163
-LK-8218090	Pussellawa	Pussellawa	GND	1618	400	970	82	166
+LK-8218090	nan	Pussellawa	GND	1618	400	970	82	166
 LK-8218095	Madukotan Arawa	Madukotan Arawa	GND	1035	224	581	63	167
 LK-8218100	Yakurawa	Yakurawa	GND	1419	291	879	69	180
 LK-8218105	Therappahuwa	Therappahuwa	GND	1744	373	1078	86	207
@@ -13438,15 +13438,15 @@ LK-9118040	Batugammana	Batugammana	GND	1188	270	709	63	146
 LK-9118045	Aldora	Aldora	GND	1473	349	861	66	197
 LK-9118050	Watawala	Watawala	GND	381	54	224	32	71
 LK-9118055	Mulgama	Mulgama	GND	576	125	327	42	82
-LK-9118060	Rajawaka	Rajawaka	GND	725	169	408	42	106
-LK-9118065	Bowatta	Bowatta	GND	1398	316	804	88	190
-LK-9118070	Vikiliya	Vikiliya	GND	1662	328	996	102	236
-LK-9118075	Thotupalathenna	Thotupalathenna	GND	1901	439	1135	85	242
-LK-9118080	Kirimetithenna	Kirimetithenna	GND	5142	1246	3097	242	557
-LK-9118085	Dehigasthalawa	Dehigasthalawa	GND	5186	1374	3089	246	477
-LK-9118090	Balangoda Town	Balangoda Town	GND	2075	447	1214	103	311
-LK-9118095	Balangoda	Balangoda	GND	4484	975	2723	221	565
-LK-9118100	Jahinkanda	Jahinkanda	GND	1571	361	935	77	198
+LK-9118060	Damahana	Rajawaka	GND	725	169	408	42	106
+LK-9118065	Godakumbura	Bowatta	GND	1398	316	804	88	190
+LK-9118070	Imbulamura	Vikiliya	GND	1662	328	996	102	236
+LK-9118075	Mahawalathenna	Thotupalathenna	GND	1901	439	1135	85	242
+LK-9118080	Theladiriya	Kirimetithenna	GND	5142	1246	3097	242	557
+LK-9118085	Mawela	Dehigasthalawa	GND	5186	1374	3089	246	477
+LK-9118090	Welage	Balangoda Town	GND	2075	447	1214	103	311
+LK-9118095	Gawaranhena	Balangoda	GND	4484	975	2723	221	565
+LK-9118100	Horaketiya	Jahinkanda	GND	1571	361	935	77	198
 LK-9118105	Rajawaka	Meddekanda	GND	1359	292	783	80	204
 LK-9118110	Bowatta	Ellewatta	GND	1874	425	1126	84	239
 LK-9118115	Vikiliya	Polwathugoda	GND	1719	384	1047	87	201
@@ -13470,7 +13470,7 @@ LK-9118200	Thalangama	"Gawaranhena
 "	GND	1218	240	720	77	181
 LK-9118205	Kumara Gama	Horaketiya	GND	1053	212	625	54	162
 LK-9119	Kalthota	Kaltota	DSD	13018	2772	7588	759	1899
-LK-9119005	Thanjanthenna	Thanjanthenna	GND	1728	369	1010	102	247
+LK-9119005	Diyavinna	Thanjanthenna	GND	1728	369	1010	102	247
 LK-9119010	Kalthota	Kalthota	GND	1038	191	583	74	190
 LK-9119015	Uggalkalthota Left Bank South	Uggalkalthota Left Bank South	GND	771	168	427	58	118
 LK-9119020	Medabedda	Medabedda	GND	701	152	411	36	102

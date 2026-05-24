@@ -1120,6 +1120,20 @@
     "other": 400
   },
   {
+    "region_id": "LK-2302",
+    "region_name": "Kothmale West",
+    "region_name_in_data": "Kothmale West",
+    "region_ent_type": "dsd",
+    "total": 11632,
+    "electricity-from_national_grid_or_from_rural_hydro_power_project": 11443,
+    "kerosene_lamp": 168,
+    "solar_power_grid_connected": 0,
+    "solar_power_standalone": 2,
+    "bio_gas": 0,
+    "rural_water_supply_project": 1,
+    "other": 18
+  },
+  {
     "region_id": "LK-2303",
     "region_name": "Kothmale East",
     "region_name_in_data": "Kothmale East",
@@ -1132,20 +1146,6 @@
     "bio_gas": 0,
     "rural_water_supply_project": 2,
     "other": 17
-  },
-  {
-    "region_id": "LK-2304",
-    "region_name": "Kothmale West",
-    "region_name_in_data": "Kothmale West",
-    "region_ent_type": "dsd",
-    "total": 11632,
-    "electricity-from_national_grid_or_from_rural_hydro_power_project": 11443,
-    "kerosene_lamp": 168,
-    "solar_power_grid_connected": 0,
-    "solar_power_standalone": 2,
-    "bio_gas": 0,
-    "rural_water_supply_project": 1,
-    "other": 18
   },
   {
     "region_id": "LK-2306",
@@ -1232,6 +1232,20 @@
     "other": 93
   },
   {
+    "region_id": "LK-2314",
+    "region_name": "Norwood",
+    "region_name_in_data": "Norwood",
+    "region_ent_type": "dsd",
+    "total": 44120,
+    "electricity-from_national_grid_or_from_rural_hydro_power_project": 43138,
+    "kerosene_lamp": 824,
+    "solar_power_grid_connected": 17,
+    "solar_power_standalone": 7,
+    "bio_gas": 8,
+    "rural_water_supply_project": 25,
+    "other": 101
+  },
+  {
     "region_id": "LK-2315",
     "region_name": "Ambagamuwa Korale",
     "region_name_in_data": "Ambagamuwa",
@@ -1244,20 +1258,6 @@
     "bio_gas": 0,
     "rural_water_supply_project": 1,
     "other": 20
-  },
-  {
-    "region_id": "LK-2316",
-    "region_name": "Norwood",
-    "region_name_in_data": "Norwood",
-    "region_ent_type": "dsd",
-    "total": 44120,
-    "electricity-from_national_grid_or_from_rural_hydro_power_project": 43138,
-    "kerosene_lamp": 824,
-    "solar_power_grid_connected": 17,
-    "solar_power_standalone": 7,
-    "bio_gas": 8,
-    "rural_water_supply_project": 25,
-    "other": 101
   },
   {
     "region_id": "LK-3",
@@ -1470,6 +1470,20 @@
     "other": 13
   },
   {
+    "region_id": "LK-3135",
+    "region_name": "Madampagama",
+    "region_name_in_data": "Madampagama",
+    "region_ent_type": "dsd",
+    "total": 9205,
+    "electricity-from_national_grid_or_from_rural_hydro_power_project": 9095,
+    "kerosene_lamp": 63,
+    "solar_power_grid_connected": 9,
+    "solar_power_standalone": 4,
+    "bio_gas": 0,
+    "rural_water_supply_project": 0,
+    "other": 34
+  },
+  {
     "region_id": "LK-3136",
     "region_name": "Hikkaduwa",
     "region_name_in_data": "Hikkaduwa",
@@ -1496,20 +1510,6 @@
     "bio_gas": 0,
     "rural_water_supply_project": 1,
     "other": 15
-  },
-  {
-    "region_id": "LK-3138",
-    "region_name": "Madampagama",
-    "region_name_in_data": "Madampagama",
-    "region_ent_type": "dsd",
-    "total": 9205,
-    "electricity-from_national_grid_or_from_rural_hydro_power_project": 9095,
-    "kerosene_lamp": 63,
-    "solar_power_grid_connected": 9,
-    "solar_power_standalone": 4,
-    "bio_gas": 0,
-    "rural_water_supply_project": 0,
-    "other": 34
   },
   {
     "region_id": "LK-3139",
@@ -2674,7 +2674,7 @@
     "other": 12
   },
   {
-    "region_id": "LK-5115",
+    "region_id": "LK-5112",
     "region_name": "Eravur Pattu",
     "region_name_in_data": "Eravur Pattu",
     "region_ent_type": "dsd",
@@ -2686,6 +2686,20 @@
     "bio_gas": 0,
     "rural_water_supply_project": 6,
     "other": 29
+  },
+  {
+    "region_id": "LK-5115",
+    "region_name": "Eravur Town",
+    "region_name_in_data": "Eravur Town",
+    "region_ent_type": "dsd",
+    "total": 7214,
+    "electricity-from_national_grid_or_from_rural_hydro_power_project": 7112,
+    "kerosene_lamp": 90,
+    "solar_power_grid_connected": 5,
+    "solar_power_standalone": 1,
+    "bio_gas": 0,
+    "rural_water_supply_project": 1,
+    "other": 5
   },
   {
     "region_id": "LK-5118",
@@ -2784,20 +2798,6 @@
     "bio_gas": 0,
     "rural_water_supply_project": 0,
     "other": 8
-  },
-  {
-    "region_id": "LK-5139",
-    "region_name": "Eravur Town",
-    "region_name_in_data": "Eravur Town",
-    "region_ent_type": "dsd",
-    "total": 7214,
-    "electricity-from_national_grid_or_from_rural_hydro_power_project": 7112,
-    "kerosene_lamp": 90,
-    "solar_power_grid_connected": 5,
-    "solar_power_standalone": 1,
-    "bio_gas": 0,
-    "rural_water_supply_project": 1,
-    "other": 5
   },
   {
     "region_id": "LK-52",

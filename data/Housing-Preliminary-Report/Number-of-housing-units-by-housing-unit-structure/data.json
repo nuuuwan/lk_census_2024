@@ -1360,6 +1360,23 @@
     "other": 47
   },
   {
+    "region_id": "LK-2302",
+    "region_name": "Kothmale West",
+    "region_name_in_data": "Kothmale West",
+    "region_ent_type": "dsd",
+    "total": 11360,
+    "single_house_single_storeyed": 9306,
+    "single_house_two_storeyed": 834,
+    "single_house_more_than_two_storeyed": 69,
+    "attached_house_1st_floor": 1118,
+    "attached_house_2nd_floor": 31,
+    "attached_house_3rd_or_4th_floor": 0,
+    "attached_house_5th_to_10th_floor": 0,
+    "attached_house_11th_to_19th_floor": 0,
+    "attached_house_from_20th_floor_or_more": 0,
+    "other": 2
+  },
+  {
     "region_id": "LK-2303",
     "region_name": "Kothmale East",
     "region_name_in_data": "Kothmale East",
@@ -1375,23 +1392,6 @@
     "attached_house_11th_to_19th_floor": 0,
     "attached_house_from_20th_floor_or_more": 0,
     "other": 4
-  },
-  {
-    "region_id": "LK-2304",
-    "region_name": "Kothmale West",
-    "region_name_in_data": "Kothmale West",
-    "region_ent_type": "dsd",
-    "total": 11360,
-    "single_house_single_storeyed": 9306,
-    "single_house_two_storeyed": 834,
-    "single_house_more_than_two_storeyed": 69,
-    "attached_house_1st_floor": 1118,
-    "attached_house_2nd_floor": 31,
-    "attached_house_3rd_or_4th_floor": 0,
-    "attached_house_5th_to_10th_floor": 0,
-    "attached_house_11th_to_19th_floor": 0,
-    "attached_house_from_20th_floor_or_more": 0,
-    "other": 2
   },
   {
     "region_id": "LK-2306",
@@ -1496,6 +1496,23 @@
     "other": 14
   },
   {
+    "region_id": "LK-2314",
+    "region_name": "Norwood",
+    "region_name_in_data": "Norwood",
+    "region_ent_type": "dsd",
+    "total": 41961,
+    "single_house_single_storeyed": 16166,
+    "single_house_two_storeyed": 2432,
+    "single_house_more_than_two_storeyed": 866,
+    "attached_house_1st_floor": 19280,
+    "attached_house_2nd_floor": 1793,
+    "attached_house_3rd_or_4th_floor": 1409,
+    "attached_house_5th_to_10th_floor": 0,
+    "attached_house_11th_to_19th_floor": 0,
+    "attached_house_from_20th_floor_or_more": 0,
+    "other": 15
+  },
+  {
     "region_id": "LK-2315",
     "region_name": "Ambagamuwa Korale",
     "region_name_in_data": "Ambagamuwa",
@@ -1511,23 +1528,6 @@
     "attached_house_11th_to_19th_floor": 0,
     "attached_house_from_20th_floor_or_more": 0,
     "other": 0
-  },
-  {
-    "region_id": "LK-2316",
-    "region_name": "Norwood",
-    "region_name_in_data": "Norwood",
-    "region_ent_type": "dsd",
-    "total": 41961,
-    "single_house_single_storeyed": 16166,
-    "single_house_two_storeyed": 2432,
-    "single_house_more_than_two_storeyed": 866,
-    "attached_house_1st_floor": 19280,
-    "attached_house_2nd_floor": 1793,
-    "attached_house_3rd_or_4th_floor": 1409,
-    "attached_house_5th_to_10th_floor": 0,
-    "attached_house_11th_to_19th_floor": 0,
-    "attached_house_from_20th_floor_or_more": 0,
-    "other": 15
   },
   {
     "region_id": "LK-3",
@@ -1785,6 +1785,23 @@
     "other": 0
   },
   {
+    "region_id": "LK-3135",
+    "region_name": "Madampagama",
+    "region_name_in_data": "Madampagama",
+    "region_ent_type": "dsd",
+    "total": 9143,
+    "single_house_single_storeyed": 8058,
+    "single_house_two_storeyed": 919,
+    "single_house_more_than_two_storeyed": 17,
+    "attached_house_1st_floor": 18,
+    "attached_house_2nd_floor": 80,
+    "attached_house_3rd_or_4th_floor": 51,
+    "attached_house_5th_to_10th_floor": 0,
+    "attached_house_11th_to_19th_floor": 0,
+    "attached_house_from_20th_floor_or_more": 0,
+    "other": 0
+  },
+  {
     "region_id": "LK-3136",
     "region_name": "Hikkaduwa",
     "region_name_in_data": "Hikkaduwa",
@@ -1813,23 +1830,6 @@
     "attached_house_1st_floor": 11,
     "attached_house_2nd_floor": 4,
     "attached_house_3rd_or_4th_floor": 0,
-    "attached_house_5th_to_10th_floor": 0,
-    "attached_house_11th_to_19th_floor": 0,
-    "attached_house_from_20th_floor_or_more": 0,
-    "other": 0
-  },
-  {
-    "region_id": "LK-3138",
-    "region_name": "Madampagama",
-    "region_name_in_data": "Madampagama",
-    "region_ent_type": "dsd",
-    "total": 9143,
-    "single_house_single_storeyed": 8058,
-    "single_house_two_storeyed": 919,
-    "single_house_more_than_two_storeyed": 17,
-    "attached_house_1st_floor": 18,
-    "attached_house_2nd_floor": 80,
-    "attached_house_3rd_or_4th_floor": 51,
     "attached_house_5th_to_10th_floor": 0,
     "attached_house_11th_to_19th_floor": 0,
     "attached_house_from_20th_floor_or_more": 0,
@@ -3247,7 +3247,7 @@
     "other": 0
   },
   {
-    "region_id": "LK-5115",
+    "region_id": "LK-5112",
     "region_name": "Eravur Pattu",
     "region_name_in_data": "Eravur Pattu",
     "region_ent_type": "dsd",
@@ -3262,6 +3262,23 @@
     "attached_house_11th_to_19th_floor": 0,
     "attached_house_from_20th_floor_or_more": 0,
     "other": 3
+  },
+  {
+    "region_id": "LK-5115",
+    "region_name": "Eravur Town",
+    "region_name_in_data": "Eravur Town",
+    "region_ent_type": "dsd",
+    "total": 7172,
+    "single_house_single_storeyed": 6338,
+    "single_house_two_storeyed": 788,
+    "single_house_more_than_two_storeyed": 27,
+    "attached_house_1st_floor": 10,
+    "attached_house_2nd_floor": 2,
+    "attached_house_3rd_or_4th_floor": 1,
+    "attached_house_5th_to_10th_floor": 0,
+    "attached_house_11th_to_19th_floor": 0,
+    "attached_house_from_20th_floor_or_more": 0,
+    "other": 6
   },
   {
     "region_id": "LK-5118",
@@ -3381,23 +3398,6 @@
     "attached_house_11th_to_19th_floor": 0,
     "attached_house_from_20th_floor_or_more": 0,
     "other": 14
-  },
-  {
-    "region_id": "LK-5139",
-    "region_name": "Eravur Town",
-    "region_name_in_data": "Eravur Town",
-    "region_ent_type": "dsd",
-    "total": 7172,
-    "single_house_single_storeyed": 6338,
-    "single_house_two_storeyed": 788,
-    "single_house_more_than_two_storeyed": 27,
-    "attached_house_1st_floor": 10,
-    "attached_house_2nd_floor": 2,
-    "attached_house_3rd_or_4th_floor": 1,
-    "attached_house_5th_to_10th_floor": 0,
-    "attached_house_11th_to_19th_floor": 0,
-    "attached_house_from_20th_floor_or_more": 0,
-    "other": 6
   },
   {
     "region_id": "LK-52",

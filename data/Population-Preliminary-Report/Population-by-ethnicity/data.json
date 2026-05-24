@@ -1360,6 +1360,23 @@
     "other": 51
   },
   {
+    "region_id": "LK-2302",
+    "region_name": "Kothmale West",
+    "region_name_in_data": "Kothmale West",
+    "region_ent_type": "dsd",
+    "total": 41955,
+    "sinhalese": 26683,
+    "sri_lanka_tamil": 4882,
+    "indian_tamil_or_malaiyaga_thamilar": 3271,
+    "sri_lanka_moor_or_muslim": 7078,
+    "burgher": 35,
+    "malay": 3,
+    "sri_lanka_chetty": 0,
+    "bharatha": 0,
+    "veddhas": 0,
+    "other": 3
+  },
+  {
     "region_id": "LK-2303",
     "region_name": "Kothmale East",
     "region_name_in_data": "Kothmale East",
@@ -1375,23 +1392,6 @@
     "bharatha": 1,
     "veddhas": 0,
     "other": 2
-  },
-  {
-    "region_id": "LK-2304",
-    "region_name": "Kothmale West",
-    "region_name_in_data": "Kothmale West",
-    "region_ent_type": "dsd",
-    "total": 41955,
-    "sinhalese": 26683,
-    "sri_lanka_tamil": 4882,
-    "indian_tamil_or_malaiyaga_thamilar": 3271,
-    "sri_lanka_moor_or_muslim": 7078,
-    "burgher": 35,
-    "malay": 3,
-    "sri_lanka_chetty": 0,
-    "bharatha": 0,
-    "veddhas": 0,
-    "other": 3
   },
   {
     "region_id": "LK-2306",
@@ -1496,6 +1496,23 @@
     "other": 12
   },
   {
+    "region_id": "LK-2314",
+    "region_name": "Norwood",
+    "region_name_in_data": "Norwood",
+    "region_ent_type": "dsd",
+    "total": 161367,
+    "sinhalese": 9267,
+    "sri_lanka_tamil": 6169,
+    "indian_tamil_or_malaiyaga_thamilar": 140727,
+    "sri_lanka_moor_or_muslim": 4768,
+    "burgher": 335,
+    "malay": 91,
+    "sri_lanka_chetty": 4,
+    "bharatha": 4,
+    "veddhas": 0,
+    "other": 2
+  },
+  {
     "region_id": "LK-2315",
     "region_name": "Ambagamuwa Korale",
     "region_name_in_data": "Ambagamuwa",
@@ -1511,23 +1528,6 @@
     "bharatha": 1,
     "veddhas": 0,
     "other": 10
-  },
-  {
-    "region_id": "LK-2316",
-    "region_name": "Norwood",
-    "region_name_in_data": "Norwood",
-    "region_ent_type": "dsd",
-    "total": 161367,
-    "sinhalese": 9267,
-    "sri_lanka_tamil": 6169,
-    "indian_tamil_or_malaiyaga_thamilar": 140727,
-    "sri_lanka_moor_or_muslim": 4768,
-    "burgher": 335,
-    "malay": 91,
-    "sri_lanka_chetty": 4,
-    "bharatha": 4,
-    "veddhas": 0,
-    "other": 2
   },
   {
     "region_id": "LK-3",
@@ -1785,6 +1785,23 @@
     "other": 30
   },
   {
+    "region_id": "LK-3135",
+    "region_name": "Madampagama",
+    "region_name_in_data": "Madampagama",
+    "region_ent_type": "dsd",
+    "total": 33408,
+    "sinhalese": 33335,
+    "sri_lanka_tamil": 32,
+    "indian_tamil_or_malaiyaga_thamilar": 7,
+    "sri_lanka_moor_or_muslim": 22,
+    "burgher": 2,
+    "malay": 4,
+    "sri_lanka_chetty": 0,
+    "bharatha": 0,
+    "veddhas": 0,
+    "other": 6
+  },
+  {
     "region_id": "LK-3136",
     "region_name": "Hikkaduwa",
     "region_name_in_data": "Hikkaduwa",
@@ -1817,23 +1834,6 @@
     "bharatha": 2,
     "veddhas": 0,
     "other": 19
-  },
-  {
-    "region_id": "LK-3138",
-    "region_name": "Madampagama",
-    "region_name_in_data": "Madampagama",
-    "region_ent_type": "dsd",
-    "total": 33408,
-    "sinhalese": 33335,
-    "sri_lanka_tamil": 32,
-    "indian_tamil_or_malaiyaga_thamilar": 7,
-    "sri_lanka_moor_or_muslim": 22,
-    "burgher": 2,
-    "malay": 4,
-    "sri_lanka_chetty": 0,
-    "bharatha": 0,
-    "veddhas": 0,
-    "other": 6
   },
   {
     "region_id": "LK-3139",
@@ -3247,7 +3247,7 @@
     "other": 0
   },
   {
-    "region_id": "LK-5115",
+    "region_id": "LK-5112",
     "region_name": "Eravur Pattu",
     "region_name_in_data": "Eravur Pattu",
     "region_ent_type": "dsd",
@@ -3262,6 +3262,23 @@
     "bharatha": 0,
     "veddhas": 1,
     "other": 50
+  },
+  {
+    "region_id": "LK-5115",
+    "region_name": "Eravur Town",
+    "region_name_in_data": "Eravur Town",
+    "region_ent_type": "dsd",
+    "total": 26468,
+    "sinhalese": 52,
+    "sri_lanka_tamil": 3236,
+    "indian_tamil_or_malaiyaga_thamilar": 21,
+    "sri_lanka_moor_or_muslim": 23087,
+    "burgher": 70,
+    "malay": 1,
+    "sri_lanka_chetty": 0,
+    "bharatha": 0,
+    "veddhas": 0,
+    "other": 1
   },
   {
     "region_id": "LK-5118",
@@ -3380,23 +3397,6 @@
     "sri_lanka_chetty": 0,
     "bharatha": 7,
     "veddhas": 2,
-    "other": 1
-  },
-  {
-    "region_id": "LK-5139",
-    "region_name": "Eravur Town",
-    "region_name_in_data": "Eravur Town",
-    "region_ent_type": "dsd",
-    "total": 26468,
-    "sinhalese": 52,
-    "sri_lanka_tamil": 3236,
-    "indian_tamil_or_malaiyaga_thamilar": 21,
-    "sri_lanka_moor_or_muslim": 23087,
-    "burgher": 70,
-    "malay": 1,
-    "sri_lanka_chetty": 0,
-    "bharatha": 0,
-    "veddhas": 0,
     "other": 1
   },
   {

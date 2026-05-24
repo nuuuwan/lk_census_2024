@@ -1,7 +1,7 @@
 # 🇱🇰 Sri Lanka - Census of Population and Housing 2024
 
 ![CPH](https://img.shields.io/badge/CPH-2024-blue)
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--05--22_11:37:16-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--05--24_16:23:34-green)
 
 ## Original Source Documents
 
@@ -50,8 +50,9 @@ The following datasets have been extracted from the PDF source documents:
 ⚠️ **1** rows in data couldn't be matched to a known administrative entity
   - Kalmunai Tamil Division (`LK-52XX`)
 
-⚠️ **1** known administrative entities have no corresponding row in data
+⚠️ **2** known administrative entities have no corresponding row in data
   - Welivitiya-Divitura (`LK-3130`)
+  - Kalmunai (`LK-5224`)
 
 ### 02. [Population by ethnicity](data/Population-Preliminary-Report/Population-by-ethnicity)
 
@@ -89,6 +90,9 @@ The following datasets have been extracted from the PDF source documents:
 ⚠️ **1** rows in data couldn't be matched to a known administrative entity
   - Kalmunai Tamil Division (`LK-52XX`)
 
+⚠️ **1** known administrative entities have no corresponding row in data
+  - Kalmunai (`LK-5224`)
+
 ⚠️ **2** rows where 'total' field doesn't equal sum of other fields
   - Northern (`LK-4`) — total: 1,150,148, sum of fields: 1,150,150
   - Kilinochchi (`LK-45`) — total: 136,710, sum of fields: 136,712
@@ -125,6 +129,9 @@ The following datasets have been extracted from the PDF source documents:
 ⚠️ **1** rows in data couldn't be matched to a known administrative entity
   - Kalmunai Tamil Division (`LK-52XX`)
 
+⚠️ **1** known administrative entities have no corresponding row in data
+  - Kalmunai (`LK-5224`)
+
 ### 04. [Number of housing units by housing unit structure](data/Housing-Preliminary-Report/Number-of-housing-units-by-housing-unit-structure)
 
 - [📄 JSON](data/Housing-Preliminary-Report/Number-of-housing-units-by-housing-unit-structure/data.json)
@@ -160,6 +167,9 @@ The following datasets have been extracted from the PDF source documents:
 
 ⚠️ **1** rows in data couldn't be matched to a known administrative entity
   - Kalmunai Tamil Division (`LK-52XX`)
+
+⚠️ **1** known administrative entities have no corresponding row in data
+  - Kalmunai (`LK-5224`)
 
 ### 05. [Number of housing units by main material used for walls construction](data/Housing-Preliminary-Report/Number-of-housing-units-by-main-material-used-for-walls-construction)
 
@@ -198,6 +208,9 @@ The following datasets have been extracted from the PDF source documents:
 ⚠️ **1** rows in data couldn't be matched to a known administrative entity
   - Kalmunai Tamil Division (`LK-52XX`)
 
+⚠️ **1** known administrative entities have no corresponding row in data
+  - Kalmunai (`LK-5224`)
+
 ### 06. [Number of housing units by main material used for roof construction](data/Housing-Preliminary-Report/Number-of-housing-units-by-main-material-used-for-roof-construction)
 
 - [📄 JSON](data/Housing-Preliminary-Report/Number-of-housing-units-by-main-material-used-for-roof-construction/data.json)
@@ -231,6 +244,9 @@ The following datasets have been extracted from the PDF source documents:
 
 ⚠️ **1** rows in data couldn't be matched to a known administrative entity
   - Kalmunai Tamil Division (`LK-52XX`)
+
+⚠️ **1** known administrative entities have no corresponding row in data
+  - Kalmunai (`LK-5224`)
 
 ### 07. [Number of households by main material used for floor construction](data/Housing-Preliminary-Report/Number-of-households-by-main-material-used-for-floor-construction)
 
@@ -266,6 +282,9 @@ The following datasets have been extracted from the PDF source documents:
 ⚠️ **1** rows in data couldn't be matched to a known administrative entity
   - Kalmunai Tamil Division (`LK-52XX`)
 
+⚠️ **1** known administrative entities have no corresponding row in data
+  - Kalmunai (`LK-5224`)
+
 ### 08. [Number of households by main source of energy/fuel used for cooking](data/Housing-Preliminary-Report/Number-of-households-by-main-source-of-energyfuel-used-for-cooking)
 
 - [📄 JSON](data/Housing-Preliminary-Report/Number-of-households-by-main-source-of-energyfuel-used-for-cooking/data.json)
@@ -299,6 +318,9 @@ The following datasets have been extracted from the PDF source documents:
 
 ⚠️ **1** rows in data couldn't be matched to a known administrative entity
   - Kalmunai Tamil Division (`LK-52XX`)
+
+⚠️ **1** known administrative entities have no corresponding row in data
+  - Kalmunai (`LK-5224`)
 
 ### 09. [Number of households by main source of drinking water](data/Housing-Preliminary-Report/Number-of-households-by-main-source-of-drinking-water)
 
@@ -341,6 +363,9 @@ The following datasets have been extracted from the PDF source documents:
 ⚠️ **1** rows in data couldn't be matched to a known administrative entity
   - Kalmunai Tamil Division (`LK-52XX`)
 
+⚠️ **1** known administrative entities have no corresponding row in data
+  - Kalmunai (`LK-5224`)
+
 ### 10. [Number of households by source of lighting](data/Housing-Preliminary-Report/Number-of-households-by-source-of-lighting)
 
 - [📄 JSON](data/Housing-Preliminary-Report/Number-of-households-by-source-of-lighting/data.json)
@@ -373,6 +398,9 @@ The following datasets have been extracted from the PDF source documents:
 
 ⚠️ **1** rows in data couldn't be matched to a known administrative entity
   - Kalmunai Tamil Division (`LK-52XX`)
+
+⚠️ **1** known administrative entities have no corresponding row in data
+  - Kalmunai (`LK-5224`)
 
 ### 11. [Number of households using toilet facilities](data/Housing-Preliminary-Report/Number-of-households-using-toilet-facilities)
 
@@ -407,6 +435,9 @@ The following datasets have been extracted from the PDF source documents:
 ⚠️ **1** rows in data couldn't be matched to a known administrative entity
   - Kalmunai Tamil Division (`LK-52XX`)
 
+⚠️ **1** known administrative entities have no corresponding row in data
+  - Kalmunai (`LK-5224`)
+
 ## XLSX Data Tables (8)
 
 The following datasets have been extracted from the XLSX source documents:
@@ -435,15 +466,10 @@ The following datasets have been extracted from the XLSX source documents:
 
 #### Validation Errors
 
-⚠️ **354** GNDs in the reference gazetteer missing from this dataset (boundary differences)
-  - Kandalama (`LK-2206300`)
-  - Medapihilla (`LK-2209125`)
-  - Kadawatha (`LK-2209130`)
-
-⚠️ **319** GND IDs in this dataset not found in the reference gazetteer (boundary differences)
-  - Kiralessa (`LK-2206265`)
-  - Aluthwatta (`LK-2215150`)
-  - Kirigalpotta (`LK-2218120`)
+⚠️ **4** GND IDs in this dataset not found in the reference gazetteer (boundary differences)
+  - Kokuthoduvai South (`LK-4415095`)
+  - Ellainagar (`LK-5115005`)
+  - Eravur 04 (`LK-5115010`)
 
 ### 02. [Population by Age Group](data/GN_population_excel/Population-by-Age-Group)
 
@@ -471,15 +497,10 @@ The following datasets have been extracted from the XLSX source documents:
 
 #### Validation Errors
 
-⚠️ **354** GNDs in the reference gazetteer missing from this dataset (boundary differences)
-  - Kandalama (`LK-2206300`)
-  - Medapihilla (`LK-2209125`)
-  - Kadawatha (`LK-2209130`)
-
-⚠️ **319** GND IDs in this dataset not found in the reference gazetteer (boundary differences)
-  - Kiralessa (`LK-2206265`)
-  - Aluthwatta (`LK-2215150`)
-  - Kirigalpotta (`LK-2218120`)
+⚠️ **4** GND IDs in this dataset not found in the reference gazetteer (boundary differences)
+  - Kokuthoduvai South (`LK-4415095`)
+  - Ellainagar (`LK-5115005`)
+  - Eravur 04 (`LK-5115010`)
 
 ### 03. [Occupied Housing Units](data/GN_housing_excel/Occupied-Housing-Units)
 
@@ -503,15 +524,10 @@ The following datasets have been extracted from the XLSX source documents:
 
 #### Validation Errors
 
-⚠️ **354** GNDs in the reference gazetteer missing from this dataset (boundary differences)
-  - Kandalama (`LK-2206300`)
-  - Medapihilla (`LK-2209125`)
-  - Kadawatha (`LK-2209130`)
-
-⚠️ **319** GND IDs in this dataset not found in the reference gazetteer (boundary differences)
-  - Kiralessa (`LK-2206265`)
-  - Aluthwatta (`LK-2215150`)
-  - Kirigalpotta (`LK-2218120`)
+⚠️ **4** GND IDs in this dataset not found in the reference gazetteer (boundary differences)
+  - Kokuthoduvai South (`LK-4415095`)
+  - Ellainagar (`LK-5115005`)
+  - Eravur 04 (`LK-5115010`)
 
 ### 04. [Number of Households](data/HH_GND_excel/Number-of-Households)
 
@@ -535,15 +551,10 @@ The following datasets have been extracted from the XLSX source documents:
 
 #### Validation Errors
 
-⚠️ **354** GNDs in the reference gazetteer missing from this dataset (boundary differences)
-  - Kandalama (`LK-2206300`)
-  - Medapihilla (`LK-2209125`)
-  - Kadawatha (`LK-2209130`)
-
-⚠️ **319** GND IDs in this dataset not found in the reference gazetteer (boundary differences)
-  - Kiralessa (`LK-2206265`)
-  - Aluthwatta (`LK-2215150`)
-  - Kirigalpotta (`LK-2218120`)
+⚠️ **4** GND IDs in this dataset not found in the reference gazetteer (boundary differences)
+  - Kokuthoduvai South (`LK-4415095`)
+  - Ellainagar (`LK-5115005`)
+  - Eravur 04 (`LK-5115010`)
 
 ### 05. [Number of households by main source of drinking water](data/HH_GND_excel/Number-of-households-by-main-source-of-drinking-water)
 
@@ -581,15 +592,10 @@ The following datasets have been extracted from the XLSX source documents:
 
 #### Validation Errors
 
-⚠️ **354** GNDs in the reference gazetteer missing from this dataset (boundary differences)
-  - Kandalama (`LK-2206300`)
-  - Medapihilla (`LK-2209125`)
-  - Kadawatha (`LK-2209130`)
-
-⚠️ **319** GND IDs in this dataset not found in the reference gazetteer (boundary differences)
-  - Kiralessa (`LK-2206265`)
-  - Aluthwatta (`LK-2215150`)
-  - Kirigalpotta (`LK-2218120`)
+⚠️ **4** GND IDs in this dataset not found in the reference gazetteer (boundary differences)
+  - Kokuthoduvai South (`LK-4415095`)
+  - Ellainagar (`LK-5115005`)
+  - Eravur 04 (`LK-5115010`)
 
 ### 06. [Number of households by main source of energy/fuel used for cooking](data/HH_GND_excel/Number-of-households-by-main-source-of-energyfuel-used-for-cooking)
 
@@ -620,15 +626,10 @@ The following datasets have been extracted from the XLSX source documents:
 
 #### Validation Errors
 
-⚠️ **354** GNDs in the reference gazetteer missing from this dataset (boundary differences)
-  - Kandalama (`LK-2206300`)
-  - Medapihilla (`LK-2209125`)
-  - Kadawatha (`LK-2209130`)
-
-⚠️ **319** GND IDs in this dataset not found in the reference gazetteer (boundary differences)
-  - Kiralessa (`LK-2206265`)
-  - Aluthwatta (`LK-2215150`)
-  - Kirigalpotta (`LK-2218120`)
+⚠️ **4** GND IDs in this dataset not found in the reference gazetteer (boundary differences)
+  - Kokuthoduvai South (`LK-4415095`)
+  - Ellainagar (`LK-5115005`)
+  - Eravur 04 (`LK-5115010`)
 
 ### 07. [Number of households by source of lighting](data/HH_GND_excel/Number-of-households-by-source-of-lighting)
 
@@ -658,15 +659,10 @@ The following datasets have been extracted from the XLSX source documents:
 
 #### Validation Errors
 
-⚠️ **354** GNDs in the reference gazetteer missing from this dataset (boundary differences)
-  - Kandalama (`LK-2206300`)
-  - Medapihilla (`LK-2209125`)
-  - Kadawatha (`LK-2209130`)
-
-⚠️ **319** GND IDs in this dataset not found in the reference gazetteer (boundary differences)
-  - Kiralessa (`LK-2206265`)
-  - Aluthwatta (`LK-2215150`)
-  - Kirigalpotta (`LK-2218120`)
+⚠️ **4** GND IDs in this dataset not found in the reference gazetteer (boundary differences)
+  - Kokuthoduvai South (`LK-4415095`)
+  - Ellainagar (`LK-5115005`)
+  - Eravur 04 (`LK-5115010`)
 
 ### 08. [Number of households using toilet facilities](data/HH_GND_excel/Number-of-households-using-toilet-facilities)
 
@@ -696,15 +692,10 @@ The following datasets have been extracted from the XLSX source documents:
 
 #### Validation Errors
 
-⚠️ **354** GNDs in the reference gazetteer missing from this dataset (boundary differences)
-  - Kandalama (`LK-2206300`)
-  - Medapihilla (`LK-2209125`)
-  - Kadawatha (`LK-2209130`)
-
-⚠️ **319** GND IDs in this dataset not found in the reference gazetteer (boundary differences)
-  - Kiralessa (`LK-2206265`)
-  - Aluthwatta (`LK-2215150`)
-  - Kirigalpotta (`LK-2218120`)
+⚠️ **4** GND IDs in this dataset not found in the reference gazetteer (boundary differences)
+  - Kokuthoduvai South (`LK-4415095`)
+  - Ellainagar (`LK-5115005`)
+  - Eravur 04 (`LK-5115010`)
 
 ![Maintainer](https://img.shields.io/badge/maintainer-nuuuwan-red)
 ![MadeWith](https://img.shields.io/badge/made_with-python-blue)

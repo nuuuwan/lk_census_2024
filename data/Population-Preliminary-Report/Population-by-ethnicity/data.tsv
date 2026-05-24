@@ -79,16 +79,16 @@ LK-2227	Wilgamuwa	Wilgamuwa	dsd	33715	33668	34	9	3	0	1	0	0	0	0
 LK-2230	Rattota	Rattota	dsd	53650	38519	11192	1618	2199	49	64	1	1	0	7
 LK-2233	Ukuwela	Ukuwela	dsd	72313	45624	7238	2995	16287	90	73	0	2	0	4
 LK-23	Nuwara Eliya	Nuwara Eliya District	district	725280	281904	60288	362299	19245	1252	216	11	14	0	51
+LK-2302	Kothmale West	Kothmale West	dsd	41955	26683	4882	3271	7078	35	3	0	0	0	3
 LK-2303	Kothmale East	Kothmale East	dsd	61742	27787	13139	19972	782	43	15	1	1	0	2
-LK-2304	Kothmale West	Kothmale West	dsd	41955	26683	4882	3271	7078	35	3	0	0	0	3
 LK-2306	Hanguranketa	Hanguranketha	dsd	58931	51540	1800	5554	23	7	0	0	3	0	4
 LK-2307	Mathurata	Mathurata	dsd	33175	28584	2166	2365	49	1	3	0	1	0	6
 LK-2309	Walapane	Walapane	dsd	65287	34340	5188	25172	550	22	9	1	1	0	4
 LK-2310	Nildandahinna	Nildandahinna	dsd	42422	32388	1867	7886	269	8	0	0	0	0	4
 LK-2312	Nuwara Eliya	Nuwara Eliya	dsd	88332	29758	17137	36677	4352	332	68	2	2	0	4
 LK-2313	Thalawakele	Thalawakele	dsd	129531	8689	5592	113494	1255	459	26	3	1	0	12
+LK-2314	Norwood	Norwood	dsd	161367	9267	6169	140727	4768	335	91	4	4	0	2
 LK-2315	Ambagamuwa Korale	Ambagamuwa	dsd	42538	32868	2348	7181	119	10	1	0	1	0	10
-LK-2316	Norwood	Norwood	dsd	161367	9267	6169	140727	4768	335	91	4	4	0	2
 LK-3	Southern	(computed)	province	2606679	2470432	30773	11086	88911	602	4060	39	39	1	736
 LK-31	Galle	Galle District	district	1097372	1030354	17600	2883	45672	244	85	20	26	0	488
 LK-3103	Bentota	Benthota	dsd	49650	48407	109	14	1052	21	8	0	2	0	37
@@ -104,9 +104,9 @@ LK-3128	Wanduramba	Wanduramba	dsd	27702	26253	1427	12	10	0	0	0	0	0	0
 LK-3130	Welivitiya-Divitura	- - Welivitiya-Divithura	dsd	29356	28076	1215	54	9	1	0	0	0	0	1
 LK-3133	Ambalangoda	Ambalangoda	dsd	59617	59412	122	40	18	8	3	0	1	0	13
 LK-3134	Gonapinuwala	Gonapeenuwala	dsd	23271	23162	51	8	8	10	0	1	1	0	30
+LK-3135	Madampagama	Madampagama	dsd	33408	33335	32	7	22	2	4	0	0	0	6
 LK-3136	Hikkaduwa	Hikkaduwa	dsd	26216	25926	149	17	15	17	1	1	1	0	89
 LK-3137	Rathgama	Rathgama	dsd	41456	41252	135	8	27	6	5	2	2	0	19
-LK-3138	Madampagama	Madampagama	dsd	33408	33335	32	7	22	2	4	0	0	0	6
 LK-3139	Galle 4 Gravets	Galle Four Gravets	dsd	108321	68564	699	132	38775	78	35	6	2	0	30
 LK-3142	Bope-Poddala	- - Bope-Poddala	dsd	57890	55515	376	313	1636	18	2	1	1	0	28
 LK-3145	Akmeemana	Akmeemana	dsd	86136	82527	1154	52	2298	13	2	0	4	0	86
@@ -190,7 +190,8 @@ LK-5104	Koralai Pattu Central	Koralai Pattu Central	dsd	30603	77	618	22	29819	65
 LK-5106	Koralai Pattu West	Koralai Pattu West Oddamavadi	dsd	24583	27	73	20	24458	2	0	0	0	0	3
 LK-5109	Koralai Pattu	Koralai Pattu Valachchenai	dsd	28762	689	27792	35	85	160	0	0	0	0	1
 LK-5110	Koralai Pattu South	Koralai Pattu South Kiran	dsd	28302	95	27967	48	188	4	0	0	0	0	0
-LK-5115	Eravur Pattu	Eravur Pattu	dsd	94237	2828	71100	277	19883	91	6	1	0	1	50
+LK-5112	Eravur Pattu	Eravur Pattu	dsd	94237	2828	71100	277	19883	91	6	1	0	1	50
+LK-5115	Eravur Town	Eravur Town	dsd	26468	52	3236	21	23087	70	1	0	0	0	1
 LK-5118	Manmunai North	Manmunai North	dsd	95107	816	85267	287	6320	2399	6	1	2	1	8
 LK-5121	Manmunai West	Manmunai West	dsd	32831	63	32680	26	17	6	0	0	0	38	1
 LK-5124	Kattankudy	Kattankudy	dsd	44794	44	17	26	44692	5	3	2	0	1	4
@@ -198,7 +199,6 @@ LK-5127	Manmunai Pattu	Manmunai Pattu Araipattai	dsd	36533	126	25229	125	11046	7
 LK-5130	Manmunai South West	Manmunai South-West	dsd	26676	1371	25298	2	1	3	0	0	0	0	1
 LK-5133	Porativu Pattu	Poratheevu Pattu	dsd	38627	272	38284	49	1	18	1	1	0	0	1
 LK-5136	Manmunai South & Eruvil Pattu	Manmunai South Eruvil Pattu	dsd	62920	192	62604	45	13	56	0	0	7	2	1
-LK-5139	Eravur Town	Eravur Town	dsd	26468	52	3236	21	23087	70	1	0	0	0	1
 LK-52	Ampara	Ampara District	district	744551	276583	125751	664	339290	1168	136	17	13	840	89
 LK-5203	Dehiattakandiya	Dehiattakandiya	dsd	67274	66325	107	12	86	0	2	0	0	741	1
 LK-5206	Padiyathalawa	Padiyathalawa	dsd	20834	20731	44	4	49	0	0	0	1	2	3

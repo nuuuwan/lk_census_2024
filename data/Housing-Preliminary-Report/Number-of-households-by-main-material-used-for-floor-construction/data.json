@@ -1200,6 +1200,21 @@
     "not_relevant": 47
   },
   {
+    "region_id": "LK-2302",
+    "region_name": "Kothmale West",
+    "region_name_in_data": "Kothmale West",
+    "region_ent_type": "dsd",
+    "total": 11360,
+    "cement": 8378,
+    "terrazzo_or_tile_or_granite_or_wood_or_titanium": 1623,
+    "concrete": 869,
+    "mud": 466,
+    "wood": 10,
+    "sand": 11,
+    "other": 1,
+    "not_relevant": 2
+  },
+  {
     "region_id": "LK-2303",
     "region_name": "Kothmale East",
     "region_name_in_data": "Kothmale East",
@@ -1213,21 +1228,6 @@
     "sand": 28,
     "other": 22,
     "not_relevant": 4
-  },
-  {
-    "region_id": "LK-2304",
-    "region_name": "Kothmale West",
-    "region_name_in_data": "Kothmale West",
-    "region_ent_type": "dsd",
-    "total": 11360,
-    "cement": 8378,
-    "terrazzo_or_tile_or_granite_or_wood_or_titanium": 1623,
-    "concrete": 869,
-    "mud": 466,
-    "wood": 10,
-    "sand": 11,
-    "other": 1,
-    "not_relevant": 2
   },
   {
     "region_id": "LK-2306",
@@ -1320,6 +1320,21 @@
     "not_relevant": 14
   },
   {
+    "region_id": "LK-2314",
+    "region_name": "Norwood",
+    "region_name_in_data": "Norwood",
+    "region_ent_type": "dsd",
+    "total": 41961,
+    "cement": 37830,
+    "terrazzo_or_tile_or_granite_or_wood_or_titanium": 1404,
+    "concrete": 1699,
+    "mud": 840,
+    "wood": 15,
+    "sand": 57,
+    "other": 101,
+    "not_relevant": 15
+  },
+  {
     "region_id": "LK-2315",
     "region_name": "Ambagamuwa Korale",
     "region_name_in_data": "Ambagamuwa",
@@ -1333,21 +1348,6 @@
     "sand": 3,
     "other": 3,
     "not_relevant": 0
-  },
-  {
-    "region_id": "LK-2316",
-    "region_name": "Norwood",
-    "region_name_in_data": "Norwood",
-    "region_ent_type": "dsd",
-    "total": 41961,
-    "cement": 37830,
-    "terrazzo_or_tile_or_granite_or_wood_or_titanium": 1404,
-    "concrete": 1699,
-    "mud": 840,
-    "wood": 15,
-    "sand": 57,
-    "other": 101,
-    "not_relevant": 15
   },
   {
     "region_id": "LK-3",
@@ -1575,6 +1575,21 @@
     "not_relevant": 0
   },
   {
+    "region_id": "LK-3135",
+    "region_name": "Madampagama",
+    "region_name_in_data": "Madampagama",
+    "region_ent_type": "dsd",
+    "total": 9143,
+    "cement": 5687,
+    "terrazzo_or_tile_or_granite_or_wood_or_titanium": 3058,
+    "concrete": 353,
+    "mud": 39,
+    "wood": 3,
+    "sand": 2,
+    "other": 1,
+    "not_relevant": 0
+  },
+  {
     "region_id": "LK-3136",
     "region_name": "Hikkaduwa",
     "region_name_in_data": "Hikkaduwa",
@@ -1602,21 +1617,6 @@
     "wood": 1,
     "sand": 3,
     "other": 0,
-    "not_relevant": 0
-  },
-  {
-    "region_id": "LK-3138",
-    "region_name": "Madampagama",
-    "region_name_in_data": "Madampagama",
-    "region_ent_type": "dsd",
-    "total": 9143,
-    "cement": 5687,
-    "terrazzo_or_tile_or_granite_or_wood_or_titanium": 3058,
-    "concrete": 353,
-    "mud": 39,
-    "wood": 3,
-    "sand": 2,
-    "other": 1,
     "not_relevant": 0
   },
   {
@@ -2865,7 +2865,7 @@
     "not_relevant": 0
   },
   {
-    "region_id": "LK-5115",
+    "region_id": "LK-5112",
     "region_name": "Eravur Pattu",
     "region_name_in_data": "Eravur Pattu",
     "region_ent_type": "dsd",
@@ -2878,6 +2878,21 @@
     "sand": 719,
     "other": 30,
     "not_relevant": 3
+  },
+  {
+    "region_id": "LK-5115",
+    "region_name": "Eravur Town",
+    "region_name_in_data": "Eravur Town",
+    "region_ent_type": "dsd",
+    "total": 7172,
+    "cement": 5378,
+    "terrazzo_or_tile_or_granite_or_wood_or_titanium": 1267,
+    "concrete": 483,
+    "mud": 7,
+    "wood": 2,
+    "sand": 28,
+    "other": 1,
+    "not_relevant": 6
   },
   {
     "region_id": "LK-5118",
@@ -2983,21 +2998,6 @@
     "sand": 100,
     "other": 13,
     "not_relevant": 14
-  },
-  {
-    "region_id": "LK-5139",
-    "region_name": "Eravur Town",
-    "region_name_in_data": "Eravur Town",
-    "region_ent_type": "dsd",
-    "total": 7172,
-    "cement": 5378,
-    "terrazzo_or_tile_or_granite_or_wood_or_titanium": 1267,
-    "concrete": 483,
-    "mud": 7,
-    "wood": 2,
-    "sand": 28,
-    "other": 1,
-    "not_relevant": 6
   },
   {
     "region_id": "LK-52",

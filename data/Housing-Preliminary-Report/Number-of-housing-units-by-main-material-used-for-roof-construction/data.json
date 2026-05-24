@@ -1200,6 +1200,21 @@
     "not_relevant": 47
   },
   {
+    "region_id": "LK-2302",
+    "region_name": "Kothmale West",
+    "region_name_in_data": "Kothmale West",
+    "region_ent_type": "dsd",
+    "total": 11360,
+    "tile": 129,
+    "asbestos": 8342,
+    "concrete": 625,
+    "zinc_aluminium_sheets": 396,
+    "metal_sheets": 1760,
+    "kadjan_or_palmyrah_or_straw": 100,
+    "other": 6,
+    "not_relevant": 2
+  },
+  {
     "region_id": "LK-2303",
     "region_name": "Kothmale East",
     "region_name_in_data": "Kothmale East",
@@ -1213,21 +1228,6 @@
     "kadjan_or_palmyrah_or_straw": 468,
     "other": 10,
     "not_relevant": 4
-  },
-  {
-    "region_id": "LK-2304",
-    "region_name": "Kothmale West",
-    "region_name_in_data": "Kothmale West",
-    "region_ent_type": "dsd",
-    "total": 11360,
-    "tile": 129,
-    "asbestos": 8342,
-    "concrete": 625,
-    "zinc_aluminium_sheets": 396,
-    "metal_sheets": 1760,
-    "kadjan_or_palmyrah_or_straw": 100,
-    "other": 6,
-    "not_relevant": 2
   },
   {
     "region_id": "LK-2306",
@@ -1320,6 +1320,21 @@
     "not_relevant": 14
   },
   {
+    "region_id": "LK-2314",
+    "region_name": "Norwood",
+    "region_name_in_data": "Norwood",
+    "region_ent_type": "dsd",
+    "total": 41961,
+    "tile": 5267,
+    "asbestos": 21245,
+    "concrete": 2893,
+    "zinc_aluminium_sheets": 5858,
+    "metal_sheets": 6222,
+    "kadjan_or_palmyrah_or_straw": 408,
+    "other": 53,
+    "not_relevant": 15
+  },
+  {
     "region_id": "LK-2315",
     "region_name": "Ambagamuwa Korale",
     "region_name_in_data": "Ambagamuwa",
@@ -1333,21 +1348,6 @@
     "kadjan_or_palmyrah_or_straw": 165,
     "other": 14,
     "not_relevant": 0
-  },
-  {
-    "region_id": "LK-2316",
-    "region_name": "Norwood",
-    "region_name_in_data": "Norwood",
-    "region_ent_type": "dsd",
-    "total": 41961,
-    "tile": 5267,
-    "asbestos": 21245,
-    "concrete": 2893,
-    "zinc_aluminium_sheets": 5858,
-    "metal_sheets": 6222,
-    "kadjan_or_palmyrah_or_straw": 408,
-    "other": 53,
-    "not_relevant": 15
   },
   {
     "region_id": "LK-3",
@@ -1575,6 +1575,21 @@
     "not_relevant": 0
   },
   {
+    "region_id": "LK-3135",
+    "region_name": "Madampagama",
+    "region_name_in_data": "Madampagama",
+    "region_ent_type": "dsd",
+    "total": 9143,
+    "tile": 4340,
+    "asbestos": 4457,
+    "concrete": 277,
+    "zinc_aluminium_sheets": 13,
+    "metal_sheets": 33,
+    "kadjan_or_palmyrah_or_straw": 19,
+    "other": 4,
+    "not_relevant": 0
+  },
+  {
     "region_id": "LK-3136",
     "region_name": "Hikkaduwa",
     "region_name_in_data": "Hikkaduwa",
@@ -1602,21 +1617,6 @@
     "metal_sheets": 55,
     "kadjan_or_palmyrah_or_straw": 55,
     "other": 2,
-    "not_relevant": 0
-  },
-  {
-    "region_id": "LK-3138",
-    "region_name": "Madampagama",
-    "region_name_in_data": "Madampagama",
-    "region_ent_type": "dsd",
-    "total": 9143,
-    "tile": 4340,
-    "asbestos": 4457,
-    "concrete": 277,
-    "zinc_aluminium_sheets": 13,
-    "metal_sheets": 33,
-    "kadjan_or_palmyrah_or_straw": 19,
-    "other": 4,
     "not_relevant": 0
   },
   {
@@ -2865,7 +2865,7 @@
     "not_relevant": 0
   },
   {
-    "region_id": "LK-5115",
+    "region_id": "LK-5112",
     "region_name": "Eravur Pattu",
     "region_name_in_data": "Eravur Pattu",
     "region_ent_type": "dsd",
@@ -2878,6 +2878,21 @@
     "kadjan_or_palmyrah_or_straw": 787,
     "other": 450,
     "not_relevant": 3
+  },
+  {
+    "region_id": "LK-5115",
+    "region_name": "Eravur Town",
+    "region_name_in_data": "Eravur Town",
+    "region_ent_type": "dsd",
+    "total": 7172,
+    "tile": 4937,
+    "asbestos": 186,
+    "concrete": 1830,
+    "zinc_aluminium_sheets": 85,
+    "metal_sheets": 48,
+    "kadjan_or_palmyrah_or_straw": 63,
+    "other": 17,
+    "not_relevant": 6
   },
   {
     "region_id": "LK-5118",
@@ -2983,21 +2998,6 @@
     "kadjan_or_palmyrah_or_straw": 291,
     "other": 62,
     "not_relevant": 14
-  },
-  {
-    "region_id": "LK-5139",
-    "region_name": "Eravur Town",
-    "region_name_in_data": "Eravur Town",
-    "region_ent_type": "dsd",
-    "total": 7172,
-    "tile": 4937,
-    "asbestos": 186,
-    "concrete": 1830,
-    "zinc_aluminium_sheets": 85,
-    "metal_sheets": 48,
-    "kadjan_or_palmyrah_or_straw": 63,
-    "other": 17,
-    "not_relevant": 6
   },
   {
     "region_id": "LK-52",

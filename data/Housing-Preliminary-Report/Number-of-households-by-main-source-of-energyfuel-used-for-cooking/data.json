@@ -1200,6 +1200,21 @@
     "not_relevant": 684
   },
   {
+    "region_id": "LK-2302",
+    "region_name": "Kothmale West",
+    "region_name_in_data": "Kothmale West",
+    "region_ent_type": "dsd",
+    "total": 11632,
+    "firewood": 9262,
+    "kerosene": 28,
+    "gas": 2290,
+    "electricity": 14,
+    "saw_dust_or_paddy_husk": 0,
+    "bio_gas": 2,
+    "other": 0,
+    "not_relevant": 36
+  },
+  {
     "region_id": "LK-2303",
     "region_name": "Kothmale East",
     "region_name_in_data": "Kothmale East",
@@ -1213,21 +1228,6 @@
     "bio_gas": 66,
     "other": 3,
     "not_relevant": 39
-  },
-  {
-    "region_id": "LK-2304",
-    "region_name": "Kothmale West",
-    "region_name_in_data": "Kothmale West",
-    "region_ent_type": "dsd",
-    "total": 11632,
-    "firewood": 9262,
-    "kerosene": 28,
-    "gas": 2290,
-    "electricity": 14,
-    "saw_dust_or_paddy_husk": 0,
-    "bio_gas": 2,
-    "other": 0,
-    "not_relevant": 36
   },
   {
     "region_id": "LK-2306",
@@ -1320,6 +1320,21 @@
     "not_relevant": 46
   },
   {
+    "region_id": "LK-2314",
+    "region_name": "Norwood",
+    "region_name_in_data": "Norwood",
+    "region_ent_type": "dsd",
+    "total": 44120,
+    "firewood": 29724,
+    "kerosene": 371,
+    "gas": 13477,
+    "electricity": 245,
+    "saw_dust_or_paddy_husk": 11,
+    "bio_gas": 101,
+    "other": 1,
+    "not_relevant": 190
+  },
+  {
     "region_id": "LK-2315",
     "region_name": "Ambagamuwa Korale",
     "region_name_in_data": "Ambagamuwa",
@@ -1333,21 +1348,6 @@
     "bio_gas": 1,
     "other": 1,
     "not_relevant": 79
-  },
-  {
-    "region_id": "LK-2316",
-    "region_name": "Norwood",
-    "region_name_in_data": "Norwood",
-    "region_ent_type": "dsd",
-    "total": 44120,
-    "firewood": 29724,
-    "kerosene": 371,
-    "gas": 13477,
-    "electricity": 245,
-    "saw_dust_or_paddy_husk": 11,
-    "bio_gas": 101,
-    "other": 1,
-    "not_relevant": 190
   },
   {
     "region_id": "LK-3",
@@ -1575,6 +1575,21 @@
     "not_relevant": 159
   },
   {
+    "region_id": "LK-3135",
+    "region_name": "Madampagama",
+    "region_name_in_data": "Madampagama",
+    "region_ent_type": "dsd",
+    "total": 9205,
+    "firewood": 4224,
+    "kerosene": 18,
+    "gas": 4734,
+    "electricity": 15,
+    "saw_dust_or_paddy_husk": 0,
+    "bio_gas": 1,
+    "other": 4,
+    "not_relevant": 209
+  },
+  {
     "region_id": "LK-3136",
     "region_name": "Hikkaduwa",
     "region_name_in_data": "Hikkaduwa",
@@ -1603,21 +1618,6 @@
     "bio_gas": 6,
     "other": 4,
     "not_relevant": 222
-  },
-  {
-    "region_id": "LK-3138",
-    "region_name": "Madampagama",
-    "region_name_in_data": "Madampagama",
-    "region_ent_type": "dsd",
-    "total": 9205,
-    "firewood": 4224,
-    "kerosene": 18,
-    "gas": 4734,
-    "electricity": 15,
-    "saw_dust_or_paddy_husk": 0,
-    "bio_gas": 1,
-    "other": 4,
-    "not_relevant": 209
   },
   {
     "region_id": "LK-3139",
@@ -2865,7 +2865,7 @@
     "not_relevant": 25
   },
   {
-    "region_id": "LK-5115",
+    "region_id": "LK-5112",
     "region_name": "Eravur Pattu",
     "region_name_in_data": "Eravur Pattu",
     "region_ent_type": "dsd",
@@ -2878,6 +2878,21 @@
     "bio_gas": 108,
     "other": 4,
     "not_relevant": 71
+  },
+  {
+    "region_id": "LK-5115",
+    "region_name": "Eravur Town",
+    "region_name_in_data": "Eravur Town",
+    "region_ent_type": "dsd",
+    "total": 7214,
+    "firewood": 1179,
+    "kerosene": 61,
+    "gas": 5864,
+    "electricity": 19,
+    "saw_dust_or_paddy_husk": 22,
+    "bio_gas": 6,
+    "other": 1,
+    "not_relevant": 62
   },
   {
     "region_id": "LK-5118",
@@ -2983,21 +2998,6 @@
     "bio_gas": 236,
     "other": 2,
     "not_relevant": 66
-  },
-  {
-    "region_id": "LK-5139",
-    "region_name": "Eravur Town",
-    "region_name_in_data": "Eravur Town",
-    "region_ent_type": "dsd",
-    "total": 7214,
-    "firewood": 1179,
-    "kerosene": 61,
-    "gas": 5864,
-    "electricity": 19,
-    "saw_dust_or_paddy_husk": 22,
-    "bio_gas": 6,
-    "other": 1,
-    "not_relevant": 62
   },
   {
     "region_id": "LK-52",

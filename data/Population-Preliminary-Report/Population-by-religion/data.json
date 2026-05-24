@@ -1040,6 +1040,19 @@
     "other": 78
   },
   {
+    "region_id": "LK-2302",
+    "region_name": "Kothmale West",
+    "region_name_in_data": "Kothmale West",
+    "region_ent_type": "dsd",
+    "total": 41955,
+    "buddhist": 26599,
+    "hindu": 7433,
+    "islam": 7135,
+    "roman_catholic": 554,
+    "other_christian": 232,
+    "other": 2
+  },
+  {
     "region_id": "LK-2303",
     "region_name": "Kothmale East",
     "region_name_in_data": "Kothmale East",
@@ -1051,19 +1064,6 @@
     "roman_catholic": 1291,
     "other_christian": 1345,
     "other": 4
-  },
-  {
-    "region_id": "LK-2304",
-    "region_name": "Kothmale West",
-    "region_name_in_data": "Kothmale West",
-    "region_ent_type": "dsd",
-    "total": 41955,
-    "buddhist": 26599,
-    "hindu": 7433,
-    "islam": 7135,
-    "roman_catholic": 554,
-    "other_christian": 232,
-    "other": 2
   },
   {
     "region_id": "LK-2306",
@@ -1144,6 +1144,19 @@
     "other": 12
   },
   {
+    "region_id": "LK-2314",
+    "region_name": "Norwood",
+    "region_name_in_data": "Norwood",
+    "region_ent_type": "dsd",
+    "total": 161367,
+    "buddhist": 9116,
+    "hindu": 128261,
+    "islam": 5906,
+    "roman_catholic": 12306,
+    "other_christian": 5750,
+    "other": 28
+  },
+  {
     "region_id": "LK-2315",
     "region_name": "Ambagamuwa Korale",
     "region_name_in_data": "Ambagamuwa",
@@ -1155,19 +1168,6 @@
     "roman_catholic": 499,
     "other_christian": 567,
     "other": 4
-  },
-  {
-    "region_id": "LK-2316",
-    "region_name": "Norwood",
-    "region_name_in_data": "Norwood",
-    "region_ent_type": "dsd",
-    "total": 161367,
-    "buddhist": 9116,
-    "hindu": 128261,
-    "islam": 5906,
-    "roman_catholic": 12306,
-    "other_christian": 5750,
-    "other": 28
   },
   {
     "region_id": "LK-3",
@@ -1365,6 +1365,19 @@
     "other": 5
   },
   {
+    "region_id": "LK-3135",
+    "region_name": "Madampagama",
+    "region_name_in_data": "Madampagama",
+    "region_ent_type": "dsd",
+    "total": 33408,
+    "buddhist": 33239,
+    "hindu": 44,
+    "islam": 25,
+    "roman_catholic": 32,
+    "other_christian": 68,
+    "other": 0
+  },
+  {
     "region_id": "LK-3136",
     "region_name": "Hikkaduwa",
     "region_name_in_data": "Hikkaduwa",
@@ -1389,19 +1402,6 @@
     "roman_catholic": 51,
     "other_christian": 125,
     "other": 3
-  },
-  {
-    "region_id": "LK-3138",
-    "region_name": "Madampagama",
-    "region_name_in_data": "Madampagama",
-    "region_ent_type": "dsd",
-    "total": 33408,
-    "buddhist": 33239,
-    "hindu": 44,
-    "islam": 25,
-    "roman_catholic": 32,
-    "other_christian": 68,
-    "other": 0
   },
   {
     "region_id": "LK-3139",
@@ -2483,7 +2483,7 @@
     "other": 0
   },
   {
-    "region_id": "LK-5115",
+    "region_id": "LK-5112",
     "region_name": "Eravur Pattu",
     "region_name_in_data": "Eravur Pattu",
     "region_ent_type": "dsd",
@@ -2493,6 +2493,19 @@
     "islam": 20106,
     "roman_catholic": 3458,
     "other_christian": 5928,
+    "other": 0
+  },
+  {
+    "region_id": "LK-5115",
+    "region_name": "Eravur Town",
+    "region_name_in_data": "Eravur Town",
+    "region_ent_type": "dsd",
+    "total": 26468,
+    "buddhist": 21,
+    "hindu": 2966,
+    "islam": 23126,
+    "roman_catholic": 230,
+    "other_christian": 125,
     "other": 0
   },
   {
@@ -2585,19 +2598,6 @@
     "roman_catholic": 1565,
     "other_christian": 1216,
     "other": 10
-  },
-  {
-    "region_id": "LK-5139",
-    "region_name": "Eravur Town",
-    "region_name_in_data": "Eravur Town",
-    "region_ent_type": "dsd",
-    "total": 26468,
-    "buddhist": 21,
-    "hindu": 2966,
-    "islam": 23126,
-    "roman_catholic": 230,
-    "other_christian": 125,
-    "other": 0
   },
   {
     "region_id": "LK-52",

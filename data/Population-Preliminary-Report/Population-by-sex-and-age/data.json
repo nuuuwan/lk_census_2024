@@ -1040,6 +1040,19 @@
     "age-65-and-over": 87197
   },
   {
+    "region_id": "LK-2302",
+    "region_name": "Kothmale West",
+    "region_name_in_data": "Kothmale West",
+    "region_ent_type": "dsd",
+    "total": 41955,
+    "sex-male": 20009,
+    "sex-female": 21946,
+    "age-under-15": 9733,
+    "age-15-to-59": 24198,
+    "age-60-to-64": 2566,
+    "age-65-and-over": 5458
+  },
+  {
     "region_id": "LK-2303",
     "region_name": "Kothmale East",
     "region_name_in_data": "Kothmale East",
@@ -1051,19 +1064,6 @@
     "age-15-to-59": 35895,
     "age-60-to-64": 3508,
     "age-65-and-over": 7367
-  },
-  {
-    "region_id": "LK-2304",
-    "region_name": "Kothmale West",
-    "region_name_in_data": "Kothmale West",
-    "region_ent_type": "dsd",
-    "total": 41955,
-    "sex-male": 20009,
-    "sex-female": 21946,
-    "age-under-15": 9733,
-    "age-15-to-59": 24198,
-    "age-60-to-64": 2566,
-    "age-65-and-over": 5458
   },
   {
     "region_id": "LK-2306",
@@ -1144,6 +1144,19 @@
     "age-65-and-over": 14258
   },
   {
+    "region_id": "LK-2314",
+    "region_name": "Norwood",
+    "region_name_in_data": "Norwood",
+    "region_ent_type": "dsd",
+    "total": 161367,
+    "sex-male": 75707,
+    "sex-female": 85660,
+    "age-under-15": 41064,
+    "age-15-to-59": 93724,
+    "age-60-to-64": 8271,
+    "age-65-and-over": 18308
+  },
+  {
     "region_id": "LK-2315",
     "region_name": "Ambagamuwa Korale",
     "region_name_in_data": "Ambagamuwa",
@@ -1155,19 +1168,6 @@
     "age-15-to-59": 25081,
     "age-60-to-64": 2539,
     "age-65-and-over": 6138
-  },
-  {
-    "region_id": "LK-2316",
-    "region_name": "Norwood",
-    "region_name_in_data": "Norwood",
-    "region_ent_type": "dsd",
-    "total": 161367,
-    "sex-male": 75707,
-    "sex-female": 85660,
-    "age-under-15": 41064,
-    "age-15-to-59": 93724,
-    "age-60-to-64": 8271,
-    "age-65-and-over": 18308
   },
   {
     "region_id": "LK-3",
@@ -1352,6 +1352,19 @@
     "age-65-and-over": 3450
   },
   {
+    "region_id": "LK-3135",
+    "region_name": "Madampagama",
+    "region_name_in_data": "Madampagama",
+    "region_ent_type": "dsd",
+    "total": 33408,
+    "sex-male": 16011,
+    "sex-female": 17397,
+    "age-under-15": 7149,
+    "age-15-to-59": 20000,
+    "age-60-to-64": 1883,
+    "age-65-and-over": 4376
+  },
+  {
     "region_id": "LK-3136",
     "region_name": "Hikkaduwa",
     "region_name_in_data": "Hikkaduwa",
@@ -1376,19 +1389,6 @@
     "age-15-to-59": 25101,
     "age-60-to-64": 2275,
     "age-65-and-over": 5484
-  },
-  {
-    "region_id": "LK-3138",
-    "region_name": "Madampagama",
-    "region_name_in_data": "Madampagama",
-    "region_ent_type": "dsd",
-    "total": 33408,
-    "sex-male": 16011,
-    "sex-female": 17397,
-    "age-under-15": 7149,
-    "age-15-to-59": 20000,
-    "age-60-to-64": 1883,
-    "age-65-and-over": 4376
   },
   {
     "region_id": "LK-3139",
@@ -2470,7 +2470,7 @@
     "age-65-and-over": 2098
   },
   {
-    "region_id": "LK-5115",
+    "region_id": "LK-5112",
     "region_name": "Eravur Pattu",
     "region_name_in_data": "Eravur Pattu",
     "region_ent_type": "dsd",
@@ -2481,6 +2481,19 @@
     "age-15-to-59": 59202,
     "age-60-to-64": 3638,
     "age-65-and-over": 6783
+  },
+  {
+    "region_id": "LK-5115",
+    "region_name": "Eravur Town",
+    "region_name_in_data": "Eravur Town",
+    "region_ent_type": "dsd",
+    "total": 26468,
+    "sex-male": 12218,
+    "sex-female": 14250,
+    "age-under-15": 7257,
+    "age-15-to-59": 15813,
+    "age-60-to-64": 1156,
+    "age-65-and-over": 2242
   },
   {
     "region_id": "LK-5118",
@@ -2572,19 +2585,6 @@
     "age-15-to-59": 39977,
     "age-60-to-64": 3043,
     "age-65-and-over": 5913
-  },
-  {
-    "region_id": "LK-5139",
-    "region_name": "Eravur Town",
-    "region_name_in_data": "Eravur Town",
-    "region_ent_type": "dsd",
-    "total": 26468,
-    "sex-male": 12218,
-    "sex-female": 14250,
-    "age-under-15": 7257,
-    "age-15-to-59": 15813,
-    "age-60-to-64": 1156,
-    "age-65-and-over": 2242
   },
   {
     "region_id": "LK-52",
