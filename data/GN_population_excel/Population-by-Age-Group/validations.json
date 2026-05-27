@@ -2,67 +2,127 @@
   {
     "name": "parent_child_totals",
     "status": "fail",
-    "error_count": 10,
+    "error_count": 20,
     "errors": [
-      {
-        "region_id": "LK-1",
-        "field": "total",
-        "parent": 6117341,
-        "sum_of_children": 13917592
-      },
-      {
-        "region_id": "LK-1",
-        "field": "age_0_14",
-        "parent": 1085459,
-        "sum_of_children": 2841561
-      },
-      {
-        "region_id": "LK-1",
-        "field": "age_15_59",
-        "parent": 3870373,
-        "sum_of_children": 8651217
-      },
-      {
-        "region_id": "LK-1",
-        "field": "age_60_64",
-        "parent": 343391,
-        "sum_of_children": 744346
-      },
-      {
-        "region_id": "LK-1",
-        "field": "age_65_and_above",
-        "parent": 818118,
-        "sum_of_children": 1680468
-      },
       {
         "region_id": "LK-2",
         "field": "total",
         "parent": 2714045,
-        "sum_of_children": 5257529
+        "sum_of_children": 3584521
       },
       {
         "region_id": "LK-2",
         "field": "age_0_14",
         "parent": 593854,
-        "sum_of_children": 1122241
+        "sum_of_children": 765139
       },
       {
         "region_id": "LK-2",
         "field": "age_15_59",
         "parent": 1609012,
-        "sum_of_children": 3149189
+        "sum_of_children": 2124844
       },
       {
         "region_id": "LK-2",
         "field": "age_60_64",
         "parent": 155726,
-        "sum_of_children": 295230
+        "sum_of_children": 207604
       },
       {
         "region_id": "LK-2",
         "field": "age_65_and_above",
         "parent": 355453,
-        "sum_of_children": 690869
+        "sum_of_children": 486934
+      },
+      {
+        "region_id": "LK-9",
+        "field": "total",
+        "parent": 2015899,
+        "sum_of_children": 2886375
+      },
+      {
+        "region_id": "LK-9",
+        "field": "age_0_14",
+        "parent": 404155,
+        "sum_of_children": 575440
+      },
+      {
+        "region_id": "LK-9",
+        "field": "age_15_59",
+        "parent": 1216393,
+        "sum_of_children": 1732225
+      },
+      {
+        "region_id": "LK-9",
+        "field": "age_60_64",
+        "parent": 113179,
+        "sum_of_children": 165057
+      },
+      {
+        "region_id": "LK-9",
+        "field": "age_65_and_above",
+        "parent": 282172,
+        "sum_of_children": 413653
+      },
+      {
+        "region_id": "LK-9230",
+        "field": "total",
+        "parent": 84967,
+        "sum_of_children": 132571
+      },
+      {
+        "region_id": "LK-9230",
+        "field": "age_0_14",
+        "parent": 16341,
+        "sum_of_children": 25543
+      },
+      {
+        "region_id": "LK-9230",
+        "field": "age_15_59",
+        "parent": 52584,
+        "sum_of_children": 82004
+      },
+      {
+        "region_id": "LK-9230",
+        "field": "age_60_64",
+        "parent": 4535,
+        "sum_of_children": 7100
+      },
+      {
+        "region_id": "LK-9230",
+        "field": "age_65_and_above",
+        "parent": 11507,
+        "sum_of_children": 17924
+      },
+      {
+        "region_id": "LK-9233",
+        "field": "total",
+        "parent": 44005,
+        "sum_of_children": 132015
+      },
+      {
+        "region_id": "LK-9233",
+        "field": "age_0_14",
+        "parent": 8755,
+        "sum_of_children": 26265
+      },
+      {
+        "region_id": "LK-9233",
+        "field": "age_15_59",
+        "parent": 26095,
+        "sum_of_children": 78285
+      },
+      {
+        "region_id": "LK-9233",
+        "field": "age_60_64",
+        "parent": 2552,
+        "sum_of_children": 7656
+      },
+      {
+        "region_id": "LK-9233",
+        "field": "age_65_and_above",
+        "parent": 6603,
+        "sum_of_children": 19809
       }
     ]
   },
@@ -232,8 +292,16 @@
   {
     "name": "gnds_are_valid",
     "status": "fail",
-    "error_count": 4,
+    "error_count": 6,
     "errors": [
+      {
+        "region_id": "EC-22I",
+        "region_name_in_data": null
+      },
+      {
+        "region_id": "LG-92033",
+        "region_name_in_data": null
+      },
       {
         "region_id": "LK-4415095",
         "region_name_in_data": "Kokuthoduvai South"

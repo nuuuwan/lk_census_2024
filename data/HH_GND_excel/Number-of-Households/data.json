@@ -1,157 +1,24 @@
 [
   {
-    "region_id": "EC-01",
-    "region_name": "Colombo",
-    "region_name_in_data": null,
-    "region_ent_type": "DISTRICT",
-    "n_households": 661822
-  },
-  {
-    "region_id": "EC-02",
-    "region_name": "Gampaha",
-    "region_name_in_data": null,
-    "region_ent_type": "DISTRICT",
-    "n_households": 688635
-  },
-  {
-    "region_id": "EC-03",
-    "region_name": "Kalutara",
-    "region_name_in_data": null,
-    "region_ent_type": "DISTRICT",
-    "n_households": 352963
-  },
-  {
-    "region_id": "EC-04",
-    "region_name": "Kandy",
-    "region_name_in_data": null,
-    "region_ent_type": "DISTRICT",
-    "n_households": 397626
-  },
-  {
-    "region_id": "EC-05",
-    "region_name": "Matale",
-    "region_name_in_data": null,
-    "region_ent_type": "DISTRICT",
-    "n_households": 151132
-  },
-  {
-    "region_id": "EC-06",
-    "region_name": "Nuwara-Eliya",
-    "region_name_in_data": null,
-    "region_ent_type": "DISTRICT",
-    "n_households": 200261
-  },
-  {
-    "region_id": "EC-07",
-    "region_name": "Galle",
-    "region_name_in_data": null,
-    "region_ent_type": "DISTRICT",
-    "n_households": 307704
-  },
-  {
-    "region_id": "EC-08",
-    "region_name": "Matara",
-    "region_name_in_data": null,
-    "region_ent_type": "DISTRICT",
-    "n_households": 231946
-  },
-  {
-    "region_id": "EC-09",
-    "region_name": "Hambantota",
-    "region_name_in_data": null,
-    "region_ent_type": "DISTRICT",
-    "n_households": 188638
-  },
-  {
-    "region_id": "EC-10",
-    "region_name": "Jaffna",
-    "region_name_in_data": null,
-    "region_ent_type": "DISTRICT",
-    "n_households": 196487
-  },
-  {
-    "region_id": "EC-11",
-    "region_name": "Vanni",
-    "region_name_in_data": null,
-    "region_ent_type": "DISTRICT",
-    "n_households": 115515
-  },
-  {
-    "region_id": "EC-12",
-    "region_name": "Batticaloa",
-    "region_name_in_data": null,
-    "region_ent_type": "DISTRICT",
-    "n_households": 170262
-  },
-  {
-    "region_id": "EC-13",
-    "region_name": "Digamadulla",
-    "region_name_in_data": null,
-    "region_ent_type": "DISTRICT",
-    "n_households": 207007
-  },
-  {
-    "region_id": "EC-14",
-    "region_name": "Trincomalee",
-    "region_name_in_data": null,
-    "region_ent_type": "DISTRICT",
-    "n_households": 121948
-  },
-  {
-    "region_id": "EC-15",
-    "region_name": "Kurunegala",
-    "region_name_in_data": null,
-    "region_ent_type": "DISTRICT",
-    "n_households": 511166
-  },
-  {
-    "region_id": "EC-16",
-    "region_name": "Puttalam",
-    "region_name_in_data": null,
-    "region_ent_type": "DISTRICT",
-    "n_households": 234027
-  },
-  {
-    "region_id": "EC-17",
-    "region_name": "Anuradhapura",
-    "region_name_in_data": null,
-    "region_ent_type": "DISTRICT",
-    "n_households": 275084
-  },
-  {
-    "region_id": "EC-18",
-    "region_name": "Polonnaruwa",
-    "region_name_in_data": null,
-    "region_ent_type": "DISTRICT",
-    "n_households": 127385
-  },
-  {
-    "region_id": "EC-19",
-    "region_name": "Badulla",
-    "region_name_in_data": null,
-    "region_ent_type": "DISTRICT",
-    "n_households": 248262
-  },
-  {
-    "region_id": "EC-20",
-    "region_name": "Moneragala",
-    "region_name_in_data": null,
-    "region_ent_type": "DISTRICT",
-    "n_households": 151763
-  },
-  {
-    "region_id": "EC-21",
-    "region_name": "Ratnapura",
-    "region_name_in_data": null,
-    "region_ent_type": "DISTRICT",
-    "n_households": 327645
-  },
-  {
     "region_id": "EC-22",
     "region_name": "Kegalle",
     "region_name_in_data": null,
     "region_ent_type": "DISTRICT",
     "n_households": 244037
+  },
+  {
+    "region_id": "EC-22I",
+    "region_name": "Deraniyagala",
+    "region_name_in_data": null,
+    "region_ent_type": "GND",
+    "n_households": 26259
+  },
+  {
+    "region_id": "LG-92033",
+    "region_name": "Deraniyagala PS",
+    "region_name_in_data": null,
+    "region_ent_type": "GND",
+    "n_households": 13080
   },
   {
     "region_id": "LK",
@@ -96747,6 +96614,13 @@
     "n_households": 244037
   },
   {
+    "region_id": "LK-92",
+    "region_name": "Kegalle",
+    "region_name_in_data": "Kegalle",
+    "region_ent_type": "DISTRICT",
+    "n_households": 244037
+  },
+  {
     "region_id": "LK-9203",
     "region_name": "Rambukkana",
     "region_name_in_data": "Rambukkana",
@@ -100415,6 +100289,20 @@
     "n_households": 1203
   },
   {
+    "region_id": "LK-9230030",
+    "region_name": "Walpola",
+    "region_name_in_data": "Walpola",
+    "region_ent_type": "GND",
+    "n_households": 1203
+  },
+  {
+    "region_id": "LK-9230035",
+    "region_name": "Boralankada",
+    "region_name_in_data": "Boralankada",
+    "region_ent_type": "GND",
+    "n_households": 660
+  },
+  {
     "region_id": "LK-9230035",
     "region_name": "Boralankada",
     "region_name_in_data": "Boralankada",
@@ -100427,6 +100315,20 @@
     "region_name_in_data": "Dikella",
     "region_ent_type": "GND",
     "n_households": 912
+  },
+  {
+    "region_id": "LK-9230040",
+    "region_name": "Dikella",
+    "region_name_in_data": "Dikella",
+    "region_ent_type": "GND",
+    "n_households": 912
+  },
+  {
+    "region_id": "LK-9230045",
+    "region_name": "Kahanavita",
+    "region_name_in_data": "Kahanwita",
+    "region_ent_type": "GND",
+    "n_households": 416
   },
   {
     "region_id": "LK-9230045",
@@ -100520,11 +100422,32 @@
     "n_households": 491
   },
   {
+    "region_id": "LK-9230105",
+    "region_name": "Algoda",
+    "region_name_in_data": "Algoda",
+    "region_ent_type": "GND",
+    "n_households": 491
+  },
+  {
     "region_id": "LK-9230110",
     "region_name": "Hinguralakanda East",
     "region_name_in_data": "Hinguralakanda East",
     "region_ent_type": "GND",
     "n_households": 306
+  },
+  {
+    "region_id": "LK-9230110",
+    "region_name": "Hinguralakanda East",
+    "region_name_in_data": "Hinguralakanda East",
+    "region_ent_type": "GND",
+    "n_households": 306
+  },
+  {
+    "region_id": "LK-9230115",
+    "region_name": "Batangala",
+    "region_name_in_data": "Batangala",
+    "region_ent_type": "GND",
+    "n_households": 752
   },
   {
     "region_id": "LK-9230115",
@@ -100541,11 +100464,32 @@
     "n_households": 389
   },
   {
+    "region_id": "LK-9230120",
+    "region_name": "Viharakanda",
+    "region_name_in_data": "Viharakanda",
+    "region_ent_type": "GND",
+    "n_households": 389
+  },
+  {
     "region_id": "LK-9230125",
     "region_name": "Galabalana Kanda",
     "region_name_in_data": "Galabalana Kanda",
     "region_ent_type": "GND",
     "n_households": 441
+  },
+  {
+    "region_id": "LK-9230125",
+    "region_name": "Galabalana Kanda",
+    "region_name_in_data": "Galabalana Kanda",
+    "region_ent_type": "GND",
+    "n_households": 441
+  },
+  {
+    "region_id": "LK-9230130",
+    "region_name": "Maniyangama",
+    "region_name_in_data": "Maniyangama",
+    "region_ent_type": "GND",
+    "n_households": 555
   },
   {
     "region_id": "LK-9230130",
@@ -100562,11 +100506,32 @@
     "n_households": 1058
   },
   {
+    "region_id": "LK-9230135",
+    "region_name": "Madola",
+    "region_name_in_data": "Madola",
+    "region_ent_type": "GND",
+    "n_households": 1058
+  },
+  {
     "region_id": "LK-9230140",
     "region_name": "Welangalla",
     "region_name_in_data": "Welangalla",
     "region_ent_type": "GND",
     "n_households": 757
+  },
+  {
+    "region_id": "LK-9230140",
+    "region_name": "Welangalla",
+    "region_name_in_data": "Welangalla",
+    "region_ent_type": "GND",
+    "n_households": 757
+  },
+  {
+    "region_id": "LK-9230145",
+    "region_name": "Bomaluwa",
+    "region_name_in_data": "Bomaluwa",
+    "region_ent_type": "GND",
+    "n_households": 357
   },
   {
     "region_id": "LK-9230145",
@@ -100583,11 +100548,32 @@
     "n_households": 792
   },
   {
+    "region_id": "LK-9230150",
+    "region_name": "Rangegama",
+    "region_name_in_data": "Rangegama",
+    "region_ent_type": "GND",
+    "n_households": 792
+  },
+  {
     "region_id": "LK-9230155",
     "region_name": "Panawala",
     "region_name_in_data": "Panawala",
     "region_ent_type": "GND",
     "n_households": 615
+  },
+  {
+    "region_id": "LK-9230155",
+    "region_name": "Panawala",
+    "region_name_in_data": "Panawala",
+    "region_ent_type": "GND",
+    "n_households": 615
+  },
+  {
+    "region_id": "LK-9230160",
+    "region_name": "Hinguralakanda West",
+    "region_name_in_data": "Hinguralakanda West",
+    "region_ent_type": "GND",
+    "n_households": 571
   },
   {
     "region_id": "LK-9230160",
@@ -100604,11 +100590,32 @@
     "n_households": 476
   },
   {
+    "region_id": "LK-9230165",
+    "region_name": "Pukunuwala",
+    "region_name_in_data": "Pukunuwala",
+    "region_ent_type": "GND",
+    "n_households": 476
+  },
+  {
     "region_id": "LK-9230170",
     "region_name": "Godagampala",
     "region_name_in_data": "Godagampala",
     "region_ent_type": "GND",
     "n_households": 501
+  },
+  {
+    "region_id": "LK-9230170",
+    "region_name": "Godagampala",
+    "region_name_in_data": "Godagampala",
+    "region_ent_type": "GND",
+    "n_households": 501
+  },
+  {
+    "region_id": "LK-9230175",
+    "region_name": "Ambalampitiya",
+    "region_name_in_data": "Ambalampitiya",
+    "region_ent_type": "GND",
+    "n_households": 449
   },
   {
     "region_id": "LK-9230175",
@@ -100625,6 +100632,20 @@
     "n_households": 223
   },
   {
+    "region_id": "LK-9230180",
+    "region_name": "Madagammana",
+    "region_name_in_data": "Madagammana",
+    "region_ent_type": "GND",
+    "n_households": 223
+  },
+  {
+    "region_id": "LK-9230185",
+    "region_name": "Pannila",
+    "region_name_in_data": "Pannila",
+    "region_ent_type": "GND",
+    "n_households": 428
+  },
+  {
     "region_id": "LK-9230185",
     "region_name": "Pannila",
     "region_name_in_data": "Pannila",
@@ -100637,6 +100658,20 @@
     "region_name_in_data": "Imbulpitiya",
     "region_ent_type": "GND",
     "n_households": 424
+  },
+  {
+    "region_id": "LK-9230190",
+    "region_name": "Imbulpitiya",
+    "region_name_in_data": "Imbulpitiya",
+    "region_ent_type": "GND",
+    "n_households": 424
+  },
+  {
+    "region_id": "LK-9230195",
+    "region_name": "Elavulla",
+    "region_name_in_data": "Elavulla",
+    "region_ent_type": "GND",
+    "n_households": 403
   },
   {
     "region_id": "LK-9230195",
@@ -100660,11 +100695,53 @@
     "n_households": 195
   },
   {
+    "region_id": "LK-9233005",
+    "region_name": "Ballahela",
+    "region_name_in_data": "Ballahela",
+    "region_ent_type": "GND",
+    "n_households": 195
+  },
+  {
+    "region_id": "LK-9233005",
+    "region_name": "Ballahela",
+    "region_name_in_data": "Ballahela",
+    "region_ent_type": "GND",
+    "n_households": 195
+  },
+  {
     "region_id": "LK-9233010",
     "region_name": "Behenella",
     "region_name_in_data": "Behenella",
     "region_ent_type": "GND",
     "n_households": 413
+  },
+  {
+    "region_id": "LK-9233010",
+    "region_name": "Behenella",
+    "region_name_in_data": "Behenella",
+    "region_ent_type": "GND",
+    "n_households": 413
+  },
+  {
+    "region_id": "LK-9233010",
+    "region_name": "Behenella",
+    "region_name_in_data": "Behenella",
+    "region_ent_type": "GND",
+    "n_households": 413
+  },
+  {
+    "region_id": "LK-9233015",
+    "region_name": "Nilwala",
+    "region_name_in_data": "Nilwala",
+    "region_ent_type": "GND",
+    "n_households": 348
+  },
+  {
+    "region_id": "LK-9233015",
+    "region_name": "Nilwala",
+    "region_name_in_data": "Nilwala",
+    "region_ent_type": "GND",
+    "n_households": 348
   },
   {
     "region_id": "LK-9233015",
@@ -100681,11 +100758,53 @@
     "n_households": 602
   },
   {
+    "region_id": "LK-9233020",
+    "region_name": "Dodawatta",
+    "region_name_in_data": "Dodawatta",
+    "region_ent_type": "GND",
+    "n_households": 602
+  },
+  {
+    "region_id": "LK-9233020",
+    "region_name": "Dodawatta",
+    "region_name_in_data": "Dodawatta",
+    "region_ent_type": "GND",
+    "n_households": 602
+  },
+  {
     "region_id": "LK-9233025",
     "region_name": "Basnagala",
     "region_name_in_data": "Basnagala",
     "region_ent_type": "GND",
     "n_households": 596
+  },
+  {
+    "region_id": "LK-9233025",
+    "region_name": "Basnagala",
+    "region_name_in_data": "Basnagala",
+    "region_ent_type": "GND",
+    "n_households": 596
+  },
+  {
+    "region_id": "LK-9233025",
+    "region_name": "Basnagala",
+    "region_name_in_data": "Basnagala",
+    "region_ent_type": "GND",
+    "n_households": 596
+  },
+  {
+    "region_id": "LK-9233030",
+    "region_name": "Keerihena",
+    "region_name_in_data": "Keerihena",
+    "region_ent_type": "GND",
+    "n_households": 256
+  },
+  {
+    "region_id": "LK-9233030",
+    "region_name": "Keerihena",
+    "region_name_in_data": "Keerihena",
+    "region_ent_type": "GND",
+    "n_households": 256
   },
   {
     "region_id": "LK-9233030",
@@ -100702,11 +100821,53 @@
     "n_households": 554
   },
   {
+    "region_id": "LK-9233035",
+    "region_name": "Udabage",
+    "region_name_in_data": "Udabage",
+    "region_ent_type": "GND",
+    "n_households": 554
+  },
+  {
+    "region_id": "LK-9233035",
+    "region_name": "Udabage",
+    "region_name_in_data": "Udabage",
+    "region_ent_type": "GND",
+    "n_households": 554
+  },
+  {
     "region_id": "LK-9233040",
     "region_name": "Wattegedara",
     "region_name_in_data": "Wattegedara",
     "region_ent_type": "GND",
     "n_households": 1204
+  },
+  {
+    "region_id": "LK-9233040",
+    "region_name": "Wattegedara",
+    "region_name_in_data": "Wattegedara",
+    "region_ent_type": "GND",
+    "n_households": 1204
+  },
+  {
+    "region_id": "LK-9233040",
+    "region_name": "Wattegedara",
+    "region_name_in_data": "Wattegedara",
+    "region_ent_type": "GND",
+    "n_households": 1204
+  },
+  {
+    "region_id": "LK-9233045",
+    "region_name": "Deraniyagala",
+    "region_name_in_data": "Deraniyagala",
+    "region_ent_type": "GND",
+    "n_households": 907
+  },
+  {
+    "region_id": "LK-9233045",
+    "region_name": "Deraniyagala",
+    "region_name_in_data": "Deraniyagala",
+    "region_ent_type": "GND",
+    "n_households": 907
   },
   {
     "region_id": "LK-9233045",
@@ -100723,11 +100884,53 @@
     "n_households": 518
   },
   {
+    "region_id": "LK-9233050",
+    "region_name": "Lassegama",
+    "region_name_in_data": "Lassegama",
+    "region_ent_type": "GND",
+    "n_households": 518
+  },
+  {
+    "region_id": "LK-9233050",
+    "region_name": "Lassegama",
+    "region_name_in_data": "Lassegama",
+    "region_ent_type": "GND",
+    "n_households": 518
+  },
+  {
     "region_id": "LK-9233055",
     "region_name": "Anhettigama",
     "region_name_in_data": "Anhettigama",
     "region_ent_type": "GND",
     "n_households": 390
+  },
+  {
+    "region_id": "LK-9233055",
+    "region_name": "Anhettigama",
+    "region_name_in_data": "Anhettigama",
+    "region_ent_type": "GND",
+    "n_households": 390
+  },
+  {
+    "region_id": "LK-9233055",
+    "region_name": "Anhettigama",
+    "region_name_in_data": "Anhettigama",
+    "region_ent_type": "GND",
+    "n_households": 390
+  },
+  {
+    "region_id": "LK-9233060",
+    "region_name": "Panakoora",
+    "region_name_in_data": "Panakoora",
+    "region_ent_type": "GND",
+    "n_households": 339
+  },
+  {
+    "region_id": "LK-9233060",
+    "region_name": "Panakoora",
+    "region_name_in_data": "Panakoora",
+    "region_ent_type": "GND",
+    "n_households": 339
   },
   {
     "region_id": "LK-9233060",
@@ -100744,11 +100947,53 @@
     "n_households": 421
   },
   {
+    "region_id": "LK-9233065",
+    "region_name": "Pandaha",
+    "region_name_in_data": "Pandaha",
+    "region_ent_type": "GND",
+    "n_households": 421
+  },
+  {
+    "region_id": "LK-9233065",
+    "region_name": "Pandaha",
+    "region_name_in_data": "Pandaha",
+    "region_ent_type": "GND",
+    "n_households": 421
+  },
+  {
     "region_id": "LK-9233070",
     "region_name": "Polgaswatta",
     "region_name_in_data": "Polgaswatta",
     "region_ent_type": "GND",
     "n_households": 384
+  },
+  {
+    "region_id": "LK-9233070",
+    "region_name": "Polgaswatta",
+    "region_name_in_data": "Polgaswatta",
+    "region_ent_type": "GND",
+    "n_households": 384
+  },
+  {
+    "region_id": "LK-9233070",
+    "region_name": "Polgaswatta",
+    "region_name_in_data": "Polgaswatta",
+    "region_ent_type": "GND",
+    "n_households": 384
+  },
+  {
+    "region_id": "LK-9233075",
+    "region_name": "Maliboda",
+    "region_name_in_data": "Maliboda",
+    "region_ent_type": "GND",
+    "n_households": 541
+  },
+  {
+    "region_id": "LK-9233075",
+    "region_name": "Maliboda",
+    "region_name_in_data": "Maliboda",
+    "region_ent_type": "GND",
+    "n_households": 541
   },
   {
     "region_id": "LK-9233075",
@@ -100765,11 +101010,53 @@
     "n_households": 663
   },
   {
+    "region_id": "LK-9233080",
+    "region_name": "Poddenikanda",
+    "region_name_in_data": "Poddenikanda",
+    "region_ent_type": "GND",
+    "n_households": 663
+  },
+  {
+    "region_id": "LK-9233080",
+    "region_name": "Poddenikanda",
+    "region_name_in_data": "Poddenikanda",
+    "region_ent_type": "GND",
+    "n_households": 663
+  },
+  {
     "region_id": "LK-9233085",
     "region_name": "Nakkavita",
     "region_name_in_data": "Nakkavita",
     "region_ent_type": "GND",
     "n_households": 387
+  },
+  {
+    "region_id": "LK-9233085",
+    "region_name": "Nakkavita",
+    "region_name_in_data": "Nakkavita",
+    "region_ent_type": "GND",
+    "n_households": 387
+  },
+  {
+    "region_id": "LK-9233085",
+    "region_name": "Nakkavita",
+    "region_name_in_data": "Nakkavita",
+    "region_ent_type": "GND",
+    "n_households": 387
+  },
+  {
+    "region_id": "LK-9233090",
+    "region_name": "Miyanavita",
+    "region_name_in_data": "Miyanawita",
+    "region_ent_type": "GND",
+    "n_households": 618
+  },
+  {
+    "region_id": "LK-9233090",
+    "region_name": "Miyanavita",
+    "region_name_in_data": "Miyanawita",
+    "region_ent_type": "GND",
+    "n_households": 618
   },
   {
     "region_id": "LK-9233090",
@@ -100786,11 +101073,53 @@
     "n_households": 869
   },
   {
+    "region_id": "LK-9233095",
+    "region_name": "Deraniyagala South",
+    "region_name_in_data": "Deraniyagala South",
+    "region_ent_type": "GND",
+    "n_households": 869
+  },
+  {
+    "region_id": "LK-9233095",
+    "region_name": "Deraniyagala South",
+    "region_name_in_data": "Deraniyagala South",
+    "region_ent_type": "GND",
+    "n_households": 869
+  },
+  {
     "region_id": "LK-9233100",
     "region_name": "Rasnakkanda",
     "region_name_in_data": "Rasnakkanda",
     "region_ent_type": "GND",
     "n_households": 395
+  },
+  {
+    "region_id": "LK-9233100",
+    "region_name": "Rasnakkanda",
+    "region_name_in_data": "Rasnakkanda",
+    "region_ent_type": "GND",
+    "n_households": 395
+  },
+  {
+    "region_id": "LK-9233100",
+    "region_name": "Rasnakkanda",
+    "region_name_in_data": "Rasnakkanda",
+    "region_ent_type": "GND",
+    "n_households": 395
+  },
+  {
+    "region_id": "LK-9233105",
+    "region_name": "Udapola",
+    "region_name_in_data": "Udapola",
+    "region_ent_type": "GND",
+    "n_households": 551
+  },
+  {
+    "region_id": "LK-9233105",
+    "region_name": "Udapola",
+    "region_name_in_data": "Udapola",
+    "region_ent_type": "GND",
+    "n_households": 551
   },
   {
     "region_id": "LK-9233105",
@@ -100807,6 +101136,34 @@
     "n_households": 270
   },
   {
+    "region_id": "LK-9233110",
+    "region_name": "Demeda",
+    "region_name_in_data": "Demeda",
+    "region_ent_type": "GND",
+    "n_households": 270
+  },
+  {
+    "region_id": "LK-9233110",
+    "region_name": "Demeda",
+    "region_name_in_data": "Demeda",
+    "region_ent_type": "GND",
+    "n_households": 270
+  },
+  {
+    "region_id": "LK-9233115",
+    "region_name": "Kosgahakanda",
+    "region_name_in_data": "Kosgahakanda",
+    "region_ent_type": "GND",
+    "n_households": 668
+  },
+  {
+    "region_id": "LK-9233115",
+    "region_name": "Kosgahakanda",
+    "region_name_in_data": "Kosgahakanda",
+    "region_ent_type": "GND",
+    "n_households": 668
+  },
+  {
     "region_id": "LK-9233115",
     "region_name": "Kosgahakanda",
     "region_name_in_data": "Kosgahakanda",
@@ -100821,11 +101178,53 @@
     "n_households": 507
   },
   {
+    "region_id": "LK-9233120",
+    "region_name": "Yatiwala",
+    "region_name_in_data": "Yatiwala",
+    "region_ent_type": "GND",
+    "n_households": 507
+  },
+  {
+    "region_id": "LK-9233120",
+    "region_name": "Yatiwala",
+    "region_name_in_data": "Yatiwala",
+    "region_ent_type": "GND",
+    "n_households": 507
+  },
+  {
     "region_id": "LK-9233125",
     "region_name": "Magala",
     "region_name_in_data": "Magala",
     "region_ent_type": "GND",
     "n_households": 298
+  },
+  {
+    "region_id": "LK-9233125",
+    "region_name": "Magala",
+    "region_name_in_data": "Magala",
+    "region_ent_type": "GND",
+    "n_households": 298
+  },
+  {
+    "region_id": "LK-9233125",
+    "region_name": "Magala",
+    "region_name_in_data": "Magala",
+    "region_ent_type": "GND",
+    "n_households": 298
+  },
+  {
+    "region_id": "LK-9233130",
+    "region_name": "Dikellakanda",
+    "region_name_in_data": "Dikellakanda",
+    "region_ent_type": "GND",
+    "n_households": 186
+  },
+  {
+    "region_id": "LK-9233130",
+    "region_name": "Dikellakanda",
+    "region_name_in_data": "Dikellakanda",
+    "region_ent_type": "GND",
+    "n_households": 186
   },
   {
     "region_id": "LK-9233130",

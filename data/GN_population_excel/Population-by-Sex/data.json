@@ -1,194 +1,5 @@
 [
   {
-    "region_id": "EC-01",
-    "region_name": "Colombo",
-    "region_name_in_data": null,
-    "region_ent_type": "DISTRICT",
-    "total": 2375415,
-    "male": 1154799,
-    "female": 1220616
-  },
-  {
-    "region_id": "EC-02",
-    "region_name": "Gampaha",
-    "region_name_in_data": null,
-    "region_ent_type": "DISTRICT",
-    "total": 2436142,
-    "male": 1175469,
-    "female": 1260673
-  },
-  {
-    "region_id": "EC-03",
-    "region_name": "Kalutara",
-    "region_name_in_data": null,
-    "region_ent_type": "DISTRICT",
-    "total": 1305784,
-    "male": 631106,
-    "female": 674678
-  },
-  {
-    "region_id": "EC-04",
-    "region_name": "Kandy",
-    "region_name_in_data": null,
-    "region_ent_type": "DISTRICT",
-    "total": 1461895,
-    "male": 696713,
-    "female": 765182
-  },
-  {
-    "region_id": "EC-05",
-    "region_name": "Matale",
-    "region_name_in_data": null,
-    "region_ent_type": "DISTRICT",
-    "total": 526870,
-    "male": 255221,
-    "female": 271649
-  },
-  {
-    "region_id": "EC-06",
-    "region_name": "Nuwara-Eliya",
-    "region_name_in_data": null,
-    "region_ent_type": "DISTRICT",
-    "total": 725280,
-    "male": 346471,
-    "female": 378809
-  },
-  {
-    "region_id": "EC-07",
-    "region_name": "Galle",
-    "region_name_in_data": null,
-    "region_ent_type": "DISTRICT",
-    "total": 1097372,
-    "male": 527640,
-    "female": 569732
-  },
-  {
-    "region_id": "EC-08",
-    "region_name": "Matara",
-    "region_name_in_data": null,
-    "region_ent_type": "DISTRICT",
-    "total": 837889,
-    "male": 401980,
-    "female": 435909
-  },
-  {
-    "region_id": "EC-09",
-    "region_name": "Hambantota",
-    "region_name_in_data": null,
-    "region_ent_type": "DISTRICT",
-    "total": 671418,
-    "male": 329210,
-    "female": 342208
-  },
-  {
-    "region_id": "EC-10",
-    "region_name": "Jaffna",
-    "region_name_in_data": null,
-    "region_ent_type": "DISTRICT",
-    "total": 731461,
-    "male": 347677,
-    "female": 383784
-  },
-  {
-    "region_id": "EC-11",
-    "region_name": "Vanni",
-    "region_name_in_data": null,
-    "region_ent_type": "DISTRICT",
-    "total": 418687,
-    "male": 203596,
-    "female": 215091
-  },
-  {
-    "region_id": "EC-12",
-    "region_name": "Batticaloa",
-    "region_name_in_data": null,
-    "region_ent_type": "DISTRICT",
-    "total": 595918,
-    "male": 278885,
-    "female": 317033
-  },
-  {
-    "region_id": "EC-13",
-    "region_name": "Digamadulla",
-    "region_name_in_data": null,
-    "region_ent_type": "DISTRICT",
-    "total": 744551,
-    "male": 354018,
-    "female": 390533
-  },
-  {
-    "region_id": "EC-14",
-    "region_name": "Trincomalee",
-    "region_name_in_data": null,
-    "region_ent_type": "DISTRICT",
-    "total": 442745,
-    "male": 217704,
-    "female": 225041
-  },
-  {
-    "region_id": "EC-15",
-    "region_name": "Kurunegala",
-    "region_name_in_data": null,
-    "region_ent_type": "DISTRICT",
-    "total": 1768156,
-    "male": 849072,
-    "female": 919084
-  },
-  {
-    "region_id": "EC-16",
-    "region_name": "Puttalam",
-    "region_name_in_data": null,
-    "region_ent_type": "DISTRICT",
-    "total": 818816,
-    "male": 394244,
-    "female": 424572
-  },
-  {
-    "region_id": "EC-17",
-    "region_name": "Anuradhapura",
-    "region_name_in_data": null,
-    "region_ent_type": "DISTRICT",
-    "total": 960080,
-    "male": 466571,
-    "female": 493509
-  },
-  {
-    "region_id": "EC-18",
-    "region_name": "Polonnaruwa",
-    "region_name_in_data": null,
-    "region_ent_type": "DISTRICT",
-    "total": 447530,
-    "male": 219686,
-    "female": 227844
-  },
-  {
-    "region_id": "EC-19",
-    "region_name": "Badulla",
-    "region_name_in_data": null,
-    "region_ent_type": "DISTRICT",
-    "total": 872307,
-    "male": 422818,
-    "female": 449489
-  },
-  {
-    "region_id": "EC-20",
-    "region_name": "Moneragala",
-    "region_name_in_data": null,
-    "region_ent_type": "DISTRICT",
-    "total": 527585,
-    "male": 260927,
-    "female": 266658
-  },
-  {
-    "region_id": "EC-21",
-    "region_name": "Ratnapura",
-    "region_name_in_data": null,
-    "region_ent_type": "DISTRICT",
-    "total": 1145423,
-    "male": 562459,
-    "female": 582964
-  },
-  {
     "region_id": "EC-22",
     "region_name": "Kegalle",
     "region_name_in_data": null,
@@ -196,6 +7,24 @@
     "total": 870476,
     "male": 416078,
     "female": 454398
+  },
+  {
+    "region_id": "EC-22I",
+    "region_name": "Deraniyagala",
+    "region_name_in_data": null,
+    "region_ent_type": "GND",
+    "total": 91609,
+    "male": 44815,
+    "female": 46794
+  },
+  {
+    "region_id": "LG-92033",
+    "region_name": "Deraniyagala PS",
+    "region_name_in_data": null,
+    "region_ent_type": "GND",
+    "total": 44005,
+    "male": 21381,
+    "female": 22624
   },
   {
     "region_id": "LK",
@@ -124389,6 +124218,15 @@
     "female": 454398
   },
   {
+    "region_id": "LK-92",
+    "region_name": "Kegalle",
+    "region_name_in_data": "Kegalle",
+    "region_ent_type": "DISTRICT",
+    "total": 870476,
+    "male": 416078,
+    "female": 454398
+  },
+  {
     "region_id": "LK-9203",
     "region_name": "Rambukkana",
     "region_name_in_data": "Rambukkana",
@@ -129105,6 +128943,24 @@
     "female": 2279
   },
   {
+    "region_id": "LK-9230030",
+    "region_name": "Walpola",
+    "region_name_in_data": "Walpola",
+    "region_ent_type": "GND",
+    "total": 4538,
+    "male": 2259,
+    "female": 2279
+  },
+  {
+    "region_id": "LK-9230035",
+    "region_name": "Boralankada",
+    "region_name_in_data": "Boralankada",
+    "region_ent_type": "GND",
+    "total": 2283,
+    "male": 1162,
+    "female": 1121
+  },
+  {
     "region_id": "LK-9230035",
     "region_name": "Boralankada",
     "region_name_in_data": "Boralankada",
@@ -129121,6 +128977,24 @@
     "total": 3281,
     "male": 1653,
     "female": 1628
+  },
+  {
+    "region_id": "LK-9230040",
+    "region_name": "Dikella",
+    "region_name_in_data": "Dikella",
+    "region_ent_type": "GND",
+    "total": 3281,
+    "male": 1653,
+    "female": 1628
+  },
+  {
+    "region_id": "LK-9230045",
+    "region_name": "Kahanavita",
+    "region_name_in_data": "Kahanwita",
+    "region_ent_type": "GND",
+    "total": 1489,
+    "male": 739,
+    "female": 750
   },
   {
     "region_id": "LK-9230045",
@@ -129240,6 +129114,15 @@
     "female": 897
   },
   {
+    "region_id": "LK-9230105",
+    "region_name": "Algoda",
+    "region_name_in_data": "Algoda",
+    "region_ent_type": "GND",
+    "total": 1814,
+    "male": 917,
+    "female": 897
+  },
+  {
     "region_id": "LK-9230110",
     "region_name": "Hinguralakanda East",
     "region_name_in_data": "Hinguralakanda East",
@@ -129247,6 +129130,24 @@
     "total": 1063,
     "male": 519,
     "female": 544
+  },
+  {
+    "region_id": "LK-9230110",
+    "region_name": "Hinguralakanda East",
+    "region_name_in_data": "Hinguralakanda East",
+    "region_ent_type": "GND",
+    "total": 1063,
+    "male": 519,
+    "female": 544
+  },
+  {
+    "region_id": "LK-9230115",
+    "region_name": "Batangala",
+    "region_name_in_data": "Batangala",
+    "region_ent_type": "GND",
+    "total": 2794,
+    "male": 1375,
+    "female": 1419
   },
   {
     "region_id": "LK-9230115",
@@ -129267,6 +129168,15 @@
     "female": 723
   },
   {
+    "region_id": "LK-9230120",
+    "region_name": "Viharakanda",
+    "region_name_in_data": "Viharakanda",
+    "region_ent_type": "GND",
+    "total": 1430,
+    "male": 707,
+    "female": 723
+  },
+  {
     "region_id": "LK-9230125",
     "region_name": "Galabalana Kanda",
     "region_name_in_data": "Galabalana Kanda",
@@ -129274,6 +129184,24 @@
     "total": 1584,
     "male": 766,
     "female": 818
+  },
+  {
+    "region_id": "LK-9230125",
+    "region_name": "Galabalana Kanda",
+    "region_name_in_data": "Galabalana Kanda",
+    "region_ent_type": "GND",
+    "total": 1584,
+    "male": 766,
+    "female": 818
+  },
+  {
+    "region_id": "LK-9230130",
+    "region_name": "Maniyangama",
+    "region_name_in_data": "Maniyangama",
+    "region_ent_type": "GND",
+    "total": 1877,
+    "male": 907,
+    "female": 970
   },
   {
     "region_id": "LK-9230130",
@@ -129294,6 +129222,15 @@
     "female": 2147
   },
   {
+    "region_id": "LK-9230135",
+    "region_name": "Madola",
+    "region_name_in_data": "Madola",
+    "region_ent_type": "GND",
+    "total": 4178,
+    "male": 2031,
+    "female": 2147
+  },
+  {
     "region_id": "LK-9230140",
     "region_name": "Welangalla",
     "region_name_in_data": "Welangalla",
@@ -129301,6 +129238,24 @@
     "total": 2694,
     "male": 1359,
     "female": 1335
+  },
+  {
+    "region_id": "LK-9230140",
+    "region_name": "Welangalla",
+    "region_name_in_data": "Welangalla",
+    "region_ent_type": "GND",
+    "total": 2694,
+    "male": 1359,
+    "female": 1335
+  },
+  {
+    "region_id": "LK-9230145",
+    "region_name": "Bomaluwa",
+    "region_name_in_data": "Bomaluwa",
+    "region_ent_type": "GND",
+    "total": 1341,
+    "male": 619,
+    "female": 722
   },
   {
     "region_id": "LK-9230145",
@@ -129321,6 +129276,15 @@
     "female": 1395
   },
   {
+    "region_id": "LK-9230150",
+    "region_name": "Rangegama",
+    "region_name_in_data": "Rangegama",
+    "region_ent_type": "GND",
+    "total": 2735,
+    "male": 1340,
+    "female": 1395
+  },
+  {
     "region_id": "LK-9230155",
     "region_name": "Panawala",
     "region_name_in_data": "Panawala",
@@ -129328,6 +129292,24 @@
     "total": 2225,
     "male": 1043,
     "female": 1182
+  },
+  {
+    "region_id": "LK-9230155",
+    "region_name": "Panawala",
+    "region_name_in_data": "Panawala",
+    "region_ent_type": "GND",
+    "total": 2225,
+    "male": 1043,
+    "female": 1182
+  },
+  {
+    "region_id": "LK-9230160",
+    "region_name": "Hinguralakanda West",
+    "region_name_in_data": "Hinguralakanda West",
+    "region_ent_type": "GND",
+    "total": 1977,
+    "male": 982,
+    "female": 995
   },
   {
     "region_id": "LK-9230160",
@@ -129348,6 +129330,15 @@
     "female": 856
   },
   {
+    "region_id": "LK-9230165",
+    "region_name": "Pukunuwala",
+    "region_name_in_data": "Pukunuwala",
+    "region_ent_type": "GND",
+    "total": 1727,
+    "male": 871,
+    "female": 856
+  },
+  {
     "region_id": "LK-9230170",
     "region_name": "Godagampala",
     "region_name_in_data": "Godagampala",
@@ -129355,6 +129346,24 @@
     "total": 1706,
     "male": 840,
     "female": 866
+  },
+  {
+    "region_id": "LK-9230170",
+    "region_name": "Godagampala",
+    "region_name_in_data": "Godagampala",
+    "region_ent_type": "GND",
+    "total": 1706,
+    "male": 840,
+    "female": 866
+  },
+  {
+    "region_id": "LK-9230175",
+    "region_name": "Ambalampitiya",
+    "region_name_in_data": "Ambalampitiya",
+    "region_ent_type": "GND",
+    "total": 1683,
+    "male": 802,
+    "female": 881
   },
   {
     "region_id": "LK-9230175",
@@ -129375,6 +129384,24 @@
     "female": 383
   },
   {
+    "region_id": "LK-9230180",
+    "region_name": "Madagammana",
+    "region_name_in_data": "Madagammana",
+    "region_ent_type": "GND",
+    "total": 755,
+    "male": 372,
+    "female": 383
+  },
+  {
+    "region_id": "LK-9230185",
+    "region_name": "Pannila",
+    "region_name_in_data": "Pannila",
+    "region_ent_type": "GND",
+    "total": 1560,
+    "male": 755,
+    "female": 805
+  },
+  {
     "region_id": "LK-9230185",
     "region_name": "Pannila",
     "region_name_in_data": "Pannila",
@@ -129391,6 +129418,24 @@
     "total": 1489,
     "male": 743,
     "female": 746
+  },
+  {
+    "region_id": "LK-9230190",
+    "region_name": "Imbulpitiya",
+    "region_name_in_data": "Imbulpitiya",
+    "region_ent_type": "GND",
+    "total": 1489,
+    "male": 743,
+    "female": 746
+  },
+  {
+    "region_id": "LK-9230195",
+    "region_name": "Elavulla",
+    "region_name_in_data": "Elavulla",
+    "region_ent_type": "GND",
+    "total": 1381,
+    "male": 673,
+    "female": 708
   },
   {
     "region_id": "LK-9230195",
@@ -129420,6 +129465,24 @@
     "female": 328
   },
   {
+    "region_id": "LK-9233005",
+    "region_name": "Ballahela",
+    "region_name_in_data": "Ballahela",
+    "region_ent_type": "GND",
+    "total": 623,
+    "male": 295,
+    "female": 328
+  },
+  {
+    "region_id": "LK-9233005",
+    "region_name": "Ballahela",
+    "region_name_in_data": "Ballahela",
+    "region_ent_type": "GND",
+    "total": 623,
+    "male": 295,
+    "female": 328
+  },
+  {
     "region_id": "LK-9233010",
     "region_name": "Behenella",
     "region_name_in_data": "Behenella",
@@ -129427,6 +129490,42 @@
     "total": 1427,
     "male": 714,
     "female": 713
+  },
+  {
+    "region_id": "LK-9233010",
+    "region_name": "Behenella",
+    "region_name_in_data": "Behenella",
+    "region_ent_type": "GND",
+    "total": 1427,
+    "male": 714,
+    "female": 713
+  },
+  {
+    "region_id": "LK-9233010",
+    "region_name": "Behenella",
+    "region_name_in_data": "Behenella",
+    "region_ent_type": "GND",
+    "total": 1427,
+    "male": 714,
+    "female": 713
+  },
+  {
+    "region_id": "LK-9233015",
+    "region_name": "Nilwala",
+    "region_name_in_data": "Nilwala",
+    "region_ent_type": "GND",
+    "total": 1068,
+    "male": 498,
+    "female": 570
+  },
+  {
+    "region_id": "LK-9233015",
+    "region_name": "Nilwala",
+    "region_name_in_data": "Nilwala",
+    "region_ent_type": "GND",
+    "total": 1068,
+    "male": 498,
+    "female": 570
   },
   {
     "region_id": "LK-9233015",
@@ -129447,6 +129546,24 @@
     "female": 1018
   },
   {
+    "region_id": "LK-9233020",
+    "region_name": "Dodawatta",
+    "region_name_in_data": "Dodawatta",
+    "region_ent_type": "GND",
+    "total": 2019,
+    "male": 1001,
+    "female": 1018
+  },
+  {
+    "region_id": "LK-9233020",
+    "region_name": "Dodawatta",
+    "region_name_in_data": "Dodawatta",
+    "region_ent_type": "GND",
+    "total": 2019,
+    "male": 1001,
+    "female": 1018
+  },
+  {
     "region_id": "LK-9233025",
     "region_name": "Basnagala",
     "region_name_in_data": "Basnagala",
@@ -129454,6 +129571,42 @@
     "total": 1872,
     "male": 893,
     "female": 979
+  },
+  {
+    "region_id": "LK-9233025",
+    "region_name": "Basnagala",
+    "region_name_in_data": "Basnagala",
+    "region_ent_type": "GND",
+    "total": 1872,
+    "male": 893,
+    "female": 979
+  },
+  {
+    "region_id": "LK-9233025",
+    "region_name": "Basnagala",
+    "region_name_in_data": "Basnagala",
+    "region_ent_type": "GND",
+    "total": 1872,
+    "male": 893,
+    "female": 979
+  },
+  {
+    "region_id": "LK-9233030",
+    "region_name": "Keerihena",
+    "region_name_in_data": "Keerihena",
+    "region_ent_type": "GND",
+    "total": 796,
+    "male": 383,
+    "female": 413
+  },
+  {
+    "region_id": "LK-9233030",
+    "region_name": "Keerihena",
+    "region_name_in_data": "Keerihena",
+    "region_ent_type": "GND",
+    "total": 796,
+    "male": 383,
+    "female": 413
   },
   {
     "region_id": "LK-9233030",
@@ -129474,6 +129627,24 @@
     "female": 952
   },
   {
+    "region_id": "LK-9233035",
+    "region_name": "Udabage",
+    "region_name_in_data": "Udabage",
+    "region_ent_type": "GND",
+    "total": 1861,
+    "male": 909,
+    "female": 952
+  },
+  {
+    "region_id": "LK-9233035",
+    "region_name": "Udabage",
+    "region_name_in_data": "Udabage",
+    "region_ent_type": "GND",
+    "total": 1861,
+    "male": 909,
+    "female": 952
+  },
+  {
     "region_id": "LK-9233040",
     "region_name": "Wattegedara",
     "region_name_in_data": "Wattegedara",
@@ -129481,6 +129652,42 @@
     "total": 4265,
     "male": 2056,
     "female": 2209
+  },
+  {
+    "region_id": "LK-9233040",
+    "region_name": "Wattegedara",
+    "region_name_in_data": "Wattegedara",
+    "region_ent_type": "GND",
+    "total": 4265,
+    "male": 2056,
+    "female": 2209
+  },
+  {
+    "region_id": "LK-9233040",
+    "region_name": "Wattegedara",
+    "region_name_in_data": "Wattegedara",
+    "region_ent_type": "GND",
+    "total": 4265,
+    "male": 2056,
+    "female": 2209
+  },
+  {
+    "region_id": "LK-9233045",
+    "region_name": "Deraniyagala",
+    "region_name_in_data": "Deraniyagala",
+    "region_ent_type": "GND",
+    "total": 3339,
+    "male": 1584,
+    "female": 1755
+  },
+  {
+    "region_id": "LK-9233045",
+    "region_name": "Deraniyagala",
+    "region_name_in_data": "Deraniyagala",
+    "region_ent_type": "GND",
+    "total": 3339,
+    "male": 1584,
+    "female": 1755
   },
   {
     "region_id": "LK-9233045",
@@ -129501,6 +129708,24 @@
     "female": 937
   },
   {
+    "region_id": "LK-9233050",
+    "region_name": "Lassegama",
+    "region_name_in_data": "Lassegama",
+    "region_ent_type": "GND",
+    "total": 1823,
+    "male": 886,
+    "female": 937
+  },
+  {
+    "region_id": "LK-9233050",
+    "region_name": "Lassegama",
+    "region_name_in_data": "Lassegama",
+    "region_ent_type": "GND",
+    "total": 1823,
+    "male": 886,
+    "female": 937
+  },
+  {
     "region_id": "LK-9233055",
     "region_name": "Anhettigama",
     "region_name_in_data": "Anhettigama",
@@ -129508,6 +129733,42 @@
     "total": 1227,
     "male": 578,
     "female": 649
+  },
+  {
+    "region_id": "LK-9233055",
+    "region_name": "Anhettigama",
+    "region_name_in_data": "Anhettigama",
+    "region_ent_type": "GND",
+    "total": 1227,
+    "male": 578,
+    "female": 649
+  },
+  {
+    "region_id": "LK-9233055",
+    "region_name": "Anhettigama",
+    "region_name_in_data": "Anhettigama",
+    "region_ent_type": "GND",
+    "total": 1227,
+    "male": 578,
+    "female": 649
+  },
+  {
+    "region_id": "LK-9233060",
+    "region_name": "Panakoora",
+    "region_name_in_data": "Panakoora",
+    "region_ent_type": "GND",
+    "total": 1105,
+    "male": 563,
+    "female": 542
+  },
+  {
+    "region_id": "LK-9233060",
+    "region_name": "Panakoora",
+    "region_name_in_data": "Panakoora",
+    "region_ent_type": "GND",
+    "total": 1105,
+    "male": 563,
+    "female": 542
   },
   {
     "region_id": "LK-9233060",
@@ -129528,6 +129789,24 @@
     "female": 742
   },
   {
+    "region_id": "LK-9233065",
+    "region_name": "Pandaha",
+    "region_name_in_data": "Pandaha",
+    "region_ent_type": "GND",
+    "total": 1548,
+    "male": 806,
+    "female": 742
+  },
+  {
+    "region_id": "LK-9233065",
+    "region_name": "Pandaha",
+    "region_name_in_data": "Pandaha",
+    "region_ent_type": "GND",
+    "total": 1548,
+    "male": 806,
+    "female": 742
+  },
+  {
     "region_id": "LK-9233070",
     "region_name": "Polgaswatta",
     "region_name_in_data": "Polgaswatta",
@@ -129535,6 +129814,42 @@
     "total": 1199,
     "male": 588,
     "female": 611
+  },
+  {
+    "region_id": "LK-9233070",
+    "region_name": "Polgaswatta",
+    "region_name_in_data": "Polgaswatta",
+    "region_ent_type": "GND",
+    "total": 1199,
+    "male": 588,
+    "female": 611
+  },
+  {
+    "region_id": "LK-9233070",
+    "region_name": "Polgaswatta",
+    "region_name_in_data": "Polgaswatta",
+    "region_ent_type": "GND",
+    "total": 1199,
+    "male": 588,
+    "female": 611
+  },
+  {
+    "region_id": "LK-9233075",
+    "region_name": "Maliboda",
+    "region_name_in_data": "Maliboda",
+    "region_ent_type": "GND",
+    "total": 1745,
+    "male": 814,
+    "female": 931
+  },
+  {
+    "region_id": "LK-9233075",
+    "region_name": "Maliboda",
+    "region_name_in_data": "Maliboda",
+    "region_ent_type": "GND",
+    "total": 1745,
+    "male": 814,
+    "female": 931
   },
   {
     "region_id": "LK-9233075",
@@ -129555,6 +129870,24 @@
     "female": 1105
   },
   {
+    "region_id": "LK-9233080",
+    "region_name": "Poddenikanda",
+    "region_name_in_data": "Poddenikanda",
+    "region_ent_type": "GND",
+    "total": 2196,
+    "male": 1091,
+    "female": 1105
+  },
+  {
+    "region_id": "LK-9233080",
+    "region_name": "Poddenikanda",
+    "region_name_in_data": "Poddenikanda",
+    "region_ent_type": "GND",
+    "total": 2196,
+    "male": 1091,
+    "female": 1105
+  },
+  {
     "region_id": "LK-9233085",
     "region_name": "Nakkavita",
     "region_name_in_data": "Nakkavita",
@@ -129562,6 +129895,42 @@
     "total": 1246,
     "male": 596,
     "female": 650
+  },
+  {
+    "region_id": "LK-9233085",
+    "region_name": "Nakkavita",
+    "region_name_in_data": "Nakkavita",
+    "region_ent_type": "GND",
+    "total": 1246,
+    "male": 596,
+    "female": 650
+  },
+  {
+    "region_id": "LK-9233085",
+    "region_name": "Nakkavita",
+    "region_name_in_data": "Nakkavita",
+    "region_ent_type": "GND",
+    "total": 1246,
+    "male": 596,
+    "female": 650
+  },
+  {
+    "region_id": "LK-9233090",
+    "region_name": "Miyanavita",
+    "region_name_in_data": "Miyanawita",
+    "region_ent_type": "GND",
+    "total": 2059,
+    "male": 970,
+    "female": 1089
+  },
+  {
+    "region_id": "LK-9233090",
+    "region_name": "Miyanavita",
+    "region_name_in_data": "Miyanawita",
+    "region_ent_type": "GND",
+    "total": 2059,
+    "male": 970,
+    "female": 1089
   },
   {
     "region_id": "LK-9233090",
@@ -129582,6 +129951,24 @@
     "female": 1588
   },
   {
+    "region_id": "LK-9233095",
+    "region_name": "Deraniyagala South",
+    "region_name_in_data": "Deraniyagala South",
+    "region_ent_type": "GND",
+    "total": 2995,
+    "male": 1407,
+    "female": 1588
+  },
+  {
+    "region_id": "LK-9233095",
+    "region_name": "Deraniyagala South",
+    "region_name_in_data": "Deraniyagala South",
+    "region_ent_type": "GND",
+    "total": 2995,
+    "male": 1407,
+    "female": 1588
+  },
+  {
     "region_id": "LK-9233100",
     "region_name": "Rasnakkanda",
     "region_name_in_data": "Rasnakkanda",
@@ -129589,6 +129976,42 @@
     "total": 1307,
     "male": 638,
     "female": 669
+  },
+  {
+    "region_id": "LK-9233100",
+    "region_name": "Rasnakkanda",
+    "region_name_in_data": "Rasnakkanda",
+    "region_ent_type": "GND",
+    "total": 1307,
+    "male": 638,
+    "female": 669
+  },
+  {
+    "region_id": "LK-9233100",
+    "region_name": "Rasnakkanda",
+    "region_name_in_data": "Rasnakkanda",
+    "region_ent_type": "GND",
+    "total": 1307,
+    "male": 638,
+    "female": 669
+  },
+  {
+    "region_id": "LK-9233105",
+    "region_name": "Udapola",
+    "region_name_in_data": "Udapola",
+    "region_ent_type": "GND",
+    "total": 1897,
+    "male": 933,
+    "female": 964
+  },
+  {
+    "region_id": "LK-9233105",
+    "region_name": "Udapola",
+    "region_name_in_data": "Udapola",
+    "region_ent_type": "GND",
+    "total": 1897,
+    "male": 933,
+    "female": 964
   },
   {
     "region_id": "LK-9233105",
@@ -129609,6 +130032,42 @@
     "female": 467
   },
   {
+    "region_id": "LK-9233110",
+    "region_name": "Demeda",
+    "region_name_in_data": "Demeda",
+    "region_ent_type": "GND",
+    "total": 921,
+    "male": 454,
+    "female": 467
+  },
+  {
+    "region_id": "LK-9233110",
+    "region_name": "Demeda",
+    "region_name_in_data": "Demeda",
+    "region_ent_type": "GND",
+    "total": 921,
+    "male": 454,
+    "female": 467
+  },
+  {
+    "region_id": "LK-9233115",
+    "region_name": "Kosgahakanda",
+    "region_name_in_data": "Kosgahakanda",
+    "region_ent_type": "GND",
+    "total": 2238,
+    "male": 1088,
+    "female": 1150
+  },
+  {
+    "region_id": "LK-9233115",
+    "region_name": "Kosgahakanda",
+    "region_name_in_data": "Kosgahakanda",
+    "region_ent_type": "GND",
+    "total": 2238,
+    "male": 1088,
+    "female": 1150
+  },
+  {
     "region_id": "LK-9233115",
     "region_name": "Kosgahakanda",
     "region_name_in_data": "Kosgahakanda",
@@ -129627,6 +130086,24 @@
     "female": 861
   },
   {
+    "region_id": "LK-9233120",
+    "region_name": "Yatiwala",
+    "region_name_in_data": "Yatiwala",
+    "region_ent_type": "GND",
+    "total": 1727,
+    "male": 866,
+    "female": 861
+  },
+  {
+    "region_id": "LK-9233120",
+    "region_name": "Yatiwala",
+    "region_name_in_data": "Yatiwala",
+    "region_ent_type": "GND",
+    "total": 1727,
+    "male": 866,
+    "female": 861
+  },
+  {
     "region_id": "LK-9233125",
     "region_name": "Magala",
     "region_name_in_data": "Magala",
@@ -129634,6 +130111,42 @@
     "total": 947,
     "male": 478,
     "female": 469
+  },
+  {
+    "region_id": "LK-9233125",
+    "region_name": "Magala",
+    "region_name_in_data": "Magala",
+    "region_ent_type": "GND",
+    "total": 947,
+    "male": 478,
+    "female": 469
+  },
+  {
+    "region_id": "LK-9233125",
+    "region_name": "Magala",
+    "region_name_in_data": "Magala",
+    "region_ent_type": "GND",
+    "total": 947,
+    "male": 478,
+    "female": 469
+  },
+  {
+    "region_id": "LK-9233130",
+    "region_name": "Dikellakanda",
+    "region_name_in_data": "Dikellakanda",
+    "region_ent_type": "GND",
+    "total": 555,
+    "male": 292,
+    "female": 263
+  },
+  {
+    "region_id": "LK-9233130",
+    "region_name": "Dikellakanda",
+    "region_name_in_data": "Dikellakanda",
+    "region_ent_type": "GND",
+    "total": 555,
+    "male": 292,
+    "female": 263
   },
   {
     "region_id": "LK-9233130",

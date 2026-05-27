@@ -1,236 +1,5 @@
 [
   {
-    "region_id": "EC-01",
-    "region_name": "Colombo",
-    "region_name_in_data": null,
-    "region_ent_type": "DISTRICT",
-    "total": 2375415,
-    "age_0_14": 392725,
-    "age_15_59": 1525336,
-    "age_60_64": 136267,
-    "age_65_and_above": 321087
-  },
-  {
-    "region_id": "EC-02",
-    "region_name": "Gampaha",
-    "region_name_in_data": null,
-    "region_ent_type": "DISTRICT",
-    "total": 2436142,
-    "age_0_14": 438627,
-    "age_15_59": 1538235,
-    "age_60_64": 137057,
-    "age_65_and_above": 322223
-  },
-  {
-    "region_id": "EC-03",
-    "region_name": "Kalutara",
-    "region_name_in_data": null,
-    "region_ent_type": "DISTRICT",
-    "total": 1305784,
-    "age_0_14": 254107,
-    "age_15_59": 806802,
-    "age_60_64": 70067,
-    "age_65_and_above": 174808
-  },
-  {
-    "region_id": "EC-04",
-    "region_name": "Kandy",
-    "region_name_in_data": null,
-    "region_ent_type": "DISTRICT",
-    "total": 1461895,
-    "age_0_14": 308798,
-    "age_15_59": 867789,
-    "age_60_64": 84563,
-    "age_65_and_above": 200745
-  },
-  {
-    "region_id": "EC-05",
-    "region_name": "Matale",
-    "region_name_in_data": null,
-    "region_ent_type": "DISTRICT",
-    "total": 526870,
-    "age_0_14": 115358,
-    "age_15_59": 313310,
-    "age_60_64": 30691,
-    "age_65_and_above": 67511
-  },
-  {
-    "region_id": "EC-06",
-    "region_name": "Nuwara-Eliya",
-    "region_name_in_data": null,
-    "region_ent_type": "DISTRICT",
-    "total": 725280,
-    "age_0_14": 169698,
-    "age_15_59": 427913,
-    "age_60_64": 40472,
-    "age_65_and_above": 87197
-  },
-  {
-    "region_id": "EC-07",
-    "region_name": "Galle",
-    "region_name_in_data": null,
-    "region_ent_type": "DISTRICT",
-    "total": 1097372,
-    "age_0_14": 218808,
-    "age_15_59": 660484,
-    "age_60_64": 61158,
-    "age_65_and_above": 156922
-  },
-  {
-    "region_id": "EC-08",
-    "region_name": "Matara",
-    "region_name_in_data": null,
-    "region_ent_type": "DISTRICT",
-    "total": 837889,
-    "age_0_14": 173277,
-    "age_15_59": 493546,
-    "age_60_64": 46934,
-    "age_65_and_above": 124132
-  },
-  {
-    "region_id": "EC-09",
-    "region_name": "Hambantota",
-    "region_name_in_data": null,
-    "region_ent_type": "DISTRICT",
-    "total": 671418,
-    "age_0_14": 150952,
-    "age_15_59": 399401,
-    "age_60_64": 35642,
-    "age_65_and_above": 85423
-  },
-  {
-    "region_id": "EC-10",
-    "region_name": "Jaffna",
-    "region_name_in_data": null,
-    "region_ent_type": "DISTRICT",
-    "total": 731461,
-    "age_0_14": 146933,
-    "age_15_59": 449739,
-    "age_60_64": 35889,
-    "age_65_and_above": 98900
-  },
-  {
-    "region_id": "EC-11",
-    "region_name": "Vanni",
-    "region_name_in_data": null,
-    "region_ent_type": "DISTRICT",
-    "total": 418687,
-    "age_0_14": 96835,
-    "age_15_59": 265389,
-    "age_60_64": 18347,
-    "age_65_and_above": 38116
-  },
-  {
-    "region_id": "EC-12",
-    "region_name": "Batticaloa",
-    "region_name_in_data": null,
-    "region_ent_type": "DISTRICT",
-    "total": 595918,
-    "age_0_14": 146399,
-    "age_15_59": 374671,
-    "age_60_64": 26073,
-    "age_65_and_above": 48775
-  },
-  {
-    "region_id": "EC-13",
-    "region_name": "Digamadulla",
-    "region_name_in_data": null,
-    "region_ent_type": "DISTRICT",
-    "total": 744551,
-    "age_0_14": 189975,
-    "age_15_59": 455929,
-    "age_60_64": 35039,
-    "age_65_and_above": 63608
-  },
-  {
-    "region_id": "EC-14",
-    "region_name": "Trincomalee",
-    "region_name_in_data": null,
-    "region_ent_type": "DISTRICT",
-    "total": 442745,
-    "age_0_14": 115588,
-    "age_15_59": 276295,
-    "age_60_64": 17900,
-    "age_65_and_above": 32962
-  },
-  {
-    "region_id": "EC-15",
-    "region_name": "Kurunegala",
-    "region_name_in_data": null,
-    "region_ent_type": "DISTRICT",
-    "total": 1768156,
-    "age_0_14": 364836,
-    "age_15_59": 1057426,
-    "age_60_64": 104280,
-    "age_65_and_above": 241614
-  },
-  {
-    "region_id": "EC-16",
-    "region_name": "Puttalam",
-    "region_name_in_data": null,
-    "region_ent_type": "DISTRICT",
-    "total": 818816,
-    "age_0_14": 185986,
-    "age_15_59": 504805,
-    "age_60_64": 40459,
-    "age_65_and_above": 87566
-  },
-  {
-    "region_id": "EC-17",
-    "region_name": "Anuradhapura",
-    "region_name_in_data": null,
-    "region_ent_type": "DISTRICT",
-    "total": 960080,
-    "age_0_14": 220236,
-    "age_15_59": 593398,
-    "age_60_64": 48927,
-    "age_65_and_above": 97519
-  },
-  {
-    "region_id": "EC-18",
-    "region_name": "Polonnaruwa",
-    "region_name_in_data": null,
-    "region_ent_type": "DISTRICT",
-    "total": 447530,
-    "age_0_14": 101284,
-    "age_15_59": 273738,
-    "age_60_64": 23997,
-    "age_65_and_above": 48511
-  },
-  {
-    "region_id": "EC-19",
-    "region_name": "Badulla",
-    "region_name_in_data": null,
-    "region_ent_type": "DISTRICT",
-    "total": 872307,
-    "age_0_14": 188030,
-    "age_15_59": 529454,
-    "age_60_64": 50044,
-    "age_65_and_above": 104779
-  },
-  {
-    "region_id": "EC-20",
-    "region_name": "Moneragala",
-    "region_name_in_data": null,
-    "region_ent_type": "DISTRICT",
-    "total": 527585,
-    "age_0_14": 124232,
-    "age_15_59": 323784,
-    "age_60_64": 26325,
-    "age_65_and_above": 53244
-  },
-  {
-    "region_id": "EC-21",
-    "region_name": "Ratnapura",
-    "region_name_in_data": null,
-    "region_ent_type": "DISTRICT",
-    "total": 1145423,
-    "age_0_14": 232870,
-    "age_15_59": 700561,
-    "age_60_64": 61301,
-    "age_65_and_above": 150691
-  },
-  {
     "region_id": "EC-22",
     "region_name": "Kegalle",
     "region_name_in_data": null,
@@ -240,6 +9,28 @@
     "age_15_59": 515832,
     "age_60_64": 51878,
     "age_65_and_above": 131481
+  },
+  {
+    "region_id": "EC-22I",
+    "region_name": "Deraniyagala",
+    "region_name_in_data": null,
+    "region_ent_type": "GND",
+    "total": 91609,
+    "age_0_14": 17957,
+    "age_15_59": 55515,
+    "age_60_64": 5117,
+    "age_65_and_above": 13020
+  },
+  {
+    "region_id": "LG-92033",
+    "region_name": "Deraniyagala PS",
+    "region_name_in_data": null,
+    "region_ent_type": "GND",
+    "total": 44005,
+    "age_0_14": 8755,
+    "age_15_59": 26095,
+    "age_60_64": 2552,
+    "age_65_and_above": 6603
   },
   {
     "region_id": "LK",
@@ -152031,6 +151822,17 @@
     "age_65_and_above": 131481
   },
   {
+    "region_id": "LK-92",
+    "region_name": "Kegalle",
+    "region_name_in_data": "Kegalle",
+    "region_ent_type": "DISTRICT",
+    "total": 870476,
+    "age_0_14": 171285,
+    "age_15_59": 515832,
+    "age_60_64": 51878,
+    "age_65_and_above": 131481
+  },
+  {
     "region_id": "LK-9203",
     "region_name": "Rambukkana",
     "region_name_in_data": "Rambukkana",
@@ -157795,6 +157597,28 @@
     "age_65_and_above": 568
   },
   {
+    "region_id": "LK-9230030",
+    "region_name": "Walpola",
+    "region_name_in_data": "Walpola",
+    "region_ent_type": "GND",
+    "total": 4538,
+    "age_0_14": 890,
+    "age_15_59": 2813,
+    "age_60_64": 267,
+    "age_65_and_above": 568
+  },
+  {
+    "region_id": "LK-9230035",
+    "region_name": "Boralankada",
+    "region_name_in_data": "Boralankada",
+    "region_ent_type": "GND",
+    "total": 2283,
+    "age_0_14": 405,
+    "age_15_59": 1422,
+    "age_60_64": 125,
+    "age_65_and_above": 331
+  },
+  {
     "region_id": "LK-9230035",
     "region_name": "Boralankada",
     "region_name_in_data": "Boralankada",
@@ -157815,6 +157639,28 @@
     "age_15_59": 2095,
     "age_60_64": 163,
     "age_65_and_above": 427
+  },
+  {
+    "region_id": "LK-9230040",
+    "region_name": "Dikella",
+    "region_name_in_data": "Dikella",
+    "region_ent_type": "GND",
+    "total": 3281,
+    "age_0_14": 596,
+    "age_15_59": 2095,
+    "age_60_64": 163,
+    "age_65_and_above": 427
+  },
+  {
+    "region_id": "LK-9230045",
+    "region_name": "Kahanavita",
+    "region_name_in_data": "Kahanwita",
+    "region_ent_type": "GND",
+    "total": 1489,
+    "age_0_14": 309,
+    "age_15_59": 922,
+    "age_60_64": 83,
+    "age_65_and_above": 175
   },
   {
     "region_id": "LK-9230045",
@@ -157960,6 +157806,17 @@
     "age_65_and_above": 228
   },
   {
+    "region_id": "LK-9230105",
+    "region_name": "Algoda",
+    "region_name_in_data": "Algoda",
+    "region_ent_type": "GND",
+    "total": 1814,
+    "age_0_14": 349,
+    "age_15_59": 1150,
+    "age_60_64": 87,
+    "age_65_and_above": 228
+  },
+  {
     "region_id": "LK-9230110",
     "region_name": "Hinguralakanda East",
     "region_name_in_data": "Hinguralakanda East",
@@ -157969,6 +157826,28 @@
     "age_15_59": 635,
     "age_60_64": 42,
     "age_65_and_above": 162
+  },
+  {
+    "region_id": "LK-9230110",
+    "region_name": "Hinguralakanda East",
+    "region_name_in_data": "Hinguralakanda East",
+    "region_ent_type": "GND",
+    "total": 1063,
+    "age_0_14": 224,
+    "age_15_59": 635,
+    "age_60_64": 42,
+    "age_65_and_above": 162
+  },
+  {
+    "region_id": "LK-9230115",
+    "region_name": "Batangala",
+    "region_name_in_data": "Batangala",
+    "region_ent_type": "GND",
+    "total": 2794,
+    "age_0_14": 541,
+    "age_15_59": 1679,
+    "age_60_64": 163,
+    "age_65_and_above": 411
   },
   {
     "region_id": "LK-9230115",
@@ -157993,6 +157872,17 @@
     "age_65_and_above": 203
   },
   {
+    "region_id": "LK-9230120",
+    "region_name": "Viharakanda",
+    "region_name_in_data": "Viharakanda",
+    "region_ent_type": "GND",
+    "total": 1430,
+    "age_0_14": 263,
+    "age_15_59": 883,
+    "age_60_64": 81,
+    "age_65_and_above": 203
+  },
+  {
     "region_id": "LK-9230125",
     "region_name": "Galabalana Kanda",
     "region_name_in_data": "Galabalana Kanda",
@@ -158002,6 +157892,28 @@
     "age_15_59": 962,
     "age_60_64": 83,
     "age_65_and_above": 225
+  },
+  {
+    "region_id": "LK-9230125",
+    "region_name": "Galabalana Kanda",
+    "region_name_in_data": "Galabalana Kanda",
+    "region_ent_type": "GND",
+    "total": 1584,
+    "age_0_14": 314,
+    "age_15_59": 962,
+    "age_60_64": 83,
+    "age_65_and_above": 225
+  },
+  {
+    "region_id": "LK-9230130",
+    "region_name": "Maniyangama",
+    "region_name_in_data": "Maniyangama",
+    "region_ent_type": "GND",
+    "total": 1877,
+    "age_0_14": 344,
+    "age_15_59": 1186,
+    "age_60_64": 89,
+    "age_65_and_above": 258
   },
   {
     "region_id": "LK-9230130",
@@ -158026,6 +157938,17 @@
     "age_65_and_above": 444
   },
   {
+    "region_id": "LK-9230135",
+    "region_name": "Madola",
+    "region_name_in_data": "Madola",
+    "region_ent_type": "GND",
+    "total": 4178,
+    "age_0_14": 767,
+    "age_15_59": 2761,
+    "age_60_64": 206,
+    "age_65_and_above": 444
+  },
+  {
     "region_id": "LK-9230140",
     "region_name": "Welangalla",
     "region_name_in_data": "Welangalla",
@@ -158035,6 +157958,28 @@
     "age_15_59": 1640,
     "age_60_64": 139,
     "age_65_and_above": 389
+  },
+  {
+    "region_id": "LK-9230140",
+    "region_name": "Welangalla",
+    "region_name_in_data": "Welangalla",
+    "region_ent_type": "GND",
+    "total": 2694,
+    "age_0_14": 526,
+    "age_15_59": 1640,
+    "age_60_64": 139,
+    "age_65_and_above": 389
+  },
+  {
+    "region_id": "LK-9230145",
+    "region_name": "Bomaluwa",
+    "region_name_in_data": "Bomaluwa",
+    "region_ent_type": "GND",
+    "total": 1341,
+    "age_0_14": 256,
+    "age_15_59": 821,
+    "age_60_64": 70,
+    "age_65_and_above": 194
   },
   {
     "region_id": "LK-9230145",
@@ -158059,6 +158004,17 @@
     "age_65_and_above": 399
   },
   {
+    "region_id": "LK-9230150",
+    "region_name": "Rangegama",
+    "region_name_in_data": "Rangegama",
+    "region_ent_type": "GND",
+    "total": 2735,
+    "age_0_14": 523,
+    "age_15_59": 1657,
+    "age_60_64": 156,
+    "age_65_and_above": 399
+  },
+  {
     "region_id": "LK-9230155",
     "region_name": "Panawala",
     "region_name_in_data": "Panawala",
@@ -158068,6 +158024,28 @@
     "age_15_59": 1323,
     "age_60_64": 129,
     "age_65_and_above": 354
+  },
+  {
+    "region_id": "LK-9230155",
+    "region_name": "Panawala",
+    "region_name_in_data": "Panawala",
+    "region_ent_type": "GND",
+    "total": 2225,
+    "age_0_14": 419,
+    "age_15_59": 1323,
+    "age_60_64": 129,
+    "age_65_and_above": 354
+  },
+  {
+    "region_id": "LK-9230160",
+    "region_name": "Hinguralakanda West",
+    "region_name_in_data": "Hinguralakanda West",
+    "region_ent_type": "GND",
+    "total": 1977,
+    "age_0_14": 402,
+    "age_15_59": 1224,
+    "age_60_64": 105,
+    "age_65_and_above": 246
   },
   {
     "region_id": "LK-9230160",
@@ -158092,6 +158070,17 @@
     "age_65_and_above": 234
   },
   {
+    "region_id": "LK-9230165",
+    "region_name": "Pukunuwala",
+    "region_name_in_data": "Pukunuwala",
+    "region_ent_type": "GND",
+    "total": 1727,
+    "age_0_14": 342,
+    "age_15_59": 1055,
+    "age_60_64": 96,
+    "age_65_and_above": 234
+  },
+  {
     "region_id": "LK-9230170",
     "region_name": "Godagampala",
     "region_name_in_data": "Godagampala",
@@ -158101,6 +158090,28 @@
     "age_15_59": 1033,
     "age_60_64": 98,
     "age_65_and_above": 208
+  },
+  {
+    "region_id": "LK-9230170",
+    "region_name": "Godagampala",
+    "region_name_in_data": "Godagampala",
+    "region_ent_type": "GND",
+    "total": 1706,
+    "age_0_14": 367,
+    "age_15_59": 1033,
+    "age_60_64": 98,
+    "age_65_and_above": 208
+  },
+  {
+    "region_id": "LK-9230175",
+    "region_name": "Ambalampitiya",
+    "region_name_in_data": "Ambalampitiya",
+    "region_ent_type": "GND",
+    "total": 1683,
+    "age_0_14": 355,
+    "age_15_59": 1001,
+    "age_60_64": 87,
+    "age_65_and_above": 240
   },
   {
     "region_id": "LK-9230175",
@@ -158125,6 +158136,28 @@
     "age_65_and_above": 111
   },
   {
+    "region_id": "LK-9230180",
+    "region_name": "Madagammana",
+    "region_name_in_data": "Madagammana",
+    "region_ent_type": "GND",
+    "total": 755,
+    "age_0_14": 133,
+    "age_15_59": 474,
+    "age_60_64": 37,
+    "age_65_and_above": 111
+  },
+  {
+    "region_id": "LK-9230185",
+    "region_name": "Pannila",
+    "region_name_in_data": "Pannila",
+    "region_ent_type": "GND",
+    "total": 1560,
+    "age_0_14": 322,
+    "age_15_59": 940,
+    "age_60_64": 80,
+    "age_65_and_above": 218
+  },
+  {
     "region_id": "LK-9230185",
     "region_name": "Pannila",
     "region_name_in_data": "Pannila",
@@ -158145,6 +158178,28 @@
     "age_15_59": 916,
     "age_60_64": 105,
     "age_65_and_above": 220
+  },
+  {
+    "region_id": "LK-9230190",
+    "region_name": "Imbulpitiya",
+    "region_name_in_data": "Imbulpitiya",
+    "region_ent_type": "GND",
+    "total": 1489,
+    "age_0_14": 248,
+    "age_15_59": 916,
+    "age_60_64": 105,
+    "age_65_and_above": 220
+  },
+  {
+    "region_id": "LK-9230195",
+    "region_name": "Elavulla",
+    "region_name_in_data": "Elavulla",
+    "region_ent_type": "GND",
+    "total": 1381,
+    "age_0_14": 307,
+    "age_15_59": 828,
+    "age_60_64": 74,
+    "age_65_and_above": 172
   },
   {
     "region_id": "LK-9230195",
@@ -158180,6 +158235,28 @@
     "age_65_and_above": 129
   },
   {
+    "region_id": "LK-9233005",
+    "region_name": "Ballahela",
+    "region_name_in_data": "Ballahela",
+    "region_ent_type": "GND",
+    "total": 623,
+    "age_0_14": 109,
+    "age_15_59": 353,
+    "age_60_64": 32,
+    "age_65_and_above": 129
+  },
+  {
+    "region_id": "LK-9233005",
+    "region_name": "Ballahela",
+    "region_name_in_data": "Ballahela",
+    "region_ent_type": "GND",
+    "total": 623,
+    "age_0_14": 109,
+    "age_15_59": 353,
+    "age_60_64": 32,
+    "age_65_and_above": 129
+  },
+  {
     "region_id": "LK-9233010",
     "region_name": "Behenella",
     "region_name_in_data": "Behenella",
@@ -158189,6 +158266,50 @@
     "age_15_59": 872,
     "age_60_64": 85,
     "age_65_and_above": 204
+  },
+  {
+    "region_id": "LK-9233010",
+    "region_name": "Behenella",
+    "region_name_in_data": "Behenella",
+    "region_ent_type": "GND",
+    "total": 1427,
+    "age_0_14": 266,
+    "age_15_59": 872,
+    "age_60_64": 85,
+    "age_65_and_above": 204
+  },
+  {
+    "region_id": "LK-9233010",
+    "region_name": "Behenella",
+    "region_name_in_data": "Behenella",
+    "region_ent_type": "GND",
+    "total": 1427,
+    "age_0_14": 266,
+    "age_15_59": 872,
+    "age_60_64": 85,
+    "age_65_and_above": 204
+  },
+  {
+    "region_id": "LK-9233015",
+    "region_name": "Nilwala",
+    "region_name_in_data": "Nilwala",
+    "region_ent_type": "GND",
+    "total": 1068,
+    "age_0_14": 197,
+    "age_15_59": 575,
+    "age_60_64": 84,
+    "age_65_and_above": 212
+  },
+  {
+    "region_id": "LK-9233015",
+    "region_name": "Nilwala",
+    "region_name_in_data": "Nilwala",
+    "region_ent_type": "GND",
+    "total": 1068,
+    "age_0_14": 197,
+    "age_15_59": 575,
+    "age_60_64": 84,
+    "age_65_and_above": 212
   },
   {
     "region_id": "LK-9233015",
@@ -158213,6 +158334,28 @@
     "age_65_and_above": 323
   },
   {
+    "region_id": "LK-9233020",
+    "region_name": "Dodawatta",
+    "region_name_in_data": "Dodawatta",
+    "region_ent_type": "GND",
+    "total": 2019,
+    "age_0_14": 424,
+    "age_15_59": 1147,
+    "age_60_64": 125,
+    "age_65_and_above": 323
+  },
+  {
+    "region_id": "LK-9233020",
+    "region_name": "Dodawatta",
+    "region_name_in_data": "Dodawatta",
+    "region_ent_type": "GND",
+    "total": 2019,
+    "age_0_14": 424,
+    "age_15_59": 1147,
+    "age_60_64": 125,
+    "age_65_and_above": 323
+  },
+  {
     "region_id": "LK-9233025",
     "region_name": "Basnagala",
     "region_name_in_data": "Basnagala",
@@ -158222,6 +158365,50 @@
     "age_15_59": 1097,
     "age_60_64": 139,
     "age_65_and_above": 284
+  },
+  {
+    "region_id": "LK-9233025",
+    "region_name": "Basnagala",
+    "region_name_in_data": "Basnagala",
+    "region_ent_type": "GND",
+    "total": 1872,
+    "age_0_14": 352,
+    "age_15_59": 1097,
+    "age_60_64": 139,
+    "age_65_and_above": 284
+  },
+  {
+    "region_id": "LK-9233025",
+    "region_name": "Basnagala",
+    "region_name_in_data": "Basnagala",
+    "region_ent_type": "GND",
+    "total": 1872,
+    "age_0_14": 352,
+    "age_15_59": 1097,
+    "age_60_64": 139,
+    "age_65_and_above": 284
+  },
+  {
+    "region_id": "LK-9233030",
+    "region_name": "Keerihena",
+    "region_name_in_data": "Keerihena",
+    "region_ent_type": "GND",
+    "total": 796,
+    "age_0_14": 131,
+    "age_15_59": 434,
+    "age_60_64": 64,
+    "age_65_and_above": 167
+  },
+  {
+    "region_id": "LK-9233030",
+    "region_name": "Keerihena",
+    "region_name_in_data": "Keerihena",
+    "region_ent_type": "GND",
+    "total": 796,
+    "age_0_14": 131,
+    "age_15_59": 434,
+    "age_60_64": 64,
+    "age_65_and_above": 167
   },
   {
     "region_id": "LK-9233030",
@@ -158246,6 +158433,28 @@
     "age_65_and_above": 307
   },
   {
+    "region_id": "LK-9233035",
+    "region_name": "Udabage",
+    "region_name_in_data": "Udabage",
+    "region_ent_type": "GND",
+    "total": 1861,
+    "age_0_14": 353,
+    "age_15_59": 1108,
+    "age_60_64": 93,
+    "age_65_and_above": 307
+  },
+  {
+    "region_id": "LK-9233035",
+    "region_name": "Udabage",
+    "region_name_in_data": "Udabage",
+    "region_ent_type": "GND",
+    "total": 1861,
+    "age_0_14": 353,
+    "age_15_59": 1108,
+    "age_60_64": 93,
+    "age_65_and_above": 307
+  },
+  {
     "region_id": "LK-9233040",
     "region_name": "Wattegedara",
     "region_name_in_data": "Wattegedara",
@@ -158255,6 +158464,50 @@
     "age_15_59": 2615,
     "age_60_64": 210,
     "age_65_and_above": 499
+  },
+  {
+    "region_id": "LK-9233040",
+    "region_name": "Wattegedara",
+    "region_name_in_data": "Wattegedara",
+    "region_ent_type": "GND",
+    "total": 4265,
+    "age_0_14": 941,
+    "age_15_59": 2615,
+    "age_60_64": 210,
+    "age_65_and_above": 499
+  },
+  {
+    "region_id": "LK-9233040",
+    "region_name": "Wattegedara",
+    "region_name_in_data": "Wattegedara",
+    "region_ent_type": "GND",
+    "total": 4265,
+    "age_0_14": 941,
+    "age_15_59": 2615,
+    "age_60_64": 210,
+    "age_65_and_above": 499
+  },
+  {
+    "region_id": "LK-9233045",
+    "region_name": "Deraniyagala",
+    "region_name_in_data": "Deraniyagala",
+    "region_ent_type": "GND",
+    "total": 3339,
+    "age_0_14": 729,
+    "age_15_59": 2032,
+    "age_60_64": 153,
+    "age_65_and_above": 425
+  },
+  {
+    "region_id": "LK-9233045",
+    "region_name": "Deraniyagala",
+    "region_name_in_data": "Deraniyagala",
+    "region_ent_type": "GND",
+    "total": 3339,
+    "age_0_14": 729,
+    "age_15_59": 2032,
+    "age_60_64": 153,
+    "age_65_and_above": 425
   },
   {
     "region_id": "LK-9233045",
@@ -158279,6 +158532,28 @@
     "age_65_and_above": 253
   },
   {
+    "region_id": "LK-9233050",
+    "region_name": "Lassegama",
+    "region_name_in_data": "Lassegama",
+    "region_ent_type": "GND",
+    "total": 1823,
+    "age_0_14": 369,
+    "age_15_59": 1112,
+    "age_60_64": 89,
+    "age_65_and_above": 253
+  },
+  {
+    "region_id": "LK-9233050",
+    "region_name": "Lassegama",
+    "region_name_in_data": "Lassegama",
+    "region_ent_type": "GND",
+    "total": 1823,
+    "age_0_14": 369,
+    "age_15_59": 1112,
+    "age_60_64": 89,
+    "age_65_and_above": 253
+  },
+  {
     "region_id": "LK-9233055",
     "region_name": "Anhettigama",
     "region_name_in_data": "Anhettigama",
@@ -158288,6 +158563,50 @@
     "age_15_59": 729,
     "age_60_64": 63,
     "age_65_and_above": 227
+  },
+  {
+    "region_id": "LK-9233055",
+    "region_name": "Anhettigama",
+    "region_name_in_data": "Anhettigama",
+    "region_ent_type": "GND",
+    "total": 1227,
+    "age_0_14": 208,
+    "age_15_59": 729,
+    "age_60_64": 63,
+    "age_65_and_above": 227
+  },
+  {
+    "region_id": "LK-9233055",
+    "region_name": "Anhettigama",
+    "region_name_in_data": "Anhettigama",
+    "region_ent_type": "GND",
+    "total": 1227,
+    "age_0_14": 208,
+    "age_15_59": 729,
+    "age_60_64": 63,
+    "age_65_and_above": 227
+  },
+  {
+    "region_id": "LK-9233060",
+    "region_name": "Panakoora",
+    "region_name_in_data": "Panakoora",
+    "region_ent_type": "GND",
+    "total": 1105,
+    "age_0_14": 236,
+    "age_15_59": 628,
+    "age_60_64": 68,
+    "age_65_and_above": 173
+  },
+  {
+    "region_id": "LK-9233060",
+    "region_name": "Panakoora",
+    "region_name_in_data": "Panakoora",
+    "region_ent_type": "GND",
+    "total": 1105,
+    "age_0_14": 236,
+    "age_15_59": 628,
+    "age_60_64": 68,
+    "age_65_and_above": 173
   },
   {
     "region_id": "LK-9233060",
@@ -158312,6 +158631,28 @@
     "age_65_and_above": 192
   },
   {
+    "region_id": "LK-9233065",
+    "region_name": "Pandaha",
+    "region_name_in_data": "Pandaha",
+    "region_ent_type": "GND",
+    "total": 1548,
+    "age_0_14": 295,
+    "age_15_59": 976,
+    "age_60_64": 85,
+    "age_65_and_above": 192
+  },
+  {
+    "region_id": "LK-9233065",
+    "region_name": "Pandaha",
+    "region_name_in_data": "Pandaha",
+    "region_ent_type": "GND",
+    "total": 1548,
+    "age_0_14": 295,
+    "age_15_59": 976,
+    "age_60_64": 85,
+    "age_65_and_above": 192
+  },
+  {
     "region_id": "LK-9233070",
     "region_name": "Polgaswatta",
     "region_name_in_data": "Polgaswatta",
@@ -158321,6 +158662,50 @@
     "age_15_59": 695,
     "age_60_64": 94,
     "age_65_and_above": 213
+  },
+  {
+    "region_id": "LK-9233070",
+    "region_name": "Polgaswatta",
+    "region_name_in_data": "Polgaswatta",
+    "region_ent_type": "GND",
+    "total": 1199,
+    "age_0_14": 197,
+    "age_15_59": 695,
+    "age_60_64": 94,
+    "age_65_and_above": 213
+  },
+  {
+    "region_id": "LK-9233070",
+    "region_name": "Polgaswatta",
+    "region_name_in_data": "Polgaswatta",
+    "region_ent_type": "GND",
+    "total": 1199,
+    "age_0_14": 197,
+    "age_15_59": 695,
+    "age_60_64": 94,
+    "age_65_and_above": 213
+  },
+  {
+    "region_id": "LK-9233075",
+    "region_name": "Maliboda",
+    "region_name_in_data": "Maliboda",
+    "region_ent_type": "GND",
+    "total": 1745,
+    "age_0_14": 410,
+    "age_15_59": 1009,
+    "age_60_64": 94,
+    "age_65_and_above": 232
+  },
+  {
+    "region_id": "LK-9233075",
+    "region_name": "Maliboda",
+    "region_name_in_data": "Maliboda",
+    "region_ent_type": "GND",
+    "total": 1745,
+    "age_0_14": 410,
+    "age_15_59": 1009,
+    "age_60_64": 94,
+    "age_65_and_above": 232
   },
   {
     "region_id": "LK-9233075",
@@ -158345,6 +158730,28 @@
     "age_65_and_above": 291
   },
   {
+    "region_id": "LK-9233080",
+    "region_name": "Poddenikanda",
+    "region_name_in_data": "Poddenikanda",
+    "region_ent_type": "GND",
+    "total": 2196,
+    "age_0_14": 461,
+    "age_15_59": 1319,
+    "age_60_64": 125,
+    "age_65_and_above": 291
+  },
+  {
+    "region_id": "LK-9233080",
+    "region_name": "Poddenikanda",
+    "region_name_in_data": "Poddenikanda",
+    "region_ent_type": "GND",
+    "total": 2196,
+    "age_0_14": 461,
+    "age_15_59": 1319,
+    "age_60_64": 125,
+    "age_65_and_above": 291
+  },
+  {
     "region_id": "LK-9233085",
     "region_name": "Nakkavita",
     "region_name_in_data": "Nakkavita",
@@ -158354,6 +158761,50 @@
     "age_15_59": 713,
     "age_60_64": 71,
     "age_65_and_above": 210
+  },
+  {
+    "region_id": "LK-9233085",
+    "region_name": "Nakkavita",
+    "region_name_in_data": "Nakkavita",
+    "region_ent_type": "GND",
+    "total": 1246,
+    "age_0_14": 252,
+    "age_15_59": 713,
+    "age_60_64": 71,
+    "age_65_and_above": 210
+  },
+  {
+    "region_id": "LK-9233085",
+    "region_name": "Nakkavita",
+    "region_name_in_data": "Nakkavita",
+    "region_ent_type": "GND",
+    "total": 1246,
+    "age_0_14": 252,
+    "age_15_59": 713,
+    "age_60_64": 71,
+    "age_65_and_above": 210
+  },
+  {
+    "region_id": "LK-9233090",
+    "region_name": "Miyanavita",
+    "region_name_in_data": "Miyanawita",
+    "region_ent_type": "GND",
+    "total": 2059,
+    "age_0_14": 382,
+    "age_15_59": 1245,
+    "age_60_64": 107,
+    "age_65_and_above": 325
+  },
+  {
+    "region_id": "LK-9233090",
+    "region_name": "Miyanavita",
+    "region_name_in_data": "Miyanawita",
+    "region_ent_type": "GND",
+    "total": 2059,
+    "age_0_14": 382,
+    "age_15_59": 1245,
+    "age_60_64": 107,
+    "age_65_and_above": 325
   },
   {
     "region_id": "LK-9233090",
@@ -158378,6 +158829,28 @@
     "age_65_and_above": 437
   },
   {
+    "region_id": "LK-9233095",
+    "region_name": "Deraniyagala South",
+    "region_name_in_data": "Deraniyagala South",
+    "region_ent_type": "GND",
+    "total": 2995,
+    "age_0_14": 602,
+    "age_15_59": 1786,
+    "age_60_64": 170,
+    "age_65_and_above": 437
+  },
+  {
+    "region_id": "LK-9233095",
+    "region_name": "Deraniyagala South",
+    "region_name_in_data": "Deraniyagala South",
+    "region_ent_type": "GND",
+    "total": 2995,
+    "age_0_14": 602,
+    "age_15_59": 1786,
+    "age_60_64": 170,
+    "age_65_and_above": 437
+  },
+  {
     "region_id": "LK-9233100",
     "region_name": "Rasnakkanda",
     "region_name_in_data": "Rasnakkanda",
@@ -158387,6 +158860,50 @@
     "age_15_59": 753,
     "age_60_64": 84,
     "age_65_and_above": 235
+  },
+  {
+    "region_id": "LK-9233100",
+    "region_name": "Rasnakkanda",
+    "region_name_in_data": "Rasnakkanda",
+    "region_ent_type": "GND",
+    "total": 1307,
+    "age_0_14": 235,
+    "age_15_59": 753,
+    "age_60_64": 84,
+    "age_65_and_above": 235
+  },
+  {
+    "region_id": "LK-9233100",
+    "region_name": "Rasnakkanda",
+    "region_name_in_data": "Rasnakkanda",
+    "region_ent_type": "GND",
+    "total": 1307,
+    "age_0_14": 235,
+    "age_15_59": 753,
+    "age_60_64": 84,
+    "age_65_and_above": 235
+  },
+  {
+    "region_id": "LK-9233105",
+    "region_name": "Udapola",
+    "region_name_in_data": "Udapola",
+    "region_ent_type": "GND",
+    "total": 1897,
+    "age_0_14": 387,
+    "age_15_59": 1126,
+    "age_60_64": 103,
+    "age_65_and_above": 281
+  },
+  {
+    "region_id": "LK-9233105",
+    "region_name": "Udapola",
+    "region_name_in_data": "Udapola",
+    "region_ent_type": "GND",
+    "total": 1897,
+    "age_0_14": 387,
+    "age_15_59": 1126,
+    "age_60_64": 103,
+    "age_65_and_above": 281
   },
   {
     "region_id": "LK-9233105",
@@ -158411,6 +158928,50 @@
     "age_65_and_above": 127
   },
   {
+    "region_id": "LK-9233110",
+    "region_name": "Demeda",
+    "region_name_in_data": "Demeda",
+    "region_ent_type": "GND",
+    "total": 921,
+    "age_0_14": 194,
+    "age_15_59": 550,
+    "age_60_64": 50,
+    "age_65_and_above": 127
+  },
+  {
+    "region_id": "LK-9233110",
+    "region_name": "Demeda",
+    "region_name_in_data": "Demeda",
+    "region_ent_type": "GND",
+    "total": 921,
+    "age_0_14": 194,
+    "age_15_59": 550,
+    "age_60_64": 50,
+    "age_65_and_above": 127
+  },
+  {
+    "region_id": "LK-9233115",
+    "region_name": "Kosgahakanda",
+    "region_name_in_data": "Kosgahakanda",
+    "region_ent_type": "GND",
+    "total": 2238,
+    "age_0_14": 441,
+    "age_15_59": 1277,
+    "age_60_64": 169,
+    "age_65_and_above": 351
+  },
+  {
+    "region_id": "LK-9233115",
+    "region_name": "Kosgahakanda",
+    "region_name_in_data": "Kosgahakanda",
+    "region_ent_type": "GND",
+    "total": 2238,
+    "age_0_14": 441,
+    "age_15_59": 1277,
+    "age_60_64": 169,
+    "age_65_and_above": 351
+  },
+  {
     "region_id": "LK-9233115",
     "region_name": "Kosgahakanda",
     "region_name_in_data": "Kosgahakanda",
@@ -158433,6 +158994,28 @@
     "age_65_and_above": 249
   },
   {
+    "region_id": "LK-9233120",
+    "region_name": "Yatiwala",
+    "region_name_in_data": "Yatiwala",
+    "region_ent_type": "GND",
+    "total": 1727,
+    "age_0_14": 337,
+    "age_15_59": 1050,
+    "age_60_64": 91,
+    "age_65_and_above": 249
+  },
+  {
+    "region_id": "LK-9233120",
+    "region_name": "Yatiwala",
+    "region_name_in_data": "Yatiwala",
+    "region_ent_type": "GND",
+    "total": 1727,
+    "age_0_14": 337,
+    "age_15_59": 1050,
+    "age_60_64": 91,
+    "age_65_and_above": 249
+  },
+  {
     "region_id": "LK-9233125",
     "region_name": "Magala",
     "region_name_in_data": "Magala",
@@ -158442,6 +159025,50 @@
     "age_15_59": 562,
     "age_60_64": 55,
     "age_65_and_above": 170
+  },
+  {
+    "region_id": "LK-9233125",
+    "region_name": "Magala",
+    "region_name_in_data": "Magala",
+    "region_ent_type": "GND",
+    "total": 947,
+    "age_0_14": 160,
+    "age_15_59": 562,
+    "age_60_64": 55,
+    "age_65_and_above": 170
+  },
+  {
+    "region_id": "LK-9233125",
+    "region_name": "Magala",
+    "region_name_in_data": "Magala",
+    "region_ent_type": "GND",
+    "total": 947,
+    "age_0_14": 160,
+    "age_15_59": 562,
+    "age_60_64": 55,
+    "age_65_and_above": 170
+  },
+  {
+    "region_id": "LK-9233130",
+    "region_name": "Dikellakanda",
+    "region_name_in_data": "Dikellakanda",
+    "region_ent_type": "GND",
+    "total": 555,
+    "age_0_14": 87,
+    "age_15_59": 332,
+    "age_60_64": 49,
+    "age_65_and_above": 87
+  },
+  {
+    "region_id": "LK-9233130",
+    "region_name": "Dikellakanda",
+    "region_name_in_data": "Dikellakanda",
+    "region_ent_type": "GND",
+    "total": 555,
+    "age_0_14": 87,
+    "age_15_59": 332,
+    "age_60_64": 49,
+    "age_65_and_above": 87
   },
   {
     "region_id": "LK-9233130",

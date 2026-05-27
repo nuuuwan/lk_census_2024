@@ -1,26 +1,7 @@
 region_id	region_name	region_name_in_data	region_ent_type	electricity_grid	kerosene_lamp	solar_grid	solar_standalone	bio_gas	generator	other
-EC-01	Colombo		DISTRICT	653295	3366	2900	831	58	192	1180
-EC-02	Gampaha		DISTRICT	680337	4340	1724	479	50	70	1635
-EC-03	Kalutara		DISTRICT	348801	2859	582	204	13	26	478
-EC-04	Kandy		DISTRICT	392207	4108	243	235	11	40	782
-EC-05	Matale		DISTRICT	148488	2248	61	126	1	15	193
-EC-06	Nuwara-Eliya		DISTRICT	196060	3524	56	134	15	72	400
-EC-07	Galle		DISTRICT	304034	2387	359	205	5	29	685
-EC-08	Matara		DISTRICT	229169	1828	269	118	4	19	539
-EC-09	Hambantota		DISTRICT	184100	3057	77	173	2	28	1201
-EC-10	Jaffna		DISTRICT	190621	5248	206	126	3	115	168
-EC-11	Vanni		DISTRICT	111342	3654	78	168	9	41	223
-EC-12	Batticaloa		DISTRICT	160839	8900	139	58	5	42	279
-EC-13	Digamadulla		DISTRICT	200445	5539	194	124	5	36	664
-EC-14	Trincomalee		DISTRICT	117736	3603	60	31	7	24	487
-EC-15	Kurunegala		DISTRICT	501299	8332	313	509	4	37	672
-EC-16	Puttalam		DISTRICT	227761	4800	240	743	24	127	332
-EC-17	Anuradhapura		DISTRICT	268242	5908	128	312	8	19	467
-EC-18	Polonnaruwa		DISTRICT	124329	2586	78	128	4	12	248
-EC-19	Badulla		DISTRICT	242999	4499	112	201	4	24	423
-EC-20	Moneragala		DISTRICT	146583	4057	71	370	4	69	609
-EC-21	Ratnapura		DISTRICT	319263	6656	135	368	5	165	1053
 EC-22	Kegalle		DISTRICT	239635	3651	68	174	3	28	478
+EC-22I	Deraniyagala		GND	25640	548	4	15	0	3	49
+LG-92033	Deraniyagala PS		GND	12744	291	4	12	0	1	28
 LK	Sri Lanka	Sri Lanka	COUNTRY	5987585	95150	8093	5817	244	1230	13196
 LK-1	Western	Western	PROVINCE	1682433	10565	5206	1514	121	288	3293
 LK-11	Colombo	Colombo	DISTRICT	653295	3366	2900	831	58	192	1180
@@ -13835,6 +13816,7 @@ LK-9151135	Morawadiya	Morawadiya	GND	244	3	0	0	0	0	0
 LK-9151140	Omalpe	Omalpe	GND	521	7	0	2	0	0	0
 LK-9151145	Kempane	Kempane	GND	553	8	1	0	0	0	0
 LK-92	Kegalle	Kegalle	DISTRICT	239635	3651	68	174	3	28	478
+LK-92	Kegalle	Kegalle	DISTRICT	239635	3651	68	174	3	28	478
 LK-9203	Rambukkana	Rambukkana	DSD	24511	263	7	8	0	2	51
 LK-9203005	Dombemada East	Dombemada East	GND	141	0	0	0	0	0	2
 LK-9203010	Dombemada West	Dombemada west	GND	121	1	0	0	0	0	0
@@ -14359,8 +14341,12 @@ LK-9230015	Eluwana	Eluwana	GND	393	3	0	0	0	0	2
 LK-9230020	Magammana	Magammana	GND	492	4	0	0	0	0	0
 LK-9230025	Kanangama	Kanangama	GND	861	27	1	1	0	0	0
 LK-9230030	Walpola	Walpola	GND	1185	18	0	0	0	0	0
+LK-9230030	Walpola	Walpola	GND	1185	18	0	0	0	0	0
+LK-9230035	Boralankada	Boralankada	GND	649	11	0	0	0	0	0
 LK-9230035	Boralankada	Boralankada	GND	649	11	0	0	0	0	0
 LK-9230040	Dikella	Dikella	GND	892	17	0	0	0	0	3
+LK-9230040	Dikella	Dikella	GND	892	17	0	0	0	0	3
+LK-9230045	Kahanavita	Kahanwita	GND	412	4	0	0	0	0	0
 LK-9230045	Kahanavita	Kahanwita	GND	412	4	0	0	0	0	0
 LK-9230050	Dehiovita	Dehiovita	GND	964	3	2	0	0	0	1
 LK-9230055	Atulugamwela	Atulugamwela	GND	268	1	0	0	0	0	1
@@ -14374,48 +14360,119 @@ LK-9230090	Ihala Thaldoowa	Ihala Thaldoowa	GND	786	6	0	0	0	0	2
 LK-9230095	Debegama	Debegama	GND	552	28	0	0	0	0	3
 LK-9230100	Thimbiripola	Thimbiripola	GND	913	11	0	1	0	0	0
 LK-9230105	Algoda	Algoda	GND	482	8	0	1	0	0	0
+LK-9230105	Algoda	Algoda	GND	482	8	0	1	0	0	0
+LK-9230110	Hinguralakanda East	Hinguralakanda East	GND	303	3	0	0	0	0	0
 LK-9230110	Hinguralakanda East	Hinguralakanda East	GND	303	3	0	0	0	0	0
 LK-9230115	Batangala	Batangala	GND	726	25	0	1	0	0	0
+LK-9230115	Batangala	Batangala	GND	726	25	0	1	0	0	0
+LK-9230120	Viharakanda	Viharakanda	GND	379	10	0	0	0	0	0
 LK-9230120	Viharakanda	Viharakanda	GND	379	10	0	0	0	0	0
 LK-9230125	Galabalana Kanda	Galabalana Kanda	GND	437	2	0	0	0	0	2
+LK-9230125	Galabalana Kanda	Galabalana Kanda	GND	437	2	0	0	0	0	2
+LK-9230130	Maniyangama	Maniyangama	GND	545	10	0	0	0	0	0
 LK-9230130	Maniyangama	Maniyangama	GND	545	10	0	0	0	0	0
 LK-9230135	Madola	Madola	GND	1056	0	0	1	0	0	1
+LK-9230135	Madola	Madola	GND	1056	0	0	1	0	0	1
+LK-9230140	Welangalla	Welangalla	GND	744	13	0	0	0	0	0
 LK-9230140	Welangalla	Welangalla	GND	744	13	0	0	0	0	0
 LK-9230145	Bomaluwa	Bomaluwa	GND	353	4	0	0	0	0	0
+LK-9230145	Bomaluwa	Bomaluwa	GND	353	4	0	0	0	0	0
+LK-9230150	Rangegama	Rangegama	GND	769	22	0	0	0	0	1
 LK-9230150	Rangegama	Rangegama	GND	769	22	0	0	0	0	1
 LK-9230155	Panawala	Panawala	GND	607	8	0	0	0	0	0
+LK-9230155	Panawala	Panawala	GND	607	8	0	0	0	0	0
+LK-9230160	Hinguralakanda West	Hinguralakanda West	GND	555	16	0	0	0	0	0
 LK-9230160	Hinguralakanda West	Hinguralakanda West	GND	555	16	0	0	0	0	0
 LK-9230165	Pukunuwala	Pukunuwala	GND	464	12	0	0	0	0	0
+LK-9230165	Pukunuwala	Pukunuwala	GND	464	12	0	0	0	0	0
+LK-9230170	Godagampala	Godagampala	GND	465	36	0	0	0	0	0
 LK-9230170	Godagampala	Godagampala	GND	465	36	0	0	0	0	0
 LK-9230175	Ambalampitiya	Ambalampitiya	GND	441	5	0	0	0	1	2
+LK-9230175	Ambalampitiya	Ambalampitiya	GND	441	5	0	0	0	1	2
+LK-9230180	Madagammana	Madagammana	GND	217	6	0	0	0	0	0
 LK-9230180	Madagammana	Madagammana	GND	217	6	0	0	0	0	0
 LK-9230185	Pannila	Pannila	GND	409	14	0	0	0	0	5
+LK-9230185	Pannila	Pannila	GND	409	14	0	0	0	0	5
 LK-9230190	Imbulpitiya	Imbulpitiya	GND	419	5	0	0	0	0	0
+LK-9230190	Imbulpitiya	Imbulpitiya	GND	419	5	0	0	0	0	0
+LK-9230195	Elavulla	Elavulla	GND	387	8	0	0	0	1	7
 LK-9230195	Elavulla	Elavulla	GND	387	8	0	0	0	1	7
 LK-9233	Deraniyagala	Deraniyagala	DSD	12744	291	4	12	0	1	28
 LK-9233005	Ballahela	Ballahela	GND	190	4	0	1	0	0	0
+LK-9233005	Ballahela	Ballahela	GND	190	4	0	1	0	0	0
+LK-9233005	Ballahela	Ballahela	GND	190	4	0	1	0	0	0
+LK-9233010	Behenella	Behenella	GND	405	6	0	2	0	0	0
+LK-9233010	Behenella	Behenella	GND	405	6	0	2	0	0	0
 LK-9233010	Behenella	Behenella	GND	405	6	0	2	0	0	0
 LK-9233015	Nilwala	Nilwala	GND	340	8	0	0	0	0	0
+LK-9233015	Nilwala	Nilwala	GND	340	8	0	0	0	0	0
+LK-9233015	Nilwala	Nilwala	GND	340	8	0	0	0	0	0
+LK-9233020	Dodawatta	Dodawatta	GND	591	10	0	1	0	0	0
+LK-9233020	Dodawatta	Dodawatta	GND	591	10	0	1	0	0	0
 LK-9233020	Dodawatta	Dodawatta	GND	591	10	0	1	0	0	0
 LK-9233025	Basnagala	Basnagala	GND	579	16	0	0	0	0	1
+LK-9233025	Basnagala	Basnagala	GND	579	16	0	0	0	0	1
+LK-9233025	Basnagala	Basnagala	GND	579	16	0	0	0	0	1
+LK-9233030	Keerihena	Keerihena	GND	246	10	0	0	0	0	0
+LK-9233030	Keerihena	Keerihena	GND	246	10	0	0	0	0	0
 LK-9233030	Keerihena	Keerihena	GND	246	10	0	0	0	0	0
 LK-9233035	Udabage	Udabage	GND	541	11	1	0	0	0	1
+LK-9233035	Udabage	Udabage	GND	541	11	1	0	0	0	1
+LK-9233035	Udabage	Udabage	GND	541	11	1	0	0	0	1
+LK-9233040	Wattegedara	Wattegedara	GND	1181	10	2	1	0	0	10
+LK-9233040	Wattegedara	Wattegedara	GND	1181	10	2	1	0	0	10
 LK-9233040	Wattegedara	Wattegedara	GND	1181	10	2	1	0	0	10
 LK-9233045	Deraniyagala	Deraniyagala	GND	894	7	0	2	0	1	3
+LK-9233045	Deraniyagala	Deraniyagala	GND	894	7	0	2	0	1	3
+LK-9233045	Deraniyagala	Deraniyagala	GND	894	7	0	2	0	1	3
+LK-9233050	Lassegama	Lassegama	GND	507	11	0	0	0	0	0
+LK-9233050	Lassegama	Lassegama	GND	507	11	0	0	0	0	0
 LK-9233050	Lassegama	Lassegama	GND	507	11	0	0	0	0	0
 LK-9233055	Anhettigama	Anhettigama	GND	381	8	0	0	0	0	1
+LK-9233055	Anhettigama	Anhettigama	GND	381	8	0	0	0	0	1
+LK-9233055	Anhettigama	Anhettigama	GND	381	8	0	0	0	0	1
+LK-9233060	Panakoora	Panakoora	GND	333	6	0	0	0	0	0
+LK-9233060	Panakoora	Panakoora	GND	333	6	0	0	0	0	0
 LK-9233060	Panakoora	Panakoora	GND	333	6	0	0	0	0	0
 LK-9233065	Pandaha	Pandaha	GND	410	11	0	0	0	0	0
+LK-9233065	Pandaha	Pandaha	GND	410	11	0	0	0	0	0
+LK-9233065	Pandaha	Pandaha	GND	410	11	0	0	0	0	0
+LK-9233070	Polgaswatta	Polgaswatta	GND	375	8	0	0	0	0	1
+LK-9233070	Polgaswatta	Polgaswatta	GND	375	8	0	0	0	0	1
 LK-9233070	Polgaswatta	Polgaswatta	GND	375	8	0	0	0	0	1
 LK-9233075	Maliboda	Maliboda	GND	506	32	0	3	0	0	0
+LK-9233075	Maliboda	Maliboda	GND	506	32	0	3	0	0	0
+LK-9233075	Maliboda	Maliboda	GND	506	32	0	3	0	0	0
+LK-9233080	Poddenikanda	Poddenikanda	GND	643	20	0	0	0	0	0
+LK-9233080	Poddenikanda	Poddenikanda	GND	643	20	0	0	0	0	0
 LK-9233080	Poddenikanda	Poddenikanda	GND	643	20	0	0	0	0	0
 LK-9233085	Nakkavita	Nakkavita	GND	380	7	0	0	0	0	0
+LK-9233085	Nakkavita	Nakkavita	GND	380	7	0	0	0	0	0
+LK-9233085	Nakkavita	Nakkavita	GND	380	7	0	0	0	0	0
+LK-9233090	Miyanavita	Miyanawita	GND	604	13	0	0	0	0	1
+LK-9233090	Miyanavita	Miyanawita	GND	604	13	0	0	0	0	1
 LK-9233090	Miyanavita	Miyanawita	GND	604	13	0	0	0	0	1
 LK-9233095	Deraniyagala South	Deraniyagala South	GND	851	16	0	0	0	0	2
+LK-9233095	Deraniyagala South	Deraniyagala South	GND	851	16	0	0	0	0	2
+LK-9233095	Deraniyagala South	Deraniyagala South	GND	851	16	0	0	0	0	2
+LK-9233100	Rasnakkanda	Rasnakkanda	GND	388	7	0	0	0	0	0
+LK-9233100	Rasnakkanda	Rasnakkanda	GND	388	7	0	0	0	0	0
 LK-9233100	Rasnakkanda	Rasnakkanda	GND	388	7	0	0	0	0	0
 LK-9233105	Udapola	Udapola	GND	536	9	0	0	0	0	6
+LK-9233105	Udapola	Udapola	GND	536	9	0	0	0	0	6
+LK-9233105	Udapola	Udapola	GND	536	9	0	0	0	0	6
+LK-9233110	Demeda	Demeda	GND	254	16	0	0	0	0	0
+LK-9233110	Demeda	Demeda	GND	254	16	0	0	0	0	0
 LK-9233110	Demeda	Demeda	GND	254	16	0	0	0	0	0
 LK-9233115	Kosgahakanda	Kosgahakanda	GND	650	18	0	0	0	0	0
+LK-9233115	Kosgahakanda	Kosgahakanda	GND	650	18	0	0	0	0	0
+LK-9233115	Kosgahakanda	Kosgahakanda	GND	650	18	0	0	0	0	0
+LK-9233120	Yatiwala	Yatiwala	GND	491	13	0	1	0	0	2
+LK-9233120	Yatiwala	Yatiwala	GND	491	13	0	1	0	0	2
 LK-9233120	Yatiwala	Yatiwala	GND	491	13	0	1	0	0	2
 LK-9233125	Magala	Magala	GND	290	6	1	1	0	0	0
+LK-9233125	Magala	Magala	GND	290	6	1	1	0	0	0
+LK-9233125	Magala	Magala	GND	290	6	1	1	0	0	0
+LK-9233130	Dikellakanda	Dikellakanda	GND	178	8	0	0	0	0	0
+LK-9233130	Dikellakanda	Dikellakanda	GND	178	8	0	0	0	0	0
 LK-9233130	Dikellakanda	Dikellakanda	GND	178	8	0	0	0	0	0

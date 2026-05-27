@@ -2,43 +2,79 @@
   {
     "name": "parent_child_totals",
     "status": "fail",
-    "error_count": 6,
+    "error_count": 12,
     "errors": [
-      {
-        "region_id": "LK-1",
-        "field": "total",
-        "parent": 6117341,
-        "sum_of_children": 13917592
-      },
-      {
-        "region_id": "LK-1",
-        "field": "male",
-        "parent": 2961374,
-        "sum_of_children": 6715645
-      },
-      {
-        "region_id": "LK-1",
-        "field": "female",
-        "parent": 3155967,
-        "sum_of_children": 7201947
-      },
       {
         "region_id": "LK-2",
         "field": "total",
         "parent": 2714045,
-        "sum_of_children": 5257529
+        "sum_of_children": 3584521
       },
       {
         "region_id": "LK-2",
         "field": "male",
         "parent": 1298405,
-        "sum_of_children": 2537869
+        "sum_of_children": 1714483
       },
       {
         "region_id": "LK-2",
         "field": "female",
         "parent": 1415640,
-        "sum_of_children": 2719660
+        "sum_of_children": 1870038
+      },
+      {
+        "region_id": "LK-9",
+        "field": "total",
+        "parent": 2015899,
+        "sum_of_children": 2886375
+      },
+      {
+        "region_id": "LK-9",
+        "field": "male",
+        "parent": 978537,
+        "sum_of_children": 1394615
+      },
+      {
+        "region_id": "LK-9",
+        "field": "female",
+        "parent": 1037362,
+        "sum_of_children": 1491760
+      },
+      {
+        "region_id": "LK-9230",
+        "field": "total",
+        "parent": 84967,
+        "sum_of_children": 132571
+      },
+      {
+        "region_id": "LK-9230",
+        "field": "male",
+        "parent": 41523,
+        "sum_of_children": 64957
+      },
+      {
+        "region_id": "LK-9230",
+        "field": "female",
+        "parent": 43444,
+        "sum_of_children": 67614
+      },
+      {
+        "region_id": "LK-9233",
+        "field": "total",
+        "parent": 44005,
+        "sum_of_children": 132015
+      },
+      {
+        "region_id": "LK-9233",
+        "field": "male",
+        "parent": 21381,
+        "sum_of_children": 64143
+      },
+      {
+        "region_id": "LK-9233",
+        "field": "female",
+        "parent": 22624,
+        "sum_of_children": 67872
       }
     ]
   },
@@ -208,8 +244,16 @@
   {
     "name": "gnds_are_valid",
     "status": "fail",
-    "error_count": 4,
+    "error_count": 6,
     "errors": [
+      {
+        "region_id": "EC-22I",
+        "region_name_in_data": null
+      },
+      {
+        "region_id": "LG-92033",
+        "region_name_in_data": null
+      },
       {
         "region_id": "LK-4415095",
         "region_name_in_data": "Kokuthoduvai South"

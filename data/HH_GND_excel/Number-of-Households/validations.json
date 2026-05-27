@@ -2,19 +2,31 @@
   {
     "name": "parent_child_totals",
     "status": "fail",
-    "error_count": 2,
+    "error_count": 4,
     "errors": [
-      {
-        "region_id": "LK-1",
-        "field": "n_households",
-        "parent": 1703420,
-        "sum_of_children": 3910563
-      },
       {
         "region_id": "LK-2",
         "field": "n_households",
         "parent": 749019,
-        "sum_of_children": 1472464
+        "sum_of_children": 993056
+      },
+      {
+        "region_id": "LK-9",
+        "field": "n_households",
+        "parent": 571682,
+        "sum_of_children": 815719
+      },
+      {
+        "region_id": "LK-9230",
+        "field": "n_households",
+        "parent": 23403,
+        "sum_of_children": 36582
+      },
+      {
+        "region_id": "LK-9233",
+        "field": "n_households",
+        "parent": 13080,
+        "sum_of_children": 39240
       }
     ]
   },
@@ -184,8 +196,16 @@
   {
     "name": "gnds_are_valid",
     "status": "fail",
-    "error_count": 4,
+    "error_count": 6,
     "errors": [
+      {
+        "region_id": "EC-22I",
+        "region_name_in_data": null
+      },
+      {
+        "region_id": "LG-92033",
+        "region_name_in_data": null
+      },
       {
         "region_id": "LK-4415095",
         "region_name_in_data": "Kokuthoduvai South"

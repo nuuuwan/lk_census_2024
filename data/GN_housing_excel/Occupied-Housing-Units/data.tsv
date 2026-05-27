@@ -1,26 +1,7 @@
 region_id	region_name	region_name_in_data	region_ent_type	occupied_housing_units
-EC-01	Colombo		DISTRICT	654051
-EC-02	Gampaha		DISTRICT	683025
-EC-03	Kalutara		DISTRICT	349430
-EC-04	Kandy		DISTRICT	389826
-EC-05	Matale		DISTRICT	148184
-EC-06	Nuwara-Eliya		DISTRICT	192915
-EC-07	Galle		DISTRICT	305379
-EC-08	Matara		DISTRICT	230034
-EC-09	Hambantota		DISTRICT	187558
-EC-10	Jaffna		DISTRICT	193281
-EC-11	Vanni		DISTRICT	114178
-EC-12	Batticaloa		DISTRICT	167150
-EC-13	Digamadulla		DISTRICT	202861
-EC-14	Trincomalee		DISTRICT	119351
-EC-15	Kurunegala		DISTRICT	506909
-EC-16	Puttalam		DISTRICT	231494
-EC-17	Anuradhapura		DISTRICT	271408
-EC-18	Polonnaruwa		DISTRICT	126482
-EC-19	Badulla		DISTRICT	239417
-EC-20	Moneragala		DISTRICT	150728
-EC-21	Ratnapura		DISTRICT	324853
 EC-22	Kegalle		DISTRICT	242027
+EC-22I	Deraniyagala		GND	26054
+LG-92033	Deraniyagala PS		GND	12972
 LK	Sri Lanka	Sri Lanka	COUNTRY	6030541
 LK-1	Western	Western	PROVINCE	1686506
 LK-11	Colombo	Colombo	DISTRICT	654051
@@ -13835,6 +13816,7 @@ LK-9151135	Morawadiya	Morawadiya	GND	247
 LK-9151140	Omalpe	Omalpe	GND	527
 LK-9151145	Kempane	Kempane	GND	558
 LK-92	Kegalle	Kegalle	DISTRICT	242027
+LK-92	Kegalle	Kegalle	DISTRICT	242027
 LK-9203	Rambukkana	Rambukkana	DSD	24601
 LK-9203005	Dombemada East	Dombemada East	GND	143
 LK-9203010	Dombemada West	Dombemada west	GND	122
@@ -14359,8 +14341,12 @@ LK-9230015	Eluwana	Eluwana	GND	398
 LK-9230020	Magammana	Magammana	GND	488
 LK-9230025	Kanangama	Kanangama	GND	884
 LK-9230030	Walpola	Walpola	GND	1197
+LK-9230030	Walpola	Walpola	GND	1197
+LK-9230035	Boralankada	Boralankada	GND	657
 LK-9230035	Boralankada	Boralankada	GND	657
 LK-9230040	Dikella	Dikella	GND	907
+LK-9230040	Dikella	Dikella	GND	907
+LK-9230045	Kahanavita	Kahanwita	GND	408
 LK-9230045	Kahanavita	Kahanwita	GND	408
 LK-9230050	Dehiovita	Dehiovita	GND	959
 LK-9230055	Atulugamwela	Atulugamwela	GND	264
@@ -14374,48 +14360,119 @@ LK-9230090	Ihala Thaldoowa	Ihala Thaldoowa	GND	785
 LK-9230095	Debegama	Debegama	GND	580
 LK-9230100	Thimbiripola	Thimbiripola	GND	921
 LK-9230105	Algoda	Algoda	GND	484
+LK-9230105	Algoda	Algoda	GND	484
+LK-9230110	Hinguralakanda East	Hinguralakanda East	GND	305
 LK-9230110	Hinguralakanda East	Hinguralakanda East	GND	305
 LK-9230115	Batangala	Batangala	GND	744
+LK-9230115	Batangala	Batangala	GND	744
+LK-9230120	Viharakanda	Viharakanda	GND	389
 LK-9230120	Viharakanda	Viharakanda	GND	389
 LK-9230125	Galabalana Kanda	Galabalana Kanda	GND	439
+LK-9230125	Galabalana Kanda	Galabalana Kanda	GND	439
+LK-9230130	Maniyangama	Maniyangama	GND	554
 LK-9230130	Maniyangama	Maniyangama	GND	554
 LK-9230135	Madola	Madola	GND	1049
+LK-9230135	Madola	Madola	GND	1049
+LK-9230140	Welangalla	Welangalla	GND	757
 LK-9230140	Welangalla	Welangalla	GND	757
 LK-9230145	Bomaluwa	Bomaluwa	GND	355
+LK-9230145	Bomaluwa	Bomaluwa	GND	355
+LK-9230150	Rangegama	Rangegama	GND	789
 LK-9230150	Rangegama	Rangegama	GND	789
 LK-9230155	Panawala	Panawala	GND	614
+LK-9230155	Panawala	Panawala	GND	614
+LK-9230160	Hinguralakanda West	Hinguralakanda West	GND	562
 LK-9230160	Hinguralakanda West	Hinguralakanda West	GND	562
 LK-9230165	Pukunuwala	Pukunuwala	GND	465
+LK-9230165	Pukunuwala	Pukunuwala	GND	465
+LK-9230170	Godagampala	Godagampala	GND	487
 LK-9230170	Godagampala	Godagampala	GND	487
 LK-9230175	Ambalampitiya	Ambalampitiya	GND	449
+LK-9230175	Ambalampitiya	Ambalampitiya	GND	449
+LK-9230180	Madagammana	Madagammana	GND	222
 LK-9230180	Madagammana	Madagammana	GND	222
 LK-9230185	Pannila	Pannila	GND	428
+LK-9230185	Pannila	Pannila	GND	428
 LK-9230190	Imbulpitiya	Imbulpitiya	GND	424
+LK-9230190	Imbulpitiya	Imbulpitiya	GND	424
+LK-9230195	Elavulla	Elavulla	GND	397
 LK-9230195	Elavulla	Elavulla	GND	397
 LK-9233	Deraniyagala	Deraniyagala	DSD	12972
 LK-9233005	Ballahela	Ballahela	GND	195
+LK-9233005	Ballahela	Ballahela	GND	195
+LK-9233005	Ballahela	Ballahela	GND	195
+LK-9233010	Behenella	Behenella	GND	413
+LK-9233010	Behenella	Behenella	GND	413
 LK-9233010	Behenella	Behenella	GND	413
 LK-9233015	Nilwala	Nilwala	GND	348
+LK-9233015	Nilwala	Nilwala	GND	348
+LK-9233015	Nilwala	Nilwala	GND	348
+LK-9233020	Dodawatta	Dodawatta	GND	600
+LK-9233020	Dodawatta	Dodawatta	GND	600
 LK-9233020	Dodawatta	Dodawatta	GND	600
 LK-9233025	Basnagala	Basnagala	GND	592
+LK-9233025	Basnagala	Basnagala	GND	592
+LK-9233025	Basnagala	Basnagala	GND	592
+LK-9233030	Keerihena	Keerihena	GND	254
+LK-9233030	Keerihena	Keerihena	GND	254
 LK-9233030	Keerihena	Keerihena	GND	254
 LK-9233035	Udabage	Udabage	GND	531
+LK-9233035	Udabage	Udabage	GND	531
+LK-9233035	Udabage	Udabage	GND	531
+LK-9233040	Wattegedara	Wattegedara	GND	1179
+LK-9233040	Wattegedara	Wattegedara	GND	1179
 LK-9233040	Wattegedara	Wattegedara	GND	1179
 LK-9233045	Deraniyagala	Deraniyagala	GND	890
+LK-9233045	Deraniyagala	Deraniyagala	GND	890
+LK-9233045	Deraniyagala	Deraniyagala	GND	890
+LK-9233050	Lassegama	Lassegama	GND	513
+LK-9233050	Lassegama	Lassegama	GND	513
 LK-9233050	Lassegama	Lassegama	GND	513
 LK-9233055	Anhettigama	Anhettigama	GND	388
+LK-9233055	Anhettigama	Anhettigama	GND	388
+LK-9233055	Anhettigama	Anhettigama	GND	388
+LK-9233060	Panakoora	Panakoora	GND	338
+LK-9233060	Panakoora	Panakoora	GND	338
 LK-9233060	Panakoora	Panakoora	GND	338
 LK-9233065	Pandaha	Pandaha	GND	421
+LK-9233065	Pandaha	Pandaha	GND	421
+LK-9233065	Pandaha	Pandaha	GND	421
+LK-9233070	Polgaswatta	Polgaswatta	GND	383
+LK-9233070	Polgaswatta	Polgaswatta	GND	383
 LK-9233070	Polgaswatta	Polgaswatta	GND	383
 LK-9233075	Maliboda	Maliboda	GND	534
+LK-9233075	Maliboda	Maliboda	GND	534
+LK-9233075	Maliboda	Maliboda	GND	534
+LK-9233080	Poddenikanda	Poddenikanda	GND	662
+LK-9233080	Poddenikanda	Poddenikanda	GND	662
 LK-9233080	Poddenikanda	Poddenikanda	GND	662
 LK-9233085	Nakkavita	Nakkavita	GND	387
+LK-9233085	Nakkavita	Nakkavita	GND	387
+LK-9233085	Nakkavita	Nakkavita	GND	387
+LK-9233090	Miyanavita	Miyanawita	GND	612
+LK-9233090	Miyanavita	Miyanawita	GND	612
 LK-9233090	Miyanavita	Miyanawita	GND	612
 LK-9233095	Deraniyagala South	Deraniyagala South	GND	862
+LK-9233095	Deraniyagala South	Deraniyagala South	GND	862
+LK-9233095	Deraniyagala South	Deraniyagala South	GND	862
+LK-9233100	Rasnakkanda	Rasnakkanda	GND	394
+LK-9233100	Rasnakkanda	Rasnakkanda	GND	394
 LK-9233100	Rasnakkanda	Rasnakkanda	GND	394
 LK-9233105	Udapola	Udapola	GND	550
+LK-9233105	Udapola	Udapola	GND	550
+LK-9233105	Udapola	Udapola	GND	550
+LK-9233110	Demeda	Demeda	GND	270
+LK-9233110	Demeda	Demeda	GND	270
 LK-9233110	Demeda	Demeda	GND	270
 LK-9233115	Kosgahakanda	Kosgahakanda	GND	666
+LK-9233115	Kosgahakanda	Kosgahakanda	GND	666
+LK-9233115	Kosgahakanda	Kosgahakanda	GND	666
+LK-9233120	Yatiwala	Yatiwala	GND	506
+LK-9233120	Yatiwala	Yatiwala	GND	506
 LK-9233120	Yatiwala	Yatiwala	GND	506
 LK-9233125	Magala	Magala	GND	298
+LK-9233125	Magala	Magala	GND	298
+LK-9233125	Magala	Magala	GND	298
+LK-9233130	Dikellakanda	Dikellakanda	GND	186
+LK-9233130	Dikellakanda	Dikellakanda	GND	186
 LK-9233130	Dikellakanda	Dikellakanda	GND	186

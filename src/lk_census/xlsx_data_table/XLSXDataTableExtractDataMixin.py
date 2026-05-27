@@ -112,9 +112,22 @@ class XLSXDataTableExtractDataMixin(XLSXDataTableValidateMixin):
         return d_list
 
     def _build_d_list_for_remaining_types_(self, d_list):
-        ent_type = EntType.ED
+        new_d_list = []
+        for ent_type, child_ent_type in [
+            (EntType.ED, EntType.DISTRICT),
+            (EntType.PD, EntType.GND),
+            (EntType.LG, EntType.GND),
+        ]:
+            d_list_for_ent = self._build_d_list_for_remaining_type_(
+                d_list, ent_type, child_ent_type
+            )
+            new_d_list.extend(d_list_for_ent)
+        return new_d_list
+
+    def _build_d_list_for_remaining_type_(
+        self, d_list, ent_type, child_ent_type
+    ):
         ent_idx = Ent.idx_from_type(ent_type)
-        child_ent_type = EntType.DISTRICT
         child_ent_idx = Ent.idx_from_type(child_ent_type)
         ent_id_key = f"{ent_type.name.lower()}_id"
         child_d_list = [
@@ -127,14 +140,17 @@ class XLSXDataTableExtractDataMixin(XLSXDataTableValidateMixin):
         id_to_d_list = {}
         for d in child_d_list:
             child_id = d["region_id"]
-            child_ent = child_ent_idx[child_id]
+            child_ent = child_ent_idx.get(child_id)
+            if not child_ent:
+                log.warning(f"Child ent {child_id} not found.")
+                continue
             ent_id = child_ent.d[ent_id_key]
 
             if ent_id not in id_to_d_list:
                 id_to_d_list[ent_id] = []
             id_to_d_list[ent_id].append(d)
 
-        ent_d_list = []
+        d_list_for_ent = []
 
         for id, d_list_for_ent in id_to_d_list.items():
             ent = ent_idx[id]
@@ -147,16 +163,16 @@ class XLSXDataTableExtractDataMixin(XLSXDataTableValidateMixin):
             for d in d_list_for_ent:
                 for field in self.field_list:
                     ent_d[field] = ent_d.get(field, 0) + d.get(field, 0)
-            ent_d_list.append(ent_d)
+            d_list_for_ent.append(ent_d)
 
-        combined_d_list = d_list + ent_d_list
-        combined_d_list.sort(key=lambda x: x["region_id"])
-        return combined_d_list
+        return d_list_for_ent
 
     def _build_all_levels_(self, raw_rows):
         sums, raw_names = self._get_sums_by_id_and_raw_names_(raw_rows)
         d_list = self._build_d_list_for_existing_types_(sums, raw_names)
-        d_list = self._build_d_list_for_remaining_types_(d_list)
+        d_list_for_ents = self._build_d_list_for_remaining_types_(d_list)
+        d_list.extend(d_list_for_ents)
+        d_list.sort(key=lambda x: x["region_id"])
         return d_list
 
     @property

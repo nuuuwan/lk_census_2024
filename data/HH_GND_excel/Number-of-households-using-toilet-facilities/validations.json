@@ -2,91 +2,175 @@
   {
     "name": "parent_child_totals",
     "status": "fail",
-    "error_count": 14,
+    "error_count": 28,
     "errors": [
-      {
-        "region_id": "LK-1",
-        "field": "within_unit_exclusive",
-        "parent": 1402581,
-        "sum_of_children": 2552992
-      },
-      {
-        "region_id": "LK-1",
-        "field": "within_unit_shared",
-        "parent": 39527,
-        "sum_of_children": 100646
-      },
-      {
-        "region_id": "LK-1",
-        "field": "within_premises_exclusive",
-        "parent": 206499,
-        "sum_of_children": 1055719
-      },
-      {
-        "region_id": "LK-1",
-        "field": "within_premises_shared",
-        "parent": 37544,
-        "sum_of_children": 121645
-      },
-      {
-        "region_id": "LK-1",
-        "field": "no_toilet_sharing",
-        "parent": 11147,
-        "sum_of_children": 62444
-      },
-      {
-        "region_id": "LK-1",
-        "field": "common_public",
-        "parent": 5440,
-        "sum_of_children": 6859
-      },
-      {
-        "region_id": "LK-1",
-        "field": "none",
-        "parent": 682,
-        "sum_of_children": 10258
-      },
       {
         "region_id": "LK-2",
         "field": "within_unit_exclusive",
         "parent": 458565,
-        "sum_of_children": 830614
+        "sum_of_children": 614979
       },
       {
         "region_id": "LK-2",
         "field": "within_unit_shared",
         "parent": 26474,
-        "sum_of_children": 43378
+        "sum_of_children": 31903
       },
       {
         "region_id": "LK-2",
         "field": "within_premises_exclusive",
         "parent": 219652,
-        "sum_of_children": 511327
+        "sum_of_children": 292935
       },
       {
         "region_id": "LK-2",
         "field": "within_premises_shared",
         "parent": 28760,
-        "sum_of_children": 54916
+        "sum_of_children": 34481
       },
       {
         "region_id": "LK-2",
         "field": "no_toilet_sharing",
         "parent": 12295,
-        "sum_of_children": 27420
+        "sum_of_children": 15172
       },
       {
         "region_id": "LK-2",
         "field": "common_public",
         "parent": 1882,
-        "sum_of_children": 2333
+        "sum_of_children": 1956
       },
       {
         "region_id": "LK-2",
         "field": "none",
         "parent": 1391,
-        "sum_of_children": 2476
+        "sum_of_children": 1630
+      },
+      {
+        "region_id": "LK-9",
+        "field": "within_unit_exclusive",
+        "parent": 324428,
+        "sum_of_children": 480842
+      },
+      {
+        "region_id": "LK-9",
+        "field": "within_unit_shared",
+        "parent": 14234,
+        "sum_of_children": 19663
+      },
+      {
+        "region_id": "LK-9",
+        "field": "within_premises_exclusive",
+        "parent": 202930,
+        "sum_of_children": 276213
+      },
+      {
+        "region_id": "LK-9",
+        "field": "within_premises_shared",
+        "parent": 18605,
+        "sum_of_children": 24326
+      },
+      {
+        "region_id": "LK-9",
+        "field": "no_toilet_sharing",
+        "parent": 10520,
+        "sum_of_children": 13397
+      },
+      {
+        "region_id": "LK-9",
+        "field": "common_public",
+        "parent": 394,
+        "sum_of_children": 468
+      },
+      {
+        "region_id": "LK-9",
+        "field": "none",
+        "parent": 571,
+        "sum_of_children": 810
+      },
+      {
+        "region_id": "LK-9230",
+        "field": "within_unit_exclusive",
+        "parent": 15627,
+        "sum_of_children": 24414
+      },
+      {
+        "region_id": "LK-9230",
+        "field": "within_unit_shared",
+        "parent": 777,
+        "sum_of_children": 1339
+      },
+      {
+        "region_id": "LK-9230",
+        "field": "within_premises_exclusive",
+        "parent": 6035,
+        "sum_of_children": 9268
+      },
+      {
+        "region_id": "LK-9230",
+        "field": "within_premises_shared",
+        "parent": 583,
+        "sum_of_children": 943
+      },
+      {
+        "region_id": "LK-9230",
+        "field": "no_toilet_sharing",
+        "parent": 338,
+        "sum_of_children": 548
+      },
+      {
+        "region_id": "LK-9230",
+        "field": "common_public",
+        "parent": 13,
+        "sum_of_children": 21
+      },
+      {
+        "region_id": "LK-9230",
+        "field": "none",
+        "parent": 30,
+        "sum_of_children": 49
+      },
+      {
+        "region_id": "LK-9233",
+        "field": "within_unit_exclusive",
+        "parent": 6818,
+        "sum_of_children": 20454
+      },
+      {
+        "region_id": "LK-9233",
+        "field": "within_unit_shared",
+        "parent": 324,
+        "sum_of_children": 972
+      },
+      {
+        "region_id": "LK-9233",
+        "field": "within_premises_exclusive",
+        "parent": 5178,
+        "sum_of_children": 15534
+      },
+      {
+        "region_id": "LK-9233",
+        "field": "within_premises_shared",
+        "parent": 493,
+        "sum_of_children": 1479
+      },
+      {
+        "region_id": "LK-9233",
+        "field": "no_toilet_sharing",
+        "parent": 231,
+        "sum_of_children": 693
+      },
+      {
+        "region_id": "LK-9233",
+        "field": "common_public",
+        "parent": 12,
+        "sum_of_children": 36
+      },
+      {
+        "region_id": "LK-9233",
+        "field": "none",
+        "parent": 24,
+        "sum_of_children": 72
       }
     ]
   },
@@ -256,8 +340,16 @@
   {
     "name": "gnds_are_valid",
     "status": "fail",
-    "error_count": 4,
+    "error_count": 6,
     "errors": [
+      {
+        "region_id": "EC-22I",
+        "region_name_in_data": null
+      },
+      {
+        "region_id": "LG-92033",
+        "region_name_in_data": null
+      },
       {
         "region_id": "LK-4415095",
         "region_name_in_data": "Kokuthoduvai South"

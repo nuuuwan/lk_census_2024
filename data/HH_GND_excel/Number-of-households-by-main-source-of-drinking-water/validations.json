@@ -2,187 +2,349 @@
   {
     "name": "parent_child_totals",
     "status": "fail",
-    "error_count": 30,
+    "error_count": 57,
     "errors": [
-      {
-        "region_id": "LK-1",
-        "field": "protected_well",
-        "parent": 547468,
-        "sum_of_children": 1078735
-      },
-      {
-        "region_id": "LK-1",
-        "field": "semi_protected_well",
-        "parent": 47227,
-        "sum_of_children": 163003
-      },
-      {
-        "region_id": "LK-1",
-        "field": "unprotected_well",
-        "parent": 9979,
-        "sum_of_children": 40905
-      },
-      {
-        "region_id": "LK-1",
-        "field": "tube_well",
-        "parent": 45657,
-        "sum_of_children": 237484
-      },
-      {
-        "region_id": "LK-1",
-        "field": "spring_fountain",
-        "parent": 5123,
-        "sum_of_children": 53163
-      },
-      {
-        "region_id": "LK-1",
-        "field": "pipe_borne_nwsdb",
-        "parent": 983503,
-        "sum_of_children": 1574194
-      },
-      {
-        "region_id": "LK-1",
-        "field": "pipe_borne_local_authority",
-        "parent": 9099,
-        "sum_of_children": 39421
-      },
-      {
-        "region_id": "LK-1",
-        "field": "pipe_borne_community",
-        "parent": 39974,
-        "sum_of_children": 159366
-      },
-      {
-        "region_id": "LK-1",
-        "field": "pipe_borne_private",
-        "parent": 9811,
-        "sum_of_children": 39303
-      },
-      {
-        "region_id": "LK-1",
-        "field": "tank_river_stream",
-        "parent": 1849,
-        "sum_of_children": 11776
-      },
-      {
-        "region_id": "LK-1",
-        "field": "rain_water",
-        "parent": 114,
-        "sum_of_children": 3643
-      },
-      {
-        "region_id": "LK-1",
-        "field": "bottled_water",
-        "parent": 3140,
-        "sum_of_children": 55781
-      },
-      {
-        "region_id": "LK-1",
-        "field": "filter_ro",
-        "parent": 128,
-        "sum_of_children": 423941
-      },
-      {
-        "region_id": "LK-1",
-        "field": "bowser",
-        "parent": 95,
-        "sum_of_children": 29369
-      },
-      {
-        "region_id": "LK-1",
-        "field": "other",
-        "parent": 253,
-        "sum_of_children": 479
-      },
       {
         "region_id": "LK-2",
         "field": "protected_well",
         "parent": 91497,
-        "sum_of_children": 305906
+        "sum_of_children": 191482
       },
       {
         "region_id": "LK-2",
         "field": "semi_protected_well",
         "parent": 21372,
-        "sum_of_children": 56973
+        "sum_of_children": 36864
       },
       {
         "region_id": "LK-2",
         "field": "unprotected_well",
         "parent": 9024,
-        "sum_of_children": 21078
+        "sum_of_children": 14388
       },
       {
         "region_id": "LK-2",
         "field": "tube_well",
         "parent": 16174,
-        "sum_of_children": 26047
+        "sum_of_children": 17864
       },
       {
         "region_id": "LK-2",
         "field": "spring_fountain",
         "parent": 96127,
-        "sum_of_children": 164376
+        "sum_of_children": 129829
       },
       {
         "region_id": "LK-2",
         "field": "pipe_borne_nwsdb",
         "parent": 299310,
-        "sum_of_children": 484495
+        "sum_of_children": 356539
       },
       {
         "region_id": "LK-2",
         "field": "pipe_borne_local_authority",
         "parent": 44481,
-        "sum_of_children": 55021
+        "sum_of_children": 46734
       },
       {
         "region_id": "LK-2",
         "field": "pipe_borne_community",
         "parent": 92552,
-        "sum_of_children": 211545
+        "sum_of_children": 110141
       },
       {
         "region_id": "LK-2",
         "field": "pipe_borne_private",
         "parent": 39614,
-        "sum_of_children": 75418
+        "sum_of_children": 47183
       },
       {
         "region_id": "LK-2",
         "field": "tank_river_stream",
         "parent": 24126,
-        "sum_of_children": 41191
+        "sum_of_children": 26906
       },
       {
         "region_id": "LK-2",
         "field": "rain_water",
         "parent": 382,
-        "sum_of_children": 569
+        "sum_of_children": 450
       },
       {
         "region_id": "LK-2",
         "field": "bottled_water",
         "parent": 1576,
-        "sum_of_children": 3295
+        "sum_of_children": 1821
       },
       {
         "region_id": "LK-2",
         "field": "filter_ro",
         "parent": 11453,
-        "sum_of_children": 25031
+        "sum_of_children": 11468
       },
       {
         "region_id": "LK-2",
         "field": "bowser",
         "parent": 1199,
-        "sum_of_children": 1294
+        "sum_of_children": 1205
       },
       {
         "region_id": "LK-2",
         "field": "other",
         "parent": 132,
-        "sum_of_children": 225
+        "sum_of_children": 182
+      },
+      {
+        "region_id": "LK-9",
+        "field": "protected_well",
+        "parent": 181561,
+        "sum_of_children": 281546
+      },
+      {
+        "region_id": "LK-9",
+        "field": "semi_protected_well",
+        "parent": 30748,
+        "sum_of_children": 46240
+      },
+      {
+        "region_id": "LK-9",
+        "field": "unprotected_well",
+        "parent": 10767,
+        "sum_of_children": 16131
+      },
+      {
+        "region_id": "LK-9",
+        "field": "tube_well",
+        "parent": 6083,
+        "sum_of_children": 7773
+      },
+      {
+        "region_id": "LK-9",
+        "field": "spring_fountain",
+        "parent": 65092,
+        "sum_of_children": 98794
+      },
+      {
+        "region_id": "LK-9",
+        "field": "pipe_borne_nwsdb",
+        "parent": 125630,
+        "sum_of_children": 182859
+      },
+      {
+        "region_id": "LK-9",
+        "field": "pipe_borne_local_authority",
+        "parent": 8699,
+        "sum_of_children": 10952
+      },
+      {
+        "region_id": "LK-9",
+        "field": "pipe_borne_community",
+        "parent": 92907,
+        "sum_of_children": 110496
+      },
+      {
+        "region_id": "LK-9",
+        "field": "pipe_borne_private",
+        "parent": 34084,
+        "sum_of_children": 41653
+      },
+      {
+        "region_id": "LK-9",
+        "field": "tank_river_stream",
+        "parent": 14417,
+        "sum_of_children": 17197
+      },
+      {
+        "region_id": "LK-9",
+        "field": "rain_water",
+        "parent": 144,
+        "sum_of_children": 212
+      },
+      {
+        "region_id": "LK-9",
+        "field": "bottled_water",
+        "parent": 969,
+        "sum_of_children": 1214
+      },
+      {
+        "region_id": "LK-9",
+        "field": "filter_ro",
+        "parent": 463,
+        "sum_of_children": 478
+      },
+      {
+        "region_id": "LK-9",
+        "field": "bowser",
+        "parent": 33,
+        "sum_of_children": 39
+      },
+      {
+        "region_id": "LK-9",
+        "field": "other",
+        "parent": 85,
+        "sum_of_children": 135
+      },
+      {
+        "region_id": "LK-9230",
+        "field": "protected_well",
+        "parent": 9073,
+        "sum_of_children": 13450
+      },
+      {
+        "region_id": "LK-9230",
+        "field": "semi_protected_well",
+        "parent": 1339,
+        "sum_of_children": 2111
+      },
+      {
+        "region_id": "LK-9230",
+        "field": "unprotected_well",
+        "parent": 532,
+        "sum_of_children": 959
+      },
+      {
+        "region_id": "LK-9230",
+        "field": "tube_well",
+        "parent": 215,
+        "sum_of_children": 345
+      },
+      {
+        "region_id": "LK-9230",
+        "field": "spring_fountain",
+        "parent": 4974,
+        "sum_of_children": 8028
+      },
+      {
+        "region_id": "LK-9230",
+        "field": "pipe_borne_nwsdb",
+        "parent": 2649,
+        "sum_of_children": 3137
+      },
+      {
+        "region_id": "LK-9230",
+        "field": "pipe_borne_local_authority",
+        "parent": 44,
+        "sum_of_children": 72
+      },
+      {
+        "region_id": "LK-9230",
+        "field": "pipe_borne_community",
+        "parent": 2763,
+        "sum_of_children": 5294
+      },
+      {
+        "region_id": "LK-9230",
+        "field": "pipe_borne_private",
+        "parent": 1186,
+        "sum_of_children": 2015
+      },
+      {
+        "region_id": "LK-9230",
+        "field": "tank_river_stream",
+        "parent": 615,
+        "sum_of_children": 1147
+      },
+      {
+        "region_id": "LK-9230",
+        "field": "rain_water",
+        "parent": 3,
+        "sum_of_children": 6
+      },
+      {
+        "region_id": "LK-9230",
+        "field": "filter_ro",
+        "parent": 1,
+        "sum_of_children": 2
+      },
+      {
+        "region_id": "LK-9230",
+        "field": "bowser",
+        "parent": 1,
+        "sum_of_children": 2
+      },
+      {
+        "region_id": "LK-9230",
+        "field": "other",
+        "parent": 6,
+        "sum_of_children": 12
+      },
+      {
+        "region_id": "LK-9233",
+        "field": "protected_well",
+        "parent": 884,
+        "sum_of_children": 2652
+      },
+      {
+        "region_id": "LK-9233",
+        "field": "semi_protected_well",
+        "parent": 145,
+        "sum_of_children": 435
+      },
+      {
+        "region_id": "LK-9233",
+        "field": "unprotected_well",
+        "parent": 158,
+        "sum_of_children": 474
+      },
+      {
+        "region_id": "LK-9233",
+        "field": "tube_well",
+        "parent": 43,
+        "sum_of_children": 129
+      },
+      {
+        "region_id": "LK-9233",
+        "field": "spring_fountain",
+        "parent": 5568,
+        "sum_of_children": 16704
+      },
+      {
+        "region_id": "LK-9233",
+        "field": "pipe_borne_nwsdb",
+        "parent": 332,
+        "sum_of_children": 996
+      },
+      {
+        "region_id": "LK-9233",
+        "field": "pipe_borne_local_authority",
+        "parent": 1405,
+        "sum_of_children": 4215
+      },
+      {
+        "region_id": "LK-9233",
+        "field": "pipe_borne_community",
+        "parent": 2582,
+        "sum_of_children": 7746
+      },
+      {
+        "region_id": "LK-9233",
+        "field": "pipe_borne_private",
+        "parent": 1513,
+        "sum_of_children": 4539
+      },
+      {
+        "region_id": "LK-9233",
+        "field": "tank_river_stream",
+        "parent": 422,
+        "sum_of_children": 1266
+      },
+      {
+        "region_id": "LK-9233",
+        "field": "rain_water",
+        "parent": 4,
+        "sum_of_children": 12
+      },
+      {
+        "region_id": "LK-9233",
+        "field": "bottled_water",
+        "parent": 3,
+        "sum_of_children": 9
+      },
+      {
+        "region_id": "LK-9233",
+        "field": "other",
+        "parent": 21,
+        "sum_of_children": 63
       }
     ]
   },
@@ -352,8 +514,16 @@
   {
     "name": "gnds_are_valid",
     "status": "fail",
-    "error_count": 4,
+    "error_count": 6,
     "errors": [
+      {
+        "region_id": "EC-22I",
+        "region_name_in_data": null
+      },
+      {
+        "region_id": "LG-92033",
+        "region_name_in_data": null
+      },
       {
         "region_id": "LK-4415095",
         "region_name_in_data": "Kokuthoduvai South"
