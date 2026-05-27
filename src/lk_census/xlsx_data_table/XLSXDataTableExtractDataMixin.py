@@ -111,21 +111,23 @@ class XLSXDataTableExtractDataMixin(XLSXDataTableValidateMixin):
         d_list.sort(key=lambda x: x["region_id"])
         return d_list
 
-    def _build_d_list_for_remaining_types_(self, d_list):
+    @staticmethod
+    def _build_d_list_for_remaining_types_(d_list, field_list):
         new_d_list = []
         for ent_type, child_ent_type in [
             (EntType.ED, EntType.DISTRICT),
             (EntType.PD, EntType.GND),
             (EntType.LG, EntType.GND),
         ]:
-            d_list_for_ent = self._build_d_list_for_remaining_type_(
-                d_list, ent_type, child_ent_type
+            d_list_for_ent = XLSXDataTableExtractDataMixin._build_d_list_for_remaining_type_(  # noqa: E501
+                d_list, ent_type, child_ent_type, field_list
             )
             new_d_list.extend(d_list_for_ent)
         return new_d_list
 
+    @staticmethod
     def _build_d_list_for_remaining_type_(
-        self, d_list, ent_type, child_ent_type
+        d_list, ent_type, child_ent_type, field_list
     ):
         ent_idx = Ent.idx_from_type(ent_type)
         child_ent_idx = Ent.idx_from_type(child_ent_type)
@@ -161,7 +163,7 @@ class XLSXDataTableExtractDataMixin(XLSXDataTableValidateMixin):
                 "region_ent_type": child_ent_type.name.upper(),
             }
             for d in d_list_for_ent:
-                for field in self.field_list:
+                for field in field_list:
                     ent_d[field] = ent_d.get(field, 0) + d.get(field, 0)
             d_list_for_ent.append(ent_d)
 
@@ -170,7 +172,9 @@ class XLSXDataTableExtractDataMixin(XLSXDataTableValidateMixin):
     def _build_all_levels_(self, raw_rows):
         sums, raw_names = self._get_sums_by_id_and_raw_names_(raw_rows)
         d_list = self._build_d_list_for_existing_types_(sums, raw_names)
-        d_list_for_ents = self._build_d_list_for_remaining_types_(d_list)
+        d_list_for_ents = self._build_d_list_for_remaining_types_(
+            d_list, self.field_list
+        )
         d_list.extend(d_list_for_ents)
         d_list.sort(key=lambda x: x["region_id"])
         return d_list
