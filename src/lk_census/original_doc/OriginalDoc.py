@@ -2,7 +2,7 @@ import os
 import re
 from dataclasses import dataclass
 
-from utils import WWW, File, JSONFile, Log
+from utils_future import WWW, File, JSONFile, Log
 
 log = Log("OriginalDoc")
 

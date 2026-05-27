@@ -1,9 +1,8 @@
 import os
 
-from utils import File, Format, Log, Time, TimeFormat
-
 from lk_census.original_doc import OriginalDoc
 from lk_census.readme.ReadMeDataTableMixin import ReadMeDataTableMixin
+from utils_future import File, Format, Log, Time, TimeFormat
 
 log = Log("ReadMe")
 

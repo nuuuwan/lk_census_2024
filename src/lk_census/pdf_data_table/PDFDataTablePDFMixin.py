@@ -4,7 +4,8 @@ import re
 import camelot
 import pandas as pd
 from pypdf import PdfReader, PdfWriter
-from utils import JSONFile, Log, PDFFile
+
+from utils_future import JSONFile, Log, PDFFile
 
 log = Log("PDFDataTable")
 

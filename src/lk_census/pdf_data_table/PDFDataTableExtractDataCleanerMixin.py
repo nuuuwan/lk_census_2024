@@ -1,4 +1,4 @@
-from utils import Log
+from utils_future import Log
 
 log = Log("PDFDataTable")
 

@@ -1,12 +1,11 @@
 import os
 
-from gig import Ent, EntType
-from utils import JSONFile, Log, TSVFile
-
+from gig_future import Ent, EntType
 from lk_census.pdf_data_table.PDFDataTableExtractDataCleanerMixin import \
     PDFDataTableExtractDataCleanerMixin
 from lk_census.pdf_data_table.PDFDataTableExtractDataValidateMixin import \
     PDFDataTableExtractDataValidateMixin
+from utils_future import JSONFile, Log, TSVFile
 
 log = Log("PDFDataTable")
 

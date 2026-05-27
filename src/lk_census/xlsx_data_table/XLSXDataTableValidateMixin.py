@@ -1,7 +1,7 @@
 import os
 
-from gig import Ent, EntType
-from utils import JSONFile, Log
+from gig_future import Ent, EntType
+from utils_future import JSONFile, Log
 
 log = Log("XLSXDataTable")
 

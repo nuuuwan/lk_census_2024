@@ -1,8 +1,7 @@
 import os
 
-from utils import JSONFile
-
 from lk_census.original_doc.OriginalDoc import OriginalDoc
+from utils_future import JSONFile
 
 
 class XLSXDataTableLoaderMixin:

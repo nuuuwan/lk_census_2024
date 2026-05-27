@@ -2,12 +2,11 @@ import os
 import re
 from dataclasses import dataclass
 
-from utils import Log
-
 from lk_census.xlsx_data_table.XLSXDataTableExtractDataMixin import \
     XLSXDataTableExtractDataMixin
 from lk_census.xlsx_data_table.XLSXDataTableLoaderMixin import \
     XLSXDataTableLoaderMixin
+from utils_future import Log
 
 log = Log("XLSXDataTable")
 
