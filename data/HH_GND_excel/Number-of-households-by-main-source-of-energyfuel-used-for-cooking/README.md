@@ -32,14 +32,14 @@ For each category, the District with the highest and lowest share (% of that reg
 
 Regions with an unusually high or low share of a category (≥ 2 standard deviations from the district mean).
 
-- 🔺 **Ampara** — Sawdust Paddy Husk: **0.3%** vs district avg 0.0% (z = +4.3)
-- 🔺 **Colombo** — Electricity: **1.0%** vs district avg 0.2% (z = +4.3)
-- 🔺 **Gampaha** — Other: **0.1%** vs district avg 0.0% (z = +3.4)
-- 🔺 **Colombo** — Gas: **87.4%** vs district avg 36.9% (z = +3.0)
-- 🔻 **Colombo** — Firewood: **10.1%** vs district avg 62.1% (z = -3.0)
-- 🔺 **Mannar** — Bio Gas: **0.9%** vs district avg 0.2% (z = +2.2)
-- 🔺 **Ampara** — Bio Gas: **0.9%** vs district avg 0.2% (z = +2.2)
-- 🔺 **Colombo** — Kerosene: **1.4%** vs district avg 0.6% (z = +2.0)
+- 🔺 **Ampara** — Sawdust Paddy Husk: **0.3%** vs district avg 0.0% (z = +4.5)
+- 🔺 **Colombo** — Electricity: **1.0%** vs district avg 0.2% (z = +4.5)
+- 🔺 **Gampaha** — Other: **0.1%** vs district avg 0.0% (z = +3.5)
+- 🔺 **Colombo** — Gas: **87.4%** vs district avg 36.1% (z = +3.1)
+- 🔻 **Colombo** — Firewood: **10.1%** vs district avg 62.9% (z = -3.1)
+- 🔺 **Mannar** — Bio Gas: **0.9%** vs district avg 0.2% (z = +2.3)
+- 🔺 **Ampara** — Bio Gas: **0.9%** vs district avg 0.2% (z = +2.3)
+- 🔺 **Colombo** — Kerosene: **1.4%** vs district avg 0.5% (z = +2.1)
 
 ---
-*Data covers **14,383** rows down to **gnd** level (14,008 gnds).*
+*Data covers **14,462** rows down to **gnd** level (14,085 gnds).*

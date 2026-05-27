@@ -40,14 +40,14 @@ For each category, the District with the highest and lowest share (% of that reg
 
 Regions with an unusually high or low share of a category (≥ 2 standard deviations from the district mean).
 
-- 🔺 **Gampaha** — Sri Lanka Chetty: **0.1%** vs district avg 0.0% (z = +4.9)
-- 🔺 **Nuwara Eliya** — Indian Tamil Or Malaiyaga Thamilar: **50.0%** vs district avg 3.0% (z = +4.8)
-- 🔺 **Ampara** — Veddhas: **0.1%** vs district avg 0.0% (z = +4.4)
-- 🔺 **Colombo** — Bharatha: **0.0%** vs district avg 0.0% (z = +4.2)
-- 🔺 **Hambantota** — Malay: **0.6%** vs district avg 0.1% (z = +3.6)
-- 🔺 **Vavuniya** — Other: **0.2%** vs district avg 0.0% (z = +3.2)
-- 🔺 **Batticaloa** — Burgher: **0.5%** vs district avg 0.1% (z = +2.9)
-- 🔺 **Trincomalee** — Sri Lanka Moor Or Muslim: **46.1%** vs district avg 11.5% (z = +2.8)
+- 🔺 **Gampaha** — Sri Lanka Chetty: **0.1%** vs district avg 0.0% (z = +5.1)
+- 🔺 **Nuwara Eliya** — Indian Tamil Or Malaiyaga Thamilar: **50.0%** vs district avg 3.0% (z = +5.0)
+- 🔺 **Ampara** — Veddhas: **0.1%** vs district avg 0.0% (z = +4.6)
+- 🔺 **Colombo** — Bharatha: **0.0%** vs district avg 0.0% (z = +4.3)
+- 🔺 **Hambantota** — Malay: **0.6%** vs district avg 0.1% (z = +3.7)
+- 🔺 **Vavuniya** — Other: **0.2%** vs district avg 0.0% (z = +3.3)
+- 🔺 **Batticaloa** — Burgher: **0.5%** vs district avg 0.1% (z = +3.0)
+- 🔺 **Trincomalee** — Sri Lanka Moor Or Muslim: **46.1%** vs district avg 11.3% (z = +2.9)
 
 ---
-*Data covers **375** rows down to **dsd** level (340 dsds).*
+*Data covers **377** rows down to **dsd** level (340 dsds).*

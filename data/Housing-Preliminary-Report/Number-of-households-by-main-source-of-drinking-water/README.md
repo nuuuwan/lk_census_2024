@@ -50,14 +50,14 @@ For each category, the District with the highest and lowest share (% of that reg
 
 Regions with an unusually high or low share of a category (≥ 2 standard deviations from the district mean).
 
-- 🔺 **Nuwara Eliya** — Other Tank Or River Or Stream: **8.5%** vs district avg 1.0% (z = +4.2)
-- 🔺 **Vavuniya** — Other Rain Water: **0.7%** vs district avg 0.1% (z = +3.9)
-- 🔺 **Kilinochchi** — Ground Water Semi Protected Well: **27.2%** vs district avg 5.4% (z = +3.9)
-- 🔺 **Puttalam** — Other Bowser: **7.6%** vs district avg 0.8% (z = +3.9)
-- 🔺 **Nuwara Eliya** — Ground Water Spring Or Fountain: **28.8%** vs district avg 3.7% (z = +3.8)
-- 🔺 **Kilinochchi** — Ground Water Unprotected Well: **8.5%** vs district avg 1.7% (z = +3.8)
-- 🔺 **Anuradhapura** — Other Filter Water: **67.3%** vs district avg 9.3% (z = +3.8)
-- 🔺 **Puttalam** — Other Bottled Water: **7.4%** vs district avg 1.1% (z = +3.7)
+- 🔺 **Nuwara Eliya** — Other Tank Or River Or Stream: **8.5%** vs district avg 1.0% (z = +4.4)
+- 🔺 **Vavuniya** — Other Rain Water: **0.7%** vs district avg 0.1% (z = +4.1)
+- 🔺 **Kilinochchi** — Ground Water Semi Protected Well: **27.2%** vs district avg 5.5% (z = +4.0)
+- 🔺 **Puttalam** — Other Bowser: **7.6%** vs district avg 0.8% (z = +4.0)
+- 🔺 **Anuradhapura** — Other Filter Water: **67.3%** vs district avg 8.6% (z = +3.9)
+- 🔺 **Puttalam** — Other Bottled Water: **7.4%** vs district avg 1.1% (z = +3.9)
+- 🔺 **Kilinochchi** — Ground Water Unprotected Well: **8.5%** vs district avg 1.7% (z = +3.9)
+- 🔺 **Nuwara Eliya** — Pipe Borne Water Private Water Supply Project: **12.8%** vs district avg 2.2% (z = +3.8)
 
 ---
-*Data covers **375** rows down to **dsd** level (340 dsds).*
+*Data covers **377** rows down to **dsd** level (340 dsds).*

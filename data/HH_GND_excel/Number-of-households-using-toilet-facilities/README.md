@@ -32,14 +32,14 @@ For each category, the District with the highest and lowest share (% of that reg
 
 Regions with an unusually high or low share of a category (≥ 2 standard deviations from the district mean).
 
-- 🔺 **Colombo** — Common Public: **0.7%** vs district avg 0.1% (z = +4.2)
-- 🔺 **Batticaloa** — None: **1.9%** vs district avg 0.4% (z = +3.9)
-- 🔺 **Batticaloa** — No Toilet Sharing: **6.1%** vs district avg 2.1% (z = +3.4)
-- 🔺 **Nuwara Eliya** — Within Unit Shared: **5.2%** vs district avg 2.6% (z = +3.0)
-- 🔺 **Colombo** — Within Unit Exclusive: **90.5%** vs district avg 54.3% (z = +2.6)
-- 🔻 **Colombo** — Within Premises Exclusive: **5.3%** vs district avg 37.1% (z = -2.4)
-- 🔺 **Badulla** — Within Unit Shared: **4.6%** vs district avg 2.6% (z = +2.3)
-- 🔺 **Kilinochchi** — Within Premises Exclusive: **66.4%** vs district avg 37.1% (z = +2.2)
+- 🔺 **Colombo** — Common Public: **0.7%** vs district avg 0.1% (z = +4.3)
+- 🔺 **Batticaloa** — None: **1.9%** vs district avg 0.3% (z = +4.0)
+- 🔺 **Batticaloa** — No Toilet Sharing: **6.1%** vs district avg 2.1% (z = +3.6)
+- 🔺 **Nuwara Eliya** — Within Unit Shared: **5.2%** vs district avg 2.6% (z = +3.1)
+- 🔺 **Colombo** — Within Unit Exclusive: **90.5%** vs district avg 55.0% (z = +2.6)
+- 🔻 **Colombo** — Within Premises Exclusive: **5.3%** vs district avg 36.6% (z = -2.5)
+- 🔺 **Badulla** — Within Unit Shared: **4.6%** vs district avg 2.6% (z = +2.4)
+- 🔺 **Kilinochchi** — Within Premises Exclusive: **66.4%** vs district avg 36.6% (z = +2.4)
 
 ---
-*Data covers **14,383** rows down to **gnd** level (14,008 gnds).*
+*Data covers **14,462** rows down to **gnd** level (14,085 gnds).*

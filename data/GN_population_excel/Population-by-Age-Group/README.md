@@ -28,8 +28,10 @@ For each category, the District with the highest and lowest share (% of that reg
 
 Regions with an unusually high or low share of a category (≥ 2 standard deviations from the district mean).
 
-- 🔻 **Colombo** — Age 0 14: **16.5%** vs district avg 21.8% (z = -2.4)
+- 🔻 **Colombo** — Age 0 14: **16.5%** vs district avg 21.6% (z = -2.3)
 - 🔻 **Kilinochchi** — Age 60 64: **3.8%** vs district avg 5.2% (z = -2.2)
+- 🔺 **Kilinochchi** — Age 15 59: **64.7%** vs district avg 61.2% (z = +2.0)
+- 🔺 **Trincomalee** — Age 0 14: **26.1%** vs district avg 21.6% (z = +2.0)
 
 ---
-*Data covers **14,383** rows down to **gnd** level (14,008 gnds).*
+*Data covers **14,462** rows down to **gnd** level (14,085 gnds).*

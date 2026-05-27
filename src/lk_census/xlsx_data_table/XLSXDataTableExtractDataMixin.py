@@ -152,8 +152,9 @@ class XLSXDataTableExtractDataMixin(XLSXDataTableValidateMixin):
             id_to_d_list[ent_id].append(d)
 
         d_list_for_ent = []
-        if "total" not in field_list:
-            field_list = ["total"] + field_list
+        if "total" in d_list[0]:
+            if "total" not in field_list:
+                field_list = ["total"] + field_list
         for id, d_list_for_ent in id_to_d_list.items():
             ent = ent_idx[id]
             ent_d = {

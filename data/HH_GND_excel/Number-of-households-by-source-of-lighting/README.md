@@ -32,14 +32,14 @@ For each category, the District with the highest and lowest share (% of that reg
 
 Regions with an unusually high or low share of a category (≥ 2 standard deviations from the district mean).
 
-- 🔺 **Colombo** — Solar Grid: **0.4%** vs district avg 0.1% (z = +4.0)
-- 🔺 **Hambantota** — Other: **0.6%** vs district avg 0.2% (z = +3.5)
-- 🔺 **Mannar** — Bio Gas: **0.0%** vs district avg 0.0% (z = +3.3)
-- 🔺 **Mullaitivu** — Solar Standalone: **0.3%** vs district avg 0.1% (z = +2.9)
-- 🔺 **Puttalam** — Solar Standalone: **0.3%** vs district avg 0.1% (z = +2.8)
-- 🔺 **Batticaloa** — Kerosene Lamp: **5.2%** vs district avg 2.1% (z = +2.6)
-- 🔻 **Batticaloa** — Electricity Grid: **94.5%** vs district avg 97.4% (z = -2.5)
-- 🔺 **Kilinochchi** — Generator: **0.1%** vs district avg 0.0% (z = +2.4)
+- 🔺 **Colombo** — Solar Grid: **0.4%** vs district avg 0.1% (z = +4.1)
+- 🔺 **Hambantota** — Other: **0.6%** vs district avg 0.2% (z = +3.7)
+- 🔺 **Mannar** — Bio Gas: **0.0%** vs district avg 0.0% (z = +3.4)
+- 🔺 **Mullaitivu** — Solar Standalone: **0.3%** vs district avg 0.1% (z = +3.0)
+- 🔺 **Puttalam** — Solar Standalone: **0.3%** vs district avg 0.1% (z = +2.9)
+- 🔺 **Batticaloa** — Kerosene Lamp: **5.2%** vs district avg 2.1% (z = +2.7)
+- 🔻 **Batticaloa** — Electricity Grid: **94.5%** vs district avg 97.5% (z = -2.6)
+- 🔺 **Kilinochchi** — Generator: **0.1%** vs district avg 0.0% (z = +2.5)
 
 ---
-*Data covers **14,383** rows down to **gnd** level (14,008 gnds).*
+*Data covers **14,462** rows down to **gnd** level (14,085 gnds).*

@@ -14,7 +14,7 @@ For each category, the District with the highest and lowest share (% of that reg
 
 | Category | Highest District | Share | Lowest District | Share |
 |----------|---------|------:|---------|------:|
-| Occupied Housing Units | Colombo | 100.0% | Kegalle | 100.0% |
+| Occupied Housing Units | Kegalle | 100.0% | Kegalle | 100.0% |
 
 ---
-*Data covers **14,383** rows down to **gnd** level (14,008 gnds).*
+*Data covers **14,462** rows down to **gnd** level (14,085 gnds).*

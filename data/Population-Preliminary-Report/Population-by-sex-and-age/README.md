@@ -32,10 +32,12 @@ For each category, the District with the highest and lowest share (% of that reg
 
 Regions with an unusually high or low share of a category (≥ 2 standard deviations from the district mean).
 
-- 🔻 **Colombo** — Age Under 15: **16.5%** vs district avg 21.8% (z = -2.4)
-- 🔻 **Batticaloa** — Sex Male: **46.8%** vs district avg 48.3% (z = -2.4)
-- 🔺 **Batticaloa** — Sex Female: **53.2%** vs district avg 51.7% (z = +2.4)
+- 🔻 **Batticaloa** — Sex Male: **46.8%** vs district avg 48.3% (z = -2.3)
+- 🔺 **Batticaloa** — Sex Female: **53.2%** vs district avg 51.7% (z = +2.3)
+- 🔻 **Colombo** — Age Under 15: **16.5%** vs district avg 21.6% (z = -2.3)
 - 🔻 **Kilinochchi** — Age 60 To 64: **3.8%** vs district avg 5.2% (z = -2.2)
+- 🔺 **Kilinochchi** — Age 15 To 59: **64.7%** vs district avg 61.2% (z = +2.0)
+- 🔺 **Trincomalee** — Age Under 15: **26.1%** vs district avg 21.6% (z = +2.0)
 
 ---
-*Data covers **374** rows down to **dsd** level (339 dsds).*
+*Data covers **376** rows down to **dsd** level (339 dsds).*
