@@ -1,5 +1,203 @@
 [
   {
+    "region_id": "EC-01",
+    "region_name": "Colombo",
+    "region_name_in_data": null,
+    "region_ent_type": "DISTRICT",
+    "total": 2375415,
+    "male": 1154799,
+    "female": 1220616
+  },
+  {
+    "region_id": "EC-02",
+    "region_name": "Gampaha",
+    "region_name_in_data": null,
+    "region_ent_type": "DISTRICT",
+    "total": 2436142,
+    "male": 1175469,
+    "female": 1260673
+  },
+  {
+    "region_id": "EC-03",
+    "region_name": "Kalutara",
+    "region_name_in_data": null,
+    "region_ent_type": "DISTRICT",
+    "total": 1305784,
+    "male": 631106,
+    "female": 674678
+  },
+  {
+    "region_id": "EC-04",
+    "region_name": "Kandy",
+    "region_name_in_data": null,
+    "region_ent_type": "DISTRICT",
+    "total": 1461895,
+    "male": 696713,
+    "female": 765182
+  },
+  {
+    "region_id": "EC-05",
+    "region_name": "Matale",
+    "region_name_in_data": null,
+    "region_ent_type": "DISTRICT",
+    "total": 526870,
+    "male": 255221,
+    "female": 271649
+  },
+  {
+    "region_id": "EC-06",
+    "region_name": "Nuwara-Eliya",
+    "region_name_in_data": null,
+    "region_ent_type": "DISTRICT",
+    "total": 725280,
+    "male": 346471,
+    "female": 378809
+  },
+  {
+    "region_id": "EC-07",
+    "region_name": "Galle",
+    "region_name_in_data": null,
+    "region_ent_type": "DISTRICT",
+    "total": 1097372,
+    "male": 527640,
+    "female": 569732
+  },
+  {
+    "region_id": "EC-08",
+    "region_name": "Matara",
+    "region_name_in_data": null,
+    "region_ent_type": "DISTRICT",
+    "total": 837889,
+    "male": 401980,
+    "female": 435909
+  },
+  {
+    "region_id": "EC-09",
+    "region_name": "Hambantota",
+    "region_name_in_data": null,
+    "region_ent_type": "DISTRICT",
+    "total": 671418,
+    "male": 329210,
+    "female": 342208
+  },
+  {
+    "region_id": "EC-10",
+    "region_name": "Jaffna",
+    "region_name_in_data": null,
+    "region_ent_type": "DISTRICT",
+    "total": 731461,
+    "male": 347677,
+    "female": 383784
+  },
+  {
+    "region_id": "EC-11",
+    "region_name": "Vanni",
+    "region_name_in_data": null,
+    "region_ent_type": "DISTRICT",
+    "total": 418687,
+    "male": 203596,
+    "female": 215091
+  },
+  {
+    "region_id": "EC-12",
+    "region_name": "Batticaloa",
+    "region_name_in_data": null,
+    "region_ent_type": "DISTRICT",
+    "total": 595918,
+    "male": 278885,
+    "female": 317033
+  },
+  {
+    "region_id": "EC-13",
+    "region_name": "Digamadulla",
+    "region_name_in_data": null,
+    "region_ent_type": "DISTRICT",
+    "total": 744551,
+    "male": 354018,
+    "female": 390533
+  },
+  {
+    "region_id": "EC-14",
+    "region_name": "Trincomalee",
+    "region_name_in_data": null,
+    "region_ent_type": "DISTRICT",
+    "total": 442745,
+    "male": 217704,
+    "female": 225041
+  },
+  {
+    "region_id": "EC-15",
+    "region_name": "Kurunegala",
+    "region_name_in_data": null,
+    "region_ent_type": "DISTRICT",
+    "total": 1768156,
+    "male": 849072,
+    "female": 919084
+  },
+  {
+    "region_id": "EC-16",
+    "region_name": "Puttalam",
+    "region_name_in_data": null,
+    "region_ent_type": "DISTRICT",
+    "total": 818816,
+    "male": 394244,
+    "female": 424572
+  },
+  {
+    "region_id": "EC-17",
+    "region_name": "Anuradhapura",
+    "region_name_in_data": null,
+    "region_ent_type": "DISTRICT",
+    "total": 960080,
+    "male": 466571,
+    "female": 493509
+  },
+  {
+    "region_id": "EC-18",
+    "region_name": "Polonnaruwa",
+    "region_name_in_data": null,
+    "region_ent_type": "DISTRICT",
+    "total": 447530,
+    "male": 219686,
+    "female": 227844
+  },
+  {
+    "region_id": "EC-19",
+    "region_name": "Badulla",
+    "region_name_in_data": null,
+    "region_ent_type": "DISTRICT",
+    "total": 872307,
+    "male": 422818,
+    "female": 449489
+  },
+  {
+    "region_id": "EC-20",
+    "region_name": "Moneragala",
+    "region_name_in_data": null,
+    "region_ent_type": "DISTRICT",
+    "total": 527585,
+    "male": 260927,
+    "female": 266658
+  },
+  {
+    "region_id": "EC-21",
+    "region_name": "Ratnapura",
+    "region_name_in_data": null,
+    "region_ent_type": "DISTRICT",
+    "total": 1145423,
+    "male": 562459,
+    "female": 582964
+  },
+  {
+    "region_id": "EC-22",
+    "region_name": "Kegalle",
+    "region_name_in_data": null,
+    "region_ent_type": "DISTRICT",
+    "total": 870476,
+    "male": 416078,
+    "female": 454398
+  },
+  {
     "region_id": "LK",
     "region_name": "Sri Lanka",
     "region_name_in_data": "Sri Lanka",

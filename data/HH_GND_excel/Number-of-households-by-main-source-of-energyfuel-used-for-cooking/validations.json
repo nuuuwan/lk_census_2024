@@ -1,9 +1,106 @@
 [
   {
     "name": "parent_child_totals",
-    "status": "pass",
-    "error_count": 0,
-    "errors": []
+    "status": "fail",
+    "error_count": 16,
+    "errors": [
+      {
+        "region_id": "LK-1",
+        "field": "firewood",
+        "parent": 433777,
+        "sum_of_children": 1893318
+      },
+      {
+        "region_id": "LK-1",
+        "field": "kerosene",
+        "parent": 15637,
+        "sum_of_children": 27718
+      },
+      {
+        "region_id": "LK-1",
+        "field": "gas",
+        "parent": 1203412,
+        "sum_of_children": 1906778
+      },
+      {
+        "region_id": "LK-1",
+        "field": "electricity",
+        "parent": 10508,
+        "sum_of_children": 14758
+      },
+      {
+        "region_id": "LK-1",
+        "field": "sawdust_paddy_husk",
+        "parent": 303,
+        "sum_of_children": 1533
+      },
+      {
+        "region_id": "LK-1",
+        "field": "bio_gas",
+        "parent": 356,
+        "sum_of_children": 6503
+      },
+      {
+        "region_id": "LK-1",
+        "field": "other",
+        "parent": 1152,
+        "sum_of_children": 1696
+      },
+      {
+        "region_id": "LK-1",
+        "field": "not_relevant",
+        "parent": 38275,
+        "sum_of_children": 58259
+      },
+      {
+        "region_id": "LK-2",
+        "field": "firewood",
+        "parent": 489749,
+        "sum_of_children": 1050299
+      },
+      {
+        "region_id": "LK-2",
+        "field": "kerosene",
+        "parent": 2717,
+        "sum_of_children": 4083
+      },
+      {
+        "region_id": "LK-2",
+        "field": "gas",
+        "parent": 249179,
+        "sum_of_children": 403765
+      },
+      {
+        "region_id": "LK-2",
+        "field": "electricity",
+        "parent": 2191,
+        "sum_of_children": 3556
+      },
+      {
+        "region_id": "LK-2",
+        "field": "sawdust_paddy_husk",
+        "parent": 84,
+        "sum_of_children": 117
+      },
+      {
+        "region_id": "LK-2",
+        "field": "bio_gas",
+        "parent": 559,
+        "sum_of_children": 594
+      },
+      {
+        "region_id": "LK-2",
+        "field": "other",
+        "parent": 175,
+        "sum_of_children": 361
+      },
+      {
+        "region_id": "LK-2",
+        "field": "not_relevant",
+        "parent": 4365,
+        "sum_of_children": 9689
+      }
+    ]
   },
   {
     "name": "all_gig_gnds_present",

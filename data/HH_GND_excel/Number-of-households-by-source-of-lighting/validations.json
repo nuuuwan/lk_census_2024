@@ -1,9 +1,94 @@
 [
   {
     "name": "parent_child_totals",
-    "status": "pass",
-    "error_count": 0,
-    "errors": []
+    "status": "fail",
+    "error_count": 14,
+    "errors": [
+      {
+        "region_id": "LK-1",
+        "field": "electricity_grid",
+        "parent": 1682433,
+        "sum_of_children": 3828046
+      },
+      {
+        "region_id": "LK-1",
+        "field": "kerosene_lamp",
+        "parent": 10565,
+        "sum_of_children": 63634
+      },
+      {
+        "region_id": "LK-1",
+        "field": "solar_grid",
+        "parent": 5206,
+        "sum_of_children": 6754
+      },
+      {
+        "region_id": "LK-1",
+        "field": "solar_standalone",
+        "parent": 1514,
+        "sum_of_children": 3914
+      },
+      {
+        "region_id": "LK-1",
+        "field": "bio_gas",
+        "parent": 121,
+        "sum_of_children": 194
+      },
+      {
+        "region_id": "LK-1",
+        "field": "generator",
+        "parent": 288,
+        "sum_of_children": 765
+      },
+      {
+        "region_id": "LK-1",
+        "field": "other",
+        "parent": 3293,
+        "sum_of_children": 7256
+      },
+      {
+        "region_id": "LK-2",
+        "field": "electricity_grid",
+        "parent": 736755,
+        "sum_of_children": 1442236
+      },
+      {
+        "region_id": "LK-2",
+        "field": "kerosene_lamp",
+        "parent": 9880,
+        "sum_of_children": 24244
+      },
+      {
+        "region_id": "LK-2",
+        "field": "solar_grid",
+        "parent": 360,
+        "sum_of_children": 634
+      },
+      {
+        "region_id": "LK-2",
+        "field": "solar_standalone",
+        "parent": 495,
+        "sum_of_children": 1407
+      },
+      {
+        "region_id": "LK-2",
+        "field": "bio_gas",
+        "parent": 27,
+        "sum_of_children": 39
+      },
+      {
+        "region_id": "LK-2",
+        "field": "generator",
+        "parent": 127,
+        "sum_of_children": 389
+      },
+      {
+        "region_id": "LK-2",
+        "field": "other",
+        "parent": 1375,
+        "sum_of_children": 3515
+      }
+    ]
   },
   {
     "name": "all_gig_gnds_present",

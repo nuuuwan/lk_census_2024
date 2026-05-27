@@ -51,7 +51,7 @@ class EntType:
             return (
                 "https://raw.githubusercontent.com"
                 + "/nuuuwan/lk_admin_regions/refs/heads/main"
-                + f"/data/ents/{self.name}s.json"
+                + f"/data/ents/{self.name}s.tsv"
             )
 
         raise ValueError(f"Unknown EntType name: {self.name}")

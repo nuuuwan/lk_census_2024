@@ -1,9 +1,22 @@
 [
   {
     "name": "parent_child_totals",
-    "status": "pass",
-    "error_count": 0,
-    "errors": []
+    "status": "fail",
+    "error_count": 2,
+    "errors": [
+      {
+        "region_id": "LK-1",
+        "field": "occupied_housing_units",
+        "parent": 1686506,
+        "sum_of_children": 3859037
+      },
+      {
+        "region_id": "LK-2",
+        "field": "occupied_housing_units",
+        "parent": 730925,
+        "sum_of_children": 1448533
+      }
+    ]
   },
   {
     "name": "all_gig_gnds_present",

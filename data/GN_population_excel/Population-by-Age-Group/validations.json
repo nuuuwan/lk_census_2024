@@ -1,9 +1,70 @@
 [
   {
     "name": "parent_child_totals",
-    "status": "pass",
-    "error_count": 0,
-    "errors": []
+    "status": "fail",
+    "error_count": 10,
+    "errors": [
+      {
+        "region_id": "LK-1",
+        "field": "total",
+        "parent": 6117341,
+        "sum_of_children": 13917592
+      },
+      {
+        "region_id": "LK-1",
+        "field": "age_0_14",
+        "parent": 1085459,
+        "sum_of_children": 2841561
+      },
+      {
+        "region_id": "LK-1",
+        "field": "age_15_59",
+        "parent": 3870373,
+        "sum_of_children": 8651217
+      },
+      {
+        "region_id": "LK-1",
+        "field": "age_60_64",
+        "parent": 343391,
+        "sum_of_children": 744346
+      },
+      {
+        "region_id": "LK-1",
+        "field": "age_65_and_above",
+        "parent": 818118,
+        "sum_of_children": 1680468
+      },
+      {
+        "region_id": "LK-2",
+        "field": "total",
+        "parent": 2714045,
+        "sum_of_children": 5257529
+      },
+      {
+        "region_id": "LK-2",
+        "field": "age_0_14",
+        "parent": 593854,
+        "sum_of_children": 1122241
+      },
+      {
+        "region_id": "LK-2",
+        "field": "age_15_59",
+        "parent": 1609012,
+        "sum_of_children": 3149189
+      },
+      {
+        "region_id": "LK-2",
+        "field": "age_60_64",
+        "parent": 155726,
+        "sum_of_children": 295230
+      },
+      {
+        "region_id": "LK-2",
+        "field": "age_65_and_above",
+        "parent": 355453,
+        "sum_of_children": 690869
+      }
+    ]
   },
   {
     "name": "all_gig_gnds_present",

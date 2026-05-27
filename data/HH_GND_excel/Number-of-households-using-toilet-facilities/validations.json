@@ -1,9 +1,94 @@
 [
   {
     "name": "parent_child_totals",
-    "status": "pass",
-    "error_count": 0,
-    "errors": []
+    "status": "fail",
+    "error_count": 14,
+    "errors": [
+      {
+        "region_id": "LK-1",
+        "field": "within_unit_exclusive",
+        "parent": 1402581,
+        "sum_of_children": 2552992
+      },
+      {
+        "region_id": "LK-1",
+        "field": "within_unit_shared",
+        "parent": 39527,
+        "sum_of_children": 100646
+      },
+      {
+        "region_id": "LK-1",
+        "field": "within_premises_exclusive",
+        "parent": 206499,
+        "sum_of_children": 1055719
+      },
+      {
+        "region_id": "LK-1",
+        "field": "within_premises_shared",
+        "parent": 37544,
+        "sum_of_children": 121645
+      },
+      {
+        "region_id": "LK-1",
+        "field": "no_toilet_sharing",
+        "parent": 11147,
+        "sum_of_children": 62444
+      },
+      {
+        "region_id": "LK-1",
+        "field": "common_public",
+        "parent": 5440,
+        "sum_of_children": 6859
+      },
+      {
+        "region_id": "LK-1",
+        "field": "none",
+        "parent": 682,
+        "sum_of_children": 10258
+      },
+      {
+        "region_id": "LK-2",
+        "field": "within_unit_exclusive",
+        "parent": 458565,
+        "sum_of_children": 830614
+      },
+      {
+        "region_id": "LK-2",
+        "field": "within_unit_shared",
+        "parent": 26474,
+        "sum_of_children": 43378
+      },
+      {
+        "region_id": "LK-2",
+        "field": "within_premises_exclusive",
+        "parent": 219652,
+        "sum_of_children": 511327
+      },
+      {
+        "region_id": "LK-2",
+        "field": "within_premises_shared",
+        "parent": 28760,
+        "sum_of_children": 54916
+      },
+      {
+        "region_id": "LK-2",
+        "field": "no_toilet_sharing",
+        "parent": 12295,
+        "sum_of_children": 27420
+      },
+      {
+        "region_id": "LK-2",
+        "field": "common_public",
+        "parent": 1882,
+        "sum_of_children": 2333
+      },
+      {
+        "region_id": "LK-2",
+        "field": "none",
+        "parent": 1391,
+        "sum_of_children": 2476
+      }
+    ]
   },
   {
     "name": "all_gig_gnds_present",

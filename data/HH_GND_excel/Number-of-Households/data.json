@@ -1,5 +1,159 @@
 [
   {
+    "region_id": "EC-01",
+    "region_name": "Colombo",
+    "region_name_in_data": null,
+    "region_ent_type": "DISTRICT",
+    "n_households": 661822
+  },
+  {
+    "region_id": "EC-02",
+    "region_name": "Gampaha",
+    "region_name_in_data": null,
+    "region_ent_type": "DISTRICT",
+    "n_households": 688635
+  },
+  {
+    "region_id": "EC-03",
+    "region_name": "Kalutara",
+    "region_name_in_data": null,
+    "region_ent_type": "DISTRICT",
+    "n_households": 352963
+  },
+  {
+    "region_id": "EC-04",
+    "region_name": "Kandy",
+    "region_name_in_data": null,
+    "region_ent_type": "DISTRICT",
+    "n_households": 397626
+  },
+  {
+    "region_id": "EC-05",
+    "region_name": "Matale",
+    "region_name_in_data": null,
+    "region_ent_type": "DISTRICT",
+    "n_households": 151132
+  },
+  {
+    "region_id": "EC-06",
+    "region_name": "Nuwara-Eliya",
+    "region_name_in_data": null,
+    "region_ent_type": "DISTRICT",
+    "n_households": 200261
+  },
+  {
+    "region_id": "EC-07",
+    "region_name": "Galle",
+    "region_name_in_data": null,
+    "region_ent_type": "DISTRICT",
+    "n_households": 307704
+  },
+  {
+    "region_id": "EC-08",
+    "region_name": "Matara",
+    "region_name_in_data": null,
+    "region_ent_type": "DISTRICT",
+    "n_households": 231946
+  },
+  {
+    "region_id": "EC-09",
+    "region_name": "Hambantota",
+    "region_name_in_data": null,
+    "region_ent_type": "DISTRICT",
+    "n_households": 188638
+  },
+  {
+    "region_id": "EC-10",
+    "region_name": "Jaffna",
+    "region_name_in_data": null,
+    "region_ent_type": "DISTRICT",
+    "n_households": 196487
+  },
+  {
+    "region_id": "EC-11",
+    "region_name": "Vanni",
+    "region_name_in_data": null,
+    "region_ent_type": "DISTRICT",
+    "n_households": 115515
+  },
+  {
+    "region_id": "EC-12",
+    "region_name": "Batticaloa",
+    "region_name_in_data": null,
+    "region_ent_type": "DISTRICT",
+    "n_households": 170262
+  },
+  {
+    "region_id": "EC-13",
+    "region_name": "Digamadulla",
+    "region_name_in_data": null,
+    "region_ent_type": "DISTRICT",
+    "n_households": 207007
+  },
+  {
+    "region_id": "EC-14",
+    "region_name": "Trincomalee",
+    "region_name_in_data": null,
+    "region_ent_type": "DISTRICT",
+    "n_households": 121948
+  },
+  {
+    "region_id": "EC-15",
+    "region_name": "Kurunegala",
+    "region_name_in_data": null,
+    "region_ent_type": "DISTRICT",
+    "n_households": 511166
+  },
+  {
+    "region_id": "EC-16",
+    "region_name": "Puttalam",
+    "region_name_in_data": null,
+    "region_ent_type": "DISTRICT",
+    "n_households": 234027
+  },
+  {
+    "region_id": "EC-17",
+    "region_name": "Anuradhapura",
+    "region_name_in_data": null,
+    "region_ent_type": "DISTRICT",
+    "n_households": 275084
+  },
+  {
+    "region_id": "EC-18",
+    "region_name": "Polonnaruwa",
+    "region_name_in_data": null,
+    "region_ent_type": "DISTRICT",
+    "n_households": 127385
+  },
+  {
+    "region_id": "EC-19",
+    "region_name": "Badulla",
+    "region_name_in_data": null,
+    "region_ent_type": "DISTRICT",
+    "n_households": 248262
+  },
+  {
+    "region_id": "EC-20",
+    "region_name": "Moneragala",
+    "region_name_in_data": null,
+    "region_ent_type": "DISTRICT",
+    "n_households": 151763
+  },
+  {
+    "region_id": "EC-21",
+    "region_name": "Ratnapura",
+    "region_name_in_data": null,
+    "region_ent_type": "DISTRICT",
+    "n_households": 327645
+  },
+  {
+    "region_id": "EC-22",
+    "region_name": "Kegalle",
+    "region_name_in_data": null,
+    "region_ent_type": "DISTRICT",
+    "n_households": 244037
+  },
+  {
     "region_id": "LK",
     "region_name": "Sri Lanka",
     "region_name_in_data": "Sri Lanka",

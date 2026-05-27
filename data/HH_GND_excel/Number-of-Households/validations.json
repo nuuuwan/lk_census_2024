@@ -1,9 +1,22 @@
 [
   {
     "name": "parent_child_totals",
-    "status": "pass",
-    "error_count": 0,
-    "errors": []
+    "status": "fail",
+    "error_count": 2,
+    "errors": [
+      {
+        "region_id": "LK-1",
+        "field": "n_households",
+        "parent": 1703420,
+        "sum_of_children": 3910563
+      },
+      {
+        "region_id": "LK-2",
+        "field": "n_households",
+        "parent": 749019,
+        "sum_of_children": 1472464
+      }
+    ]
   },
   {
     "name": "all_gig_gnds_present",

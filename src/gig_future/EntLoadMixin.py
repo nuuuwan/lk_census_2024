@@ -60,9 +60,7 @@ class EntLoadMixin:
         ent_and_ratio_list = []
         for entity_type in entity_type_list:
             for ent in cls.list_from_type(entity_type):
-                if filter_parent_id and not ent.is_parent_id(
-                    filter_parent_id
-                ):
+                if filter_parent_id and not ent.is_parent_id(filter_parent_id):
                     continue
 
                 fuzz_ratio = fuzz.ratio(ent.name, name_fuzzy)

@@ -1,9 +1,46 @@
 [
   {
     "name": "parent_child_totals",
-    "status": "pass",
-    "error_count": 0,
-    "errors": []
+    "status": "fail",
+    "error_count": 6,
+    "errors": [
+      {
+        "region_id": "LK-1",
+        "field": "total",
+        "parent": 6117341,
+        "sum_of_children": 13917592
+      },
+      {
+        "region_id": "LK-1",
+        "field": "male",
+        "parent": 2961374,
+        "sum_of_children": 6715645
+      },
+      {
+        "region_id": "LK-1",
+        "field": "female",
+        "parent": 3155967,
+        "sum_of_children": 7201947
+      },
+      {
+        "region_id": "LK-2",
+        "field": "total",
+        "parent": 2714045,
+        "sum_of_children": 5257529
+      },
+      {
+        "region_id": "LK-2",
+        "field": "male",
+        "parent": 1298405,
+        "sum_of_children": 2537869
+      },
+      {
+        "region_id": "LK-2",
+        "field": "female",
+        "parent": 1415640,
+        "sum_of_children": 2719660
+      }
+    ]
   },
   {
     "name": "all_gig_gnds_present",
