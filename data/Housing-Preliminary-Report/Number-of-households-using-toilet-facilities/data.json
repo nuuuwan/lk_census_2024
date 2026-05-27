@@ -1,5 +1,19 @@
 [
   {
+    "region_id": "EC-22",
+    "region_name": "Kegalle",
+    "region_name_in_data": null,
+    "region_ent_type": "DISTRICT",
+    "total": 244037,
+    "within_the_unit-exclusively_for_the_household": 156414,
+    "within_the_unit-sharing_with_another_household": 5429,
+    "outside_the_unit-exclusively_for_the_household": 73283,
+    "outside_the_unit-sharing_with_another_household": 5721,
+    "other-no_toilet_but_sharing_with_another_household": 2877,
+    "other-common_or_public_toilet": 74,
+    "other-not_using_a_toilet": 239
+  },
+  {
     "region_id": "LK",
     "region_name": "Sri Lanka",
     "region_name_in_data": "Sri Lanka",
@@ -5080,6 +5094,20 @@
     "other-no_toilet_but_sharing_with_another_household": 452,
     "other-common_or_public_toilet": 31,
     "other-not_using_a_toilet": 9
+  },
+  {
+    "region_id": "LK-92",
+    "region_name": "Kegalle",
+    "region_name_in_data": "Kegalle District",
+    "region_ent_type": "district",
+    "total": 244037,
+    "within_the_unit-exclusively_for_the_household": 156414,
+    "within_the_unit-sharing_with_another_household": 5429,
+    "outside_the_unit-exclusively_for_the_household": 73283,
+    "outside_the_unit-sharing_with_another_household": 5721,
+    "other-no_toilet_but_sharing_with_another_household": 2877,
+    "other-common_or_public_toilet": 74,
+    "other-not_using_a_toilet": 239
   },
   {
     "region_id": "LK-92",

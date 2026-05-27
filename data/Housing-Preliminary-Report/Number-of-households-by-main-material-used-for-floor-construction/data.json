@@ -1,5 +1,20 @@
 [
   {
+    "region_id": "EC-22",
+    "region_name": "Kegalle",
+    "region_name_in_data": null,
+    "region_ent_type": "DISTRICT",
+    "total": 242027,
+    "cement": 155123,
+    "terrazzo_or_tile_or_granite_or_wood_or_titanium": 62656,
+    "concrete": 19023,
+    "mud": 4985,
+    "wood": 79,
+    "sand": 71,
+    "other": 64,
+    "not_relevant": 26
+  },
+  {
     "region_id": "LK",
     "region_name": "Sri Lanka",
     "region_name_in_data": "Sri Lanka",
@@ -5443,6 +5458,21 @@
     "sand": 3,
     "other": 23,
     "not_relevant": 0
+  },
+  {
+    "region_id": "LK-92",
+    "region_name": "Kegalle",
+    "region_name_in_data": "Kegalle District",
+    "region_ent_type": "district",
+    "total": 242027,
+    "cement": 155123,
+    "terrazzo_or_tile_or_granite_or_wood_or_titanium": 62656,
+    "concrete": 19023,
+    "mud": 4985,
+    "wood": 79,
+    "sand": 71,
+    "other": 64,
+    "not_relevant": 26
   },
   {
     "region_id": "LK-92",

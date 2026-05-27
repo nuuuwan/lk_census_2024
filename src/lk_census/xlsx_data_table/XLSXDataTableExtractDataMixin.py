@@ -112,13 +112,11 @@ class XLSXDataTableExtractDataMixin(XLSXDataTableValidateMixin):
         return d_list
 
     @staticmethod
-    def _build_d_list_for_remaining_types_(d_list, field_list):
+    def _build_d_list_for_remaining_types_(
+        d_list, field_list, ent_type_and_child_ent_type
+    ):
         new_d_list = []
-        for ent_type, child_ent_type in [
-            (EntType.ED, EntType.DISTRICT),
-            (EntType.PD, EntType.GND),
-            (EntType.LG, EntType.GND),
-        ]:
+        for ent_type, child_ent_type in ent_type_and_child_ent_type:
             d_list_for_ent = XLSXDataTableExtractDataMixin._build_d_list_for_remaining_type_(  # noqa: E501
                 d_list, ent_type, child_ent_type, field_list
             )
@@ -132,10 +130,11 @@ class XLSXDataTableExtractDataMixin(XLSXDataTableValidateMixin):
         ent_idx = Ent.idx_from_type(ent_type)
         child_ent_idx = Ent.idx_from_type(child_ent_type)
         ent_id_key = f"{ent_type.name.lower()}_id"
+        print(d_list[0])
         child_d_list = [
             d
             for d in d_list
-            if d["region_ent_type"] == child_ent_type.name.upper()
+            if d["region_ent_type"].lower() == child_ent_type.name
         ]
         assert len(child_d_list) > 0, "No child entities found to build from"
 
@@ -153,7 +152,8 @@ class XLSXDataTableExtractDataMixin(XLSXDataTableValidateMixin):
             id_to_d_list[ent_id].append(d)
 
         d_list_for_ent = []
-
+        if "total" not in field_list:
+            field_list = ["total"] + field_list
         for id, d_list_for_ent in id_to_d_list.items():
             ent = ent_idx[id]
             ent_d = {
@@ -173,7 +173,13 @@ class XLSXDataTableExtractDataMixin(XLSXDataTableValidateMixin):
         sums, raw_names = self._get_sums_by_id_and_raw_names_(raw_rows)
         d_list = self._build_d_list_for_existing_types_(sums, raw_names)
         d_list_for_ents = self._build_d_list_for_remaining_types_(
-            d_list, self.field_list
+            d_list,
+            self.field_list,
+            [
+                (EntType.ED, EntType.DISTRICT),
+                (EntType.PD, EntType.GND),
+                (EntType.LG, EntType.GND),
+            ],
         )
         d_list.extend(d_list_for_ents)
         d_list.sort(key=lambda x: x["region_id"])

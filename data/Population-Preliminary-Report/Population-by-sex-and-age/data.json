@@ -1,5 +1,18 @@
 [
   {
+    "region_id": "EC-22",
+    "region_name": "Kegalle",
+    "region_name_in_data": null,
+    "region_ent_type": "DISTRICT",
+    "total": 870476,
+    "sex-male": 416078,
+    "sex-female": 454398,
+    "age-under-15": 171285,
+    "age-15-to-59": 515832,
+    "age-60-to-64": 51878,
+    "age-65-and-over": 131481
+  },
+  {
     "region_id": "LK",
     "region_name": "Sri Lanka",
     "region_name_in_data": "Sri Lanka",
@@ -4704,6 +4717,19 @@
     "age-15-to-59": 29794,
     "age-60-to-64": 2736,
     "age-65-and-over": 6471
+  },
+  {
+    "region_id": "LK-92",
+    "region_name": "Kegalle",
+    "region_name_in_data": "Kegalle District",
+    "region_ent_type": "district",
+    "total": 870476,
+    "sex-male": 416078,
+    "sex-female": 454398,
+    "age-under-15": 171285,
+    "age-15-to-59": 515832,
+    "age-60-to-64": 51878,
+    "age-65-and-over": 131481
   },
   {
     "region_id": "LK-92",

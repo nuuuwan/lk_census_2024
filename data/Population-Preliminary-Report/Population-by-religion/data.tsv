@@ -1,4 +1,5 @@
 region_id	region_name	region_name_in_data	region_ent_type	total	buddhist	hindu	islam	roman_catholic	other_christian	other
+EC-22	Kegalle		DISTRICT	870476	728929	56199	72616	7292	5387	53
 LK	Sri Lanka	Sri Lanka	country	21781800	15199093	2734839	2337379	1224348	282185	3956
 LK-1	Western	(computed)	province	6117341	4507637	309716	571074	618683	107897	2334
 LK-11	Colombo	Colombo District	district	2375415	1682524	197759	298422	139882	55624	1204
@@ -362,6 +363,7 @@ LK-9142	Godakawela	Godakawela	dsd	78541	60584	12597	3138	1132	1085	5
 LK-9145	Weligepola	Weligepola	dsd	34168	33774	339	27	20	7	1
 LK-9148	Embilipitiya	Embilipitiya	dsd	160008	159374	158	54	226	196	0
 LK-9151	Kolonna	Kolonna	dsd	50068	45356	4105	33	195	379	0
+LK-92	Kegalle	Kegalle District	district	870476	728929	56199	72616	7292	5387	53
 LK-92	Kegalle	Kegalle District	district	870476	728929	56199	72616	7292	5387	53
 LK-9203	Rambukkana	Rambukkana	dsd	87055	79429	838	3470	1351	1960	7
 LK-9206	Mawanella	Mawanella	dsd	126026	82393	1164	41933	406	125	5

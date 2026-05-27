@@ -1,5 +1,22 @@
 [
   {
+    "region_id": "EC-22",
+    "region_name": "Kegalle",
+    "region_name_in_data": null,
+    "region_ent_type": "DISTRICT",
+    "total": 242027,
+    "single_house_single_storeyed": 201784,
+    "single_house_two_storeyed": 30451,
+    "single_house_more_than_two_storeyed": 1904,
+    "attached_house_1st_floor": 6895,
+    "attached_house_2nd_floor": 811,
+    "attached_house_3rd_or_4th_floor": 156,
+    "attached_house_5th_to_10th_floor": 0,
+    "attached_house_11th_to_19th_floor": 0,
+    "attached_house_from_20th_floor_or_more": 0,
+    "other": 26
+  },
+  {
     "region_id": "LK",
     "region_name": "Sri Lanka",
     "region_name_in_data": "Sri Lanka",
@@ -6169,6 +6186,23 @@
     "attached_house_11th_to_19th_floor": 0,
     "attached_house_from_20th_floor_or_more": 0,
     "other": 0
+  },
+  {
+    "region_id": "LK-92",
+    "region_name": "Kegalle",
+    "region_name_in_data": "Kegalle District",
+    "region_ent_type": "district",
+    "total": 242027,
+    "single_house_single_storeyed": 201784,
+    "single_house_two_storeyed": 30451,
+    "single_house_more_than_two_storeyed": 1904,
+    "attached_house_1st_floor": 6895,
+    "attached_house_2nd_floor": 811,
+    "attached_house_3rd_or_4th_floor": 156,
+    "attached_house_5th_to_10th_floor": 0,
+    "attached_house_11th_to_19th_floor": 0,
+    "attached_house_from_20th_floor_or_more": 0,
+    "other": 26
   },
   {
     "region_id": "LK-92",

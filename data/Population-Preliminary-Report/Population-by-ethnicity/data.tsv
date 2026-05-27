@@ -1,4 +1,5 @@
 region_id	region_name	region_name_in_data	region_ent_type	total	sinhalese	sri_lanka_tamil	indian_tamil_or_malaiyaga_thamilar	sri_lanka_moor_or_muslim	burgher	malay	sri_lanka_chetty	bharatha	veddhas	other
+EC-22	Kegalle		DISTRICT	870476	736387	40484	21244	71794	179	117	9	7	5	250
 LK	Sri Lanka	Sri Lanka	country	21781800	16144037	2681627	600360	2283246	31721	26650	2443	1183	1373	9160
 LK-1	Western	(computed)	province	6117341	5115566	383142	29200	544978	18513	18213	2186	957	26	4560
 LK-11	Colombo	Colombo District	district	2375415	1807945	243856	15427	285346	10643	8249	239	560	14	3136
@@ -362,6 +363,7 @@ LK-9142	Godakawela	Godakawela	dsd	78541	60788	11665	3309	2697	75	1	3	0	0	3
 LK-9145	Weligepola	Weligepola	dsd	34168	33778	127	228	22	6	0	0	0	0	7
 LK-9148	Embilipitiya	Embilipitiya	dsd	160008	159732	184	7	38	25	2	2	2	0	16
 LK-9151	Kolonna	Kolonna	dsd	50068	45389	4390	275	8	5	0	1	0	0	0
+LK-92	Kegalle	Kegalle District	district	870476	736387	40484	21244	71794	179	117	9	7	5	250
 LK-92	Kegalle	Kegalle District	district	870476	736387	40484	21244	71794	179	117	9	7	5	250
 LK-9203	Rambukkana	Rambukkana	dsd	87055	82564	976	44	3426	11	9	2	1	0	22
 LK-9206	Mawanella	Mawanella	dsd	126026	82921	1280	178	41574	36	23	2	1	0	11

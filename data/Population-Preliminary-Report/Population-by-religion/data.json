@@ -1,5 +1,18 @@
 [
   {
+    "region_id": "EC-22",
+    "region_name": "Kegalle",
+    "region_name_in_data": null,
+    "region_ent_type": "DISTRICT",
+    "total": 870476,
+    "buddhist": 728929,
+    "hindu": 56199,
+    "islam": 72616,
+    "roman_catholic": 7292,
+    "other_christian": 5387,
+    "other": 53
+  },
+  {
     "region_id": "LK",
     "region_name": "Sri Lanka",
     "region_name_in_data": "Sri Lanka",
@@ -4717,6 +4730,19 @@
     "roman_catholic": 195,
     "other_christian": 379,
     "other": 0
+  },
+  {
+    "region_id": "LK-92",
+    "region_name": "Kegalle",
+    "region_name_in_data": "Kegalle District",
+    "region_ent_type": "district",
+    "total": 870476,
+    "buddhist": 728929,
+    "hindu": 56199,
+    "islam": 72616,
+    "roman_catholic": 7292,
+    "other_christian": 5387,
+    "other": 53
   },
   {
     "region_id": "LK-92",

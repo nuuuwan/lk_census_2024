@@ -1,5 +1,23 @@
 [
   {
+    "region_id": "EC-22",
+    "region_name": "Kegalle",
+    "region_name_in_data": null,
+    "region_ent_type": "DISTRICT",
+    "total": 242027,
+    "brick": 105322,
+    "cement_block": 116372,
+    "granite_or_cube_stones": 8490,
+    "cabook": 1469,
+    "pressed_soil_bricks": 5516,
+    "mud_or_warichchi": 3244,
+    "kadjan_or_palmyrah": 18,
+    "plank_or_metal_sheet_or_asbestos": 1469,
+    "zinc_aluminium_sheets": 37,
+    "other": 64,
+    "not_relevant": 26
+  },
+  {
     "region_id": "LK",
     "region_name": "Sri Lanka",
     "region_name_in_data": "Sri Lanka",
@@ -6532,6 +6550,24 @@
     "zinc_aluminium_sheets": 2,
     "other": 1,
     "not_relevant": 0
+  },
+  {
+    "region_id": "LK-92",
+    "region_name": "Kegalle",
+    "region_name_in_data": "Kegalle District",
+    "region_ent_type": "district",
+    "total": 242027,
+    "brick": 105322,
+    "cement_block": 116372,
+    "granite_or_cube_stones": 8490,
+    "cabook": 1469,
+    "pressed_soil_bricks": 5516,
+    "mud_or_warichchi": 3244,
+    "kadjan_or_palmyrah": 18,
+    "plank_or_metal_sheet_or_asbestos": 1469,
+    "zinc_aluminium_sheets": 37,
+    "other": 64,
+    "not_relevant": 26
   },
   {
     "region_id": "LK-92",

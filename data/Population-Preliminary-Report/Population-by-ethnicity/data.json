@@ -1,5 +1,22 @@
 [
   {
+    "region_id": "EC-22",
+    "region_name": "Kegalle",
+    "region_name_in_data": null,
+    "region_ent_type": "DISTRICT",
+    "total": 870476,
+    "sinhalese": 736387,
+    "sri_lanka_tamil": 40484,
+    "indian_tamil_or_malaiyaga_thamilar": 21244,
+    "sri_lanka_moor_or_muslim": 71794,
+    "burgher": 179,
+    "malay": 117,
+    "sri_lanka_chetty": 9,
+    "bharatha": 7,
+    "veddhas": 5,
+    "other": 250
+  },
+  {
     "region_id": "LK",
     "region_name": "Sri Lanka",
     "region_name_in_data": "Sri Lanka",
@@ -6169,6 +6186,23 @@
     "bharatha": 0,
     "veddhas": 0,
     "other": 0
+  },
+  {
+    "region_id": "LK-92",
+    "region_name": "Kegalle",
+    "region_name_in_data": "Kegalle District",
+    "region_ent_type": "district",
+    "total": 870476,
+    "sinhalese": 736387,
+    "sri_lanka_tamil": 40484,
+    "indian_tamil_or_malaiyaga_thamilar": 21244,
+    "sri_lanka_moor_or_muslim": 71794,
+    "burgher": 179,
+    "malay": 117,
+    "sri_lanka_chetty": 9,
+    "bharatha": 7,
+    "veddhas": 5,
+    "other": 250
   },
   {
     "region_id": "LK-92",

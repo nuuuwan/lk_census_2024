@@ -1,4 +1,5 @@
 region_id	region_name	region_name_in_data	region_ent_type	total	ground_water-_protected_well	ground_water-semi_protected_well	ground_water-unprotected_well	ground_water-tube_well	ground_water-spring_or_fountain	pipe_borne_water-national_water_supply_and_drainage_board	pipe_borne_water-local_authority	pipe_borne_water-community_based_organizations	pipe_borne_water-private_water_supply_project	other-tank_or_river_or_stream	other-rain_water	other-bottled_water	other-filter_water	other-bowser	other-other
+EC-22	Kegalle		DISTRICT	244037	99985	15492	5364	1690	33702	57229	2253	17589	7569	2780	68	245	15	6	50
 LK	Sri Lanka	Sri Lanka	country	6111315	1624506	267327	77806	270401	230268	2374349	100764	419247	130394	59336	4346	63753	456849	31208	761
 LK-1	Western	(computed)	province	1703420	547468	47227	9979	45657	5123	983503	9099	39974	9811	1849	114	3140	128	95	253
 LK-11	Colombo	Colombo District	district	661822	78469	3522	568	3649	1344	558425	3720	9703	1278	124	24	720	55	22	199
@@ -362,6 +363,7 @@ LK-9142	Godakawela	Godakawela	dsd	22908	4092	700	371	128	2228	5588	247	7366	1560
 LK-9145	Weligepola	Weligepola	dsd	10677	4148	1149	564	221	807	44	16	2814	555	325	8	12	5	6	3
 LK-9148	Embilipitiya	Embilipitiya	dsd	45965	3898	1745	134	1441	553	30341	176	6215	193	356	11	460	417	17	8
 LK-9151	Kolonna	Kolonna	dsd	14854	2428	603	353	226	3036	2170	204	3302	1049	1400	4	77	2	0	0
+LK-92	Kegalle	Kegalle District	district	244037	99985	15492	5364	1690	33702	57229	2253	17589	7569	2780	68	245	15	6	50
 LK-92	Kegalle	Kegalle District	district	244037	99985	15492	5364	1690	33702	57229	2253	17589	7569	2780	68	245	15	6	50
 LK-9203	Rambukkana	Rambukkana	dsd	24842	12870	1662	572	255	514	7546	119	917	242	54	16	70	4	1	0
 LK-9206	Mawanella	Mawanella	dsd	33333	9798	1038	215	234	1528	18440	106	1575	126	196	4	50	6	0	17

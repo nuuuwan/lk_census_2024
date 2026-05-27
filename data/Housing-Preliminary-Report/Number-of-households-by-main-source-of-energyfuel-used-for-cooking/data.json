@@ -1,5 +1,20 @@
 [
   {
+    "region_id": "EC-22",
+    "region_name": "Kegalle",
+    "region_name_in_data": null,
+    "region_ent_type": "DISTRICT",
+    "total": 244037,
+    "firewood": 177937,
+    "kerosene": 373,
+    "gas": 63345,
+    "electricity": 467,
+    "saw_dust_or_paddy_husk": 13,
+    "bio_gas": 12,
+    "other": 87,
+    "not_relevant": 1803
+  },
+  {
     "region_id": "LK",
     "region_name": "Sri Lanka",
     "region_name_in_data": "Sri Lanka",
@@ -5443,6 +5458,21 @@
     "bio_gas": 0,
     "other": 0,
     "not_relevant": 141
+  },
+  {
+    "region_id": "LK-92",
+    "region_name": "Kegalle",
+    "region_name_in_data": "Kegalle District",
+    "region_ent_type": "district",
+    "total": 244037,
+    "firewood": 177937,
+    "kerosene": 373,
+    "gas": 63345,
+    "electricity": 467,
+    "saw_dust_or_paddy_husk": 13,
+    "bio_gas": 12,
+    "other": 87,
+    "not_relevant": 1803
   },
   {
     "region_id": "LK-92",

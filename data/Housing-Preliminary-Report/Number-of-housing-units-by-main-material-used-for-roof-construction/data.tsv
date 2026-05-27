@@ -1,4 +1,5 @@
 region_id	region_name	region_name_in_data	region_ent_type	total	tile	asbestos	concrete	zinc_aluminium_sheets	metal_sheets	kadjan_or_palmyrah_or_straw	other	not_relevant
+EC-22	Kegalle		DISTRICT	242027	76275	131448	14232	3432	8259	8302	53	26
 LK	Sri Lanka	Sri Lanka	country	6030541	2032441	3209496	440761	85422	163735	88820	8655	1211
 LK-1	Western	(computed)	province	1686506	363704	1098621	190819	10224	12480	10085	303	270
 LK-11	Colombo	Colombo District	district	654051	40032	475061	128212	4065	3273	3109	132	167
@@ -362,6 +363,7 @@ LK-9142	Godakawela	Godakawela	dsd	22586	7338	11812	1026	368	645	1394	2	1
 LK-9145	Weligepola	Weligepola	dsd	10598	4930	5078	235	29	188	133	5	0
 LK-9148	Embilipitiya	Embilipitiya	dsd	45752	23946	18813	1773	99	546	555	20	0
 LK-9151	Kolonna	Kolonna	dsd	14773	6279	6797	640	40	717	300	0	0
+LK-92	Kegalle	Kegalle District	district	242027	76275	131448	14232	3432	8259	8302	53	26
 LK-92	Kegalle	Kegalle District	district	242027	76275	131448	14232	3432	8259	8302	53	26
 LK-9203	Rambukkana	Rambukkana	dsd	24601	11031	11183	1300	194	598	289	6	0
 LK-9206	Mawanella	Mawanella	dsd	33009	9189	17926	4616	401	410	462	0	5

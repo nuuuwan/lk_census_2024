@@ -1,5 +1,19 @@
 [
   {
+    "region_id": "EC-22",
+    "region_name": "Kegalle",
+    "region_name_in_data": null,
+    "region_ent_type": "DISTRICT",
+    "total": 244037,
+    "electricity-from_national_grid_or_from_rural_hydro_power_project": 239635,
+    "kerosene_lamp": 3651,
+    "solar_power_grid_connected": 68,
+    "solar_power_standalone": 174,
+    "bio_gas": 3,
+    "rural_water_supply_project": 28,
+    "other": 478
+  },
+  {
     "region_id": "LK",
     "region_name": "Sri Lanka",
     "region_name_in_data": "Sri Lanka",
@@ -5080,6 +5094,20 @@
     "bio_gas": 0,
     "rural_water_supply_project": 0,
     "other": 23
+  },
+  {
+    "region_id": "LK-92",
+    "region_name": "Kegalle",
+    "region_name_in_data": "Kegalle District",
+    "region_ent_type": "district",
+    "total": 244037,
+    "electricity-from_national_grid_or_from_rural_hydro_power_project": 239635,
+    "kerosene_lamp": 3651,
+    "solar_power_grid_connected": 68,
+    "solar_power_standalone": 174,
+    "bio_gas": 3,
+    "rural_water_supply_project": 28,
+    "other": 478
   },
   {
     "region_id": "LK-92",

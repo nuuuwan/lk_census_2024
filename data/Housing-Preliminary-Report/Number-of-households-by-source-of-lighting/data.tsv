@@ -1,4 +1,5 @@
 region_id	region_name	region_name_in_data	region_ent_type	total	electricity-from_national_grid_or_from_rural_hydro_power_project	kerosene_lamp	solar_power_grid_connected	solar_power_standalone	bio_gas	rural_water_supply_project	other
+EC-22	Kegalle		DISTRICT	244037	239635	3651	68	174	3	28	478
 LK	Sri Lanka	Sri Lanka	country	6111315	5987585	95150	8093	5817	244	1230	13196
 LK-1	Western	(computed)	province	1703420	1682433	10565	5206	1514	121	288	3293
 LK-11	Colombo	Colombo District	district	661822	653295	3366	2900	831	58	192	1180
@@ -362,6 +363,7 @@ LK-9142	Godakawela	Godakawela	dsd	22908	22240	511	8	30	1	15	103
 LK-9145	Weligepola	Weligepola	dsd	10677	10327	263	4	30	1	0	52
 LK-9148	Embilipitiya	Embilipitiya	dsd	45965	44692	977	25	36	1	0	234
 LK-9151	Kolonna	Kolonna	dsd	14854	14521	285	9	16	0	0	23
+LK-92	Kegalle	Kegalle District	district	244037	239635	3651	68	174	3	28	478
 LK-92	Kegalle	Kegalle District	district	244037	239635	3651	68	174	3	28	478
 LK-9203	Rambukkana	Rambukkana	dsd	24842	24511	263	7	8	0	2	51
 LK-9206	Mawanella	Mawanella	dsd	33333	32945	295	17	8	0	2	66

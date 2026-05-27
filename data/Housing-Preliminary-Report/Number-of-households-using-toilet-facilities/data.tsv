@@ -1,4 +1,5 @@
 region_id	region_name	region_name_in_data	region_ent_type	total	within_the_unit-exclusively_for_the_household	within_the_unit-sharing_with_another_household	outside_the_unit-exclusively_for_the_household	outside_the_unit-sharing_with_another_household	other-no_toilet_but_sharing_with_another_household	other-common_or_public_toilet	other-not_using_a_toilet
+EC-22	Kegalle		DISTRICT	244037	156414	5429	73283	5721	2877	74	239
 LK	Sri Lanka	Sri Lanka	country	6111315	3798777	157456	1832587	197678	101924	9567	13326
 LK-1	Western	(computed)	province	1703420	1402581	39527	206499	37544	11147	5440	682
 LK-11	Colombo	Colombo District	district	661822	599062	13455	35126	7064	2390	4518	207
@@ -362,6 +363,7 @@ LK-9142	Godakawela	Godakawela	dsd	22908	10482	594	9739	1198	857	6	32
 LK-9145	Weligepola	Weligepola	dsd	10677	2497	163	7109	588	304	0	16
 LK-9148	Embilipitiya	Embilipitiya	dsd	45965	24741	983	17950	1381	869	12	29
 LK-9151	Kolonna	Kolonna	dsd	14854	4461	271	8848	782	452	31	9
+LK-92	Kegalle	Kegalle District	district	244037	156414	5429	73283	5721	2877	74	239
 LK-92	Kegalle	Kegalle District	district	244037	156414	5429	73283	5721	2877	74	239
 LK-9203	Rambukkana	Rambukkana	dsd	24842	17701	569	5829	477	241	0	25
 LK-9206	Mawanella	Mawanella	dsd	33333	24683	697	7195	531	205	5	17

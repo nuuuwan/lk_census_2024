@@ -1,4 +1,5 @@
 region_id	region_name	region_name_in_data	region_ent_type	total	firewood	kerosene	gas	electricity	saw_dust_or_paddy_husk	bio_gas	other	not_relevant
+EC-22	Kegalle		DISTRICT	244037	177937	373	63345	467	13	12	87	1803
 LK	Sri Lanka	Sri Lanka	country	6111315	3381781	32974	2588502	19540	1739	7179	2361	77239
 LK-1	Western	(computed)	province	1703420	433777	15637	1203412	10508	303	356	1152	38275
 LK-11	Colombo	Colombo District	district	661822	65584	9106	566183	6425	134	157	380	13853
@@ -362,6 +363,7 @@ LK-9142	Godakawela	Godakawela	dsd	22908	18351	40	4242	21	3	3	7	241
 LK-9145	Weligepola	Weligepola	dsd	10677	9996	4	598	2	0	0	0	77
 LK-9148	Embilipitiya	Embilipitiya	dsd	45965	33720	140	11577	69	2	0	11	446
 LK-9151	Kolonna	Kolonna	dsd	14854	13653	10	1043	5	2	0	0	141
+LK-92	Kegalle	Kegalle District	district	244037	177937	373	63345	467	13	12	87	1803
 LK-92	Kegalle	Kegalle District	district	244037	177937	373	63345	467	13	12	87	1803
 LK-9203	Rambukkana	Rambukkana	dsd	24842	18152	34	6416	33	1	0	6	200
 LK-9206	Mawanella	Mawanella	dsd	33333	19936	40	13054	68	0	2	13	220

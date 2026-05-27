@@ -1,5 +1,20 @@
 [
   {
+    "region_id": "EC-22",
+    "region_name": "Kegalle",
+    "region_name_in_data": null,
+    "region_ent_type": "DISTRICT",
+    "total": 242027,
+    "tile": 76275,
+    "asbestos": 131448,
+    "concrete": 14232,
+    "zinc_aluminium_sheets": 3432,
+    "metal_sheets": 8259,
+    "kadjan_or_palmyrah_or_straw": 8302,
+    "other": 53,
+    "not_relevant": 26
+  },
+  {
     "region_id": "LK",
     "region_name": "Sri Lanka",
     "region_name_in_data": "Sri Lanka",
@@ -5443,6 +5458,21 @@
     "kadjan_or_palmyrah_or_straw": 300,
     "other": 0,
     "not_relevant": 0
+  },
+  {
+    "region_id": "LK-92",
+    "region_name": "Kegalle",
+    "region_name_in_data": "Kegalle District",
+    "region_ent_type": "district",
+    "total": 242027,
+    "tile": 76275,
+    "asbestos": 131448,
+    "concrete": 14232,
+    "zinc_aluminium_sheets": 3432,
+    "metal_sheets": 8259,
+    "kadjan_or_palmyrah_or_straw": 8302,
+    "other": 53,
+    "not_relevant": 26
   },
   {
     "region_id": "LK-92",

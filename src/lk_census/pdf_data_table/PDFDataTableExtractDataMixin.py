@@ -1,17 +1,20 @@
 import os
 
 from gig_future import Ent, EntType
-from lk_census.pdf_data_table.PDFDataTableExtractDataCleanerMixin import \
-    PDFDataTableExtractDataCleanerMixin
-from lk_census.pdf_data_table.PDFDataTableExtractDataValidateMixin import \
-    PDFDataTableExtractDataValidateMixin
+from lk_census.pdf_data_table.PDFDataTableExtractDataCleanerMixin import (
+    PDFDataTableExtractDataCleanerMixin,
+)
+from lk_census.pdf_data_table.PDFDataTableExtractDataValidateMixin import (
+    PDFDataTableExtractDataValidateMixin,
+)
+from lk_census.xlsx_data_table.XLSXDataTableExtractDataMixin import (
+    XLSXDataTableExtractDataMixin,
+)
 from utils_future import JSONFile, Log, TSVFile
 
 log = Log("PDFDataTable")
 
-_PROVINCE_BY_ID = {
-    ent.id: ent for ent in Ent.list_from_type(EntType.PROVINCE)
-}
+_PROVINCE_BY_ID = {ent.id: ent for ent in Ent.list_from_type(EntType.PROVINCE)}
 
 
 class PDFDataTableExtractDataMixin(
@@ -70,10 +73,8 @@ class PDFDataTableExtractDataMixin(
         if ent_type == EntType.DISTRICT:
             region_name = region_name.replace("District", "").strip()
             current_parent_id = "LK"
-        region_id, region_name = (
-            PDFDataTableExtractDataMixin.__get_ent_data__(
-                region_name, ent_type, current_parent_id
-            )
+        region_id, region_name = PDFDataTableExtractDataMixin.__get_ent_data__(
+            region_name, ent_type, current_parent_id
         )
 
         if ent_type in [EntType.COUNTRY, EntType.DISTRICT]:
@@ -150,7 +151,20 @@ class PDFDataTableExtractDataMixin(
         d_list.sort(key=lambda x: x["region_id"])
         d_list += self.__compute_province_data__(d_list)
         d_list.sort(key=lambda x: x["region_id"])
-        return d_list
+
+        d_list_for_remaining_items = (
+            XLSXDataTableExtractDataMixin._build_d_list_for_remaining_types_(
+                d_list,
+                self.field_list,
+                [
+                    (EntType.ED, EntType.DISTRICT),
+                ],
+            )
+        )
+        combined_d_list = d_list + d_list_for_remaining_items
+        combined_d_list.sort(key=lambda x: x["region_id"])
+
+        return combined_d_list
 
     @property
     def json_path(self):
