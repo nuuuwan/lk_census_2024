@@ -14,7 +14,7 @@ For each category, the District with the highest and lowest share (% of that reg
 
 | Category | Highest District | Share | Lowest District | Share |
 |----------|---------|------:|---------|------:|
-| N Households | Kegalle | 100.0% | Kegalle | 100.0% |
+| N Households | Colombo | 100.0% | Kegalle | 100.0% |
 
 ---
-*Data covers **14,462** rows down to **gnd** level (14,085 gnds).*
+*Data covers **14,923** rows down to **gnd** level (14,526 gnds).*

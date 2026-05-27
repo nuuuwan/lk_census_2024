@@ -34,30 +34,30 @@ For each category, the District with the highest and lowest share (% of that reg
 | Ground Water Semi Protected Well | Kilinochchi | 27.2% | Colombo | 0.5% |
 | Ground Water Unprotected Well | Kilinochchi | 8.5% | Colombo | 0.1% |
 | Ground Water Tube Well | Kilinochchi | 33.0% | Matara | 0.5% |
-| Ground Water Spring Or Fountain | Nuwara Eliya | 28.8% | Mullaitivu | 0.0% |
+| Ground Water Spring Or Fountain | Nuwara-Eliya | 28.8% | Mullaitivu | 0.0% |
 | Pipe Borne Water National Water Supply And Drainage Board | Colombo | 84.4% | Jaffna | 5.6% |
 | Pipe Borne Water Local Authority | Kandy | 7.7% | Kilinochchi | 0.2% |
 | Pipe Borne Water Community Based Organizations | Ratnapura | 23.0% | Kilinochchi | 0.5% |
-| Pipe Borne Water Private Water Supply Project | Nuwara Eliya | 12.8% | Ampara | 0.1% |
-| Other Tank Or River Or Stream | Nuwara Eliya | 8.5% | Gampaha | 0.0% |
+| Pipe Borne Water Private Water Supply Project | Nuwara-Eliya | 12.8% | Ampara | 0.1% |
+| Other Tank Or River Or Stream | Nuwara-Eliya | 8.5% | Gampaha | 0.0% |
 | Other Rain Water | Vavuniya | 0.7% | Colombo | 0.0% |
 | Other Bottled Water | Puttalam | 7.4% | Nuwara Eliya | 0.0% |
 | Other Filter Water | Anuradhapura | 67.3% | Kalutara | 0.0% |
 | Other Bowser | Puttalam | 7.6% | Galle | 0.0% |
-| Other Other | Nuwara Eliya | 0.0% | Kurunegala | 0.0% |
+| Other Other | Nuwara-Eliya | 0.0% | Kurunegala | 0.0% |
 
 ## Outliers
 
 Regions with an unusually high or low share of a category (≥ 2 standard deviations from the district mean).
 
-- 🔺 **Nuwara Eliya** — Other Tank Or River Or Stream: **8.5%** vs district avg 1.0% (z = +4.4)
-- 🔺 **Vavuniya** — Other Rain Water: **0.7%** vs district avg 0.1% (z = +4.1)
-- 🔺 **Kilinochchi** — Ground Water Semi Protected Well: **27.2%** vs district avg 5.5% (z = +4.0)
+- 🔺 **Kilinochchi** — Ground Water Semi Protected Well: **27.2%** vs district avg 4.9% (z = +4.9)
+- 🔺 **Kilinochchi** — Ground Water Unprotected Well: **8.5%** vs district avg 1.5% (z = +4.8)
+- 🔺 **Vavuniya** — Other Rain Water: **0.7%** vs district avg 0.1% (z = +4.4)
+- 🔺 **Nuwara-Eliya** — Other Tank Or River Or Stream: **8.5%** vs district avg 1.1% (z = +4.1)
+- 🔺 **Nuwara Eliya** — Other Tank Or River Or Stream: **8.5%** vs district avg 1.1% (z = +4.1)
 - 🔺 **Puttalam** — Other Bowser: **7.6%** vs district avg 0.8% (z = +4.0)
-- 🔺 **Anuradhapura** — Other Filter Water: **67.3%** vs district avg 8.6% (z = +3.9)
-- 🔺 **Puttalam** — Other Bottled Water: **7.4%** vs district avg 1.1% (z = +3.9)
-- 🔺 **Kilinochchi** — Ground Water Unprotected Well: **8.5%** vs district avg 1.7% (z = +3.9)
-- 🔺 **Nuwara Eliya** — Pipe Borne Water Private Water Supply Project: **12.8%** vs district avg 2.2% (z = +3.8)
+- 🔺 **Anuradhapura** — Other Filter Water: **67.3%** vs district avg 9.1% (z = +3.7)
+- 🔺 **Puttalam** — Other Bottled Water: **7.4%** vs district avg 1.1% (z = +3.7)
 
 ---
-*Data covers **377** rows down to **dsd** level (340 dsds).*
+*Data covers **397** rows down to **dsd** level (340 dsds).*

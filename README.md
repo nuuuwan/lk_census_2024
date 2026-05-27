@@ -1,7 +1,7 @@
 # 🇱🇰 Sri Lanka - Census of Population and Housing 2024
 
 ![CPH](https://img.shields.io/badge/CPH-2024-blue)
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--05--27_16:20:28-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--05--27_16:31:08-green)
 
 ## Original Source Documents
 
@@ -29,21 +29,21 @@ The following datasets have been extracted from the PDF source documents:
 
 ```json
 {
-    "region_id": "EC-22",
-    "region_name": "Kegalle",
+    "region_id": "EC-01",
+    "region_name": "Colombo",
     "region_name_in_data": null,
     "region_ent_type": "DISTRICT",
-    "total": 870476,
-    "sex-male": 416078,
-    "sex-female": 454398,
-    "age-under-15": 171285,
-    "age-15-to-59": 515832,
-    "age-60-to-64": 51878,
-    "age-65-and-over": 131481
+    "total": 2375415,
+    "sex-male": 1154799,
+    "sex-female": 1220616,
+    "age-under-15": 392721,
+    "age-15-to-59": 1525340,
+    "age-60-to-64": 136268,
+    "age-65-and-over": 321086
 }
 ```
 
-**376** rows in total, by District (1), Country (1), Province (9), District (26), Dsd (339)
+**396** rows in total, by District (22), Country (1), Province (9), District (25), Dsd (339)
 
 #### Validation Errors
 
@@ -65,25 +65,25 @@ The following datasets have been extracted from the PDF source documents:
 
 ```json
 {
-    "region_id": "EC-22",
-    "region_name": "Kegalle",
+    "region_id": "EC-01",
+    "region_name": "Colombo",
     "region_name_in_data": null,
     "region_ent_type": "DISTRICT",
-    "total": 870476,
-    "sinhalese": 736387,
-    "sri_lanka_tamil": 40484,
-    "indian_tamil_or_malaiyaga_thamilar": 21244,
-    "sri_lanka_moor_or_muslim": 71794,
-    "burgher": 179,
-    "malay": 117,
-    "sri_lanka_chetty": 9,
-    "bharatha": 7,
-    "veddhas": 5,
-    "other": 250
+    "total": 2375415,
+    "sinhalese": 1807945,
+    "sri_lanka_tamil": 243856,
+    "indian_tamil_or_malaiyaga_thamilar": 15427,
+    "sri_lanka_moor_or_muslim": 285346,
+    "burgher": 10643,
+    "malay": 8249,
+    "sri_lanka_chetty": 239,
+    "bharatha": 560,
+    "veddhas": 14,
+    "other": 3136
 }
 ```
 
-**377** rows in total, by District (1), Country (1), Province (9), District (26), Dsd (340)
+**397** rows in total, by District (22), Country (1), Province (9), District (25), Dsd (340)
 
 #### Validation Errors
 
@@ -93,7 +93,8 @@ The following datasets have been extracted from the PDF source documents:
 ⚠️ **1** known administrative entities have no corresponding row in data
   - Kalmunai (`LK-5224`)
 
-⚠️ **2** rows where 'total' field doesn't equal sum of other fields
+⚠️ **3** rows where 'total' field doesn't equal sum of other fields
+  - Jaffna (`EC-10`) — total: 731,461, sum of fields: 731,463
   - Northern (`LK-4`) — total: 1,150,148, sum of fields: 1,150,150
   - Kilinochchi (`LK-45`) — total: 136,710, sum of fields: 136,712
 
@@ -108,21 +109,21 @@ The following datasets have been extracted from the PDF source documents:
 
 ```json
 {
-    "region_id": "EC-22",
-    "region_name": "Kegalle",
+    "region_id": "EC-01",
+    "region_name": "Colombo",
     "region_name_in_data": null,
     "region_ent_type": "DISTRICT",
-    "total": 870476,
-    "buddhist": 728929,
-    "hindu": 56199,
-    "islam": 72616,
-    "roman_catholic": 7292,
-    "other_christian": 5387,
-    "other": 53
+    "total": 2375415,
+    "buddhist": 1682524,
+    "hindu": 197759,
+    "islam": 298422,
+    "roman_catholic": 139882,
+    "other_christian": 55624,
+    "other": 1204
 }
 ```
 
-**377** rows in total, by District (1), Country (1), Province (9), District (26), Dsd (340)
+**397** rows in total, by District (22), Country (1), Province (9), District (25), Dsd (340)
 
 #### Validation Errors
 
@@ -143,25 +144,25 @@ The following datasets have been extracted from the PDF source documents:
 
 ```json
 {
-    "region_id": "EC-22",
-    "region_name": "Kegalle",
+    "region_id": "EC-01",
+    "region_name": "Colombo",
     "region_name_in_data": null,
     "region_ent_type": "DISTRICT",
-    "total": 242027,
-    "single_house_single_storeyed": 201784,
-    "single_house_two_storeyed": 30451,
-    "single_house_more_than_two_storeyed": 1904,
-    "attached_house_1st_floor": 6895,
-    "attached_house_2nd_floor": 811,
-    "attached_house_3rd_or_4th_floor": 156,
-    "attached_house_5th_to_10th_floor": 0,
-    "attached_house_11th_to_19th_floor": 0,
-    "attached_house_from_20th_floor_or_more": 0,
-    "other": 26
+    "total": 654051,
+    "single_house_single_storeyed": 355982,
+    "single_house_two_storeyed": 185828,
+    "single_house_more_than_two_storeyed": 24207,
+    "attached_house_1st_floor": 27406,
+    "attached_house_2nd_floor": 24275,
+    "attached_house_3rd_or_4th_floor": 16529,
+    "attached_house_5th_to_10th_floor": 11907,
+    "attached_house_11th_to_19th_floor": 5994,
+    "attached_house_from_20th_floor_or_more": 1756,
+    "other": 167
 }
 ```
 
-**377** rows in total, by District (1), Country (1), Province (9), District (26), Dsd (340)
+**397** rows in total, by District (22), Country (1), Province (9), District (25), Dsd (340)
 
 #### Validation Errors
 
@@ -182,26 +183,26 @@ The following datasets have been extracted from the PDF source documents:
 
 ```json
 {
-    "region_id": "EC-22",
-    "region_name": "Kegalle",
+    "region_id": "EC-01",
+    "region_name": "Colombo",
     "region_name_in_data": null,
     "region_ent_type": "DISTRICT",
-    "total": 242027,
-    "brick": 105322,
-    "cement_block": 116372,
-    "granite_or_cube_stones": 8490,
-    "cabook": 1469,
-    "pressed_soil_bricks": 5516,
-    "mud_or_warichchi": 3244,
-    "kadjan_or_palmyrah": 18,
-    "plank_or_metal_sheet_or_asbestos": 1469,
-    "zinc_aluminium_sheets": 37,
-    "other": 64,
-    "not_relevant": 26
+    "total": 654051,
+    "brick": 166151,
+    "cement_block": 462409,
+    "granite_or_cube_stones": 2691,
+    "cabook": 14988,
+    "pressed_soil_bricks": 1597,
+    "mud_or_warichchi": 675,
+    "kadjan_or_palmyrah": 57,
+    "plank_or_metal_sheet_or_asbestos": 5109,
+    "zinc_aluminium_sheets": 151,
+    "other": 56,
+    "not_relevant": 167
 }
 ```
 
-**377** rows in total, by District (1), Country (1), Province (9), District (26), Dsd (340)
+**397** rows in total, by District (22), Country (1), Province (9), District (25), Dsd (340)
 
 #### Validation Errors
 
@@ -222,23 +223,23 @@ The following datasets have been extracted from the PDF source documents:
 
 ```json
 {
-    "region_id": "EC-22",
-    "region_name": "Kegalle",
+    "region_id": "EC-01",
+    "region_name": "Colombo",
     "region_name_in_data": null,
     "region_ent_type": "DISTRICT",
-    "total": 242027,
-    "tile": 76275,
-    "asbestos": 131448,
-    "concrete": 14232,
-    "zinc_aluminium_sheets": 3432,
-    "metal_sheets": 8259,
-    "kadjan_or_palmyrah_or_straw": 8302,
-    "other": 53,
-    "not_relevant": 26
+    "total": 654051,
+    "tile": 40032,
+    "asbestos": 475061,
+    "concrete": 128212,
+    "zinc_aluminium_sheets": 4065,
+    "metal_sheets": 3273,
+    "kadjan_or_palmyrah_or_straw": 3109,
+    "other": 132,
+    "not_relevant": 167
 }
 ```
 
-**377** rows in total, by District (1), Country (1), Province (9), District (26), Dsd (340)
+**397** rows in total, by District (22), Country (1), Province (9), District (25), Dsd (340)
 
 #### Validation Errors
 
@@ -259,23 +260,23 @@ The following datasets have been extracted from the PDF source documents:
 
 ```json
 {
-    "region_id": "EC-22",
-    "region_name": "Kegalle",
+    "region_id": "EC-01",
+    "region_name": "Colombo",
     "region_name_in_data": null,
     "region_ent_type": "DISTRICT",
-    "total": 242027,
-    "cement": 155123,
-    "terrazzo_or_tile_or_granite_or_wood_or_titanium": 62656,
-    "concrete": 19023,
-    "mud": 4985,
-    "wood": 79,
-    "sand": 71,
-    "other": 64,
-    "not_relevant": 26
+    "total": 654051,
+    "cement": 284355,
+    "terrazzo_or_tile_or_granite_or_wood_or_titanium": 343281,
+    "concrete": 24441,
+    "mud": 839,
+    "wood": 743,
+    "sand": 155,
+    "other": 70,
+    "not_relevant": 167
 }
 ```
 
-**377** rows in total, by District (1), Country (1), Province (9), District (26), Dsd (340)
+**397** rows in total, by District (22), Country (1), Province (9), District (25), Dsd (340)
 
 #### Validation Errors
 
@@ -296,23 +297,23 @@ The following datasets have been extracted from the PDF source documents:
 
 ```json
 {
-    "region_id": "EC-22",
-    "region_name": "Kegalle",
+    "region_id": "EC-01",
+    "region_name": "Colombo",
     "region_name_in_data": null,
     "region_ent_type": "DISTRICT",
-    "total": 244037,
-    "firewood": 177937,
-    "kerosene": 373,
-    "gas": 63345,
-    "electricity": 467,
-    "saw_dust_or_paddy_husk": 13,
-    "bio_gas": 12,
-    "other": 87,
-    "not_relevant": 1803
+    "total": 661822,
+    "firewood": 65584,
+    "kerosene": 9106,
+    "gas": 566183,
+    "electricity": 6425,
+    "saw_dust_or_paddy_husk": 134,
+    "bio_gas": 157,
+    "other": 380,
+    "not_relevant": 13853
 }
 ```
 
-**377** rows in total, by District (1), Country (1), Province (9), District (26), Dsd (340)
+**397** rows in total, by District (22), Country (1), Province (9), District (25), Dsd (340)
 
 #### Validation Errors
 
@@ -333,30 +334,30 @@ The following datasets have been extracted from the PDF source documents:
 
 ```json
 {
-    "region_id": "EC-22",
-    "region_name": "Kegalle",
+    "region_id": "EC-01",
+    "region_name": "Colombo",
     "region_name_in_data": null,
     "region_ent_type": "DISTRICT",
-    "total": 244037,
-    "ground_water-_protected_well": 99985,
-    "ground_water-semi_protected_well": 15492,
-    "ground_water-unprotected_well": 5364,
-    "ground_water-tube_well": 1690,
-    "ground_water-spring_or_fountain": 33702,
-    "pipe_borne_water-national_water_supply_and_drainage_board": 57229,
-    "pipe_borne_water-local_authority": 2253,
-    "pipe_borne_water-community_based_organizations": 17589,
-    "pipe_borne_water-private_water_supply_project": 7569,
-    "other-tank_or_river_or_stream": 2780,
-    "other-rain_water": 68,
-    "other-bottled_water": 245,
-    "other-filter_water": 15,
-    "other-bowser": 6,
-    "other-other": 50
+    "total": 661822,
+    "ground_water-_protected_well": 78469,
+    "ground_water-semi_protected_well": 3522,
+    "ground_water-unprotected_well": 568,
+    "ground_water-tube_well": 3649,
+    "ground_water-spring_or_fountain": 1344,
+    "pipe_borne_water-national_water_supply_and_drainage_board": 558425,
+    "pipe_borne_water-local_authority": 3720,
+    "pipe_borne_water-community_based_organizations": 9703,
+    "pipe_borne_water-private_water_supply_project": 1278,
+    "other-tank_or_river_or_stream": 124,
+    "other-rain_water": 24,
+    "other-bottled_water": 720,
+    "other-filter_water": 55,
+    "other-bowser": 22,
+    "other-other": 199
 }
 ```
 
-**377** rows in total, by District (1), Country (1), Province (9), District (26), Dsd (340)
+**397** rows in total, by District (22), Country (1), Province (9), District (25), Dsd (340)
 
 #### Validation Errors
 
@@ -377,22 +378,22 @@ The following datasets have been extracted from the PDF source documents:
 
 ```json
 {
-    "region_id": "EC-22",
-    "region_name": "Kegalle",
+    "region_id": "EC-01",
+    "region_name": "Colombo",
     "region_name_in_data": null,
     "region_ent_type": "DISTRICT",
-    "total": 244037,
-    "electricity-from_national_grid_or_from_rural_hydro_power_project": 239635,
-    "kerosene_lamp": 3651,
-    "solar_power_grid_connected": 68,
-    "solar_power_standalone": 174,
-    "bio_gas": 3,
-    "rural_water_supply_project": 28,
-    "other": 478
+    "total": 661822,
+    "electricity-from_national_grid_or_from_rural_hydro_power_project": 653295,
+    "kerosene_lamp": 3366,
+    "solar_power_grid_connected": 2900,
+    "solar_power_standalone": 831,
+    "bio_gas": 58,
+    "rural_water_supply_project": 192,
+    "other": 1180
 }
 ```
 
-**377** rows in total, by District (1), Country (1), Province (9), District (26), Dsd (340)
+**397** rows in total, by District (22), Country (1), Province (9), District (25), Dsd (340)
 
 #### Validation Errors
 
@@ -413,22 +414,22 @@ The following datasets have been extracted from the PDF source documents:
 
 ```json
 {
-    "region_id": "EC-22",
-    "region_name": "Kegalle",
+    "region_id": "EC-01",
+    "region_name": "Colombo",
     "region_name_in_data": null,
     "region_ent_type": "DISTRICT",
-    "total": 244037,
-    "within_the_unit-exclusively_for_the_household": 156414,
-    "within_the_unit-sharing_with_another_household": 5429,
-    "outside_the_unit-exclusively_for_the_household": 73283,
-    "outside_the_unit-sharing_with_another_household": 5721,
-    "other-no_toilet_but_sharing_with_another_household": 2877,
-    "other-common_or_public_toilet": 74,
-    "other-not_using_a_toilet": 239
+    "total": 661822,
+    "within_the_unit-exclusively_for_the_household": 599062,
+    "within_the_unit-sharing_with_another_household": 13455,
+    "outside_the_unit-exclusively_for_the_household": 35126,
+    "outside_the_unit-sharing_with_another_household": 7064,
+    "other-no_toilet_but_sharing_with_another_household": 2390,
+    "other-common_or_public_toilet": 4518,
+    "other-not_using_a_toilet": 207
 }
 ```
 
-**377** rows in total, by District (1), Country (1), Province (9), District (26), Dsd (340)
+**397** rows in total, by District (22), Country (1), Province (9), District (25), Dsd (340)
 
 #### Validation Errors
 
@@ -452,34 +453,34 @@ The following datasets have been extracted from the XLSX source documents:
 
 ```json
 {
-    "region_id": "EC-22",
-    "region_name": "Kegalle",
+    "region_id": "EC-01",
+    "region_name": "Colombo",
     "region_name_in_data": null,
     "region_ent_type": "DISTRICT",
-    "total": 870476,
-    "male": 416078,
-    "female": 454398
+    "total": 2375415,
+    "male": 1154799,
+    "female": 1220616
 }
 ```
 
-**14,462** rows in total, by District (27), Gnd (14,085), Country (1), Province (9), Dsd (340)
+**14,923** rows in total, by District (47), Gnd (14,526), Country (1), Province (9), Dsd (340)
 
 #### Validation Errors
 
-⚠️ **12** aggregated values don't match sum of children
-  - LK-2 (`LK-2`)
-  - LK-2 (`LK-2`)
-  - LK-2 (`LK-2`)
+⚠️ **6** aggregated values don't match sum of children
+  - LK-1 (`LK-1`)
+  - LK-1 (`LK-1`)
+  - LK-1 (`LK-1`)
 
 ⚠️ **39** GNDs in the reference gazetteer missing from this dataset (boundary differences)
   - Medapihilla (`LK-2209125`)
   - Kadawatha (`LK-2209130`)
   - Galporugolla (`LK-2209135`)
 
-⚠️ **6** GND IDs in this dataset not found in the reference gazetteer (boundary differences)
-  - EC-22I (`EC-22I`)
-  - LG-92033 (`LG-92033`)
-  - Kokuthoduvai South (`LK-4415095`)
+⚠️ **522** GND IDs in this dataset not found in the reference gazetteer (boundary differences)
+  - EC-01A (`EC-01A`)
+  - EC-01B (`EC-01B`)
+  - EC-01C (`EC-01C`)
 
 ### 02. [Population by Age Group](data/GN_population_excel/Population-by-Age-Group)
 
@@ -491,36 +492,36 @@ The following datasets have been extracted from the XLSX source documents:
 
 ```json
 {
-    "region_id": "EC-22",
-    "region_name": "Kegalle",
+    "region_id": "EC-01",
+    "region_name": "Colombo",
     "region_name_in_data": null,
     "region_ent_type": "DISTRICT",
-    "total": 870476,
-    "age_0_14": 171285,
-    "age_15_59": 515832,
-    "age_60_64": 51878,
-    "age_65_and_above": 131481
+    "total": 2375415,
+    "age_0_14": 392725,
+    "age_15_59": 1525336,
+    "age_60_64": 136267,
+    "age_65_and_above": 321087
 }
 ```
 
-**14,462** rows in total, by District (27), Gnd (14,085), Country (1), Province (9), Dsd (340)
+**14,923** rows in total, by District (47), Gnd (14,526), Country (1), Province (9), Dsd (340)
 
 #### Validation Errors
 
-⚠️ **20** aggregated values don't match sum of children
-  - LK-2 (`LK-2`)
-  - LK-2 (`LK-2`)
-  - LK-2 (`LK-2`)
+⚠️ **10** aggregated values don't match sum of children
+  - LK-1 (`LK-1`)
+  - LK-1 (`LK-1`)
+  - LK-1 (`LK-1`)
 
 ⚠️ **39** GNDs in the reference gazetteer missing from this dataset (boundary differences)
   - Medapihilla (`LK-2209125`)
   - Kadawatha (`LK-2209130`)
   - Galporugolla (`LK-2209135`)
 
-⚠️ **6** GND IDs in this dataset not found in the reference gazetteer (boundary differences)
-  - EC-22I (`EC-22I`)
-  - LG-92033 (`LG-92033`)
-  - Kokuthoduvai South (`LK-4415095`)
+⚠️ **522** GND IDs in this dataset not found in the reference gazetteer (boundary differences)
+  - EC-01A (`EC-01A`)
+  - EC-01B (`EC-01B`)
+  - EC-01C (`EC-01C`)
 
 ### 03. [Occupied Housing Units](data/GN_housing_excel/Occupied-Housing-Units)
 
@@ -532,32 +533,31 @@ The following datasets have been extracted from the XLSX source documents:
 
 ```json
 {
-    "region_id": "EC-22",
-    "region_name": "Kegalle",
+    "region_id": "EC-01",
+    "region_name": "Colombo",
     "region_name_in_data": null,
     "region_ent_type": "DISTRICT",
-    "occupied_housing_units": 242027
+    "occupied_housing_units": 654051
 }
 ```
 
-**14,462** rows in total, by District (27), Gnd (14,085), Country (1), Province (9), Dsd (340)
+**14,923** rows in total, by District (47), Gnd (14,526), Country (1), Province (9), Dsd (340)
 
 #### Validation Errors
 
-⚠️ **4** aggregated values don't match sum of children
+⚠️ **2** aggregated values don't match sum of children
+  - LK-1 (`LK-1`)
   - LK-2 (`LK-2`)
-  - LK-9 (`LK-9`)
-  - LK-9230 (`LK-9230`)
 
 ⚠️ **39** GNDs in the reference gazetteer missing from this dataset (boundary differences)
   - Medapihilla (`LK-2209125`)
   - Kadawatha (`LK-2209130`)
   - Galporugolla (`LK-2209135`)
 
-⚠️ **6** GND IDs in this dataset not found in the reference gazetteer (boundary differences)
-  - EC-22I (`EC-22I`)
-  - LG-92033 (`LG-92033`)
-  - Kokuthoduvai South (`LK-4415095`)
+⚠️ **522** GND IDs in this dataset not found in the reference gazetteer (boundary differences)
+  - EC-01A (`EC-01A`)
+  - EC-01B (`EC-01B`)
+  - EC-01C (`EC-01C`)
 
 ### 04. [Number of Households](data/HH_GND_excel/Number-of-Households)
 
@@ -569,32 +569,31 @@ The following datasets have been extracted from the XLSX source documents:
 
 ```json
 {
-    "region_id": "EC-22",
-    "region_name": "Kegalle",
+    "region_id": "EC-01",
+    "region_name": "Colombo",
     "region_name_in_data": null,
     "region_ent_type": "DISTRICT",
-    "n_households": 244037
+    "n_households": 661822
 }
 ```
 
-**14,462** rows in total, by District (27), Gnd (14,085), Country (1), Province (9), Dsd (340)
+**14,923** rows in total, by District (47), Gnd (14,526), Country (1), Province (9), Dsd (340)
 
 #### Validation Errors
 
-⚠️ **4** aggregated values don't match sum of children
+⚠️ **2** aggregated values don't match sum of children
+  - LK-1 (`LK-1`)
   - LK-2 (`LK-2`)
-  - LK-9 (`LK-9`)
-  - LK-9230 (`LK-9230`)
 
 ⚠️ **39** GNDs in the reference gazetteer missing from this dataset (boundary differences)
   - Medapihilla (`LK-2209125`)
   - Kadawatha (`LK-2209130`)
   - Galporugolla (`LK-2209135`)
 
-⚠️ **6** GND IDs in this dataset not found in the reference gazetteer (boundary differences)
-  - EC-22I (`EC-22I`)
-  - LG-92033 (`LG-92033`)
-  - Kokuthoduvai South (`LK-4415095`)
+⚠️ **522** GND IDs in this dataset not found in the reference gazetteer (boundary differences)
+  - EC-01A (`EC-01A`)
+  - EC-01B (`EC-01B`)
+  - EC-01C (`EC-01C`)
 
 ### 05. [Number of households by main source of drinking water](data/HH_GND_excel/Number-of-households-by-main-source-of-drinking-water)
 
@@ -606,46 +605,46 @@ The following datasets have been extracted from the XLSX source documents:
 
 ```json
 {
-    "region_id": "EC-22",
-    "region_name": "Kegalle",
+    "region_id": "EC-01",
+    "region_name": "Colombo",
     "region_name_in_data": null,
     "region_ent_type": "DISTRICT",
-    "protected_well": 99985,
-    "semi_protected_well": 15492,
-    "unprotected_well": 5364,
-    "tube_well": 1690,
-    "spring_fountain": 33702,
-    "pipe_borne_nwsdb": 57229,
-    "pipe_borne_local_authority": 2253,
-    "pipe_borne_community": 17589,
-    "pipe_borne_private": 7569,
-    "tank_river_stream": 2780,
-    "rain_water": 68,
-    "bottled_water": 245,
-    "filter_ro": 15,
-    "bowser": 6,
-    "other": 50
+    "protected_well": 78469,
+    "semi_protected_well": 3522,
+    "unprotected_well": 568,
+    "tube_well": 3649,
+    "spring_fountain": 1344,
+    "pipe_borne_nwsdb": 558425,
+    "pipe_borne_local_authority": 3720,
+    "pipe_borne_community": 9703,
+    "pipe_borne_private": 1278,
+    "tank_river_stream": 124,
+    "rain_water": 24,
+    "bottled_water": 720,
+    "filter_ro": 55,
+    "bowser": 22,
+    "other": 199
 }
 ```
 
-**14,462** rows in total, by District (27), Gnd (14,085), Country (1), Province (9), Dsd (340)
+**14,923** rows in total, by District (47), Gnd (14,526), Country (1), Province (9), Dsd (340)
 
 #### Validation Errors
 
-⚠️ **57** aggregated values don't match sum of children
-  - LK-2 (`LK-2`)
-  - LK-2 (`LK-2`)
-  - LK-2 (`LK-2`)
+⚠️ **30** aggregated values don't match sum of children
+  - LK-1 (`LK-1`)
+  - LK-1 (`LK-1`)
+  - LK-1 (`LK-1`)
 
 ⚠️ **39** GNDs in the reference gazetteer missing from this dataset (boundary differences)
   - Medapihilla (`LK-2209125`)
   - Kadawatha (`LK-2209130`)
   - Galporugolla (`LK-2209135`)
 
-⚠️ **6** GND IDs in this dataset not found in the reference gazetteer (boundary differences)
-  - EC-22I (`EC-22I`)
-  - LG-92033 (`LG-92033`)
-  - Kokuthoduvai South (`LK-4415095`)
+⚠️ **522** GND IDs in this dataset not found in the reference gazetteer (boundary differences)
+  - EC-01A (`EC-01A`)
+  - EC-01B (`EC-01B`)
+  - EC-01C (`EC-01C`)
 
 ### 06. [Number of households by main source of energy/fuel used for cooking](data/HH_GND_excel/Number-of-households-by-main-source-of-energyfuel-used-for-cooking)
 
@@ -657,39 +656,39 @@ The following datasets have been extracted from the XLSX source documents:
 
 ```json
 {
-    "region_id": "EC-22",
-    "region_name": "Kegalle",
+    "region_id": "EC-01",
+    "region_name": "Colombo",
     "region_name_in_data": null,
     "region_ent_type": "DISTRICT",
-    "firewood": 177937,
-    "kerosene": 373,
-    "gas": 63345,
-    "electricity": 467,
-    "sawdust_paddy_husk": 13,
-    "bio_gas": 12,
-    "other": 87,
-    "not_relevant": 1803
+    "firewood": 65584,
+    "kerosene": 9106,
+    "gas": 566183,
+    "electricity": 6425,
+    "sawdust_paddy_husk": 134,
+    "bio_gas": 157,
+    "other": 380,
+    "not_relevant": 13853
 }
 ```
 
-**14,462** rows in total, by District (27), Gnd (14,085), Country (1), Province (9), Dsd (340)
+**14,923** rows in total, by District (47), Gnd (14,526), Country (1), Province (9), Dsd (340)
 
 #### Validation Errors
 
-⚠️ **31** aggregated values don't match sum of children
-  - LK-2 (`LK-2`)
-  - LK-2 (`LK-2`)
-  - LK-2 (`LK-2`)
+⚠️ **16** aggregated values don't match sum of children
+  - LK-1 (`LK-1`)
+  - LK-1 (`LK-1`)
+  - LK-1 (`LK-1`)
 
 ⚠️ **39** GNDs in the reference gazetteer missing from this dataset (boundary differences)
   - Medapihilla (`LK-2209125`)
   - Kadawatha (`LK-2209130`)
   - Galporugolla (`LK-2209135`)
 
-⚠️ **6** GND IDs in this dataset not found in the reference gazetteer (boundary differences)
-  - EC-22I (`EC-22I`)
-  - LG-92033 (`LG-92033`)
-  - Kokuthoduvai South (`LK-4415095`)
+⚠️ **522** GND IDs in this dataset not found in the reference gazetteer (boundary differences)
+  - EC-01A (`EC-01A`)
+  - EC-01B (`EC-01B`)
+  - EC-01C (`EC-01C`)
 
 ### 07. [Number of households by source of lighting](data/HH_GND_excel/Number-of-households-by-source-of-lighting)
 
@@ -701,38 +700,38 @@ The following datasets have been extracted from the XLSX source documents:
 
 ```json
 {
-    "region_id": "EC-22",
-    "region_name": "Kegalle",
+    "region_id": "EC-01",
+    "region_name": "Colombo",
     "region_name_in_data": null,
     "region_ent_type": "DISTRICT",
-    "electricity_grid": 239635,
-    "kerosene_lamp": 3651,
-    "solar_grid": 68,
-    "solar_standalone": 174,
-    "bio_gas": 3,
-    "generator": 28,
-    "other": 478
+    "electricity_grid": 653295,
+    "kerosene_lamp": 3366,
+    "solar_grid": 2900,
+    "solar_standalone": 831,
+    "bio_gas": 58,
+    "generator": 192,
+    "other": 1180
 }
 ```
 
-**14,462** rows in total, by District (27), Gnd (14,085), Country (1), Province (9), Dsd (340)
+**14,923** rows in total, by District (47), Gnd (14,526), Country (1), Province (9), Dsd (340)
 
 #### Validation Errors
 
-⚠️ **25** aggregated values don't match sum of children
-  - LK-2 (`LK-2`)
-  - LK-2 (`LK-2`)
-  - LK-2 (`LK-2`)
+⚠️ **14** aggregated values don't match sum of children
+  - LK-1 (`LK-1`)
+  - LK-1 (`LK-1`)
+  - LK-1 (`LK-1`)
 
 ⚠️ **39** GNDs in the reference gazetteer missing from this dataset (boundary differences)
   - Medapihilla (`LK-2209125`)
   - Kadawatha (`LK-2209130`)
   - Galporugolla (`LK-2209135`)
 
-⚠️ **6** GND IDs in this dataset not found in the reference gazetteer (boundary differences)
-  - EC-22I (`EC-22I`)
-  - LG-92033 (`LG-92033`)
-  - Kokuthoduvai South (`LK-4415095`)
+⚠️ **522** GND IDs in this dataset not found in the reference gazetteer (boundary differences)
+  - EC-01A (`EC-01A`)
+  - EC-01B (`EC-01B`)
+  - EC-01C (`EC-01C`)
 
 ### 08. [Number of households using toilet facilities](data/HH_GND_excel/Number-of-households-using-toilet-facilities)
 
@@ -744,38 +743,38 @@ The following datasets have been extracted from the XLSX source documents:
 
 ```json
 {
-    "region_id": "EC-22",
-    "region_name": "Kegalle",
+    "region_id": "EC-01",
+    "region_name": "Colombo",
     "region_name_in_data": null,
     "region_ent_type": "DISTRICT",
-    "within_unit_exclusive": 156414,
-    "within_unit_shared": 5429,
-    "within_premises_exclusive": 73283,
-    "within_premises_shared": 5721,
-    "no_toilet_sharing": 2877,
-    "common_public": 74,
-    "none": 239
+    "within_unit_exclusive": 599062,
+    "within_unit_shared": 13455,
+    "within_premises_exclusive": 35126,
+    "within_premises_shared": 7064,
+    "no_toilet_sharing": 2390,
+    "common_public": 4518,
+    "none": 207
 }
 ```
 
-**14,462** rows in total, by District (27), Gnd (14,085), Country (1), Province (9), Dsd (340)
+**14,923** rows in total, by District (47), Gnd (14,526), Country (1), Province (9), Dsd (340)
 
 #### Validation Errors
 
-⚠️ **28** aggregated values don't match sum of children
-  - LK-2 (`LK-2`)
-  - LK-2 (`LK-2`)
-  - LK-2 (`LK-2`)
+⚠️ **14** aggregated values don't match sum of children
+  - LK-1 (`LK-1`)
+  - LK-1 (`LK-1`)
+  - LK-1 (`LK-1`)
 
 ⚠️ **39** GNDs in the reference gazetteer missing from this dataset (boundary differences)
   - Medapihilla (`LK-2209125`)
   - Kadawatha (`LK-2209130`)
   - Galporugolla (`LK-2209135`)
 
-⚠️ **6** GND IDs in this dataset not found in the reference gazetteer (boundary differences)
-  - EC-22I (`EC-22I`)
-  - LG-92033 (`LG-92033`)
-  - Kokuthoduvai South (`LK-4415095`)
+⚠️ **522** GND IDs in this dataset not found in the reference gazetteer (boundary differences)
+  - EC-01A (`EC-01A`)
+  - EC-01B (`EC-01B`)
+  - EC-01C (`EC-01C`)
 
 ![Maintainer](https://img.shields.io/badge/maintainer-nuuuwan-red)
 ![MadeWith](https://img.shields.io/badge/made_with-python-blue)

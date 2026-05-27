@@ -28,7 +28,7 @@ For each category, the District with the highest and lowest share (% of that reg
 | Single House Single Storeyed | Mullaitivu | 98.2% | Colombo | 54.4% |
 | Single House Two Storeyed | Colombo | 28.4% | Mullaitivu | 1.6% |
 | Single House More Than Two Storeyed | Colombo | 3.7% | Mullaitivu | 0.0% |
-| Attached House 1St Floor | Nuwara Eliya | 26.6% | Mullaitivu | 0.0% |
+| Attached House 1St Floor | Nuwara-Eliya | 26.6% | Mullaitivu | 0.0% |
 | Attached House 2Nd Floor | Colombo | 3.7% | Kilinochchi | 0.0% |
 | Attached House 3Rd Or 4Th Floor | Colombo | 2.5% | Kilinochchi | 0.0% |
 | Attached House 5Th To 10Th Floor | Colombo | 1.8% | Kegalle | 0.0% |
@@ -40,14 +40,14 @@ For each category, the District with the highest and lowest share (% of that reg
 
 Regions with an unusually high or low share of a category (≥ 2 standard deviations from the district mean).
 
-- 🔺 **Colombo** — Attached House From 20Th Floor Or More: **0.3%** vs district avg 0.0% (z = +5.1)
-- 🔺 **Colombo** — Attached House 11Th To 19Th Floor: **0.9%** vs district avg 0.0% (z = +5.1)
-- 🔺 **Colombo** — Attached House 5Th To 10Th Floor: **1.8%** vs district avg 0.1% (z = +5.1)
-- 🔺 **Nuwara Eliya** — Attached House 1St Floor: **26.6%** vs district avg 2.5% (z = +4.7)
-- 🔺 **Colombo** — Attached House 3Rd Or 4Th Floor: **2.5%** vs district avg 0.2% (z = +4.5)
-- 🔺 **Colombo** — Attached House 2Nd Floor: **3.7%** vs district avg 0.5% (z = +4.3)
-- 🔺 **Colombo** — Single House More Than Two Storeyed: **3.7%** vs district avg 0.6% (z = +4.0)
-- 🔺 **Colombo** — Single House Two Storeyed: **28.4%** vs district avg 9.3% (z = +3.3)
+- 🔺 **Colombo** — Attached House From 20Th Floor Or More: **0.3%** vs district avg 0.0% (z = +4.7)
+- 🔺 **Colombo** — Attached House 11Th To 19Th Floor: **0.9%** vs district avg 0.0% (z = +4.7)
+- 🔺 **Colombo** — Attached House 5Th To 10Th Floor: **1.8%** vs district avg 0.1% (z = +4.7)
+- 🔺 **Nuwara-Eliya** — Attached House 1St Floor: **26.6%** vs district avg 2.6% (z = +4.4)
+- 🔺 **Nuwara Eliya** — Attached House 1St Floor: **26.6%** vs district avg 2.6% (z = +4.4)
+- 🔺 **Colombo** — Attached House 3Rd Or 4Th Floor: **2.5%** vs district avg 0.2% (z = +4.2)
+- 🔺 **Colombo** — Attached House 2Nd Floor: **3.7%** vs district avg 0.5% (z = +4.0)
+- 🔺 **Colombo** — Single House More Than Two Storeyed: **3.7%** vs district avg 0.7% (z = +3.8)
 
 ---
-*Data covers **377** rows down to **dsd** level (340 dsds).*
+*Data covers **397** rows down to **dsd** level (340 dsds).*

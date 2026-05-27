@@ -151,7 +151,7 @@ class XLSXDataTableExtractDataMixin(XLSXDataTableValidateMixin):
                 id_to_d_list[ent_id] = []
             id_to_d_list[ent_id].append(d)
 
-        d_list_for_ent = []
+        new_d_list = []
         if "total" in d_list[0]:
             if "total" not in field_list:
                 field_list = ["total"] + field_list
@@ -166,14 +166,15 @@ class XLSXDataTableExtractDataMixin(XLSXDataTableValidateMixin):
             for d in d_list_for_ent:
                 for field in field_list:
                     ent_d[field] = ent_d.get(field, 0) + d.get(field, 0)
-            d_list_for_ent.append(ent_d)
+            new_d_list.append(ent_d)
 
-        return d_list_for_ent
+        print(new_d_list)
+        return new_d_list
 
     def _build_all_levels_(self, raw_rows):
         sums, raw_names = self._get_sums_by_id_and_raw_names_(raw_rows)
         d_list = self._build_d_list_for_existing_types_(sums, raw_names)
-        d_list_for_ents = self._build_d_list_for_remaining_types_(
+        new_d_list = self._build_d_list_for_remaining_types_(
             d_list,
             self.field_list,
             [
@@ -182,7 +183,7 @@ class XLSXDataTableExtractDataMixin(XLSXDataTableValidateMixin):
                 (EntType.LG, EntType.GND),
             ],
         )
-        d_list.extend(d_list_for_ents)
+        d_list.extend(new_d_list)
         d_list.sort(key=lambda x: x["region_id"])
         return d_list
 

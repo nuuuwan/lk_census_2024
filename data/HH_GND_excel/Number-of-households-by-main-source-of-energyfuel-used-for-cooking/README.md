@@ -20,11 +20,11 @@ For each category, the District with the highest and lowest share (% of that reg
 
 | Category | Highest District | Share | Lowest District | Share |
 |----------|---------|------:|---------|------:|
-| Firewood | Monaragala | 84.1% | Colombo | 10.1% |
+| Firewood | Moneragala | 84.1% | Colombo | 10.1% |
 | Kerosene | Colombo | 1.4% | Matale | 0.1% |
 | Gas | Colombo | 87.4% | Monaragala | 15.4% |
 | Electricity | Colombo | 1.0% | Kilinochchi | 0.1% |
-| Sawdust Paddy Husk | Ampara | 0.3% | Monaragala | 0.0% |
+| Sawdust Paddy Husk | Digamadulla | 0.3% | Monaragala | 0.0% |
 | Bio Gas | Mannar | 0.9% | Ratnapura | 0.0% |
 | Other | Gampaha | 0.1% | Nuwara Eliya | 0.0% |
 
@@ -32,14 +32,14 @@ For each category, the District with the highest and lowest share (% of that reg
 
 Regions with an unusually high or low share of a category (≥ 2 standard deviations from the district mean).
 
-- 🔺 **Ampara** — Sawdust Paddy Husk: **0.3%** vs district avg 0.0% (z = +4.5)
-- 🔺 **Colombo** — Electricity: **1.0%** vs district avg 0.2% (z = +4.5)
-- 🔺 **Gampaha** — Other: **0.1%** vs district avg 0.0% (z = +3.5)
-- 🔺 **Colombo** — Gas: **87.4%** vs district avg 36.1% (z = +3.1)
-- 🔻 **Colombo** — Firewood: **10.1%** vs district avg 62.9% (z = -3.1)
-- 🔺 **Mannar** — Bio Gas: **0.9%** vs district avg 0.2% (z = +2.3)
-- 🔺 **Ampara** — Bio Gas: **0.9%** vs district avg 0.2% (z = +2.3)
-- 🔺 **Colombo** — Kerosene: **1.4%** vs district avg 0.5% (z = +2.1)
+- 🔺 **Digamadulla** — Sawdust Paddy Husk: **0.3%** vs district avg 0.0% (z = +4.2)
+- 🔺 **Ampara** — Sawdust Paddy Husk: **0.3%** vs district avg 0.0% (z = +4.2)
+- 🔺 **Colombo** — Electricity: **1.0%** vs district avg 0.2% (z = +4.2)
+- 🔺 **Gampaha** — Other: **0.1%** vs district avg 0.0% (z = +3.3)
+- 🔺 **Colombo** — Gas: **87.4%** vs district avg 37.2% (z = +2.9)
+- 🔻 **Colombo** — Firewood: **10.1%** vs district avg 61.8% (z = -2.9)
+- 🔺 **Mannar** — Bio Gas: **0.9%** vs district avg 0.2% (z = +2.4)
+- 🔺 **Digamadulla** — Bio Gas: **0.9%** vs district avg 0.2% (z = +2.4)
 
 ---
-*Data covers **14,462** rows down to **gnd** level (14,085 gnds).*
+*Data covers **14,923** rows down to **gnd** level (14,526 gnds).*

@@ -25,8 +25,8 @@ For each category, the District with the highest and lowest share (% of that reg
 | Tile | Mannar | 87.3% | Colombo | 6.1% |
 | Asbestos | Polonnaruwa | 75.5% | Batticaloa | 4.3% |
 | Concrete | Colombo | 19.6% | Kilinochchi | 1.2% |
-| Zinc Aluminium Sheets | Nuwara Eliya | 11.0% | Hambantota | 0.2% |
-| Metal Sheets | Nuwara Eliya | 16.1% | Colombo | 0.5% |
+| Zinc Aluminium Sheets | Nuwara-Eliya | 11.0% | Hambantota | 0.2% |
+| Metal Sheets | Nuwara-Eliya | 16.1% | Colombo | 0.5% |
 | Kadjan Or Palmyrah Or Straw | Ratnapura | 3.5% | Badulla | 0.2% |
 | Other | Kilinochchi | 1.0% | Matara | 0.0% |
 
@@ -34,14 +34,14 @@ For each category, the District with the highest and lowest share (% of that reg
 
 Regions with an unusually high or low share of a category (≥ 2 standard deviations from the district mean).
 
-- 🔺 **Nuwara Eliya** — Zinc Aluminium Sheets: **11.0%** vs district avg 1.7% (z = +4.6)
-- 🔺 **Nuwara Eliya** — Metal Sheets: **16.1%** vs district avg 3.1% (z = +3.6)
-- 🔺 **Colombo** — Concrete: **19.6%** vs district avg 5.8% (z = +3.0)
-- 🔺 **Badulla** — Metal Sheets: **13.8%** vs district avg 3.1% (z = +3.0)
-- 🔺 **Ampara** — Concrete: **16.5%** vs district avg 5.8% (z = +2.4)
-- 🔺 **Kilinochchi** — Other: **1.0%** vs district avg 0.3% (z = +2.1)
-- 🔺 **Batticaloa** — Other: **1.0%** vs district avg 0.3% (z = +2.1)
-- 🔻 **Batticaloa** — Asbestos: **4.3%** vs district avg 47.3% (z = -2.1)
+- 🔺 **Nuwara-Eliya** — Zinc Aluminium Sheets: **11.0%** vs district avg 1.7% (z = +4.3)
+- 🔺 **Nuwara Eliya** — Zinc Aluminium Sheets: **11.0%** vs district avg 1.7% (z = +4.3)
+- 🔺 **Nuwara-Eliya** — Metal Sheets: **16.1%** vs district avg 3.1% (z = +3.4)
+- 🔺 **Nuwara Eliya** — Metal Sheets: **16.1%** vs district avg 3.1% (z = +3.4)
+- 🔺 **Colombo** — Concrete: **19.6%** vs district avg 6.0% (z = +2.9)
+- 🔺 **Badulla** — Metal Sheets: **13.8%** vs district avg 3.1% (z = +2.8)
+- 🔺 **Kilinochchi** — Other: **1.0%** vs district avg 0.3% (z = +2.3)
+- 🔺 **Batticaloa** — Other: **1.0%** vs district avg 0.3% (z = +2.3)
 
 ---
-*Data covers **377** rows down to **dsd** level (340 dsds).*
+*Data covers **397** rows down to **dsd** level (340 dsds).*

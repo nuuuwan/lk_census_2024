@@ -1,10 +1,1270 @@
 [
   {
+    "region_id": "EC-01",
+    "region_name": "Colombo",
+    "region_name_in_data": null,
+    "region_ent_type": "DISTRICT",
+    "occupied_housing_units": 654051
+  },
+  {
+    "region_id": "EC-01A",
+    "region_name": "Colombo North",
+    "region_name_in_data": null,
+    "region_ent_type": "GND",
+    "occupied_housing_units": 33323
+  },
+  {
+    "region_id": "EC-01B",
+    "region_name": "Colombo Central",
+    "region_name_in_data": null,
+    "region_ent_type": "GND",
+    "occupied_housing_units": 38617
+  },
+  {
+    "region_id": "EC-01C",
+    "region_name": "Borella",
+    "region_name_in_data": null,
+    "region_ent_type": "GND",
+    "occupied_housing_units": 17866
+  },
+  {
+    "region_id": "EC-01D",
+    "region_name": "Colombo East",
+    "region_name_in_data": null,
+    "region_ent_type": "GND",
+    "occupied_housing_units": 23283
+  },
+  {
+    "region_id": "EC-01E",
+    "region_name": "Colombo West",
+    "region_name_in_data": null,
+    "region_ent_type": "GND",
+    "occupied_housing_units": 16155
+  },
+  {
+    "region_id": "EC-01F",
+    "region_name": "Dehiwala",
+    "region_name_in_data": null,
+    "region_ent_type": "GND",
+    "occupied_housing_units": 25382
+  },
+  {
+    "region_id": "EC-01G",
+    "region_name": "Ratmalana",
+    "region_name_in_data": null,
+    "region_ent_type": "GND",
+    "occupied_housing_units": 25005
+  },
+  {
+    "region_id": "EC-01H",
+    "region_name": "Kolonnawa",
+    "region_name_in_data": null,
+    "region_ent_type": "GND",
+    "occupied_housing_units": 56100
+  },
+  {
+    "region_id": "EC-01I",
+    "region_name": "Kotte",
+    "region_name_in_data": null,
+    "region_ent_type": "GND",
+    "occupied_housing_units": 27833
+  },
+  {
+    "region_id": "EC-01J",
+    "region_name": "Kaduwela",
+    "region_name_in_data": null,
+    "region_ent_type": "GND",
+    "occupied_housing_units": 79742
+  },
+  {
+    "region_id": "EC-01K",
+    "region_name": "Avissawella",
+    "region_name_in_data": null,
+    "region_ent_type": "GND",
+    "occupied_housing_units": 55105
+  },
+  {
+    "region_id": "EC-01L",
+    "region_name": "Homagama",
+    "region_name_in_data": null,
+    "region_ent_type": "GND",
+    "occupied_housing_units": 79737
+  },
+  {
+    "region_id": "EC-01M",
+    "region_name": "Maharagama",
+    "region_name_in_data": null,
+    "region_ent_type": "GND",
+    "occupied_housing_units": 56550
+  },
+  {
+    "region_id": "EC-01N",
+    "region_name": "Kesbewa",
+    "region_name_in_data": null,
+    "region_ent_type": "GND",
+    "occupied_housing_units": 75368
+  },
+  {
+    "region_id": "EC-01O",
+    "region_name": "Moratuwa",
+    "region_name_in_data": null,
+    "region_ent_type": "GND",
+    "occupied_housing_units": 43985
+  },
+  {
+    "region_id": "EC-02",
+    "region_name": "Gampaha",
+    "region_name_in_data": null,
+    "region_ent_type": "DISTRICT",
+    "occupied_housing_units": 683025
+  },
+  {
+    "region_id": "EC-02A",
+    "region_name": "Wattala",
+    "region_name_in_data": null,
+    "region_ent_type": "GND",
+    "occupied_housing_units": 48787
+  },
+  {
+    "region_id": "EC-02B",
+    "region_name": "Negombo",
+    "region_name_in_data": null,
+    "region_ent_type": "GND",
+    "occupied_housing_units": 35897
+  },
+  {
+    "region_id": "EC-02C",
+    "region_name": "Katana",
+    "region_name_in_data": null,
+    "region_ent_type": "GND",
+    "occupied_housing_units": 74870
+  },
+  {
+    "region_id": "EC-02D",
+    "region_name": "Divulapitiya",
+    "region_name_in_data": null,
+    "region_ent_type": "GND",
+    "occupied_housing_units": 44830
+  },
+  {
+    "region_id": "EC-02E",
+    "region_name": "Mirigama",
+    "region_name_in_data": null,
+    "region_ent_type": "GND",
+    "occupied_housing_units": 49540
+  },
+  {
+    "region_id": "EC-02F",
+    "region_name": "Minuwangoda",
+    "region_name_in_data": null,
+    "region_ent_type": "GND",
+    "occupied_housing_units": 56287
+  },
+  {
+    "region_id": "EC-02G",
+    "region_name": "Attanagalla",
+    "region_name_in_data": null,
+    "region_ent_type": "GND",
+    "occupied_housing_units": 54037
+  },
+  {
+    "region_id": "EC-02H",
+    "region_name": "Gampaha",
+    "region_name_in_data": null,
+    "region_ent_type": "GND",
+    "occupied_housing_units": 57568
+  },
+  {
+    "region_id": "EC-02I",
+    "region_name": "Ja Ela",
+    "region_name_in_data": null,
+    "region_ent_type": "GND",
+    "occupied_housing_units": 57159
+  },
+  {
+    "region_id": "EC-02J",
+    "region_name": "Mahara",
+    "region_name_in_data": null,
+    "region_ent_type": "GND",
+    "occupied_housing_units": 61376
+  },
+  {
+    "region_id": "EC-02K",
+    "region_name": "Dompe",
+    "region_name_in_data": null,
+    "region_ent_type": "GND",
+    "occupied_housing_units": 47297
+  },
+  {
+    "region_id": "EC-02L",
+    "region_name": "Biyagama",
+    "region_name_in_data": null,
+    "region_ent_type": "GND",
+    "occupied_housing_units": 58685
+  },
+  {
+    "region_id": "EC-02M",
+    "region_name": "Kelaniya",
+    "region_name_in_data": null,
+    "region_ent_type": "GND",
+    "occupied_housing_units": 36692
+  },
+  {
+    "region_id": "EC-03",
+    "region_name": "Kalutara",
+    "region_name_in_data": null,
+    "region_ent_type": "DISTRICT",
+    "occupied_housing_units": 349430
+  },
+  {
+    "region_id": "EC-03A",
+    "region_name": "Panadura",
+    "region_name_in_data": null,
+    "region_ent_type": "GND",
+    "occupied_housing_units": 42106
+  },
+  {
+    "region_id": "EC-03B",
+    "region_name": "Bandaragama",
+    "region_name_in_data": null,
+    "region_ent_type": "GND",
+    "occupied_housing_units": 55878
+  },
+  {
+    "region_id": "EC-03C",
+    "region_name": "Horana",
+    "region_name_in_data": null,
+    "region_ent_type": "GND",
+    "occupied_housing_units": 53871
+  },
+  {
+    "region_id": "EC-03D",
+    "region_name": "Bulathsinhala",
+    "region_name_in_data": null,
+    "region_ent_type": "GND",
+    "occupied_housing_units": 32557
+  },
+  {
+    "region_id": "EC-03E",
+    "region_name": "Mathugama",
+    "region_name_in_data": null,
+    "region_ent_type": "GND",
+    "occupied_housing_units": 41851
+  },
+  {
+    "region_id": "EC-03F",
+    "region_name": "Kalutara",
+    "region_name_in_data": null,
+    "region_ent_type": "GND",
+    "occupied_housing_units": 43722
+  },
+  {
+    "region_id": "EC-03G",
+    "region_name": "Beruwala",
+    "region_name_in_data": null,
+    "region_ent_type": "GND",
+    "occupied_housing_units": 41819
+  },
+  {
+    "region_id": "EC-03H",
+    "region_name": "Agalawatta",
+    "region_name_in_data": null,
+    "region_ent_type": "GND",
+    "occupied_housing_units": 37626
+  },
+  {
+    "region_id": "EC-04",
+    "region_name": "Kandy",
+    "region_name_in_data": null,
+    "region_ent_type": "DISTRICT",
+    "occupied_housing_units": 389826
+  },
+  {
+    "region_id": "EC-04A",
+    "region_name": "Galagedara",
+    "region_name_in_data": null,
+    "region_ent_type": "GND",
+    "occupied_housing_units": 19410
+  },
+  {
+    "region_id": "EC-04B",
+    "region_name": "Harispattuwa",
+    "region_name_in_data": null,
+    "region_ent_type": "GND",
+    "occupied_housing_units": 57043
+  },
+  {
+    "region_id": "EC-04C",
+    "region_name": "Pathadumbara",
+    "region_name_in_data": null,
+    "region_ent_type": "GND",
+    "occupied_housing_units": 31978
+  },
+  {
+    "region_id": "EC-04D",
+    "region_name": "Ududumbara",
+    "region_name_in_data": null,
+    "region_ent_type": "GND",
+    "occupied_housing_units": 22672
+  },
+  {
+    "region_id": "EC-04E",
+    "region_name": "Teldeniya",
+    "region_name_in_data": null,
+    "region_ent_type": "GND",
+    "occupied_housing_units": 17917
+  },
+  {
+    "region_id": "EC-04F",
+    "region_name": "Kundasale",
+    "region_name_in_data": null,
+    "region_ent_type": "GND",
+    "occupied_housing_units": 39297
+  },
+  {
+    "region_id": "EC-04G",
+    "region_name": "Hewaheta",
+    "region_name_in_data": null,
+    "region_ent_type": "GND",
+    "occupied_housing_units": 25343
+  },
+  {
+    "region_id": "EC-04H",
+    "region_name": "Senkadagala",
+    "region_name_in_data": null,
+    "region_ent_type": "GND",
+    "occupied_housing_units": 28379
+  },
+  {
+    "region_id": "EC-04I",
+    "region_name": "Mahanuwara",
+    "region_name_in_data": null,
+    "region_ent_type": "GND",
+    "occupied_housing_units": 11932
+  },
+  {
+    "region_id": "EC-04J",
+    "region_name": "Yatinuwara",
+    "region_name_in_data": null,
+    "region_ent_type": "GND",
+    "occupied_housing_units": 30659
+  },
+  {
+    "region_id": "EC-04K",
+    "region_name": "Udunuwara",
+    "region_name_in_data": null,
+    "region_ent_type": "GND",
+    "occupied_housing_units": 31284
+  },
+  {
+    "region_id": "EC-04L",
+    "region_name": "Gampola",
+    "region_name_in_data": null,
+    "region_ent_type": "GND",
+    "occupied_housing_units": 38384
+  },
+  {
+    "region_id": "EC-04M",
+    "region_name": "Nawalapitiya",
+    "region_name_in_data": null,
+    "region_ent_type": "GND",
+    "occupied_housing_units": 35528
+  },
+  {
+    "region_id": "EC-05",
+    "region_name": "Matale",
+    "region_name_in_data": null,
+    "region_ent_type": "DISTRICT",
+    "occupied_housing_units": 148184
+  },
+  {
+    "region_id": "EC-05A",
+    "region_name": "Dambulla",
+    "region_name_in_data": null,
+    "region_ent_type": "GND",
+    "occupied_housing_units": 54117
+  },
+  {
+    "region_id": "EC-05B",
+    "region_name": "Laggala",
+    "region_name_in_data": null,
+    "region_ent_type": "GND",
+    "occupied_housing_units": 28205
+  },
+  {
+    "region_id": "EC-05C",
+    "region_name": "Matale",
+    "region_name_in_data": null,
+    "region_ent_type": "GND",
+    "occupied_housing_units": 31430
+  },
+  {
+    "region_id": "EC-05D",
+    "region_name": "Rattota",
+    "region_name_in_data": null,
+    "region_ent_type": "GND",
+    "occupied_housing_units": 34432
+  },
+  {
+    "region_id": "EC-06",
+    "region_name": "Nuwara-Eliya",
+    "region_name_in_data": null,
+    "region_ent_type": "DISTRICT",
+    "occupied_housing_units": 192915
+  },
+  {
+    "region_id": "EC-06A",
+    "region_name": "Nuwara Eliya Maskeliya",
+    "region_name_in_data": null,
+    "region_ent_type": "GND",
+    "occupied_housing_units": 109082
+  },
+  {
+    "region_id": "EC-06B",
+    "region_name": "Kothmale",
+    "region_name_in_data": null,
+    "region_ent_type": "GND",
+    "occupied_housing_units": 27972
+  },
+  {
+    "region_id": "EC-06C",
+    "region_name": "Hanguranketha",
+    "region_name_in_data": null,
+    "region_ent_type": "GND",
+    "occupied_housing_units": 25932
+  },
+  {
+    "region_id": "EC-06D",
+    "region_name": "Walapane",
+    "region_name_in_data": null,
+    "region_ent_type": "GND",
+    "occupied_housing_units": 29929
+  },
+  {
+    "region_id": "EC-07",
+    "region_name": "Galle",
+    "region_name_in_data": null,
+    "region_ent_type": "DISTRICT",
+    "occupied_housing_units": 305379
+  },
+  {
+    "region_id": "EC-07A",
+    "region_name": "Balapitiya",
+    "region_name_in_data": null,
+    "region_ent_type": "GND",
+    "occupied_housing_units": 18692
+  },
+  {
+    "region_id": "EC-07B",
+    "region_name": "Ambalangoda",
+    "region_name_in_data": null,
+    "region_ent_type": "GND",
+    "occupied_housing_units": 28280
+  },
+  {
+    "region_id": "EC-07C",
+    "region_name": "Karandeniya",
+    "region_name_in_data": null,
+    "region_ent_type": "GND",
+    "occupied_housing_units": 28420
+  },
+  {
+    "region_id": "EC-07D",
+    "region_name": "Bentara Elpitiya",
+    "region_name_in_data": null,
+    "region_ent_type": "GND",
+    "occupied_housing_units": 32971
+  },
+  {
+    "region_id": "EC-07E",
+    "region_name": "Hiniduma",
+    "region_name_in_data": null,
+    "region_ent_type": "GND",
+    "occupied_housing_units": 37921
+  },
+  {
+    "region_id": "EC-07F",
+    "region_name": "Baddegama",
+    "region_name_in_data": null,
+    "region_ent_type": "GND",
+    "occupied_housing_units": 36477
+  },
+  {
+    "region_id": "EC-07G",
+    "region_name": "Ratgama",
+    "region_name_in_data": null,
+    "region_ent_type": "GND",
+    "occupied_housing_units": 27280
+  },
+  {
+    "region_id": "EC-07H",
+    "region_name": "Galle",
+    "region_name_in_data": null,
+    "region_ent_type": "GND",
+    "occupied_housing_units": 26173
+  },
+  {
+    "region_id": "EC-07I",
+    "region_name": "Akmeemana",
+    "region_name_in_data": null,
+    "region_ent_type": "GND",
+    "occupied_housing_units": 38825
+  },
+  {
+    "region_id": "EC-07J",
+    "region_name": "Habaraduwa",
+    "region_name_in_data": null,
+    "region_ent_type": "GND",
+    "occupied_housing_units": 30340
+  },
+  {
+    "region_id": "EC-08",
+    "region_name": "Matara",
+    "region_name_in_data": null,
+    "region_ent_type": "DISTRICT",
+    "occupied_housing_units": 230034
+  },
+  {
+    "region_id": "EC-08A",
+    "region_name": "Deniyaya",
+    "region_name_in_data": null,
+    "region_ent_type": "GND",
+    "occupied_housing_units": 37646
+  },
+  {
+    "region_id": "EC-08B",
+    "region_name": "Hakmana",
+    "region_name_in_data": null,
+    "region_ent_type": "GND",
+    "occupied_housing_units": 34439
+  },
+  {
+    "region_id": "EC-08C",
+    "region_name": "Akuressa",
+    "region_name_in_data": null,
+    "region_ent_type": "GND",
+    "occupied_housing_units": 34291
+  },
+  {
+    "region_id": "EC-08D",
+    "region_name": "Kamburupitiya",
+    "region_name_in_data": null,
+    "region_ent_type": "GND",
+    "occupied_housing_units": 29344
+  },
+  {
+    "region_id": "EC-08E",
+    "region_name": "Devinuwara",
+    "region_name_in_data": null,
+    "region_ent_type": "GND",
+    "occupied_housing_units": 28171
+  },
+  {
+    "region_id": "EC-08F",
+    "region_name": "Matara",
+    "region_name_in_data": null,
+    "region_ent_type": "GND",
+    "occupied_housing_units": 32080
+  },
+  {
+    "region_id": "EC-08G",
+    "region_name": "Weligama",
+    "region_name_in_data": null,
+    "region_ent_type": "GND",
+    "occupied_housing_units": 34063
+  },
+  {
+    "region_id": "EC-09",
+    "region_name": "Hambantota",
+    "region_name_in_data": null,
+    "region_ent_type": "DISTRICT",
+    "occupied_housing_units": 187558
+  },
+  {
+    "region_id": "EC-09A",
+    "region_name": "Mulkirigala",
+    "region_name_in_data": null,
+    "region_ent_type": "GND",
+    "occupied_housing_units": 40723
+  },
+  {
+    "region_id": "EC-09B",
+    "region_name": "Beliatta",
+    "region_name_in_data": null,
+    "region_ent_type": "GND",
+    "occupied_housing_units": 29223
+  },
+  {
+    "region_id": "EC-09C",
+    "region_name": "Tangalle",
+    "region_name_in_data": null,
+    "region_ent_type": "GND",
+    "occupied_housing_units": 48607
+  },
+  {
+    "region_id": "EC-09D",
+    "region_name": "Thissamaharama",
+    "region_name_in_data": null,
+    "region_ent_type": "GND",
+    "occupied_housing_units": 69005
+  },
+  {
+    "region_id": "EC-10",
+    "region_name": "Jaffna",
+    "region_name_in_data": null,
+    "region_ent_type": "DISTRICT",
+    "occupied_housing_units": 193281
+  },
+  {
+    "region_id": "EC-10A",
+    "region_name": "Kayts",
+    "region_name_in_data": null,
+    "region_ent_type": "GND",
+    "occupied_housing_units": 7905
+  },
+  {
+    "region_id": "EC-10B",
+    "region_name": "Vaddukoddai",
+    "region_name_in_data": null,
+    "region_ent_type": "GND",
+    "occupied_housing_units": 16633
+  },
+  {
+    "region_id": "EC-10C",
+    "region_name": "Kankesanthurai",
+    "region_name_in_data": null,
+    "region_ent_type": "GND",
+    "occupied_housing_units": 14585
+  },
+  {
+    "region_id": "EC-10D",
+    "region_name": "Manipay",
+    "region_name_in_data": null,
+    "region_ent_type": "GND",
+    "occupied_housing_units": 20660
+  },
+  {
+    "region_id": "EC-10E",
+    "region_name": "Kopay",
+    "region_name_in_data": null,
+    "region_ent_type": "GND",
+    "occupied_housing_units": 20583
+  },
+  {
+    "region_id": "EC-10F",
+    "region_name": "Udupiddy",
+    "region_name_in_data": null,
+    "region_ent_type": "GND",
+    "occupied_housing_units": 13407
+  },
+  {
+    "region_id": "EC-10G",
+    "region_name": "Point Pedro",
+    "region_name_in_data": null,
+    "region_ent_type": "GND",
+    "occupied_housing_units": 13991
+  },
+  {
+    "region_id": "EC-10H",
+    "region_name": "Chavakachcheri",
+    "region_name_in_data": null,
+    "region_ent_type": "GND",
+    "occupied_housing_units": 18897
+  },
+  {
+    "region_id": "EC-10I",
+    "region_name": "Nallur",
+    "region_name_in_data": null,
+    "region_ent_type": "GND",
+    "occupied_housing_units": 18614
+  },
+  {
+    "region_id": "EC-10J",
+    "region_name": "Jaffna",
+    "region_name_in_data": null,
+    "region_ent_type": "GND",
+    "occupied_housing_units": 11522
+  },
+  {
+    "region_id": "EC-10K",
+    "region_name": "Kilinochchi",
+    "region_name_in_data": null,
+    "region_ent_type": "GND",
+    "occupied_housing_units": 36484
+  },
+  {
+    "region_id": "EC-11",
+    "region_name": "Vanni",
+    "region_name_in_data": null,
+    "region_ent_type": "DISTRICT",
+    "occupied_housing_units": 114178
+  },
+  {
+    "region_id": "EC-11A",
+    "region_name": "Mannar",
+    "region_name_in_data": null,
+    "region_ent_type": "GND",
+    "occupied_housing_units": 32005
+  },
+  {
+    "region_id": "EC-11B",
+    "region_name": "Vavuniya",
+    "region_name_in_data": null,
+    "region_ent_type": "GND",
+    "occupied_housing_units": 49695
+  },
+  {
+    "region_id": "EC-11C",
+    "region_name": "Mullaitivu",
+    "region_name_in_data": null,
+    "region_ent_type": "GND",
+    "occupied_housing_units": 32419
+  },
+  {
+    "region_id": "EC-12",
+    "region_name": "Batticaloa",
+    "region_name_in_data": null,
+    "region_ent_type": "DISTRICT",
+    "occupied_housing_units": 167150
+  },
+  {
+    "region_id": "EC-12A",
+    "region_name": "Kalkudah",
+    "region_name_in_data": null,
+    "region_ent_type": "GND",
+    "occupied_housing_units": 50958
+  },
+  {
+    "region_id": "EC-12B",
+    "region_name": "Batticaloa",
+    "region_name_in_data": null,
+    "region_ent_type": "GND",
+    "occupied_housing_units": 79548
+  },
+  {
+    "region_id": "EC-12C",
+    "region_name": "Paddiruppu",
+    "region_name_in_data": null,
+    "region_ent_type": "GND",
+    "occupied_housing_units": 35695
+  },
+  {
+    "region_id": "EC-13",
+    "region_name": "Digamadulla",
+    "region_name_in_data": null,
+    "region_ent_type": "DISTRICT",
+    "occupied_housing_units": 202861
+  },
+  {
+    "region_id": "EC-13A",
+    "region_name": "Ampara",
+    "region_name_in_data": null,
+    "region_ent_type": "GND",
+    "occupied_housing_units": 68270
+  },
+  {
+    "region_id": "EC-13B",
+    "region_name": "Samanthurai",
+    "region_name_in_data": null,
+    "region_ent_type": "GND",
+    "occupied_housing_units": 36998
+  },
+  {
+    "region_id": "EC-13C",
+    "region_name": "Kalmunai",
+    "region_name_in_data": null,
+    "region_ent_type": "GND",
+    "occupied_housing_units": 29960
+  },
+  {
+    "region_id": "EC-13D",
+    "region_name": "Pothuvil",
+    "region_name_in_data": null,
+    "region_ent_type": "GND",
+    "occupied_housing_units": 67633
+  },
+  {
+    "region_id": "EC-14",
+    "region_name": "Trincomalee",
+    "region_name_in_data": null,
+    "region_ent_type": "DISTRICT",
+    "occupied_housing_units": 119351
+  },
+  {
+    "region_id": "EC-14A",
+    "region_name": "Seruvila",
+    "region_name_in_data": null,
+    "region_ent_type": "GND",
+    "occupied_housing_units": 31990
+  },
+  {
+    "region_id": "EC-14B",
+    "region_name": "Trincomalee",
+    "region_name_in_data": null,
+    "region_ent_type": "GND",
+    "occupied_housing_units": 38865
+  },
+  {
+    "region_id": "EC-14C",
+    "region_name": "Muttur",
+    "region_name_in_data": null,
+    "region_ent_type": "GND",
+    "occupied_housing_units": 48496
+  },
+  {
+    "region_id": "EC-15",
+    "region_name": "Kurunegala",
+    "region_name_in_data": null,
+    "region_ent_type": "DISTRICT",
+    "occupied_housing_units": 506909
+  },
+  {
+    "region_id": "EC-15A",
+    "region_name": "Galgamuwa",
+    "region_name_in_data": null,
+    "region_ent_type": "GND",
+    "occupied_housing_units": 41962
+  },
+  {
+    "region_id": "EC-15B",
+    "region_name": "Nikaweratiya",
+    "region_name_in_data": null,
+    "region_ent_type": "GND",
+    "occupied_housing_units": 38556
+  },
+  {
+    "region_id": "EC-15C",
+    "region_name": "Yapahuwa",
+    "region_name_in_data": null,
+    "region_ent_type": "GND",
+    "occupied_housing_units": 46399
+  },
+  {
+    "region_id": "EC-15D",
+    "region_name": "Hiriyala",
+    "region_name_in_data": null,
+    "region_ent_type": "GND",
+    "occupied_housing_units": 39659
+  },
+  {
+    "region_id": "EC-15E",
+    "region_name": "Wariyapola",
+    "region_name_in_data": null,
+    "region_ent_type": "GND",
+    "occupied_housing_units": 31245
+  },
+  {
+    "region_id": "EC-15F",
+    "region_name": "Panduwasnuwara",
+    "region_name_in_data": null,
+    "region_ent_type": "GND",
+    "occupied_housing_units": 29611
+  },
+  {
+    "region_id": "EC-15G",
+    "region_name": "Bingiriya",
+    "region_name_in_data": null,
+    "region_ent_type": "GND",
+    "occupied_housing_units": 35488
+  },
+  {
+    "region_id": "EC-15H",
+    "region_name": "Katugampola",
+    "region_name_in_data": null,
+    "region_ent_type": "GND",
+    "occupied_housing_units": 38853
+  },
+  {
+    "region_id": "EC-15I",
+    "region_name": "Kuliyapitiya",
+    "region_name_in_data": null,
+    "region_ent_type": "GND",
+    "occupied_housing_units": 40476
+  },
+  {
+    "region_id": "EC-15J",
+    "region_name": "Dambadeniya",
+    "region_name_in_data": null,
+    "region_ent_type": "GND",
+    "occupied_housing_units": 36046
+  },
+  {
+    "region_id": "EC-15K",
+    "region_name": "Polgahawela",
+    "region_name_in_data": null,
+    "region_ent_type": "GND",
+    "occupied_housing_units": 29674
+  },
+  {
+    "region_id": "EC-15L",
+    "region_name": "Kurunegala",
+    "region_name_in_data": null,
+    "region_ent_type": "GND",
+    "occupied_housing_units": 35896
+  },
+  {
+    "region_id": "EC-15M",
+    "region_name": "Mawathagama",
+    "region_name_in_data": null,
+    "region_ent_type": "GND",
+    "occupied_housing_units": 36196
+  },
+  {
+    "region_id": "EC-15N",
+    "region_name": "Dodangaslanda",
+    "region_name_in_data": null,
+    "region_ent_type": "GND",
+    "occupied_housing_units": 26848
+  },
+  {
+    "region_id": "EC-16",
+    "region_name": "Puttalam",
+    "region_name_in_data": null,
+    "region_ent_type": "DISTRICT",
+    "occupied_housing_units": 231494
+  },
+  {
+    "region_id": "EC-16A",
+    "region_name": "Puttalam",
+    "region_name_in_data": null,
+    "region_ent_type": "GND",
+    "occupied_housing_units": 65834
+  },
+  {
+    "region_id": "EC-16B",
+    "region_name": "Anamaduwa",
+    "region_name_in_data": null,
+    "region_ent_type": "GND",
+    "occupied_housing_units": 47541
+  },
+  {
+    "region_id": "EC-16C",
+    "region_name": "Chilaw",
+    "region_name_in_data": null,
+    "region_ent_type": "GND",
+    "occupied_housing_units": 45781
+  },
+  {
+    "region_id": "EC-16D",
+    "region_name": "Nattandiya",
+    "region_name_in_data": null,
+    "region_ent_type": "GND",
+    "occupied_housing_units": 33882
+  },
+  {
+    "region_id": "EC-16E",
+    "region_name": "Wennappuwa",
+    "region_name_in_data": null,
+    "region_ent_type": "GND",
+    "occupied_housing_units": 38456
+  },
+  {
+    "region_id": "EC-17",
+    "region_name": "Anuradhapura",
+    "region_name_in_data": null,
+    "region_ent_type": "DISTRICT",
+    "occupied_housing_units": 271408
+  },
+  {
+    "region_id": "EC-17A",
+    "region_name": "Medawachchiya",
+    "region_name_in_data": null,
+    "region_ent_type": "GND",
+    "occupied_housing_units": 37265
+  },
+  {
+    "region_id": "EC-17B",
+    "region_name": "Horowpothana",
+    "region_name_in_data": null,
+    "region_ent_type": "GND",
+    "occupied_housing_units": 33764
+  },
+  {
+    "region_id": "EC-17C",
+    "region_name": "Anuradhapura East",
+    "region_name_in_data": null,
+    "region_ent_type": "GND",
+    "occupied_housing_units": 44285
+  },
+  {
+    "region_id": "EC-17D",
+    "region_name": "Anuradhapura West",
+    "region_name_in_data": null,
+    "region_ent_type": "GND",
+    "occupied_housing_units": 44446
+  },
+  {
+    "region_id": "EC-17E",
+    "region_name": "Kalawewa",
+    "region_name_in_data": null,
+    "region_ent_type": "GND",
+    "occupied_housing_units": 50248
+  },
+  {
+    "region_id": "EC-17F",
+    "region_name": "Mihinthale",
+    "region_name_in_data": null,
+    "region_ent_type": "GND",
+    "occupied_housing_units": 26997
+  },
+  {
+    "region_id": "EC-17G",
+    "region_name": "Kekirawa",
+    "region_name_in_data": null,
+    "region_ent_type": "GND",
+    "occupied_housing_units": 34403
+  },
+  {
+    "region_id": "EC-18",
+    "region_name": "Polonnaruwa",
+    "region_name_in_data": null,
+    "region_ent_type": "DISTRICT",
+    "occupied_housing_units": 126482
+  },
+  {
+    "region_id": "EC-18A",
+    "region_name": "Minneriya",
+    "region_name_in_data": null,
+    "region_ent_type": "GND",
+    "occupied_housing_units": 34188
+  },
+  {
+    "region_id": "EC-18B",
+    "region_name": "Medirigiriya",
+    "region_name_in_data": null,
+    "region_ent_type": "GND",
+    "occupied_housing_units": 31874
+  },
+  {
+    "region_id": "EC-18C",
+    "region_name": "Polonnaruwa",
+    "region_name_in_data": null,
+    "region_ent_type": "GND",
+    "occupied_housing_units": 60420
+  },
+  {
+    "region_id": "EC-19",
+    "region_name": "Badulla",
+    "region_name_in_data": null,
+    "region_ent_type": "DISTRICT",
+    "occupied_housing_units": 239417
+  },
+  {
+    "region_id": "EC-19A",
+    "region_name": "Mahiyanganaya",
+    "region_name_in_data": null,
+    "region_ent_type": "GND",
+    "occupied_housing_units": 42424
+  },
+  {
+    "region_id": "EC-19B",
+    "region_name": "Viyaluwa",
+    "region_name_in_data": null,
+    "region_ent_type": "GND",
+    "occupied_housing_units": 20587
+  },
+  {
+    "region_id": "EC-19C",
+    "region_name": "Passara",
+    "region_name_in_data": null,
+    "region_ent_type": "GND",
+    "occupied_housing_units": 22385
+  },
+  {
+    "region_id": "EC-19D",
+    "region_name": "Badulla",
+    "region_name_in_data": null,
+    "region_ent_type": "GND",
+    "occupied_housing_units": 21528
+  },
+  {
+    "region_id": "EC-19E",
+    "region_name": "Hali Ela",
+    "region_name_in_data": null,
+    "region_ent_type": "GND",
+    "occupied_housing_units": 25945
+  },
+  {
+    "region_id": "EC-19F",
+    "region_name": "Uva Paranagama",
+    "region_name_in_data": null,
+    "region_ent_type": "GND",
+    "occupied_housing_units": 22605
+  },
+  {
+    "region_id": "EC-19G",
+    "region_name": "Welimada",
+    "region_name_in_data": null,
+    "region_ent_type": "GND",
+    "occupied_housing_units": 28668
+  },
+  {
+    "region_id": "EC-19H",
+    "region_name": "Bandarawela",
+    "region_name_in_data": null,
+    "region_ent_type": "GND",
+    "occupied_housing_units": 31025
+  },
+  {
+    "region_id": "EC-19I",
+    "region_name": "Haputale",
+    "region_name_in_data": null,
+    "region_ent_type": "GND",
+    "occupied_housing_units": 24250
+  },
+  {
+    "region_id": "EC-20",
+    "region_name": "Moneragala",
+    "region_name_in_data": null,
+    "region_ent_type": "DISTRICT",
+    "occupied_housing_units": 150728
+  },
+  {
+    "region_id": "EC-20A",
+    "region_name": "Bibile",
+    "region_name_in_data": null,
+    "region_ent_type": "GND",
+    "occupied_housing_units": 36270
+  },
+  {
+    "region_id": "EC-20B",
+    "region_name": "Monaragala",
+    "region_name_in_data": null,
+    "region_ent_type": "GND",
+    "occupied_housing_units": 46891
+  },
+  {
+    "region_id": "EC-20C",
+    "region_name": "Wellawaya",
+    "region_name_in_data": null,
+    "region_ent_type": "GND",
+    "occupied_housing_units": 67567
+  },
+  {
+    "region_id": "EC-21",
+    "region_name": "Ratnapura",
+    "region_name_in_data": null,
+    "region_ent_type": "DISTRICT",
+    "occupied_housing_units": 324853
+  },
+  {
+    "region_id": "EC-21A",
+    "region_name": "Eheliyagoda",
+    "region_name_in_data": null,
+    "region_ent_type": "GND",
+    "occupied_housing_units": 36540
+  },
+  {
+    "region_id": "EC-21B",
+    "region_name": "Ratnapura",
+    "region_name_in_data": null,
+    "region_ent_type": "GND",
+    "occupied_housing_units": 46529
+  },
+  {
+    "region_id": "EC-21C",
+    "region_name": "Pelmadulla",
+    "region_name_in_data": null,
+    "region_ent_type": "GND",
+    "occupied_housing_units": 33047
+  },
+  {
+    "region_id": "EC-21D",
+    "region_name": "Balangoda",
+    "region_name_in_data": null,
+    "region_ent_type": "GND",
+    "occupied_housing_units": 43196
+  },
+  {
+    "region_id": "EC-21E",
+    "region_name": "Rakwana",
+    "region_name_in_data": null,
+    "region_ent_type": "GND",
+    "occupied_housing_units": 41286
+  },
+  {
+    "region_id": "EC-21F",
+    "region_name": "Nivithigala",
+    "region_name_in_data": null,
+    "region_ent_type": "GND",
+    "occupied_housing_units": 33760
+  },
+  {
+    "region_id": "EC-21G",
+    "region_name": "Kalawana",
+    "region_name_in_data": null,
+    "region_ent_type": "GND",
+    "occupied_housing_units": 29970
+  },
+  {
+    "region_id": "EC-21H",
+    "region_name": "Kolonna",
+    "region_name_in_data": null,
+    "region_ent_type": "GND",
+    "occupied_housing_units": 60525
+  },
+  {
     "region_id": "EC-22",
     "region_name": "Kegalle",
     "region_name_in_data": null,
     "region_ent_type": "DISTRICT",
     "occupied_housing_units": 242027
+  },
+  {
+    "region_id": "EC-22A",
+    "region_name": "Dedigama",
+    "region_name_in_data": null,
+    "region_ent_type": "GND",
+    "occupied_housing_units": 32191
+  },
+  {
+    "region_id": "EC-22B",
+    "region_name": "Galigamuwa",
+    "region_name_in_data": null,
+    "region_ent_type": "GND",
+    "occupied_housing_units": 24032
+  },
+  {
+    "region_id": "EC-22C",
+    "region_name": "Kegalle",
+    "region_name_in_data": null,
+    "region_ent_type": "GND",
+    "occupied_housing_units": 26411
+  },
+  {
+    "region_id": "EC-22D",
+    "region_name": "Rambukkana",
+    "region_name_in_data": null,
+    "region_ent_type": "GND",
+    "occupied_housing_units": 24601
+  },
+  {
+    "region_id": "EC-22E",
+    "region_name": "Mawanella",
+    "region_name_in_data": null,
+    "region_ent_type": "GND",
+    "occupied_housing_units": 33009
+  },
+  {
+    "region_id": "EC-22F",
+    "region_name": "Aranayaka",
+    "region_name_in_data": null,
+    "region_ent_type": "GND",
+    "occupied_housing_units": 19932
+  },
+  {
+    "region_id": "EC-22G",
+    "region_name": "Yatiyanthota",
+    "region_name_in_data": null,
+    "region_ent_type": "GND",
+    "occupied_housing_units": 27351
+  },
+  {
+    "region_id": "EC-22H",
+    "region_name": "Ruwanwella",
+    "region_name_in_data": null,
+    "region_ent_type": "GND",
+    "occupied_housing_units": 28446
   },
   {
     "region_id": "EC-22I",
@@ -14,11 +1274,2510 @@
     "occupied_housing_units": 26054
   },
   {
+    "region_id": "LG-11011",
+    "region_name": "Colombo MC",
+    "region_name_in_data": null,
+    "region_ent_type": "GND",
+    "occupied_housing_units": 129244
+  },
+  {
+    "region_id": "LG-11012",
+    "region_name": "Dehiwala Mount Lavinia MC",
+    "region_name_in_data": null,
+    "region_ent_type": "GND",
+    "occupied_housing_units": 50387
+  },
+  {
+    "region_id": "LG-11013",
+    "region_name": "Moratuwa MC",
+    "region_name_in_data": null,
+    "region_ent_type": "GND",
+    "occupied_housing_units": 43985
+  },
+  {
+    "region_id": "LG-11014",
+    "region_name": "Sri Jayawardanapura Kotte MC",
+    "region_name_in_data": null,
+    "region_ent_type": "GND",
+    "occupied_housing_units": 27833
+  },
+  {
+    "region_id": "LG-11015",
+    "region_name": "Kaduwela MC",
+    "region_name_in_data": null,
+    "region_ent_type": "GND",
+    "occupied_housing_units": 79742
+  },
+  {
+    "region_id": "LG-11021",
+    "region_name": "Kolonnawa UC",
+    "region_name_in_data": null,
+    "region_ent_type": "GND",
+    "occupied_housing_units": 15466
+  },
+  {
+    "region_id": "LG-11022",
+    "region_name": "Seethawakapura UC",
+    "region_name_in_data": null,
+    "region_ent_type": "GND",
+    "occupied_housing_units": 9037
+  },
+  {
+    "region_id": "LG-11023",
+    "region_name": "Maharagama UC",
+    "region_name_in_data": null,
+    "region_ent_type": "GND",
+    "occupied_housing_units": 56550
+  },
+  {
+    "region_id": "LG-11024",
+    "region_name": "Kesbewa UC",
+    "region_name_in_data": null,
+    "region_ent_type": "GND",
+    "occupied_housing_units": 58274
+  },
+  {
+    "region_id": "LG-11025",
+    "region_name": "Boralesgamuwa UC",
+    "region_name_in_data": null,
+    "region_ent_type": "GND",
+    "occupied_housing_units": 17094
+  },
+  {
+    "region_id": "LG-11031",
+    "region_name": "Homagama PS",
+    "region_name_in_data": null,
+    "region_ent_type": "GND",
+    "occupied_housing_units": 84775
+  },
+  {
+    "region_id": "LG-11033",
+    "region_name": "Kotikawatta-Mullariyawa PS",
+    "region_name_in_data": null,
+    "region_ent_type": "GND",
+    "occupied_housing_units": 40634
+  },
+  {
+    "region_id": "LG-11034",
+    "region_name": "Seethawaka PS",
+    "region_name_in_data": null,
+    "region_ent_type": "GND",
+    "occupied_housing_units": 41030
+  },
+  {
+    "region_id": "LG-12011",
+    "region_name": "Negombo MC",
+    "region_name_in_data": null,
+    "region_ent_type": "GND",
+    "occupied_housing_units": 36397
+  },
+  {
+    "region_id": "LG-12012",
+    "region_name": "Gampaha MC",
+    "region_name_in_data": null,
+    "region_ent_type": "GND",
+    "occupied_housing_units": 17802
+  },
+  {
+    "region_id": "LG-12022",
+    "region_name": "Ja- Ela UC",
+    "region_name_in_data": null,
+    "region_ent_type": "GND",
+    "occupied_housing_units": 8737
+  },
+  {
+    "region_id": "LG-12023",
+    "region_name": "Katunayaka- Seeduwa UC/Katana PS",
+    "region_name_in_data": null,
+    "region_ent_type": "GND",
+    "occupied_housing_units": 19189
+  },
+  {
+    "region_id": "LG-12024",
+    "region_name": "Minuwangoda UC",
+    "region_name_in_data": null,
+    "region_ent_type": "GND",
+    "occupied_housing_units": 1982
+  },
+  {
+    "region_id": "LG-12025",
+    "region_name": "Peliyagoda UC",
+    "region_name_in_data": null,
+    "region_ent_type": "GND",
+    "occupied_housing_units": 7003
+  },
+  {
+    "region_id": "LG-12026",
+    "region_name": "Wattala - Mabola UC",
+    "region_name_in_data": null,
+    "region_ent_type": "GND",
+    "occupied_housing_units": 7279
+  },
+  {
+    "region_id": "LG-12031",
+    "region_name": "Attanagalla PS",
+    "region_name_in_data": null,
+    "region_ent_type": "GND",
+    "occupied_housing_units": 54037
+  },
+  {
+    "region_id": "LG-12032",
+    "region_name": "Biyagama PS",
+    "region_name_in_data": null,
+    "region_ent_type": "GND",
+    "occupied_housing_units": 58685
+  },
+  {
+    "region_id": "LG-12033",
+    "region_name": "Divulapitiya PS",
+    "region_name_in_data": null,
+    "region_ent_type": "GND",
+    "occupied_housing_units": 44830
+  },
+  {
+    "region_id": "LG-12034",
+    "region_name": "Dompe PS",
+    "region_name_in_data": null,
+    "region_ent_type": "GND",
+    "occupied_housing_units": 47297
+  },
+  {
+    "region_id": "LG-12035",
+    "region_name": "Gampaha PS",
+    "region_name_in_data": null,
+    "region_ent_type": "GND",
+    "occupied_housing_units": 39766
+  },
+  {
+    "region_id": "LG-12036",
+    "region_name": "Ja- Ela PS",
+    "region_name_in_data": null,
+    "region_ent_type": "GND",
+    "occupied_housing_units": 48422
+  },
+  {
+    "region_id": "LG-12037",
+    "region_name": "Katana PS",
+    "region_name_in_data": null,
+    "region_ent_type": "GND",
+    "occupied_housing_units": 55181
+  },
+  {
+    "region_id": "LG-12038",
+    "region_name": "Kelaniya PS",
+    "region_name_in_data": null,
+    "region_ent_type": "GND",
+    "occupied_housing_units": 29689
+  },
+  {
+    "region_id": "LG-12039",
+    "region_name": "Mahara PS",
+    "region_name_in_data": null,
+    "region_ent_type": "GND",
+    "occupied_housing_units": 61376
+  },
+  {
+    "region_id": "LG-12040",
+    "region_name": "Minuwangoda PS",
+    "region_name_in_data": null,
+    "region_ent_type": "GND",
+    "occupied_housing_units": 54305
+  },
+  {
+    "region_id": "LG-12041",
+    "region_name": "Mirigama PS",
+    "region_name_in_data": null,
+    "region_ent_type": "GND",
+    "occupied_housing_units": 49540
+  },
+  {
+    "region_id": "LG-12042",
+    "region_name": "Wattala PS",
+    "region_name_in_data": null,
+    "region_ent_type": "GND",
+    "occupied_housing_units": 41508
+  },
+  {
+    "region_id": "LG-13011",
+    "region_name": "Kalutara MC",
+    "region_name_in_data": null,
+    "region_ent_type": "GND",
+    "occupied_housing_units": 17817
+  },
+  {
+    "region_id": "LG-13021",
+    "region_name": "Beruwala UC",
+    "region_name_in_data": null,
+    "region_ent_type": "GND",
+    "occupied_housing_units": 8037
+  },
+  {
+    "region_id": "LG-13022",
+    "region_name": "Horana UC/Horana PS",
+    "region_name_in_data": null,
+    "region_ent_type": "GND",
+    "occupied_housing_units": 2605
+  },
+  {
+    "region_id": "LG-13024",
+    "region_name": "Panadura UC/Panadura PS",
+    "region_name_in_data": null,
+    "region_ent_type": "GND",
+    "occupied_housing_units": 9144
+  },
+  {
+    "region_id": "LG-13031",
+    "region_name": "Agalawatta PS",
+    "region_name_in_data": null,
+    "region_ent_type": "GND",
+    "occupied_housing_units": 10425
+  },
+  {
+    "region_id": "LG-13032",
+    "region_name": "Bandaragama PS",
+    "region_name_in_data": null,
+    "region_ent_type": "GND",
+    "occupied_housing_units": 33138
+  },
+  {
+    "region_id": "LG-13033",
+    "region_name": "Beruwala PS",
+    "region_name_in_data": null,
+    "region_ent_type": "GND",
+    "occupied_housing_units": 33782
+  },
+  {
+    "region_id": "LG-13034",
+    "region_name": "Bulathsinhala PS",
+    "region_name_in_data": null,
+    "region_ent_type": "GND",
+    "occupied_housing_units": 18669
+  },
+  {
+    "region_id": "LG-13035",
+    "region_name": "Dodangoda PS",
+    "region_name_in_data": null,
+    "region_ent_type": "GND",
+    "occupied_housing_units": 18525
+  },
+  {
+    "region_id": "LG-13036",
+    "region_name": "Horana PS",
+    "region_name_in_data": null,
+    "region_ent_type": "GND",
+    "occupied_housing_units": 51266
+  },
+  {
+    "region_id": "LG-13037",
+    "region_name": "Kalutara PS",
+    "region_name_in_data": null,
+    "region_ent_type": "GND",
+    "occupied_housing_units": 25905
+  },
+  {
+    "region_id": "LG-13038",
+    "region_name": "Mathugama PS",
+    "region_name_in_data": null,
+    "region_ent_type": "GND",
+    "occupied_housing_units": 23326
+  },
+  {
+    "region_id": "LG-13039",
+    "region_name": "Panadura PS",
+    "region_name_in_data": null,
+    "region_ent_type": "GND",
+    "occupied_housing_units": 40054
+  },
+  {
+    "region_id": "LG-13040",
+    "region_name": "Walallawita PS",
+    "region_name_in_data": null,
+    "region_ent_type": "GND",
+    "occupied_housing_units": 15809
+  },
+  {
+    "region_id": "LG-13041",
+    "region_name": "Madurawala PS",
+    "region_name_in_data": null,
+    "region_ent_type": "GND",
+    "occupied_housing_units": 10362
+  },
+  {
+    "region_id": "LG-13042",
+    "region_name": "Palindanuwara PS",
+    "region_name_in_data": null,
+    "region_ent_type": "GND",
+    "occupied_housing_units": 14918
+  },
+  {
+    "region_id": "LG-13043",
+    "region_name": "Millaniya PS",
+    "region_name_in_data": null,
+    "region_ent_type": "GND",
+    "occupied_housing_units": 15648
+  },
+  {
+    "region_id": "LG-21011",
+    "region_name": "Kandy MC/ Pathadumbara PS",
+    "region_name_in_data": null,
+    "region_ent_type": "GND",
+    "occupied_housing_units": 26771
+  },
+  {
+    "region_id": "LG-21021",
+    "region_name": "Gampola UC",
+    "region_name_in_data": null,
+    "region_ent_type": "GND",
+    "occupied_housing_units": 10869
+  },
+  {
+    "region_id": "LG-21022",
+    "region_name": "Kadugannawa UC/Yatinuwara PS",
+    "region_name_in_data": null,
+    "region_ent_type": "GND",
+    "occupied_housing_units": 5573
+  },
+  {
+    "region_id": "LG-21023",
+    "region_name": "Nawalapitiya UC/Pasbage Korale PS",
+    "region_name_in_data": null,
+    "region_ent_type": "GND",
+    "occupied_housing_units": 6518
+  },
+  {
+    "region_id": "LG-21024",
+    "region_name": "Wattegama UC/ Pathadumbara PS",
+    "region_name_in_data": null,
+    "region_ent_type": "GND",
+    "occupied_housing_units": 4540
+  },
+  {
+    "region_id": "LG-21025",
+    "region_name": "Medadumbara PS",
+    "region_name_in_data": null,
+    "region_ent_type": "GND",
+    "occupied_housing_units": 119
+  },
+  {
+    "region_id": "LG-21031",
+    "region_name": "Akurana PS",
+    "region_name_in_data": null,
+    "region_ent_type": "GND",
+    "occupied_housing_units": 15564
+  },
+  {
+    "region_id": "LG-21032",
+    "region_name": "Ganga Ihala Korale",
+    "region_name_in_data": null,
+    "region_ent_type": "GND",
+    "occupied_housing_units": 15525
+  },
+  {
+    "region_id": "LG-21033",
+    "region_name": "Harispattuwa PS",
+    "region_name_in_data": null,
+    "region_ent_type": "GND",
+    "occupied_housing_units": 25408
+  },
+  {
+    "region_id": "LG-21034",
+    "region_name": "Kandy Four Graverts &Gangawata Korale PS",
+    "region_name_in_data": null,
+    "region_ent_type": "GND",
+    "occupied_housing_units": 14663
+  },
+  {
+    "region_id": "LG-21035",
+    "region_name": "Medadumbara PS",
+    "region_name_in_data": null,
+    "region_ent_type": "GND",
+    "occupied_housing_units": 39430
+  },
+  {
+    "region_id": "LG-21036",
+    "region_name": "Medadumbara PS",
+    "region_name_in_data": null,
+    "region_ent_type": "GND",
+    "occupied_housing_units": 17665
+  },
+  {
+    "region_id": "LG-21037",
+    "region_name": "Minipe PS",
+    "region_name_in_data": null,
+    "region_ent_type": "GND",
+    "occupied_housing_units": 15952
+  },
+  {
+    "region_id": "LG-21038",
+    "region_name": "Panvila PS",
+    "region_name_in_data": null,
+    "region_ent_type": "GND",
+    "occupied_housing_units": 7203
+  },
+  {
+    "region_id": "LG-21039",
+    "region_name": "Pasbage Korale PS",
+    "region_name_in_data": null,
+    "region_ent_type": "GND",
+    "occupied_housing_units": 10754
+  },
+  {
+    "region_id": "LG-21040",
+    "region_name": "Pathadumbara PS",
+    "region_name_in_data": null,
+    "region_ent_type": "GND",
+    "occupied_housing_units": 19573
+  },
+  {
+    "region_id": "LG-21041",
+    "region_name": "Pathhewaheta PS",
+    "region_name_in_data": null,
+    "region_ent_type": "GND",
+    "occupied_housing_units": 25343
+  },
+  {
+    "region_id": "LG-21042",
+    "region_name": "Pujapitiya PS",
+    "region_name_in_data": null,
+    "region_ent_type": "GND",
+    "occupied_housing_units": 15610
+  },
+  {
+    "region_id": "LG-21043",
+    "region_name": "Thumpane PS",
+    "region_name_in_data": null,
+    "region_ent_type": "GND",
+    "occupied_housing_units": 19410
+  },
+  {
+    "region_id": "LG-21044",
+    "region_name": "Udadumbara PS",
+    "region_name_in_data": null,
+    "region_ent_type": "GND",
+    "occupied_housing_units": 6720
+  },
+  {
+    "region_id": "LG-21045",
+    "region_name": "Udapalatha PS",
+    "region_name_in_data": null,
+    "region_ent_type": "GND",
+    "occupied_housing_units": 30246
+  },
+  {
+    "region_id": "LG-21046",
+    "region_name": "Udunuwara PS",
+    "region_name_in_data": null,
+    "region_ent_type": "GND",
+    "occupied_housing_units": 31284
+  },
+  {
+    "region_id": "LG-21047",
+    "region_name": "Yatinuwara PS",
+    "region_name_in_data": null,
+    "region_ent_type": "GND",
+    "occupied_housing_units": 25086
+  },
+  {
+    "region_id": "LG-22011",
+    "region_name": "Matale MC/ Matale PS",
+    "region_name_in_data": null,
+    "region_ent_type": "GND",
+    "occupied_housing_units": 12419
+  },
+  {
+    "region_id": "LG-22012",
+    "region_name": "Dambulla MC",
+    "region_name_in_data": null,
+    "region_ent_type": "GND",
+    "occupied_housing_units": 7451
+  },
+  {
+    "region_id": "LG-22031",
+    "region_name": "Ambanganga Korale PS",
+    "region_name_in_data": null,
+    "region_ent_type": "GND",
+    "occupied_housing_units": 4682
+  },
+  {
+    "region_id": "LG-22032",
+    "region_name": "Dambulla PS",
+    "region_name_in_data": null,
+    "region_ent_type": "GND",
+    "occupied_housing_units": 15443
+  },
+  {
+    "region_id": "LG-22033",
+    "region_name": "Galewela PS",
+    "region_name_in_data": null,
+    "region_ent_type": "GND",
+    "occupied_housing_units": 22154
+  },
+  {
+    "region_id": "LG-22034",
+    "region_name": "Laggala-Pallegama PS",
+    "region_name_in_data": null,
+    "region_ent_type": "GND",
+    "occupied_housing_units": 5046
+  },
+  {
+    "region_id": "LG-22035",
+    "region_name": "Matale PS",
+    "region_name_in_data": null,
+    "region_ent_type": "GND",
+    "occupied_housing_units": 10125
+  },
+  {
+    "region_id": "LG-22036",
+    "region_name": "Naula PS",
+    "region_name_in_data": null,
+    "region_ent_type": "GND",
+    "occupied_housing_units": 8834
+  },
+  {
+    "region_id": "LG-22037",
+    "region_name": "Pallepola PS",
+    "region_name_in_data": null,
+    "region_ent_type": "GND",
+    "occupied_housing_units": 9069
+  },
+  {
+    "region_id": "LG-22038",
+    "region_name": "Rattota PS",
+    "region_name_in_data": null,
+    "region_ent_type": "GND",
+    "occupied_housing_units": 15594
+  },
+  {
+    "region_id": "LG-22039",
+    "region_name": "Ukuwela PS",
+    "region_name_in_data": null,
+    "region_ent_type": "GND",
+    "occupied_housing_units": 18838
+  },
+  {
+    "region_id": "LG-22040",
+    "region_name": "Wilgamuwa PS",
+    "region_name_in_data": null,
+    "region_ent_type": "GND",
+    "occupied_housing_units": 9643
+  },
+  {
+    "region_id": "LG-22041",
+    "region_name": "Yatawatta PS",
+    "region_name_in_data": null,
+    "region_ent_type": "GND",
+    "occupied_housing_units": 8886
+  },
+  {
+    "region_id": "LG-23011",
+    "region_name": "Nuwara Eliya MC/ Nuwara Eliya PS",
+    "region_name_in_data": null,
+    "region_ent_type": "GND",
+    "occupied_housing_units": 7473
+  },
+  {
+    "region_id": "LG-23021",
+    "region_name": "Hatton - Dickoya UC/ Ambagamuwa PS",
+    "region_name_in_data": null,
+    "region_ent_type": "GND",
+    "occupied_housing_units": 6740
+  },
+  {
+    "region_id": "LG-23022",
+    "region_name": "Thalawakale-Lindula UC/ Kotagala PS",
+    "region_name_in_data": null,
+    "region_ent_type": "GND",
+    "occupied_housing_units": 5930
+  },
+  {
+    "region_id": "LG-23031",
+    "region_name": "Ambagamuwa PS",
+    "region_name_in_data": null,
+    "region_ent_type": "GND",
+    "occupied_housing_units": 18200
+  },
+  {
+    "region_id": "LG-23032",
+    "region_name": "Hanguranketha PS",
+    "region_name_in_data": null,
+    "region_ent_type": "GND",
+    "occupied_housing_units": 25932
+  },
+  {
+    "region_id": "LG-23033",
+    "region_name": "Kothmale PS",
+    "region_name_in_data": null,
+    "region_ent_type": "GND",
+    "occupied_housing_units": 27972
+  },
+  {
+    "region_id": "LG-23034",
+    "region_name": "Nuwara Eliya PS",
+    "region_name_in_data": null,
+    "region_ent_type": "GND",
+    "occupied_housing_units": 14144
+  },
+  {
+    "region_id": "LG-23035",
+    "region_name": "Walapane PS",
+    "region_name_in_data": null,
+    "region_ent_type": "GND",
+    "occupied_housing_units": 29929
+  },
+  {
+    "region_id": "LG-23036",
+    "region_name": "Maskeliya PS",
+    "region_name_in_data": null,
+    "region_ent_type": "GND",
+    "occupied_housing_units": 12839
+  },
+  {
+    "region_id": "LG-23037",
+    "region_name": "Noorwood PS",
+    "region_name_in_data": null,
+    "region_ent_type": "GND",
+    "occupied_housing_units": 16697
+  },
+  {
+    "region_id": "LG-23038",
+    "region_name": "Agarapathana PS",
+    "region_name_in_data": null,
+    "region_ent_type": "GND",
+    "occupied_housing_units": 16070
+  },
+  {
+    "region_id": "LG-23039",
+    "region_name": "Kotagala PS",
+    "region_name_in_data": null,
+    "region_ent_type": "GND",
+    "occupied_housing_units": 10989
+  },
+  {
+    "region_id": "LG-31011",
+    "region_name": "Galle MC",
+    "region_name_in_data": null,
+    "region_ent_type": "GND",
+    "occupied_housing_units": 21893
+  },
+  {
+    "region_id": "LG-31021",
+    "region_name": "Ambalangoda UC",
+    "region_name_in_data": null,
+    "region_ent_type": "GND",
+    "occupied_housing_units": 5429
+  },
+  {
+    "region_id": "LG-31022",
+    "region_name": "Hikkaduwa UC",
+    "region_name_in_data": null,
+    "region_ent_type": "GND",
+    "occupied_housing_units": 7386
+  },
+  {
+    "region_id": "LG-31031",
+    "region_name": "Akmeemana PS",
+    "region_name_in_data": null,
+    "region_ent_type": "GND",
+    "occupied_housing_units": 23381
+  },
+  {
+    "region_id": "LG-31032",
+    "region_name": "Ambalangoda PS",
+    "region_name_in_data": null,
+    "region_ent_type": "GND",
+    "occupied_housing_units": 18118
+  },
+  {
+    "region_id": "LG-31033",
+    "region_name": "Baddegama PS",
+    "region_name_in_data": null,
+    "region_ent_type": "GND",
+    "occupied_housing_units": 22131
+  },
+  {
+    "region_id": "LG-31034",
+    "region_name": "Balapitiya PS",
+    "region_name_in_data": null,
+    "region_ent_type": "GND",
+    "occupied_housing_units": 18692
+  },
+  {
+    "region_id": "LG-31035",
+    "region_name": "Benthota PS",
+    "region_name_in_data": null,
+    "region_ent_type": "GND",
+    "occupied_housing_units": 13661
+  },
+  {
+    "region_id": "LG-31036",
+    "region_name": "Bope_Poddala PS",
+    "region_name_in_data": null,
+    "region_ent_type": "GND",
+    "occupied_housing_units": 19724
+  },
+  {
+    "region_id": "LG-31037",
+    "region_name": "Elpitiya PS",
+    "region_name_in_data": null,
+    "region_ent_type": "GND",
+    "occupied_housing_units": 19310
+  },
+  {
+    "region_id": "LG-31038",
+    "region_name": "Habaraduwa PS",
+    "region_name_in_data": null,
+    "region_ent_type": "GND",
+    "occupied_housing_units": 16999
+  },
+  {
+    "region_id": "LG-31039",
+    "region_name": "Rajgama PS",
+    "region_name_in_data": null,
+    "region_ent_type": "GND",
+    "occupied_housing_units": 19894
+  },
+  {
+    "region_id": "LG-31040",
+    "region_name": "Karandeniya PS",
+    "region_name_in_data": null,
+    "region_ent_type": "GND",
+    "occupied_housing_units": 19823
+  },
+  {
+    "region_id": "LG-31041",
+    "region_name": "Nagoda PS",
+    "region_name_in_data": null,
+    "region_ent_type": "GND",
+    "occupied_housing_units": 15445
+  },
+  {
+    "region_id": "LG-31042",
+    "region_name": "Neluwa PS",
+    "region_name_in_data": null,
+    "region_ent_type": "GND",
+    "occupied_housing_units": 8429
+  },
+  {
+    "region_id": "LG-31043",
+    "region_name": "Niyagama PS",
+    "region_name_in_data": null,
+    "region_ent_type": "GND",
+    "occupied_housing_units": 10330
+  },
+  {
+    "region_id": "LG-31044",
+    "region_name": "Thawalama PS",
+    "region_name_in_data": null,
+    "region_ent_type": "GND",
+    "occupied_housing_units": 9468
+  },
+  {
+    "region_id": "LG-31045",
+    "region_name": "Yakkalamulla PS",
+    "region_name_in_data": null,
+    "region_ent_type": "GND",
+    "occupied_housing_units": 13328
+  },
+  {
+    "region_id": "LG-31046",
+    "region_name": "Imaduwa PS",
+    "region_name_in_data": null,
+    "region_ent_type": "GND",
+    "occupied_housing_units": 13341
+  },
+  {
+    "region_id": "LG-31047",
+    "region_name": "Welivitiya_Divithura PS",
+    "region_name_in_data": null,
+    "region_ent_type": "GND",
+    "occupied_housing_units": 8597
+  },
+  {
+    "region_id": "LG-32011",
+    "region_name": "Matara MC",
+    "region_name_in_data": null,
+    "region_ent_type": "GND",
+    "occupied_housing_units": 21203
+  },
+  {
+    "region_id": "LG-32021",
+    "region_name": "Weligama UC",
+    "region_name_in_data": null,
+    "region_ent_type": "GND",
+    "occupied_housing_units": 4919
+  },
+  {
+    "region_id": "LG-32031",
+    "region_name": "Akuressa PS",
+    "region_name_in_data": null,
+    "region_ent_type": "GND",
+    "occupied_housing_units": 15065
+  },
+  {
+    "region_id": "LG-32032",
+    "region_name": "Devinuwara PS",
+    "region_name_in_data": null,
+    "region_ent_type": "GND",
+    "occupied_housing_units": 13098
+  },
+  {
+    "region_id": "LG-32033",
+    "region_name": "Dickwella PS",
+    "region_name_in_data": null,
+    "region_ent_type": "GND",
+    "occupied_housing_units": 15073
+  },
+  {
+    "region_id": "LG-32034",
+    "region_name": "Hakmana PS",
+    "region_name_in_data": null,
+    "region_ent_type": "GND",
+    "occupied_housing_units": 9127
+  },
+  {
+    "region_id": "LG-32035",
+    "region_name": "Kamburupitiya PS",
+    "region_name_in_data": null,
+    "region_ent_type": "GND",
+    "occupied_housing_units": 21495
+  },
+  {
+    "region_id": "LG-32036",
+    "region_name": "Kotapola PS",
+    "region_name_in_data": null,
+    "region_ent_type": "GND",
+    "occupied_housing_units": 17734
+  },
+  {
+    "region_id": "LG-32037",
+    "region_name": "Malimbada PS",
+    "region_name_in_data": null,
+    "region_ent_type": "GND",
+    "occupied_housing_units": 10206
+  },
+  {
+    "region_id": "LG-32038",
+    "region_name": "Matara PS",
+    "region_name_in_data": null,
+    "region_ent_type": "GND",
+    "occupied_housing_units": 10877
+  },
+  {
+    "region_id": "LG-32039",
+    "region_name": "Mulatiyana PS",
+    "region_name_in_data": null,
+    "region_ent_type": "GND",
+    "occupied_housing_units": 14550
+  },
+  {
+    "region_id": "LG-32040",
+    "region_name": "Pasgoda PS",
+    "region_name_in_data": null,
+    "region_ent_type": "GND",
+    "occupied_housing_units": 18139
+  },
+  {
+    "region_id": "LG-32042",
+    "region_name": "Weligama PS",
+    "region_name_in_data": null,
+    "region_ent_type": "GND",
+    "occupied_housing_units": 29144
+  },
+  {
+    "region_id": "LG-32043",
+    "region_name": "Pitadeddara PS",
+    "region_name_in_data": null,
+    "region_ent_type": "GND",
+    "occupied_housing_units": 14606
+  },
+  {
+    "region_id": "LG-32044",
+    "region_name": "Athuraliya PS",
+    "region_name_in_data": null,
+    "region_ent_type": "GND",
+    "occupied_housing_units": 9020
+  },
+  {
+    "region_id": "LG-32045",
+    "region_name": "Kirinda Puhulwella PS",
+    "region_name_in_data": null,
+    "region_ent_type": "GND",
+    "occupied_housing_units": 5778
+  },
+  {
+    "region_id": "LG-33011",
+    "region_name": "Hambantota MC",
+    "region_name_in_data": null,
+    "region_ent_type": "GND",
+    "occupied_housing_units": 7048
+  },
+  {
+    "region_id": "LG-33021",
+    "region_name": "Tangalle UC",
+    "region_name_in_data": null,
+    "region_ent_type": "GND",
+    "occupied_housing_units": 2061
+  },
+  {
+    "region_id": "LG-33031",
+    "region_name": "Ambalantota PS",
+    "region_name_in_data": null,
+    "region_ent_type": "GND",
+    "occupied_housing_units": 22250
+  },
+  {
+    "region_id": "LG-33032",
+    "region_name": "Angunakolapelessa PS",
+    "region_name_in_data": null,
+    "region_ent_type": "GND",
+    "occupied_housing_units": 15372
+  },
+  {
+    "region_id": "LG-33033",
+    "region_name": "Beliatta PS",
+    "region_name_in_data": null,
+    "region_ent_type": "GND",
+    "occupied_housing_units": 16473
+  },
+  {
+    "region_id": "LG-33034",
+    "region_name": "Hambantota PS",
+    "region_name_in_data": null,
+    "region_ent_type": "GND",
+    "occupied_housing_units": 11211
+  },
+  {
+    "region_id": "LG-33035",
+    "region_name": "Katuwana PS",
+    "region_name_in_data": null,
+    "region_ent_type": "GND",
+    "occupied_housing_units": 22016
+  },
+  {
+    "region_id": "LG-33036",
+    "region_name": "Lunugamvehera PS",
+    "region_name_in_data": null,
+    "region_ent_type": "GND",
+    "occupied_housing_units": 10381
+  },
+  {
+    "region_id": "LG-33037",
+    "region_name": "Tangalle PS",
+    "region_name_in_data": null,
+    "region_ent_type": "GND",
+    "occupied_housing_units": 19670
+  },
+  {
+    "region_id": "LG-33038",
+    "region_name": "Thissamaharama PS",
+    "region_name_in_data": null,
+    "region_ent_type": "GND",
+    "occupied_housing_units": 20935
+  },
+  {
+    "region_id": "LG-33039",
+    "region_name": "Weeraketiya PS",
+    "region_name_in_data": null,
+    "region_ent_type": "GND",
+    "occupied_housing_units": 25776
+  },
+  {
+    "region_id": "LG-33040",
+    "region_name": "Sooriyawewa PS",
+    "region_name_in_data": null,
+    "region_ent_type": "GND",
+    "occupied_housing_units": 14365
+  },
+  {
+    "region_id": "LG-41011",
+    "region_name": "Jaffna MC",
+    "region_name_in_data": null,
+    "region_ent_type": "GND",
+    "occupied_housing_units": 20576
+  },
+  {
+    "region_id": "LG-41021",
+    "region_name": "Chavakachcheri UC",
+    "region_name_in_data": null,
+    "region_ent_type": "GND",
+    "occupied_housing_units": 4617
+  },
+  {
+    "region_id": "LG-41022",
+    "region_name": "Point Pedro UC",
+    "region_name_in_data": null,
+    "region_ent_type": "GND",
+    "occupied_housing_units": 3331
+  },
+  {
+    "region_id": "LG-41023",
+    "region_name": "Valvettiturai UC/ Vadamaradchi South West PS",
+    "region_name_in_data": null,
+    "region_ent_type": "GND",
+    "occupied_housing_units": 3012
+  },
+  {
+    "region_id": "LG-41031",
+    "region_name": "Chavakachcheri PS",
+    "region_name_in_data": null,
+    "region_ent_type": "GND",
+    "occupied_housing_units": 14280
+  },
+  {
+    "region_id": "LG-41032",
+    "region_name": "Delft PS",
+    "region_name_in_data": null,
+    "region_ent_type": "GND",
+    "occupied_housing_units": 893
+  },
+  {
+    "region_id": "LG-41033",
+    "region_name": "Kayts PS",
+    "region_name_in_data": null,
+    "region_ent_type": "GND",
+    "occupied_housing_units": 2633
+  },
+  {
+    "region_id": "LG-41034",
+    "region_name": "Nallur PS",
+    "region_name_in_data": null,
+    "region_ent_type": "GND",
+    "occupied_housing_units": 9560
+  },
+  {
+    "region_id": "LG-41035",
+    "region_name": "Point Pedro PS",
+    "region_name_in_data": null,
+    "region_ent_type": "GND",
+    "occupied_housing_units": 10118
+  },
+  {
+    "region_id": "LG-41036",
+    "region_name": "Vadamaradchi South West PS",
+    "region_name_in_data": null,
+    "region_ent_type": "GND",
+    "occupied_housing_units": 10937
+  },
+  {
+    "region_id": "LG-41037",
+    "region_name": "Valikamam East PS",
+    "region_name_in_data": null,
+    "region_ent_type": "GND",
+    "occupied_housing_units": 19402
+  },
+  {
+    "region_id": "LG-41038",
+    "region_name": "Valikamam North PS",
+    "region_name_in_data": null,
+    "region_ent_type": "GND",
+    "occupied_housing_units": 11932
+  },
+  {
+    "region_id": "LG-41039",
+    "region_name": "Valikamam South PS",
+    "region_name_in_data": null,
+    "region_ent_type": "GND",
+    "occupied_housing_units": 13108
+  },
+  {
+    "region_id": "LG-41040",
+    "region_name": "Valikamam South West PS",
+    "region_name_in_data": null,
+    "region_ent_type": "GND",
+    "occupied_housing_units": 13821
+  },
+  {
+    "region_id": "LG-41041",
+    "region_name": "Valikamam West PS",
+    "region_name_in_data": null,
+    "region_ent_type": "GND",
+    "occupied_housing_units": 11568
+  },
+  {
+    "region_id": "LG-41042",
+    "region_name": "Velanai PS",
+    "region_name_in_data": null,
+    "region_ent_type": "GND",
+    "occupied_housing_units": 4379
+  },
+  {
+    "region_id": "LG-41043",
+    "region_name": "Karainagar PS",
+    "region_name_in_data": null,
+    "region_ent_type": "GND",
+    "occupied_housing_units": 2630
+  },
+  {
+    "region_id": "LG-42021",
+    "region_name": "Mannar UC",
+    "region_name_in_data": null,
+    "region_ent_type": "GND",
+    "occupied_housing_units": 5951
+  },
+  {
+    "region_id": "LG-42031",
+    "region_name": "Mannar PS",
+    "region_name_in_data": null,
+    "region_ent_type": "GND",
+    "occupied_housing_units": 8598
+  },
+  {
+    "region_id": "LG-42032",
+    "region_name": "Manthai West PS",
+    "region_name_in_data": null,
+    "region_ent_type": "GND",
+    "occupied_housing_units": 6949
+  },
+  {
+    "region_id": "LG-42033",
+    "region_name": "Musali PS",
+    "region_name_in_data": null,
+    "region_ent_type": "GND",
+    "occupied_housing_units": 4346
+  },
+  {
+    "region_id": "LG-42034",
+    "region_name": "Nanattan PS",
+    "region_name_in_data": null,
+    "region_ent_type": "GND",
+    "occupied_housing_units": 6161
+  },
+  {
+    "region_id": "LG-43011",
+    "region_name": "Vavuniya MC/ Vavuniya South (Tamil) PS",
+    "region_name_in_data": null,
+    "region_ent_type": "GND",
+    "occupied_housing_units": 11469
+  },
+  {
+    "region_id": "LG-43031",
+    "region_name": "Vavuniya North PS",
+    "region_name_in_data": null,
+    "region_ent_type": "GND",
+    "occupied_housing_units": 4284
+  },
+  {
+    "region_id": "LG-43032",
+    "region_name": "Vavuniya South (Sinhala) PS",
+    "region_name_in_data": null,
+    "region_ent_type": "GND",
+    "occupied_housing_units": 4488
+  },
+  {
+    "region_id": "LG-43033",
+    "region_name": "Vavuniya South (Tamil) PS",
+    "region_name_in_data": null,
+    "region_ent_type": "GND",
+    "occupied_housing_units": 20538
+  },
+  {
+    "region_id": "LG-43034",
+    "region_name": "Vengalacheddikulam PS",
+    "region_name_in_data": null,
+    "region_ent_type": "GND",
+    "occupied_housing_units": 7046
+  },
+  {
+    "region_id": "LG-44031",
+    "region_name": "Vavuniya North PS",
+    "region_name_in_data": null,
+    "region_ent_type": "GND",
+    "occupied_housing_units": 1870
+  },
+  {
+    "region_id": "LG-44041",
+    "region_name": "Manthai East PS",
+    "region_name_in_data": null,
+    "region_ent_type": "GND",
+    "occupied_housing_units": 2178
+  },
+  {
+    "region_id": "LG-44042",
+    "region_name": "Maritimepattu PS",
+    "region_name_in_data": null,
+    "region_ent_type": "GND",
+    "occupied_housing_units": 11667
+  },
+  {
+    "region_id": "LG-44043",
+    "region_name": "Puthukudiyiruppu PS",
+    "region_name_in_data": null,
+    "region_ent_type": "GND",
+    "occupied_housing_units": 15745
+  },
+  {
+    "region_id": "LG-44044",
+    "region_name": "Thunukkai PS",
+    "region_name_in_data": null,
+    "region_ent_type": "GND",
+    "occupied_housing_units": 2829
+  },
+  {
+    "region_id": "LG-45031",
+    "region_name": "Karachchi PS",
+    "region_name_in_data": null,
+    "region_ent_type": "GND",
+    "occupied_housing_units": 26346
+  },
+  {
+    "region_id": "LG-45032",
+    "region_name": "Pachchillaipalli PS",
+    "region_name_in_data": null,
+    "region_ent_type": "GND",
+    "occupied_housing_units": 3835
+  },
+  {
+    "region_id": "LG-45033",
+    "region_name": "Poonagari PS",
+    "region_name_in_data": null,
+    "region_ent_type": "GND",
+    "occupied_housing_units": 6303
+  },
+  {
+    "region_id": "LG-51001",
+    "region_name": "Eravur Pattu PS",
+    "region_name_in_data": null,
+    "region_ent_type": "GND",
+    "occupied_housing_units": 1397
+  },
+  {
+    "region_id": "LG-51002",
+    "region_name": "Eravur Pattu PS",
+    "region_name_in_data": null,
+    "region_ent_type": "GND",
+    "occupied_housing_units": 1778
+  },
+  {
+    "region_id": "LG-51003",
+    "region_name": "Eravur Pattu PS",
+    "region_name_in_data": null,
+    "region_ent_type": "GND",
+    "occupied_housing_units": 1783
+  },
+  {
+    "region_id": "LG-51004",
+    "region_name": "Eravur Pattu PS",
+    "region_name_in_data": null,
+    "region_ent_type": "GND",
+    "occupied_housing_units": 1971
+  },
+  {
+    "region_id": "LG-51005",
+    "region_name": "Koralai Pattu PS",
+    "region_name_in_data": null,
+    "region_ent_type": "GND",
+    "occupied_housing_units": 2205
+  },
+  {
+    "region_id": "LG-51006",
+    "region_name": "Koralai Pattu PS",
+    "region_name_in_data": null,
+    "region_ent_type": "GND",
+    "occupied_housing_units": 4340
+  },
+  {
+    "region_id": "LG-51007",
+    "region_name": "Koralai Pattu PS",
+    "region_name_in_data": null,
+    "region_ent_type": "GND",
+    "occupied_housing_units": 4311
+  },
+  {
+    "region_id": "LG-51008",
+    "region_name": "Eravur Pattu PS",
+    "region_name_in_data": null,
+    "region_ent_type": "GND",
+    "occupied_housing_units": 1196
+  },
+  {
+    "region_id": "LG-51009",
+    "region_name": "Eravur Pattu PS",
+    "region_name_in_data": null,
+    "region_ent_type": "GND",
+    "occupied_housing_units": 1727
+  },
+  {
+    "region_id": "LG-51010",
+    "region_name": "Koralai Pattu PS",
+    "region_name_in_data": null,
+    "region_ent_type": "GND",
+    "occupied_housing_units": 2288
+  },
+  {
+    "region_id": "LG-51011",
+    "region_name": "Koralai Pattu PS",
+    "region_name_in_data": null,
+    "region_ent_type": "GND",
+    "occupied_housing_units": 29455
+  },
+  {
+    "region_id": "LG-51012",
+    "region_name": "Eravur Pattu PS",
+    "region_name_in_data": null,
+    "region_ent_type": "GND",
+    "occupied_housing_units": 1233
+  },
+  {
+    "region_id": "LG-51013",
+    "region_name": "Eravur Pattu PS",
+    "region_name_in_data": null,
+    "region_ent_type": "GND",
+    "occupied_housing_units": 1046
+  },
+  {
+    "region_id": "LG-51014",
+    "region_name": "Eravur Pattu PS",
+    "region_name_in_data": null,
+    "region_ent_type": "GND",
+    "occupied_housing_units": 1834
+  },
+  {
+    "region_id": "LG-51015",
+    "region_name": "Eravur Pattu PS",
+    "region_name_in_data": null,
+    "region_ent_type": "GND",
+    "occupied_housing_units": 271
+  },
+  {
+    "region_id": "LG-51016",
+    "region_name": "Eravur Pattu PS",
+    "region_name_in_data": null,
+    "region_ent_type": "GND",
+    "occupied_housing_units": 1486
+  },
+  {
+    "region_id": "LG-51017",
+    "region_name": "Eravur Pattu PS",
+    "region_name_in_data": null,
+    "region_ent_type": "GND",
+    "occupied_housing_units": 695
+  },
+  {
+    "region_id": "LG-51018",
+    "region_name": "Eravur Pattu PS",
+    "region_name_in_data": null,
+    "region_ent_type": "GND",
+    "occupied_housing_units": 500
+  },
+  {
+    "region_id": "LG-51021",
+    "region_name": "Kattankudy UC",
+    "region_name_in_data": null,
+    "region_ent_type": "GND",
+    "occupied_housing_units": 12899
+  },
+  {
+    "region_id": "LG-51022",
+    "region_name": "Eravur UC",
+    "region_name_in_data": null,
+    "region_ent_type": "GND",
+    "occupied_housing_units": 6223
+  },
+  {
+    "region_id": "LG-51034",
+    "region_name": "Koralai Pattu PS",
+    "region_name_in_data": null,
+    "region_ent_type": "GND",
+    "occupied_housing_units": 14264
+  },
+  {
+    "region_id": "LG-51035",
+    "region_name": "Koralai Pattu North PS",
+    "region_name_in_data": null,
+    "region_ent_type": "GND",
+    "occupied_housing_units": 8417
+  },
+  {
+    "region_id": "LG-51036",
+    "region_name": "Koralai Pattu West PS",
+    "region_name_in_data": null,
+    "region_ent_type": "GND",
+    "occupied_housing_units": 9286
+  },
+  {
+    "region_id": "LG-51037",
+    "region_name": "Manmunaipattu PS",
+    "region_name_in_data": null,
+    "region_ent_type": "GND",
+    "occupied_housing_units": 10254
+  },
+  {
+    "region_id": "LG-51038",
+    "region_name": "Manmunai South & Eruvil Pattu PS",
+    "region_name_in_data": null,
+    "region_ent_type": "GND",
+    "occupied_housing_units": 16572
+  },
+  {
+    "region_id": "LG-51039",
+    "region_name": "Manmunai South-West PS",
+    "region_name_in_data": null,
+    "region_ent_type": "GND",
+    "occupied_housing_units": 7745
+  },
+  {
+    "region_id": "LG-51040",
+    "region_name": "Manmunai West (Vavunativu) PS",
+    "region_name_in_data": null,
+    "region_ent_type": "GND",
+    "occupied_housing_units": 9647
+  },
+  {
+    "region_id": "LG-51041",
+    "region_name": "Porativepattu PS",
+    "region_name_in_data": null,
+    "region_ent_type": "GND",
+    "occupied_housing_units": 11378
+  },
+  {
+    "region_id": "LG-52011",
+    "region_name": "Kalmunai MC",
+    "region_name_in_data": null,
+    "region_ent_type": "GND",
+    "occupied_housing_units": 29960
+  },
+  {
+    "region_id": "LG-52012",
+    "region_name": "Akkaraipattu MC",
+    "region_name_in_data": null,
+    "region_ent_type": "GND",
+    "occupied_housing_units": 9793
+  },
+  {
+    "region_id": "LG-52021",
+    "region_name": "Ampara UC/ Namaloya PS",
+    "region_name_in_data": null,
+    "region_ent_type": "GND",
+    "occupied_housing_units": 7269
+  },
+  {
+    "region_id": "LG-52031",
+    "region_name": "Addalachchanai PS",
+    "region_name_in_data": null,
+    "region_ent_type": "GND",
+    "occupied_housing_units": 13178
+  },
+  {
+    "region_id": "LG-52032",
+    "region_name": "Alayadiwembu PS",
+    "region_name_in_data": null,
+    "region_ent_type": "GND",
+    "occupied_housing_units": 7017
+  },
+  {
+    "region_id": "LG-52033",
+    "region_name": "Damana PS",
+    "region_name_in_data": null,
+    "region_ent_type": "GND",
+    "occupied_housing_units": 10486
+  },
+  {
+    "region_id": "LG-52034",
+    "region_name": "Dehiattakandiya PS",
+    "region_name_in_data": null,
+    "region_ent_type": "GND",
+    "occupied_housing_units": 18437
+  },
+  {
+    "region_id": "LG-52036",
+    "region_name": "Akkaraipattu PS",
+    "region_name_in_data": null,
+    "region_ent_type": "GND",
+    "occupied_housing_units": 2259
+  },
+  {
+    "region_id": "LG-52037",
+    "region_name": "Lahugala PS",
+    "region_name_in_data": null,
+    "region_ent_type": "GND",
+    "occupied_housing_units": 2902
+  },
+  {
+    "region_id": "LG-52038",
+    "region_name": "Mahaoya PS",
+    "region_name_in_data": null,
+    "region_ent_type": "GND",
+    "occupied_housing_units": 6968
+  },
+  {
+    "region_id": "LG-52039",
+    "region_name": "Namaloya PS",
+    "region_name_in_data": null,
+    "region_ent_type": "GND",
+    "occupied_housing_units": 6895
+  },
+  {
+    "region_id": "LG-52040",
+    "region_name": "Ninthavur PS",
+    "region_name_in_data": null,
+    "region_ent_type": "GND",
+    "occupied_housing_units": 8729
+  },
+  {
+    "region_id": "LG-52041",
+    "region_name": "Padiyathalawa  PS",
+    "region_name_in_data": null,
+    "region_ent_type": "GND",
+    "occupied_housing_units": 6260
+  },
+  {
+    "region_id": "LG-52042",
+    "region_name": "Pothuvil  PS",
+    "region_name_in_data": null,
+    "region_ent_type": "GND",
+    "occupied_housing_units": 11466
+  },
+  {
+    "region_id": "LG-52043",
+    "region_name": "Sammanthurai PS",
+    "region_name_in_data": null,
+    "region_ent_type": "GND",
+    "occupied_housing_units": 19400
+  },
+  {
+    "region_id": "LG-52044",
+    "region_name": "Thirukkovili PS",
+    "region_name_in_data": null,
+    "region_ent_type": "GND",
+    "occupied_housing_units": 8338
+  },
+  {
+    "region_id": "LG-52045",
+    "region_name": "Uhana PS",
+    "region_name_in_data": null,
+    "region_ent_type": "GND",
+    "occupied_housing_units": 17326
+  },
+  {
+    "region_id": "LG-52046",
+    "region_name": "Karathivu PS",
+    "region_name_in_data": null,
+    "region_ent_type": "GND",
+    "occupied_housing_units": 5241
+  },
+  {
+    "region_id": "LG-52047",
+    "region_name": "Navithanveli PS",
+    "region_name_in_data": null,
+    "region_ent_type": "GND",
+    "occupied_housing_units": 6288
+  },
+  {
+    "region_id": "LG-52048",
+    "region_name": "Irakkamam PS",
+    "region_name_in_data": null,
+    "region_ent_type": "GND",
+    "occupied_housing_units": 4649
+  },
+  {
+    "region_id": "LG-53011",
+    "region_name": "Trincomalee MC",
+    "region_name_in_data": null,
+    "region_ent_type": "GND",
+    "occupied_housing_units": 13594
+  },
+  {
+    "region_id": "LG-53022",
+    "region_name": "Kinniya UC",
+    "region_name_in_data": null,
+    "region_ent_type": "GND",
+    "occupied_housing_units": 10696
+  },
+  {
+    "region_id": "LG-53031",
+    "region_name": "Gomarankadawala PS",
+    "region_name_in_data": null,
+    "region_ent_type": "GND",
+    "occupied_housing_units": 2446
+  },
+  {
+    "region_id": "LG-53032",
+    "region_name": "Kanthale PS",
+    "region_name_in_data": null,
+    "region_ent_type": "GND",
+    "occupied_housing_units": 14128
+  },
+  {
+    "region_id": "LG-53033",
+    "region_name": "Kinniya PS",
+    "region_name_in_data": null,
+    "region_ent_type": "GND",
+    "occupied_housing_units": 11054
+  },
+  {
+    "region_id": "LG-53034",
+    "region_name": "Kuchchaveli PS",
+    "region_name_in_data": null,
+    "region_ent_type": "GND",
+    "occupied_housing_units": 10805
+  },
+  {
+    "region_id": "LG-53035",
+    "region_name": "Morawewa PS",
+    "region_name_in_data": null,
+    "region_ent_type": "GND",
+    "occupied_housing_units": 2688
+  },
+  {
+    "region_id": "LG-53036",
+    "region_name": "Muttur PS",
+    "region_name_in_data": null,
+    "region_ent_type": "GND",
+    "occupied_housing_units": 19400
+  },
+  {
+    "region_id": "LG-53037",
+    "region_name": "Padavi Sri Pura PS",
+    "region_name_in_data": null,
+    "region_ent_type": "GND",
+    "occupied_housing_units": 3438
+  },
+  {
+    "region_id": "LG-53038",
+    "region_name": "Seruvila PS",
+    "region_name_in_data": null,
+    "region_ent_type": "GND",
+    "occupied_housing_units": 4655
+  },
+  {
+    "region_id": "LG-53039",
+    "region_name": "Thambalagamuwa PS",
+    "region_name_in_data": null,
+    "region_ent_type": "GND",
+    "occupied_housing_units": 9324
+  },
+  {
+    "region_id": "LG-53040",
+    "region_name": "Trincomalee Town and Gravets  PS",
+    "region_name_in_data": null,
+    "region_ent_type": "GND",
+    "occupied_housing_units": 13190
+  },
+  {
+    "region_id": "LG-53041",
+    "region_name": "Verugal PS",
+    "region_name_in_data": null,
+    "region_ent_type": "GND",
+    "occupied_housing_units": 3933
+  },
+  {
+    "region_id": "LG-61011",
+    "region_name": "Kurunegala MC",
+    "region_name_in_data": null,
+    "region_ent_type": "GND",
+    "occupied_housing_units": 6411
+  },
+  {
+    "region_id": "LG-61021",
+    "region_name": "Kuliyapitiya UC/ Kuliyapitiya PS",
+    "region_name_in_data": null,
+    "region_ent_type": "GND",
+    "occupied_housing_units": 1388
+  },
+  {
+    "region_id": "LG-61031",
+    "region_name": "Alawwa PS",
+    "region_name_in_data": null,
+    "region_ent_type": "GND",
+    "occupied_housing_units": 19020
+  },
+  {
+    "region_id": "LG-61032",
+    "region_name": "Bingiriya PS",
+    "region_name_in_data": null,
+    "region_ent_type": "GND",
+    "occupied_housing_units": 19673
+  },
+  {
+    "region_id": "LG-61033",
+    "region_name": "Galgamuwa PS",
+    "region_name_in_data": null,
+    "region_ent_type": "GND",
+    "occupied_housing_units": 26085
+  },
+  {
+    "region_id": "LG-61034",
+    "region_name": "Giribawa PS",
+    "region_name_in_data": null,
+    "region_ent_type": "GND",
+    "occupied_housing_units": 10396
+  },
+  {
+    "region_id": "LG-61035",
+    "region_name": "Ibbagamuwa PS",
+    "region_name_in_data": null,
+    "region_ent_type": "GND",
+    "occupied_housing_units": 39659
+  },
+  {
+    "region_id": "LG-61036",
+    "region_name": "Kobeigane PS",
+    "region_name_in_data": null,
+    "region_ent_type": "GND",
+    "occupied_housing_units": 11689
+  },
+  {
+    "region_id": "LG-61037",
+    "region_name": "Kuliyapitiya PS",
+    "region_name_in_data": null,
+    "region_ent_type": "GND",
+    "occupied_housing_units": 39088
+  },
+  {
+    "region_id": "LG-61038",
+    "region_name": "Kurunegala PS",
+    "region_name_in_data": null,
+    "region_ent_type": "GND",
+    "occupied_housing_units": 45917
+  },
+  {
+    "region_id": "LG-61039",
+    "region_name": "Maho PS",
+    "region_name_in_data": null,
+    "region_ent_type": "GND",
+    "occupied_housing_units": 26526
+  },
+  {
+    "region_id": "LG-61040",
+    "region_name": "Mawathagama PS",
+    "region_name_in_data": null,
+    "region_ent_type": "GND",
+    "occupied_housing_units": 19764
+  },
+  {
+    "region_id": "LG-61041",
+    "region_name": "Nikaweratiya PS",
+    "region_name_in_data": null,
+    "region_ent_type": "GND",
+    "occupied_housing_units": 26867
+  },
+  {
+    "region_id": "LG-61042",
+    "region_name": "Panduwasnuwara PS",
+    "region_name_in_data": null,
+    "region_ent_type": "GND",
+    "occupied_housing_units": 29611
+  },
+  {
+    "region_id": "LG-61043",
+    "region_name": "Pannala PS",
+    "region_name_in_data": null,
+    "region_ent_type": "GND",
+    "occupied_housing_units": 38853
+  },
+  {
+    "region_id": "LG-61044",
+    "region_name": "Polgahawela PS",
+    "region_name_in_data": null,
+    "region_ent_type": "GND",
+    "occupied_housing_units": 29674
+  },
+  {
+    "region_id": "LG-61045",
+    "region_name": "Polpithigama PS",
+    "region_name_in_data": null,
+    "region_ent_type": "GND",
+    "occupied_housing_units": 25354
+  },
+  {
+    "region_id": "LG-61046",
+    "region_name": "Rideegama PS",
+    "region_name_in_data": null,
+    "region_ent_type": "GND",
+    "occupied_housing_units": 26848
+  },
+  {
+    "region_id": "LG-61047",
+    "region_name": "Wariyapola PS",
+    "region_name_in_data": null,
+    "region_ent_type": "GND",
+    "occupied_housing_units": 31245
+  },
+  {
+    "region_id": "LG-61048",
+    "region_name": "Udubaddawa PS",
+    "region_name_in_data": null,
+    "region_ent_type": "GND",
+    "occupied_housing_units": 15815
+  },
+  {
+    "region_id": "LG-61049",
+    "region_name": "Narammala PS",
+    "region_name_in_data": null,
+    "region_ent_type": "GND",
+    "occupied_housing_units": 17026
+  },
+  {
+    "region_id": "LG-62011",
+    "region_name": "Puttalam MC",
+    "region_name_in_data": null,
+    "region_ent_type": "GND",
+    "occupied_housing_units": 12533
+  },
+  {
+    "region_id": "LG-62021",
+    "region_name": "Chilaw UC",
+    "region_name_in_data": null,
+    "region_ent_type": "GND",
+    "occupied_housing_units": 5936
+  },
+  {
+    "region_id": "LG-62031",
+    "region_name": "Anamaduwa PS",
+    "region_name_in_data": null,
+    "region_ent_type": "GND",
+    "occupied_housing_units": 25675
+  },
+  {
+    "region_id": "LG-62032",
+    "region_name": "Arachchikattuwa PS",
+    "region_name_in_data": null,
+    "region_ent_type": "GND",
+    "occupied_housing_units": 18810
+  },
+  {
+    "region_id": "LG-62033",
+    "region_name": "Chilaw PS",
+    "region_name_in_data": null,
+    "region_ent_type": "GND",
+    "occupied_housing_units": 27184
+  },
+  {
+    "region_id": "LG-62034",
+    "region_name": "Kalpitiya PS",
+    "region_name_in_data": null,
+    "region_ent_type": "GND",
+    "occupied_housing_units": 33795
+  },
+  {
+    "region_id": "LG-62035",
+    "region_name": "Karuwalagaswewa PS",
+    "region_name_in_data": null,
+    "region_ent_type": "GND",
+    "occupied_housing_units": 7941
+  },
+  {
+    "region_id": "LG-62036",
+    "region_name": "Nattandiya PS",
+    "region_name_in_data": null,
+    "region_ent_type": "GND",
+    "occupied_housing_units": 33882
+  },
+  {
+    "region_id": "LG-62037",
+    "region_name": "Nawagattegama PS",
+    "region_name_in_data": null,
+    "region_ent_type": "GND",
+    "occupied_housing_units": 5271
+  },
+  {
+    "region_id": "LG-62038",
+    "region_name": "Puttalam PS",
+    "region_name_in_data": null,
+    "region_ent_type": "GND",
+    "occupied_housing_units": 16165
+  },
+  {
+    "region_id": "LG-62039",
+    "region_name": "Vanathawilluwa PS",
+    "region_name_in_data": null,
+    "region_ent_type": "GND",
+    "occupied_housing_units": 5846
+  },
+  {
+    "region_id": "LG-62040",
+    "region_name": "Wennappuwa PS",
+    "region_name_in_data": null,
+    "region_ent_type": "GND",
+    "occupied_housing_units": 38456
+  },
+  {
+    "region_id": "LG-71011",
+    "region_name": "Anuradhapura MC/ Nuwaragam Palatha Central PS",
+    "region_name_in_data": null,
+    "region_ent_type": "GND",
+    "occupied_housing_units": 19051
+  },
+  {
+    "region_id": "LG-71031",
+    "region_name": "Galenbindunuwewa PS",
+    "region_name_in_data": null,
+    "region_ent_type": "GND",
+    "occupied_housing_units": 14371
+  },
+  {
+    "region_id": "LG-71032",
+    "region_name": "Galnewa PS",
+    "region_name_in_data": null,
+    "region_ent_type": "GND",
+    "occupied_housing_units": 11372
+  },
+  {
+    "region_id": "LG-71033",
+    "region_name": "Horowpothana PS",
+    "region_name_in_data": null,
+    "region_ent_type": "GND",
+    "occupied_housing_units": 11190
+  },
+  {
+    "region_id": "LG-71034",
+    "region_name": "Ipalogama PS",
+    "region_name_in_data": null,
+    "region_ent_type": "GND",
+    "occupied_housing_units": 12338
+  },
+  {
+    "region_id": "LG-71035",
+    "region_name": "Kahatagasdigiliya PS",
+    "region_name_in_data": null,
+    "region_ent_type": "GND",
+    "occupied_housing_units": 12483
+  },
+  {
+    "region_id": "LG-71036",
+    "region_name": "Kebithigollewa PS",
+    "region_name_in_data": null,
+    "region_ent_type": "GND",
+    "occupied_housing_units": 7625
+  },
+  {
+    "region_id": "LG-71037",
+    "region_name": "Kekirawa PS",
+    "region_name_in_data": null,
+    "region_ent_type": "GND",
+    "occupied_housing_units": 23227
+  },
+  {
+    "region_id": "LG-71038",
+    "region_name": "Medawachchiya PS",
+    "region_name_in_data": null,
+    "region_ent_type": "GND",
+    "occupied_housing_units": 15056
+  },
+  {
+    "region_id": "LG-71039",
+    "region_name": "Mihinthale PS",
+    "region_name_in_data": null,
+    "region_ent_type": "GND",
+    "occupied_housing_units": 10137
+  },
+  {
+    "region_id": "LG-71040",
+    "region_name": "Nochchiyagama PS",
+    "region_name_in_data": null,
+    "region_ent_type": "GND",
+    "occupied_housing_units": 15943
+  },
+  {
+    "region_id": "LG-71041",
+    "region_name": "Nuwaragam Palatha Central PS",
+    "region_name_in_data": null,
+    "region_ent_type": "GND",
+    "occupied_housing_units": 21533
+  },
+  {
+    "region_id": "LG-71042",
+    "region_name": "Nuwaragam Palatha East PS",
+    "region_name_in_data": null,
+    "region_ent_type": "GND",
+    "occupied_housing_units": 15747
+  },
+  {
+    "region_id": "LG-71043",
+    "region_name": "Padaviya PS",
+    "region_name_in_data": null,
+    "region_ent_type": "GND",
+    "occupied_housing_units": 7164
+  },
+  {
+    "region_id": "LG-71044",
+    "region_name": "Palagala PS",
+    "region_name_in_data": null,
+    "region_ent_type": "GND",
+    "occupied_housing_units": 11061
+  },
+  {
+    "region_id": "LG-71045",
+    "region_name": "Rajanganaya PS",
+    "region_name_in_data": null,
+    "region_ent_type": "GND",
+    "occupied_housing_units": 10677
+  },
+  {
+    "region_id": "LG-71046",
+    "region_name": "Rambewa PS",
+    "region_name_in_data": null,
+    "region_ent_type": "GND",
+    "occupied_housing_units": 11382
+  },
+  {
+    "region_id": "LG-71047",
+    "region_name": "Thalawa PS",
+    "region_name_in_data": null,
+    "region_ent_type": "GND",
+    "occupied_housing_units": 30899
+  },
+  {
+    "region_id": "LG-71048",
+    "region_name": "Nuwaragam Palatha East PS",
+    "region_name_in_data": null,
+    "region_ent_type": "GND",
+    "occupied_housing_units": 10152
+  },
+  {
+    "region_id": "LG-72011",
+    "region_name": "Polonnaruwa MC",
+    "region_name_in_data": null,
+    "region_ent_type": "GND",
+    "occupied_housing_units": 9858
+  },
+  {
+    "region_id": "LG-72031",
+    "region_name": "Dimbulagala PS",
+    "region_name_in_data": null,
+    "region_ent_type": "GND",
+    "occupied_housing_units": 24257
+  },
+  {
+    "region_id": "LG-72032",
+    "region_name": "Elahera PS",
+    "region_name_in_data": null,
+    "region_ent_type": "GND",
+    "occupied_housing_units": 14047
+  },
+  {
+    "region_id": "LG-72033",
+    "region_name": "Hingurakgoda PS",
+    "region_name_in_data": null,
+    "region_ent_type": "GND",
+    "occupied_housing_units": 20141
+  },
+  {
+    "region_id": "LG-72034",
+    "region_name": "Lankapura PS",
+    "region_name_in_data": null,
+    "region_ent_type": "GND",
+    "occupied_housing_units": 11364
+  },
+  {
+    "region_id": "LG-72035",
+    "region_name": "Medirigiriya PS",
+    "region_name_in_data": null,
+    "region_ent_type": "GND",
+    "occupied_housing_units": 20510
+  },
+  {
+    "region_id": "LG-72037",
+    "region_name": "Welikanda PS",
+    "region_name_in_data": null,
+    "region_ent_type": "GND",
+    "occupied_housing_units": 11005
+  },
+  {
+    "region_id": "LG-72038",
+    "region_name": "Polonnaruwa PS",
+    "region_name_in_data": null,
+    "region_ent_type": "GND",
+    "occupied_housing_units": 15300
+  },
+  {
+    "region_id": "LG-81011",
+    "region_name": "Badulla MC",
+    "region_name_in_data": null,
+    "region_ent_type": "GND",
+    "occupied_housing_units": 11926
+  },
+  {
+    "region_id": "LG-81012",
+    "region_name": "Bandarawela MC/ Bandarawela  PS",
+    "region_name_in_data": null,
+    "region_ent_type": "GND",
+    "occupied_housing_units": 9855
+  },
+  {
+    "region_id": "LG-81022",
+    "region_name": "Haputale  UC/ Haputale  PS",
+    "region_name_in_data": null,
+    "region_ent_type": "GND",
+    "occupied_housing_units": 2220
+  },
+  {
+    "region_id": "LG-81031",
+    "region_name": "Badulla PS",
+    "region_name_in_data": null,
+    "region_ent_type": "GND",
+    "occupied_housing_units": 9602
+  },
+  {
+    "region_id": "LG-81032",
+    "region_name": "Bandarawela  PS",
+    "region_name_in_data": null,
+    "region_ent_type": "GND",
+    "occupied_housing_units": 8846
+  },
+  {
+    "region_id": "LG-81033",
+    "region_name": "Ella  PS",
+    "region_name_in_data": null,
+    "region_ent_type": "GND",
+    "occupied_housing_units": 12324
+  },
+  {
+    "region_id": "LG-81034",
+    "region_name": "Haldummulla  PS",
+    "region_name_in_data": null,
+    "region_ent_type": "GND",
+    "occupied_housing_units": 10970
+  },
+  {
+    "region_id": "LG-81035",
+    "region_name": "Hali-Ela  PS",
+    "region_name_in_data": null,
+    "region_ent_type": "GND",
+    "occupied_housing_units": 25945
+  },
+  {
+    "region_id": "LG-81036",
+    "region_name": "Haputale  PS",
+    "region_name_in_data": null,
+    "region_ent_type": "GND",
+    "occupied_housing_units": 11060
+  },
+  {
+    "region_id": "LG-81037",
+    "region_name": "Kandaketiya PS",
+    "region_name_in_data": null,
+    "region_ent_type": "GND",
+    "occupied_housing_units": 7410
+  },
+  {
+    "region_id": "LG-81038",
+    "region_name": "Mahiyanganaya PS",
+    "region_name_in_data": null,
+    "region_ent_type": "GND",
+    "occupied_housing_units": 25173
+  },
+  {
+    "region_id": "LG-81039",
+    "region_name": "Meegahaivula PS",
+    "region_name_in_data": null,
+    "region_ent_type": "GND",
+    "occupied_housing_units": 6396
+  },
+  {
+    "region_id": "LG-81040",
+    "region_name": "Passara PS",
+    "region_name_in_data": null,
+    "region_ent_type": "GND",
+    "occupied_housing_units": 13500
+  },
+  {
+    "region_id": "LG-81041",
+    "region_name": "Rideemaliyadda PS",
+    "region_name_in_data": null,
+    "region_ent_type": "GND",
+    "occupied_housing_units": 17251
+  },
+  {
+    "region_id": "LG-81042",
+    "region_name": "Soranathota PS",
+    "region_name_in_data": null,
+    "region_ent_type": "GND",
+    "occupied_housing_units": 6781
+  },
+  {
+    "region_id": "LG-81043",
+    "region_name": "Uva Paranagama  PS",
+    "region_name_in_data": null,
+    "region_ent_type": "GND",
+    "occupied_housing_units": 22605
+  },
+  {
+    "region_id": "LG-81044",
+    "region_name": "Welimada  PS",
+    "region_name_in_data": null,
+    "region_ent_type": "GND",
+    "occupied_housing_units": 28668
+  },
+  {
+    "region_id": "LG-81045",
+    "region_name": "Lunugala PS",
+    "region_name_in_data": null,
+    "region_ent_type": "GND",
+    "occupied_housing_units": 8885
+  },
+  {
+    "region_id": "LG-82031",
+    "region_name": "Badalkumbura PS",
+    "region_name_in_data": null,
+    "region_ent_type": "GND",
+    "occupied_housing_units": 13219
+  },
+  {
+    "region_id": "LG-82032",
+    "region_name": "Bibila PS",
+    "region_name_in_data": null,
+    "region_ent_type": "GND",
+    "occupied_housing_units": 13645
+  },
+  {
+    "region_id": "LG-82033",
+    "region_name": "Buttala PS",
+    "region_name_in_data": null,
+    "region_ent_type": "GND",
+    "occupied_housing_units": 17488
+  },
+  {
+    "region_id": "LG-82034",
+    "region_name": "Katharagama PS",
+    "region_name_in_data": null,
+    "region_ent_type": "GND",
+    "occupied_housing_units": 5324
+  },
+  {
+    "region_id": "LG-82035",
+    "region_name": "Madulla PS",
+    "region_name_in_data": null,
+    "region_ent_type": "GND",
+    "occupied_housing_units": 10309
+  },
+  {
+    "region_id": "LG-82036",
+    "region_name": "Medagama PS",
+    "region_name_in_data": null,
+    "region_ent_type": "GND",
+    "occupied_housing_units": 12316
+  },
+  {
+    "region_id": "LG-82037",
+    "region_name": "Moneragala PS",
+    "region_name_in_data": null,
+    "region_ent_type": "GND",
+    "occupied_housing_units": 15888
+  },
+  {
+    "region_id": "LG-82038",
+    "region_name": "Siyambalanduwa PS",
+    "region_name_in_data": null,
+    "region_ent_type": "GND",
+    "occupied_housing_units": 17784
+  },
+  {
+    "region_id": "LG-82039",
+    "region_name": "Thanamalvila PS",
+    "region_name_in_data": null,
+    "region_ent_type": "GND",
+    "occupied_housing_units": 23346
+  },
+  {
+    "region_id": "LG-82040",
+    "region_name": "Wellawaya PS",
+    "region_name_in_data": null,
+    "region_ent_type": "GND",
+    "occupied_housing_units": 21409
+  },
+  {
+    "region_id": "LG-91011",
+    "region_name": "Ratnapura MC/ Ratnapura PS",
+    "region_name_in_data": null,
+    "region_ent_type": "GND",
+    "occupied_housing_units": 15448
+  },
+  {
+    "region_id": "LG-91021",
+    "region_name": "Balangoda UC/ Imbulpe PS",
+    "region_name_in_data": null,
+    "region_ent_type": "GND",
+    "occupied_housing_units": 10226
+  },
+  {
+    "region_id": "LG-91022",
+    "region_name": "Embilipitiya UC",
+    "region_name_in_data": null,
+    "region_ent_type": "GND",
+    "occupied_housing_units": 11909
+  },
+  {
+    "region_id": "LG-91032",
+    "region_name": "Ayagama PS",
+    "region_name_in_data": null,
+    "region_ent_type": "GND",
+    "occupied_housing_units": 8847
+  },
+  {
+    "region_id": "LG-91033",
+    "region_name": "Balangoda PS",
+    "region_name_in_data": null,
+    "region_ent_type": "GND",
+    "occupied_housing_units": 15695
+  },
+  {
+    "region_id": "LG-91034",
+    "region_name": "Eheliyagoda PS",
+    "region_name_in_data": null,
+    "region_ent_type": "GND",
+    "occupied_housing_units": 20297
+  },
+  {
+    "region_id": "LG-91035",
+    "region_name": "Embilipitiya PS",
+    "region_name_in_data": null,
+    "region_ent_type": "GND",
+    "occupied_housing_units": 33843
+  },
+  {
+    "region_id": "LG-91036",
+    "region_name": "Imbulpe PS",
+    "region_name_in_data": null,
+    "region_ent_type": "GND",
+    "occupied_housing_units": 17275
+  },
+  {
+    "region_id": "LG-91037",
+    "region_name": "Kalawana PS",
+    "region_name_in_data": null,
+    "region_ent_type": "GND",
+    "occupied_housing_units": 15099
+  },
+  {
+    "region_id": "LG-91038",
+    "region_name": "Kolonna PS",
+    "region_name_in_data": null,
+    "region_ent_type": "GND",
+    "occupied_housing_units": 14773
+  },
+  {
+    "region_id": "LG-91039",
+    "region_name": "Kuruvita PS",
+    "region_name_in_data": null,
+    "region_ent_type": "GND",
+    "occupied_housing_units": 36520
+  },
+  {
+    "region_id": "LG-91040",
+    "region_name": "Nivithigala PS",
+    "region_name_in_data": null,
+    "region_ent_type": "GND",
+    "occupied_housing_units": 27426
+  },
+  {
+    "region_id": "LG-91041",
+    "region_name": "Pelmadulla PS",
+    "region_name_in_data": null,
+    "region_ent_type": "GND",
+    "occupied_housing_units": 25397
+  },
+  {
+    "region_id": "LG-91042",
+    "region_name": "Ratnapura PS",
+    "region_name_in_data": null,
+    "region_ent_type": "GND",
+    "occupied_housing_units": 18454
+  },
+  {
+    "region_id": "LG-91043",
+    "region_name": "Weligepola PS",
+    "region_name_in_data": null,
+    "region_ent_type": "GND",
+    "occupied_housing_units": 18700
+  },
+  {
+    "region_id": "LG-91044",
+    "region_name": "Godakawela PS",
+    "region_name_in_data": null,
+    "region_ent_type": "GND",
+    "occupied_housing_units": 22586
+  },
+  {
+    "region_id": "LG-91045",
+    "region_name": "Kahawatta PS",
+    "region_name_in_data": null,
+    "region_ent_type": "GND",
+    "occupied_housing_units": 12358
+  },
+  {
+    "region_id": "LG-92011",
+    "region_name": "Kegalle MC",
+    "region_name_in_data": null,
+    "region_ent_type": "GND",
+    "occupied_housing_units": 4438
+  },
+  {
+    "region_id": "LG-92031",
+    "region_name": "Aranayaka  PS",
+    "region_name_in_data": null,
+    "region_ent_type": "GND",
+    "occupied_housing_units": 19811
+  },
+  {
+    "region_id": "LG-92032",
+    "region_name": "Dehiovita PS",
+    "region_name_in_data": null,
+    "region_ent_type": "GND",
+    "occupied_housing_units": 23238
+  },
+  {
     "region_id": "LG-92033",
     "region_name": "Deraniyagala PS",
     "region_name_in_data": null,
     "region_ent_type": "GND",
     "occupied_housing_units": 12972
+  },
+  {
+    "region_id": "LG-92034",
+    "region_name": "Galigamuwa PS",
+    "region_name_in_data": null,
+    "region_ent_type": "GND",
+    "occupied_housing_units": 21095
+  },
+  {
+    "region_id": "LG-92035",
+    "region_name": "Kegalle PS",
+    "region_name_in_data": null,
+    "region_ent_type": "GND",
+    "occupied_housing_units": 22094
+  },
+  {
+    "region_id": "LG-92036",
+    "region_name": "Mawanella PS",
+    "region_name_in_data": null,
+    "region_ent_type": "GND",
+    "occupied_housing_units": 33009
+  },
+  {
+    "region_id": "LG-92037",
+    "region_name": "Rambukkana PS",
+    "region_name_in_data": null,
+    "region_ent_type": "GND",
+    "occupied_housing_units": 24601
+  },
+  {
+    "region_id": "LG-92038",
+    "region_name": "Ruwanwella  PS",
+    "region_name_in_data": null,
+    "region_ent_type": "GND",
+    "occupied_housing_units": 18290
+  },
+  {
+    "region_id": "LG-92039",
+    "region_name": "Warakapola PS",
+    "region_name_in_data": null,
+    "region_ent_type": "GND",
+    "occupied_housing_units": 32191
+  },
+  {
+    "region_id": "LG-92040",
+    "region_name": "Yatiyanthota PS",
+    "region_name_in_data": null,
+    "region_ent_type": "GND",
+    "occupied_housing_units": 17393
+  },
+  {
+    "region_id": "LG-92041",
+    "region_name": "Bulathkohupitiya PS",
+    "region_name_in_data": null,
+    "region_ent_type": "GND",
+    "occupied_housing_units": 12895
   },
   {
     "region_id": "LK",
@@ -96614,13 +100373,6 @@
     "occupied_housing_units": 242027
   },
   {
-    "region_id": "LK-92",
-    "region_name": "Kegalle",
-    "region_name_in_data": "Kegalle",
-    "region_ent_type": "DISTRICT",
-    "occupied_housing_units": 242027
-  },
-  {
     "region_id": "LK-9203",
     "region_name": "Rambukkana",
     "region_name_in_data": "Rambukkana",
@@ -100289,20 +104041,6 @@
     "occupied_housing_units": 1197
   },
   {
-    "region_id": "LK-9230030",
-    "region_name": "Walpola",
-    "region_name_in_data": "Walpola",
-    "region_ent_type": "GND",
-    "occupied_housing_units": 1197
-  },
-  {
-    "region_id": "LK-9230035",
-    "region_name": "Boralankada",
-    "region_name_in_data": "Boralankada",
-    "region_ent_type": "GND",
-    "occupied_housing_units": 657
-  },
-  {
     "region_id": "LK-9230035",
     "region_name": "Boralankada",
     "region_name_in_data": "Boralankada",
@@ -100315,20 +104053,6 @@
     "region_name_in_data": "Dikella",
     "region_ent_type": "GND",
     "occupied_housing_units": 907
-  },
-  {
-    "region_id": "LK-9230040",
-    "region_name": "Dikella",
-    "region_name_in_data": "Dikella",
-    "region_ent_type": "GND",
-    "occupied_housing_units": 907
-  },
-  {
-    "region_id": "LK-9230045",
-    "region_name": "Kahanavita",
-    "region_name_in_data": "Kahanwita",
-    "region_ent_type": "GND",
-    "occupied_housing_units": 408
   },
   {
     "region_id": "LK-9230045",
@@ -100422,32 +104146,11 @@
     "occupied_housing_units": 484
   },
   {
-    "region_id": "LK-9230105",
-    "region_name": "Algoda",
-    "region_name_in_data": "Algoda",
-    "region_ent_type": "GND",
-    "occupied_housing_units": 484
-  },
-  {
     "region_id": "LK-9230110",
     "region_name": "Hinguralakanda East",
     "region_name_in_data": "Hinguralakanda East",
     "region_ent_type": "GND",
     "occupied_housing_units": 305
-  },
-  {
-    "region_id": "LK-9230110",
-    "region_name": "Hinguralakanda East",
-    "region_name_in_data": "Hinguralakanda East",
-    "region_ent_type": "GND",
-    "occupied_housing_units": 305
-  },
-  {
-    "region_id": "LK-9230115",
-    "region_name": "Batangala",
-    "region_name_in_data": "Batangala",
-    "region_ent_type": "GND",
-    "occupied_housing_units": 744
   },
   {
     "region_id": "LK-9230115",
@@ -100464,32 +104167,11 @@
     "occupied_housing_units": 389
   },
   {
-    "region_id": "LK-9230120",
-    "region_name": "Viharakanda",
-    "region_name_in_data": "Viharakanda",
-    "region_ent_type": "GND",
-    "occupied_housing_units": 389
-  },
-  {
     "region_id": "LK-9230125",
     "region_name": "Galabalana Kanda",
     "region_name_in_data": "Galabalana Kanda",
     "region_ent_type": "GND",
     "occupied_housing_units": 439
-  },
-  {
-    "region_id": "LK-9230125",
-    "region_name": "Galabalana Kanda",
-    "region_name_in_data": "Galabalana Kanda",
-    "region_ent_type": "GND",
-    "occupied_housing_units": 439
-  },
-  {
-    "region_id": "LK-9230130",
-    "region_name": "Maniyangama",
-    "region_name_in_data": "Maniyangama",
-    "region_ent_type": "GND",
-    "occupied_housing_units": 554
   },
   {
     "region_id": "LK-9230130",
@@ -100506,32 +104188,11 @@
     "occupied_housing_units": 1049
   },
   {
-    "region_id": "LK-9230135",
-    "region_name": "Madola",
-    "region_name_in_data": "Madola",
-    "region_ent_type": "GND",
-    "occupied_housing_units": 1049
-  },
-  {
     "region_id": "LK-9230140",
     "region_name": "Welangalla",
     "region_name_in_data": "Welangalla",
     "region_ent_type": "GND",
     "occupied_housing_units": 757
-  },
-  {
-    "region_id": "LK-9230140",
-    "region_name": "Welangalla",
-    "region_name_in_data": "Welangalla",
-    "region_ent_type": "GND",
-    "occupied_housing_units": 757
-  },
-  {
-    "region_id": "LK-9230145",
-    "region_name": "Bomaluwa",
-    "region_name_in_data": "Bomaluwa",
-    "region_ent_type": "GND",
-    "occupied_housing_units": 355
   },
   {
     "region_id": "LK-9230145",
@@ -100548,32 +104209,11 @@
     "occupied_housing_units": 789
   },
   {
-    "region_id": "LK-9230150",
-    "region_name": "Rangegama",
-    "region_name_in_data": "Rangegama",
-    "region_ent_type": "GND",
-    "occupied_housing_units": 789
-  },
-  {
     "region_id": "LK-9230155",
     "region_name": "Panawala",
     "region_name_in_data": "Panawala",
     "region_ent_type": "GND",
     "occupied_housing_units": 614
-  },
-  {
-    "region_id": "LK-9230155",
-    "region_name": "Panawala",
-    "region_name_in_data": "Panawala",
-    "region_ent_type": "GND",
-    "occupied_housing_units": 614
-  },
-  {
-    "region_id": "LK-9230160",
-    "region_name": "Hinguralakanda West",
-    "region_name_in_data": "Hinguralakanda West",
-    "region_ent_type": "GND",
-    "occupied_housing_units": 562
   },
   {
     "region_id": "LK-9230160",
@@ -100590,32 +104230,11 @@
     "occupied_housing_units": 465
   },
   {
-    "region_id": "LK-9230165",
-    "region_name": "Pukunuwala",
-    "region_name_in_data": "Pukunuwala",
-    "region_ent_type": "GND",
-    "occupied_housing_units": 465
-  },
-  {
     "region_id": "LK-9230170",
     "region_name": "Godagampala",
     "region_name_in_data": "Godagampala",
     "region_ent_type": "GND",
     "occupied_housing_units": 487
-  },
-  {
-    "region_id": "LK-9230170",
-    "region_name": "Godagampala",
-    "region_name_in_data": "Godagampala",
-    "region_ent_type": "GND",
-    "occupied_housing_units": 487
-  },
-  {
-    "region_id": "LK-9230175",
-    "region_name": "Ambalampitiya",
-    "region_name_in_data": "Ambalampitiya",
-    "region_ent_type": "GND",
-    "occupied_housing_units": 449
   },
   {
     "region_id": "LK-9230175",
@@ -100632,20 +104251,6 @@
     "occupied_housing_units": 222
   },
   {
-    "region_id": "LK-9230180",
-    "region_name": "Madagammana",
-    "region_name_in_data": "Madagammana",
-    "region_ent_type": "GND",
-    "occupied_housing_units": 222
-  },
-  {
-    "region_id": "LK-9230185",
-    "region_name": "Pannila",
-    "region_name_in_data": "Pannila",
-    "region_ent_type": "GND",
-    "occupied_housing_units": 428
-  },
-  {
     "region_id": "LK-9230185",
     "region_name": "Pannila",
     "region_name_in_data": "Pannila",
@@ -100658,20 +104263,6 @@
     "region_name_in_data": "Imbulpitiya",
     "region_ent_type": "GND",
     "occupied_housing_units": 424
-  },
-  {
-    "region_id": "LK-9230190",
-    "region_name": "Imbulpitiya",
-    "region_name_in_data": "Imbulpitiya",
-    "region_ent_type": "GND",
-    "occupied_housing_units": 424
-  },
-  {
-    "region_id": "LK-9230195",
-    "region_name": "Elavulla",
-    "region_name_in_data": "Elavulla",
-    "region_ent_type": "GND",
-    "occupied_housing_units": 397
   },
   {
     "region_id": "LK-9230195",
@@ -100695,53 +104286,11 @@
     "occupied_housing_units": 195
   },
   {
-    "region_id": "LK-9233005",
-    "region_name": "Ballahela",
-    "region_name_in_data": "Ballahela",
-    "region_ent_type": "GND",
-    "occupied_housing_units": 195
-  },
-  {
-    "region_id": "LK-9233005",
-    "region_name": "Ballahela",
-    "region_name_in_data": "Ballahela",
-    "region_ent_type": "GND",
-    "occupied_housing_units": 195
-  },
-  {
     "region_id": "LK-9233010",
     "region_name": "Behenella",
     "region_name_in_data": "Behenella",
     "region_ent_type": "GND",
     "occupied_housing_units": 413
-  },
-  {
-    "region_id": "LK-9233010",
-    "region_name": "Behenella",
-    "region_name_in_data": "Behenella",
-    "region_ent_type": "GND",
-    "occupied_housing_units": 413
-  },
-  {
-    "region_id": "LK-9233010",
-    "region_name": "Behenella",
-    "region_name_in_data": "Behenella",
-    "region_ent_type": "GND",
-    "occupied_housing_units": 413
-  },
-  {
-    "region_id": "LK-9233015",
-    "region_name": "Nilwala",
-    "region_name_in_data": "Nilwala",
-    "region_ent_type": "GND",
-    "occupied_housing_units": 348
-  },
-  {
-    "region_id": "LK-9233015",
-    "region_name": "Nilwala",
-    "region_name_in_data": "Nilwala",
-    "region_ent_type": "GND",
-    "occupied_housing_units": 348
   },
   {
     "region_id": "LK-9233015",
@@ -100758,53 +104307,11 @@
     "occupied_housing_units": 600
   },
   {
-    "region_id": "LK-9233020",
-    "region_name": "Dodawatta",
-    "region_name_in_data": "Dodawatta",
-    "region_ent_type": "GND",
-    "occupied_housing_units": 600
-  },
-  {
-    "region_id": "LK-9233020",
-    "region_name": "Dodawatta",
-    "region_name_in_data": "Dodawatta",
-    "region_ent_type": "GND",
-    "occupied_housing_units": 600
-  },
-  {
     "region_id": "LK-9233025",
     "region_name": "Basnagala",
     "region_name_in_data": "Basnagala",
     "region_ent_type": "GND",
     "occupied_housing_units": 592
-  },
-  {
-    "region_id": "LK-9233025",
-    "region_name": "Basnagala",
-    "region_name_in_data": "Basnagala",
-    "region_ent_type": "GND",
-    "occupied_housing_units": 592
-  },
-  {
-    "region_id": "LK-9233025",
-    "region_name": "Basnagala",
-    "region_name_in_data": "Basnagala",
-    "region_ent_type": "GND",
-    "occupied_housing_units": 592
-  },
-  {
-    "region_id": "LK-9233030",
-    "region_name": "Keerihena",
-    "region_name_in_data": "Keerihena",
-    "region_ent_type": "GND",
-    "occupied_housing_units": 254
-  },
-  {
-    "region_id": "LK-9233030",
-    "region_name": "Keerihena",
-    "region_name_in_data": "Keerihena",
-    "region_ent_type": "GND",
-    "occupied_housing_units": 254
   },
   {
     "region_id": "LK-9233030",
@@ -100821,53 +104328,11 @@
     "occupied_housing_units": 531
   },
   {
-    "region_id": "LK-9233035",
-    "region_name": "Udabage",
-    "region_name_in_data": "Udabage",
-    "region_ent_type": "GND",
-    "occupied_housing_units": 531
-  },
-  {
-    "region_id": "LK-9233035",
-    "region_name": "Udabage",
-    "region_name_in_data": "Udabage",
-    "region_ent_type": "GND",
-    "occupied_housing_units": 531
-  },
-  {
     "region_id": "LK-9233040",
     "region_name": "Wattegedara",
     "region_name_in_data": "Wattegedara",
     "region_ent_type": "GND",
     "occupied_housing_units": 1179
-  },
-  {
-    "region_id": "LK-9233040",
-    "region_name": "Wattegedara",
-    "region_name_in_data": "Wattegedara",
-    "region_ent_type": "GND",
-    "occupied_housing_units": 1179
-  },
-  {
-    "region_id": "LK-9233040",
-    "region_name": "Wattegedara",
-    "region_name_in_data": "Wattegedara",
-    "region_ent_type": "GND",
-    "occupied_housing_units": 1179
-  },
-  {
-    "region_id": "LK-9233045",
-    "region_name": "Deraniyagala",
-    "region_name_in_data": "Deraniyagala",
-    "region_ent_type": "GND",
-    "occupied_housing_units": 890
-  },
-  {
-    "region_id": "LK-9233045",
-    "region_name": "Deraniyagala",
-    "region_name_in_data": "Deraniyagala",
-    "region_ent_type": "GND",
-    "occupied_housing_units": 890
   },
   {
     "region_id": "LK-9233045",
@@ -100884,53 +104349,11 @@
     "occupied_housing_units": 513
   },
   {
-    "region_id": "LK-9233050",
-    "region_name": "Lassegama",
-    "region_name_in_data": "Lassegama",
-    "region_ent_type": "GND",
-    "occupied_housing_units": 513
-  },
-  {
-    "region_id": "LK-9233050",
-    "region_name": "Lassegama",
-    "region_name_in_data": "Lassegama",
-    "region_ent_type": "GND",
-    "occupied_housing_units": 513
-  },
-  {
     "region_id": "LK-9233055",
     "region_name": "Anhettigama",
     "region_name_in_data": "Anhettigama",
     "region_ent_type": "GND",
     "occupied_housing_units": 388
-  },
-  {
-    "region_id": "LK-9233055",
-    "region_name": "Anhettigama",
-    "region_name_in_data": "Anhettigama",
-    "region_ent_type": "GND",
-    "occupied_housing_units": 388
-  },
-  {
-    "region_id": "LK-9233055",
-    "region_name": "Anhettigama",
-    "region_name_in_data": "Anhettigama",
-    "region_ent_type": "GND",
-    "occupied_housing_units": 388
-  },
-  {
-    "region_id": "LK-9233060",
-    "region_name": "Panakoora",
-    "region_name_in_data": "Panakoora",
-    "region_ent_type": "GND",
-    "occupied_housing_units": 338
-  },
-  {
-    "region_id": "LK-9233060",
-    "region_name": "Panakoora",
-    "region_name_in_data": "Panakoora",
-    "region_ent_type": "GND",
-    "occupied_housing_units": 338
   },
   {
     "region_id": "LK-9233060",
@@ -100947,53 +104370,11 @@
     "occupied_housing_units": 421
   },
   {
-    "region_id": "LK-9233065",
-    "region_name": "Pandaha",
-    "region_name_in_data": "Pandaha",
-    "region_ent_type": "GND",
-    "occupied_housing_units": 421
-  },
-  {
-    "region_id": "LK-9233065",
-    "region_name": "Pandaha",
-    "region_name_in_data": "Pandaha",
-    "region_ent_type": "GND",
-    "occupied_housing_units": 421
-  },
-  {
     "region_id": "LK-9233070",
     "region_name": "Polgaswatta",
     "region_name_in_data": "Polgaswatta",
     "region_ent_type": "GND",
     "occupied_housing_units": 383
-  },
-  {
-    "region_id": "LK-9233070",
-    "region_name": "Polgaswatta",
-    "region_name_in_data": "Polgaswatta",
-    "region_ent_type": "GND",
-    "occupied_housing_units": 383
-  },
-  {
-    "region_id": "LK-9233070",
-    "region_name": "Polgaswatta",
-    "region_name_in_data": "Polgaswatta",
-    "region_ent_type": "GND",
-    "occupied_housing_units": 383
-  },
-  {
-    "region_id": "LK-9233075",
-    "region_name": "Maliboda",
-    "region_name_in_data": "Maliboda",
-    "region_ent_type": "GND",
-    "occupied_housing_units": 534
-  },
-  {
-    "region_id": "LK-9233075",
-    "region_name": "Maliboda",
-    "region_name_in_data": "Maliboda",
-    "region_ent_type": "GND",
-    "occupied_housing_units": 534
   },
   {
     "region_id": "LK-9233075",
@@ -101010,53 +104391,11 @@
     "occupied_housing_units": 662
   },
   {
-    "region_id": "LK-9233080",
-    "region_name": "Poddenikanda",
-    "region_name_in_data": "Poddenikanda",
-    "region_ent_type": "GND",
-    "occupied_housing_units": 662
-  },
-  {
-    "region_id": "LK-9233080",
-    "region_name": "Poddenikanda",
-    "region_name_in_data": "Poddenikanda",
-    "region_ent_type": "GND",
-    "occupied_housing_units": 662
-  },
-  {
     "region_id": "LK-9233085",
     "region_name": "Nakkavita",
     "region_name_in_data": "Nakkavita",
     "region_ent_type": "GND",
     "occupied_housing_units": 387
-  },
-  {
-    "region_id": "LK-9233085",
-    "region_name": "Nakkavita",
-    "region_name_in_data": "Nakkavita",
-    "region_ent_type": "GND",
-    "occupied_housing_units": 387
-  },
-  {
-    "region_id": "LK-9233085",
-    "region_name": "Nakkavita",
-    "region_name_in_data": "Nakkavita",
-    "region_ent_type": "GND",
-    "occupied_housing_units": 387
-  },
-  {
-    "region_id": "LK-9233090",
-    "region_name": "Miyanavita",
-    "region_name_in_data": "Miyanawita",
-    "region_ent_type": "GND",
-    "occupied_housing_units": 612
-  },
-  {
-    "region_id": "LK-9233090",
-    "region_name": "Miyanavita",
-    "region_name_in_data": "Miyanawita",
-    "region_ent_type": "GND",
-    "occupied_housing_units": 612
   },
   {
     "region_id": "LK-9233090",
@@ -101073,53 +104412,11 @@
     "occupied_housing_units": 862
   },
   {
-    "region_id": "LK-9233095",
-    "region_name": "Deraniyagala South",
-    "region_name_in_data": "Deraniyagala South",
-    "region_ent_type": "GND",
-    "occupied_housing_units": 862
-  },
-  {
-    "region_id": "LK-9233095",
-    "region_name": "Deraniyagala South",
-    "region_name_in_data": "Deraniyagala South",
-    "region_ent_type": "GND",
-    "occupied_housing_units": 862
-  },
-  {
     "region_id": "LK-9233100",
     "region_name": "Rasnakkanda",
     "region_name_in_data": "Rasnakkanda",
     "region_ent_type": "GND",
     "occupied_housing_units": 394
-  },
-  {
-    "region_id": "LK-9233100",
-    "region_name": "Rasnakkanda",
-    "region_name_in_data": "Rasnakkanda",
-    "region_ent_type": "GND",
-    "occupied_housing_units": 394
-  },
-  {
-    "region_id": "LK-9233100",
-    "region_name": "Rasnakkanda",
-    "region_name_in_data": "Rasnakkanda",
-    "region_ent_type": "GND",
-    "occupied_housing_units": 394
-  },
-  {
-    "region_id": "LK-9233105",
-    "region_name": "Udapola",
-    "region_name_in_data": "Udapola",
-    "region_ent_type": "GND",
-    "occupied_housing_units": 550
-  },
-  {
-    "region_id": "LK-9233105",
-    "region_name": "Udapola",
-    "region_name_in_data": "Udapola",
-    "region_ent_type": "GND",
-    "occupied_housing_units": 550
   },
   {
     "region_id": "LK-9233105",
@@ -101136,34 +104433,6 @@
     "occupied_housing_units": 270
   },
   {
-    "region_id": "LK-9233110",
-    "region_name": "Demeda",
-    "region_name_in_data": "Demeda",
-    "region_ent_type": "GND",
-    "occupied_housing_units": 270
-  },
-  {
-    "region_id": "LK-9233110",
-    "region_name": "Demeda",
-    "region_name_in_data": "Demeda",
-    "region_ent_type": "GND",
-    "occupied_housing_units": 270
-  },
-  {
-    "region_id": "LK-9233115",
-    "region_name": "Kosgahakanda",
-    "region_name_in_data": "Kosgahakanda",
-    "region_ent_type": "GND",
-    "occupied_housing_units": 666
-  },
-  {
-    "region_id": "LK-9233115",
-    "region_name": "Kosgahakanda",
-    "region_name_in_data": "Kosgahakanda",
-    "region_ent_type": "GND",
-    "occupied_housing_units": 666
-  },
-  {
     "region_id": "LK-9233115",
     "region_name": "Kosgahakanda",
     "region_name_in_data": "Kosgahakanda",
@@ -101178,53 +104447,11 @@
     "occupied_housing_units": 506
   },
   {
-    "region_id": "LK-9233120",
-    "region_name": "Yatiwala",
-    "region_name_in_data": "Yatiwala",
-    "region_ent_type": "GND",
-    "occupied_housing_units": 506
-  },
-  {
-    "region_id": "LK-9233120",
-    "region_name": "Yatiwala",
-    "region_name_in_data": "Yatiwala",
-    "region_ent_type": "GND",
-    "occupied_housing_units": 506
-  },
-  {
     "region_id": "LK-9233125",
     "region_name": "Magala",
     "region_name_in_data": "Magala",
     "region_ent_type": "GND",
     "occupied_housing_units": 298
-  },
-  {
-    "region_id": "LK-9233125",
-    "region_name": "Magala",
-    "region_name_in_data": "Magala",
-    "region_ent_type": "GND",
-    "occupied_housing_units": 298
-  },
-  {
-    "region_id": "LK-9233125",
-    "region_name": "Magala",
-    "region_name_in_data": "Magala",
-    "region_ent_type": "GND",
-    "occupied_housing_units": 298
-  },
-  {
-    "region_id": "LK-9233130",
-    "region_name": "Dikellakanda",
-    "region_name_in_data": "Dikellakanda",
-    "region_ent_type": "GND",
-    "occupied_housing_units": 186
-  },
-  {
-    "region_id": "LK-9233130",
-    "region_name": "Dikellakanda",
-    "region_name_in_data": "Dikellakanda",
-    "region_ent_type": "GND",
-    "occupied_housing_units": 186
   },
   {
     "region_id": "LK-9233130",

@@ -21,7 +21,7 @@ For each category, the District with the highest and lowest share (% of that reg
 
 | Category | Highest District | Share | Lowest District | Share |
 |----------|---------|------:|---------|------:|
-| Sex Male | Monaragala | 49.5% | Batticaloa | 46.8% |
+| Sex Male | Moneragala | 49.5% | Batticaloa | 46.8% |
 | Sex Female | Batticaloa | 53.2% | Monaragala | 50.5% |
 | Age Under 15 | Trincomalee | 26.1% | Colombo | 16.5% |
 | Age 15 To 59 | Kilinochchi | 64.7% | Matara | 58.9% |
@@ -32,12 +32,12 @@ For each category, the District with the highest and lowest share (% of that reg
 
 Regions with an unusually high or low share of a category (≥ 2 standard deviations from the district mean).
 
-- 🔻 **Batticaloa** — Sex Male: **46.8%** vs district avg 48.3% (z = -2.3)
-- 🔺 **Batticaloa** — Sex Female: **53.2%** vs district avg 51.7% (z = +2.3)
-- 🔻 **Colombo** — Age Under 15: **16.5%** vs district avg 21.6% (z = -2.3)
-- 🔻 **Kilinochchi** — Age 60 To 64: **3.8%** vs district avg 5.2% (z = -2.2)
-- 🔺 **Kilinochchi** — Age 15 To 59: **64.7%** vs district avg 61.2% (z = +2.0)
-- 🔺 **Trincomalee** — Age Under 15: **26.1%** vs district avg 21.6% (z = +2.0)
+- 🔻 **Kilinochchi** — Age 60 To 64: **3.8%** vs district avg 5.2% (z = -2.5)
+- 🔺 **Batticaloa** — Sex Female: **53.2%** vs district avg 51.7% (z = +2.4)
+- 🔻 **Batticaloa** — Sex Male: **46.8%** vs district avg 48.3% (z = -2.4)
+- 🔻 **Colombo** — Age Under 15: **16.5%** vs district avg 21.7% (z = -2.3)
+- 🔺 **Kilinochchi** — Age 15 To 59: **64.7%** vs district avg 61.2% (z = +2.2)
+- 🔻 **Mullaitivu** — Age 60 To 64: **4.0%** vs district avg 5.2% (z = -2.1)
 
 ---
-*Data covers **376** rows down to **dsd** level (339 dsds).*
+*Data covers **396** rows down to **dsd** level (339 dsds).*

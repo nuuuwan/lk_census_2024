@@ -17,15 +17,15 @@ For each category, the District with the highest and lowest share (% of that reg
 
 | Category | Highest District | Share | Lowest District | Share |
 |----------|---------|------:|---------|------:|
-| Male | Monaragala | 49.5% | Batticaloa | 46.8% |
+| Male | Moneragala | 49.5% | Batticaloa | 46.8% |
 | Female | Batticaloa | 53.2% | Monaragala | 50.5% |
 
 ## Outliers
 
 Regions with an unusually high or low share of a category (≥ 2 standard deviations from the district mean).
 
-- 🔻 **Batticaloa** — Male: **46.8%** vs district avg 48.3% (z = -2.3)
-- 🔺 **Batticaloa** — Female: **53.2%** vs district avg 51.7% (z = +2.3)
+- 🔺 **Batticaloa** — Female: **53.2%** vs district avg 51.7% (z = +2.4)
+- 🔻 **Batticaloa** — Male: **46.8%** vs district avg 48.3% (z = -2.4)
 
 ---
-*Data covers **14,462** rows down to **gnd** level (14,085 gnds).*
+*Data covers **14,923** rows down to **gnd** level (14,526 gnds).*
