@@ -1,7 +1,7 @@
 # 🇱🇰 Sri Lanka - Census of Population and Housing 2024
 
 ![CPH](https://img.shields.io/badge/CPH-2024-blue)
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--05--24_16:23:34-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--05--27_14:55:54-green)
 
 ## Original Source Documents
 
@@ -51,8 +51,8 @@ The following datasets have been extracted from the PDF source documents:
   - Kalmunai Tamil Division (`LK-52XX`)
 
 ⚠️ **2** known administrative entities have no corresponding row in data
-  - Welivitiya-Divitura (`LK-3130`)
   - Kalmunai (`LK-5224`)
+  - Welivitiya-Divitura (`LK-3130`)
 
 ### 02. [Population by ethnicity](data/Population-Preliminary-Report/Population-by-ethnicity)
 
@@ -466,6 +466,11 @@ The following datasets have been extracted from the XLSX source documents:
 
 #### Validation Errors
 
+⚠️ **39** GNDs in the reference gazetteer missing from this dataset (boundary differences)
+  - Medapihilla (`LK-2209125`)
+  - Kadawatha (`LK-2209130`)
+  - Galporugolla (`LK-2209135`)
+
 ⚠️ **4** GND IDs in this dataset not found in the reference gazetteer (boundary differences)
   - Kokuthoduvai South (`LK-4415095`)
   - Ellainagar (`LK-5115005`)
@@ -497,6 +502,11 @@ The following datasets have been extracted from the XLSX source documents:
 
 #### Validation Errors
 
+⚠️ **39** GNDs in the reference gazetteer missing from this dataset (boundary differences)
+  - Medapihilla (`LK-2209125`)
+  - Kadawatha (`LK-2209130`)
+  - Galporugolla (`LK-2209135`)
+
 ⚠️ **4** GND IDs in this dataset not found in the reference gazetteer (boundary differences)
   - Kokuthoduvai South (`LK-4415095`)
   - Ellainagar (`LK-5115005`)
@@ -524,6 +534,11 @@ The following datasets have been extracted from the XLSX source documents:
 
 #### Validation Errors
 
+⚠️ **39** GNDs in the reference gazetteer missing from this dataset (boundary differences)
+  - Medapihilla (`LK-2209125`)
+  - Kadawatha (`LK-2209130`)
+  - Galporugolla (`LK-2209135`)
+
 ⚠️ **4** GND IDs in this dataset not found in the reference gazetteer (boundary differences)
   - Kokuthoduvai South (`LK-4415095`)
   - Ellainagar (`LK-5115005`)
@@ -550,6 +565,11 @@ The following datasets have been extracted from the XLSX source documents:
 **14,383** rows in total, by Country (1), Province (9), District (25), Dsd (340), Gnd (14,008)
 
 #### Validation Errors
+
+⚠️ **39** GNDs in the reference gazetteer missing from this dataset (boundary differences)
+  - Medapihilla (`LK-2209125`)
+  - Kadawatha (`LK-2209130`)
+  - Galporugolla (`LK-2209135`)
 
 ⚠️ **4** GND IDs in this dataset not found in the reference gazetteer (boundary differences)
   - Kokuthoduvai South (`LK-4415095`)
@@ -592,6 +612,11 @@ The following datasets have been extracted from the XLSX source documents:
 
 #### Validation Errors
 
+⚠️ **39** GNDs in the reference gazetteer missing from this dataset (boundary differences)
+  - Medapihilla (`LK-2209125`)
+  - Kadawatha (`LK-2209130`)
+  - Galporugolla (`LK-2209135`)
+
 ⚠️ **4** GND IDs in this dataset not found in the reference gazetteer (boundary differences)
   - Kokuthoduvai South (`LK-4415095`)
   - Ellainagar (`LK-5115005`)
@@ -626,6 +651,11 @@ The following datasets have been extracted from the XLSX source documents:
 
 #### Validation Errors
 
+⚠️ **39** GNDs in the reference gazetteer missing from this dataset (boundary differences)
+  - Medapihilla (`LK-2209125`)
+  - Kadawatha (`LK-2209130`)
+  - Galporugolla (`LK-2209135`)
+
 ⚠️ **4** GND IDs in this dataset not found in the reference gazetteer (boundary differences)
   - Kokuthoduvai South (`LK-4415095`)
   - Ellainagar (`LK-5115005`)
@@ -659,6 +689,11 @@ The following datasets have been extracted from the XLSX source documents:
 
 #### Validation Errors
 
+⚠️ **39** GNDs in the reference gazetteer missing from this dataset (boundary differences)
+  - Medapihilla (`LK-2209125`)
+  - Kadawatha (`LK-2209130`)
+  - Galporugolla (`LK-2209135`)
+
 ⚠️ **4** GND IDs in this dataset not found in the reference gazetteer (boundary differences)
   - Kokuthoduvai South (`LK-4415095`)
   - Ellainagar (`LK-5115005`)
@@ -691,6 +726,11 @@ The following datasets have been extracted from the XLSX source documents:
 **14,383** rows in total, by Country (1), Province (9), District (25), Dsd (340), Gnd (14,008)
 
 #### Validation Errors
+
+⚠️ **39** GNDs in the reference gazetteer missing from this dataset (boundary differences)
+  - Medapihilla (`LK-2209125`)
+  - Kadawatha (`LK-2209130`)
+  - Galporugolla (`LK-2209135`)
 
 ⚠️ **4** GND IDs in this dataset not found in the reference gazetteer (boundary differences)
   - Kokuthoduvai South (`LK-4415095`)

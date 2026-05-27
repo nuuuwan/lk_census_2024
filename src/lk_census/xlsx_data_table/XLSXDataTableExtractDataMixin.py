@@ -5,9 +5,8 @@ import openpyxl
 from gig import Ent, EntType
 from utils import JSONFile, Log, TSVFile
 
-from lk_census.xlsx_data_table.XLSXDataTableValidateMixin import (
-    XLSXDataTableValidateMixin,
-)
+from lk_census.xlsx_data_table.XLSXDataTableValidateMixin import \
+    XLSXDataTableValidateMixin
 
 log = Log("XLSXDataTable")
 
@@ -57,10 +56,8 @@ class XLSXDataTableExtractDataMixin(XLSXDataTableValidateMixin):
             for i, field in enumerate(self.field_list)
         }
 
-    def __build_all_levels__(self, raw_rows):
-        # Accumulators: region_id → {field: sum}
+    def _get_sums_by_id_and_raw_names_(self, raw_rows):
         sums = defaultdict(lambda: defaultdict(int))
-        # Canonical name fallbacks from raw data
         raw_names = {}
 
         for row in raw_rows:
@@ -94,6 +91,9 @@ class XLSXDataTableExtractDataMixin(XLSXDataTableValidateMixin):
                     sums[rid][field] += val
                 raw_names.setdefault(rid, (ent_type, fallbacks[ent_type]))
 
+        return sums, raw_names
+
+    def _build_d_list_for_existing_types_(self, sums, raw_names):
         d_list = []
         for region_id, field_sums in sums.items():
             ent_type, fallback_name = raw_names[region_id]
@@ -110,6 +110,10 @@ class XLSXDataTableExtractDataMixin(XLSXDataTableValidateMixin):
         d_list.sort(key=lambda x: x["region_id"])
         return d_list
 
+    def _build_all_levels_(self, raw_rows):
+        sums, raw_names = self._get_sums_by_id_and_raw_names_(raw_rows)
+        return self._build_d_list_for_existing_types_(sums, raw_names)
+
     @property
     def json_path(self):
         return os.path.join(self.dir_table, "data.json")
@@ -122,7 +126,7 @@ class XLSXDataTableExtractDataMixin(XLSXDataTableValidateMixin):
         log.debug("-" * 40)
         log.info("Extracting data for " + self.name_safe)
         raw_rows = self.__extract_raw_rows__()
-        d_list = self.__build_all_levels__(raw_rows)
+        d_list = self._build_all_levels_(raw_rows)
         self.validate(d_list)
         os.makedirs(self.dir_table, exist_ok=True)
         JSONFile(self.json_path).write(d_list)

@@ -3,16 +3,16 @@ import os
 from gig import Ent, EntType
 from utils import JSONFile, Log, TSVFile
 
-from lk_census.pdf_data_table.PDFDataTableExtractDataCleanerMixin import (
-    PDFDataTableExtractDataCleanerMixin,
-)
-from lk_census.pdf_data_table.PDFDataTableExtractDataValidateMixin import (
-    PDFDataTableExtractDataValidateMixin,
-)
+from lk_census.pdf_data_table.PDFDataTableExtractDataCleanerMixin import \
+    PDFDataTableExtractDataCleanerMixin
+from lk_census.pdf_data_table.PDFDataTableExtractDataValidateMixin import \
+    PDFDataTableExtractDataValidateMixin
 
 log = Log("PDFDataTable")
 
-_PROVINCE_BY_ID = {ent.id: ent for ent in Ent.list_from_type(EntType.PROVINCE)}
+_PROVINCE_BY_ID = {
+    ent.id: ent for ent in Ent.list_from_type(EntType.PROVINCE)
+}
 
 
 class PDFDataTableExtractDataMixin(
@@ -71,8 +71,10 @@ class PDFDataTableExtractDataMixin(
         if ent_type == EntType.DISTRICT:
             region_name = region_name.replace("District", "").strip()
             current_parent_id = "LK"
-        region_id, region_name = PDFDataTableExtractDataMixin.__get_ent_data__(
-            region_name, ent_type, current_parent_id
+        region_id, region_name = (
+            PDFDataTableExtractDataMixin.__get_ent_data__(
+                region_name, ent_type, current_parent_id
+            )
         )
 
         if ent_type in [EntType.COUNTRY, EntType.DISTRICT]:

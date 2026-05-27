@@ -5,12 +5,10 @@ from dataclasses import dataclass
 from utils import Log
 
 from lk_census.original_doc.OriginalDoc import OriginalDoc
-from lk_census.pdf_data_table.PDFDataTableExtractDataMixin import (
-    PDFDataTableExtractDataMixin,
-)
-from lk_census.pdf_data_table.PDFDataTableLoaderMixin import (
-    PDFDataTableLoaderMixin,
-)
+from lk_census.pdf_data_table.PDFDataTableExtractDataMixin import \
+    PDFDataTableExtractDataMixin
+from lk_census.pdf_data_table.PDFDataTableLoaderMixin import \
+    PDFDataTableLoaderMixin
 from lk_census.pdf_data_table.PDFDataTablePDFMixin import PDFDataTablePDFMixin
 
 log = Log("PDFDataTable")

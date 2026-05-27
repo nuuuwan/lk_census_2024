@@ -4,12 +4,10 @@ from dataclasses import dataclass
 
 from utils import Log
 
-from lk_census.xlsx_data_table.XLSXDataTableExtractDataMixin import (
-    XLSXDataTableExtractDataMixin,
-)
-from lk_census.xlsx_data_table.XLSXDataTableLoaderMixin import (
-    XLSXDataTableLoaderMixin,
-)
+from lk_census.xlsx_data_table.XLSXDataTableExtractDataMixin import \
+    XLSXDataTableExtractDataMixin
+from lk_census.xlsx_data_table.XLSXDataTableLoaderMixin import \
+    XLSXDataTableLoaderMixin
 
 log = Log("XLSXDataTable")
 

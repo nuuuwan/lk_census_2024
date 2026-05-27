@@ -33,7 +33,9 @@ def read_tsv(path: str) -> list[dict]:
 
 def data_cols(headers: list[str]) -> list[str]:
     return [
-        c for c in headers if c not in META_COLS and c.lower() not in SKIP_COLS
+        c
+        for c in headers
+        if c not in META_COLS and c.lower() not in SKIP_COLS
     ]
 
 
@@ -107,7 +109,7 @@ def build_readme(folder: str, rows: list[dict]) -> str:
     title = title_from_path(folder)
     lines += [f"# {title} — Sri Lanka Census 2024", ""]
 
-    # ── National summary ──────────────────────────────────────────────────────
+    # ── National summary ────────────────────────────────────────────────────
     lines += ["## National Summary", ""]
     nat_total = row_total(country, dcols) if country else 0.0
 
@@ -140,7 +142,7 @@ def build_readme(folder: str, rows: list[dict]) -> str:
     else:
         lines += ["*(No national-level row available.)*", ""]
 
-    # ── Per-field leaders ─────────────────────────────────────────────────────
+    # ── Per-field leaders ───────────────────────────────────────────────────
     analysis_rows, analysis_level = best_analysis_rows(rows)
 
     if analysis_rows and cat_cols:
@@ -177,10 +179,11 @@ def build_readme(folder: str, rows: list[dict]) -> str:
             )
         lines.append("")
 
-    # ── Outlier analysis ──────────────────────────────────────────────────────
+    # ── Outlier analysis ────────────────────────────────────────────────────
     if analysis_rows and cat_cols:
         # For each category, compute mean & std of share across analysis_rows.
-        # Collect (z_score, region_name, col, share, direction) for significant outliers.
+        # Collect (z_score, region_name, col, share, direction) for significant
+        # outliers.
         outliers = []
         for c in cat_cols:
             shares = []
@@ -227,7 +230,7 @@ def build_readme(folder: str, rows: list[dict]) -> str:
                 shown += 1
             lines.append("")
 
-    # ── Coverage note ─────────────────────────────────────────────────────────
+    # ── Coverage note ───────────────────────────────────────────────────────
     lowest = lowest_ent_type(rows)
     n_lowest = len(rows_at(rows, lowest))
     lines += [
