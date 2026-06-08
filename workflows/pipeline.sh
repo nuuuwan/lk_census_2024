@@ -20,3 +20,8 @@ echo "[5/5] Building main README..."
 python3 workflows/readme_build.py
 
 echo "Done."
+
+git add data
+git add README.md
+
+git commit -m "Ran pipeline.sh"
