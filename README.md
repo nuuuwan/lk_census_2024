@@ -1,7 +1,7 @@
 # 🇱🇰 Sri Lanka - Census of Population and Housing 2024
 
 ![CPH](https://img.shields.io/badge/CPH-2024-blue)
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--06--07_17:41:33-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--06--08_13:28:10-green)
 
 ## Original Source Documents
 
@@ -47,11 +47,7 @@ The following datasets have been extracted from the PDF source documents:
 
 #### Validation Errors
 
-⚠️ **1** rows in data couldn't be matched to a known administrative entity
-  - Kalmunai Tamil Division (`LK-52XX`)
-
-⚠️ **2** known administrative entities have no corresponding row in data
-  - Kalmunai (`LK-5224`)
+⚠️ **1** known administrative entities have no corresponding row in data
   - Welivitiya-Divitura (`LK-3130`)
 
 ### 02. [Population by ethnicity](data/Population-Preliminary-Report/Population-by-ethnicity)
@@ -87,12 +83,6 @@ The following datasets have been extracted from the PDF source documents:
 
 #### Validation Errors
 
-⚠️ **1** rows in data couldn't be matched to a known administrative entity
-  - Kalmunai Tamil Division (`LK-52XX`)
-
-⚠️ **1** known administrative entities have no corresponding row in data
-  - Kalmunai (`LK-5224`)
-
 ⚠️ **3** rows where 'total' field doesn't equal sum of other fields
   - Jaffna (`EC-10`) — total: 731,461, sum of fields: 731,463
   - Northern (`LK-4`) — total: 1,150,148, sum of fields: 1,150,150
@@ -125,14 +115,6 @@ The following datasets have been extracted from the PDF source documents:
 
 **397** rows in total, by District (22), Country (1), Province (9), District (25), Dsd (340)
 
-#### Validation Errors
-
-⚠️ **1** rows in data couldn't be matched to a known administrative entity
-  - Kalmunai Tamil Division (`LK-52XX`)
-
-⚠️ **1** known administrative entities have no corresponding row in data
-  - Kalmunai (`LK-5224`)
-
 ### 04. [Number of housing units by housing unit structure](data/Housing-Preliminary-Report/Number-of-housing-units-by-housing-unit-structure)
 
 - [📄 JSON](data/Housing-Preliminary-Report/Number-of-housing-units-by-housing-unit-structure/data.json)
@@ -163,14 +145,6 @@ The following datasets have been extracted from the PDF source documents:
 ```
 
 **397** rows in total, by District (22), Country (1), Province (9), District (25), Dsd (340)
-
-#### Validation Errors
-
-⚠️ **1** rows in data couldn't be matched to a known administrative entity
-  - Kalmunai Tamil Division (`LK-52XX`)
-
-⚠️ **1** known administrative entities have no corresponding row in data
-  - Kalmunai (`LK-5224`)
 
 ### 05. [Number of housing units by main material used for walls construction](data/Housing-Preliminary-Report/Number-of-housing-units-by-main-material-used-for-walls-construction)
 
@@ -204,14 +178,6 @@ The following datasets have been extracted from the PDF source documents:
 
 **397** rows in total, by District (22), Country (1), Province (9), District (25), Dsd (340)
 
-#### Validation Errors
-
-⚠️ **1** rows in data couldn't be matched to a known administrative entity
-  - Kalmunai Tamil Division (`LK-52XX`)
-
-⚠️ **1** known administrative entities have no corresponding row in data
-  - Kalmunai (`LK-5224`)
-
 ### 06. [Number of housing units by main material used for roof construction](data/Housing-Preliminary-Report/Number-of-housing-units-by-main-material-used-for-roof-construction)
 
 - [📄 JSON](data/Housing-Preliminary-Report/Number-of-housing-units-by-main-material-used-for-roof-construction/data.json)
@@ -240,14 +206,6 @@ The following datasets have been extracted from the PDF source documents:
 ```
 
 **397** rows in total, by District (22), Country (1), Province (9), District (25), Dsd (340)
-
-#### Validation Errors
-
-⚠️ **1** rows in data couldn't be matched to a known administrative entity
-  - Kalmunai Tamil Division (`LK-52XX`)
-
-⚠️ **1** known administrative entities have no corresponding row in data
-  - Kalmunai (`LK-5224`)
 
 ### 07. [Number of households by main material used for floor construction](data/Housing-Preliminary-Report/Number-of-households-by-main-material-used-for-floor-construction)
 
@@ -278,14 +236,6 @@ The following datasets have been extracted from the PDF source documents:
 
 **397** rows in total, by District (22), Country (1), Province (9), District (25), Dsd (340)
 
-#### Validation Errors
-
-⚠️ **1** rows in data couldn't be matched to a known administrative entity
-  - Kalmunai Tamil Division (`LK-52XX`)
-
-⚠️ **1** known administrative entities have no corresponding row in data
-  - Kalmunai (`LK-5224`)
-
 ### 08. [Number of households by main source of energy/fuel used for cooking](data/Housing-Preliminary-Report/Number-of-households-by-main-source-of-energyfuel-used-for-cooking)
 
 - [📄 JSON](data/Housing-Preliminary-Report/Number-of-households-by-main-source-of-energyfuel-used-for-cooking/data.json)
@@ -314,14 +264,6 @@ The following datasets have been extracted from the PDF source documents:
 ```
 
 **397** rows in total, by District (22), Country (1), Province (9), District (25), Dsd (340)
-
-#### Validation Errors
-
-⚠️ **1** rows in data couldn't be matched to a known administrative entity
-  - Kalmunai Tamil Division (`LK-52XX`)
-
-⚠️ **1** known administrative entities have no corresponding row in data
-  - Kalmunai (`LK-5224`)
 
 ### 09. [Number of households by main source of drinking water](data/Housing-Preliminary-Report/Number-of-households-by-main-source-of-drinking-water)
 
@@ -359,14 +301,6 @@ The following datasets have been extracted from the PDF source documents:
 
 **397** rows in total, by District (22), Country (1), Province (9), District (25), Dsd (340)
 
-#### Validation Errors
-
-⚠️ **1** rows in data couldn't be matched to a known administrative entity
-  - Kalmunai Tamil Division (`LK-52XX`)
-
-⚠️ **1** known administrative entities have no corresponding row in data
-  - Kalmunai (`LK-5224`)
-
 ### 10. [Number of households by source of lighting](data/Housing-Preliminary-Report/Number-of-households-by-source-of-lighting)
 
 - [📄 JSON](data/Housing-Preliminary-Report/Number-of-households-by-source-of-lighting/data.json)
@@ -395,14 +329,6 @@ The following datasets have been extracted from the PDF source documents:
 
 **397** rows in total, by District (22), Country (1), Province (9), District (25), Dsd (340)
 
-#### Validation Errors
-
-⚠️ **1** rows in data couldn't be matched to a known administrative entity
-  - Kalmunai Tamil Division (`LK-52XX`)
-
-⚠️ **1** known administrative entities have no corresponding row in data
-  - Kalmunai (`LK-5224`)
-
 ### 11. [Number of households using toilet facilities](data/Housing-Preliminary-Report/Number-of-households-using-toilet-facilities)
 
 - [📄 JSON](data/Housing-Preliminary-Report/Number-of-households-using-toilet-facilities/data.json)
@@ -430,14 +356,6 @@ The following datasets have been extracted from the PDF source documents:
 ```
 
 **397** rows in total, by District (22), Country (1), Province (9), District (25), Dsd (340)
-
-#### Validation Errors
-
-⚠️ **1** rows in data couldn't be matched to a known administrative entity
-  - Kalmunai Tamil Division (`LK-52XX`)
-
-⚠️ **1** known administrative entities have no corresponding row in data
-  - Kalmunai (`LK-5224`)
 
 ## XLSX Data Tables (8)
 
