@@ -3221,6 +3221,20 @@
   },
   {
     "region_id": "LK-5221",
+    "region_name": "Kalmunai North",
+    "region_name_in_data": "Kalmunai North Sub",
+    "region_ent_type": "dsd",
+    "total": 8960,
+    "electricity-from_national_grid_or_from_rural_hydro_power_project": 8684,
+    "kerosene_lamp": 258,
+    "solar_power_grid_connected": 8,
+    "solar_power_standalone": 1,
+    "bio_gas": 1,
+    "rural_water_supply_project": 2,
+    "other": 6
+  },
+  {
+    "region_id": "LK-5224",
     "region_name": "Kalmunai",
     "region_name_in_data": "Kalmunai",
     "region_ent_type": "dsd",
@@ -3386,20 +3400,6 @@
     "bio_gas": 0,
     "rural_water_supply_project": 6,
     "other": 1
-  },
-  {
-    "region_id": "LK-52XX",
-    "region_name": "Kalmunai Tamil Division",
-    "region_name_in_data": "Kalmunai North Sub",
-    "region_ent_type": "dsd",
-    "total": 8960,
-    "electricity-from_national_grid_or_from_rural_hydro_power_project": 8684,
-    "kerosene_lamp": 258,
-    "solar_power_grid_connected": 8,
-    "solar_power_standalone": 1,
-    "bio_gas": 1,
-    "rural_water_supply_project": 2,
-    "other": 6
   },
   {
     "region_id": "LK-53",

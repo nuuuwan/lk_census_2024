@@ -3911,6 +3911,23 @@
   },
   {
     "region_id": "LK-5221",
+    "region_name": "Kalmunai North",
+    "region_name_in_data": "Kalmunai North Sub",
+    "region_ent_type": "dsd",
+    "total": 8675,
+    "single_house_single_storeyed": 7072,
+    "single_house_two_storeyed": 854,
+    "single_house_more_than_two_storeyed": 23,
+    "attached_house_1st_floor": 251,
+    "attached_house_2nd_floor": 267,
+    "attached_house_3rd_or_4th_floor": 207,
+    "attached_house_5th_to_10th_floor": 0,
+    "attached_house_11th_to_19th_floor": 0,
+    "attached_house_from_20th_floor_or_more": 0,
+    "other": 1
+  },
+  {
+    "region_id": "LK-5224",
     "region_name": "Kalmunai",
     "region_name_in_data": "Kalmunai",
     "region_ent_type": "dsd",
@@ -4112,23 +4129,6 @@
     "attached_house_11th_to_19th_floor": 0,
     "attached_house_from_20th_floor_or_more": 0,
     "other": 0
-  },
-  {
-    "region_id": "LK-52XX",
-    "region_name": "Kalmunai Tamil Division",
-    "region_name_in_data": "Kalmunai North Sub",
-    "region_ent_type": "dsd",
-    "total": 8675,
-    "single_house_single_storeyed": 7072,
-    "single_house_two_storeyed": 854,
-    "single_house_more_than_two_storeyed": 23,
-    "attached_house_1st_floor": 251,
-    "attached_house_2nd_floor": 267,
-    "attached_house_3rd_or_4th_floor": 207,
-    "attached_house_5th_to_10th_floor": 0,
-    "attached_house_11th_to_19th_floor": 0,
-    "attached_house_from_20th_floor_or_more": 0,
-    "other": 1
   },
   {
     "region_id": "LK-53",

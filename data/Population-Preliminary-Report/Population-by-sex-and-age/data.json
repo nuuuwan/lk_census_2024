@@ -2978,6 +2978,19 @@
   },
   {
     "region_id": "LK-5221",
+    "region_name": "Kalmunai North",
+    "region_name_in_data": "Kalmunai North Sub",
+    "region_ent_type": "dsd",
+    "total": 31556,
+    "sex-male": 14355,
+    "sex-female": 17201,
+    "age-under-15": 7504,
+    "age-15-to-59": 19153,
+    "age-60-to-64": 1655,
+    "age-65-and-over": 3244
+  },
+  {
+    "region_id": "LK-5224",
     "region_name": "Kalmunai",
     "region_name_in_data": "Kalmunai",
     "region_ent_type": "dsd",
@@ -3131,19 +3144,6 @@
     "age-15-to-59": 6828,
     "age-60-to-64": 444,
     "age-65-and-over": 898
-  },
-  {
-    "region_id": "LK-52XX",
-    "region_name": "Kalmunai Tamil Division",
-    "region_name_in_data": "Kalmunai North Sub",
-    "region_ent_type": "dsd",
-    "total": 31556,
-    "sex-male": 14355,
-    "sex-female": 17201,
-    "age-under-15": 7504,
-    "age-15-to-59": 19153,
-    "age-60-to-64": 1655,
-    "age-65-and-over": 3244
   },
   {
     "region_id": "LK-53",

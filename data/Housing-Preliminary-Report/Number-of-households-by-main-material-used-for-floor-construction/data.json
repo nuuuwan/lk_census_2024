@@ -3451,6 +3451,21 @@
   },
   {
     "region_id": "LK-5221",
+    "region_name": "Kalmunai North",
+    "region_name_in_data": "Kalmunai North Sub",
+    "region_ent_type": "dsd",
+    "total": 8675,
+    "cement": 6743,
+    "terrazzo_or_tile_or_granite_or_wood_or_titanium": 1295,
+    "concrete": 605,
+    "mud": 4,
+    "wood": 2,
+    "sand": 21,
+    "other": 4,
+    "not_relevant": 1
+  },
+  {
+    "region_id": "LK-5224",
     "region_name": "Kalmunai",
     "region_name_in_data": "Kalmunai",
     "region_ent_type": "dsd",
@@ -3628,21 +3643,6 @@
     "sand": 4,
     "other": 0,
     "not_relevant": 0
-  },
-  {
-    "region_id": "LK-52XX",
-    "region_name": "Kalmunai Tamil Division",
-    "region_name_in_data": "Kalmunai North Sub",
-    "region_ent_type": "dsd",
-    "total": 8675,
-    "cement": 6743,
-    "terrazzo_or_tile_or_granite_or_wood_or_titanium": 1295,
-    "concrete": 605,
-    "mud": 4,
-    "wood": 2,
-    "sand": 21,
-    "other": 4,
-    "not_relevant": 1
   },
   {
     "region_id": "LK-53",

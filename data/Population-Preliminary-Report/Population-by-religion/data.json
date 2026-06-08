@@ -2991,6 +2991,19 @@
   },
   {
     "region_id": "LK-5221",
+    "region_name": "Kalmunai North",
+    "region_name_in_data": "Kalmunai North Sub",
+    "region_ent_type": "dsd",
+    "total": 31556,
+    "buddhist": 126,
+    "hindu": 24858,
+    "islam": 3328,
+    "roman_catholic": 1763,
+    "other_christian": 1461,
+    "other": 20
+  },
+  {
+    "region_id": "LK-5224",
     "region_name": "Kalmunai",
     "region_name_in_data": "Kalmunai",
     "region_ent_type": "dsd",
@@ -3144,19 +3157,6 @@
     "roman_catholic": 53,
     "other_christian": 14,
     "other": 0
-  },
-  {
-    "region_id": "LK-52XX",
-    "region_name": "Kalmunai Tamil Division",
-    "region_name_in_data": "Kalmunai North Sub",
-    "region_ent_type": "dsd",
-    "total": 31556,
-    "buddhist": 126,
-    "hindu": 24858,
-    "islam": 3328,
-    "roman_catholic": 1763,
-    "other_christian": 1461,
-    "other": 20
   },
   {
     "region_id": "LK-53",

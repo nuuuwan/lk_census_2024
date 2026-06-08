@@ -3221,6 +3221,20 @@
   },
   {
     "region_id": "LK-5221",
+    "region_name": "Kalmunai North",
+    "region_name_in_data": "Kalmunai North Sub",
+    "region_ent_type": "dsd",
+    "total": 8960,
+    "within_the_unit-exclusively_for_the_household": 5872,
+    "within_the_unit-sharing_with_another_household": 241,
+    "outside_the_unit-exclusively_for_the_household": 2457,
+    "outside_the_unit-sharing_with_another_household": 292,
+    "other-no_toilet_but_sharing_with_another_household": 92,
+    "other-common_or_public_toilet": 3,
+    "other-not_using_a_toilet": 3
+  },
+  {
+    "region_id": "LK-5224",
     "region_name": "Kalmunai",
     "region_name_in_data": "Kalmunai",
     "region_ent_type": "dsd",
@@ -3386,20 +3400,6 @@
     "other-no_toilet_but_sharing_with_another_household": 103,
     "other-common_or_public_toilet": 7,
     "other-not_using_a_toilet": 1
-  },
-  {
-    "region_id": "LK-52XX",
-    "region_name": "Kalmunai Tamil Division",
-    "region_name_in_data": "Kalmunai North Sub",
-    "region_ent_type": "dsd",
-    "total": 8960,
-    "within_the_unit-exclusively_for_the_household": 5872,
-    "within_the_unit-sharing_with_another_household": 241,
-    "outside_the_unit-exclusively_for_the_household": 2457,
-    "outside_the_unit-sharing_with_another_household": 292,
-    "other-no_toilet_but_sharing_with_another_household": 92,
-    "other-common_or_public_toilet": 3,
-    "other-not_using_a_toilet": 3
   },
   {
     "region_id": "LK-53",

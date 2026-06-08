@@ -3451,6 +3451,21 @@
   },
   {
     "region_id": "LK-5221",
+    "region_name": "Kalmunai North",
+    "region_name_in_data": "Kalmunai North Sub",
+    "region_ent_type": "dsd",
+    "total": 8675,
+    "tile": 6460,
+    "asbestos": 246,
+    "concrete": 1778,
+    "zinc_aluminium_sheets": 59,
+    "metal_sheets": 51,
+    "kadjan_or_palmyrah_or_straw": 71,
+    "other": 9,
+    "not_relevant": 1
+  },
+  {
+    "region_id": "LK-5224",
     "region_name": "Kalmunai",
     "region_name_in_data": "Kalmunai",
     "region_ent_type": "dsd",
@@ -3628,21 +3643,6 @@
     "kadjan_or_palmyrah_or_straw": 33,
     "other": 7,
     "not_relevant": 0
-  },
-  {
-    "region_id": "LK-52XX",
-    "region_name": "Kalmunai Tamil Division",
-    "region_name_in_data": "Kalmunai North Sub",
-    "region_ent_type": "dsd",
-    "total": 8675,
-    "tile": 6460,
-    "asbestos": 246,
-    "concrete": 1778,
-    "zinc_aluminium_sheets": 59,
-    "metal_sheets": 51,
-    "kadjan_or_palmyrah_or_straw": 71,
-    "other": 9,
-    "not_relevant": 1
   },
   {
     "region_id": "LK-53",

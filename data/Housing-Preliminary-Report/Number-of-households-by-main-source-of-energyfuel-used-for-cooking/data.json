@@ -3451,6 +3451,21 @@
   },
   {
     "region_id": "LK-5221",
+    "region_name": "Kalmunai North",
+    "region_name_in_data": "Kalmunai North Sub",
+    "region_ent_type": "dsd",
+    "total": 8960,
+    "firewood": 1817,
+    "kerosene": 91,
+    "gas": 6542,
+    "electricity": 13,
+    "saw_dust_or_paddy_husk": 97,
+    "bio_gas": 278,
+    "other": 0,
+    "not_relevant": 122
+  },
+  {
+    "region_id": "LK-5224",
     "region_name": "Kalmunai",
     "region_name_in_data": "Kalmunai",
     "region_ent_type": "dsd",
@@ -3628,21 +3643,6 @@
     "bio_gas": 0,
     "other": 0,
     "not_relevant": 26
-  },
-  {
-    "region_id": "LK-52XX",
-    "region_name": "Kalmunai Tamil Division",
-    "region_name_in_data": "Kalmunai North Sub",
-    "region_ent_type": "dsd",
-    "total": 8960,
-    "firewood": 1817,
-    "kerosene": 91,
-    "gas": 6542,
-    "electricity": 13,
-    "saw_dust_or_paddy_husk": 97,
-    "bio_gas": 278,
-    "other": 0,
-    "not_relevant": 122
   },
   {
     "region_id": "LK-53",
