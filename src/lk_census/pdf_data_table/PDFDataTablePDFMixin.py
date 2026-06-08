@@ -1,5 +1,6 @@
 import os
 import re
+import unicodedata
 
 import camelot
 import pandas as pd
@@ -53,10 +54,17 @@ class PDFDataTablePDFMixin:
                 cell = str(cell_original)
                 if cell in ["", "nan"]:
                     continue
-                cell = cell.replace("‐", "-")
-                cell = cell.replace("- - ", "")
-                cell = cell.replace("- - ", "")
-                cell = re.sub(r"[^A-Za-z0-9\s\-]", "", cell)
+                cell = "".join(c for c in cell if ord(c) < 128)
+                cell = re.sub(
+                    r"[\u2010-\u2015\u2212\uFE58\uFE63\uFF0D]", "-", cell
+                )
+                cell = (
+                    unicodedata.normalize("NFKD", cell)
+                    .encode("ascii", "ignore")
+                    .decode("ascii")
+                )
+                cell = re.sub(r"[^a-zA-Z0-9 -]", "", cell)
+                cell = re.sub(r"^[-\s]+", "", cell)
                 cell = re.sub(r"\s+", " ", cell).strip()
                 cell = PDFDataTablePDFMixin.__parse_int__(cell)
 

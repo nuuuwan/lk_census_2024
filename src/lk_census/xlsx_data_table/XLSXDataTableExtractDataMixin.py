@@ -4,9 +4,8 @@ from collections import defaultdict
 import openpyxl
 
 from gig_future import Ent, EntType
-from lk_census.xlsx_data_table.XLSXDataTableValidateMixin import (
-    XLSXDataTableValidateMixin,
-)
+from lk_census.xlsx_data_table.XLSXDataTableValidateMixin import \
+    XLSXDataTableValidateMixin
 from utils_future import JSONFile, Log, TSVFile
 
 log = Log("XLSXDataTable")
