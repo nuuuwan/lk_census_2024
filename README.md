@@ -1,7 +1,7 @@
 # 🇱🇰 Sri Lanka - Census of Population and Housing 2024
 
 ![CPH](https://img.shields.io/badge/CPH-2024-blue)
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--06--08_13:28:10-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--06--08_13:47:29-green)
 
 ## Original Source Documents
 
@@ -43,12 +43,7 @@ The following datasets have been extracted from the PDF source documents:
 }
 ```
 
-**396** rows in total, by District (22), Country (1), Province (9), District (25), Dsd (339)
-
-#### Validation Errors
-
-⚠️ **1** known administrative entities have no corresponding row in data
-  - Welivitiya-Divitura (`LK-3130`)
+**397** rows in total, by District (22), Country (1), Province (9), District (25), Dsd (340)
 
 ### 02. [Population by ethnicity](data/Population-Preliminary-Report/Population-by-ethnicity)
 

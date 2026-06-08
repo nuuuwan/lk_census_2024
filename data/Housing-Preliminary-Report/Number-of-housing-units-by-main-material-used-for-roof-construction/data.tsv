@@ -44,7 +44,7 @@ LK-1209	Divulapitiya	Divulapitiya	dsd	44830	29784	12821	843	318	578	462	16	8
 LK-1212	Mirigama	Mirigama	dsd	49540	25809	20926	1506	274	712	303	7	3
 LK-1215	Minuwangoda	Minuwangoda	dsd	56287	27560	25802	2232	217	248	220	4	4
 LK-1218	Wattala	Wattala	dsd	48787	6659	35353	5171	571	383	623	15	12
-LK-1221	Ja Ela	- - Ja-Ela	dsd	57159	16894	35846	3645	298	292	174	7	3
+LK-1221	Ja Ela	Ja-Ela	dsd	57159	16894	35846	3645	298	292	174	7	3
 LK-1224	Gampaha	Gampaha	dsd	57568	18851	34697	3453	233	168	156	7	3
 LK-1227	Attanagalla	Attanagalla	dsd	54037	21397	28899	2898	288	419	126	8	2
 LK-1230	Dompe	Dompe	dsd	47297	15354	29559	1589	170	452	163	8	2
@@ -96,7 +96,7 @@ LK-2212	Pallepola	Pallepola	dsd	9069	2277	5891	452	139	251	58	1	0
 LK-2215	Yatawatta	Yatawatta	dsd	8886	2073	5589	502	119	550	50	3	0
 LK-2218	Matale	Matale	dsd	21828	1719	14615	4241	467	445	338	0	3
 LK-2221	Ambanganga	Ambanganga Korale	dsd	4682	329	3134	264	161	515	279	0	0
-LK-2224	Laggala	- - Laggala-Pallegama	dsd	4876	599	3978	105	46	98	49	0	1
+LK-2224	Laggala	Laggala-Pallegama	dsd	4876	599	3978	105	46	98	49	0	1
 LK-2227	Wilgamuwa	Wilgamuwa	dsd	9813	2159	7048	161	72	363	10	0	0
 LK-2230	Rattota	Rattota	dsd	15594	717	10238	1025	690	2019	897	4	4
 LK-2233	Ukuwela	Ukuwela	dsd	19554	1065	13314	2733	563	921	955	1	2
@@ -123,14 +123,14 @@ LK-3121	Neluwa	Neluwa	dsd	8429	2790	5326	209	24	44	36	0	0
 LK-3124	Nagoda	Nagoda	dsd	15445	4430	9875	277	195	518	146	4	0
 LK-3127	Baddegama	Baddegama	dsd	14223	4762	8735	379	42	175	116	13	1
 LK-3128	Wanduramba	Wanduramba	dsd	7908	2290	5230	151	60	100	76	1	0
-LK-3130	Welivitiya-Divitura	-- Welivitiya-Divithura	dsd	8597	2584	5661	179	13	68	91	1	0
+LK-3130	Welivitiya-Divitura	Welivitiya-Divithura	dsd	8597	2584	5661	179	13	68	91	1	0
 LK-3133	Ambalangoda	Ambalangoda	dsd	16798	3498	12292	869	16	69	47	7	0
 LK-3134	Gonapinuwala	Gonapeenuwala	dsd	6749	2018	4226	332	99	26	45	3	0
 LK-3135	Madampagama	Madampagama	dsd	9143	4340	4457	277	13	33	19	4	0
 LK-3136	Hikkaduwa	Hikkaduwa	dsd	7386	2952	3816	559	8	34	12	5	0
 LK-3137	Rathgama	Rathgama	dsd	10751	4676	5569	382	12	55	55	2	0
 LK-3139	Galle 4 Gravets	Galle Four Gravets	dsd	26173	5416	17097	3219	107	205	123	0	6
-LK-3142	Bope-Poddala	- - Bope-Poddala	dsd	15444	3493	10525	1198	74	107	43	2	2
+LK-3142	Bope-Poddala	Bope-Poddala	dsd	15444	3493	10525	1198	74	107	43	2	2
 LK-3145	Akmeemana	Akmeemana	dsd	23381	6299	15319	1145	182	248	184	2	2
 LK-3148	Yakkalamulla	Yakkalamulla	dsd	13328	4089	8521	267	130	148	169	3	1
 LK-3151	Imaduwa	Imaduwa	dsd	13341	5758	6930	418	19	121	90	3	2
@@ -345,7 +345,7 @@ LK-8115	Soranathota	Soranathota	dsd	6781	591	4710	238	250	992	0	0	0
 LK-8118	Passara	Passara	dsd	13500	776	7958	495	300	3967	0	2	2
 LK-8119	Lunugala	Lunugala	dsd	8885	430	4892	151	220	3188	0	3	1
 LK-8121	Badulla	Badulla	dsd	21528	399	15108	2680	837	2494	0	9	1
-LK-8124	Hali-Ela	- Hali-Ela	dsd	25945	1482	17751	1344	475	4890	0	3	0
+LK-8124	Hali-Ela	Hali-Ela	dsd	25945	1482	17751	1344	475	4890	0	3	0
 LK-8127	Uvaparanagama	Uva Paranagama	dsd	22605	3836	14492	1221	683	2340	19	13	1
 LK-8130	Welimada	Welimada	dsd	28668	4007	18983	2397	931	2336	0	10	4
 LK-8133	Bandarawela	Bandarawela	dsd	17973	1274	12055	1963	301	2366	12	1	1

@@ -40,4 +40,4 @@ Regions with an unusually high or low share of a category (≥ 2 standard deviat
 - 🔻 **Mullaitivu** — Age 60 To 64: **4.0%** vs district avg 5.2% (z = -2.1)
 
 ---
-*Data covers **396** rows down to **dsd** level (339 dsds).*
+*Data covers **397** rows down to **dsd** level (340 dsds).*

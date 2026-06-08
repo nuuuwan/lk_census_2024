@@ -587,7 +587,7 @@
   {
     "region_id": "LK-1221",
     "region_name": "Ja Ela",
-    "region_name_in_data": "- - Ja-Ela",
+    "region_name_in_data": "Ja-Ela",
     "region_ent_type": "dsd",
     "total": 204806,
     "sex-male": 98114,
@@ -1263,7 +1263,7 @@
   {
     "region_id": "LK-2224",
     "region_name": "Laggala",
-    "region_name_in_data": "- - Laggala-Pallegama",
+    "region_name_in_data": "Laggala-Pallegama",
     "region_ent_type": "dsd",
     "total": 16300,
     "sex-male": 8320,
@@ -1612,6 +1612,19 @@
     "age-65-and-over": 4144
   },
   {
+    "region_id": "LK-3130",
+    "region_name": "Welivitiya-Divitura",
+    "region_name_in_data": "Welivitiya-Divithura",
+    "region_ent_type": "dsd",
+    "total": 29356,
+    "sex-male": 14133,
+    "sex-female": 15223,
+    "age-under-15": 5742,
+    "age-15-to-59": 17400,
+    "age-60-to-64": 1686,
+    "age-65-and-over": 4528
+  },
+  {
     "region_id": "LK-3133",
     "region_name": "Ambalangoda",
     "region_name_in_data": "Ambalangoda",
@@ -1692,7 +1705,7 @@
   {
     "region_id": "LK-3142",
     "region_name": "Bope-Poddala",
-    "region_name_in_data": "- - Bope-Poddala",
+    "region_name_in_data": "Bope-Poddala",
     "region_ent_type": "dsd",
     "total": 57890,
     "sex-male": 27448,
@@ -4487,7 +4500,7 @@
   {
     "region_id": "LK-8124",
     "region_name": "Hali-Ela",
-    "region_name_in_data": "- Hali-Ela",
+    "region_name_in_data": "Hali-Ela",
     "region_ent_type": "dsd",
     "total": 94226,
     "sex-male": 44945,
