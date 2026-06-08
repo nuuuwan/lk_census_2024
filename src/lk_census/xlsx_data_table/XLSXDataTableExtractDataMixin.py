@@ -130,7 +130,6 @@ class XLSXDataTableExtractDataMixin(XLSXDataTableValidateMixin):
         ent_idx = Ent.idx_from_type(ent_type)
         child_ent_idx = Ent.idx_from_type(child_ent_type)
         ent_id_key = f"{ent_type.name.lower()}_id"
-        print(d_list[0])
         child_d_list = [
             d
             for d in d_list
@@ -168,7 +167,6 @@ class XLSXDataTableExtractDataMixin(XLSXDataTableValidateMixin):
                     ent_d[field] = ent_d.get(field, 0) + d.get(field, 0)
             new_d_list.append(ent_d)
 
-        print(new_d_list)
         return new_d_list
 
     def _build_all_levels_(self, raw_rows):
