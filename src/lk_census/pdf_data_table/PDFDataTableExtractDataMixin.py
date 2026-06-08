@@ -65,7 +65,7 @@ class PDFDataTableExtractDataMixin(
 
         region_name = {
             "Valikamam North": "Valikamam North (Tellipallai)",
-            "Kalmunai North Sub": "Kalmunai Tamil Division",
+            "Kalmunai North Sub": "Kalmunai North",
             "Koralai Pattu Valachchenai": "Koralai Pattu",
         }.get(region_name, region_name)
 
