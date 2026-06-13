@@ -97,3 +97,8 @@ class XLSXDataTableAllDataMixin:
             )
 
         return all_data_list
+
+    @property
+    def data_list(self):
+        json_file = JSONFile(self.all_data_path)
+        return json_file.read()

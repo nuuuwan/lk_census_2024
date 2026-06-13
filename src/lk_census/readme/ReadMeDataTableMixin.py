@@ -69,7 +69,7 @@ class ReadMeDataTableMixin:
             "",
         ]
         for label, file_path in [
-            ("📄 JSON", data_table.json_path),
+            ("📄 JSON", data_table.all_data_path),
             ("📊 Source XLSX", data_table.xlsx_path),
         ]:
             lines.append(f"- [{label}]({file_path})")
