@@ -1,5 +1,19 @@
 # Social Media Posts
 
+## 2026-06-13
+
+🇱🇰 #SriLanka #Census 2024
+🆕 Data Update
+
+All 12 tables now have Grama Niladhari Division level data (for 14,000+ GNDs)
+
+<https://github.com/nuuuwan/lk_census_2024>
+
+📁 JSON & TSV, with links to the original source XLSXs
+🌐 Extracted and validated from <http://statistics.gov.lk>.
+
+# CPH2024
+
 ## 2026-03-24
 
 🇱🇰 #SriLanka #Census 2024
