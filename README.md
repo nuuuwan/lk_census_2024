@@ -1,7 +1,7 @@
 # 🇱🇰 Sri Lanka - Census of Population and Housing 2024
 
 ![CPH](https://img.shields.io/badge/CPH-2024-blue)
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--06--13_16:43:54-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--06--13_16:48:00-green)
 
 ## XLSX Data Tables (12)
 
@@ -48,9 +48,10 @@ The following datasets have been extracted from the XLSX source documents:
         "malay": 0,
         "sri_lanka_chetty": 0,
         "bharatha": 0,
-        "veddha": 0
+        "veddha": 0,
+        "other": 8
     },
-    "total_value": 7632
+    "total_value": 7640
 }
 ```
 
