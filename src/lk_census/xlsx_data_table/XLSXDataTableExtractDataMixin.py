@@ -4,8 +4,9 @@ from collections import defaultdict
 import openpyxl
 
 from gig_future import Ent, EntType
-from lk_census.xlsx_data_table.XLSXDataTableValidateMixin import \
-    XLSXDataTableValidateMixin
+from lk_census.xlsx_data_table.XLSXDataTableValidateMixin import (
+    XLSXDataTableValidateMixin,
+)
 from utils_future import JSONFile, Log, TSVFile
 
 log = Log("XLSXDataTable")
@@ -252,8 +253,6 @@ class XLSXDataTableExtractDataMixin(XLSXDataTableValidateMixin):
 
         json_file.write(d_list)
         log.info(f"Wrote {len(d_list)} rows to {self.json_path}")
-        TSVFile(self.tsv_path).write(d_list)
-        log.info(f"Wrote {len(d_list)} rows to {self.tsv_path}")
         return d_list
 
     @property
