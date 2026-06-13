@@ -161,7 +161,6 @@ class XLSXDataTableValidateMixin:
         )
 
     def validate(self, d_list: list[dict]):
-        log.debug(f"Validating {self.name_safe} ({len(d_list)} rows) ...")
         results = [
             self._validate_parent_child_totals(d_list),
             self._validate_all_gig_gnds_present(d_list),

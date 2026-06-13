@@ -31,16 +31,12 @@ def _ent_name(region_id: str, fallback: str) -> str:
 
 def parse_int(x):
     x = str(x)
-    if x in ['', '-']:
+    if x in ["", "-"]:
         return 0
     return int(x)
 
 
 class XLSXDataTableExtractDataMixin(XLSXDataTableValidateMixin):
-
-    @property
-    def xlsx_path(self):
-        return os.path.join("original_docs", f"{self.doc_name}.xlsx")
 
     def __extract_raw_rows__(self):
         wb = openpyxl.load_workbook(self.xlsx_path, data_only=True)
@@ -244,13 +240,17 @@ class XLSXDataTableExtractDataMixin(XLSXDataTableValidateMixin):
         return os.path.join(self.dir_table, "data.tsv")
 
     def extract_data(self):
-        log.debug("-" * 40)
-        log.info("Extracting data for " + self.name_safe)
+        json_file = JSONFile(self.json_path)
+        if json_file.exists:
+            log.debug(f"{json_file} exists")
+            return json_file.read()
+
         raw_rows = self.__extract_raw_rows__()
         d_list = self._build_all_levels_(raw_rows)
         self.validate(d_list)
         os.makedirs(self.dir_table, exist_ok=True)
-        JSONFile(self.json_path).write(d_list)
+
+        json_file.write(d_list)
         log.info(f"Wrote {len(d_list)} rows to {self.json_path}")
         TSVFile(self.tsv_path).write(d_list)
         log.info(f"Wrote {len(d_list)} rows to {self.tsv_path}")
