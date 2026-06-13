@@ -5,7 +5,8 @@ from dataclasses import dataclass
 class XLSXDataTableBase:
     data_table_id: str
     remote_file_name: str
-    column_offset: int
+    total_col_index: int
+    fields_col_start_index: int
     field_list: list[str]
     has_province_info: bool
 

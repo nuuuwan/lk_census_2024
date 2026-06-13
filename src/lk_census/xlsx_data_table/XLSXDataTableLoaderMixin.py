@@ -15,7 +15,8 @@ class XLSXDataTableLoaderMixin:
                 cls(
                     data_table_id=t["data_table_id"],
                     remote_file_name=t["remote_file_name"],
-                    column_offset=t["column_offset"],
+                    total_col_index=t["total_col_index"],
+                    fields_col_start_index=t["fields_col_start_index"],
                     field_list=t["field_list"],
                     has_province_info=t.get("has_province_info", True),
                 )
