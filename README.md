@@ -1,7 +1,7 @@
 # 🇱🇰 Sri Lanka - Census of Population and Housing 2024
 
 ![CPH](https://img.shields.io/badge/CPH-2024-blue)
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--06--13_17:00:42-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--06--13_17:16:37-green)
 
 ## XLSX Data Tables (12)
 
@@ -16,7 +16,7 @@ The following datasets have been extracted from the XLSX source documents:
 
 ```json
 {
-    "gnd_id": "LK-11103005",
+    "gnd_id": "LK-1103005",
     "gnd_name_from_source": "Sammanthranapura",
     "total_value_from_source": 7640,
     "values": {
@@ -126,7 +126,7 @@ The following datasets have been extracted from the XLSX source documents:
 
 ```json
 {
-    "gnd_id": "LK-11103005",
+    "gnd_id": "LK-1103005",
     "gnd_name_from_source": "Sammanthranapura",
     "total_value_from_source": 1834,
     "values": {
@@ -154,7 +154,7 @@ The following datasets have been extracted from the XLSX source documents:
 
 ```json
 {
-    "gnd_id": "LK-11103005",
+    "gnd_id": "LK-1103005",
     "gnd_name_from_source": "Sammanthranapura",
     "total_value_from_source": 1834,
     "values": {
@@ -183,7 +183,7 @@ The following datasets have been extracted from the XLSX source documents:
 
 ```json
 {
-    "gnd_id": "LK-11103005",
+    "gnd_id": "LK-1103005",
     "gnd_name_from_source": "Sammanthranapura",
     "total_value_from_source": 1834,
     "values": {
@@ -209,7 +209,7 @@ The following datasets have been extracted from the XLSX source documents:
 
 ```json
 {
-    "gnd_id": "LK-11103005",
+    "gnd_id": "LK-1103005",
     "gnd_name_from_source": "Sammanthranapura",
     "total_value_from_source": 1834,
     "values": {
@@ -235,7 +235,7 @@ The following datasets have been extracted from the XLSX source documents:
 
 ```json
 {
-    "gnd_id": "LK-11103005",
+    "gnd_id": "LK-1103005",
     "gnd_name_from_source": "Sammanthranapura",
     "total_value_from_source": 1859,
     "values": {
@@ -268,7 +268,7 @@ The following datasets have been extracted from the XLSX source documents:
 
 ```json
 {
-    "gnd_id": "LK-11103005",
+    "gnd_id": "LK-1103005",
     "gnd_name_from_source": "Sammanthranapura",
     "total_value_from_source": 1859,
     "values": {
@@ -294,7 +294,7 @@ The following datasets have been extracted from the XLSX source documents:
 
 ```json
 {
-    "gnd_id": "LK-11103005",
+    "gnd_id": "LK-1103005",
     "gnd_name_from_source": "Sammanthranapura",
     "total_value_from_source": 1859,
     "values": {
@@ -319,7 +319,7 @@ The following datasets have been extracted from the XLSX source documents:
 
 ```json
 {
-    "gnd_id": "LK-11103005",
+    "gnd_id": "LK-1103005",
     "gnd_name_from_source": "Sammanthranapura",
     "total_value_from_source": 1859,
     "values": {

@@ -3,21 +3,21 @@ import os
 from gig_future import Ent, EntType
 from utils_future import JSONFile, Log
 
-log = Log("XLSXDataTableExpandDataMixin")
+log = Log("XLSXDataTableAllDataMixin")
 
 
-class XLSXDataTableExpandDataMixin:
+class XLSXDataTableAllDataMixin:
     @property
-    def expanded_data_json_path(self):
-        return os.path.join(self.dir_table, "expanded_data.json")
+    def all_data_path(self):
+        return os.path.join(self.dir_table, "data.json")
 
-    def expand_data(self):
-        json_file = JSONFile(self.expanded_data_json_path)
+    def build_all_data(self):
+        json_file = JSONFile(self.all_data_path)
         if json_file.exists:
             log.debug(f"{json_file} exists.")
             return json_file.read()
 
-        data_list = self.data_list
+        data_list = self.gnd_data_list
 
         ent_types = [
             EntType.COUNTRY,

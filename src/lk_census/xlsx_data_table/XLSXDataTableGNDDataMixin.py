@@ -16,7 +16,7 @@ def parse_int(x):
     return int(x)
 
 
-class XLSXDataTableExtractDataMixin:
+class XLSXDataTableGNDDataMixin:
 
     def _get_raw_rows(self):
         wb = openpyxl.load_workbook(self.xlsx_path, data_only=True)
@@ -107,8 +107,8 @@ class XLSXDataTableExtractDataMixin:
         )
 
     @property
-    def json_path(self):
-        return os.path.join(self.dir_table, "data.json")
+    def gnd_data_path(self):
+        return os.path.join(self.dir_table, "gnd_data.json")
 
     def get_aggr_data(self, data_list):
         values = {}
@@ -128,8 +128,8 @@ class XLSXDataTableExtractDataMixin:
             total_value=total_value,
         )
 
-    def extract_data(self):
-        json_file = JSONFile(self.json_path)
+    def build_gnd_data(self):
+        json_file = JSONFile(self.gnd_data_path)
         if json_file.exists:
             log.debug(f"{json_file} exists")
             return json_file.read()
@@ -160,9 +160,9 @@ class XLSXDataTableExtractDataMixin:
 
         os.makedirs(self.dir_table, exist_ok=True)
         json_file.write(d_list)
-        log.info(f"Wrote {len(d_list)} rows to {self.json_path}")
+        log.info(f"Wrote {len(d_list)} rows to {self.gnd_data_path}")
         return d_list
 
     @property
-    def data_list(self):
-        return JSONFile(self.json_path).read()
+    def gnd_data_list(self):
+        return JSONFile(self.gnd_data_path).read()

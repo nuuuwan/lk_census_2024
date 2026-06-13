@@ -6,8 +6,8 @@ log = Log("XLSXDataTableBuilderMixin")
 class XLSXDataTableBuilderMixin:
     def build(self):
         self.download_original_doc()
-        self.extract_data()
-        self.expand_data()
+        self.build_gnd_data()
+        self.build_all_data()
 
     @classmethod
     def build_all(cls):
