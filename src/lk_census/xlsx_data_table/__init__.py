@@ -13,5 +13,3 @@ from lk_census.xlsx_data_table.XLSXDataTableGNDDataMixin import \
     XLSXDataTableGNDDataMixin
 from lk_census.xlsx_data_table.XLSXDataTableLoaderMixin import \
     XLSXDataTableLoaderMixin
-from lk_census.xlsx_data_table.XLSXDataTableValidateMixin import \
-    XLSXDataTableValidateMixin

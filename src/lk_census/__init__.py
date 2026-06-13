@@ -8,5 +8,4 @@ from lk_census.xlsx_data_table import (XLSXDataTable,
                                        XLSXDataTableBuilderMixin,
                                        XLSXDataTableDownloadMixin,
                                        XLSXDataTableGNDDataMixin,
-                                       XLSXDataTableLoaderMixin,
-                                       XLSXDataTableValidateMixin)
+                                       XLSXDataTableLoaderMixin)

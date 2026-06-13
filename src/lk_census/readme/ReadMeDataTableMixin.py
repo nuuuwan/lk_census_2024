@@ -1,49 +1,9 @@
 import json
-import os
 
 from lk_census.xlsx_data_table import XLSXDataTable
 
 
 class ReadMeDataTableMixin:
-
-    _VALIDATION_DESCRIPTIONS = {
-        "parent_child_totals": "aggregated values don't match sum of children",
-        "all_gig_gnds_present": "GNDs in the reference gazetteer missing from this dataset (boundary differences)",
-        "gnds_are_valid": "GND IDs in this dataset not found in the reference gazetteer (boundary differences)",
-        "total_field": "'total' field doesn't equal sum of other fields",
-    }
-
-    def get_lines_for_validations(self, data_table) -> list[str]:
-        validations_path = os.path.join(
-            data_table.dir_table, "validations.json"
-        )
-        if not os.path.exists(validations_path):
-            return []
-        with open(validations_path) as f:
-            results = json.load(f)
-        failures = [r for r in results if r["status"] == "fail"]
-        if not failures:
-            return []
-        lines = ["#### Validation Errors", ""]
-        for r in failures:
-            desc = self._VALIDATION_DESCRIPTIONS.get(r["name"], r["name"])
-            lines.append(f"⚠️ **{r['error_count']:,}** {desc}")
-            examples = r.get("errors", [])[:3]
-            for ex in examples:
-                name = (
-                    ex.get("region_name")
-                    or ex.get("region_name_in_data")
-                    or ex.get("region_id")
-                )
-                label = f"{name} (`{ex['region_id']}`)"
-                if "total" in ex and "total_from_fields" in ex:
-                    label += (
-                        f" — total: {ex['total']:,},"
-                        f" sum of fields: {ex['total_from_fields']:,}"
-                    )
-                lines.append(f"  - {label}")
-            lines.append("")
-        return lines
 
     def get_lines_for_example_data(self, data_table) -> list[str]:
         lines = []
@@ -85,7 +45,6 @@ class ReadMeDataTableMixin:
         )
         lines.append("")
 
-        lines.extend(self.get_lines_for_validations(data_table))
         return lines
 
     def get_lines_for_xlsx_data_tables(self) -> list[str]:
