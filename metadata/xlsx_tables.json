@@ -2,79 +2,16 @@
   {
     "data_table_id": "Population-Gender",
     "remote_file_name": "GN_population_excel",
-    "column_offset": 9,
-    "field_list": ["total", "male", "female"]
+    "total_col_index": 9,
+    "fields_col_start_index": 10,
+    "field_list": ["male", "female"]
   },
 
   {
-    "data_table_id": "Housing-Water",
-    "remote_file_name": "HH_GND_excel",
-    "column_offset": 10,
-    "field_list": [
-      "protected_well",
-      "semi_protected_well",
-      "unprotected_well",
-      "tube_well",
-      "spring_fountain",
-      "pipe_borne_nwsdb",
-      "pipe_borne_local_authority",
-      "pipe_borne_community",
-      "pipe_borne_private",
-      "tank_river_stream",
-      "rain_water",
-      "bottled_water",
-      "filter_ro",
-      "bowser",
-      "other"
-    ]
-  },
-  {
-    "data_table_id": "Housing-Cooking-Fuel",
-    "remote_file_name": "HH_GND_excel",
-    "column_offset": 25,
-    "field_list": [
-      "firewood",
-      "kerosene",
-      "gas",
-      "electricity",
-      "sawdust_paddy_husk",
-      "bio_gas",
-      "other",
-      "not_relevant"
-    ]
-  },
-  {
-    "data_table_id": "Housing-Lighting",
-    "remote_file_name": "HH_GND_excel",
-    "column_offset": 33,
-    "field_list": [
-      "electricity_grid",
-      "kerosene_lamp",
-      "solar_grid",
-      "solar_standalone",
-      "bio_gas",
-      "generator",
-      "other"
-    ]
-  },
-  {
-    "data_table_id": "Housing-Toilet",
-    "remote_file_name": "HH_GND_excel",
-    "column_offset": 40,
-    "field_list": [
-      "within_unit_exclusive",
-      "within_unit_shared",
-      "within_premises_exclusive",
-      "within_premises_shared",
-      "no_toilet_sharing",
-      "common_public",
-      "none"
-    ]
-  },
-  {
     "data_table_id": "Population-Ethnicity",
     "remote_file_name": "GNLevel/GN_Level_Population_by_Ethnic_Group",
-    "column_offset": 7,
+    "total_col_index": 6,
+    "fields_col_start_index": 7,
     "field_list": [
       "sinhalese",
       "sri_lanka_tamil",
@@ -91,7 +28,8 @@
   {
     "data_table_id": "Population-Religion",
     "remote_file_name": "GNLevel/GN_Level_Population_by_Religion",
-    "column_offset": 7,
+    "total_col_index": 6,
+    "fields_col_start_index": 7,
     "field_list": [
       "buddhist",
       "hindu",
@@ -105,7 +43,8 @@
   {
     "data_table_id": "Population-AgeGroup",
     "remote_file_name": "GNLevel/GN_Level_Population_by_Five_Year_Age_Group",
-    "column_offset": 7,
+    "total_col_index": 6,
+    "fields_col_start_index": 7,
     "field_list": [
       "00_04",
       "05_09",
@@ -133,7 +72,8 @@
   {
     "data_table_id": "Housing-Structure",
     "remote_file_name": "OHU_GN_excel",
-    "column_offset": 10,
+    "total_col_index": 9,
+    "fields_col_start_index": 10,
     "field_list": [
       "single_house_single_storeyed",
       "single_house_two_storeyed",
@@ -150,7 +90,8 @@
   {
     "data_table_id": "Housing-Walls",
     "remote_file_name": "OHU_GN_excel",
-    "column_offset": 20,
+    "total_col_index": 9,
+    "fields_col_start_index": 20,
     "field_list": [
       "bricks",
       "cement_block",
@@ -168,7 +109,8 @@
   {
     "data_table_id": "Housing-Floor",
     "remote_file_name": "OHU_GN_excel",
-    "column_offset": 31,
+    "total_col_index": 9,
+    "fields_col_start_index": 31,
     "field_list": [
       "cement",
       "terrazzo_tile_granite_wood_finished",
@@ -183,7 +125,8 @@
   {
     "data_table_id": "Housing-Roof",
     "remote_file_name": "OHU_GN_excel",
-    "column_offset": 39,
+    "total_col_index": 9,
+    "fields_col_start_index": 39,
     "field_list": [
       "tile",
       "asbestos",
@@ -193,6 +136,75 @@
       "cadjan_palmyrah_straw",
       "other",
       "not_relevant"
+    ]
+  },
+  {
+    "data_table_id": "Housing-Water",
+    "remote_file_name": "HH_GND_excel",
+    "total_col_index": 9,
+    "fields_col_start_index": 10,
+    "field_list": [
+      "protected_well",
+      "semi_protected_well",
+      "unprotected_well",
+      "tube_well",
+      "spring_fountain",
+      "pipe_borne_nwsdb",
+      "pipe_borne_local_authority",
+      "pipe_borne_community",
+      "pipe_borne_private",
+      "tank_river_stream",
+      "rain_water",
+      "bottled_water",
+      "filter_ro",
+      "bowser",
+      "other"
+    ]
+  },
+  {
+    "data_table_id": "Housing-Cooking-Fuel",
+    "remote_file_name": "HH_GND_excel",
+    "total_col_index": 9,
+    "fields_col_start_index": 25,
+    "field_list": [
+      "firewood",
+      "kerosene",
+      "gas",
+      "electricity",
+      "sawdust_paddy_husk",
+      "bio_gas",
+      "other",
+      "not_relevant"
+    ]
+  },
+  {
+    "data_table_id": "Housing-Lighting",
+    "remote_file_name": "HH_GND_excel",
+    "total_col_index": 9,
+    "fields_col_start_index": 33,
+    "field_list": [
+      "electricity_grid",
+      "kerosene_lamp",
+      "solar_grid",
+      "solar_standalone",
+      "bio_gas",
+      "generator",
+      "other"
+    ]
+  },
+  {
+    "data_table_id": "Housing-Toilet",
+    "remote_file_name": "HH_GND_excel",
+    "total_col_index": 9,
+    "fields_col_start_index": 40,
+    "field_list": [
+      "within_unit_exclusive",
+      "within_unit_shared",
+      "within_premises_exclusive",
+      "within_premises_shared",
+      "no_toilet_sharing",
+      "common_public",
+      "none"
     ]
   }
 ]
