@@ -5,6 +5,8 @@ import math
 import os
 import re
 
+from utils_future import File
+
 DATA_ROOT = "data"
 META_COLS = {
     "region_id",
@@ -252,10 +254,9 @@ def main():
         if not rows:
             continue
         content = build_readme(dirpath, rows)
-        readme_path = os.path.join(dirpath, "README.md")
-        with open(readme_path, "w", encoding="utf-8") as f:
-            f.write(content)
-        print(f"Wrote {readme_path}")
+        readme_file = File(os.path.join(dirpath, "README.md"))
+        readme_file.write(content)
+        print(f"Wrote {readme_file}")
 
 
 if __name__ == "__main__":
