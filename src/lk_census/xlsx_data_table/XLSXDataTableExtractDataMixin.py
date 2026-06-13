@@ -29,6 +29,8 @@ def _ent_name(region_id: str, fallback: str) -> str:
 
 
 def parse_int(x):
+    if not x:
+        return 0
     x = str(x)
     if x in ["", "-"]:
         return 0
@@ -65,6 +67,8 @@ class XLSXDataTableExtractDataMixin(XLSXDataTableValidateMixin):
             row[4],
             row[6],
         )
+        if not (province_part and district_part and dsd_part and gnd_part):
+            return None
         gnd_id = (
             "LK-"
             + f"{province_part:01d}{district_part:01d}"
@@ -80,6 +84,11 @@ class XLSXDataTableExtractDataMixin(XLSXDataTableValidateMixin):
             row[2],
             row[4],
         )
+        if not (district_part and dsd_part and gnd_part):
+            return None
+        district_part, dsd_part, gnd_part = map(
+            int, [district_part, dsd_part, gnd_part]
+        )
         gnd_id = (
             "LK-" + f"{district_part:02d}" + f"{dsd_part:02d}{gnd_part:03d}"
         )
@@ -92,7 +101,10 @@ class XLSXDataTableExtractDataMixin(XLSXDataTableValidateMixin):
         return self._get_gnd_info_without_province_info(row)
 
     def _extract_row_data(self, row):
-        gnd_id, gnd_name = self._get_gnd_info(row)
+        output = self._get_gnd_info(row)
+        if not output:
+            return None
+        gnd_id, gnd_name = output
         values = self._get_values(row)
         total_value = sum(values.values())
         total_value_from_source = self._get_source_total_value(row)
