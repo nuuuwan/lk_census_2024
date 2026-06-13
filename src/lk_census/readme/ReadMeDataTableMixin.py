@@ -51,6 +51,8 @@ class ReadMeDataTableMixin:
         first_data = data_list[0]
         lines.extend(
             [
+                "### Example Data Row (JSON)",
+                "",
                 "```json",
                 json.dumps(first_data, indent=4),
                 "```",
@@ -67,16 +69,20 @@ class ReadMeDataTableMixin:
             "",
         ]
         lines.extend(self.get_lines_for_example_data(data_table))
-        for label, file_path in [
-            ("📄 JSON", str(data_table.all_data_file)),
-            ("📕 TSV", str(data_table.tsv_file)),
-            ("📊 Source XLSX", str(data_table.xlsx_file)),
-            (
-                f"🌐 {data_table.url_remote}",
-                data_table.url_remote,
-            ),
+
+        lines.extend(["### Data Files", ""])
+        for emoji, file in [
+            ("📄", data_table.all_data_file),
+            ("📕", data_table.tsv_file),
+            ("📊", data_table.xlsx_file),
         ]:
-            lines.append(f"- [{label}]({file_path})")
+            lines.append(f"- [{emoji} {file}]({file.path})")
+        lines.append("")
+
+        lines.extend(["### Source", ""])
+        lines.append(
+            f"- 🌐: [{data_table.url_remote}]({data_table.url_remote})"
+        )
         lines.append("")
 
         lines.extend(self.get_lines_for_validations(data_table))
