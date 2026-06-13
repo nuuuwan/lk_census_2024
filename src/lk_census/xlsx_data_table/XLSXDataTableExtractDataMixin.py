@@ -4,8 +4,9 @@ from collections import defaultdict
 import openpyxl
 
 from gig_future import Ent, EntType
-from lk_census.xlsx_data_table.XLSXDataTableValidateMixin import \
-    XLSXDataTableValidateMixin
+from lk_census.xlsx_data_table.XLSXDataTableValidateMixin import (
+    XLSXDataTableValidateMixin,
+)
 from utils_future import JSONFile, Log, TSVFile
 
 log = Log("XLSXDataTable")
@@ -68,31 +69,31 @@ class XLSXDataTableExtractDataMixin(XLSXDataTableValidateMixin):
         raw_names = {}
 
         for row in raw_rows:
-            log.debug(f'{row=}')
-            district_id = parse_int(row[0])
-            district_name = str(row[1])
-            dsd_id = parse_int(row[2])
-            dsd_name = str(row[3])
-            gnd_id = parse_int(row[4])
-            gnd_name = str(row[5])
+            province_id = parse_int(row[0])
+            province_name = str(row[1])
+            district_id = parse_int(row[2])
+            district_name = str(row[3])
+            dsd_id = parse_int(row[4])
+            dsd_name = str(row[5])
+            gnd_id = parse_int(row[6])
+            gnd_name = str(row[7])
 
             ids = {
+                "COUNTRY": "LK",
+                "PROVINCE": f"LK-{province_id}",
                 "DISTRICT": f"LK-{district_id:02d}",
                 "DSD": f"LK-{district_id:02d}{dsd_id:02d}",
                 "GND": f"LK-{district_id:02d}{dsd_id:02d}{gnd_id:03d}",
             }
-            ids['COUNTRY'] = "LK"
-            ids['PROVINCE'] = ids['DISTRICT'][:4]
-
             fallbacks = {
                 "COUNTRY": "Sri Lanka",
+                "PROVINCE": province_name,
                 "DISTRICT": district_name,
                 "DSD": dsd_name,
                 "GND": gnd_name,
             }
 
             field_vals = self.__field_values__(row)
-            log.debug(f'{field_vals=}')
             for ent_type, rid in ids.items():
                 for field, val in field_vals.items():
                     sums[rid][field] += val
