@@ -1,6 +1,6 @@
 import os
 
-from lk_census.original_doc import OriginalDoc
+
 from lk_census.readme.ReadMeDataTableMixin import ReadMeDataTableMixin
 from utils_future import File, Format, Log, Time, TimeFormat
 
@@ -23,26 +23,7 @@ class ReadMe(ReadMeDataTableMixin):
             "",
         ]
 
-    def get_lines_for_original_docs(self) -> list[str]:
-        lines = [
-            "## Original Source Documents",
-            "",
-            "The following original documents have been downloaded from"
-            + f" [{OriginalDoc.URL_BASE}]({OriginalDoc.URL_BASE})",
-            "",
-        ]
-        for i_doc, original_doc in enumerate(OriginalDoc.list_all(), start=1):
-            try:
-                lines.append(
-                    f"{i_doc}. [{original_doc.title}]"
-                    + f"({os.path.basename(original_doc.file_path)})"
-                )
-            except Exception as e:
-                log.error(
-                    f"Error processing original_doc '{original_doc}': {e}"
-                )
-        lines.append("")
-        return lines
+
 
     def get_lines_for_footer(self) -> list[str]:
         return [
@@ -59,7 +40,6 @@ class ReadMe(ReadMeDataTableMixin):
     def get_lines(self) -> list[str]:
         return (
             self.get_lines_for_header()
-            + self.get_lines_for_original_docs()
             + self.get_lines_for_xlsx_data_tables()
             + self.get_lines_for_footer()
         )

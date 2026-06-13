@@ -1,12 +1,11 @@
 import os
 
-from lk_census.original_doc.OriginalDoc import OriginalDoc
 from utils_future import JSONFile
 
 
 class XLSXDataTableLoaderMixin:
     XLSX_TABLE_METADATA_PATH = os.path.join(
-        OriginalDoc.DIR_ORIGINAL_DOCS, "metadata", "xlsx_tables.json"
+        "original_docs", "metadata", "xlsx_tables.json"
     )
 
     @classmethod
