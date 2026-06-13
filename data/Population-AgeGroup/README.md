@@ -1,4 +1,4 @@
-# Population By 5 Year Age Groups — Sri Lanka Census 2024
+# Population Agegroup — Sri Lanka Census 2024
 
 ## National Summary
 

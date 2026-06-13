@@ -1,4 +1,4 @@
-# Principal Material Of Construction Of The Walls — Sri Lanka Census 2024
+# Housing Walls — Sri Lanka Census 2024
 
 ## National Summary
 

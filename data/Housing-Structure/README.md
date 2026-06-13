@@ -1,4 +1,4 @@
-# Type Of Housing Unit Structure — Sri Lanka Census 2024
+# Housing Structure — Sri Lanka Census 2024
 
 ## National Summary
 

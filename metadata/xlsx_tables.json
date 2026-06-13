@@ -1,37 +1,14 @@
 [
   {
-    "doc_name": "GN_population_excel",
-    "table_title": "Population by Sex",
+    "remote_file_name": "GN_population_excel",
+    "title": "Population-Gender",
     "column_offset": 9,
     "field_list": ["total", "male", "female"]
   },
+
   {
-    "doc_name": "GN_population_excel",
-    "table_title": "Population by Age Group",
-    "column_offset": 12,
-    "field_list": [
-      "total",
-      "age_0_14",
-      "age_15_59",
-      "age_60_64",
-      "age_65_and_above"
-    ]
-  },
-  {
-    "doc_name": "GN_housing_excel",
-    "table_title": "Occupied Housing Units",
-    "column_offset": 9,
-    "field_list": ["occupied_housing_units"]
-  },
-  {
-    "doc_name": "HH_GND_excel",
-    "table_title": "Number of Households",
-    "column_offset": 9,
-    "field_list": ["n_households"]
-  },
-  {
-    "doc_name": "HH_GND_excel",
-    "table_title": "Number of households by main source of drinking water",
+    "data_table_id": "Housing-Water",
+    "remote_file_name": "HH_GND_excel",
     "column_offset": 10,
     "field_list": [
       "protected_well",
@@ -52,8 +29,8 @@
     ]
   },
   {
-    "doc_name": "HH_GND_excel",
-    "table_title": "Number of households by main source of energy/fuel used for cooking",
+    "data_table_id": "Housing-Cooking-Fuel",
+    "remote_file_name": "HH_GND_excel",
     "column_offset": 25,
     "field_list": [
       "firewood",
@@ -67,8 +44,8 @@
     ]
   },
   {
-    "doc_name": "HH_GND_excel",
-    "table_title": "Number of households by source of lighting",
+    "data_table_id": "Housing-Lighting",
+    "remote_file_name": "HH_GND_excel",
     "column_offset": 33,
     "field_list": [
       "electricity_grid",
@@ -81,8 +58,8 @@
     ]
   },
   {
-    "doc_name": "HH_GND_excel",
-    "table_title": "Number of households using toilet facilities",
+    "data_table_id": "Housing-Toilet",
+    "remote_file_name": "HH_GND_excel",
     "column_offset": 40,
     "field_list": [
       "within_unit_exclusive",
@@ -95,8 +72,8 @@
     ]
   },
   {
-    "doc_name": "GN_Level_Population_by_Ethnic_Group",
-    "table_title": "Population by Ethnic Group",
+    "data_table_id": "Population-Ethnicity",
+    "remote_file_name": "GNLevel/GN_Level_Population_by_Ethnic_Group",
     "column_offset": 7,
     "field_list": [
       "sinhalese",
@@ -112,8 +89,8 @@
     "has_province_info": false
   },
   {
-    "doc_name": "GN_Level_Population_by_Religion",
-    "table_title": "Population by Religion Group",
+    "data_table_id": "Population-Religion",
+    "remote_file_name": "GNLevel/GN_Level_Population_by_Religion",
     "column_offset": 7,
     "field_list": [
       "buddhist",
@@ -126,8 +103,8 @@
     "has_province_info": false
   },
   {
-    "doc_name": "GN_Level_Population_by_Five_Year_Age_Group",
-    "table_title": "Population by 5 year Age groups",
+    "data_table_id": "Population-AgeGroup",
+    "remote_file_name": "GNLevel/GN_Level_Population_by_Five_Year_Age_Group",
     "column_offset": 7,
     "field_list": [
       "00_04",
@@ -154,8 +131,8 @@
     "has_province_info": false
   },
   {
-    "doc_name": "OHU_GN_excel",
-    "table_title": "Type of Housing unit Structure",
+    "data_table_id": "Housing-Structure",
+    "remote_file_name": "OHU_GN_excel",
     "column_offset": 10,
     "field_list": [
       "single_house_single_storeyed",
@@ -171,8 +148,8 @@
     ]
   },
   {
-    "doc_name": "OHU_GN_excel",
-    "table_title": "Principal material of construction of the Walls",
+    "data_table_id": "Housing-Walls",
+    "remote_file_name": "OHU_GN_excel",
     "column_offset": 20,
     "field_list": [
       "bricks",
@@ -189,8 +166,8 @@
     ]
   },
   {
-    "doc_name": "OHU_GN_excel",
-    "table_title": "Principal material of construction of the Floor",
+    "data_table_id": "Housing-Floor",
+    "remote_file_name": "OHU_GN_excel",
     "column_offset": 31,
     "field_list": [
       "cement",
@@ -204,8 +181,8 @@
     ]
   },
   {
-    "doc_name": "OHU_GN_excel",
-    "table_title": "Principal material of construction of the Roof",
+    "data_table_id": "Housing-Roof",
+    "remote_file_name": "OHU_GN_excel",
     "column_offset": 39,
     "field_list": [
       "tile",
