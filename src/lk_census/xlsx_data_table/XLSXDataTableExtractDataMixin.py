@@ -4,9 +4,8 @@ from collections import defaultdict
 import openpyxl
 
 from gig_future import Ent, EntType
-from lk_census.xlsx_data_table.XLSXDataTableValidateMixin import (
-    XLSXDataTableValidateMixin,
-)
+from lk_census.xlsx_data_table.XLSXDataTableValidateMixin import \
+    XLSXDataTableValidateMixin
 from utils_future import JSONFile, Log, TSVFile
 
 log = Log("XLSXDataTable")
@@ -64,34 +63,80 @@ class XLSXDataTableExtractDataMixin(XLSXDataTableValidateMixin):
             for i, field in enumerate(self.field_list)
         }
 
+    def _get_ids_and_fallbacks_no_province(self, row):
+        district_id, district_name, dsd_id, dsd_name, gnd_id, gnd_name = row[
+            :6
+        ]
+
+        if gnd_id is None:
+            return None
+
+        district_id, dsd_id, gnd_id = map(
+            parse_int, (district_id, dsd_id, gnd_id)
+        )
+
+        ids = {
+            "COUNTRY": "LK",
+            "DISTRICT": f"LK-{district_id:02d}",
+            "DSD": f"LK-{district_id:02d}{dsd_id:02d}",
+            "GND": f"LK-{district_id:02d}{dsd_id:02d}{gnd_id:03d}",
+        }
+        fallbacks = {
+            "COUNTRY": "Sri Lanka",
+            "DISTRICT": district_name,
+            "DSD": dsd_name,
+            "GND": gnd_name,
+        }
+        return ids, fallbacks
+
+    def _get_ids_and_fallbacks_with_province(self, row):
+        (
+            province_id,
+            province_name,
+            district_id,
+            district_name,
+            dsd_id,
+            dsd_name,
+            gnd_id,
+            gnd_name,
+        ) = row[:8]
+
+        province_id, district_id, dsd_id, gnd_id = map(
+            parse_int, (province_id, district_id, dsd_id, gnd_id)
+        )
+
+        ids = {
+            "COUNTRY": "LK",
+            "PROVINCE": f"LK-{province_id}",
+            "DISTRICT": f"LK-{district_id:02d}",
+            "DSD": f"LK-{district_id:02d}{dsd_id:02d}",
+            "GND": f"LK-{district_id:02d}{dsd_id:02d}{gnd_id:03d}",
+        }
+        fallbacks = {
+            "COUNTRY": "Sri Lanka",
+            "PROVINCE": province_name,
+            "DISTRICT": district_name,
+            "DSD": dsd_name,
+            "GND": gnd_name,
+        }
+        return ids, fallbacks
+
+    def _get_ids_and_fallbacks(self, row):
+        if self.has_province_info:
+            return self._get_ids_and_fallbacks_with_province(row)
+        return self._get_ids_and_fallbacks_no_province(row)
+
     def _get_sums_by_id_and_raw_names_(self, raw_rows):
         sums = defaultdict(lambda: defaultdict(int))
         raw_names = {}
 
         for row in raw_rows:
-            province_id = parse_int(row[0])
-            province_name = str(row[1])
-            district_id = parse_int(row[2])
-            district_name = str(row[3])
-            dsd_id = parse_int(row[4])
-            dsd_name = str(row[5])
-            gnd_id = parse_int(row[6])
-            gnd_name = str(row[7])
+            log.debug(f'{row=}')
 
-            ids = {
-                "COUNTRY": "LK",
-                "PROVINCE": f"LK-{province_id}",
-                "DISTRICT": f"LK-{district_id:02d}",
-                "DSD": f"LK-{district_id:02d}{dsd_id:02d}",
-                "GND": f"LK-{district_id:02d}{dsd_id:02d}{gnd_id:03d}",
-            }
-            fallbacks = {
-                "COUNTRY": "Sri Lanka",
-                "PROVINCE": province_name,
-                "DISTRICT": district_name,
-                "DSD": dsd_name,
-                "GND": gnd_name,
-            }
+            output = self._get_ids_and_fallbacks(row)
+            if output is None:
+                continue
+            ids, fallbacks = output
 
             field_vals = self.__field_values__(row)
             for ent_type, rid in ids.items():
@@ -167,7 +212,7 @@ class XLSXDataTableExtractDataMixin(XLSXDataTableValidateMixin):
                 "region_id": ent.id,
                 "region_name": ent.name,
                 "region_name_in_data": None,
-                "region_ent_type": child_ent_type.name.upper(),
+                "region_ent_type": ent_type.name.upper(),
             }
             for d in d_list_for_ent:
                 for field in field_list:

@@ -13,13 +13,14 @@ class XLSXDataTableLoaderMixin:
     def list_all(cls):
         table_list = []
         configs = JSONFile(cls.XLSX_TABLE_METADATA_PATH).read()
-        for t in configs[8:]:
+        for t in configs:
             table_list.append(
                 cls(
                     doc_name=t["doc_name"],
                     table_title=t["table_title"],
                     column_offset=t["column_offset"],
                     field_list=t["field_list"],
+                    has_province_info=t.get("has_province_info", True),
                 )
             )
         return table_list

@@ -20,6 +20,7 @@ class XLSXDataTable(
     table_title: str
     column_offset: int
     field_list: list[str]
+    has_province_info: bool
 
     DIR_DATA = "data"
 
