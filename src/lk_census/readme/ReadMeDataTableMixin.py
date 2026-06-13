@@ -1,7 +1,6 @@
 import json
 
 from gig_future import EntType
-from lk_census.xlsx_data_table import XLSXDataTable
 
 
 class ReadMeDataTableMixin:
@@ -82,9 +81,7 @@ class ReadMeDataTableMixin:
 
         return lines
 
-    def get_lines_for_xlsx_data_tables(self) -> list[str]:
-        data_table_list = XLSXDataTable.list_all()
-        len(data_table_list)
+    def get_lines_for_xlsx_data_tables(self, data_table_list) -> list[str]:
         lines = []
         for i_table, data_table in enumerate(data_table_list, start=1):
             lines.extend(self.get_lines_for_data_table(i_table, data_table))
