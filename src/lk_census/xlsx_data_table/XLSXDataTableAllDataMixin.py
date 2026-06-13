@@ -2,6 +2,7 @@ import os
 
 from gig_future import Ent, EntType
 from utils_future import JSONFile, Log
+from utils_future.file import TSVFile
 
 log = Log("XLSXDataTableAllDataMixin")
 
@@ -11,7 +12,7 @@ class XLSXDataTableAllDataMixin:
     def all_data_path(self):
         return os.path.join(self.dir_table, "data.json")
 
-    def build_all_data(self):
+    def build_all_data_json(self):
         json_file = JSONFile(self.all_data_path)
         if json_file.exists:
             log.debug(f"{json_file} exists.")
@@ -101,9 +102,36 @@ class XLSXDataTableAllDataMixin:
                 + " gnd_ids not found in data table."
             )
 
-        return all_data_list
-
     @property
     def data_list(self):
         json_file = JSONFile(self.all_data_path)
         return json_file.read()
+
+    @property
+    def tsv_path(self):
+        return os.path.join(self.dir_table, "data.tsv")
+
+    def build_all_data_tsv(self):
+        tsv_file = TSVFile(self.tsv_path)
+        if tsv_file.exists:
+            log.debug(f"{tsv_file} exists.")
+            return
+
+        def map_tsv(d):
+            return (
+                dict(
+                    region_id=d["region_id"],
+                    region_name=d["region_name"],
+                    region_ent_type=d["region_ent_type"],
+                    total_value=d["total_value"],
+                )
+                | d["values"]
+            )
+
+        d_list_for_tsv = [map_tsv(d) for d in self.data_list]
+        tsv_file.write(d_list_for_tsv)
+        log.info(f"Wrote {len(d_list_for_tsv)} rows to {tsv_file}")
+
+    def build_all_data(self):
+        self.build_all_data_json()
+        self.build_all_data_tsv()

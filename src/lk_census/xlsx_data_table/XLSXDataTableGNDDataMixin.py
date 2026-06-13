@@ -157,7 +157,6 @@ class XLSXDataTableGNDDataMixin:
         os.makedirs(self.dir_table, exist_ok=True)
         json_file.write(d_list)
         log.info(f"Wrote {len(d_list)} rows to {self.gnd_data_path}")
-        return d_list
 
     @property
     def gnd_data_list(self):
