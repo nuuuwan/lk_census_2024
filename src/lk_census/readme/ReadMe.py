@@ -1,6 +1,3 @@
-import os
-
-
 from lk_census.readme.ReadMeDataTableMixin import ReadMeDataTableMixin
 from utils_future import File, Format, Log, Time, TimeFormat
 
@@ -22,8 +19,6 @@ class ReadMe(ReadMeDataTableMixin):
             + f"/last_updated-{time_updated_for_badge}-green)",
             "",
         ]
-
-
 
     def get_lines_for_footer(self) -> list[str]:
         return [

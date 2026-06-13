@@ -6,7 +6,7 @@ from lk_census.xlsx_data_table.XLSXDataTableExtractDataMixin import \
     XLSXDataTableExtractDataMixin
 from lk_census.xlsx_data_table.XLSXDataTableLoaderMixin import \
     XLSXDataTableLoaderMixin
-from utils_future import Log
+from utils_future import WWW, File, Log
 
 log = Log("XLSXDataTable")
 
@@ -45,7 +45,22 @@ class XLSXDataTable(
             self.name_safe,
         )
 
+    @property
+    def url_remote(self):
+        return (
+            "https://www.statistics.gov.lk"
+            + f"/Population/StaticalInformation/CPH2024/{self.doc_name}.xlsx"
+        )
+
+    def download_original_doc(self):
+        local_path = self.xlsx_path
+        if os.path.exists(local_path):
+            log.debug(f'{File(local_path)} exists')
+            return
+        WWW(self.url_remote).download(local_path)
+
     @classmethod
     def extract_all(cls):
         for data_table in cls.list_all():
+            data_table.download_original_doc()
             data_table.extract_data()
