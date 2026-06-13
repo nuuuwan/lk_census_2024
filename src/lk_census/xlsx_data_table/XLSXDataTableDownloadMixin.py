@@ -26,21 +26,24 @@ class XLSXDataTableDownloadMixin:
         )
 
     @property
-    def xlsx_path(self):
+    def xlsx_file(self):
         original_doc_id = self.remote_file_name.replace("/", "-")
-        return os.path.join(self.DIR_ORIGINAL_DOCS, f"{original_doc_id}.xlsx")
+        return File(
+            os.path.join(self.DIR_ORIGINAL_DOCS, f"{original_doc_id}.xlsx")
+        )
 
     def download_original_doc(self):
-        local_path = self.xlsx_path
+        local_path = self.xlsx_file.path
         if os.path.exists(local_path):
-            log.debug(f"{File(local_path)} exists")
+            log.debug(f"{self.xlsx_file} exists")
             return
         os.makedirs(self.DIR_ORIGINAL_DOCS, exist_ok=True)
         log.debug(f"Downloading {self.url_remote}...")
         WWW(self.url_remote).download_binary(local_path)
-        local_file = File(local_path)
-        if local_file.size < self.MIN_ORIGINAL_DOC_SIZE_KB:
+        if self.xlsx_file.size < self.MIN_ORIGINAL_DOC_SIZE_KB:
             os.remove(local_path)
-            raise ValueError(f"Downloaded file {local_file} is too small.")
+            raise ValueError(
+                f"Downloaded file {self.xlsx_file} is too small."
+            )
 
-        log.info(f"Wrote {local_file}")
+        log.info(f"Wrote {self.xlsx_file}")

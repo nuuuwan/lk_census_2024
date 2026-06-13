@@ -9,14 +9,13 @@ log = Log("XLSXDataTableAllDataMixin")
 
 class XLSXDataTableAllDataMixin:
     @property
-    def all_data_path(self):
-        return os.path.join(self.dir_table, "data.json")
+    def all_data_file(self):
+        return JSONFile(os.path.join(self.dir_table, "data.json"))
 
     def build_all_data_json(self):
-        json_file = JSONFile(self.all_data_path)
-        if json_file.exists:
-            log.debug(f"{json_file} exists.")
-            return json_file.read()
+        if self.all_data_file.exists:
+            log.debug(f"{self.all_data_file} exists.")
+            return self.all_data_file.read()
 
         gnd_data_list = self.gnd_data_list
 
@@ -83,8 +82,8 @@ class XLSXDataTableAllDataMixin:
         all_data_list.sort(key=lambda d: -d["total_value"])
 
         os.makedirs(self.dir_table, exist_ok=True)
-        json_file.write(all_data_list)
-        log.info(f"Wrote {len(all_data_list)} rows to {json_file}")
+        self.all_data_file.write(all_data_list)
+        log.info(f"Wrote {len(all_data_list)} rows to {self.all_data_file}")
 
         if gnd_ids_not_in_lk_admin_regions:
             log.warning(
@@ -104,15 +103,14 @@ class XLSXDataTableAllDataMixin:
 
     @property
     def data_list(self):
-        json_file = JSONFile(self.all_data_path)
-        return json_file.read()
+        return self.all_data_file.read()
 
     @property
-    def tsv_path(self):
-        return os.path.join(self.dir_table, "data.tsv")
+    def tsv_file(self):
+        return TSVFile(os.path.join(self.dir_table, "data.tsv"))
 
     def build_all_data_tsv(self):
-        tsv_file = TSVFile(self.tsv_path)
+        tsv_file = self.tsv_file
         if tsv_file.exists:
             log.debug(f"{tsv_file} exists.")
             return

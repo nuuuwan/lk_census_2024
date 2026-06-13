@@ -68,9 +68,9 @@ class ReadMeDataTableMixin:
         ]
         lines.extend(self.get_lines_for_example_data(data_table))
         for label, file_path in [
-            ("📄 JSON", data_table.all_data_path),
-            ("📕 TSV", data_table.tsv_path),
-            ("📊 Source XLSX", data_table.xlsx_path),
+            ("📄 JSON", str(data_table.all_data_file)),
+            ("📕 TSV", str(data_table.tsv_file)),
+            ("📊 Source XLSX", str(data_table.xlsx_file)),
             (
                 f"🌐 {data_table.url_remote}",
                 data_table.url_remote,

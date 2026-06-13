@@ -19,7 +19,7 @@ def parse_int(x):
 class XLSXDataTableGNDDataMixin:
 
     def _get_raw_rows(self):
-        wb = openpyxl.load_workbook(self.xlsx_path, data_only=True)
+        wb = openpyxl.load_workbook(self.xlsx_file.path, data_only=True)
         ws = list(wb.worksheets)[0]
         rows = []
         for row in ws.iter_rows(values_only=True):
@@ -107,8 +107,8 @@ class XLSXDataTableGNDDataMixin:
         )
 
     @property
-    def gnd_data_path(self):
-        return os.path.join(self.dir_table, "gnd_data.json")
+    def gnd_data_file(self):
+        return JSONFile(os.path.join(self.dir_table, "gnd_data.json"))
 
     def get_aggr_data(self, data_list):
         values = {}
@@ -125,10 +125,9 @@ class XLSXDataTableGNDDataMixin:
         )
 
     def build_gnd_data(self):
-        json_file = JSONFile(self.gnd_data_path)
-        if json_file.exists:
-            log.debug(f"{json_file} exists")
-            return json_file.read()
+        if self.gnd_data_file.exists:
+            log.debug(f"{self.gnd_data_file} exists")
+            return self.gnd_data_file.read()
 
         raw_rows = self._get_raw_rows()
         d_list = [self._extract_row_data(row) for row in raw_rows]
@@ -155,9 +154,9 @@ class XLSXDataTableGNDDataMixin:
             )
 
         os.makedirs(self.dir_table, exist_ok=True)
-        json_file.write(d_list)
-        log.info(f"Wrote {len(d_list)} rows to {self.gnd_data_path}")
+        self.gnd_data_file.write(d_list)
+        log.info(f"Wrote {len(d_list)} rows to {self.gnd_data_file}")
 
     @property
     def gnd_data_list(self):
-        return JSONFile(self.gnd_data_path).read()
+        return self.gnd_data_file.read()
