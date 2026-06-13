@@ -2,30 +2,12 @@ import os
 
 import openpyxl
 
-from gig_future import Ent, EntType
-from lk_census.xlsx_data_table.XLSXDataTableValidateMixin import \
-    XLSXDataTableValidateMixin
+from lk_census.xlsx_data_table.XLSXDataTableValidateMixin import (
+    XLSXDataTableValidateMixin,
+)
 from utils_future import JSONFile, Log
 
 log = Log("XLSXDataTable")
-
-# Pre-load all entities keyed by ID for canonical name lookup
-_ENT_BY_ID = {
-    ent.id: ent
-    for et in [
-        EntType.COUNTRY,
-        EntType.PROVINCE,
-        EntType.DISTRICT,
-        EntType.DSD,
-        EntType.GND,
-    ]
-    for ent in Ent.list_from_type(et)
-}
-
-
-def _ent_name(region_id: str, fallback: str) -> str:
-    ent = _ENT_BY_ID.get(region_id)
-    return ent.name if ent else fallback
 
 
 def parse_int(x):
@@ -113,9 +95,7 @@ class XLSXDataTableExtractDataMixin(XLSXDataTableValidateMixin):
             log.debug(f"{row=}")
             log.debug(f"{values=}")
             diff = total_value - total_value_from_source
-            log.debug(
-                f"{total_value=}, {total_value_from_source=} -> {diff=}"
-            )
+            log.debug(f"{total_value=}, {total_value_from_source=} -> {diff=}")
             raise ValueError(
                 f"Total value mismatch for {gnd_name} ({gnd_id})."
             )
