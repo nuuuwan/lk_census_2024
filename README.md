@@ -1,7 +1,7 @@
 # 🇱🇰 Sri Lanka - Census of Population and Housing 2024
 
 ![CPH](https://img.shields.io/badge/CPH-2024-blue)
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--06--13_18:06:44-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--06--13_18:14:27-green)
 
 Data by Country, Province, District, Divisional Secretariat Division (DSD), Grama Niladhari Division (GND), Electoral District (ED), Polling Division (PD), and Local Government Authority (LG) levels.
 
@@ -16,13 +16,13 @@ Data by Country, Province, District, Divisional Secretariat Division (DSD), Gram
         "male": 10512344,
         "female": 11269456
     },
-    "total_value": 21781800
+    "total_value": 21781800 
 }
 ```
 
-- [📄 JSON](data/Population-Gender/data.json)
-- [📕 TSV](data/Population-Gender/data.tsv)
-- [📊 Source XLSX](original_docs/GN_population_excel.xlsx)
+- [📄 JSON](data/Population-Gender/data.json (3.3 MB)) 
+- [📕 TSV](data/Population-Gender/data.tsv (629.8 kB))
+- [📊 Source XLSX](original_docs/GN_population_excel.xlsx (1.5 MB))
 - [🌐 https://www.statistics.gov.lk/Population/StaticalInformation/CPH2024/GN_population_excel](https://www.statistics.gov.lk/Population/StaticalInformation/CPH2024/GN_population_excel)
 
 ## 02. [Population-Ethnicity](data/Population-Ethnicity)
@@ -48,9 +48,9 @@ Data by Country, Province, District, Divisional Secretariat Division (DSD), Gram
 }
 ```
 
-- [📄 JSON](data/Population-Ethnicity/data.json)
-- [📕 TSV](data/Population-Ethnicity/data.tsv)
-- [📊 Source XLSX](original_docs/GNLevel-GN_Level_Population_by_Ethnic_Group.xlsx)
+- [📄 JSON](data/Population-Ethnicity/data.json (6.4 MB))
+- [📕 TSV](data/Population-Ethnicity/data.tsv (864.0 kB))
+- [📊 Source XLSX](original_docs/GNLevel-GN_Level_Population_by_Ethnic_Group.xlsx (6.8 MB))
 - [🌐 https://www.statistics.gov.lk/Population/StaticalInformation/CPH2024/GNLevel/GN_Level_Population_by_Ethnic_Group](https://www.statistics.gov.lk/Population/StaticalInformation/CPH2024/GNLevel/GN_Level_Population_by_Ethnic_Group)
 
 ## 03. [Population-Religion](data/Population-Religion)
@@ -72,9 +72,9 @@ Data by Country, Province, District, Divisional Secretariat Division (DSD), Gram
 }
 ```
 
-- [📄 JSON](data/Population-Religion/data.json)
-- [📕 TSV](data/Population-Religion/data.tsv)
-- [📊 Source XLSX](original_docs/GNLevel-GN_Level_Population_by_Religion.xlsx)
+- [📄 JSON](data/Population-Religion/data.json (4.7 MB))
+- [📕 TSV](data/Population-Religion/data.tsv (754.3 kB))
+- [📊 Source XLSX](original_docs/GNLevel-GN_Level_Population_by_Religion.xlsx (1.0 MB))
 - [🌐 https://www.statistics.gov.lk/Population/StaticalInformation/CPH2024/GNLevel/GN_Level_Population_by_Religion](https://www.statistics.gov.lk/Population/StaticalInformation/CPH2024/GNLevel/GN_Level_Population_by_Religion)
 
 ## 04. [Population-AgeGroup](data/Population-AgeGroup)
@@ -110,9 +110,9 @@ Data by Country, Province, District, Divisional Secretariat Division (DSD), Gram
 }
 ```
 
-- [📄 JSON](data/Population-AgeGroup/data.json)
-- [📕 TSV](data/Population-AgeGroup/data.tsv)
-- [📊 Source XLSX](original_docs/GNLevel-GN_Level_Population_by_Five_Year_Age_Group.xlsx)
+- [📄 JSON](data/Population-AgeGroup/data.json (8.5 MB))
+- [📕 TSV](data/Population-AgeGroup/data.tsv (1.5 MB))
+- [📊 Source XLSX](original_docs/GNLevel-GN_Level_Population_by_Five_Year_Age_Group.xlsx (2.1 MB))
 - [🌐 https://www.statistics.gov.lk/Population/StaticalInformation/CPH2024/GNLevel/GN_Level_Population_by_Five_Year_Age_Group](https://www.statistics.gov.lk/Population/StaticalInformation/CPH2024/GNLevel/GN_Level_Population_by_Five_Year_Age_Group)
 
 ## 05. [Housing-Structure](data/Housing-Structure)
@@ -138,9 +138,9 @@ Data by Country, Province, District, Divisional Secretariat Division (DSD), Gram
 }
 ```
 
-- [📄 JSON](data/Housing-Structure/data.json)
-- [📕 TSV](data/Housing-Structure/data.tsv)
-- [📊 Source XLSX](original_docs/OHU_GN_excel.xlsx)
+- [📄 JSON](data/Housing-Structure/data.json (8.9 MB))
+- [📕 TSV](data/Housing-Structure/data.tsv (847.0 kB))
+- [📊 Source XLSX](original_docs/OHU_GN_excel.xlsx (3.4 MB))
 - [🌐 https://www.statistics.gov.lk/Population/StaticalInformation/CPH2024/OHU_GN_excel](https://www.statistics.gov.lk/Population/StaticalInformation/CPH2024/OHU_GN_excel)
 
 ## 06. [Housing-Walls](data/Housing-Walls)
@@ -167,9 +167,9 @@ Data by Country, Province, District, Divisional Secretariat Division (DSD), Gram
 }
 ```
 
-- [📄 JSON](data/Housing-Walls/data.json)
-- [📕 TSV](data/Housing-Walls/data.tsv)
-- [📊 Source XLSX](original_docs/OHU_GN_excel.xlsx)
+- [📄 JSON](data/Housing-Walls/data.json (7.2 MB))
+- [📕 TSV](data/Housing-Walls/data.tsv (886.4 kB))
+- [📊 Source XLSX](original_docs/OHU_GN_excel.xlsx (3.4 MB))
 - [🌐 https://www.statistics.gov.lk/Population/StaticalInformation/CPH2024/OHU_GN_excel](https://www.statistics.gov.lk/Population/StaticalInformation/CPH2024/OHU_GN_excel)
 
 ## 07. [Housing-Floor](data/Housing-Floor)
@@ -193,9 +193,9 @@ Data by Country, Province, District, Divisional Secretariat Division (DSD), Gram
 }
 ```
 
-- [📄 JSON](data/Housing-Floor/data.json)
-- [📕 TSV](data/Housing-Floor/data.tsv)
-- [📊 Source XLSX](original_docs/OHU_GN_excel.xlsx)
+- [📄 JSON](data/Housing-Floor/data.json (5.5 MB))
+- [📕 TSV](data/Housing-Floor/data.tsv (803.2 kB))
+- [📊 Source XLSX](original_docs/OHU_GN_excel.xlsx (3.4 MB))
 - [🌐 https://www.statistics.gov.lk/Population/StaticalInformation/CPH2024/OHU_GN_excel](https://www.statistics.gov.lk/Population/StaticalInformation/CPH2024/OHU_GN_excel)
 
 ## 08. [Housing-Roof](data/Housing-Roof)
@@ -219,9 +219,9 @@ Data by Country, Province, District, Divisional Secretariat Division (DSD), Gram
 }
 ```
 
-- [📄 JSON](data/Housing-Roof/data.json)
-- [📕 TSV](data/Housing-Roof/data.tsv)
-- [📊 Source XLSX](original_docs/OHU_GN_excel.xlsx)
+- [📄 JSON](data/Housing-Roof/data.json (5.7 MB))
+- [📕 TSV](data/Housing-Roof/data.tsv (806.0 kB))
+- [📊 Source XLSX](original_docs/OHU_GN_excel.xlsx (3.4 MB))
 - [🌐 https://www.statistics.gov.lk/Population/StaticalInformation/CPH2024/OHU_GN_excel](https://www.statistics.gov.lk/Population/StaticalInformation/CPH2024/OHU_GN_excel)
 
 ## 09. [Housing-Water](data/Housing-Water)
@@ -252,9 +252,9 @@ Data by Country, Province, District, Divisional Secretariat Division (DSD), Gram
 }
 ```
 
-- [📄 JSON](data/Housing-Water/data.json)
-- [📕 TSV](data/Housing-Water/data.tsv)
-- [📊 Source XLSX](original_docs/HH_GND_excel.xlsx)
+- [📄 JSON](data/Housing-Water/data.json (8.9 MB))
+- [📕 TSV](data/Housing-Water/data.tsv (1.0 MB))
+- [📊 Source XLSX](original_docs/HH_GND_excel.xlsx (3.7 MB))
 - [🌐 https://www.statistics.gov.lk/Population/StaticalInformation/CPH2024/HH_GND_excel](https://www.statistics.gov.lk/Population/StaticalInformation/CPH2024/HH_GND_excel)
 
 ## 10. [Housing-Cooking-Fuel](data/Housing-Cooking-Fuel)
@@ -278,9 +278,9 @@ Data by Country, Province, District, Divisional Secretariat Division (DSD), Gram
 }
 ```
 
-- [📄 JSON](data/Housing-Cooking-Fuel/data.json)
-- [📕 TSV](data/Housing-Cooking-Fuel/data.tsv)
-- [📊 Source XLSX](original_docs/HH_GND_excel.xlsx)
+- [📄 JSON](data/Housing-Cooking-Fuel/data.json (5.4 MB))
+- [📕 TSV](data/Housing-Cooking-Fuel/data.tsv (789.8 kB))
+- [📊 Source XLSX](original_docs/HH_GND_excel.xlsx (3.7 MB))
 - [🌐 https://www.statistics.gov.lk/Population/StaticalInformation/CPH2024/HH_GND_excel](https://www.statistics.gov.lk/Population/StaticalInformation/CPH2024/HH_GND_excel)
 
 ## 11. [Housing-Lighting](data/Housing-Lighting)
@@ -303,9 +303,9 @@ Data by Country, Province, District, Divisional Secretariat Division (DSD), Gram
 }
 ```
 
-- [📄 JSON](data/Housing-Lighting/data.json)
-- [📕 TSV](data/Housing-Lighting/data.tsv)
-- [📊 Source XLSX](original_docs/HH_GND_excel.xlsx)
+- [📄 JSON](data/Housing-Lighting/data.json (5.2 MB))
+- [📕 TSV](data/Housing-Lighting/data.tsv (740.7 kB))
+- [📊 Source XLSX](original_docs/HH_GND_excel.xlsx (3.7 MB))
 - [🌐 https://www.statistics.gov.lk/Population/StaticalInformation/CPH2024/HH_GND_excel](https://www.statistics.gov.lk/Population/StaticalInformation/CPH2024/HH_GND_excel)
 
 ## 12. [Housing-Toilet](data/Housing-Toilet)
@@ -328,9 +328,9 @@ Data by Country, Province, District, Divisional Secretariat Division (DSD), Gram
 }
 ```
 
-- [📄 JSON](data/Housing-Toilet/data.json)
-- [📕 TSV](data/Housing-Toilet/data.tsv)
-- [📊 Source XLSX](original_docs/HH_GND_excel.xlsx)
+- [📄 JSON](data/Housing-Toilet/data.json (5.9 MB))
+- [📕 TSV](data/Housing-Toilet/data.tsv (773.3 kB))
+- [📊 Source XLSX](original_docs/HH_GND_excel.xlsx (3.7 MB))
 - [🌐 https://www.statistics.gov.lk/Population/StaticalInformation/CPH2024/HH_GND_excel](https://www.statistics.gov.lk/Population/StaticalInformation/CPH2024/HH_GND_excel)
 
 ![Maintainer](https://img.shields.io/badge/maintainer-nuuuwan-red)
