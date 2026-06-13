@@ -2,9 +2,6 @@ import os
 
 import openpyxl
 
-from lk_census.xlsx_data_table.XLSXDataTableValidateMixin import (
-    XLSXDataTableValidateMixin,
-)
 from utils_future import JSONFile, Log
 
 log = Log("XLSXDataTable")
@@ -19,7 +16,7 @@ def parse_int(x):
     return int(x)
 
 
-class XLSXDataTableExtractDataMixin(XLSXDataTableValidateMixin):
+class XLSXDataTableExtractDataMixin:
 
     def _get_raw_rows(self):
         wb = openpyxl.load_workbook(self.xlsx_path, data_only=True)
@@ -43,18 +40,15 @@ class XLSXDataTableExtractDataMixin(XLSXDataTableValidateMixin):
 
     def _get_gnd_info_with_province_info(self, row):
         assert self.has_province_info
-        province_part, district_part, dsd_part, gnd_part = (
-            row[0],
+        district_part, dsd_part, gnd_part = (
             row[2],
             row[4],
             row[6],
         )
-        if not (province_part and district_part and dsd_part and gnd_part):
+        if not (district_part and dsd_part and gnd_part):
             return None
         gnd_id = (
-            "LK-"
-            + f"{province_part:01d}{district_part:01d}"
-            + f"{dsd_part:02d}{gnd_part:03d}"
+            "LK-" + f"{district_part:02d}" + f"{dsd_part:02d}{gnd_part:03d}"
         )
         gnd_name = row[7]
         return gnd_id, gnd_name
@@ -87,6 +81,8 @@ class XLSXDataTableExtractDataMixin(XLSXDataTableValidateMixin):
         if not output:
             return None
         gnd_id, gnd_name = output
+        if len(gnd_id) != 10:
+            raise ValueError(f"Invalid GND ID format: {gnd_id}")
         values = self._get_values(row)
         total_value = sum(values.values())
         total_value_from_source = self._get_source_total_value(row)
@@ -95,7 +91,9 @@ class XLSXDataTableExtractDataMixin(XLSXDataTableValidateMixin):
             log.debug(f"{row=}")
             log.debug(f"{values=}")
             diff = total_value - total_value_from_source
-            log.debug(f"{total_value=}, {total_value_from_source=} -> {diff=}")
+            log.debug(
+                f"{total_value=}, {total_value_from_source=} -> {diff=}"
+            )
             raise ValueError(
                 f"Total value mismatch for {gnd_name} ({gnd_id})."
             )

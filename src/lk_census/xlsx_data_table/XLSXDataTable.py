@@ -3,6 +3,8 @@ from lk_census.xlsx_data_table.XLSXDataTableBuilderMixin import \
     XLSXDataTableBuilderMixin
 from lk_census.xlsx_data_table.XLSXDataTableDownloadMixin import \
     XLSXDataTableDownloadMixin
+from lk_census.xlsx_data_table.XLSXDataTableExpandDataMixin import \
+    XLSXDataTableExpandDataMixin
 from lk_census.xlsx_data_table.XLSXDataTableExtractDataMixin import \
     XLSXDataTableExtractDataMixin
 from lk_census.xlsx_data_table.XLSXDataTableLoaderMixin import \
@@ -14,9 +16,11 @@ log = Log("XLSXDataTable")
 
 class XLSXDataTable(
     XLSXDataTableBase,
-    XLSXDataTableBuilderMixin,
-    XLSXDataTableDownloadMixin,
     XLSXDataTableLoaderMixin,
+    XLSXDataTableBuilderMixin,
+    #
+    XLSXDataTableDownloadMixin,
     XLSXDataTableExtractDataMixin,
+    XLSXDataTableExpandDataMixin,
 ):
     pass
