@@ -51,8 +51,6 @@ class ReadMeDataTableMixin:
         first_data = data_list[0]
         lines.extend(
             [
-                "#### Example Data",
-                "",
                 "```json",
                 json.dumps(first_data, indent=4),
                 "```",
@@ -64,33 +62,30 @@ class ReadMeDataTableMixin:
 
     def get_lines_for_xlsx_data_table(self, i_table, data_table) -> list[str]:
         lines = [
-            f"### {i_table:02d}. [{data_table.data_table_id}]"
+            f"## {i_table:02d}. [{data_table.data_table_id}]"
             + f"({data_table.dir_table})",
             "",
         ]
+        lines.extend(self.get_lines_for_example_data(data_table))
         for label, file_path in [
             ("📄 JSON", data_table.all_data_path),
+            ("📕 TSV", data_table.tsv_path),
             ("📊 Source XLSX", data_table.xlsx_path),
             (
-                f"📊 Source URL: {data_table.url_remote}",
+                f"🌐 {data_table.url_remote}",
                 data_table.url_remote,
             ),
         ]:
             lines.append(f"- [{label}]({file_path})")
         lines.append("")
-        lines.extend(self.get_lines_for_example_data(data_table))
+
         lines.extend(self.get_lines_for_validations(data_table))
         return lines
 
     def get_lines_for_xlsx_data_tables(self) -> list[str]:
         data_table_list = XLSXDataTable.list_all()
-        n_tables = len(data_table_list)
-        lines = [
-            f"## XLSX Data Tables ({n_tables:,})",
-            "",
-            "The following datasets have been extracted from the XLSX source documents:",
-            "",
-        ]
+        len(data_table_list)
+        lines = []
         for i_table, data_table in enumerate(data_table_list, start=1):
             lines.extend(
                 self.get_lines_for_xlsx_data_table(i_table, data_table)

@@ -18,6 +18,12 @@ class ReadMe(ReadMeDataTableMixin):
             "![LastUpdated](https://img.shields.io/badge"
             + f"/last_updated-{time_updated_for_badge}-green)",
             "",
+            "Data by Country, Province, District,"
+            + " Divisional Secretariat Division (DSD),"
+            + " Grama Niladhari Division (GND), Electoral District (ED),"
+            + " Polling Division (PD), and"
+            + " Local Government Authority (LG) levels.",
+            "",
         ]
 
     def get_lines_for_footer(self) -> list[str]:
