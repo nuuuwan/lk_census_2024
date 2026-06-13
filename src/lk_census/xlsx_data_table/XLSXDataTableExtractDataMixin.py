@@ -132,6 +132,24 @@ class XLSXDataTableExtractDataMixin(XLSXDataTableValidateMixin):
     def json_path(self):
         return os.path.join(self.dir_table, "data.json")
 
+    def get_aggr_data(self, data_list):
+        values = {}
+        for d in data_list:
+            d_values = d["values"]
+            for k, v in d_values.items():
+                values[k] = values.get(k, 0) + v
+
+        total_value_from_source = sum(
+            d["total_value_from_source"] for d in data_list
+        )
+        total_value = sum(d["total_value"] for d in data_list)
+
+        return dict(
+            total_value_from_source=total_value_from_source,
+            values=values,
+            total_value=total_value,
+        )
+
     def extract_data(self):
         json_file = JSONFile(self.json_path)
         if json_file.exists:
@@ -142,8 +160,27 @@ class XLSXDataTableExtractDataMixin(XLSXDataTableValidateMixin):
         d_list = [self._extract_row_data(row) for row in raw_rows]
         d_list = [d for d in d_list if d is not None]
         d_list.sort(key=lambda d: d["gnd_id"])
-        os.makedirs(self.dir_table, exist_ok=True)
+        n = len(d_list)
+        expected_row_count = self.expected_row_count
+        if n != expected_row_count:
+            log.debug(f"{n=}, {expected_row_count=}")
+            raise ValueError(
+                f"Expected rows mismatch for {self.data_table_id}. "
+            )
 
+        aggr_data = self.get_aggr_data(d_list)
+        expected_total_value = self.expected_total_value
+        actual_total_value = aggr_data["total_value"]
+        if actual_total_value != expected_total_value:
+            diff = actual_total_value - expected_total_value
+            log.debug(
+                f"{actual_total_value=}, {expected_total_value=} -> {diff=}"
+            )
+            raise ValueError(
+                f"Expected total mismatch for {self.data_table_id}. "
+            )
+
+        os.makedirs(self.dir_table, exist_ok=True)
         json_file.write(d_list)
         log.info(f"Wrote {len(d_list)} rows to {self.json_path}")
         return d_list

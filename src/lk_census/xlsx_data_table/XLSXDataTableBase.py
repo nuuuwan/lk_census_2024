@@ -9,6 +9,8 @@ class XLSXDataTableBase:
     fields_col_start_index: int
     field_list: list[str]
     has_province_info: bool
+    expected_total_value: int
+    expected_row_count: int
 
     @property
     def n_fields(self) -> int:

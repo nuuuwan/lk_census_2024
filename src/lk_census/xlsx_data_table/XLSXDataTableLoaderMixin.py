@@ -19,6 +19,8 @@ class XLSXDataTableLoaderMixin:
                     fields_col_start_index=t["fields_col_start_index"],
                     field_list=t["field_list"],
                     has_province_info=t.get("has_province_info", True),
+                    expected_total_value=t["expected_total_value"],
+                    expected_row_count=t["expected_row_count"],
                 )
             )
         return table_list
