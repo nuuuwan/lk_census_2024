@@ -1,7 +1,7 @@
 [
   {
+    "data_table_id": "Population-Gender",
     "remote_file_name": "GN_population_excel",
-    "title": "Population-Gender",
     "column_offset": 9,
     "field_list": ["total", "male", "female"]
   },

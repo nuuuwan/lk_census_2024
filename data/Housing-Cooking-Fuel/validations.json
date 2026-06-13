@@ -1,0 +1,291 @@
+[
+  {
+    "name": "parent_child_totals",
+    "status": "fail",
+    "error_count": 16,
+    "errors": [
+      {
+        "region_id": "LK-1",
+        "field": "firewood",
+        "parent": 433777,
+        "sum_of_children": 1893318
+      },
+      {
+        "region_id": "LK-1",
+        "field": "kerosene",
+        "parent": 15637,
+        "sum_of_children": 27718
+      },
+      {
+        "region_id": "LK-1",
+        "field": "gas",
+        "parent": 1203412,
+        "sum_of_children": 1906778
+      },
+      {
+        "region_id": "LK-1",
+        "field": "electricity",
+        "parent": 10508,
+        "sum_of_children": 14758
+      },
+      {
+        "region_id": "LK-1",
+        "field": "sawdust_paddy_husk",
+        "parent": 303,
+        "sum_of_children": 1533
+      },
+      {
+        "region_id": "LK-1",
+        "field": "bio_gas",
+        "parent": 356,
+        "sum_of_children": 6503
+      },
+      {
+        "region_id": "LK-1",
+        "field": "other",
+        "parent": 1152,
+        "sum_of_children": 1696
+      },
+      {
+        "region_id": "LK-1",
+        "field": "not_relevant",
+        "parent": 38275,
+        "sum_of_children": 58259
+      },
+      {
+        "region_id": "LK-2",
+        "field": "firewood",
+        "parent": 489749,
+        "sum_of_children": 1050299
+      },
+      {
+        "region_id": "LK-2",
+        "field": "kerosene",
+        "parent": 2717,
+        "sum_of_children": 4083
+      },
+      {
+        "region_id": "LK-2",
+        "field": "gas",
+        "parent": 249179,
+        "sum_of_children": 403765
+      },
+      {
+        "region_id": "LK-2",
+        "field": "electricity",
+        "parent": 2191,
+        "sum_of_children": 3556
+      },
+      {
+        "region_id": "LK-2",
+        "field": "sawdust_paddy_husk",
+        "parent": 84,
+        "sum_of_children": 117
+      },
+      {
+        "region_id": "LK-2",
+        "field": "bio_gas",
+        "parent": 559,
+        "sum_of_children": 594
+      },
+      {
+        "region_id": "LK-2",
+        "field": "other",
+        "parent": 175,
+        "sum_of_children": 361
+      },
+      {
+        "region_id": "LK-2",
+        "field": "not_relevant",
+        "parent": 4365,
+        "sum_of_children": 9689
+      }
+    ]
+  },
+  {
+    "name": "all_gig_gnds_present",
+    "status": "fail",
+    "error_count": 39,
+    "errors": [
+      {
+        "region_id": "LK-2209125",
+        "region_name": "Medapihilla"
+      },
+      {
+        "region_id": "LK-2209130",
+        "region_name": "Kadawatha"
+      },
+      {
+        "region_id": "LK-2209135",
+        "region_name": "Galporugolla"
+      },
+      {
+        "region_id": "LK-2209140",
+        "region_name": "Elagamuwa"
+      },
+      {
+        "region_id": "LK-2209260",
+        "region_name": "Kambarawa"
+      },
+      {
+        "region_id": "LK-2224100",
+        "region_name": "Ganga Henwala"
+      },
+      {
+        "region_id": "LK-2224105",
+        "region_name": "Karadamulla"
+      },
+      {
+        "region_id": "LK-2224110",
+        "region_name": "Gonawala"
+      },
+      {
+        "region_id": "LK-2224115",
+        "region_name": "Laggala Pallegama"
+      },
+      {
+        "region_id": "LK-2224120",
+        "region_name": "Miniranketiya"
+      },
+      {
+        "region_id": "LK-2224125",
+        "region_name": "Rawanagama"
+      },
+      {
+        "region_id": "LK-2224150",
+        "region_name": "Imaduwa"
+      },
+      {
+        "region_id": "LK-2224155",
+        "region_name": "Rambukoluwa"
+      },
+      {
+        "region_id": "LK-4130000",
+        "region_name": "Kaithady North"
+      },
+      {
+        "region_id": "LK-5104002",
+        "region_name": "Punanai East "
+      },
+      {
+        "region_id": "LK-5104003",
+        "region_name": "Punanai East "
+      },
+      {
+        "region_id": "LK-5104004",
+        "region_name": "Punanai East "
+      },
+      {
+        "region_id": "LK-5104013",
+        "region_name": "Punanai East "
+      },
+      {
+        "region_id": "LK-5104055",
+        "region_name": "Karuwakerni"
+      },
+      {
+        "region_id": "LK-5109012",
+        "region_name": "Nasivanthivu"
+      },
+      {
+        "region_id": "LK-5109021",
+        "region_name": "Nasivanthivu"
+      },
+      {
+        "region_id": "LK-5109022",
+        "region_name": "Nasivanthivu"
+      },
+      {
+        "region_id": "LK-5109065",
+        "region_name": "Nasivanthivu"
+      },
+      {
+        "region_id": "LK-5112006",
+        "region_name": "Sittandy 3"
+      },
+      {
+        "region_id": "LK-5112014",
+        "region_name": "Sittandy 3"
+      },
+      {
+        "region_id": "LK-5112016",
+        "region_name": "Sittandy 3"
+      },
+      {
+        "region_id": "LK-5112200",
+        "region_name": "Sittandy 3"
+      },
+      {
+        "region_id": "LK-5112210",
+        "region_name": "Sittandy 3"
+      },
+      {
+        "region_id": "LK-5112215",
+        "region_name": "Sittandy 3"
+      },
+      {
+        "region_id": "LK-5112230",
+        "region_name": "Eravur 06"
+      },
+      {
+        "region_id": "LK-5112235",
+        "region_name": "Sittandy 3"
+      },
+      {
+        "region_id": "LK-5115007",
+        "region_name": "Eravur 03"
+      },
+      {
+        "region_id": "LK-5124009",
+        "region_name": "Kattankudy Division 1"
+      },
+      {
+        "region_id": "LK-5124017",
+        "region_name": "Kattankudy Division 1"
+      },
+      {
+        "region_id": "LK-5127018",
+        "region_name": "Kirankulam North"
+      },
+      {
+        "region_id": "LK-5130011",
+        "region_name": "Munaikkadu West"
+      },
+      {
+        "region_id": "LK-5133019",
+        "region_name": "Selvapuram"
+      },
+      {
+        "region_id": "LK-5136230",
+        "region_name": "Kurukkalamadam North"
+      },
+      {
+        "region_id": "LK-5136235",
+        "region_name": "Kurukkalamadam North"
+      }
+    ]
+  },
+  {
+    "name": "gnds_are_valid",
+    "status": "fail",
+    "error_count": 4,
+    "errors": [
+      {
+        "region_id": "LK-4415095",
+        "region_name_in_data": "Kokuthoduvai South"
+      },
+      {
+        "region_id": "LK-5115005",
+        "region_name_in_data": "Ellainagar"
+      },
+      {
+        "region_id": "LK-5115010",
+        "region_name_in_data": "Eravur 04"
+      },
+      {
+        "region_id": "LK-5115075",
+        "region_name_in_data": "Eravur 05"
+      }
+    ]
+  }
+]
