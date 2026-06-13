@@ -71,7 +71,10 @@ class ReadMeDataTableMixin:
         for label, file_path in [
             ("📄 JSON", data_table.all_data_path),
             ("📊 Source XLSX", data_table.xlsx_path),
-            ("📊 Source URL", data_table.url_remote),
+            (
+                f"📊 Source URL: {data_table.url_remote}",
+                data_table.url_remote,
+            ),
         ]:
             lines.append(f"- [{label}]({file_path})")
         lines.append("")

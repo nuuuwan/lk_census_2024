@@ -19,32 +19,39 @@ class XLSXDataTableAllDataMixin:
 
         gnd_data_list = self.gnd_data_list
 
-        ent_types = [
-            EntType.COUNTRY,
-            EntType.PROVINCE,
-            EntType.DISTRICT,
+        non_admin_ent_types = [
             EntType.DSD,
             EntType.ED,
             EntType.PD,
             EntType.LG,
         ]
+        admin_ent_types_and_id_len = [
+            (EntType.COUNTRY, 2),
+            (EntType.PROVINCE, 4),
+            (EntType.DISTRICT, 5),
+            (EntType.DSD, 7),
+        ]
+
         gnd_idx = Ent.idx_from_type(EntType.GND)
         parent_to_data_lists = {}
         gnd_ids_not_in_lk_admin_regions = set()
         for d in gnd_data_list:
             gnd_id = d["region_id"]
             gnd = gnd_idx.get(gnd_id)
+
+            for ent_type, id_len in admin_ent_types_and_id_len:
+                parent_id = gnd_id[:id_len]
+                if parent_id not in parent_to_data_lists:
+                    parent_to_data_lists[parent_id] = []
+                parent_to_data_lists[parent_id].append(d)
+
             if not gnd:
                 gnd_ids_not_in_lk_admin_regions.add(gnd_id)
                 log.warning(f"{gnd_id} not found in lk_admin_regions.")
                 continue
 
-            for ent_type in ent_types:
-                parent_id_key = (
-                    f"{ent_type.name.lower()}_id"
-                    if ent_type != EntType.GND
-                    else "id"
-                )
+            for ent_type in non_admin_ent_types:
+                parent_id_key = f"{ent_type.name.lower()}_id"
                 parent_id = gnd.d[parent_id_key]
                 if parent_id not in parent_to_data_lists:
                     parent_to_data_lists[parent_id] = []
@@ -60,10 +67,9 @@ class XLSXDataTableAllDataMixin:
             ) | self.get_aggr_data(data_lists)
             all_data_list.append(parent_data)
 
-        gnd_data_list_for_all = []
         for d in gnd_data_list:
             gnd = gnd_idx.get(d["region_id"])
-            all_d = dict(
+            gnd_data = dict(
                 region_id=d["region_id"],
                 region_name=gnd.name if gnd else d["region_name_from_source"],
                 region_ent_type=EntType.GND.name,
@@ -71,9 +77,8 @@ class XLSXDataTableAllDataMixin:
                 values=d["values"],
                 in_lk_admin_regions=gnd is not None,
             )
-            gnd_data_list_for_all.append(all_d)
+            all_data_list.append(gnd_data)
 
-        all_data_list.extend(gnd_data_list_for_all)
         all_data_list.sort(key=lambda d: -d["total_value"])
 
         os.makedirs(self.dir_table, exist_ok=True)
