@@ -1,19 +1,11 @@
 # 🇱🇰 Sri Lanka - Census of Population and Housing 2024
 
 ![CPH](https://img.shields.io/badge/CPH-2024-blue)
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--06--13_17:55:02-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--06--13_18:06:44-green)
 
-## XLSX Data Tables (12)
+Data by Country, Province, District, Divisional Secretariat Division (DSD), Grama Niladhari Division (GND), Electoral District (ED), Polling Division (PD), and Local Government Authority (LG) levels.
 
-The following datasets have been extracted from the XLSX source documents:
-
-### 01. [Population-Gender](data/Population-Gender)
-
-- [📄 JSON](data/Population-Gender/data.json)
-- [📊 Source XLSX](original_docs/GN_population_excel.xlsx)
-- [📊 Source URL: https://www.statistics.gov.lk/Population/StaticalInformation/CPH2024/GN_population_excel](https://www.statistics.gov.lk/Population/StaticalInformation/CPH2024/GN_population_excel)
-
-#### Example Data
+## 01. [Population-Gender](data/Population-Gender)
 
 ```json
 {
@@ -28,13 +20,12 @@ The following datasets have been extracted from the XLSX source documents:
 }
 ```
 
-### 02. [Population-Ethnicity](data/Population-Ethnicity)
+- [📄 JSON](data/Population-Gender/data.json)
+- [📕 TSV](data/Population-Gender/data.tsv)
+- [📊 Source XLSX](original_docs/GN_population_excel.xlsx)
+- [🌐 https://www.statistics.gov.lk/Population/StaticalInformation/CPH2024/GN_population_excel](https://www.statistics.gov.lk/Population/StaticalInformation/CPH2024/GN_population_excel)
 
-- [📄 JSON](data/Population-Ethnicity/data.json)
-- [📊 Source XLSX](original_docs/GNLevel-GN_Level_Population_by_Ethnic_Group.xlsx)
-- [📊 Source URL: https://www.statistics.gov.lk/Population/StaticalInformation/CPH2024/GNLevel/GN_Level_Population_by_Ethnic_Group](https://www.statistics.gov.lk/Population/StaticalInformation/CPH2024/GNLevel/GN_Level_Population_by_Ethnic_Group)
-
-#### Example Data
+## 02. [Population-Ethnicity](data/Population-Ethnicity)
 
 ```json
 {
@@ -57,13 +48,12 @@ The following datasets have been extracted from the XLSX source documents:
 }
 ```
 
-### 03. [Population-Religion](data/Population-Religion)
+- [📄 JSON](data/Population-Ethnicity/data.json)
+- [📕 TSV](data/Population-Ethnicity/data.tsv)
+- [📊 Source XLSX](original_docs/GNLevel-GN_Level_Population_by_Ethnic_Group.xlsx)
+- [🌐 https://www.statistics.gov.lk/Population/StaticalInformation/CPH2024/GNLevel/GN_Level_Population_by_Ethnic_Group](https://www.statistics.gov.lk/Population/StaticalInformation/CPH2024/GNLevel/GN_Level_Population_by_Ethnic_Group)
 
-- [📄 JSON](data/Population-Religion/data.json)
-- [📊 Source XLSX](original_docs/GNLevel-GN_Level_Population_by_Religion.xlsx)
-- [📊 Source URL: https://www.statistics.gov.lk/Population/StaticalInformation/CPH2024/GNLevel/GN_Level_Population_by_Religion](https://www.statistics.gov.lk/Population/StaticalInformation/CPH2024/GNLevel/GN_Level_Population_by_Religion)
-
-#### Example Data
+## 03. [Population-Religion](data/Population-Religion)
 
 ```json
 {
@@ -82,13 +72,12 @@ The following datasets have been extracted from the XLSX source documents:
 }
 ```
 
-### 04. [Population-AgeGroup](data/Population-AgeGroup)
+- [📄 JSON](data/Population-Religion/data.json)
+- [📕 TSV](data/Population-Religion/data.tsv)
+- [📊 Source XLSX](original_docs/GNLevel-GN_Level_Population_by_Religion.xlsx)
+- [🌐 https://www.statistics.gov.lk/Population/StaticalInformation/CPH2024/GNLevel/GN_Level_Population_by_Religion](https://www.statistics.gov.lk/Population/StaticalInformation/CPH2024/GNLevel/GN_Level_Population_by_Religion)
 
-- [📄 JSON](data/Population-AgeGroup/data.json)
-- [📊 Source XLSX](original_docs/GNLevel-GN_Level_Population_by_Five_Year_Age_Group.xlsx)
-- [📊 Source URL: https://www.statistics.gov.lk/Population/StaticalInformation/CPH2024/GNLevel/GN_Level_Population_by_Five_Year_Age_Group](https://www.statistics.gov.lk/Population/StaticalInformation/CPH2024/GNLevel/GN_Level_Population_by_Five_Year_Age_Group)
-
-#### Example Data
+## 04. [Population-AgeGroup](data/Population-AgeGroup)
 
 ```json
 {
@@ -121,13 +110,12 @@ The following datasets have been extracted from the XLSX source documents:
 }
 ```
 
-### 05. [Housing-Structure](data/Housing-Structure)
+- [📄 JSON](data/Population-AgeGroup/data.json)
+- [📕 TSV](data/Population-AgeGroup/data.tsv)
+- [📊 Source XLSX](original_docs/GNLevel-GN_Level_Population_by_Five_Year_Age_Group.xlsx)
+- [🌐 https://www.statistics.gov.lk/Population/StaticalInformation/CPH2024/GNLevel/GN_Level_Population_by_Five_Year_Age_Group](https://www.statistics.gov.lk/Population/StaticalInformation/CPH2024/GNLevel/GN_Level_Population_by_Five_Year_Age_Group)
 
-- [📄 JSON](data/Housing-Structure/data.json)
-- [📊 Source XLSX](original_docs/OHU_GN_excel.xlsx)
-- [📊 Source URL: https://www.statistics.gov.lk/Population/StaticalInformation/CPH2024/OHU_GN_excel](https://www.statistics.gov.lk/Population/StaticalInformation/CPH2024/OHU_GN_excel)
-
-#### Example Data
+## 05. [Housing-Structure](data/Housing-Structure)
 
 ```json
 {
@@ -150,13 +138,12 @@ The following datasets have been extracted from the XLSX source documents:
 }
 ```
 
-### 06. [Housing-Walls](data/Housing-Walls)
-
-- [📄 JSON](data/Housing-Walls/data.json)
+- [📄 JSON](data/Housing-Structure/data.json)
+- [📕 TSV](data/Housing-Structure/data.tsv)
 - [📊 Source XLSX](original_docs/OHU_GN_excel.xlsx)
-- [📊 Source URL: https://www.statistics.gov.lk/Population/StaticalInformation/CPH2024/OHU_GN_excel](https://www.statistics.gov.lk/Population/StaticalInformation/CPH2024/OHU_GN_excel)
+- [🌐 https://www.statistics.gov.lk/Population/StaticalInformation/CPH2024/OHU_GN_excel](https://www.statistics.gov.lk/Population/StaticalInformation/CPH2024/OHU_GN_excel)
 
-#### Example Data
+## 06. [Housing-Walls](data/Housing-Walls)
 
 ```json
 {
@@ -180,13 +167,12 @@ The following datasets have been extracted from the XLSX source documents:
 }
 ```
 
-### 07. [Housing-Floor](data/Housing-Floor)
-
-- [📄 JSON](data/Housing-Floor/data.json)
+- [📄 JSON](data/Housing-Walls/data.json)
+- [📕 TSV](data/Housing-Walls/data.tsv)
 - [📊 Source XLSX](original_docs/OHU_GN_excel.xlsx)
-- [📊 Source URL: https://www.statistics.gov.lk/Population/StaticalInformation/CPH2024/OHU_GN_excel](https://www.statistics.gov.lk/Population/StaticalInformation/CPH2024/OHU_GN_excel)
+- [🌐 https://www.statistics.gov.lk/Population/StaticalInformation/CPH2024/OHU_GN_excel](https://www.statistics.gov.lk/Population/StaticalInformation/CPH2024/OHU_GN_excel)
 
-#### Example Data
+## 07. [Housing-Floor](data/Housing-Floor)
 
 ```json
 {
@@ -207,13 +193,12 @@ The following datasets have been extracted from the XLSX source documents:
 }
 ```
 
-### 08. [Housing-Roof](data/Housing-Roof)
-
-- [📄 JSON](data/Housing-Roof/data.json)
+- [📄 JSON](data/Housing-Floor/data.json)
+- [📕 TSV](data/Housing-Floor/data.tsv)
 - [📊 Source XLSX](original_docs/OHU_GN_excel.xlsx)
-- [📊 Source URL: https://www.statistics.gov.lk/Population/StaticalInformation/CPH2024/OHU_GN_excel](https://www.statistics.gov.lk/Population/StaticalInformation/CPH2024/OHU_GN_excel)
+- [🌐 https://www.statistics.gov.lk/Population/StaticalInformation/CPH2024/OHU_GN_excel](https://www.statistics.gov.lk/Population/StaticalInformation/CPH2024/OHU_GN_excel)
 
-#### Example Data
+## 08. [Housing-Roof](data/Housing-Roof)
 
 ```json
 {
@@ -234,13 +219,12 @@ The following datasets have been extracted from the XLSX source documents:
 }
 ```
 
-### 09. [Housing-Water](data/Housing-Water)
+- [📄 JSON](data/Housing-Roof/data.json)
+- [📕 TSV](data/Housing-Roof/data.tsv)
+- [📊 Source XLSX](original_docs/OHU_GN_excel.xlsx)
+- [🌐 https://www.statistics.gov.lk/Population/StaticalInformation/CPH2024/OHU_GN_excel](https://www.statistics.gov.lk/Population/StaticalInformation/CPH2024/OHU_GN_excel)
 
-- [📄 JSON](data/Housing-Water/data.json)
-- [📊 Source XLSX](original_docs/HH_GND_excel.xlsx)
-- [📊 Source URL: https://www.statistics.gov.lk/Population/StaticalInformation/CPH2024/HH_GND_excel](https://www.statistics.gov.lk/Population/StaticalInformation/CPH2024/HH_GND_excel)
-
-#### Example Data
+## 09. [Housing-Water](data/Housing-Water)
 
 ```json
 {
@@ -268,13 +252,12 @@ The following datasets have been extracted from the XLSX source documents:
 }
 ```
 
-### 10. [Housing-Cooking-Fuel](data/Housing-Cooking-Fuel)
-
-- [📄 JSON](data/Housing-Cooking-Fuel/data.json)
+- [📄 JSON](data/Housing-Water/data.json)
+- [📕 TSV](data/Housing-Water/data.tsv)
 - [📊 Source XLSX](original_docs/HH_GND_excel.xlsx)
-- [📊 Source URL: https://www.statistics.gov.lk/Population/StaticalInformation/CPH2024/HH_GND_excel](https://www.statistics.gov.lk/Population/StaticalInformation/CPH2024/HH_GND_excel)
+- [🌐 https://www.statistics.gov.lk/Population/StaticalInformation/CPH2024/HH_GND_excel](https://www.statistics.gov.lk/Population/StaticalInformation/CPH2024/HH_GND_excel)
 
-#### Example Data
+## 10. [Housing-Cooking-Fuel](data/Housing-Cooking-Fuel)
 
 ```json
 {
@@ -295,13 +278,12 @@ The following datasets have been extracted from the XLSX source documents:
 }
 ```
 
-### 11. [Housing-Lighting](data/Housing-Lighting)
-
-- [📄 JSON](data/Housing-Lighting/data.json)
+- [📄 JSON](data/Housing-Cooking-Fuel/data.json)
+- [📕 TSV](data/Housing-Cooking-Fuel/data.tsv)
 - [📊 Source XLSX](original_docs/HH_GND_excel.xlsx)
-- [📊 Source URL: https://www.statistics.gov.lk/Population/StaticalInformation/CPH2024/HH_GND_excel](https://www.statistics.gov.lk/Population/StaticalInformation/CPH2024/HH_GND_excel)
+- [🌐 https://www.statistics.gov.lk/Population/StaticalInformation/CPH2024/HH_GND_excel](https://www.statistics.gov.lk/Population/StaticalInformation/CPH2024/HH_GND_excel)
 
-#### Example Data
+## 11. [Housing-Lighting](data/Housing-Lighting)
 
 ```json
 {
@@ -321,13 +303,12 @@ The following datasets have been extracted from the XLSX source documents:
 }
 ```
 
-### 12. [Housing-Toilet](data/Housing-Toilet)
-
-- [📄 JSON](data/Housing-Toilet/data.json)
+- [📄 JSON](data/Housing-Lighting/data.json)
+- [📕 TSV](data/Housing-Lighting/data.tsv)
 - [📊 Source XLSX](original_docs/HH_GND_excel.xlsx)
-- [📊 Source URL: https://www.statistics.gov.lk/Population/StaticalInformation/CPH2024/HH_GND_excel](https://www.statistics.gov.lk/Population/StaticalInformation/CPH2024/HH_GND_excel)
+- [🌐 https://www.statistics.gov.lk/Population/StaticalInformation/CPH2024/HH_GND_excel](https://www.statistics.gov.lk/Population/StaticalInformation/CPH2024/HH_GND_excel)
 
-#### Example Data
+## 12. [Housing-Toilet](data/Housing-Toilet)
 
 ```json
 {
@@ -346,6 +327,11 @@ The following datasets have been extracted from the XLSX source documents:
     "total_value": 6111315
 }
 ```
+
+- [📄 JSON](data/Housing-Toilet/data.json)
+- [📕 TSV](data/Housing-Toilet/data.tsv)
+- [📊 Source XLSX](original_docs/HH_GND_excel.xlsx)
+- [🌐 https://www.statistics.gov.lk/Population/StaticalInformation/CPH2024/HH_GND_excel](https://www.statistics.gov.lk/Population/StaticalInformation/CPH2024/HH_GND_excel)
 
 ![Maintainer](https://img.shields.io/badge/maintainer-nuuuwan-red)
 ![MadeWith](https://img.shields.io/badge/made_with-python-blue)
