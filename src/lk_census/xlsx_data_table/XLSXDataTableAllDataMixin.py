@@ -87,7 +87,9 @@ class XLSXDataTableAllDataMixin:
             )
 
         gnd_ids_in_data_table = set(d["region_id"] for d in gnd_data_list)
-        gnd_ids_not_in_data_table = set(gnd_idx.keys()) - gnd_ids_in_data_table
+        gnd_ids_not_in_data_table = (
+            set(gnd_idx.keys()) - gnd_ids_in_data_table
+        )
         if gnd_ids_not_in_data_table:
             log.warning(
                 f"{len(gnd_ids_not_in_data_table)}"
