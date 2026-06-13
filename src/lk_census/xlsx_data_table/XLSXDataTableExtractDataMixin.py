@@ -131,8 +131,6 @@ class XLSXDataTableExtractDataMixin(XLSXDataTableValidateMixin):
         raw_names = {}
 
         for row in raw_rows:
-            log.debug(f'{row=}')
-
             output = self._get_ids_and_fallbacks(row)
             if output is None:
                 continue
