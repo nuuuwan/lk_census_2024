@@ -10,7 +10,7 @@ class XLSXDataTableLoaderMixin:
     def list_all(cls):
         table_list = []
         configs = JSONFile(cls.XLSX_TABLE_METADATA_PATH).read()
-        for t in configs[7:]:
+        for t in configs:
             table_list.append(
                 cls(
                     data_table_id=t["data_table_id"],
