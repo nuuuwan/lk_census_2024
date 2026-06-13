@@ -108,6 +108,18 @@ class XLSXDataTableExtractDataMixin(XLSXDataTableValidateMixin):
         values = self._get_values(row)
         total_value = sum(values.values())
         total_value_from_source = self._get_source_total_value(row)
+
+        if total_value != total_value_from_source:
+            log.debug(f"{row=}")
+            log.debug(f"{values=}")
+            diff = total_value - total_value_from_source
+            log.debug(
+                f"{total_value=}, {total_value_from_source=} -> {diff=}"
+            )
+            raise ValueError(
+                f"Total value mismatch for {gnd_name} ({gnd_id})."
+            )
+
         return dict(
             gnd_id=gnd_id,
             gnd_name_from_source=gnd_name,
