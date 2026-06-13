@@ -29,6 +29,13 @@ def _ent_name(region_id: str, fallback: str) -> str:
     return ent.name if ent else fallback
 
 
+def parse_int(x):
+    x = str(x)
+    if x in ['', '-']:
+        return 0
+    return int(x)
+
+
 class XLSXDataTableExtractDataMixin(XLSXDataTableValidateMixin):
 
     @property
@@ -49,7 +56,7 @@ class XLSXDataTableExtractDataMixin(XLSXDataTableValidateMixin):
     def __field_values__(self, row):
         return {
             field: (
-                int(row[self.column_offset + i])
+                parse_int(row[self.column_offset + i])
                 if row[self.column_offset + i] is not None
                 else 0
             )
@@ -61,31 +68,31 @@ class XLSXDataTableExtractDataMixin(XLSXDataTableValidateMixin):
         raw_names = {}
 
         for row in raw_rows:
-            province_id = int(row[0])
-            province_name = str(row[1])
-            district_id = int(row[2])
-            district_name = str(row[3])
-            dsd_id = int(row[4])
-            dsd_name = str(row[5])
-            gnd_id = int(row[6])
-            gnd_name = str(row[7])
+            log.debug(f'{row=}')
+            district_id = parse_int(row[0])
+            district_name = str(row[1])
+            dsd_id = parse_int(row[2])
+            dsd_name = str(row[3])
+            gnd_id = parse_int(row[4])
+            gnd_name = str(row[5])
 
             ids = {
-                "COUNTRY": "LK",
-                "PROVINCE": f"LK-{province_id}",
                 "DISTRICT": f"LK-{district_id:02d}",
                 "DSD": f"LK-{district_id:02d}{dsd_id:02d}",
                 "GND": f"LK-{district_id:02d}{dsd_id:02d}{gnd_id:03d}",
             }
+            ids['COUNTRY'] = "LK"
+            ids['PROVINCE'] = ids['DISTRICT'][:4]
+
             fallbacks = {
                 "COUNTRY": "Sri Lanka",
-                "PROVINCE": province_name,
                 "DISTRICT": district_name,
                 "DSD": dsd_name,
                 "GND": gnd_name,
             }
 
             field_vals = self.__field_values__(row)
+            log.debug(f'{field_vals=}')
             for ent_type, rid in ids.items():
                 for field, val in field_vals.items():
                     sums[rid][field] += val

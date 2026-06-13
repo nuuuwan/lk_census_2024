@@ -12,7 +12,8 @@ class XLSXDataTableLoaderMixin:
     @classmethod
     def list_all(cls):
         table_list = []
-        for t in JSONFile(cls.XLSX_TABLE_METADATA_PATH).read():
+        configs = JSONFile(cls.XLSX_TABLE_METADATA_PATH).read()
+        for t in configs[8:]:
             table_list.append(
                 cls(
                     doc_name=t["doc_name"],
