@@ -1,7 +1,7 @@
 # 🇱🇰 Sri Lanka - Census of Population and Housing 2024
 
 ![CPH](https://img.shields.io/badge/CPH-2024-blue)
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--06--13_18:34:18-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--06--13_18:36:45-green)
 
 Data by Country, Province, District, Divisional Secretariat Division (DSD), Grama Niladhari Division (GND), Electoral District (ED), Polling Division (PD), and Local Government Authority (LG) levels.
 
@@ -9,7 +9,7 @@ Data by Country, Province, District, Divisional Secretariat Division (DSD), Gram
 
 ### Data by Country & Province
 
-| Region ID | Region Name | Total | male | female |
+| region_id | region_name | total_value | male | female |
 | --: | --: | --: | --: | --:|
 | LK | Sri Lanka | 21,781,800 | 10,512,344 | 11,269,456 |
 | LK-1 | Western | 6,117,341 | 2,961,374 | 3,155,967 |
@@ -52,7 +52,7 @@ Data by Country, Province, District, Divisional Secretariat Division (DSD), Gram
 
 ### Data by Country & Province
 
-| Region ID | Region Name | Total | sinhalese | sri_lanka_tamil | indian_malaiyaga_tamil | sri_lanka_moor_muslim | burgher | malay | sri_lanka_chetty | bharatha | veddha | other |
+| region_id | region_name | total_value | sinhalese | sri_lanka_tamil | indian_malaiyaga_tamil | sri_lanka_moor_muslim | burgher | malay | sri_lanka_chetty | bharatha | veddha | other |
 | --: | --: | --: | --: | --: | --: | --: | --: | --: | --: | --: | --: | --:|
 | LK | Sri Lanka | 21,781,800 | 16,140,688 | 2,665,574 | 590,087 | 2,274,372 | 25,159 | 22,838 | 1,753 | 553 | 1,287 | 59,489 |
 | LK-1 | Western | 6,117,341 | 5,115,543 | 379,680 | 26,271 | 542,333 | 15,725 | 16,126 | 1,753 | 553 | 0 | 19,357 |
@@ -103,7 +103,7 @@ Data by Country, Province, District, Divisional Secretariat Division (DSD), Gram
 
 ### Data by Country & Province
 
-| Region ID | Region Name | Total | buddhist | hindu | islam | roman_catholic | other_christian | other |
+| region_id | region_name | total_value | buddhist | hindu | islam | roman_catholic | other_christian | other |
 | --: | --: | --: | --: | --: | --: | --: | --: | --:|
 | LK | Sri Lanka | 21,781,800 | 15,196,960 | 2,718,154 | 2,327,605 | 1,209,072 | 266,515 | 63,494 |
 | LK-1 | Western | 6,117,341 | 4,507,601 | 305,971 | 568,301 | 616,413 | 104,869 | 14,186 |
@@ -150,7 +150,7 @@ Data by Country, Province, District, Divisional Secretariat Division (DSD), Gram
 
 ### Data by Country & Province
 
-| Region ID | Region Name | Total | 00_04 | 05_09 | 10_14 | 15_19 | 20_24 | 25_29 | 30_34 | 35_39 | 40_44 | 45_49 | 50_54 | 55_59 | 60_64 | 65_69 | 70_74 | 75_79 | 80_84 | 85_89 | 90_94 | 95_and_above |
+| region_id | region_name | total_value | 00_04 | 05_09 | 10_14 | 15_19 | 20_24 | 25_29 | 30_34 | 35_39 | 40_44 | 45_49 | 50_54 | 55_59 | 60_64 | 65_69 | 70_74 | 75_79 | 80_84 | 85_89 | 90_94 | 95_and_above |
 | --: | --: | --: | --: | --: | --: | --: | --: | --: | --: | --: | --: | --: | --: | --: | --: | --: | --: | --: | --: | --: | --: | --:|
 | LK | Sri Lanka | 21,781,800 | 1,215,120 | 1,556,523 | 1,735,196 | 1,795,038 | 1,608,606 | 1,372,458 | 1,414,060 | 1,452,703 | 1,602,344 | 1,490,765 | 1,341,807 | 1,276,056 | 1,183,310 | 991,814 | 795,539 | 522,990 | 268,415 | 111,029 | 39,235 | 8,792 |
 | LK-1 | Western | 6,117,341 | 287,116 | 369,976 | 428,367 | 475,748 | 486,242 | 411,892 | 396,532 | 403,369 | 458,173 | 445,763 | 412,374 | 380,280 | 343,391 | 285,239 | 231,712 | 162,489 | 85,998 | 36,613 | 13,076 | 2,991 |
@@ -211,7 +211,7 @@ Data by Country, Province, District, Divisional Secretariat Division (DSD), Gram
 
 ### Data by Country & Province
 
-| Region ID | Region Name | Total | single_house_single_storeyed | single_house_two_storeyed | single_house_more_than_two_storeyed | attached_house_1st_floor | attached_house_2nd_floor | attached_house_from_3_to_4_floors | attached_house_from_5_to_10_floors | attached_house_from_11_to_19_floors | attached_house_from_20_floors_or_more | other |
+| region_id | region_name | total_value | single_house_single_storeyed | single_house_two_storeyed | single_house_more_than_two_storeyed | attached_house_1st_floor | attached_house_2nd_floor | attached_house_from_3_to_4_floors | attached_house_from_5_to_10_floors | attached_house_from_11_to_19_floors | attached_house_from_20_floors_or_more | other |
 | --: | --: | --: | --: | --: | --: | --: | --: | --: | --: | --: | --: | --:|
 | LK | Sri Lanka | 6,030,541 | 4,958,009 | 751,375 | 59,484 | 164,419 | 50,030 | 25,373 | 12,853 | 6,031 | 1,756 | 1,211 |
 | LK-1 | Western | 1,686,506 | 1,177,294 | 360,332 | 32,722 | 44,627 | 32,464 | 18,775 | 12,272 | 5,994 | 1,756 | 270 |
@@ -262,7 +262,7 @@ Data by Country, Province, District, Divisional Secretariat Division (DSD), Gram
 
 ### Data by Country & Province
 
-| Region ID | Region Name | Total | bricks | cement_block | granite_cube_stones | cabook | pressed_soil_bricks | warichchi_mud | cadjan_palmyrah | planks_metal_sheets_asbestos | zink_aluminium_sheets | other | not_relevant |
+| region_id | region_name | total_value | bricks | cement_block | granite_cube_stones | cabook | pressed_soil_bricks | warichchi_mud | cadjan_palmyrah | planks_metal_sheets_asbestos | zink_aluminium_sheets | other | not_relevant |
 | --: | --: | --: | --: | --: | --: | --: | --: | --: | --: | --: | --: | --: | --:|
 | LK | Sri Lanka | 6,030,541 | 2,799,913 | 2,828,027 | 95,717 | 68,497 | 111,245 | 70,011 | 7,650 | 43,260 | 3,870 | 1,140 | 1,211 |
 | LK-1 | Western | 1,686,506 | 444,198 | 1,147,193 | 8,468 | 48,401 | 15,695 | 9,478 | 122 | 12,045 | 407 | 229 | 270 |
@@ -314,7 +314,7 @@ Data by Country, Province, District, Divisional Secretariat Division (DSD), Gram
 
 ### Data by Country & Province
 
-| Region ID | Region Name | Total | cement | terrazzo_tile_granite_wood_finished | concrete | mud | wood | sand | other | not_relevant |
+| region_id | region_name | total_value | cement | terrazzo_tile_granite_wood_finished | concrete | mud | wood | sand | other | not_relevant |
 | --: | --: | --: | --: | --: | --: | --: | --: | --: | --: | --:|
 | LK | Sri Lanka | 6,030,541 | 3,710,163 | 1,692,659 | 498,925 | 115,259 | 2,579 | 7,707 | 2,038 | 1,211 |
 | LK-1 | Western | 1,686,506 | 836,713 | 754,097 | 87,793 | 5,688 | 1,159 | 578 | 208 | 270 |
@@ -363,7 +363,7 @@ Data by Country, Province, District, Divisional Secretariat Division (DSD), Gram
 
 ### Data by Country & Province
 
-| Region ID | Region Name | Total | tile | asbestos | concrete | zink_aluminium_sheet | metal_sheet | cadjan_palmyrah_straw | other | not_relevant |
+| region_id | region_name | total_value | tile | asbestos | concrete | zink_aluminium_sheet | metal_sheet | cadjan_palmyrah_straw | other | not_relevant |
 | --: | --: | --: | --: | --: | --: | --: | --: | --: | --: | --:|
 | LK | Sri Lanka | 6,030,541 | 2,032,441 | 3,209,496 | 440,761 | 85,422 | 163,735 | 88,820 | 8,655 | 1,211 |
 | LK-1 | Western | 1,686,506 | 363,704 | 1,098,621 | 190,819 | 10,224 | 12,480 | 10,085 | 303 | 270 |
@@ -412,7 +412,7 @@ Data by Country, Province, District, Divisional Secretariat Division (DSD), Gram
 
 ### Data by Country & Province
 
-| Region ID | Region Name | Total | protected_well | semi_protected_well | unprotected_well | tube_well | spring_fountain | pipe_borne_nwsdb | pipe_borne_local_authority | pipe_borne_community | pipe_borne_private | tank_river_stream | rain_water | bottled_water | filter_ro | bowser | other |
+| region_id | region_name | total_value | protected_well | semi_protected_well | unprotected_well | tube_well | spring_fountain | pipe_borne_nwsdb | pipe_borne_local_authority | pipe_borne_community | pipe_borne_private | tank_river_stream | rain_water | bottled_water | filter_ro | bowser | other |
 | --: | --: | --: | --: | --: | --: | --: | --: | --: | --: | --: | --: | --: | --: | --: | --: | --: | --:|
 | LK | Sri Lanka | 6,111,315 | 1,624,506 | 267,327 | 77,806 | 270,401 | 230,268 | 2,374,349 | 100,764 | 419,247 | 130,394 | 59,336 | 4,346 | 63,753 | 456,849 | 31,208 | 761 |
 | LK-1 | Western | 1,703,420 | 547,468 | 47,227 | 9,979 | 45,657 | 5,123 | 983,503 | 9,099 | 39,974 | 9,811 | 1,849 | 114 | 3,140 | 128 | 95 | 253 |
@@ -468,7 +468,7 @@ Data by Country, Province, District, Divisional Secretariat Division (DSD), Gram
 
 ### Data by Country & Province
 
-| Region ID | Region Name | Total | firewood | kerosene | gas | electricity | sawdust_paddy_husk | bio_gas | other | not_relevant |
+| region_id | region_name | total_value | firewood | kerosene | gas | electricity | sawdust_paddy_husk | bio_gas | other | not_relevant |
 | --: | --: | --: | --: | --: | --: | --: | --: | --: | --: | --:|
 | LK | Sri Lanka | 6,111,315 | 3,381,781 | 32,974 | 2,588,502 | 19,540 | 1,739 | 7,179 | 2,361 | 77,239 |
 | LK-1 | Western | 1,703,420 | 433,777 | 15,637 | 1,203,412 | 10,508 | 303 | 356 | 1,152 | 38,275 |
@@ -517,7 +517,7 @@ Data by Country, Province, District, Divisional Secretariat Division (DSD), Gram
 
 ### Data by Country & Province
 
-| Region ID | Region Name | Total | electricity_grid | kerosene_lamp | solar_grid | solar_standalone | bio_gas | generator | other |
+| region_id | region_name | total_value | electricity_grid | kerosene_lamp | solar_grid | solar_standalone | bio_gas | generator | other |
 | --: | --: | --: | --: | --: | --: | --: | --: | --: | --:|
 | LK | Sri Lanka | 6,111,315 | 5,987,585 | 95,150 | 8,093 | 5,817 | 244 | 1,230 | 13,196 |
 | LK-1 | Western | 1,703,420 | 1,682,433 | 10,565 | 5,206 | 1,514 | 121 | 288 | 3,293 |
@@ -565,7 +565,7 @@ Data by Country, Province, District, Divisional Secretariat Division (DSD), Gram
 
 ### Data by Country & Province
 
-| Region ID | Region Name | Total | within_unit_exclusive | within_unit_shared | within_premises_exclusive | within_premises_shared | no_toilet_sharing | common_public | none |
+| region_id | region_name | total_value | within_unit_exclusive | within_unit_shared | within_premises_exclusive | within_premises_shared | no_toilet_sharing | common_public | none |
 | --: | --: | --: | --: | --: | --: | --: | --: | --: | --:|
 | LK | Sri Lanka | 6,111,315 | 3,798,777 | 157,456 | 1,832,587 | 197,678 | 101,924 | 9,567 | 13,326 |
 | LK-1 | Western | 1,703,420 | 1,402,581 | 39,527 | 206,499 | 37,544 | 11,147 | 5,440 | 682 |
