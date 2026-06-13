@@ -99,8 +99,8 @@ class XLSXDataTableGNDDataMixin:
             )
 
         return dict(
-            gnd_id=gnd_id,
-            gnd_name_from_source=gnd_name,
+            region_id=gnd_id,
+            region_name_from_source=gnd_name,
             total_value_from_source=total_value_from_source,
             values=values,
             total_value=total_value,
@@ -117,13 +117,9 @@ class XLSXDataTableGNDDataMixin:
             for k, v in d_values.items():
                 values[k] = values.get(k, 0) + v
 
-        total_value_from_source = sum(
-            d["total_value_from_source"] for d in data_list
-        )
         total_value = sum(d["total_value"] for d in data_list)
 
         return dict(
-            total_value_from_source=total_value_from_source,
             values=values,
             total_value=total_value,
         )
@@ -137,7 +133,7 @@ class XLSXDataTableGNDDataMixin:
         raw_rows = self._get_raw_rows()
         d_list = [self._extract_row_data(row) for row in raw_rows]
         d_list = [d for d in d_list if d is not None]
-        d_list.sort(key=lambda d: d["gnd_id"])
+        d_list.sort(key=lambda d: d["region_id"])
         n = len(d_list)
         expected_row_count = self.expected_row_count
         if n != expected_row_count:
