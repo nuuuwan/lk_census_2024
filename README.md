@@ -1,15 +1,7 @@
 # 🇱🇰 Sri Lanka - Census of Population and Housing 2024
 
 ![CPH](https://img.shields.io/badge/CPH-2024-blue)
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--06--13_15:02:00-green)
-
-## Original Source Documents
-
-The following original documents have been downloaded from [https://www.statistics.gov.lk](https://www.statistics.gov.lk)
-
-1. [GN_population_excel.xlsx](GN_population_excel.xlsx)
-2. [GN_housing_excel.xlsx](GN_housing_excel.xlsx)
-3. [HH_GND_excel.xlsx](HH_GND_excel.xlsx)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--06--13_15:09:48-green)
 
 ## XLSX Data Tables (15)
 
