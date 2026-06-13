@@ -4,7 +4,9 @@
     "remote_file_name": "GN_population_excel",
     "total_col_index": 9,
     "fields_col_start_index": 10,
-    "field_list": ["male", "female"]
+    "field_list": ["male", "female"],
+    "expected_total_value": 21781800,
+    "expected_row_count": 14008
   },
 
   {
@@ -24,7 +26,9 @@
       "veddha",
       "other"
     ],
-    "has_province_info": false
+    "has_province_info": false,
+    "expected_total_value": 21781800,
+    "expected_row_count": 14003
   },
   {
     "data_table_id": "Population-Religion",
@@ -39,7 +43,9 @@
       "other_christian",
       "other"
     ],
-    "has_province_info": false
+    "has_province_info": false,
+    "expected_total_value": 21781800,
+    "expected_row_count": 14003
   },
   {
     "data_table_id": "Population-AgeGroup",
@@ -68,7 +74,9 @@
       "90_94",
       "95_and_above"
     ],
-    "has_province_info": false
+    "has_province_info": false,
+    "expected_total_value": 21781800,
+    "expected_row_count": 14003
   },
   {
     "data_table_id": "Housing-Structure",
@@ -86,7 +94,9 @@
       "attached_house_from_11_to_19_floors",
       "attached_house_from_20_floors_or_more",
       "other"
-    ]
+    ],
+    "expected_total_value": 6030541,
+    "expected_row_count": 14008
   },
   {
     "data_table_id": "Housing-Walls",
@@ -105,7 +115,9 @@
       "zink_aluminium_sheets",
       "other",
       "not_relevant"
-    ]
+    ],
+    "expected_total_value": 6030541,
+    "expected_row_count": 14008
   },
   {
     "data_table_id": "Housing-Floor",
@@ -121,7 +133,9 @@
       "sand",
       "other",
       "not_relevant"
-    ]
+    ],
+    "expected_total_value": 6030541,
+    "expected_row_count": 14008
   },
   {
     "data_table_id": "Housing-Roof",
@@ -137,7 +151,9 @@
       "cadjan_palmyrah_straw",
       "other",
       "not_relevant"
-    ]
+    ],
+    "expected_total_value": 6030541,
+    "expected_row_count": 14008
   },
   {
     "data_table_id": "Housing-Water",
@@ -160,7 +176,9 @@
       "filter_ro",
       "bowser",
       "other"
-    ]
+    ],
+    "expected_total_value": 6111315,
+    "expected_row_count": 14008
   },
   {
     "data_table_id": "Housing-Cooking-Fuel",
@@ -176,7 +194,9 @@
       "bio_gas",
       "other",
       "not_relevant"
-    ]
+    ],
+    "expected_total_value": 6111315,
+    "expected_row_count": 14008
   },
   {
     "data_table_id": "Housing-Lighting",
@@ -191,7 +211,9 @@
       "bio_gas",
       "generator",
       "other"
-    ]
+    ],
+    "expected_total_value": 6111315,
+    "expected_row_count": 14008
   },
   {
     "data_table_id": "Housing-Toilet",
@@ -206,6 +228,8 @@
       "no_toilet_sharing",
       "common_public",
       "none"
-    ]
+    ],
+    "expected_total_value": 6111315,
+    "expected_row_count": 14008
   }
 ]
