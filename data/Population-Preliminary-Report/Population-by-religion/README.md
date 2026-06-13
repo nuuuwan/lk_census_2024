@@ -32,14 +32,14 @@ For each category, the District with the highest and lowest share (% of that reg
 
 Regions with an unusually high or low share of a category (≥ 2 standard deviations from the district mean).
 
-- 🔺 **Mannar** — Roman Catholic: **46.6%** vs district avg 6.0% (z = +4.3)
+- 🔺 **Mannar** — Roman Catholic: **46.6%** vs district avg 6.7% (z = +3.8)
 - 🔺 **Colombo** — Other: **0.1%** vs district avg 0.0% (z = +3.0)
-- 🔺 **Kilinochchi** — Other Christian: **6.6%** vs district avg 1.6% (z = +2.9)
-- 🔺 **Trincomalee** — Islam: **46.5%** vs district avg 11.9% (z = +2.8)
-- 🔺 **Digamadulla** — Islam: **45.7%** vs district avg 11.9% (z = +2.7)
-- 🔺 **Ampara** — Islam: **45.7%** vs district avg 11.9% (z = +2.7)
-- 🔺 **Puttalam** — Roman Catholic: **29.4%** vs district avg 6.0% (z = +2.5)
-- 🔺 **Jaffna** — Hindu: **82.3%** vs district avg 19.8% (z = +2.4)
+- 🔺 **Trincomalee** — Islam: **46.5%** vs district avg 11.8% (z = +2.8)
+- 🔺 **Ampara** — Islam: **45.7%** vs district avg 11.8% (z = +2.7)
+- 🔺 **Kilinochchi** — Other Christian: **6.6%** vs district avg 1.8% (z = +2.5)
+- 🔺 **Jaffna** — Hindu: **82.3%** vs district avg 22.3% (z = +2.2)
+- 🔺 **Gampaha** — Other: **0.0%** vs district avg 0.0% (z = +2.2)
+- 🔺 **Puttalam** — Roman Catholic: **29.4%** vs district avg 6.7% (z = +2.1)
 
 ---
 *Data covers **397** rows down to **dsd** level (340 dsds).*

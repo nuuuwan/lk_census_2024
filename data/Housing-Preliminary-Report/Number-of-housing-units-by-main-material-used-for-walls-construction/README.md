@@ -27,10 +27,10 @@ For each category, the District with the highest and lowest share (% of that reg
 |----------|---------|------:|---------|------:|
 | Brick | Polonnaruwa | 90.0% | Kilinochchi | 1.2% |
 | Cement Block | Jaffna | 95.3% | Polonnaruwa | 8.0% |
-| Granite Or Cube Stones | Nuwara-Eliya | 14.7% | Anuradhapura | 0.1% |
+| Granite Or Cube Stones | Nuwara Eliya | 14.7% | Anuradhapura | 0.1% |
 | Cabook | Kalutara | 6.6% | Kilinochchi | 0.0% |
 | Pressed Soil Bricks | Badulla | 13.7% | Mannar | 0.1% |
-| Mud Or Warichchi | Moneragala | 3.9% | Colombo | 0.1% |
+| Mud Or Warichchi | Monaragala | 3.9% | Colombo | 0.1% |
 | Kadjan Or Palmyrah | Puttalam | 1.4% | Kandy | 0.0% |
 | Plank Or Metal Sheet Or Asbestos | Batticaloa | 3.5% | Hambantota | 0.1% |
 | Zinc Aluminium Sheets | Batticaloa | 0.6% | Hambantota | 0.0% |
@@ -40,14 +40,14 @@ For each category, the District with the highest and lowest share (% of that reg
 
 Regions with an unusually high or low share of a category (≥ 2 standard deviations from the district mean).
 
-- 🔺 **Badulla** — Pressed Soil Bricks: **13.7%** vs district avg 1.8% (z = +4.3)
-- 🔺 **Nuwara-Eliya** — Granite Or Cube Stones: **14.7%** vs district avg 1.6% (z = +4.2)
-- 🔺 **Nuwara Eliya** — Granite Or Cube Stones: **14.7%** vs district avg 1.6% (z = +4.2)
-- 🔺 **Kalutara** — Cabook: **6.6%** vs district avg 0.8% (z = +4.1)
-- 🔺 **Batticaloa** — Zinc Aluminium Sheets: **0.6%** vs district avg 0.1% (z = +3.5)
-- 🔺 **Batticaloa** — Plank Or Metal Sheet Or Asbestos: **3.5%** vs district avg 0.8% (z = +3.5)
-- 🔺 **Puttalam** — Kadjan Or Palmyrah: **1.4%** vs district avg 0.2% (z = +3.0)
+- 🔺 **Badulla** — Pressed Soil Bricks: **13.7%** vs district avg 1.8% (z = +4.5)
+- 🔺 **Nuwara Eliya** — Granite Or Cube Stones: **14.7%** vs district avg 1.5% (z = +4.3)
+- 🔺 **Kalutara** — Cabook: **6.6%** vs district avg 0.7% (z = +4.2)
+- 🔺 **Batticaloa** — Plank Or Metal Sheet Or Asbestos: **3.5%** vs district avg 0.9% (z = +3.4)
+- 🔺 **Batticaloa** — Zinc Aluminium Sheets: **0.6%** vs district avg 0.1% (z = +3.3)
 - 🔺 **Badulla** — Other: **0.1%** vs district avg 0.0% (z = +3.0)
+- 🔺 **Monaragala** — Mud Or Warichchi: **3.9%** vs district avg 1.2% (z = +3.0)
+- 🔺 **Ratnapura** — Mud Or Warichchi: **3.8%** vs district avg 1.2% (z = +2.9)
 
 ---
 *Data covers **397** rows down to **dsd** level (340 dsds).*

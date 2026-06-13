@@ -1,544 +1,544 @@
 region_id	region_name	region_name_in_data	region_ent_type	occupied_housing_units
-EC-01	Colombo		DISTRICT	654051
-EC-01A	Colombo North		GND	33323
-EC-01B	Colombo Central		GND	38617
-EC-01C	Borella		GND	17866
-EC-01D	Colombo East		GND	23283
-EC-01E	Colombo West		GND	16155
-EC-01F	Dehiwala		GND	25382
-EC-01G	Ratmalana		GND	25005
-EC-01H	Kolonnawa		GND	56100
-EC-01I	Kotte		GND	27833
-EC-01J	Kaduwela		GND	79742
-EC-01K	Avissawella		GND	55105
-EC-01L	Homagama		GND	79737
-EC-01M	Maharagama		GND	56550
-EC-01N	Kesbewa		GND	75368
-EC-01O	Moratuwa		GND	43985
-EC-02	Gampaha		DISTRICT	683025
-EC-02A	Wattala		GND	48787
-EC-02B	Negombo		GND	35897
-EC-02C	Katana		GND	74870
-EC-02D	Divulapitiya		GND	44830
-EC-02E	Mirigama		GND	49540
-EC-02F	Minuwangoda		GND	56287
-EC-02G	Attanagalla		GND	54037
-EC-02H	Gampaha		GND	57568
-EC-02I	Ja Ela		GND	57159
-EC-02J	Mahara		GND	61376
-EC-02K	Dompe		GND	47297
-EC-02L	Biyagama		GND	58685
-EC-02M	Kelaniya		GND	36692
-EC-03	Kalutara		DISTRICT	349430
-EC-03A	Panadura		GND	42106
-EC-03B	Bandaragama		GND	55878
-EC-03C	Horana		GND	53871
-EC-03D	Bulathsinhala		GND	32557
-EC-03E	Mathugama		GND	41851
-EC-03F	Kalutara		GND	43722
-EC-03G	Beruwala		GND	41819
-EC-03H	Agalawatta		GND	37626
-EC-04	Kandy		DISTRICT	389826
-EC-04A	Galagedara		GND	19410
-EC-04B	Harispattuwa		GND	57043
-EC-04C	Pathadumbara		GND	31978
-EC-04D	Ududumbara		GND	22672
-EC-04E	Teldeniya		GND	17917
-EC-04F	Kundasale		GND	39297
-EC-04G	Hewaheta		GND	25343
-EC-04H	Senkadagala		GND	28379
-EC-04I	Mahanuwara		GND	11932
-EC-04J	Yatinuwara		GND	30659
-EC-04K	Udunuwara		GND	31284
-EC-04L	Gampola		GND	38384
-EC-04M	Nawalapitiya		GND	35528
-EC-05	Matale		DISTRICT	148184
-EC-05A	Dambulla		GND	54117
-EC-05B	Laggala		GND	28205
-EC-05C	Matale		GND	31430
-EC-05D	Rattota		GND	34432
-EC-06	Nuwara-Eliya		DISTRICT	192915
-EC-06A	Nuwara Eliya Maskeliya		GND	109082
-EC-06B	Kothmale		GND	27972
-EC-06C	Hanguranketha		GND	25932
-EC-06D	Walapane		GND	29929
-EC-07	Galle		DISTRICT	305379
-EC-07A	Balapitiya		GND	18692
-EC-07B	Ambalangoda		GND	28280
-EC-07C	Karandeniya		GND	28420
-EC-07D	Bentara Elpitiya		GND	32971
-EC-07E	Hiniduma		GND	37921
-EC-07F	Baddegama		GND	36477
-EC-07G	Ratgama		GND	27280
-EC-07H	Galle		GND	26173
-EC-07I	Akmeemana		GND	38825
-EC-07J	Habaraduwa		GND	30340
-EC-08	Matara		DISTRICT	230034
-EC-08A	Deniyaya		GND	37646
-EC-08B	Hakmana		GND	34439
-EC-08C	Akuressa		GND	34291
-EC-08D	Kamburupitiya		GND	29344
-EC-08E	Devinuwara		GND	28171
-EC-08F	Matara		GND	32080
-EC-08G	Weligama		GND	34063
-EC-09	Hambantota		DISTRICT	187558
-EC-09A	Mulkirigala		GND	40723
-EC-09B	Beliatta		GND	29223
-EC-09C	Tangalle		GND	48607
-EC-09D	Thissamaharama		GND	69005
-EC-10	Jaffna		DISTRICT	193281
-EC-10A	Kayts		GND	7905
-EC-10B	Vaddukoddai		GND	16633
-EC-10C	Kankesanthurai		GND	14585
-EC-10D	Manipay		GND	20660
-EC-10E	Kopay		GND	20583
-EC-10F	Udupiddy		GND	13407
-EC-10G	Point Pedro		GND	13991
-EC-10H	Chavakachcheri		GND	18897
-EC-10I	Nallur		GND	18614
-EC-10J	Jaffna		GND	11522
-EC-10K	Kilinochchi		GND	36484
-EC-11	Vanni		DISTRICT	114178
-EC-11A	Mannar		GND	32005
-EC-11B	Vavuniya		GND	49695
-EC-11C	Mullaitivu		GND	32419
-EC-12	Batticaloa		DISTRICT	167150
-EC-12A	Kalkudah		GND	50958
-EC-12B	Batticaloa		GND	79548
-EC-12C	Paddiruppu		GND	35695
-EC-13	Digamadulla		DISTRICT	202861
-EC-13A	Ampara		GND	68270
-EC-13B	Samanthurai		GND	36998
-EC-13C	Kalmunai		GND	29960
-EC-13D	Pothuvil		GND	67633
-EC-14	Trincomalee		DISTRICT	119351
-EC-14A	Seruvila		GND	31990
-EC-14B	Trincomalee		GND	38865
-EC-14C	Muttur		GND	48496
-EC-15	Kurunegala		DISTRICT	506909
-EC-15A	Galgamuwa		GND	41962
-EC-15B	Nikaweratiya		GND	38556
-EC-15C	Yapahuwa		GND	46399
-EC-15D	Hiriyala		GND	39659
-EC-15E	Wariyapola		GND	31245
-EC-15F	Panduwasnuwara		GND	29611
-EC-15G	Bingiriya		GND	35488
-EC-15H	Katugampola		GND	38853
-EC-15I	Kuliyapitiya		GND	40476
-EC-15J	Dambadeniya		GND	36046
-EC-15K	Polgahawela		GND	29674
-EC-15L	Kurunegala		GND	35896
-EC-15M	Mawathagama		GND	36196
-EC-15N	Dodangaslanda		GND	26848
-EC-16	Puttalam		DISTRICT	231494
-EC-16A	Puttalam		GND	65834
-EC-16B	Anamaduwa		GND	47541
-EC-16C	Chilaw		GND	45781
-EC-16D	Nattandiya		GND	33882
-EC-16E	Wennappuwa		GND	38456
-EC-17	Anuradhapura		DISTRICT	271408
-EC-17A	Medawachchiya		GND	37265
-EC-17B	Horowpothana		GND	33764
-EC-17C	Anuradhapura East		GND	44285
-EC-17D	Anuradhapura West		GND	44446
-EC-17E	Kalawewa		GND	50248
-EC-17F	Mihinthale		GND	26997
-EC-17G	Kekirawa		GND	34403
-EC-18	Polonnaruwa		DISTRICT	126482
-EC-18A	Minneriya		GND	34188
-EC-18B	Medirigiriya		GND	31874
-EC-18C	Polonnaruwa		GND	60420
-EC-19	Badulla		DISTRICT	239417
-EC-19A	Mahiyanganaya		GND	42424
-EC-19B	Viyaluwa		GND	20587
-EC-19C	Passara		GND	22385
-EC-19D	Badulla		GND	21528
-EC-19E	Hali Ela		GND	25945
-EC-19F	Uva Paranagama		GND	22605
-EC-19G	Welimada		GND	28668
-EC-19H	Bandarawela		GND	31025
-EC-19I	Haputale		GND	24250
-EC-20	Moneragala		DISTRICT	150728
-EC-20A	Bibile		GND	36270
-EC-20B	Monaragala		GND	46891
-EC-20C	Wellawaya		GND	67567
-EC-21	Ratnapura		DISTRICT	324853
-EC-21A	Eheliyagoda		GND	36540
-EC-21B	Ratnapura		GND	46529
-EC-21C	Pelmadulla		GND	33047
-EC-21D	Balangoda		GND	43196
-EC-21E	Rakwana		GND	41286
-EC-21F	Nivithigala		GND	33760
-EC-21G	Kalawana		GND	29970
-EC-21H	Kolonna		GND	60525
-EC-22	Kegalle		DISTRICT	242027
-EC-22A	Dedigama		GND	32191
-EC-22B	Galigamuwa		GND	24032
-EC-22C	Kegalle		GND	26411
-EC-22D	Rambukkana		GND	24601
-EC-22E	Mawanella		GND	33009
-EC-22F	Aranayaka		GND	19932
-EC-22G	Yatiyanthota		GND	27351
-EC-22H	Ruwanwella		GND	28446
-EC-22I	Deraniyagala		GND	26054
-LG-11011	Colombo MC		GND	129244
-LG-11012	Dehiwala Mount Lavinia MC		GND	50387
-LG-11013	Moratuwa MC		GND	43985
-LG-11014	Sri Jayawardanapura Kotte MC		GND	27833
-LG-11015	Kaduwela MC		GND	79742
-LG-11021	Kolonnawa UC		GND	15466
-LG-11022	Seethawakapura UC		GND	9037
-LG-11023	Maharagama UC		GND	56550
-LG-11024	Kesbewa UC		GND	58274
-LG-11025	Boralesgamuwa UC		GND	17094
-LG-11031	Homagama PS		GND	84775
-LG-11033	Kotikawatta-Mullariyawa PS		GND	40634
-LG-11034	Seethawaka PS		GND	41030
-LG-12011	Negombo MC		GND	36397
-LG-12012	Gampaha MC		GND	17802
-LG-12022	Ja- Ela UC		GND	8737
-LG-12023	Katunayaka- Seeduwa UC/Katana PS		GND	19189
-LG-12024	Minuwangoda UC		GND	1982
-LG-12025	Peliyagoda UC		GND	7003
-LG-12026	Wattala - Mabola UC		GND	7279
-LG-12031	Attanagalla PS		GND	54037
-LG-12032	Biyagama PS		GND	58685
-LG-12033	Divulapitiya PS		GND	44830
-LG-12034	Dompe PS		GND	47297
-LG-12035	Gampaha PS		GND	39766
-LG-12036	Ja- Ela PS		GND	48422
-LG-12037	Katana PS		GND	55181
-LG-12038	Kelaniya PS		GND	29689
-LG-12039	Mahara PS		GND	61376
-LG-12040	Minuwangoda PS		GND	54305
-LG-12041	Mirigama PS		GND	49540
-LG-12042	Wattala PS		GND	41508
-LG-13011	Kalutara MC		GND	17817
-LG-13021	Beruwala UC		GND	8037
-LG-13022	Horana UC/Horana PS		GND	2605
-LG-13024	Panadura UC/Panadura PS		GND	9144
-LG-13031	Agalawatta PS		GND	10425
-LG-13032	Bandaragama PS		GND	33138
-LG-13033	Beruwala PS		GND	33782
-LG-13034	Bulathsinhala PS		GND	18669
-LG-13035	Dodangoda PS		GND	18525
-LG-13036	Horana PS		GND	51266
-LG-13037	Kalutara PS		GND	25905
-LG-13038	Mathugama PS		GND	23326
-LG-13039	Panadura PS		GND	40054
-LG-13040	Walallawita PS		GND	15809
-LG-13041	Madurawala PS		GND	10362
-LG-13042	Palindanuwara PS		GND	14918
-LG-13043	Millaniya PS		GND	15648
-LG-21011	Kandy MC/ Pathadumbara PS		GND	26771
-LG-21021	Gampola UC		GND	10869
-LG-21022	Kadugannawa UC/Yatinuwara PS		GND	5573
-LG-21023	Nawalapitiya UC/Pasbage Korale PS		GND	6518
-LG-21024	Wattegama UC/ Pathadumbara PS		GND	4540
-LG-21025	Medadumbara PS		GND	119
-LG-21031	Akurana PS		GND	15564
-LG-21032	Ganga Ihala Korale		GND	15525
-LG-21033	Harispattuwa PS		GND	25408
-LG-21034	Kandy Four Graverts &Gangawata Korale PS		GND	14663
-LG-21035	Medadumbara PS		GND	39430
-LG-21036	Medadumbara PS		GND	17665
-LG-21037	Minipe PS		GND	15952
-LG-21038	Panvila PS		GND	7203
-LG-21039	Pasbage Korale PS		GND	10754
-LG-21040	Pathadumbara PS		GND	19573
-LG-21041	Pathhewaheta PS		GND	25343
-LG-21042	Pujapitiya PS		GND	15610
-LG-21043	Thumpane PS		GND	19410
-LG-21044	Udadumbara PS		GND	6720
-LG-21045	Udapalatha PS		GND	30246
-LG-21046	Udunuwara PS		GND	31284
-LG-21047	Yatinuwara PS		GND	25086
-LG-22011	Matale MC/ Matale PS		GND	12419
-LG-22012	Dambulla MC		GND	7451
-LG-22031	Ambanganga Korale PS		GND	4682
-LG-22032	Dambulla PS		GND	15443
-LG-22033	Galewela PS		GND	22154
-LG-22034	Laggala-Pallegama PS		GND	5046
-LG-22035	Matale PS		GND	10125
-LG-22036	Naula PS		GND	8834
-LG-22037	Pallepola PS		GND	9069
-LG-22038	Rattota PS		GND	15594
-LG-22039	Ukuwela PS		GND	18838
-LG-22040	Wilgamuwa PS		GND	9643
-LG-22041	Yatawatta PS		GND	8886
-LG-23011	Nuwara Eliya MC/ Nuwara Eliya PS		GND	7473
-LG-23021	Hatton - Dickoya UC/ Ambagamuwa PS		GND	6740
-LG-23022	Thalawakale-Lindula UC/ Kotagala PS		GND	5930
-LG-23031	Ambagamuwa PS		GND	18200
-LG-23032	Hanguranketha PS		GND	25932
-LG-23033	Kothmale PS		GND	27972
-LG-23034	Nuwara Eliya PS		GND	14144
-LG-23035	Walapane PS		GND	29929
-LG-23036	Maskeliya PS		GND	12839
-LG-23037	Noorwood PS		GND	16697
-LG-23038	Agarapathana PS		GND	16070
-LG-23039	Kotagala PS		GND	10989
-LG-31011	Galle MC		GND	21893
-LG-31021	Ambalangoda UC		GND	5429
-LG-31022	Hikkaduwa UC		GND	7386
-LG-31031	Akmeemana PS		GND	23381
-LG-31032	Ambalangoda PS		GND	18118
-LG-31033	Baddegama PS		GND	22131
-LG-31034	Balapitiya PS		GND	18692
-LG-31035	Benthota PS		GND	13661
-LG-31036	Bope_Poddala PS		GND	19724
-LG-31037	Elpitiya PS		GND	19310
-LG-31038	Habaraduwa PS		GND	16999
-LG-31039	Rajgama PS		GND	19894
-LG-31040	Karandeniya PS		GND	19823
-LG-31041	Nagoda PS		GND	15445
-LG-31042	Neluwa PS		GND	8429
-LG-31043	Niyagama PS		GND	10330
-LG-31044	Thawalama PS		GND	9468
-LG-31045	Yakkalamulla PS		GND	13328
-LG-31046	Imaduwa PS		GND	13341
-LG-31047	Welivitiya_Divithura PS		GND	8597
-LG-32011	Matara MC		GND	21203
-LG-32021	Weligama UC		GND	4919
-LG-32031	Akuressa PS		GND	15065
-LG-32032	Devinuwara PS		GND	13098
-LG-32033	Dickwella PS		GND	15073
-LG-32034	Hakmana PS		GND	9127
-LG-32035	Kamburupitiya PS		GND	21495
-LG-32036	Kotapola PS		GND	17734
-LG-32037	Malimbada PS		GND	10206
-LG-32038	Matara PS		GND	10877
-LG-32039	Mulatiyana PS		GND	14550
-LG-32040	Pasgoda PS		GND	18139
-LG-32042	Weligama PS		GND	29144
-LG-32043	Pitadeddara PS		GND	14606
-LG-32044	Athuraliya PS		GND	9020
-LG-32045	Kirinda Puhulwella PS		GND	5778
-LG-33011	Hambantota MC		GND	7048
-LG-33021	Tangalle UC		GND	2061
-LG-33031	Ambalantota PS		GND	22250
-LG-33032	Angunakolapelessa PS		GND	15372
-LG-33033	Beliatta PS		GND	16473
-LG-33034	Hambantota PS		GND	11211
-LG-33035	Katuwana PS		GND	22016
-LG-33036	Lunugamvehera PS		GND	10381
-LG-33037	Tangalle PS		GND	19670
-LG-33038	Thissamaharama PS		GND	20935
-LG-33039	Weeraketiya PS		GND	25776
-LG-33040	Sooriyawewa PS		GND	14365
-LG-41011	Jaffna MC		GND	20576
-LG-41021	Chavakachcheri UC		GND	4617
-LG-41022	Point Pedro UC		GND	3331
-LG-41023	Valvettiturai UC/ Vadamaradchi South West PS		GND	3012
-LG-41031	Chavakachcheri PS		GND	14280
-LG-41032	Delft PS		GND	893
-LG-41033	Kayts PS		GND	2633
-LG-41034	Nallur PS		GND	9560
-LG-41035	Point Pedro PS		GND	10118
-LG-41036	Vadamaradchi South West PS		GND	10937
-LG-41037	Valikamam East PS		GND	19402
-LG-41038	Valikamam North PS		GND	11932
-LG-41039	Valikamam South PS		GND	13108
-LG-41040	Valikamam South West PS		GND	13821
-LG-41041	Valikamam West PS		GND	11568
-LG-41042	Velanai PS		GND	4379
-LG-41043	Karainagar PS		GND	2630
-LG-42021	Mannar UC		GND	5951
-LG-42031	Mannar PS		GND	8598
-LG-42032	Manthai West PS		GND	6949
-LG-42033	Musali PS		GND	4346
-LG-42034	Nanattan PS		GND	6161
-LG-43011	Vavuniya MC/ Vavuniya South (Tamil) PS		GND	11469
-LG-43031	Vavuniya North PS		GND	4284
-LG-43032	Vavuniya South (Sinhala) PS		GND	4488
-LG-43033	Vavuniya South (Tamil) PS		GND	20538
-LG-43034	Vengalacheddikulam PS		GND	7046
-LG-44031	Vavuniya North PS		GND	1870
-LG-44041	Manthai East PS		GND	2178
-LG-44042	Maritimepattu PS		GND	11667
-LG-44043	Puthukudiyiruppu PS		GND	15745
-LG-44044	Thunukkai PS		GND	2829
-LG-45031	Karachchi PS		GND	26346
-LG-45032	Pachchillaipalli PS		GND	3835
-LG-45033	Poonagari PS		GND	6303
-LG-51001	Eravur Pattu PS		GND	1397
-LG-51002	Eravur Pattu PS		GND	1778
-LG-51003	Eravur Pattu PS		GND	1783
-LG-51004	Eravur Pattu PS		GND	1971
-LG-51005	Koralai Pattu PS		GND	2205
-LG-51006	Koralai Pattu PS		GND	4340
-LG-51007	Koralai Pattu PS		GND	4311
-LG-51008	Eravur Pattu PS		GND	1196
-LG-51009	Eravur Pattu PS		GND	1727
-LG-51010	Koralai Pattu PS		GND	2288
-LG-51011	Koralai Pattu PS		GND	29455
-LG-51012	Eravur Pattu PS		GND	1233
-LG-51013	Eravur Pattu PS		GND	1046
-LG-51014	Eravur Pattu PS		GND	1834
-LG-51015	Eravur Pattu PS		GND	271
-LG-51016	Eravur Pattu PS		GND	1486
-LG-51017	Eravur Pattu PS		GND	695
-LG-51018	Eravur Pattu PS		GND	500
-LG-51021	Kattankudy UC		GND	12899
-LG-51022	Eravur UC		GND	6223
-LG-51034	Koralai Pattu PS		GND	14264
-LG-51035	Koralai Pattu North PS		GND	8417
-LG-51036	Koralai Pattu West PS		GND	9286
-LG-51037	Manmunaipattu PS		GND	10254
-LG-51038	Manmunai South & Eruvil Pattu PS		GND	16572
-LG-51039	Manmunai South-West PS		GND	7745
-LG-51040	Manmunai West (Vavunativu) PS		GND	9647
-LG-51041	Porativepattu PS		GND	11378
-LG-52011	Kalmunai MC		GND	29960
-LG-52012	Akkaraipattu MC		GND	9793
-LG-52021	Ampara UC/ Namaloya PS		GND	7269
-LG-52031	Addalachchanai PS		GND	13178
-LG-52032	Alayadiwembu PS		GND	7017
-LG-52033	Damana PS		GND	10486
-LG-52034	Dehiattakandiya PS		GND	18437
-LG-52036	Akkaraipattu PS		GND	2259
-LG-52037	Lahugala PS		GND	2902
-LG-52038	Mahaoya PS		GND	6968
-LG-52039	Namaloya PS		GND	6895
-LG-52040	Ninthavur PS		GND	8729
-LG-52041	Padiyathalawa  PS		GND	6260
-LG-52042	Pothuvil  PS		GND	11466
-LG-52043	Sammanthurai PS		GND	19400
-LG-52044	Thirukkovili PS		GND	8338
-LG-52045	Uhana PS		GND	17326
-LG-52046	Karathivu PS		GND	5241
-LG-52047	Navithanveli PS		GND	6288
-LG-52048	Irakkamam PS		GND	4649
-LG-53011	Trincomalee MC		GND	13594
-LG-53022	Kinniya UC		GND	10696
-LG-53031	Gomarankadawala PS		GND	2446
-LG-53032	Kanthale PS		GND	14128
-LG-53033	Kinniya PS		GND	11054
-LG-53034	Kuchchaveli PS		GND	10805
-LG-53035	Morawewa PS		GND	2688
-LG-53036	Muttur PS		GND	19400
-LG-53037	Padavi Sri Pura PS		GND	3438
-LG-53038	Seruvila PS		GND	4655
-LG-53039	Thambalagamuwa PS		GND	9324
-LG-53040	Trincomalee Town and Gravets  PS		GND	13190
-LG-53041	Verugal PS		GND	3933
-LG-61011	Kurunegala MC		GND	6411
-LG-61021	Kuliyapitiya UC/ Kuliyapitiya PS		GND	1388
-LG-61031	Alawwa PS		GND	19020
-LG-61032	Bingiriya PS		GND	19673
-LG-61033	Galgamuwa PS		GND	26085
-LG-61034	Giribawa PS		GND	10396
-LG-61035	Ibbagamuwa PS		GND	39659
-LG-61036	Kobeigane PS		GND	11689
-LG-61037	Kuliyapitiya PS		GND	39088
-LG-61038	Kurunegala PS		GND	45917
-LG-61039	Maho PS		GND	26526
-LG-61040	Mawathagama PS		GND	19764
-LG-61041	Nikaweratiya PS		GND	26867
-LG-61042	Panduwasnuwara PS		GND	29611
-LG-61043	Pannala PS		GND	38853
-LG-61044	Polgahawela PS		GND	29674
-LG-61045	Polpithigama PS		GND	25354
-LG-61046	Rideegama PS		GND	26848
-LG-61047	Wariyapola PS		GND	31245
-LG-61048	Udubaddawa PS		GND	15815
-LG-61049	Narammala PS		GND	17026
-LG-62011	Puttalam MC		GND	12533
-LG-62021	Chilaw UC		GND	5936
-LG-62031	Anamaduwa PS		GND	25675
-LG-62032	Arachchikattuwa PS		GND	18810
-LG-62033	Chilaw PS		GND	27184
-LG-62034	Kalpitiya PS		GND	33795
-LG-62035	Karuwalagaswewa PS		GND	7941
-LG-62036	Nattandiya PS		GND	33882
-LG-62037	Nawagattegama PS		GND	5271
-LG-62038	Puttalam PS		GND	16165
-LG-62039	Vanathawilluwa PS		GND	5846
-LG-62040	Wennappuwa PS		GND	38456
-LG-71011	Anuradhapura MC/ Nuwaragam Palatha Central PS		GND	19051
-LG-71031	Galenbindunuwewa PS		GND	14371
-LG-71032	Galnewa PS		GND	11372
-LG-71033	Horowpothana PS		GND	11190
-LG-71034	Ipalogama PS		GND	12338
-LG-71035	Kahatagasdigiliya PS		GND	12483
-LG-71036	Kebithigollewa PS		GND	7625
-LG-71037	Kekirawa PS		GND	23227
-LG-71038	Medawachchiya PS		GND	15056
-LG-71039	Mihinthale PS		GND	10137
-LG-71040	Nochchiyagama PS		GND	15943
-LG-71041	Nuwaragam Palatha Central PS		GND	21533
-LG-71042	Nuwaragam Palatha East PS		GND	15747
-LG-71043	Padaviya PS		GND	7164
-LG-71044	Palagala PS		GND	11061
-LG-71045	Rajanganaya PS		GND	10677
-LG-71046	Rambewa PS		GND	11382
-LG-71047	Thalawa PS		GND	30899
-LG-71048	Nuwaragam Palatha East PS		GND	10152
-LG-72011	Polonnaruwa MC		GND	9858
-LG-72031	Dimbulagala PS		GND	24257
-LG-72032	Elahera PS		GND	14047
-LG-72033	Hingurakgoda PS		GND	20141
-LG-72034	Lankapura PS		GND	11364
-LG-72035	Medirigiriya PS		GND	20510
-LG-72037	Welikanda PS		GND	11005
-LG-72038	Polonnaruwa PS		GND	15300
-LG-81011	Badulla MC		GND	11926
-LG-81012	Bandarawela MC/ Bandarawela  PS		GND	9855
-LG-81022	Haputale  UC/ Haputale  PS		GND	2220
-LG-81031	Badulla PS		GND	9602
-LG-81032	Bandarawela  PS		GND	8846
-LG-81033	Ella  PS		GND	12324
-LG-81034	Haldummulla  PS		GND	10970
-LG-81035	Hali-Ela  PS		GND	25945
-LG-81036	Haputale  PS		GND	11060
-LG-81037	Kandaketiya PS		GND	7410
-LG-81038	Mahiyanganaya PS		GND	25173
-LG-81039	Meegahaivula PS		GND	6396
-LG-81040	Passara PS		GND	13500
-LG-81041	Rideemaliyadda PS		GND	17251
-LG-81042	Soranathota PS		GND	6781
-LG-81043	Uva Paranagama  PS		GND	22605
-LG-81044	Welimada  PS		GND	28668
-LG-81045	Lunugala PS		GND	8885
-LG-82031	Badalkumbura PS		GND	13219
-LG-82032	Bibila PS		GND	13645
-LG-82033	Buttala PS		GND	17488
-LG-82034	Katharagama PS		GND	5324
-LG-82035	Madulla PS		GND	10309
-LG-82036	Medagama PS		GND	12316
-LG-82037	Moneragala PS		GND	15888
-LG-82038	Siyambalanduwa PS		GND	17784
-LG-82039	Thanamalvila PS		GND	23346
-LG-82040	Wellawaya PS		GND	21409
-LG-91011	Ratnapura MC/ Ratnapura PS		GND	15448
-LG-91021	Balangoda UC/ Imbulpe PS		GND	10226
-LG-91022	Embilipitiya UC		GND	11909
-LG-91032	Ayagama PS		GND	8847
-LG-91033	Balangoda PS		GND	15695
-LG-91034	Eheliyagoda PS		GND	20297
-LG-91035	Embilipitiya PS		GND	33843
-LG-91036	Imbulpe PS		GND	17275
-LG-91037	Kalawana PS		GND	15099
-LG-91038	Kolonna PS		GND	14773
-LG-91039	Kuruvita PS		GND	36520
-LG-91040	Nivithigala PS		GND	27426
-LG-91041	Pelmadulla PS		GND	25397
-LG-91042	Ratnapura PS		GND	18454
-LG-91043	Weligepola PS		GND	18700
-LG-91044	Godakawela PS		GND	22586
-LG-91045	Kahawatta PS		GND	12358
-LG-92011	Kegalle MC		GND	4438
-LG-92031	Aranayaka  PS		GND	19811
-LG-92032	Dehiovita PS		GND	23238
-LG-92033	Deraniyagala PS		GND	12972
-LG-92034	Galigamuwa PS		GND	21095
-LG-92035	Kegalle PS		GND	22094
-LG-92036	Mawanella PS		GND	33009
-LG-92037	Rambukkana PS		GND	24601
-LG-92038	Ruwanwella  PS		GND	18290
-LG-92039	Warakapola PS		GND	32191
-LG-92040	Yatiyanthota PS		GND	17393
-LG-92041	Bulathkohupitiya PS		GND	12895
+EC-01	Colombo		ED	654051
+EC-01A	Colombo North		PD	33323
+EC-01B	Colombo Central		PD	38617
+EC-01C	Borella		PD	17866
+EC-01D	Colombo East		PD	23283
+EC-01E	Colombo West		PD	16155
+EC-01F	Dehiwala		PD	25382
+EC-01G	Ratmalana		PD	25005
+EC-01H	Kolonnawa		PD	56100
+EC-01I	Kotte		PD	27833
+EC-01J	Kaduwela		PD	79742
+EC-01K	Avissawella		PD	55105
+EC-01L	Homagama		PD	79737
+EC-01M	Maharagama		PD	56550
+EC-01N	Kesbewa		PD	75368
+EC-01O	Moratuwa		PD	43985
+EC-02	Gampaha		ED	683025
+EC-02A	Wattala		PD	48787
+EC-02B	Negombo		PD	35897
+EC-02C	Katana		PD	74870
+EC-02D	Divulapitiya		PD	44830
+EC-02E	Mirigama		PD	49540
+EC-02F	Minuwangoda		PD	56287
+EC-02G	Attanagalla		PD	54037
+EC-02H	Gampaha		PD	57568
+EC-02I	Ja Ela		PD	57159
+EC-02J	Mahara		PD	61376
+EC-02K	Dompe		PD	47297
+EC-02L	Biyagama		PD	58685
+EC-02M	Kelaniya		PD	36692
+EC-03	Kalutara		ED	349430
+EC-03A	Panadura		PD	42106
+EC-03B	Bandaragama		PD	55878
+EC-03C	Horana		PD	53871
+EC-03D	Bulathsinhala		PD	32557
+EC-03E	Mathugama		PD	41851
+EC-03F	Kalutara		PD	43722
+EC-03G	Beruwala		PD	41819
+EC-03H	Agalawatta		PD	37626
+EC-04	Kandy		ED	389826
+EC-04A	Galagedara		PD	19410
+EC-04B	Harispattuwa		PD	57043
+EC-04C	Pathadumbara		PD	31978
+EC-04D	Ududumbara		PD	22672
+EC-04E	Teldeniya		PD	17917
+EC-04F	Kundasale		PD	39297
+EC-04G	Hewaheta		PD	25343
+EC-04H	Senkadagala		PD	28379
+EC-04I	Mahanuwara		PD	11932
+EC-04J	Yatinuwara		PD	30659
+EC-04K	Udunuwara		PD	31284
+EC-04L	Gampola		PD	38384
+EC-04M	Nawalapitiya		PD	35528
+EC-05	Matale		ED	148184
+EC-05A	Dambulla		PD	54117
+EC-05B	Laggala		PD	28205
+EC-05C	Matale		PD	31430
+EC-05D	Rattota		PD	34432
+EC-06	Nuwara-Eliya		ED	192915
+EC-06A	Nuwara Eliya Maskeliya		PD	109082
+EC-06B	Kothmale		PD	27972
+EC-06C	Hanguranketha		PD	25932
+EC-06D	Walapane		PD	29929
+EC-07	Galle		ED	305379
+EC-07A	Balapitiya		PD	18692
+EC-07B	Ambalangoda		PD	28280
+EC-07C	Karandeniya		PD	28420
+EC-07D	Bentara Elpitiya		PD	32971
+EC-07E	Hiniduma		PD	37921
+EC-07F	Baddegama		PD	36477
+EC-07G	Ratgama		PD	27280
+EC-07H	Galle		PD	26173
+EC-07I	Akmeemana		PD	38825
+EC-07J	Habaraduwa		PD	30340
+EC-08	Matara		ED	230034
+EC-08A	Deniyaya		PD	37646
+EC-08B	Hakmana		PD	34439
+EC-08C	Akuressa		PD	34291
+EC-08D	Kamburupitiya		PD	29344
+EC-08E	Devinuwara		PD	28171
+EC-08F	Matara		PD	32080
+EC-08G	Weligama		PD	34063
+EC-09	Hambantota		ED	187558
+EC-09A	Mulkirigala		PD	40723
+EC-09B	Beliatta		PD	29223
+EC-09C	Tangalle		PD	48607
+EC-09D	Thissamaharama		PD	69005
+EC-10	Jaffna		ED	193281
+EC-10A	Kayts		PD	7905
+EC-10B	Vaddukoddai		PD	16633
+EC-10C	Kankesanthurai		PD	14585
+EC-10D	Manipay		PD	20660
+EC-10E	Kopay		PD	20583
+EC-10F	Udupiddy		PD	13407
+EC-10G	Point Pedro		PD	13991
+EC-10H	Chavakachcheri		PD	18897
+EC-10I	Nallur		PD	18614
+EC-10J	Jaffna		PD	11522
+EC-10K	Kilinochchi		PD	36484
+EC-11	Vanni		ED	114178
+EC-11A	Mannar		PD	32005
+EC-11B	Vavuniya		PD	47825
+EC-11C	Mullaitivu		PD	34289
+EC-12	Batticaloa		ED	167150
+EC-12A	Kalkudah		PD	50958
+EC-12B	Batticaloa		PD	79548
+EC-12C	Paddiruppu		PD	35695
+EC-13	Digamadulla		ED	202861
+EC-13A	Ampara		PD	68270
+EC-13B	Samanthurai		PD	36998
+EC-13C	Kalmunai		PD	29960
+EC-13D	Pothuvil		PD	67633
+EC-14	Trincomalee		ED	119351
+EC-14A	Seruvila		PD	31990
+EC-14B	Trincomalee		PD	38865
+EC-14C	Muttur		PD	48496
+EC-15	Kurunegala		ED	506909
+EC-15A	Galgamuwa		PD	41962
+EC-15B	Nikaweratiya		PD	38556
+EC-15C	Yapahuwa		PD	46399
+EC-15D	Hiriyala		PD	39659
+EC-15E	Wariyapola		PD	31245
+EC-15F	Panduwasnuwara		PD	29611
+EC-15G	Bingiriya		PD	35488
+EC-15H	Katugampola		PD	38853
+EC-15I	Kuliyapitiya		PD	40476
+EC-15J	Dambadeniya		PD	36046
+EC-15K	Polgahawela		PD	29674
+EC-15L	Kurunegala		PD	35896
+EC-15M	Mawathagama		PD	36196
+EC-15N	Dodangaslanda		PD	26848
+EC-16	Puttalam		ED	231494
+EC-16A	Puttalam		PD	65834
+EC-16B	Anamaduwa		PD	47541
+EC-16C	Chilaw		PD	45781
+EC-16D	Nattandiya		PD	33882
+EC-16E	Wennappuwa		PD	38456
+EC-17	Anuradhapura		ED	271408
+EC-17A	Medawachchiya		PD	37265
+EC-17B	Horowpothana		PD	33764
+EC-17C	Anuradhapura East		PD	44285
+EC-17D	Anuradhapura West		PD	44446
+EC-17E	Kalawewa		PD	50248
+EC-17F	Mihinthale		PD	26997
+EC-17G	Kekirawa		PD	34403
+EC-18	Polonnaruwa		ED	126482
+EC-18A	Minneriya		PD	34188
+EC-18B	Medirigiriya		PD	31874
+EC-18C	Polonnaruwa		PD	60420
+EC-19	Badulla		ED	239417
+EC-19A	Mahiyanganaya		PD	42424
+EC-19B	Viyaluwa		PD	20587
+EC-19C	Passara		PD	22385
+EC-19D	Badulla		PD	21528
+EC-19E	Hali Ela		PD	25945
+EC-19F	Uva Paranagama		PD	22605
+EC-19G	Welimada		PD	28668
+EC-19H	Bandarawela		PD	31025
+EC-19I	Haputale		PD	24250
+EC-20	Moneragala		ED	150728
+EC-20A	Bibile		PD	36270
+EC-20B	Monaragala		PD	46891
+EC-20C	Wellawaya		PD	67567
+EC-21	Ratnapura		ED	324853
+EC-21A	Eheliyagoda		PD	36540
+EC-21B	Ratnapura		PD	46529
+EC-21C	Pelmadulla		PD	33047
+EC-21D	Balangoda		PD	43196
+EC-21E	Rakwana		PD	41286
+EC-21F	Nivithigala		PD	33760
+EC-21G	Kalawana		PD	29970
+EC-21H	Kolonna		PD	60525
+EC-22	Kegalle		ED	242027
+EC-22A	Dedigama		PD	32191
+EC-22B	Galigamuwa		PD	24032
+EC-22C	Kegalle		PD	26532
+EC-22D	Rambukkana		PD	24601
+EC-22E	Mawanella		PD	33009
+EC-22F	Aranayaka		PD	19811
+EC-22G	Yatiyanthota		PD	27351
+EC-22H	Ruwanwella		PD	28446
+EC-22I	Deraniyagala		PD	26054
+LG-11011	Colombo MC		LG	129244
+LG-11012	Dehiwala Mount Lavinia MC		LG	50387
+LG-11013	Moratuwa MC		LG	43985
+LG-11014	Sri Jayawardanapura Kotte MC		LG	27833
+LG-11015	Kaduwela MC		LG	79742
+LG-11021	Kolonnawa UC		LG	15466
+LG-11022	Seethawakapura UC		LG	9037
+LG-11023	Maharagama UC		LG	56550
+LG-11024	Kesbewa UC		LG	58274
+LG-11025	Boralesgamuwa UC		LG	17094
+LG-11031	Homagama PS		LG	84775
+LG-11033	Kotikawatta-Mullariyawa PS		LG	40634
+LG-11034	Seethawaka PS		LG	41030
+LG-12011	Negombo MC		LG	36397
+LG-12012	Gampaha MC		LG	17802
+LG-12022	Ja- Ela UC		LG	8737
+LG-12023	Katunayaka- Seeduwa UC/Katana PS		LG	19189
+LG-12024	Minuwangoda UC		LG	1982
+LG-12025	Peliyagoda UC		LG	7003
+LG-12026	Wattala - Mabola UC		LG	7279
+LG-12031	Attanagalla PS		LG	54037
+LG-12032	Biyagama PS		LG	58685
+LG-12033	Divulapitiya PS		LG	44830
+LG-12034	Dompe PS		LG	47297
+LG-12035	Gampaha PS		LG	39766
+LG-12036	Ja- Ela PS		LG	48422
+LG-12037	Katana PS		LG	55181
+LG-12038	Kelaniya PS		LG	29689
+LG-12039	Mahara PS		LG	61376
+LG-12040	Minuwangoda PS		LG	54305
+LG-12041	Mirigama PS		LG	49540
+LG-12042	Wattala PS		LG	41508
+LG-13011	Kalutara MC		LG	17817
+LG-13021	Beruwala UC		LG	8037
+LG-13022	Horana UC/Horana PS		LG	2605
+LG-13024	Panadura UC/Panadura PS		LG	9144
+LG-13031	Agalawatta PS		LG	10425
+LG-13032	Bandaragama PS		LG	33138
+LG-13033	Beruwala PS		LG	33782
+LG-13034	Bulathsinhala PS		LG	18669
+LG-13035	Dodangoda PS		LG	18525
+LG-13036	Horana PS		LG	51266
+LG-13037	Kalutara PS		LG	25905
+LG-13038	Mathugama PS		LG	23326
+LG-13039	Panadura PS		LG	40054
+LG-13040	Walallawita PS		LG	15809
+LG-13041	Madurawala PS		LG	10362
+LG-13042	Palindanuwara PS		LG	14918
+LG-13043	Millaniya PS		LG	15648
+LG-21011	Kandy MC/ Pathadumbara PS		LG	26771
+LG-21021	Gampola UC		LG	10869
+LG-21022	Kadugannawa UC/Yatinuwara PS		LG	5573
+LG-21023	Nawalapitiya UC/Pasbage Korale PS		LG	6518
+LG-21024	Wattegama UC/ Pathadumbara PS		LG	4540
+LG-21025	Medadumbara PS		LG	119
+LG-21031	Akurana PS		LG	15564
+LG-21032	Ganga Ihala Korale		LG	15525
+LG-21033	Harispattuwa PS		LG	25408
+LG-21034	Kandy Four Graverts &Gangawata Korale PS		LG	14663
+LG-21035	Medadumbara PS		LG	39430
+LG-21036	Medadumbara PS		LG	17665
+LG-21037	Minipe PS		LG	15952
+LG-21038	Panvila PS		LG	7203
+LG-21039	Pasbage Korale PS		LG	10754
+LG-21040	Pathadumbara PS		LG	19573
+LG-21041	Pathhewaheta PS		LG	25343
+LG-21042	Pujapitiya PS		LG	15610
+LG-21043	Thumpane PS		LG	19410
+LG-21044	Udadumbara PS		LG	6720
+LG-21045	Udapalatha PS		LG	30246
+LG-21046	Udunuwara PS		LG	31284
+LG-21047	Yatinuwara PS		LG	25086
+LG-22011	Matale MC/ Matale PS		LG	12419
+LG-22012	Dambulla MC		LG	7451
+LG-22031	Ambanganga Korale PS		LG	4682
+LG-22032	Dambulla PS		LG	15443
+LG-22033	Galewela PS		LG	22154
+LG-22034	Laggala-Pallegama PS		LG	5046
+LG-22035	Matale PS		LG	10125
+LG-22036	Naula PS		LG	8834
+LG-22037	Pallepola PS		LG	9069
+LG-22038	Rattota PS		LG	15594
+LG-22039	Ukuwela PS		LG	18838
+LG-22040	Wilgamuwa PS		LG	9643
+LG-22041	Yatawatta PS		LG	8886
+LG-23011	Nuwara Eliya MC/ Nuwara Eliya PS		LG	7473
+LG-23021	Hatton - Dickoya UC/ Ambagamuwa PS		LG	6740
+LG-23022	Thalawakale-Lindula UC/ Kotagala PS		LG	5930
+LG-23031	Ambagamuwa PS		LG	18200
+LG-23032	Hanguranketha PS		LG	25932
+LG-23033	Kothmale PS		LG	27972
+LG-23034	Nuwara Eliya PS		LG	14144
+LG-23035	Walapane PS		LG	29929
+LG-23036	Maskeliya PS		LG	12839
+LG-23037	Noorwood PS		LG	16697
+LG-23038	Agarapathana PS		LG	16070
+LG-23039	Kotagala PS		LG	10989
+LG-31011	Galle MC		LG	21893
+LG-31021	Ambalangoda UC		LG	5429
+LG-31022	Hikkaduwa UC		LG	7386
+LG-31031	Akmeemana PS		LG	23381
+LG-31032	Ambalangoda PS		LG	18118
+LG-31033	Baddegama PS		LG	22131
+LG-31034	Balapitiya PS		LG	18692
+LG-31035	Benthota PS		LG	13661
+LG-31036	Bope_Poddala PS		LG	19724
+LG-31037	Elpitiya PS		LG	19310
+LG-31038	Habaraduwa PS		LG	16999
+LG-31039	Rajgama PS		LG	19894
+LG-31040	Karandeniya PS		LG	19823
+LG-31041	Nagoda PS		LG	15445
+LG-31042	Neluwa PS		LG	8429
+LG-31043	Niyagama PS		LG	10330
+LG-31044	Thawalama PS		LG	9468
+LG-31045	Yakkalamulla PS		LG	13328
+LG-31046	Imaduwa PS		LG	13341
+LG-31047	Welivitiya_Divithura PS		LG	8597
+LG-32011	Matara MC		LG	21203
+LG-32021	Weligama UC		LG	4919
+LG-32031	Akuressa PS		LG	15065
+LG-32032	Devinuwara PS		LG	13098
+LG-32033	Dickwella PS		LG	15073
+LG-32034	Hakmana PS		LG	9127
+LG-32035	Kamburupitiya PS		LG	21495
+LG-32036	Kotapola PS		LG	17734
+LG-32037	Malimbada PS		LG	10206
+LG-32038	Matara PS		LG	10877
+LG-32039	Mulatiyana PS		LG	14550
+LG-32040	Pasgoda PS		LG	18139
+LG-32042	Weligama PS		LG	29144
+LG-32043	Pitadeddara PS		LG	14606
+LG-32044	Athuraliya PS		LG	9020
+LG-32045	Kirinda Puhulwella PS		LG	5778
+LG-33011	Hambantota MC		LG	7048
+LG-33021	Tangalle UC		LG	2061
+LG-33031	Ambalantota PS		LG	22250
+LG-33032	Angunakolapelessa PS		LG	15372
+LG-33033	Beliatta PS		LG	16473
+LG-33034	Hambantota PS		LG	11211
+LG-33035	Katuwana PS		LG	22016
+LG-33036	Lunugamvehera PS		LG	10381
+LG-33037	Tangalle PS		LG	19670
+LG-33038	Thissamaharama PS		LG	20935
+LG-33039	Weeraketiya PS		LG	25776
+LG-33040	Sooriyawewa PS		LG	14365
+LG-41011	Jaffna MC		LG	20576
+LG-41021	Chavakachcheri UC		LG	4617
+LG-41022	Point Pedro UC		LG	3331
+LG-41023	Valvettiturai UC/ Vadamaradchi South West PS		LG	3012
+LG-41031	Chavakachcheri PS		LG	14280
+LG-41032	Delft PS		LG	893
+LG-41033	Kayts PS		LG	2633
+LG-41034	Nallur PS		LG	9560
+LG-41035	Point Pedro PS		LG	10118
+LG-41036	Vadamaradchi South West PS		LG	10937
+LG-41037	Valikamam East PS		LG	19402
+LG-41038	Valikamam North PS		LG	11932
+LG-41039	Valikamam South PS		LG	13108
+LG-41040	Valikamam South West PS		LG	13821
+LG-41041	Valikamam West PS		LG	11568
+LG-41042	Velanai PS		LG	4379
+LG-41043	Karainagar PS		LG	2630
+LG-42021	Mannar UC		LG	5951
+LG-42031	Mannar PS		LG	8598
+LG-42032	Manthai West PS		LG	6949
+LG-42033	Musali PS		LG	4346
+LG-42034	Nanattan PS		LG	6161
+LG-43011	Vavuniya MC/ Vavuniya South (Tamil) PS		LG	11469
+LG-43031	Vavuniya North PS		LG	4284
+LG-43032	Vavuniya South (Sinhala) PS		LG	4488
+LG-43033	Vavuniya South (Tamil) PS		LG	20538
+LG-43034	Vengalacheddikulam PS		LG	7046
+LG-44031	Vavuniya North PS		LG	1870
+LG-44041	Manthai East PS		LG	2178
+LG-44042	Maritimepattu PS		LG	11667
+LG-44043	Puthukudiyiruppu PS		LG	15745
+LG-44044	Thunukkai PS		LG	2829
+LG-45031	Karachchi PS		LG	26346
+LG-45032	Pachchillaipalli PS		LG	3835
+LG-45033	Poonagari PS		LG	6303
+LG-51001	Eravur Pattu PS		LG	1397
+LG-51002	Eravur Pattu PS		LG	1778
+LG-51003	Eravur Pattu PS		LG	1783
+LG-51004	Eravur Pattu PS		LG	1971
+LG-51005	Koralai Pattu PS		LG	2205
+LG-51006	Koralai Pattu PS		LG	4340
+LG-51007	Koralai Pattu PS		LG	4311
+LG-51008	Eravur Pattu PS		LG	1196
+LG-51009	Eravur Pattu PS		LG	1727
+LG-51010	Koralai Pattu PS		LG	2288
+LG-51011	Koralai Pattu PS		LG	29455
+LG-51012	Eravur Pattu PS		LG	1233
+LG-51013	Eravur Pattu PS		LG	1046
+LG-51014	Eravur Pattu PS		LG	1834
+LG-51015	Eravur Pattu PS		LG	271
+LG-51016	Eravur Pattu PS		LG	1486
+LG-51017	Eravur Pattu PS		LG	695
+LG-51018	Eravur Pattu PS		LG	500
+LG-51021	Kattankudy UC		LG	12899
+LG-51022	Eravur UC		LG	6223
+LG-51034	Koralai Pattu PS		LG	14264
+LG-51035	Koralai Pattu North PS		LG	8417
+LG-51036	Koralai Pattu West PS		LG	9286
+LG-51037	Manmunaipattu PS		LG	10254
+LG-51038	Manmunai South & Eruvil Pattu PS		LG	16572
+LG-51039	Manmunai South-West PS		LG	7745
+LG-51040	Manmunai West (Vavunativu) PS		LG	9647
+LG-51041	Porativepattu PS		LG	11378
+LG-52011	Kalmunai MC		LG	29960
+LG-52012	Akkaraipattu MC		LG	9793
+LG-52021	Ampara UC/ Namaloya PS		LG	7269
+LG-52031	Addalachchanai PS		LG	13178
+LG-52032	Alayadiwembu PS		LG	7017
+LG-52033	Damana PS		LG	10486
+LG-52034	Dehiattakandiya PS		LG	18437
+LG-52036	Akkaraipattu PS		LG	2259
+LG-52037	Lahugala PS		LG	2902
+LG-52038	Mahaoya PS		LG	6968
+LG-52039	Namaloya PS		LG	6895
+LG-52040	Ninthavur PS		LG	8729
+LG-52041	Padiyathalawa  PS		LG	6260
+LG-52042	Pothuvil  PS		LG	11466
+LG-52043	Sammanthurai PS		LG	19400
+LG-52044	Thirukkovili PS		LG	8338
+LG-52045	Uhana PS		LG	17326
+LG-52046	Karathivu PS		LG	5241
+LG-52047	Navithanveli PS		LG	6288
+LG-52048	Irakkamam PS		LG	4649
+LG-53011	Trincomalee MC		LG	13594
+LG-53022	Kinniya UC		LG	10696
+LG-53031	Gomarankadawala PS		LG	2446
+LG-53032	Kanthale PS		LG	14128
+LG-53033	Kinniya PS		LG	11054
+LG-53034	Kuchchaveli PS		LG	10805
+LG-53035	Morawewa PS		LG	2688
+LG-53036	Muttur PS		LG	19400
+LG-53037	Padavi Sri Pura PS		LG	3438
+LG-53038	Seruvila PS		LG	4655
+LG-53039	Thambalagamuwa PS		LG	9324
+LG-53040	Trincomalee Town and Gravets  PS		LG	13190
+LG-53041	Verugal PS		LG	3933
+LG-61011	Kurunegala MC		LG	6411
+LG-61021	Kuliyapitiya UC/ Kuliyapitiya PS		LG	1388
+LG-61031	Alawwa PS		LG	19020
+LG-61032	Bingiriya PS		LG	19673
+LG-61033	Galgamuwa PS		LG	26085
+LG-61034	Giribawa PS		LG	10396
+LG-61035	Ibbagamuwa PS		LG	39659
+LG-61036	Kobeigane PS		LG	11689
+LG-61037	Kuliyapitiya PS		LG	39088
+LG-61038	Kurunegala PS		LG	45917
+LG-61039	Maho PS		LG	26526
+LG-61040	Mawathagama PS		LG	19764
+LG-61041	Nikaweratiya PS		LG	26867
+LG-61042	Panduwasnuwara PS		LG	29611
+LG-61043	Pannala PS		LG	38853
+LG-61044	Polgahawela PS		LG	29674
+LG-61045	Polpithigama PS		LG	25354
+LG-61046	Rideegama PS		LG	26848
+LG-61047	Wariyapola PS		LG	31245
+LG-61048	Udubaddawa PS		LG	15815
+LG-61049	Narammala PS		LG	17026
+LG-62011	Puttalam MC		LG	12533
+LG-62021	Chilaw UC		LG	5936
+LG-62031	Anamaduwa PS		LG	25675
+LG-62032	Arachchikattuwa PS		LG	18810
+LG-62033	Chilaw PS		LG	27184
+LG-62034	Kalpitiya PS		LG	33795
+LG-62035	Karuwalagaswewa PS		LG	7941
+LG-62036	Nattandiya PS		LG	33882
+LG-62037	Nawagattegama PS		LG	5271
+LG-62038	Puttalam PS		LG	16165
+LG-62039	Vanathawilluwa PS		LG	5846
+LG-62040	Wennappuwa PS		LG	38456
+LG-71011	Anuradhapura MC/ Nuwaragam Palatha Central PS		LG	19051
+LG-71031	Galenbindunuwewa PS		LG	14371
+LG-71032	Galnewa PS		LG	11372
+LG-71033	Horowpothana PS		LG	11190
+LG-71034	Ipalogama PS		LG	12338
+LG-71035	Kahatagasdigiliya PS		LG	12483
+LG-71036	Kebithigollewa PS		LG	7625
+LG-71037	Kekirawa PS		LG	23227
+LG-71038	Medawachchiya PS		LG	15056
+LG-71039	Mihinthale PS		LG	10137
+LG-71040	Nochchiyagama PS		LG	15943
+LG-71041	Nuwaragam Palatha Central PS		LG	21533
+LG-71042	Nuwaragam Palatha East PS		LG	15747
+LG-71043	Padaviya PS		LG	7164
+LG-71044	Palagala PS		LG	11061
+LG-71045	Rajanganaya PS		LG	10677
+LG-71046	Rambewa PS		LG	11382
+LG-71047	Thalawa PS		LG	30899
+LG-71048	Nuwaragam Palatha East PS		LG	10152
+LG-72011	Polonnaruwa MC		LG	9858
+LG-72031	Dimbulagala PS		LG	24257
+LG-72032	Elahera PS		LG	14047
+LG-72033	Hingurakgoda PS		LG	20141
+LG-72034	Lankapura PS		LG	11364
+LG-72035	Medirigiriya PS		LG	20510
+LG-72037	Welikanda PS		LG	11005
+LG-72038	Polonnaruwa PS		LG	15300
+LG-81011	Badulla MC		LG	11926
+LG-81012	Bandarawela MC/ Bandarawela  PS		LG	9855
+LG-81022	Haputale  UC/ Haputale  PS		LG	2220
+LG-81031	Badulla PS		LG	9602
+LG-81032	Bandarawela  PS		LG	8846
+LG-81033	Ella  PS		LG	12324
+LG-81034	Haldummulla  PS		LG	10970
+LG-81035	Hali-Ela  PS		LG	25945
+LG-81036	Haputale  PS		LG	11060
+LG-81037	Kandaketiya PS		LG	7410
+LG-81038	Mahiyanganaya PS		LG	25173
+LG-81039	Meegahaivula PS		LG	6396
+LG-81040	Passara PS		LG	13500
+LG-81041	Rideemaliyadda PS		LG	17251
+LG-81042	Soranathota PS		LG	6781
+LG-81043	Uva Paranagama  PS		LG	22605
+LG-81044	Welimada  PS		LG	28668
+LG-81045	Lunugala PS		LG	8885
+LG-82031	Badalkumbura PS		LG	13219
+LG-82032	Bibila PS		LG	13645
+LG-82033	Buttala PS		LG	17488
+LG-82034	Katharagama PS		LG	5324
+LG-82035	Madulla PS		LG	10309
+LG-82036	Medagama PS		LG	12316
+LG-82037	Moneragala PS		LG	15888
+LG-82038	Siyambalanduwa PS		LG	17784
+LG-82039	Thanamalvila PS		LG	23346
+LG-82040	Wellawaya PS		LG	21409
+LG-91011	Ratnapura MC/ Ratnapura PS		LG	15448
+LG-91021	Balangoda UC/ Imbulpe PS		LG	10226
+LG-91022	Embilipitiya UC		LG	11909
+LG-91032	Ayagama PS		LG	8847
+LG-91033	Balangoda PS		LG	15695
+LG-91034	Eheliyagoda PS		LG	20297
+LG-91035	Embilipitiya PS		LG	33843
+LG-91036	Imbulpe PS		LG	17275
+LG-91037	Kalawana PS		LG	15099
+LG-91038	Kolonna PS		LG	14773
+LG-91039	Kuruvita PS		LG	36520
+LG-91040	Nivithigala PS		LG	27426
+LG-91041	Pelmadulla PS		LG	25397
+LG-91042	Ratnapura PS		LG	18454
+LG-91043	Weligepola PS		LG	18700
+LG-91044	Godakawela PS		LG	22586
+LG-91045	Kahawatta PS		LG	12358
+LG-92011	Kegalle MC		LG	4438
+LG-92031	Aranayaka  PS		LG	19811
+LG-92032	Dehiovita PS		LG	23238
+LG-92033	Deraniyagala PS		LG	12972
+LG-92034	Galigamuwa PS		LG	21095
+LG-92035	Kegalle PS		LG	22094
+LG-92036	Mawanella PS		LG	33009
+LG-92037	Rambukkana PS		LG	24601
+LG-92038	Ruwanwella  PS		LG	18290
+LG-92039	Warakapola PS		LG	32191
+LG-92040	Yatiyanthota PS		LG	17393
+LG-92041	Bulathkohupitiya PS		LG	12895
 LK	Sri Lanka	Sri Lanka	COUNTRY	6030541
 LK-1	Western	Western	PROVINCE	1686506
 LK-11	Colombo	Colombo	DISTRICT	654051
@@ -4375,7 +4375,7 @@ LK-2206105	Etawarahena	Etawarahena	GND	352
 LK-2206110	Pallegama	Pallegama	GND	357
 LK-2206115	Bulagala	Bulagala	GND	443
 LK-2206120	Pelvehera	Pelvehera	GND	609
-LK-2206125	nan	Kandalama	GND	649
+LK-2206125	Kandalama	Kandalama	GND	649
 LK-2206130	Pahala Erevula	Pahala Erevula	GND	213
 LK-2206135	Ihala Ereula	Ihala Ereula	GND	293
 LK-2206140	Welangolla	Welangolla	GND	299
@@ -4533,7 +4533,7 @@ LK-2215130	Dangan Place	Dangan Place	GND	442
 LK-2215135	Alokagama	Alokagama	GND	169
 LK-2215140	Walpola	Walpola	GND	145
 LK-2215145	Maligathenna	Maligathenna	GND	149
-LK-2215150	nan	Aluthwatta	GND	61
+LK-2215150	Aluthwatta	Aluthwatta	GND	61
 LK-2215155	Ambanpola	Ambanpola	GND	159
 LK-2215160	Lakshahena	Lakshahena	GND	137
 LK-2215165	Deevilla South	Deevilla South	GND	128
@@ -4584,7 +4584,7 @@ LK-2218100	Kottagoda	Kottagoda	GND	260
 LK-2218105	Owala Polwatta	Owala Polwatta	GND	322
 LK-2218110	Makulgaharuppa	Makulgaharuppa	GND	290
 LK-2218115	Udugama	Udugama	GND	221
-LK-2218120	nan	Kirigalpotta	GND	597
+LK-2218120	Kirigalpotta	Kirigalpotta	GND	597
 LK-2218125	Dunkalawatta	Dunkalawatta	GND	485
 LK-2218130	Dorakumbura	Dorakumbura	GND	577
 LK-2218135	Biridewala	Biridewala	GND	274
@@ -4631,7 +4631,7 @@ LK-2221070	Kavudagammana	Kavudagammana	GND	128
 LK-2221075	Narangolla	Narangolla	GND	175
 LK-2221080	Hunukete	Hunukete	GND	364
 LK-2221085	Metihakka	Metihakka	GND	364
-LK-2221090	nan	Aluthwela	GND	182
+LK-2221090	Aluthwela	Aluthwela	GND	182
 LK-2221095	Cloda	Cloda	GND	180
 LK-2221100	Gurubebila	Gurubebila	GND	185
 LK-2224	Laggala	Laggala-Pallegama	DSD	4876
@@ -8491,7 +8491,7 @@ LK-5103070	Mankerny South	Mankerny South	GND	308
 LK-5103075	Kayankerny	Kayankerny	GND	383
 LK-5103080	Vattavan	Vattavan	GND	428
 LK-5104	Koralai Pattu Central	Koralai Pattu Central	DSD	8481
-LK-5104005	nan	Punanai East	GND	659
+LK-5104005	Punanai East 	Punanai East	GND	659
 LK-5104010	Thiyavattavan	Thiyavattavan	GND	1165
 LK-5104015	Valaichchenai 5 Muslim	Valaichchenai 5 Muslim	GND	568
 LK-5104020	Valaichchenai 4 Muslim	Valaichchenai 4 Muslim	GND	666
@@ -9041,36 +9041,36 @@ LK-5218245	Valathapitty 02	Valathapitty 02	GND	61
 LK-5218250	Valathapitty 01	Valathapitty 01	GND	920
 LK-5218255	Malwatte 04	Malwatte 04	GND	164
 LK-5221	Kalmunai North	Kalmunai North Sub	DSD	8675
-LK-5221005	nan	Periyaneelavanai  01B	GND	609
-LK-5221010	nan	Periyaneelavanai  01A	GND	252
-LK-5221015	nan	Periyaneelavanai  01	GND	414
-LK-5221020	nan	Periyaneelavanai  02	GND	940
-LK-5221025	nan	Chenaikudiyiruppu 01A	GND	393
-LK-5221030	nan	Pandiruppu 01	GND	289
-LK-5221035	nan	Pandiruppu 01B	GND	231
-LK-5221040	nan	Pandiruppu 01C	GND	238
-LK-5221045	nan	Pandiruppu 01A	GND	240
-LK-5221050	nan	"Pandiruppu 02_x000D_
+LK-5221005	Periyaneelavanai  01B	Periyaneelavanai  01B	GND	609
+LK-5221010	Periyaneelavanai  01A	Periyaneelavanai  01A	GND	252
+LK-5221015	Periyaneelavanai  01	Periyaneelavanai  01	GND	414
+LK-5221020	Periyaneelavanai  02	Periyaneelavanai  02	GND	940
+LK-5221025	Chenaikudiyiruppu 01A	Chenaikudiyiruppu 01A	GND	393
+LK-5221030	Pandiruppu 01	Pandiruppu 01	GND	289
+LK-5221035	Pandiruppu 01B	Pandiruppu 01B	GND	231
+LK-5221040	Pandiruppu 01C	Pandiruppu 01C	GND	238
+LK-5221045	Pandiruppu 01A	Pandiruppu 01A	GND	240
+LK-5221050	Pandiruppu 02_x000D_	"Pandiruppu 02_x000D_
 "	GND	467
-LK-5221055	nan	Pandiruppu 02B	GND	189
-LK-5221060	nan	Pandiruppu 02C	GND	293
-LK-5221065	nan	Pandiruppu 02A	GND	208
-LK-5221070	nan	Kalmunai  01D	GND	255
-LK-5221075	nan	Kalmunai  01B	GND	119
-LK-5221080	nan	Kalmunai  01A	GND	254
-LK-5221085	nan	Kalmunai  01	GND	307
-LK-5221090	nan	Natpiddimunai (T.P ) 03	GND	296
-LK-5221095	nan	Natpiddimunai (T.P ) 02	GND	347
-LK-5221100	nan	Natpiddimunai (T.P ) 01	GND	227
-LK-5221105	nan	Chenaikudiyiruppu 01B	GND	268
-LK-5221110	nan	Chenaikudiyiruppu 01	GND	264
-LK-5221115	nan	Kalmunai  01C	GND	193
-LK-5221120	nan	Kalmunai  01E	GND	278
-LK-5221125	nan	Kalmunai  02B	GND	171
-LK-5221130	nan	Kalmunai  02A	GND	228
-LK-5221135	nan	Kalmunai  02	GND	356
-LK-5221140	nan	Kalmunai  03	GND	242
-LK-5221145	nan	Kalmunai  03A	GND	107
+LK-5221055	Pandiruppu 02B	Pandiruppu 02B	GND	189
+LK-5221060	Pandiruppu 02C	Pandiruppu 02C	GND	293
+LK-5221065	Pandiruppu 02A	Pandiruppu 02A	GND	208
+LK-5221070	Kalmunai  01D	Kalmunai  01D	GND	255
+LK-5221075	Kalmunai  01B	Kalmunai  01B	GND	119
+LK-5221080	Kalmunai  01A	Kalmunai  01A	GND	254
+LK-5221085	Kalmunai  01	Kalmunai  01	GND	307
+LK-5221090	Natpiddimunai (T.P ) 03	Natpiddimunai (T.P ) 03	GND	296
+LK-5221095	Natpiddimunai (T.P ) 02	Natpiddimunai (T.P ) 02	GND	347
+LK-5221100	Natpiddimunai (T.P ) 01	Natpiddimunai (T.P ) 01	GND	227
+LK-5221105	Chenaikudiyiruppu 01B	Chenaikudiyiruppu 01B	GND	268
+LK-5221110	Chenaikudiyiruppu 01	Chenaikudiyiruppu 01	GND	264
+LK-5221115	Kalmunai  01C	Kalmunai  01C	GND	193
+LK-5221120	Kalmunai  01E	Kalmunai  01E	GND	278
+LK-5221125	Kalmunai  02B	Kalmunai  02B	GND	171
+LK-5221130	Kalmunai  02A	Kalmunai  02A	GND	228
+LK-5221135	Kalmunai  02	Kalmunai  02	GND	356
+LK-5221140	Kalmunai  03	Kalmunai  03	GND	242
+LK-5221145	Kalmunai  03A	Kalmunai  03A	GND	107
 LK-5224	Kalmunai	Kalmunai	DSD	13481
 LK-5224005	Periyaneelavanai 01B	Periyaneelavanai  Muslim Section	GND	626
 LK-5224010	Periyaneelavanai 01A	Periyaneelavanai  Muslim Section	GND	315
@@ -10335,9 +10335,9 @@ LK-6145210	Bogolla	Bogolla	GND	307
 LK-6145215	Bamunumulla	Bamunumulla	GND	238
 LK-6145220	Meegaspitiya	Meegaspitiya	GND	211
 LK-6145225	Yayegedara	Yayegedara	GND	306
-LK-6145226	nan	Moragolla	GND	244
-LK-6145227	nan	Rideekanda	GND	340
-LK-6145228	nan	Thengodagedara	GND	195
+LK-6145226	Moragolla	Moragolla	GND	244
+LK-6145227	Rideekanda	Rideekanda	GND	340
+LK-6145228	Thengodagedara	Thengodagedara	GND	195
 LK-6145230	Tekewa	Tekewa	GND	254
 LK-6145235	Rittadeniya	Rittadeniya	GND	206
 LK-6145240	Jayasiripura	Jayasiripura	GND	275
@@ -13612,7 +13612,7 @@ LK-8215085	Viharamulla	Viharamulla	GND	834
 LK-8215090	Muppane	Muppane	GND	1111
 LK-8215095	Maduruketiya	Maduruketiya	GND	1577
 LK-8215100	Kumbukkana	Kumbukkana	GND	697
-LK-8215105	nan	Horombuwa	GND	792
+LK-8215105	Horombuwa	Horombuwa	GND	792
 LK-8215110	Hulandawa South	Hulandawa South	GND	772
 LK-8215115	Marawa	Marawa	GND	449
 LK-8215120	Veheragala	Veheragala	GND	312
@@ -13636,7 +13636,7 @@ LK-8218070	Alupotha	Alupotha	GND	611
 LK-8218075	Wasipaha	Wasipaha	GND	396
 LK-8218080	Badalkumbura	Badalkumbura	GND	520
 LK-8218085	Maligathenna	Maligathenna	GND	402
-LK-8218090	nan	Pussellawa	GND	456
+LK-8218090	Pussellawa	Pussellawa	GND	456
 LK-8218095	Madukotan Arawa	Madukotan Arawa	GND	301
 LK-8218100	Yakurawa	Yakurawa	GND	421
 LK-8218105	Therappahuwa	Therappahuwa	GND	529
@@ -13819,7 +13819,7 @@ LK-9106060	Erathna	Erathna	GND	421
 LK-9106065	Adavikanda	Adavikanda	GND	264
 LK-9106070	Lassakanda	Lassakanda	GND	507
 LK-9106075	Sudagala	Sudagala	GND	634
-LK-9106080	nan	Ekneligoda North	GND	456
+LK-9106080	Ekneligoda North	Ekneligoda North	GND	456
 LK-9106085	Kiragala	Kiragala	GND	614
 LK-9106090	Kandangoda	Kandangoda	GND	504
 LK-9106095	Millavitiya	Millavitiya	GND	1029
@@ -13967,7 +13967,7 @@ LK-9115240	Karadiyamulla	Karadiyamulla	GND	672
 LK-9115245	Hatharabage	Hatharabage	GND	332
 LK-9115250	Thunkinda	Thunkinda	GND	137
 LK-9118	Balangoda	Balangoda	DSD	20998
-LK-9118005	nan	Egoda Waleboda	GND	553
+LK-9118005	Egoda Waleboda	Egoda Waleboda	GND	553
 LK-9118010	Welekumbura	Welekumbura	GND	450
 LK-9118015	Wijanathkumbura	Wijanathkumbura	GND	279
 LK-9118020	Bulathgama	Bulathgama	GND	353

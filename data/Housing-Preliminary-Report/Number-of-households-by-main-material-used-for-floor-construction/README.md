@@ -34,14 +34,14 @@ For each category, the District with the highest and lowest share (% of that reg
 
 Regions with an unusually high or low share of a category (≥ 2 standard deviations from the district mean).
 
-- 🔺 **Kilinochchi** — Other: **0.4%** vs district avg 0.1% (z = +4.9)
-- 🔺 **Batticaloa** — Sand: **1.8%** vs district avg 0.2% (z = +4.4)
-- 🔺 **Mannar** — Wood: **0.1%** vs district avg 0.0% (z = +3.5)
-- 🔺 **Colombo** — Terrazzo Or Tile Or Granite Or Wood Or Titanium: **52.5%** vs district avg 22.1% (z = +2.6)
-- 🔺 **Colombo** — Wood: **0.1%** vs district avg 0.0% (z = +2.5)
-- 🔺 **Badulla** — Mud: **6.2%** vs district avg 2.2% (z = +2.4)
-- 🔺 **Moneragala** — Mud: **6.2%** vs district avg 2.2% (z = +2.4)
-- 🔺 **Monaragala** — Mud: **6.2%** vs district avg 2.2% (z = +2.4)
+- 🔺 **Batticaloa** — Sand: **1.8%** vs district avg 0.2% (z = +4.5)
+- 🔺 **Kilinochchi** — Other: **0.4%** vs district avg 0.1% (z = +4.1)
+- 🔺 **Mannar** — Wood: **0.1%** vs district avg 0.0% (z = +3.2)
+- 🔺 **Colombo** — Terrazzo Or Tile Or Granite Or Wood Or Titanium: **52.5%** vs district avg 21.3% (z = +2.7)
+- 🔺 **Badulla** — Mud: **6.2%** vs district avg 2.2% (z = +2.5)
+- 🔺 **Monaragala** — Mud: **6.2%** vs district avg 2.2% (z = +2.5)
+- 🔺 **Colombo** — Wood: **0.1%** vs district avg 0.0% (z = +2.3)
+- 🔺 **Anuradhapura** — Concrete: **17.8%** vs district avg 7.9% (z = +2.2)
 
 ---
 *Data covers **397** rows down to **dsd** level (340 dsds).*
