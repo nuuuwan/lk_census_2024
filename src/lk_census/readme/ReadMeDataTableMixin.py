@@ -60,41 +60,6 @@ class ReadMeDataTableMixin:
             ]
         )
 
-        region_ent_type_to_n = {}
-        for d in data_list:
-            region_ent_type = d["region_ent_type"]
-            region_ent_type_to_n[region_ent_type] = (
-                region_ent_type_to_n.get(region_ent_type, 0) + 1
-            )
-        tokens = []
-        for region_ent_type, n in region_ent_type_to_n.items():
-            tokens.append(f"{region_ent_type.title()} ({n:,})")
-        n = len(data_list)
-        lines.extend(
-            [
-                f"**{n:,}** rows in total, by " + ", ".join(tokens),
-                "",
-            ]
-        )
-        return lines
-
-    def get_lines_for_data_table(self, i_table, data_table) -> list[str]:
-        lines = [
-            f"### {i_table:02d}. [{data_table.data_table_id}]"
-            + f"({data_table.dir_table})",
-            "",
-        ]
-
-        for label, file_path in [
-            ("📄 JSON", data_table.json_path),
-            ("📄 TSV Table", data_table.tsv_path),
-        ]:
-            lines.append(f"- [{label}]({file_path})")
-        lines.append("")
-
-        lines.extend(self.get_lines_for_example_data(data_table))
-        lines.extend(self.get_lines_for_validations(data_table))
-
         return lines
 
     def get_lines_for_xlsx_data_table(self, i_table, data_table) -> list[str]:
@@ -105,7 +70,6 @@ class ReadMeDataTableMixin:
         ]
         for label, file_path in [
             ("📄 JSON", data_table.json_path),
-            ("📄 TSV Table", data_table.tsv_path),
             ("📊 Source XLSX", data_table.xlsx_path),
         ]:
             lines.append(f"- [{label}]({file_path})")
