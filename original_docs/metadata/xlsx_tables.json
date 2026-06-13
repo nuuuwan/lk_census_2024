@@ -93,5 +93,113 @@
       "common_public",
       "none"
     ]
+  },
+  {
+    "doc_name": "GN_Level_Population_by_Ethnic_Group",
+    "table_title": "Population by Ethnic Group",
+    "column_offset": 8,
+    "field_list": [
+      "sinhalese",
+      "sri_lanka_tamil",
+      "indian_malaiyaga_tamil",
+      "sri_lanka_moor_muslim",
+      "burgher",
+      "malay",
+      "sri_lanka_chetty",
+      "bharatha",
+      "veddha"
+    ]
+  },
+  {
+    "doc_name": "GN_Level_Population_by_Five_Year_Age_Group",
+    "table_title": "Population by 5 year Age groups",
+    "column_offset": 7,
+    "field_list": [
+      "00_04",
+      "05_09",
+      "10_14",
+      "15_19",
+      "20_24",
+      "25_29",
+      "30_34",
+      "35_39",
+      "40_44",
+      "45_49",
+      "50_54",
+      "55_59",
+      "60_64",
+      "65_69",
+      "70_74",
+      "75_79",
+      "80_84",
+      "85_89",
+      "90_94",
+      "95_and_above"
+    ]
+  },
+  {
+    "doc_name": "OHU_GN_excel",
+    "table_title": "Type of Housing unit Structure",
+    "column_offset": 10,
+    "field_list": [
+      "single_house_single_storeyed",
+      "single_house_two_storeyed",
+      "single_house_more_than_two_storeyed",
+      "attached_house_1st_floor",
+      "attached_house_2nd_floor",
+      "attached_house_from_3_to_4_floors",
+      "attached_house_from_5_to_10_floors",
+      "attached_house_from_11_to_19_floors",
+      "attached_house_from_20_floors_or_more",
+      "other"
+    ]
+  },
+  {
+    "doc_name": "OHU_GN_excel",
+    "table_title": "Principal material of construction of the Walls",
+    "column_offset": 20,
+    "field_list": [
+      "bricks",
+      "cement_block",
+      "granite_cube_stones",
+      "cabook",
+      "pressed_soil_bricks",
+      "warichchi_mud",
+      "cadjan_palmyrah",
+      "planks_metal_sheets_asbestos",
+      "zink_aluminium_sheets",
+      "other",
+      "not_relevant"
+    ]
+  },
+  {
+    "doc_name": "OHU_GN_excel",
+    "table_title": "Principal material of construction of the Floor",
+    "column_offset": 31,
+    "field_list": [
+      "cement",
+      "terrazzo_tile_granite_wood_finished",
+      "concrete",
+      "mud",
+      "wood",
+      "sand",
+      "other",
+      "not_relevant"
+    ]
+  },
+  {
+    "doc_name": "OHU_GN_excel",
+    "table_title": "Principal material of construction of the Roof",
+    "column_offset": 39,
+    "field_list": [
+      "tile",
+      "asbestos",
+      "concrete",
+      "zink_aluminium_sheet",
+      "metal_sheet",
+      "cadjan_palmyrah_straw",
+      "other",
+      "not_relevant"
+    ]
   }
 ]
