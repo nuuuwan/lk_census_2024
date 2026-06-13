@@ -33,12 +33,6 @@ class OriginalDoc:
         return "-".join(tokens)
 
     @property
-    def pdf_path(self) -> str:
-        if not self.file_path.lower().endswith(".pdf"):
-            raise ValueError(f"file_path '{self.file_path}' is not a PDF")
-        return self.file_path
-
-    @property
     def title(self) -> str:
         return os.path.basename(self.file_path)
 
@@ -59,14 +53,6 @@ class OriginalDoc:
             doc = cls(url=t["url"], file_path=t["file_path"])
             doc_list.append(doc)
         return doc_list
-
-    @classmethod
-    def list_all_pdf(cls) -> list["OriginalDoc"]:
-        return [
-            doc
-            for doc in cls.list_all()
-            if doc.file_path.lower().endswith(".pdf")
-        ]
 
     @classmethod
     def list_all_excel(cls) -> list["OriginalDoc"]:

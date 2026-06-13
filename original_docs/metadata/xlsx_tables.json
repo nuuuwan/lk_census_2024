@@ -97,7 +97,7 @@
   {
     "doc_name": "GN_Level_Population_by_Ethnic_Group",
     "table_title": "Population by Ethnic Group",
-    "column_offset": 8,
+    "column_offset": 7,
     "field_list": [
       "sinhalese",
       "sri_lanka_tamil",
@@ -108,7 +108,22 @@
       "sri_lanka_chetty",
       "bharatha",
       "veddha"
-    ]
+    ],
+    "has_province_info": false
+  },
+  {
+    "doc_name": "GN_Level_Population_by_Religion",
+    "table_title": "Population by Religion Group",
+    "column_offset": 7,
+    "field_list": [
+      "buddhist",
+      "hindu",
+      "islam",
+      "roman_catholic",
+      "other_christian",
+      "other"
+    ],
+    "has_province_info": false
   },
   {
     "doc_name": "GN_Level_Population_by_Five_Year_Age_Group",
@@ -135,7 +150,8 @@
       "85_89",
       "90_94",
       "95_and_above"
-    ]
+    ],
+    "has_province_info": false
   },
   {
     "doc_name": "OHU_GN_excel",

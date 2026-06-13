@@ -60,7 +60,6 @@ class ReadMe(ReadMeDataTableMixin):
         return (
             self.get_lines_for_header()
             + self.get_lines_for_original_docs()
-            + self.get_lines_for_data_tables()
             + self.get_lines_for_xlsx_data_tables()
             + self.get_lines_for_footer()
         )
