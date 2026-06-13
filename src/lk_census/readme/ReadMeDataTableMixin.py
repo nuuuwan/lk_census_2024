@@ -34,7 +34,7 @@ class ReadMeDataTableMixin:
         lines = ["### Data by Country & Province", ""]
         # render as markdown table columns are region_id, region_name, and all
         # the keys in values
-        header = ["Region ID", "Region Name", "Total"] + list(
+        header = ["region_id", "region_name", "total_value"] + list(
             data_table.data_list[0]["values"].keys()
         )
         lines.append("| " + " | ".join(header) + " |")
