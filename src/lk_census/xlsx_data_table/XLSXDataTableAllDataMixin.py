@@ -20,7 +20,6 @@ class XLSXDataTableAllDataMixin:
         gnd_data_list = self.gnd_data_list
 
         non_admin_ent_types = [
-            EntType.DSD,
             EntType.ED,
             EntType.PD,
             EntType.LG,
@@ -59,6 +58,11 @@ class XLSXDataTableAllDataMixin:
 
         all_data_list = []
         for parent_id, data_lists in parent_to_data_lists.items():
+            child_region_ids = set(d["region_id"] for d in data_lists)
+            if len(child_region_ids) != len(data_lists):
+                raise ValueError(
+                    f"Duplicate child region ids for parent_id {parent_id}"
+                )
             region_name = Ent.from_id(parent_id).name
             parent_data = dict(
                 region_id=parent_id,
@@ -92,9 +96,7 @@ class XLSXDataTableAllDataMixin:
             )
 
         gnd_ids_in_data_table = set(d["region_id"] for d in gnd_data_list)
-        gnd_ids_not_in_data_table = (
-            set(gnd_idx.keys()) - gnd_ids_in_data_table
-        )
+        gnd_ids_not_in_data_table = set(gnd_idx.keys()) - gnd_ids_in_data_table
         if gnd_ids_not_in_data_table:
             log.warning(
                 f"{len(gnd_ids_not_in_data_table)}"
