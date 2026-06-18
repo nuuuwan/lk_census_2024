@@ -29,3 +29,7 @@ class WWW:
         with open(file_path, "wb") as fd:
             fd.write(response.content)
         return file_path
+
+    def read(self) -> str:
+        response = self.get_response()
+        return response.text

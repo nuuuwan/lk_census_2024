@@ -5,7 +5,7 @@
 🇱🇰 #SriLanka #Census 2024
 🆕 Data Update
 
-All 12 tables now have Grama Niladhari Division level data (for 14,000+ GNDs)
+All 12 datasets now have Grama Niladhari Division level data (for 14,000+ GNDs)
 
 <https://github.com/nuuuwan/lk_census_2024>
 

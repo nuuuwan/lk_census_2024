@@ -1,7 +1,7 @@
 # 🇱🇰 Sri Lanka - Census of Population and Housing 2024
 
 ![CPH](https://img.shields.io/badge/CPH-2024-blue)
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--06--13_18:42:17-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--06--18_13:04:18-green)
 
 12 Datasets on Population and Housing by Country, Province, District, Divisional Secretariat Division (DSD), Grama Niladhari Division (GND), Electoral District (ED), Polling Division (PD), and Local Government Authority (LG) levels.
 
@@ -40,7 +40,7 @@
 ### Data Files
 
 - [📄 data/Population-Gender/data.json (3.3 MB)](data/Population-Gender/data.json)
-- [📕 data/Population-Gender/data.tsv (629.8 kB)](data/Population-Gender/data.tsv)
+- [📕 data/Population-Gender/data.tsv (629.5 kB)](data/Population-Gender/data.tsv)
 - [📊 original_docs/GN_population_excel.xlsx (1.5 MB)](original_docs/GN_population_excel.xlsx)
 
 ### Source
@@ -91,7 +91,7 @@
 ### Data Files
 
 - [📄 data/Population-Ethnicity/data.json (6.4 MB)](data/Population-Ethnicity/data.json)
-- [📕 data/Population-Ethnicity/data.tsv (864.0 kB)](data/Population-Ethnicity/data.tsv)
+- [📕 data/Population-Ethnicity/data.tsv (863.4 kB)](data/Population-Ethnicity/data.tsv)
 - [📊 original_docs/GNLevel-GN_Level_Population_by_Ethnic_Group.xlsx (6.8 MB)](original_docs/GNLevel-GN_Level_Population_by_Ethnic_Group.xlsx)
 
 ### Source
@@ -138,7 +138,7 @@
 ### Data Files
 
 - [📄 data/Population-Religion/data.json (4.7 MB)](data/Population-Religion/data.json)
-- [📕 data/Population-Religion/data.tsv (754.3 kB)](data/Population-Religion/data.tsv)
+- [📕 data/Population-Religion/data.tsv (753.6 kB)](data/Population-Religion/data.tsv)
 - [📊 original_docs/GNLevel-GN_Level_Population_by_Religion.xlsx (1.0 MB)](original_docs/GNLevel-GN_Level_Population_by_Religion.xlsx)
 
 ### Source
@@ -250,7 +250,7 @@
 ### Data Files
 
 - [📄 data/Housing-Structure/data.json (8.9 MB)](data/Housing-Structure/data.json)
-- [📕 data/Housing-Structure/data.tsv (847.0 kB)](data/Housing-Structure/data.tsv)
+- [📕 data/Housing-Structure/data.tsv (846.3 kB)](data/Housing-Structure/data.tsv)
 - [📊 original_docs/OHU_GN_excel.xlsx (3.4 MB)](original_docs/OHU_GN_excel.xlsx)
 
 ### Source
@@ -302,7 +302,7 @@
 ### Data Files
 
 - [📄 data/Housing-Walls/data.json (7.2 MB)](data/Housing-Walls/data.json)
-- [📕 data/Housing-Walls/data.tsv (886.4 kB)](data/Housing-Walls/data.tsv)
+- [📕 data/Housing-Walls/data.tsv (885.4 kB)](data/Housing-Walls/data.tsv)
 - [📊 original_docs/OHU_GN_excel.xlsx (3.4 MB)](original_docs/OHU_GN_excel.xlsx)
 
 ### Source
@@ -351,7 +351,7 @@
 ### Data Files
 
 - [📄 data/Housing-Floor/data.json (5.5 MB)](data/Housing-Floor/data.json)
-- [📕 data/Housing-Floor/data.tsv (803.2 kB)](data/Housing-Floor/data.tsv)
+- [📕 data/Housing-Floor/data.tsv (802.5 kB)](data/Housing-Floor/data.tsv)
 - [📊 original_docs/OHU_GN_excel.xlsx (3.4 MB)](original_docs/OHU_GN_excel.xlsx)
 
 ### Source
@@ -400,7 +400,7 @@
 ### Data Files
 
 - [📄 data/Housing-Roof/data.json (5.7 MB)](data/Housing-Roof/data.json)
-- [📕 data/Housing-Roof/data.tsv (806.0 kB)](data/Housing-Roof/data.tsv)
+- [📕 data/Housing-Roof/data.tsv (805.1 kB)](data/Housing-Roof/data.tsv)
 - [📊 original_docs/OHU_GN_excel.xlsx (3.4 MB)](original_docs/OHU_GN_excel.xlsx)
 
 ### Source
@@ -505,7 +505,7 @@
 ### Data Files
 
 - [📄 data/Housing-Cooking-Fuel/data.json (5.4 MB)](data/Housing-Cooking-Fuel/data.json)
-- [📕 data/Housing-Cooking-Fuel/data.tsv (789.8 kB)](data/Housing-Cooking-Fuel/data.tsv)
+- [📕 data/Housing-Cooking-Fuel/data.tsv (789.0 kB)](data/Housing-Cooking-Fuel/data.tsv)
 - [📊 original_docs/HH_GND_excel.xlsx (3.7 MB)](original_docs/HH_GND_excel.xlsx)
 
 ### Source
@@ -553,7 +553,7 @@
 ### Data Files
 
 - [📄 data/Housing-Lighting/data.json (5.2 MB)](data/Housing-Lighting/data.json)
-- [📕 data/Housing-Lighting/data.tsv (740.7 kB)](data/Housing-Lighting/data.tsv)
+- [📕 data/Housing-Lighting/data.tsv (740.1 kB)](data/Housing-Lighting/data.tsv)
 - [📊 original_docs/HH_GND_excel.xlsx (3.7 MB)](original_docs/HH_GND_excel.xlsx)
 
 ### Source
@@ -601,7 +601,7 @@
 ### Data Files
 
 - [📄 data/Housing-Toilet/data.json (5.9 MB)](data/Housing-Toilet/data.json)
-- [📕 data/Housing-Toilet/data.tsv (773.3 kB)](data/Housing-Toilet/data.tsv)
+- [📕 data/Housing-Toilet/data.tsv (772.5 kB)](data/Housing-Toilet/data.tsv)
 - [📊 original_docs/HH_GND_excel.xlsx (3.7 MB)](original_docs/HH_GND_excel.xlsx)
 
 ### Source

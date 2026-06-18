@@ -440,36 +440,6 @@
     "total_value": 592371
   },
   {
-    "region_id": "LK-1103",
-    "region_name": "Colombo",
-    "region_ent_type": "dsd",
-    "values": {
-      "male": 290796,
-      "female": 293382
-    },
-    "total_value": 584178
-  },
-  {
-    "region_id": "LK-1112",
-    "region_name": "Homagama",
-    "region_ent_type": "dsd",
-    "values": {
-      "male": 273588,
-      "female": 287954
-    },
-    "total_value": 561542
-  },
-  {
-    "region_id": "LK-1109",
-    "region_name": "Kaduwela",
-    "region_ent_type": "dsd",
-    "values": {
-      "male": 271422,
-      "female": 284414
-    },
-    "total_value": 555836
-  },
-  {
     "region_id": "LK-82",
     "region_name": "Monaragala",
     "region_ent_type": "district",
@@ -488,16 +458,6 @@
       "female": 266658
     },
     "total_value": 527585
-  },
-  {
-    "region_id": "LK-1136",
-    "region_name": "Kesbewa",
-    "region_ent_type": "dsd",
-    "values": {
-      "male": 252922,
-      "female": 274160
-    },
-    "total_value": 527082
   },
   {
     "region_id": "LK-22",
@@ -530,16 +490,6 @@
     "total_value": 509207
   },
   {
-    "region_id": "LK-1206",
-    "region_name": "Katana",
-    "region_ent_type": "dsd",
-    "values": {
-      "male": 233866,
-      "female": 248572
-    },
-    "total_value": 482438
-  },
-  {
     "region_id": "LK-72",
     "region_name": "Polonnaruwa",
     "region_ent_type": "district",
@@ -558,16 +508,6 @@
       "female": 227844
     },
     "total_value": 447530
-  },
-  {
-    "region_id": "LK-1233",
-    "region_name": "Mahara",
-    "region_ent_type": "dsd",
-    "values": {
-      "male": 215472,
-      "female": 230648
-    },
-    "total_value": 446120
   },
   {
     "region_id": "LK-53",
@@ -590,26 +530,6 @@
     "total_value": 442745
   },
   {
-    "region_id": "LK-1127",
-    "region_name": "Thimbirigasyaya",
-    "region_ent_type": "dsd",
-    "values": {
-      "male": 211956,
-      "female": 222280
-    },
-    "total_value": 434236
-  },
-  {
-    "region_id": "LK-1106",
-    "region_name": "Kolonnawa",
-    "region_ent_type": "dsd",
-    "values": {
-      "male": 209326,
-      "female": 218814
-    },
-    "total_value": 428140
-  },
-  {
     "region_id": "EC-06A",
     "region_name": "Nuwara Eliya Maskeliya",
     "region_ent_type": "pd",
@@ -630,176 +550,6 @@
     "total_value": 418491
   },
   {
-    "region_id": "LK-1239",
-    "region_name": "Biyagama",
-    "region_ent_type": "dsd",
-    "values": {
-      "male": 204336,
-      "female": 209974
-    },
-    "total_value": 414310
-  },
-  {
-    "region_id": "LK-1224",
-    "region_name": "Gampaha",
-    "region_ent_type": "dsd",
-    "values": {
-      "male": 195820,
-      "female": 215400
-    },
-    "total_value": 411220
-  },
-  {
-    "region_id": "LK-1221",
-    "region_name": "Ja Ela",
-    "region_ent_type": "dsd",
-    "values": {
-      "male": 196228,
-      "female": 213384
-    },
-    "total_value": 409612
-  },
-  {
-    "region_id": "LK-1215",
-    "region_name": "Minuwangoda",
-    "region_ent_type": "dsd",
-    "values": {
-      "male": 190854,
-      "female": 206694
-    },
-    "total_value": 397548
-  },
-  {
-    "region_id": "LK-1227",
-    "region_name": "Attanagalla",
-    "region_ent_type": "dsd",
-    "values": {
-      "male": 189332,
-      "female": 206118
-    },
-    "total_value": 395450
-  },
-  {
-    "region_id": "LK-1121",
-    "region_name": "Maharagama",
-    "region_ent_type": "dsd",
-    "values": {
-      "male": 186460,
-      "female": 206540
-    },
-    "total_value": 393000
-  },
-  {
-    "region_id": "LK-1303",
-    "region_name": "Panadura",
-    "region_ent_type": "dsd",
-    "values": {
-      "male": 179518,
-      "female": 195432
-    },
-    "total_value": 374950
-  },
-  {
-    "region_id": "LK-1218",
-    "region_name": "Wattala",
-    "region_ent_type": "dsd",
-    "values": {
-      "male": 176816,
-      "female": 188194
-    },
-    "total_value": 365010
-  },
-  {
-    "region_id": "LK-1324",
-    "region_name": "Beruwala",
-    "region_ent_type": "dsd",
-    "values": {
-      "male": 177134,
-      "female": 184506
-    },
-    "total_value": 361640
-  },
-  {
-    "region_id": "LK-1212",
-    "region_name": "Mirigama",
-    "region_ent_type": "dsd",
-    "values": {
-      "male": 169402,
-      "female": 184092
-    },
-    "total_value": 353494
-  },
-  {
-    "region_id": "LK-1230",
-    "region_name": "Dompe",
-    "region_ent_type": "dsd",
-    "values": {
-      "male": 164760,
-      "female": 174994
-    },
-    "total_value": 339754
-  },
-  {
-    "region_id": "LK-1321",
-    "region_name": "Kalutara",
-    "region_ent_type": "dsd",
-    "values": {
-      "male": 159778,
-      "female": 173470
-    },
-    "total_value": 333248
-  },
-  {
-    "region_id": "LK-2314",
-    "region_name": "Norwood",
-    "region_ent_type": "dsd",
-    "values": {
-      "male": 151414,
-      "female": 171320
-    },
-    "total_value": 322734
-  },
-  {
-    "region_id": "LK-1133",
-    "region_name": "Moratuwa",
-    "region_ent_type": "dsd",
-    "values": {
-      "male": 155160,
-      "female": 165238
-    },
-    "total_value": 320398
-  },
-  {
-    "region_id": "LK-9148",
-    "region_name": "Embilipitiya",
-    "region_ent_type": "dsd",
-    "values": {
-      "male": 156962,
-      "female": 163054
-    },
-    "total_value": 320016
-  },
-  {
-    "region_id": "LK-1209",
-    "region_name": "Divulapitiya",
-    "region_ent_type": "dsd",
-    "values": {
-      "male": 151848,
-      "female": 162066
-    },
-    "total_value": 313914
-  },
-  {
-    "region_id": "LK-2130",
-    "region_name": "Gangawata Korale",
-    "region_ent_type": "dsd",
-    "values": {
-      "male": 143324,
-      "female": 163334
-    },
-    "total_value": 306658
-  },
-  {
     "region_id": "LG-11031",
     "region_name": "Homagama PS",
     "region_ent_type": "lg",
@@ -810,14 +560,14 @@
     "total_value": 298883
   },
   {
-    "region_id": "LK-2127",
-    "region_name": "Kundasale",
+    "region_id": "LK-1103",
+    "region_name": "Colombo",
     "region_ent_type": "dsd",
     "values": {
-      "male": 136552,
-      "female": 152214
+      "male": 145398,
+      "female": 146691
     },
-    "total_value": 288766
+    "total_value": 292089
   },
   {
     "region_id": "EC-12B",
@@ -830,6 +580,16 @@
     "total_value": 285825
   },
   {
+    "region_id": "LK-1112",
+    "region_name": "Homagama",
+    "region_ent_type": "dsd",
+    "values": {
+      "male": 136794,
+      "female": 143977
+    },
+    "total_value": 280771
+  },
+  {
     "region_id": "EC-01L",
     "region_name": "Homagama",
     "region_ent_type": "pd",
@@ -838,6 +598,16 @@
       "female": 143977
     },
     "total_value": 280771
+  },
+  {
+    "region_id": "LK-1109",
+    "region_name": "Kaduwela",
+    "region_ent_type": "dsd",
+    "values": {
+      "male": 135711,
+      "female": 142207
+    },
+    "total_value": 277918
   },
   {
     "region_id": "EC-01J",
@@ -860,44 +630,14 @@
     "total_value": 277918
   },
   {
-    "region_id": "LK-1203",
-    "region_name": "Negombo",
+    "region_id": "LK-1136",
+    "region_name": "Kesbewa",
     "region_ent_type": "dsd",
     "values": {
-      "male": 132274,
-      "female": 143630
+      "male": 126461,
+      "female": 137080
     },
-    "total_value": 275904
-  },
-  {
-    "region_id": "LK-6178",
-    "region_name": "Pannala",
-    "region_ent_type": "dsd",
-    "values": {
-      "male": 129964,
-      "female": 141726
-    },
-    "total_value": 271690
-  },
-  {
-    "region_id": "LK-1236",
-    "region_name": "Kelaniya",
-    "region_ent_type": "dsd",
-    "values": {
-      "male": 129930,
-      "female": 137580
-    },
-    "total_value": 267510
-  },
-  {
-    "region_id": "LK-1309",
-    "region_name": "Horana",
-    "region_ent_type": "dsd",
-    "values": {
-      "male": 127894,
-      "female": 139476
-    },
-    "total_value": 267370
+    "total_value": 263541
   },
   {
     "region_id": "EC-01N",
@@ -920,26 +660,6 @@
     "total_value": 261244
   },
   {
-    "region_id": "LK-2313",
-    "region_name": "Thalawakele",
-    "region_ent_type": "dsd",
-    "values": {
-      "male": 123664,
-      "female": 135398
-    },
-    "total_value": 259062
-  },
-  {
-    "region_id": "LK-9206",
-    "region_name": "Mawanella",
-    "region_ent_type": "dsd",
-    "values": {
-      "male": 119506,
-      "female": 132546
-    },
-    "total_value": 252052
-  },
-  {
     "region_id": "EC-13D",
     "region_name": "Pothuvil",
     "region_ent_type": "pd",
@@ -960,36 +680,6 @@
     "total_value": 249813
   },
   {
-    "region_id": "LK-1306",
-    "region_name": "Bandaragama",
-    "region_ent_type": "dsd",
-    "values": {
-      "male": 120354,
-      "female": 127912
-    },
-    "total_value": 248266
-  },
-  {
-    "region_id": "LK-3242",
-    "region_name": "Matara Four Gravets",
-    "region_ent_type": "dsd",
-    "values": {
-      "male": 116788,
-      "female": 130948
-    },
-    "total_value": 247736
-  },
-  {
-    "region_id": "LK-1115",
-    "region_name": "Seethawaka",
-    "region_ent_type": "dsd",
-    "values": {
-      "male": 118986,
-      "female": 125270
-    },
-    "total_value": 244256
-  },
-  {
     "region_id": "EC-13A",
     "region_name": "Ampara",
     "region_ent_type": "pd",
@@ -1000,24 +690,14 @@
     "total_value": 243149
   },
   {
-    "region_id": "LK-9112",
-    "region_name": "Ratnapura",
+    "region_id": "LK-1206",
+    "region_name": "Katana",
     "region_ent_type": "dsd",
     "values": {
-      "male": 119114,
-      "female": 123218
+      "male": 116933,
+      "female": 124286
     },
-    "total_value": 242332
-  },
-  {
-    "region_id": "LK-2139",
-    "region_name": "Udunuwara",
-    "region_ent_type": "dsd",
-    "values": {
-      "male": 116644,
-      "female": 125392
-    },
-    "total_value": 242036
+    "total_value": 241219
   },
   {
     "region_id": "EC-02C",
@@ -1028,26 +708,6 @@
       "female": 124286
     },
     "total_value": 241219
-  },
-  {
-    "region_id": "LK-9218",
-    "region_name": "Warakapola",
-    "region_ent_type": "dsd",
-    "values": {
-      "male": 112256,
-      "female": 123678
-    },
-    "total_value": 235934
-  },
-  {
-    "region_id": "LK-4309",
-    "region_name": "Vavuniya",
-    "region_ent_type": "dsd",
-    "values": {
-      "male": 111810,
-      "female": 122172
-    },
-    "total_value": 233982
   },
   {
     "region_id": "EC-20C",
@@ -1070,14 +730,14 @@
     "total_value": 225347
   },
   {
-    "region_id": "LK-2136",
-    "region_name": "Yatinuwara",
+    "region_id": "LK-1233",
+    "region_name": "Mahara",
     "region_ent_type": "dsd",
     "values": {
-      "male": 107616,
-      "female": 117668
+      "male": 107736,
+      "female": 115324
     },
-    "total_value": 225284
+    "total_value": 223060
   },
   {
     "region_id": "EC-02J",
@@ -1100,14 +760,14 @@
     "total_value": 223060
   },
   {
-    "region_id": "LK-3139",
-    "region_name": "Galle 4 Gravets",
+    "region_id": "LK-1127",
+    "region_name": "Thimbirigasyaya",
     "region_ent_type": "dsd",
     "values": {
-      "male": 104434,
-      "female": 112208
+      "male": 105978,
+      "female": 111140
     },
-    "total_value": 216642
+    "total_value": 217118
   },
   {
     "region_id": "EC-18C",
@@ -1120,6 +780,16 @@
     "total_value": 216159
   },
   {
+    "region_id": "LK-1106",
+    "region_name": "Kolonnawa",
+    "region_ent_type": "dsd",
+    "values": {
+      "male": 104663,
+      "female": 109407
+    },
+    "total_value": 214070
+  },
+  {
     "region_id": "EC-01H",
     "region_name": "Kolonnawa",
     "region_ent_type": "pd",
@@ -1130,16 +800,6 @@
     "total_value": 214070
   },
   {
-    "region_id": "LK-8130",
-    "region_name": "Welimada",
-    "region_ent_type": "dsd",
-    "values": {
-      "male": 102600,
-      "female": 108420
-    },
-    "total_value": 211020
-  },
-  {
     "region_id": "EC-21H",
     "region_name": "Kolonna",
     "region_ent_type": "pd",
@@ -1148,6 +808,16 @@
       "female": 106658
     },
     "total_value": 210076
+  },
+  {
+    "region_id": "LK-1239",
+    "region_name": "Biyagama",
+    "region_ent_type": "dsd",
+    "values": {
+      "male": 102168,
+      "female": 104987
+    },
+    "total_value": 207155
   },
   {
     "region_id": "EC-02L",
@@ -1170,14 +840,14 @@
     "total_value": 207155
   },
   {
-    "region_id": "LK-2151",
-    "region_name": "Udapalatha",
+    "region_id": "LK-1224",
+    "region_name": "Gampaha",
     "region_ent_type": "dsd",
     "values": {
-      "male": 97800,
-      "female": 108562
+      "male": 97910,
+      "female": 107700
     },
-    "total_value": 206362
+    "total_value": 205610
   },
   {
     "region_id": "EC-02H",
@@ -1200,6 +870,16 @@
     "total_value": 205357
   },
   {
+    "region_id": "LK-1221",
+    "region_name": "Ja Ela",
+    "region_ent_type": "dsd",
+    "values": {
+      "male": 98114,
+      "female": 106692
+    },
+    "total_value": 204806
+  },
+  {
     "region_id": "EC-02I",
     "region_name": "Ja Ela",
     "region_ent_type": "pd",
@@ -1220,14 +900,14 @@
     "total_value": 204301
   },
   {
-    "region_id": "LK-5315",
-    "region_name": "Town & Gravets",
+    "region_id": "LK-1215",
+    "region_name": "Minuwangoda",
     "region_ent_type": "dsd",
     "values": {
-      "male": 96662,
-      "female": 103878
+      "male": 95427,
+      "female": 103347
     },
-    "total_value": 200540
+    "total_value": 198774
   },
   {
     "region_id": "EC-02F",
@@ -1238,6 +918,16 @@
       "female": 103347
     },
     "total_value": 198774
+  },
+  {
+    "region_id": "LK-1227",
+    "region_name": "Attanagalla",
+    "region_ent_type": "dsd",
+    "values": {
+      "male": 94666,
+      "female": 103059
+    },
+    "total_value": 197725
   },
   {
     "region_id": "EC-02G",
@@ -1260,6 +950,16 @@
     "total_value": 197725
   },
   {
+    "region_id": "LK-1121",
+    "region_name": "Maharagama",
+    "region_ent_type": "dsd",
+    "values": {
+      "male": 93230,
+      "female": 103270
+    },
+    "total_value": 196500
+  },
+  {
     "region_id": "EC-01M",
     "region_name": "Maharagama",
     "region_ent_type": "pd",
@@ -1280,16 +980,6 @@
     "total_value": 196500
   },
   {
-    "region_id": "LK-9106",
-    "region_name": "Kuruvita",
-    "region_ent_type": "dsd",
-    "values": {
-      "male": 97032,
-      "female": 98900
-    },
-    "total_value": 195932
-  },
-  {
     "region_id": "EC-01K",
     "region_name": "Avissawella",
     "region_ent_type": "pd",
@@ -1300,26 +990,6 @@
     "total_value": 195142
   },
   {
-    "region_id": "LK-6203",
-    "region_name": "Kalpitiya",
-    "region_ent_type": "dsd",
-    "values": {
-      "male": 95608,
-      "female": 98382
-    },
-    "total_value": 193990
-  },
-  {
-    "region_id": "LK-1124",
-    "region_name": "Sri Jayawardanapura Kotte",
-    "region_ent_type": "dsd",
-    "values": {
-      "male": 91854,
-      "female": 100524
-    },
-    "total_value": 192378
-  },
-  {
     "region_id": "EC-03C",
     "region_name": "Horana",
     "region_ent_type": "pd",
@@ -1328,16 +998,6 @@
       "female": 99478
     },
     "total_value": 192046
-  },
-  {
-    "region_id": "LK-6163",
-    "region_name": "Rideegama",
-    "region_ent_type": "dsd",
-    "values": {
-      "male": 92370,
-      "female": 99550
-    },
-    "total_value": 191920
   },
   {
     "region_id": "LG-12040",
@@ -1360,26 +1020,6 @@
     "total_value": 191507
   },
   {
-    "region_id": "LK-5118",
-    "region_name": "Manmunai North",
-    "region_ent_type": "dsd",
-    "values": {
-      "male": 88804,
-      "female": 101410
-    },
-    "total_value": 190214
-  },
-  {
-    "region_id": "LK-6215",
-    "region_name": "Puttalam",
-    "region_ent_type": "dsd",
-    "values": {
-      "male": 91978,
-      "female": 97576
-    },
-    "total_value": 189554
-  },
-  {
     "region_id": "LG-12037",
     "region_name": "Katana PS",
     "region_ent_type": "lg",
@@ -1390,84 +1030,14 @@
     "total_value": 189258
   },
   {
-    "region_id": "LK-9212",
-    "region_name": "Kegalle",
+    "region_id": "LK-1303",
+    "region_name": "Panadura",
     "region_ent_type": "dsd",
     "values": {
-      "male": 89216,
-      "female": 99412
+      "male": 89759,
+      "female": 97716
     },
-    "total_value": 188628
-  },
-  {
-    "region_id": "LK-5112",
-    "region_name": "Eravur Pattu",
-    "region_ent_type": "dsd",
-    "values": {
-      "male": 87366,
-      "female": 101108
-    },
-    "total_value": 188474
-  },
-  {
-    "region_id": "LK-8124",
-    "region_name": "Hali-Ela",
-    "region_ent_type": "dsd",
-    "values": {
-      "male": 89890,
-      "female": 98562
-    },
-    "total_value": 188452
-  },
-  {
-    "region_id": "LK-6130",
-    "region_name": "Ibbagamuwa",
-    "region_ent_type": "dsd",
-    "values": {
-      "male": 90728,
-      "female": 97606
-    },
-    "total_value": 188334
-  },
-  {
-    "region_id": "LK-2133",
-    "region_name": "Harispattuwa",
-    "region_ent_type": "dsd",
-    "values": {
-      "male": 89288,
-      "female": 98754
-    },
-    "total_value": 188042
-  },
-  {
-    "region_id": "LK-9124",
-    "region_name": "Pelmadulla",
-    "region_ent_type": "dsd",
-    "values": {
-      "male": 92814,
-      "female": 94822
-    },
-    "total_value": 187636
-  },
-  {
-    "region_id": "LK-1130",
-    "region_name": "Dehiwala",
-    "region_ent_type": "dsd",
-    "values": {
-      "male": 90350,
-      "female": 97280
-    },
-    "total_value": 187630
-  },
-  {
-    "region_id": "LK-2112",
-    "region_name": "Pathadumbara",
-    "region_ent_type": "dsd",
-    "values": {
-      "male": 88314,
-      "female": 98638
-    },
-    "total_value": 186952
+    "total_value": 187475
   },
   {
     "region_id": "EC-14C",
@@ -1480,14 +1050,14 @@
     "total_value": 185230
   },
   {
-    "region_id": "LK-7215",
-    "region_name": "Thamankaduwa",
+    "region_id": "LK-1218",
+    "region_name": "Wattala",
     "region_ent_type": "dsd",
     "values": {
-      "male": 89572,
-      "female": 94540
+      "male": 88408,
+      "female": 94097
     },
-    "total_value": 184112
+    "total_value": 182505
   },
   {
     "region_id": "EC-02A",
@@ -1520,6 +1090,16 @@
     "total_value": 181677
   },
   {
+    "region_id": "LK-1324",
+    "region_name": "Beruwala",
+    "region_ent_type": "dsd",
+    "values": {
+      "male": 88567,
+      "female": 92253
+    },
+    "total_value": 180820
+  },
+  {
     "region_id": "EC-03G",
     "region_name": "Beruwala",
     "region_ent_type": "pd",
@@ -1540,24 +1120,14 @@
     "total_value": 178323
   },
   {
-    "region_id": "LK-8103",
-    "region_name": "Mahiyanganaya",
+    "region_id": "LK-1212",
+    "region_name": "Mirigama",
     "region_ent_type": "dsd",
     "values": {
-      "male": 88016,
-      "female": 90148
+      "male": 84701,
+      "female": 92046
     },
-    "total_value": 178164
-  },
-  {
-    "region_id": "LK-6154",
-    "region_name": "Kurunegala",
-    "region_ent_type": "dsd",
-    "values": {
-      "male": 85222,
-      "female": 92776
-    },
-    "total_value": 177998
+    "total_value": 176747
   },
   {
     "region_id": "EC-02E",
@@ -1580,26 +1150,6 @@
     "total_value": 176747
   },
   {
-    "region_id": "LK-2312",
-    "region_name": "Nuwara Eliya",
-    "region_ent_type": "dsd",
-    "values": {
-      "male": 86488,
-      "female": 90176
-    },
-    "total_value": 176664
-  },
-  {
-    "region_id": "LK-1131",
-    "region_name": "Ratmalana",
-    "region_ent_type": "dsd",
-    "values": {
-      "male": 85876,
-      "female": 90250
-    },
-    "total_value": 176126
-  },
-  {
     "region_id": "LG-12036",
     "region_name": "Ja- Ela PS",
     "region_ent_type": "lg",
@@ -1620,16 +1170,6 @@
     "total_value": 174222
   },
   {
-    "region_id": "LK-9203",
-    "region_name": "Rambukkana",
-    "region_ent_type": "dsd",
-    "values": {
-      "male": 82618,
-      "female": 91492
-    },
-    "total_value": 174110
-  },
-  {
     "region_id": "EC-09C",
     "region_name": "Tangalle",
     "region_ent_type": "pd",
@@ -1638,26 +1178,6 @@
       "female": 87948
     },
     "total_value": 173240
-  },
-  {
-    "region_id": "LK-5324",
-    "region_name": "Kinniya",
-    "region_ent_type": "dsd",
-    "values": {
-      "male": 86744,
-      "female": 86264
-    },
-    "total_value": 173008
-  },
-  {
-    "region_id": "LK-6127",
-    "region_name": "Polpitigama",
-    "region_ent_type": "dsd",
-    "values": {
-      "male": 84340,
-      "female": 88482
-    },
-    "total_value": 172822
   },
   {
     "region_id": "LK-43",
@@ -1680,44 +1200,14 @@
     "total_value": 172312
   },
   {
-    "region_id": "LK-3145",
-    "region_name": "Akmeemana",
+    "region_id": "LK-1230",
+    "region_name": "Dompe",
     "region_ent_type": "dsd",
     "values": {
-      "male": 82374,
-      "female": 89898
+      "male": 82380,
+      "female": 87497
     },
-    "total_value": 172272
-  },
-  {
-    "region_id": "LK-1330",
-    "region_name": "Matugama",
-    "region_ent_type": "dsd",
-    "values": {
-      "male": 83296,
-      "female": 88834
-    },
-    "total_value": 172130
-  },
-  {
-    "region_id": "LK-7212",
-    "region_name": "Dimbulagala",
-    "region_ent_type": "dsd",
-    "values": {
-      "male": 85270,
-      "female": 86544
-    },
-    "total_value": 171814
-  },
-  {
-    "region_id": "LK-9230",
-    "region_name": "Dehiowita",
-    "region_ent_type": "dsd",
-    "values": {
-      "male": 83046,
-      "female": 86888
-    },
-    "total_value": 169934
+    "total_value": 169877
   },
   {
     "region_id": "EC-02K",
@@ -1750,6 +1240,16 @@
     "total_value": 169779
   },
   {
+    "region_id": "LK-1321",
+    "region_name": "Kalutara",
+    "region_ent_type": "dsd",
+    "values": {
+      "male": 79889,
+      "female": 86735
+    },
+    "total_value": 166624
+  },
+  {
     "region_id": "EC-03F",
     "region_name": "Kalutara",
     "region_ent_type": "pd",
@@ -1768,26 +1268,6 @@
       "female": 84125
     },
     "total_value": 166601
-  },
-  {
-    "region_id": "LK-8121",
-    "region_name": "Badulla",
-    "region_ent_type": "dsd",
-    "values": {
-      "male": 77074,
-      "female": 88992
-    },
-    "total_value": 166066
-  },
-  {
-    "region_id": "LK-6172",
-    "region_name": "Kuliyapitiya West",
-    "region_ent_type": "dsd",
-    "values": {
-      "male": 77602,
-      "female": 87572
-    },
-    "total_value": 165174
   },
   {
     "region_id": "EC-01B",
@@ -1810,26 +1290,6 @@
     "total_value": 164382
   },
   {
-    "region_id": "LK-8127",
-    "region_name": "Uvaparanagama",
-    "region_ent_type": "dsd",
-    "values": {
-      "male": 79682,
-      "female": 84456
-    },
-    "total_value": 164138
-  },
-  {
-    "region_id": "LK-2206",
-    "region_name": "Dambulla",
-    "region_ent_type": "dsd",
-    "values": {
-      "male": 81160,
-      "female": 81318
-    },
-    "total_value": 162478
-  },
-  {
     "region_id": "EC-03A",
     "region_name": "Panadura",
     "region_ent_type": "pd",
@@ -1840,24 +1300,14 @@
     "total_value": 162417
   },
   {
-    "region_id": "LK-3315",
-    "region_name": "Ambalantota",
+    "region_id": "LK-2314",
+    "region_name": "Norwood",
     "region_ent_type": "dsd",
     "values": {
-      "male": 80084,
-      "female": 80928
+      "male": 75707,
+      "female": 85660
     },
-    "total_value": 161012
-  },
-  {
-    "region_id": "LK-2218",
-    "region_name": "Matale",
-    "region_ent_type": "dsd",
-    "values": {
-      "male": 76166,
-      "female": 84586
-    },
-    "total_value": 160752
+    "total_value": 161367
   },
   {
     "region_id": "EC-16B",
@@ -1868,6 +1318,16 @@
       "female": 82154
     },
     "total_value": 160216
+  },
+  {
+    "region_id": "LK-1133",
+    "region_name": "Moratuwa",
+    "region_ent_type": "dsd",
+    "values": {
+      "male": 77580,
+      "female": 82619
+    },
+    "total_value": 160199
   },
   {
     "region_id": "EC-01O",
@@ -1890,14 +1350,14 @@
     "total_value": 160199
   },
   {
-    "region_id": "LK-3333",
-    "region_name": "Tangalle",
+    "region_id": "LK-9148",
+    "region_name": "Embilipitiya",
     "region_ent_type": "dsd",
     "values": {
-      "male": 77470,
-      "female": 81616
+      "male": 78481,
+      "female": 81527
     },
-    "total_value": 159086
+    "total_value": 160008
   },
   {
     "region_id": "EC-15C",
@@ -1910,16 +1370,6 @@
     "total_value": 157522
   },
   {
-    "region_id": "LK-2203",
-    "region_name": "Galewela",
-    "region_ent_type": "dsd",
-    "values": {
-      "male": 76324,
-      "female": 80954
-    },
-    "total_value": 157278
-  },
-  {
     "region_id": "EC-17C",
     "region_name": "Anuradhapura East",
     "region_ent_type": "pd",
@@ -1930,14 +1380,14 @@
     "total_value": 157259
   },
   {
-    "region_id": "LK-9142",
-    "region_name": "Godakawela",
+    "region_id": "LK-1209",
+    "region_name": "Divulapitiya",
     "region_ent_type": "dsd",
     "values": {
-      "male": 75902,
-      "female": 81180
+      "male": 75924,
+      "female": 81033
     },
-    "total_value": 157082
+    "total_value": 156957
   },
   {
     "region_id": "EC-02D",
@@ -2010,6 +1460,16 @@
     "total_value": 153366
   },
   {
+    "region_id": "LK-2130",
+    "region_name": "Gangawata Korale",
+    "region_ent_type": "dsd",
+    "values": {
+      "male": 71662,
+      "female": 81667
+    },
+    "total_value": 153329
+  },
+  {
     "region_id": "EC-03E",
     "region_name": "Mathugama",
     "region_ent_type": "pd",
@@ -2030,36 +1490,6 @@
     "total_value": 152466
   },
   {
-    "region_id": "LK-7133",
-    "region_name": "Nuwaragam Palatha East",
-    "region_ent_type": "dsd",
-    "values": {
-      "male": 73880,
-      "female": 78396
-    },
-    "total_value": 152276
-  },
-  {
-    "region_id": "LK-3239",
-    "region_name": "Weligama",
-    "region_ent_type": "dsd",
-    "values": {
-      "male": 73934,
-      "female": 78338
-    },
-    "total_value": 152272
-  },
-  {
-    "region_id": "LK-4118",
-    "region_name": "Valikamam East (Kopay)",
-    "region_ent_type": "dsd",
-    "values": {
-      "male": 72168,
-      "female": 79790
-    },
-    "total_value": 151958
-  },
-  {
     "region_id": "EC-19A",
     "region_name": "Mahiyanganaya",
     "region_ent_type": "pd",
@@ -2070,96 +1500,6 @@
     "total_value": 149964
   },
   {
-    "region_id": "LK-9118",
-    "region_name": "Balangoda",
-    "region_ent_type": "dsd",
-    "values": {
-      "male": 72806,
-      "female": 76980
-    },
-    "total_value": 149786
-  },
-  {
-    "region_id": "LK-4509",
-    "region_name": "Karachchi",
-    "region_ent_type": "dsd",
-    "values": {
-      "male": 71684,
-      "female": 77578
-    },
-    "total_value": 149262
-  },
-  {
-    "region_id": "LK-3309",
-    "region_name": "Thissamaharama",
-    "region_ent_type": "dsd",
-    "values": {
-      "male": 73818,
-      "female": 74532
-    },
-    "total_value": 148350
-  },
-  {
-    "region_id": "LK-9103",
-    "region_name": "Eheliyagoda",
-    "region_ent_type": "dsd",
-    "values": {
-      "male": 72984,
-      "female": 75158
-    },
-    "total_value": 148142
-  },
-  {
-    "region_id": "LK-9215",
-    "region_name": "Galigamuwa",
-    "region_ent_type": "dsd",
-    "values": {
-      "male": 70096,
-      "female": 77460
-    },
-    "total_value": 147556
-  },
-  {
-    "region_id": "LK-8221",
-    "region_name": "Wellawaya",
-    "region_ent_type": "dsd",
-    "values": {
-      "male": 72454,
-      "female": 74106
-    },
-    "total_value": 146560
-  },
-  {
-    "region_id": "LK-1118",
-    "region_name": "Padukka",
-    "region_ent_type": "dsd",
-    "values": {
-      "male": 70902,
-      "female": 75126
-    },
-    "total_value": 146028
-  },
-  {
-    "region_id": "LK-4133",
-    "region_name": "Nallur",
-    "region_ent_type": "dsd",
-    "values": {
-      "male": 67136,
-      "female": 78632
-    },
-    "total_value": 145768
-  },
-  {
-    "region_id": "LK-5218",
-    "region_name": "Sammanthurai",
-    "region_ent_type": "dsd",
-    "values": {
-      "male": 67106,
-      "female": 78482
-    },
-    "total_value": 145588
-  },
-  {
     "region_id": "EC-04L",
     "region_name": "Gampola",
     "region_ent_type": "pd",
@@ -2168,26 +1508,6 @@
       "female": 76194
     },
     "total_value": 145430
-  },
-  {
-    "region_id": "LK-6218",
-    "region_name": "Mundel",
-    "region_ent_type": "dsd",
-    "values": {
-      "male": 69894,
-      "female": 75246
-    },
-    "total_value": 145140
-  },
-  {
-    "region_id": "LK-7206",
-    "region_name": "Medirigiriya",
-    "region_ent_type": "dsd",
-    "values": {
-      "male": 71340,
-      "female": 73624
-    },
-    "total_value": 144964
   },
   {
     "region_id": "LG-21035",
@@ -2210,16 +1530,6 @@
     "total_value": 144791
   },
   {
-    "region_id": "LK-2233",
-    "region_name": "Ukuwela",
-    "region_ent_type": "dsd",
-    "values": {
-      "male": 68352,
-      "female": 76274
-    },
-    "total_value": 144626
-  },
-  {
     "region_id": "EC-14B",
     "region_name": "Trincomalee",
     "region_ent_type": "pd",
@@ -2228,6 +1538,16 @@
       "female": 74452
     },
     "total_value": 144459
+  },
+  {
+    "region_id": "LK-2127",
+    "region_name": "Kundasale",
+    "region_ent_type": "dsd",
+    "values": {
+      "male": 68276,
+      "female": 76107
+    },
+    "total_value": 144383
   },
   {
     "region_id": "EC-04F",
@@ -2260,16 +1580,6 @@
     "total_value": 143810
   },
   {
-    "region_id": "LK-5327",
-    "region_name": "Muthur",
-    "region_ent_type": "dsd",
-    "values": {
-      "male": 71088,
-      "female": 72674
-    },
-    "total_value": 143762
-  },
-  {
     "region_id": "EC-15A",
     "region_name": "Galgamuwa",
     "region_ent_type": "pd",
@@ -2290,36 +1600,6 @@
     "total_value": 143328
   },
   {
-    "region_id": "LK-7115",
-    "region_name": "Nuwaragam Palatha Central",
-    "region_ent_type": "dsd",
-    "values": {
-      "male": 70324,
-      "female": 72734
-    },
-    "total_value": 143058
-  },
-  {
-    "region_id": "LK-6145",
-    "region_name": "Panduwasnuwara West",
-    "region_ent_type": "dsd",
-    "values": {
-      "male": 68602,
-      "female": 73770
-    },
-    "total_value": 142372
-  },
-  {
-    "region_id": "LK-2109",
-    "region_name": "Akurana",
-    "region_ent_type": "dsd",
-    "values": {
-      "male": 67078,
-      "female": 74942
-    },
-    "total_value": 142020
-  },
-  {
     "region_id": "LG-12035",
     "region_name": "Gampaha PS",
     "region_ent_type": "lg",
@@ -2328,26 +1608,6 @@
       "female": 73877
     },
     "total_value": 142001
-  },
-  {
-    "region_id": "LK-6160",
-    "region_name": "Mawathagama",
-    "region_ent_type": "dsd",
-    "values": {
-      "male": 67568,
-      "female": 74166
-    },
-    "total_value": 141734
-  },
-  {
-    "region_id": "LK-7203",
-    "region_name": "Higurakgoda",
-    "region_ent_type": "dsd",
-    "values": {
-      "male": 68794,
-      "female": 72508
-    },
-    "total_value": 141302
   },
   {
     "region_id": "EC-21E",
@@ -2380,14 +1640,14 @@
     "total_value": 138709
   },
   {
-    "region_id": "LK-9209",
-    "region_name": "Aranayake",
+    "region_id": "LK-1203",
+    "region_name": "Negombo",
     "region_ent_type": "dsd",
     "values": {
-      "male": 65218,
-      "female": 72932
+      "male": 66137,
+      "female": 71815
     },
-    "total_value": 138150
+    "total_value": 137952
   },
   {
     "region_id": "EC-02B",
@@ -2460,14 +1720,14 @@
     "total_value": 136710
   },
   {
-    "region_id": "LK-3106",
-    "region_name": "Balapitiya",
+    "region_id": "LK-6178",
+    "region_name": "Pannala",
     "region_ent_type": "dsd",
     "values": {
-      "male": 64904,
-      "female": 71396
+      "male": 64982,
+      "female": 70863
     },
-    "total_value": 136300
+    "total_value": 135845
   },
   {
     "region_id": "EC-15H",
@@ -2500,16 +1760,6 @@
     "total_value": 135585
   },
   {
-    "region_id": "LK-4130",
-    "region_name": "Thenmaradchi (Chavakachcheri)",
-    "region_ent_type": "dsd",
-    "values": {
-      "male": 64216,
-      "female": 71348
-    },
-    "total_value": 135564
-  },
-  {
     "region_id": "EC-04M",
     "region_name": "Nawalapitiya",
     "region_ent_type": "pd",
@@ -2520,44 +1770,14 @@
     "total_value": 135233
   },
   {
-    "region_id": "LK-6187",
-    "region_name": "Polgahawela",
+    "region_id": "LK-1236",
+    "region_name": "Kelaniya",
     "region_ent_type": "dsd",
     "values": {
-      "male": 64352,
-      "female": 70578
+      "male": 64965,
+      "female": 68790
     },
-    "total_value": 134930
-  },
-  {
-    "region_id": "LK-5203",
-    "region_name": "Dehiattakandiya",
-    "region_ent_type": "dsd",
-    "values": {
-      "male": 66392,
-      "female": 68156
-    },
-    "total_value": 134548
-  },
-  {
-    "region_id": "LK-3312",
-    "region_name": "Hambantota",
-    "region_ent_type": "dsd",
-    "values": {
-      "male": 66784,
-      "female": 67630
-    },
-    "total_value": 134414
-  },
-  {
-    "region_id": "LK-1327",
-    "region_name": "Dodangoda",
-    "region_ent_type": "dsd",
-    "values": {
-      "male": 65092,
-      "female": 69086
-    },
-    "total_value": 134178
+    "total_value": 133755
   },
   {
     "region_id": "EC-02M",
@@ -2570,24 +1790,14 @@
     "total_value": 133755
   },
   {
-    "region_id": "LK-6142",
-    "region_name": "Bingiriya",
+    "region_id": "LK-1309",
+    "region_name": "Horana",
     "region_ent_type": "dsd",
     "values": {
-      "male": 63738,
-      "female": 69710
+      "male": 63947,
+      "female": 69738
     },
-    "total_value": 133448
-  },
-  {
-    "region_id": "LK-3112",
-    "region_name": "Elpitiya",
-    "region_ent_type": "dsd",
-    "values": {
-      "male": 64056,
-      "female": 69286
-    },
-    "total_value": 133342
+    "total_value": 133685
   },
   {
     "region_id": "EC-15B",
@@ -2598,16 +1808,6 @@
       "female": 68647
     },
     "total_value": 133014
-  },
-  {
-    "region_id": "LK-6136",
-    "region_name": "Wariyapola",
-    "region_ent_type": "dsd",
-    "values": {
-      "male": 63972,
-      "female": 69004
-    },
-    "total_value": 132976
   },
   {
     "region_id": "EC-08G",
@@ -2640,56 +1840,6 @@
     "total_value": 131597
   },
   {
-    "region_id": "LK-9221",
-    "region_name": "Ruwanwella",
-    "region_ent_type": "dsd",
-    "values": {
-      "male": 63342,
-      "female": 68252
-    },
-    "total_value": 131594
-  },
-  {
-    "region_id": "LK-6184",
-    "region_name": "Alawwa",
-    "region_ent_type": "dsd",
-    "values": {
-      "male": 63250,
-      "female": 68128
-    },
-    "total_value": 131378
-  },
-  {
-    "region_id": "LK-2157",
-    "region_name": "Pasbagekorale",
-    "region_ent_type": "dsd",
-    "values": {
-      "male": 61766,
-      "female": 69340
-    },
-    "total_value": 131106
-  },
-  {
-    "region_id": "LK-1312",
-    "region_name": "Bulathsinhala",
-    "region_ent_type": "dsd",
-    "values": {
-      "male": 63822,
-      "female": 67278
-    },
-    "total_value": 131100
-  },
-  {
-    "region_id": "LK-6242",
-    "region_name": "Nattandiya",
-    "region_ent_type": "dsd",
-    "values": {
-      "male": 61640,
-      "female": 69360
-    },
-    "total_value": 131000
-  },
-  {
     "region_id": "EC-01A",
     "region_name": "Colombo North",
     "region_ent_type": "pd",
@@ -2698,16 +1848,6 @@
       "female": 66899
     },
     "total_value": 130996
-  },
-  {
-    "region_id": "LK-8133",
-    "region_name": "Bandarawela",
-    "region_ent_type": "dsd",
-    "values": {
-      "male": 63054,
-      "female": 67922
-    },
-    "total_value": 130976
   },
   {
     "region_id": "EC-15L",
@@ -2730,26 +1870,6 @@
     "total_value": 130707
   },
   {
-    "region_id": "LK-7154",
-    "region_name": "Kekirawa",
-    "region_ent_type": "dsd",
-    "values": {
-      "male": 63502,
-      "female": 67132
-    },
-    "total_value": 130634
-  },
-  {
-    "region_id": "LK-2309",
-    "region_name": "Walapane",
-    "region_ent_type": "dsd",
-    "values": {
-      "male": 63372,
-      "female": 67202
-    },
-    "total_value": 130574
-  },
-  {
     "region_id": "EC-15M",
     "region_name": "Mawathagama",
     "region_ent_type": "pd",
@@ -2760,14 +1880,14 @@
     "total_value": 130358
   },
   {
-    "region_id": "LK-6245",
-    "region_name": "Wennappuwa",
+    "region_id": "LK-2313",
+    "region_name": "Thalawakele",
     "region_ent_type": "dsd",
     "values": {
-      "male": 60964,
-      "female": 68572
+      "male": 61832,
+      "female": 67699
     },
-    "total_value": 129536
+    "total_value": 129531
   },
   {
     "region_id": "EC-17A",
@@ -2780,26 +1900,6 @@
     "total_value": 129486
   },
   {
-    "region_id": "LK-9115",
-    "region_name": "Imbulpe",
-    "region_ent_type": "dsd",
-    "values": {
-      "male": 60796,
-      "female": 68314
-    },
-    "total_value": 129110
-  },
-  {
-    "region_id": "LK-2124",
-    "region_name": "Medadumbara",
-    "region_ent_type": "dsd",
-    "values": {
-      "male": 62830,
-      "female": 66248
-    },
-    "total_value": 129078
-  },
-  {
     "region_id": "EC-20A",
     "region_name": "Bibile",
     "region_ent_type": "pd",
@@ -2808,16 +1908,6 @@
       "female": 65239
     },
     "total_value": 128326
-  },
-  {
-    "region_id": "LK-6124",
-    "region_name": "Maho",
-    "region_ent_type": "dsd",
-    "values": {
-      "male": 62234,
-      "female": 66010
-    },
-    "total_value": 128244
   },
   {
     "region_id": "EC-12C",
@@ -2838,16 +1928,6 @@
       "female": 66057
     },
     "total_value": 127896
-  },
-  {
-    "region_id": "LK-3109",
-    "region_name": "Karandeniya",
-    "region_ent_type": "dsd",
-    "values": {
-      "male": 60934,
-      "female": 66790
-    },
-    "total_value": 127724
   },
   {
     "region_id": "EC-16E",
@@ -2880,16 +1960,6 @@
     "total_value": 127524
   },
   {
-    "region_id": "LK-6233",
-    "region_name": "Chilaw",
-    "region_ent_type": "dsd",
-    "values": {
-      "male": 60398,
-      "female": 66880
-    },
-    "total_value": 127278
-  },
-  {
     "region_id": "EC-07E",
     "region_name": "Hiniduma",
     "region_ent_type": "pd",
@@ -2900,24 +1970,14 @@
     "total_value": 126739
   },
   {
-    "region_id": "LK-3154",
-    "region_name": "Habaraduwa",
+    "region_id": "LK-9206",
+    "region_name": "Mawanella",
     "region_ent_type": "dsd",
     "values": {
-      "male": 61420,
-      "female": 65184
+      "male": 59753,
+      "female": 66273
     },
-    "total_value": 126604
-  },
-  {
-    "region_id": "LK-8212",
-    "region_name": "Siyambalanduwa",
-    "region_ent_type": "dsd",
-    "values": {
-      "male": 63004,
-      "female": 63106
-    },
-    "total_value": 126110
+    "total_value": 126026
   },
   {
     "region_id": "EC-22E",
@@ -2940,26 +2000,6 @@
     "total_value": 126026
   },
   {
-    "region_id": "LK-5136",
-    "region_name": "Manmunai South & Eruvil Pattu",
-    "region_ent_type": "dsd",
-    "values": {
-      "male": 59124,
-      "female": 66716
-    },
-    "total_value": 125840
-  },
-  {
-    "region_id": "LK-6248",
-    "region_name": "Dankotuwa",
-    "region_ent_type": "dsd",
-    "values": {
-      "male": 60012,
-      "female": 65734
-    },
-    "total_value": 125746
-  },
-  {
     "region_id": "EC-15J",
     "region_name": "Dambadeniya",
     "region_ent_type": "pd",
@@ -2970,24 +2010,14 @@
     "total_value": 125495
   },
   {
-    "region_id": "LK-9227",
-    "region_name": "Yatiyantota",
+    "region_id": "LK-1306",
+    "region_name": "Bandaragama",
     "region_ent_type": "dsd",
     "values": {
-      "male": 60704,
-      "female": 63806
+      "male": 60177,
+      "female": 63956
     },
-    "total_value": 124510
-  },
-  {
-    "region_id": "LK-5212",
-    "region_name": "Uhana",
-    "region_ent_type": "dsd",
-    "values": {
-      "male": 60334,
-      "female": 64098
-    },
-    "total_value": 124432
+    "total_value": 124133
   },
   {
     "region_id": "LG-13032",
@@ -2998,6 +2028,16 @@
       "female": 63956
     },
     "total_value": 124133
+  },
+  {
+    "region_id": "LK-3242",
+    "region_name": "Matara Four Gravets",
+    "region_ent_type": "dsd",
+    "values": {
+      "male": 58394,
+      "female": 65474
+    },
+    "total_value": 123868
   },
   {
     "region_id": "EC-08F",
@@ -3028,26 +2068,6 @@
       "female": 62709
     },
     "total_value": 123756
-  },
-  {
-    "region_id": "LK-6106",
-    "region_name": "Galgamuwa",
-    "region_ent_type": "dsd",
-    "values": {
-      "male": 60340,
-      "female": 63178
-    },
-    "total_value": 123518
-  },
-  {
-    "region_id": "LK-2303",
-    "region_name": "Kothmale East",
-    "region_ent_type": "dsd",
-    "values": {
-      "male": 59148,
-      "female": 64336
-    },
-    "total_value": 123484
   },
   {
     "region_id": "EC-05D",
@@ -3090,26 +2110,6 @@
     "total_value": 122577
   },
   {
-    "region_id": "LK-6169",
-    "region_name": "Kuliyapitiya East",
-    "region_ent_type": "dsd",
-    "values": {
-      "male": 58898,
-      "female": 63548
-    },
-    "total_value": 122446
-  },
-  {
-    "region_id": "LK-7148",
-    "region_name": "Thalawa",
-    "region_ent_type": "dsd",
-    "values": {
-      "male": 59606,
-      "female": 62826
-    },
-    "total_value": 122432
-  },
-  {
     "region_id": "EC-11C",
     "region_name": "Mullaitivu",
     "region_ent_type": "pd",
@@ -3120,34 +2120,14 @@
     "total_value": 122423
   },
   {
-    "region_id": "LK-3209",
-    "region_name": "Pasgoda",
+    "region_id": "LK-1115",
+    "region_name": "Seethawaka",
     "region_ent_type": "dsd",
     "values": {
-      "male": 59872,
-      "female": 62470
+      "male": 59493,
+      "female": 62635
     },
-    "total_value": 122342
-  },
-  {
-    "region_id": "LK-3206",
-    "region_name": "Kotapola",
-    "region_ent_type": "dsd",
-    "values": {
-      "male": 59500,
-      "female": 62504
-    },
-    "total_value": 122004
-  },
-  {
-    "region_id": "LK-8106",
-    "region_name": "Rideemaliyadda",
-    "region_ent_type": "dsd",
-    "values": {
-      "male": 60392,
-      "female": 61372
-    },
-    "total_value": 121764
+    "total_value": 122128
   },
   {
     "region_id": "EC-17G",
@@ -3160,26 +2140,6 @@
     "total_value": 121484
   },
   {
-    "region_id": "LK-2145",
-    "region_name": "Pathahewaheta",
-    "region_ent_type": "dsd",
-    "values": {
-      "male": 58470,
-      "female": 62808
-    },
-    "total_value": 121278
-  },
-  {
-    "region_id": "LK-8224",
-    "region_name": "Buttala",
-    "region_ent_type": "dsd",
-    "values": {
-      "male": 60360,
-      "female": 60852
-    },
-    "total_value": 121212
-  },
-  {
     "region_id": "EC-15G",
     "region_name": "Bingiriya",
     "region_ent_type": "pd",
@@ -3188,6 +2148,26 @@
       "female": 63351
     },
     "total_value": 121190
+  },
+  {
+    "region_id": "LK-9112",
+    "region_name": "Ratnapura",
+    "region_ent_type": "dsd",
+    "values": {
+      "male": 59557,
+      "female": 61609
+    },
+    "total_value": 121166
+  },
+  {
+    "region_id": "LK-2139",
+    "region_name": "Udunuwara",
+    "region_ent_type": "dsd",
+    "values": {
+      "male": 58322,
+      "female": 62696
+    },
+    "total_value": 121018
   },
   {
     "region_id": "EC-04K",
@@ -3220,16 +2200,6 @@
     "total_value": 120953
   },
   {
-    "region_id": "LK-2106",
-    "region_name": "Poojapitiya",
-    "region_ent_type": "dsd",
-    "values": {
-      "male": 57144,
-      "female": 63488
-    },
-    "total_value": 120632
-  },
-  {
     "region_id": "EC-21F",
     "region_name": "Nivithigala",
     "region_ent_type": "pd",
@@ -3238,26 +2208,6 @@
       "female": 60644
     },
     "total_value": 120030
-  },
-  {
-    "region_id": "LK-6181",
-    "region_name": "Narammala",
-    "region_ent_type": "dsd",
-    "values": {
-      "male": 56978,
-      "female": 62634
-    },
-    "total_value": 119612
-  },
-  {
-    "region_id": "LK-3133",
-    "region_name": "Ambalangoda",
-    "region_ent_type": "dsd",
-    "values": {
-      "male": 56894,
-      "female": 62340
-    },
-    "total_value": 119234
   },
   {
     "region_id": "EC-18A",
@@ -3270,26 +2220,6 @@
     "total_value": 119216
   },
   {
-    "region_id": "LK-6157",
-    "region_name": "Mallawapitiya",
-    "region_ent_type": "dsd",
-    "values": {
-      "male": 56588,
-      "female": 62394
-    },
-    "total_value": 118982
-  },
-  {
-    "region_id": "LK-9136",
-    "region_name": "Nivithigala",
-    "region_ent_type": "dsd",
-    "values": {
-      "male": 58894,
-      "female": 59990
-    },
-    "total_value": 118884
-  },
-  {
     "region_id": "EC-21C",
     "region_name": "Pelmadulla",
     "region_ent_type": "pd",
@@ -3300,14 +2230,14 @@
     "total_value": 118850
   },
   {
-    "region_id": "LK-2154",
-    "region_name": "Ganga Ihala Korale",
+    "region_id": "LK-9218",
+    "region_name": "Warakapola",
     "region_ent_type": "dsd",
     "values": {
-      "male": 57220,
-      "female": 61070
+      "male": 56128,
+      "female": 61839
     },
-    "total_value": 118290
+    "total_value": 117967
   },
   {
     "region_id": "EC-22A",
@@ -3330,26 +2260,6 @@
     "total_value": 117967
   },
   {
-    "region_id": "LK-2306",
-    "region_name": "Hanguranketa",
-    "region_ent_type": "dsd",
-    "values": {
-      "male": 56174,
-      "female": 61688
-    },
-    "total_value": 117862
-  },
-  {
-    "region_id": "LK-3330",
-    "region_name": "Beliatta",
-    "region_ent_type": "dsd",
-    "values": {
-      "male": 56036,
-      "female": 61314
-    },
-    "total_value": 117350
-  },
-  {
     "region_id": "EC-04C",
     "region_name": "Pathadumbara",
     "region_ent_type": "pd",
@@ -3358,6 +2268,16 @@
       "female": 61639
     },
     "total_value": 117246
+  },
+  {
+    "region_id": "LK-4309",
+    "region_name": "Vavuniya",
+    "region_ent_type": "dsd",
+    "values": {
+      "male": 55905,
+      "female": 61086
+    },
+    "total_value": 116991
   },
   {
     "region_id": "LG-91035",
@@ -3370,16 +2290,6 @@
     "total_value": 116910
   },
   {
-    "region_id": "LK-1310",
-    "region_name": "Ingiriya",
-    "region_ent_type": "dsd",
-    "values": {
-      "male": 57242,
-      "female": 59480
-    },
-    "total_value": 116722
-  },
-  {
     "region_id": "EC-07D",
     "region_name": "Bentara Elpitiya",
     "region_ent_type": "pd",
@@ -3388,26 +2298,6 @@
       "female": 60252
     },
     "total_value": 116321
-  },
-  {
-    "region_id": "LK-3142",
-    "region_name": "Bope-Poddala",
-    "region_ent_type": "dsd",
-    "values": {
-      "male": 54896,
-      "female": 60884
-    },
-    "total_value": 115780
-  },
-  {
-    "region_id": "LK-4203",
-    "region_name": "Mannar Town",
-    "region_ent_type": "dsd",
-    "values": {
-      "male": 56896,
-      "female": 58648
-    },
-    "total_value": 115544
   },
   {
     "region_id": "EC-05C",
@@ -3490,16 +2380,6 @@
     "total_value": 114049
   },
   {
-    "region_id": "LK-8215",
-    "region_name": "Monaragala",
-    "region_ent_type": "dsd",
-    "values": {
-      "male": 56160,
-      "female": 57742
-    },
-    "total_value": 113902
-  },
-  {
     "region_id": "EC-14A",
     "region_name": "Seruvila",
     "region_ent_type": "pd",
@@ -3510,14 +2390,14 @@
     "total_value": 113056
   },
   {
-    "region_id": "LK-3248",
-    "region_name": "Dikwella",
+    "region_id": "LK-2136",
+    "region_name": "Yatinuwara",
     "region_ent_type": "dsd",
     "values": {
-      "male": 54344,
-      "female": 58592
+      "male": 53808,
+      "female": 58834
     },
-    "total_value": 112936
+    "total_value": 112642
   },
   {
     "region_id": "EC-04J",
@@ -3530,16 +2410,6 @@
     "total_value": 112642
   },
   {
-    "region_id": "LK-1318",
-    "region_name": "Millaniya",
-    "region_ent_type": "dsd",
-    "values": {
-      "male": 54360,
-      "female": 57972
-    },
-    "total_value": 112332
-  },
-  {
     "region_id": "EC-18B",
     "region_name": "Medirigiriya",
     "region_ent_type": "pd",
@@ -3548,16 +2418,6 @@
       "female": 57514
     },
     "total_value": 112155
-  },
-  {
-    "region_id": "LK-3221",
-    "region_name": "Welipitiya",
-    "region_ent_type": "dsd",
-    "values": {
-      "male": 53990,
-      "female": 57930
-    },
-    "total_value": 111920
   },
   {
     "region_id": "EC-07J",
@@ -3570,16 +2430,6 @@
     "total_value": 111506
   },
   {
-    "region_id": "LK-7139",
-    "region_name": "Nochchiyagama",
-    "region_ent_type": "dsd",
-    "values": {
-      "male": 54198,
-      "female": 56744
-    },
-    "total_value": 110942
-  },
-  {
     "region_id": "LG-32042",
     "region_name": "Weligama PS",
     "region_ent_type": "lg",
@@ -3588,26 +2438,6 @@
       "female": 57192
     },
     "total_value": 110734
-  },
-  {
-    "region_id": "LK-2121",
-    "region_name": "Minipe",
-    "region_ent_type": "dsd",
-    "values": {
-      "male": 54132,
-      "female": 56552
-    },
-    "total_value": 110684
-  },
-  {
-    "region_id": "LK-1339",
-    "region_name": "Walallawita",
-    "region_ent_type": "dsd",
-    "values": {
-      "male": 53364,
-      "female": 57302
-    },
-    "total_value": 110666
   },
   {
     "region_id": "LG-51011",
@@ -3640,14 +2470,14 @@
     "total_value": 109056
   },
   {
-    "region_id": "LK-6175",
-    "region_name": "Udubaddawa",
+    "region_id": "LK-3139",
+    "region_name": "Galle 4 Gravets",
     "region_ent_type": "dsd",
     "values": {
-      "male": 51940,
-      "female": 56992
+      "male": 52217,
+      "female": 56104
     },
-    "total_value": 108932
+    "total_value": 108321
   },
   {
     "region_id": "EC-07H",
@@ -3690,46 +2520,6 @@
     "total_value": 107709
   },
   {
-    "region_id": "LK-2230",
-    "region_name": "Rattota",
-    "region_ent_type": "dsd",
-    "values": {
-      "male": 51132,
-      "female": 56168
-    },
-    "total_value": 107300
-  },
-  {
-    "region_id": "LK-3218",
-    "region_name": "Akuressa",
-    "region_ent_type": "dsd",
-    "values": {
-      "male": 51596,
-      "female": 55680
-    },
-    "total_value": 107276
-  },
-  {
-    "region_id": "LK-3318",
-    "region_name": "Angunakolapelessa",
-    "region_ent_type": "dsd",
-    "values": {
-      "male": 52146,
-      "female": 54672
-    },
-    "total_value": 106818
-  },
-  {
-    "region_id": "LK-5233",
-    "region_name": "Addalaichenai",
-    "region_ent_type": "dsd",
-    "values": {
-      "male": 48708,
-      "female": 57720
-    },
-    "total_value": 106428
-  },
-  {
     "region_id": "EC-15E",
     "region_name": "Wariyapola",
     "region_ent_type": "pd",
@@ -3760,24 +2550,14 @@
     "total_value": 105742
   },
   {
-    "region_id": "LK-5224",
-    "region_name": "Kalmunai",
+    "region_id": "LK-8130",
+    "region_name": "Welimada",
     "region_ent_type": "dsd",
     "values": {
-      "male": 49858,
-      "female": 55738
+      "male": 51300,
+      "female": 54210
     },
-    "total_value": 105596
-  },
-  {
-    "region_id": "LK-2142",
-    "region_name": "Doluwa",
-    "region_ent_type": "dsd",
-    "values": {
-      "male": 51034,
-      "female": 54534
-    },
-    "total_value": 105568
+    "total_value": 105510
   },
   {
     "region_id": "EC-19G",
@@ -3800,16 +2580,6 @@
     "total_value": 105510
   },
   {
-    "region_id": "LK-3303",
-    "region_name": "Sooriyawewa",
-    "region_ent_type": "dsd",
-    "values": {
-      "male": 52192,
-      "female": 53226
-    },
-    "total_value": 105418
-  },
-  {
     "region_id": "EC-08D",
     "region_name": "Kamburupitiya",
     "region_ent_type": "pd",
@@ -3828,46 +2598,6 @@
       "female": 54973
     },
     "total_value": 105037
-  },
-  {
-    "region_id": "LK-7109",
-    "region_name": "Medawachchiya",
-    "region_ent_type": "dsd",
-    "values": {
-      "male": 50386,
-      "female": 54606
-    },
-    "total_value": 104992
-  },
-  {
-    "region_id": "LK-3324",
-    "region_name": "Katuwana",
-    "region_ent_type": "dsd",
-    "values": {
-      "male": 50828,
-      "female": 53510
-    },
-    "total_value": 104338
-  },
-  {
-    "region_id": "LK-4109",
-    "region_name": "Valikamam South West (Sandilipay)",
-    "region_ent_type": "dsd",
-    "values": {
-      "male": 49452,
-      "female": 54790
-    },
-    "total_value": 104242
-  },
-  {
-    "region_id": "LK-3124",
-    "region_name": "Nagoda",
-    "region_ent_type": "dsd",
-    "values": {
-      "male": 49914,
-      "female": 54148
-    },
-    "total_value": 104062
   },
   {
     "region_id": "EC-15K",
@@ -3890,16 +2620,6 @@
     "total_value": 104055
   },
   {
-    "region_id": "LK-7127",
-    "region_name": "Galenbidunuwewa",
-    "region_ent_type": "dsd",
-    "values": {
-      "male": 51070,
-      "female": 52834
-    },
-    "total_value": 103904
-  },
-  {
     "region_id": "EC-06B",
     "region_name": "Kothmale",
     "region_ent_type": "pd",
@@ -3920,14 +2640,14 @@
     "total_value": 103697
   },
   {
-    "region_id": "LK-3212",
-    "region_name": "Mulatiyana",
+    "region_id": "LK-2151",
+    "region_name": "Udapalatha",
     "region_ent_type": "dsd",
     "values": {
-      "male": 50172,
-      "female": 53492
+      "male": 48900,
+      "female": 54281
     },
-    "total_value": 103664
+    "total_value": 103181
   },
   {
     "region_id": "EC-22H",
@@ -3960,16 +2680,6 @@
     "total_value": 102976
   },
   {
-    "region_id": "LK-1336",
-    "region_name": "Palindanuwara",
-    "region_ent_type": "dsd",
-    "values": {
-      "male": 49758,
-      "female": 52584
-    },
-    "total_value": 102342
-  },
-  {
     "region_id": "EC-21G",
     "region_name": "Kalawana",
     "region_ent_type": "pd",
@@ -3980,52 +2690,12 @@
     "total_value": 102246
   },
   {
-    "region_id": "LK-3127",
-    "region_name": "Baddegama",
-    "region_ent_type": "dsd",
-    "values": {
-      "male": 49030,
-      "female": 52882
-    },
-    "total_value": 101912
-  },
-  {
-    "region_id": "LK-5321",
-    "region_name": "Kantale",
-    "region_ent_type": "dsd",
-    "values": {
-      "male": 49824,
-      "female": 51856
-    },
-    "total_value": 101680
-  },
-  {
-    "region_id": "LK-9133",
-    "region_name": "Kalawana",
-    "region_ent_type": "dsd",
-    "values": {
-      "male": 50218,
-      "female": 51288
-    },
-    "total_value": 101506
-  },
-  {
     "region_id": "EC-07G",
     "region_name": "Ratgama",
     "region_ent_type": "pd",
     "values": {
       "male": 48633,
       "female": 52447
-    },
-    "total_value": 101080
-  },
-  {
-    "region_id": "LK-4115",
-    "region_name": "Valikamam South (Uduvil)",
-    "region_ent_type": "dsd",
-    "values": {
-      "male": 47584,
-      "female": 53496
     },
     "total_value": 101080
   },
@@ -4040,14 +2710,14 @@
     "total_value": 100877
   },
   {
-    "region_id": "LK-9151",
-    "region_name": "Kolonna",
+    "region_id": "LK-5315",
+    "region_name": "Town & Gravets",
     "region_ent_type": "dsd",
     "values": {
-      "male": 49874,
-      "female": 50262
+      "male": 48331,
+      "female": 51939
     },
-    "total_value": 100136
+    "total_value": 100270
   },
   {
     "region_id": "EC-07B",
@@ -4070,36 +2740,6 @@
     "total_value": 99552
   },
   {
-    "region_id": "LK-3103",
-    "region_name": "Bentota",
-    "region_ent_type": "dsd",
-    "values": {
-      "male": 48082,
-      "female": 51218
-    },
-    "total_value": 99300
-  },
-  {
-    "region_id": "LK-8118",
-    "region_name": "Passara",
-    "region_ent_type": "dsd",
-    "values": {
-      "male": 47776,
-      "female": 51496
-    },
-    "total_value": 99272
-  },
-  {
-    "region_id": "LK-8136",
-    "region_name": "Ella",
-    "region_ent_type": "dsd",
-    "values": {
-      "male": 49222,
-      "female": 49656
-    },
-    "total_value": 98878
-  },
-  {
     "region_id": "EC-17F",
     "region_name": "Mihinthale",
     "region_ent_type": "pd",
@@ -4110,34 +2750,14 @@
     "total_value": 98783
   },
   {
-    "region_id": "LK-8233",
-    "region_name": "Sevanagala",
+    "region_id": "LK-9106",
+    "region_name": "Kuruvita",
     "region_ent_type": "dsd",
     "values": {
-      "male": 48242,
-      "female": 50510
+      "male": 48516,
+      "female": 49450
     },
-    "total_value": 98752
-  },
-  {
-    "region_id": "LK-3245",
-    "region_name": "Devinuwara",
-    "region_ent_type": "dsd",
-    "values": {
-      "male": 46810,
-      "female": 51738
-    },
-    "total_value": 98548
-  },
-  {
-    "region_id": "LK-6236",
-    "region_name": "Madampe",
-    "region_ent_type": "dsd",
-    "values": {
-      "male": 47162,
-      "female": 50826
-    },
-    "total_value": 97988
+    "total_value": 97966
   },
   {
     "region_id": "LG-91040",
@@ -4150,26 +2770,6 @@
     "total_value": 97871
   },
   {
-    "region_id": "LK-3203",
-    "region_name": "Pitabaddara",
-    "region_ent_type": "dsd",
-    "values": {
-      "male": 47530,
-      "female": 50204
-    },
-    "total_value": 97734
-  },
-  {
-    "region_id": "LK-6239",
-    "region_name": "Mahawewa",
-    "region_ent_type": "dsd",
-    "values": {
-      "male": 46010,
-      "female": 51656
-    },
-    "total_value": 97666
-  },
-  {
     "region_id": "LG-13037",
     "region_name": "Kalutara PS",
     "region_ent_type": "lg",
@@ -4178,26 +2778,6 @@
       "female": 50503
     },
     "total_value": 97410
-  },
-  {
-    "region_id": "LK-7218",
-    "region_name": "Elahera",
-    "region_ent_type": "dsd",
-    "values": {
-      "male": 48426,
-      "female": 48704
-    },
-    "total_value": 97130
-  },
-  {
-    "region_id": "LK-4136",
-    "region_name": "Jaffna",
-    "region_ent_type": "dsd",
-    "values": {
-      "male": 46826,
-      "female": 50260
-    },
-    "total_value": 97086
   },
   {
     "region_id": "EC-22G",
@@ -4210,6 +2790,16 @@
     "total_value": 97057
   },
   {
+    "region_id": "LK-6203",
+    "region_name": "Kalpitiya",
+    "region_ent_type": "dsd",
+    "values": {
+      "male": 47804,
+      "female": 49191
+    },
+    "total_value": 96995
+  },
+  {
     "region_id": "EC-05B",
     "region_name": "Laggala",
     "region_ent_type": "pd",
@@ -4220,34 +2810,14 @@
     "total_value": 96609
   },
   {
-    "region_id": "LK-8139",
-    "region_name": "Haputale",
+    "region_id": "LK-1124",
+    "region_name": "Sri Jayawardanapura Kotte",
     "region_ent_type": "dsd",
     "values": {
-      "male": 46750,
-      "female": 49810
+      "male": 45927,
+      "female": 50262
     },
-    "total_value": 96560
-  },
-  {
-    "region_id": "LK-3321",
-    "region_name": "Weeraketiya",
-    "region_ent_type": "dsd",
-    "values": {
-      "male": 46814,
-      "female": 49668
-    },
-    "total_value": 96482
-  },
-  {
-    "region_id": "LK-3151",
-    "region_name": "Imaduwa",
-    "region_ent_type": "dsd",
-    "values": {
-      "male": 46214,
-      "female": 50194
-    },
-    "total_value": 96408
+    "total_value": 96189
   },
   {
     "region_id": "EC-01I",
@@ -4270,6 +2840,16 @@
     "total_value": 96189
   },
   {
+    "region_id": "LK-6163",
+    "region_name": "Rideegama",
+    "region_ent_type": "dsd",
+    "values": {
+      "male": 46185,
+      "female": 49775
+    },
+    "total_value": 95960
+  },
+  {
     "region_id": "EC-15N",
     "region_name": "Dodangaslanda",
     "region_ent_type": "pd",
@@ -4290,34 +2870,34 @@
     "total_value": 95960
   },
   {
-    "region_id": "LK-3325",
-    "region_name": "Walasmulla",
+    "region_id": "LK-5118",
+    "region_name": "Manmunai North",
     "region_ent_type": "dsd",
     "values": {
-      "male": 46660,
-      "female": 49078
+      "male": 44402,
+      "female": 50705
     },
-    "total_value": 95738
+    "total_value": 95107
   },
   {
-    "region_id": "LK-5215",
-    "region_name": "Ampara",
+    "region_id": "LK-6215",
+    "region_name": "Puttalam",
     "region_ent_type": "dsd",
     "values": {
-      "male": 46206,
-      "female": 49530
+      "male": 45989,
+      "female": 48788
     },
-    "total_value": 95736
+    "total_value": 94777
   },
   {
-    "region_id": "LK-8203",
-    "region_name": "Bibile",
+    "region_id": "LK-9212",
+    "region_name": "Kegalle",
     "region_ent_type": "dsd",
     "values": {
-      "male": 45830,
-      "female": 48702
+      "male": 44608,
+      "female": 49706
     },
-    "total_value": 94532
+    "total_value": 94314
   },
   {
     "region_id": "EC-22C",
@@ -4328,6 +2908,26 @@
       "female": 49706
     },
     "total_value": 94314
+  },
+  {
+    "region_id": "LK-5112",
+    "region_name": "Eravur Pattu",
+    "region_ent_type": "dsd",
+    "values": {
+      "male": 43683,
+      "female": 50554
+    },
+    "total_value": 94237
+  },
+  {
+    "region_id": "LK-8124",
+    "region_name": "Hali-Ela",
+    "region_ent_type": "dsd",
+    "values": {
+      "male": 44945,
+      "female": 49281
+    },
+    "total_value": 94226
   },
   {
     "region_id": "EC-19E",
@@ -4350,14 +2950,44 @@
     "total_value": 94226
   },
   {
-    "region_id": "LK-7145",
-    "region_name": "Thambuththegama",
+    "region_id": "LK-6130",
+    "region_name": "Ibbagamuwa",
     "region_ent_type": "dsd",
     "values": {
-      "male": 45928,
-      "female": 48194
+      "male": 45364,
+      "female": 48803
     },
-    "total_value": 94122
+    "total_value": 94167
+  },
+  {
+    "region_id": "LK-2133",
+    "region_name": "Harispattuwa",
+    "region_ent_type": "dsd",
+    "values": {
+      "male": 44644,
+      "female": 49377
+    },
+    "total_value": 94021
+  },
+  {
+    "region_id": "LK-9124",
+    "region_name": "Pelmadulla",
+    "region_ent_type": "dsd",
+    "values": {
+      "male": 46407,
+      "female": 47411
+    },
+    "total_value": 93818
+  },
+  {
+    "region_id": "LK-1130",
+    "region_name": "Dehiwala",
+    "region_ent_type": "dsd",
+    "values": {
+      "male": 45175,
+      "female": 48640
+    },
+    "total_value": 93815
   },
   {
     "region_id": "EC-01F",
@@ -4370,14 +3000,14 @@
     "total_value": 93815
   },
   {
-    "region_id": "LK-3148",
-    "region_name": "Yakkalamulla",
+    "region_id": "LK-2112",
+    "region_name": "Pathadumbara",
     "region_ent_type": "dsd",
     "values": {
-      "male": 45312,
-      "female": 48062
+      "male": 44157,
+      "female": 49319
     },
-    "total_value": 93374
+    "total_value": 93476
   },
   {
     "region_id": "EC-07C",
@@ -4388,16 +3018,6 @@
       "female": 48618
     },
     "total_value": 93218
-  },
-  {
-    "region_id": "LK-8218",
-    "region_name": "Badalkumbura",
-    "region_ent_type": "dsd",
-    "values": {
-      "male": 45788,
-      "female": 47402
-    },
-    "total_value": 93190
   },
   {
     "region_id": "EC-04G",
@@ -4470,6 +3090,16 @@
     "total_value": 92106
   },
   {
+    "region_id": "LK-7215",
+    "region_name": "Thamankaduwa",
+    "region_ent_type": "dsd",
+    "values": {
+      "male": 44786,
+      "female": 47270
+    },
+    "total_value": 92056
+  },
+  {
     "region_id": "LG-33039",
     "region_name": "Weeraketiya PS",
     "region_ent_type": "lg",
@@ -4510,26 +3140,6 @@
     "total_value": 91432
   },
   {
-    "region_id": "LK-9224",
-    "region_name": "Bulathkohipitiya",
-    "region_ent_type": "dsd",
-    "values": {
-      "male": 43392,
-      "female": 47082
-    },
-    "total_value": 90474
-  },
-  {
-    "region_id": "LK-4106",
-    "region_name": "Valikamam West (Chankanai)",
-    "region_ent_type": "dsd",
-    "values": {
-      "male": 43154,
-      "female": 47166
-    },
-    "total_value": 90320
-  },
-  {
     "region_id": "LG-61033",
     "region_name": "Galgamuwa PS",
     "region_ent_type": "lg",
@@ -4538,36 +3148,6 @@
       "female": 46120
     },
     "total_value": 90076
-  },
-  {
-    "region_id": "LK-5236",
-    "region_name": "Akkaraipattu",
-    "region_ent_type": "dsd",
-    "values": {
-      "male": 42150,
-      "female": 47808
-    },
-    "total_value": 89958
-  },
-  {
-    "region_id": "LK-4112",
-    "region_name": "Valikamam North (Thllippalai)",
-    "region_ent_type": "dsd",
-    "values": {
-      "male": 43096,
-      "female": 46732
-    },
-    "total_value": 89828
-  },
-  {
-    "region_id": "LK-7121",
-    "region_name": "Kahatagasdigiliya",
-    "region_ent_type": "dsd",
-    "values": {
-      "male": 42914,
-      "female": 46892
-    },
-    "total_value": 89806
   },
   {
     "region_id": "LG-61039",
@@ -4580,16 +3160,6 @@
     "total_value": 89637
   },
   {
-    "region_id": "LK-5124",
-    "region_name": "Kattankudy",
-    "region_ent_type": "dsd",
-    "values": {
-      "male": 40878,
-      "female": 48710
-    },
-    "total_value": 89588
-  },
-  {
     "region_id": "LG-31011",
     "region_name": "Galle MC",
     "region_ent_type": "lg",
@@ -4600,14 +3170,14 @@
     "total_value": 89242
   },
   {
-    "region_id": "LK-8209",
-    "region_name": "Medagama",
+    "region_id": "LK-8103",
+    "region_name": "Mahiyanganaya",
     "region_ent_type": "dsd",
     "values": {
-      "male": 44110,
-      "female": 45118
+      "male": 44008,
+      "female": 45074
     },
-    "total_value": 89228
+    "total_value": 89082
   },
   {
     "region_id": "LG-81038",
@@ -4620,14 +3190,34 @@
     "total_value": 89082
   },
   {
-    "region_id": "LK-7130",
-    "region_name": "Mihinthale",
+    "region_id": "LK-6154",
+    "region_name": "Kurunegala",
     "region_ent_type": "dsd",
     "values": {
-      "male": 41280,
-      "female": 46934
+      "male": 42611,
+      "female": 46388
     },
-    "total_value": 88214
+    "total_value": 88999
+  },
+  {
+    "region_id": "LK-2312",
+    "region_name": "Nuwara Eliya",
+    "region_ent_type": "dsd",
+    "values": {
+      "male": 43244,
+      "female": 45088
+    },
+    "total_value": 88332
+  },
+  {
+    "region_id": "LK-1131",
+    "region_name": "Ratmalana",
+    "region_ent_type": "dsd",
+    "values": {
+      "male": 42938,
+      "female": 45125
+    },
+    "total_value": 88063
   },
   {
     "region_id": "EC-01G",
@@ -4640,26 +3230,6 @@
     "total_value": 88063
   },
   {
-    "region_id": "LK-9233",
-    "region_name": "Deraniyagala",
-    "region_ent_type": "dsd",
-    "values": {
-      "male": 42762,
-      "female": 45248
-    },
-    "total_value": 88010
-  },
-  {
-    "region_id": "LK-9139",
-    "region_name": "Kahawattha",
-    "region_ent_type": "dsd",
-    "values": {
-      "male": 43064,
-      "female": 44352
-    },
-    "total_value": 87416
-  },
-  {
     "region_id": "EC-19I",
     "region_name": "Haputale",
     "region_ent_type": "pd",
@@ -4668,6 +3238,16 @@
       "female": 44580
     },
     "total_value": 87058
+  },
+  {
+    "region_id": "LK-9203",
+    "region_name": "Rambukkana",
+    "region_ent_type": "dsd",
+    "values": {
+      "male": 41309,
+      "female": 45746
+    },
+    "total_value": 87055
   },
   {
     "region_id": "EC-22D",
@@ -4690,46 +3270,6 @@
     "total_value": 87055
   },
   {
-    "region_id": "LK-6224",
-    "region_name": "Anamaduwa",
-    "region_ent_type": "dsd",
-    "values": {
-      "male": 42322,
-      "female": 44730
-    },
-    "total_value": 87052
-  },
-  {
-    "region_id": "LK-6133",
-    "region_name": "Ganewatta",
-    "region_ent_type": "dsd",
-    "values": {
-      "male": 41808,
-      "female": 45054
-    },
-    "total_value": 86862
-  },
-  {
-    "region_id": "LK-6121",
-    "region_name": "Nikaweratiya",
-    "region_ent_type": "dsd",
-    "values": {
-      "male": 41752,
-      "female": 45052
-    },
-    "total_value": 86804
-  },
-  {
-    "region_id": "LK-4127",
-    "region_name": "Vadamaradchi North (Point Pedro)",
-    "region_ent_type": "dsd",
-    "values": {
-      "male": 40616,
-      "female": 46122
-    },
-    "total_value": 86738
-  },
-  {
     "region_id": "LG-62031",
     "region_name": "Anamaduwa PS",
     "region_ent_type": "lg",
@@ -4738,6 +3278,26 @@
       "female": 44466
     },
     "total_value": 86580
+  },
+  {
+    "region_id": "LK-5324",
+    "region_name": "Kinniya",
+    "region_ent_type": "dsd",
+    "values": {
+      "male": 43372,
+      "female": 43132
+    },
+    "total_value": 86504
+  },
+  {
+    "region_id": "LK-6127",
+    "region_name": "Polpitigama",
+    "region_ent_type": "dsd",
+    "values": {
+      "male": 42170,
+      "female": 44241
+    },
+    "total_value": 86411
   },
   {
     "region_id": "LG-61045",
@@ -4750,6 +3310,16 @@
     "total_value": 86411
   },
   {
+    "region_id": "LK-3145",
+    "region_name": "Akmeemana",
+    "region_ent_type": "dsd",
+    "values": {
+      "male": 41187,
+      "female": 44949
+    },
+    "total_value": 86136
+  },
+  {
     "region_id": "LG-31031",
     "region_name": "Akmeemana PS",
     "region_ent_type": "lg",
@@ -4758,6 +3328,16 @@
       "female": 44949
     },
     "total_value": 86136
+  },
+  {
+    "region_id": "LK-1330",
+    "region_name": "Matugama",
+    "region_ent_type": "dsd",
+    "values": {
+      "male": 41648,
+      "female": 44417
+    },
+    "total_value": 86065
   },
   {
     "region_id": "LG-13038",
@@ -4770,6 +3350,16 @@
     "total_value": 86065
   },
   {
+    "region_id": "LK-7212",
+    "region_name": "Dimbulagala",
+    "region_ent_type": "dsd",
+    "values": {
+      "male": 42635,
+      "female": 43272
+    },
+    "total_value": 85907
+  },
+  {
     "region_id": "LG-72031",
     "region_name": "Dimbulagala PS",
     "region_ent_type": "lg",
@@ -4780,44 +3370,14 @@
     "total_value": 85907
   },
   {
-    "region_id": "LK-5248",
-    "region_name": "Pottuvil",
+    "region_id": "LK-9230",
+    "region_name": "Dehiowita",
     "region_ent_type": "dsd",
     "values": {
-      "male": 41452,
-      "female": 44364
+      "male": 41523,
+      "female": 43444
     },
-    "total_value": 85816
-  },
-  {
-    "region_id": "LK-3227",
-    "region_name": "Kaburupitiya",
-    "region_ent_type": "dsd",
-    "values": {
-      "male": 40464,
-      "female": 45168
-    },
-    "total_value": 85632
-  },
-  {
-    "region_id": "LK-6230",
-    "region_name": "Arachchikattuwa",
-    "region_ent_type": "dsd",
-    "values": {
-      "male": 41454,
-      "female": 44044
-    },
-    "total_value": 85498
-  },
-  {
-    "region_id": "LK-2315",
-    "region_name": "Ambagamuwa Korale",
-    "region_ent_type": "dsd",
-    "values": {
-      "male": 39964,
-      "female": 45112
-    },
-    "total_value": 85076
+    "total_value": 84967
   },
   {
     "region_id": "LG-92032",
@@ -4828,16 +3388,6 @@
       "female": 43444
     },
     "total_value": 84967
-  },
-  {
-    "region_id": "LK-2310",
-    "region_name": "Nildandahinna",
-    "region_ent_type": "dsd",
-    "values": {
-      "male": 40820,
-      "female": 44024
-    },
-    "total_value": 84844
   },
   {
     "region_id": "EC-01D",
@@ -4860,36 +3410,6 @@
     "total_value": 84213
   },
   {
-    "region_id": "LK-7160",
-    "region_name": "Ipalogama",
-    "region_ent_type": "dsd",
-    "values": {
-      "male": 39836,
-      "female": 44086
-    },
-    "total_value": 83922
-  },
-  {
-    "region_id": "LK-2302",
-    "region_name": "Kothmale West",
-    "region_ent_type": "dsd",
-    "values": {
-      "male": 40018,
-      "female": 43892
-    },
-    "total_value": 83910
-  },
-  {
-    "region_id": "LK-6151",
-    "region_name": "Maspotha",
-    "region_ent_type": "dsd",
-    "values": {
-      "male": 39338,
-      "female": 44408
-    },
-    "total_value": 83746
-  },
-  {
     "region_id": "LG-32011",
     "region_name": "Matara MC",
     "region_ent_type": "lg",
@@ -4908,6 +3428,16 @@
       "female": 42585
     },
     "total_value": 83455
+  },
+  {
+    "region_id": "LK-8121",
+    "region_name": "Badulla",
+    "region_ent_type": "dsd",
+    "values": {
+      "male": 38537,
+      "female": 44496
+    },
+    "total_value": 83033
   },
   {
     "region_id": "EC-19D",
@@ -4930,34 +3460,24 @@
     "total_value": 82940
   },
   {
-    "region_id": "LK-3137",
-    "region_name": "Rathgama",
+    "region_id": "LK-6172",
+    "region_name": "Kuliyapitiya West",
     "region_ent_type": "dsd",
     "values": {
-      "male": 40104,
-      "female": 42808
+      "male": 38801,
+      "female": 43786
     },
-    "total_value": 82912
+    "total_value": 82587
   },
   {
-    "region_id": "LK-7124",
-    "region_name": "Horowpathana",
+    "region_id": "LK-8127",
+    "region_name": "Uvaparanagama",
     "region_ent_type": "dsd",
     "values": {
-      "male": 40268,
-      "female": 42254
+      "male": 39841,
+      "female": 42228
     },
-    "total_value": 82522
-  },
-  {
-    "region_id": "LK-4121",
-    "region_name": "Vadamaradchchi South-West (Karaveddy)",
-    "region_ent_type": "dsd",
-    "values": {
-      "male": 38480,
-      "female": 43724
-    },
-    "total_value": 82204
+    "total_value": 82069
   },
   {
     "region_id": "EC-19F",
@@ -4990,14 +3510,14 @@
     "total_value": 81517
   },
   {
-    "region_id": "LK-6139",
-    "region_name": "Kobeigane",
+    "region_id": "LK-2206",
+    "region_name": "Dambulla",
     "region_ent_type": "dsd",
     "values": {
-      "male": 39620,
-      "female": 41718
+      "male": 40580,
+      "female": 40659
     },
-    "total_value": 81338
+    "total_value": 81239
   },
   {
     "region_id": "EC-10E",
@@ -5010,16 +3530,6 @@
     "total_value": 80696
   },
   {
-    "region_id": "LK-5242",
-    "region_name": "Damana",
-    "region_ent_type": "dsd",
-    "values": {
-      "male": 39618,
-      "female": 41032
-    },
-    "total_value": 80650
-  },
-  {
     "region_id": "LG-82039",
     "region_name": "Thanamalvila PS",
     "region_ent_type": "lg",
@@ -5028,6 +3538,16 @@
       "female": 40857
     },
     "total_value": 80614
+  },
+  {
+    "region_id": "LK-3315",
+    "region_name": "Ambalantota",
+    "region_ent_type": "dsd",
+    "values": {
+      "male": 40042,
+      "female": 40464
+    },
+    "total_value": 80506
   },
   {
     "region_id": "LG-33031",
@@ -5040,44 +3560,24 @@
     "total_value": 80506
   },
   {
-    "region_id": "LK-5306",
-    "region_name": "Kuchchaweli",
+    "region_id": "LK-2218",
+    "region_name": "Matale",
     "region_ent_type": "dsd",
     "values": {
-      "male": 39282,
-      "female": 40464
+      "male": 38083,
+      "female": 42293
     },
-    "total_value": 79746
+    "total_value": 80376
   },
   {
-    "region_id": "LK-7118",
-    "region_name": "Rambewa",
+    "region_id": "LK-3333",
+    "region_name": "Tangalle",
     "region_ent_type": "dsd",
     "values": {
-      "male": 38898,
-      "female": 40824
+      "male": 38735,
+      "female": 40808
     },
-    "total_value": 79722
-  },
-  {
-    "region_id": "LK-7209",
-    "region_name": "Lankapura",
-    "region_ent_type": "dsd",
-    "values": {
-      "male": 37942,
-      "female": 41404
-    },
-    "total_value": 79346
-  },
-  {
-    "region_id": "LK-4409",
-    "region_name": "Puthukkudiyiruppu",
-    "region_ent_type": "dsd",
-    "values": {
-      "male": 38046,
-      "female": 41018
-    },
-    "total_value": 79064
+    "total_value": 79543
   },
   {
     "region_id": "EC-10D",
@@ -5090,26 +3590,6 @@
     "total_value": 78937
   },
   {
-    "region_id": "LK-7163",
-    "region_name": "Galnewa",
-    "region_ent_type": "dsd",
-    "values": {
-      "male": 38214,
-      "female": 40702
-    },
-    "total_value": 78916
-  },
-  {
-    "region_id": "LK-6149",
-    "region_name": "Bamunakotuwa",
-    "region_ent_type": "dsd",
-    "values": {
-      "male": 37824,
-      "female": 41060
-    },
-    "total_value": 78884
-  },
-  {
     "region_id": "LG-31033",
     "region_name": "Baddegama PS",
     "region_ent_type": "lg",
@@ -5120,6 +3600,16 @@
     "total_value": 78658
   },
   {
+    "region_id": "LK-2203",
+    "region_name": "Galewela",
+    "region_ent_type": "dsd",
+    "values": {
+      "male": 38162,
+      "female": 40477
+    },
+    "total_value": 78639
+  },
+  {
     "region_id": "LG-22033",
     "region_name": "Galewela PS",
     "region_ent_type": "lg",
@@ -5128,6 +3618,16 @@
       "female": 40477
     },
     "total_value": 78639
+  },
+  {
+    "region_id": "LK-9142",
+    "region_name": "Godakawela",
+    "region_ent_type": "dsd",
+    "values": {
+      "male": 37951,
+      "female": 40590
+    },
+    "total_value": 78541
   },
   {
     "region_id": "LG-91044",
@@ -5160,36 +3660,6 @@
     "total_value": 78064
   },
   {
-    "region_id": "LK-8142",
-    "region_name": "Haldummulla",
-    "region_ent_type": "dsd",
-    "values": {
-      "male": 38206,
-      "female": 39350
-    },
-    "total_value": 77556
-  },
-  {
-    "region_id": "LK-2103",
-    "region_name": "Tumpane",
-    "region_ent_type": "dsd",
-    "values": {
-      "male": 37030,
-      "female": 40522
-    },
-    "total_value": 77552
-  },
-  {
-    "region_id": "LK-5133",
-    "region_name": "Porativu Pattu",
-    "region_ent_type": "dsd",
-    "values": {
-      "male": 33644,
-      "female": 43610
-    },
-    "total_value": 77254
-  },
-  {
     "region_id": "LG-32035",
     "region_name": "Kamburupitiya PS",
     "region_ent_type": "lg",
@@ -5210,26 +3680,6 @@
     "total_value": 76969
   },
   {
-    "region_id": "LK-7166",
-    "region_name": "Palagala",
-    "region_ent_type": "dsd",
-    "values": {
-      "male": 37472,
-      "female": 39466
-    },
-    "total_value": 76938
-  },
-  {
-    "region_id": "LK-9127",
-    "region_name": "Elapatha",
-    "region_ent_type": "dsd",
-    "values": {
-      "male": 38276,
-      "female": 38582
-    },
-    "total_value": 76858
-  },
-  {
     "region_id": "LG-33035",
     "region_name": "Katuwana PS",
     "region_ent_type": "lg",
@@ -5240,14 +3690,34 @@
     "total_value": 76521
   },
   {
-    "region_id": "LK-7210",
-    "region_name": "Welikanda",
+    "region_id": "LK-7133",
+    "region_name": "Nuwaragam Palatha East",
     "region_ent_type": "dsd",
     "values": {
-      "male": 38028,
-      "female": 38364
+      "male": 36940,
+      "female": 39198
     },
-    "total_value": 76392
+    "total_value": 76138
+  },
+  {
+    "region_id": "LK-3239",
+    "region_name": "Weligama",
+    "region_ent_type": "dsd",
+    "values": {
+      "male": 36967,
+      "female": 39169
+    },
+    "total_value": 76136
+  },
+  {
+    "region_id": "LK-4118",
+    "region_name": "Valikamam East (Kopay)",
+    "region_ent_type": "dsd",
+    "values": {
+      "male": 36084,
+      "female": 39895
+    },
+    "total_value": 75979
   },
   {
     "region_id": "LG-41037",
@@ -5270,6 +3740,16 @@
     "total_value": 75458
   },
   {
+    "region_id": "LK-9118",
+    "region_name": "Balangoda",
+    "region_ent_type": "dsd",
+    "values": {
+      "male": 36403,
+      "female": 38490
+    },
+    "total_value": 74893
+  },
+  {
     "region_id": "LG-31039",
     "region_name": "Rajgama PS",
     "region_ent_type": "lg",
@@ -5290,6 +3770,26 @@
     "total_value": 74842
   },
   {
+    "region_id": "LK-4509",
+    "region_name": "Karachchi",
+    "region_ent_type": "dsd",
+    "values": {
+      "male": 35842,
+      "female": 38789
+    },
+    "total_value": 74631
+  },
+  {
+    "region_id": "LK-3309",
+    "region_name": "Thissamaharama",
+    "region_ent_type": "dsd",
+    "values": {
+      "male": 36909,
+      "female": 37266
+    },
+    "total_value": 74175
+  },
+  {
     "region_id": "LG-33038",
     "region_name": "Thissamaharama PS",
     "region_ent_type": "lg",
@@ -5298,6 +3798,16 @@
       "female": 37266
     },
     "total_value": 74175
+  },
+  {
+    "region_id": "LK-9103",
+    "region_name": "Eheliyagoda",
+    "region_ent_type": "dsd",
+    "values": {
+      "male": 36492,
+      "female": 37579
+    },
+    "total_value": 74071
   },
   {
     "region_id": "LG-91034",
@@ -5320,14 +3830,14 @@
     "total_value": 74003
   },
   {
-    "region_id": "LK-3306",
-    "region_name": "Lunugamwehera",
+    "region_id": "LK-9215",
+    "region_name": "Galigamuwa",
     "region_ent_type": "dsd",
     "values": {
-      "male": 36732,
-      "female": 37114
+      "male": 35048,
+      "female": 38730
     },
-    "total_value": 73846
+    "total_value": 73778
   },
   {
     "region_id": "LG-92034",
@@ -5340,24 +3850,14 @@
     "total_value": 73778
   },
   {
-    "region_id": "LK-1315",
-    "region_name": "Madurawala",
+    "region_id": "LK-8221",
+    "region_name": "Wellawaya",
     "region_ent_type": "dsd",
     "values": {
-      "male": 35528,
-      "female": 37918
+      "male": 36227,
+      "female": 37053
     },
-    "total_value": 73446
-  },
-  {
-    "region_id": "LK-4415",
-    "region_name": "Maritimepattu",
-    "region_ent_type": "dsd",
-    "values": {
-      "male": 35582,
-      "female": 37848
-    },
-    "total_value": 73430
+    "total_value": 73280
   },
   {
     "region_id": "LG-82040",
@@ -5370,26 +3870,6 @@
     "total_value": 73280
   },
   {
-    "region_id": "LK-6166",
-    "region_name": "Weerabugedara",
-    "region_ent_type": "dsd",
-    "values": {
-      "male": 34774,
-      "female": 38406
-    },
-    "total_value": 73180
-  },
-  {
-    "region_id": "LK-1333",
-    "region_name": "Agalawatta",
-    "region_ent_type": "dsd",
-    "values": {
-      "male": 35072,
-      "female": 38106
-    },
-    "total_value": 73178
-  },
-  {
     "region_id": "LG-21040",
     "region_name": "Pathadumbara PS",
     "region_ent_type": "lg",
@@ -5400,24 +3880,24 @@
     "total_value": 73142
   },
   {
-    "region_id": "LK-5127",
-    "region_name": "Manmunai Pattu",
+    "region_id": "LK-1118",
+    "region_name": "Padukka",
     "region_ent_type": "dsd",
     "values": {
-      "male": 33890,
-      "female": 39176
+      "male": 35451,
+      "female": 37563
     },
-    "total_value": 73066
+    "total_value": 73014
   },
   {
-    "region_id": "LK-8206",
-    "region_name": "Madulla",
+    "region_id": "LK-4133",
+    "region_name": "Nallur",
     "region_ent_type": "dsd",
     "values": {
-      "male": 36234,
-      "female": 36658
+      "male": 33568,
+      "female": 39316
     },
-    "total_value": 72892
+    "total_value": 72884
   },
   {
     "region_id": "EC-10I",
@@ -5430,6 +3910,16 @@
     "total_value": 72884
   },
   {
+    "region_id": "LK-5218",
+    "region_name": "Sammanthurai",
+    "region_ent_type": "dsd",
+    "values": {
+      "male": 33553,
+      "female": 39241
+    },
+    "total_value": 72794
+  },
+  {
     "region_id": "LG-52043",
     "region_name": "Sammanthurai PS",
     "region_ent_type": "lg",
@@ -5438,6 +3928,26 @@
       "female": 39241
     },
     "total_value": 72794
+  },
+  {
+    "region_id": "LK-6218",
+    "region_name": "Mundel",
+    "region_ent_type": "dsd",
+    "values": {
+      "male": 34947,
+      "female": 37623
+    },
+    "total_value": 72570
+  },
+  {
+    "region_id": "LK-7206",
+    "region_name": "Medirigiriya",
+    "region_ent_type": "dsd",
+    "values": {
+      "male": 35670,
+      "female": 36812
+    },
+    "total_value": 72482
   },
   {
     "region_id": "LG-72035",
@@ -5450,24 +3960,14 @@
     "total_value": 72482
   },
   {
-    "region_id": "LK-7142",
-    "region_name": "Rajanganaya",
+    "region_id": "LK-2233",
+    "region_name": "Ukuwela",
     "region_ent_type": "dsd",
     "values": {
-      "male": 35134,
-      "female": 37338
+      "male": 34176,
+      "female": 38137
     },
-    "total_value": 72472
-  },
-  {
-    "region_id": "LK-3224",
-    "region_name": "Malimbada",
-    "region_ent_type": "dsd",
-    "values": {
-      "male": 34050,
-      "female": 38206
-    },
-    "total_value": 72256
+    "total_value": 72313
   },
   {
     "region_id": "EC-01C",
@@ -5490,6 +3990,16 @@
     "total_value": 71976
   },
   {
+    "region_id": "LK-5327",
+    "region_name": "Muthur",
+    "region_ent_type": "dsd",
+    "values": {
+      "male": 35544,
+      "female": 36337
+    },
+    "total_value": 71881
+  },
+  {
     "region_id": "LG-53036",
     "region_name": "Muttur PS",
     "region_ent_type": "lg",
@@ -5500,14 +4010,34 @@
     "total_value": 71881
   },
   {
-    "region_id": "LK-3115",
-    "region_name": "Niyagama",
+    "region_id": "LK-7115",
+    "region_name": "Nuwaragam Palatha Central",
     "region_ent_type": "dsd",
     "values": {
-      "male": 34742,
-      "female": 36760
+      "male": 35162,
+      "female": 36367
     },
-    "total_value": 71502
+    "total_value": 71529
+  },
+  {
+    "region_id": "LK-6145",
+    "region_name": "Panduwasnuwara West",
+    "region_ent_type": "dsd",
+    "values": {
+      "male": 34301,
+      "female": 36885
+    },
+    "total_value": 71186
+  },
+  {
+    "region_id": "LK-2109",
+    "region_name": "Akurana",
+    "region_ent_type": "dsd",
+    "values": {
+      "male": 33539,
+      "female": 37471
+    },
+    "total_value": 71010
   },
   {
     "region_id": "LG-21031",
@@ -5530,6 +4060,16 @@
     "total_value": 70972
   },
   {
+    "region_id": "LK-6160",
+    "region_name": "Mawathagama",
+    "region_ent_type": "dsd",
+    "values": {
+      "male": 33784,
+      "female": 37083
+    },
+    "total_value": 70867
+  },
+  {
     "region_id": "LG-61040",
     "region_name": "Mawathagama PS",
     "region_ent_type": "lg",
@@ -5538,6 +4078,16 @@
       "female": 37083
     },
     "total_value": 70867
+  },
+  {
+    "region_id": "LK-7203",
+    "region_name": "Higurakgoda",
+    "region_ent_type": "dsd",
+    "values": {
+      "male": 34397,
+      "female": 36254
+    },
+    "total_value": 70651
   },
   {
     "region_id": "LG-72033",
@@ -5570,16 +4120,6 @@
     "total_value": 69917
   },
   {
-    "region_id": "LK-6103",
-    "region_name": "Giribawa",
-    "region_ent_type": "dsd",
-    "values": {
-      "male": 34188,
-      "female": 35670
-    },
-    "total_value": 69858
-  },
-  {
     "region_id": "LG-22039",
     "region_name": "Ukuwela PS",
     "region_ent_type": "lg",
@@ -5598,6 +4138,16 @@
       "female": 36232
     },
     "total_value": 69214
+  },
+  {
+    "region_id": "LK-9209",
+    "region_name": "Aranayake",
+    "region_ent_type": "dsd",
+    "values": {
+      "male": 32609,
+      "female": 36466
+    },
+    "total_value": 69075
   },
   {
     "region_id": "EC-22F",
@@ -5620,24 +4170,14 @@
     "total_value": 69075
   },
   {
-    "region_id": "LK-3236",
-    "region_name": "Thihagoda",
+    "region_id": "LK-3106",
+    "region_name": "Balapitiya",
     "region_ent_type": "dsd",
     "values": {
-      "male": 32500,
-      "female": 36112
+      "male": 32452,
+      "female": 35698
     },
-    "total_value": 68612
-  },
-  {
-    "region_id": "LK-9145",
-    "region_name": "Weligepola",
-    "region_ent_type": "dsd",
-    "values": {
-      "male": 33974,
-      "female": 34362
-    },
-    "total_value": 68336
+    "total_value": 68150
   },
   {
     "region_id": "EC-07A",
@@ -5660,6 +4200,16 @@
     "total_value": 68150
   },
   {
+    "region_id": "LK-4130",
+    "region_name": "Thenmaradchi (Chavakachcheri)",
+    "region_ent_type": "dsd",
+    "values": {
+      "male": 32108,
+      "female": 35674
+    },
+    "total_value": 67782
+  },
+  {
     "region_id": "EC-10H",
     "region_name": "Chavakachcheri",
     "region_ent_type": "pd",
@@ -5670,14 +4220,24 @@
     "total_value": 67782
   },
   {
-    "region_id": "LK-2227",
-    "region_name": "Wilgamuwa",
+    "region_id": "LK-6187",
+    "region_name": "Polgahawela",
     "region_ent_type": "dsd",
     "values": {
-      "male": 33494,
-      "female": 33936
+      "male": 32176,
+      "female": 35289
     },
-    "total_value": 67430
+    "total_value": 67465
+  },
+  {
+    "region_id": "LK-5203",
+    "region_name": "Dehiattakandiya",
+    "region_ent_type": "dsd",
+    "values": {
+      "male": 33196,
+      "female": 34078
+    },
+    "total_value": 67274
   },
   {
     "region_id": "LG-52034",
@@ -5690,24 +4250,24 @@
     "total_value": 67274
   },
   {
-    "region_id": "LK-5318",
-    "region_name": "Thambalagamuwa",
+    "region_id": "LK-3312",
+    "region_name": "Hambantota",
     "region_ent_type": "dsd",
     "values": {
-      "male": 33016,
-      "female": 34256
+      "male": 33392,
+      "female": 33815
     },
-    "total_value": 67272
+    "total_value": 67207
   },
   {
-    "region_id": "LK-9109",
-    "region_name": "Kiriella",
+    "region_id": "LK-1327",
+    "region_name": "Dodangoda",
     "region_ent_type": "dsd",
     "values": {
-      "male": 33142,
-      "female": 34120
+      "male": 32546,
+      "female": 34543
     },
-    "total_value": 67262
+    "total_value": 67089
   },
   {
     "region_id": "LG-13035",
@@ -5720,14 +4280,14 @@
     "total_value": 67089
   },
   {
-    "region_id": "LK-3135",
-    "region_name": "Madampagama",
+    "region_id": "LK-6142",
+    "region_name": "Bingiriya",
     "region_ent_type": "dsd",
     "values": {
-      "male": 32022,
-      "female": 34794
+      "male": 31869,
+      "female": 34855
     },
-    "total_value": 66816
+    "total_value": 66724
   },
   {
     "region_id": "LG-61032",
@@ -5740,6 +4300,16 @@
     "total_value": 66724
   },
   {
+    "region_id": "LK-3112",
+    "region_name": "Elpitiya",
+    "region_ent_type": "dsd",
+    "values": {
+      "male": 32028,
+      "female": 34643
+    },
+    "total_value": 66671
+  },
+  {
     "region_id": "LG-31037",
     "region_name": "Elpitiya PS",
     "region_ent_type": "lg",
@@ -5750,24 +4320,24 @@
     "total_value": 66671
   },
   {
-    "region_id": "LK-2307",
-    "region_name": "Mathurata",
+    "region_id": "LK-6136",
+    "region_name": "Wariyapola",
     "region_ent_type": "dsd",
     "values": {
-      "male": 31880,
-      "female": 34470
+      "male": 31986,
+      "female": 34502
     },
-    "total_value": 66350
+    "total_value": 66488
   },
   {
-    "region_id": "LK-3230",
-    "region_name": "Hakmana",
+    "region_id": "LK-9221",
+    "region_name": "Ruwanwella",
     "region_ent_type": "dsd",
     "values": {
-      "male": 31418,
-      "female": 34552
+      "male": 31671,
+      "female": 34126
     },
-    "total_value": 65970
+    "total_value": 65797
   },
   {
     "region_id": "LG-92038",
@@ -5780,6 +4350,16 @@
     "total_value": 65797
   },
   {
+    "region_id": "LK-6184",
+    "region_name": "Alawwa",
+    "region_ent_type": "dsd",
+    "values": {
+      "male": 31625,
+      "female": 34064
+    },
+    "total_value": 65689
+  },
+  {
     "region_id": "LG-61031",
     "region_name": "Alawwa PS",
     "region_ent_type": "lg",
@@ -5790,24 +4370,24 @@
     "total_value": 65689
   },
   {
-    "region_id": "LK-5121",
-    "region_name": "Manmunai West",
+    "region_id": "LK-2157",
+    "region_name": "Pasbagekorale",
     "region_ent_type": "dsd",
     "values": {
-      "male": 31810,
-      "female": 33852
+      "male": 30883,
+      "female": 34670
     },
-    "total_value": 65662
+    "total_value": 65553
   },
   {
-    "region_id": "LK-3215",
-    "region_name": "Athuraliya",
+    "region_id": "LK-1312",
+    "region_name": "Bulathsinhala",
     "region_ent_type": "dsd",
     "values": {
-      "male": 31206,
-      "female": 34416
+      "male": 31911,
+      "female": 33639
     },
-    "total_value": 65622
+    "total_value": 65550
   },
   {
     "region_id": "LG-13034",
@@ -5820,6 +4400,26 @@
     "total_value": 65550
   },
   {
+    "region_id": "LK-6242",
+    "region_name": "Nattandiya",
+    "region_ent_type": "dsd",
+    "values": {
+      "male": 30820,
+      "female": 34680
+    },
+    "total_value": 65500
+  },
+  {
+    "region_id": "LK-8133",
+    "region_name": "Bandarawela",
+    "region_ent_type": "dsd",
+    "values": {
+      "male": 31527,
+      "female": 33961
+    },
+    "total_value": 65488
+  },
+  {
     "region_id": "LG-62032",
     "region_name": "Arachchikattuwa PS",
     "region_ent_type": "lg",
@@ -5828,6 +4428,26 @@
       "female": 33886
     },
     "total_value": 65366
+  },
+  {
+    "region_id": "LK-7154",
+    "region_name": "Kekirawa",
+    "region_ent_type": "dsd",
+    "values": {
+      "male": 31751,
+      "female": 33566
+    },
+    "total_value": 65317
+  },
+  {
+    "region_id": "LK-2309",
+    "region_name": "Walapane",
+    "region_ent_type": "dsd",
+    "values": {
+      "male": 31686,
+      "female": 33601
+    },
+    "total_value": 65287
   },
   {
     "region_id": "LG-23037",
@@ -5840,14 +4460,14 @@
     "total_value": 65205
   },
   {
-    "region_id": "LK-2215",
-    "region_name": "Yatawatta",
+    "region_id": "LK-6245",
+    "region_name": "Wennappuwa",
     "region_ent_type": "dsd",
     "values": {
-      "male": 31272,
-      "female": 33558
+      "male": 30482,
+      "female": 34286
     },
-    "total_value": 64830
+    "total_value": 64768
   },
   {
     "region_id": "LG-91042",
@@ -5870,6 +4490,26 @@
     "total_value": 64679
   },
   {
+    "region_id": "LK-9115",
+    "region_name": "Imbulpe",
+    "region_ent_type": "dsd",
+    "values": {
+      "male": 30398,
+      "female": 34157
+    },
+    "total_value": 64555
+  },
+  {
+    "region_id": "LK-2124",
+    "region_name": "Medadumbara",
+    "region_ent_type": "dsd",
+    "values": {
+      "male": 31415,
+      "female": 33124
+    },
+    "total_value": 64539
+  },
+  {
     "region_id": "EC-04E",
     "region_name": "Teldeniya",
     "region_ent_type": "pd",
@@ -5890,6 +4530,26 @@
     "total_value": 64172
   },
   {
+    "region_id": "LK-6124",
+    "region_name": "Maho",
+    "region_ent_type": "dsd",
+    "values": {
+      "male": 31117,
+      "female": 33005
+    },
+    "total_value": 64122
+  },
+  {
+    "region_id": "LK-3109",
+    "region_name": "Karandeniya",
+    "region_ent_type": "dsd",
+    "values": {
+      "male": 30467,
+      "female": 33395
+    },
+    "total_value": 63862
+  },
+  {
     "region_id": "LG-31040",
     "region_name": "Karandeniya PS",
     "region_ent_type": "lg",
@@ -5900,24 +4560,14 @@
     "total_value": 63862
   },
   {
-    "region_id": "LK-2148",
-    "region_name": "Deltota",
+    "region_id": "LK-6233",
+    "region_name": "Chilaw",
     "region_ent_type": "dsd",
     "values": {
-      "male": 29464,
-      "female": 34344
+      "male": 30199,
+      "female": 33440
     },
-    "total_value": 63808
-  },
-  {
-    "region_id": "LK-8119",
-    "region_name": "Lunugala",
-    "region_ent_type": "dsd",
-    "values": {
-      "male": 30398,
-      "female": 33364
-    },
-    "total_value": 63762
+    "total_value": 63639
   },
   {
     "region_id": "LG-21036",
@@ -5940,16 +4590,6 @@
     "total_value": 63609
   },
   {
-    "region_id": "LK-6148",
-    "region_name": "Panduwasnuwara East",
-    "region_ent_type": "dsd",
-    "values": {
-      "male": 30608,
-      "female": 32972
-    },
-    "total_value": 63580
-  },
-  {
     "region_id": "EC-10B",
     "region_name": "Vaddukoddai",
     "region_ent_type": "pd",
@@ -5958,6 +4598,16 @@
       "female": 33268
     },
     "total_value": 63496
+  },
+  {
+    "region_id": "LK-3154",
+    "region_name": "Habaraduwa",
+    "region_ent_type": "dsd",
+    "values": {
+      "male": 30710,
+      "female": 32592
+    },
+    "total_value": 63302
   },
   {
     "region_id": "LG-31038",
@@ -5970,24 +4620,14 @@
     "total_value": 63302
   },
   {
-    "region_id": "LK-2212",
-    "region_name": "Pallepola",
+    "region_id": "LK-8212",
+    "region_name": "Siyambalanduwa",
     "region_ent_type": "dsd",
     "values": {
-      "male": 30312,
-      "female": 32946
+      "male": 31502,
+      "female": 31553
     },
-    "total_value": 63258
-  },
-  {
-    "region_id": "LK-5221",
-    "region_name": "Kalmunai North",
-    "region_ent_type": "dsd",
-    "values": {
-      "male": 28710,
-      "female": 34402
-    },
-    "total_value": 63112
+    "total_value": 63055
   },
   {
     "region_id": "LG-82038",
@@ -6000,6 +4640,16 @@
     "total_value": 63055
   },
   {
+    "region_id": "LK-5136",
+    "region_name": "Manmunai South & Eruvil Pattu",
+    "region_ent_type": "dsd",
+    "values": {
+      "male": 29562,
+      "female": 33358
+    },
+    "total_value": 62920
+  },
+  {
     "region_id": "LG-51038",
     "region_name": "Manmunai South & Eruvil Pattu PS",
     "region_ent_type": "lg",
@@ -6008,6 +4658,16 @@
       "female": 33358
     },
     "total_value": 62920
+  },
+  {
+    "region_id": "LK-6248",
+    "region_name": "Dankotuwa",
+    "region_ent_type": "dsd",
+    "values": {
+      "male": 30006,
+      "female": 32867
+    },
+    "total_value": 62873
   },
   {
     "region_id": "LG-31032",
@@ -6020,24 +4680,14 @@
     "total_value": 62832
   },
   {
-    "region_id": "LK-8230",
-    "region_name": "Thanamalwila",
+    "region_id": "LK-9227",
+    "region_name": "Yatiyantota",
     "region_ent_type": "dsd",
     "values": {
-      "male": 31272,
-      "female": 31204
+      "male": 30352,
+      "female": 31903
     },
-    "total_value": 62476
-  },
-  {
-    "region_id": "LK-2134",
-    "region_name": "Hatharaliyadda",
-    "region_ent_type": "dsd",
-    "values": {
-      "male": 30304,
-      "female": 31978
-    },
-    "total_value": 62282
+    "total_value": 62255
   },
   {
     "region_id": "LG-92040",
@@ -6050,14 +4700,14 @@
     "total_value": 62255
   },
   {
-    "region_id": "LK-7151",
-    "region_name": "Thirappane",
+    "region_id": "LK-5212",
+    "region_name": "Uhana",
     "region_ent_type": "dsd",
     "values": {
-      "male": 30630,
-      "female": 31612
+      "male": 30167,
+      "female": 32049
     },
-    "total_value": 62242
+    "total_value": 62216
   },
   {
     "region_id": "LG-52045",
@@ -6070,14 +4720,24 @@
     "total_value": 62216
   },
   {
-    "region_id": "LK-3118",
-    "region_name": "Thawalama",
+    "region_id": "LK-6106",
+    "region_name": "Galgamuwa",
     "region_ent_type": "dsd",
     "values": {
-      "male": 30218,
-      "female": 31760
+      "male": 30170,
+      "female": 31589
     },
-    "total_value": 61978
+    "total_value": 61759
+  },
+  {
+    "region_id": "LK-2303",
+    "region_name": "Kothmale East",
+    "region_ent_type": "dsd",
+    "values": {
+      "male": 29574,
+      "female": 32168
+    },
+    "total_value": 61742
   },
   {
     "region_id": "LG-62038",
@@ -6090,16 +4750,6 @@
     "total_value": 61570
   },
   {
-    "region_id": "LK-2209",
-    "region_name": "Naula",
-    "region_ent_type": "dsd",
-    "values": {
-      "male": 30284,
-      "female": 31152
-    },
-    "total_value": 61436
-  },
-  {
     "region_id": "LG-91043",
     "region_name": "Weligepola PS",
     "region_ent_type": "lg",
@@ -6110,24 +4760,34 @@
     "total_value": 61412
   },
   {
-    "region_id": "LK-5230",
-    "region_name": "Nintavur",
+    "region_id": "LK-6169",
+    "region_name": "Kuliyapitiya East",
     "region_ent_type": "dsd",
     "values": {
-      "male": 27498,
-      "female": 33844
+      "male": 29449,
+      "female": 31774
     },
-    "total_value": 61342
+    "total_value": 61223
   },
   {
-    "region_id": "LK-5104",
-    "region_name": "Koralai Pattu Central",
+    "region_id": "LK-7148",
+    "region_name": "Thalawa",
     "region_ent_type": "dsd",
     "values": {
-      "male": 29502,
-      "female": 31704
+      "male": 29803,
+      "female": 31413
     },
-    "total_value": 61206
+    "total_value": 61216
+  },
+  {
+    "region_id": "LK-3209",
+    "region_name": "Pasgoda",
+    "region_ent_type": "dsd",
+    "values": {
+      "male": 29936,
+      "female": 31235
+    },
+    "total_value": 61171
   },
   {
     "region_id": "LG-32040",
@@ -6150,6 +4810,16 @@
     "total_value": 61062
   },
   {
+    "region_id": "LK-3206",
+    "region_name": "Kotapola",
+    "region_ent_type": "dsd",
+    "values": {
+      "male": 29750,
+      "female": 31252
+    },
+    "total_value": 61002
+  },
+  {
     "region_id": "LG-32036",
     "region_name": "Kotapola PS",
     "region_ent_type": "lg",
@@ -6158,6 +4828,16 @@
       "female": 31252
     },
     "total_value": 61002
+  },
+  {
+    "region_id": "LK-8106",
+    "region_name": "Rideemaliyadda",
+    "region_ent_type": "dsd",
+    "values": {
+      "male": 30196,
+      "female": 30686
+    },
+    "total_value": 60882
   },
   {
     "region_id": "LG-81041",
@@ -6170,6 +4850,26 @@
     "total_value": 60882
   },
   {
+    "region_id": "LK-2145",
+    "region_name": "Pathahewaheta",
+    "region_ent_type": "dsd",
+    "values": {
+      "male": 29235,
+      "female": 31404
+    },
+    "total_value": 60639
+  },
+  {
+    "region_id": "LK-8224",
+    "region_name": "Buttala",
+    "region_ent_type": "dsd",
+    "values": {
+      "male": 30180,
+      "female": 30426
+    },
+    "total_value": 60606
+  },
+  {
     "region_id": "LG-82033",
     "region_name": "Buttala PS",
     "region_ent_type": "lg",
@@ -6178,6 +4878,16 @@
       "female": 30426
     },
     "total_value": 60606
+  },
+  {
+    "region_id": "LK-2106",
+    "region_name": "Poojapitiya",
+    "region_ent_type": "dsd",
+    "values": {
+      "male": 28572,
+      "female": 31744
+    },
+    "total_value": 60316
   },
   {
     "region_id": "LG-21042",
@@ -6190,14 +4900,14 @@
     "total_value": 60316
   },
   {
-    "region_id": "LK-9130",
-    "region_name": "Ayagama",
+    "region_id": "LK-6181",
+    "region_name": "Narammala",
     "region_ent_type": "dsd",
     "values": {
-      "male": 29756,
-      "female": 30132
+      "male": 28489,
+      "female": 31317
     },
-    "total_value": 59888
+    "total_value": 59806
   },
   {
     "region_id": "LG-61049",
@@ -6210,14 +4920,34 @@
     "total_value": 59806
   },
   {
-    "region_id": "LK-5225",
-    "region_name": "Sainthamaruthu",
+    "region_id": "LK-3133",
+    "region_name": "Ambalangoda",
     "region_ent_type": "dsd",
     "values": {
-      "male": 28108,
-      "female": 31638
+      "male": 28447,
+      "female": 31170
     },
-    "total_value": 59746
+    "total_value": 59617
+  },
+  {
+    "region_id": "LK-6157",
+    "region_name": "Mallawapitiya",
+    "region_ent_type": "dsd",
+    "values": {
+      "male": 28294,
+      "female": 31197
+    },
+    "total_value": 59491
+  },
+  {
+    "region_id": "LK-9136",
+    "region_name": "Nivithigala",
+    "region_ent_type": "dsd",
+    "values": {
+      "male": 29447,
+      "female": 29995
+    },
+    "total_value": 59442
   },
   {
     "region_id": "LG-11021",
@@ -6240,6 +4970,16 @@
     "total_value": 59240
   },
   {
+    "region_id": "LK-2154",
+    "region_name": "Ganga Ihala Korale",
+    "region_ent_type": "dsd",
+    "values": {
+      "male": 28610,
+      "female": 30535
+    },
+    "total_value": 59145
+  },
+  {
     "region_id": "LG-21032",
     "region_name": "Ganga Ihala Korale",
     "region_ent_type": "lg",
@@ -6248,6 +4988,16 @@
       "female": 30535
     },
     "total_value": 59145
+  },
+  {
+    "region_id": "LK-2306",
+    "region_name": "Hanguranketa",
+    "region_ent_type": "dsd",
+    "values": {
+      "male": 28087,
+      "female": 30844
+    },
+    "total_value": 58931
   },
   {
     "region_id": "LG-91011",
@@ -6260,14 +5010,14 @@
     "total_value": 58825
   },
   {
-    "region_id": "LK-3130",
-    "region_name": "Welivitiya-Divitura",
+    "region_id": "LK-3330",
+    "region_name": "Beliatta",
     "region_ent_type": "dsd",
     "values": {
-      "male": 28266,
-      "female": 30446
+      "male": 28018,
+      "female": 30657
     },
-    "total_value": 58712
+    "total_value": 58675
   },
   {
     "region_id": "LG-33033",
@@ -6280,14 +5030,14 @@
     "total_value": 58675
   },
   {
-    "region_id": "LK-5245",
-    "region_name": "Tirukkovil",
+    "region_id": "LK-1310",
+    "region_name": "Ingiriya",
     "region_ent_type": "dsd",
     "values": {
-      "male": 28174,
-      "female": 30330
+      "male": 28621,
+      "female": 29740
     },
-    "total_value": 58504
+    "total_value": 58361
   },
   {
     "region_id": "LG-21034",
@@ -6300,6 +5050,26 @@
     "total_value": 58283
   },
   {
+    "region_id": "LK-3142",
+    "region_name": "Bope-Poddala",
+    "region_ent_type": "dsd",
+    "values": {
+      "male": 27448,
+      "female": 30442
+    },
+    "total_value": 57890
+  },
+  {
+    "region_id": "LK-4203",
+    "region_name": "Mannar Town",
+    "region_ent_type": "dsd",
+    "values": {
+      "male": 28448,
+      "female": 29324
+    },
+    "total_value": 57772
+  },
+  {
     "region_id": "LG-44043",
     "region_name": "Puthukudiyiruppu PS",
     "region_ent_type": "lg",
@@ -6310,14 +5080,14 @@
     "total_value": 57681
   },
   {
-    "region_id": "LK-5109",
-    "region_name": "Koralai Pattu",
+    "region_id": "LK-8215",
+    "region_name": "Monaragala",
     "region_ent_type": "dsd",
     "values": {
-      "male": 28172,
-      "female": 29352
+      "male": 28080,
+      "female": 28871
     },
-    "total_value": 57524
+    "total_value": 56951
   },
   {
     "region_id": "LG-82037",
@@ -6340,34 +5110,14 @@
     "total_value": 56703
   },
   {
-    "region_id": "LK-6109",
-    "region_name": "Ehetuwewa",
+    "region_id": "LK-3248",
+    "region_name": "Dikwella",
     "region_ent_type": "dsd",
     "values": {
-      "male": 27572,
-      "female": 29062
+      "male": 27172,
+      "female": 29296
     },
-    "total_value": 56634
-  },
-  {
-    "region_id": "LK-5110",
-    "region_name": "Koralai Pattu South",
-    "region_ent_type": "dsd",
-    "values": {
-      "male": 27194,
-      "female": 29410
-    },
-    "total_value": 56604
-  },
-  {
-    "region_id": "LK-7136",
-    "region_name": "Nachchaduwa",
-    "region_ent_type": "dsd",
-    "values": {
-      "male": 27268,
-      "female": 29264
-    },
-    "total_value": 56532
+    "total_value": 56468
   },
   {
     "region_id": "LG-32033",
@@ -6390,6 +5140,16 @@
     "total_value": 56356
   },
   {
+    "region_id": "LK-1318",
+    "region_name": "Millaniya",
+    "region_ent_type": "dsd",
+    "values": {
+      "male": 27180,
+      "female": 28986
+    },
+    "total_value": 56166
+  },
+  {
     "region_id": "LG-13043",
     "region_name": "Millaniya PS",
     "region_ent_type": "lg",
@@ -6400,24 +5160,24 @@
     "total_value": 56166
   },
   {
-    "region_id": "LK-6227",
-    "region_name": "Pallama",
+    "region_id": "LK-3221",
+    "region_name": "Welipitiya",
     "region_ent_type": "dsd",
     "values": {
-      "male": 26830,
-      "female": 29046
+      "male": 26995,
+      "female": 28965
     },
-    "total_value": 55876
+    "total_value": 55960
   },
   {
-    "region_id": "LK-3121",
-    "region_name": "Neluwa",
+    "region_id": "LK-7139",
+    "region_name": "Nochchiyagama",
     "region_ent_type": "dsd",
     "values": {
-      "male": 27510,
-      "female": 27982
+      "male": 27099,
+      "female": 28372
     },
-    "total_value": 55492
+    "total_value": 55471
   },
   {
     "region_id": "LG-71040",
@@ -6430,14 +5190,14 @@
     "total_value": 55471
   },
   {
-    "region_id": "LK-3128",
-    "region_name": "Wanduramba",
+    "region_id": "LK-2121",
+    "region_name": "Minipe",
     "region_ent_type": "dsd",
     "values": {
-      "male": 26750,
-      "female": 28654
+      "male": 27066,
+      "female": 28276
     },
-    "total_value": 55404
+    "total_value": 55342
   },
   {
     "region_id": "LG-21037",
@@ -6448,6 +5208,16 @@
       "female": 28276
     },
     "total_value": 55342
+  },
+  {
+    "region_id": "LK-1339",
+    "region_name": "Walallawita",
+    "region_ent_type": "dsd",
+    "values": {
+      "male": 26682,
+      "female": 28651
+    },
+    "total_value": 55333
   },
   {
     "region_id": "LG-13040",
@@ -6490,14 +5260,14 @@
     "total_value": 54716
   },
   {
-    "region_id": "LK-9121",
-    "region_name": "Opanayake",
+    "region_id": "LK-6175",
+    "region_name": "Udubaddawa",
     "region_ent_type": "dsd",
     "values": {
-      "male": 26430,
-      "female": 28058
+      "male": 25970,
+      "female": 28496
     },
-    "total_value": 54488
+    "total_value": 54466
   },
   {
     "region_id": "LG-61048",
@@ -6520,14 +5290,14 @@
     "total_value": 54135
   },
   {
-    "region_id": "LK-8112",
-    "region_name": "Kandeketiya",
+    "region_id": "LK-2230",
+    "region_name": "Rattota",
     "region_ent_type": "dsd",
     "values": {
-      "male": 26582,
-      "female": 27244
+      "male": 25566,
+      "female": 28084
     },
-    "total_value": 53826
+    "total_value": 53650
   },
   {
     "region_id": "LG-22038",
@@ -6538,6 +5308,16 @@
       "female": 28084
     },
     "total_value": 53650
+  },
+  {
+    "region_id": "LK-3218",
+    "region_name": "Akuressa",
+    "region_ent_type": "dsd",
+    "values": {
+      "male": 25798,
+      "female": 27840
+    },
+    "total_value": 53638
   },
   {
     "region_id": "LG-32031",
@@ -6560,6 +5340,16 @@
     "total_value": 53415
   },
   {
+    "region_id": "LK-3318",
+    "region_name": "Angunakolapelessa",
+    "region_ent_type": "dsd",
+    "values": {
+      "male": 26073,
+      "female": 27336
+    },
+    "total_value": 53409
+  },
+  {
     "region_id": "LG-33032",
     "region_name": "Angunakolapelessa PS",
     "region_ent_type": "lg",
@@ -6570,14 +5360,14 @@
     "total_value": 53409
   },
   {
-    "region_id": "LK-5130",
-    "region_name": "Manmunai South West",
+    "region_id": "LK-5233",
+    "region_name": "Addalaichenai",
     "region_ent_type": "dsd",
     "values": {
-      "male": 24622,
-      "female": 28730
+      "male": 24354,
+      "female": 28860
     },
-    "total_value": 53352
+    "total_value": 53214
   },
   {
     "region_id": "LG-52031",
@@ -6590,14 +5380,34 @@
     "total_value": 53214
   },
   {
-    "region_id": "LK-7106",
-    "region_name": "Kebithigollewa",
+    "region_id": "LK-5224",
+    "region_name": "Kalmunai",
     "region_ent_type": "dsd",
     "values": {
-      "male": 26288,
-      "female": 26576
+      "male": 24929,
+      "female": 27869
     },
-    "total_value": 52864
+    "total_value": 52798
+  },
+  {
+    "region_id": "LK-2142",
+    "region_name": "Doluwa",
+    "region_ent_type": "dsd",
+    "values": {
+      "male": 25517,
+      "female": 27267
+    },
+    "total_value": 52784
+  },
+  {
+    "region_id": "LK-3303",
+    "region_name": "Sooriyawewa",
+    "region_ent_type": "dsd",
+    "values": {
+      "male": 26096,
+      "female": 26613
+    },
+    "total_value": 52709
   },
   {
     "region_id": "LG-33040",
@@ -6610,6 +5420,16 @@
     "total_value": 52709
   },
   {
+    "region_id": "LK-7109",
+    "region_name": "Medawachchiya",
+    "region_ent_type": "dsd",
+    "values": {
+      "male": 25193,
+      "female": 27303
+    },
+    "total_value": 52496
+  },
+  {
     "region_id": "LG-71038",
     "region_name": "Medawachchiya PS",
     "region_ent_type": "lg",
@@ -6620,24 +5440,24 @@
     "total_value": 52496
   },
   {
-    "region_id": "LK-6209",
-    "region_name": "Karuwalagaswewa",
+    "region_id": "LK-3324",
+    "region_name": "Katuwana",
     "region_ent_type": "dsd",
     "values": {
-      "male": 25922,
-      "female": 26528
+      "male": 25414,
+      "female": 26755
     },
-    "total_value": 52450
+    "total_value": 52169
   },
   {
-    "region_id": "LK-3136",
-    "region_name": "Hikkaduwa",
+    "region_id": "LK-4109",
+    "region_name": "Valikamam South West (Sandilipay)",
     "region_ent_type": "dsd",
     "values": {
-      "male": 25140,
-      "female": 27292
+      "male": 24726,
+      "female": 27395
     },
-    "total_value": 52432
+    "total_value": 52121
   },
   {
     "region_id": "LG-41040",
@@ -6650,6 +5470,16 @@
     "total_value": 52121
   },
   {
+    "region_id": "LK-3124",
+    "region_name": "Nagoda",
+    "region_ent_type": "dsd",
+    "values": {
+      "male": 24957,
+      "female": 27074
+    },
+    "total_value": 52031
+  },
+  {
     "region_id": "LG-31041",
     "region_name": "Nagoda PS",
     "region_ent_type": "lg",
@@ -6660,6 +5490,16 @@
     "total_value": 52031
   },
   {
+    "region_id": "LK-7127",
+    "region_name": "Galenbidunuwewa",
+    "region_ent_type": "dsd",
+    "values": {
+      "male": 25535,
+      "female": 26417
+    },
+    "total_value": 51952
+  },
+  {
     "region_id": "LG-71031",
     "region_name": "Galenbindunuwewa PS",
     "region_ent_type": "lg",
@@ -6668,6 +5508,16 @@
       "female": 26417
     },
     "total_value": 51952
+  },
+  {
+    "region_id": "LK-3212",
+    "region_name": "Mulatiyana",
+    "region_ent_type": "dsd",
+    "values": {
+      "male": 25086,
+      "female": 26746
+    },
+    "total_value": 51832
   },
   {
     "region_id": "LG-32039",
@@ -6690,16 +5540,6 @@
     "total_value": 51774
   },
   {
-    "region_id": "LK-4312",
-    "region_name": "Vengalacheddikulam",
-    "region_ent_type": "dsd",
-    "values": {
-      "male": 24916,
-      "female": 26624
-    },
-    "total_value": 51540
-  },
-  {
     "region_id": "LG-41031",
     "region_name": "Chavakachcheri PS",
     "region_ent_type": "lg",
@@ -6720,14 +5560,14 @@
     "total_value": 51321
   },
   {
-    "region_id": "LK-2115",
-    "region_name": "Panvila",
+    "region_id": "LK-1336",
+    "region_name": "Palindanuwara",
     "region_ent_type": "dsd",
     "values": {
-      "male": 24590,
-      "female": 26710
+      "male": 24879,
+      "female": 26292
     },
-    "total_value": 51300
+    "total_value": 51171
   },
   {
     "region_id": "LG-13042",
@@ -6740,24 +5580,24 @@
     "total_value": 51171
   },
   {
-    "region_id": "LK-6112",
-    "region_name": "Ambanpola",
+    "region_id": "LK-3127",
+    "region_name": "Baddegama",
     "region_ent_type": "dsd",
     "values": {
-      "male": 24612,
-      "female": 26418
+      "male": 24515,
+      "female": 26441
     },
-    "total_value": 51030
+    "total_value": 50956
   },
   {
-    "region_id": "LK-5103",
-    "region_name": "Koralai Pattu North",
+    "region_id": "LK-5321",
+    "region_name": "Kantale",
     "region_ent_type": "dsd",
     "values": {
-      "male": 24988,
-      "female": 25962
+      "male": 24912,
+      "female": 25928
     },
-    "total_value": 50950
+    "total_value": 50840
   },
   {
     "region_id": "LG-53032",
@@ -6770,6 +5610,16 @@
     "total_value": 50840
   },
   {
+    "region_id": "LK-9133",
+    "region_name": "Kalawana",
+    "region_ent_type": "dsd",
+    "values": {
+      "male": 25109,
+      "female": 25644
+    },
+    "total_value": 50753
+  },
+  {
     "region_id": "LG-91037",
     "region_name": "Kalawana PS",
     "region_ent_type": "lg",
@@ -6778,6 +5628,16 @@
       "female": 25644
     },
     "total_value": 50753
+  },
+  {
+    "region_id": "LK-4115",
+    "region_name": "Valikamam South (Uduvil)",
+    "region_ent_type": "dsd",
+    "values": {
+      "male": 23792,
+      "female": 26748
+    },
+    "total_value": 50540
   },
   {
     "region_id": "LG-41039",
@@ -6800,6 +5660,16 @@
     "total_value": 50173
   },
   {
+    "region_id": "LK-9151",
+    "region_name": "Kolonna",
+    "region_ent_type": "dsd",
+    "values": {
+      "male": 24937,
+      "female": 25131
+    },
+    "total_value": 50068
+  },
+  {
     "region_id": "LG-91038",
     "region_name": "Kolonna PS",
     "region_ent_type": "lg",
@@ -6810,34 +5680,14 @@
     "total_value": 50068
   },
   {
-    "region_id": "LK-4506",
-    "region_name": "Kandavalai",
+    "region_id": "LK-3103",
+    "region_name": "Bentota",
     "region_ent_type": "dsd",
     "values": {
-      "male": 24050,
-      "female": 25792
+      "male": 24041,
+      "female": 25609
     },
-    "total_value": 49842
-  },
-  {
-    "region_id": "LK-6118",
-    "region_name": "Rasnayakapura",
-    "region_ent_type": "dsd",
-    "values": {
-      "male": 24168,
-      "female": 25656
-    },
-    "total_value": 49824
-  },
-  {
-    "region_id": "LK-5239",
-    "region_name": "Alayadivembu",
-    "region_ent_type": "dsd",
-    "values": {
-      "male": 23736,
-      "female": 25940
-    },
-    "total_value": 49676
+    "total_value": 49650
   },
   {
     "region_id": "LG-31035",
@@ -6850,6 +5700,16 @@
     "total_value": 49650
   },
   {
+    "region_id": "LK-8118",
+    "region_name": "Passara",
+    "region_ent_type": "dsd",
+    "values": {
+      "male": 23888,
+      "female": 25748
+    },
+    "total_value": 49636
+  },
+  {
     "region_id": "LG-81040",
     "region_name": "Passara PS",
     "region_ent_type": "lg",
@@ -6858,6 +5718,16 @@
       "female": 25748
     },
     "total_value": 49636
+  },
+  {
+    "region_id": "LK-8136",
+    "region_name": "Ella",
+    "region_ent_type": "dsd",
+    "values": {
+      "male": 24611,
+      "female": 24828
+    },
+    "total_value": 49439
   },
   {
     "region_id": "EC-10G",
@@ -6870,14 +5740,24 @@
     "total_value": 49399
   },
   {
-    "region_id": "LK-5115",
-    "region_name": "Eravur Town",
+    "region_id": "LK-8233",
+    "region_name": "Sevanagala",
     "region_ent_type": "dsd",
     "values": {
-      "male": 22814,
-      "female": 26575
+      "male": 24121,
+      "female": 25255
     },
-    "total_value": 49389
+    "total_value": 49376
+  },
+  {
+    "region_id": "LK-3245",
+    "region_name": "Devinuwara",
+    "region_ent_type": "dsd",
+    "values": {
+      "male": 23405,
+      "female": 25869
+    },
+    "total_value": 49274
   },
   {
     "region_id": "LG-32032",
@@ -6890,16 +5770,6 @@
     "total_value": 49274
   },
   {
-    "region_id": "LK-5106",
-    "region_name": "Koralai Pattu West",
-    "region_ent_type": "dsd",
-    "values": {
-      "male": 23340,
-      "female": 25826
-    },
-    "total_value": 49166
-  },
-  {
     "region_id": "LG-51034",
     "region_name": "Koralai Pattu PS",
     "region_ent_type": "lg",
@@ -6910,14 +5780,24 @@
     "total_value": 49112
   },
   {
-    "region_id": "LK-7103",
-    "region_name": "Padaviya",
+    "region_id": "LK-6236",
+    "region_name": "Madampe",
     "region_ent_type": "dsd",
     "values": {
-      "male": 23776,
-      "female": 25210
+      "male": 23581,
+      "female": 25413
     },
-    "total_value": 48986
+    "total_value": 48994
+  },
+  {
+    "region_id": "LK-3203",
+    "region_name": "Pitabaddara",
+    "region_ent_type": "dsd",
+    "values": {
+      "male": 23765,
+      "female": 25102
+    },
+    "total_value": 48867
   },
   {
     "region_id": "LG-32043",
@@ -6930,14 +5810,14 @@
     "total_value": 48867
   },
   {
-    "region_id": "LK-8115",
-    "region_name": "Soranathota",
+    "region_id": "LK-6239",
+    "region_name": "Mahawewa",
     "region_ent_type": "dsd",
     "values": {
-      "male": 23560,
-      "female": 25254
+      "male": 23005,
+      "female": 25828
     },
-    "total_value": 48814
+    "total_value": 48833
   },
   {
     "region_id": "EC-10F",
@@ -6950,6 +5830,16 @@
     "total_value": 48609
   },
   {
+    "region_id": "LK-7218",
+    "region_name": "Elahera",
+    "region_ent_type": "dsd",
+    "values": {
+      "male": 24213,
+      "female": 24352
+    },
+    "total_value": 48565
+  },
+  {
     "region_id": "LG-72032",
     "region_name": "Elahera PS",
     "region_ent_type": "lg",
@@ -6958,6 +5848,16 @@
       "female": 24352
     },
     "total_value": 48565
+  },
+  {
+    "region_id": "LK-4136",
+    "region_name": "Jaffna",
+    "region_ent_type": "dsd",
+    "values": {
+      "male": 23413,
+      "female": 25130
+    },
+    "total_value": 48543
   },
   {
     "region_id": "EC-10J",
@@ -6980,24 +5880,34 @@
     "total_value": 48496
   },
   {
-    "region_id": "LK-7112",
-    "region_name": "Mahawilachchiya",
+    "region_id": "LK-8139",
+    "region_name": "Haputale",
     "region_ent_type": "dsd",
     "values": {
-      "male": 24032,
-      "female": 24356
+      "male": 23375,
+      "female": 24905
     },
-    "total_value": 48388
+    "total_value": 48280
   },
   {
-    "region_id": "LK-4512",
-    "region_name": "Poonakary",
+    "region_id": "LK-3321",
+    "region_name": "Weeraketiya",
     "region_ent_type": "dsd",
     "values": {
-      "male": 23854,
-      "female": 24372
+      "male": 23407,
+      "female": 24834
     },
-    "total_value": 48226
+    "total_value": 48241
+  },
+  {
+    "region_id": "LK-3151",
+    "region_name": "Imaduwa",
+    "region_ent_type": "dsd",
+    "values": {
+      "male": 23107,
+      "female": 25097
+    },
+    "total_value": 48204
   },
   {
     "region_id": "LG-31046",
@@ -7010,24 +5920,24 @@
     "total_value": 48204
   },
   {
-    "region_id": "LK-6115",
-    "region_name": "Kotawehera",
+    "region_id": "LK-3325",
+    "region_name": "Walasmulla",
     "region_ent_type": "dsd",
     "values": {
-      "male": 23194,
-      "female": 24868
+      "male": 23330,
+      "female": 24539
     },
-    "total_value": 48062
+    "total_value": 47869
   },
   {
-    "region_id": "LK-5209",
-    "region_name": "Mahaoya",
+    "region_id": "LK-5215",
+    "region_name": "Ampara",
     "region_ent_type": "dsd",
     "values": {
-      "male": 23754,
-      "female": 23676
+      "male": 23103,
+      "female": 24765
     },
-    "total_value": 47430
+    "total_value": 47868
   },
   {
     "region_id": "LG-22011",
@@ -7040,6 +5950,16 @@
     "total_value": 47381
   },
   {
+    "region_id": "LK-8203",
+    "region_name": "Bibile",
+    "region_ent_type": "dsd",
+    "values": {
+      "male": 22915,
+      "female": 24351
+    },
+    "total_value": 47266
+  },
+  {
     "region_id": "LG-82032",
     "region_name": "Bibila PS",
     "region_ent_type": "lg",
@@ -7048,6 +5968,26 @@
       "female": 24351
     },
     "total_value": 47266
+  },
+  {
+    "region_id": "LK-7145",
+    "region_name": "Thambuththegama",
+    "region_ent_type": "dsd",
+    "values": {
+      "male": 22964,
+      "female": 24097
+    },
+    "total_value": 47061
+  },
+  {
+    "region_id": "LK-3148",
+    "region_name": "Yakkalamulla",
+    "region_ent_type": "dsd",
+    "values": {
+      "male": 22656,
+      "female": 24031
+    },
+    "total_value": 46687
   },
   {
     "region_id": "LG-31045",
@@ -7070,6 +6010,16 @@
     "total_value": 46640
   },
   {
+    "region_id": "LK-8218",
+    "region_name": "Badalkumbura",
+    "region_ent_type": "dsd",
+    "values": {
+      "male": 22894,
+      "female": 23701
+    },
+    "total_value": 46595
+  },
+  {
     "region_id": "LG-82031",
     "region_name": "Badalkumbura PS",
     "region_ent_type": "lg",
@@ -7078,16 +6028,6 @@
       "female": 23701
     },
     "total_value": 46595
-  },
-  {
-    "region_id": "LK-3134",
-    "region_name": "Gonapinuwala",
-    "region_ent_type": "dsd",
-    "values": {
-      "male": 22064,
-      "female": 24478
-    },
-    "total_value": 46542
   },
   {
     "region_id": "LG-23036",
@@ -7110,24 +6050,14 @@
     "total_value": 46153
   },
   {
-    "region_id": "LK-2118",
-    "region_name": "Ududumbara",
+    "region_id": "LK-9224",
+    "region_name": "Bulathkohipitiya",
     "region_ent_type": "dsd",
     "values": {
-      "male": 22826,
-      "female": 23266
+      "male": 21696,
+      "female": 23541
     },
-    "total_value": 46092
-  },
-  {
-    "region_id": "LK-8109",
-    "region_name": "Meegahakiula",
-    "region_ent_type": "dsd",
-    "values": {
-      "male": 22434,
-      "female": 22932
-    },
-    "total_value": 45366
+    "total_value": 45237
   },
   {
     "region_id": "LG-92041",
@@ -7150,6 +6080,16 @@
     "total_value": 45210
   },
   {
+    "region_id": "LK-4106",
+    "region_name": "Valikamam West (Chankanai)",
+    "region_ent_type": "dsd",
+    "values": {
+      "male": 21577,
+      "female": 23583
+    },
+    "total_value": 45160
+  },
+  {
     "region_id": "LG-41041",
     "region_name": "Valikamam West PS",
     "region_ent_type": "lg",
@@ -7158,6 +6098,26 @@
       "female": 23583
     },
     "total_value": 45160
+  },
+  {
+    "region_id": "LK-5236",
+    "region_name": "Akkaraipattu",
+    "region_ent_type": "dsd",
+    "values": {
+      "male": 21075,
+      "female": 23904
+    },
+    "total_value": 44979
+  },
+  {
+    "region_id": "LK-4112",
+    "region_name": "Valikamam North (Thllippalai)",
+    "region_ent_type": "dsd",
+    "values": {
+      "male": 21548,
+      "female": 23366
+    },
+    "total_value": 44914
   },
   {
     "region_id": "LG-41038",
@@ -7170,6 +6130,16 @@
     "total_value": 44914
   },
   {
+    "region_id": "LK-7121",
+    "region_name": "Kahatagasdigiliya",
+    "region_ent_type": "dsd",
+    "values": {
+      "male": 21457,
+      "female": 23446
+    },
+    "total_value": 44903
+  },
+  {
     "region_id": "LG-71035",
     "region_name": "Kahatagasdigiliya PS",
     "region_ent_type": "lg",
@@ -7180,6 +6150,16 @@
     "total_value": 44903
   },
   {
+    "region_id": "LK-5124",
+    "region_name": "Kattankudy",
+    "region_ent_type": "dsd",
+    "values": {
+      "male": 20439,
+      "female": 24355
+    },
+    "total_value": 44794
+  },
+  {
     "region_id": "LG-51021",
     "region_name": "Kattankudy UC",
     "region_ent_type": "lg",
@@ -7188,6 +6168,16 @@
       "female": 24355
     },
     "total_value": 44794
+  },
+  {
+    "region_id": "LK-8209",
+    "region_name": "Medagama",
+    "region_ent_type": "dsd",
+    "values": {
+      "male": 22055,
+      "female": 22559
+    },
+    "total_value": 44614
   },
   {
     "region_id": "LG-82036",
@@ -7208,6 +6198,26 @@
       "female": 23483
     },
     "total_value": 44189
+  },
+  {
+    "region_id": "LK-7130",
+    "region_name": "Mihinthale",
+    "region_ent_type": "dsd",
+    "values": {
+      "male": 20640,
+      "female": 23467
+    },
+    "total_value": 44107
+  },
+  {
+    "region_id": "LK-9233",
+    "region_name": "Deraniyagala",
+    "region_ent_type": "dsd",
+    "values": {
+      "male": 21381,
+      "female": 22624
+    },
+    "total_value": 44005
   },
   {
     "region_id": "LG-92033",
@@ -7240,24 +6250,14 @@
     "total_value": 43825
   },
   {
-    "region_id": "LK-6221",
-    "region_name": "Mahakumbukkadawala",
+    "region_id": "LK-9139",
+    "region_name": "Kahawattha",
     "region_ent_type": "dsd",
     "values": {
-      "male": 21482,
-      "female": 22252
+      "male": 21532,
+      "female": 22176
     },
-    "total_value": 43734
-  },
-  {
-    "region_id": "LK-5216",
-    "region_name": "Navithanveli",
-    "region_ent_type": "dsd",
-    "values": {
-      "male": 20106,
-      "female": 23606
-    },
-    "total_value": 43712
+    "total_value": 43708
   },
   {
     "region_id": "LG-91045",
@@ -7270,6 +6270,46 @@
     "total_value": 43708
   },
   {
+    "region_id": "LK-6224",
+    "region_name": "Anamaduwa",
+    "region_ent_type": "dsd",
+    "values": {
+      "male": 21161,
+      "female": 22365
+    },
+    "total_value": 43526
+  },
+  {
+    "region_id": "LK-6133",
+    "region_name": "Ganewatta",
+    "region_ent_type": "dsd",
+    "values": {
+      "male": 20904,
+      "female": 22527
+    },
+    "total_value": 43431
+  },
+  {
+    "region_id": "LK-6121",
+    "region_name": "Nikaweratiya",
+    "region_ent_type": "dsd",
+    "values": {
+      "male": 20876,
+      "female": 22526
+    },
+    "total_value": 43402
+  },
+  {
+    "region_id": "LK-4127",
+    "region_name": "Vadamaradchi North (Point Pedro)",
+    "region_ent_type": "dsd",
+    "values": {
+      "male": 20308,
+      "female": 23061
+    },
+    "total_value": 43369
+  },
+  {
     "region_id": "LG-91022",
     "region_name": "Embilipitiya UC",
     "region_ent_type": "lg",
@@ -7278,6 +6318,16 @@
       "female": 22028
     },
     "total_value": 43098
+  },
+  {
+    "region_id": "LK-5248",
+    "region_name": "Pottuvil",
+    "region_ent_type": "dsd",
+    "values": {
+      "male": 20726,
+      "female": 22182
+    },
+    "total_value": 42908
   },
   {
     "region_id": "LG-52042",
@@ -7290,6 +6340,26 @@
     "total_value": 42908
   },
   {
+    "region_id": "LK-3227",
+    "region_name": "Kaburupitiya",
+    "region_ent_type": "dsd",
+    "values": {
+      "male": 20232,
+      "female": 22584
+    },
+    "total_value": 42816
+  },
+  {
+    "region_id": "LK-6230",
+    "region_name": "Arachchikattuwa",
+    "region_ent_type": "dsd",
+    "values": {
+      "male": 20727,
+      "female": 22022
+    },
+    "total_value": 42749
+  },
+  {
     "region_id": "LG-53033",
     "region_name": "Kinniya PS",
     "region_ent_type": "lg",
@@ -7298,6 +6368,36 @@
       "female": 21085
     },
     "total_value": 42679
+  },
+  {
+    "region_id": "LK-2315",
+    "region_name": "Ambagamuwa Korale",
+    "region_ent_type": "dsd",
+    "values": {
+      "male": 19982,
+      "female": 22556
+    },
+    "total_value": 42538
+  },
+  {
+    "region_id": "LK-2310",
+    "region_name": "Nildandahinna",
+    "region_ent_type": "dsd",
+    "values": {
+      "male": 20410,
+      "female": 22012
+    },
+    "total_value": 42422
+  },
+  {
+    "region_id": "LK-7160",
+    "region_name": "Ipalogama",
+    "region_ent_type": "dsd",
+    "values": {
+      "male": 19918,
+      "female": 22043
+    },
+    "total_value": 41961
   },
   {
     "region_id": "LG-71034",
@@ -7310,6 +6410,16 @@
     "total_value": 41961
   },
   {
+    "region_id": "LK-2302",
+    "region_name": "Kothmale West",
+    "region_ent_type": "dsd",
+    "values": {
+      "male": 20009,
+      "female": 21946
+    },
+    "total_value": 41955
+  },
+  {
     "region_id": "LG-21021",
     "region_name": "Gampola UC",
     "region_ent_type": "lg",
@@ -7320,14 +6430,14 @@
     "total_value": 41916
   },
   {
-    "region_id": "LK-5206",
-    "region_name": "Padiyathalawa",
+    "region_id": "LK-6151",
+    "region_name": "Maspotha",
     "region_ent_type": "dsd",
     "values": {
-      "male": 20492,
-      "female": 21176
+      "male": 19669,
+      "female": 22204
     },
-    "total_value": 41668
+    "total_value": 41873
   },
   {
     "region_id": "LG-43011",
@@ -7340,6 +6450,26 @@
     "total_value": 41533
   },
   {
+    "region_id": "LK-3137",
+    "region_name": "Rathgama",
+    "region_ent_type": "dsd",
+    "values": {
+      "male": 20052,
+      "female": 21404
+    },
+    "total_value": 41456
+  },
+  {
+    "region_id": "LK-7124",
+    "region_name": "Horowpathana",
+    "region_ent_type": "dsd",
+    "values": {
+      "male": 20134,
+      "female": 21127
+    },
+    "total_value": 41261
+  },
+  {
     "region_id": "LG-71033",
     "region_name": "Horowpothana PS",
     "region_ent_type": "lg",
@@ -7350,14 +6480,14 @@
     "total_value": 41261
   },
   {
-    "region_id": "LK-3233",
-    "region_name": "Kirinda Puhulwella",
+    "region_id": "LK-4121",
+    "region_name": "Vadamaradchchi South-West (Karaveddy)",
     "region_ent_type": "dsd",
     "values": {
-      "male": 19786,
-      "female": 21468
+      "male": 19240,
+      "female": 21862
     },
-    "total_value": 41254
+    "total_value": 41102
   },
   {
     "region_id": "LG-33034",
@@ -7380,6 +6510,16 @@
     "total_value": 40736
   },
   {
+    "region_id": "LK-6139",
+    "region_name": "Kobeigane",
+    "region_ent_type": "dsd",
+    "values": {
+      "male": 19810,
+      "female": 20859
+    },
+    "total_value": 40669
+  },
+  {
     "region_id": "LG-61036",
     "region_name": "Kobeigane PS",
     "region_ent_type": "lg",
@@ -7388,6 +6528,16 @@
       "female": 20859
     },
     "total_value": 40669
+  },
+  {
+    "region_id": "LK-5242",
+    "region_name": "Damana",
+    "region_ent_type": "dsd",
+    "values": {
+      "male": 19809,
+      "female": 20516
+    },
+    "total_value": 40325
   },
   {
     "region_id": "LG-32038",
@@ -7410,24 +6560,14 @@
     "total_value": 40230
   },
   {
-    "region_id": "LK-3327",
-    "region_name": "Okewela",
+    "region_id": "LK-5306",
+    "region_name": "Kuchchaweli",
     "region_ent_type": "dsd",
     "values": {
-      "male": 18856,
-      "female": 21128
+      "male": 19641,
+      "female": 20232
     },
-    "total_value": 39984
-  },
-  {
-    "region_id": "LK-6206",
-    "region_name": "Vanathavilluwa",
-    "region_ent_type": "dsd",
-    "values": {
-      "male": 19516,
-      "female": 20466
-    },
-    "total_value": 39982
+    "total_value": 39873
   },
   {
     "region_id": "LG-53034",
@@ -7438,6 +6578,16 @@
       "female": 20232
     },
     "total_value": 39873
+  },
+  {
+    "region_id": "LK-7118",
+    "region_name": "Rambewa",
+    "region_ent_type": "dsd",
+    "values": {
+      "male": 19449,
+      "female": 20412
+    },
+    "total_value": 39861
   },
   {
     "region_id": "LG-71046",
@@ -7470,6 +6620,16 @@
     "total_value": 39683
   },
   {
+    "region_id": "LK-7209",
+    "region_name": "Lankapura",
+    "region_ent_type": "dsd",
+    "values": {
+      "male": 18971,
+      "female": 20702
+    },
+    "total_value": 39673
+  },
+  {
     "region_id": "LG-72034",
     "region_name": "Lankapura PS",
     "region_ent_type": "lg",
@@ -7490,6 +6650,26 @@
     "total_value": 39585
   },
   {
+    "region_id": "LK-4409",
+    "region_name": "Puthukkudiyiruppu",
+    "region_ent_type": "dsd",
+    "values": {
+      "male": 19023,
+      "female": 20509
+    },
+    "total_value": 39532
+  },
+  {
+    "region_id": "LK-7163",
+    "region_name": "Galnewa",
+    "region_ent_type": "dsd",
+    "values": {
+      "male": 19107,
+      "female": 20351
+    },
+    "total_value": 39458
+  },
+  {
     "region_id": "LG-71032",
     "region_name": "Galnewa PS",
     "region_ent_type": "lg",
@@ -7500,24 +6680,24 @@
     "total_value": 39458
   },
   {
-    "region_id": "LK-4212",
-    "region_name": "Nanaddan",
+    "region_id": "LK-6149",
+    "region_name": "Bamunakotuwa",
     "region_ent_type": "dsd",
     "values": {
-      "male": 19348,
-      "female": 20000
+      "male": 18912,
+      "female": 20530
     },
-    "total_value": 39348
+    "total_value": 39442
   },
   {
-    "region_id": "LK-5227",
-    "region_name": "Karaitivu",
+    "region_id": "LK-8142",
+    "region_name": "Haldummulla",
     "region_ent_type": "dsd",
     "values": {
-      "male": 18422,
-      "female": 20564
+      "male": 19103,
+      "female": 19675
     },
-    "total_value": 38986
+    "total_value": 38778
   },
   {
     "region_id": "LG-81034",
@@ -7528,6 +6708,26 @@
       "female": 19675
     },
     "total_value": 38778
+  },
+  {
+    "region_id": "LK-2103",
+    "region_name": "Tumpane",
+    "region_ent_type": "dsd",
+    "values": {
+      "male": 18515,
+      "female": 20261
+    },
+    "total_value": 38776
+  },
+  {
+    "region_id": "LK-5133",
+    "region_name": "Porativu Pattu",
+    "region_ent_type": "dsd",
+    "values": {
+      "male": 16822,
+      "female": 21805
+    },
+    "total_value": 38627
   },
   {
     "region_id": "LG-51041",
@@ -7550,6 +6750,16 @@
     "total_value": 38487
   },
   {
+    "region_id": "LK-7166",
+    "region_name": "Palagala",
+    "region_ent_type": "dsd",
+    "values": {
+      "male": 18736,
+      "female": 19733
+    },
+    "total_value": 38469
+  },
+  {
     "region_id": "LG-71044",
     "region_name": "Palagala PS",
     "region_ent_type": "lg",
@@ -7558,6 +6768,26 @@
       "female": 19733
     },
     "total_value": 38469
+  },
+  {
+    "region_id": "LK-9127",
+    "region_name": "Elapatha",
+    "region_ent_type": "dsd",
+    "values": {
+      "male": 19138,
+      "female": 19291
+    },
+    "total_value": 38429
+  },
+  {
+    "region_id": "LK-7210",
+    "region_name": "Welikanda",
+    "region_ent_type": "dsd",
+    "values": {
+      "male": 19014,
+      "female": 19182
+    },
+    "total_value": 38196
   },
   {
     "region_id": "LG-72037",
@@ -7590,16 +6820,6 @@
     "total_value": 37823
   },
   {
-    "region_id": "LK-4206",
-    "region_name": "Manthai West",
-    "region_ent_type": "dsd",
-    "values": {
-      "male": 18260,
-      "female": 19088
-    },
-    "total_value": 37348
-  },
-  {
     "region_id": "LG-72011",
     "region_name": "Polonnaruwa MC",
     "region_ent_type": "lg",
@@ -7608,6 +6828,16 @@
       "female": 19138
     },
     "total_value": 37320
+  },
+  {
+    "region_id": "LK-3306",
+    "region_name": "Lunugamwehera",
+    "region_ent_type": "dsd",
+    "values": {
+      "male": 18366,
+      "female": 18557
+    },
+    "total_value": 36923
   },
   {
     "region_id": "LG-33036",
@@ -7630,6 +6860,26 @@
     "total_value": 36830
   },
   {
+    "region_id": "LK-4415",
+    "region_name": "Maritimepattu",
+    "region_ent_type": "dsd",
+    "values": {
+      "male": 17842,
+      "female": 18971
+    },
+    "total_value": 36813
+  },
+  {
+    "region_id": "LK-1315",
+    "region_name": "Madurawala",
+    "region_ent_type": "dsd",
+    "values": {
+      "male": 17764,
+      "female": 18959
+    },
+    "total_value": 36723
+  },
+  {
     "region_id": "LG-13041",
     "region_name": "Madurawala PS",
     "region_ent_type": "lg",
@@ -7650,6 +6900,26 @@
     "total_value": 36625
   },
   {
+    "region_id": "LK-6166",
+    "region_name": "Weerabugedara",
+    "region_ent_type": "dsd",
+    "values": {
+      "male": 17387,
+      "female": 19203
+    },
+    "total_value": 36590
+  },
+  {
+    "region_id": "LK-1333",
+    "region_name": "Agalawatta",
+    "region_ent_type": "dsd",
+    "values": {
+      "male": 17536,
+      "female": 19053
+    },
+    "total_value": 36589
+  },
+  {
     "region_id": "LG-13031",
     "region_name": "Agalawatta PS",
     "region_ent_type": "lg",
@@ -7658,6 +6928,16 @@
       "female": 19053
     },
     "total_value": 36589
+  },
+  {
+    "region_id": "LK-5127",
+    "region_name": "Manmunai Pattu",
+    "region_ent_type": "dsd",
+    "values": {
+      "male": 16945,
+      "female": 19588
+    },
+    "total_value": 36533
   },
   {
     "region_id": "LG-51037",
@@ -7670,6 +6950,16 @@
     "total_value": 36533
   },
   {
+    "region_id": "LK-8206",
+    "region_name": "Madulla",
+    "region_ent_type": "dsd",
+    "values": {
+      "male": 18117,
+      "female": 18329
+    },
+    "total_value": 36446
+  },
+  {
     "region_id": "LG-82035",
     "region_name": "Madulla PS",
     "region_ent_type": "lg",
@@ -7680,44 +6970,14 @@
     "total_value": 36446
   },
   {
-    "region_id": "LK-8227",
-    "region_name": "Katharagama",
+    "region_id": "LK-7142",
+    "region_name": "Rajanganaya",
     "region_ent_type": "dsd",
     "values": {
-      "male": 18400,
-      "female": 17916
+      "male": 17567,
+      "female": 18669
     },
-    "total_value": 36316
-  },
-  {
-    "region_id": "LK-4412",
-    "region_name": "Oddusuddan",
-    "region_ent_type": "dsd",
-    "values": {
-      "male": 17974,
-      "female": 18324
-    },
-    "total_value": 36298
-  },
-  {
-    "region_id": "LK-4215",
-    "region_name": "Musali",
-    "region_ent_type": "dsd",
-    "values": {
-      "male": 18216,
-      "female": 18070
-    },
-    "total_value": 36286
-  },
-  {
-    "region_id": "LK-7157",
-    "region_name": "Palugaswewa",
-    "region_ent_type": "dsd",
-    "values": {
-      "male": 18238,
-      "female": 18038
-    },
-    "total_value": 36276
+    "total_value": 36236
   },
   {
     "region_id": "LG-71045",
@@ -7730,6 +6990,16 @@
     "total_value": 36236
   },
   {
+    "region_id": "LK-3224",
+    "region_name": "Malimbada",
+    "region_ent_type": "dsd",
+    "values": {
+      "male": 17025,
+      "female": 19103
+    },
+    "total_value": 36128
+  },
+  {
     "region_id": "LG-32037",
     "region_name": "Malimbada PS",
     "region_ent_type": "lg",
@@ -7738,6 +7008,16 @@
       "female": 19103
     },
     "total_value": 36128
+  },
+  {
+    "region_id": "LK-3115",
+    "region_name": "Niyagama",
+    "region_ent_type": "dsd",
+    "values": {
+      "male": 17371,
+      "female": 18380
+    },
+    "total_value": 35751
   },
   {
     "region_id": "LG-31043",
@@ -7790,24 +7070,14 @@
     "total_value": 35611
   },
   {
-    "region_id": "LK-5234",
-    "region_name": "Irakkamam",
+    "region_id": "LK-6103",
+    "region_name": "Giribawa",
     "region_ent_type": "dsd",
     "values": {
-      "male": 16870,
-      "female": 18472
+      "male": 17094,
+      "female": 17835
     },
-    "total_value": 35342
-  },
-  {
-    "region_id": "LK-6212",
-    "region_name": "Nawagattegama",
-    "region_ent_type": "dsd",
-    "values": {
-      "male": 17296,
-      "female": 17846
-    },
-    "total_value": 35142
+    "total_value": 34929
   },
   {
     "region_id": "LG-61034",
@@ -7820,6 +7090,36 @@
     "total_value": 34929
   },
   {
+    "region_id": "LK-3236",
+    "region_name": "Thihagoda",
+    "region_ent_type": "dsd",
+    "values": {
+      "male": 16250,
+      "female": 18056
+    },
+    "total_value": 34306
+  },
+  {
+    "region_id": "LK-9145",
+    "region_name": "Weligepola",
+    "region_ent_type": "dsd",
+    "values": {
+      "male": 16987,
+      "female": 17181
+    },
+    "total_value": 34168
+  },
+  {
+    "region_id": "LK-2227",
+    "region_name": "Wilgamuwa",
+    "region_ent_type": "dsd",
+    "values": {
+      "male": 16747,
+      "female": 16968
+    },
+    "total_value": 33715
+  },
+  {
     "region_id": "LG-42031",
     "region_name": "Mannar PS",
     "region_ent_type": "lg",
@@ -7828,6 +7128,16 @@
       "female": 16923
     },
     "total_value": 33652
+  },
+  {
+    "region_id": "LK-5318",
+    "region_name": "Thambalagamuwa",
+    "region_ent_type": "dsd",
+    "values": {
+      "male": 16508,
+      "female": 17128
+    },
+    "total_value": 33636
   },
   {
     "region_id": "LG-53039",
@@ -7840,14 +7150,34 @@
     "total_value": 33636
   },
   {
-    "region_id": "LK-4139",
-    "region_name": "Islands South (Velanai)",
+    "region_id": "LK-9109",
+    "region_name": "Kiriella",
     "region_ent_type": "dsd",
     "values": {
-      "male": 16130,
-      "female": 17070
+      "male": 16571,
+      "female": 17060
     },
-    "total_value": 33200
+    "total_value": 33631
+  },
+  {
+    "region_id": "LK-3135",
+    "region_name": "Madampagama",
+    "region_ent_type": "dsd",
+    "values": {
+      "male": 16011,
+      "female": 17397
+    },
+    "total_value": 33408
+  },
+  {
+    "region_id": "LK-2307",
+    "region_name": "Mathurata",
+    "region_ent_type": "dsd",
+    "values": {
+      "male": 15940,
+      "female": 17235
+    },
+    "total_value": 33175
   },
   {
     "region_id": "LG-22040",
@@ -7870,6 +7200,16 @@
     "total_value": 33046
   },
   {
+    "region_id": "LK-3230",
+    "region_name": "Hakmana",
+    "region_ent_type": "dsd",
+    "values": {
+      "male": 15709,
+      "female": 17276
+    },
+    "total_value": 32985
+  },
+  {
     "region_id": "LG-32034",
     "region_name": "Hakmana PS",
     "region_ent_type": "lg",
@@ -7878,6 +7218,16 @@
       "female": 17276
     },
     "total_value": 32985
+  },
+  {
+    "region_id": "LK-5121",
+    "region_name": "Manmunai West",
+    "region_ent_type": "dsd",
+    "values": {
+      "male": 15905,
+      "female": 16926
+    },
+    "total_value": 32831
   },
   {
     "region_id": "LG-51040",
@@ -7890,6 +7240,16 @@
     "total_value": 32831
   },
   {
+    "region_id": "LK-3215",
+    "region_name": "Athuraliya",
+    "region_ent_type": "dsd",
+    "values": {
+      "male": 15603,
+      "female": 17208
+    },
+    "total_value": 32811
+  },
+  {
     "region_id": "LG-32044",
     "region_name": "Athuraliya PS",
     "region_ent_type": "lg",
@@ -7900,16 +7260,6 @@
     "total_value": 32811
   },
   {
-    "region_id": "LK-2224",
-    "region_name": "Laggala",
-    "region_ent_type": "dsd",
-    "values": {
-      "male": 16640,
-      "female": 15960
-    },
-    "total_value": 32600
-  },
-  {
     "region_id": "LG-81032",
     "region_name": "Bandarawela  PS",
     "region_ent_type": "lg",
@@ -7918,6 +7268,16 @@
       "female": 16892
     },
     "total_value": 32587
+  },
+  {
+    "region_id": "LK-2215",
+    "region_name": "Yatawatta",
+    "region_ent_type": "dsd",
+    "values": {
+      "male": 15636,
+      "female": 16779
+    },
+    "total_value": 32415
   },
   {
     "region_id": "LG-22041",
@@ -7940,14 +7300,24 @@
     "total_value": 32239
   },
   {
-    "region_id": "LK-5330",
-    "region_name": "Seruvila",
+    "region_id": "LK-2148",
+    "region_name": "Deltota",
     "region_ent_type": "dsd",
     "values": {
-      "male": 15622,
-      "female": 16392
+      "male": 14732,
+      "female": 17172
     },
-    "total_value": 32014
+    "total_value": 31904
+  },
+  {
+    "region_id": "LK-8119",
+    "region_name": "Lunugala",
+    "region_ent_type": "dsd",
+    "values": {
+      "male": 15199,
+      "female": 16682
+    },
+    "total_value": 31881
   },
   {
     "region_id": "LG-81045",
@@ -7970,14 +7340,14 @@
     "total_value": 31818
   },
   {
-    "region_id": "LK-2221",
-    "region_name": "Ambanganga",
+    "region_id": "LK-6148",
+    "region_name": "Panduwasnuwara East",
     "region_ent_type": "dsd",
     "values": {
-      "male": 15306,
-      "female": 16446
+      "male": 15304,
+      "female": 16486
     },
-    "total_value": 31752
+    "total_value": 31790
   },
   {
     "region_id": "LK-1103015",
@@ -7991,6 +7361,16 @@
     "in_lk_admin_regions": true
   },
   {
+    "region_id": "LK-2212",
+    "region_name": "Pallepola",
+    "region_ent_type": "dsd",
+    "values": {
+      "male": 15156,
+      "female": 16473
+    },
+    "total_value": 31629
+  },
+  {
     "region_id": "LG-22037",
     "region_name": "Pallepola PS",
     "region_ent_type": "lg",
@@ -7999,6 +7379,56 @@
       "female": 16473
     },
     "total_value": 31629
+  },
+  {
+    "region_id": "LK-5221",
+    "region_name": "Kalmunai North",
+    "region_ent_type": "dsd",
+    "values": {
+      "male": 14355,
+      "female": 17201
+    },
+    "total_value": 31556
+  },
+  {
+    "region_id": "LK-8230",
+    "region_name": "Thanamalwila",
+    "region_ent_type": "dsd",
+    "values": {
+      "male": 15636,
+      "female": 15602
+    },
+    "total_value": 31238
+  },
+  {
+    "region_id": "LK-2134",
+    "region_name": "Hatharaliyadda",
+    "region_ent_type": "dsd",
+    "values": {
+      "male": 15152,
+      "female": 15989
+    },
+    "total_value": 31141
+  },
+  {
+    "region_id": "LK-7151",
+    "region_name": "Thirappane",
+    "region_ent_type": "dsd",
+    "values": {
+      "male": 15315,
+      "female": 15806
+    },
+    "total_value": 31121
+  },
+  {
+    "region_id": "LK-3118",
+    "region_name": "Thawalama",
+    "region_ent_type": "dsd",
+    "values": {
+      "male": 15109,
+      "female": 15880
+    },
+    "total_value": 30989
   },
   {
     "region_id": "LG-31044",
@@ -8011,6 +7441,16 @@
     "total_value": 30989
   },
   {
+    "region_id": "LK-2209",
+    "region_name": "Naula",
+    "region_ent_type": "dsd",
+    "values": {
+      "male": 15142,
+      "female": 15576
+    },
+    "total_value": 30718
+  },
+  {
     "region_id": "LG-22036",
     "region_name": "Naula PS",
     "region_ent_type": "lg",
@@ -8019,6 +7459,16 @@
       "female": 15576
     },
     "total_value": 30718
+  },
+  {
+    "region_id": "LK-5230",
+    "region_name": "Nintavur",
+    "region_ent_type": "dsd",
+    "values": {
+      "male": 13749,
+      "female": 16922
+    },
+    "total_value": 30671
   },
   {
     "region_id": "LG-52040",
@@ -8031,6 +7481,16 @@
     "total_value": 30671
   },
   {
+    "region_id": "LK-5104",
+    "region_name": "Koralai Pattu Central",
+    "region_ent_type": "dsd",
+    "values": {
+      "male": 14751,
+      "female": 15852
+    },
+    "total_value": 30603
+  },
+  {
     "region_id": "LG-12022",
     "region_name": "Ja- Ela UC",
     "region_ent_type": "lg",
@@ -8039,6 +7499,16 @@
       "female": 15815
     },
     "total_value": 30206
+  },
+  {
+    "region_id": "LK-9130",
+    "region_name": "Ayagama",
+    "region_ent_type": "dsd",
+    "values": {
+      "male": 14878,
+      "female": 15066
+    },
+    "total_value": 29944
   },
   {
     "region_id": "LG-91032",
@@ -8051,6 +7521,16 @@
     "total_value": 29944
   },
   {
+    "region_id": "LK-5225",
+    "region_name": "Sainthamaruthu",
+    "region_ent_type": "dsd",
+    "values": {
+      "male": 14054,
+      "female": 15819
+    },
+    "total_value": 29873
+  },
+  {
     "region_id": "EC-10A",
     "region_name": "Kayts",
     "region_ent_type": "pd",
@@ -8059,26 +7539,6 @@
       "female": 15250
     },
     "total_value": 29689
-  },
-  {
-    "region_id": "LK-4306",
-    "region_name": "Vavuniya South",
-    "region_ent_type": "dsd",
-    "values": {
-      "male": 14314,
-      "female": 15370
-    },
-    "total_value": 29684
-  },
-  {
-    "region_id": "LK-4303",
-    "region_name": "Vavuniya North",
-    "region_ent_type": "dsd",
-    "values": {
-      "male": 14622,
-      "female": 14796
-    },
-    "total_value": 29418
   },
   {
     "region_id": "LG-23011",
@@ -8091,6 +7551,16 @@
     "total_value": 29415
   },
   {
+    "region_id": "LK-3130",
+    "region_name": "Welivitiya-Divitura",
+    "region_ent_type": "dsd",
+    "values": {
+      "male": 14133,
+      "female": 15223
+    },
+    "total_value": 29356
+  },
+  {
     "region_id": "LG-31047",
     "region_name": "Welivitiya_Divithura PS",
     "region_ent_type": "lg",
@@ -8099,6 +7569,16 @@
       "female": 15223
     },
     "total_value": 29356
+  },
+  {
+    "region_id": "LK-5245",
+    "region_name": "Tirukkovil",
+    "region_ent_type": "dsd",
+    "values": {
+      "male": 14087,
+      "female": 15165
+    },
+    "total_value": 29252
   },
   {
     "region_id": "LG-52044",
@@ -8121,6 +7601,46 @@
     "total_value": 29139
   },
   {
+    "region_id": "LK-5109",
+    "region_name": "Koralai Pattu",
+    "region_ent_type": "dsd",
+    "values": {
+      "male": 14086,
+      "female": 14676
+    },
+    "total_value": 28762
+  },
+  {
+    "region_id": "LK-6109",
+    "region_name": "Ehetuwewa",
+    "region_ent_type": "dsd",
+    "values": {
+      "male": 13786,
+      "female": 14531
+    },
+    "total_value": 28317
+  },
+  {
+    "region_id": "LK-5110",
+    "region_name": "Koralai Pattu South",
+    "region_ent_type": "dsd",
+    "values": {
+      "male": 13597,
+      "female": 14705
+    },
+    "total_value": 28302
+  },
+  {
+    "region_id": "LK-7136",
+    "region_name": "Nachchaduwa",
+    "region_ent_type": "dsd",
+    "values": {
+      "male": 13634,
+      "female": 14632
+    },
+    "total_value": 28266
+  },
+  {
     "region_id": "LK-1103010",
     "region_name": "Mattakkuliya",
     "region_ent_type": "gnd",
@@ -8130,16 +7650,6 @@
       "female": 14386
     },
     "in_lk_admin_regions": true
-  },
-  {
-    "region_id": "LK-5333",
-    "region_name": "Verugal",
-    "region_ent_type": "dsd",
-    "values": {
-      "male": 13772,
-      "female": 14352
-    },
-    "total_value": 28124
   },
   {
     "region_id": "LG-51035",
@@ -8152,6 +7662,26 @@
     "total_value": 28033
   },
   {
+    "region_id": "LK-6227",
+    "region_name": "Pallama",
+    "region_ent_type": "dsd",
+    "values": {
+      "male": 13415,
+      "female": 14523
+    },
+    "total_value": 27938
+  },
+  {
+    "region_id": "LK-3121",
+    "region_name": "Neluwa",
+    "region_ent_type": "dsd",
+    "values": {
+      "male": 13755,
+      "female": 13991
+    },
+    "total_value": 27746
+  },
+  {
     "region_id": "LG-31042",
     "region_name": "Neluwa PS",
     "region_ent_type": "lg",
@@ -8160,6 +7690,16 @@
       "female": 13991
     },
     "total_value": 27746
+  },
+  {
+    "region_id": "LK-3128",
+    "region_name": "Wanduramba",
+    "region_ent_type": "dsd",
+    "values": {
+      "male": 13375,
+      "female": 14327
+    },
+    "total_value": 27702
   },
   {
     "region_id": "LG-23021",
@@ -8172,14 +7712,24 @@
     "total_value": 27480
   },
   {
-    "region_id": "LK-4124",
-    "region_name": "Vadamaradchchi East",
+    "region_id": "LK-9121",
+    "region_name": "Opanayake",
     "region_ent_type": "dsd",
     "values": {
-      "male": 12944,
-      "female": 14130
+      "male": 13215,
+      "female": 14029
     },
-    "total_value": 27074
+    "total_value": 27244
+  },
+  {
+    "region_id": "LK-8112",
+    "region_name": "Kandeketiya",
+    "region_ent_type": "dsd",
+    "values": {
+      "male": 13291,
+      "female": 13622
+    },
+    "total_value": 26913
   },
   {
     "region_id": "LG-81037",
@@ -8202,6 +7752,16 @@
     "total_value": 26694
   },
   {
+    "region_id": "LK-5130",
+    "region_name": "Manmunai South West",
+    "region_ent_type": "dsd",
+    "values": {
+      "male": 12311,
+      "female": 14365
+    },
+    "total_value": 26676
+  },
+  {
     "region_id": "LG-51039",
     "region_name": "Manmunai South-West PS",
     "region_ent_type": "lg",
@@ -8210,6 +7770,26 @@
       "female": 14365
     },
     "total_value": 26676
+  },
+  {
+    "region_id": "LK-5115",
+    "region_name": "Eravur Town",
+    "region_ent_type": "dsd",
+    "values": {
+      "male": 12218,
+      "female": 14250
+    },
+    "total_value": 26468
+  },
+  {
+    "region_id": "LK-7106",
+    "region_name": "Kebithigollewa",
+    "region_ent_type": "dsd",
+    "values": {
+      "male": 13144,
+      "female": 13288
+    },
+    "total_value": 26432
   },
   {
     "region_id": "LG-71036",
@@ -8242,6 +7822,16 @@
     "total_value": 26322
   },
   {
+    "region_id": "LK-6209",
+    "region_name": "Karuwalagaswewa",
+    "region_ent_type": "dsd",
+    "values": {
+      "male": 12961,
+      "female": 13264
+    },
+    "total_value": 26225
+  },
+  {
     "region_id": "LG-62035",
     "region_name": "Karuwalagaswewa PS",
     "region_ent_type": "lg",
@@ -8250,6 +7840,16 @@
       "female": 13264
     },
     "total_value": 26225
+  },
+  {
+    "region_id": "LK-3136",
+    "region_name": "Hikkaduwa",
+    "region_ent_type": "dsd",
+    "values": {
+      "male": 12570,
+      "female": 13646
+    },
+    "total_value": 26216
   },
   {
     "region_id": "LG-31022",
@@ -8262,26 +7862,6 @@
     "total_value": 26216
   },
   {
-    "region_id": "LK-4503",
-    "region_name": "Pachchilaipalli",
-    "region_ent_type": "dsd",
-    "values": {
-      "male": 12660,
-      "female": 13430
-    },
-    "total_value": 26090
-  },
-  {
-    "region_id": "LK-9119",
-    "region_name": "Kalthota",
-    "region_ent_type": "dsd",
-    "values": {
-      "male": 12880,
-      "female": 13156
-    },
-    "total_value": 26036
-  },
-  {
     "region_id": "LG-61011",
     "region_name": "Kurunegala MC",
     "region_ent_type": "lg",
@@ -8290,6 +7870,16 @@
       "female": 13287
     },
     "total_value": 25981
+  },
+  {
+    "region_id": "LK-4312",
+    "region_name": "Vengalacheddikulam",
+    "region_ent_type": "dsd",
+    "values": {
+      "male": 12458,
+      "female": 13312
+    },
+    "total_value": 25770
   },
   {
     "region_id": "LG-43034",
@@ -8312,6 +7902,16 @@
     "total_value": 25727
   },
   {
+    "region_id": "LK-2115",
+    "region_name": "Panvila",
+    "region_ent_type": "dsd",
+    "values": {
+      "male": 12295,
+      "female": 13355
+    },
+    "total_value": 25650
+  },
+  {
     "region_id": "LG-21038",
     "region_name": "Panvila PS",
     "region_ent_type": "lg",
@@ -8322,6 +7922,26 @@
     "total_value": 25650
   },
   {
+    "region_id": "LK-6112",
+    "region_name": "Ambanpola",
+    "region_ent_type": "dsd",
+    "values": {
+      "male": 12306,
+      "female": 13209
+    },
+    "total_value": 25515
+  },
+  {
+    "region_id": "LK-5103",
+    "region_name": "Koralai Pattu North",
+    "region_ent_type": "dsd",
+    "values": {
+      "male": 12494,
+      "female": 12981
+    },
+    "total_value": 25475
+  },
+  {
     "region_id": "LG-42032",
     "region_name": "Manthai West PS",
     "region_ent_type": "lg",
@@ -8330,6 +7950,36 @@
       "female": 12873
     },
     "total_value": 25264
+  },
+  {
+    "region_id": "LK-4506",
+    "region_name": "Kandavalai",
+    "region_ent_type": "dsd",
+    "values": {
+      "male": 12025,
+      "female": 12896
+    },
+    "total_value": 24921
+  },
+  {
+    "region_id": "LK-6118",
+    "region_name": "Rasnayakapura",
+    "region_ent_type": "dsd",
+    "values": {
+      "male": 12084,
+      "female": 12828
+    },
+    "total_value": 24912
+  },
+  {
+    "region_id": "LK-5239",
+    "region_name": "Alayadivembu",
+    "region_ent_type": "dsd",
+    "values": {
+      "male": 11868,
+      "female": 12970
+    },
+    "total_value": 24838
   },
   {
     "region_id": "LG-52032",
@@ -8352,6 +8002,16 @@
     "total_value": 24669
   },
   {
+    "region_id": "LK-5106",
+    "region_name": "Koralai Pattu West",
+    "region_ent_type": "dsd",
+    "values": {
+      "male": 11670,
+      "female": 12913
+    },
+    "total_value": 24583
+  },
+  {
     "region_id": "LG-12025",
     "region_name": "Peliyagoda UC",
     "region_ent_type": "lg",
@@ -8360,6 +8020,16 @@
       "female": 11764
     },
     "total_value": 24503
+  },
+  {
+    "region_id": "LK-7103",
+    "region_name": "Padaviya",
+    "region_ent_type": "dsd",
+    "values": {
+      "male": 11888,
+      "female": 12605
+    },
+    "total_value": 24493
   },
   {
     "region_id": "LG-71043",
@@ -8372,6 +8042,16 @@
     "total_value": 24493
   },
   {
+    "region_id": "LK-8115",
+    "region_name": "Soranathota",
+    "region_ent_type": "dsd",
+    "values": {
+      "male": 11780,
+      "female": 12627
+    },
+    "total_value": 24407
+  },
+  {
     "region_id": "LG-81042",
     "region_name": "Soranathota PS",
     "region_ent_type": "lg",
@@ -8382,14 +8062,14 @@
     "total_value": 24407
   },
   {
-    "region_id": "LK-5303",
-    "region_name": "Padavi Sri Pura",
+    "region_id": "LK-7112",
+    "region_name": "Mahawilachchiya",
     "region_ent_type": "dsd",
     "values": {
-      "male": 11836,
-      "female": 12326
+      "male": 12016,
+      "female": 12178
     },
-    "total_value": 24162
+    "total_value": 24194
   },
   {
     "region_id": "LG-42021",
@@ -8402,6 +8082,16 @@
     "total_value": 24120
   },
   {
+    "region_id": "LK-4512",
+    "region_name": "Poonakary",
+    "region_ent_type": "dsd",
+    "values": {
+      "male": 11927,
+      "female": 12186
+    },
+    "total_value": 24113
+  },
+  {
     "region_id": "LG-45033",
     "region_name": "Poonagari PS",
     "region_ent_type": "lg",
@@ -8410,6 +8100,16 @@
       "female": 12186
     },
     "total_value": 24113
+  },
+  {
+    "region_id": "LK-6115",
+    "region_name": "Kotawehera",
+    "region_ent_type": "dsd",
+    "values": {
+      "male": 11597,
+      "female": 12434
+    },
+    "total_value": 24031
   },
   {
     "region_id": "LG-23022",
@@ -8422,6 +8122,16 @@
     "total_value": 23731
   },
   {
+    "region_id": "LK-5209",
+    "region_name": "Mahaoya",
+    "region_ent_type": "dsd",
+    "values": {
+      "male": 11877,
+      "female": 11838
+    },
+    "total_value": 23715
+  },
+  {
     "region_id": "LG-52038",
     "region_name": "Mahaoya PS",
     "region_ent_type": "lg",
@@ -8430,6 +8140,26 @@
       "female": 11838
     },
     "total_value": 23715
+  },
+  {
+    "region_id": "LK-3134",
+    "region_name": "Gonapinuwala",
+    "region_ent_type": "dsd",
+    "values": {
+      "male": 11032,
+      "female": 12239
+    },
+    "total_value": 23271
+  },
+  {
+    "region_id": "LK-2118",
+    "region_name": "Ududumbara",
+    "region_ent_type": "dsd",
+    "values": {
+      "male": 11413,
+      "female": 11633
+    },
+    "total_value": 23046
   },
   {
     "region_id": "LG-21044",
@@ -8452,6 +8182,16 @@
     "total_value": 22921
   },
   {
+    "region_id": "LK-8109",
+    "region_name": "Meegahakiula",
+    "region_ent_type": "dsd",
+    "values": {
+      "male": 11217,
+      "female": 11466
+    },
+    "total_value": 22683
+  },
+  {
     "region_id": "LG-81039",
     "region_name": "Meegahaivula PS",
     "region_ent_type": "lg",
@@ -8470,6 +8210,26 @@
       "female": 11477
     },
     "total_value": 22577
+  },
+  {
+    "region_id": "LK-6221",
+    "region_name": "Mahakumbukkadawala",
+    "region_ent_type": "dsd",
+    "values": {
+      "male": 10741,
+      "female": 11126
+    },
+    "total_value": 21867
+  },
+  {
+    "region_id": "LK-5216",
+    "region_name": "Navithanveli",
+    "region_ent_type": "dsd",
+    "values": {
+      "male": 10053,
+      "female": 11803
+    },
+    "total_value": 21856
   },
   {
     "region_id": "LG-52047",
@@ -8513,6 +8273,16 @@
     "total_value": 21201
   },
   {
+    "region_id": "LK-5206",
+    "region_name": "Padiyathalawa",
+    "region_ent_type": "dsd",
+    "values": {
+      "male": 10246,
+      "female": 10588
+    },
+    "total_value": 20834
+  },
+  {
     "region_id": "LG-52041",
     "region_name": "Padiyathalawa  PS",
     "region_ent_type": "lg",
@@ -8523,24 +8293,14 @@
     "total_value": 20834
   },
   {
-    "region_id": "LK-5251",
-    "region_name": "Lahugala",
+    "region_id": "LK-3233",
+    "region_name": "Kirinda Puhulwella",
     "region_ent_type": "dsd",
     "values": {
-      "male": 10342,
-      "female": 10490
+      "male": 9893,
+      "female": 10734
     },
-    "total_value": 20832
-  },
-  {
-    "region_id": "LK-4403",
-    "region_name": "Thunukkai",
-    "region_ent_type": "dsd",
-    "values": {
-      "male": 10076,
-      "female": 10744
-    },
-    "total_value": 20820
+    "total_value": 20627
   },
   {
     "region_id": "LG-32045",
@@ -8563,16 +8323,6 @@
     "total_value": 20148
   },
   {
-    "region_id": "LK-4418",
-    "region_name": "Welioya",
-    "region_ent_type": "dsd",
-    "values": {
-      "male": 10058,
-      "female": 10072
-    },
-    "total_value": 20130
-  },
-  {
     "region_id": "LG-31021",
     "region_name": "Ambalangoda UC",
     "region_ent_type": "lg",
@@ -8581,6 +8331,26 @@
       "female": 10637
     },
     "total_value": 20056
+  },
+  {
+    "region_id": "LK-3327",
+    "region_name": "Okewela",
+    "region_ent_type": "dsd",
+    "values": {
+      "male": 9428,
+      "female": 10564
+    },
+    "total_value": 19992
+  },
+  {
+    "region_id": "LK-6206",
+    "region_name": "Vanathavilluwa",
+    "region_ent_type": "dsd",
+    "values": {
+      "male": 9758,
+      "female": 10233
+    },
+    "total_value": 19991
   },
   {
     "region_id": "LG-62039",
@@ -8593,14 +8363,24 @@
     "total_value": 19991
   },
   {
-    "region_id": "LK-4103",
-    "region_name": "Islands North (Kayts)",
+    "region_id": "LK-4212",
+    "region_name": "Nanaddan",
     "region_ent_type": "dsd",
     "values": {
-      "male": 9608,
-      "female": 10254
+      "male": 9674,
+      "female": 10000
     },
-    "total_value": 19862
+    "total_value": 19674
+  },
+  {
+    "region_id": "LK-5227",
+    "region_name": "Karaitivu",
+    "region_ent_type": "dsd",
+    "values": {
+      "male": 9211,
+      "female": 10282
+    },
+    "total_value": 19493
   },
   {
     "region_id": "LG-52046",
@@ -8613,34 +8393,24 @@
     "total_value": 19493
   },
   {
-    "region_id": "LK-4209",
-    "region_name": "Madhu",
+    "region_id": "LK-4206",
+    "region_name": "Manthai West",
     "region_ent_type": "dsd",
     "values": {
-      "male": 9374,
-      "female": 9612
+      "male": 9130,
+      "female": 9544
     },
-    "total_value": 18986
+    "total_value": 18674
   },
   {
-    "region_id": "LK-5312",
-    "region_name": "Morawewa",
+    "region_id": "LK-8227",
+    "region_name": "Katharagama",
     "region_ent_type": "dsd",
     "values": {
-      "male": 9236,
-      "female": 9150
+      "male": 9200,
+      "female": 8958
     },
-    "total_value": 18386
-  },
-  {
-    "region_id": "LK-4104",
-    "region_name": "Karainagar",
-    "region_ent_type": "dsd",
-    "values": {
-      "male": 8556,
-      "female": 9706
-    },
-    "total_value": 18262
+    "total_value": 18158
   },
   {
     "region_id": "LG-82034",
@@ -8653,6 +8423,26 @@
     "total_value": 18158
   },
   {
+    "region_id": "LK-4412",
+    "region_name": "Oddusuddan",
+    "region_ent_type": "dsd",
+    "values": {
+      "male": 8987,
+      "female": 9162
+    },
+    "total_value": 18149
+  },
+  {
+    "region_id": "LK-4215",
+    "region_name": "Musali",
+    "region_ent_type": "dsd",
+    "values": {
+      "male": 9108,
+      "female": 9035
+    },
+    "total_value": 18143
+  },
+  {
     "region_id": "LG-42033",
     "region_name": "Musali PS",
     "region_ent_type": "lg",
@@ -8661,6 +8451,16 @@
       "female": 9035
     },
     "total_value": 18143
+  },
+  {
+    "region_id": "LK-7157",
+    "region_name": "Palugaswewa",
+    "region_ent_type": "dsd",
+    "values": {
+      "male": 9119,
+      "female": 9019
+    },
+    "total_value": 18138
   },
   {
     "region_id": "LK-1127085",
@@ -8674,6 +8474,16 @@
     "in_lk_admin_regions": true
   },
   {
+    "region_id": "LK-5234",
+    "region_name": "Irakkamam",
+    "region_ent_type": "dsd",
+    "values": {
+      "male": 8435,
+      "female": 9236
+    },
+    "total_value": 17671
+  },
+  {
     "region_id": "LG-52048",
     "region_name": "Irakkamam PS",
     "region_ent_type": "lg",
@@ -8682,6 +8492,16 @@
       "female": 9236
     },
     "total_value": 17671
+  },
+  {
+    "region_id": "LK-6212",
+    "region_name": "Nawagattegama",
+    "region_ent_type": "dsd",
+    "values": {
+      "male": 8648,
+      "female": 8923
+    },
+    "total_value": 17571
   },
   {
     "region_id": "LG-62037",
@@ -8737,14 +8557,14 @@
     "total_value": 16847
   },
   {
-    "region_id": "LK-5309",
-    "region_name": "Gomarankadawala",
+    "region_id": "LK-4139",
+    "region_name": "Islands South (Velanai)",
     "region_ent_type": "dsd",
     "values": {
-      "male": 8326,
-      "female": 8470
+      "male": 8065,
+      "female": 8535
     },
-    "total_value": 16796
+    "total_value": 16600
   },
   {
     "region_id": "LG-41042",
@@ -8765,6 +8585,16 @@
       "female": 8631
     },
     "total_value": 16305
+  },
+  {
+    "region_id": "LK-2224",
+    "region_name": "Laggala",
+    "region_ent_type": "dsd",
+    "values": {
+      "male": 8320,
+      "female": 7980
+    },
+    "total_value": 16300
   },
   {
     "region_id": "LG-21024",
@@ -8819,6 +8649,16 @@
     "in_lk_admin_regions": true
   },
   {
+    "region_id": "LK-5330",
+    "region_name": "Seruvila",
+    "region_ent_type": "dsd",
+    "values": {
+      "male": 7811,
+      "female": 8196
+    },
+    "total_value": 16007
+  },
+  {
     "region_id": "LG-53038",
     "region_name": "Seruvila PS",
     "region_ent_type": "lg",
@@ -8829,6 +8669,16 @@
     "total_value": 16007
   },
   {
+    "region_id": "LK-2221",
+    "region_name": "Ambanganga",
+    "region_ent_type": "dsd",
+    "values": {
+      "male": 7653,
+      "female": 8223
+    },
+    "total_value": 15876
+  },
+  {
     "region_id": "LG-22031",
     "region_name": "Ambanganga Korale PS",
     "region_ent_type": "lg",
@@ -8837,16 +8687,6 @@
       "female": 8223
     },
     "total_value": 15876
-  },
-  {
-    "region_id": "LK-4406",
-    "region_name": "Manthai East",
-    "region_ent_type": "dsd",
-    "values": {
-      "male": 7598,
-      "female": 7702
-    },
-    "total_value": 15300
   },
   {
     "region_id": "LG-51007",
@@ -8870,6 +8710,16 @@
     "in_lk_admin_regions": true
   },
   {
+    "region_id": "LK-4306",
+    "region_name": "Vavuniya South",
+    "region_ent_type": "dsd",
+    "values": {
+      "male": 7157,
+      "female": 7685
+    },
+    "total_value": 14842
+  },
+  {
     "region_id": "LG-43032",
     "region_name": "Vavuniya South (Sinhala) PS",
     "region_ent_type": "lg",
@@ -8878,6 +8728,16 @@
       "female": 7685
     },
     "total_value": 14842
+  },
+  {
+    "region_id": "LK-4303",
+    "region_name": "Vavuniya North",
+    "region_ent_type": "dsd",
+    "values": {
+      "male": 7311,
+      "female": 7398
+    },
+    "total_value": 14709
   },
   {
     "region_id": "LG-43031",
@@ -8899,6 +8759,16 @@
       "female": 7044
     },
     "in_lk_admin_regions": true
+  },
+  {
+    "region_id": "LK-5333",
+    "region_name": "Verugal",
+    "region_ent_type": "dsd",
+    "values": {
+      "male": 6886,
+      "female": 7176
+    },
+    "total_value": 14062
   },
   {
     "region_id": "LG-53041",
@@ -8933,6 +8803,16 @@
     "in_lk_admin_regions": true
   },
   {
+    "region_id": "LK-4124",
+    "region_name": "Vadamaradchchi East",
+    "region_ent_type": "dsd",
+    "values": {
+      "male": 6472,
+      "female": 7065
+    },
+    "total_value": 13537
+  },
+  {
     "region_id": "LK-1218135",
     "region_name": "Kerawalapitiya",
     "region_ent_type": "gnd",
@@ -8942,6 +8822,16 @@
       "female": 6894
     },
     "in_lk_admin_regions": true
+  },
+  {
+    "region_id": "LK-4503",
+    "region_name": "Pachchilaipalli",
+    "region_ent_type": "dsd",
+    "values": {
+      "male": 6330,
+      "female": 6715
+    },
+    "total_value": 13045
   },
   {
     "region_id": "LG-45032",
@@ -8954,6 +8844,16 @@
     "total_value": 13045
   },
   {
+    "region_id": "LK-9119",
+    "region_name": "Kalthota",
+    "region_ent_type": "dsd",
+    "values": {
+      "male": 6440,
+      "female": 6578
+    },
+    "total_value": 13018
+  },
+  {
     "region_id": "LK-1103095",
     "region_name": "Khettarama",
     "region_ent_type": "gnd",
@@ -8963,6 +8863,16 @@
       "female": 6464
     },
     "in_lk_admin_regions": true
+  },
+  {
+    "region_id": "LK-5303",
+    "region_name": "Padavi Sri Pura",
+    "region_ent_type": "dsd",
+    "values": {
+      "male": 5918,
+      "female": 6163
+    },
+    "total_value": 12081
   },
   {
     "region_id": "LG-53037",
@@ -9127,6 +9037,16 @@
     "in_lk_admin_regions": true
   },
   {
+    "region_id": "LK-5251",
+    "region_name": "Lahugala",
+    "region_ent_type": "dsd",
+    "values": {
+      "male": 5171,
+      "female": 5245
+    },
+    "total_value": 10416
+  },
+  {
     "region_id": "LG-52037",
     "region_name": "Lahugala PS",
     "region_ent_type": "lg",
@@ -9135,6 +9055,16 @@
       "female": 5245
     },
     "total_value": 10416
+  },
+  {
+    "region_id": "LK-4403",
+    "region_name": "Thunukkai",
+    "region_ent_type": "dsd",
+    "values": {
+      "male": 5038,
+      "female": 5372
+    },
+    "total_value": 10410
   },
   {
     "region_id": "LG-44044",
@@ -9190,6 +9120,16 @@
     "in_lk_admin_regions": true
   },
   {
+    "region_id": "LK-4418",
+    "region_name": "Welioya",
+    "region_ent_type": "dsd",
+    "values": {
+      "male": 5029,
+      "female": 5036
+    },
+    "total_value": 10065
+  },
+  {
     "region_id": "LK-1218175",
     "region_name": "Welikadamulla",
     "region_ent_type": "gnd",
@@ -9199,6 +9139,16 @@
       "female": 5095
     },
     "in_lk_admin_regions": true
+  },
+  {
+    "region_id": "LK-4103",
+    "region_name": "Islands North (Kayts)",
+    "region_ent_type": "dsd",
+    "values": {
+      "male": 4804,
+      "female": 5127
+    },
+    "total_value": 9931
   },
   {
     "region_id": "LG-41033",
@@ -9231,6 +9181,16 @@
       "female": 4834
     },
     "in_lk_admin_regions": true
+  },
+  {
+    "region_id": "LK-4209",
+    "region_name": "Madhu",
+    "region_ent_type": "dsd",
+    "values": {
+      "male": 4687,
+      "female": 4806
+    },
+    "total_value": 9493
   },
   {
     "region_id": "LK-1109150",
@@ -9266,6 +9226,16 @@
     "in_lk_admin_regions": true
   },
   {
+    "region_id": "LK-5312",
+    "region_name": "Morawewa",
+    "region_ent_type": "dsd",
+    "values": {
+      "male": 4618,
+      "female": 4575
+    },
+    "total_value": 9193
+  },
+  {
     "region_id": "LG-53035",
     "region_name": "Morawewa PS",
     "region_ent_type": "lg",
@@ -9285,6 +9255,16 @@
       "female": 4815
     },
     "in_lk_admin_regions": true
+  },
+  {
+    "region_id": "LK-4104",
+    "region_name": "Karainagar",
+    "region_ent_type": "dsd",
+    "values": {
+      "male": 4278,
+      "female": 4853
+    },
+    "total_value": 9131
   },
   {
     "region_id": "LG-41043",
@@ -9437,6 +9417,16 @@
       "female": 4245
     },
     "in_lk_admin_regions": true
+  },
+  {
+    "region_id": "LK-5309",
+    "region_name": "Gomarankadawala",
+    "region_ent_type": "dsd",
+    "values": {
+      "male": 4163,
+      "female": 4235
+    },
+    "total_value": 8398
   },
   {
     "region_id": "LG-53031",
@@ -9752,6 +9742,16 @@
       "female": 4194
     },
     "total_value": 7667
+  },
+  {
+    "region_id": "LK-4406",
+    "region_name": "Manthai East",
+    "region_ent_type": "dsd",
+    "values": {
+      "male": 3799,
+      "female": 3851
+    },
+    "total_value": 7650
   },
   {
     "region_id": "LG-44041",
@@ -10748,16 +10748,6 @@
       "female": 3214
     },
     "in_lk_admin_regions": true
-  },
-  {
-    "region_id": "LK-4142",
-    "region_name": "Delft",
-    "region_ent_type": "dsd",
-    "values": {
-      "male": 3140,
-      "female": 3176
-    },
-    "total_value": 6316
   },
   {
     "region_id": "LK-1106005",
@@ -21759,6 +21749,16 @@
       "female": 1691
     },
     "in_lk_admin_regions": true
+  },
+  {
+    "region_id": "LK-4142",
+    "region_name": "Delft",
+    "region_ent_type": "dsd",
+    "values": {
+      "male": 1570,
+      "female": 1588
+    },
+    "total_value": 3158
   },
   {
     "region_id": "LG-41032",
