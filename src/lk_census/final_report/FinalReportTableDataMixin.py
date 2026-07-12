@@ -77,11 +77,14 @@ class FinalReportTableDataMixin:
             "person",
             "province",
             "residence",
+            "sector",
             "sri lanka",
             "term",
             "total",
             "usual",
             "year",
+            "urban",
+            "rural",
         ]:
             if keyword in raw_data[0].lower():
                 return None
