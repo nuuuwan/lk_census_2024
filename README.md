@@ -1,7 +1,7 @@
 # 🇱🇰 Sri Lanka - Census of Population and Housing 2024
 
 ![CPH](https://img.shields.io/badge/CPH-2024-blue)
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--07--12_16:07:14-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--07--12_16:08:20-green)
 
 **154** Datasets on Population, Housing and more, by Country, Province, District, Divisional Secretariat Division (DSD), Grama Niladhari Division (GND), Electoral District (ED), Polling Division (PD), and Local Government Authority (LG) levels.
 
@@ -28,77 +28,156 @@
 - [https://www.statistics.gov.lk/Resource/en/Population/CPH_2024/CPH2024_Final_Eng.pdf](https://www.statistics.gov.lk/Resource/en/Population/CPH_2024/CPH2024_Final_Eng.pdf) (Table 2.1)
 
 ## 14. [Population Density by District, 1981, 2001, 2012 and 2024](data/final-report-tables/chapter-3/3.4-Population-Density-by-District,-1981,-2001,-2012-and-2024)
-*🔴 Table was detected in PDF, but not parsed into textual data.*
+*🟠 Raw Text Data was extracted from PDF, but not parsed into structured data.*
 
-### Original Table
+### Raw Data (first 10 rows)
 
-![3.4-Population-Density-by-District,-1981,-2001,-2012-and-2024](data/final-report-tables/chapter-3/3.4-Population-Density-by-District,-1981,-2001,-2012-and-2024/original.png)
+| Col 1 |
+| :-- |
+| Census of Population and Housing  - 2024 |
+| 3.4 Population density |
+| To identify districts where the population is highly concentrated, it is necessary to examine the distribution |
+| of the population in relation to land area. In other words, the number of persons living per square kilometer |
+| of land area namely, population density should be analyzed. The population densities calculated by district |
+| for the census years 1981, 2001, 2012, and 2024 are presented in Table 3.4. |
+|  |
+| District |
+|  |
+| Sri Lanka |
 
 ### Source
 
 - [https://www.statistics.gov.lk/Resource/en/Population/CPH_2024/CPH2024_Final_Eng.pdf](https://www.statistics.gov.lk/Resource/en/Population/CPH_2024/CPH2024_Final_Eng.pdf) (Table 3.4)
 
 ## 15. [Population Distribution by District and Sector, 2024](data/final-report-tables/chapter-3/3.6-Population-Distribution-by-District-and-Sector,-2024)
-*🔴 Table was detected in PDF, but not parsed into textual data.*
+*🟠 Raw Text Data was extracted from PDF, but not parsed into structured data.*
 
-### Original Table
+### Raw Data (first 10 rows)
 
-![3.6-Population-Distribution-by-District-and-Sector,-2024](data/final-report-tables/chapter-3/3.6-Population-Distribution-by-District-and-Sector,-2024/original.png)
+| Col 1 |
+| :-- |
+| Census of Population and Housing  - 2024 |
+| In the Census of Population and Housing -2012, the areas referred to as the Estate Sector correspond to |
+| what is identified as the Estate Rural sector in 2024. In 2012, the Estate Rural Sector population accounted |
+| for 4.4 percent of the total population, while in the 2024 Census this percentage has declined to 4 percent. |
+| Furthermore, most of the population in Sri Lanka resides in the Rural sector, accounting for 78.5 percent |
+| of the total population. This represents an increase of 1.1 percentage points compared to the population |
+| District |
+| Number |
+| Sri Lanka 
+21,781,800 |
+| Colombo 
+2,375,415 |
 
 ### Source
 
 - [https://www.statistics.gov.lk/Resource/en/Population/CPH_2024/CPH2024_Final_Eng.pdf](https://www.statistics.gov.lk/Resource/en/Population/CPH_2024/CPH2024_Final_Eng.pdf) (Table 3.6)
 
 ## 16. [Lifetime Migrants by District of Dirth and District of Usual Residence,](data/final-report-tables/chapter-5/5.1.1-Lifetime-Migrants-by-District-of-Dirth-and-District-of-Usual-Residence,)
-*🔴 Table was detected in PDF, but not parsed into textual data.*
+*🟠 Raw Text Data was extracted from PDF, but not parsed into structured data.*
 
-### Original Table
+### Raw Data (first 10 rows)
 
-![5.1.1-Lifetime-Migrants-by-District-of-Dirth-and-District-of-Usual-Residence,](data/final-report-tables/chapter-5/5.1.1-Lifetime-Migrants-by-District-of-Dirth-and-District-of-Usual-Residence,/original.png)
+| Col 1 |
+| :-- |
+| Census of Population and Housing  - 2024 |
+| migrated back to the district of birth at the time of the census. Accordingly, if a person's district of birth and |
+| district of usual residence are the same at the time of the census, he or she is defined as a life-time non- |
+| migrant. |
+| Net Migration Rate |
+| The  'Net  Migration  Rate'  is  defined  as  the  number of  net  migrants  per  thousand  of the  usually  resident |
+| population in a district. A positive net migration rate indicates that in-migration to the district is relatively |
+| higher, whereas a negative value indicates that out-migration from the district is relatively higher. |
+| Lifetime Migration Effectiveness Ratio (LMER) |
+| The LMER is a demographic indicator that measures the “efficiency” or net impact of migration flows into |
 
 ### Source
 
 - [https://www.statistics.gov.lk/Resource/en/Population/CPH_2024/CPH2024_Final_Eng.pdf](https://www.statistics.gov.lk/Resource/en/Population/CPH_2024/CPH2024_Final_Eng.pdf) (Table 5.1.1)
 
 ## 17. [In, Out and Net Lifetime Migrants by District, 2024](data/final-report-tables/chapter-5/5.1.2-In,-Out-and-Net-Lifetime-Migrants-by-District,-2024)
-*🔴 Table was detected in PDF, but not parsed into textual data.*
+*🟠 Raw Text Data was extracted from PDF, but not parsed into structured data.*
 
-### Original Table
+### Raw Data (first 10 rows)
 
-![5.1.2-In,-Out-and-Net-Lifetime-Migrants-by-District,-2024](data/final-report-tables/chapter-5/5.1.2-In,-Out-and-Net-Lifetime-Migrants-by-District,-2024/original.png)
+| Col 1 | Col 2 | Col 3 | Col 4 | Col 5 |
+| :-- | :-- | :-- | :-- | :-- |
+|  |  |  |  | Migration |
+|  | Lifetime | Lifetime | Lifetime |  |
+|  |  |  |  | Effectiveness Ratio |
+| District | In-migrants | Out-migrants | Net-migrants |  |
+|  | (1) | (2) | (1) - (2) = (3) | ((3)/ (1) +(2)) *100 |
+| Colombo | 491,236 | 299,712 | +191,524 | 24.2 |
+| Gampaha | 490,861 | 133,333 | +357,528 | 57.3 |
+| Kalutara | 180,877 | 118,645 | +62,232 | 20.8 |
+| Kandy | 157,921 | 282,795 | -124,874 | -28.3 |
+| Matale | 78,262 | 100,663 | -22,401 | -12.5 |
 
 ### Source
 
 - [https://www.statistics.gov.lk/Resource/en/Population/CPH_2024/CPH2024_Final_Eng.pdf](https://www.statistics.gov.lk/Resource/en/Population/CPH_2024/CPH2024_Final_Eng.pdf) (Table 5.1.2)
 
 ## 18. [In-migration, Out-migration, and Net Migration by District,](data/final-report-tables/chapter-5/5.1.5-In-migration,-Out-migration,-and-Net-Migration-by-District,)
-*🔴 Table was detected in PDF, but not parsed into textual data.*
+*🟠 Raw Text Data was extracted from PDF, but not parsed into structured data.*
 
-### Original Table
+### Raw Data (first 10 rows)
 
-![5.1.5-In-migration,-Out-migration,-and-Net-Migration-by-District,](data/final-report-tables/chapter-5/5.1.5-In-migration,-Out-migration,-and-Net-Migration-by-District,/original.png)
+| Col 1 | Col 2 | Col 3 | Col 4 |
+| :-- | :-- | :-- | :-- |
+|  | Table 5.1.5 : In-migration, Out-migration, and Net Migration by District, 2024 |  |  |
+| District | In migration | Out migration | Net migration |
+| Colombo | 519,379 | 384,245 | +135,134 |
+| Gampaha | 524,737 | 155,712 | +369,025 |
+| Kalutara | 192,833 | 126,566 | +66,267 |
+| Kandy | 172,489 | 287,823 | -115,334 |
+| Matale | 82,805 | 105,145 | -22,340 |
+| Nuwara Eliya | 60,934 | 169,381 | -108,447 |
+| Galle | 95,154 | 183,490 | -88,336 |
+| Matara | 95,958 | 202,894 | -106,936 |
 
 ### Source
 
 - [https://www.statistics.gov.lk/Resource/en/Population/CPH_2024/CPH2024_Final_Eng.pdf](https://www.statistics.gov.lk/Resource/en/Population/CPH_2024/CPH2024_Final_Eng.pdf) (Table 5.1.5)
 
 ## 19. [Distribution of the Usually Resident Population of a District by their Permanent Residence, 2024](data/final-report-tables/chapter-5/5.1.8-Distribution-of-the-Usually-Resident-Population-of-a-District-by-their-Permanent-Residence,-2024)
-*🔴 Table was detected in PDF, but not parsed into textual data.*
+*🟠 Raw Text Data was extracted from PDF, but not parsed into structured data.*
 
-### Original Table
+### Raw Data (first 10 rows)
 
-![5.1.8-Distribution-of-the-Usually-Resident-Population-of-a-District-by-their-Permanent-Residence,-2024](data/final-report-tables/chapter-5/5.1.8-Distribution-of-the-Usually-Resident-Population-of-a-District-by-their-Permanent-Residence,-2024/original.png)
+| Col 1 |
+| :-- |
+| Census of Population and Housing  - 2024 |
+| Permanent Residence |
+| According to Table 5.1.8, 97.9 percent (454,034) of the total population in Sri Lanka reside in the same |
+| district as  their permanent  residence. Among  the  usually resident  population,  the  highest  percentage  of |
+| those holding permanent residence in a different district is reported in the Colombo District (5.5%). This |
+| figure stands at 3.9 percent in the Gampaha District, while Kilinochchi and Vavuniya districts reported 3.4 |
+| percent and 2.1 percent respectively. In all other districts, this percentage remains below 2 percent. |
+|  |
+| Usual residence |
+|  |
 
 ### Source
 
 - [https://www.statistics.gov.lk/Resource/en/Population/CPH_2024/CPH2024_Final_Eng.pdf](https://www.statistics.gov.lk/Resource/en/Population/CPH_2024/CPH2024_Final_Eng.pdf) (Table 5.1.8)
 
 ## 20. [Population Temporarily Living Abroad by District and Main Reason for Living in Abroad, 2024](data/final-report-tables/chapter-5/5.2.3-Population-Temporarily-Living-Abroad-by-District-and-Main-Reason-for-Living-in-Abroad,-2024)
-*🔴 Table was detected in PDF, but not parsed into textual data.*
+*🟠 Raw Text Data was extracted from PDF, but not parsed into structured data.*
 
-### Original Table
+### Raw Data (first 10 rows)
 
-![5.2.3-Population-Temporarily-Living-Abroad-by-District-and-Main-Reason-for-Living-in-Abroad,-2024](data/final-report-tables/chapter-5/5.2.3-Population-Temporarily-Living-Abroad-by-District-and-Main-Reason-for-Living-in-Abroad,-2024/original.png)
+| Col 1 |
+| :-- |
+| Census of Population and Housing  - 2024 |
+| When  compared  by  sex,  it  is  observed  that  in  both  the  urban  and  rural  sectors,  the  number  of  males |
+| temporarily residing abroad exceeds that of females. However, in the estate rural sector, across all age |
+| categories,  there  is  a  notably  higher  prevalence  of  females  temporarily  residing  abroad  compared  to |
+| males. |
+| According to Table 5.2.3, the primary reason for temporary migration is employment. Accordingly, 86.0 |
+| percent (577,919) of the total population who migrated temporarily for employment purposes, while 8.0 |
+| percent (53,621) migrated for education. Additionally, 5.7 percent (38,218) migrated for reasons such as |
+| a family member's education, employment, or lookafter. A very small percentage, specifically 0.3 percent |
+| (2,491), migrated temporarily for other reasons. |
 
 ### Source
 
@@ -171,22 +250,44 @@
 - [https://www.statistics.gov.lk/Resource/en/Population/CPH_2024/CPH2024_Final_Eng.pdf](https://www.statistics.gov.lk/Resource/en/Population/CPH_2024/CPH2024_Final_Eng.pdf) (Table 6.1.12)
 
 ## 24. [Distribution of Population by Religion and District, 2012](data/final-report-tables/chapter-6/6.1.14-Distribution-of-Population-by-Religion-and-District,-2012)
-*🔴 Table was detected in PDF, but not parsed into textual data.*
+*🟠 Raw Text Data was extracted from PDF, but not parsed into structured data.*
 
-### Original Table
+### Raw Data (first 10 rows)
 
-![6.1.14-Distribution-of-Population-by-Religion-and-District,-2012](data/final-report-tables/chapter-6/6.1.14-Distribution-of-Population-by-Religion-and-District,-2012/original.png)
+| Col 1 | Col 2 | Col 3 | Col 4 | Col 5 | Col 6 | Col 7 | Col 8 |
+| :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- |
+| District |  |  |  |  |  |  |  |
+|  |  |  |  |  | Roman | Other |  |
+|  | Total | Buddhist | Hindu | Islam |  |  | Other |
+|  |  |  |  |  | Catholic | Christian |  |
+| Sri Lanka | 20,359,439 | 14,272,056 | 2,561,299 | 1,967,523 | 1,261,194 | 290,967 | 6,400 |
+| Colombo | 2,324,349 | 1,632,225 | 186,454 | 274,087 | 162,314 | 66,994 | 2,275 |
+| Gampaha | 2,304,833 | 1,642,767 | 52,973 | 112,746 | 449,398 | 46,080 | 869 |
+| Kalutara | 1,221,948 | 1,018,909 | 39,541 | 114,556 | 39,774 | 8,956 | 212 |
+| Kandy | 1,375,382 | 1,009,220 | 133,744 | 197,076 | 22,379 | 12,798 | 165 |
+| Matale | 484,531 | 385,151 | 43,432 | 45,682 | 7,899 | 2,342 | 25 |
 
 ### Source
 
 - [https://www.statistics.gov.lk/Resource/en/Population/CPH_2024/CPH2024_Final_Eng.pdf](https://www.statistics.gov.lk/Resource/en/Population/CPH_2024/CPH2024_Final_Eng.pdf) (Table 6.1.14)
 
 ## 25. [Distribution of Population by Religion and District, 2024](data/final-report-tables/chapter-6/6.1.15-Distribution-of-Population-by-Religion-and-District,-2024)
-*🔴 Table was detected in PDF, but not parsed into textual data.*
+*🟠 Raw Text Data was extracted from PDF, but not parsed into structured data.*
 
-### Original Table
+### Raw Data (first 10 rows)
 
-![6.1.15-Distribution-of-Population-by-Religion-and-District,-2024](data/final-report-tables/chapter-6/6.1.15-Distribution-of-Population-by-Religion-and-District,-2024/original.png)
+| Col 1 | Col 2 | Col 3 | Col 4 | Col 5 | Col 6 | Col 7 | Col 8 |
+| :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- |
+| District |  |  |  |  |  |  |  |
+|  |  |  |  |  | Roman | Other |  |
+|  | Total | Buddhist | Hindu | Islam |  |  | Other |
+|  |  |  |  |  | Catholic | Christian |  |
+| Sri Lanka | 21,781,800 | 15,199,093 | 2,734,839 | 2,337,379 | 1,224,348 | 282,185 | 3,956 |
+| Colombo | 2,375,415 | 1,682,524 | 197,759 | 298,422 | 139,882 | 55,624 | 1,204 |
+| Gampaha | 2,436,142 | 1,744,475 | 69,429 | 134,422 | 442,291 | 44,540 | 985 |
+| Kalutara | 1,305,784 | 1,080,638 | 42,528 | 138,230 | 36,510 | 7,733 | 145 |
+| Kandy | 1,461,895 | 1,063,511 | 144,618 | 223,997 | 18,623 | 10,919 | 227 |
+| Matale | 526,870 | 418,608 | 46,181 | 52,224 | 7,797 | 2,026 | 34 |
 
 ### Source
 
@@ -217,22 +318,46 @@ District |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 - [https://www.statistics.gov.lk/Resource/en/Population/CPH_2024/CPH2024_Final_Eng.pdf](https://www.statistics.gov.lk/Resource/en/Population/CPH_2024/CPH2024_Final_Eng.pdf) (Table 6.2.6)
 
 ## 27. [Prevalence Rates of Non-Communicable Diseases by District, 2024](data/final-report-tables/chapter-6/6.3.4-Prevalence-Rates-of-Non-Communicable-Diseases-by-District,-2024)
-*🔴 Table was detected in PDF, but not parsed into textual data.*
+*🟠 Raw Text Data was extracted from PDF, but not parsed into structured data.*
 
-### Original Table
+### Raw Data (first 10 rows)
 
-![6.3.4-Prevalence-Rates-of-Non-Communicable-Diseases-by-District,-2024](data/final-report-tables/chapter-6/6.3.4-Prevalence-Rates-of-Non-Communicable-Diseases-by-District,-2024/original.png)
+| Col 1 | Col 2 | Col 3 | Col 4 | Col 5 | Col 6 | Col 7 | Col 8 | Col 9 | Col 10 | Col 11 | Col 12 |
+| :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- |
+| District | Total Population | Diabetes | High Cholesterol | High Blood 
+Pressure | Heart Disease | Kidney Disease | Thalassemia | Cancer | Stroke | Asthma | Epilepsy |
+| Sri Lanka* | 21,779,483 | 8.5 | 8.2 | 10.1 | 2.5 | 0.8 | 0.1 | 0.4 | 0.6 | 1.8 | 0.3 |
+| Colombo | 2,374,869 | 10.7 | 9.1 | 10.5 | 2.5 | 0.5 | 0.1 | 0.3 | 0.4 | 1.2 | 0.2 |
+| Gampaha | 2,435,913 | 10.5 | 9.6 | 10.7 | 2.5 | 0.6 | 0.1 | 0.4 | 0.5 | 1.2 | 0.2 |
+| Kalutara | 1,305,708 | 9.2 | 8.9 | 10.2 | 2.4 | 0.6 | 0.1 | 0.4 | 0.6 | 1.2 | 0.3 |
+| Kandy | 1,461,755 | 8.8 | 8.2 | 11.6 | 2.7 | 0.6 | 0.1 | 0.4 | 0.6 | 1.9 | 0.3 |
+| Matale | 526,849 | 7.8 | 7.9 | 11.3 | 2.5 | 1.1 | 0.1 | 0.4 | 0.6 | 2.0 | 0.3 |
+| Nuwara Eliya | 725,251 | 5.4 | 4.9 | 10.2 | 2.7 | 0.6 | 0.1 | 0.4 | 0.9 | 2.2 | 0.5 |
+| Galle | 1,097,225 | 8.0 | 9.0 | 9.8 | 2.7 | 0.6 | 0.1 | 0.4 | 0.6 | 1.9 | 0.3 |
+| Matara | 837,756 | 8.4 | 9.6 | 10.3 | 3.0 | 0.7 | 0.1 | 0.4 | 0.5 | 2.5 | 0.4 |
 
 ### Source
 
 - [https://www.statistics.gov.lk/Resource/en/Population/CPH_2024/CPH2024_Final_Eng.pdf](https://www.statistics.gov.lk/Resource/en/Population/CPH_2024/CPH2024_Final_Eng.pdf) (Table 6.3.4)
 
 ## 28. [Percentage of Children Receiving Preschool Education by Age Group and District, 2024](data/final-report-tables/chapter-7/7.4-Percentage-of-Children-Receiving-Preschool-Education-by-Age-Group-and-District,-2024)
-*🔴 Table was detected in PDF, but not parsed into textual data.*
+*🟠 Raw Text Data was extracted from PDF, but not parsed into structured data.*
 
-### Original Table
+### Raw Data (first 10 rows)
 
-![7.4-Percentage-of-Children-Receiving-Preschool-Education-by-Age-Group-and-District,-2024](data/final-report-tables/chapter-7/7.4-Percentage-of-Children-Receiving-Preschool-Education-by-Age-Group-and-District,-2024/original.png)
+| Col 1 | Col 2 | Col 3 | Col 4 | Col 5 | Col 6 | Col 7 | Col 8 | Col 9 | Col 10 | Col 11 | Col 12 | Col 13 |
+| :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- |
+|  |  |  | Census of Population and Housing  - 2024 |  |  |  |  |  |  |  |  |  |
+| 100 |  |  |  |  |  |  | 3 years | 4 years |  | 5 years |  | 6 years |
+|  | 77.9 |  |  |  |  |  |  | 79.3 |  |  |  |  |
+|  |  |  |  | 74.1 |  |  |  |  |  |  | 74.0 |  |
+| 80 |  |  |  |  | 71.7 |  |  |  |  |  |  |  |
+|  | 63.7 |  |  |  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  | 61.8 |  |  | 60.8 |  |  |
+| 60 |  |  |  |  |  |  |  |  |  |  |  |  |
+| 40
+Percentage |  |  | 31.5 |  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  | 23.0 |  |  |
 
 ### Source
 
@@ -261,11 +386,22 @@ District |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 - [https://www.statistics.gov.lk/Resource/en/Population/CPH_2024/CPH2024_Final_Eng.pdf](https://www.statistics.gov.lk/Resource/en/Population/CPH_2024/CPH2024_Final_Eng.pdf) (Table 7.7)
 
 ## 30. [Language Literacy Rate by Language and District, 2024](data/final-report-tables/chapter-7/7.10-Language-Literacy-Rate-by-Language-and-District,-2024)
-*🔴 Table was detected in PDF, but not parsed into textual data.*
+*🟠 Raw Text Data was extracted from PDF, but not parsed into structured data.*
 
-### Original Table
+### Raw Data (first 10 rows)
 
-![7.10-Language-Literacy-Rate-by-Language-and-District,-2024](data/final-report-tables/chapter-7/7.10-Language-Literacy-Rate-by-Language-and-District,-2024/original.png)
+| Col 1 |
+| :-- |
+| Figure 7.3 : Language Literacy Rate by Age Group and Language, 2024 |
+| As illustrated in Figure 7.3, literacy rates in Tamil and English decline steadily with increasing age. Among |
+| individuals  aged  60  and  above,  Tamil literacy drops  to 30.8%  and  English literacy to 35.0%, reflecting |
+| more limited educational opportunities and language exposure in the past. |
+| Language Literacy by District Level |
+|  |
+|  |
+| District |
+|  |
+|  |
 
 ### Source
 
@@ -283,44 +419,88 @@ District |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 - [https://www.statistics.gov.lk/Resource/en/Population/CPH_2024/CPH2024_Final_Eng.pdf](https://www.statistics.gov.lk/Resource/en/Population/CPH_2024/CPH2024_Final_Eng.pdf) (Table 7.13)
 
 ## 32. [Employment Rate and Unemployment Rate by District, 2024](data/final-report-tables/chapter-8/8.10-Employment-Rate-and-Unemployment-Rate-by-District,-2024)
-*🔴 Table was detected in PDF, but not parsed into textual data.*
+*🟠 Raw Text Data was extracted from PDF, but not parsed into structured data.*
 
-### Original Table
+### Raw Data (first 10 rows)
 
-![8.10-Employment-Rate-and-Unemployment-Rate-by-District,-2024](data/final-report-tables/chapter-8/8.10-Employment-Rate-and-Unemployment-Rate-by-District,-2024/original.png)
+| Col 1 | Col 2 | Col 3 | Col 4 | Col 5 | Col 6 |
+| :-- | :-- | :-- | :-- | :-- | :-- |
+|  | Table 8.10 : Employment Rate and Unemployment Rate by District, 2024 |  |  |  |  |
+|  |  | Employment |  | Unemployment |  |
+| District | Labour Force |  |  |  |  |
+|  |  | Number | Percentage | Number | Percentage |
+| Sri Lanka | 8,162,941 | 7,671,232 | 94.0 | 491,709 | 6.0 |
+| Colombo | 920,746 | 867,111 | 94.2 | 53,635 | 5.8 |
+| Gampaha | 942,323 | 889,380 | 94.4 | 52,943 | 5.6 |
+| Kalutara | 488,622 | 462,465 | 94.6 | 26,157 | 5.4 |
+| Kandy | 512,885 | 477,418 | 93.1 | 35,467 | 6.9 |
+| Matale | 196,511 | 186,449 | 94.9 | 10,062 | 5.1 |
 
 ### Source
 
 - [https://www.statistics.gov.lk/Resource/en/Population/CPH_2024/CPH2024_Final_Eng.pdf](https://www.statistics.gov.lk/Resource/en/Population/CPH_2024/CPH2024_Final_Eng.pdf) (Table 8.10)
 
 ## 33. [Mean Age at Marriage by District of Usual Residence, 2012 and 2024](data/final-report-tables/chapter-9/9.10-Mean-Age-at-Marriage-by-District-of-Usual-Residence,-2012-and-2024)
-*🔴 Table was detected in PDF, but not parsed into textual data.*
+*🟠 Raw Text Data was extracted from PDF, but not parsed into structured data.*
 
-### Original Table
+### Raw Data (first 10 rows)
 
-![9.10-Mean-Age-at-Marriage-by-District-of-Usual-Residence,-2012-and-2024](data/final-report-tables/chapter-9/9.10-Mean-Age-at-Marriage-by-District-of-Usual-Residence,-2012-and-2024/original.png)
+| Col 1 |
+| :-- |
+| Census of Population and Housing  - 2024 |
+| Table 9.9 shows the mean age at marriage for males and females in the urban, rural, and Estate Rural |
+| sectors, according to the 2024 Population and Housing Census. |
+| The highest average age at marriage is reported in the urban sector, and this is valid for both males and |
+| females. The mean age at marriage is 29.8 years for males and 26.6 years for females. The data further |
+| indicate that both males and females in the Estate Rural sector marry at younger ages compared to those |
+| in other sectors. |
+|  |
+| District |
+|  |
 
 ### Source
 
 - [https://www.statistics.gov.lk/Resource/en/Population/CPH_2024/CPH2024_Final_Eng.pdf](https://www.statistics.gov.lk/Resource/en/Population/CPH_2024/CPH2024_Final_Eng.pdf) (Table 9.10)
 
 ## 34. [Percentage Distribution of the Number and of Households by Sector, District and Household Type, 2024](data/final-report-tables/chapter-10/10.2-Percentage-Distribution-of-the-Number-and-of-Households-by-Sector,-District-and-Household-Type,-2024)
-*🔴 Table was detected in PDF, but not parsed into textual data.*
+*🟠 Raw Text Data was extracted from PDF, but not parsed into structured data.*
 
-### Original Table
+### Raw Data (first 10 rows)
 
-![10.2-Percentage-Distribution-of-the-Number-and-of-Households-by-Sector,-District-and-Household-Type,-2024](data/final-report-tables/chapter-10/10.2-Percentage-Distribution-of-the-Number-and-of-Households-by-Sector,-District-and-Household-Type,-2024/original.png)
+| Col 1 |
+| :-- |
+| Census of Population and Housing  - 2024 |
+| 10.5 Distribution of Households by Household Type |
+| The total number of households in Sri Lanka is reported to be 6,111,315, with the largest number being |
+| nuclear  households.  The  lowest  number  being  composite  households.  Accordingly,  more  than  50.0 |
+| percent of the total households in Sri Lanka are nuclear households.  Furthermore, it is noteworthy that |
+| more than 50.0 percent of households in all sectors and districts are nuclear households. |
+| When considering the distribution of household types, nuclear households (58.9%) represent the largest |
+| pecentage,  followed  by  extended  households  (29.7%),  one-person  households  (10.5%),  and  composite |
+| households (0.9%), in descending order. |
+|  |
 
 ### Source
 
 - [https://www.statistics.gov.lk/Resource/en/Population/CPH_2024/CPH2024_Final_Eng.pdf](https://www.statistics.gov.lk/Resource/en/Population/CPH_2024/CPH2024_Final_Eng.pdf) (Table 10.2)
 
 ## 35. [Percentage Distribution of the Number of Household Heads by District, Sex, and Age Group, 2024](data/final-report-tables/chapter-10/10.5-Percentage-Distribution-of-the-Number-of-Household-Heads-by-District,-Sex,-and-Age-Group,-2024)
-*🔴 Table was detected in PDF, but not parsed into textual data.*
+*🟠 Raw Text Data was extracted from PDF, but not parsed into structured data.*
 
-### Original Table
+### Raw Data (first 10 rows)
 
-![10.5-Percentage-Distribution-of-the-Number-of-Household-Heads-by-District,-Sex,-and-Age-Group,-2024](data/final-report-tables/chapter-10/10.5-Percentage-Distribution-of-the-Number-of-Household-Heads-by-District,-Sex,-and-Age-Group,-2024/original.png)
+| Col 1 | Col 2 | Col 3 | Col 4 | Col 5 | Col 6 | Col 7 | Col 8 | Col 9 | Col 10 | Col 11 | Col 12 | Col 13 |
+| :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- |
+|  | Total |  |  | Sex of the Head of Household |  |  |  | Age Group of the Head of Household |  |  |  |  |
+|  | Number |  |  |  |  |  |  |  |  |  |  |  |
+| District | of | % |  |  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  | Aged |  |  |  |  |  |
+|  | Household |  |  |  |  |  |  |  | Age |  | Aged 65 |  |
+|  |  |  | Male | % | Female | % | below | % |  | % |  | % |
+|  | Heads |  |  |  |  |  |  |  | 20-64 |  | & over |  |
+|  |  |  |  |  |  |  | 20 |  |  |  |  |  |
+| Sri Lanka | 6,111,315 | 100.0 | 4,489,242 | 73.5 | 1,622,073 | 26.5 | 8,709 | 0.1 | 4,581,256 | 75.0 | 1,521,350 | 24.9 |
+| Colombo | 661,822 | 100.0 | 478,413 | 72.3 | 183,409 | 27.7 | 1,038 | 0.2 | 494,815 | 74.7 | 165,969 | 25.1 |
 
 ### Source
 
@@ -361,50 +541,98 @@ District |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 | rising from 891,103 to 1,028,363, reflecting ongoing urban expansion. In contrast, the estate sector shows |
 | only a marginal increase, from 224,385 to 228,842, suggesting relatively slow growth in housing within |
 | estate areas compared to the other sectors. |
+|  |
+| District |
+|  |
+|  |
 
 ### Source
 
 - [https://www.statistics.gov.lk/Resource/en/Population/CPH_2024/CPH2024_Final_Eng.pdf](https://www.statistics.gov.lk/Resource/en/Population/CPH_2024/CPH2024_Final_Eng.pdf) (Table 11.2)
 
 ## 38. [Tenure of Housing Units by Sector and District, 2024](data/final-report-tables/chapter-11/11.4-Tenure-of-Housing-Units-by-Sector-and-District,-2024)
-*🔴 Table was detected in PDF, but not parsed into textual data.*
+*🟠 Raw Text Data was extracted from PDF, but not parsed into structured data.*
 
-### Original Table
+### Raw Data (first 10 rows)
 
-![11.4-Tenure-of-Housing-Units-by-Sector-and-District,-2024](data/final-report-tables/chapter-11/11.4-Tenure-of-Housing-Units-by-Sector-and-District,-2024/original.png)
+| Col 1 | Col 2 | Col 3 | Col 4 | Col 5 | Col 6 | Col 7 | Col 8 |
+| :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- |
+|  |  | Table 11.4 : Tenure of Housing Units by Sector and District, 2024 |  |  |  |  |  |
+|  |  |  |  | Tenure of housing units |  |  |  |
+| Sector/ District | Total | Owned by a | Rent/lease- | Rent/lease- |  |  |  |
+|  |  |  |  |  | Free of |  |  |
+|  |  | household | Government | privately |  | Encroached | Other |
+|  |  |  |  |  | Rent |  |  |
+|  |  | member | owned | owned |  |  |  |
+| Sri Lanka | 100.0 | 84.6 | 2.0 | 6.4 | 5.4 | 0.7 | 0.9 |
+| Sector |  |  |  |  |  |  |  |
+| Urban | 100.0 | 77.1 | 3.6 | 14.6 | 3.1 | 1.0 | 0.6 |
 
 ### Source
 
 - [https://www.statistics.gov.lk/Resource/en/Population/CPH_2024/CPH2024_Final_Eng.pdf](https://www.statistics.gov.lk/Resource/en/Population/CPH_2024/CPH2024_Final_Eng.pdf) (Table 11.4)
 
 ## 39. [of Housing Units and Status of Housing Units, by Sector and District, 2024](data/final-report-tables/chapter-11/11.7-of-Housing-Units-and-Status-of-Housing-Units,-by-Sector-and-District,-2024)
-*🔴 Table was detected in PDF, but not parsed into textual data.*
+*🟠 Raw Text Data was extracted from PDF, but not parsed into structured data.*
 
-### Original Table
+### Raw Data (first 10 rows)
 
-![11.7-of-Housing-Units-and-Status-of-Housing-Units,-by-Sector-and-District,-2024](data/final-report-tables/chapter-11/11.7-of-Housing-Units-and-Status-of-Housing-Units,-by-Sector-and-District,-2024/original.png)
+| Col 1 | Col 2 | Col 3 | Col 4 | Col 5 | Col 6 | Col 7 | Col 8 | Col 9 | Col 10 | Col 11 |
+| :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- |
+|  | Table 11.7 :Number of Housing Units and Status of Housing Units, by Sector and District, 2024 |  |  |  |  |  |  |  |  |  |
+|  | Housing units |  |  |  |  | Status of housing units |  |  |  |  |
+| Sector/District |  |  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  | Semi- |  |  |  | Not |  |
+|  | Total | % | Permanent | % |  | % | Improvised | % |  | % |
+|  |  |  |  |  | permanent |  |  |  | classified |  |
+| Sri Lanka | 6,030,541 | 100.0 | 5,802,099 | 96.2 | 212,758 | 3.5 | 11,146 | 0.2 | 4,538 | 0.1 |
+| Sector |  |  |  |  |  |  |  |  |  |  |
+| Urban* | 1,028,363 | 100.0 | 1,010,342 | 98.2 | 16,668 | 1.6 | 734 | 0.1 | 619 | 0.1 |
+| Rural | 4,773,336 | 100.0 | 4,596,479 | 96.3 | 163,297 | 3.4 | 10,153 | 0.2 | 3,407 | 0.1 |
 
 ### Source
 
 - [https://www.statistics.gov.lk/Resource/en/Population/CPH_2024/CPH2024_Final_Eng.pdf](https://www.statistics.gov.lk/Resource/en/Population/CPH_2024/CPH2024_Final_Eng.pdf) (Table 11.7)
 
 ## 40. [Percentage Distribution of Households by Availability of Drinking Water Facility, by Sector and District,](data/final-report-tables/chapter-11/11.10-Percentage-Distribution-of-Households-by-Availability-of-Drinking-Water-Facility,-by-Sector-and-District,)
-*🔴 Table was detected in PDF, but not parsed into textual data.*
+*🟠 Raw Text Data was extracted from PDF, but not parsed into structured data.*
 
-### Original Table
+### Raw Data (first 10 rows)
 
-![11.10-Percentage-Distribution-of-Households-by-Availability-of-Drinking-Water-Facility,-by-Sector-and-District,](data/final-report-tables/chapter-11/11.10-Percentage-Distribution-of-Households-by-Availability-of-Drinking-Water-Facility,-by-Sector-and-District,/original.png)
+| Col 1 |
+| :-- |
+| Census of Population and Housing  - 2024 |
+| Availability of drinking water facility |
+| As given in Table 11.10, the number of households in Sri Lanka that has ‘drinking water facilities within |
+| the housing unit and in premises is as high as 92.2 percent. Furthermore, among the districts where water |
+| facilities have been provided within the housing unit, the highest percentage is reported from the Colombo |
+| district (97.2 %). Further, the percentage having drinking water facilities outside household premises is 7.8 |
+| percent in Sri Lanka. The highest percentage having water facilities outside the premises is reported from |
+| the Northern Province. Among the districts Jaffna(29.4%) shows the highest percentage. |
+|  |
+| Sector/ District |
 
 ### Source
 
 - [https://www.statistics.gov.lk/Resource/en/Population/CPH_2024/CPH2024_Final_Eng.pdf](https://www.statistics.gov.lk/Resource/en/Population/CPH_2024/CPH2024_Final_Eng.pdf) (Table 11.10)
 
 ## 41. [Percentage of households Using Firewood and gas, by Sector and District,](data/final-report-tables/chapter-11/11.12-Percentage-of-households-Using-Firewood-and-gas,-by-Sector-and-District,)
-*🔴 Table was detected in PDF, but not parsed into textual data.*
+*🟠 Raw Text Data was extracted from PDF, but not parsed into structured data.*
 
-### Original Table
+### Raw Data (first 10 rows)
 
-![11.12-Percentage-of-households-Using-Firewood-and-gas,-by-Sector-and-District,](data/final-report-tables/chapter-11/11.12-Percentage-of-households-Using-Firewood-and-gas,-by-Sector-and-District,/original.png)
+| Col 1 |
+| :-- |
+| Census of Population and Housing  - 2024 |
+| Percentage of households using firewood and gas as the main sources of energy for cooking |
+| Comparing the 2012 and 2024 census data, the use of firewood has decreased, and the use of gas has |
+| increased in all districts and in all sectors. Compared to other districts, Colombo district (85.5%) shows the |
+| highest percentage of households cooking with gas. The highest percentage increase is in the Jaffna district. |
+|  |
+| Sector/ District |
+|  |
+| Sri Lanka |
+| Sector |
 
 ### Source
 
@@ -433,22 +661,44 @@ District |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 - [https://www.statistics.gov.lk/Resource/en/Population/CPH_2024/CPH2024_Final_Eng.pdf](https://www.statistics.gov.lk/Resource/en/Population/CPH_2024/CPH2024_Final_Eng.pdf) (Table 11.16)
 
 ## 43. [Myers' Index by District and Sex, 2012, 2024](data/final-report-tables/chapter-12/12.3-Myers'-Index-by-District-and-Sex,-2012,-2024)
-*🔴 Table was detected in PDF, but not parsed into textual data.*
+*🟠 Raw Text Data was extracted from PDF, but not parsed into structured data.*
 
-### Original Table
+### Raw Data (first 10 rows)
 
-![12.3-Myers'-Index-by-District-and-Sex,-2012,-2024](data/final-report-tables/chapter-12/12.3-Myers'-Index-by-District-and-Sex,-2012,-2024/original.png)
+| Col 1 | Col 2 | Col 3 | Col 4 | Col 5 | Col 6 | Col 7 | Col 8 |
+| :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- |
+|  |  | 2012 |  |  | 2024 |  |  |
+|  |  |  |  |  |  |  | Percentage |
+| District |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  | Change |
+|  | Both sexes | Male | Female | Both sexes | Male | Female |  |
+| Sri Lanka | 1.7 | 1.8 | 1.7 | 1.2 | 1.2 | 1.1 | -29.4 |
+| Colombo | 2.2 | 2.5 | 2.0 | 1.6 | 1.9 | 1.5 | -27.3 |
+| Gampaha | 2.2 | 2.3 | 2.2 | 1.3 | 1.3 | 1.4 | -40.9 |
+| Kalutara | 2.2 | 2.2 | 2.2 | 1.1 | 1.1 | 1.1 | -50.0 |
+| Kandy | 1.6 | 1.6 | 1.5 | 1.3 | 1.2 | 1.3 | -18.8 |
 
 ### Source
 
 - [https://www.statistics.gov.lk/Resource/en/Population/CPH_2024/CPH2024_Final_Eng.pdf](https://www.statistics.gov.lk/Resource/en/Population/CPH_2024/CPH2024_Final_Eng.pdf) (Table 12.3)
 
 ## 44. [Whipple's Index by District and Sex, 2012 and 2024](data/final-report-tables/chapter-12/12.5-Whipple's-Index-by-District-and-Sex,-2012-and-2024)
-*🔴 Table was detected in PDF, but not parsed into textual data.*
+*🟠 Raw Text Data was extracted from PDF, but not parsed into structured data.*
 
-### Original Table
+### Raw Data (first 10 rows)
 
-![12.5-Whipple's-Index-by-District-and-Sex,-2012-and-2024](data/final-report-tables/chapter-12/12.5-Whipple's-Index-by-District-and-Sex,-2012-and-2024/original.png)
+| Col 1 | Col 2 | Col 3 | Col 4 | Col 5 | Col 6 | Col 7 | Col 8 |
+| :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- |
+|  |  | 2012 |  |  | 2024 |  |  |
+|  |  |  |  |  |  |  | Percentage |
+| District |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  | Change |
+|  | Both sexes | Male | Female | Both sexes | Male | Female |  |
+| Sri Lanka | 100.2 | 100.3 | 100.0 | 99.2 | 99.1 | 99.2 | -1.0 |
+| Colombo | 100.4 | 100.5 | 100.3 | 98.4 | 98.4 | 98.3 | -2.0 |
+| Gampaha | 100.2 | 100.6 | 99.9 | 99.0 | 98.7 | 99.3 | -1.2 |
+| Kalutara | 100.8 | 100.8 | 100.9 | 99.1 | 99.4 | 98.8 | -1.7 |
+| Kandy | 99.6 | 99.5 | 99.8 | 98.4 | 98.6 | 98.3 | -1.2 |
 
 ### Source
 
