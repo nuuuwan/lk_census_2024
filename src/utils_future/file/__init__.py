@@ -7,5 +7,6 @@ from utils_future.file.File import File
 from utils_future.file.FileOrDirectory import FileOrDirectory
 from utils_future.file.JSONFile import JSONFile
 from utils_future.file.Markdown import Markdown
+from utils_future.file.PDFFile import PDFFile
 from utils_future.file.TSVFile import TSVFile
 from utils_future.file.XSVFile import XSVFile
