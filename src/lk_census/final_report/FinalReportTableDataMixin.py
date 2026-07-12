@@ -60,6 +60,7 @@ class FinalReportTableDataMixin:
             "total" in raw_data[0].lower()
             or "sri lanka" in raw_data[0].lower()
             or "usual" in raw_data[0].lower()
+            or "residence" in raw_data[0].lower()
             or "district" in raw_data[0].lower()
             or not raw_data[0]
             or raw_data[0].startswith("*")
@@ -164,6 +165,7 @@ class FinalReportTableDataMixin:
         raw_data_list = self.raw_data_list
         if not raw_data_list:
             return
+
         fields = self.fields
         if not fields:
             return
