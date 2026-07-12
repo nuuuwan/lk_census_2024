@@ -1,5 +1,7 @@
 import json
 
+from utils_future import Markdown
+
 
 class ReadMeFinalReportMixin:
     URL_FINAL_REPORT = (
@@ -7,24 +9,65 @@ class ReadMeFinalReportMixin:
         + "/Resource/en/Population/CPH_2024/CPH2024_Final_Eng.pdf"
     )
 
+    def flatten_dict(self, d):
+        flat_d = {}
+        for k, v in d.items():
+            if k == "values":
+                for k1, v1 in v.items():
+                    flat_d[k1.replace("_", " ").title()] = v1
+            else:
+                flat_d[k.replace("_", " ").title()] = v
+        return flat_d
+
     def get_lines_for_final_report_table(self, final_report_table):
         lines = [
             f"#### [Table {final_report_table.table_num}]"
             + f"({final_report_table.dir_data})"
             + f" - {final_report_table.table_name}",
+            "",
         ]
 
         if final_report_table.data_file.exists:
-            example_row = final_report_table.data_list[0]
+            d_list = final_report_table.data_list
+            d_list_by_district = [
+                d for d in d_list if d["region_ent_type"] == "district"
+            ]
+            d_list_for_table = [
+                self.flatten_dict(d) for d in d_list_by_district
+            ]
+
+            lines.extend(
+                [
+                    "##### Data by District",
+                    "",
+                ]
+                + Markdown.table(d_list_for_table)
+            )
             lines.extend(
                 [
                     "##### Example Data Row (JSON)",
                     "",
                     "```json",
-                    json.dumps(example_row, indent=4),
+                    json.dumps(d_list_by_district[0], indent=4),
                     "```",
                     "",
                 ]
+            )
+
+        elif final_report_table.raw_data_file.exists:
+            example_rows = final_report_table.raw_data_list[:10]
+
+            d_list = [
+                {str(i): cell for i, cell in enumerate(row, start=1)}
+                for row in example_rows
+            ]
+            lines.extend(
+                [
+                    "##### Example Rows (first 10 rows)",
+                    "",
+                ]
+                + Markdown.table(d_list)
+                + [""]
             )
 
         return lines
