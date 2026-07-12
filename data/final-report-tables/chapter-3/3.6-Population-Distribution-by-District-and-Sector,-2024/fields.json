@@ -1,0 +1,15 @@
+{
+  "primary_keys": ["district_name"],
+  "other_keys": [
+    "_total_population",
+    "_p_total_population",
+    "population_urban",
+    "_p_population_urban",
+    "population_estate_urban",
+    "_p_population_estate_urban",
+    "population_rural",
+    "_p_population_rural",
+    "population_estate_rural",
+    "_p_population_estate_rural"
+  ]
+}
