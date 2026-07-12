@@ -1,7 +1,7 @@
 # 🇱🇰 Sri Lanka - Census of Population and Housing 2024
 
 ![CPH](https://img.shields.io/badge/CPH-2024-blue)
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--07--12_15:24:30-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--07--12_15:42:54-green)
 
 **154** Datasets on Population, Housing and more, by Country, Province, District, Divisional Secretariat Division (DSD), Grama Niladhari Division (GND), Electoral District (ED), Polling Division (PD), and Local Government Authority (LG) levels.
 
@@ -609,17 +609,10 @@
 - 🌐: [https://www.statistics.gov.lk/Population/StaticalInformation/CPH2024/HH_GND_excel](https://www.statistics.gov.lk/Population/StaticalInformation/CPH2024/HH_GND_excel)
 
 
-## Final Report Tables
+## 13. [Officers who have  Assigned for Census of Population and Housing 2024 Activities](data/final-report-tables/chapter-1/1.1.1-Officers-who-have--Assigned-for-Census-of-Population-and-Housing-2024-Activities)
+*🟢 Structured Data was extracted from PDF.*
 
-**142** tables have been extracted from the [Census of Population and Housing - 2024 Final Report](https://www.statistics.gov.lk/Resource/en/Population/CPH_2024/CPH2024_Final_Eng.pdf)
-
-- Source: <https://www.statistics.gov.lk/Resource/en/Population/CPH_2024/CPH2024_Final_Eng.pdf>
-
-### Chapter 1
-
-#### 🟢 [Table 1.1.1](data/final-report-tables/chapter-1/1.1.1-Officers-who-have--Assigned-for-Census-of-Population-and-Housing-2024-Activities) - Officers who have  Assigned for Census of Population and Housing 2024 Activities
-
-##### Data by District
+### Data by District
 
 | Region Id | Region Name | Region Ent Type | Deputy Census Commissioners | Assistant Census Commissioners | Technical Staff Zonal Supervisors And District Statistical Branch Head | Technical Staff Divisional Census Officer | Technical Staff Area Supervisors | Technical Staff Circle Officers | Other Non Technical Staff | Enumerators Who Used Tablet Computers Capi | Enumerators Who Used Smart Phones Byoad | Total Value |
 | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- |
@@ -648,7 +641,7 @@
 | LK-82 | Monaragala | district | 12 | 12 | 3 | 11 | 17 | 27 | 60 | 381 | 406 | 929 |
 | LK-91 | Ratnapura | district | 19 | 19 | 6 | 18 | 36 | 62 | 95 | 895 | 781 | 1931 |
 | LK-92 | Kegalle | district | 12 | 12 | 5 | 11 | 26 | 46 | 60 | 708 | 487 | 1367 |
-##### Example Data Row (JSON)
+### Example Data Row (JSON)
 
 ```json
 {
@@ -670,23 +663,36 @@
 }
 ```
 
-#### 🔴 [Table 1.1.2](data/final-report-tables/chapter-1/1.1.2-The-Questions-and-Topics-Included-in-the-Censuses-of-Sri-Lanka-1871---2024) - The Questions and Topics Included in the Censuses of Sri Lanka 1871 - 2024
+### Source
 
-##### Original Table
+- [https://www.statistics.gov.lk/Resource/en/Population/CPH_2024/CPH2024_Final_Eng.pdf](https://www.statistics.gov.lk/Resource/en/Population/CPH_2024/CPH2024_Final_Eng.pdf) (Table 1.1.1)
+
+## 14. [The Questions and Topics Included in the Censuses of Sri Lanka 1871 - 2024](data/final-report-tables/chapter-1/1.1.2-The-Questions-and-Topics-Included-in-the-Censuses-of-Sri-Lanka-1871---2024)
+*🔴 Table was detected in PDF, but not parsed into textual data.*
+
+### Original Table
 
 ![1.1.2-The-Questions-and-Topics-Included-in-the-Censuses-of-Sri-Lanka-1871---2024](data/final-report-tables/chapter-1/1.1.2-The-Questions-and-Topics-Included-in-the-Censuses-of-Sri-Lanka-1871---2024/original.png)
 
-### Chapter 2
+### Source
 
-#### 🔴 [Table 2.1](data/final-report-tables/chapter-2/2.1-Evolution-of-the-Number-of-Administrative-Districts-In-Sri-Lanka-from-1871-to-2024) - Evolution of the Number of Administrative Districts In Sri Lanka from 1871 to 2024
+- [https://www.statistics.gov.lk/Resource/en/Population/CPH_2024/CPH2024_Final_Eng.pdf](https://www.statistics.gov.lk/Resource/en/Population/CPH_2024/CPH2024_Final_Eng.pdf) (Table 1.1.2)
 
-##### Original Table
+## 15. [Evolution of the Number of Administrative Districts In Sri Lanka from 1871 to 2024](data/final-report-tables/chapter-2/2.1-Evolution-of-the-Number-of-Administrative-Districts-In-Sri-Lanka-from-1871-to-2024)
+*🔴 Table was detected in PDF, but not parsed into textual data.*
+
+### Original Table
 
 ![2.1-Evolution-of-the-Number-of-Administrative-Districts-In-Sri-Lanka-from-1871-to-2024](data/final-report-tables/chapter-2/2.1-Evolution-of-the-Number-of-Administrative-Districts-In-Sri-Lanka-from-1871-to-2024/original.png)
 
-#### 🟢 [Table 2.2](data/final-report-tables/chapter-2/2.2-Administrative-Structure-by-District,-1981) - Administrative Structure by District, 1981
+### Source
 
-##### Data by District
+- [https://www.statistics.gov.lk/Resource/en/Population/CPH_2024/CPH2024_Final_Eng.pdf](https://www.statistics.gov.lk/Resource/en/Population/CPH_2024/CPH2024_Final_Eng.pdf) (Table 2.1)
+
+## 16. [Administrative Structure by District, 1981](data/final-report-tables/chapter-2/2.2-Administrative-Structure-by-District,-1981)
+*🟢 Structured Data was extracted from PDF.*
+
+### Data by District
 
 | Region Id | Region Name | Region Ent Type | Assistant Government Agend Divisions | Grama Sevaka Divisions | Municipal Councils | Urban Councils | Town Councils | Total Value |
 | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- |
@@ -714,7 +720,7 @@
 | LK-82 | Monaragala | district | 8 | 88 | 0 | 0 | 1 | 97 |
 | LK-91 | Ratnapura | district | 13 | 175 | 1 | 1 | 3 | 193 |
 | LK-92 | Kegalle | district | 10 | 196 | 0 | 1 | 6 | 213 |
-##### Example Data Row (JSON)
+### Example Data Row (JSON)
 
 ```json
 {
@@ -732,9 +738,14 @@
 }
 ```
 
-#### 🟢 [Table 2.3](data/final-report-tables/chapter-2/2.3-Administrative-Structure-by-District,-2012) - Administrative Structure by District, 2012
+### Source
 
-##### Data by District
+- [https://www.statistics.gov.lk/Resource/en/Population/CPH_2024/CPH2024_Final_Eng.pdf](https://www.statistics.gov.lk/Resource/en/Population/CPH_2024/CPH2024_Final_Eng.pdf) (Table 2.2)
+
+## 17. [Administrative Structure by District, 2012](data/final-report-tables/chapter-2/2.3-Administrative-Structure-by-District,-2012)
+*🟢 Structured Data was extracted from PDF.*
+
+### Data by District
 
 | Region Id | Region Name | Region Ent Type | Assistant Government Agend Divisions | Grama Sevaka Divisions | Municipal Councils | Urban Councils | Town Councils | Total Value |
 | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- |
@@ -763,7 +774,7 @@
 | LK-82 | Monaragala | district | 11 | 319 | 0 | 0 | 10 | 340 |
 | LK-91 | Ratnapura | district | 17 | 575 | 1 | 2 | 14 | 609 |
 | LK-92 | Kegalle | district | 11 | 573 | 0 | 1 | 11 | 596 |
-##### Example Data Row (JSON)
+### Example Data Row (JSON)
 
 ```json
 {
@@ -781,23 +792,36 @@
 }
 ```
 
-#### 🔴 [Table 2.4](data/final-report-tables/chapter-2/2.4-Administrative-Structure-by-District,-2024) - Administrative Structure by District, 2024
+### Source
 
-##### Original Table
+- [https://www.statistics.gov.lk/Resource/en/Population/CPH_2024/CPH2024_Final_Eng.pdf](https://www.statistics.gov.lk/Resource/en/Population/CPH_2024/CPH2024_Final_Eng.pdf) (Table 2.3)
+
+## 18. [Administrative Structure by District, 2024](data/final-report-tables/chapter-2/2.4-Administrative-Structure-by-District,-2024)
+*🔴 Table was detected in PDF, but not parsed into textual data.*
+
+### Original Table
 
 ![2.4-Administrative-Structure-by-District,-2024](data/final-report-tables/chapter-2/2.4-Administrative-Structure-by-District,-2024/original.png)
 
-### Chapter 3
+### Source
 
-#### 🔴 [Table 3.1](data/final-report-tables/chapter-3/3.1-Total-Population,-Intercensal-Increase-and-Average-Annual-Growth-Rate-by-Census-Year,-1871---2024) - Total Population, Intercensal Increase and Average Annual Growth Rate by Census Year, 1871 - 2024
+- [https://www.statistics.gov.lk/Resource/en/Population/CPH_2024/CPH2024_Final_Eng.pdf](https://www.statistics.gov.lk/Resource/en/Population/CPH_2024/CPH2024_Final_Eng.pdf) (Table 2.4)
 
-##### Original Table
+## 19. [Total Population, Intercensal Increase and Average Annual Growth Rate by Census Year, 1871 - 2024](data/final-report-tables/chapter-3/3.1-Total-Population,-Intercensal-Increase-and-Average-Annual-Growth-Rate-by-Census-Year,-1871---2024)
+*🔴 Table was detected in PDF, but not parsed into textual data.*
+
+### Original Table
 
 ![3.1-Total-Population,-Intercensal-Increase-and-Average-Annual-Growth-Rate-by-Census-Year,-1871---2024](data/final-report-tables/chapter-3/3.1-Total-Population,-Intercensal-Increase-and-Average-Annual-Growth-Rate-by-Census-Year,-1871---2024/original.png)
 
-#### 🟠 [Table 3.2](data/final-report-tables/chapter-3/3.2-Distribution-of-Population-by-Province-and-District,-2024) - Distribution of Population by Province and District, 2024
+### Source
 
-##### Raw Data (first 10 rows)
+- [https://www.statistics.gov.lk/Resource/en/Population/CPH_2024/CPH2024_Final_Eng.pdf](https://www.statistics.gov.lk/Resource/en/Population/CPH_2024/CPH2024_Final_Eng.pdf) (Table 3.1)
+
+## 20. [Distribution of Population by Province and District, 2024](data/final-report-tables/chapter-3/3.2-Distribution-of-Population-by-Province-and-District,-2024)
+*🟠 Raw Text Data was extracted from PDF, but not parsed into structured data.*
+
+### Raw Data (first 10 rows)
 
 | Col 1 | Col 2 | Col 3 |
 | :-- | :-- | :-- |
@@ -812,9 +836,14 @@
 | Kalutara | 1,305,784 | 6.0 |
 | Central Province | 2,714,045 | 12.5 |
 
-#### 🟢 [Table 3.3](data/final-report-tables/chapter-3/3.3-Population-and-Average-Annual-Growth-Rate-by-District,-Census-Years-1981--2024) - Population and Average Annual Growth Rate by District, Census Years 1981- 2024
+### Source
 
-##### Data by District
+- [https://www.statistics.gov.lk/Resource/en/Population/CPH_2024/CPH2024_Final_Eng.pdf](https://www.statistics.gov.lk/Resource/en/Population/CPH_2024/CPH2024_Final_Eng.pdf) (Table 3.2)
+
+## 21. [Population and Average Annual Growth Rate by District, Census Years 1981- 2024](data/final-report-tables/chapter-3/3.3-Population-and-Average-Annual-Growth-Rate-by-District,-Census-Years-1981--2024)
+*🟢 Structured Data was extracted from PDF.*
+
+### Data by District
 
 | Region Id | Region Name | Region Ent Type | Population 1981 | Population 2001 | Population 2012 | Population 2024 |
 | :-- | :-- | :-- | :-- | :-- | :-- | :-- |
@@ -843,7 +872,7 @@
 | LK-82 | Monaragala | district | 269684 | 396521 | 451058 | 527585 |
 | LK-91 | Ratnapura | district | 779927 | 1016221 | 1088007 | 1145423 |
 | LK-92 | Kegalle | district | 678456 | 784371 | 840648 | 870476 |
-##### Example Data Row (JSON)
+### Example Data Row (JSON)
 
 ```json
 {
@@ -859,41 +888,69 @@
 }
 ```
 
-#### 🔴 [Table 3.4](data/final-report-tables/chapter-3/3.4-Population-Density-by-District,-1981,-2001,-2012-and-2024) - Population Density by District, 1981, 2001, 2012 and 2024
+### Source
 
-##### Original Table
+- [https://www.statistics.gov.lk/Resource/en/Population/CPH_2024/CPH2024_Final_Eng.pdf](https://www.statistics.gov.lk/Resource/en/Population/CPH_2024/CPH2024_Final_Eng.pdf) (Table 3.3)
+
+## 22. [Population Density by District, 1981, 2001, 2012 and 2024](data/final-report-tables/chapter-3/3.4-Population-Density-by-District,-1981,-2001,-2012-and-2024)
+*🔴 Table was detected in PDF, but not parsed into textual data.*
+
+### Original Table
 
 ![3.4-Population-Density-by-District,-1981,-2001,-2012-and-2024](data/final-report-tables/chapter-3/3.4-Population-Density-by-District,-1981,-2001,-2012-and-2024/original.png)
 
-#### 🔴 [Table 3.5](data/final-report-tables/chapter-3/3.5-Distribution-of-Population-by-Sector,-2012-and-2024) - Distribution of Population by Sector, 2012 and 2024
+### Source
 
-##### Original Table
+- [https://www.statistics.gov.lk/Resource/en/Population/CPH_2024/CPH2024_Final_Eng.pdf](https://www.statistics.gov.lk/Resource/en/Population/CPH_2024/CPH2024_Final_Eng.pdf) (Table 3.4)
+
+## 23. [Distribution of Population by Sector, 2012 and 2024](data/final-report-tables/chapter-3/3.5-Distribution-of-Population-by-Sector,-2012-and-2024)
+*🔴 Table was detected in PDF, but not parsed into textual data.*
+
+### Original Table
 
 ![3.5-Distribution-of-Population-by-Sector,-2012-and-2024](data/final-report-tables/chapter-3/3.5-Distribution-of-Population-by-Sector,-2012-and-2024/original.png)
 
-#### 🔴 [Table 3.6](data/final-report-tables/chapter-3/3.6-Population-Distribution-by-District-and-Sector,-2024) - Population Distribution by District and Sector, 2024
+### Source
 
-##### Original Table
+- [https://www.statistics.gov.lk/Resource/en/Population/CPH_2024/CPH2024_Final_Eng.pdf](https://www.statistics.gov.lk/Resource/en/Population/CPH_2024/CPH2024_Final_Eng.pdf) (Table 3.5)
+
+## 24. [Population Distribution by District and Sector, 2024](data/final-report-tables/chapter-3/3.6-Population-Distribution-by-District-and-Sector,-2024)
+*🔴 Table was detected in PDF, but not parsed into textual data.*
+
+### Original Table
 
 ![3.6-Population-Distribution-by-District-and-Sector,-2024](data/final-report-tables/chapter-3/3.6-Population-Distribution-by-District-and-Sector,-2024/original.png)
 
-### Chapter 5
+### Source
 
-#### 🔴 [Table 5.1.1](data/final-report-tables/chapter-5/5.1.1-Lifetime-Migrants-by-District-of-Dirth-and-District-of-Usual-Residence,) - Lifetime Migrants by District of Dirth and District of Usual Residence,
+- [https://www.statistics.gov.lk/Resource/en/Population/CPH_2024/CPH2024_Final_Eng.pdf](https://www.statistics.gov.lk/Resource/en/Population/CPH_2024/CPH2024_Final_Eng.pdf) (Table 3.6)
 
-##### Original Table
+## 25. [Lifetime Migrants by District of Dirth and District of Usual Residence,](data/final-report-tables/chapter-5/5.1.1-Lifetime-Migrants-by-District-of-Dirth-and-District-of-Usual-Residence,)
+*🔴 Table was detected in PDF, but not parsed into textual data.*
+
+### Original Table
 
 ![5.1.1-Lifetime-Migrants-by-District-of-Dirth-and-District-of-Usual-Residence,](data/final-report-tables/chapter-5/5.1.1-Lifetime-Migrants-by-District-of-Dirth-and-District-of-Usual-Residence,/original.png)
 
-#### 🔴 [Table 5.1.2](data/final-report-tables/chapter-5/5.1.2-In,-Out-and-Net-Lifetime-Migrants-by-District,-2024) - In, Out and Net Lifetime Migrants by District, 2024
+### Source
 
-##### Original Table
+- [https://www.statistics.gov.lk/Resource/en/Population/CPH_2024/CPH2024_Final_Eng.pdf](https://www.statistics.gov.lk/Resource/en/Population/CPH_2024/CPH2024_Final_Eng.pdf) (Table 5.1.1)
+
+## 26. [In, Out and Net Lifetime Migrants by District, 2024](data/final-report-tables/chapter-5/5.1.2-In,-Out-and-Net-Lifetime-Migrants-by-District,-2024)
+*🔴 Table was detected in PDF, but not parsed into textual data.*
+
+### Original Table
 
 ![5.1.2-In,-Out-and-Net-Lifetime-Migrants-by-District,-2024](data/final-report-tables/chapter-5/5.1.2-In,-Out-and-Net-Lifetime-Migrants-by-District,-2024/original.png)
 
-#### 🟢 [Table 5.1.3](data/final-report-tables/chapter-5/5.1.3-Largest-Migration-Flows-of-Lifetime-Migrants-by-District-of-Usual-Residence,-2024) - Largest Migration Flows of Lifetime Migrants by District of Usual Residence, 2024
+### Source
 
-##### Data by District
+- [https://www.statistics.gov.lk/Resource/en/Population/CPH_2024/CPH2024_Final_Eng.pdf](https://www.statistics.gov.lk/Resource/en/Population/CPH_2024/CPH2024_Final_Eng.pdf) (Table 5.1.2)
+
+## 27. [Largest Migration Flows of Lifetime Migrants by District of Usual Residence, 2024](data/final-report-tables/chapter-5/5.1.3-Largest-Migration-Flows-of-Lifetime-Migrants-by-District-of-Usual-Residence,-2024)
+*🟢 Structured Data was extracted from PDF.*
+
+### Data by District
 
 | Region Id | Region Name | Region Ent Type | Lifetime In Migrants | 1St Largest Stream Migration District Name | 1St Largest Stream Migration District Id | P 1St Largest Stream Migration District | 2Nd Largest Stream Migration District Name | 2Nd Largest Stream Migration District Id | P 2Nd Largest Stream Migration District | 3Rd Largest Stream Migration District Name | 3Rd Largest Stream Migration District Id | P 3Rd Largest Stream Migration District |
 | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- |
@@ -922,7 +979,7 @@
 | LK-82 | Monaragala | district | 81392 | Badulla | LK-81 | 0.259 | Hambantota | LK-33 | 0.179 | Ratnapura | LK-91 | 0.112 |
 | LK-91 | Ratnapura | district | 89081 | Hambantota | LK-33 | 0.141 | Matara | LK-32 | 0.131 | Colombo | LK-11 | 0.121 |
 | LK-92 | Kegalle | district | 95773 | Kandy | LK-21 | 0.178 | Kurunegala | LK-61 | 0.141 | Colombo | LK-11 | 0.109 |
-##### Example Data Row (JSON)
+### Example Data Row (JSON)
 
 ```json
 {
@@ -944,9 +1001,14 @@
 }
 ```
 
-#### 🟢 [Table 5.1.4](data/final-report-tables/chapter-5/5.1.4-Largest-Migration-Flows-of-Lifetime-Migrants-who-have-Migrated-Out-of-their-District-of-Birth,-2024) - Largest Migration Flows of Lifetime Migrants who have Migrated Out of their District of Birth, 2024
+### Source
 
-##### Data by District
+- [https://www.statistics.gov.lk/Resource/en/Population/CPH_2024/CPH2024_Final_Eng.pdf](https://www.statistics.gov.lk/Resource/en/Population/CPH_2024/CPH2024_Final_Eng.pdf) (Table 5.1.3)
+
+## 28. [Largest Migration Flows of Lifetime Migrants who have Migrated Out of their District of Birth, 2024](data/final-report-tables/chapter-5/5.1.4-Largest-Migration-Flows-of-Lifetime-Migrants-who-have-Migrated-Out-of-their-District-of-Birth,-2024)
+*🟢 Structured Data was extracted from PDF.*
+
+### Data by District
 
 | Region Id | Region Name | Region Ent Type | Lifetime In Migrants | 1St Largest Stream Migration District Name | 1St Largest Stream Migration District Id | P 1St Largest Stream Migration District | 2Nd Largest Stream Migration District Name | 2Nd Largest Stream Migration District Id | P 2Nd Largest Stream Migration District | 3Rd Largest Stream Migration District Name | 3Rd Largest Stream Migration District Id | P 3Rd Largest Stream Migration District |
 | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- |
@@ -975,7 +1037,7 @@
 | LK-82 | Monaragala | district | 61391 | Badulla | LK-81 | 0.168 | Colombo | LK-11 | 0.157 | Gampaha | LK-12 | 0.125 |
 | LK-91 | Ratnapura | district | 151811 | Colombo | LK-11 | 0.273 | Gampaha | LK-12 | 0.15 | Kalutara | LK-13 | 0.112 |
 | LK-92 | Kegalle | district | 159634 | Gampaha | LK-12 | 0.217 | Colombo | LK-11 | 0.18 | Kurunegala | LK-61 | 0.134 |
-##### Example Data Row (JSON)
+### Example Data Row (JSON)
 
 ```json
 {
@@ -997,15 +1059,25 @@
 }
 ```
 
-#### 🔴 [Table 5.1.5](data/final-report-tables/chapter-5/5.1.5-In-migration,-Out-migration,-and-Net-Migration-by-District,) - In-migration, Out-migration, and Net Migration by District,
+### Source
 
-##### Original Table
+- [https://www.statistics.gov.lk/Resource/en/Population/CPH_2024/CPH2024_Final_Eng.pdf](https://www.statistics.gov.lk/Resource/en/Population/CPH_2024/CPH2024_Final_Eng.pdf) (Table 5.1.4)
+
+## 29. [In-migration, Out-migration, and Net Migration by District,](data/final-report-tables/chapter-5/5.1.5-In-migration,-Out-migration,-and-Net-Migration-by-District,)
+*🔴 Table was detected in PDF, but not parsed into textual data.*
+
+### Original Table
 
 ![5.1.5-In-migration,-Out-migration,-and-Net-Migration-by-District,](data/final-report-tables/chapter-5/5.1.5-In-migration,-Out-migration,-and-Net-Migration-by-District,/original.png)
 
-#### 🟢 [Table 5.1.6](data/final-report-tables/chapter-5/5.1.6-In-migrants-by-District-of-Usual-Residence-and-Duration-of-Residence,-2024) - In-migrants by District of Usual Residence and Duration of Residence, 2024
+### Source
 
-##### Data by District
+- [https://www.statistics.gov.lk/Resource/en/Population/CPH_2024/CPH2024_Final_Eng.pdf](https://www.statistics.gov.lk/Resource/en/Population/CPH_2024/CPH2024_Final_Eng.pdf) (Table 5.1.5)
+
+## 30. [In-migrants by District of Usual Residence and Duration of Residence, 2024](data/final-report-tables/chapter-5/5.1.6-In-migrants-by-District-of-Usual-Residence-and-Duration-of-Residence,-2024)
+*🟢 Structured Data was extracted from PDF.*
+
+### Data by District
 
 | Region Id | Region Name | Region Ent Type | 00 04 Years | 04 09 Years | 10 Or More Years | Total Value |
 | :-- | :-- | :-- | :-- | :-- | :-- | :-- |
@@ -1034,7 +1106,7 @@
 | LK-82 | Monaragala | district | 15604 | 9808 | 59771 | 85183 |
 | LK-91 | Ratnapura | district | 23481 | 12010 | 60260 | 95751 |
 | LK-92 | Kegalle | district | 22537 | 13198 | 66331 | 102066 |
-##### Example Data Row (JSON)
+### Example Data Row (JSON)
 
 ```json
 {
@@ -1050,9 +1122,14 @@
 }
 ```
 
-#### 🟢 [Table 5.1.7](data/final-report-tables/chapter-5/5.1.7-Reasons-for-Migration-from-District-of-Previous-Residence-to-District-of-Usual-Residence,-2024) - Reasons for Migration from District of Previous Residence to District of Usual Residence, 2024
+### Source
 
-##### Data by District
+- [https://www.statistics.gov.lk/Resource/en/Population/CPH_2024/CPH2024_Final_Eng.pdf](https://www.statistics.gov.lk/Resource/en/Population/CPH_2024/CPH2024_Final_Eng.pdf) (Table 5.1.6)
+
+## 31. [Reasons for Migration from District of Previous Residence to District of Usual Residence, 2024](data/final-report-tables/chapter-5/5.1.7-Reasons-for-Migration-from-District-of-Previous-Residence-to-District-of-Usual-Residence,-2024)
+*🟢 Structured Data was extracted from PDF.*
+
+### Data by District
 
 | Region Id | Region Name | Region Ent Type | Marriage | Employment Searching For Job | Education | Accompanied A Family Member | Returning For Permanent Residence | Development Projects | Resettled After Displacement | A Disaster A Displaced Happened In The Prior Place | Other |  Rounding Error | Total Value |
 | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- |
@@ -1081,7 +1158,7 @@
 | LK-82 | Monaragala | district | 44721 | 10563 | 2044 | 13289 | 10903 | 1107 | 170 | 681 | 1704 | 1 | 85183 |
 | LK-91 | Ratnapura | district | 53046 | 10341 | 5554 | 14075 | 8905 | 192 | 192 | 479 | 3064 | -97 | 95751 |
 | LK-92 | Kegalle | district | 67364 | 7043 | 3879 | 12656 | 7961 | 0 | 102 | 510 | 2552 | -1 | 102066 |
-##### Example Data Row (JSON)
+### Example Data Row (JSON)
 
 ```json
 {
@@ -1104,15 +1181,25 @@
 }
 ```
 
-#### 🔴 [Table 5.1.8](data/final-report-tables/chapter-5/5.1.8-Distribution-of-the-Usually-Resident-Population-of-a-District-by-their-Permanent-Residence,-2024) - Distribution of the Usually Resident Population of a District by their Permanent Residence, 2024
+### Source
 
-##### Original Table
+- [https://www.statistics.gov.lk/Resource/en/Population/CPH_2024/CPH2024_Final_Eng.pdf](https://www.statistics.gov.lk/Resource/en/Population/CPH_2024/CPH2024_Final_Eng.pdf) (Table 5.1.7)
+
+## 32. [Distribution of the Usually Resident Population of a District by their Permanent Residence, 2024](data/final-report-tables/chapter-5/5.1.8-Distribution-of-the-Usually-Resident-Population-of-a-District-by-their-Permanent-Residence,-2024)
+*🔴 Table was detected in PDF, but not parsed into textual data.*
+
+### Original Table
 
 ![5.1.8-Distribution-of-the-Usually-Resident-Population-of-a-District-by-their-Permanent-Residence,-2024](data/final-report-tables/chapter-5/5.1.8-Distribution-of-the-Usually-Resident-Population-of-a-District-by-their-Permanent-Residence,-2024/original.png)
 
-#### 🟢 [Table 5.2.1](data/final-report-tables/chapter-5/5.2.1-Population-Temporarily-Living-Abroad-by-District-and-Sex,-2024) - Population Temporarily Living Abroad by District and Sex, 2024
+### Source
 
-##### Data by District
+- [https://www.statistics.gov.lk/Resource/en/Population/CPH_2024/CPH2024_Final_Eng.pdf](https://www.statistics.gov.lk/Resource/en/Population/CPH_2024/CPH2024_Final_Eng.pdf) (Table 5.1.8)
+
+## 33. [Population Temporarily Living Abroad by District and Sex, 2024](data/final-report-tables/chapter-5/5.2.1-Population-Temporarily-Living-Abroad-by-District-and-Sex,-2024)
+*🟢 Structured Data was extracted from PDF.*
+
+### Data by District
 
 | Region Id | Region Name | Region Ent Type | Male | Female | Total Value |
 | :-- | :-- | :-- | :-- | :-- | :-- |
@@ -1141,7 +1228,7 @@
 | LK-82 | Monaragala | district | 2765 | 2063 | 4828 |
 | LK-91 | Ratnapura | district | 10145 | 8551 | 18696 |
 | LK-92 | Kegalle | district | 16183 | 11251 | 27434 |
-##### Example Data Row (JSON)
+### Example Data Row (JSON)
 
 ```json
 {
@@ -1156,21 +1243,36 @@
 }
 ```
 
-#### 🔴 [Table 5.2.2](data/final-report-tables/chapter-5/5.2.2-Population-Temporarily-Living-Abroad-by-Sector,-Sex-and-Age-Group,-2024) - Population Temporarily Living Abroad by Sector, Sex and Age Group, 2024
+### Source
 
-##### Original Table
+- [https://www.statistics.gov.lk/Resource/en/Population/CPH_2024/CPH2024_Final_Eng.pdf](https://www.statistics.gov.lk/Resource/en/Population/CPH_2024/CPH2024_Final_Eng.pdf) (Table 5.2.1)
+
+## 34. [Population Temporarily Living Abroad by Sector, Sex and Age Group, 2024](data/final-report-tables/chapter-5/5.2.2-Population-Temporarily-Living-Abroad-by-Sector,-Sex-and-Age-Group,-2024)
+*🔴 Table was detected in PDF, but not parsed into textual data.*
+
+### Original Table
 
 ![5.2.2-Population-Temporarily-Living-Abroad-by-Sector,-Sex-and-Age-Group,-2024](data/final-report-tables/chapter-5/5.2.2-Population-Temporarily-Living-Abroad-by-Sector,-Sex-and-Age-Group,-2024/original.png)
 
-#### 🔴 [Table 5.2.3](data/final-report-tables/chapter-5/5.2.3-Population-Temporarily-Living-Abroad-by-District-and-Main-Reason-for-Living-in-Abroad,-2024) - Population Temporarily Living Abroad by District and Main Reason for Living in Abroad, 2024
+### Source
 
-##### Original Table
+- [https://www.statistics.gov.lk/Resource/en/Population/CPH_2024/CPH2024_Final_Eng.pdf](https://www.statistics.gov.lk/Resource/en/Population/CPH_2024/CPH2024_Final_Eng.pdf) (Table 5.2.2)
+
+## 35. [Population Temporarily Living Abroad by District and Main Reason for Living in Abroad, 2024](data/final-report-tables/chapter-5/5.2.3-Population-Temporarily-Living-Abroad-by-District-and-Main-Reason-for-Living-in-Abroad,-2024)
+*🔴 Table was detected in PDF, but not parsed into textual data.*
+
+### Original Table
 
 ![5.2.3-Population-Temporarily-Living-Abroad-by-District-and-Main-Reason-for-Living-in-Abroad,-2024](data/final-report-tables/chapter-5/5.2.3-Population-Temporarily-Living-Abroad-by-District-and-Main-Reason-for-Living-in-Abroad,-2024/original.png)
 
-#### 🟠 [Table 5.2.4](data/final-report-tables/chapter-5/5.2.4-Population-Temporarily-Living-Abroad-by-Main-Reason-for-Living-Abroad-and-Age-Group,-2024) - Population Temporarily Living Abroad by Main Reason for Living Abroad and Age Group, 2024
+### Source
 
-##### Raw Data (first 10 rows)
+- [https://www.statistics.gov.lk/Resource/en/Population/CPH_2024/CPH2024_Final_Eng.pdf](https://www.statistics.gov.lk/Resource/en/Population/CPH_2024/CPH2024_Final_Eng.pdf) (Table 5.2.3)
+
+## 36. [Population Temporarily Living Abroad by Main Reason for Living Abroad and Age Group, 2024](data/final-report-tables/chapter-5/5.2.4-Population-Temporarily-Living-Abroad-by-Main-Reason-for-Living-Abroad-and-Age-Group,-2024)
+*🟠 Raw Text Data was extracted from PDF, but not parsed into structured data.*
+
+### Raw Data (first 10 rows)
 
 | Col 1 | Col 2 | Col 3 | Col 4 | Col 5 | Col 6 | Col 7 | Col 8 | Col 9 | Col 10 | Col 11 |
 | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- |
@@ -1185,9 +1287,14 @@
 | 30 - 59 | 449,369 | 100.0 | 423,249 | 94.2 | 14,042 | 3.1 | 10,530 | 2.3 | 1,548 | 0.4 |
 | 60 & over | 16,124 | 100.0 | 12,414 | 77.0 | 40 | 0.2 | 3,478 | 21.6 | 192 | 1.2 |
 
-#### 🟠 [Table 5.2.5](data/final-report-tables/chapter-5/5.2.5-Population-Temporarily-Living-Abroad,-by-Main-Reason-for-Living-Abroad,-Country-of-Residence-and-Sex,) - Population Temporarily Living Abroad, by Main Reason for Living Abroad, Country of Residence and Sex,
+### Source
 
-##### Raw Data (first 10 rows)
+- [https://www.statistics.gov.lk/Resource/en/Population/CPH_2024/CPH2024_Final_Eng.pdf](https://www.statistics.gov.lk/Resource/en/Population/CPH_2024/CPH2024_Final_Eng.pdf) (Table 5.2.4)
+
+## 37. [Population Temporarily Living Abroad, by Main Reason for Living Abroad, Country of Residence and Sex,](data/final-report-tables/chapter-5/5.2.5-Population-Temporarily-Living-Abroad,-by-Main-Reason-for-Living-Abroad,-Country-of-Residence-and-Sex,)
+*🟠 Raw Text Data was extracted from PDF, but not parsed into structured data.*
+
+### Raw Data (first 10 rows)
 
 | Col 1 | Col 2 | Col 3 | Col 4 | Col 5 | Col 6 | Col 7 | Col 8 | Col 9 | Col 10 | Col 11 | Col 12 | Col 13 | Col 14 | Col 15 | Col 16 |
 | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- |
@@ -1202,35 +1309,58 @@
 | United Arab Emirates | 14.8 | 16.8 | 11.6 | 16.2 | 18.3 | 12.7 | 2.5 | 2.6 | 2.5 | 11.2 | 10.9 | 11.5 | 6.9 | 7.5 | 6.6 |
 | Saudi Arabia | 11.6 | 9.1 | 15.5 | 13.0 | 10.0 | 18.4 | 0.7 | 0.9 | 0.5 | 5.6 | 5.0 | 6.0 | 3.6 | 2.9 | 4.0 |
 
-### Chapter 6
+### Source
 
-#### 🔴 [Table 6.1.1](data/final-report-tables/chapter-6/6.1.1-Total-Population,-Sex-ratio-and-the-Percentage-of-Male-and-Female,-1946-2024) - Total Population, Sex ratio and the Percentage of Male and Female, 1946-2024
+- [https://www.statistics.gov.lk/Resource/en/Population/CPH_2024/CPH2024_Final_Eng.pdf](https://www.statistics.gov.lk/Resource/en/Population/CPH_2024/CPH2024_Final_Eng.pdf) (Table 5.2.5)
 
-##### Original Table
+## 38. [Total Population, Sex ratio and the Percentage of Male and Female, 1946-2024](data/final-report-tables/chapter-6/6.1.1-Total-Population,-Sex-ratio-and-the-Percentage-of-Male-and-Female,-1946-2024)
+*🔴 Table was detected in PDF, but not parsed into textual data.*
+
+### Original Table
 
 ![6.1.1-Total-Population,-Sex-ratio-and-the-Percentage-of-Male-and-Female,-1946-2024](data/final-report-tables/chapter-6/6.1.1-Total-Population,-Sex-ratio-and-the-Percentage-of-Male-and-Female,-1946-2024/original.png)
 
-#### 🔴 [Table 6.1.2](data/final-report-tables/chapter-6/6.1.2-Sex-Ratio-by-Sector,-2024) - Sex Ratio by Sector, 2024
+### Source
 
-##### Original Table
+- [https://www.statistics.gov.lk/Resource/en/Population/CPH_2024/CPH2024_Final_Eng.pdf](https://www.statistics.gov.lk/Resource/en/Population/CPH_2024/CPH2024_Final_Eng.pdf) (Table 6.1.1)
+
+## 39. [Sex Ratio by Sector, 2024](data/final-report-tables/chapter-6/6.1.2-Sex-Ratio-by-Sector,-2024)
+*🔴 Table was detected in PDF, but not parsed into textual data.*
+
+### Original Table
 
 ![6.1.2-Sex-Ratio-by-Sector,-2024](data/final-report-tables/chapter-6/6.1.2-Sex-Ratio-by-Sector,-2024/original.png)
 
-#### 🔴 [Table 6.1.3](data/final-report-tables/chapter-6/6.1.3-Population-by-Age-Groups-and-Sex,-2012-and) - Population by Age Groups and Sex, 2012 and
+### Source
 
-##### Original Table
+- [https://www.statistics.gov.lk/Resource/en/Population/CPH_2024/CPH2024_Final_Eng.pdf](https://www.statistics.gov.lk/Resource/en/Population/CPH_2024/CPH2024_Final_Eng.pdf) (Table 6.1.2)
+
+## 40. [Population by Age Groups and Sex, 2012 and](data/final-report-tables/chapter-6/6.1.3-Population-by-Age-Groups-and-Sex,-2012-and)
+*🔴 Table was detected in PDF, but not parsed into textual data.*
+
+### Original Table
 
 ![6.1.3-Population-by-Age-Groups-and-Sex,-2012-and](data/final-report-tables/chapter-6/6.1.3-Population-by-Age-Groups-and-Sex,-2012-and/original.png)
 
-#### 🔴 [Table 6.1.4](data/final-report-tables/chapter-6/6.1.4-Percentage-Distribution-of-Population-by-Age-Group,-1946–2024) - Percentage Distribution of Population by Age Group, 1946–2024
+### Source
 
-##### Original Table
+- [https://www.statistics.gov.lk/Resource/en/Population/CPH_2024/CPH2024_Final_Eng.pdf](https://www.statistics.gov.lk/Resource/en/Population/CPH_2024/CPH2024_Final_Eng.pdf) (Table 6.1.3)
+
+## 41. [Percentage Distribution of Population by Age Group, 1946–2024](data/final-report-tables/chapter-6/6.1.4-Percentage-Distribution-of-Population-by-Age-Group,-1946–2024)
+*🔴 Table was detected in PDF, but not parsed into textual data.*
+
+### Original Table
 
 ![6.1.4-Percentage-Distribution-of-Population-by-Age-Group,-1946–2024](data/final-report-tables/chapter-6/6.1.4-Percentage-Distribution-of-Population-by-Age-Group,-1946–2024/original.png)
 
-#### 🟠 [Table 6.1.5](data/final-report-tables/chapter-6/6.1.5-Population-Over-and-Below-18-Years-of-Age-by-Sector-and-District,-2024) - Population Over and Below 18 Years of Age by Sector and District, 2024
+### Source
 
-##### Raw Data (first 10 rows)
+- [https://www.statistics.gov.lk/Resource/en/Population/CPH_2024/CPH2024_Final_Eng.pdf](https://www.statistics.gov.lk/Resource/en/Population/CPH_2024/CPH2024_Final_Eng.pdf) (Table 6.1.4)
+
+## 42. [Population Over and Below 18 Years of Age by Sector and District, 2024](data/final-report-tables/chapter-6/6.1.5-Population-Over-and-Below-18-Years-of-Age-by-Sector-and-District,-2024)
+*🟠 Raw Text Data was extracted from PDF, but not parsed into structured data.*
+
+### Raw Data (first 10 rows)
 
 | Col 1 | Col 2 | Col 3 | Col 4 | Col 5 | Col 6 | Col 7 | Col 8 | Col 9 | Col 10 |
 | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- |
@@ -1245,33 +1375,58 @@
 | Rural | 17,096,918 | 4,436,678 | 12,660,240 | 8,253,837 | 2,245,989 | 6,007,848 | 8,843,081 | 2,190,689 | 6,652,392 |
 | Rural Estate | 865,679 | 256,135 | 609,544 | 420,330 | 129,059 | 291,271 | 445,349 | 127,076 | 318,273 |
 
-#### 🔴 [Table 6.1.6](data/final-report-tables/chapter-6/6.1.6-Elderly-Population-and-Sex-Ratio-by-Age-Groups,-2012-and-2024) - Elderly Population and Sex Ratio by Age Groups, 2012 and 2024
+### Source
 
-##### Original Table
+- [https://www.statistics.gov.lk/Resource/en/Population/CPH_2024/CPH2024_Final_Eng.pdf](https://www.statistics.gov.lk/Resource/en/Population/CPH_2024/CPH2024_Final_Eng.pdf) (Table 6.1.5)
+
+## 43. [Elderly Population and Sex Ratio by Age Groups, 2012 and 2024](data/final-report-tables/chapter-6/6.1.6-Elderly-Population-and-Sex-Ratio-by-Age-Groups,-2012-and-2024)
+*🔴 Table was detected in PDF, but not parsed into textual data.*
+
+### Original Table
 
 ![6.1.6-Elderly-Population-and-Sex-Ratio-by-Age-Groups,-2012-and-2024](data/final-report-tables/chapter-6/6.1.6-Elderly-Population-and-Sex-Ratio-by-Age-Groups,-2012-and-2024/original.png)
 
-#### 🔴 [Table 6.1.7](data/final-report-tables/chapter-6/6.1.7-Median-Age-of-the-Population,-1946-2024) - Median Age of the Population, 1946-2024
+### Source
 
-##### Original Table
+- [https://www.statistics.gov.lk/Resource/en/Population/CPH_2024/CPH2024_Final_Eng.pdf](https://www.statistics.gov.lk/Resource/en/Population/CPH_2024/CPH2024_Final_Eng.pdf) (Table 6.1.6)
+
+## 44. [Median Age of the Population, 1946-2024](data/final-report-tables/chapter-6/6.1.7-Median-Age-of-the-Population,-1946-2024)
+*🔴 Table was detected in PDF, but not parsed into textual data.*
+
+### Original Table
 
 ![6.1.7-Median-Age-of-the-Population,-1946-2024](data/final-report-tables/chapter-6/6.1.7-Median-Age-of-the-Population,-1946-2024/original.png)
 
-#### 🔴 [Table 6.1.8](data/final-report-tables/chapter-6/6.1.8-Population-Distribution-by-Ethnic-Group,-2024) - Population Distribution by Ethnic Group, 2024
+### Source
 
-##### Original Table
+- [https://www.statistics.gov.lk/Resource/en/Population/CPH_2024/CPH2024_Final_Eng.pdf](https://www.statistics.gov.lk/Resource/en/Population/CPH_2024/CPH2024_Final_Eng.pdf) (Table 6.1.7)
+
+## 45. [Population Distribution by Ethnic Group, 2024](data/final-report-tables/chapter-6/6.1.8-Population-Distribution-by-Ethnic-Group,-2024)
+*🔴 Table was detected in PDF, but not parsed into textual data.*
+
+### Original Table
 
 ![6.1.8-Population-Distribution-by-Ethnic-Group,-2024](data/final-report-tables/chapter-6/6.1.8-Population-Distribution-by-Ethnic-Group,-2024/original.png)
 
-#### 🔴 [Table 6.1.9](data/final-report-tables/chapter-6/6.1.9-Percentage-Distribution-of-the-Population-by-Ethnic-Group-and-Province,-2024) - Percentage Distribution of the Population by Ethnic Group and Province, 2024
+### Source
 
-##### Original Table
+- [https://www.statistics.gov.lk/Resource/en/Population/CPH_2024/CPH2024_Final_Eng.pdf](https://www.statistics.gov.lk/Resource/en/Population/CPH_2024/CPH2024_Final_Eng.pdf) (Table 6.1.8)
+
+## 46. [Percentage Distribution of the Population by Ethnic Group and Province, 2024](data/final-report-tables/chapter-6/6.1.9-Percentage-Distribution-of-the-Population-by-Ethnic-Group-and-Province,-2024)
+*🔴 Table was detected in PDF, but not parsed into textual data.*
+
+### Original Table
 
 ![6.1.9-Percentage-Distribution-of-the-Population-by-Ethnic-Group-and-Province,-2024](data/final-report-tables/chapter-6/6.1.9-Percentage-Distribution-of-the-Population-by-Ethnic-Group-and-Province,-2024/original.png)
 
-#### 🟠 [Table 6.1.10](data/final-report-tables/chapter-6/6.1.10-Population-by-Ethnic-Group,-1911---2024-(in) - Population by Ethnic Group, 1911 - 2024 (in
+### Source
 
-##### Raw Data (first 10 rows)
+- [https://www.statistics.gov.lk/Resource/en/Population/CPH_2024/CPH2024_Final_Eng.pdf](https://www.statistics.gov.lk/Resource/en/Population/CPH_2024/CPH2024_Final_Eng.pdf) (Table 6.1.9)
+
+## 47. [Population by Ethnic Group, 1911 - 2024 (in](data/final-report-tables/chapter-6/6.1.10-Population-by-Ethnic-Group,-1911---2024-(in)
+*🟠 Raw Text Data was extracted from PDF, but not parsed into structured data.*
+
+### Raw Data (first 10 rows)
 
 | Col 1 | Col 2 | Col 3 | Col 4 | Col 5 | Col 6 | Col 7 | Col 8 | Col 9 | Col 10 | Col 11 | Col 12 |
 | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- |
@@ -1286,9 +1441,14 @@
 |  | 998.6 | 1,089.1 | 1,256.8 | 1,718.0 | 2,147.2 | 3,042.6 | 3,705.5 |  |  |  |  |
 | Sinhalese |  |  |  |  |  |  |  |  |  |  |  |
 
-#### 🟠 [Table 6.1.11](data/final-report-tables/chapter-6/6.1.11-Distribution-of-Population-by-Ethnic-Group-and-District,-2012-and-2024) - Distribution of Population by Ethnic Group and District, 2012 and 2024
+### Source
 
-##### Raw Data (first 10 rows)
+- [https://www.statistics.gov.lk/Resource/en/Population/CPH_2024/CPH2024_Final_Eng.pdf](https://www.statistics.gov.lk/Resource/en/Population/CPH_2024/CPH2024_Final_Eng.pdf) (Table 6.1.10)
+
+## 48. [Distribution of Population by Ethnic Group and District, 2012 and 2024](data/final-report-tables/chapter-6/6.1.11-Distribution-of-Population-by-Ethnic-Group-and-District,-2012-and-2024)
+*🟠 Raw Text Data was extracted from PDF, but not parsed into structured data.*
+
+### Raw Data (first 10 rows)
 
 | Col 1 | Col 2 | Col 3 | Col 4 | Col 5 | Col 6 | Col 7 | Col 8 | Col 9 | Col 10 | Col 11 | Col 12 | Col 13 | Col 14 | Col 15 | Col 16 | Col 17 |
 | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- |
@@ -1303,9 +1463,14 @@
 | Kandy | 1,375,382 | 1,461,895 | 1,023,488 | 1,077,312 | 69,210 | 122,772 | 85,111 | 38,311 | 191,570 | 219,905 | 2,384 | 1,891 | 2,444 | 1,001 | 1,175 | 703 |
 | Matale | 484,531 | 526,870 | 391,305 | 424,788 | 24,279 | 42,172 | 23,238 | 7,716 | 44,786 | 51,471 | 386 | 359 | 392 | 283 | 145 | 81 |
 
-#### 🟠 [Table 6.1.12](data/final-report-tables/chapter-6/6.1.12-Percentage-Distribution-of-Population-by-Ethnic-Group-and-District,-2012-and-2024) - Percentage Distribution of Population by Ethnic Group and District, 2012 and 2024
+### Source
 
-##### Raw Data (first 10 rows)
+- [https://www.statistics.gov.lk/Resource/en/Population/CPH_2024/CPH2024_Final_Eng.pdf](https://www.statistics.gov.lk/Resource/en/Population/CPH_2024/CPH2024_Final_Eng.pdf) (Table 6.1.11)
+
+## 49. [Percentage Distribution of Population by Ethnic Group and District, 2012 and 2024](data/final-report-tables/chapter-6/6.1.12-Percentage-Distribution-of-Population-by-Ethnic-Group-and-District,-2012-and-2024)
+*🟠 Raw Text Data was extracted from PDF, but not parsed into structured data.*
+
+### Raw Data (first 10 rows)
 
 | Col 1 | Col 2 | Col 3 | Col 4 | Col 5 | Col 6 | Col 7 | Col 8 | Col 9 | Col 10 | Col 11 | Col 12 | Col 13 | Col 14 | Col 15 | Col 16 | Col 17 |
 | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- |
@@ -1320,33 +1485,58 @@
 | Matale | 2.4 | 2.4 | 2.6 | 2.6 | 1.1 | 1.6 | 2.8 | 1.3 | 2.4 | 2.3 | 1.0 | 1.1 | 0.9 | 1.1 | 0.6 | 0.6 |
 | Nuwara Eliya | 3.5 | 3.3 | 1.8 | 1.7 | 1.4 | 2.2 | 45.0 | 60.3 | 0.9 | 0.8 | 2.0 | 3.9 | 1.2 | 0.8 | 1.7 | 0.5 |
 
-#### 🔴 [Table 6.1.13](data/final-report-tables/chapter-6/6.1.13-Population-and-Percentage-Distribution-by-Sector-and-Religion,-2024) - Population and Percentage Distribution by Sector and Religion, 2024
+### Source
 
-##### Original Table
+- [https://www.statistics.gov.lk/Resource/en/Population/CPH_2024/CPH2024_Final_Eng.pdf](https://www.statistics.gov.lk/Resource/en/Population/CPH_2024/CPH2024_Final_Eng.pdf) (Table 6.1.12)
+
+## 50. [Population and Percentage Distribution by Sector and Religion, 2024](data/final-report-tables/chapter-6/6.1.13-Population-and-Percentage-Distribution-by-Sector-and-Religion,-2024)
+*🔴 Table was detected in PDF, but not parsed into textual data.*
+
+### Original Table
 
 ![6.1.13-Population-and-Percentage-Distribution-by-Sector-and-Religion,-2024](data/final-report-tables/chapter-6/6.1.13-Population-and-Percentage-Distribution-by-Sector-and-Religion,-2024/original.png)
 
-#### 🔴 [Table 6.1.14](data/final-report-tables/chapter-6/6.1.14-Distribution-of-Population-by-Religion-and-District,-2012) - Distribution of Population by Religion and District, 2012
+### Source
 
-##### Original Table
+- [https://www.statistics.gov.lk/Resource/en/Population/CPH_2024/CPH2024_Final_Eng.pdf](https://www.statistics.gov.lk/Resource/en/Population/CPH_2024/CPH2024_Final_Eng.pdf) (Table 6.1.13)
+
+## 51. [Distribution of Population by Religion and District, 2012](data/final-report-tables/chapter-6/6.1.14-Distribution-of-Population-by-Religion-and-District,-2012)
+*🔴 Table was detected in PDF, but not parsed into textual data.*
+
+### Original Table
 
 ![6.1.14-Distribution-of-Population-by-Religion-and-District,-2012](data/final-report-tables/chapter-6/6.1.14-Distribution-of-Population-by-Religion-and-District,-2012/original.png)
 
-#### 🔴 [Table 6.1.15](data/final-report-tables/chapter-6/6.1.15-Distribution-of-Population-by-Religion-and-District,-2024) - Distribution of Population by Religion and District, 2024
+### Source
 
-##### Original Table
+- [https://www.statistics.gov.lk/Resource/en/Population/CPH_2024/CPH2024_Final_Eng.pdf](https://www.statistics.gov.lk/Resource/en/Population/CPH_2024/CPH2024_Final_Eng.pdf) (Table 6.1.14)
+
+## 52. [Distribution of Population by Religion and District, 2024](data/final-report-tables/chapter-6/6.1.15-Distribution-of-Population-by-Religion-and-District,-2024)
+*🔴 Table was detected in PDF, but not parsed into textual data.*
+
+### Original Table
 
 ![6.1.15-Distribution-of-Population-by-Religion-and-District,-2024](data/final-report-tables/chapter-6/6.1.15-Distribution-of-Population-by-Religion-and-District,-2024/original.png)
 
-#### 🔴 [Table 6.2.1](data/final-report-tables/chapter-6/6.2.1-Distribution-of-the-Population-Aged-5-Years-and-Over-by-Level-of-Physical-and-Mental-Difficulties-for-EachFunctional-Domain,-2024) - Distribution of the Population Aged 5 Years and Over by Level of Physical and Mental Difficulties for EachFunctional Domain, 2024
+### Source
 
-##### Original Table
+- [https://www.statistics.gov.lk/Resource/en/Population/CPH_2024/CPH2024_Final_Eng.pdf](https://www.statistics.gov.lk/Resource/en/Population/CPH_2024/CPH2024_Final_Eng.pdf) (Table 6.1.15)
+
+## 53. [Distribution of the Population Aged 5 Years and Over by Level of Physical and Mental Difficulties for EachFunctional Domain, 2024](data/final-report-tables/chapter-6/6.2.1-Distribution-of-the-Population-Aged-5-Years-and-Over-by-Level-of-Physical-and-Mental-Difficulties-for-EachFunctional-Domain,-2024)
+*🔴 Table was detected in PDF, but not parsed into textual data.*
+
+### Original Table
 
 ![6.2.1-Distribution-of-the-Population-Aged-5-Years-and-Over-by-Level-of-Physical-and-Mental-Difficulties-for-EachFunctional-Domain,-2024](data/final-report-tables/chapter-6/6.2.1-Distribution-of-the-Population-Aged-5-Years-and-Over-by-Level-of-Physical-and-Mental-Difficulties-for-EachFunctional-Domain,-2024/original.png)
 
-#### 🟢 [Table 6.2.2](data/final-report-tables/chapter-6/6.2.2-Distribution-of-Persons-Aged-5-Years-and-Over-with-Physical-and-Mental-Difficulties-by-District-and-Difficulties,2024) - Distribution of Persons Aged 5 Years and Over with Physical and Mental Difficulties by District and Difficulties,2024
+### Source
 
-##### Data by District
+- [https://www.statistics.gov.lk/Resource/en/Population/CPH_2024/CPH2024_Final_Eng.pdf](https://www.statistics.gov.lk/Resource/en/Population/CPH_2024/CPH2024_Final_Eng.pdf) (Table 6.2.1)
+
+## 54. [Distribution of Persons Aged 5 Years and Over with Physical and Mental Difficulties by District and Difficulties,2024](data/final-report-tables/chapter-6/6.2.2-Distribution-of-Persons-Aged-5-Years-and-Over-with-Physical-and-Mental-Difficulties-by-District-and-Difficulties,2024)
+*🟢 Structured Data was extracted from PDF.*
+
+### Data by District
 
 | Region Id | Region Name | Region Ent Type | Difficulty In Seeing | Difficulty In Hearing | Difficulty In Walking Or Climbing Steps | Difficulty In Remembering Or Concentrating | Difficulty In Selfcare Such As Washing Or Dressing | Difficulty In Communicating With Others | Difficulty In Communicating With Others Rate Per 1000 Persons | No Disability | Total Value |
 | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- |
@@ -1375,7 +1565,7 @@
 | LK-82 | Monaragala | district | 54543 | 19705 | 41463 | 19533 | 14693 | 10308 | 21 | 334108 | 494374 |
 | LK-91 | Ratnapura | district | 121942 | 46515 | 97264 | 45069 | 32362 | 24013 | 22 | 717412 | 1084599 |
 | LK-92 | Kegalle | district | 91546 | 39423 | 77938 | 38664 | 25991 | 19110 | 23 | 533222 | 825917 |
-##### Example Data Row (JSON)
+### Example Data Row (JSON)
 
 ```json
 {
@@ -1396,9 +1586,14 @@
 }
 ```
 
-#### 🟠 [Table 6.2.3](data/final-report-tables/chapter-6/6.2.3-Distribution-of-Persons-Aged-5-Years-and-Over-with-Physical-and-Mental-Difficulties-by-Age-Group-andDifficulties,-2024) - Distribution of Persons Aged 5 Years and Over with Physical and Mental Difficulties by Age Group andDifficulties, 2024
+### Source
 
-##### Raw Data (first 10 rows)
+- [https://www.statistics.gov.lk/Resource/en/Population/CPH_2024/CPH2024_Final_Eng.pdf](https://www.statistics.gov.lk/Resource/en/Population/CPH_2024/CPH2024_Final_Eng.pdf) (Table 6.2.2)
+
+## 55. [Distribution of Persons Aged 5 Years and Over with Physical and Mental Difficulties by Age Group andDifficulties, 2024](data/final-report-tables/chapter-6/6.2.3-Distribution-of-Persons-Aged-5-Years-and-Over-with-Physical-and-Mental-Difficulties-by-Age-Group-andDifficulties,-2024)
+*🟠 Raw Text Data was extracted from PDF, but not parsed into structured data.*
+
+### Raw Data (first 10 rows)
 
 | Col 1 | Col 2 | Col 3 | Col 4 | Col 5 | Col 6 | Col 7 | Col 8 | Col 9 | Col 10 | Col 11 | Col 12 | Col 13 | Col 14 | Col 15 | Col 16 |
 | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- |
@@ -1413,21 +1608,36 @@
 |  | Over |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 |  |  |  | Rate |  | Rate |  | Rate |  | Rate |  | Rate |  | Rate |  | Rate |
 
-#### 🔴 [Table 6.2.4](data/final-report-tables/chapter-6/6.2.4-Distribution-of-Persons-Aged-5-Years-and-Over-with-Disabilities-by-Sex-and-Domain-of-Disability,-2024) - Distribution of Persons Aged 5 Years and Over with Disabilities by Sex and Domain of Disability, 2024
+### Source
 
-##### Original Table
+- [https://www.statistics.gov.lk/Resource/en/Population/CPH_2024/CPH2024_Final_Eng.pdf](https://www.statistics.gov.lk/Resource/en/Population/CPH_2024/CPH2024_Final_Eng.pdf) (Table 6.2.3)
+
+## 56. [Distribution of Persons Aged 5 Years and Over with Disabilities by Sex and Domain of Disability, 2024](data/final-report-tables/chapter-6/6.2.4-Distribution-of-Persons-Aged-5-Years-and-Over-with-Disabilities-by-Sex-and-Domain-of-Disability,-2024)
+*🔴 Table was detected in PDF, but not parsed into textual data.*
+
+### Original Table
 
 ![6.2.4-Distribution-of-Persons-Aged-5-Years-and-Over-with-Disabilities-by-Sex-and-Domain-of-Disability,-2024](data/final-report-tables/chapter-6/6.2.4-Distribution-of-Persons-Aged-5-Years-and-Over-with-Disabilities-by-Sex-and-Domain-of-Disability,-2024/original.png)
 
-#### 🔴 [Table 6.2.5](data/final-report-tables/chapter-6/6.2.5-Distribution-of-Persons-Aged-5-Years-and-Over-with-Disabilities-by-Sector-and-Domain-of-Disability,-2024) - Distribution of Persons Aged 5 Years and Over with Disabilities by Sector and Domain of Disability, 2024
+### Source
 
-##### Original Table
+- [https://www.statistics.gov.lk/Resource/en/Population/CPH_2024/CPH2024_Final_Eng.pdf](https://www.statistics.gov.lk/Resource/en/Population/CPH_2024/CPH2024_Final_Eng.pdf) (Table 6.2.4)
+
+## 57. [Distribution of Persons Aged 5 Years and Over with Disabilities by Sector and Domain of Disability, 2024](data/final-report-tables/chapter-6/6.2.5-Distribution-of-Persons-Aged-5-Years-and-Over-with-Disabilities-by-Sector-and-Domain-of-Disability,-2024)
+*🔴 Table was detected in PDF, but not parsed into textual data.*
+
+### Original Table
 
 ![6.2.5-Distribution-of-Persons-Aged-5-Years-and-Over-with-Disabilities-by-Sector-and-Domain-of-Disability,-2024](data/final-report-tables/chapter-6/6.2.5-Distribution-of-Persons-Aged-5-Years-and-Over-with-Disabilities-by-Sector-and-Domain-of-Disability,-2024/original.png)
 
-#### 🟠 [Table 6.2.6](data/final-report-tables/chapter-6/6.2.6-Distribution-of-Persons-Aged-5-Years-and-Over-with-Disabilities-by-District-and-Domain-of-Disability,-2024) - Distribution of Persons Aged 5 Years and Over with Disabilities by District and Domain of Disability, 2024
+### Source
 
-##### Raw Data (first 10 rows)
+- [https://www.statistics.gov.lk/Resource/en/Population/CPH_2024/CPH2024_Final_Eng.pdf](https://www.statistics.gov.lk/Resource/en/Population/CPH_2024/CPH2024_Final_Eng.pdf) (Table 6.2.5)
+
+## 58. [Distribution of Persons Aged 5 Years and Over with Disabilities by District and Domain of Disability, 2024](data/final-report-tables/chapter-6/6.2.6-Distribution-of-Persons-Aged-5-Years-and-Over-with-Disabilities-by-District-and-Domain-of-Disability,-2024)
+*🟠 Raw Text Data was extracted from PDF, but not parsed into structured data.*
+
+### Raw Data (first 10 rows)
 
 | Col 1 | Col 2 | Col 3 | Col 4 | Col 5 | Col 6 | Col 7 | Col 8 | Col 9 | Col 10 | Col 11 | Col 12 | Col 13 | Col 14 | Col 15 |
 | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- |
@@ -1444,51 +1654,91 @@ District |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 | Sri Lanka 
 20,566,680 | 727,293 | 35 | 192,578 | 9 | 130,097 | 6 | 447,969 | 22 | 167,826 | 8 | 189,292 | 9 | 112,798 | 5 |
 
-#### 🔴 [Table 6.2.7](data/final-report-tables/chapter-6/6.2.7-Distribution-of-Persons-Aged-5-Years-and-Over-with-Disabilities-by-Age-Group-and-Domain-of-Disability,) - Distribution of Persons Aged 5 Years and Over with Disabilities by Age Group and Domain of Disability,
+### Source
 
-##### Original Table
+- [https://www.statistics.gov.lk/Resource/en/Population/CPH_2024/CPH2024_Final_Eng.pdf](https://www.statistics.gov.lk/Resource/en/Population/CPH_2024/CPH2024_Final_Eng.pdf) (Table 6.2.6)
+
+## 59. [Distribution of Persons Aged 5 Years and Over with Disabilities by Age Group and Domain of Disability,](data/final-report-tables/chapter-6/6.2.7-Distribution-of-Persons-Aged-5-Years-and-Over-with-Disabilities-by-Age-Group-and-Domain-of-Disability,)
+*🔴 Table was detected in PDF, but not parsed into textual data.*
+
+### Original Table
 
 ![6.2.7-Distribution-of-Persons-Aged-5-Years-and-Over-with-Disabilities-by-Age-Group-and-Domain-of-Disability,](data/final-report-tables/chapter-6/6.2.7-Distribution-of-Persons-Aged-5-Years-and-Over-with-Disabilities-by-Age-Group-and-Domain-of-Disability,/original.png)
 
-#### 🔴 [Table 6.2.8](data/final-report-tables/chapter-6/6.2.8-Distribution-of-Persons-with-a-Single-Disability-and-with-Multiple-Disabilities-by-Age-Group,-2024) - Distribution of Persons with a Single Disability and with Multiple Disabilities by Age Group, 2024
+### Source
 
-##### Original Table
+- [https://www.statistics.gov.lk/Resource/en/Population/CPH_2024/CPH2024_Final_Eng.pdf](https://www.statistics.gov.lk/Resource/en/Population/CPH_2024/CPH2024_Final_Eng.pdf) (Table 6.2.7)
+
+## 60. [Distribution of Persons with a Single Disability and with Multiple Disabilities by Age Group, 2024](data/final-report-tables/chapter-6/6.2.8-Distribution-of-Persons-with-a-Single-Disability-and-with-Multiple-Disabilities-by-Age-Group,-2024)
+*🔴 Table was detected in PDF, but not parsed into textual data.*
+
+### Original Table
 
 ![6.2.8-Distribution-of-Persons-with-a-Single-Disability-and-with-Multiple-Disabilities-by-Age-Group,-2024](data/final-report-tables/chapter-6/6.2.8-Distribution-of-Persons-with-a-Single-Disability-and-with-Multiple-Disabilities-by-Age-Group,-2024/original.png)
 
-#### 🔴 [Table 6.2.9](data/final-report-tables/chapter-6/6.2.9-Distribution-of-Persons-Aged-5-Years-and-Over-with-Disabilities-by-Marital-Status-and-Sex,-2024) - Distribution of Persons Aged 5 Years and Over with Disabilities by Marital Status and Sex, 2024
+### Source
 
-##### Original Table
+- [https://www.statistics.gov.lk/Resource/en/Population/CPH_2024/CPH2024_Final_Eng.pdf](https://www.statistics.gov.lk/Resource/en/Population/CPH_2024/CPH2024_Final_Eng.pdf) (Table 6.2.8)
+
+## 61. [Distribution of Persons Aged 5 Years and Over with Disabilities by Marital Status and Sex, 2024](data/final-report-tables/chapter-6/6.2.9-Distribution-of-Persons-Aged-5-Years-and-Over-with-Disabilities-by-Marital-Status-and-Sex,-2024)
+*🔴 Table was detected in PDF, but not parsed into textual data.*
+
+### Original Table
 
 ![6.2.9-Distribution-of-Persons-Aged-5-Years-and-Over-with-Disabilities-by-Marital-Status-and-Sex,-2024](data/final-report-tables/chapter-6/6.2.9-Distribution-of-Persons-Aged-5-Years-and-Over-with-Disabilities-by-Marital-Status-and-Sex,-2024/original.png)
 
-#### 🔴 [Table 6.2.10](data/final-report-tables/chapter-6/6.2.10-Distribution-of-Persons-Aged-5-Years-and-Over-with-Disabilities-by-Highest-Educational-Qualification-and-Sex,2024) - Distribution of Persons Aged 5 Years and Over with Disabilities by Highest Educational Qualification and Sex,2024
+### Source
 
-##### Original Table
+- [https://www.statistics.gov.lk/Resource/en/Population/CPH_2024/CPH2024_Final_Eng.pdf](https://www.statistics.gov.lk/Resource/en/Population/CPH_2024/CPH2024_Final_Eng.pdf) (Table 6.2.9)
+
+## 62. [Distribution of Persons Aged 5 Years and Over with Disabilities by Highest Educational Qualification and Sex,2024](data/final-report-tables/chapter-6/6.2.10-Distribution-of-Persons-Aged-5-Years-and-Over-with-Disabilities-by-Highest-Educational-Qualification-and-Sex,2024)
+*🔴 Table was detected in PDF, but not parsed into textual data.*
+
+### Original Table
 
 ![6.2.10-Distribution-of-Persons-Aged-5-Years-and-Over-with-Disabilities-by-Highest-Educational-Qualification-and-Sex,2024](data/final-report-tables/chapter-6/6.2.10-Distribution-of-Persons-Aged-5-Years-and-Over-with-Disabilities-by-Highest-Educational-Qualification-and-Sex,2024/original.png)
 
-#### 🔴 [Table 6.2.11](data/final-report-tables/chapter-6/6.2.11-Distribution-of-Persons-Aged-5-Years-and-Over-with-Disabilities-by-Marital-Status-and-Domain-of-Disability,2024) - Distribution of Persons Aged 5 Years and Over with Disabilities by Marital Status and Domain of Disability,2024
+### Source
 
-##### Original Table
+- [https://www.statistics.gov.lk/Resource/en/Population/CPH_2024/CPH2024_Final_Eng.pdf](https://www.statistics.gov.lk/Resource/en/Population/CPH_2024/CPH2024_Final_Eng.pdf) (Table 6.2.10)
+
+## 63. [Distribution of Persons Aged 5 Years and Over with Disabilities by Marital Status and Domain of Disability,2024](data/final-report-tables/chapter-6/6.2.11-Distribution-of-Persons-Aged-5-Years-and-Over-with-Disabilities-by-Marital-Status-and-Domain-of-Disability,2024)
+*🔴 Table was detected in PDF, but not parsed into textual data.*
+
+### Original Table
 
 ![6.2.11-Distribution-of-Persons-Aged-5-Years-and-Over-with-Disabilities-by-Marital-Status-and-Domain-of-Disability,2024](data/final-report-tables/chapter-6/6.2.11-Distribution-of-Persons-Aged-5-Years-and-Over-with-Disabilities-by-Marital-Status-and-Domain-of-Disability,2024/original.png)
 
-#### 🔴 [Table 6.2.12](data/final-report-tables/chapter-6/6.2.12-Distribution-of-Persons-Aged-5-Years-and-Over-with-Disabilities-by-Highest-Educational-Qualification-andDomain-of-Disability,-2024) - Distribution of Persons Aged 5 Years and Over with Disabilities by Highest Educational Qualification andDomain of Disability, 2024
+### Source
 
-##### Original Table
+- [https://www.statistics.gov.lk/Resource/en/Population/CPH_2024/CPH2024_Final_Eng.pdf](https://www.statistics.gov.lk/Resource/en/Population/CPH_2024/CPH2024_Final_Eng.pdf) (Table 6.2.11)
+
+## 64. [Distribution of Persons Aged 5 Years and Over with Disabilities by Highest Educational Qualification andDomain of Disability, 2024](data/final-report-tables/chapter-6/6.2.12-Distribution-of-Persons-Aged-5-Years-and-Over-with-Disabilities-by-Highest-Educational-Qualification-andDomain-of-Disability,-2024)
+*🔴 Table was detected in PDF, but not parsed into textual data.*
+
+### Original Table
 
 ![6.2.12-Distribution-of-Persons-Aged-5-Years-and-Over-with-Disabilities-by-Highest-Educational-Qualification-andDomain-of-Disability,-2024](data/final-report-tables/chapter-6/6.2.12-Distribution-of-Persons-Aged-5-Years-and-Over-with-Disabilities-by-Highest-Educational-Qualification-andDomain-of-Disability,-2024/original.png)
 
-#### 🔴 [Table 6.2.13](data/final-report-tables/chapter-6/6.2.13-Economic-Activities-of-Persons-Aged-15-Years-and-Over-with-Disabilities,-2024) - Economic Activities of Persons Aged 15 Years and Over with Disabilities, 2024
+### Source
 
-##### Original Table
+- [https://www.statistics.gov.lk/Resource/en/Population/CPH_2024/CPH2024_Final_Eng.pdf](https://www.statistics.gov.lk/Resource/en/Population/CPH_2024/CPH2024_Final_Eng.pdf) (Table 6.2.12)
+
+## 65. [Economic Activities of Persons Aged 15 Years and Over with Disabilities, 2024](data/final-report-tables/chapter-6/6.2.13-Economic-Activities-of-Persons-Aged-15-Years-and-Over-with-Disabilities,-2024)
+*🔴 Table was detected in PDF, but not parsed into textual data.*
+
+### Original Table
 
 ![6.2.13-Economic-Activities-of-Persons-Aged-15-Years-and-Over-with-Disabilities,-2024](data/final-report-tables/chapter-6/6.2.13-Economic-Activities-of-Persons-Aged-15-Years-and-Over-with-Disabilities,-2024/original.png)
 
-#### 🟠 [Table 6.2.14](data/final-report-tables/chapter-6/6.2.14-Economic-Activity-of-Persons-Aged-15-Years-and-Over-with-Disabilities-by-Domain-of-Disability,-2024) - Economic Activity of Persons Aged 15 Years and Over with Disabilities by Domain of Disability, 2024
+### Source
 
-##### Raw Data (first 10 rows)
+- [https://www.statistics.gov.lk/Resource/en/Population/CPH_2024/CPH2024_Final_Eng.pdf](https://www.statistics.gov.lk/Resource/en/Population/CPH_2024/CPH2024_Final_Eng.pdf) (Table 6.2.13)
+
+## 66. [Economic Activity of Persons Aged 15 Years and Over with Disabilities by Domain of Disability, 2024](data/final-report-tables/chapter-6/6.2.14-Economic-Activity-of-Persons-Aged-15-Years-and-Over-with-Disabilities-by-Domain-of-Disability,-2024)
+*🟠 Raw Text Data was extracted from PDF, but not parsed into structured data.*
+
+### Raw Data (first 10 rows)
 
 | Col 1 | Col 2 | Col 3 | Col 4 | Col 5 | Col 6 | Col 7 | Col 8 | Col 9 | Col 10 | Col 11 | Col 12 | Col 13 |
 | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- |
@@ -1503,9 +1753,14 @@ District |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 | Economically inactive | 155,057 | 100.0 | 108,114 | 100.0 | 402,699 | 100.0 | 151,271 | 100.0 | 172,477 | 100.0 | 91,517 | 100.0 |
 | Engaged educational or vocational training |  |  |  |  |  |  |  |  |  |  |  |  |
 
-#### 🟠 [Table 6.3.1](data/final-report-tables/chapter-6/6.3.1-Number-of-Persons-Reporting-and-Not-Reporting-Diseases,-2024) - Number of Persons Reporting and Not Reporting Diseases, 2024
+### Source
 
-##### Raw Data (first 10 rows)
+- [https://www.statistics.gov.lk/Resource/en/Population/CPH_2024/CPH2024_Final_Eng.pdf](https://www.statistics.gov.lk/Resource/en/Population/CPH_2024/CPH2024_Final_Eng.pdf) (Table 6.2.14)
+
+## 67. [Number of Persons Reporting and Not Reporting Diseases, 2024](data/final-report-tables/chapter-6/6.3.1-Number-of-Persons-Reporting-and-Not-Reporting-Diseases,-2024)
+*🟠 Raw Text Data was extracted from PDF, but not parsed into structured data.*
+
+### Raw Data (first 10 rows)
 
 | Col 1 | Col 2 |
 | :-- | :-- |
@@ -1521,57 +1776,102 @@ ntroduction |  |
 | some commonly reported NCDs such as diabetes, high cholesterol, high blood pressure, heart disease, |  |
 | kidney disease, thalassemia, cancer, stroke, asthma, and epilepsy. |  |
 
-#### 🔴 [Table 6.3.2](data/final-report-tables/chapter-6/6.3.2-Prevalence-Rates-of-the-Population-with-at-Least-One-Non-Communicable-Disease-by-Age-Group-and-Sex,) - Prevalence Rates of the Population with at Least One Non-Communicable Disease by Age Group and Sex,
+### Source
 
-##### Original Table
+- [https://www.statistics.gov.lk/Resource/en/Population/CPH_2024/CPH2024_Final_Eng.pdf](https://www.statistics.gov.lk/Resource/en/Population/CPH_2024/CPH2024_Final_Eng.pdf) (Table 6.3.1)
+
+## 68. [Prevalence Rates of the Population with at Least One Non-Communicable Disease by Age Group and Sex,](data/final-report-tables/chapter-6/6.3.2-Prevalence-Rates-of-the-Population-with-at-Least-One-Non-Communicable-Disease-by-Age-Group-and-Sex,)
+*🔴 Table was detected in PDF, but not parsed into textual data.*
+
+### Original Table
 
 ![6.3.2-Prevalence-Rates-of-the-Population-with-at-Least-One-Non-Communicable-Disease-by-Age-Group-and-Sex,](data/final-report-tables/chapter-6/6.3.2-Prevalence-Rates-of-the-Population-with-at-Least-One-Non-Communicable-Disease-by-Age-Group-and-Sex,/original.png)
 
-#### 🔴 [Table 6.3.3](data/final-report-tables/chapter-6/6.3.3-Number-of-Individuals-Living-with-Non-Communicable-Diseases-and-Prevalence-Rates,-2024) - Number of Individuals Living with Non-Communicable Diseases and Prevalence Rates, 2024
+### Source
 
-##### Original Table
+- [https://www.statistics.gov.lk/Resource/en/Population/CPH_2024/CPH2024_Final_Eng.pdf](https://www.statistics.gov.lk/Resource/en/Population/CPH_2024/CPH2024_Final_Eng.pdf) (Table 6.3.2)
+
+## 69. [Number of Individuals Living with Non-Communicable Diseases and Prevalence Rates, 2024](data/final-report-tables/chapter-6/6.3.3-Number-of-Individuals-Living-with-Non-Communicable-Diseases-and-Prevalence-Rates,-2024)
+*🔴 Table was detected in PDF, but not parsed into textual data.*
+
+### Original Table
 
 ![6.3.3-Number-of-Individuals-Living-with-Non-Communicable-Diseases-and-Prevalence-Rates,-2024](data/final-report-tables/chapter-6/6.3.3-Number-of-Individuals-Living-with-Non-Communicable-Diseases-and-Prevalence-Rates,-2024/original.png)
 
-#### 🔴 [Table 6.3.4](data/final-report-tables/chapter-6/6.3.4-Prevalence-Rates-of-Non-Communicable-Diseases-by-District,-2024) - Prevalence Rates of Non-Communicable Diseases by District, 2024
+### Source
 
-##### Original Table
+- [https://www.statistics.gov.lk/Resource/en/Population/CPH_2024/CPH2024_Final_Eng.pdf](https://www.statistics.gov.lk/Resource/en/Population/CPH_2024/CPH2024_Final_Eng.pdf) (Table 6.3.3)
+
+## 70. [Prevalence Rates of Non-Communicable Diseases by District, 2024](data/final-report-tables/chapter-6/6.3.4-Prevalence-Rates-of-Non-Communicable-Diseases-by-District,-2024)
+*🔴 Table was detected in PDF, but not parsed into textual data.*
+
+### Original Table
 
 ![6.3.4-Prevalence-Rates-of-Non-Communicable-Diseases-by-District,-2024](data/final-report-tables/chapter-6/6.3.4-Prevalence-Rates-of-Non-Communicable-Diseases-by-District,-2024/original.png)
 
-#### 🔴 [Table 6.3.5](data/final-report-tables/chapter-6/6.3.5-Prevalence-Rates-of-Self-Reported-Illnesses-by-Sector,-2024) - Prevalence Rates of Self-Reported Illnesses by Sector, 2024
+### Source
 
-##### Original Table
+- [https://www.statistics.gov.lk/Resource/en/Population/CPH_2024/CPH2024_Final_Eng.pdf](https://www.statistics.gov.lk/Resource/en/Population/CPH_2024/CPH2024_Final_Eng.pdf) (Table 6.3.4)
+
+## 71. [Prevalence Rates of Self-Reported Illnesses by Sector, 2024](data/final-report-tables/chapter-6/6.3.5-Prevalence-Rates-of-Self-Reported-Illnesses-by-Sector,-2024)
+*🔴 Table was detected in PDF, but not parsed into textual data.*
+
+### Original Table
 
 ![6.3.5-Prevalence-Rates-of-Self-Reported-Illnesses-by-Sector,-2024](data/final-report-tables/chapter-6/6.3.5-Prevalence-Rates-of-Self-Reported-Illnesses-by-Sector,-2024/original.png)
 
-#### 🔴 [Table 6.3.6](data/final-report-tables/chapter-6/6.3.6-Prevalence-Rates-of-Non-Communicable-Diseases-by-Sex,-2024) - Prevalence Rates of Non-Communicable Diseases by Sex, 2024
+### Source
 
-##### Original Table
+- [https://www.statistics.gov.lk/Resource/en/Population/CPH_2024/CPH2024_Final_Eng.pdf](https://www.statistics.gov.lk/Resource/en/Population/CPH_2024/CPH2024_Final_Eng.pdf) (Table 6.3.5)
+
+## 72. [Prevalence Rates of Non-Communicable Diseases by Sex, 2024](data/final-report-tables/chapter-6/6.3.6-Prevalence-Rates-of-Non-Communicable-Diseases-by-Sex,-2024)
+*🔴 Table was detected in PDF, but not parsed into textual data.*
+
+### Original Table
 
 ![6.3.6-Prevalence-Rates-of-Non-Communicable-Diseases-by-Sex,-2024](data/final-report-tables/chapter-6/6.3.6-Prevalence-Rates-of-Non-Communicable-Diseases-by-Sex,-2024/original.png)
 
-#### 🔴 [Table 6.3.7](data/final-report-tables/chapter-6/6.3.7-Prevalence-Rates-of-Non-Communicable-Diseases-by-Age-Group,-2024) - Prevalence Rates of Non-Communicable Diseases by Age Group, 2024
+### Source
 
-##### Original Table
+- [https://www.statistics.gov.lk/Resource/en/Population/CPH_2024/CPH2024_Final_Eng.pdf](https://www.statistics.gov.lk/Resource/en/Population/CPH_2024/CPH2024_Final_Eng.pdf) (Table 6.3.6)
+
+## 73. [Prevalence Rates of Non-Communicable Diseases by Age Group, 2024](data/final-report-tables/chapter-6/6.3.7-Prevalence-Rates-of-Non-Communicable-Diseases-by-Age-Group,-2024)
+*🔴 Table was detected in PDF, but not parsed into textual data.*
+
+### Original Table
 
 ![6.3.7-Prevalence-Rates-of-Non-Communicable-Diseases-by-Age-Group,-2024](data/final-report-tables/chapter-6/6.3.7-Prevalence-Rates-of-Non-Communicable-Diseases-by-Age-Group,-2024/original.png)
 
-#### 🔴 [Table 6.3.8](data/final-report-tables/chapter-6/6.3.8-Prevalence-Rates-of-Non-Communicable-Diseases-by-Broad-Age-Groups,-2024) - Prevalence Rates of Non-Communicable Diseases by Broad Age Groups, 2024
+### Source
 
-##### Original Table
+- [https://www.statistics.gov.lk/Resource/en/Population/CPH_2024/CPH2024_Final_Eng.pdf](https://www.statistics.gov.lk/Resource/en/Population/CPH_2024/CPH2024_Final_Eng.pdf) (Table 6.3.7)
+
+## 74. [Prevalence Rates of Non-Communicable Diseases by Broad Age Groups, 2024](data/final-report-tables/chapter-6/6.3.8-Prevalence-Rates-of-Non-Communicable-Diseases-by-Broad-Age-Groups,-2024)
+*🔴 Table was detected in PDF, but not parsed into textual data.*
+
+### Original Table
 
 ![6.3.8-Prevalence-Rates-of-Non-Communicable-Diseases-by-Broad-Age-Groups,-2024](data/final-report-tables/chapter-6/6.3.8-Prevalence-Rates-of-Non-Communicable-Diseases-by-Broad-Age-Groups,-2024/original.png)
 
-#### 🔴 [Table 6.3.9](data/final-report-tables/chapter-6/6.3.9-Prevalence-Rates-of-Non-Communicable-Diseases-by-Marital-Status,-2024) - Prevalence Rates of Non-Communicable Diseases by Marital Status, 2024
+### Source
 
-##### Original Table
+- [https://www.statistics.gov.lk/Resource/en/Population/CPH_2024/CPH2024_Final_Eng.pdf](https://www.statistics.gov.lk/Resource/en/Population/CPH_2024/CPH2024_Final_Eng.pdf) (Table 6.3.8)
+
+## 75. [Prevalence Rates of Non-Communicable Diseases by Marital Status, 2024](data/final-report-tables/chapter-6/6.3.9-Prevalence-Rates-of-Non-Communicable-Diseases-by-Marital-Status,-2024)
+*🔴 Table was detected in PDF, but not parsed into textual data.*
+
+### Original Table
 
 ![6.3.9-Prevalence-Rates-of-Non-Communicable-Diseases-by-Marital-Status,-2024](data/final-report-tables/chapter-6/6.3.9-Prevalence-Rates-of-Non-Communicable-Diseases-by-Marital-Status,-2024/original.png)
 
-#### 🟠 [Table 6.3.10](data/final-report-tables/chapter-6/6.3.10-Prevalence-Rates-of-Non-Communicable-Diseases-by-Ethnic-Group,-2024) - Prevalence Rates of Non-Communicable Diseases by Ethnic Group, 2024
+### Source
 
-##### Raw Data (first 10 rows)
+- [https://www.statistics.gov.lk/Resource/en/Population/CPH_2024/CPH2024_Final_Eng.pdf](https://www.statistics.gov.lk/Resource/en/Population/CPH_2024/CPH2024_Final_Eng.pdf) (Table 6.3.9)
+
+## 76. [Prevalence Rates of Non-Communicable Diseases by Ethnic Group, 2024](data/final-report-tables/chapter-6/6.3.10-Prevalence-Rates-of-Non-Communicable-Diseases-by-Ethnic-Group,-2024)
+*🟠 Raw Text Data was extracted from PDF, but not parsed into structured data.*
+
+### Raw Data (first 10 rows)
 
 | Col 1 | Col 2 | Col 3 | Col 4 | Col 5 | Col 6 | Col 7 | Col 8 | Col 9 | Col 10 | Col 11 | Col 12 |
 | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- |
@@ -1587,9 +1887,14 @@ Pressure | Heart Disease | Kidney Disease | Thalassemia | Cancer | Stroke | Asth
 | Burgher | 31,717 | 10.7 | 10.0 | 12.2 | 3.1 | 0.6 | 0.1 | 0.5 | 0.6 | 1.9 | 0.2 |
 | Malay | 26,649 | 11.5 | 10.4 | 13.8 | 3.0 | 0.7 | 0.1 | 0.4 | 0.5 | 1.7 | 0.3 |
 
-#### 🟠 [Table 6.3.11](data/final-report-tables/chapter-6/6.3.11-Prevalence-Rates-for-the-Population-Aged-25-and-Over-by-Highest-Educational-Qualification,-2024) - Prevalence Rates for the Population Aged 25 and Over by Highest Educational Qualification, 2024
+### Source
 
-##### Raw Data (first 10 rows)
+- [https://www.statistics.gov.lk/Resource/en/Population/CPH_2024/CPH2024_Final_Eng.pdf](https://www.statistics.gov.lk/Resource/en/Population/CPH_2024/CPH2024_Final_Eng.pdf) (Table 6.3.10)
+
+## 77. [Prevalence Rates for the Population Aged 25 and Over by Highest Educational Qualification, 2024](data/final-report-tables/chapter-6/6.3.11-Prevalence-Rates-for-the-Population-Aged-25-and-Over-by-Highest-Educational-Qualification,-2024)
+*🟠 Raw Text Data was extracted from PDF, but not parsed into structured data.*
+
+### Raw Data (first 10 rows)
 
 | Col 1 | Col 2 | Col 3 | Col 4 | Col 5 | Col 6 | Col 7 | Col 8 | Col 9 | Col 10 | Col 11 | Col 12 |
 | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- |
@@ -1605,9 +1910,14 @@ Pressure | Heart Disease | Kidney Disease | Thalassemia | Cancer | Stroke | Asth
 | Passed grade 9 - 10 | 3,385,486 | 12.1 | 11.7 | 13.7 | 3.3 | 1.0 | 0.1 | 0.6 | 0.7 | 2.2 | 0.3 |
 | G.C.E. (O/L) or equal | 3,054,744 | 12.4 | 11.7 | 13.5 | 3.1 | 0.8 | 0.1 | 0.5 | 0.5 | 1.6 | 0.2 |
 
-#### 🟠 [Table 6.3.12](data/final-report-tables/chapter-6/6.3.12-Prevalence-Rates-of-NCDs-by-Employment-Status,-2024) - Prevalence Rates of NCDs by Employment Status, 2024
+### Source
 
-##### Raw Data (first 10 rows)
+- [https://www.statistics.gov.lk/Resource/en/Population/CPH_2024/CPH2024_Final_Eng.pdf](https://www.statistics.gov.lk/Resource/en/Population/CPH_2024/CPH2024_Final_Eng.pdf) (Table 6.3.11)
+
+## 78. [Prevalence Rates of NCDs by Employment Status, 2024](data/final-report-tables/chapter-6/6.3.12-Prevalence-Rates-of-NCDs-by-Employment-Status,-2024)
+*🟠 Raw Text Data was extracted from PDF, but not parsed into structured data.*
+
+### Raw Data (first 10 rows)
 
 | Col 1 | Col 2 | Col 3 | Col 4 | Col 5 | Col 6 | Col 7 | Col 8 | Col 9 | Col 10 | Col 11 | Col 12 |
 | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- |
@@ -1624,41 +1934,69 @@ Pressure |  |  | Thalassemia | Cancer | Stroke | Asthma | Epilepsy |
 |  | 170,713 | 7.6 | 6.9 | 6.5 | 1.5 | 0.3 | 0.0 | 0.2 | 0.1 | 0.9 | 0.1 |
 | employee |  |  |  |  |  |  |  |  |  |  |  |
 
-### Chapter 7
+### Source
 
-#### 🔴 [Table 7.1](data/final-report-tables/chapter-7/7.1-Population-Aged-3-Years-and-Over-by-Sex-and-Educational-Activity-During-the-Census-Reference-Period,) - Population Aged 3 Years and Over by Sex and Educational Activity During the Census Reference Period,
+- [https://www.statistics.gov.lk/Resource/en/Population/CPH_2024/CPH2024_Final_Eng.pdf](https://www.statistics.gov.lk/Resource/en/Population/CPH_2024/CPH2024_Final_Eng.pdf) (Table 6.3.12)
 
-##### Original Table
+## 79. [Population Aged 3 Years and Over by Sex and Educational Activity During the Census Reference Period,](data/final-report-tables/chapter-7/7.1-Population-Aged-3-Years-and-Over-by-Sex-and-Educational-Activity-During-the-Census-Reference-Period,)
+*🔴 Table was detected in PDF, but not parsed into textual data.*
+
+### Original Table
 
 ![7.1-Population-Aged-3-Years-and-Over-by-Sex-and-Educational-Activity-During-the-Census-Reference-Period,](data/final-report-tables/chapter-7/7.1-Population-Aged-3-Years-and-Over-by-Sex-and-Educational-Activity-During-the-Census-Reference-Period,/original.png)
 
-#### 🔴 [Table 7.2](data/final-report-tables/chapter-7/7.2-Percentage-Pistribution-of-Population-Aged-03-Years-and-Over-by-Educational-Activity-and-Age-Group,-2024) - Percentage Pistribution of Population Aged 03 Years and Over by Educational Activity and Age Group, 2024
+### Source
 
-##### Original Table
+- [https://www.statistics.gov.lk/Resource/en/Population/CPH_2024/CPH2024_Final_Eng.pdf](https://www.statistics.gov.lk/Resource/en/Population/CPH_2024/CPH2024_Final_Eng.pdf) (Table 7.1)
+
+## 80. [Percentage Pistribution of Population Aged 03 Years and Over by Educational Activity and Age Group, 2024](data/final-report-tables/chapter-7/7.2-Percentage-Pistribution-of-Population-Aged-03-Years-and-Over-by-Educational-Activity-and-Age-Group,-2024)
+*🔴 Table was detected in PDF, but not parsed into textual data.*
+
+### Original Table
 
 ![7.2-Percentage-Pistribution-of-Population-Aged-03-Years-and-Over-by-Educational-Activity-and-Age-Group,-2024](data/final-report-tables/chapter-7/7.2-Percentage-Pistribution-of-Population-Aged-03-Years-and-Over-by-Educational-Activity-and-Age-Group,-2024/original.png)
 
-#### 🔴 [Table 7.3](data/final-report-tables/chapter-7/7.3-Children-Enrolled-in-Pre-school-Education-During-the-Reference-Period-by-Age,-2024) - Children Enrolled in Pre-school Education During the Reference Period by Age, 2024
+### Source
 
-##### Original Table
+- [https://www.statistics.gov.lk/Resource/en/Population/CPH_2024/CPH2024_Final_Eng.pdf](https://www.statistics.gov.lk/Resource/en/Population/CPH_2024/CPH2024_Final_Eng.pdf) (Table 7.2)
+
+## 81. [Children Enrolled in Pre-school Education During the Reference Period by Age, 2024](data/final-report-tables/chapter-7/7.3-Children-Enrolled-in-Pre-school-Education-During-the-Reference-Period-by-Age,-2024)
+*🔴 Table was detected in PDF, but not parsed into textual data.*
+
+### Original Table
 
 ![7.3-Children-Enrolled-in-Pre-school-Education-During-the-Reference-Period-by-Age,-2024](data/final-report-tables/chapter-7/7.3-Children-Enrolled-in-Pre-school-Education-During-the-Reference-Period-by-Age,-2024/original.png)
 
-#### 🔴 [Table 7.4](data/final-report-tables/chapter-7/7.4-Percentage-of-Children-Receiving-Preschool-Education-by-Age-Group-and-District,-2024) - Percentage of Children Receiving Preschool Education by Age Group and District, 2024
+### Source
 
-##### Original Table
+- [https://www.statistics.gov.lk/Resource/en/Population/CPH_2024/CPH2024_Final_Eng.pdf](https://www.statistics.gov.lk/Resource/en/Population/CPH_2024/CPH2024_Final_Eng.pdf) (Table 7.3)
+
+## 82. [Percentage of Children Receiving Preschool Education by Age Group and District, 2024](data/final-report-tables/chapter-7/7.4-Percentage-of-Children-Receiving-Preschool-Education-by-Age-Group-and-District,-2024)
+*🔴 Table was detected in PDF, but not parsed into textual data.*
+
+### Original Table
 
 ![7.4-Percentage-of-Children-Receiving-Preschool-Education-by-Age-Group-and-District,-2024](data/final-report-tables/chapter-7/7.4-Percentage-of-Children-Receiving-Preschool-Education-by-Age-Group-and-District,-2024/original.png)
 
-#### 🔴 [Table 7.5](data/final-report-tables/chapter-7/7.5-Population-Engaged-in-School-Education-During-the-Reference-Period-by-Age-Group-and-Sex,) - Population Engaged in School Education During the Reference Period by Age Group and Sex,
+### Source
 
-##### Original Table
+- [https://www.statistics.gov.lk/Resource/en/Population/CPH_2024/CPH2024_Final_Eng.pdf](https://www.statistics.gov.lk/Resource/en/Population/CPH_2024/CPH2024_Final_Eng.pdf) (Table 7.4)
+
+## 83. [Population Engaged in School Education During the Reference Period by Age Group and Sex,](data/final-report-tables/chapter-7/7.5-Population-Engaged-in-School-Education-During-the-Reference-Period-by-Age-Group-and-Sex,)
+*🔴 Table was detected in PDF, but not parsed into textual data.*
+
+### Original Table
 
 ![7.5-Population-Engaged-in-School-Education-During-the-Reference-Period-by-Age-Group-and-Sex,](data/final-report-tables/chapter-7/7.5-Population-Engaged-in-School-Education-During-the-Reference-Period-by-Age-Group-and-Sex,/original.png)
 
-#### 🟠 [Table 7.6](data/final-report-tables/chapter-7/7.6-The-Educational-Level-of-the-Population-Age-25-Years-and-Over-by-Sex,-2012-and-2024) - The Educational Level of the Population Age 25 Years and Over by Sex, 2012 and 2024
+### Source
 
-##### Raw Data (first 10 rows)
+- [https://www.statistics.gov.lk/Resource/en/Population/CPH_2024/CPH2024_Final_Eng.pdf](https://www.statistics.gov.lk/Resource/en/Population/CPH_2024/CPH2024_Final_Eng.pdf) (Table 7.5)
+
+## 84. [The Educational Level of the Population Age 25 Years and Over by Sex, 2012 and 2024](data/final-report-tables/chapter-7/7.6-The-Educational-Level-of-the-Population-Age-25-Years-and-Over-by-Sex,-2012-and-2024)
+*🟠 Raw Text Data was extracted from PDF, but not parsed into structured data.*
+
+### Raw Data (first 10 rows)
 
 | Col 1 | Col 2 | Col 3 | Col 4 | Col 5 | Col 6 | Col 7 | Col 8 | Col 9 | Col 10 | Col 11 | Col 12 | Col 13 |
 | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- |
@@ -1673,9 +2011,14 @@ Pressure |  |  | Thalassemia | Cancer | Stroke | Asthma | Epilepsy |
 | Passed Grades 9 - 10 | 2,886,830 | 23.9 | 3,385,775 | 24.5 | 1,407,833 | 24.7 | 1,692,481 | 25.9 | 1,478,997 | 23.3 | 1,693,294 | 23.1 |
 | G.C.E. O/L or equivalent | 2,303,018 | 19.1 | 3,054,871 | 22.0 | 1,100,762 | 19.3 | 1,485,269 | 22.7 | 1,202,256 | 18.9 | 1,569,602 | 21.4 |
 
-#### 🟠 [Table 7.7](data/final-report-tables/chapter-7/7.7-Percentage-Distribution-of-Population-Aged-25-and-Over-by-Educational-Level-and-District,-2012-and-2024) - Percentage Distribution of Population Aged 25 and Over by Educational Level and District, 2012 and 2024
+### Source
 
-##### Raw Data (first 10 rows)
+- [https://www.statistics.gov.lk/Resource/en/Population/CPH_2024/CPH2024_Final_Eng.pdf](https://www.statistics.gov.lk/Resource/en/Population/CPH_2024/CPH2024_Final_Eng.pdf) (Table 7.6)
+
+## 85. [Percentage Distribution of Population Aged 25 and Over by Educational Level and District, 2012 and 2024](data/final-report-tables/chapter-7/7.7-Percentage-Distribution-of-Population-Aged-25-and-Over-by-Educational-Level-and-District,-2012-and-2024)
+*🟠 Raw Text Data was extracted from PDF, but not parsed into structured data.*
+
+### Raw Data (first 10 rows)
 
 | Col 1 | Col 2 | Col 3 | Col 4 | Col 5 | Col 6 | Col 7 | Col 8 | Col 9 | Col 10 | Col 11 | Col 12 | Col 13 | Col 14 | Col 15 |
 | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- |
@@ -1690,95 +2033,168 @@ Pressure |  |  | Thalassemia | Cancer | Stroke | Asthma | Epilepsy |
 | Gampaha | 1,419,483 | 1,620,233 | 100.0 | 100.0 | 1.8 | 1.1 | 9.7 | 6.1 | 40.8 | 33.2 | 25.2 | 27.1 | 22.6 | 32.5 |
 | Kalutara | 748,643 | 847,732 | 100.0 | 100.0 | 3.1 | 1.8 | 14.5 | 9.4 | 40.0 | 36.6 | 22.4 | 23.8 | 20.0 | 28.4 |
 
-#### 🔴 [Table 7.8](data/final-report-tables/chapter-7/7.8-Language-Literacy-Rate-by-Census-Year-and-Sex,-2024) - Language Literacy Rate by Census Year and Sex, 2024
+### Source
 
-##### Original Table
+- [https://www.statistics.gov.lk/Resource/en/Population/CPH_2024/CPH2024_Final_Eng.pdf](https://www.statistics.gov.lk/Resource/en/Population/CPH_2024/CPH2024_Final_Eng.pdf) (Table 7.7)
+
+## 86. [Language Literacy Rate by Census Year and Sex, 2024](data/final-report-tables/chapter-7/7.8-Language-Literacy-Rate-by-Census-Year-and-Sex,-2024)
+*🔴 Table was detected in PDF, but not parsed into textual data.*
+
+### Original Table
 
 ![7.8-Language-Literacy-Rate-by-Census-Year-and-Sex,-2024](data/final-report-tables/chapter-7/7.8-Language-Literacy-Rate-by-Census-Year-and-Sex,-2024/original.png)
 
-#### 🔴 [Table 7.9](data/final-report-tables/chapter-7/7.9-Language-Literacy-Rate-by-Language-and-Age-Group,-2024) - Language Literacy Rate by Language and Age Group, 2024
+### Source
 
-##### Original Table
+- [https://www.statistics.gov.lk/Resource/en/Population/CPH_2024/CPH2024_Final_Eng.pdf](https://www.statistics.gov.lk/Resource/en/Population/CPH_2024/CPH2024_Final_Eng.pdf) (Table 7.8)
+
+## 87. [Language Literacy Rate by Language and Age Group, 2024](data/final-report-tables/chapter-7/7.9-Language-Literacy-Rate-by-Language-and-Age-Group,-2024)
+*🔴 Table was detected in PDF, but not parsed into textual data.*
+
+### Original Table
 
 ![7.9-Language-Literacy-Rate-by-Language-and-Age-Group,-2024](data/final-report-tables/chapter-7/7.9-Language-Literacy-Rate-by-Language-and-Age-Group,-2024/original.png)
 
-#### 🔴 [Table 7.10](data/final-report-tables/chapter-7/7.10-Language-Literacy-Rate-by-Language-and-District,-2024) - Language Literacy Rate by Language and District, 2024
+### Source
 
-##### Original Table
+- [https://www.statistics.gov.lk/Resource/en/Population/CPH_2024/CPH2024_Final_Eng.pdf](https://www.statistics.gov.lk/Resource/en/Population/CPH_2024/CPH2024_Final_Eng.pdf) (Table 7.9)
+
+## 88. [Language Literacy Rate by Language and District, 2024](data/final-report-tables/chapter-7/7.10-Language-Literacy-Rate-by-Language-and-District,-2024)
+*🔴 Table was detected in PDF, but not parsed into textual data.*
+
+### Original Table
 
 ![7.10-Language-Literacy-Rate-by-Language-and-District,-2024](data/final-report-tables/chapter-7/7.10-Language-Literacy-Rate-by-Language-and-District,-2024/original.png)
 
-#### 🔴 [Table 7.11](data/final-report-tables/chapter-7/7.11-Language-Literacy-Rate-by-Language-and-Ethnic-Group,-2012-and-2024) - Language Literacy Rate by Language and Ethnic Group, 2012 and 2024
+### Source
 
-##### Original Table
+- [https://www.statistics.gov.lk/Resource/en/Population/CPH_2024/CPH2024_Final_Eng.pdf](https://www.statistics.gov.lk/Resource/en/Population/CPH_2024/CPH2024_Final_Eng.pdf) (Table 7.10)
+
+## 89. [Language Literacy Rate by Language and Ethnic Group, 2012 and 2024](data/final-report-tables/chapter-7/7.11-Language-Literacy-Rate-by-Language-and-Ethnic-Group,-2012-and-2024)
+*🔴 Table was detected in PDF, but not parsed into textual data.*
+
+### Original Table
 
 ![7.11-Language-Literacy-Rate-by-Language-and-Ethnic-Group,-2012-and-2024](data/final-report-tables/chapter-7/7.11-Language-Literacy-Rate-by-Language-and-Ethnic-Group,-2012-and-2024/original.png)
 
-#### 🔴 [Table 7.12](data/final-report-tables/chapter-7/7.12-Computer-and-Digital-Literacy-Rate-by-Sector,2024) - Computer and Digital Literacy Rate by Sector,2024
+### Source
 
-##### Original Table
+- [https://www.statistics.gov.lk/Resource/en/Population/CPH_2024/CPH2024_Final_Eng.pdf](https://www.statistics.gov.lk/Resource/en/Population/CPH_2024/CPH2024_Final_Eng.pdf) (Table 7.11)
+
+## 90. [Computer and Digital Literacy Rate by Sector,2024](data/final-report-tables/chapter-7/7.12-Computer-and-Digital-Literacy-Rate-by-Sector,2024)
+*🔴 Table was detected in PDF, but not parsed into textual data.*
+
+### Original Table
 
 ![7.12-Computer-and-Digital-Literacy-Rate-by-Sector,2024](data/final-report-tables/chapter-7/7.12-Computer-and-Digital-Literacy-Rate-by-Sector,2024/original.png)
 
-#### 🔴 [Table 7.13](data/final-report-tables/chapter-7/7.13-Computer-and-Digital-Literacy-Rate-by-District,-2024) - Computer and Digital Literacy Rate by District, 2024
+### Source
 
-##### Original Table
+- [https://www.statistics.gov.lk/Resource/en/Population/CPH_2024/CPH2024_Final_Eng.pdf](https://www.statistics.gov.lk/Resource/en/Population/CPH_2024/CPH2024_Final_Eng.pdf) (Table 7.12)
+
+## 91. [Computer and Digital Literacy Rate by District, 2024](data/final-report-tables/chapter-7/7.13-Computer-and-Digital-Literacy-Rate-by-District,-2024)
+*🔴 Table was detected in PDF, but not parsed into textual data.*
+
+### Original Table
 
 ![7.13-Computer-and-Digital-Literacy-Rate-by-District,-2024](data/final-report-tables/chapter-7/7.13-Computer-and-Digital-Literacy-Rate-by-District,-2024/original.png)
 
-#### 🔴 [Table 7.14](data/final-report-tables/chapter-7/7.14-Computer-and-Digital-Literacy-Rate-by-Age-Group,) - Computer and Digital Literacy Rate by Age Group,
+### Source
 
-##### Original Table
+- [https://www.statistics.gov.lk/Resource/en/Population/CPH_2024/CPH2024_Final_Eng.pdf](https://www.statistics.gov.lk/Resource/en/Population/CPH_2024/CPH2024_Final_Eng.pdf) (Table 7.13)
+
+## 92. [Computer and Digital Literacy Rate by Age Group,](data/final-report-tables/chapter-7/7.14-Computer-and-Digital-Literacy-Rate-by-Age-Group,)
+*🔴 Table was detected in PDF, but not parsed into textual data.*
+
+### Original Table
 
 ![7.14-Computer-and-Digital-Literacy-Rate-by-Age-Group,](data/final-report-tables/chapter-7/7.14-Computer-and-Digital-Literacy-Rate-by-Age-Group,/original.png)
 
-### Chapter 8
+### Source
 
-#### 🔴 [Table 8.1](data/final-report-tables/chapter-8/8.1-Economically-Active-and-Inactive-Population-by-Sex,-2024) - Economically Active and Inactive Population by Sex, 2024
+- [https://www.statistics.gov.lk/Resource/en/Population/CPH_2024/CPH2024_Final_Eng.pdf](https://www.statistics.gov.lk/Resource/en/Population/CPH_2024/CPH2024_Final_Eng.pdf) (Table 7.14)
 
-##### Original Table
+## 93. [Economically Active and Inactive Population by Sex, 2024](data/final-report-tables/chapter-8/8.1-Economically-Active-and-Inactive-Population-by-Sex,-2024)
+*🔴 Table was detected in PDF, but not parsed into textual data.*
+
+### Original Table
 
 ![8.1-Economically-Active-and-Inactive-Population-by-Sex,-2024](data/final-report-tables/chapter-8/8.1-Economically-Active-and-Inactive-Population-by-Sex,-2024/original.png)
 
-#### 🔴 [Table 8.2](data/final-report-tables/chapter-8/8.2-Economically-Active-Population,-by-Sector-and-Sex,-2024) - Economically Active Population, by Sector and Sex, 2024
+### Source
 
-##### Original Table
+- [https://www.statistics.gov.lk/Resource/en/Population/CPH_2024/CPH2024_Final_Eng.pdf](https://www.statistics.gov.lk/Resource/en/Population/CPH_2024/CPH2024_Final_Eng.pdf) (Table 8.1)
+
+## 94. [Economically Active Population, by Sector and Sex, 2024](data/final-report-tables/chapter-8/8.2-Economically-Active-Population,-by-Sector-and-Sex,-2024)
+*🔴 Table was detected in PDF, but not parsed into textual data.*
+
+### Original Table
 
 ![8.2-Economically-Active-Population,-by-Sector-and-Sex,-2024](data/final-report-tables/chapter-8/8.2-Economically-Active-Population,-by-Sector-and-Sex,-2024/original.png)
 
-#### 🔴 [Table 8.3](data/final-report-tables/chapter-8/8.3-Economically-Active-Population-by-Sex-and-Age-Group,-2024) - Economically Active Population by Sex and Age Group, 2024
+### Source
 
-##### Original Table
+- [https://www.statistics.gov.lk/Resource/en/Population/CPH_2024/CPH2024_Final_Eng.pdf](https://www.statistics.gov.lk/Resource/en/Population/CPH_2024/CPH2024_Final_Eng.pdf) (Table 8.2)
+
+## 95. [Economically Active Population by Sex and Age Group, 2024](data/final-report-tables/chapter-8/8.3-Economically-Active-Population-by-Sex-and-Age-Group,-2024)
+*🔴 Table was detected in PDF, but not parsed into textual data.*
+
+### Original Table
 
 ![8.3-Economically-Active-Population-by-Sex-and-Age-Group,-2024](data/final-report-tables/chapter-8/8.3-Economically-Active-Population-by-Sex-and-Age-Group,-2024/original.png)
 
-#### 🔴 [Table 8.4](data/final-report-tables/chapter-8/8.4-Labour-Force-Participation-Rate-by-Age-Group-and-Sex,-2024) - Labour Force Participation Rate by Age Group and Sex, 2024
+### Source
 
-##### Original Table
+- [https://www.statistics.gov.lk/Resource/en/Population/CPH_2024/CPH2024_Final_Eng.pdf](https://www.statistics.gov.lk/Resource/en/Population/CPH_2024/CPH2024_Final_Eng.pdf) (Table 8.3)
+
+## 96. [Labour Force Participation Rate by Age Group and Sex, 2024](data/final-report-tables/chapter-8/8.4-Labour-Force-Participation-Rate-by-Age-Group-and-Sex,-2024)
+*🔴 Table was detected in PDF, but not parsed into textual data.*
+
+### Original Table
 
 ![8.4-Labour-Force-Participation-Rate-by-Age-Group-and-Sex,-2024](data/final-report-tables/chapter-8/8.4-Labour-Force-Participation-Rate-by-Age-Group-and-Sex,-2024/original.png)
 
-#### 🔴 [Table 8.5](data/final-report-tables/chapter-8/8.5-Labour-Force-Participation-Rate,-by-Highest-Educational-Qualification-Attained-and-Sex,-2024) - Labour Force Participation Rate, by Highest Educational Qualification Attained and Sex, 2024
+### Source
 
-##### Original Table
+- [https://www.statistics.gov.lk/Resource/en/Population/CPH_2024/CPH2024_Final_Eng.pdf](https://www.statistics.gov.lk/Resource/en/Population/CPH_2024/CPH2024_Final_Eng.pdf) (Table 8.4)
+
+## 97. [Labour Force Participation Rate, by Highest Educational Qualification Attained and Sex, 2024](data/final-report-tables/chapter-8/8.5-Labour-Force-Participation-Rate,-by-Highest-Educational-Qualification-Attained-and-Sex,-2024)
+*🔴 Table was detected in PDF, but not parsed into textual data.*
+
+### Original Table
 
 ![8.5-Labour-Force-Participation-Rate,-by-Highest-Educational-Qualification-Attained-and-Sex,-2024](data/final-report-tables/chapter-8/8.5-Labour-Force-Participation-Rate,-by-Highest-Educational-Qualification-Attained-and-Sex,-2024/original.png)
 
-#### 🔴 [Table 8.6](data/final-report-tables/chapter-8/8.6-Employed-Population-by-Sector-and-Sex,-2024) - Employed Population by Sector and Sex, 2024
+### Source
 
-##### Original Table
+- [https://www.statistics.gov.lk/Resource/en/Population/CPH_2024/CPH2024_Final_Eng.pdf](https://www.statistics.gov.lk/Resource/en/Population/CPH_2024/CPH2024_Final_Eng.pdf) (Table 8.5)
+
+## 98. [Employed Population by Sector and Sex, 2024](data/final-report-tables/chapter-8/8.6-Employed-Population-by-Sector-and-Sex,-2024)
+*🔴 Table was detected in PDF, but not parsed into textual data.*
+
+### Original Table
 
 ![8.6-Employed-Population-by-Sector-and-Sex,-2024](data/final-report-tables/chapter-8/8.6-Employed-Population-by-Sector-and-Sex,-2024/original.png)
 
-#### 🔴 [Table 8.7](data/final-report-tables/chapter-8/8.7-Employed-Population,-by-Highest-Educational-Attainment-and-Sex,-2024) - Employed Population, by Highest Educational Attainment and Sex, 2024
+### Source
 
-##### Original Table
+- [https://www.statistics.gov.lk/Resource/en/Population/CPH_2024/CPH2024_Final_Eng.pdf](https://www.statistics.gov.lk/Resource/en/Population/CPH_2024/CPH2024_Final_Eng.pdf) (Table 8.6)
+
+## 99. [Employed Population, by Highest Educational Attainment and Sex, 2024](data/final-report-tables/chapter-8/8.7-Employed-Population,-by-Highest-Educational-Attainment-and-Sex,-2024)
+*🔴 Table was detected in PDF, but not parsed into textual data.*
+
+### Original Table
 
 ![8.7-Employed-Population,-by-Highest-Educational-Attainment-and-Sex,-2024](data/final-report-tables/chapter-8/8.7-Employed-Population,-by-Highest-Educational-Attainment-and-Sex,-2024/original.png)
 
-#### 🟠 [Table 8.8](data/final-report-tables/chapter-8/8.8-Employed-Population-by-Employment-Status-and-Sex,-2024) - Employed Population by Employment Status and Sex, 2024
+### Source
 
-##### Raw Data (first 10 rows)
+- [https://www.statistics.gov.lk/Resource/en/Population/CPH_2024/CPH2024_Final_Eng.pdf](https://www.statistics.gov.lk/Resource/en/Population/CPH_2024/CPH2024_Final_Eng.pdf) (Table 8.7)
+
+## 100. [Employed Population by Employment Status and Sex, 2024](data/final-report-tables/chapter-8/8.8-Employed-Population-by-Employment-Status-and-Sex,-2024)
+*🟠 Raw Text Data was extracted from PDF, but not parsed into structured data.*
+
+### Raw Data (first 10 rows)
 
 | Col 1 | Col 2 | Col 3 | Col 4 | Col 5 | Col 6 | Col 7 |
 | :-- | :-- | :-- | :-- | :-- | :-- | :-- |
@@ -1792,29 +2208,47 @@ Pressure |  |  | Thalassemia | Cancer | Stroke | Asthma | Epilepsy |
 | Own Account Worker | 2,407,614 | 31.4 | 1,906,739 | 35.9 | 500,875 | 21.3 |
 | Contributing to Family Enterprise | 407,571 | 5.3 | 177,986 | 3.3 | 229,585 | 9.8 |
 
-#### 🔴 [Table 8.9](data/final-report-tables/chapter-8/8.9-Unemployed-Population-by-Sector-and-Sex,-2024) - Unemployed Population by Sector and Sex, 2024
+### Source
 
-##### Original Table
+- [https://www.statistics.gov.lk/Resource/en/Population/CPH_2024/CPH2024_Final_Eng.pdf](https://www.statistics.gov.lk/Resource/en/Population/CPH_2024/CPH2024_Final_Eng.pdf) (Table 8.8)
+
+## 101. [Unemployed Population by Sector and Sex, 2024](data/final-report-tables/chapter-8/8.9-Unemployed-Population-by-Sector-and-Sex,-2024)
+*🔴 Table was detected in PDF, but not parsed into textual data.*
+
+### Original Table
 
 ![8.9-Unemployed-Population-by-Sector-and-Sex,-2024](data/final-report-tables/chapter-8/8.9-Unemployed-Population-by-Sector-and-Sex,-2024/original.png)
 
-#### 🔴 [Table 8.10](data/final-report-tables/chapter-8/8.10-Employment-Rate-and-Unemployment-Rate-by-District,-2024) - Employment Rate and Unemployment Rate by District, 2024
+### Source
 
-##### Original Table
+- [https://www.statistics.gov.lk/Resource/en/Population/CPH_2024/CPH2024_Final_Eng.pdf](https://www.statistics.gov.lk/Resource/en/Population/CPH_2024/CPH2024_Final_Eng.pdf) (Table 8.9)
+
+## 102. [Employment Rate and Unemployment Rate by District, 2024](data/final-report-tables/chapter-8/8.10-Employment-Rate-and-Unemployment-Rate-by-District,-2024)
+*🔴 Table was detected in PDF, but not parsed into textual data.*
+
+### Original Table
 
 ![8.10-Employment-Rate-and-Unemployment-Rate-by-District,-2024](data/final-report-tables/chapter-8/8.10-Employment-Rate-and-Unemployment-Rate-by-District,-2024/original.png)
 
-#### 🔴 [Table 8.11](data/final-report-tables/chapter-8/8.11-Economically-Inactive-Population-by-Main-Reason-for-Inactivity,-2024) - Economically Inactive Population by Main Reason for Inactivity, 2024
+### Source
 
-##### Original Table
+- [https://www.statistics.gov.lk/Resource/en/Population/CPH_2024/CPH2024_Final_Eng.pdf](https://www.statistics.gov.lk/Resource/en/Population/CPH_2024/CPH2024_Final_Eng.pdf) (Table 8.10)
+
+## 103. [Economically Inactive Population by Main Reason for Inactivity, 2024](data/final-report-tables/chapter-8/8.11-Economically-Inactive-Population-by-Main-Reason-for-Inactivity,-2024)
+*🔴 Table was detected in PDF, but not parsed into textual data.*
+
+### Original Table
 
 ![8.11-Economically-Inactive-Population-by-Main-Reason-for-Inactivity,-2024](data/final-report-tables/chapter-8/8.11-Economically-Inactive-Population-by-Main-Reason-for-Inactivity,-2024/original.png)
 
-### Chapter 9
+### Source
 
-#### 🟠 [Table 9.1:](data/final-report-tables/chapter-9/9.1:-by-Marital-Status,-Age-Group,-and-Sex,-2024) - by Marital Status, Age Group, and Sex, 2024
+- [https://www.statistics.gov.lk/Resource/en/Population/CPH_2024/CPH2024_Final_Eng.pdf](https://www.statistics.gov.lk/Resource/en/Population/CPH_2024/CPH2024_Final_Eng.pdf) (Table 8.11)
 
-##### Raw Data (first 10 rows)
+## 104. [by Marital Status, Age Group, and Sex, 2024](data/final-report-tables/chapter-9/9.1:-by-Marital-Status,-Age-Group,-and-Sex,-2024)
+*🟠 Raw Text Data was extracted from PDF, but not parsed into structured data.*
+
+### Raw Data (first 10 rows)
 
 | Col 1 | Col 2 | Col 3 | Col 4 | Col 5 | Col 6 | Col 7 | Col 8 | Col 9 | Col 10 | Col 11 | Col 12 | Col 13 | Col 14 | Col 15 |
 | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- |
@@ -1829,107 +2263,190 @@ Pressure |  |  | Thalassemia | Cancer | Stroke | Asthma | Epilepsy |
 |  | 2,280,530 | 2,226,309 | 2,280,530 | 2226291 | 0 | 18 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
 | Less than 15 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-#### 🔴 [Table 9.2](data/final-report-tables/chapter-9/9.2-Marital-Status-by-Ethnic-group-and-Sex,) - Marital Status by Ethnic group and Sex,
+### Source
 
-##### Original Table
+- [https://www.statistics.gov.lk/Resource/en/Population/CPH_2024/CPH2024_Final_Eng.pdf](https://www.statistics.gov.lk/Resource/en/Population/CPH_2024/CPH2024_Final_Eng.pdf) (Table 9.1:)
+
+## 105. [Marital Status by Ethnic group and Sex,](data/final-report-tables/chapter-9/9.2-Marital-Status-by-Ethnic-group-and-Sex,)
+*🔴 Table was detected in PDF, but not parsed into textual data.*
+
+### Original Table
 
 ![9.2-Marital-Status-by-Ethnic-group-and-Sex,](data/final-report-tables/chapter-9/9.2-Marital-Status-by-Ethnic-group-and-Sex,/original.png)
 
-#### 🔴 [Table 9.3](data/final-report-tables/chapter-9/9.3-Population-Aged-15-Years-and-Over-by-Marital-Status-and-Sex,-2012-and-2024) - Population Aged 15 Years and Over by Marital Status and Sex, 2012 and 2024
+### Source
 
-##### Original Table
+- [https://www.statistics.gov.lk/Resource/en/Population/CPH_2024/CPH2024_Final_Eng.pdf](https://www.statistics.gov.lk/Resource/en/Population/CPH_2024/CPH2024_Final_Eng.pdf) (Table 9.2)
+
+## 106. [Population Aged 15 Years and Over by Marital Status and Sex, 2012 and 2024](data/final-report-tables/chapter-9/9.3-Population-Aged-15-Years-and-Over-by-Marital-Status-and-Sex,-2012-and-2024)
+*🔴 Table was detected in PDF, but not parsed into textual data.*
+
+### Original Table
 
 ![9.3-Population-Aged-15-Years-and-Over-by-Marital-Status-and-Sex,-2012-and-2024](data/final-report-tables/chapter-9/9.3-Population-Aged-15-Years-and-Over-by-Marital-Status-and-Sex,-2012-and-2024/original.png)
 
-#### 🔴 [Table 9.4](data/final-report-tables/chapter-9/9.4-Percentage-of-Never-Married-Persons-within-the-Age-Group-by-Sex,-1981,-2012,-and-2024) - Percentage of Never-Married Persons within the Age Group by Sex, 1981, 2012, and 2024
+### Source
 
-##### Original Table
+- [https://www.statistics.gov.lk/Resource/en/Population/CPH_2024/CPH2024_Final_Eng.pdf](https://www.statistics.gov.lk/Resource/en/Population/CPH_2024/CPH2024_Final_Eng.pdf) (Table 9.3)
+
+## 107. [Percentage of Never-Married Persons within the Age Group by Sex, 1981, 2012, and 2024](data/final-report-tables/chapter-9/9.4-Percentage-of-Never-Married-Persons-within-the-Age-Group-by-Sex,-1981,-2012,-and-2024)
+*🔴 Table was detected in PDF, but not parsed into textual data.*
+
+### Original Table
 
 ![9.4-Percentage-of-Never-Married-Persons-within-the-Age-Group-by-Sex,-1981,-2012,-and-2024](data/final-report-tables/chapter-9/9.4-Percentage-of-Never-Married-Persons-within-the-Age-Group-by-Sex,-1981,-2012,-and-2024/original.png)
 
-#### 🔴 [Table 9.5](data/final-report-tables/chapter-9/9.5-Percentage-of-Married-Population-Aged-15-Years-and-Over-by-Age-Group,-1981,-2012,-and-2024) - Percentage of Married Population Aged 15 Years and Over by Age Group, 1981, 2012, and 2024
+### Source
 
-##### Original Table
+- [https://www.statistics.gov.lk/Resource/en/Population/CPH_2024/CPH2024_Final_Eng.pdf](https://www.statistics.gov.lk/Resource/en/Population/CPH_2024/CPH2024_Final_Eng.pdf) (Table 9.4)
+
+## 108. [Percentage of Married Population Aged 15 Years and Over by Age Group, 1981, 2012, and 2024](data/final-report-tables/chapter-9/9.5-Percentage-of-Married-Population-Aged-15-Years-and-Over-by-Age-Group,-1981,-2012,-and-2024)
+*🔴 Table was detected in PDF, but not parsed into textual data.*
+
+### Original Table
 
 ![9.5-Percentage-of-Married-Population-Aged-15-Years-and-Over-by-Age-Group,-1981,-2012,-and-2024](data/final-report-tables/chapter-9/9.5-Percentage-of-Married-Population-Aged-15-Years-and-Over-by-Age-Group,-1981,-2012,-and-2024/original.png)
 
-#### 🔴 [Table 9.6](data/final-report-tables/chapter-9/9.6-Percentage-of-Widowed-Population-Aged-15-Years-and-over,-1981,-2012,-and-2024) - Percentage of Widowed Population Aged 15 Years and over, 1981, 2012, and 2024
+### Source
 
-##### Original Table
+- [https://www.statistics.gov.lk/Resource/en/Population/CPH_2024/CPH2024_Final_Eng.pdf](https://www.statistics.gov.lk/Resource/en/Population/CPH_2024/CPH2024_Final_Eng.pdf) (Table 9.5)
+
+## 109. [Percentage of Widowed Population Aged 15 Years and over, 1981, 2012, and 2024](data/final-report-tables/chapter-9/9.6-Percentage-of-Widowed-Population-Aged-15-Years-and-over,-1981,-2012,-and-2024)
+*🔴 Table was detected in PDF, but not parsed into textual data.*
+
+### Original Table
 
 ![9.6-Percentage-of-Widowed-Population-Aged-15-Years-and-over,-1981,-2012,-and-2024](data/final-report-tables/chapter-9/9.6-Percentage-of-Widowed-Population-Aged-15-Years-and-over,-1981,-2012,-and-2024/original.png)
 
-#### 🔴 [Table 9.7](data/final-report-tables/chapter-9/9.7-Number-of-Divorced-or-Separated-Persons-per-10,000-Population-Aged-15-Years-and-Over,-1981,-2012,-and) - Number of Divorced or Separated Persons per 10,000 Population Aged 15 Years and Over, 1981, 2012, and
+### Source
 
-##### Original Table
+- [https://www.statistics.gov.lk/Resource/en/Population/CPH_2024/CPH2024_Final_Eng.pdf](https://www.statistics.gov.lk/Resource/en/Population/CPH_2024/CPH2024_Final_Eng.pdf) (Table 9.6)
+
+## 110. [Number of Divorced or Separated Persons per 10,000 Population Aged 15 Years and Over, 1981, 2012, and](data/final-report-tables/chapter-9/9.7-Number-of-Divorced-or-Separated-Persons-per-10,000-Population-Aged-15-Years-and-Over,-1981,-2012,-and)
+*🔴 Table was detected in PDF, but not parsed into textual data.*
+
+### Original Table
 
 ![9.7-Number-of-Divorced-or-Separated-Persons-per-10,000-Population-Aged-15-Years-and-Over,-1981,-2012,-and](data/final-report-tables/chapter-9/9.7-Number-of-Divorced-or-Separated-Persons-per-10,000-Population-Aged-15-Years-and-Over,-1981,-2012,-and/original.png)
 
-#### 🔴 [Table 9.8](data/final-report-tables/chapter-9/9.8-Mean-Age-at-Marriage,-1953–2024) - Mean Age at Marriage, 1953–2024
+### Source
 
-##### Original Table
+- [https://www.statistics.gov.lk/Resource/en/Population/CPH_2024/CPH2024_Final_Eng.pdf](https://www.statistics.gov.lk/Resource/en/Population/CPH_2024/CPH2024_Final_Eng.pdf) (Table 9.7)
+
+## 111. [Mean Age at Marriage, 1953–2024](data/final-report-tables/chapter-9/9.8-Mean-Age-at-Marriage,-1953–2024)
+*🔴 Table was detected in PDF, but not parsed into textual data.*
+
+### Original Table
 
 ![9.8-Mean-Age-at-Marriage,-1953–2024](data/final-report-tables/chapter-9/9.8-Mean-Age-at-Marriage,-1953–2024/original.png)
 
-#### 🔴 [Table 9.9](data/final-report-tables/chapter-9/9.9-Mean-Age-at-Marriage-by-Sector,-2024) - Mean Age at Marriage by Sector, 2024
+### Source
 
-##### Original Table
+- [https://www.statistics.gov.lk/Resource/en/Population/CPH_2024/CPH2024_Final_Eng.pdf](https://www.statistics.gov.lk/Resource/en/Population/CPH_2024/CPH2024_Final_Eng.pdf) (Table 9.8)
+
+## 112. [Mean Age at Marriage by Sector, 2024](data/final-report-tables/chapter-9/9.9-Mean-Age-at-Marriage-by-Sector,-2024)
+*🔴 Table was detected in PDF, but not parsed into textual data.*
+
+### Original Table
 
 ![9.9-Mean-Age-at-Marriage-by-Sector,-2024](data/final-report-tables/chapter-9/9.9-Mean-Age-at-Marriage-by-Sector,-2024/original.png)
 
-#### 🔴 [Table 9.10](data/final-report-tables/chapter-9/9.10-Mean-Age-at-Marriage-by-District-of-Usual-Residence,-2012-and-2024) - Mean Age at Marriage by District of Usual Residence, 2012 and 2024
+### Source
 
-##### Original Table
+- [https://www.statistics.gov.lk/Resource/en/Population/CPH_2024/CPH2024_Final_Eng.pdf](https://www.statistics.gov.lk/Resource/en/Population/CPH_2024/CPH2024_Final_Eng.pdf) (Table 9.9)
+
+## 113. [Mean Age at Marriage by District of Usual Residence, 2012 and 2024](data/final-report-tables/chapter-9/9.10-Mean-Age-at-Marriage-by-District-of-Usual-Residence,-2012-and-2024)
+*🔴 Table was detected in PDF, but not parsed into textual data.*
+
+### Original Table
 
 ![9.10-Mean-Age-at-Marriage-by-District-of-Usual-Residence,-2012-and-2024](data/final-report-tables/chapter-9/9.10-Mean-Age-at-Marriage-by-District-of-Usual-Residence,-2012-and-2024/original.png)
 
-#### 🔴 [Table 9.11](data/final-report-tables/chapter-9/9.11-Mean-Age-at-Marriage-by-Ethnic-Group,-2024) - Mean Age at Marriage by Ethnic Group, 2024
+### Source
 
-##### Original Table
+- [https://www.statistics.gov.lk/Resource/en/Population/CPH_2024/CPH2024_Final_Eng.pdf](https://www.statistics.gov.lk/Resource/en/Population/CPH_2024/CPH2024_Final_Eng.pdf) (Table 9.10)
+
+## 114. [Mean Age at Marriage by Ethnic Group, 2024](data/final-report-tables/chapter-9/9.11-Mean-Age-at-Marriage-by-Ethnic-Group,-2024)
+*🔴 Table was detected in PDF, but not parsed into textual data.*
+
+### Original Table
 
 ![9.11-Mean-Age-at-Marriage-by-Ethnic-Group,-2024](data/final-report-tables/chapter-9/9.11-Mean-Age-at-Marriage-by-Ethnic-Group,-2024/original.png)
 
-#### 🔴 [Table 9.12](data/final-report-tables/chapter-9/9.12-Percentage-Distribution-of-Ever-Married-Women-Aged-15-Years-and-Over-by-the-Number-of-Live-Births-perWoman-and-Sector,-2024) - Percentage Distribution of Ever-Married Women Aged 15 Years and Over by the Number of Live Births perWoman and Sector, 2024
+### Source
 
-##### Original Table
+- [https://www.statistics.gov.lk/Resource/en/Population/CPH_2024/CPH2024_Final_Eng.pdf](https://www.statistics.gov.lk/Resource/en/Population/CPH_2024/CPH2024_Final_Eng.pdf) (Table 9.11)
+
+## 115. [Percentage Distribution of Ever-Married Women Aged 15 Years and Over by the Number of Live Births perWoman and Sector, 2024](data/final-report-tables/chapter-9/9.12-Percentage-Distribution-of-Ever-Married-Women-Aged-15-Years-and-Over-by-the-Number-of-Live-Births-perWoman-and-Sector,-2024)
+*🔴 Table was detected in PDF, but not parsed into textual data.*
+
+### Original Table
 
 ![9.12-Percentage-Distribution-of-Ever-Married-Women-Aged-15-Years-and-Over-by-the-Number-of-Live-Births-perWoman-and-Sector,-2024](data/final-report-tables/chapter-9/9.12-Percentage-Distribution-of-Ever-Married-Women-Aged-15-Years-and-Over-by-the-Number-of-Live-Births-perWoman-and-Sector,-2024/original.png)
 
-#### 🔴 [Table 9.13](data/final-report-tables/chapter-9/9.13-Number-and-Percentage-Distribution-of-Married-Women-Aged-15–49-Years-by-Age-Group,-2012-and-2024) - Number and Percentage Distribution of Married Women Aged 15–49 Years by Age Group, 2012 and 2024
+### Source
 
-##### Original Table
+- [https://www.statistics.gov.lk/Resource/en/Population/CPH_2024/CPH2024_Final_Eng.pdf](https://www.statistics.gov.lk/Resource/en/Population/CPH_2024/CPH2024_Final_Eng.pdf) (Table 9.12)
+
+## 116. [Number and Percentage Distribution of Married Women Aged 15–49 Years by Age Group, 2012 and 2024](data/final-report-tables/chapter-9/9.13-Number-and-Percentage-Distribution-of-Married-Women-Aged-15–49-Years-by-Age-Group,-2012-and-2024)
+*🔴 Table was detected in PDF, but not parsed into textual data.*
+
+### Original Table
 
 ![9.13-Number-and-Percentage-Distribution-of-Married-Women-Aged-15–49-Years-by-Age-Group,-2012-and-2024](data/final-report-tables/chapter-9/9.13-Number-and-Percentage-Distribution-of-Married-Women-Aged-15–49-Years-by-Age-Group,-2012-and-2024/original.png)
 
-#### 🔴 [Table 9.14](data/final-report-tables/chapter-9/9.14-Age-Specific-Fertility-Rates-(ASFR),-2012-and-2024) - Age-Specific Fertility Rates (ASFR), 2012 and 2024
+### Source
 
-##### Original Table
+- [https://www.statistics.gov.lk/Resource/en/Population/CPH_2024/CPH2024_Final_Eng.pdf](https://www.statistics.gov.lk/Resource/en/Population/CPH_2024/CPH2024_Final_Eng.pdf) (Table 9.13)
+
+## 117. [Age-Specific Fertility Rates (ASFR), 2012 and 2024](data/final-report-tables/chapter-9/9.14-Age-Specific-Fertility-Rates-(ASFR),-2012-and-2024)
+*🔴 Table was detected in PDF, but not parsed into textual data.*
+
+### Original Table
 
 ![9.14-Age-Specific-Fertility-Rates-(ASFR),-2012-and-2024](data/final-report-tables/chapter-9/9.14-Age-Specific-Fertility-Rates-(ASFR),-2012-and-2024/original.png)
 
-#### 🔴 [Table 9.15](data/final-report-tables/chapter-9/9.15-Total-Fertility-Rate-(TFR),-1981,-2012-and-2024) - Total Fertility Rate (TFR), 1981, 2012 and 2024
+### Source
 
-##### Original Table
+- [https://www.statistics.gov.lk/Resource/en/Population/CPH_2024/CPH2024_Final_Eng.pdf](https://www.statistics.gov.lk/Resource/en/Population/CPH_2024/CPH2024_Final_Eng.pdf) (Table 9.14)
+
+## 118. [Total Fertility Rate (TFR), 1981, 2012 and 2024](data/final-report-tables/chapter-9/9.15-Total-Fertility-Rate-(TFR),-1981,-2012-and-2024)
+*🔴 Table was detected in PDF, but not parsed into textual data.*
+
+### Original Table
 
 ![9.15-Total-Fertility-Rate-(TFR),-1981,-2012-and-2024](data/final-report-tables/chapter-9/9.15-Total-Fertility-Rate-(TFR),-1981,-2012-and-2024/original.png)
 
-#### 🔴 [Table 9.16](data/final-report-tables/chapter-9/9.16-Age-Specific-Fertility-Rate-(ASFR),-Age-Specific-Marital-Fertility-Rate-(ASMFR),-Total-Fertility-Rate-(TFR)-andTotal-Marital-Fertility-Rate-(TMFR)) - Age-Specific Fertility Rate (ASFR), Age-Specific Marital Fertility Rate (ASMFR), Total Fertility Rate (TFR) andTotal Marital Fertility Rate (TMFR)
+### Source
 
-##### Original Table
+- [https://www.statistics.gov.lk/Resource/en/Population/CPH_2024/CPH2024_Final_Eng.pdf](https://www.statistics.gov.lk/Resource/en/Population/CPH_2024/CPH2024_Final_Eng.pdf) (Table 9.15)
+
+## 119. [Age-Specific Fertility Rate (ASFR), Age-Specific Marital Fertility Rate (ASMFR), Total Fertility Rate (TFR) andTotal Marital Fertility Rate (TMFR)](data/final-report-tables/chapter-9/9.16-Age-Specific-Fertility-Rate-(ASFR),-Age-Specific-Marital-Fertility-Rate-(ASMFR),-Total-Fertility-Rate-(TFR)-andTotal-Marital-Fertility-Rate-(TMFR))
+*🔴 Table was detected in PDF, but not parsed into textual data.*
+
+### Original Table
 
 ![9.16-Age-Specific-Fertility-Rate-(ASFR),-Age-Specific-Marital-Fertility-Rate-(ASMFR),-Total-Fertility-Rate-(TFR)-andTotal-Marital-Fertility-Rate-(TMFR)](data/final-report-tables/chapter-9/9.16-Age-Specific-Fertility-Rate-(ASFR),-Age-Specific-Marital-Fertility-Rate-(ASMFR),-Total-Fertility-Rate-(TFR)-andTotal-Marital-Fertility-Rate-(TMFR)/original.png)
 
-#### 🔴 [Table 9.17](data/final-report-tables/chapter-9/9.17-Gross-Reproduction-Rate-Using-TFR-and-TMFR) - Gross Reproduction Rate Using TFR and TMFR
+### Source
 
-##### Original Table
+- [https://www.statistics.gov.lk/Resource/en/Population/CPH_2024/CPH2024_Final_Eng.pdf](https://www.statistics.gov.lk/Resource/en/Population/CPH_2024/CPH2024_Final_Eng.pdf) (Table 9.16)
+
+## 120. [Gross Reproduction Rate Using TFR and TMFR](data/final-report-tables/chapter-9/9.17-Gross-Reproduction-Rate-Using-TFR-and-TMFR)
+*🔴 Table was detected in PDF, but not parsed into textual data.*
+
+### Original Table
 
 ![9.17-Gross-Reproduction-Rate-Using-TFR-and-TMFR](data/final-report-tables/chapter-9/9.17-Gross-Reproduction-Rate-Using-TFR-and-TMFR/original.png)
 
-### Chapter 10
+### Source
 
-#### 🟠 [Table 10.1](data/final-report-tables/chapter-10/10.1-Percentage-Distribution-of-Household-Size-by-Sector,-2024) - Percentage Distribution of Household Size by Sector, 2024
+- [https://www.statistics.gov.lk/Resource/en/Population/CPH_2024/CPH2024_Final_Eng.pdf](https://www.statistics.gov.lk/Resource/en/Population/CPH_2024/CPH2024_Final_Eng.pdf) (Table 9.17)
 
-##### Raw Data (first 10 rows)
+## 121. [Percentage Distribution of Household Size by Sector, 2024](data/final-report-tables/chapter-10/10.1-Percentage-Distribution-of-Household-Size-by-Sector,-2024)
+*🟠 Raw Text Data was extracted from PDF, but not parsed into structured data.*
+
+### Raw Data (first 10 rows)
 
 | Col 1 | Col 2 | Col 3 | Col 4 | Col 5 | Col 6 | Col 7 | Col 8 | Col 9 | Col 10 | Col 11 |
 | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- |
@@ -1944,21 +2461,36 @@ Pressure |  |  | Thalassemia | Cancer | Stroke | Asthma | Epilepsy |
 | Urban* | 1,045,665 | 10.6 | 17.7 | 20.5 | 25.8 | 15.1 | 6.4 | 3.9 | 100.0 | 3.5 |
 | Rural | 4,827,055 | 10.4 | 18.2 | 21.3 | 25.0 | 15.9 | 6.3 | 2.9 | 100.0 | 3.5 |
 
-#### 🔴 [Table 10.2](data/final-report-tables/chapter-10/10.2-Percentage-Distribution-of-the-Number-and-of-Households-by-Sector,-District-and-Household-Type,-2024) - Percentage Distribution of the Number and of Households by Sector, District and Household Type, 2024
+### Source
 
-##### Original Table
+- [https://www.statistics.gov.lk/Resource/en/Population/CPH_2024/CPH2024_Final_Eng.pdf](https://www.statistics.gov.lk/Resource/en/Population/CPH_2024/CPH2024_Final_Eng.pdf) (Table 10.1)
+
+## 122. [Percentage Distribution of the Number and of Households by Sector, District and Household Type, 2024](data/final-report-tables/chapter-10/10.2-Percentage-Distribution-of-the-Number-and-of-Households-by-Sector,-District-and-Household-Type,-2024)
+*🔴 Table was detected in PDF, but not parsed into textual data.*
+
+### Original Table
 
 ![10.2-Percentage-Distribution-of-the-Number-and-of-Households-by-Sector,-District-and-Household-Type,-2024](data/final-report-tables/chapter-10/10.2-Percentage-Distribution-of-the-Number-and-of-Households-by-Sector,-District-and-Household-Type,-2024/original.png)
 
-#### 🔴 [Table 10.3](data/final-report-tables/chapter-10/10.3-Percentage-Distribution-of-the-Number-of-Household-Heads-by-Ethnic-group-of-the-Head-of-Household-and-typeof-Household,-2024) - Percentage Distribution of the Number of Household Heads by Ethnic group of the Head of Household and typeof Household, 2024
+### Source
 
-##### Original Table
+- [https://www.statistics.gov.lk/Resource/en/Population/CPH_2024/CPH2024_Final_Eng.pdf](https://www.statistics.gov.lk/Resource/en/Population/CPH_2024/CPH2024_Final_Eng.pdf) (Table 10.2)
+
+## 123. [Percentage Distribution of the Number of Household Heads by Ethnic group of the Head of Household and typeof Household, 2024](data/final-report-tables/chapter-10/10.3-Percentage-Distribution-of-the-Number-of-Household-Heads-by-Ethnic-group-of-the-Head-of-Household-and-typeof-Household,-2024)
+*🔴 Table was detected in PDF, but not parsed into textual data.*
+
+### Original Table
 
 ![10.3-Percentage-Distribution-of-the-Number-of-Household-Heads-by-Ethnic-group-of-the-Head-of-Household-and-typeof-Household,-2024](data/final-report-tables/chapter-10/10.3-Percentage-Distribution-of-the-Number-of-Household-Heads-by-Ethnic-group-of-the-Head-of-Household-and-typeof-Household,-2024/original.png)
 
-#### 🟠 [Table 10.4](data/final-report-tables/chapter-10/10.4-Percentage-Distribution-of-the-Number-of-Household-Heads-by-Sex,-Age-Group,-and-Sector,-2024) - Percentage Distribution of the Number of Household Heads by Sex, Age Group, and Sector, 2024
+### Source
 
-##### Raw Data (first 10 rows)
+- [https://www.statistics.gov.lk/Resource/en/Population/CPH_2024/CPH2024_Final_Eng.pdf](https://www.statistics.gov.lk/Resource/en/Population/CPH_2024/CPH2024_Final_Eng.pdf) (Table 10.3)
+
+## 124. [Percentage Distribution of the Number of Household Heads by Sex, Age Group, and Sector, 2024](data/final-report-tables/chapter-10/10.4-Percentage-Distribution-of-the-Number-of-Household-Heads-by-Sex,-Age-Group,-and-Sector,-2024)
+*🟠 Raw Text Data was extracted from PDF, but not parsed into structured data.*
+
+### Raw Data (first 10 rows)
 
 | Col 1 | Col 2 | Col 3 | Col 4 | Col 5 | Col 6 | Col 7 |
 | :-- | :-- | :-- | :-- | :-- | :-- | :-- |
@@ -1973,33 +2505,58 @@ Pressure |  |  | Thalassemia | Cancer | Stroke | Asthma | Epilepsy |
 | U | 1,042,557 | 736,435 | 306,122 | 1,838 | 782,406 | 258,313 |
 | rban |  |  |  |  |  |  |
 
-#### 🔴 [Table 10.5](data/final-report-tables/chapter-10/10.5-Percentage-Distribution-of-the-Number-of-Household-Heads-by-District,-Sex,-and-Age-Group,-2024) - Percentage Distribution of the Number of Household Heads by District, Sex, and Age Group, 2024
+### Source
 
-##### Original Table
+- [https://www.statistics.gov.lk/Resource/en/Population/CPH_2024/CPH2024_Final_Eng.pdf](https://www.statistics.gov.lk/Resource/en/Population/CPH_2024/CPH2024_Final_Eng.pdf) (Table 10.4)
+
+## 125. [Percentage Distribution of the Number of Household Heads by District, Sex, and Age Group, 2024](data/final-report-tables/chapter-10/10.5-Percentage-Distribution-of-the-Number-of-Household-Heads-by-District,-Sex,-and-Age-Group,-2024)
+*🔴 Table was detected in PDF, but not parsed into textual data.*
+
+### Original Table
 
 ![10.5-Percentage-Distribution-of-the-Number-of-Household-Heads-by-District,-Sex,-and-Age-Group,-2024](data/final-report-tables/chapter-10/10.5-Percentage-Distribution-of-the-Number-of-Household-Heads-by-District,-Sex,-and-Age-Group,-2024/original.png)
 
-#### 🔴 [Table 10.6](data/final-report-tables/chapter-10/10.6-Percentage-Distribution-of-the-Number-of-Household-Heads-by-Sector-and-Marital-Status,-2024) - Percentage Distribution of the Number of Household Heads by Sector and Marital Status, 2024
+### Source
 
-##### Original Table
+- [https://www.statistics.gov.lk/Resource/en/Population/CPH_2024/CPH2024_Final_Eng.pdf](https://www.statistics.gov.lk/Resource/en/Population/CPH_2024/CPH2024_Final_Eng.pdf) (Table 10.5)
+
+## 126. [Percentage Distribution of the Number of Household Heads by Sector and Marital Status, 2024](data/final-report-tables/chapter-10/10.6-Percentage-Distribution-of-the-Number-of-Household-Heads-by-Sector-and-Marital-Status,-2024)
+*🔴 Table was detected in PDF, but not parsed into textual data.*
+
+### Original Table
 
 ![10.6-Percentage-Distribution-of-the-Number-of-Household-Heads-by-Sector-and-Marital-Status,-2024](data/final-report-tables/chapter-10/10.6-Percentage-Distribution-of-the-Number-of-Household-Heads-by-Sector-and-Marital-Status,-2024/original.png)
 
-#### 🔴 [Table 10.7](data/final-report-tables/chapter-10/10.7-Percentage-Distribution-of-the-Number-of-Household-Heads-by-Sex-and-Marital-Status,-2024) - Percentage Distribution of the Number of Household Heads by Sex and Marital Status, 2024
+### Source
 
-##### Original Table
+- [https://www.statistics.gov.lk/Resource/en/Population/CPH_2024/CPH2024_Final_Eng.pdf](https://www.statistics.gov.lk/Resource/en/Population/CPH_2024/CPH2024_Final_Eng.pdf) (Table 10.6)
+
+## 127. [Percentage Distribution of the Number of Household Heads by Sex and Marital Status, 2024](data/final-report-tables/chapter-10/10.7-Percentage-Distribution-of-the-Number-of-Household-Heads-by-Sex-and-Marital-Status,-2024)
+*🔴 Table was detected in PDF, but not parsed into textual data.*
+
+### Original Table
 
 ![10.7-Percentage-Distribution-of-the-Number-of-Household-Heads-by-Sex-and-Marital-Status,-2024](data/final-report-tables/chapter-10/10.7-Percentage-Distribution-of-the-Number-of-Household-Heads-by-Sex-and-Marital-Status,-2024/original.png)
 
-#### 🔴 [Table 10.8](data/final-report-tables/chapter-10/10.8-Percentage-Distribution-of-Household-Heads-by-Highest-Educational-Qualification-Obtained-and-Sector,-2024) - Percentage Distribution of Household Heads by Highest Educational Qualification Obtained and Sector, 2024
+### Source
 
-##### Original Table
+- [https://www.statistics.gov.lk/Resource/en/Population/CPH_2024/CPH2024_Final_Eng.pdf](https://www.statistics.gov.lk/Resource/en/Population/CPH_2024/CPH2024_Final_Eng.pdf) (Table 10.7)
+
+## 128. [Percentage Distribution of Household Heads by Highest Educational Qualification Obtained and Sector, 2024](data/final-report-tables/chapter-10/10.8-Percentage-Distribution-of-Household-Heads-by-Highest-Educational-Qualification-Obtained-and-Sector,-2024)
+*🔴 Table was detected in PDF, but not parsed into textual data.*
+
+### Original Table
 
 ![10.8-Percentage-Distribution-of-Household-Heads-by-Highest-Educational-Qualification-Obtained-and-Sector,-2024](data/final-report-tables/chapter-10/10.8-Percentage-Distribution-of-Household-Heads-by-Highest-Educational-Qualification-Obtained-and-Sector,-2024/original.png)
 
-#### 🟠 [Table 10.9](data/final-report-tables/chapter-10/10.9-Percentage-Distribution-of-Household-Heads-by-District-and-Highest-Educational-Qualification-Obtained,) - Percentage Distribution of Household Heads by District and Highest Educational Qualification Obtained,
+### Source
 
-##### Raw Data (first 10 rows)
+- [https://www.statistics.gov.lk/Resource/en/Population/CPH_2024/CPH2024_Final_Eng.pdf](https://www.statistics.gov.lk/Resource/en/Population/CPH_2024/CPH2024_Final_Eng.pdf) (Table 10.8)
+
+## 129. [Percentage Distribution of Household Heads by District and Highest Educational Qualification Obtained,](data/final-report-tables/chapter-10/10.9-Percentage-Distribution-of-Household-Heads-by-District-and-Highest-Educational-Qualification-Obtained,)
+*🟠 Raw Text Data was extracted from PDF, but not parsed into structured data.*
+
+### Raw Data (first 10 rows)
 
 | Col 1 | Col 2 | Col 3 | Col 4 | Col 5 | Col 6 | Col 7 | Col 8 | Col 9 | Col 10 | Col 11 | Col 12 | Col 13 |
 | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- |
@@ -2014,23 +2571,36 @@ Pressure |  |  | Thalassemia | Cancer | Stroke | Asthma | Epilepsy |
 | Sri Lanka | 6,111,315 | 100.0 | 174,144 | 2.8 | 933,438 | 15.3 | 2,443,894 | 40.1 | 1,310,679 | 21.4 | 1,249,160 | 20.4 |
 | Colombo | 661,822 | 100.0 | 9,113 | 1.4 | 41,277 | 6.2 | 189,119 | 28.6 | 178,500 | 27.0 | 243,813 | 36.8 |
 
-#### 🔴 [Table 10.10:](data/final-report-tables/chapter-10/10.10:-and-Percentage-Distribution-of-Individuals-in-One-Person-Households-Aged-60-Years-and-Over,-by-Sexand-Age-Group,-2024) - and Percentage Distribution of Individuals in One Person Households Aged 60 Years and Over, by Sexand Age Group, 2024
+### Source
 
-##### Original Table
+- [https://www.statistics.gov.lk/Resource/en/Population/CPH_2024/CPH2024_Final_Eng.pdf](https://www.statistics.gov.lk/Resource/en/Population/CPH_2024/CPH2024_Final_Eng.pdf) (Table 10.9)
+
+## 130. [and Percentage Distribution of Individuals in One Person Households Aged 60 Years and Over, by Sexand Age Group, 2024](data/final-report-tables/chapter-10/10.10:-and-Percentage-Distribution-of-Individuals-in-One-Person-Households-Aged-60-Years-and-Over,-by-Sexand-Age-Group,-2024)
+*🔴 Table was detected in PDF, but not parsed into textual data.*
+
+### Original Table
 
 ![10.10:-and-Percentage-Distribution-of-Individuals-in-One-Person-Households-Aged-60-Years-and-Over,-by-Sexand-Age-Group,-2024](data/final-report-tables/chapter-10/10.10:-and-Percentage-Distribution-of-Individuals-in-One-Person-Households-Aged-60-Years-and-Over,-by-Sexand-Age-Group,-2024/original.png)
 
-### Chapter 11
+### Source
 
-#### 🔴 [Table 11.1](data/final-report-tables/chapter-11/11.1-Number-of-Occupied-Housing-Units-by-Sector,-2012-and-2024) - Number of Occupied Housing Units by Sector, 2012 and 2024
+- [https://www.statistics.gov.lk/Resource/en/Population/CPH_2024/CPH2024_Final_Eng.pdf](https://www.statistics.gov.lk/Resource/en/Population/CPH_2024/CPH2024_Final_Eng.pdf) (Table 10.10:)
 
-##### Original Table
+## 131. [Number of Occupied Housing Units by Sector, 2012 and 2024](data/final-report-tables/chapter-11/11.1-Number-of-Occupied-Housing-Units-by-Sector,-2012-and-2024)
+*🔴 Table was detected in PDF, but not parsed into textual data.*
+
+### Original Table
 
 ![11.1-Number-of-Occupied-Housing-Units-by-Sector,-2012-and-2024](data/final-report-tables/chapter-11/11.1-Number-of-Occupied-Housing-Units-by-Sector,-2012-and-2024/original.png)
 
-#### 🟠 [Table 11.2](data/final-report-tables/chapter-11/11.2-Number-of-Occupied-Housing-Units-&-Permanently-Closed/Vacant-Housing-Units-by-District,-2012-and-2024) - Number of Occupied Housing Units & Permanently Closed/Vacant Housing Units by District, 2012 and 2024
+### Source
 
-##### Raw Data (first 10 rows)
+- [https://www.statistics.gov.lk/Resource/en/Population/CPH_2024/CPH2024_Final_Eng.pdf](https://www.statistics.gov.lk/Resource/en/Population/CPH_2024/CPH2024_Final_Eng.pdf) (Table 11.1)
+
+## 132. [Number of Occupied Housing Units & Permanently Closed/Vacant Housing Units by District, 2012 and 2024](data/final-report-tables/chapter-11/11.2-Number-of-Occupied-Housing-Units-&-Permanently-Closed/Vacant-Housing-Units-by-District,-2012-and-2024)
+*🟠 Raw Text Data was extracted from PDF, but not parsed into structured data.*
+
+### Raw Data (first 10 rows)
 
 | Col 1 |
 | :-- |
@@ -2041,9 +2611,14 @@ Pressure |  |  | Thalassemia | Cancer | Stroke | Asthma | Epilepsy |
 | only a marginal increase, from 224,385 to 228,842, suggesting relatively slow growth in housing within |
 | estate areas compared to the other sectors. |
 
-#### 🟠 [Table 11.3](data/final-report-tables/chapter-11/11.3-Number-of-Housing-Units-by-the-Year-of-Construction,-2024) - Number of Housing Units by the Year of Construction, 2024
+### Source
 
-##### Raw Data (first 10 rows)
+- [https://www.statistics.gov.lk/Resource/en/Population/CPH_2024/CPH2024_Final_Eng.pdf](https://www.statistics.gov.lk/Resource/en/Population/CPH_2024/CPH2024_Final_Eng.pdf) (Table 11.2)
+
+## 133. [Number of Housing Units by the Year of Construction, 2024](data/final-report-tables/chapter-11/11.3-Number-of-Housing-Units-by-the-Year-of-Construction,-2024)
+*🟠 Raw Text Data was extracted from PDF, but not parsed into structured data.*
+
+### Raw Data (first 10 rows)
 
 | Col 1 | Col 2 | Col 3 |
 | :-- | :-- | :-- |
@@ -2058,51 +2633,91 @@ Pressure |  |  | Thalassemia | Cancer | Stroke | Asthma | Epilepsy |
 | 2018 | 323,965 | 5.4 |
 | 2017 -2013 | 780,280 | 12.9 |
 
-#### 🔴 [Table 11.4](data/final-report-tables/chapter-11/11.4-Tenure-of-Housing-Units-by-Sector-and-District,-2024) - Tenure of Housing Units by Sector and District, 2024
+### Source
 
-##### Original Table
+- [https://www.statistics.gov.lk/Resource/en/Population/CPH_2024/CPH2024_Final_Eng.pdf](https://www.statistics.gov.lk/Resource/en/Population/CPH_2024/CPH2024_Final_Eng.pdf) (Table 11.3)
+
+## 134. [Tenure of Housing Units by Sector and District, 2024](data/final-report-tables/chapter-11/11.4-Tenure-of-Housing-Units-by-Sector-and-District,-2024)
+*🔴 Table was detected in PDF, but not parsed into textual data.*
+
+### Original Table
 
 ![11.4-Tenure-of-Housing-Units-by-Sector-and-District,-2024](data/final-report-tables/chapter-11/11.4-Tenure-of-Housing-Units-by-Sector-and-District,-2024/original.png)
 
-#### 🔴 [Table 11.5](data/final-report-tables/chapter-11/11.5-Percentage-of-Housing-Units-Owned-by-Household-Members-and-Sector,-2012-and-2024) - Percentage of Housing Units Owned by Household Members and Sector, 2012 and 2024
+### Source
 
-##### Original Table
+- [https://www.statistics.gov.lk/Resource/en/Population/CPH_2024/CPH2024_Final_Eng.pdf](https://www.statistics.gov.lk/Resource/en/Population/CPH_2024/CPH2024_Final_Eng.pdf) (Table 11.4)
+
+## 135. [Percentage of Housing Units Owned by Household Members and Sector, 2012 and 2024](data/final-report-tables/chapter-11/11.5-Percentage-of-Housing-Units-Owned-by-Household-Members-and-Sector,-2012-and-2024)
+*🔴 Table was detected in PDF, but not parsed into textual data.*
+
+### Original Table
 
 ![11.5-Percentage-of-Housing-Units-Owned-by-Household-Members-and-Sector,-2012-and-2024](data/final-report-tables/chapter-11/11.5-Percentage-of-Housing-Units-Owned-by-Household-Members-and-Sector,-2012-and-2024/original.png)
 
-#### 🔴 [Table 11.6](data/final-report-tables/chapter-11/11.6-Percentage-of-Housing-units-by-Materials-Used-to-Construct-Walls,-Roofs-and-Floors,) - Percentage of Housing units by Materials Used to Construct Walls, Roofs and Floors,
+### Source
 
-##### Original Table
+- [https://www.statistics.gov.lk/Resource/en/Population/CPH_2024/CPH2024_Final_Eng.pdf](https://www.statistics.gov.lk/Resource/en/Population/CPH_2024/CPH2024_Final_Eng.pdf) (Table 11.5)
+
+## 136. [Percentage of Housing units by Materials Used to Construct Walls, Roofs and Floors,](data/final-report-tables/chapter-11/11.6-Percentage-of-Housing-units-by-Materials-Used-to-Construct-Walls,-Roofs-and-Floors,)
+*🔴 Table was detected in PDF, but not parsed into textual data.*
+
+### Original Table
 
 ![11.6-Percentage-of-Housing-units-by-Materials-Used-to-Construct-Walls,-Roofs-and-Floors,](data/final-report-tables/chapter-11/11.6-Percentage-of-Housing-units-by-Materials-Used-to-Construct-Walls,-Roofs-and-Floors,/original.png)
 
-#### 🔴 [Table 11.7](data/final-report-tables/chapter-11/11.7-of-Housing-Units-and-Status-of-Housing-Units,-by-Sector-and-District,-2024) - of Housing Units and Status of Housing Units, by Sector and District, 2024
+### Source
 
-##### Original Table
+- [https://www.statistics.gov.lk/Resource/en/Population/CPH_2024/CPH2024_Final_Eng.pdf](https://www.statistics.gov.lk/Resource/en/Population/CPH_2024/CPH2024_Final_Eng.pdf) (Table 11.6)
+
+## 137. [of Housing Units and Status of Housing Units, by Sector and District, 2024](data/final-report-tables/chapter-11/11.7-of-Housing-Units-and-Status-of-Housing-Units,-by-Sector-and-District,-2024)
+*🔴 Table was detected in PDF, but not parsed into textual data.*
+
+### Original Table
 
 ![11.7-of-Housing-Units-and-Status-of-Housing-Units,-by-Sector-and-District,-2024](data/final-report-tables/chapter-11/11.7-of-Housing-Units-and-Status-of-Housing-Units,-by-Sector-and-District,-2024/original.png)
 
-#### 🔴 [Table 11.8](data/final-report-tables/chapter-11/11.8-in-Housing-Units-by-Sector,-2024) - in Housing Units by Sector, 2024
+### Source
 
-##### Original Table
+- [https://www.statistics.gov.lk/Resource/en/Population/CPH_2024/CPH2024_Final_Eng.pdf](https://www.statistics.gov.lk/Resource/en/Population/CPH_2024/CPH2024_Final_Eng.pdf) (Table 11.7)
+
+## 138. [in Housing Units by Sector, 2024](data/final-report-tables/chapter-11/11.8-in-Housing-Units-by-Sector,-2024)
+*🔴 Table was detected in PDF, but not parsed into textual data.*
+
+### Original Table
 
 ![11.8-in-Housing-Units-by-Sector,-2024](data/final-report-tables/chapter-11/11.8-in-Housing-Units-by-Sector,-2024/original.png)
 
-#### 🔴 [Table 11.9](data/final-report-tables/chapter-11/11.9-Distribution-of-Households-by-Main-Source-of-Drinking-Water,-2024) - Distribution of Households by Main Source of Drinking Water, 2024
+### Source
 
-##### Original Table
+- [https://www.statistics.gov.lk/Resource/en/Population/CPH_2024/CPH2024_Final_Eng.pdf](https://www.statistics.gov.lk/Resource/en/Population/CPH_2024/CPH2024_Final_Eng.pdf) (Table 11.8)
+
+## 139. [Distribution of Households by Main Source of Drinking Water, 2024](data/final-report-tables/chapter-11/11.9-Distribution-of-Households-by-Main-Source-of-Drinking-Water,-2024)
+*🔴 Table was detected in PDF, but not parsed into textual data.*
+
+### Original Table
 
 ![11.9-Distribution-of-Households-by-Main-Source-of-Drinking-Water,-2024](data/final-report-tables/chapter-11/11.9-Distribution-of-Households-by-Main-Source-of-Drinking-Water,-2024/original.png)
 
-#### 🔴 [Table 11.10](data/final-report-tables/chapter-11/11.10-Percentage-Distribution-of-Households-by-Availability-of-Drinking-Water-Facility,-by-Sector-and-District,) - Percentage Distribution of Households by Availability of Drinking Water Facility, by Sector and District,
+### Source
 
-##### Original Table
+- [https://www.statistics.gov.lk/Resource/en/Population/CPH_2024/CPH2024_Final_Eng.pdf](https://www.statistics.gov.lk/Resource/en/Population/CPH_2024/CPH2024_Final_Eng.pdf) (Table 11.9)
+
+## 140. [Percentage Distribution of Households by Availability of Drinking Water Facility, by Sector and District,](data/final-report-tables/chapter-11/11.10-Percentage-Distribution-of-Households-by-Availability-of-Drinking-Water-Facility,-by-Sector-and-District,)
+*🔴 Table was detected in PDF, but not parsed into textual data.*
+
+### Original Table
 
 ![11.10-Percentage-Distribution-of-Households-by-Availability-of-Drinking-Water-Facility,-by-Sector-and-District,](data/final-report-tables/chapter-11/11.10-Percentage-Distribution-of-Households-by-Availability-of-Drinking-Water-Facility,-by-Sector-and-District,/original.png)
 
-#### 🟠 [Table 11.11](data/final-report-tables/chapter-11/11.11-Distribution-of-Households-in-Sri-Lanka's-ability-to-Obtain-Drinking-Water-Throughout-the-Year,-2024) - Distribution of Households in Sri Lanka's ability to Obtain Drinking Water Throughout the Year, 2024
+### Source
 
-##### Raw Data (first 10 rows)
+- [https://www.statistics.gov.lk/Resource/en/Population/CPH_2024/CPH2024_Final_Eng.pdf](https://www.statistics.gov.lk/Resource/en/Population/CPH_2024/CPH2024_Final_Eng.pdf) (Table 11.10)
+
+## 141. [Distribution of Households in Sri Lanka's ability to Obtain Drinking Water Throughout the Year, 2024](data/final-report-tables/chapter-11/11.11-Distribution-of-Households-in-Sri-Lanka's-ability-to-Obtain-Drinking-Water-Throughout-the-Year,-2024)
+*🟠 Raw Text Data was extracted from PDF, but not parsed into structured data.*
+
+### Raw Data (first 10 rows)
 
 | Col 1 | Col 2 | Col 3 | Col 4 | Col 5 | Col 6 | Col 7 |
 | :-- | :-- | :-- | :-- | :-- | :-- | :-- |
@@ -2117,15 +2732,25 @@ Pressure |  |  | Thalassemia | Cancer | Stroke | Asthma | Epilepsy |
 |  |  | Percentage |  | Percentage | supply for at | Percentage |
 |  | households |  | throughout the |  |  |  |
 
-#### 🔴 [Table 11.12](data/final-report-tables/chapter-11/11.12-Percentage-of-households-Using-Firewood-and-gas,-by-Sector-and-District,) - Percentage of households Using Firewood and gas, by Sector and District,
+### Source
 
-##### Original Table
+- [https://www.statistics.gov.lk/Resource/en/Population/CPH_2024/CPH2024_Final_Eng.pdf](https://www.statistics.gov.lk/Resource/en/Population/CPH_2024/CPH2024_Final_Eng.pdf) (Table 11.11)
+
+## 142. [Percentage of households Using Firewood and gas, by Sector and District,](data/final-report-tables/chapter-11/11.12-Percentage-of-households-Using-Firewood-and-gas,-by-Sector-and-District,)
+*🔴 Table was detected in PDF, but not parsed into textual data.*
+
+### Original Table
 
 ![11.12-Percentage-of-households-Using-Firewood-and-gas,-by-Sector-and-District,](data/final-report-tables/chapter-11/11.12-Percentage-of-households-Using-Firewood-and-gas,-by-Sector-and-District,/original.png)
 
-#### 🟠 [Table 11.13](data/final-report-tables/chapter-11/11.13-Household-Numbers-and-Percentages-by-Main-and-Secondary-Energy/Fuel-Type-for-Lighting,-2024) - Household Numbers and Percentages by Main and Secondary Energy/Fuel Type for Lighting, 2024
+### Source
 
-##### Raw Data (first 10 rows)
+- [https://www.statistics.gov.lk/Resource/en/Population/CPH_2024/CPH2024_Final_Eng.pdf](https://www.statistics.gov.lk/Resource/en/Population/CPH_2024/CPH2024_Final_Eng.pdf) (Table 11.12)
+
+## 143. [Household Numbers and Percentages by Main and Secondary Energy/Fuel Type for Lighting, 2024](data/final-report-tables/chapter-11/11.13-Household-Numbers-and-Percentages-by-Main-and-Secondary-Energy/Fuel-Type-for-Lighting,-2024)
+*🟠 Raw Text Data was extracted from PDF, but not parsed into structured data.*
+
+### Raw Data (first 10 rows)
 
 | Col 1 | Col 2 | Col 3 | Col 4 | Col 5 |
 | :-- | :-- | :-- | :-- | :-- |
@@ -2140,21 +2765,36 @@ Pressure |  |  | Thalassemia | Cancer | Stroke | Asthma | Epilepsy |
 | Solar power (standalone) | 5,817 | 0.1 | 27,598 | 0.5 |
 | Other* | 14,670 | 0.2 | 40,628 | 0.7 |
 
-#### 🔴 [Table 11.14](data/final-report-tables/chapter-11/11.14-Percentage-of-Households-Using-Electricity-and-Kerosene-as-the-Main-Sources-of-Lighting,-by-ResidentialSector,-2012-and-2024) - Percentage of Households Using Electricity and Kerosene as the Main Sources of Lighting, by ResidentialSector, 2012 and 2024
+### Source
 
-##### Original Table
+- [https://www.statistics.gov.lk/Resource/en/Population/CPH_2024/CPH2024_Final_Eng.pdf](https://www.statistics.gov.lk/Resource/en/Population/CPH_2024/CPH2024_Final_Eng.pdf) (Table 11.13)
+
+## 144. [Percentage of Households Using Electricity and Kerosene as the Main Sources of Lighting, by ResidentialSector, 2012 and 2024](data/final-report-tables/chapter-11/11.14-Percentage-of-Households-Using-Electricity-and-Kerosene-as-the-Main-Sources-of-Lighting,-by-ResidentialSector,-2012-and-2024)
+*🔴 Table was detected in PDF, but not parsed into textual data.*
+
+### Original Table
 
 ![11.14-Percentage-of-Households-Using-Electricity-and-Kerosene-as-the-Main-Sources-of-Lighting,-by-ResidentialSector,-2012-and-2024](data/final-report-tables/chapter-11/11.14-Percentage-of-Households-Using-Electricity-and-Kerosene-as-the-Main-Sources-of-Lighting,-by-ResidentialSector,-2012-and-2024/original.png)
 
-#### 🔴 [Table 11.15](data/final-report-tables/chapter-11/11.15-Percentage-Distribution-of-Households-by-Type-of-Toilet-Facilities,-2012-and-2024) - Percentage Distribution of Households by Type of Toilet Facilities, 2012 and 2024
+### Source
 
-##### Original Table
+- [https://www.statistics.gov.lk/Resource/en/Population/CPH_2024/CPH2024_Final_Eng.pdf](https://www.statistics.gov.lk/Resource/en/Population/CPH_2024/CPH2024_Final_Eng.pdf) (Table 11.14)
+
+## 145. [Percentage Distribution of Households by Type of Toilet Facilities, 2012 and 2024](data/final-report-tables/chapter-11/11.15-Percentage-Distribution-of-Households-by-Type-of-Toilet-Facilities,-2012-and-2024)
+*🔴 Table was detected in PDF, but not parsed into textual data.*
+
+### Original Table
 
 ![11.15-Percentage-Distribution-of-Households-by-Type-of-Toilet-Facilities,-2012-and-2024](data/final-report-tables/chapter-11/11.15-Percentage-Distribution-of-Households-by-Type-of-Toilet-Facilities,-2012-and-2024/original.png)
 
-#### 🟠 [Table 11.16](data/final-report-tables/chapter-11/11.16-Percentage-Distribution-of-Type-of-Toilet-Used-by-households-by-Sector-and-District,-2024) - Percentage Distribution of Type of Toilet Used by households by Sector and District, 2024
+### Source
 
-##### Raw Data (first 10 rows)
+- [https://www.statistics.gov.lk/Resource/en/Population/CPH_2024/CPH2024_Final_Eng.pdf](https://www.statistics.gov.lk/Resource/en/Population/CPH_2024/CPH2024_Final_Eng.pdf) (Table 11.15)
+
+## 146. [Percentage Distribution of Type of Toilet Used by households by Sector and District, 2024](data/final-report-tables/chapter-11/11.16-Percentage-Distribution-of-Type-of-Toilet-Used-by-households-by-Sector-and-District,-2024)
+*🟠 Raw Text Data was extracted from PDF, but not parsed into structured data.*
+
+### Raw Data (first 10 rows)
 
 | Col 1 | Col 2 | Col 3 | Col 4 | Col 5 | Col 6 |
 | :-- | :-- | :-- | :-- | :-- | :-- |
@@ -2169,9 +2809,14 @@ Pressure |  |  | Thalassemia | Cancer | Stroke | Asthma | Epilepsy |
 | Estate- Rural |  | 98.6 |  | 1.4 | 0.0 |
 | District |  |  |  |  |  |
 
-#### 🟠 [Table 11.17:](data/final-report-tables/chapter-11/11.17:-Distribution-of-Households-by-the-Main-Method-of-Disposing-Solid-Waste,-2024) - Distribution of Households by the Main Method of Disposing Solid Waste, 2024
+### Source
 
-##### Raw Data (first 10 rows)
+- [https://www.statistics.gov.lk/Resource/en/Population/CPH_2024/CPH2024_Final_Eng.pdf](https://www.statistics.gov.lk/Resource/en/Population/CPH_2024/CPH2024_Final_Eng.pdf) (Table 11.16)
+
+## 147. [Distribution of Households by the Main Method of Disposing Solid Waste, 2024](data/final-report-tables/chapter-11/11.17:-Distribution-of-Households-by-the-Main-Method-of-Disposing-Solid-Waste,-2024)
+*🟠 Raw Text Data was extracted from PDF, but not parsed into structured data.*
+
+### Raw Data (first 10 rows)
 
 | Col 1 | Col 2 | Col 3 | Col 4 | Col 5 | Col 6 |
 | :-- | :-- | :-- | :-- | :-- | :-- |
@@ -2186,23 +2831,36 @@ Pressure |  |  | Thalassemia | Cancer | Stroke | Asthma | Epilepsy |
 | Occupants burn | 34.2 | 8.4 | 28.2 | 39.7 | 35.7 |
 | Occupants dispose within the premises | 34.5 | 6.3 | 13.4 | 40.4 | 38.0 |
 
-#### 🔴 [Table 11.18](data/final-report-tables/chapter-11/11.18-Percentage-Distribution-of-Households-by-the-Main-Method-of-Disposing-Liquid-Waste,-2024) - Percentage Distribution of Households by the Main Method of Disposing Liquid Waste, 2024
+### Source
 
-##### Original Table
+- [https://www.statistics.gov.lk/Resource/en/Population/CPH_2024/CPH2024_Final_Eng.pdf](https://www.statistics.gov.lk/Resource/en/Population/CPH_2024/CPH2024_Final_Eng.pdf) (Table 11.17:)
+
+## 148. [Percentage Distribution of Households by the Main Method of Disposing Liquid Waste, 2024](data/final-report-tables/chapter-11/11.18-Percentage-Distribution-of-Households-by-the-Main-Method-of-Disposing-Liquid-Waste,-2024)
+*🔴 Table was detected in PDF, but not parsed into textual data.*
+
+### Original Table
 
 ![11.18-Percentage-Distribution-of-Households-by-the-Main-Method-of-Disposing-Liquid-Waste,-2024](data/final-report-tables/chapter-11/11.18-Percentage-Distribution-of-Households-by-the-Main-Method-of-Disposing-Liquid-Waste,-2024/original.png)
 
-#### 🔴 [Table 11.19](data/final-report-tables/chapter-11/11.19-Percentage-Distribution-of-Households-Using-Communication-Technology-Equipment-and-Vehicles-by-Sector,2024) - Percentage Distribution of Households Using Communication Technology Equipment and Vehicles by Sector,2024
+### Source
 
-##### Original Table
+- [https://www.statistics.gov.lk/Resource/en/Population/CPH_2024/CPH2024_Final_Eng.pdf](https://www.statistics.gov.lk/Resource/en/Population/CPH_2024/CPH2024_Final_Eng.pdf) (Table 11.18)
+
+## 149. [Percentage Distribution of Households Using Communication Technology Equipment and Vehicles by Sector,2024](data/final-report-tables/chapter-11/11.19-Percentage-Distribution-of-Households-Using-Communication-Technology-Equipment-and-Vehicles-by-Sector,2024)
+*🔴 Table was detected in PDF, but not parsed into textual data.*
+
+### Original Table
 
 ![11.19-Percentage-Distribution-of-Households-Using-Communication-Technology-Equipment-and-Vehicles-by-Sector,2024](data/final-report-tables/chapter-11/11.19-Percentage-Distribution-of-Households-Using-Communication-Technology-Equipment-and-Vehicles-by-Sector,2024/original.png)
 
-### Chapter 12
+### Source
 
-#### 🟠 [Table 12.1](data/final-report-tables/chapter-12/12.1-Myer’s-Index-by-Sex,-1981,-2001,-2012-and-2024) - Myer’s Index by Sex, 1981, 2001, 2012 and 2024
+- [https://www.statistics.gov.lk/Resource/en/Population/CPH_2024/CPH2024_Final_Eng.pdf](https://www.statistics.gov.lk/Resource/en/Population/CPH_2024/CPH2024_Final_Eng.pdf) (Table 11.19)
 
-##### Raw Data (first 10 rows)
+## 150. [Myer’s Index by Sex, 1981, 2001, 2012 and 2024](data/final-report-tables/chapter-12/12.1-Myer’s-Index-by-Sex,-1981,-2001,-2012-and-2024)
+*🟠 Raw Text Data was extracted from PDF, but not parsed into structured data.*
+
+### Raw Data (first 10 rows)
 
 | Col 1 | Col 2 | Col 3 | Col 4 | Col 5 |
 | :-- | :-- | :-- | :-- | :-- |
@@ -2214,29 +2872,53 @@ Pressure |  |  | Thalassemia | Cancer | Stroke | Asthma | Epilepsy |
 | Male | 8.7 | 2.7 | 1.8 | 1.2 |
 | Female | 11.2 | 3.0 | 1.7 | 1.1 |
 
-#### 🔴 [Table 12.2](data/final-report-tables/chapter-12/12.2-Deviations-of-Terminal-Digits-of-Reported-Age,-2012-and) - Deviations of Terminal Digits of Reported Age, 2012 and
+### Source
 
-##### Original Table
+- [https://www.statistics.gov.lk/Resource/en/Population/CPH_2024/CPH2024_Final_Eng.pdf](https://www.statistics.gov.lk/Resource/en/Population/CPH_2024/CPH2024_Final_Eng.pdf) (Table 12.1)
+
+## 151. [Deviations of Terminal Digits of Reported Age, 2012 and](data/final-report-tables/chapter-12/12.2-Deviations-of-Terminal-Digits-of-Reported-Age,-2012-and)
+*🔴 Table was detected in PDF, but not parsed into textual data.*
+
+### Original Table
 
 ![12.2-Deviations-of-Terminal-Digits-of-Reported-Age,-2012-and](data/final-report-tables/chapter-12/12.2-Deviations-of-Terminal-Digits-of-Reported-Age,-2012-and/original.png)
 
-#### 🔴 [Table 12.3](data/final-report-tables/chapter-12/12.3-Myers'-Index-by-District-and-Sex,-2012,-2024) - Myers' Index by District and Sex, 2012, 2024
+### Source
 
-##### Original Table
+- [https://www.statistics.gov.lk/Resource/en/Population/CPH_2024/CPH2024_Final_Eng.pdf](https://www.statistics.gov.lk/Resource/en/Population/CPH_2024/CPH2024_Final_Eng.pdf) (Table 12.2)
+
+## 152. [Myers' Index by District and Sex, 2012, 2024](data/final-report-tables/chapter-12/12.3-Myers'-Index-by-District-and-Sex,-2012,-2024)
+*🔴 Table was detected in PDF, but not parsed into textual data.*
+
+### Original Table
 
 ![12.3-Myers'-Index-by-District-and-Sex,-2012,-2024](data/final-report-tables/chapter-12/12.3-Myers'-Index-by-District-and-Sex,-2012,-2024/original.png)
 
-#### 🔴 [Table 12.4](data/final-report-tables/chapter-12/12.4-Whipple’s-Index-by-Sex,-1981,-2001,-2012-and-2024) - Whipple’s Index by Sex, 1981, 2001, 2012 and 2024
+### Source
 
-##### Original Table
+- [https://www.statistics.gov.lk/Resource/en/Population/CPH_2024/CPH2024_Final_Eng.pdf](https://www.statistics.gov.lk/Resource/en/Population/CPH_2024/CPH2024_Final_Eng.pdf) (Table 12.3)
+
+## 153. [Whipple’s Index by Sex, 1981, 2001, 2012 and 2024](data/final-report-tables/chapter-12/12.4-Whipple’s-Index-by-Sex,-1981,-2001,-2012-and-2024)
+*🔴 Table was detected in PDF, but not parsed into textual data.*
+
+### Original Table
 
 ![12.4-Whipple’s-Index-by-Sex,-1981,-2001,-2012-and-2024](data/final-report-tables/chapter-12/12.4-Whipple’s-Index-by-Sex,-1981,-2001,-2012-and-2024/original.png)
 
-#### 🔴 [Table 12.5](data/final-report-tables/chapter-12/12.5-Whipple's-Index-by-District-and-Sex,-2012-and-2024) - Whipple's Index by District and Sex, 2012 and 2024
+### Source
 
-##### Original Table
+- [https://www.statistics.gov.lk/Resource/en/Population/CPH_2024/CPH2024_Final_Eng.pdf](https://www.statistics.gov.lk/Resource/en/Population/CPH_2024/CPH2024_Final_Eng.pdf) (Table 12.4)
+
+## 154. [Whipple's Index by District and Sex, 2012 and 2024](data/final-report-tables/chapter-12/12.5-Whipple's-Index-by-District-and-Sex,-2012-and-2024)
+*🔴 Table was detected in PDF, but not parsed into textual data.*
+
+### Original Table
 
 ![12.5-Whipple's-Index-by-District-and-Sex,-2012-and-2024](data/final-report-tables/chapter-12/12.5-Whipple's-Index-by-District-and-Sex,-2012-and-2024/original.png)
+
+### Source
+
+- [https://www.statistics.gov.lk/Resource/en/Population/CPH_2024/CPH2024_Final_Eng.pdf](https://www.statistics.gov.lk/Resource/en/Population/CPH_2024/CPH2024_Final_Eng.pdf) (Table 12.5)
 
 ![Maintainer](https://img.shields.io/badge/maintainer-nuuuwan-red)
 ![MadeWith](https://img.shields.io/badge/made_with-python-blue)

@@ -48,12 +48,13 @@ class ReadMe(ReadMeDataTableMixin, ReadMeFinalReportMixin):
     def get_lines(self) -> list[str]:
         data_table_list = XLSXDataTable.list_all()
         final_report_table_list = FinalReportTable.list()
+        n_datasets_non_final_table = len(data_table_list)
         return (
-            self.get_lines_for_header(
-                data_table_list, final_report_table_list
-            )
+            self.get_lines_for_header(data_table_list, final_report_table_list)
             + self.get_lines_for_xlsx_data_tables(data_table_list)
-            + self.get_lines_for_final_report(final_report_table_list)
+            + self.get_lines_for_final_report(
+                n_datasets_non_final_table, final_report_table_list
+            )
             + self.get_lines_for_footer()
         )
 

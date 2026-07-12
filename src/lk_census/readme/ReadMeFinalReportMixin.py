@@ -24,11 +24,9 @@ class ReadMeFinalReportMixin:
     ):
         assert final_report_table.original_pdf_image_file.exists
         lines = [
-            f"#### 🔴 [Table {final_report_table.table_num}]"
-            + f"({final_report_table.dir_data})"
-            + f" - {final_report_table.table_name}",
+            "*🔴 Table was detected in PDF, but not parsed into textual data.*",
             "",
-            "##### Original Table",
+            "### Original Table",
             "",
             f"![{final_report_table.table_id}]"
             + f"({final_report_table.original_pdf_image_file.path})",
@@ -40,12 +38,7 @@ class ReadMeFinalReportMixin:
         self, final_report_table
     ):
         assert final_report_table.raw_data_file.exists
-        lines = [
-            f"#### 🟠 [Table {final_report_table.table_num}]"
-            + f"({final_report_table.dir_data})"
-            + f" - {final_report_table.table_name}",
-            "",
-        ]
+        lines = []
 
         example_rows = final_report_table.raw_data_list[:10]
 
@@ -55,7 +48,10 @@ class ReadMeFinalReportMixin:
         ]
         lines.extend(
             [
-                "##### Raw Data (first 10 rows)",
+                "*🟠 Raw Text Data was extracted from PDF,"
+                + " but not parsed into structured data.*",
+                "",
+                "### Raw Data (first 10 rows)",
                 "",
             ]
             + Markdown.table(d_list)
@@ -68,12 +64,6 @@ class ReadMeFinalReportMixin:
         self, final_report_table
     ):
         assert final_report_table.data_file.exists
-        lines = [
-            f"#### 🟢 [Table {final_report_table.table_num}]"
-            + f"({final_report_table.dir_data})"
-            + f" - {final_report_table.table_name}",
-            "",
-        ]
 
         d_list = final_report_table.data_list
         d_list_by_district = [
@@ -81,16 +71,19 @@ class ReadMeFinalReportMixin:
         ]
         d_list_for_table = [self.flatten_dict(d) for d in d_list_by_district]
 
+        lines = []
         lines.extend(
             [
-                "##### Data by District",
+                "*🟢 Structured Data was extracted from PDF.*",
+                "",
+                "### Data by District",
                 "",
             ]
             + Markdown.table(d_list_for_table)
         )
         lines.extend(
             [
-                "##### Example Data Row (JSON)",
+                "### Example Data Row (JSON)",
                 "",
                 "```json",
                 json.dumps(d_list_by_district[0], indent=4),
@@ -101,7 +94,7 @@ class ReadMeFinalReportMixin:
 
         return lines
 
-    def get_lines_for_final_report_table(self, final_report_table):
+    def _get_lines_for_final_report_table_inner(self, final_report_table):
         if final_report_table.data_file.exists:
             return self.get_lines_for_final_report_table_with_structured_data(
                 final_report_table
@@ -122,31 +115,38 @@ class ReadMeFinalReportMixin:
             + "does not have any data file"
         )
 
-    def get_lines_for_final_report(self, final_report_table_list):
-        n = len(final_report_table_list)
-
+    def get_lines_for_final_report_table(self, i_dataset, final_report_table):
         lines = [
-            "## Final Report Tables",
-            "",
-            f"**{n}** tables have been extracted from the"
-            + " [Census of Population and Housing - 2024 Final Report]"
-            + f"({self.URL_FINAL_REPORT})",
-            "",
-            f"- Source: <{self.URL_FINAL_REPORT}>",
+            f"## {i_dataset}. [{final_report_table.table_name}]"
+            + f"({final_report_table.dir_data})"
             "",
         ]
+        lines.extend(
+            self._get_lines_for_final_report_table_inner(final_report_table)
+        )
+        lines.extend(
+            [
+                "### Source",
+                "",
+                f"- [{self.URL_FINAL_REPORT}]({self.URL_FINAL_REPORT})"
+                + f" (Table {final_report_table.table_num})",
+                "",
+            ]
+        )
+        return lines
 
-        idx = {}
+    def get_lines_for_final_report(
+        self, n_datasets_non_final_table, final_report_table_list
+    ):
+        n = len(final_report_table_list)
+
+        lines = []
+        i_dataset = n_datasets_non_final_table + 1
         for final_report_table in final_report_table_list:
-            chapter_num = final_report_table.chapter_num
-            if chapter_num not in idx:
-                idx[chapter_num] = []
-            idx[chapter_num].append(final_report_table)
-
-        for chapter_num, final_report_table_list_for_chapter in idx.items():
-            lines.extend([f"### Chapter {chapter_num}", ""])
-            for final_report_table in final_report_table_list_for_chapter:
-                lines.extend(
-                    self.get_lines_for_final_report_table(final_report_table)
+            lines.extend(
+                self.get_lines_for_final_report_table(
+                    i_dataset, final_report_table
                 )
+            )
+            i_dataset += 1
         return lines
