@@ -62,20 +62,24 @@ class FinalReportTableDataMixin:
         return regions[0]
 
     def _build_data_item(self, raw_data):
-        if (
-            "total" in raw_data[0].lower()
-            or "sri lanka" in raw_data[0].lower()
-            or "usual" in raw_data[0].lower()
-            or "residence" in raw_data[0].lower()
-            or "district" in raw_data[0].lower()
-            or "number" in raw_data[0].lower()
-            or "person" in raw_data[0].lower()
-            or "year" in raw_data[0].lower()
-            or "over" in raw_data[0].lower()
-            or not raw_data[0]
-            or raw_data[0].startswith("*")
-        ):
+        if not raw_data[0] or raw_data[0].startswith("*"):
             return None
+
+        for keyword in [
+            "total",
+            "sri lanka",
+            "usual",
+            "residence",
+            "district",
+            "number",
+            "person",
+            "year",
+            "over",
+            "province",
+            "note",
+        ]:
+            if keyword in raw_data[0].lower():
+                return None
 
         if "\n" in raw_data[0]:
             words = raw_data[0].strip().split("\n")
