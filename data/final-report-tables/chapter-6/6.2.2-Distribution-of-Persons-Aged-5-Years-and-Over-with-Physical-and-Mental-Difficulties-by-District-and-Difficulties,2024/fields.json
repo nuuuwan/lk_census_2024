@@ -1,5 +1,4 @@
 {
-  "primary_keys": ["district_name"],
   "other_keys": [
     "total_value",
     "_persons_with_at_least_one_physical_or_mental_difficulty",

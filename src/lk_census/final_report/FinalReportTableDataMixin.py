@@ -38,7 +38,7 @@ class FinalReportTableDataMixin:
 
     @cached_property
     def primary_keys(self):
-        return self.fields.get("primary_keys", [])
+        return self.fields.get("primary_keys", ["district_name"])
 
     @cached_property
     def other_keys(self):

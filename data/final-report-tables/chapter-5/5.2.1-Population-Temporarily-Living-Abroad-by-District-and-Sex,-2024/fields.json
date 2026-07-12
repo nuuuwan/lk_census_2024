@@ -1,4 +1,3 @@
 {
-  "primary_keys": ["district_name"],
   "other_keys": ["_total", "_p_total", "male", "_p_male", "female", "_p_female"]
 }

@@ -1,5 +1,4 @@
 {
-  "primary_keys": ["district_name"],
   "other_keys": ["population", "_p_population"],
   "is_summable": "false"
 }
