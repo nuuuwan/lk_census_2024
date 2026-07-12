@@ -8,6 +8,8 @@ log = Log("FinalReportTableDataMixin")
 
 
 class FinalReportTableDataMixin:
+    MIN_N_DATA_LIST = 10
+
     @property
     def data_file(self):
         return JSONFile(os.path.join(self.dir_data, "data.json"))
@@ -87,8 +89,7 @@ class FinalReportTableDataMixin:
         assert fields != {}
         n_fields = len(self.primary_keys) + len(self.other_keys)
         if len(raw_data) != n_fields:
-            log.debug(f"{raw_data=}")
-            raise ValueError(f"[{self}] {n_fields} != {len(raw_data)} Fields")
+            return None
 
         d = {}
 
@@ -199,6 +200,13 @@ class FinalReportTableDataMixin:
             if d:
                 d_list.append(d)
         d_list.sort(key=lambda x: x["region_id"])
+
+        if len(d_list) < self.MIN_N_DATA_LIST:
+            raise ValueError(
+                f"[{self}] Expected >={self.MIN_N_DATA_LIST} data items,"
+                + f" found only {len(d_list)}"
+            )
+
         if self.is_expandable:
             d_list = self._expand_to_parent_types(d_list)
 

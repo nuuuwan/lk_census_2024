@@ -1,7 +1,7 @@
 # 🇱🇰 Sri Lanka - Census of Population and Housing 2024
 
 ![CPH](https://img.shields.io/badge/CPH-2024-blue)
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--07--12_15:51:01-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--07--12_15:56:07-green)
 
 **154** Datasets on Population, Housing and more, by Country, Province, District, Divisional Secretariat Division (DSD), Grama Niladhari Division (GND), Electoral District (ED), Polling Division (PD), and Local Government Authority (LG) levels.
 
@@ -668,22 +668,44 @@
 - [https://www.statistics.gov.lk/Resource/en/Population/CPH_2024/CPH2024_Final_Eng.pdf](https://www.statistics.gov.lk/Resource/en/Population/CPH_2024/CPH2024_Final_Eng.pdf) (Table 1.1.1)
 
 ## 14. [The Questions and Topics Included in the Censuses of Sri Lanka 1871 - 2024](data/final-report-tables/chapter-1/1.1.2-The-Questions-and-Topics-Included-in-the-Censuses-of-Sri-Lanka-1871---2024)
-*🔴 Table was detected in PDF, but not parsed into textual data.*
+*🟠 Raw Text Data was extracted from PDF, but not parsed into structured data.*
 
-### Original Table
+### Raw Data (first 10 rows)
 
-![1.1.2-The-Questions-and-Topics-Included-in-the-Censuses-of-Sri-Lanka-1871---2024](data/final-report-tables/chapter-1/1.1.2-The-Questions-and-Topics-Included-in-the-Censuses-of-Sri-Lanka-1871---2024/original.png)
+| Col 1 | Col 2 | Col 3 | Col 4 | Col 5 | Col 6 |
+| :-- | :-- | :-- | :-- | :-- | :-- |
+|  |  | Census of Population and Housing - 2024 |  |  |  |
+| In the Census of Population and Housing - 2024, data collection was carried out primarily using the CAPI |  |  |  |  |  |
+| (Computer Assisted Personal Interviewing) method. As a result, the time and cost required for data entry |  |  |  |  |  |
+| were significantly reduced, enabling the publication of census data more rapidly compared with previous |  |  |  |  |  |
+| censuses. |  |  |  |  |  |
+| Accordingly, the preliminary report containing basic census information (based on provisional data) titled |  |  |  |  |  |
+| “Population of Sri Lanka by District” was officially released on 24 March 2025. This report was presented |  |  |  |  |  |
+| to His Excellency the President, who serves as the Minister in charge of the line ministry, and it presented |  |  |  |  |  |
+| the total population of the country at the district level. |  |  |  |  |  |
+| In the second stage, population and housing information at the Divisional Secretariat Division level was |  |  |  |  |  |
 
 ### Source
 
 - [https://www.statistics.gov.lk/Resource/en/Population/CPH_2024/CPH2024_Final_Eng.pdf](https://www.statistics.gov.lk/Resource/en/Population/CPH_2024/CPH2024_Final_Eng.pdf) (Table 1.1.2)
 
 ## 15. [Evolution of the Number of Administrative Districts In Sri Lanka from 1871 to 2024](data/final-report-tables/chapter-2/2.1-Evolution-of-the-Number-of-Administrative-Districts-In-Sri-Lanka-from-1871-to-2024)
-*🔴 Table was detected in PDF, but not parsed into textual data.*
+*🟠 Raw Text Data was extracted from PDF, but not parsed into structured data.*
 
-### Original Table
+### Raw Data (first 10 rows)
 
-![2.1-Evolution-of-the-Number-of-Administrative-Districts-In-Sri-Lanka-from-1871-to-2024](data/final-report-tables/chapter-2/2.1-Evolution-of-the-Number-of-Administrative-Districts-In-Sri-Lanka-from-1871-to-2024/original.png)
+| Col 1 |
+| :-- |
+| Census of Population and Housing - 2024 |
+| 2.2.2 Division by district |
+| The 5 provinces established in 1833 by the Colebrooke Reform consisted of 23 districts. The boundaries |
+| of these districts have been subject to changes from time to time and due to these changes, the number of |
+| districts has changed in subsequent censuses. This is shown in the table 2.1 below. |
+| Although the division of administrative districts changed from 1871 to 1981, in 2001 the country's territory |
+| was divided into 25 administrative districts, which remains the same today. |
+| District |
+| Total |
+| Colombo |
 
 ### Source
 
@@ -797,11 +819,54 @@
 - [https://www.statistics.gov.lk/Resource/en/Population/CPH_2024/CPH2024_Final_Eng.pdf](https://www.statistics.gov.lk/Resource/en/Population/CPH_2024/CPH2024_Final_Eng.pdf) (Table 2.3)
 
 ## 18. [Administrative Structure by District, 2024](data/final-report-tables/chapter-2/2.4-Administrative-Structure-by-District,-2024)
-*🔴 Table was detected in PDF, but not parsed into textual data.*
+*🟢 Structured Data was extracted from PDF.*
 
-### Original Table
+### Data by District
 
-![2.4-Administrative-Structure-by-District,-2024](data/final-report-tables/chapter-2/2.4-Administrative-Structure-by-District,-2024/original.png)
+| Region Id | Region Name | Region Ent Type | Assistant Government Agend Divisions | Grama Sevaka Divisions | Municipal Councils | Urban Councils | Town Councils | Total Value |
+| :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- |
+| LK-11 | Colombo | district | 13 | 557 | 5 | 5 | 3 | 583 |
+| LK-12 | Gampaha | district | 13 | 1177 | 2 | 5 | 12 | 1209 |
+| LK-13 | Kalutara | district | 14 | 762 | 13 | 33 | 13 | 835 |
+| LK-21 | Kandy | district | 20 | 1187 | 1 | 4 | 17 | 1229 |
+| LK-22 | Matale | district | 11 | 5321 | 2 | 0 | 11 | 5345 |
+| LK-23 | Nuwara Eliya | district | 10 | 491 | 1 | 2 | 9 | 513 |
+| LK-31 | Galle | district | 22 | 895 | 1 | 2 | 17 | 937 |
+| LK-32 | Matara | district | 16 | 650 | 1 | 1 | 14 | 682 |
+| LK-33 | Hambantota | district | 12 | 576 | 1 | 1 | 10 | 600 |
+| LK-41 | Jaffna | district | 15 | 435 | 1 | 3 | 13 | 467 |
+| LK-42 | Mannar | district | 5 | 153 | 0 | 1 | 4 | 163 |
+| LK-43 | Vavuniya | district | 4 | 102 | 13 | -3 | 4 | 120 |
+| LK-44 | Mullaitivu | district | 6 | 136 | 0 | 0 | 5 | 147 |
+| LK-45 | Kilinochchi | district | 4 | 95 | 0 | 0 | 3 | 102 |
+| LK-51 | Batticaloa | district | 14 | 3462 | 1 | 2 | 9 | 3488 |
+| LK-52 | Ampara | district | 204 | 503 | 2 | 1 | 17 | 727 |
+| LK-53 | Trincomalee | district | 11 | 230 | 13 | 13 | 11 | 278 |
+| LK-61 | Kurunegala | district | 30 | 1610 | 1 | 1 | 19 | 1661 |
+| LK-62 | Puttalam | district | 16 | 548 | 13 | 13 | 10 | 600 |
+| LK-71 | Anuradhapura | district | 22 | 694 | 1 | 0 | 18 | 735 |
+| LK-72 | Polonnaruwa | district | 7 | 295 | 1 | 0 | 7 | 310 |
+| LK-81 | Badulla | district | 15 | 567 | 2 | 1 | 15 | 600 |
+| LK-82 | Monaragala | district | 11 | 319 | 0 | 0 | 10 | 340 |
+| LK-91 | Ratnapura | district | 18 | 575 | 1 | 2 | 14 | 610 |
+| LK-92 | Kegalle | district | 11 | 573 | 13 | -3 | 11 | 605 |
+### Example Data Row (JSON)
+
+```json
+{
+    "region_id": "LK-11",
+    "region_name": "Colombo",
+    "region_ent_type": "district",
+    "values": {
+        "assistant_government_agend_divisions": 13,
+        "grama_sevaka_divisions": 557,
+        "municipal_councils": 5,
+        "urban_councils": 5,
+        "town_councils": 3
+    },
+    "total_value": 583
+}
+```
 
 ### Source
 

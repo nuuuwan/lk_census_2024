@@ -49,6 +49,6 @@ class FinalReportTable(
         return [cls.from_dict(d) for d in d_list]
 
     def build(self):
-        self.build_original_pdf()
-        self.build_raw_data()
+        # self.build_original_pdf()
+        # self.build_raw_data()
         self.build_data()
