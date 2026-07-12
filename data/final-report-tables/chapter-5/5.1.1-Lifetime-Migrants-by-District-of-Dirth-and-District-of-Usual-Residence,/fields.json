@@ -1,0 +1,11 @@
+{
+  "primary_keys": ["district_name"],
+  "other_keys": [
+    "_total_population",
+    "_total_population2",
+    "population_local",
+    "population_foreign",
+    "population_migrant",
+    "_p_migrant"
+  ]
+}
