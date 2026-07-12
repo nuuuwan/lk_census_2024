@@ -67,20 +67,21 @@ class FinalReportTableDataMixin:
             return None
 
         for keyword in [
-            "total",
-            "sri lanka",
-            "usual",
-            "residence",
-            "district",
-            "number",
-            "person",
-            "year",
-            "over",
-            "province",
-            "note",
-            "term",
             "accounting",
+            "census",
+            "district",
             "family",
+            "note",
+            "number",
+            "over",
+            "person",
+            "province",
+            "residence",
+            "sri lanka",
+            "term",
+            "total",
+            "usual",
+            "year",
         ]:
             if keyword in raw_data[0].lower():
                 return None
