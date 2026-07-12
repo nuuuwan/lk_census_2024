@@ -1,3 +1,4 @@
+import camelot
 from pypdf import PdfReader, PdfWriter
 
 from utils_future.console.Log import Log
@@ -42,3 +43,25 @@ class PDFFile(File):
                 fout.write("\n")
         log.debug(f"Converted {self} to text file {output_text_file}")
         return output_text_file
+
+    def extract_table_data(self):
+        tables = camelot.read_pdf(
+            self.path,
+            flavor="stream",
+        )
+
+        if len(tables) != 1:
+            raise ValueError(
+                f"[{self}] Expected exactly one table. Found {len(tables)}"
+            )
+
+        first_table = tables[0]
+        data = first_table.df.values.tolist()
+        n_rows, n_cols = first_table.shape
+
+        if n_rows < 2 or n_cols < 2:
+            raise ValueError(
+                f"[{self}] Expected at least 2x2 table."
+                + f" Found {n_rows}x{n_cols} table"
+            )
+        return data
