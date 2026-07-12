@@ -93,6 +93,9 @@ class FinalReportTableDataMixin:
             if keyword in raw_data[0].lower():
                 return None
 
+        if len(raw_data[0].strip()) < 5:
+            return None
+
         if "\n" in raw_data[0]:
             words = raw_data[0].strip().split("\n")
             raw_data = [words[0].strip(), words[-1].strip()] + raw_data[1:]
