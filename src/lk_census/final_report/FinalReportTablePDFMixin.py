@@ -21,5 +21,7 @@ class FinalReportTablePDFMixin:
                 self.original_pdf_file,
             )
 
-            if not self.original_pdf_image_file.exists or force:
-                self.original_pdf_file.to_image(self.original_pdf_image_file)
+        if self.original_pdf_file.exists and (
+            not self.original_pdf_image_file.exists or force
+        ):
+            self.original_pdf_file.to_image(self.original_pdf_image_file)
