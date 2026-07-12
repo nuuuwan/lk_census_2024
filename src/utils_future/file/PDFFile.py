@@ -70,5 +70,5 @@ class PDFFile(File):
     def to_image(self, output_image_file):
         doc = fitz.open(self.path)
         page = doc[0]
-        pix = page.get_pixmap(dpi=300)
+        pix = page.get_pixmap(dpi=75)
         pix.save(output_image_file.path)
