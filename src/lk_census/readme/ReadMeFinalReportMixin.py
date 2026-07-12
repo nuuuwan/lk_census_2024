@@ -19,58 +19,108 @@ class ReadMeFinalReportMixin:
                 flat_d[k.replace("_", " ").title()] = v
         return flat_d
 
-    def get_lines_for_final_report_table(self, final_report_table):
+    def get_lines_for_final_report_table_with_pdf_data(
+        self, final_report_table
+    ):
+        assert final_report_table.original_pdf_image_file.exists
         lines = [
-            f"#### [Table {final_report_table.table_num}]"
+            f"#### 🔴 [Table {final_report_table.table_num}]"
+            + f"({final_report_table.dir_data})"
+            + f" - {final_report_table.table_name}",
+            "",
+            "##### Original Table",
+            "",
+            f"![{final_report_table.table_id}]"
+            + f"({final_report_table.original_pdf_image_file.path})",
+            "",
+        ]
+        return lines
+
+    def get_lines_for_final_report_table_with_raw_data(
+        self, final_report_table
+    ):
+        assert final_report_table.raw_data_file.exists
+        lines = [
+            f"#### 🟠 [Table {final_report_table.table_num}]"
             + f"({final_report_table.dir_data})"
             + f" - {final_report_table.table_name}",
             "",
         ]
 
-        if final_report_table.data_file.exists:
-            d_list = final_report_table.data_list
-            d_list_by_district = [
-                d for d in d_list if d["region_ent_type"] == "district"
-            ]
-            d_list_for_table = [
-                self.flatten_dict(d) for d in d_list_by_district
-            ]
+        example_rows = final_report_table.raw_data_list[:10]
 
-            lines.extend(
-                [
-                    "##### Data by District",
-                    "",
-                ]
-                + Markdown.table(d_list_for_table)
-            )
-            lines.extend(
-                [
-                    "##### Example Data Row (JSON)",
-                    "",
-                    "```json",
-                    json.dumps(d_list_by_district[0], indent=4),
-                    "```",
-                    "",
-                ]
-            )
-
-        elif final_report_table.raw_data_file.exists:
-            example_rows = final_report_table.raw_data_list[:10]
-
-            d_list = [
-                {f"Col {i}": cell for i, cell in enumerate(row, start=1)}
-                for row in example_rows
+        d_list = [
+            {f"Col {i}": cell for i, cell in enumerate(row, start=1)}
+            for row in example_rows
+        ]
+        lines.extend(
+            [
+                "##### Raw Data (first 10 rows)",
+                "",
             ]
-            lines.extend(
-                [
-                    "##### Raw Data (first 10 rows)",
-                    "",
-                ]
-                + Markdown.table(d_list)
-                + [""]
-            )
+            + Markdown.table(d_list)
+            + [""]
+        )
 
         return lines
+
+    def get_lines_for_final_report_table_with_structured_data(
+        self, final_report_table
+    ):
+        assert final_report_table.data_file.exists
+        lines = [
+            f"#### 🟢 [Table {final_report_table.table_num}]"
+            + f"({final_report_table.dir_data})"
+            + f" - {final_report_table.table_name}",
+            "",
+        ]
+
+        d_list = final_report_table.data_list
+        d_list_by_district = [
+            d for d in d_list if d["region_ent_type"] == "district"
+        ]
+        d_list_for_table = [self.flatten_dict(d) for d in d_list_by_district]
+
+        lines.extend(
+            [
+                "##### Data by District",
+                "",
+            ]
+            + Markdown.table(d_list_for_table)
+        )
+        lines.extend(
+            [
+                "##### Example Data Row (JSON)",
+                "",
+                "```json",
+                json.dumps(d_list_by_district[0], indent=4),
+                "```",
+                "",
+            ]
+        )
+
+        return lines
+
+    def get_lines_for_final_report_table(self, final_report_table):
+        if final_report_table.data_file.exists:
+            return self.get_lines_for_final_report_table_with_structured_data(
+                final_report_table
+            )
+
+        if final_report_table.raw_data_file.exists:
+            return self.get_lines_for_final_report_table_with_raw_data(
+                final_report_table
+            )
+
+        if final_report_table.original_pdf_image_file.exists:
+            return self.get_lines_for_final_report_table_with_pdf_data(
+                final_report_table
+            )
+
+        raise ValueError(
+            f"Final report table {final_report_table.table_num} "
+            + "does not have any data file"
+        )
 
     def get_lines_for_final_report(self, final_report_table_list):
         n = len(final_report_table_list)

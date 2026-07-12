@@ -1,7 +1,7 @@
 # 🇱🇰 Sri Lanka - Census of Population and Housing 2024
 
 ![CPH](https://img.shields.io/badge/CPH-2024-blue)
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--07--12_15:16:49-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--07--12_15:22:39-green)
 
 **154** Datasets on Population, Housing and more, by Country, Province, District, Divisional Secretariat Division (DSD), Grama Niladhari Division (GND), Electoral District (ED), Polling Division (PD), and Local Government Authority (LG) levels.
 
@@ -617,7 +617,7 @@
 
 ### Chapter 1
 
-#### [Table 1.1.1](data/final-report-tables/chapter-1/1.1.1-Officers-who-have--Assigned-for-Census-of-Population-and-Housing-2024-Activities) - Officers who have  Assigned for Census of Population and Housing 2024 Activities
+#### 🟢 [Table 1.1.1](data/final-report-tables/chapter-1/1.1.1-Officers-who-have--Assigned-for-Census-of-Population-and-Housing-2024-Activities) - Officers who have  Assigned for Census of Population and Housing 2024 Activities
 
 ##### Data by District
 
@@ -670,13 +670,21 @@
 }
 ```
 
-#### [Table 1.1.2](data/final-report-tables/chapter-1/1.1.2-The-Questions-and-Topics-Included-in-the-Censuses-of-Sri-Lanka-1871---2024) - The Questions and Topics Included in the Censuses of Sri Lanka 1871 - 2024
+#### 🔴 [Table 1.1.2](data/final-report-tables/chapter-1/1.1.2-The-Questions-and-Topics-Included-in-the-Censuses-of-Sri-Lanka-1871---2024) - The Questions and Topics Included in the Censuses of Sri Lanka 1871 - 2024
+
+##### Original Table
+
+![1.1.2-The-Questions-and-Topics-Included-in-the-Censuses-of-Sri-Lanka-1871---2024](data/final-report-tables/chapter-1/1.1.2-The-Questions-and-Topics-Included-in-the-Censuses-of-Sri-Lanka-1871---2024/original.png)
 
 ### Chapter 2
 
-#### [Table 2.1](data/final-report-tables/chapter-2/2.1-Evolution-of-the-Number-of-Administrative-Districts-In-Sri-Lanka-from-1871-to-2024) - Evolution of the Number of Administrative Districts In Sri Lanka from 1871 to 2024
+#### 🔴 [Table 2.1](data/final-report-tables/chapter-2/2.1-Evolution-of-the-Number-of-Administrative-Districts-In-Sri-Lanka-from-1871-to-2024) - Evolution of the Number of Administrative Districts In Sri Lanka from 1871 to 2024
 
-#### [Table 2.2](data/final-report-tables/chapter-2/2.2-Administrative-Structure-by-District,-1981) - Administrative Structure by District, 1981
+##### Original Table
+
+![2.1-Evolution-of-the-Number-of-Administrative-Districts-In-Sri-Lanka-from-1871-to-2024](data/final-report-tables/chapter-2/2.1-Evolution-of-the-Number-of-Administrative-Districts-In-Sri-Lanka-from-1871-to-2024/original.png)
+
+#### 🟢 [Table 2.2](data/final-report-tables/chapter-2/2.2-Administrative-Structure-by-District,-1981) - Administrative Structure by District, 1981
 
 ##### Data by District
 
@@ -724,7 +732,7 @@
 }
 ```
 
-#### [Table 2.3](data/final-report-tables/chapter-2/2.3-Administrative-Structure-by-District,-2012) - Administrative Structure by District, 2012
+#### 🟢 [Table 2.3](data/final-report-tables/chapter-2/2.3-Administrative-Structure-by-District,-2012) - Administrative Structure by District, 2012
 
 ##### Data by District
 
@@ -773,13 +781,21 @@
 }
 ```
 
-#### [Table 2.4](data/final-report-tables/chapter-2/2.4-Administrative-Structure-by-District,-2024) - Administrative Structure by District, 2024
+#### 🔴 [Table 2.4](data/final-report-tables/chapter-2/2.4-Administrative-Structure-by-District,-2024) - Administrative Structure by District, 2024
+
+##### Original Table
+
+![2.4-Administrative-Structure-by-District,-2024](data/final-report-tables/chapter-2/2.4-Administrative-Structure-by-District,-2024/original.png)
 
 ### Chapter 3
 
-#### [Table 3.1](data/final-report-tables/chapter-3/3.1-Total-Population,-Intercensal-Increase-and-Average-Annual-Growth-Rate-by-Census-Year,-1871---2024) - Total Population, Intercensal Increase and Average Annual Growth Rate by Census Year, 1871 - 2024
+#### 🔴 [Table 3.1](data/final-report-tables/chapter-3/3.1-Total-Population,-Intercensal-Increase-and-Average-Annual-Growth-Rate-by-Census-Year,-1871---2024) - Total Population, Intercensal Increase and Average Annual Growth Rate by Census Year, 1871 - 2024
 
-#### [Table 3.2](data/final-report-tables/chapter-3/3.2-Distribution-of-Population-by-Province-and-District,-2024) - Distribution of Population by Province and District, 2024
+##### Original Table
+
+![3.1-Total-Population,-Intercensal-Increase-and-Average-Annual-Growth-Rate-by-Census-Year,-1871---2024](data/final-report-tables/chapter-3/3.1-Total-Population,-Intercensal-Increase-and-Average-Annual-Growth-Rate-by-Census-Year,-1871---2024/original.png)
+
+#### 🟠 [Table 3.2](data/final-report-tables/chapter-3/3.2-Distribution-of-Population-by-Province-and-District,-2024) - Distribution of Population by Province and District, 2024
 
 ##### Raw Data (first 10 rows)
 
@@ -796,7 +812,7 @@
 | Kalutara | 1,305,784 | 6.0 |
 | Central Province | 2,714,045 | 12.5 |
 
-#### [Table 3.3](data/final-report-tables/chapter-3/3.3-Population-and-Average-Annual-Growth-Rate-by-District,-Census-Years-1981--2024) - Population and Average Annual Growth Rate by District, Census Years 1981- 2024
+#### 🟢 [Table 3.3](data/final-report-tables/chapter-3/3.3-Population-and-Average-Annual-Growth-Rate-by-District,-Census-Years-1981--2024) - Population and Average Annual Growth Rate by District, Census Years 1981- 2024
 
 ##### Data by District
 
@@ -843,19 +859,39 @@
 }
 ```
 
-#### [Table 3.4](data/final-report-tables/chapter-3/3.4-Population-Density-by-District,-1981,-2001,-2012-and-2024) - Population Density by District, 1981, 2001, 2012 and 2024
+#### 🔴 [Table 3.4](data/final-report-tables/chapter-3/3.4-Population-Density-by-District,-1981,-2001,-2012-and-2024) - Population Density by District, 1981, 2001, 2012 and 2024
 
-#### [Table 3.5](data/final-report-tables/chapter-3/3.5-Distribution-of-Population-by-Sector,-2012-and-2024) - Distribution of Population by Sector, 2012 and 2024
+##### Original Table
 
-#### [Table 3.6](data/final-report-tables/chapter-3/3.6-Population-Distribution-by-District-and-Sector,-2024) - Population Distribution by District and Sector, 2024
+![3.4-Population-Density-by-District,-1981,-2001,-2012-and-2024](data/final-report-tables/chapter-3/3.4-Population-Density-by-District,-1981,-2001,-2012-and-2024/original.png)
+
+#### 🔴 [Table 3.5](data/final-report-tables/chapter-3/3.5-Distribution-of-Population-by-Sector,-2012-and-2024) - Distribution of Population by Sector, 2012 and 2024
+
+##### Original Table
+
+![3.5-Distribution-of-Population-by-Sector,-2012-and-2024](data/final-report-tables/chapter-3/3.5-Distribution-of-Population-by-Sector,-2012-and-2024/original.png)
+
+#### 🔴 [Table 3.6](data/final-report-tables/chapter-3/3.6-Population-Distribution-by-District-and-Sector,-2024) - Population Distribution by District and Sector, 2024
+
+##### Original Table
+
+![3.6-Population-Distribution-by-District-and-Sector,-2024](data/final-report-tables/chapter-3/3.6-Population-Distribution-by-District-and-Sector,-2024/original.png)
 
 ### Chapter 5
 
-#### [Table 5.1.1](data/final-report-tables/chapter-5/5.1.1-Lifetime-Migrants-by-District-of-Dirth-and-District-of-Usual-Residence,) - Lifetime Migrants by District of Dirth and District of Usual Residence,
+#### 🔴 [Table 5.1.1](data/final-report-tables/chapter-5/5.1.1-Lifetime-Migrants-by-District-of-Dirth-and-District-of-Usual-Residence,) - Lifetime Migrants by District of Dirth and District of Usual Residence,
 
-#### [Table 5.1.2](data/final-report-tables/chapter-5/5.1.2-In,-Out-and-Net-Lifetime-Migrants-by-District,-2024) - In, Out and Net Lifetime Migrants by District, 2024
+##### Original Table
 
-#### [Table 5.1.3](data/final-report-tables/chapter-5/5.1.3-Largest-Migration-Flows-of-Lifetime-Migrants-by-District-of-Usual-Residence,-2024) - Largest Migration Flows of Lifetime Migrants by District of Usual Residence, 2024
+![5.1.1-Lifetime-Migrants-by-District-of-Dirth-and-District-of-Usual-Residence,](data/final-report-tables/chapter-5/5.1.1-Lifetime-Migrants-by-District-of-Dirth-and-District-of-Usual-Residence,/original.png)
+
+#### 🔴 [Table 5.1.2](data/final-report-tables/chapter-5/5.1.2-In,-Out-and-Net-Lifetime-Migrants-by-District,-2024) - In, Out and Net Lifetime Migrants by District, 2024
+
+##### Original Table
+
+![5.1.2-In,-Out-and-Net-Lifetime-Migrants-by-District,-2024](data/final-report-tables/chapter-5/5.1.2-In,-Out-and-Net-Lifetime-Migrants-by-District,-2024/original.png)
+
+#### 🟢 [Table 5.1.3](data/final-report-tables/chapter-5/5.1.3-Largest-Migration-Flows-of-Lifetime-Migrants-by-District-of-Usual-Residence,-2024) - Largest Migration Flows of Lifetime Migrants by District of Usual Residence, 2024
 
 ##### Data by District
 
@@ -908,7 +944,7 @@
 }
 ```
 
-#### [Table 5.1.4](data/final-report-tables/chapter-5/5.1.4-Largest-Migration-Flows-of-Lifetime-Migrants-who-have-Migrated-Out-of-their-District-of-Birth,-2024) - Largest Migration Flows of Lifetime Migrants who have Migrated Out of their District of Birth, 2024
+#### 🟢 [Table 5.1.4](data/final-report-tables/chapter-5/5.1.4-Largest-Migration-Flows-of-Lifetime-Migrants-who-have-Migrated-Out-of-their-District-of-Birth,-2024) - Largest Migration Flows of Lifetime Migrants who have Migrated Out of their District of Birth, 2024
 
 ##### Data by District
 
@@ -961,9 +997,13 @@
 }
 ```
 
-#### [Table 5.1.5](data/final-report-tables/chapter-5/5.1.5-In-migration,-Out-migration,-and-Net-Migration-by-District,) - In-migration, Out-migration, and Net Migration by District,
+#### 🔴 [Table 5.1.5](data/final-report-tables/chapter-5/5.1.5-In-migration,-Out-migration,-and-Net-Migration-by-District,) - In-migration, Out-migration, and Net Migration by District,
 
-#### [Table 5.1.6](data/final-report-tables/chapter-5/5.1.6-In-migrants-by-District-of-Usual-Residence-and-Duration-of-Residence,-2024) - In-migrants by District of Usual Residence and Duration of Residence, 2024
+##### Original Table
+
+![5.1.5-In-migration,-Out-migration,-and-Net-Migration-by-District,](data/final-report-tables/chapter-5/5.1.5-In-migration,-Out-migration,-and-Net-Migration-by-District,/original.png)
+
+#### 🟢 [Table 5.1.6](data/final-report-tables/chapter-5/5.1.6-In-migrants-by-District-of-Usual-Residence-and-Duration-of-Residence,-2024) - In-migrants by District of Usual Residence and Duration of Residence, 2024
 
 ##### Data by District
 
@@ -1010,7 +1050,7 @@
 }
 ```
 
-#### [Table 5.1.7](data/final-report-tables/chapter-5/5.1.7-Reasons-for-Migration-from-District-of-Previous-Residence-to-District-of-Usual-Residence,-2024) - Reasons for Migration from District of Previous Residence to District of Usual Residence, 2024
+#### 🟢 [Table 5.1.7](data/final-report-tables/chapter-5/5.1.7-Reasons-for-Migration-from-District-of-Previous-Residence-to-District-of-Usual-Residence,-2024) - Reasons for Migration from District of Previous Residence to District of Usual Residence, 2024
 
 ##### Data by District
 
@@ -1064,9 +1104,13 @@
 }
 ```
 
-#### [Table 5.1.8](data/final-report-tables/chapter-5/5.1.8-Distribution-of-the-Usually-Resident-Population-of-a-District-by-their-Permanent-Residence,-2024) - Distribution of the Usually Resident Population of a District by their Permanent Residence, 2024
+#### 🔴 [Table 5.1.8](data/final-report-tables/chapter-5/5.1.8-Distribution-of-the-Usually-Resident-Population-of-a-District-by-their-Permanent-Residence,-2024) - Distribution of the Usually Resident Population of a District by their Permanent Residence, 2024
 
-#### [Table 5.2.1](data/final-report-tables/chapter-5/5.2.1-Population-Temporarily-Living-Abroad-by-District-and-Sex,-2024) - Population Temporarily Living Abroad by District and Sex, 2024
+##### Original Table
+
+![5.1.8-Distribution-of-the-Usually-Resident-Population-of-a-District-by-their-Permanent-Residence,-2024](data/final-report-tables/chapter-5/5.1.8-Distribution-of-the-Usually-Resident-Population-of-a-District-by-their-Permanent-Residence,-2024/original.png)
+
+#### 🟢 [Table 5.2.1](data/final-report-tables/chapter-5/5.2.1-Population-Temporarily-Living-Abroad-by-District-and-Sex,-2024) - Population Temporarily Living Abroad by District and Sex, 2024
 
 ##### Data by District
 
@@ -1112,11 +1156,19 @@
 }
 ```
 
-#### [Table 5.2.2](data/final-report-tables/chapter-5/5.2.2-Population-Temporarily-Living-Abroad-by-Sector,-Sex-and-Age-Group,-2024) - Population Temporarily Living Abroad by Sector, Sex and Age Group, 2024
+#### 🔴 [Table 5.2.2](data/final-report-tables/chapter-5/5.2.2-Population-Temporarily-Living-Abroad-by-Sector,-Sex-and-Age-Group,-2024) - Population Temporarily Living Abroad by Sector, Sex and Age Group, 2024
 
-#### [Table 5.2.3](data/final-report-tables/chapter-5/5.2.3-Population-Temporarily-Living-Abroad-by-District-and-Main-Reason-for-Living-in-Abroad,-2024) - Population Temporarily Living Abroad by District and Main Reason for Living in Abroad, 2024
+##### Original Table
 
-#### [Table 5.2.4](data/final-report-tables/chapter-5/5.2.4-Population-Temporarily-Living-Abroad-by-Main-Reason-for-Living-Abroad-and-Age-Group,-2024) - Population Temporarily Living Abroad by Main Reason for Living Abroad and Age Group, 2024
+![5.2.2-Population-Temporarily-Living-Abroad-by-Sector,-Sex-and-Age-Group,-2024](data/final-report-tables/chapter-5/5.2.2-Population-Temporarily-Living-Abroad-by-Sector,-Sex-and-Age-Group,-2024/original.png)
+
+#### 🔴 [Table 5.2.3](data/final-report-tables/chapter-5/5.2.3-Population-Temporarily-Living-Abroad-by-District-and-Main-Reason-for-Living-in-Abroad,-2024) - Population Temporarily Living Abroad by District and Main Reason for Living in Abroad, 2024
+
+##### Original Table
+
+![5.2.3-Population-Temporarily-Living-Abroad-by-District-and-Main-Reason-for-Living-in-Abroad,-2024](data/final-report-tables/chapter-5/5.2.3-Population-Temporarily-Living-Abroad-by-District-and-Main-Reason-for-Living-in-Abroad,-2024/original.png)
+
+#### 🟠 [Table 5.2.4](data/final-report-tables/chapter-5/5.2.4-Population-Temporarily-Living-Abroad-by-Main-Reason-for-Living-Abroad-and-Age-Group,-2024) - Population Temporarily Living Abroad by Main Reason for Living Abroad and Age Group, 2024
 
 ##### Raw Data (first 10 rows)
 
@@ -1133,7 +1185,7 @@
 | 30 - 59 | 449,369 | 100.0 | 423,249 | 94.2 | 14,042 | 3.1 | 10,530 | 2.3 | 1,548 | 0.4 |
 | 60 & over | 16,124 | 100.0 | 12,414 | 77.0 | 40 | 0.2 | 3,478 | 21.6 | 192 | 1.2 |
 
-#### [Table 5.2.5](data/final-report-tables/chapter-5/5.2.5-Population-Temporarily-Living-Abroad,-by-Main-Reason-for-Living-Abroad,-Country-of-Residence-and-Sex,) - Population Temporarily Living Abroad, by Main Reason for Living Abroad, Country of Residence and Sex,
+#### 🟠 [Table 5.2.5](data/final-report-tables/chapter-5/5.2.5-Population-Temporarily-Living-Abroad,-by-Main-Reason-for-Living-Abroad,-Country-of-Residence-and-Sex,) - Population Temporarily Living Abroad, by Main Reason for Living Abroad, Country of Residence and Sex,
 
 ##### Raw Data (first 10 rows)
 
@@ -1152,15 +1204,31 @@
 
 ### Chapter 6
 
-#### [Table 6.1.1](data/final-report-tables/chapter-6/6.1.1-Total-Population,-Sex-ratio-and-the-Percentage-of-Male-and-Female,-1946-2024) - Total Population, Sex ratio and the Percentage of Male and Female, 1946-2024
+#### 🔴 [Table 6.1.1](data/final-report-tables/chapter-6/6.1.1-Total-Population,-Sex-ratio-and-the-Percentage-of-Male-and-Female,-1946-2024) - Total Population, Sex ratio and the Percentage of Male and Female, 1946-2024
 
-#### [Table 6.1.2](data/final-report-tables/chapter-6/6.1.2-Sex-Ratio-by-Sector,-2024) - Sex Ratio by Sector, 2024
+##### Original Table
 
-#### [Table 6.1.3](data/final-report-tables/chapter-6/6.1.3-Population-by-Age-Groups-and-Sex,-2012-and) - Population by Age Groups and Sex, 2012 and
+![6.1.1-Total-Population,-Sex-ratio-and-the-Percentage-of-Male-and-Female,-1946-2024](data/final-report-tables/chapter-6/6.1.1-Total-Population,-Sex-ratio-and-the-Percentage-of-Male-and-Female,-1946-2024/original.png)
 
-#### [Table 6.1.4](data/final-report-tables/chapter-6/6.1.4-Percentage-Distribution-of-Population-by-Age-Group,-1946–2024) - Percentage Distribution of Population by Age Group, 1946–2024
+#### 🔴 [Table 6.1.2](data/final-report-tables/chapter-6/6.1.2-Sex-Ratio-by-Sector,-2024) - Sex Ratio by Sector, 2024
 
-#### [Table 6.1.5](data/final-report-tables/chapter-6/6.1.5-Population-Over-and-Below-18-Years-of-Age-by-Sector-and-District,-2024) - Population Over and Below 18 Years of Age by Sector and District, 2024
+##### Original Table
+
+![6.1.2-Sex-Ratio-by-Sector,-2024](data/final-report-tables/chapter-6/6.1.2-Sex-Ratio-by-Sector,-2024/original.png)
+
+#### 🔴 [Table 6.1.3](data/final-report-tables/chapter-6/6.1.3-Population-by-Age-Groups-and-Sex,-2012-and) - Population by Age Groups and Sex, 2012 and
+
+##### Original Table
+
+![6.1.3-Population-by-Age-Groups-and-Sex,-2012-and](data/final-report-tables/chapter-6/6.1.3-Population-by-Age-Groups-and-Sex,-2012-and/original.png)
+
+#### 🔴 [Table 6.1.4](data/final-report-tables/chapter-6/6.1.4-Percentage-Distribution-of-Population-by-Age-Group,-1946–2024) - Percentage Distribution of Population by Age Group, 1946–2024
+
+##### Original Table
+
+![6.1.4-Percentage-Distribution-of-Population-by-Age-Group,-1946–2024](data/final-report-tables/chapter-6/6.1.4-Percentage-Distribution-of-Population-by-Age-Group,-1946–2024/original.png)
+
+#### 🟠 [Table 6.1.5](data/final-report-tables/chapter-6/6.1.5-Population-Over-and-Below-18-Years-of-Age-by-Sector-and-District,-2024) - Population Over and Below 18 Years of Age by Sector and District, 2024
 
 ##### Raw Data (first 10 rows)
 
@@ -1177,15 +1245,31 @@
 | Rural | 17,096,918 | 4,436,678 | 12,660,240 | 8,253,837 | 2,245,989 | 6,007,848 | 8,843,081 | 2,190,689 | 6,652,392 |
 | Rural Estate | 865,679 | 256,135 | 609,544 | 420,330 | 129,059 | 291,271 | 445,349 | 127,076 | 318,273 |
 
-#### [Table 6.1.6](data/final-report-tables/chapter-6/6.1.6-Elderly-Population-and-Sex-Ratio-by-Age-Groups,-2012-and-2024) - Elderly Population and Sex Ratio by Age Groups, 2012 and 2024
+#### 🔴 [Table 6.1.6](data/final-report-tables/chapter-6/6.1.6-Elderly-Population-and-Sex-Ratio-by-Age-Groups,-2012-and-2024) - Elderly Population and Sex Ratio by Age Groups, 2012 and 2024
 
-#### [Table 6.1.7](data/final-report-tables/chapter-6/6.1.7-Median-Age-of-the-Population,-1946-2024) - Median Age of the Population, 1946-2024
+##### Original Table
 
-#### [Table 6.1.8](data/final-report-tables/chapter-6/6.1.8-Population-Distribution-by-Ethnic-Group,-2024) - Population Distribution by Ethnic Group, 2024
+![6.1.6-Elderly-Population-and-Sex-Ratio-by-Age-Groups,-2012-and-2024](data/final-report-tables/chapter-6/6.1.6-Elderly-Population-and-Sex-Ratio-by-Age-Groups,-2012-and-2024/original.png)
 
-#### [Table 6.1.9](data/final-report-tables/chapter-6/6.1.9-Percentage-Distribution-of-the-Population-by-Ethnic-Group-and-Province,-2024) - Percentage Distribution of the Population by Ethnic Group and Province, 2024
+#### 🔴 [Table 6.1.7](data/final-report-tables/chapter-6/6.1.7-Median-Age-of-the-Population,-1946-2024) - Median Age of the Population, 1946-2024
 
-#### [Table 6.1.10](data/final-report-tables/chapter-6/6.1.10-Population-by-Ethnic-Group,-1911---2024-(in) - Population by Ethnic Group, 1911 - 2024 (in
+##### Original Table
+
+![6.1.7-Median-Age-of-the-Population,-1946-2024](data/final-report-tables/chapter-6/6.1.7-Median-Age-of-the-Population,-1946-2024/original.png)
+
+#### 🔴 [Table 6.1.8](data/final-report-tables/chapter-6/6.1.8-Population-Distribution-by-Ethnic-Group,-2024) - Population Distribution by Ethnic Group, 2024
+
+##### Original Table
+
+![6.1.8-Population-Distribution-by-Ethnic-Group,-2024](data/final-report-tables/chapter-6/6.1.8-Population-Distribution-by-Ethnic-Group,-2024/original.png)
+
+#### 🔴 [Table 6.1.9](data/final-report-tables/chapter-6/6.1.9-Percentage-Distribution-of-the-Population-by-Ethnic-Group-and-Province,-2024) - Percentage Distribution of the Population by Ethnic Group and Province, 2024
+
+##### Original Table
+
+![6.1.9-Percentage-Distribution-of-the-Population-by-Ethnic-Group-and-Province,-2024](data/final-report-tables/chapter-6/6.1.9-Percentage-Distribution-of-the-Population-by-Ethnic-Group-and-Province,-2024/original.png)
+
+#### 🟠 [Table 6.1.10](data/final-report-tables/chapter-6/6.1.10-Population-by-Ethnic-Group,-1911---2024-(in) - Population by Ethnic Group, 1911 - 2024 (in
 
 ##### Raw Data (first 10 rows)
 
@@ -1202,7 +1286,7 @@
 |  | 998.6 | 1,089.1 | 1,256.8 | 1,718.0 | 2,147.2 | 3,042.6 | 3,705.5 |  |  |  |  |
 | Sinhalese |  |  |  |  |  |  |  |  |  |  |  |
 
-#### [Table 6.1.11](data/final-report-tables/chapter-6/6.1.11-Distribution-of-Population-by-Ethnic-Group-and-District,-2012-and-2024) - Distribution of Population by Ethnic Group and District, 2012 and 2024
+#### 🟠 [Table 6.1.11](data/final-report-tables/chapter-6/6.1.11-Distribution-of-Population-by-Ethnic-Group-and-District,-2012-and-2024) - Distribution of Population by Ethnic Group and District, 2012 and 2024
 
 ##### Raw Data (first 10 rows)
 
@@ -1219,7 +1303,7 @@
 | Kandy | 1,375,382 | 1,461,895 | 1,023,488 | 1,077,312 | 69,210 | 122,772 | 85,111 | 38,311 | 191,570 | 219,905 | 2,384 | 1,891 | 2,444 | 1,001 | 1,175 | 703 |
 | Matale | 484,531 | 526,870 | 391,305 | 424,788 | 24,279 | 42,172 | 23,238 | 7,716 | 44,786 | 51,471 | 386 | 359 | 392 | 283 | 145 | 81 |
 
-#### [Table 6.1.12](data/final-report-tables/chapter-6/6.1.12-Percentage-Distribution-of-Population-by-Ethnic-Group-and-District,-2012-and-2024) - Percentage Distribution of Population by Ethnic Group and District, 2012 and 2024
+#### 🟠 [Table 6.1.12](data/final-report-tables/chapter-6/6.1.12-Percentage-Distribution-of-Population-by-Ethnic-Group-and-District,-2012-and-2024) - Percentage Distribution of Population by Ethnic Group and District, 2012 and 2024
 
 ##### Raw Data (first 10 rows)
 
@@ -1236,15 +1320,31 @@
 | Matale | 2.4 | 2.4 | 2.6 | 2.6 | 1.1 | 1.6 | 2.8 | 1.3 | 2.4 | 2.3 | 1.0 | 1.1 | 0.9 | 1.1 | 0.6 | 0.6 |
 | Nuwara Eliya | 3.5 | 3.3 | 1.8 | 1.7 | 1.4 | 2.2 | 45.0 | 60.3 | 0.9 | 0.8 | 2.0 | 3.9 | 1.2 | 0.8 | 1.7 | 0.5 |
 
-#### [Table 6.1.13](data/final-report-tables/chapter-6/6.1.13-Population-and-Percentage-Distribution-by-Sector-and-Religion,-2024) - Population and Percentage Distribution by Sector and Religion, 2024
+#### 🔴 [Table 6.1.13](data/final-report-tables/chapter-6/6.1.13-Population-and-Percentage-Distribution-by-Sector-and-Religion,-2024) - Population and Percentage Distribution by Sector and Religion, 2024
 
-#### [Table 6.1.14](data/final-report-tables/chapter-6/6.1.14-Distribution-of-Population-by-Religion-and-District,-2012) - Distribution of Population by Religion and District, 2012
+##### Original Table
 
-#### [Table 6.1.15](data/final-report-tables/chapter-6/6.1.15-Distribution-of-Population-by-Religion-and-District,-2024) - Distribution of Population by Religion and District, 2024
+![6.1.13-Population-and-Percentage-Distribution-by-Sector-and-Religion,-2024](data/final-report-tables/chapter-6/6.1.13-Population-and-Percentage-Distribution-by-Sector-and-Religion,-2024/original.png)
 
-#### [Table 6.2.1](data/final-report-tables/chapter-6/6.2.1-Distribution-of-the-Population-Aged-5-Years-and-Over-by-Level-of-Physical-and-Mental-Difficulties-for-EachFunctional-Domain,-2024) - Distribution of the Population Aged 5 Years and Over by Level of Physical and Mental Difficulties for EachFunctional Domain, 2024
+#### 🔴 [Table 6.1.14](data/final-report-tables/chapter-6/6.1.14-Distribution-of-Population-by-Religion-and-District,-2012) - Distribution of Population by Religion and District, 2012
 
-#### [Table 6.2.2](data/final-report-tables/chapter-6/6.2.2-Distribution-of-Persons-Aged-5-Years-and-Over-with-Physical-and-Mental-Difficulties-by-District-and-Difficulties,2024) - Distribution of Persons Aged 5 Years and Over with Physical and Mental Difficulties by District and Difficulties,2024
+##### Original Table
+
+![6.1.14-Distribution-of-Population-by-Religion-and-District,-2012](data/final-report-tables/chapter-6/6.1.14-Distribution-of-Population-by-Religion-and-District,-2012/original.png)
+
+#### 🔴 [Table 6.1.15](data/final-report-tables/chapter-6/6.1.15-Distribution-of-Population-by-Religion-and-District,-2024) - Distribution of Population by Religion and District, 2024
+
+##### Original Table
+
+![6.1.15-Distribution-of-Population-by-Religion-and-District,-2024](data/final-report-tables/chapter-6/6.1.15-Distribution-of-Population-by-Religion-and-District,-2024/original.png)
+
+#### 🔴 [Table 6.2.1](data/final-report-tables/chapter-6/6.2.1-Distribution-of-the-Population-Aged-5-Years-and-Over-by-Level-of-Physical-and-Mental-Difficulties-for-EachFunctional-Domain,-2024) - Distribution of the Population Aged 5 Years and Over by Level of Physical and Mental Difficulties for EachFunctional Domain, 2024
+
+##### Original Table
+
+![6.2.1-Distribution-of-the-Population-Aged-5-Years-and-Over-by-Level-of-Physical-and-Mental-Difficulties-for-EachFunctional-Domain,-2024](data/final-report-tables/chapter-6/6.2.1-Distribution-of-the-Population-Aged-5-Years-and-Over-by-Level-of-Physical-and-Mental-Difficulties-for-EachFunctional-Domain,-2024/original.png)
+
+#### 🟢 [Table 6.2.2](data/final-report-tables/chapter-6/6.2.2-Distribution-of-Persons-Aged-5-Years-and-Over-with-Physical-and-Mental-Difficulties-by-District-and-Difficulties,2024) - Distribution of Persons Aged 5 Years and Over with Physical and Mental Difficulties by District and Difficulties,2024
 
 ##### Data by District
 
@@ -1296,7 +1396,7 @@
 }
 ```
 
-#### [Table 6.2.3](data/final-report-tables/chapter-6/6.2.3-Distribution-of-Persons-Aged-5-Years-and-Over-with-Physical-and-Mental-Difficulties-by-Age-Group-andDifficulties,-2024) - Distribution of Persons Aged 5 Years and Over with Physical and Mental Difficulties by Age Group andDifficulties, 2024
+#### 🟠 [Table 6.2.3](data/final-report-tables/chapter-6/6.2.3-Distribution-of-Persons-Aged-5-Years-and-Over-with-Physical-and-Mental-Difficulties-by-Age-Group-andDifficulties,-2024) - Distribution of Persons Aged 5 Years and Over with Physical and Mental Difficulties by Age Group andDifficulties, 2024
 
 ##### Raw Data (first 10 rows)
 
@@ -1313,11 +1413,19 @@
 |  | Over |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 |  |  |  | Rate |  | Rate |  | Rate |  | Rate |  | Rate |  | Rate |  | Rate |
 
-#### [Table 6.2.4](data/final-report-tables/chapter-6/6.2.4-Distribution-of-Persons-Aged-5-Years-and-Over-with-Disabilities-by-Sex-and-Domain-of-Disability,-2024) - Distribution of Persons Aged 5 Years and Over with Disabilities by Sex and Domain of Disability, 2024
+#### 🔴 [Table 6.2.4](data/final-report-tables/chapter-6/6.2.4-Distribution-of-Persons-Aged-5-Years-and-Over-with-Disabilities-by-Sex-and-Domain-of-Disability,-2024) - Distribution of Persons Aged 5 Years and Over with Disabilities by Sex and Domain of Disability, 2024
 
-#### [Table 6.2.5](data/final-report-tables/chapter-6/6.2.5-Distribution-of-Persons-Aged-5-Years-and-Over-with-Disabilities-by-Sector-and-Domain-of-Disability,-2024) - Distribution of Persons Aged 5 Years and Over with Disabilities by Sector and Domain of Disability, 2024
+##### Original Table
 
-#### [Table 6.2.6](data/final-report-tables/chapter-6/6.2.6-Distribution-of-Persons-Aged-5-Years-and-Over-with-Disabilities-by-District-and-Domain-of-Disability,-2024) - Distribution of Persons Aged 5 Years and Over with Disabilities by District and Domain of Disability, 2024
+![6.2.4-Distribution-of-Persons-Aged-5-Years-and-Over-with-Disabilities-by-Sex-and-Domain-of-Disability,-2024](data/final-report-tables/chapter-6/6.2.4-Distribution-of-Persons-Aged-5-Years-and-Over-with-Disabilities-by-Sex-and-Domain-of-Disability,-2024/original.png)
+
+#### 🔴 [Table 6.2.5](data/final-report-tables/chapter-6/6.2.5-Distribution-of-Persons-Aged-5-Years-and-Over-with-Disabilities-by-Sector-and-Domain-of-Disability,-2024) - Distribution of Persons Aged 5 Years and Over with Disabilities by Sector and Domain of Disability, 2024
+
+##### Original Table
+
+![6.2.5-Distribution-of-Persons-Aged-5-Years-and-Over-with-Disabilities-by-Sector-and-Domain-of-Disability,-2024](data/final-report-tables/chapter-6/6.2.5-Distribution-of-Persons-Aged-5-Years-and-Over-with-Disabilities-by-Sector-and-Domain-of-Disability,-2024/original.png)
+
+#### 🟠 [Table 6.2.6](data/final-report-tables/chapter-6/6.2.6-Distribution-of-Persons-Aged-5-Years-and-Over-with-Disabilities-by-District-and-Domain-of-Disability,-2024) - Distribution of Persons Aged 5 Years and Over with Disabilities by District and Domain of Disability, 2024
 
 ##### Raw Data (first 10 rows)
 
@@ -1336,21 +1444,49 @@ District |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 | Sri Lanka 
 20,566,680 | 727,293 | 35 | 192,578 | 9 | 130,097 | 6 | 447,969 | 22 | 167,826 | 8 | 189,292 | 9 | 112,798 | 5 |
 
-#### [Table 6.2.7](data/final-report-tables/chapter-6/6.2.7-Distribution-of-Persons-Aged-5-Years-and-Over-with-Disabilities-by-Age-Group-and-Domain-of-Disability,) - Distribution of Persons Aged 5 Years and Over with Disabilities by Age Group and Domain of Disability,
+#### 🔴 [Table 6.2.7](data/final-report-tables/chapter-6/6.2.7-Distribution-of-Persons-Aged-5-Years-and-Over-with-Disabilities-by-Age-Group-and-Domain-of-Disability,) - Distribution of Persons Aged 5 Years and Over with Disabilities by Age Group and Domain of Disability,
 
-#### [Table 6.2.8](data/final-report-tables/chapter-6/6.2.8-Distribution-of-Persons-with-a-Single-Disability-and-with-Multiple-Disabilities-by-Age-Group,-2024) - Distribution of Persons with a Single Disability and with Multiple Disabilities by Age Group, 2024
+##### Original Table
 
-#### [Table 6.2.9](data/final-report-tables/chapter-6/6.2.9-Distribution-of-Persons-Aged-5-Years-and-Over-with-Disabilities-by-Marital-Status-and-Sex,-2024) - Distribution of Persons Aged 5 Years and Over with Disabilities by Marital Status and Sex, 2024
+![6.2.7-Distribution-of-Persons-Aged-5-Years-and-Over-with-Disabilities-by-Age-Group-and-Domain-of-Disability,](data/final-report-tables/chapter-6/6.2.7-Distribution-of-Persons-Aged-5-Years-and-Over-with-Disabilities-by-Age-Group-and-Domain-of-Disability,/original.png)
 
-#### [Table 6.2.10](data/final-report-tables/chapter-6/6.2.10-Distribution-of-Persons-Aged-5-Years-and-Over-with-Disabilities-by-Highest-Educational-Qualification-and-Sex,2024) - Distribution of Persons Aged 5 Years and Over with Disabilities by Highest Educational Qualification and Sex,2024
+#### 🔴 [Table 6.2.8](data/final-report-tables/chapter-6/6.2.8-Distribution-of-Persons-with-a-Single-Disability-and-with-Multiple-Disabilities-by-Age-Group,-2024) - Distribution of Persons with a Single Disability and with Multiple Disabilities by Age Group, 2024
 
-#### [Table 6.2.11](data/final-report-tables/chapter-6/6.2.11-Distribution-of-Persons-Aged-5-Years-and-Over-with-Disabilities-by-Marital-Status-and-Domain-of-Disability,2024) - Distribution of Persons Aged 5 Years and Over with Disabilities by Marital Status and Domain of Disability,2024
+##### Original Table
 
-#### [Table 6.2.12](data/final-report-tables/chapter-6/6.2.12-Distribution-of-Persons-Aged-5-Years-and-Over-with-Disabilities-by-Highest-Educational-Qualification-andDomain-of-Disability,-2024) - Distribution of Persons Aged 5 Years and Over with Disabilities by Highest Educational Qualification andDomain of Disability, 2024
+![6.2.8-Distribution-of-Persons-with-a-Single-Disability-and-with-Multiple-Disabilities-by-Age-Group,-2024](data/final-report-tables/chapter-6/6.2.8-Distribution-of-Persons-with-a-Single-Disability-and-with-Multiple-Disabilities-by-Age-Group,-2024/original.png)
 
-#### [Table 6.2.13](data/final-report-tables/chapter-6/6.2.13-Economic-Activities-of-Persons-Aged-15-Years-and-Over-with-Disabilities,-2024) - Economic Activities of Persons Aged 15 Years and Over with Disabilities, 2024
+#### 🔴 [Table 6.2.9](data/final-report-tables/chapter-6/6.2.9-Distribution-of-Persons-Aged-5-Years-and-Over-with-Disabilities-by-Marital-Status-and-Sex,-2024) - Distribution of Persons Aged 5 Years and Over with Disabilities by Marital Status and Sex, 2024
 
-#### [Table 6.2.14](data/final-report-tables/chapter-6/6.2.14-Economic-Activity-of-Persons-Aged-15-Years-and-Over-with-Disabilities-by-Domain-of-Disability,-2024) - Economic Activity of Persons Aged 15 Years and Over with Disabilities by Domain of Disability, 2024
+##### Original Table
+
+![6.2.9-Distribution-of-Persons-Aged-5-Years-and-Over-with-Disabilities-by-Marital-Status-and-Sex,-2024](data/final-report-tables/chapter-6/6.2.9-Distribution-of-Persons-Aged-5-Years-and-Over-with-Disabilities-by-Marital-Status-and-Sex,-2024/original.png)
+
+#### 🔴 [Table 6.2.10](data/final-report-tables/chapter-6/6.2.10-Distribution-of-Persons-Aged-5-Years-and-Over-with-Disabilities-by-Highest-Educational-Qualification-and-Sex,2024) - Distribution of Persons Aged 5 Years and Over with Disabilities by Highest Educational Qualification and Sex,2024
+
+##### Original Table
+
+![6.2.10-Distribution-of-Persons-Aged-5-Years-and-Over-with-Disabilities-by-Highest-Educational-Qualification-and-Sex,2024](data/final-report-tables/chapter-6/6.2.10-Distribution-of-Persons-Aged-5-Years-and-Over-with-Disabilities-by-Highest-Educational-Qualification-and-Sex,2024/original.png)
+
+#### 🔴 [Table 6.2.11](data/final-report-tables/chapter-6/6.2.11-Distribution-of-Persons-Aged-5-Years-and-Over-with-Disabilities-by-Marital-Status-and-Domain-of-Disability,2024) - Distribution of Persons Aged 5 Years and Over with Disabilities by Marital Status and Domain of Disability,2024
+
+##### Original Table
+
+![6.2.11-Distribution-of-Persons-Aged-5-Years-and-Over-with-Disabilities-by-Marital-Status-and-Domain-of-Disability,2024](data/final-report-tables/chapter-6/6.2.11-Distribution-of-Persons-Aged-5-Years-and-Over-with-Disabilities-by-Marital-Status-and-Domain-of-Disability,2024/original.png)
+
+#### 🔴 [Table 6.2.12](data/final-report-tables/chapter-6/6.2.12-Distribution-of-Persons-Aged-5-Years-and-Over-with-Disabilities-by-Highest-Educational-Qualification-andDomain-of-Disability,-2024) - Distribution of Persons Aged 5 Years and Over with Disabilities by Highest Educational Qualification andDomain of Disability, 2024
+
+##### Original Table
+
+![6.2.12-Distribution-of-Persons-Aged-5-Years-and-Over-with-Disabilities-by-Highest-Educational-Qualification-andDomain-of-Disability,-2024](data/final-report-tables/chapter-6/6.2.12-Distribution-of-Persons-Aged-5-Years-and-Over-with-Disabilities-by-Highest-Educational-Qualification-andDomain-of-Disability,-2024/original.png)
+
+#### 🔴 [Table 6.2.13](data/final-report-tables/chapter-6/6.2.13-Economic-Activities-of-Persons-Aged-15-Years-and-Over-with-Disabilities,-2024) - Economic Activities of Persons Aged 15 Years and Over with Disabilities, 2024
+
+##### Original Table
+
+![6.2.13-Economic-Activities-of-Persons-Aged-15-Years-and-Over-with-Disabilities,-2024](data/final-report-tables/chapter-6/6.2.13-Economic-Activities-of-Persons-Aged-15-Years-and-Over-with-Disabilities,-2024/original.png)
+
+#### 🟠 [Table 6.2.14](data/final-report-tables/chapter-6/6.2.14-Economic-Activity-of-Persons-Aged-15-Years-and-Over-with-Disabilities-by-Domain-of-Disability,-2024) - Economic Activity of Persons Aged 15 Years and Over with Disabilities by Domain of Disability, 2024
 
 ##### Raw Data (first 10 rows)
 
@@ -1367,7 +1503,7 @@ District |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 | Economically inactive | 155,057 | 100.0 | 108,114 | 100.0 | 402,699 | 100.0 | 151,271 | 100.0 | 172,477 | 100.0 | 91,517 | 100.0 |
 | Engaged educational or vocational training |  |  |  |  |  |  |  |  |  |  |  |  |
 
-#### [Table 6.3.1](data/final-report-tables/chapter-6/6.3.1-Number-of-Persons-Reporting-and-Not-Reporting-Diseases,-2024) - Number of Persons Reporting and Not Reporting Diseases, 2024
+#### 🟠 [Table 6.3.1](data/final-report-tables/chapter-6/6.3.1-Number-of-Persons-Reporting-and-Not-Reporting-Diseases,-2024) - Number of Persons Reporting and Not Reporting Diseases, 2024
 
 ##### Raw Data (first 10 rows)
 
@@ -1385,23 +1521,55 @@ ntroduction |  |
 | some commonly reported NCDs such as diabetes, high cholesterol, high blood pressure, heart disease, |  |
 | kidney disease, thalassemia, cancer, stroke, asthma, and epilepsy. |  |
 
-#### [Table 6.3.2](data/final-report-tables/chapter-6/6.3.2-Prevalence-Rates-of-the-Population-with-at-Least-One-Non-Communicable-Disease-by-Age-Group-and-Sex,) - Prevalence Rates of the Population with at Least One Non-Communicable Disease by Age Group and Sex,
+#### 🔴 [Table 6.3.2](data/final-report-tables/chapter-6/6.3.2-Prevalence-Rates-of-the-Population-with-at-Least-One-Non-Communicable-Disease-by-Age-Group-and-Sex,) - Prevalence Rates of the Population with at Least One Non-Communicable Disease by Age Group and Sex,
 
-#### [Table 6.3.3](data/final-report-tables/chapter-6/6.3.3-Number-of-Individuals-Living-with-Non-Communicable-Diseases-and-Prevalence-Rates,-2024) - Number of Individuals Living with Non-Communicable Diseases and Prevalence Rates, 2024
+##### Original Table
 
-#### [Table 6.3.4](data/final-report-tables/chapter-6/6.3.4-Prevalence-Rates-of-Non-Communicable-Diseases-by-District,-2024) - Prevalence Rates of Non-Communicable Diseases by District, 2024
+![6.3.2-Prevalence-Rates-of-the-Population-with-at-Least-One-Non-Communicable-Disease-by-Age-Group-and-Sex,](data/final-report-tables/chapter-6/6.3.2-Prevalence-Rates-of-the-Population-with-at-Least-One-Non-Communicable-Disease-by-Age-Group-and-Sex,/original.png)
 
-#### [Table 6.3.5](data/final-report-tables/chapter-6/6.3.5-Prevalence-Rates-of-Self-Reported-Illnesses-by-Sector,-2024) - Prevalence Rates of Self-Reported Illnesses by Sector, 2024
+#### 🔴 [Table 6.3.3](data/final-report-tables/chapter-6/6.3.3-Number-of-Individuals-Living-with-Non-Communicable-Diseases-and-Prevalence-Rates,-2024) - Number of Individuals Living with Non-Communicable Diseases and Prevalence Rates, 2024
 
-#### [Table 6.3.6](data/final-report-tables/chapter-6/6.3.6-Prevalence-Rates-of-Non-Communicable-Diseases-by-Sex,-2024) - Prevalence Rates of Non-Communicable Diseases by Sex, 2024
+##### Original Table
 
-#### [Table 6.3.7](data/final-report-tables/chapter-6/6.3.7-Prevalence-Rates-of-Non-Communicable-Diseases-by-Age-Group,-2024) - Prevalence Rates of Non-Communicable Diseases by Age Group, 2024
+![6.3.3-Number-of-Individuals-Living-with-Non-Communicable-Diseases-and-Prevalence-Rates,-2024](data/final-report-tables/chapter-6/6.3.3-Number-of-Individuals-Living-with-Non-Communicable-Diseases-and-Prevalence-Rates,-2024/original.png)
 
-#### [Table 6.3.8](data/final-report-tables/chapter-6/6.3.8-Prevalence-Rates-of-Non-Communicable-Diseases-by-Broad-Age-Groups,-2024) - Prevalence Rates of Non-Communicable Diseases by Broad Age Groups, 2024
+#### 🔴 [Table 6.3.4](data/final-report-tables/chapter-6/6.3.4-Prevalence-Rates-of-Non-Communicable-Diseases-by-District,-2024) - Prevalence Rates of Non-Communicable Diseases by District, 2024
 
-#### [Table 6.3.9](data/final-report-tables/chapter-6/6.3.9-Prevalence-Rates-of-Non-Communicable-Diseases-by-Marital-Status,-2024) - Prevalence Rates of Non-Communicable Diseases by Marital Status, 2024
+##### Original Table
 
-#### [Table 6.3.10](data/final-report-tables/chapter-6/6.3.10-Prevalence-Rates-of-Non-Communicable-Diseases-by-Ethnic-Group,-2024) - Prevalence Rates of Non-Communicable Diseases by Ethnic Group, 2024
+![6.3.4-Prevalence-Rates-of-Non-Communicable-Diseases-by-District,-2024](data/final-report-tables/chapter-6/6.3.4-Prevalence-Rates-of-Non-Communicable-Diseases-by-District,-2024/original.png)
+
+#### 🔴 [Table 6.3.5](data/final-report-tables/chapter-6/6.3.5-Prevalence-Rates-of-Self-Reported-Illnesses-by-Sector,-2024) - Prevalence Rates of Self-Reported Illnesses by Sector, 2024
+
+##### Original Table
+
+![6.3.5-Prevalence-Rates-of-Self-Reported-Illnesses-by-Sector,-2024](data/final-report-tables/chapter-6/6.3.5-Prevalence-Rates-of-Self-Reported-Illnesses-by-Sector,-2024/original.png)
+
+#### 🔴 [Table 6.3.6](data/final-report-tables/chapter-6/6.3.6-Prevalence-Rates-of-Non-Communicable-Diseases-by-Sex,-2024) - Prevalence Rates of Non-Communicable Diseases by Sex, 2024
+
+##### Original Table
+
+![6.3.6-Prevalence-Rates-of-Non-Communicable-Diseases-by-Sex,-2024](data/final-report-tables/chapter-6/6.3.6-Prevalence-Rates-of-Non-Communicable-Diseases-by-Sex,-2024/original.png)
+
+#### 🔴 [Table 6.3.7](data/final-report-tables/chapter-6/6.3.7-Prevalence-Rates-of-Non-Communicable-Diseases-by-Age-Group,-2024) - Prevalence Rates of Non-Communicable Diseases by Age Group, 2024
+
+##### Original Table
+
+![6.3.7-Prevalence-Rates-of-Non-Communicable-Diseases-by-Age-Group,-2024](data/final-report-tables/chapter-6/6.3.7-Prevalence-Rates-of-Non-Communicable-Diseases-by-Age-Group,-2024/original.png)
+
+#### 🔴 [Table 6.3.8](data/final-report-tables/chapter-6/6.3.8-Prevalence-Rates-of-Non-Communicable-Diseases-by-Broad-Age-Groups,-2024) - Prevalence Rates of Non-Communicable Diseases by Broad Age Groups, 2024
+
+##### Original Table
+
+![6.3.8-Prevalence-Rates-of-Non-Communicable-Diseases-by-Broad-Age-Groups,-2024](data/final-report-tables/chapter-6/6.3.8-Prevalence-Rates-of-Non-Communicable-Diseases-by-Broad-Age-Groups,-2024/original.png)
+
+#### 🔴 [Table 6.3.9](data/final-report-tables/chapter-6/6.3.9-Prevalence-Rates-of-Non-Communicable-Diseases-by-Marital-Status,-2024) - Prevalence Rates of Non-Communicable Diseases by Marital Status, 2024
+
+##### Original Table
+
+![6.3.9-Prevalence-Rates-of-Non-Communicable-Diseases-by-Marital-Status,-2024](data/final-report-tables/chapter-6/6.3.9-Prevalence-Rates-of-Non-Communicable-Diseases-by-Marital-Status,-2024/original.png)
+
+#### 🟠 [Table 6.3.10](data/final-report-tables/chapter-6/6.3.10-Prevalence-Rates-of-Non-Communicable-Diseases-by-Ethnic-Group,-2024) - Prevalence Rates of Non-Communicable Diseases by Ethnic Group, 2024
 
 ##### Raw Data (first 10 rows)
 
@@ -1419,7 +1587,7 @@ Pressure | Heart Disease | Kidney Disease | Thalassemia | Cancer | Stroke | Asth
 | Burgher | 31,717 | 10.7 | 10.0 | 12.2 | 3.1 | 0.6 | 0.1 | 0.5 | 0.6 | 1.9 | 0.2 |
 | Malay | 26,649 | 11.5 | 10.4 | 13.8 | 3.0 | 0.7 | 0.1 | 0.4 | 0.5 | 1.7 | 0.3 |
 
-#### [Table 6.3.11](data/final-report-tables/chapter-6/6.3.11-Prevalence-Rates-for-the-Population-Aged-25-and-Over-by-Highest-Educational-Qualification,-2024) - Prevalence Rates for the Population Aged 25 and Over by Highest Educational Qualification, 2024
+#### 🟠 [Table 6.3.11](data/final-report-tables/chapter-6/6.3.11-Prevalence-Rates-for-the-Population-Aged-25-and-Over-by-Highest-Educational-Qualification,-2024) - Prevalence Rates for the Population Aged 25 and Over by Highest Educational Qualification, 2024
 
 ##### Raw Data (first 10 rows)
 
@@ -1437,7 +1605,7 @@ Pressure | Heart Disease | Kidney Disease | Thalassemia | Cancer | Stroke | Asth
 | Passed grade 9 - 10 | 3,385,486 | 12.1 | 11.7 | 13.7 | 3.3 | 1.0 | 0.1 | 0.6 | 0.7 | 2.2 | 0.3 |
 | G.C.E. (O/L) or equal | 3,054,744 | 12.4 | 11.7 | 13.5 | 3.1 | 0.8 | 0.1 | 0.5 | 0.5 | 1.6 | 0.2 |
 
-#### [Table 6.3.12](data/final-report-tables/chapter-6/6.3.12-Prevalence-Rates-of-NCDs-by-Employment-Status,-2024) - Prevalence Rates of NCDs by Employment Status, 2024
+#### 🟠 [Table 6.3.12](data/final-report-tables/chapter-6/6.3.12-Prevalence-Rates-of-NCDs-by-Employment-Status,-2024) - Prevalence Rates of NCDs by Employment Status, 2024
 
 ##### Raw Data (first 10 rows)
 
@@ -1458,17 +1626,37 @@ Pressure |  |  | Thalassemia | Cancer | Stroke | Asthma | Epilepsy |
 
 ### Chapter 7
 
-#### [Table 7.1](data/final-report-tables/chapter-7/7.1-Population-Aged-3-Years-and-Over-by-Sex-and-Educational-Activity-During-the-Census-Reference-Period,) - Population Aged 3 Years and Over by Sex and Educational Activity During the Census Reference Period,
+#### 🔴 [Table 7.1](data/final-report-tables/chapter-7/7.1-Population-Aged-3-Years-and-Over-by-Sex-and-Educational-Activity-During-the-Census-Reference-Period,) - Population Aged 3 Years and Over by Sex and Educational Activity During the Census Reference Period,
 
-#### [Table 7.2](data/final-report-tables/chapter-7/7.2-Percentage-Pistribution-of-Population-Aged-03-Years-and-Over-by-Educational-Activity-and-Age-Group,-2024) - Percentage Pistribution of Population Aged 03 Years and Over by Educational Activity and Age Group, 2024
+##### Original Table
 
-#### [Table 7.3](data/final-report-tables/chapter-7/7.3-Children-Enrolled-in-Pre-school-Education-During-the-Reference-Period-by-Age,-2024) - Children Enrolled in Pre-school Education During the Reference Period by Age, 2024
+![7.1-Population-Aged-3-Years-and-Over-by-Sex-and-Educational-Activity-During-the-Census-Reference-Period,](data/final-report-tables/chapter-7/7.1-Population-Aged-3-Years-and-Over-by-Sex-and-Educational-Activity-During-the-Census-Reference-Period,/original.png)
 
-#### [Table 7.4](data/final-report-tables/chapter-7/7.4-Percentage-of-Children-Receiving-Preschool-Education-by-Age-Group-and-District,-2024) - Percentage of Children Receiving Preschool Education by Age Group and District, 2024
+#### 🔴 [Table 7.2](data/final-report-tables/chapter-7/7.2-Percentage-Pistribution-of-Population-Aged-03-Years-and-Over-by-Educational-Activity-and-Age-Group,-2024) - Percentage Pistribution of Population Aged 03 Years and Over by Educational Activity and Age Group, 2024
 
-#### [Table 7.5](data/final-report-tables/chapter-7/7.5-Population-Engaged-in-School-Education-During-the-Reference-Period-by-Age-Group-and-Sex,) - Population Engaged in School Education During the Reference Period by Age Group and Sex,
+##### Original Table
 
-#### [Table 7.6](data/final-report-tables/chapter-7/7.6-The-Educational-Level-of-the-Population-Age-25-Years-and-Over-by-Sex,-2012-and-2024) - The Educational Level of the Population Age 25 Years and Over by Sex, 2012 and 2024
+![7.2-Percentage-Pistribution-of-Population-Aged-03-Years-and-Over-by-Educational-Activity-and-Age-Group,-2024](data/final-report-tables/chapter-7/7.2-Percentage-Pistribution-of-Population-Aged-03-Years-and-Over-by-Educational-Activity-and-Age-Group,-2024/original.png)
+
+#### 🔴 [Table 7.3](data/final-report-tables/chapter-7/7.3-Children-Enrolled-in-Pre-school-Education-During-the-Reference-Period-by-Age,-2024) - Children Enrolled in Pre-school Education During the Reference Period by Age, 2024
+
+##### Original Table
+
+![7.3-Children-Enrolled-in-Pre-school-Education-During-the-Reference-Period-by-Age,-2024](data/final-report-tables/chapter-7/7.3-Children-Enrolled-in-Pre-school-Education-During-the-Reference-Period-by-Age,-2024/original.png)
+
+#### 🔴 [Table 7.4](data/final-report-tables/chapter-7/7.4-Percentage-of-Children-Receiving-Preschool-Education-by-Age-Group-and-District,-2024) - Percentage of Children Receiving Preschool Education by Age Group and District, 2024
+
+##### Original Table
+
+![7.4-Percentage-of-Children-Receiving-Preschool-Education-by-Age-Group-and-District,-2024](data/final-report-tables/chapter-7/7.4-Percentage-of-Children-Receiving-Preschool-Education-by-Age-Group-and-District,-2024/original.png)
+
+#### 🔴 [Table 7.5](data/final-report-tables/chapter-7/7.5-Population-Engaged-in-School-Education-During-the-Reference-Period-by-Age-Group-and-Sex,) - Population Engaged in School Education During the Reference Period by Age Group and Sex,
+
+##### Original Table
+
+![7.5-Population-Engaged-in-School-Education-During-the-Reference-Period-by-Age-Group-and-Sex,](data/final-report-tables/chapter-7/7.5-Population-Engaged-in-School-Education-During-the-Reference-Period-by-Age-Group-and-Sex,/original.png)
+
+#### 🟠 [Table 7.6](data/final-report-tables/chapter-7/7.6-The-Educational-Level-of-the-Population-Age-25-Years-and-Over-by-Sex,-2012-and-2024) - The Educational Level of the Population Age 25 Years and Over by Sex, 2012 and 2024
 
 ##### Raw Data (first 10 rows)
 
@@ -1485,7 +1673,7 @@ Pressure |  |  | Thalassemia | Cancer | Stroke | Asthma | Epilepsy |
 | Passed Grades 9 - 10 | 2,886,830 | 23.9 | 3,385,775 | 24.5 | 1,407,833 | 24.7 | 1,692,481 | 25.9 | 1,478,997 | 23.3 | 1,693,294 | 23.1 |
 | G.C.E. O/L or equivalent | 2,303,018 | 19.1 | 3,054,871 | 22.0 | 1,100,762 | 19.3 | 1,485,269 | 22.7 | 1,202,256 | 18.9 | 1,569,602 | 21.4 |
 
-#### [Table 7.7](data/final-report-tables/chapter-7/7.7-Percentage-Distribution-of-Population-Aged-25-and-Over-by-Educational-Level-and-District,-2012-and-2024) - Percentage Distribution of Population Aged 25 and Over by Educational Level and District, 2012 and 2024
+#### 🟠 [Table 7.7](data/final-report-tables/chapter-7/7.7-Percentage-Distribution-of-Population-Aged-25-and-Over-by-Educational-Level-and-District,-2012-and-2024) - Percentage Distribution of Population Aged 25 and Over by Educational Level and District, 2012 and 2024
 
 ##### Raw Data (first 10 rows)
 
@@ -1502,37 +1690,93 @@ Pressure |  |  | Thalassemia | Cancer | Stroke | Asthma | Epilepsy |
 | Gampaha | 1,419,483 | 1,620,233 | 100.0 | 100.0 | 1.8 | 1.1 | 9.7 | 6.1 | 40.8 | 33.2 | 25.2 | 27.1 | 22.6 | 32.5 |
 | Kalutara | 748,643 | 847,732 | 100.0 | 100.0 | 3.1 | 1.8 | 14.5 | 9.4 | 40.0 | 36.6 | 22.4 | 23.8 | 20.0 | 28.4 |
 
-#### [Table 7.8](data/final-report-tables/chapter-7/7.8-Language-Literacy-Rate-by-Census-Year-and-Sex,-2024) - Language Literacy Rate by Census Year and Sex, 2024
+#### 🔴 [Table 7.8](data/final-report-tables/chapter-7/7.8-Language-Literacy-Rate-by-Census-Year-and-Sex,-2024) - Language Literacy Rate by Census Year and Sex, 2024
 
-#### [Table 7.9](data/final-report-tables/chapter-7/7.9-Language-Literacy-Rate-by-Language-and-Age-Group,-2024) - Language Literacy Rate by Language and Age Group, 2024
+##### Original Table
 
-#### [Table 7.10](data/final-report-tables/chapter-7/7.10-Language-Literacy-Rate-by-Language-and-District,-2024) - Language Literacy Rate by Language and District, 2024
+![7.8-Language-Literacy-Rate-by-Census-Year-and-Sex,-2024](data/final-report-tables/chapter-7/7.8-Language-Literacy-Rate-by-Census-Year-and-Sex,-2024/original.png)
 
-#### [Table 7.11](data/final-report-tables/chapter-7/7.11-Language-Literacy-Rate-by-Language-and-Ethnic-Group,-2012-and-2024) - Language Literacy Rate by Language and Ethnic Group, 2012 and 2024
+#### 🔴 [Table 7.9](data/final-report-tables/chapter-7/7.9-Language-Literacy-Rate-by-Language-and-Age-Group,-2024) - Language Literacy Rate by Language and Age Group, 2024
 
-#### [Table 7.12](data/final-report-tables/chapter-7/7.12-Computer-and-Digital-Literacy-Rate-by-Sector,2024) - Computer and Digital Literacy Rate by Sector,2024
+##### Original Table
 
-#### [Table 7.13](data/final-report-tables/chapter-7/7.13-Computer-and-Digital-Literacy-Rate-by-District,-2024) - Computer and Digital Literacy Rate by District, 2024
+![7.9-Language-Literacy-Rate-by-Language-and-Age-Group,-2024](data/final-report-tables/chapter-7/7.9-Language-Literacy-Rate-by-Language-and-Age-Group,-2024/original.png)
 
-#### [Table 7.14](data/final-report-tables/chapter-7/7.14-Computer-and-Digital-Literacy-Rate-by-Age-Group,) - Computer and Digital Literacy Rate by Age Group,
+#### 🔴 [Table 7.10](data/final-report-tables/chapter-7/7.10-Language-Literacy-Rate-by-Language-and-District,-2024) - Language Literacy Rate by Language and District, 2024
+
+##### Original Table
+
+![7.10-Language-Literacy-Rate-by-Language-and-District,-2024](data/final-report-tables/chapter-7/7.10-Language-Literacy-Rate-by-Language-and-District,-2024/original.png)
+
+#### 🔴 [Table 7.11](data/final-report-tables/chapter-7/7.11-Language-Literacy-Rate-by-Language-and-Ethnic-Group,-2012-and-2024) - Language Literacy Rate by Language and Ethnic Group, 2012 and 2024
+
+##### Original Table
+
+![7.11-Language-Literacy-Rate-by-Language-and-Ethnic-Group,-2012-and-2024](data/final-report-tables/chapter-7/7.11-Language-Literacy-Rate-by-Language-and-Ethnic-Group,-2012-and-2024/original.png)
+
+#### 🔴 [Table 7.12](data/final-report-tables/chapter-7/7.12-Computer-and-Digital-Literacy-Rate-by-Sector,2024) - Computer and Digital Literacy Rate by Sector,2024
+
+##### Original Table
+
+![7.12-Computer-and-Digital-Literacy-Rate-by-Sector,2024](data/final-report-tables/chapter-7/7.12-Computer-and-Digital-Literacy-Rate-by-Sector,2024/original.png)
+
+#### 🔴 [Table 7.13](data/final-report-tables/chapter-7/7.13-Computer-and-Digital-Literacy-Rate-by-District,-2024) - Computer and Digital Literacy Rate by District, 2024
+
+##### Original Table
+
+![7.13-Computer-and-Digital-Literacy-Rate-by-District,-2024](data/final-report-tables/chapter-7/7.13-Computer-and-Digital-Literacy-Rate-by-District,-2024/original.png)
+
+#### 🔴 [Table 7.14](data/final-report-tables/chapter-7/7.14-Computer-and-Digital-Literacy-Rate-by-Age-Group,) - Computer and Digital Literacy Rate by Age Group,
+
+##### Original Table
+
+![7.14-Computer-and-Digital-Literacy-Rate-by-Age-Group,](data/final-report-tables/chapter-7/7.14-Computer-and-Digital-Literacy-Rate-by-Age-Group,/original.png)
 
 ### Chapter 8
 
-#### [Table 8.1](data/final-report-tables/chapter-8/8.1-Economically-Active-and-Inactive-Population-by-Sex,-2024) - Economically Active and Inactive Population by Sex, 2024
+#### 🔴 [Table 8.1](data/final-report-tables/chapter-8/8.1-Economically-Active-and-Inactive-Population-by-Sex,-2024) - Economically Active and Inactive Population by Sex, 2024
 
-#### [Table 8.2](data/final-report-tables/chapter-8/8.2-Economically-Active-Population,-by-Sector-and-Sex,-2024) - Economically Active Population, by Sector and Sex, 2024
+##### Original Table
 
-#### [Table 8.3](data/final-report-tables/chapter-8/8.3-Economically-Active-Population-by-Sex-and-Age-Group,-2024) - Economically Active Population by Sex and Age Group, 2024
+![8.1-Economically-Active-and-Inactive-Population-by-Sex,-2024](data/final-report-tables/chapter-8/8.1-Economically-Active-and-Inactive-Population-by-Sex,-2024/original.png)
 
-#### [Table 8.4](data/final-report-tables/chapter-8/8.4-Labour-Force-Participation-Rate-by-Age-Group-and-Sex,-2024) - Labour Force Participation Rate by Age Group and Sex, 2024
+#### 🔴 [Table 8.2](data/final-report-tables/chapter-8/8.2-Economically-Active-Population,-by-Sector-and-Sex,-2024) - Economically Active Population, by Sector and Sex, 2024
 
-#### [Table 8.5](data/final-report-tables/chapter-8/8.5-Labour-Force-Participation-Rate,-by-Highest-Educational-Qualification-Attained-and-Sex,-2024) - Labour Force Participation Rate, by Highest Educational Qualification Attained and Sex, 2024
+##### Original Table
 
-#### [Table 8.6](data/final-report-tables/chapter-8/8.6-Employed-Population-by-Sector-and-Sex,-2024) - Employed Population by Sector and Sex, 2024
+![8.2-Economically-Active-Population,-by-Sector-and-Sex,-2024](data/final-report-tables/chapter-8/8.2-Economically-Active-Population,-by-Sector-and-Sex,-2024/original.png)
 
-#### [Table 8.7](data/final-report-tables/chapter-8/8.7-Employed-Population,-by-Highest-Educational-Attainment-and-Sex,-2024) - Employed Population, by Highest Educational Attainment and Sex, 2024
+#### 🔴 [Table 8.3](data/final-report-tables/chapter-8/8.3-Economically-Active-Population-by-Sex-and-Age-Group,-2024) - Economically Active Population by Sex and Age Group, 2024
 
-#### [Table 8.8](data/final-report-tables/chapter-8/8.8-Employed-Population-by-Employment-Status-and-Sex,-2024) - Employed Population by Employment Status and Sex, 2024
+##### Original Table
+
+![8.3-Economically-Active-Population-by-Sex-and-Age-Group,-2024](data/final-report-tables/chapter-8/8.3-Economically-Active-Population-by-Sex-and-Age-Group,-2024/original.png)
+
+#### 🔴 [Table 8.4](data/final-report-tables/chapter-8/8.4-Labour-Force-Participation-Rate-by-Age-Group-and-Sex,-2024) - Labour Force Participation Rate by Age Group and Sex, 2024
+
+##### Original Table
+
+![8.4-Labour-Force-Participation-Rate-by-Age-Group-and-Sex,-2024](data/final-report-tables/chapter-8/8.4-Labour-Force-Participation-Rate-by-Age-Group-and-Sex,-2024/original.png)
+
+#### 🔴 [Table 8.5](data/final-report-tables/chapter-8/8.5-Labour-Force-Participation-Rate,-by-Highest-Educational-Qualification-Attained-and-Sex,-2024) - Labour Force Participation Rate, by Highest Educational Qualification Attained and Sex, 2024
+
+##### Original Table
+
+![8.5-Labour-Force-Participation-Rate,-by-Highest-Educational-Qualification-Attained-and-Sex,-2024](data/final-report-tables/chapter-8/8.5-Labour-Force-Participation-Rate,-by-Highest-Educational-Qualification-Attained-and-Sex,-2024/original.png)
+
+#### 🔴 [Table 8.6](data/final-report-tables/chapter-8/8.6-Employed-Population-by-Sector-and-Sex,-2024) - Employed Population by Sector and Sex, 2024
+
+##### Original Table
+
+![8.6-Employed-Population-by-Sector-and-Sex,-2024](data/final-report-tables/chapter-8/8.6-Employed-Population-by-Sector-and-Sex,-2024/original.png)
+
+#### 🔴 [Table 8.7](data/final-report-tables/chapter-8/8.7-Employed-Population,-by-Highest-Educational-Attainment-and-Sex,-2024) - Employed Population, by Highest Educational Attainment and Sex, 2024
+
+##### Original Table
+
+![8.7-Employed-Population,-by-Highest-Educational-Attainment-and-Sex,-2024](data/final-report-tables/chapter-8/8.7-Employed-Population,-by-Highest-Educational-Attainment-and-Sex,-2024/original.png)
+
+#### 🟠 [Table 8.8](data/final-report-tables/chapter-8/8.8-Employed-Population-by-Employment-Status-and-Sex,-2024) - Employed Population by Employment Status and Sex, 2024
 
 ##### Raw Data (first 10 rows)
 
@@ -1548,15 +1792,27 @@ Pressure |  |  | Thalassemia | Cancer | Stroke | Asthma | Epilepsy |
 | Own Account Worker | 2,407,614 | 31.4 | 1,906,739 | 35.9 | 500,875 | 21.3 |
 | Contributing to Family Enterprise | 407,571 | 5.3 | 177,986 | 3.3 | 229,585 | 9.8 |
 
-#### [Table 8.9](data/final-report-tables/chapter-8/8.9-Unemployed-Population-by-Sector-and-Sex,-2024) - Unemployed Population by Sector and Sex, 2024
+#### 🔴 [Table 8.9](data/final-report-tables/chapter-8/8.9-Unemployed-Population-by-Sector-and-Sex,-2024) - Unemployed Population by Sector and Sex, 2024
 
-#### [Table 8.10](data/final-report-tables/chapter-8/8.10-Employment-Rate-and-Unemployment-Rate-by-District,-2024) - Employment Rate and Unemployment Rate by District, 2024
+##### Original Table
 
-#### [Table 8.11](data/final-report-tables/chapter-8/8.11-Economically-Inactive-Population-by-Main-Reason-for-Inactivity,-2024) - Economically Inactive Population by Main Reason for Inactivity, 2024
+![8.9-Unemployed-Population-by-Sector-and-Sex,-2024](data/final-report-tables/chapter-8/8.9-Unemployed-Population-by-Sector-and-Sex,-2024/original.png)
+
+#### 🔴 [Table 8.10](data/final-report-tables/chapter-8/8.10-Employment-Rate-and-Unemployment-Rate-by-District,-2024) - Employment Rate and Unemployment Rate by District, 2024
+
+##### Original Table
+
+![8.10-Employment-Rate-and-Unemployment-Rate-by-District,-2024](data/final-report-tables/chapter-8/8.10-Employment-Rate-and-Unemployment-Rate-by-District,-2024/original.png)
+
+#### 🔴 [Table 8.11](data/final-report-tables/chapter-8/8.11-Economically-Inactive-Population-by-Main-Reason-for-Inactivity,-2024) - Economically Inactive Population by Main Reason for Inactivity, 2024
+
+##### Original Table
+
+![8.11-Economically-Inactive-Population-by-Main-Reason-for-Inactivity,-2024](data/final-report-tables/chapter-8/8.11-Economically-Inactive-Population-by-Main-Reason-for-Inactivity,-2024/original.png)
 
 ### Chapter 9
 
-#### [Table 9.1:](data/final-report-tables/chapter-9/9.1:-by-Marital-Status,-Age-Group,-and-Sex,-2024) - by Marital Status, Age Group, and Sex, 2024
+#### 🟠 [Table 9.1:](data/final-report-tables/chapter-9/9.1:-by-Marital-Status,-Age-Group,-and-Sex,-2024) - by Marital Status, Age Group, and Sex, 2024
 
 ##### Raw Data (first 10 rows)
 
@@ -1573,41 +1829,105 @@ Pressure |  |  | Thalassemia | Cancer | Stroke | Asthma | Epilepsy |
 |  | 2,280,530 | 2,226,309 | 2,280,530 | 2226291 | 0 | 18 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
 | Less than 15 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-#### [Table 9.2](data/final-report-tables/chapter-9/9.2-Marital-Status-by-Ethnic-group-and-Sex,) - Marital Status by Ethnic group and Sex,
+#### 🔴 [Table 9.2](data/final-report-tables/chapter-9/9.2-Marital-Status-by-Ethnic-group-and-Sex,) - Marital Status by Ethnic group and Sex,
 
-#### [Table 9.3](data/final-report-tables/chapter-9/9.3-Population-Aged-15-Years-and-Over-by-Marital-Status-and-Sex,-2012-and-2024) - Population Aged 15 Years and Over by Marital Status and Sex, 2012 and 2024
+##### Original Table
 
-#### [Table 9.4](data/final-report-tables/chapter-9/9.4-Percentage-of-Never-Married-Persons-within-the-Age-Group-by-Sex,-1981,-2012,-and-2024) - Percentage of Never-Married Persons within the Age Group by Sex, 1981, 2012, and 2024
+![9.2-Marital-Status-by-Ethnic-group-and-Sex,](data/final-report-tables/chapter-9/9.2-Marital-Status-by-Ethnic-group-and-Sex,/original.png)
 
-#### [Table 9.5](data/final-report-tables/chapter-9/9.5-Percentage-of-Married-Population-Aged-15-Years-and-Over-by-Age-Group,-1981,-2012,-and-2024) - Percentage of Married Population Aged 15 Years and Over by Age Group, 1981, 2012, and 2024
+#### 🔴 [Table 9.3](data/final-report-tables/chapter-9/9.3-Population-Aged-15-Years-and-Over-by-Marital-Status-and-Sex,-2012-and-2024) - Population Aged 15 Years and Over by Marital Status and Sex, 2012 and 2024
 
-#### [Table 9.6](data/final-report-tables/chapter-9/9.6-Percentage-of-Widowed-Population-Aged-15-Years-and-over,-1981,-2012,-and-2024) - Percentage of Widowed Population Aged 15 Years and over, 1981, 2012, and 2024
+##### Original Table
 
-#### [Table 9.7](data/final-report-tables/chapter-9/9.7-Number-of-Divorced-or-Separated-Persons-per-10,000-Population-Aged-15-Years-and-Over,-1981,-2012,-and) - Number of Divorced or Separated Persons per 10,000 Population Aged 15 Years and Over, 1981, 2012, and
+![9.3-Population-Aged-15-Years-and-Over-by-Marital-Status-and-Sex,-2012-and-2024](data/final-report-tables/chapter-9/9.3-Population-Aged-15-Years-and-Over-by-Marital-Status-and-Sex,-2012-and-2024/original.png)
 
-#### [Table 9.8](data/final-report-tables/chapter-9/9.8-Mean-Age-at-Marriage,-1953–2024) - Mean Age at Marriage, 1953–2024
+#### 🔴 [Table 9.4](data/final-report-tables/chapter-9/9.4-Percentage-of-Never-Married-Persons-within-the-Age-Group-by-Sex,-1981,-2012,-and-2024) - Percentage of Never-Married Persons within the Age Group by Sex, 1981, 2012, and 2024
 
-#### [Table 9.9](data/final-report-tables/chapter-9/9.9-Mean-Age-at-Marriage-by-Sector,-2024) - Mean Age at Marriage by Sector, 2024
+##### Original Table
 
-#### [Table 9.10](data/final-report-tables/chapter-9/9.10-Mean-Age-at-Marriage-by-District-of-Usual-Residence,-2012-and-2024) - Mean Age at Marriage by District of Usual Residence, 2012 and 2024
+![9.4-Percentage-of-Never-Married-Persons-within-the-Age-Group-by-Sex,-1981,-2012,-and-2024](data/final-report-tables/chapter-9/9.4-Percentage-of-Never-Married-Persons-within-the-Age-Group-by-Sex,-1981,-2012,-and-2024/original.png)
 
-#### [Table 9.11](data/final-report-tables/chapter-9/9.11-Mean-Age-at-Marriage-by-Ethnic-Group,-2024) - Mean Age at Marriage by Ethnic Group, 2024
+#### 🔴 [Table 9.5](data/final-report-tables/chapter-9/9.5-Percentage-of-Married-Population-Aged-15-Years-and-Over-by-Age-Group,-1981,-2012,-and-2024) - Percentage of Married Population Aged 15 Years and Over by Age Group, 1981, 2012, and 2024
 
-#### [Table 9.12](data/final-report-tables/chapter-9/9.12-Percentage-Distribution-of-Ever-Married-Women-Aged-15-Years-and-Over-by-the-Number-of-Live-Births-perWoman-and-Sector,-2024) - Percentage Distribution of Ever-Married Women Aged 15 Years and Over by the Number of Live Births perWoman and Sector, 2024
+##### Original Table
 
-#### [Table 9.13](data/final-report-tables/chapter-9/9.13-Number-and-Percentage-Distribution-of-Married-Women-Aged-15–49-Years-by-Age-Group,-2012-and-2024) - Number and Percentage Distribution of Married Women Aged 15–49 Years by Age Group, 2012 and 2024
+![9.5-Percentage-of-Married-Population-Aged-15-Years-and-Over-by-Age-Group,-1981,-2012,-and-2024](data/final-report-tables/chapter-9/9.5-Percentage-of-Married-Population-Aged-15-Years-and-Over-by-Age-Group,-1981,-2012,-and-2024/original.png)
 
-#### [Table 9.14](data/final-report-tables/chapter-9/9.14-Age-Specific-Fertility-Rates-(ASFR),-2012-and-2024) - Age-Specific Fertility Rates (ASFR), 2012 and 2024
+#### 🔴 [Table 9.6](data/final-report-tables/chapter-9/9.6-Percentage-of-Widowed-Population-Aged-15-Years-and-over,-1981,-2012,-and-2024) - Percentage of Widowed Population Aged 15 Years and over, 1981, 2012, and 2024
 
-#### [Table 9.15](data/final-report-tables/chapter-9/9.15-Total-Fertility-Rate-(TFR),-1981,-2012-and-2024) - Total Fertility Rate (TFR), 1981, 2012 and 2024
+##### Original Table
 
-#### [Table 9.16](data/final-report-tables/chapter-9/9.16-Age-Specific-Fertility-Rate-(ASFR),-Age-Specific-Marital-Fertility-Rate-(ASMFR),-Total-Fertility-Rate-(TFR)-andTotal-Marital-Fertility-Rate-(TMFR)) - Age-Specific Fertility Rate (ASFR), Age-Specific Marital Fertility Rate (ASMFR), Total Fertility Rate (TFR) andTotal Marital Fertility Rate (TMFR)
+![9.6-Percentage-of-Widowed-Population-Aged-15-Years-and-over,-1981,-2012,-and-2024](data/final-report-tables/chapter-9/9.6-Percentage-of-Widowed-Population-Aged-15-Years-and-over,-1981,-2012,-and-2024/original.png)
 
-#### [Table 9.17](data/final-report-tables/chapter-9/9.17-Gross-Reproduction-Rate-Using-TFR-and-TMFR) - Gross Reproduction Rate Using TFR and TMFR
+#### 🔴 [Table 9.7](data/final-report-tables/chapter-9/9.7-Number-of-Divorced-or-Separated-Persons-per-10,000-Population-Aged-15-Years-and-Over,-1981,-2012,-and) - Number of Divorced or Separated Persons per 10,000 Population Aged 15 Years and Over, 1981, 2012, and
+
+##### Original Table
+
+![9.7-Number-of-Divorced-or-Separated-Persons-per-10,000-Population-Aged-15-Years-and-Over,-1981,-2012,-and](data/final-report-tables/chapter-9/9.7-Number-of-Divorced-or-Separated-Persons-per-10,000-Population-Aged-15-Years-and-Over,-1981,-2012,-and/original.png)
+
+#### 🔴 [Table 9.8](data/final-report-tables/chapter-9/9.8-Mean-Age-at-Marriage,-1953–2024) - Mean Age at Marriage, 1953–2024
+
+##### Original Table
+
+![9.8-Mean-Age-at-Marriage,-1953–2024](data/final-report-tables/chapter-9/9.8-Mean-Age-at-Marriage,-1953–2024/original.png)
+
+#### 🔴 [Table 9.9](data/final-report-tables/chapter-9/9.9-Mean-Age-at-Marriage-by-Sector,-2024) - Mean Age at Marriage by Sector, 2024
+
+##### Original Table
+
+![9.9-Mean-Age-at-Marriage-by-Sector,-2024](data/final-report-tables/chapter-9/9.9-Mean-Age-at-Marriage-by-Sector,-2024/original.png)
+
+#### 🔴 [Table 9.10](data/final-report-tables/chapter-9/9.10-Mean-Age-at-Marriage-by-District-of-Usual-Residence,-2012-and-2024) - Mean Age at Marriage by District of Usual Residence, 2012 and 2024
+
+##### Original Table
+
+![9.10-Mean-Age-at-Marriage-by-District-of-Usual-Residence,-2012-and-2024](data/final-report-tables/chapter-9/9.10-Mean-Age-at-Marriage-by-District-of-Usual-Residence,-2012-and-2024/original.png)
+
+#### 🔴 [Table 9.11](data/final-report-tables/chapter-9/9.11-Mean-Age-at-Marriage-by-Ethnic-Group,-2024) - Mean Age at Marriage by Ethnic Group, 2024
+
+##### Original Table
+
+![9.11-Mean-Age-at-Marriage-by-Ethnic-Group,-2024](data/final-report-tables/chapter-9/9.11-Mean-Age-at-Marriage-by-Ethnic-Group,-2024/original.png)
+
+#### 🔴 [Table 9.12](data/final-report-tables/chapter-9/9.12-Percentage-Distribution-of-Ever-Married-Women-Aged-15-Years-and-Over-by-the-Number-of-Live-Births-perWoman-and-Sector,-2024) - Percentage Distribution of Ever-Married Women Aged 15 Years and Over by the Number of Live Births perWoman and Sector, 2024
+
+##### Original Table
+
+![9.12-Percentage-Distribution-of-Ever-Married-Women-Aged-15-Years-and-Over-by-the-Number-of-Live-Births-perWoman-and-Sector,-2024](data/final-report-tables/chapter-9/9.12-Percentage-Distribution-of-Ever-Married-Women-Aged-15-Years-and-Over-by-the-Number-of-Live-Births-perWoman-and-Sector,-2024/original.png)
+
+#### 🔴 [Table 9.13](data/final-report-tables/chapter-9/9.13-Number-and-Percentage-Distribution-of-Married-Women-Aged-15–49-Years-by-Age-Group,-2012-and-2024) - Number and Percentage Distribution of Married Women Aged 15–49 Years by Age Group, 2012 and 2024
+
+##### Original Table
+
+![9.13-Number-and-Percentage-Distribution-of-Married-Women-Aged-15–49-Years-by-Age-Group,-2012-and-2024](data/final-report-tables/chapter-9/9.13-Number-and-Percentage-Distribution-of-Married-Women-Aged-15–49-Years-by-Age-Group,-2012-and-2024/original.png)
+
+#### 🔴 [Table 9.14](data/final-report-tables/chapter-9/9.14-Age-Specific-Fertility-Rates-(ASFR),-2012-and-2024) - Age-Specific Fertility Rates (ASFR), 2012 and 2024
+
+##### Original Table
+
+![9.14-Age-Specific-Fertility-Rates-(ASFR),-2012-and-2024](data/final-report-tables/chapter-9/9.14-Age-Specific-Fertility-Rates-(ASFR),-2012-and-2024/original.png)
+
+#### 🔴 [Table 9.15](data/final-report-tables/chapter-9/9.15-Total-Fertility-Rate-(TFR),-1981,-2012-and-2024) - Total Fertility Rate (TFR), 1981, 2012 and 2024
+
+##### Original Table
+
+![9.15-Total-Fertility-Rate-(TFR),-1981,-2012-and-2024](data/final-report-tables/chapter-9/9.15-Total-Fertility-Rate-(TFR),-1981,-2012-and-2024/original.png)
+
+#### 🔴 [Table 9.16](data/final-report-tables/chapter-9/9.16-Age-Specific-Fertility-Rate-(ASFR),-Age-Specific-Marital-Fertility-Rate-(ASMFR),-Total-Fertility-Rate-(TFR)-andTotal-Marital-Fertility-Rate-(TMFR)) - Age-Specific Fertility Rate (ASFR), Age-Specific Marital Fertility Rate (ASMFR), Total Fertility Rate (TFR) andTotal Marital Fertility Rate (TMFR)
+
+##### Original Table
+
+![9.16-Age-Specific-Fertility-Rate-(ASFR),-Age-Specific-Marital-Fertility-Rate-(ASMFR),-Total-Fertility-Rate-(TFR)-andTotal-Marital-Fertility-Rate-(TMFR)](data/final-report-tables/chapter-9/9.16-Age-Specific-Fertility-Rate-(ASFR),-Age-Specific-Marital-Fertility-Rate-(ASMFR),-Total-Fertility-Rate-(TFR)-andTotal-Marital-Fertility-Rate-(TMFR)/original.png)
+
+#### 🔴 [Table 9.17](data/final-report-tables/chapter-9/9.17-Gross-Reproduction-Rate-Using-TFR-and-TMFR) - Gross Reproduction Rate Using TFR and TMFR
+
+##### Original Table
+
+![9.17-Gross-Reproduction-Rate-Using-TFR-and-TMFR](data/final-report-tables/chapter-9/9.17-Gross-Reproduction-Rate-Using-TFR-and-TMFR/original.png)
 
 ### Chapter 10
 
-#### [Table 10.1](data/final-report-tables/chapter-10/10.1-Percentage-Distribution-of-Household-Size-by-Sector,-2024) - Percentage Distribution of Household Size by Sector, 2024
+#### 🟠 [Table 10.1](data/final-report-tables/chapter-10/10.1-Percentage-Distribution-of-Household-Size-by-Sector,-2024) - Percentage Distribution of Household Size by Sector, 2024
 
 ##### Raw Data (first 10 rows)
 
@@ -1624,11 +1944,19 @@ Pressure |  |  | Thalassemia | Cancer | Stroke | Asthma | Epilepsy |
 | Urban* | 1,045,665 | 10.6 | 17.7 | 20.5 | 25.8 | 15.1 | 6.4 | 3.9 | 100.0 | 3.5 |
 | Rural | 4,827,055 | 10.4 | 18.2 | 21.3 | 25.0 | 15.9 | 6.3 | 2.9 | 100.0 | 3.5 |
 
-#### [Table 10.2](data/final-report-tables/chapter-10/10.2-Percentage-Distribution-of-the-Number-and-of-Households-by-Sector,-District-and-Household-Type,-2024) - Percentage Distribution of the Number and of Households by Sector, District and Household Type, 2024
+#### 🔴 [Table 10.2](data/final-report-tables/chapter-10/10.2-Percentage-Distribution-of-the-Number-and-of-Households-by-Sector,-District-and-Household-Type,-2024) - Percentage Distribution of the Number and of Households by Sector, District and Household Type, 2024
 
-#### [Table 10.3](data/final-report-tables/chapter-10/10.3-Percentage-Distribution-of-the-Number-of-Household-Heads-by-Ethnic-group-of-the-Head-of-Household-and-typeof-Household,-2024) - Percentage Distribution of the Number of Household Heads by Ethnic group of the Head of Household and typeof Household, 2024
+##### Original Table
 
-#### [Table 10.4](data/final-report-tables/chapter-10/10.4-Percentage-Distribution-of-the-Number-of-Household-Heads-by-Sex,-Age-Group,-and-Sector,-2024) - Percentage Distribution of the Number of Household Heads by Sex, Age Group, and Sector, 2024
+![10.2-Percentage-Distribution-of-the-Number-and-of-Households-by-Sector,-District-and-Household-Type,-2024](data/final-report-tables/chapter-10/10.2-Percentage-Distribution-of-the-Number-and-of-Households-by-Sector,-District-and-Household-Type,-2024/original.png)
+
+#### 🔴 [Table 10.3](data/final-report-tables/chapter-10/10.3-Percentage-Distribution-of-the-Number-of-Household-Heads-by-Ethnic-group-of-the-Head-of-Household-and-typeof-Household,-2024) - Percentage Distribution of the Number of Household Heads by Ethnic group of the Head of Household and typeof Household, 2024
+
+##### Original Table
+
+![10.3-Percentage-Distribution-of-the-Number-of-Household-Heads-by-Ethnic-group-of-the-Head-of-Household-and-typeof-Household,-2024](data/final-report-tables/chapter-10/10.3-Percentage-Distribution-of-the-Number-of-Household-Heads-by-Ethnic-group-of-the-Head-of-Household-and-typeof-Household,-2024/original.png)
+
+#### 🟠 [Table 10.4](data/final-report-tables/chapter-10/10.4-Percentage-Distribution-of-the-Number-of-Household-Heads-by-Sex,-Age-Group,-and-Sector,-2024) - Percentage Distribution of the Number of Household Heads by Sex, Age Group, and Sector, 2024
 
 ##### Raw Data (first 10 rows)
 
@@ -1645,15 +1973,31 @@ Pressure |  |  | Thalassemia | Cancer | Stroke | Asthma | Epilepsy |
 | U | 1,042,557 | 736,435 | 306,122 | 1,838 | 782,406 | 258,313 |
 | rban |  |  |  |  |  |  |
 
-#### [Table 10.5](data/final-report-tables/chapter-10/10.5-Percentage-Distribution-of-the-Number-of-Household-Heads-by-District,-Sex,-and-Age-Group,-2024) - Percentage Distribution of the Number of Household Heads by District, Sex, and Age Group, 2024
+#### 🔴 [Table 10.5](data/final-report-tables/chapter-10/10.5-Percentage-Distribution-of-the-Number-of-Household-Heads-by-District,-Sex,-and-Age-Group,-2024) - Percentage Distribution of the Number of Household Heads by District, Sex, and Age Group, 2024
 
-#### [Table 10.6](data/final-report-tables/chapter-10/10.6-Percentage-Distribution-of-the-Number-of-Household-Heads-by-Sector-and-Marital-Status,-2024) - Percentage Distribution of the Number of Household Heads by Sector and Marital Status, 2024
+##### Original Table
 
-#### [Table 10.7](data/final-report-tables/chapter-10/10.7-Percentage-Distribution-of-the-Number-of-Household-Heads-by-Sex-and-Marital-Status,-2024) - Percentage Distribution of the Number of Household Heads by Sex and Marital Status, 2024
+![10.5-Percentage-Distribution-of-the-Number-of-Household-Heads-by-District,-Sex,-and-Age-Group,-2024](data/final-report-tables/chapter-10/10.5-Percentage-Distribution-of-the-Number-of-Household-Heads-by-District,-Sex,-and-Age-Group,-2024/original.png)
 
-#### [Table 10.8](data/final-report-tables/chapter-10/10.8-Percentage-Distribution-of-Household-Heads-by-Highest-Educational-Qualification-Obtained-and-Sector,-2024) - Percentage Distribution of Household Heads by Highest Educational Qualification Obtained and Sector, 2024
+#### 🔴 [Table 10.6](data/final-report-tables/chapter-10/10.6-Percentage-Distribution-of-the-Number-of-Household-Heads-by-Sector-and-Marital-Status,-2024) - Percentage Distribution of the Number of Household Heads by Sector and Marital Status, 2024
 
-#### [Table 10.9](data/final-report-tables/chapter-10/10.9-Percentage-Distribution-of-Household-Heads-by-District-and-Highest-Educational-Qualification-Obtained,) - Percentage Distribution of Household Heads by District and Highest Educational Qualification Obtained,
+##### Original Table
+
+![10.6-Percentage-Distribution-of-the-Number-of-Household-Heads-by-Sector-and-Marital-Status,-2024](data/final-report-tables/chapter-10/10.6-Percentage-Distribution-of-the-Number-of-Household-Heads-by-Sector-and-Marital-Status,-2024/original.png)
+
+#### 🔴 [Table 10.7](data/final-report-tables/chapter-10/10.7-Percentage-Distribution-of-the-Number-of-Household-Heads-by-Sex-and-Marital-Status,-2024) - Percentage Distribution of the Number of Household Heads by Sex and Marital Status, 2024
+
+##### Original Table
+
+![10.7-Percentage-Distribution-of-the-Number-of-Household-Heads-by-Sex-and-Marital-Status,-2024](data/final-report-tables/chapter-10/10.7-Percentage-Distribution-of-the-Number-of-Household-Heads-by-Sex-and-Marital-Status,-2024/original.png)
+
+#### 🔴 [Table 10.8](data/final-report-tables/chapter-10/10.8-Percentage-Distribution-of-Household-Heads-by-Highest-Educational-Qualification-Obtained-and-Sector,-2024) - Percentage Distribution of Household Heads by Highest Educational Qualification Obtained and Sector, 2024
+
+##### Original Table
+
+![10.8-Percentage-Distribution-of-Household-Heads-by-Highest-Educational-Qualification-Obtained-and-Sector,-2024](data/final-report-tables/chapter-10/10.8-Percentage-Distribution-of-Household-Heads-by-Highest-Educational-Qualification-Obtained-and-Sector,-2024/original.png)
+
+#### 🟠 [Table 10.9](data/final-report-tables/chapter-10/10.9-Percentage-Distribution-of-Household-Heads-by-District-and-Highest-Educational-Qualification-Obtained,) - Percentage Distribution of Household Heads by District and Highest Educational Qualification Obtained,
 
 ##### Raw Data (first 10 rows)
 
@@ -1670,13 +2014,21 @@ Pressure |  |  | Thalassemia | Cancer | Stroke | Asthma | Epilepsy |
 | Sri Lanka | 6,111,315 | 100.0 | 174,144 | 2.8 | 933,438 | 15.3 | 2,443,894 | 40.1 | 1,310,679 | 21.4 | 1,249,160 | 20.4 |
 | Colombo | 661,822 | 100.0 | 9,113 | 1.4 | 41,277 | 6.2 | 189,119 | 28.6 | 178,500 | 27.0 | 243,813 | 36.8 |
 
-#### [Table 10.10:](data/final-report-tables/chapter-10/10.10:-and-Percentage-Distribution-of-Individuals-in-One-Person-Households-Aged-60-Years-and-Over,-by-Sexand-Age-Group,-2024) - and Percentage Distribution of Individuals in One Person Households Aged 60 Years and Over, by Sexand Age Group, 2024
+#### 🔴 [Table 10.10:](data/final-report-tables/chapter-10/10.10:-and-Percentage-Distribution-of-Individuals-in-One-Person-Households-Aged-60-Years-and-Over,-by-Sexand-Age-Group,-2024) - and Percentage Distribution of Individuals in One Person Households Aged 60 Years and Over, by Sexand Age Group, 2024
+
+##### Original Table
+
+![10.10:-and-Percentage-Distribution-of-Individuals-in-One-Person-Households-Aged-60-Years-and-Over,-by-Sexand-Age-Group,-2024](data/final-report-tables/chapter-10/10.10:-and-Percentage-Distribution-of-Individuals-in-One-Person-Households-Aged-60-Years-and-Over,-by-Sexand-Age-Group,-2024/original.png)
 
 ### Chapter 11
 
-#### [Table 11.1](data/final-report-tables/chapter-11/11.1-Number-of-Occupied-Housing-Units-by-Sector,-2012-and-2024) - Number of Occupied Housing Units by Sector, 2012 and 2024
+#### 🔴 [Table 11.1](data/final-report-tables/chapter-11/11.1-Number-of-Occupied-Housing-Units-by-Sector,-2012-and-2024) - Number of Occupied Housing Units by Sector, 2012 and 2024
 
-#### [Table 11.2](data/final-report-tables/chapter-11/11.2-Number-of-Occupied-Housing-Units-&-Permanently-Closed/Vacant-Housing-Units-by-District,-2012-and-2024) - Number of Occupied Housing Units & Permanently Closed/Vacant Housing Units by District, 2012 and 2024
+##### Original Table
+
+![11.1-Number-of-Occupied-Housing-Units-by-Sector,-2012-and-2024](data/final-report-tables/chapter-11/11.1-Number-of-Occupied-Housing-Units-by-Sector,-2012-and-2024/original.png)
+
+#### 🟠 [Table 11.2](data/final-report-tables/chapter-11/11.2-Number-of-Occupied-Housing-Units-&-Permanently-Closed/Vacant-Housing-Units-by-District,-2012-and-2024) - Number of Occupied Housing Units & Permanently Closed/Vacant Housing Units by District, 2012 and 2024
 
 ##### Raw Data (first 10 rows)
 
@@ -1689,7 +2041,7 @@ Pressure |  |  | Thalassemia | Cancer | Stroke | Asthma | Epilepsy |
 | only a marginal increase, from 224,385 to 228,842, suggesting relatively slow growth in housing within |
 | estate areas compared to the other sectors. |
 
-#### [Table 11.3](data/final-report-tables/chapter-11/11.3-Number-of-Housing-Units-by-the-Year-of-Construction,-2024) - Number of Housing Units by the Year of Construction, 2024
+#### 🟠 [Table 11.3](data/final-report-tables/chapter-11/11.3-Number-of-Housing-Units-by-the-Year-of-Construction,-2024) - Number of Housing Units by the Year of Construction, 2024
 
 ##### Raw Data (first 10 rows)
 
@@ -1706,21 +2058,49 @@ Pressure |  |  | Thalassemia | Cancer | Stroke | Asthma | Epilepsy |
 | 2018 | 323,965 | 5.4 |
 | 2017 -2013 | 780,280 | 12.9 |
 
-#### [Table 11.4](data/final-report-tables/chapter-11/11.4-Tenure-of-Housing-Units-by-Sector-and-District,-2024) - Tenure of Housing Units by Sector and District, 2024
+#### 🔴 [Table 11.4](data/final-report-tables/chapter-11/11.4-Tenure-of-Housing-Units-by-Sector-and-District,-2024) - Tenure of Housing Units by Sector and District, 2024
 
-#### [Table 11.5](data/final-report-tables/chapter-11/11.5-Percentage-of-Housing-Units-Owned-by-Household-Members-and-Sector,-2012-and-2024) - Percentage of Housing Units Owned by Household Members and Sector, 2012 and 2024
+##### Original Table
 
-#### [Table 11.6](data/final-report-tables/chapter-11/11.6-Percentage-of-Housing-units-by-Materials-Used-to-Construct-Walls,-Roofs-and-Floors,) - Percentage of Housing units by Materials Used to Construct Walls, Roofs and Floors,
+![11.4-Tenure-of-Housing-Units-by-Sector-and-District,-2024](data/final-report-tables/chapter-11/11.4-Tenure-of-Housing-Units-by-Sector-and-District,-2024/original.png)
 
-#### [Table 11.7](data/final-report-tables/chapter-11/11.7-of-Housing-Units-and-Status-of-Housing-Units,-by-Sector-and-District,-2024) - of Housing Units and Status of Housing Units, by Sector and District, 2024
+#### 🔴 [Table 11.5](data/final-report-tables/chapter-11/11.5-Percentage-of-Housing-Units-Owned-by-Household-Members-and-Sector,-2012-and-2024) - Percentage of Housing Units Owned by Household Members and Sector, 2012 and 2024
 
-#### [Table 11.8](data/final-report-tables/chapter-11/11.8-in-Housing-Units-by-Sector,-2024) - in Housing Units by Sector, 2024
+##### Original Table
 
-#### [Table 11.9](data/final-report-tables/chapter-11/11.9-Distribution-of-Households-by-Main-Source-of-Drinking-Water,-2024) - Distribution of Households by Main Source of Drinking Water, 2024
+![11.5-Percentage-of-Housing-Units-Owned-by-Household-Members-and-Sector,-2012-and-2024](data/final-report-tables/chapter-11/11.5-Percentage-of-Housing-Units-Owned-by-Household-Members-and-Sector,-2012-and-2024/original.png)
 
-#### [Table 11.10](data/final-report-tables/chapter-11/11.10-Percentage-Distribution-of-Households-by-Availability-of-Drinking-Water-Facility,-by-Sector-and-District,) - Percentage Distribution of Households by Availability of Drinking Water Facility, by Sector and District,
+#### 🔴 [Table 11.6](data/final-report-tables/chapter-11/11.6-Percentage-of-Housing-units-by-Materials-Used-to-Construct-Walls,-Roofs-and-Floors,) - Percentage of Housing units by Materials Used to Construct Walls, Roofs and Floors,
 
-#### [Table 11.11](data/final-report-tables/chapter-11/11.11-Distribution-of-Households-in-Sri-Lanka's-ability-to-Obtain-Drinking-Water-Throughout-the-Year,-2024) - Distribution of Households in Sri Lanka's ability to Obtain Drinking Water Throughout the Year, 2024
+##### Original Table
+
+![11.6-Percentage-of-Housing-units-by-Materials-Used-to-Construct-Walls,-Roofs-and-Floors,](data/final-report-tables/chapter-11/11.6-Percentage-of-Housing-units-by-Materials-Used-to-Construct-Walls,-Roofs-and-Floors,/original.png)
+
+#### 🔴 [Table 11.7](data/final-report-tables/chapter-11/11.7-of-Housing-Units-and-Status-of-Housing-Units,-by-Sector-and-District,-2024) - of Housing Units and Status of Housing Units, by Sector and District, 2024
+
+##### Original Table
+
+![11.7-of-Housing-Units-and-Status-of-Housing-Units,-by-Sector-and-District,-2024](data/final-report-tables/chapter-11/11.7-of-Housing-Units-and-Status-of-Housing-Units,-by-Sector-and-District,-2024/original.png)
+
+#### 🔴 [Table 11.8](data/final-report-tables/chapter-11/11.8-in-Housing-Units-by-Sector,-2024) - in Housing Units by Sector, 2024
+
+##### Original Table
+
+![11.8-in-Housing-Units-by-Sector,-2024](data/final-report-tables/chapter-11/11.8-in-Housing-Units-by-Sector,-2024/original.png)
+
+#### 🔴 [Table 11.9](data/final-report-tables/chapter-11/11.9-Distribution-of-Households-by-Main-Source-of-Drinking-Water,-2024) - Distribution of Households by Main Source of Drinking Water, 2024
+
+##### Original Table
+
+![11.9-Distribution-of-Households-by-Main-Source-of-Drinking-Water,-2024](data/final-report-tables/chapter-11/11.9-Distribution-of-Households-by-Main-Source-of-Drinking-Water,-2024/original.png)
+
+#### 🔴 [Table 11.10](data/final-report-tables/chapter-11/11.10-Percentage-Distribution-of-Households-by-Availability-of-Drinking-Water-Facility,-by-Sector-and-District,) - Percentage Distribution of Households by Availability of Drinking Water Facility, by Sector and District,
+
+##### Original Table
+
+![11.10-Percentage-Distribution-of-Households-by-Availability-of-Drinking-Water-Facility,-by-Sector-and-District,](data/final-report-tables/chapter-11/11.10-Percentage-Distribution-of-Households-by-Availability-of-Drinking-Water-Facility,-by-Sector-and-District,/original.png)
+
+#### 🟠 [Table 11.11](data/final-report-tables/chapter-11/11.11-Distribution-of-Households-in-Sri-Lanka's-ability-to-Obtain-Drinking-Water-Throughout-the-Year,-2024) - Distribution of Households in Sri Lanka's ability to Obtain Drinking Water Throughout the Year, 2024
 
 ##### Raw Data (first 10 rows)
 
@@ -1737,9 +2117,13 @@ Pressure |  |  | Thalassemia | Cancer | Stroke | Asthma | Epilepsy |
 |  |  | Percentage |  | Percentage | supply for at | Percentage |
 |  | households |  | throughout the |  |  |  |
 
-#### [Table 11.12](data/final-report-tables/chapter-11/11.12-Percentage-of-households-Using-Firewood-and-gas,-by-Sector-and-District,) - Percentage of households Using Firewood and gas, by Sector and District,
+#### 🔴 [Table 11.12](data/final-report-tables/chapter-11/11.12-Percentage-of-households-Using-Firewood-and-gas,-by-Sector-and-District,) - Percentage of households Using Firewood and gas, by Sector and District,
 
-#### [Table 11.13](data/final-report-tables/chapter-11/11.13-Household-Numbers-and-Percentages-by-Main-and-Secondary-Energy/Fuel-Type-for-Lighting,-2024) - Household Numbers and Percentages by Main and Secondary Energy/Fuel Type for Lighting, 2024
+##### Original Table
+
+![11.12-Percentage-of-households-Using-Firewood-and-gas,-by-Sector-and-District,](data/final-report-tables/chapter-11/11.12-Percentage-of-households-Using-Firewood-and-gas,-by-Sector-and-District,/original.png)
+
+#### 🟠 [Table 11.13](data/final-report-tables/chapter-11/11.13-Household-Numbers-and-Percentages-by-Main-and-Secondary-Energy/Fuel-Type-for-Lighting,-2024) - Household Numbers and Percentages by Main and Secondary Energy/Fuel Type for Lighting, 2024
 
 ##### Raw Data (first 10 rows)
 
@@ -1756,11 +2140,19 @@ Pressure |  |  | Thalassemia | Cancer | Stroke | Asthma | Epilepsy |
 | Solar power (standalone) | 5,817 | 0.1 | 27,598 | 0.5 |
 | Other* | 14,670 | 0.2 | 40,628 | 0.7 |
 
-#### [Table 11.14](data/final-report-tables/chapter-11/11.14-Percentage-of-Households-Using-Electricity-and-Kerosene-as-the-Main-Sources-of-Lighting,-by-ResidentialSector,-2012-and-2024) - Percentage of Households Using Electricity and Kerosene as the Main Sources of Lighting, by ResidentialSector, 2012 and 2024
+#### 🔴 [Table 11.14](data/final-report-tables/chapter-11/11.14-Percentage-of-Households-Using-Electricity-and-Kerosene-as-the-Main-Sources-of-Lighting,-by-ResidentialSector,-2012-and-2024) - Percentage of Households Using Electricity and Kerosene as the Main Sources of Lighting, by ResidentialSector, 2012 and 2024
 
-#### [Table 11.15](data/final-report-tables/chapter-11/11.15-Percentage-Distribution-of-Households-by-Type-of-Toilet-Facilities,-2012-and-2024) - Percentage Distribution of Households by Type of Toilet Facilities, 2012 and 2024
+##### Original Table
 
-#### [Table 11.16](data/final-report-tables/chapter-11/11.16-Percentage-Distribution-of-Type-of-Toilet-Used-by-households-by-Sector-and-District,-2024) - Percentage Distribution of Type of Toilet Used by households by Sector and District, 2024
+![11.14-Percentage-of-Households-Using-Electricity-and-Kerosene-as-the-Main-Sources-of-Lighting,-by-ResidentialSector,-2012-and-2024](data/final-report-tables/chapter-11/11.14-Percentage-of-Households-Using-Electricity-and-Kerosene-as-the-Main-Sources-of-Lighting,-by-ResidentialSector,-2012-and-2024/original.png)
+
+#### 🔴 [Table 11.15](data/final-report-tables/chapter-11/11.15-Percentage-Distribution-of-Households-by-Type-of-Toilet-Facilities,-2012-and-2024) - Percentage Distribution of Households by Type of Toilet Facilities, 2012 and 2024
+
+##### Original Table
+
+![11.15-Percentage-Distribution-of-Households-by-Type-of-Toilet-Facilities,-2012-and-2024](data/final-report-tables/chapter-11/11.15-Percentage-Distribution-of-Households-by-Type-of-Toilet-Facilities,-2012-and-2024/original.png)
+
+#### 🟠 [Table 11.16](data/final-report-tables/chapter-11/11.16-Percentage-Distribution-of-Type-of-Toilet-Used-by-households-by-Sector-and-District,-2024) - Percentage Distribution of Type of Toilet Used by households by Sector and District, 2024
 
 ##### Raw Data (first 10 rows)
 
@@ -1777,7 +2169,7 @@ Pressure |  |  | Thalassemia | Cancer | Stroke | Asthma | Epilepsy |
 | Estate- Rural |  | 98.6 |  | 1.4 | 0.0 |
 | District |  |  |  |  |  |
 
-#### [Table 11.17:](data/final-report-tables/chapter-11/11.17:-Distribution-of-Households-by-the-Main-Method-of-Disposing-Solid-Waste,-2024) - Distribution of Households by the Main Method of Disposing Solid Waste, 2024
+#### 🟠 [Table 11.17:](data/final-report-tables/chapter-11/11.17:-Distribution-of-Households-by-the-Main-Method-of-Disposing-Solid-Waste,-2024) - Distribution of Households by the Main Method of Disposing Solid Waste, 2024
 
 ##### Raw Data (first 10 rows)
 
@@ -1794,13 +2186,21 @@ Pressure |  |  | Thalassemia | Cancer | Stroke | Asthma | Epilepsy |
 | Occupants burn | 34.2 | 8.4 | 28.2 | 39.7 | 35.7 |
 | Occupants dispose within the premises | 34.5 | 6.3 | 13.4 | 40.4 | 38.0 |
 
-#### [Table 11.18](data/final-report-tables/chapter-11/11.18-Percentage-Distribution-of-Households-by-the-Main-Method-of-Disposing-Liquid-Waste,-2024) - Percentage Distribution of Households by the Main Method of Disposing Liquid Waste, 2024
+#### 🔴 [Table 11.18](data/final-report-tables/chapter-11/11.18-Percentage-Distribution-of-Households-by-the-Main-Method-of-Disposing-Liquid-Waste,-2024) - Percentage Distribution of Households by the Main Method of Disposing Liquid Waste, 2024
 
-#### [Table 11.19](data/final-report-tables/chapter-11/11.19-Percentage-Distribution-of-Households-Using-Communication-Technology-Equipment-and-Vehicles-by-Sector,2024) - Percentage Distribution of Households Using Communication Technology Equipment and Vehicles by Sector,2024
+##### Original Table
+
+![11.18-Percentage-Distribution-of-Households-by-the-Main-Method-of-Disposing-Liquid-Waste,-2024](data/final-report-tables/chapter-11/11.18-Percentage-Distribution-of-Households-by-the-Main-Method-of-Disposing-Liquid-Waste,-2024/original.png)
+
+#### 🔴 [Table 11.19](data/final-report-tables/chapter-11/11.19-Percentage-Distribution-of-Households-Using-Communication-Technology-Equipment-and-Vehicles-by-Sector,2024) - Percentage Distribution of Households Using Communication Technology Equipment and Vehicles by Sector,2024
+
+##### Original Table
+
+![11.19-Percentage-Distribution-of-Households-Using-Communication-Technology-Equipment-and-Vehicles-by-Sector,2024](data/final-report-tables/chapter-11/11.19-Percentage-Distribution-of-Households-Using-Communication-Technology-Equipment-and-Vehicles-by-Sector,2024/original.png)
 
 ### Chapter 12
 
-#### [Table 12.1](data/final-report-tables/chapter-12/12.1-Myer’s-Index-by-Sex,-1981,-2001,-2012-and-2024) - Myer’s Index by Sex, 1981, 2001, 2012 and 2024
+#### 🟠 [Table 12.1](data/final-report-tables/chapter-12/12.1-Myer’s-Index-by-Sex,-1981,-2001,-2012-and-2024) - Myer’s Index by Sex, 1981, 2001, 2012 and 2024
 
 ##### Raw Data (first 10 rows)
 
@@ -1814,13 +2214,29 @@ Pressure |  |  | Thalassemia | Cancer | Stroke | Asthma | Epilepsy |
 | Male | 8.7 | 2.7 | 1.8 | 1.2 |
 | Female | 11.2 | 3.0 | 1.7 | 1.1 |
 
-#### [Table 12.2](data/final-report-tables/chapter-12/12.2-Deviations-of-Terminal-Digits-of-Reported-Age,-2012-and) - Deviations of Terminal Digits of Reported Age, 2012 and
+#### 🔴 [Table 12.2](data/final-report-tables/chapter-12/12.2-Deviations-of-Terminal-Digits-of-Reported-Age,-2012-and) - Deviations of Terminal Digits of Reported Age, 2012 and
 
-#### [Table 12.3](data/final-report-tables/chapter-12/12.3-Myers'-Index-by-District-and-Sex,-2012,-2024) - Myers' Index by District and Sex, 2012, 2024
+##### Original Table
 
-#### [Table 12.4](data/final-report-tables/chapter-12/12.4-Whipple’s-Index-by-Sex,-1981,-2001,-2012-and-2024) - Whipple’s Index by Sex, 1981, 2001, 2012 and 2024
+![12.2-Deviations-of-Terminal-Digits-of-Reported-Age,-2012-and](data/final-report-tables/chapter-12/12.2-Deviations-of-Terminal-Digits-of-Reported-Age,-2012-and/original.png)
 
-#### [Table 12.5](data/final-report-tables/chapter-12/12.5-Whipple's-Index-by-District-and-Sex,-2012-and-2024) - Whipple's Index by District and Sex, 2012 and 2024
+#### 🔴 [Table 12.3](data/final-report-tables/chapter-12/12.3-Myers'-Index-by-District-and-Sex,-2012,-2024) - Myers' Index by District and Sex, 2012, 2024
+
+##### Original Table
+
+![12.3-Myers'-Index-by-District-and-Sex,-2012,-2024](data/final-report-tables/chapter-12/12.3-Myers'-Index-by-District-and-Sex,-2012,-2024/original.png)
+
+#### 🔴 [Table 12.4](data/final-report-tables/chapter-12/12.4-Whipple’s-Index-by-Sex,-1981,-2001,-2012-and-2024) - Whipple’s Index by Sex, 1981, 2001, 2012 and 2024
+
+##### Original Table
+
+![12.4-Whipple’s-Index-by-Sex,-1981,-2001,-2012-and-2024](data/final-report-tables/chapter-12/12.4-Whipple’s-Index-by-Sex,-1981,-2001,-2012-and-2024/original.png)
+
+#### 🔴 [Table 12.5](data/final-report-tables/chapter-12/12.5-Whipple's-Index-by-District-and-Sex,-2012-and-2024) - Whipple's Index by District and Sex, 2012 and 2024
+
+##### Original Table
+
+![12.5-Whipple's-Index-by-District-and-Sex,-2012-and-2024](data/final-report-tables/chapter-12/12.5-Whipple's-Index-by-District-and-Sex,-2012-and-2024/original.png)
 
 ![Maintainer](https://img.shields.io/badge/maintainer-nuuuwan-red)
 ![MadeWith](https://img.shields.io/badge/made_with-python-blue)
