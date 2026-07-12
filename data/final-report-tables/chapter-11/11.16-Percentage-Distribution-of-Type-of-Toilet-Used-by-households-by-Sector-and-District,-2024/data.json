@@ -1,0 +1,132 @@
+[
+  {
+    "region_id": "LK-22",
+    "region_name": "Matale",
+    "region_ent_type": "district",
+    "values": {
+      "p_water_sealed": 0.988,
+      "p_not_water_sealed": 0.011,
+      "p_other": 0.001
+    }
+  },
+  {
+    "region_id": "LK-31",
+    "region_name": "Galle",
+    "region_ent_type": "district",
+    "values": {
+      "p_water_sealed": 0.995,
+      "p_not_water_sealed": 0.004,
+      "p_other": 0.001
+    }
+  },
+  {
+    "region_id": "LK-32",
+    "region_name": "Matara",
+    "region_ent_type": "district",
+    "values": {
+      "p_water_sealed": 0.997,
+      "p_not_water_sealed": 0.002,
+      "p_other": 0.001
+    }
+  },
+  {
+    "region_id": "LK-33",
+    "region_name": "Hambantota",
+    "region_ent_type": "district",
+    "values": {
+      "p_water_sealed": 0.996,
+      "p_not_water_sealed": 0.003,
+      "p_other": 0.001
+    }
+  },
+  {
+    "region_id": "LK-45",
+    "region_name": "Kilinochchi",
+    "region_ent_type": "district",
+    "values": {
+      "p_water_sealed": 0.993,
+      "p_not_water_sealed": 0.006,
+      "p_other": 0.001
+    }
+  },
+  {
+    "region_id": "LK-51",
+    "region_name": "Batticaloa",
+    "region_ent_type": "district",
+    "values": {
+      "p_water_sealed": 0.995,
+      "p_not_water_sealed": 0.004,
+      "p_other": 0.001
+    }
+  },
+  {
+    "region_id": "LK-52",
+    "region_name": "Ampara",
+    "region_ent_type": "district",
+    "values": {
+      "p_water_sealed": 0.996,
+      "p_not_water_sealed": 0.003,
+      "p_other": 0.001
+    }
+  },
+  {
+    "region_id": "LK-62",
+    "region_name": "Puttalam",
+    "region_ent_type": "district",
+    "values": {
+      "p_water_sealed": 0.996,
+      "p_not_water_sealed": 0.003,
+      "p_other": 0.001
+    }
+  },
+  {
+    "region_id": "LK-72",
+    "region_name": "Polonnaruwa",
+    "region_ent_type": "district",
+    "values": {
+      "p_water_sealed": 0.994,
+      "p_not_water_sealed": 0.005,
+      "p_other": 0.001
+    }
+  },
+  {
+    "region_id": "LK-81",
+    "region_name": "Badulla",
+    "region_ent_type": "district",
+    "values": {
+      "p_water_sealed": 0.994,
+      "p_not_water_sealed": 0.005,
+      "p_other": 0.001
+    }
+  },
+  {
+    "region_id": "LK-82",
+    "region_name": "Monaragala",
+    "region_ent_type": "district",
+    "values": {
+      "p_water_sealed": 0.991,
+      "p_not_water_sealed": 0.008,
+      "p_other": 0.001
+    }
+  },
+  {
+    "region_id": "LK-91",
+    "region_name": "Ratnapura",
+    "region_ent_type": "district",
+    "values": {
+      "p_water_sealed": 0.995,
+      "p_not_water_sealed": 0.004,
+      "p_other": 0.001
+    }
+  },
+  {
+    "region_id": "LK-92",
+    "region_name": "Kegalle",
+    "region_ent_type": "district",
+    "values": {
+      "p_water_sealed": 0.994,
+      "p_not_water_sealed": 0.005,
+      "p_other": 0.001
+    }
+  }
+]
