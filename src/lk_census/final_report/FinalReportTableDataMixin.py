@@ -130,7 +130,6 @@ class FinalReportTableDataMixin:
 
         d_list = []
         for raw_data in raw_data_list:
-            print(raw_data)
             d = self._build_data_item(raw_data)
             if d:
                 d_list.append(d)

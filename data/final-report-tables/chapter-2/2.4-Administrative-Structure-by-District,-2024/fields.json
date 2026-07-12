@@ -1,0 +1,10 @@
+{
+  "primary_keys": ["district_name"],
+  "other_keys": [
+    "assistant_government_agend_divisions",
+    "grama_sevaka_divisions",
+    "municipal_councils",
+    "urban_councils",
+    "town_councils"
+  ]
+}
