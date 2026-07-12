@@ -51,21 +51,10 @@ class PDFFile(File):
             flavor="stream",
         )
 
-        if len(tables) != 1:
-            raise ValueError(
-                f"[{self}] Expected exactly one table. Found {len(tables)}"
-            )
-
-        first_table = tables[0]
-        data = first_table.df.values.tolist()
-        n_rows, n_cols = first_table.shape
-
-        if n_rows < 2 or n_cols < 2:
-            raise ValueError(
-                f"[{self}] Expected at least 2x2 table."
-                + f" Found {n_rows}x{n_cols} table"
-            )
-        return data
+        d_list = []
+        for table in tables:
+            d_list.extend(table.df.values.tolist())
+        return d_list
 
     def to_image(self, output_image_file):
         doc = fitz.open(self.path)
