@@ -37,7 +37,9 @@ class FinalReport:
         return text.strip()
 
     @staticmethod
-    def build_table_metadata():
+    def build_table_metadata(force=False):
+        if FinalReport.TABLE_INDEX_TXT_FILE.exists and not force:
+            return
         d_list = []
         lines = FinalReport.TABLE_INDEX_TXT_FILE.read_lines()
         for i_line, line in enumerate(lines, start=0):

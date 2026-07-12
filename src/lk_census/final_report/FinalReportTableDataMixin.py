@@ -189,7 +189,10 @@ class FinalReportTableDataMixin:
 
         return d_list
 
-    def build_data(self):
+    def build_data(self, force=False):
+        if self.data_file.exists and not force:
+            return
+
         raw_data_list = self.raw_data_list
         if not raw_data_list:
             return
