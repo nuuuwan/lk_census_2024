@@ -1,33 +1,11 @@
 # 🇱🇰 Sri Lanka - Census of Population and Housing 2024
 
 ![CPH](https://img.shields.io/badge/CPH-2024-blue)
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--07--12_17:20:21-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--07--12_17:24:34-green)
 
 **154** Datasets on Population, Housing and more, by Country, Province, District, Divisional Secretariat Division (DSD), Grama Niladhari Division (GND), Electoral District (ED), Polling Division (PD), and Local Government Authority (LG) levels.
 
-## 13. [Percentage Distribution of Population Aged 25 and Over by Educational Level and District, 2012 and 2024](data/final-report-tables/chapter-7/7.7-Percentage-Distribution-of-Population-Aged-25-and-Over-by-Educational-Level-and-District,-2012-and-2024)
-*🟠 Raw Text Data was extracted from PDF, but not parsed into structured data.*
-
-### Raw Data (first 10 rows)
-
-| Col 1 | Col 2 | Col 3 | Col 4 | Col 5 | Col 6 | Col 7 | Col 8 | Col 9 | Col 10 | Col 11 | Col 12 | Col 13 | Col 14 | Col 15 |
-| :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- |
-|  |  | Table 7.7 : Percentage Distribution of Population Aged 25 and Over by Educational Level and District, 2012 and 2024 |  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  | Passed Grades | Passed Grades |  |  | G.C.E. O/L or |  | G.C.E. A/L or |
-|  |  | Total population aged 25 and over |  | Total |  | No schooling |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  | 1- 5 |  | 6-10 |  | equivalent |  | over |
-| District |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-|  | 2012 | 2024 | 2012 | 2024 | 2012 | 2024 | 2012 | 2024 | 2012 | 2024 | 2012 | 2024 | 2012 | 2024 |
-| Sri Lanka | 12,050,641 | 13,871,317 | 100.0 | 100.0 | 4.7 | 2.9 | 18.4 | 12.5 | 39.6 | 36.4 | 19.1 | 22.0 | 18.2 | 26.2 |
-| Colombo | 1,450,574 | 1,601,927 | 100.0 | 100.0 | 2.6 | 1.6 | 9.6 | 5.8 | 33.2 | 26.6 | 25.3 | 25.9 | 29.4 | 40.1 |
-| Gampaha | 1,419,483 | 1,620,233 | 100.0 | 100.0 | 1.8 | 1.1 | 9.7 | 6.1 | 40.8 | 33.2 | 25.2 | 27.1 | 22.6 | 32.5 |
-| Kalutara | 748,643 | 847,732 | 100.0 | 100.0 | 3.1 | 1.8 | 14.5 | 9.4 | 40.0 | 36.6 | 22.4 | 23.8 | 20.0 | 28.4 |
-
-### Source
-
-- [https://www.statistics.gov.lk/Resource/en/Population/CPH_2024/CPH2024_Final_Eng.pdf](https://www.statistics.gov.lk/Resource/en/Population/CPH_2024/CPH2024_Final_Eng.pdf) (Table 7.7)
-
-## 14. [Language Literacy Rate by Language and District, 2024](data/final-report-tables/chapter-7/7.10-Language-Literacy-Rate-by-Language-and-District,-2024)
+## 13. [Language Literacy Rate by Language and District, 2024](data/final-report-tables/chapter-7/7.10-Language-Literacy-Rate-by-Language-and-District,-2024)
 *🟠 Raw Text Data was extracted from PDF, but not parsed into structured data.*
 
 ### Raw Data (first 10 rows)
@@ -49,7 +27,7 @@
 
 - [https://www.statistics.gov.lk/Resource/en/Population/CPH_2024/CPH2024_Final_Eng.pdf](https://www.statistics.gov.lk/Resource/en/Population/CPH_2024/CPH2024_Final_Eng.pdf) (Table 7.10)
 
-## 15. [Computer and Digital Literacy Rate by District, 2024](data/final-report-tables/chapter-7/7.13-Computer-and-Digital-Literacy-Rate-by-District,-2024)
+## 14. [Computer and Digital Literacy Rate by District, 2024](data/final-report-tables/chapter-7/7.13-Computer-and-Digital-Literacy-Rate-by-District,-2024)
 *🔴 Table was detected in PDF, but not parsed into textual data.*
 
 ### Original Table
@@ -60,7 +38,7 @@
 
 - [https://www.statistics.gov.lk/Resource/en/Population/CPH_2024/CPH2024_Final_Eng.pdf](https://www.statistics.gov.lk/Resource/en/Population/CPH_2024/CPH2024_Final_Eng.pdf) (Table 7.13)
 
-## 16. [Employment Rate and Unemployment Rate by District, 2024](data/final-report-tables/chapter-8/8.10-Employment-Rate-and-Unemployment-Rate-by-District,-2024)
+## 15. [Employment Rate and Unemployment Rate by District, 2024](data/final-report-tables/chapter-8/8.10-Employment-Rate-and-Unemployment-Rate-by-District,-2024)
 *🟠 Raw Text Data was extracted from PDF, but not parsed into structured data.*
 
 ### Raw Data (first 10 rows)
@@ -82,7 +60,7 @@
 
 - [https://www.statistics.gov.lk/Resource/en/Population/CPH_2024/CPH2024_Final_Eng.pdf](https://www.statistics.gov.lk/Resource/en/Population/CPH_2024/CPH2024_Final_Eng.pdf) (Table 8.10)
 
-## 17. [Mean Age at Marriage by District of Usual Residence, 2012 and 2024](data/final-report-tables/chapter-9/9.10-Mean-Age-at-Marriage-by-District-of-Usual-Residence,-2012-and-2024)
+## 16. [Mean Age at Marriage by District of Usual Residence, 2012 and 2024](data/final-report-tables/chapter-9/9.10-Mean-Age-at-Marriage-by-District-of-Usual-Residence,-2012-and-2024)
 *🟠 Raw Text Data was extracted from PDF, but not parsed into structured data.*
 
 ### Raw Data (first 10 rows)
@@ -104,7 +82,7 @@
 
 - [https://www.statistics.gov.lk/Resource/en/Population/CPH_2024/CPH2024_Final_Eng.pdf](https://www.statistics.gov.lk/Resource/en/Population/CPH_2024/CPH2024_Final_Eng.pdf) (Table 9.10)
 
-## 18. [Percentage Distribution of the Number and of Households by Sector, District and Household Type, 2024](data/final-report-tables/chapter-10/10.2-Percentage-Distribution-of-the-Number-and-of-Households-by-Sector,-District-and-Household-Type,-2024)
+## 17. [Percentage Distribution of the Number and of Households by Sector, District and Household Type, 2024](data/final-report-tables/chapter-10/10.2-Percentage-Distribution-of-the-Number-and-of-Households-by-Sector,-District-and-Household-Type,-2024)
 *🟠 Raw Text Data was extracted from PDF, but not parsed into structured data.*
 
 ### Raw Data (first 10 rows)
@@ -126,7 +104,7 @@
 
 - [https://www.statistics.gov.lk/Resource/en/Population/CPH_2024/CPH2024_Final_Eng.pdf](https://www.statistics.gov.lk/Resource/en/Population/CPH_2024/CPH2024_Final_Eng.pdf) (Table 10.2)
 
-## 19. [Percentage Distribution of the Number of Household Heads by District, Sex, and Age Group, 2024](data/final-report-tables/chapter-10/10.5-Percentage-Distribution-of-the-Number-of-Household-Heads-by-District,-Sex,-and-Age-Group,-2024)
+## 18. [Percentage Distribution of the Number of Household Heads by District, Sex, and Age Group, 2024](data/final-report-tables/chapter-10/10.5-Percentage-Distribution-of-the-Number-of-Household-Heads-by-District,-Sex,-and-Age-Group,-2024)
 *🟠 Raw Text Data was extracted from PDF, but not parsed into structured data.*
 
 ### Raw Data (first 10 rows)
@@ -148,7 +126,7 @@
 
 - [https://www.statistics.gov.lk/Resource/en/Population/CPH_2024/CPH2024_Final_Eng.pdf](https://www.statistics.gov.lk/Resource/en/Population/CPH_2024/CPH2024_Final_Eng.pdf) (Table 10.5)
 
-## 20. [Percentage Distribution of Household Heads by District and Highest Educational Qualification Obtained,](data/final-report-tables/chapter-10/10.9-Percentage-Distribution-of-Household-Heads-by-District-and-Highest-Educational-Qualification-Obtained,)
+## 19. [Percentage Distribution of Household Heads by District and Highest Educational Qualification Obtained,](data/final-report-tables/chapter-10/10.9-Percentage-Distribution-of-Household-Heads-by-District-and-Highest-Educational-Qualification-Obtained,)
 *🟠 Raw Text Data was extracted from PDF, but not parsed into structured data.*
 
 ### Raw Data (first 10 rows)
@@ -170,7 +148,7 @@
 
 - [https://www.statistics.gov.lk/Resource/en/Population/CPH_2024/CPH2024_Final_Eng.pdf](https://www.statistics.gov.lk/Resource/en/Population/CPH_2024/CPH2024_Final_Eng.pdf) (Table 10.9)
 
-## 21. [Number of Occupied Housing Units & Permanently Closed/Vacant Housing Units by District, 2012 and 2024](data/final-report-tables/chapter-11/11.2-Number-of-Occupied-Housing-Units-&-Permanently-Closed/Vacant-Housing-Units-by-District,-2012-and-2024)
+## 20. [Number of Occupied Housing Units & Permanently Closed/Vacant Housing Units by District, 2012 and 2024](data/final-report-tables/chapter-11/11.2-Number-of-Occupied-Housing-Units-&-Permanently-Closed/Vacant-Housing-Units-by-District,-2012-and-2024)
 *🟠 Raw Text Data was extracted from PDF, but not parsed into structured data.*
 
 ### Raw Data (first 10 rows)
@@ -192,7 +170,7 @@
 
 - [https://www.statistics.gov.lk/Resource/en/Population/CPH_2024/CPH2024_Final_Eng.pdf](https://www.statistics.gov.lk/Resource/en/Population/CPH_2024/CPH2024_Final_Eng.pdf) (Table 11.2)
 
-## 22. [Tenure of Housing Units by Sector and District, 2024](data/final-report-tables/chapter-11/11.4-Tenure-of-Housing-Units-by-Sector-and-District,-2024)
+## 21. [Tenure of Housing Units by Sector and District, 2024](data/final-report-tables/chapter-11/11.4-Tenure-of-Housing-Units-by-Sector-and-District,-2024)
 *🟠 Raw Text Data was extracted from PDF, but not parsed into structured data.*
 
 ### Raw Data (first 10 rows)
@@ -214,7 +192,7 @@
 
 - [https://www.statistics.gov.lk/Resource/en/Population/CPH_2024/CPH2024_Final_Eng.pdf](https://www.statistics.gov.lk/Resource/en/Population/CPH_2024/CPH2024_Final_Eng.pdf) (Table 11.4)
 
-## 23. [of Housing Units and Status of Housing Units, by Sector and District, 2024](data/final-report-tables/chapter-11/11.7-of-Housing-Units-and-Status-of-Housing-Units,-by-Sector-and-District,-2024)
+## 22. [of Housing Units and Status of Housing Units, by Sector and District, 2024](data/final-report-tables/chapter-11/11.7-of-Housing-Units-and-Status-of-Housing-Units,-by-Sector-and-District,-2024)
 *🟠 Raw Text Data was extracted from PDF, but not parsed into structured data.*
 
 ### Raw Data (first 10 rows)
@@ -236,7 +214,7 @@
 
 - [https://www.statistics.gov.lk/Resource/en/Population/CPH_2024/CPH2024_Final_Eng.pdf](https://www.statistics.gov.lk/Resource/en/Population/CPH_2024/CPH2024_Final_Eng.pdf) (Table 11.7)
 
-## 24. [Percentage Distribution of Households by Availability of Drinking Water Facility, by Sector and District,](data/final-report-tables/chapter-11/11.10-Percentage-Distribution-of-Households-by-Availability-of-Drinking-Water-Facility,-by-Sector-and-District,)
+## 23. [Percentage Distribution of Households by Availability of Drinking Water Facility, by Sector and District,](data/final-report-tables/chapter-11/11.10-Percentage-Distribution-of-Households-by-Availability-of-Drinking-Water-Facility,-by-Sector-and-District,)
 *🟠 Raw Text Data was extracted from PDF, but not parsed into structured data.*
 
 ### Raw Data (first 10 rows)
@@ -258,7 +236,7 @@
 
 - [https://www.statistics.gov.lk/Resource/en/Population/CPH_2024/CPH2024_Final_Eng.pdf](https://www.statistics.gov.lk/Resource/en/Population/CPH_2024/CPH2024_Final_Eng.pdf) (Table 11.10)
 
-## 25. [Percentage of households Using Firewood and gas, by Sector and District,](data/final-report-tables/chapter-11/11.12-Percentage-of-households-Using-Firewood-and-gas,-by-Sector-and-District,)
+## 24. [Percentage of households Using Firewood and gas, by Sector and District,](data/final-report-tables/chapter-11/11.12-Percentage-of-households-Using-Firewood-and-gas,-by-Sector-and-District,)
 *🟠 Raw Text Data was extracted from PDF, but not parsed into structured data.*
 
 ### Raw Data (first 10 rows)
@@ -280,7 +258,7 @@
 
 - [https://www.statistics.gov.lk/Resource/en/Population/CPH_2024/CPH2024_Final_Eng.pdf](https://www.statistics.gov.lk/Resource/en/Population/CPH_2024/CPH2024_Final_Eng.pdf) (Table 11.12)
 
-## 26. [Percentage Distribution of Type of Toilet Used by households by Sector and District, 2024](data/final-report-tables/chapter-11/11.16-Percentage-Distribution-of-Type-of-Toilet-Used-by-households-by-Sector-and-District,-2024)
+## 25. [Percentage Distribution of Type of Toilet Used by households by Sector and District, 2024](data/final-report-tables/chapter-11/11.16-Percentage-Distribution-of-Type-of-Toilet-Used-by-households-by-Sector-and-District,-2024)
 *🟠 Raw Text Data was extracted from PDF, but not parsed into structured data.*
 
 ### Raw Data (first 10 rows)
@@ -302,7 +280,7 @@
 
 - [https://www.statistics.gov.lk/Resource/en/Population/CPH_2024/CPH2024_Final_Eng.pdf](https://www.statistics.gov.lk/Resource/en/Population/CPH_2024/CPH2024_Final_Eng.pdf) (Table 11.16)
 
-## 27. [Myers' Index by District and Sex, 2012, 2024](data/final-report-tables/chapter-12/12.3-Myers'-Index-by-District-and-Sex,-2012,-2024)
+## 26. [Myers' Index by District and Sex, 2012, 2024](data/final-report-tables/chapter-12/12.3-Myers'-Index-by-District-and-Sex,-2012,-2024)
 *🟠 Raw Text Data was extracted from PDF, but not parsed into structured data.*
 
 ### Raw Data (first 10 rows)
@@ -324,7 +302,7 @@
 
 - [https://www.statistics.gov.lk/Resource/en/Population/CPH_2024/CPH2024_Final_Eng.pdf](https://www.statistics.gov.lk/Resource/en/Population/CPH_2024/CPH2024_Final_Eng.pdf) (Table 12.3)
 
-## 28. [Whipple's Index by District and Sex, 2012 and 2024](data/final-report-tables/chapter-12/12.5-Whipple's-Index-by-District-and-Sex,-2012-and-2024)
+## 27. [Whipple's Index by District and Sex, 2012 and 2024](data/final-report-tables/chapter-12/12.5-Whipple's-Index-by-District-and-Sex,-2012-and-2024)
 *🟠 Raw Text Data was extracted from PDF, but not parsed into structured data.*
 
 ### Raw Data (first 10 rows)
