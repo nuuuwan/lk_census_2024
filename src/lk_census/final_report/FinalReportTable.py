@@ -40,6 +40,7 @@ class FinalReportTable(
             table_num=d["table_num"],
             table_name=d["table_name"],
             page_num=int(d["page_num"]),
+            has_page_multiple_tables=d["has_page_multiple_tables"],
         )
 
     @classmethod

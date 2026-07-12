@@ -38,7 +38,6 @@ class FinalReport:
 
     @staticmethod
     def build_table_metadata():
-
         d_list = []
         lines = FinalReport.TABLE_INDEX_TXT_FILE.read_lines()
         for i_line, line in enumerate(lines, start=0):
@@ -73,6 +72,19 @@ class FinalReport:
                 table_num=table_num, table_name=table_name, page_num=page_num
             )
             d_list.append(d)
+
+        page_num_to_d_list = {}
+        for d in d_list:
+            page_num = d["page_num"]
+            if page_num not in page_num_to_d_list:
+                page_num_to_d_list[page_num] = []
+            page_num_to_d_list[page_num].append(d)
+
+        for d in d_list:
+            page_num = d["page_num"]
+            has_page_multiple_tables = len(page_num_to_d_list[page_num]) > 1
+            d["has_page_multiple_tables"] = has_page_multiple_tables
+
         FinalReportConstants.TABLE_METADATA_FILE.write(d_list)
         log.info(f"Wrote {
                 len(d_list)} tables to {

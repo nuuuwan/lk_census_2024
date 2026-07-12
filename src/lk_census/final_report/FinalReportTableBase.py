@@ -6,6 +6,7 @@ class FinalReportTableBase:
     table_num: str
     table_name: str
     page_num: int
+    has_page_multiple_tables: bool
 
     @property
     def chapter_num(self):
