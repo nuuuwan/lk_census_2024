@@ -88,6 +88,7 @@ class FinalReportTableDataMixin:
             "variations",
             "(",
             "populations",
+            "percent",
         ]:
             if keyword in raw_data[0].lower():
                 return None
