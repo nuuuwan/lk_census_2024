@@ -1,0 +1,277 @@
+[
+  {
+    "region_id": "LK-11",
+    "region_name": "Colombo",
+    "region_ent_type": "district",
+    "values": {
+      "avg_age_male_2012": 0.28,
+      "avg_age_female_2012": 0.249,
+      "avg_age_male_2024": 0.301,
+      "avg_age_female_2024": 0.272
+    }
+  },
+  {
+    "region_id": "LK-12",
+    "region_name": "Gampaha",
+    "region_ent_type": "district",
+    "values": {
+      "avg_age_male_2012": 0.275,
+      "avg_age_female_2012": 0.243,
+      "avg_age_male_2024": 0.297,
+      "avg_age_female_2024": 0.265
+    }
+  },
+  {
+    "region_id": "LK-13",
+    "region_name": "Kalutara",
+    "region_ent_type": "district",
+    "values": {
+      "avg_age_male_2012": 0.272,
+      "avg_age_female_2012": 0.237,
+      "avg_age_male_2024": 0.294,
+      "avg_age_female_2024": 0.26
+    }
+  },
+  {
+    "region_id": "LK-21",
+    "region_name": "Kandy",
+    "region_ent_type": "district",
+    "values": {
+      "avg_age_male_2012": 0.278,
+      "avg_age_female_2012": 0.239,
+      "avg_age_male_2024": 0.298,
+      "avg_age_female_2024": 0.261
+    }
+  },
+  {
+    "region_id": "LK-22",
+    "region_name": "Matale",
+    "region_ent_type": "district",
+    "values": {
+      "avg_age_male_2012": 0.27,
+      "avg_age_female_2012": 0.225,
+      "avg_age_male_2024": 0.288,
+      "avg_age_female_2024": 0.249
+    }
+  },
+  {
+    "region_id": "LK-23",
+    "region_name": "Nuwara Eliya",
+    "region_ent_type": "district",
+    "values": {
+      "avg_age_male_2012": 0.272,
+      "avg_age_female_2012": 0.232,
+      "avg_age_male_2024": 0.292,
+      "avg_age_female_2024": 0.25
+    }
+  },
+  {
+    "region_id": "LK-31",
+    "region_name": "Galle",
+    "region_ent_type": "district",
+    "values": {
+      "avg_age_male_2012": 0.273,
+      "avg_age_female_2012": 0.235,
+      "avg_age_male_2024": 0.297,
+      "avg_age_female_2024": 0.26
+    }
+  },
+  {
+    "region_id": "LK-32",
+    "region_name": "Matara",
+    "region_ent_type": "district",
+    "values": {
+      "avg_age_male_2012": 0.276,
+      "avg_age_female_2012": 0.235,
+      "avg_age_male_2024": 0.298,
+      "avg_age_female_2024": 0.26
+    }
+  },
+  {
+    "region_id": "LK-33",
+    "region_name": "Hambantota",
+    "region_ent_type": "district",
+    "values": {
+      "avg_age_male_2012": 0.269,
+      "avg_age_female_2012": 0.226,
+      "avg_age_male_2024": 0.291,
+      "avg_age_female_2024": 0.254
+    }
+  },
+  {
+    "region_id": "LK-41",
+    "region_name": "Jaffna",
+    "region_ent_type": "district",
+    "values": {
+      "avg_age_male_2012": 0.288,
+      "avg_age_female_2012": 0.264,
+      "avg_age_male_2024": 0.308,
+      "avg_age_female_2024": 0.266
+    }
+  },
+  {
+    "region_id": "LK-42",
+    "region_name": "Mannar",
+    "region_ent_type": "district",
+    "values": {
+      "avg_age_male_2012": 0.272,
+      "avg_age_female_2012": 0.241,
+      "avg_age_male_2024": 0.285,
+      "avg_age_female_2024": 0.248
+    }
+  },
+  {
+    "region_id": "LK-43",
+    "region_name": "Vavuniya",
+    "region_ent_type": "district",
+    "values": {
+      "avg_age_male_2012": 0.276,
+      "avg_age_female_2012": 0.245,
+      "avg_age_male_2024": 0.29,
+      "avg_age_female_2024": 0.255
+    }
+  },
+  {
+    "region_id": "LK-44",
+    "region_name": "Mullaitivu",
+    "region_ent_type": "district",
+    "values": {
+      "avg_age_male_2012": 0.258,
+      "avg_age_female_2012": 0.227,
+      "avg_age_male_2024": 0.282,
+      "avg_age_female_2024": 0.245
+    }
+  },
+  {
+    "region_id": "LK-45",
+    "region_name": "Kilinochchi",
+    "region_ent_type": "district",
+    "values": {
+      "avg_age_male_2012": 0.263,
+      "avg_age_female_2012": 0.231,
+      "avg_age_male_2024": 0.287,
+      "avg_age_female_2024": 0.252
+    }
+  },
+  {
+    "region_id": "LK-51",
+    "region_name": "Batticaloa",
+    "region_ent_type": "district",
+    "values": {
+      "avg_age_male_2012": 0.262,
+      "avg_age_female_2012": 0.23,
+      "avg_age_male_2024": 0.274,
+      "avg_age_female_2024": 0.236
+    }
+  },
+  {
+    "region_id": "LK-52",
+    "region_name": "Ampara",
+    "region_ent_type": "district",
+    "values": {
+      "avg_age_male_2012": 0.267,
+      "avg_age_female_2012": 0.23,
+      "avg_age_male_2024": 0.28,
+      "avg_age_female_2024": 0.24
+    }
+  },
+  {
+    "region_id": "LK-53",
+    "region_name": "Trincomalee",
+    "region_ent_type": "district",
+    "values": {
+      "avg_age_male_2012": 0.256,
+      "avg_age_female_2012": 0.223,
+      "avg_age_male_2024": 0.268,
+      "avg_age_female_2024": 0.234
+    }
+  },
+  {
+    "region_id": "LK-61",
+    "region_name": "Kurunegala",
+    "region_ent_type": "district",
+    "values": {
+      "avg_age_male_2012": 0.269,
+      "avg_age_female_2012": 0.229,
+      "avg_age_male_2024": 0.29,
+      "avg_age_female_2024": 0.253
+    }
+  },
+  {
+    "region_id": "LK-62",
+    "region_name": "Puttalam",
+    "region_ent_type": "district",
+    "values": {
+      "avg_age_male_2012": 0.258,
+      "avg_age_female_2012": 0.222,
+      "avg_age_male_2024": 0.278,
+      "avg_age_female_2024": 0.242
+    }
+  },
+  {
+    "region_id": "LK-71",
+    "region_name": "Anuradhapura",
+    "region_ent_type": "district",
+    "values": {
+      "avg_age_male_2012": 0.261,
+      "avg_age_female_2012": 0.219,
+      "avg_age_male_2024": 0.28,
+      "avg_age_female_2024": 0.244
+    }
+  },
+  {
+    "region_id": "LK-72",
+    "region_name": "Polonnaruwa",
+    "region_ent_type": "district",
+    "values": {
+      "avg_age_male_2012": 0.259,
+      "avg_age_female_2012": 0.218,
+      "avg_age_male_2024": 0.28,
+      "avg_age_female_2024": 0.241
+    }
+  },
+  {
+    "region_id": "LK-81",
+    "region_name": "Badulla",
+    "region_ent_type": "district",
+    "values": {
+      "avg_age_male_2012": 0.272,
+      "avg_age_female_2012": 0.227,
+      "avg_age_male_2024": 0.291,
+      "avg_age_female_2024": 0.252
+    }
+  },
+  {
+    "region_id": "LK-82",
+    "region_name": "Monaragala",
+    "region_ent_type": "district",
+    "values": {
+      "avg_age_male_2012": 0.264,
+      "avg_age_female_2012": 0.217,
+      "avg_age_male_2024": 0.282,
+      "avg_age_female_2024": 0.242
+    }
+  },
+  {
+    "region_id": "LK-91",
+    "region_name": "Ratnapura",
+    "region_ent_type": "district",
+    "values": {
+      "avg_age_male_2012": 0.272,
+      "avg_age_female_2012": 0.229,
+      "avg_age_male_2024": 0.293,
+      "avg_age_female_2024": 0.255
+    }
+  },
+  {
+    "region_id": "LK-92",
+    "region_name": "Kegalle",
+    "region_ent_type": "district",
+    "values": {
+      "avg_age_male_2012": 0.275,
+      "avg_age_female_2012": 0.236,
+      "avg_age_male_2024": 0.298,
+      "avg_age_female_2024": 0.26
+    }
+  }
+]

@@ -125,7 +125,7 @@ class FinalReportTableDataMixin:
             if key.startswith("_"):
                 continue
             value = raw_data[i_key]
-            if key.startswith("p_"):
+            if key.startswith("p_") or "avg" in key:
                 value = Parse.percent(value)
             elif key.startswith("is_"):
                 value = Parse.boolean(value)
