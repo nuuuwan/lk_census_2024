@@ -147,6 +147,8 @@ class ReadMeFinalReportMixin:
                 continue
             if "district" not in final_report_table.table_name.lower():
                 continue
+            if not final_report_table.raw_data_file.exists:
+                continue
             lines.extend(
                 self.get_lines_for_final_report_table(
                     i_dataset, final_report_table

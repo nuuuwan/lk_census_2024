@@ -1,0 +1,572 @@
+[
+  {
+    "region_id": "LK-11",
+    "region_name": "Colombo",
+    "region_ent_type": "district",
+    "values": {
+      "employed": 867111,
+      "unemployed": 53635
+    },
+    "total_value": 920746
+  },
+  {
+    "region_id": "LK-12",
+    "region_name": "Gampaha",
+    "region_ent_type": "district",
+    "values": {
+      "employed": 889380,
+      "unemployed": 52943
+    },
+    "total_value": 942323
+  },
+  {
+    "region_id": "LK-13",
+    "region_name": "Kalutara",
+    "region_ent_type": "district",
+    "values": {
+      "employed": 462465,
+      "unemployed": 26157
+    },
+    "total_value": 488622
+  },
+  {
+    "region_id": "LK-21",
+    "region_name": "Kandy",
+    "region_ent_type": "district",
+    "values": {
+      "employed": 477418,
+      "unemployed": 35467
+    },
+    "total_value": 512885
+  },
+  {
+    "region_id": "LK-22",
+    "region_name": "Matale",
+    "region_ent_type": "district",
+    "values": {
+      "employed": 186449,
+      "unemployed": 10062
+    },
+    "total_value": 196511
+  },
+  {
+    "region_id": "LK-23",
+    "region_name": "Nuwara Eliya",
+    "region_ent_type": "district",
+    "values": {
+      "employed": 251699,
+      "unemployed": 25234
+    },
+    "total_value": 276933
+  },
+  {
+    "region_id": "LK-31",
+    "region_name": "Galle",
+    "region_ent_type": "district",
+    "values": {
+      "employed": 389323,
+      "unemployed": 23061
+    },
+    "total_value": 412384
+  },
+  {
+    "region_id": "LK-32",
+    "region_name": "Matara",
+    "region_ent_type": "district",
+    "values": {
+      "employed": 300965,
+      "unemployed": 18307
+    },
+    "total_value": 319272
+  },
+  {
+    "region_id": "LK-33",
+    "region_name": "Hambantota",
+    "region_ent_type": "district",
+    "values": {
+      "employed": 221480,
+      "unemployed": 16993
+    },
+    "total_value": 238473
+  },
+  {
+    "region_id": "LK-41",
+    "region_name": "Jaffna",
+    "region_ent_type": "district",
+    "values": {
+      "employed": 183239,
+      "unemployed": 13246
+    },
+    "total_value": 196485
+  },
+  {
+    "region_id": "LK-42",
+    "region_name": "Mannar",
+    "region_ent_type": "district",
+    "values": {
+      "employed": 39588,
+      "unemployed": 3192
+    },
+    "total_value": 42780
+  },
+  {
+    "region_id": "LK-43",
+    "region_name": "Vavuniya",
+    "region_ent_type": "district",
+    "values": {
+      "employed": 56825,
+      "unemployed": 4556
+    },
+    "total_value": 61381
+  },
+  {
+    "region_id": "LK-44",
+    "region_name": "Mullaitivu",
+    "region_ent_type": "district",
+    "values": {
+      "employed": 41835,
+      "unemployed": 3888
+    },
+    "total_value": 45723
+  },
+  {
+    "region_id": "LK-45",
+    "region_name": "Kilinochchi",
+    "region_ent_type": "district",
+    "values": {
+      "employed": 46445,
+      "unemployed": 4092
+    },
+    "total_value": 50537
+  },
+  {
+    "region_id": "LK-51",
+    "region_name": "Batticaloa",
+    "region_ent_type": "district",
+    "values": {
+      "employed": 172013,
+      "unemployed": 19222
+    },
+    "total_value": 191235
+  },
+  {
+    "region_id": "LK-52",
+    "region_name": "Ampara",
+    "region_ent_type": "district",
+    "values": {
+      "employed": 225377,
+      "unemployed": 21493
+    },
+    "total_value": 246870
+  },
+  {
+    "region_id": "LK-53",
+    "region_name": "Trincomalee",
+    "region_ent_type": "district",
+    "values": {
+      "employed": 124470,
+      "unemployed": 13147
+    },
+    "total_value": 137617
+  },
+  {
+    "region_id": "LK-61",
+    "region_name": "Kurunegala",
+    "region_ent_type": "district",
+    "values": {
+      "employed": 666793,
+      "unemployed": 32660
+    },
+    "total_value": 699453
+  },
+  {
+    "region_id": "LK-62",
+    "region_name": "Puttalam",
+    "region_ent_type": "district",
+    "values": {
+      "employed": 273661,
+      "unemployed": 21421
+    },
+    "total_value": 295082
+  },
+  {
+    "region_id": "LK-71",
+    "region_name": "Anuradhapura",
+    "region_ent_type": "district",
+    "values": {
+      "employed": 359363,
+      "unemployed": 16258
+    },
+    "total_value": 375621
+  },
+  {
+    "region_id": "LK-72",
+    "region_name": "Polonnaruwa",
+    "region_ent_type": "district",
+    "values": {
+      "employed": 156426,
+      "unemployed": 9360
+    },
+    "total_value": 165786
+  },
+  {
+    "region_id": "LK-81",
+    "region_name": "Badulla",
+    "region_ent_type": "district",
+    "values": {
+      "employed": 322489,
+      "unemployed": 18461
+    },
+    "total_value": 340950
+  },
+  {
+    "region_id": "LK-82",
+    "region_name": "Monaragala",
+    "region_ent_type": "district",
+    "values": {
+      "employed": 203553,
+      "unemployed": 8299
+    },
+    "total_value": 211852
+  },
+  {
+    "region_id": "LK-91",
+    "region_name": "Ratnapura",
+    "region_ent_type": "district",
+    "values": {
+      "employed": 432107,
+      "unemployed": 22828
+    },
+    "total_value": 454935
+  },
+  {
+    "region_id": "LK-92",
+    "region_name": "Kegalle",
+    "region_ent_type": "district",
+    "values": {
+      "employed": 320758,
+      "unemployed": 17727
+    },
+    "total_value": 338485
+  },
+  {
+    "region_id": "LK",
+    "region_name": "Sri Lanka",
+    "region_ent_type": "country",
+    "values": {
+      "employed": 7671232,
+      "unemployed": 491709
+    },
+    "total_value": 8162941
+  },
+  {
+    "region_id": "LK-1",
+    "region_name": "Western",
+    "region_ent_type": "province",
+    "values": {
+      "employed": 2218956,
+      "unemployed": 132735
+    },
+    "total_value": 2351691
+  },
+  {
+    "region_id": "LK-2",
+    "region_name": "Central",
+    "region_ent_type": "province",
+    "values": {
+      "employed": 915566,
+      "unemployed": 70763
+    },
+    "total_value": 986329
+  },
+  {
+    "region_id": "LK-3",
+    "region_name": "Southern",
+    "region_ent_type": "province",
+    "values": {
+      "employed": 911768,
+      "unemployed": 58361
+    },
+    "total_value": 970129
+  },
+  {
+    "region_id": "LK-4",
+    "region_name": "Northern",
+    "region_ent_type": "province",
+    "values": {
+      "employed": 367932,
+      "unemployed": 28974
+    },
+    "total_value": 396906
+  },
+  {
+    "region_id": "LK-5",
+    "region_name": "Eastern",
+    "region_ent_type": "province",
+    "values": {
+      "employed": 521860,
+      "unemployed": 53862
+    },
+    "total_value": 575722
+  },
+  {
+    "region_id": "LK-6",
+    "region_name": "North Western",
+    "region_ent_type": "province",
+    "values": {
+      "employed": 940454,
+      "unemployed": 54081
+    },
+    "total_value": 994535
+  },
+  {
+    "region_id": "LK-7",
+    "region_name": "North Central",
+    "region_ent_type": "province",
+    "values": {
+      "employed": 515789,
+      "unemployed": 25618
+    },
+    "total_value": 541407
+  },
+  {
+    "region_id": "LK-8",
+    "region_name": "Uva",
+    "region_ent_type": "province",
+    "values": {
+      "employed": 526042,
+      "unemployed": 26760
+    },
+    "total_value": 552802
+  },
+  {
+    "region_id": "LK-9",
+    "region_name": "Sabaragamuwa",
+    "region_ent_type": "province",
+    "values": {
+      "employed": 752865,
+      "unemployed": 40555
+    },
+    "total_value": 793420
+  },
+  {
+    "region_id": "EC-01",
+    "region_name": "Colombo",
+    "region_ent_type": "ed",
+    "values": {
+      "employed": 867111,
+      "unemployed": 53635
+    },
+    "total_value": 920746
+  },
+  {
+    "region_id": "EC-02",
+    "region_name": "Gampaha",
+    "region_ent_type": "ed",
+    "values": {
+      "employed": 889380,
+      "unemployed": 52943
+    },
+    "total_value": 942323
+  },
+  {
+    "region_id": "EC-03",
+    "region_name": "Kalutara",
+    "region_ent_type": "ed",
+    "values": {
+      "employed": 462465,
+      "unemployed": 26157
+    },
+    "total_value": 488622
+  },
+  {
+    "region_id": "EC-04",
+    "region_name": "Kandy",
+    "region_ent_type": "ed",
+    "values": {
+      "employed": 477418,
+      "unemployed": 35467
+    },
+    "total_value": 512885
+  },
+  {
+    "region_id": "EC-05",
+    "region_name": "Matale",
+    "region_ent_type": "ed",
+    "values": {
+      "employed": 186449,
+      "unemployed": 10062
+    },
+    "total_value": 196511
+  },
+  {
+    "region_id": "EC-06",
+    "region_name": "Nuwara-Eliya",
+    "region_ent_type": "ed",
+    "values": {
+      "employed": 251699,
+      "unemployed": 25234
+    },
+    "total_value": 276933
+  },
+  {
+    "region_id": "EC-07",
+    "region_name": "Galle",
+    "region_ent_type": "ed",
+    "values": {
+      "employed": 389323,
+      "unemployed": 23061
+    },
+    "total_value": 412384
+  },
+  {
+    "region_id": "EC-08",
+    "region_name": "Matara",
+    "region_ent_type": "ed",
+    "values": {
+      "employed": 300965,
+      "unemployed": 18307
+    },
+    "total_value": 319272
+  },
+  {
+    "region_id": "EC-09",
+    "region_name": "Hambantota",
+    "region_ent_type": "ed",
+    "values": {
+      "employed": 221480,
+      "unemployed": 16993
+    },
+    "total_value": 238473
+  },
+  {
+    "region_id": "EC-10",
+    "region_name": "Jaffna",
+    "region_ent_type": "ed",
+    "values": {
+      "employed": 229684,
+      "unemployed": 17338
+    },
+    "total_value": 247022
+  },
+  {
+    "region_id": "EC-11",
+    "region_name": "Vanni",
+    "region_ent_type": "ed",
+    "values": {
+      "employed": 138248,
+      "unemployed": 11636
+    },
+    "total_value": 149884
+  },
+  {
+    "region_id": "EC-12",
+    "region_name": "Batticaloa",
+    "region_ent_type": "ed",
+    "values": {
+      "employed": 172013,
+      "unemployed": 19222
+    },
+    "total_value": 191235
+  },
+  {
+    "region_id": "EC-13",
+    "region_name": "Digamadulla",
+    "region_ent_type": "ed",
+    "values": {
+      "employed": 225377,
+      "unemployed": 21493
+    },
+    "total_value": 246870
+  },
+  {
+    "region_id": "EC-14",
+    "region_name": "Trincomalee",
+    "region_ent_type": "ed",
+    "values": {
+      "employed": 124470,
+      "unemployed": 13147
+    },
+    "total_value": 137617
+  },
+  {
+    "region_id": "EC-15",
+    "region_name": "Kurunegala",
+    "region_ent_type": "ed",
+    "values": {
+      "employed": 666793,
+      "unemployed": 32660
+    },
+    "total_value": 699453
+  },
+  {
+    "region_id": "EC-16",
+    "region_name": "Puttalam",
+    "region_ent_type": "ed",
+    "values": {
+      "employed": 273661,
+      "unemployed": 21421
+    },
+    "total_value": 295082
+  },
+  {
+    "region_id": "EC-17",
+    "region_name": "Anuradhapura",
+    "region_ent_type": "ed",
+    "values": {
+      "employed": 359363,
+      "unemployed": 16258
+    },
+    "total_value": 375621
+  },
+  {
+    "region_id": "EC-18",
+    "region_name": "Polonnaruwa",
+    "region_ent_type": "ed",
+    "values": {
+      "employed": 156426,
+      "unemployed": 9360
+    },
+    "total_value": 165786
+  },
+  {
+    "region_id": "EC-19",
+    "region_name": "Badulla",
+    "region_ent_type": "ed",
+    "values": {
+      "employed": 322489,
+      "unemployed": 18461
+    },
+    "total_value": 340950
+  },
+  {
+    "region_id": "EC-20",
+    "region_name": "Moneragala",
+    "region_ent_type": "ed",
+    "values": {
+      "employed": 203553,
+      "unemployed": 8299
+    },
+    "total_value": 211852
+  },
+  {
+    "region_id": "EC-21",
+    "region_name": "Ratnapura",
+    "region_ent_type": "ed",
+    "values": {
+      "employed": 432107,
+      "unemployed": 22828
+    },
+    "total_value": 454935
+  },
+  {
+    "region_id": "EC-22",
+    "region_name": "Kegalle",
+    "region_ent_type": "ed",
+    "values": {
+      "employed": 320758,
+      "unemployed": 17727
+    },
+    "total_value": 338485
+  }
+]
