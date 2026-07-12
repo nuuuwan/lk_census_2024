@@ -134,3 +134,9 @@ class FinalReportTableDataMixin:
 
         self.data_file.write(d_list)
         log.info(f"Wrote {len(d_list)} rows to {self.data_file}")
+
+    @property
+    def data_list(self):
+        if not self.data_file.exists:
+            return None
+        return self.data_file.read()
