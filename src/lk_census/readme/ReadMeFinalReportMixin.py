@@ -143,6 +143,8 @@ class ReadMeFinalReportMixin:
         lines = []
         i_dataset = n_datasets_non_final_table + 1
         for final_report_table in final_report_table_list:
+            if final_report_table.data_file.exists:
+                continue
             lines.extend(
                 self.get_lines_for_final_report_table(
                     i_dataset, final_report_table
