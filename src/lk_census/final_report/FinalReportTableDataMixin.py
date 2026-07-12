@@ -46,7 +46,7 @@ class FinalReportTableDataMixin:
 
     @cached_property
     def error_key(self):
-        return self.fields.get("error_key", "error")
+        return self.fields.get("error_key", "_rounding_error")
 
     @staticmethod
     def _get_region(region_name):
