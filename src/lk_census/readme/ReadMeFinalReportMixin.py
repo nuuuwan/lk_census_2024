@@ -41,9 +41,13 @@ class ReadMeFinalReportMixin:
         lines = []
 
         example_rows = final_report_table.raw_data_list[:10]
+        max_cols = max(len(row) for row in example_rows)
 
         d_list = [
-            {f"Col {i}": cell for i, cell in enumerate(row, start=1)}
+            {
+                f"Col {i}": row[i] if i < len(row) else "--"
+                for i in list(range(max_cols))
+            }
             for row in example_rows
         ]
         lines.extend(
@@ -143,12 +147,12 @@ class ReadMeFinalReportMixin:
         lines = []
         i_dataset = n_datasets_non_final_table + 1
         for final_report_table in final_report_table_list:
-            if final_report_table.data_file.exists:
-                continue
-            if "district" not in final_report_table.table_name.lower():
-                continue
-            if not final_report_table.raw_data_file.exists:
-                continue
+            # if final_report_table.data_file.exists:
+            #     continue
+            # if "district" not in final_report_table.table_name.lower():
+            #     continue
+            # if not final_report_table.raw_data_file.exists:
+            #     continue
             lines.extend(
                 self.get_lines_for_final_report_table(
                     i_dataset, final_report_table
