@@ -58,12 +58,12 @@ class ReadMeFinalReportMixin:
             example_rows = final_report_table.raw_data_list[:10]
 
             d_list = [
-                {str(i): cell for i, cell in enumerate(row, start=1)}
+                {f"Col {i}": cell for i, cell in enumerate(row, start=1)}
                 for row in example_rows
             ]
             lines.extend(
                 [
-                    "##### Example Rows (first 10 rows)",
+                    "##### Raw Data (first 10 rows)",
                     "",
                 ]
                 + Markdown.table(d_list)

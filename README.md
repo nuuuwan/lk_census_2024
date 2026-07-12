@@ -1,7 +1,7 @@
 # 🇱🇰 Sri Lanka - Census of Population and Housing 2024
 
 ![CPH](https://img.shields.io/badge/CPH-2024-blue)
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--07--12_14:35:09-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--07--12_14:37:22-green)
 
 **154** Datasets on Population, Housing and more, by Country, Province, District, Divisional Secretariat Division (DSD), Grama Niladhari Division (GND), Electoral District (ED), Polling Division (PD), and Local Government Authority (LG) levels.
 
@@ -781,9 +781,9 @@
 
 #### [Table 3.2](data/final-report-tables/chapter-3/3.2-Distribution-of-Population-by-Province-and-District,-2024) - Distribution of Population by Province and District, 2024
 
-##### Example Rows (first 10 rows)
+##### Raw Data (first 10 rows)
 
-| 1 | 2 | 3 |
+| Col 1 | Col 2 | Col 3 |
 | :-- | :-- | :-- |
 |  | Table 3.2 : Distribution of Population by Province and District, 2024 |  |
 |  | Population |  |
@@ -1118,9 +1118,9 @@
 
 #### [Table 5.2.4](data/final-report-tables/chapter-5/5.2.4-Population-Temporarily-Living-Abroad-by-Main-Reason-for-Living-Abroad-and-Age-Group,-2024) - Population Temporarily Living Abroad by Main Reason for Living Abroad and Age Group, 2024
 
-##### Example Rows (first 10 rows)
+##### Raw Data (first 10 rows)
 
-| 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 |
+| Col 1 | Col 2 | Col 3 | Col 4 | Col 5 | Col 6 | Col 7 | Col 8 | Col 9 | Col 10 | Col 11 |
 | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- |
 |  |  |  | Employment |  | Education |  | family |  | Other |  |
 |  |  |  |  |  |  |  | member’s need |  |  |  |
@@ -1135,9 +1135,9 @@
 
 #### [Table 5.2.5](data/final-report-tables/chapter-5/5.2.5-Population-Temporarily-Living-Abroad,-by-Main-Reason-for-Living-Abroad,-Country-of-Residence-and-Sex,) - Population Temporarily Living Abroad, by Main Reason for Living Abroad, Country of Residence and Sex,
 
-##### Example Rows (first 10 rows)
+##### Raw Data (first 10 rows)
 
-| 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 13 | 14 | 15 | 16 |
+| Col 1 | Col 2 | Col 3 | Col 4 | Col 5 | Col 6 | Col 7 | Col 8 | Col 9 | Col 10 | Col 11 | Col 12 | Col 13 | Col 14 | Col 15 | Col 16 |
 | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- |
 |  |  |  |  |  |  |  |  |  |  |  | Accompanied a family |  |  |  |  |
 |  |  |  |  |  | Employment |  |  | Education |  |  |  |  |  | Other |  |
@@ -1162,9 +1162,9 @@
 
 #### [Table 6.1.5](data/final-report-tables/chapter-6/6.1.5-Population-Over-and-Below-18-Years-of-Age-by-Sector-and-District,-2024) - Population Over and Below 18 Years of Age by Sector and District, 2024
 
-##### Example Rows (first 10 rows)
+##### Raw Data (first 10 rows)
 
-| 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |
+| Col 1 | Col 2 | Col 3 | Col 4 | Col 5 | Col 6 | Col 7 | Col 8 | Col 9 | Col 10 |
 | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- |
 |  |  | Total Population |  |  | Male |  |  | Female |  |
 | Sector and district |  |  |  |  |  |  |  |  |  |
@@ -1187,9 +1187,9 @@
 
 #### [Table 6.1.10](data/final-report-tables/chapter-6/6.1.10-Population-by-Ethnic-Group,-1911---2024-(in) - Population by Ethnic Group, 1911 - 2024 (in
 
-##### Example Rows (first 10 rows)
+##### Raw Data (first 10 rows)
 
-| 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 |
+| Col 1 | Col 2 | Col 3 | Col 4 | Col 5 | Col 6 | Col 7 | Col 8 | Col 9 | Col 10 | Col 11 | Col 12 |
 | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- |
 |  |  |  |  | Table 6.1.10 : Population by Ethnic Group, 1911 - 2024 (in Thousands) |  |  |  |  |  |  |  |
 |  |  |  |  |  |  | Census Year |  |  |  |  |  |
@@ -1204,9 +1204,9 @@
 
 #### [Table 6.1.11](data/final-report-tables/chapter-6/6.1.11-Distribution-of-Population-by-Ethnic-Group-and-District,-2012-and-2024) - Distribution of Population by Ethnic Group and District, 2012 and 2024
 
-##### Example Rows (first 10 rows)
+##### Raw Data (first 10 rows)
 
-| 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 |
+| Col 1 | Col 2 | Col 3 | Col 4 | Col 5 | Col 6 | Col 7 | Col 8 | Col 9 | Col 10 | Col 11 | Col 12 | Col 13 | Col 14 | Col 15 | Col 16 | Col 17 |
 | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- |
 |  |  |  |  |  |  |  | Indian Tamil/ Malaiyaga |  |  |  |  |  |  |  |  |  |
 |  | Total |  | Sinhalese |  | Sri Lanka Tamil |  |  |  | Sri Lanka Moor/Muslim |  | Burgher |  | Malay |  | Other |  |
@@ -1221,9 +1221,9 @@
 
 #### [Table 6.1.12](data/final-report-tables/chapter-6/6.1.12-Percentage-Distribution-of-Population-by-Ethnic-Group-and-District,-2012-and-2024) - Percentage Distribution of Population by Ethnic Group and District, 2012 and 2024
 
-##### Example Rows (first 10 rows)
+##### Raw Data (first 10 rows)
 
-| 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 |
+| Col 1 | Col 2 | Col 3 | Col 4 | Col 5 | Col 6 | Col 7 | Col 8 | Col 9 | Col 10 | Col 11 | Col 12 | Col 13 | Col 14 | Col 15 | Col 16 | Col 17 |
 | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- |
 |  | Total |  | Sinhalese |  | Sri Lanka Tamil |  |  |  |  |  | Burgher |  | Malay |  | Other |  |
 | District |  |  |  |  |  |  | Malaiyaga Thamilar |  | Moor/Muslim |  |  |  |  |  |  |  |
@@ -1298,9 +1298,9 @@
 
 #### [Table 6.2.3](data/final-report-tables/chapter-6/6.2.3-Distribution-of-Persons-Aged-5-Years-and-Over-with-Physical-and-Mental-Difficulties-by-Age-Group-andDifficulties,-2024) - Distribution of Persons Aged 5 Years and Over with Physical and Mental Difficulties by Age Group andDifficulties, 2024
 
-##### Example Rows (first 10 rows)
+##### Raw Data (first 10 rows)
 
-| 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 13 | 14 | 15 | 16 |
+| Col 1 | Col 2 | Col 3 | Col 4 | Col 5 | Col 6 | Col 7 | Col 8 | Col 9 | Col 10 | Col 11 | Col 12 | Col 13 | Col 14 | Col 15 | Col 16 |
 | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- |
 |  |  |  |  |  |  |  |  |  | Functional Domain |  |  |  |  |  |  |
 |  |  | Persons with at least |  |  |  |  |  |  |  |  |  |  |  |  |  |
@@ -1319,9 +1319,9 @@
 
 #### [Table 6.2.6](data/final-report-tables/chapter-6/6.2.6-Distribution-of-Persons-Aged-5-Years-and-Over-with-Disabilities-by-District-and-Domain-of-Disability,-2024) - Distribution of Persons Aged 5 Years and Over with Disabilities by District and Domain of Disability, 2024
 
-##### Example Rows (first 10 rows)
+##### Raw Data (first 10 rows)
 
-| 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 13 | 14 | 15 |
+| Col 1 | Col 2 | Col 3 | Col 4 | Col 5 | Col 6 | Col 7 | Col 8 | Col 9 | Col 10 | Col 11 | Col 12 | Col 13 | Col 14 | Col 15 |
 | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- |
 |  | Persons with at least |  |  |  |  |  |  |  |  |  |  |  |  |  |
 |  | one Disability |  |  |  |  |  |  | Walking or climbing |  | Remembering or |  | Selfcare, such as |  | Communicating with |
@@ -1352,9 +1352,9 @@ District |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
 #### [Table 6.2.14](data/final-report-tables/chapter-6/6.2.14-Economic-Activity-of-Persons-Aged-15-Years-and-Over-with-Disabilities-by-Domain-of-Disability,-2024) - Economic Activity of Persons Aged 15 Years and Over with Disabilities by Domain of Disability, 2024
 
-##### Example Rows (first 10 rows)
+##### Raw Data (first 10 rows)
 
-| 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 13 |
+| Col 1 | Col 2 | Col 3 | Col 4 | Col 5 | Col 6 | Col 7 | Col 8 | Col 9 | Col 10 | Col 11 | Col 12 | Col 13 |
 | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- |
 |  |  |  |  |  | climbing steps |  | concentrating |  | dressing |  |  |  |
 |  | Number | % | Number | % | Number | % | Number | % | Number | % | Number | % |
@@ -1369,9 +1369,9 @@ District |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
 #### [Table 6.3.1](data/final-report-tables/chapter-6/6.3.1-Number-of-Persons-Reporting-and-Not-Reporting-Diseases,-2024) - Number of Persons Reporting and Not Reporting Diseases, 2024
 
-##### Example Rows (first 10 rows)
+##### Raw Data (first 10 rows)
 
-| 1 | 2 |
+| Col 1 | Col 2 |
 | :-- | :-- |
 | 6.3 Non-Communicable Diseases |  |
 | I
@@ -1403,9 +1403,9 @@ ntroduction |  |
 
 #### [Table 6.3.10](data/final-report-tables/chapter-6/6.3.10-Prevalence-Rates-of-Non-Communicable-Diseases-by-Ethnic-Group,-2024) - Prevalence Rates of Non-Communicable Diseases by Ethnic Group, 2024
 
-##### Example Rows (first 10 rows)
+##### Raw Data (first 10 rows)
 
-| 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 |
+| Col 1 | Col 2 | Col 3 | Col 4 | Col 5 | Col 6 | Col 7 | Col 8 | Col 9 | Col 10 | Col 11 | Col 12 |
 | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- |
 | Ethnic group | Total Population | Diabetes | High Cholesterol | High Blood 
 Pressure | Heart Disease | Kidney Disease | Thalassemia | Cancer | Stroke | Asthma | Epilepsy |
@@ -1421,9 +1421,9 @@ Pressure | Heart Disease | Kidney Disease | Thalassemia | Cancer | Stroke | Asth
 
 #### [Table 6.3.11](data/final-report-tables/chapter-6/6.3.11-Prevalence-Rates-for-the-Population-Aged-25-and-Over-by-Highest-Educational-Qualification,-2024) - Prevalence Rates for the Population Aged 25 and Over by Highest Educational Qualification, 2024
 
-##### Example Rows (first 10 rows)
+##### Raw Data (first 10 rows)
 
-| 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 |
+| Col 1 | Col 2 | Col 3 | Col 4 | Col 5 | Col 6 | Col 7 | Col 8 | Col 9 | Col 10 | Col 11 | Col 12 |
 | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- |
 | Attainment | Population | Diabetes | High Cholesterol | High Blood 
 Pressure | Heart Disease | Kidney Disease | Thalassemia | Cancer | Stroke | Asthma | Epilepsy |
@@ -1439,9 +1439,9 @@ Pressure | Heart Disease | Kidney Disease | Thalassemia | Cancer | Stroke | Asth
 
 #### [Table 6.3.12](data/final-report-tables/chapter-6/6.3.12-Prevalence-Rates-of-NCDs-by-Employment-Status,-2024) - Prevalence Rates of NCDs by Employment Status, 2024
 
-##### Example Rows (first 10 rows)
+##### Raw Data (first 10 rows)
 
-| 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 |
+| Col 1 | Col 2 | Col 3 | Col 4 | Col 5 | Col 6 | Col 7 | Col 8 | Col 9 | Col 10 | Col 11 | Col 12 |
 | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- |
 |  | Employed |  |  |  |  |  |  |  |  |  |  |
 | Employment status |  |  |  |  | Heart Disease | Kidney Disease |  |  |  |  |  |
@@ -1470,9 +1470,9 @@ Pressure |  |  | Thalassemia | Cancer | Stroke | Asthma | Epilepsy |
 
 #### [Table 7.6](data/final-report-tables/chapter-7/7.6-The-Educational-Level-of-the-Population-Age-25-Years-and-Over-by-Sex,-2012-and-2024) - The Educational Level of the Population Age 25 Years and Over by Sex, 2012 and 2024
 
-##### Example Rows (first 10 rows)
+##### Raw Data (first 10 rows)
 
-| 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 13 |
+| Col 1 | Col 2 | Col 3 | Col 4 | Col 5 | Col 6 | Col 7 | Col 8 | Col 9 | Col 10 | Col 11 | Col 12 | Col 13 |
 | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- |
 | Educational level | 2012 |  | 2024 |  | 2012 |  | 2024 |  | 2012 |  | 2024 |  |
 |  | Number | (%) | Number | (%) | Number | (%) | Number | (%) | Number | (%) | Number | (%) |
@@ -1487,9 +1487,9 @@ Pressure |  |  | Thalassemia | Cancer | Stroke | Asthma | Epilepsy |
 
 #### [Table 7.7](data/final-report-tables/chapter-7/7.7-Percentage-Distribution-of-Population-Aged-25-and-Over-by-Educational-Level-and-District,-2012-and-2024) - Percentage Distribution of Population Aged 25 and Over by Educational Level and District, 2012 and 2024
 
-##### Example Rows (first 10 rows)
+##### Raw Data (first 10 rows)
 
-| 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 13 | 14 | 15 |
+| Col 1 | Col 2 | Col 3 | Col 4 | Col 5 | Col 6 | Col 7 | Col 8 | Col 9 | Col 10 | Col 11 | Col 12 | Col 13 | Col 14 | Col 15 |
 | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- |
 |  |  | Table 7.7 : Percentage Distribution of Population Aged 25 and Over by Educational Level and District, 2012 and 2024 |  |  |  |  |  |  |  |  |  |  |  |  |
 |  |  |  |  |  |  |  |  | Passed Grades | Passed Grades |  |  | G.C.E. O/L or |  | G.C.E. A/L or |
@@ -1534,9 +1534,9 @@ Pressure |  |  | Thalassemia | Cancer | Stroke | Asthma | Epilepsy |
 
 #### [Table 8.8](data/final-report-tables/chapter-8/8.8-Employed-Population-by-Employment-Status-and-Sex,-2024) - Employed Population by Employment Status and Sex, 2024
 
-##### Example Rows (first 10 rows)
+##### Raw Data (first 10 rows)
 
-| 1 | 2 | 3 | 4 | 5 | 6 | 7 |
+| Col 1 | Col 2 | Col 3 | Col 4 | Col 5 | Col 6 | Col 7 |
 | :-- | :-- | :-- | :-- | :-- | :-- | :-- |
 |  | Total |  | Male |  | Female |  |
 | Employment Status |  |  |  |  |  |  |
@@ -1558,9 +1558,9 @@ Pressure |  |  | Thalassemia | Cancer | Stroke | Asthma | Epilepsy |
 
 #### [Table 9.1:](data/final-report-tables/chapter-9/9.1:-by-Marital-Status,-Age-Group,-and-Sex,-2024) - by Marital Status, Age Group, and Sex, 2024
 
-##### Example Rows (first 10 rows)
+##### Raw Data (first 10 rows)
 
-| 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 13 | 14 | 15 |
+| Col 1 | Col 2 | Col 3 | Col 4 | Col 5 | Col 6 | Col 7 | Col 8 | Col 9 | Col 10 | Col 11 | Col 12 | Col 13 | Col 14 | Col 15 |
 | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- |
 |  |  |  |  |  |  |  |  | Marital status |  |  |  |  |  |  |
 |  | Population |  |  |  |  |  |  |  |  |  |  |  |  |  |
@@ -1609,9 +1609,9 @@ Pressure |  |  | Thalassemia | Cancer | Stroke | Asthma | Epilepsy |
 
 #### [Table 10.1](data/final-report-tables/chapter-10/10.1-Percentage-Distribution-of-Household-Size-by-Sector,-2024) - Percentage Distribution of Household Size by Sector, 2024
 
-##### Example Rows (first 10 rows)
+##### Raw Data (first 10 rows)
 
-| 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 |
+| Col 1 | Col 2 | Col 3 | Col 4 | Col 5 | Col 6 | Col 7 | Col 8 | Col 9 | Col 10 | Col 11 |
 | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- |
 |  |  | Table 10.1 : Percentage Distribution of Household Size by Sector, 2024 |  |  |  |  |  |  |  |  |
 |  | Total Number |  |  |  | Household Size |  |  |  |  | Average |
@@ -1630,9 +1630,9 @@ Pressure |  |  | Thalassemia | Cancer | Stroke | Asthma | Epilepsy |
 
 #### [Table 10.4](data/final-report-tables/chapter-10/10.4-Percentage-Distribution-of-the-Number-of-Household-Heads-by-Sex,-Age-Group,-and-Sector,-2024) - Percentage Distribution of the Number of Household Heads by Sex, Age Group, and Sector, 2024
 
-##### Example Rows (first 10 rows)
+##### Raw Data (first 10 rows)
 
-| 1 | 2 | 3 | 4 | 5 | 6 | 7 |
+| Col 1 | Col 2 | Col 3 | Col 4 | Col 5 | Col 6 | Col 7 |
 | :-- | :-- | :-- | :-- | :-- | :-- | :-- |
 |  | Total Number | Sex of the Head of Household |  |  | Age Group of the Head of Household |  |
 | Sector | of Household |  |  |  |  |  |
@@ -1655,9 +1655,9 @@ Pressure |  |  | Thalassemia | Cancer | Stroke | Asthma | Epilepsy |
 
 #### [Table 10.9](data/final-report-tables/chapter-10/10.9-Percentage-Distribution-of-Household-Heads-by-District-and-Highest-Educational-Qualification-Obtained,) - Percentage Distribution of Household Heads by District and Highest Educational Qualification Obtained,
 
-##### Example Rows (first 10 rows)
+##### Raw Data (first 10 rows)
 
-| 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 13 |
+| Col 1 | Col 2 | Col 3 | Col 4 | Col 5 | Col 6 | Col 7 | Col 8 | Col 9 | Col 10 | Col 11 | Col 12 | Col 13 |
 | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- |
 |  |  |  |  |  |  |  | Highest Educational Qualification Obtained |  |  |  |  |  |
 |  | Total |  |  |  |  |  |  |  |  |  |  |  |
@@ -1678,9 +1678,9 @@ Pressure |  |  | Thalassemia | Cancer | Stroke | Asthma | Epilepsy |
 
 #### [Table 11.2](data/final-report-tables/chapter-11/11.2-Number-of-Occupied-Housing-Units-&-Permanently-Closed/Vacant-Housing-Units-by-District,-2012-and-2024) - Number of Occupied Housing Units & Permanently Closed/Vacant Housing Units by District, 2012 and 2024
 
-##### Example Rows (first 10 rows)
+##### Raw Data (first 10 rows)
 
-| 1 |
+| Col 1 |
 | :-- |
 | Census of Population and Housing  - 2024 |
 | The rural sector accounts for the largest share of occupied housing units, increasing from 4,092,252 to |
@@ -1691,9 +1691,9 @@ Pressure |  |  | Thalassemia | Cancer | Stroke | Asthma | Epilepsy |
 
 #### [Table 11.3](data/final-report-tables/chapter-11/11.3-Number-of-Housing-Units-by-the-Year-of-Construction,-2024) - Number of Housing Units by the Year of Construction, 2024
 
-##### Example Rows (first 10 rows)
+##### Raw Data (first 10 rows)
 
-| 1 | 2 | 3 |
+| Col 1 | Col 2 | Col 3 |
 | :-- | :-- | :-- |
 | Year | Housing units | Percentage |
 | Total* | 6,029,330 | 100.0 |
@@ -1722,9 +1722,9 @@ Pressure |  |  | Thalassemia | Cancer | Stroke | Asthma | Epilepsy |
 
 #### [Table 11.11](data/final-report-tables/chapter-11/11.11-Distribution-of-Households-in-Sri-Lanka's-ability-to-Obtain-Drinking-Water-Throughout-the-Year,-2024) - Distribution of Households in Sri Lanka's ability to Obtain Drinking Water Throughout the Year, 2024
 
-##### Example Rows (first 10 rows)
+##### Raw Data (first 10 rows)
 
-| 1 | 2 | 3 | 4 | 5 | 6 | 7 |
+| Col 1 | Col 2 | Col 3 | Col 4 | Col 5 | Col 6 | Col 7 |
 | :-- | :-- | :-- | :-- | :-- | :-- | :-- |
 |  | Table 11.11 : Distribution of Households in Sri Lanka's ability to Obtain Drinking Water Throughout the Year, 2024 |  |  |  |  |  |
 |  |  |  | Ability to obtain drinking water throughout the year |  |  |  |
@@ -1741,9 +1741,9 @@ Pressure |  |  | Thalassemia | Cancer | Stroke | Asthma | Epilepsy |
 
 #### [Table 11.13](data/final-report-tables/chapter-11/11.13-Household-Numbers-and-Percentages-by-Main-and-Secondary-Energy/Fuel-Type-for-Lighting,-2024) - Household Numbers and Percentages by Main and Secondary Energy/Fuel Type for Lighting, 2024
 
-##### Example Rows (first 10 rows)
+##### Raw Data (first 10 rows)
 
-| 1 | 2 | 3 | 4 | 5 |
+| Col 1 | Col 2 | Col 3 | Col 4 | Col 5 |
 | :-- | :-- | :-- | :-- | :-- |
 |  | Table 11.13 : Household Numbers and Percentages by Main and Secondary Energy/Fuel Type for Lighting, 2024 |  |  |  |
 |  | Main source |  | Secondary source |  |
@@ -1762,9 +1762,9 @@ Pressure |  |  | Thalassemia | Cancer | Stroke | Asthma | Epilepsy |
 
 #### [Table 11.16](data/final-report-tables/chapter-11/11.16-Percentage-Distribution-of-Type-of-Toilet-Used-by-households-by-Sector-and-District,-2024) - Percentage Distribution of Type of Toilet Used by households by Sector and District, 2024
 
-##### Example Rows (first 10 rows)
+##### Raw Data (first 10 rows)
 
-| 1 | 2 | 3 | 4 | 5 | 6 |
+| Col 1 | Col 2 | Col 3 | Col 4 | Col 5 | Col 6 |
 | :-- | :-- | :-- | :-- | :-- | :-- |
 |  |  |  | Type of toilet |  |  |
 | Sector/District | Total |  |  |  |  |
@@ -1779,9 +1779,9 @@ Pressure |  |  | Thalassemia | Cancer | Stroke | Asthma | Epilepsy |
 
 #### [Table 11.17:](data/final-report-tables/chapter-11/11.17:-Distribution-of-Households-by-the-Main-Method-of-Disposing-Solid-Waste,-2024) - Distribution of Households by the Main Method of Disposing Solid Waste, 2024
 
-##### Example Rows (first 10 rows)
+##### Raw Data (first 10 rows)
 
-| 1 | 2 | 3 | 4 | 5 | 6 |
+| Col 1 | Col 2 | Col 3 | Col 4 | Col 5 | Col 6 |
 | :-- | :-- | :-- | :-- | :-- | :-- |
 |  |  |  |  | Sector |  |
 | Method of disposing solid waste | Sri Lanka |  | Estate- |  | Estate- |
@@ -1802,9 +1802,9 @@ Pressure |  |  | Thalassemia | Cancer | Stroke | Asthma | Epilepsy |
 
 #### [Table 12.1](data/final-report-tables/chapter-12/12.1-Myer’s-Index-by-Sex,-1981,-2001,-2012-and-2024) - Myer’s Index by Sex, 1981, 2001, 2012 and 2024
 
-##### Example Rows (first 10 rows)
+##### Raw Data (first 10 rows)
 
-| 1 | 2 | 3 | 4 | 5 |
+| Col 1 | Col 2 | Col 3 | Col 4 | Col 5 |
 | :-- | :-- | :-- | :-- | :-- |
 |  | Table 12.1 : Myer’s Index by Sex, 1981, 2001, 2012 and 2024 |  |  |  |
 |  |  | Myers’ Index |  |  |
