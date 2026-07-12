@@ -1,33 +1,11 @@
 # 🇱🇰 Sri Lanka - Census of Population and Housing 2024
 
 ![CPH](https://img.shields.io/badge/CPH-2024-blue)
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--07--12_18:01:40-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--07--12_18:07:20-green)
 
 **154** Datasets on Population, Housing and more, by Country, Province, District, Divisional Secretariat Division (DSD), Grama Niladhari Division (GND), Electoral District (ED), Polling Division (PD), and Local Government Authority (LG) levels.
 
-## 13. [Percentage of households Using Firewood and gas, by Sector and District,](data/final-report-tables/chapter-11/11.12-Percentage-of-households-Using-Firewood-and-gas,-by-Sector-and-District,)
-*🟠 Raw Text Data was extracted from PDF, but not parsed into structured data.*
-
-### Raw Data (first 10 rows)
-
-| Col 1 |
-| :-- |
-| Census of Population and Housing  - 2024 |
-| Percentage of households using firewood and gas as the main sources of energy for cooking |
-| Comparing the 2012 and 2024 census data, the use of firewood has decreased, and the use of gas has |
-| increased in all districts and in all sectors. Compared to other districts, Colombo district (85.5%) shows the |
-| highest percentage of households cooking with gas. The highest percentage increase is in the Jaffna district. |
-|  |
-| Sector/ District |
-|  |
-| Sri Lanka |
-| Sector |
-
-### Source
-
-- [https://www.statistics.gov.lk/Resource/en/Population/CPH_2024/CPH2024_Final_Eng.pdf](https://www.statistics.gov.lk/Resource/en/Population/CPH_2024/CPH2024_Final_Eng.pdf) (Table 11.12)
-
-## 14. [Percentage Distribution of Type of Toilet Used by households by Sector and District, 2024](data/final-report-tables/chapter-11/11.16-Percentage-Distribution-of-Type-of-Toilet-Used-by-households-by-Sector-and-District,-2024)
+## 13. [Percentage Distribution of Type of Toilet Used by households by Sector and District, 2024](data/final-report-tables/chapter-11/11.16-Percentage-Distribution-of-Type-of-Toilet-Used-by-households-by-Sector-and-District,-2024)
 *🟠 Raw Text Data was extracted from PDF, but not parsed into structured data.*
 
 ### Raw Data (first 10 rows)
@@ -49,7 +27,7 @@
 
 - [https://www.statistics.gov.lk/Resource/en/Population/CPH_2024/CPH2024_Final_Eng.pdf](https://www.statistics.gov.lk/Resource/en/Population/CPH_2024/CPH2024_Final_Eng.pdf) (Table 11.16)
 
-## 15. [Myers' Index by District and Sex, 2012, 2024](data/final-report-tables/chapter-12/12.3-Myers'-Index-by-District-and-Sex,-2012,-2024)
+## 14. [Myers' Index by District and Sex, 2012, 2024](data/final-report-tables/chapter-12/12.3-Myers'-Index-by-District-and-Sex,-2012,-2024)
 *🟠 Raw Text Data was extracted from PDF, but not parsed into structured data.*
 
 ### Raw Data (first 10 rows)
@@ -71,7 +49,7 @@
 
 - [https://www.statistics.gov.lk/Resource/en/Population/CPH_2024/CPH2024_Final_Eng.pdf](https://www.statistics.gov.lk/Resource/en/Population/CPH_2024/CPH2024_Final_Eng.pdf) (Table 12.3)
 
-## 16. [Whipple's Index by District and Sex, 2012 and 2024](data/final-report-tables/chapter-12/12.5-Whipple's-Index-by-District-and-Sex,-2012-and-2024)
+## 15. [Whipple's Index by District and Sex, 2012 and 2024](data/final-report-tables/chapter-12/12.5-Whipple's-Index-by-District-and-Sex,-2012-and-2024)
 *🟠 Raw Text Data was extracted from PDF, but not parsed into structured data.*
 
 ### Raw Data (first 10 rows)

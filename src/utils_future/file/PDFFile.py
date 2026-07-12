@@ -49,6 +49,7 @@ class PDFFile(File):
         tables = camelot.read_pdf(
             self.path,
             flavor="stream",
+            row_tol=10,
         )
 
         d_list = []
