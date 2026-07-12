@@ -7,7 +7,7 @@
       "within_housing_unit": 643291,
       "within_premises": 13898,
       "outside_premises": 4633,
-      "error": 0
+      "_rounding_error": 0
     },
     "total_value": 661822
   },
@@ -19,7 +19,7 @@
       "within_housing_unit": 617017,
       "within_premises": 50270,
       "outside_premises": 21348,
-      "error": 0
+      "_rounding_error": 0
     },
     "total_value": 688635
   },
@@ -31,7 +31,7 @@
       "within_housing_unit": 316961,
       "within_premises": 22590,
       "outside_premises": 13413,
-      "error": -1
+      "_rounding_error": -1
     },
     "total_value": 352963
   },
@@ -43,7 +43,7 @@
       "within_housing_unit": 343549,
       "within_premises": 35389,
       "outside_premises": 18688,
-      "error": 0
+      "_rounding_error": 0
     },
     "total_value": 397626
   },
@@ -55,7 +55,7 @@
       "within_housing_unit": 115767,
       "within_premises": 19194,
       "outside_premises": 16020,
-      "error": 151
+      "_rounding_error": 151
     },
     "total_value": 151132
   },
@@ -67,7 +67,7 @@
       "within_housing_unit": 121158,
       "within_premises": 51667,
       "outside_premises": 27436,
-      "error": 0
+      "_rounding_error": 0
     },
     "total_value": 200261
   },
@@ -79,7 +79,7 @@
       "within_housing_unit": 262164,
       "within_premises": 28616,
       "outside_premises": 16616,
-      "error": 308
+      "_rounding_error": 308
     },
     "total_value": 307704
   },
@@ -91,7 +91,7 @@
       "within_housing_unit": 192979,
       "within_premises": 28761,
       "outside_premises": 10206,
-      "error": 0
+      "_rounding_error": 0
     },
     "total_value": 231946
   },
@@ -103,7 +103,7 @@
       "within_housing_unit": 146760,
       "within_premises": 29805,
       "outside_premises": 12073,
-      "error": 0
+      "_rounding_error": 0
     },
     "total_value": 188638
   },
@@ -115,7 +115,7 @@
       "within_housing_unit": 48725,
       "within_premises": 64061,
       "outside_premises": 46967,
-      "error": 0
+      "_rounding_error": 0
     },
     "total_value": 159753
   },
@@ -127,7 +127,7 @@
       "within_housing_unit": 9473,
       "within_premises": 17458,
       "outside_premises": 5399,
-      "error": 0
+      "_rounding_error": 0
     },
     "total_value": 32330
   },
@@ -139,7 +139,7 @@
       "within_housing_unit": 13068,
       "within_premises": 24248,
       "outside_premises": 11083,
-      "error": 0
+      "_rounding_error": 0
     },
     "total_value": 48399
   },
@@ -151,7 +151,7 @@
       "within_housing_unit": 9949,
       "within_premises": 16489,
       "outside_premises": 8349,
-      "error": -1
+      "_rounding_error": -1
     },
     "total_value": 34786
   },
@@ -163,7 +163,7 @@
       "within_housing_unit": 5363,
       "within_premises": 24061,
       "outside_premises": 7273,
-      "error": 37
+      "_rounding_error": 37
     },
     "total_value": 36734
   },
@@ -175,7 +175,7 @@
       "within_housing_unit": 68445,
       "within_premises": 79683,
       "outside_premises": 22134,
-      "error": 0
+      "_rounding_error": 0
     },
     "total_value": 170262
   },
@@ -187,7 +187,7 @@
       "within_housing_unit": 153599,
       "within_premises": 42229,
       "outside_premises": 11178,
-      "error": 1
+      "_rounding_error": 1
     },
     "total_value": 207007
   },
@@ -199,7 +199,7 @@
       "within_housing_unit": 76218,
       "within_premises": 34999,
       "outside_premises": 10731,
-      "error": 0
+      "_rounding_error": 0
     },
     "total_value": 121948
   },
@@ -211,7 +211,7 @@
       "within_housing_unit": 357305,
       "within_premises": 65940,
       "outside_premises": 87921,
-      "error": 0
+      "_rounding_error": 0
     },
     "total_value": 511166
   },
@@ -223,7 +223,7 @@
       "within_housing_unit": 153522,
       "within_premises": 45167,
       "outside_premises": 35338,
-      "error": 0
+      "_rounding_error": 0
     },
     "total_value": 234027
   },
@@ -235,7 +235,7 @@
       "within_housing_unit": 179080,
       "within_premises": 35486,
       "outside_premises": 60794,
-      "error": -276
+      "_rounding_error": -276
     },
     "total_value": 275084
   },
@@ -247,7 +247,7 @@
       "within_housing_unit": 94138,
       "within_premises": 18726,
       "outside_premises": 14522,
-      "error": -1
+      "_rounding_error": -1
     },
     "total_value": 127385
   },
@@ -259,7 +259,7 @@
       "within_housing_unit": 177011,
       "within_premises": 52880,
       "outside_premises": 18371,
-      "error": 0
+      "_rounding_error": 0
     },
     "total_value": 248262
   },
@@ -271,7 +271,7 @@
       "within_housing_unit": 106082,
       "within_premises": 31415,
       "outside_premises": 14266,
-      "error": 0
+      "_rounding_error": 0
     },
     "total_value": 151763
   },
@@ -283,7 +283,7 @@
       "within_housing_unit": 259495,
       "within_premises": 47836,
       "outside_premises": 20314,
-      "error": 0
+      "_rounding_error": 0
     },
     "total_value": 327645
   },
@@ -295,7 +295,7 @@
       "within_housing_unit": 201331,
       "within_premises": 27576,
       "outside_premises": 15130,
-      "error": 0
+      "_rounding_error": 0
     },
     "total_value": 244037
   },
@@ -307,7 +307,7 @@
       "within_housing_unit": 4672450,
       "within_premises": 908444,
       "outside_premises": 530203,
-      "error": 218
+      "_rounding_error": 218
     },
     "total_value": 6111315
   },
@@ -319,7 +319,7 @@
       "within_housing_unit": 1577269,
       "within_premises": 86758,
       "outside_premises": 39394,
-      "error": -1
+      "_rounding_error": -1
     },
     "total_value": 1703420
   },
@@ -331,7 +331,7 @@
       "within_housing_unit": 580474,
       "within_premises": 106250,
       "outside_premises": 62144,
-      "error": 151
+      "_rounding_error": 151
     },
     "total_value": 749019
   },
@@ -343,7 +343,7 @@
       "within_housing_unit": 601903,
       "within_premises": 87182,
       "outside_premises": 38895,
-      "error": 308
+      "_rounding_error": 308
     },
     "total_value": 728288
   },
@@ -355,7 +355,7 @@
       "within_housing_unit": 86578,
       "within_premises": 146317,
       "outside_premises": 79071,
-      "error": 36
+      "_rounding_error": 36
     },
     "total_value": 312002
   },
@@ -367,7 +367,7 @@
       "within_housing_unit": 298262,
       "within_premises": 156911,
       "outside_premises": 44043,
-      "error": 1
+      "_rounding_error": 1
     },
     "total_value": 499217
   },
@@ -379,7 +379,7 @@
       "within_housing_unit": 510827,
       "within_premises": 111107,
       "outside_premises": 123259,
-      "error": 0
+      "_rounding_error": 0
     },
     "total_value": 745193
   },
@@ -391,7 +391,7 @@
       "within_housing_unit": 273218,
       "within_premises": 54212,
       "outside_premises": 75316,
-      "error": -277
+      "_rounding_error": -277
     },
     "total_value": 402469
   },
@@ -403,7 +403,7 @@
       "within_housing_unit": 283093,
       "within_premises": 84295,
       "outside_premises": 32637,
-      "error": 0
+      "_rounding_error": 0
     },
     "total_value": 400025
   },
@@ -415,7 +415,7 @@
       "within_housing_unit": 460826,
       "within_premises": 75412,
       "outside_premises": 35444,
-      "error": 0
+      "_rounding_error": 0
     },
     "total_value": 571682
   },
@@ -427,7 +427,7 @@
       "within_housing_unit": 643291,
       "within_premises": 13898,
       "outside_premises": 4633,
-      "error": 0
+      "_rounding_error": 0
     },
     "total_value": 661822
   },
@@ -439,7 +439,7 @@
       "within_housing_unit": 617017,
       "within_premises": 50270,
       "outside_premises": 21348,
-      "error": 0
+      "_rounding_error": 0
     },
     "total_value": 688635
   },
@@ -451,7 +451,7 @@
       "within_housing_unit": 316961,
       "within_premises": 22590,
       "outside_premises": 13413,
-      "error": -1
+      "_rounding_error": -1
     },
     "total_value": 352963
   },
@@ -463,7 +463,7 @@
       "within_housing_unit": 343549,
       "within_premises": 35389,
       "outside_premises": 18688,
-      "error": 0
+      "_rounding_error": 0
     },
     "total_value": 397626
   },
@@ -475,7 +475,7 @@
       "within_housing_unit": 115767,
       "within_premises": 19194,
       "outside_premises": 16020,
-      "error": 151
+      "_rounding_error": 151
     },
     "total_value": 151132
   },
@@ -487,7 +487,7 @@
       "within_housing_unit": 121158,
       "within_premises": 51667,
       "outside_premises": 27436,
-      "error": 0
+      "_rounding_error": 0
     },
     "total_value": 200261
   },
@@ -499,7 +499,7 @@
       "within_housing_unit": 262164,
       "within_premises": 28616,
       "outside_premises": 16616,
-      "error": 308
+      "_rounding_error": 308
     },
     "total_value": 307704
   },
@@ -511,7 +511,7 @@
       "within_housing_unit": 192979,
       "within_premises": 28761,
       "outside_premises": 10206,
-      "error": 0
+      "_rounding_error": 0
     },
     "total_value": 231946
   },
@@ -523,7 +523,7 @@
       "within_housing_unit": 146760,
       "within_premises": 29805,
       "outside_premises": 12073,
-      "error": 0
+      "_rounding_error": 0
     },
     "total_value": 188638
   },
@@ -535,7 +535,7 @@
       "within_housing_unit": 54088,
       "within_premises": 88122,
       "outside_premises": 54240,
-      "error": 37
+      "_rounding_error": 37
     },
     "total_value": 196487
   },
@@ -547,7 +547,7 @@
       "within_housing_unit": 32490,
       "within_premises": 58195,
       "outside_premises": 24831,
-      "error": -1
+      "_rounding_error": -1
     },
     "total_value": 115515
   },
@@ -559,7 +559,7 @@
       "within_housing_unit": 68445,
       "within_premises": 79683,
       "outside_premises": 22134,
-      "error": 0
+      "_rounding_error": 0
     },
     "total_value": 170262
   },
@@ -571,7 +571,7 @@
       "within_housing_unit": 153599,
       "within_premises": 42229,
       "outside_premises": 11178,
-      "error": 1
+      "_rounding_error": 1
     },
     "total_value": 207007
   },
@@ -583,7 +583,7 @@
       "within_housing_unit": 76218,
       "within_premises": 34999,
       "outside_premises": 10731,
-      "error": 0
+      "_rounding_error": 0
     },
     "total_value": 121948
   },
@@ -595,7 +595,7 @@
       "within_housing_unit": 357305,
       "within_premises": 65940,
       "outside_premises": 87921,
-      "error": 0
+      "_rounding_error": 0
     },
     "total_value": 511166
   },
@@ -607,7 +607,7 @@
       "within_housing_unit": 153522,
       "within_premises": 45167,
       "outside_premises": 35338,
-      "error": 0
+      "_rounding_error": 0
     },
     "total_value": 234027
   },
@@ -619,7 +619,7 @@
       "within_housing_unit": 179080,
       "within_premises": 35486,
       "outside_premises": 60794,
-      "error": -276
+      "_rounding_error": -276
     },
     "total_value": 275084
   },
@@ -631,7 +631,7 @@
       "within_housing_unit": 94138,
       "within_premises": 18726,
       "outside_premises": 14522,
-      "error": -1
+      "_rounding_error": -1
     },
     "total_value": 127385
   },
@@ -643,7 +643,7 @@
       "within_housing_unit": 177011,
       "within_premises": 52880,
       "outside_premises": 18371,
-      "error": 0
+      "_rounding_error": 0
     },
     "total_value": 248262
   },
@@ -655,7 +655,7 @@
       "within_housing_unit": 106082,
       "within_premises": 31415,
       "outside_premises": 14266,
-      "error": 0
+      "_rounding_error": 0
     },
     "total_value": 151763
   },
@@ -667,7 +667,7 @@
       "within_housing_unit": 259495,
       "within_premises": 47836,
       "outside_premises": 20314,
-      "error": 0
+      "_rounding_error": 0
     },
     "total_value": 327645
   },
@@ -679,7 +679,7 @@
       "within_housing_unit": 201331,
       "within_premises": 27576,
       "outside_premises": 15130,
-      "error": 0
+      "_rounding_error": 0
     },
     "total_value": 244037
   }
