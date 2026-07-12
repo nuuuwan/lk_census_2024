@@ -1,0 +1,914 @@
+[
+  {
+    "region_id": "LK-11",
+    "region_name": "Colombo",
+    "region_ent_type": "district",
+    "values": {
+      "difficulty_in_seeing": 152592,
+      "difficulty_in_hearing": 59508,
+      "difficulty_in_walking_or_climbing_steps": 150614,
+      "difficulty_in_remembering_or_concentrating": 69279,
+      "difficulty_in_selfcare_such_as_washing_or_dressing": 55244,
+      "difficulty_in_communicating_with_others": 40731,
+      "difficulty_in_communicating_with_others_rate_per_1000_persons": 18,
+      "no_disability": 1743304
+    },
+    "total_value": 2271290
+  },
+  {
+    "region_id": "LK-12",
+    "region_name": "Gampaha",
+    "region_ent_type": "district",
+    "values": {
+      "difficulty_in_seeing": 194156,
+      "difficulty_in_hearing": 76279,
+      "difficulty_in_walking_or_climbing_steps": 184771,
+      "difficulty_in_remembering_or_concentrating": 85190,
+      "difficulty_in_selfcare_such_as_washing_or_dressing": 65653,
+      "difficulty_in_communicating_with_others": 44483,
+      "difficulty_in_communicating_with_others_rate_per_1000_persons": 19,
+      "no_disability": 1668639
+    },
+    "total_value": 2319190
+  },
+  {
+    "region_id": "LK-13",
+    "region_name": "Kalutara",
+    "region_ent_type": "district",
+    "values": {
+      "difficulty_in_seeing": 100364,
+      "difficulty_in_hearing": 42776,
+      "difficulty_in_walking_or_climbing_steps": 95264,
+      "difficulty_in_remembering_or_concentrating": 45878,
+      "difficulty_in_selfcare_such_as_washing_or_dressing": 36097,
+      "difficulty_in_communicating_with_others": 25241,
+      "difficulty_in_communicating_with_others_rate_per_1000_persons": 20,
+      "no_disability": 894105
+    },
+    "total_value": 1239745
+  },
+  {
+    "region_id": "LK-21",
+    "region_name": "Kandy",
+    "region_ent_type": "district",
+    "values": {
+      "difficulty_in_seeing": 133777,
+      "difficulty_in_hearing": 54309,
+      "difficulty_in_walking_or_climbing_steps": 127934,
+      "difficulty_in_remembering_or_concentrating": 57599,
+      "difficulty_in_selfcare_such_as_washing_or_dressing": 41366,
+      "difficulty_in_communicating_with_others": 29762,
+      "difficulty_in_communicating_with_others_rate_per_1000_persons": 22,
+      "no_disability": 937730
+    },
+    "total_value": 1382499
+  },
+  {
+    "region_id": "LK-22",
+    "region_name": "Matale",
+    "region_ent_type": "district",
+    "values": {
+      "difficulty_in_seeing": 52463,
+      "difficulty_in_hearing": 20217,
+      "difficulty_in_walking_or_climbing_steps": 48307,
+      "difficulty_in_remembering_or_concentrating": 22094,
+      "difficulty_in_selfcare_such_as_washing_or_dressing": 15106,
+      "difficulty_in_communicating_with_others": 10414,
+      "difficulty_in_communicating_with_others_rate_per_1000_persons": 21,
+      "no_disability": 328288
+    },
+    "total_value": 496910
+  },
+  {
+    "region_id": "LK-23",
+    "region_name": "Nuwara Eliya",
+    "region_ent_type": "district",
+    "values": {
+      "difficulty_in_seeing": 72180,
+      "difficulty_in_hearing": 23606,
+      "difficulty_in_walking_or_climbing_steps": 63822,
+      "difficulty_in_remembering_or_concentrating": 26066,
+      "difficulty_in_selfcare_such_as_washing_or_dressing": 22496,
+      "difficulty_in_communicating_with_others": 13826,
+      "difficulty_in_communicating_with_others_rate_per_1000_persons": 20,
+      "no_disability": 458415
+    },
+    "total_value": 680431
+  },
+  {
+    "region_id": "LK-31",
+    "region_name": "Galle",
+    "region_ent_type": "district",
+    "values": {
+      "difficulty_in_seeing": 100166,
+      "difficulty_in_hearing": 40849,
+      "difficulty_in_walking_or_climbing_steps": 85974,
+      "difficulty_in_remembering_or_concentrating": 43463,
+      "difficulty_in_selfcare_such_as_washing_or_dressing": 30609,
+      "difficulty_in_communicating_with_others": 23279,
+      "difficulty_in_communicating_with_others_rate_per_1000_persons": 22,
+      "no_disability": 715093
+    },
+    "total_value": 1039455
+  },
+  {
+    "region_id": "LK-32",
+    "region_name": "Matara",
+    "region_ent_type": "district",
+    "values": {
+      "difficulty_in_seeing": 91333,
+      "difficulty_in_hearing": 33262,
+      "difficulty_in_walking_or_climbing_steps": 73867,
+      "difficulty_in_remembering_or_concentrating": 35908,
+      "difficulty_in_selfcare_such_as_washing_or_dressing": 22831,
+      "difficulty_in_communicating_with_others": 17363,
+      "difficulty_in_communicating_with_others_rate_per_1000_persons": 22,
+      "no_disability": 518226
+    },
+    "total_value": 792812
+  },
+  {
+    "region_id": "LK-33",
+    "region_name": "Hambantota",
+    "region_ent_type": "district",
+    "values": {
+      "difficulty_in_seeing": 76574,
+      "difficulty_in_hearing": 26427,
+      "difficulty_in_walking_or_climbing_steps": 60341,
+      "difficulty_in_remembering_or_concentrating": 28688,
+      "difficulty_in_selfcare_such_as_washing_or_dressing": 20944,
+      "difficulty_in_communicating_with_others": 15295,
+      "difficulty_in_communicating_with_others_rate_per_1000_persons": 24,
+      "no_disability": 403326
+    },
+    "total_value": 631619
+  },
+  {
+    "region_id": "LK-41",
+    "region_name": "Jaffna",
+    "region_ent_type": "district",
+    "values": {
+      "difficulty_in_seeing": 44851,
+      "difficulty_in_hearing": 19593,
+      "difficulty_in_walking_or_climbing_steps": 36754,
+      "difficulty_in_remembering_or_concentrating": 20583,
+      "difficulty_in_selfcare_such_as_washing_or_dressing": 25622,
+      "difficulty_in_communicating_with_others": 12190,
+      "difficulty_in_communicating_with_others_rate_per_1000_persons": 22,
+      "no_disability": 399613
+    },
+    "total_value": 559228
+  },
+  {
+    "region_id": "LK-42",
+    "region_name": "Mannar",
+    "region_ent_type": "district",
+    "values": {
+      "difficulty_in_seeing": 9614,
+      "difficulty_in_hearing": 3013,
+      "difficulty_in_walking_or_climbing_steps": 6961,
+      "difficulty_in_remembering_or_concentrating": 3328,
+      "difficulty_in_selfcare_such_as_washing_or_dressing": 5724,
+      "difficulty_in_communicating_with_others": 2021,
+      "difficulty_in_communicating_with_others_rate_per_1000_persons": 18,
+      "no_disability": 83956
+    },
+    "total_value": 114635
+  },
+  {
+    "region_id": "LK-43",
+    "region_name": "Vavuniya",
+    "region_ent_type": "district",
+    "values": {
+      "difficulty_in_seeing": 16783,
+      "difficulty_in_hearing": 3986,
+      "difficulty_in_walking_or_climbing_steps": 9737,
+      "difficulty_in_remembering_or_concentrating": 4443,
+      "difficulty_in_selfcare_such_as_washing_or_dressing": 6028,
+      "difficulty_in_communicating_with_others": 2344,
+      "difficulty_in_communicating_with_others_rate_per_1000_persons": 15,
+      "no_disability": 117709
+    },
+    "total_value": 161045
+  },
+  {
+    "region_id": "LK-44",
+    "region_name": "Mullaitivu",
+    "region_ent_type": "district",
+    "values": {
+      "difficulty_in_seeing": 11787,
+      "difficulty_in_hearing": 3507,
+      "difficulty_in_walking_or_climbing_steps": 7446,
+      "difficulty_in_remembering_or_concentrating": 4248,
+      "difficulty_in_selfcare_such_as_washing_or_dressing": 4956,
+      "difficulty_in_communicating_with_others": 2377,
+      "difficulty_in_communicating_with_others_rate_per_1000_persons": 21,
+      "no_disability": 80069
+    },
+    "total_value": 114411
+  },
+  {
+    "region_id": "LK-45",
+    "region_name": "Kilinochchi",
+    "region_ent_type": "district",
+    "values": {
+      "difficulty_in_seeing": 11858,
+      "difficulty_in_hearing": 4091,
+      "difficulty_in_walking_or_climbing_steps": 8284,
+      "difficulty_in_remembering_or_concentrating": 4656,
+      "difficulty_in_selfcare_such_as_washing_or_dressing": 5877,
+      "difficulty_in_communicating_with_others": 2399,
+      "difficulty_in_communicating_with_others_rate_per_1000_persons": 19,
+      "no_disability": 90352
+    },
+    "total_value": 127536
+  },
+  {
+    "region_id": "LK-51",
+    "region_name": "Batticaloa",
+    "region_ent_type": "district",
+    "values": {
+      "difficulty_in_seeing": 41619,
+      "difficulty_in_hearing": 12329,
+      "difficulty_in_walking_or_climbing_steps": 31128,
+      "difficulty_in_remembering_or_concentrating": 13734,
+      "difficulty_in_selfcare_such_as_washing_or_dressing": 20975,
+      "difficulty_in_communicating_with_others": 10162,
+      "difficulty_in_communicating_with_others_rate_per_1000_persons": 18,
+      "no_disability": 420068
+    },
+    "total_value": 550033
+  },
+  {
+    "region_id": "LK-52",
+    "region_name": "Ampara",
+    "region_ent_type": "district",
+    "values": {
+      "difficulty_in_seeing": 60812,
+      "difficulty_in_hearing": 18195,
+      "difficulty_in_walking_or_climbing_steps": 45225,
+      "difficulty_in_remembering_or_concentrating": 20544,
+      "difficulty_in_selfcare_such_as_washing_or_dressing": 28406,
+      "difficulty_in_communicating_with_others": 12323,
+      "difficulty_in_communicating_with_others_rate_per_1000_persons": 18,
+      "no_disability": 502649
+    },
+    "total_value": 688172
+  },
+  {
+    "region_id": "LK-53",
+    "region_name": "Trincomalee",
+    "region_ent_type": "district",
+    "values": {
+      "difficulty_in_seeing": 29589,
+      "difficulty_in_hearing": 10254,
+      "difficulty_in_walking_or_climbing_steps": 23966,
+      "difficulty_in_remembering_or_concentrating": 11056,
+      "difficulty_in_selfcare_such_as_washing_or_dressing": 16188,
+      "difficulty_in_communicating_with_others": 7307,
+      "difficulty_in_communicating_with_others_rate_per_1000_persons": 18,
+      "no_disability": 309617
+    },
+    "total_value": 407995
+  },
+  {
+    "region_id": "LK-61",
+    "region_name": "Kurunegala",
+    "region_ent_type": "district",
+    "values": {
+      "difficulty_in_seeing": 173734,
+      "difficulty_in_hearing": 68769,
+      "difficulty_in_walking_or_climbing_steps": 163414,
+      "difficulty_in_remembering_or_concentrating": 74169,
+      "difficulty_in_selfcare_such_as_washing_or_dressing": 54425,
+      "difficulty_in_communicating_with_others": 36048,
+      "difficulty_in_communicating_with_others_rate_per_1000_persons": 22,
+      "no_disability": 1101417
+    },
+    "total_value": 1671998
+  },
+  {
+    "region_id": "LK-62",
+    "region_name": "Puttalam",
+    "region_ent_type": "district",
+    "values": {
+      "difficulty_in_seeing": 76334,
+      "difficulty_in_hearing": 25358,
+      "difficulty_in_walking_or_climbing_steps": 65914,
+      "difficulty_in_remembering_or_concentrating": 30257,
+      "difficulty_in_selfcare_such_as_washing_or_dressing": 27408,
+      "difficulty_in_communicating_with_others": 16798,
+      "difficulty_in_communicating_with_others_rate_per_1000_persons": 22,
+      "no_disability": 524629
+    },
+    "total_value": 766720
+  },
+  {
+    "region_id": "LK-71",
+    "region_name": "Anuradhapura",
+    "region_ent_type": "district",
+    "values": {
+      "difficulty_in_seeing": 91904,
+      "difficulty_in_hearing": 33199,
+      "difficulty_in_walking_or_climbing_steps": 85225,
+      "difficulty_in_remembering_or_concentrating": 33912,
+      "difficulty_in_selfcare_such_as_washing_or_dressing": 25233,
+      "difficulty_in_communicating_with_others": 17011,
+      "difficulty_in_communicating_with_others_rate_per_1000_persons": 19,
+      "no_disability": 616983
+    },
+    "total_value": 903486
+  },
+  {
+    "region_id": "LK-72",
+    "region_name": "Polonnaruwa",
+    "region_ent_type": "district",
+    "values": {
+      "difficulty_in_seeing": 44743,
+      "difficulty_in_hearing": 15322,
+      "difficulty_in_walking_or_climbing_steps": 35778,
+      "difficulty_in_remembering_or_concentrating": 15644,
+      "difficulty_in_selfcare_such_as_washing_or_dressing": 11374,
+      "difficulty_in_communicating_with_others": 8334,
+      "difficulty_in_communicating_with_others_rate_per_1000_persons": 20,
+      "no_disability": 289196
+    },
+    "total_value": 420411
+  },
+  {
+    "region_id": "LK-81",
+    "region_name": "Badulla",
+    "region_ent_type": "district",
+    "values": {
+      "difficulty_in_seeing": 84691,
+      "difficulty_in_hearing": 32279,
+      "difficulty_in_walking_or_climbing_steps": 76673,
+      "difficulty_in_remembering_or_concentrating": 33607,
+      "difficulty_in_selfcare_such_as_washing_or_dressing": 24377,
+      "difficulty_in_communicating_with_others": 17674,
+      "difficulty_in_communicating_with_others_rate_per_1000_persons": 21,
+      "no_disability": 552847
+    },
+    "total_value": 822169
+  },
+  {
+    "region_id": "LK-82",
+    "region_name": "Monaragala",
+    "region_ent_type": "district",
+    "values": {
+      "difficulty_in_seeing": 54543,
+      "difficulty_in_hearing": 19705,
+      "difficulty_in_walking_or_climbing_steps": 41463,
+      "difficulty_in_remembering_or_concentrating": 19533,
+      "difficulty_in_selfcare_such_as_washing_or_dressing": 14693,
+      "difficulty_in_communicating_with_others": 10308,
+      "difficulty_in_communicating_with_others_rate_per_1000_persons": 21,
+      "no_disability": 334108
+    },
+    "total_value": 494374
+  },
+  {
+    "region_id": "LK-91",
+    "region_name": "Ratnapura",
+    "region_ent_type": "district",
+    "values": {
+      "difficulty_in_seeing": 121942,
+      "difficulty_in_hearing": 46515,
+      "difficulty_in_walking_or_climbing_steps": 97264,
+      "difficulty_in_remembering_or_concentrating": 45069,
+      "difficulty_in_selfcare_such_as_washing_or_dressing": 32362,
+      "difficulty_in_communicating_with_others": 24013,
+      "difficulty_in_communicating_with_others_rate_per_1000_persons": 22,
+      "no_disability": 717412
+    },
+    "total_value": 1084599
+  },
+  {
+    "region_id": "LK-92",
+    "region_name": "Kegalle",
+    "region_ent_type": "district",
+    "values": {
+      "difficulty_in_seeing": 91546,
+      "difficulty_in_hearing": 39423,
+      "difficulty_in_walking_or_climbing_steps": 77938,
+      "difficulty_in_remembering_or_concentrating": 38664,
+      "difficulty_in_selfcare_such_as_washing_or_dressing": 25991,
+      "difficulty_in_communicating_with_others": 19110,
+      "difficulty_in_communicating_with_others_rate_per_1000_persons": 23,
+      "no_disability": 533222
+    },
+    "total_value": 825917
+  },
+  {
+    "region_id": "LK",
+    "region_name": "Sri Lanka",
+    "region_ent_type": "country",
+    "values": {
+      "difficulty_in_seeing": 1939955,
+      "difficulty_in_hearing": 732771,
+      "difficulty_in_walking_or_climbing_steps": 1704064,
+      "difficulty_in_remembering_or_concentrating": 787612,
+      "difficulty_in_selfcare_such_as_washing_or_dressing": 639985,
+      "difficulty_in_communicating_with_others": 420813,
+      "difficulty_in_communicating_with_others_rate_per_1000_persons": 507,
+      "no_disability": 14340973
+    },
+    "total_value": 20566680
+  },
+  {
+    "region_id": "LK-1",
+    "region_name": "Western",
+    "region_ent_type": "province",
+    "values": {
+      "difficulty_in_seeing": 447112,
+      "difficulty_in_hearing": 178563,
+      "difficulty_in_walking_or_climbing_steps": 430649,
+      "difficulty_in_remembering_or_concentrating": 200347,
+      "difficulty_in_selfcare_such_as_washing_or_dressing": 156994,
+      "difficulty_in_communicating_with_others": 110455,
+      "difficulty_in_communicating_with_others_rate_per_1000_persons": 57,
+      "no_disability": 4306048
+    },
+    "total_value": 5830225
+  },
+  {
+    "region_id": "LK-2",
+    "region_name": "Central",
+    "region_ent_type": "province",
+    "values": {
+      "difficulty_in_seeing": 258420,
+      "difficulty_in_hearing": 98132,
+      "difficulty_in_walking_or_climbing_steps": 240063,
+      "difficulty_in_remembering_or_concentrating": 105759,
+      "difficulty_in_selfcare_such_as_washing_or_dressing": 78968,
+      "difficulty_in_communicating_with_others": 54002,
+      "difficulty_in_communicating_with_others_rate_per_1000_persons": 63,
+      "no_disability": 1724433
+    },
+    "total_value": 2559840
+  },
+  {
+    "region_id": "LK-3",
+    "region_name": "Southern",
+    "region_ent_type": "province",
+    "values": {
+      "difficulty_in_seeing": 268073,
+      "difficulty_in_hearing": 100538,
+      "difficulty_in_walking_or_climbing_steps": 220182,
+      "difficulty_in_remembering_or_concentrating": 108059,
+      "difficulty_in_selfcare_such_as_washing_or_dressing": 74384,
+      "difficulty_in_communicating_with_others": 55937,
+      "difficulty_in_communicating_with_others_rate_per_1000_persons": 68,
+      "no_disability": 1636645
+    },
+    "total_value": 2463886
+  },
+  {
+    "region_id": "LK-4",
+    "region_name": "Northern",
+    "region_ent_type": "province",
+    "values": {
+      "difficulty_in_seeing": 94893,
+      "difficulty_in_hearing": 34190,
+      "difficulty_in_walking_or_climbing_steps": 69182,
+      "difficulty_in_remembering_or_concentrating": 37258,
+      "difficulty_in_selfcare_such_as_washing_or_dressing": 48207,
+      "difficulty_in_communicating_with_others": 21331,
+      "difficulty_in_communicating_with_others_rate_per_1000_persons": 95,
+      "no_disability": 771699
+    },
+    "total_value": 1076855
+  },
+  {
+    "region_id": "LK-5",
+    "region_name": "Eastern",
+    "region_ent_type": "province",
+    "values": {
+      "difficulty_in_seeing": 132020,
+      "difficulty_in_hearing": 40778,
+      "difficulty_in_walking_or_climbing_steps": 100319,
+      "difficulty_in_remembering_or_concentrating": 45334,
+      "difficulty_in_selfcare_such_as_washing_or_dressing": 65569,
+      "difficulty_in_communicating_with_others": 29792,
+      "difficulty_in_communicating_with_others_rate_per_1000_persons": 54,
+      "no_disability": 1232334
+    },
+    "total_value": 1646200
+  },
+  {
+    "region_id": "LK-6",
+    "region_name": "North Western",
+    "region_ent_type": "province",
+    "values": {
+      "difficulty_in_seeing": 250068,
+      "difficulty_in_hearing": 94127,
+      "difficulty_in_walking_or_climbing_steps": 229328,
+      "difficulty_in_remembering_or_concentrating": 104426,
+      "difficulty_in_selfcare_such_as_washing_or_dressing": 81833,
+      "difficulty_in_communicating_with_others": 52846,
+      "difficulty_in_communicating_with_others_rate_per_1000_persons": 44,
+      "no_disability": 1626046
+    },
+    "total_value": 2438718
+  },
+  {
+    "region_id": "LK-7",
+    "region_name": "North Central",
+    "region_ent_type": "province",
+    "values": {
+      "difficulty_in_seeing": 136647,
+      "difficulty_in_hearing": 48521,
+      "difficulty_in_walking_or_climbing_steps": 121003,
+      "difficulty_in_remembering_or_concentrating": 49556,
+      "difficulty_in_selfcare_such_as_washing_or_dressing": 36607,
+      "difficulty_in_communicating_with_others": 25345,
+      "difficulty_in_communicating_with_others_rate_per_1000_persons": 39,
+      "no_disability": 906179
+    },
+    "total_value": 1323897
+  },
+  {
+    "region_id": "LK-8",
+    "region_name": "Uva",
+    "region_ent_type": "province",
+    "values": {
+      "difficulty_in_seeing": 139234,
+      "difficulty_in_hearing": 51984,
+      "difficulty_in_walking_or_climbing_steps": 118136,
+      "difficulty_in_remembering_or_concentrating": 53140,
+      "difficulty_in_selfcare_such_as_washing_or_dressing": 39070,
+      "difficulty_in_communicating_with_others": 27982,
+      "difficulty_in_communicating_with_others_rate_per_1000_persons": 42,
+      "no_disability": 886955
+    },
+    "total_value": 1316543
+  },
+  {
+    "region_id": "LK-9",
+    "region_name": "Sabaragamuwa",
+    "region_ent_type": "province",
+    "values": {
+      "difficulty_in_seeing": 213488,
+      "difficulty_in_hearing": 85938,
+      "difficulty_in_walking_or_climbing_steps": 175202,
+      "difficulty_in_remembering_or_concentrating": 83733,
+      "difficulty_in_selfcare_such_as_washing_or_dressing": 58353,
+      "difficulty_in_communicating_with_others": 43123,
+      "difficulty_in_communicating_with_others_rate_per_1000_persons": 45,
+      "no_disability": 1250634
+    },
+    "total_value": 1910516
+  },
+  {
+    "region_id": "EC-01",
+    "region_name": "Colombo",
+    "region_ent_type": "ed",
+    "values": {
+      "difficulty_in_seeing": 152592,
+      "difficulty_in_hearing": 59508,
+      "difficulty_in_walking_or_climbing_steps": 150614,
+      "difficulty_in_remembering_or_concentrating": 69279,
+      "difficulty_in_selfcare_such_as_washing_or_dressing": 55244,
+      "difficulty_in_communicating_with_others": 40731,
+      "difficulty_in_communicating_with_others_rate_per_1000_persons": 18,
+      "no_disability": 1743304
+    },
+    "total_value": 2271290
+  },
+  {
+    "region_id": "EC-02",
+    "region_name": "Gampaha",
+    "region_ent_type": "ed",
+    "values": {
+      "difficulty_in_seeing": 194156,
+      "difficulty_in_hearing": 76279,
+      "difficulty_in_walking_or_climbing_steps": 184771,
+      "difficulty_in_remembering_or_concentrating": 85190,
+      "difficulty_in_selfcare_such_as_washing_or_dressing": 65653,
+      "difficulty_in_communicating_with_others": 44483,
+      "difficulty_in_communicating_with_others_rate_per_1000_persons": 19,
+      "no_disability": 1668639
+    },
+    "total_value": 2319190
+  },
+  {
+    "region_id": "EC-03",
+    "region_name": "Kalutara",
+    "region_ent_type": "ed",
+    "values": {
+      "difficulty_in_seeing": 100364,
+      "difficulty_in_hearing": 42776,
+      "difficulty_in_walking_or_climbing_steps": 95264,
+      "difficulty_in_remembering_or_concentrating": 45878,
+      "difficulty_in_selfcare_such_as_washing_or_dressing": 36097,
+      "difficulty_in_communicating_with_others": 25241,
+      "difficulty_in_communicating_with_others_rate_per_1000_persons": 20,
+      "no_disability": 894105
+    },
+    "total_value": 1239745
+  },
+  {
+    "region_id": "EC-04",
+    "region_name": "Kandy",
+    "region_ent_type": "ed",
+    "values": {
+      "difficulty_in_seeing": 133777,
+      "difficulty_in_hearing": 54309,
+      "difficulty_in_walking_or_climbing_steps": 127934,
+      "difficulty_in_remembering_or_concentrating": 57599,
+      "difficulty_in_selfcare_such_as_washing_or_dressing": 41366,
+      "difficulty_in_communicating_with_others": 29762,
+      "difficulty_in_communicating_with_others_rate_per_1000_persons": 22,
+      "no_disability": 937730
+    },
+    "total_value": 1382499
+  },
+  {
+    "region_id": "EC-05",
+    "region_name": "Matale",
+    "region_ent_type": "ed",
+    "values": {
+      "difficulty_in_seeing": 52463,
+      "difficulty_in_hearing": 20217,
+      "difficulty_in_walking_or_climbing_steps": 48307,
+      "difficulty_in_remembering_or_concentrating": 22094,
+      "difficulty_in_selfcare_such_as_washing_or_dressing": 15106,
+      "difficulty_in_communicating_with_others": 10414,
+      "difficulty_in_communicating_with_others_rate_per_1000_persons": 21,
+      "no_disability": 328288
+    },
+    "total_value": 496910
+  },
+  {
+    "region_id": "EC-06",
+    "region_name": "Nuwara-Eliya",
+    "region_ent_type": "ed",
+    "values": {
+      "difficulty_in_seeing": 72180,
+      "difficulty_in_hearing": 23606,
+      "difficulty_in_walking_or_climbing_steps": 63822,
+      "difficulty_in_remembering_or_concentrating": 26066,
+      "difficulty_in_selfcare_such_as_washing_or_dressing": 22496,
+      "difficulty_in_communicating_with_others": 13826,
+      "difficulty_in_communicating_with_others_rate_per_1000_persons": 20,
+      "no_disability": 458415
+    },
+    "total_value": 680431
+  },
+  {
+    "region_id": "EC-07",
+    "region_name": "Galle",
+    "region_ent_type": "ed",
+    "values": {
+      "difficulty_in_seeing": 100166,
+      "difficulty_in_hearing": 40849,
+      "difficulty_in_walking_or_climbing_steps": 85974,
+      "difficulty_in_remembering_or_concentrating": 43463,
+      "difficulty_in_selfcare_such_as_washing_or_dressing": 30609,
+      "difficulty_in_communicating_with_others": 23279,
+      "difficulty_in_communicating_with_others_rate_per_1000_persons": 22,
+      "no_disability": 715093
+    },
+    "total_value": 1039455
+  },
+  {
+    "region_id": "EC-08",
+    "region_name": "Matara",
+    "region_ent_type": "ed",
+    "values": {
+      "difficulty_in_seeing": 91333,
+      "difficulty_in_hearing": 33262,
+      "difficulty_in_walking_or_climbing_steps": 73867,
+      "difficulty_in_remembering_or_concentrating": 35908,
+      "difficulty_in_selfcare_such_as_washing_or_dressing": 22831,
+      "difficulty_in_communicating_with_others": 17363,
+      "difficulty_in_communicating_with_others_rate_per_1000_persons": 22,
+      "no_disability": 518226
+    },
+    "total_value": 792812
+  },
+  {
+    "region_id": "EC-09",
+    "region_name": "Hambantota",
+    "region_ent_type": "ed",
+    "values": {
+      "difficulty_in_seeing": 76574,
+      "difficulty_in_hearing": 26427,
+      "difficulty_in_walking_or_climbing_steps": 60341,
+      "difficulty_in_remembering_or_concentrating": 28688,
+      "difficulty_in_selfcare_such_as_washing_or_dressing": 20944,
+      "difficulty_in_communicating_with_others": 15295,
+      "difficulty_in_communicating_with_others_rate_per_1000_persons": 24,
+      "no_disability": 403326
+    },
+    "total_value": 631619
+  },
+  {
+    "region_id": "EC-10",
+    "region_name": "Jaffna",
+    "region_ent_type": "ed",
+    "values": {
+      "difficulty_in_seeing": 56709,
+      "difficulty_in_hearing": 23684,
+      "difficulty_in_walking_or_climbing_steps": 45038,
+      "difficulty_in_remembering_or_concentrating": 25239,
+      "difficulty_in_selfcare_such_as_washing_or_dressing": 31499,
+      "difficulty_in_communicating_with_others": 14589,
+      "difficulty_in_communicating_with_others_rate_per_1000_persons": 41,
+      "no_disability": 489965
+    },
+    "total_value": 686764
+  },
+  {
+    "region_id": "EC-11",
+    "region_name": "Vanni",
+    "region_ent_type": "ed",
+    "values": {
+      "difficulty_in_seeing": 38184,
+      "difficulty_in_hearing": 10506,
+      "difficulty_in_walking_or_climbing_steps": 24144,
+      "difficulty_in_remembering_or_concentrating": 12019,
+      "difficulty_in_selfcare_such_as_washing_or_dressing": 16708,
+      "difficulty_in_communicating_with_others": 6742,
+      "difficulty_in_communicating_with_others_rate_per_1000_persons": 54,
+      "no_disability": 281734
+    },
+    "total_value": 390091
+  },
+  {
+    "region_id": "EC-12",
+    "region_name": "Batticaloa",
+    "region_ent_type": "ed",
+    "values": {
+      "difficulty_in_seeing": 41619,
+      "difficulty_in_hearing": 12329,
+      "difficulty_in_walking_or_climbing_steps": 31128,
+      "difficulty_in_remembering_or_concentrating": 13734,
+      "difficulty_in_selfcare_such_as_washing_or_dressing": 20975,
+      "difficulty_in_communicating_with_others": 10162,
+      "difficulty_in_communicating_with_others_rate_per_1000_persons": 18,
+      "no_disability": 420068
+    },
+    "total_value": 550033
+  },
+  {
+    "region_id": "EC-13",
+    "region_name": "Digamadulla",
+    "region_ent_type": "ed",
+    "values": {
+      "difficulty_in_seeing": 60812,
+      "difficulty_in_hearing": 18195,
+      "difficulty_in_walking_or_climbing_steps": 45225,
+      "difficulty_in_remembering_or_concentrating": 20544,
+      "difficulty_in_selfcare_such_as_washing_or_dressing": 28406,
+      "difficulty_in_communicating_with_others": 12323,
+      "difficulty_in_communicating_with_others_rate_per_1000_persons": 18,
+      "no_disability": 502649
+    },
+    "total_value": 688172
+  },
+  {
+    "region_id": "EC-14",
+    "region_name": "Trincomalee",
+    "region_ent_type": "ed",
+    "values": {
+      "difficulty_in_seeing": 29589,
+      "difficulty_in_hearing": 10254,
+      "difficulty_in_walking_or_climbing_steps": 23966,
+      "difficulty_in_remembering_or_concentrating": 11056,
+      "difficulty_in_selfcare_such_as_washing_or_dressing": 16188,
+      "difficulty_in_communicating_with_others": 7307,
+      "difficulty_in_communicating_with_others_rate_per_1000_persons": 18,
+      "no_disability": 309617
+    },
+    "total_value": 407995
+  },
+  {
+    "region_id": "EC-15",
+    "region_name": "Kurunegala",
+    "region_ent_type": "ed",
+    "values": {
+      "difficulty_in_seeing": 173734,
+      "difficulty_in_hearing": 68769,
+      "difficulty_in_walking_or_climbing_steps": 163414,
+      "difficulty_in_remembering_or_concentrating": 74169,
+      "difficulty_in_selfcare_such_as_washing_or_dressing": 54425,
+      "difficulty_in_communicating_with_others": 36048,
+      "difficulty_in_communicating_with_others_rate_per_1000_persons": 22,
+      "no_disability": 1101417
+    },
+    "total_value": 1671998
+  },
+  {
+    "region_id": "EC-16",
+    "region_name": "Puttalam",
+    "region_ent_type": "ed",
+    "values": {
+      "difficulty_in_seeing": 76334,
+      "difficulty_in_hearing": 25358,
+      "difficulty_in_walking_or_climbing_steps": 65914,
+      "difficulty_in_remembering_or_concentrating": 30257,
+      "difficulty_in_selfcare_such_as_washing_or_dressing": 27408,
+      "difficulty_in_communicating_with_others": 16798,
+      "difficulty_in_communicating_with_others_rate_per_1000_persons": 22,
+      "no_disability": 524629
+    },
+    "total_value": 766720
+  },
+  {
+    "region_id": "EC-17",
+    "region_name": "Anuradhapura",
+    "region_ent_type": "ed",
+    "values": {
+      "difficulty_in_seeing": 91904,
+      "difficulty_in_hearing": 33199,
+      "difficulty_in_walking_or_climbing_steps": 85225,
+      "difficulty_in_remembering_or_concentrating": 33912,
+      "difficulty_in_selfcare_such_as_washing_or_dressing": 25233,
+      "difficulty_in_communicating_with_others": 17011,
+      "difficulty_in_communicating_with_others_rate_per_1000_persons": 19,
+      "no_disability": 616983
+    },
+    "total_value": 903486
+  },
+  {
+    "region_id": "EC-18",
+    "region_name": "Polonnaruwa",
+    "region_ent_type": "ed",
+    "values": {
+      "difficulty_in_seeing": 44743,
+      "difficulty_in_hearing": 15322,
+      "difficulty_in_walking_or_climbing_steps": 35778,
+      "difficulty_in_remembering_or_concentrating": 15644,
+      "difficulty_in_selfcare_such_as_washing_or_dressing": 11374,
+      "difficulty_in_communicating_with_others": 8334,
+      "difficulty_in_communicating_with_others_rate_per_1000_persons": 20,
+      "no_disability": 289196
+    },
+    "total_value": 420411
+  },
+  {
+    "region_id": "EC-19",
+    "region_name": "Badulla",
+    "region_ent_type": "ed",
+    "values": {
+      "difficulty_in_seeing": 84691,
+      "difficulty_in_hearing": 32279,
+      "difficulty_in_walking_or_climbing_steps": 76673,
+      "difficulty_in_remembering_or_concentrating": 33607,
+      "difficulty_in_selfcare_such_as_washing_or_dressing": 24377,
+      "difficulty_in_communicating_with_others": 17674,
+      "difficulty_in_communicating_with_others_rate_per_1000_persons": 21,
+      "no_disability": 552847
+    },
+    "total_value": 822169
+  },
+  {
+    "region_id": "EC-20",
+    "region_name": "Moneragala",
+    "region_ent_type": "ed",
+    "values": {
+      "difficulty_in_seeing": 54543,
+      "difficulty_in_hearing": 19705,
+      "difficulty_in_walking_or_climbing_steps": 41463,
+      "difficulty_in_remembering_or_concentrating": 19533,
+      "difficulty_in_selfcare_such_as_washing_or_dressing": 14693,
+      "difficulty_in_communicating_with_others": 10308,
+      "difficulty_in_communicating_with_others_rate_per_1000_persons": 21,
+      "no_disability": 334108
+    },
+    "total_value": 494374
+  },
+  {
+    "region_id": "EC-21",
+    "region_name": "Ratnapura",
+    "region_ent_type": "ed",
+    "values": {
+      "difficulty_in_seeing": 121942,
+      "difficulty_in_hearing": 46515,
+      "difficulty_in_walking_or_climbing_steps": 97264,
+      "difficulty_in_remembering_or_concentrating": 45069,
+      "difficulty_in_selfcare_such_as_washing_or_dressing": 32362,
+      "difficulty_in_communicating_with_others": 24013,
+      "difficulty_in_communicating_with_others_rate_per_1000_persons": 22,
+      "no_disability": 717412
+    },
+    "total_value": 1084599
+  },
+  {
+    "region_id": "EC-22",
+    "region_name": "Kegalle",
+    "region_ent_type": "ed",
+    "values": {
+      "difficulty_in_seeing": 91546,
+      "difficulty_in_hearing": 39423,
+      "difficulty_in_walking_or_climbing_steps": 77938,
+      "difficulty_in_remembering_or_concentrating": 38664,
+      "difficulty_in_selfcare_such_as_washing_or_dressing": 25991,
+      "difficulty_in_communicating_with_others": 19110,
+      "difficulty_in_communicating_with_others_rate_per_1000_persons": 23,
+      "no_disability": 533222
+    },
+    "total_value": 825917
+  }
+]

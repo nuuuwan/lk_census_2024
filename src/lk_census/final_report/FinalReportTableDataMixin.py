@@ -42,6 +42,10 @@ class FinalReportTableDataMixin:
     def other_keys(self):
         return self.fields.get("other_keys", [])
 
+    @cached_property
+    def error_key(self):
+        return self.fields.get("error_key", "error")
+
     @staticmethod
     def _get_region(region_name):
         regions = Ent.list_from_name_fuzzy(
@@ -62,14 +66,21 @@ class FinalReportTableDataMixin:
             or "usual" in raw_data[0].lower()
             or "residence" in raw_data[0].lower()
             or "district" in raw_data[0].lower()
+            or "number" in raw_data[0].lower()
+            or "person" in raw_data[0].lower()
+            or "year" in raw_data[0].lower()
+            or "over" in raw_data[0].lower()
             or not raw_data[0]
             or raw_data[0].startswith("*")
         ):
             return None
 
-        if " " * 4 in raw_data[0]:
+        if "\n" in raw_data[0]:
+            words = raw_data[0].strip().split("\n")
+            raw_data = [words[0].strip(), words[-1].strip()] + raw_data[1:]
+        elif " " * 4 in raw_data[0]:
             words = raw_data[0].strip().split(" ")
-            raw_data[0] = words[0]
+            raw_data[0] = words[0].strip()
             raw_data[1] = words[-1]
 
         fields = self.fields
@@ -119,8 +130,16 @@ class FinalReportTableDataMixin:
             if region_id:
                 values[key[:-5] + "_id"] = region_id
         d["values"] = values
+
         if self.is_summable:
-            d["total_value"] = sum(values.values())
+            if total_value:
+                total_value_from_values = sum(values.values())
+                error = total_value - total_value_from_values
+                values[self.error_key] = error
+
+            d["total_value"] = (
+                sum(values.values()) if not total_value else total_value
+            )
         return d
 
     def _aggregate(self, parent_id, d_list_for_parent):

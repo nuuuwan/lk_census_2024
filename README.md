@@ -1,7 +1,7 @@
 # 🇱🇰 Sri Lanka - Census of Population and Housing 2024
 
 ![CPH](https://img.shields.io/badge/CPH-2024-blue)
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--07--12_13:30:46-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--07--12_14:20:19-green)
 
 **154** Datasets on Population, Housing and more, by Country, Province, District, Divisional Secretariat Division (DSD), Grama Niladhari Division (GND), Electoral District (ED), Polling Division (PD), and Local Government Authority (LG) levels.
 
@@ -792,9 +792,10 @@
         "development_projects": 519,
         "resettled_after_displacement": 519,
         "a_disaster_a_displaced_happened_in_the_prior_place": 2078,
-        "other": 7271
+        "other": 7271,
+        "_rounding_error": 520
     },
-    "total_value": 518859
+    "total_value": 519379
 }
 ```
 
@@ -838,6 +839,27 @@
 #### [Table 6.1.15](data/final-report-tables/chapter-6/6.1.15-Distribution-of-Population-by-Religion-and-District,-2024) - Distribution of Population by Religion and District, 2024
 #### [Table 6.2.1](data/final-report-tables/chapter-6/6.2.1-Distribution-of-the-Population-Aged-5-Years-and-Over-by-Level-of-Physical-and-Mental-Difficulties-for-EachFunctional-Domain,-2024) - Distribution of the Population Aged 5 Years and Over by Level of Physical and Mental Difficulties for EachFunctional Domain, 2024
 #### [Table 6.2.2](data/final-report-tables/chapter-6/6.2.2-Distribution-of-Persons-Aged-5-Years-and-Over-with-Physical-and-Mental-Difficulties-by-District-and-Difficulties,2024) - Distribution of Persons Aged 5 Years and Over with Physical and Mental Difficulties by District and Difficulties,2024
+##### Example Data Row (JSON)
+
+```json
+{
+    "region_id": "LK-11",
+    "region_name": "Colombo",
+    "region_ent_type": "district",
+    "values": {
+        "difficulty_in_seeing": 152592,
+        "difficulty_in_hearing": 59508,
+        "difficulty_in_walking_or_climbing_steps": 150614,
+        "difficulty_in_remembering_or_concentrating": 69279,
+        "difficulty_in_selfcare_such_as_washing_or_dressing": 55244,
+        "difficulty_in_communicating_with_others": 40731,
+        "difficulty_in_communicating_with_others_rate_per_1000_persons": 18,
+        "no_disability": 1743304
+    },
+    "total_value": 2271290
+}
+```
+
 #### [Table 6.2.3](data/final-report-tables/chapter-6/6.2.3-Distribution-of-Persons-Aged-5-Years-and-Over-with-Physical-and-Mental-Difficulties-by-Age-Group-andDifficulties,-2024) - Distribution of Persons Aged 5 Years and Over with Physical and Mental Difficulties by Age Group andDifficulties, 2024
 #### [Table 6.2.4](data/final-report-tables/chapter-6/6.2.4-Distribution-of-Persons-Aged-5-Years-and-Over-with-Disabilities-by-Sex-and-Domain-of-Disability,-2024) - Distribution of Persons Aged 5 Years and Over with Disabilities by Sex and Domain of Disability, 2024
 #### [Table 6.2.5](data/final-report-tables/chapter-6/6.2.5-Distribution-of-Persons-Aged-5-Years-and-Over-with-Disabilities-by-Sector-and-Domain-of-Disability,-2024) - Distribution of Persons Aged 5 Years and Over with Disabilities by Sector and Domain of Disability, 2024
