@@ -2,6 +2,8 @@ import os
 
 from lk_census.final_report.FinalReportConstants import FinalReportConstants
 from lk_census.final_report.FinalReportTableBase import FinalReportTableBase
+from lk_census.final_report.FinalReportTableDataMixin import \
+    FinalReportTableDataMixin
 from lk_census.final_report.FinalReportTablePDFMixin import \
     FinalReportTablePDFMixin
 from lk_census.final_report.FinalReportTableRawDataMixin import \
@@ -15,6 +17,7 @@ class FinalReportTable(
     FinalReportTableBase,
     FinalReportTablePDFMixin,
     FinalReportTableRawDataMixin,
+    FinalReportTableDataMixin,
 ):
 
     @property
@@ -42,5 +45,6 @@ class FinalReportTable(
         return [cls.from_dict(d) for d in d_list]
 
     def build(self):
-        self.build_original_pdf()
-        self.build_raw_data()
+        # self.build_original_pdf()
+        # self.build_raw_data()
+        self.build_data()

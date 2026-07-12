@@ -17,3 +17,10 @@ class FinalReportTableRawDataMixin:
             log.info(f"Wrote {self.raw_data_file}")
         except Exception as e:
             log.error(f"Failed to build raw data for {self}: {e}")
+
+    @property
+    def raw_data_list(self):
+        if not self.raw_data_file.exists:
+            return None
+
+        return self.raw_data_file.read()

@@ -12,6 +12,7 @@ class XLSXDataTableAllDataMixin:
     def all_data_file(self):
         return JSONFile(os.path.join(self.dir_table, "data.json"))
 
+    # flake8: noqa: CFQ001, C901
     def build_all_data_json(self):
         if self.all_data_file.exists:
             log.debug(f"{self.all_data_file} exists.")

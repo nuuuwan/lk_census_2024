@@ -14,3 +14,9 @@ class FinalReportTableBase:
     @property
     def table_id(self):
         return f"{self.table_num}-{self.table_name.replace(' ', '-')}"
+
+    def __str__(self):
+        return f"FinalReportTable({self.table_id})"
+
+    def __repr__(self):
+        return str(self)
