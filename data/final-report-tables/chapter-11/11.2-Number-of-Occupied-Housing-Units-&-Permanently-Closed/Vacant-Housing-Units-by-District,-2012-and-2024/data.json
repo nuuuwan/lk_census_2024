@@ -1,0 +1,629 @@
+[
+  {
+    "region_id": "LK-11",
+    "region_name": "Colombo",
+    "region_ent_type": "district",
+    "values": {
+      "occupied_2012": 562550,
+      "permanently_closed_or_vacant_2012": 78052,
+      "occupied_2024": 654051,
+      "permanently_closed_or_vacant_2024": 113837
+    }
+  },
+  {
+    "region_id": "LK-12",
+    "region_name": "Gampaha",
+    "region_ent_type": "district",
+    "values": {
+      "occupied_2012": 598674,
+      "permanently_closed_or_vacant_2012": 65355,
+      "occupied_2024": 683025,
+      "permanently_closed_or_vacant_2024": 102557
+    }
+  },
+  {
+    "region_id": "LK-13",
+    "region_name": "Kalutara",
+    "region_ent_type": "district",
+    "values": {
+      "occupied_2012": 302371,
+      "permanently_closed_or_vacant_2012": 35199,
+      "occupied_2024": 349430,
+      "permanently_closed_or_vacant_2024": 45678
+    }
+  },
+  {
+    "region_id": "LK-21",
+    "region_name": "Kandy",
+    "region_ent_type": "district",
+    "values": {
+      "occupied_2012": 342911,
+      "permanently_closed_or_vacant_2012": 41803,
+      "occupied_2024": 389826,
+      "permanently_closed_or_vacant_2024": 53787
+    }
+  },
+  {
+    "region_id": "LK-22",
+    "region_name": "Matale",
+    "region_ent_type": "district",
+    "values": {
+      "occupied_2012": 128090,
+      "permanently_closed_or_vacant_2012": 16001,
+      "occupied_2024": 148184,
+      "permanently_closed_or_vacant_2024": 21617
+    }
+  },
+  {
+    "region_id": "LK-23",
+    "region_name": "Nuwara Eliya",
+    "region_ent_type": "district",
+    "values": {
+      "occupied_2012": 178440,
+      "permanently_closed_or_vacant_2012": 21627,
+      "occupied_2024": 192915,
+      "permanently_closed_or_vacant_2024": 28387
+    }
+  },
+  {
+    "region_id": "LK-31",
+    "region_name": "Galle",
+    "region_ent_type": "district",
+    "values": {
+      "occupied_2012": 271236,
+      "permanently_closed_or_vacant_2012": 42176,
+      "occupied_2024": 305379,
+      "permanently_closed_or_vacant_2024": 43462
+    }
+  },
+  {
+    "region_id": "LK-32",
+    "region_name": "Matara",
+    "region_ent_type": "district",
+    "values": {
+      "occupied_2012": 205153,
+      "permanently_closed_or_vacant_2012": 29209,
+      "occupied_2024": 230034,
+      "permanently_closed_or_vacant_2024": 33039
+    }
+  },
+  {
+    "region_id": "LK-33",
+    "region_name": "Hambantota",
+    "region_ent_type": "district",
+    "values": {
+      "occupied_2012": 155716,
+      "permanently_closed_or_vacant_2012": 24223,
+      "occupied_2024": 187558,
+      "permanently_closed_or_vacant_2024": 29971
+    }
+  },
+  {
+    "region_id": "LK-41",
+    "region_name": "Jaffna",
+    "region_ent_type": "district",
+    "values": {
+      "occupied_2012": 136969,
+      "permanently_closed_or_vacant_2012": 21364,
+      "occupied_2024": 156797,
+      "permanently_closed_or_vacant_2024": 34718
+    }
+  },
+  {
+    "region_id": "LK-42",
+    "region_name": "Mannar",
+    "region_ent_type": "district",
+    "values": {
+      "occupied_2012": 23338,
+      "permanently_closed_or_vacant_2012": 4352,
+      "occupied_2024": 32005,
+      "permanently_closed_or_vacant_2024": 7477
+    }
+  },
+  {
+    "region_id": "LK-43",
+    "region_name": "Vavuniya",
+    "region_ent_type": "district",
+    "values": {
+      "occupied_2012": 41436,
+      "permanently_closed_or_vacant_2012": 6244,
+      "occupied_2024": 47825,
+      "permanently_closed_or_vacant_2024": 11141
+    }
+  },
+  {
+    "region_id": "LK-44",
+    "region_name": "Mullaitivu",
+    "region_ent_type": "district",
+    "values": {
+      "occupied_2012": 24684,
+      "permanently_closed_or_vacant_2012": 3901,
+      "occupied_2024": 34348,
+      "permanently_closed_or_vacant_2024": 7128
+    }
+  },
+  {
+    "region_id": "LK-45",
+    "region_name": "Kilinochchi",
+    "region_ent_type": "district",
+    "values": {
+      "occupied_2012": 28208,
+      "permanently_closed_or_vacant_2012": 3387,
+      "occupied_2024": 36484,
+      "permanently_closed_or_vacant_2024": 6533
+    }
+  },
+  {
+    "region_id": "LK-51",
+    "region_name": "Batticaloa",
+    "region_ent_type": "district",
+    "values": {
+      "occupied_2012": 133436,
+      "permanently_closed_or_vacant_2012": 20866,
+      "occupied_2024": 167150,
+      "permanently_closed_or_vacant_2024": 23788
+    }
+  },
+  {
+    "region_id": "LK-52",
+    "region_name": "Ampara",
+    "region_ent_type": "district",
+    "values": {
+      "occupied_2012": 163243,
+      "permanently_closed_or_vacant_2012": 23530,
+      "occupied_2024": 202861,
+      "permanently_closed_or_vacant_2024": 27002
+    }
+  },
+  {
+    "region_id": "LK-53",
+    "region_name": "Trincomalee",
+    "region_ent_type": "district",
+    "values": {
+      "occupied_2012": 95679,
+      "permanently_closed_or_vacant_2012": 16957,
+      "occupied_2024": 119351,
+      "permanently_closed_or_vacant_2024": 17885
+    }
+  },
+  {
+    "region_id": "LK-61",
+    "region_name": "Kurunegala",
+    "region_ent_type": "district",
+    "values": {
+      "occupied_2012": 440517,
+      "permanently_closed_or_vacant_2012": 51817,
+      "occupied_2024": 506909,
+      "permanently_closed_or_vacant_2024": 67480
+    }
+  },
+  {
+    "region_id": "LK-62",
+    "region_name": "Puttalam",
+    "region_ent_type": "district",
+    "values": {
+      "occupied_2012": 201364,
+      "permanently_closed_or_vacant_2012": 31195,
+      "occupied_2024": 231494,
+      "permanently_closed_or_vacant_2024": 41358
+    }
+  },
+  {
+    "region_id": "LK-71",
+    "region_name": "Anuradhapura",
+    "region_ent_type": "district",
+    "values": {
+      "occupied_2012": 229032,
+      "permanently_closed_or_vacant_2012": 25307,
+      "occupied_2024": 271408,
+      "permanently_closed_or_vacant_2024": 37842
+    }
+  },
+  {
+    "region_id": "LK-72",
+    "region_name": "Polonnaruwa",
+    "region_ent_type": "district",
+    "values": {
+      "occupied_2012": 110326,
+      "permanently_closed_or_vacant_2012": 13556,
+      "occupied_2024": 126482,
+      "permanently_closed_or_vacant_2024": 17291
+    }
+  },
+  {
+    "region_id": "LK-81",
+    "region_name": "Badulla",
+    "region_ent_type": "district",
+    "values": {
+      "occupied_2012": 211178,
+      "permanently_closed_or_vacant_2012": 24766,
+      "occupied_2024": 239417,
+      "permanently_closed_or_vacant_2024": 30525
+    }
+  },
+  {
+    "region_id": "LK-82",
+    "region_name": "Monaragala",
+    "region_ent_type": "district",
+    "values": {
+      "occupied_2012": 119503,
+      "permanently_closed_or_vacant_2012": 18765,
+      "occupied_2024": 150728,
+      "permanently_closed_or_vacant_2024": 22206
+    }
+  },
+  {
+    "region_id": "LK-91",
+    "region_name": "Ratnapura",
+    "region_ent_type": "district",
+    "values": {
+      "occupied_2012": 284282,
+      "permanently_closed_or_vacant_2012": 41887,
+      "occupied_2024": 324853,
+      "permanently_closed_or_vacant_2024": 42866
+    }
+  },
+  {
+    "region_id": "LK-92",
+    "region_name": "Kegalle",
+    "region_ent_type": "district",
+    "values": {
+      "occupied_2012": 219404,
+      "permanently_closed_or_vacant_2012": 24971,
+      "occupied_2024": 242027,
+      "permanently_closed_or_vacant_2024": 30526
+    }
+  },
+  {
+    "region_id": "LK",
+    "region_name": "Sri Lanka",
+    "region_ent_type": "country",
+    "values": {
+      "occupied_2012": 5207740,
+      "permanently_closed_or_vacant_2012": 686510,
+      "occupied_2024": 6030541,
+      "permanently_closed_or_vacant_2024": 898101
+    }
+  },
+  {
+    "region_id": "LK-1",
+    "region_name": "Western",
+    "region_ent_type": "province",
+    "values": {
+      "occupied_2012": 1463595,
+      "permanently_closed_or_vacant_2012": 178606,
+      "occupied_2024": 1686506,
+      "permanently_closed_or_vacant_2024": 262072
+    }
+  },
+  {
+    "region_id": "LK-2",
+    "region_name": "Central",
+    "region_ent_type": "province",
+    "values": {
+      "occupied_2012": 649441,
+      "permanently_closed_or_vacant_2012": 79431,
+      "occupied_2024": 730925,
+      "permanently_closed_or_vacant_2024": 103791
+    }
+  },
+  {
+    "region_id": "LK-3",
+    "region_name": "Southern",
+    "region_ent_type": "province",
+    "values": {
+      "occupied_2012": 632105,
+      "permanently_closed_or_vacant_2012": 95608,
+      "occupied_2024": 722971,
+      "permanently_closed_or_vacant_2024": 106472
+    }
+  },
+  {
+    "region_id": "LK-4",
+    "region_name": "Northern",
+    "region_ent_type": "province",
+    "values": {
+      "occupied_2012": 254635,
+      "permanently_closed_or_vacant_2012": 39248,
+      "occupied_2024": 307459,
+      "permanently_closed_or_vacant_2024": 66997
+    }
+  },
+  {
+    "region_id": "LK-5",
+    "region_name": "Eastern",
+    "region_ent_type": "province",
+    "values": {
+      "occupied_2012": 392358,
+      "permanently_closed_or_vacant_2012": 61353,
+      "occupied_2024": 489362,
+      "permanently_closed_or_vacant_2024": 68675
+    }
+  },
+  {
+    "region_id": "LK-6",
+    "region_name": "North Western",
+    "region_ent_type": "province",
+    "values": {
+      "occupied_2012": 641881,
+      "permanently_closed_or_vacant_2012": 83012,
+      "occupied_2024": 738403,
+      "permanently_closed_or_vacant_2024": 108838
+    }
+  },
+  {
+    "region_id": "LK-7",
+    "region_name": "North Central",
+    "region_ent_type": "province",
+    "values": {
+      "occupied_2012": 339358,
+      "permanently_closed_or_vacant_2012": 38863,
+      "occupied_2024": 397890,
+      "permanently_closed_or_vacant_2024": 55133
+    }
+  },
+  {
+    "region_id": "LK-8",
+    "region_name": "Uva",
+    "region_ent_type": "province",
+    "values": {
+      "occupied_2012": 330681,
+      "permanently_closed_or_vacant_2012": 43531,
+      "occupied_2024": 390145,
+      "permanently_closed_or_vacant_2024": 52731
+    }
+  },
+  {
+    "region_id": "LK-9",
+    "region_name": "Sabaragamuwa",
+    "region_ent_type": "province",
+    "values": {
+      "occupied_2012": 503686,
+      "permanently_closed_or_vacant_2012": 66858,
+      "occupied_2024": 566880,
+      "permanently_closed_or_vacant_2024": 73392
+    }
+  },
+  {
+    "region_id": "EC-01",
+    "region_name": "Colombo",
+    "region_ent_type": "ed",
+    "values": {
+      "occupied_2012": 562550,
+      "permanently_closed_or_vacant_2012": 78052,
+      "occupied_2024": 654051,
+      "permanently_closed_or_vacant_2024": 113837
+    }
+  },
+  {
+    "region_id": "EC-02",
+    "region_name": "Gampaha",
+    "region_ent_type": "ed",
+    "values": {
+      "occupied_2012": 598674,
+      "permanently_closed_or_vacant_2012": 65355,
+      "occupied_2024": 683025,
+      "permanently_closed_or_vacant_2024": 102557
+    }
+  },
+  {
+    "region_id": "EC-03",
+    "region_name": "Kalutara",
+    "region_ent_type": "ed",
+    "values": {
+      "occupied_2012": 302371,
+      "permanently_closed_or_vacant_2012": 35199,
+      "occupied_2024": 349430,
+      "permanently_closed_or_vacant_2024": 45678
+    }
+  },
+  {
+    "region_id": "EC-04",
+    "region_name": "Kandy",
+    "region_ent_type": "ed",
+    "values": {
+      "occupied_2012": 342911,
+      "permanently_closed_or_vacant_2012": 41803,
+      "occupied_2024": 389826,
+      "permanently_closed_or_vacant_2024": 53787
+    }
+  },
+  {
+    "region_id": "EC-05",
+    "region_name": "Matale",
+    "region_ent_type": "ed",
+    "values": {
+      "occupied_2012": 128090,
+      "permanently_closed_or_vacant_2012": 16001,
+      "occupied_2024": 148184,
+      "permanently_closed_or_vacant_2024": 21617
+    }
+  },
+  {
+    "region_id": "EC-06",
+    "region_name": "Nuwara-Eliya",
+    "region_ent_type": "ed",
+    "values": {
+      "occupied_2012": 178440,
+      "permanently_closed_or_vacant_2012": 21627,
+      "occupied_2024": 192915,
+      "permanently_closed_or_vacant_2024": 28387
+    }
+  },
+  {
+    "region_id": "EC-07",
+    "region_name": "Galle",
+    "region_ent_type": "ed",
+    "values": {
+      "occupied_2012": 271236,
+      "permanently_closed_or_vacant_2012": 42176,
+      "occupied_2024": 305379,
+      "permanently_closed_or_vacant_2024": 43462
+    }
+  },
+  {
+    "region_id": "EC-08",
+    "region_name": "Matara",
+    "region_ent_type": "ed",
+    "values": {
+      "occupied_2012": 205153,
+      "permanently_closed_or_vacant_2012": 29209,
+      "occupied_2024": 230034,
+      "permanently_closed_or_vacant_2024": 33039
+    }
+  },
+  {
+    "region_id": "EC-09",
+    "region_name": "Hambantota",
+    "region_ent_type": "ed",
+    "values": {
+      "occupied_2012": 155716,
+      "permanently_closed_or_vacant_2012": 24223,
+      "occupied_2024": 187558,
+      "permanently_closed_or_vacant_2024": 29971
+    }
+  },
+  {
+    "region_id": "EC-10",
+    "region_name": "Jaffna",
+    "region_ent_type": "ed",
+    "values": {
+      "occupied_2012": 165177,
+      "permanently_closed_or_vacant_2012": 24751,
+      "occupied_2024": 193281,
+      "permanently_closed_or_vacant_2024": 41251
+    }
+  },
+  {
+    "region_id": "EC-11",
+    "region_name": "Vanni",
+    "region_ent_type": "ed",
+    "values": {
+      "occupied_2012": 89458,
+      "permanently_closed_or_vacant_2012": 14497,
+      "occupied_2024": 114178,
+      "permanently_closed_or_vacant_2024": 25746
+    }
+  },
+  {
+    "region_id": "EC-12",
+    "region_name": "Batticaloa",
+    "region_ent_type": "ed",
+    "values": {
+      "occupied_2012": 133436,
+      "permanently_closed_or_vacant_2012": 20866,
+      "occupied_2024": 167150,
+      "permanently_closed_or_vacant_2024": 23788
+    }
+  },
+  {
+    "region_id": "EC-13",
+    "region_name": "Digamadulla",
+    "region_ent_type": "ed",
+    "values": {
+      "occupied_2012": 163243,
+      "permanently_closed_or_vacant_2012": 23530,
+      "occupied_2024": 202861,
+      "permanently_closed_or_vacant_2024": 27002
+    }
+  },
+  {
+    "region_id": "EC-14",
+    "region_name": "Trincomalee",
+    "region_ent_type": "ed",
+    "values": {
+      "occupied_2012": 95679,
+      "permanently_closed_or_vacant_2012": 16957,
+      "occupied_2024": 119351,
+      "permanently_closed_or_vacant_2024": 17885
+    }
+  },
+  {
+    "region_id": "EC-15",
+    "region_name": "Kurunegala",
+    "region_ent_type": "ed",
+    "values": {
+      "occupied_2012": 440517,
+      "permanently_closed_or_vacant_2012": 51817,
+      "occupied_2024": 506909,
+      "permanently_closed_or_vacant_2024": 67480
+    }
+  },
+  {
+    "region_id": "EC-16",
+    "region_name": "Puttalam",
+    "region_ent_type": "ed",
+    "values": {
+      "occupied_2012": 201364,
+      "permanently_closed_or_vacant_2012": 31195,
+      "occupied_2024": 231494,
+      "permanently_closed_or_vacant_2024": 41358
+    }
+  },
+  {
+    "region_id": "EC-17",
+    "region_name": "Anuradhapura",
+    "region_ent_type": "ed",
+    "values": {
+      "occupied_2012": 229032,
+      "permanently_closed_or_vacant_2012": 25307,
+      "occupied_2024": 271408,
+      "permanently_closed_or_vacant_2024": 37842
+    }
+  },
+  {
+    "region_id": "EC-18",
+    "region_name": "Polonnaruwa",
+    "region_ent_type": "ed",
+    "values": {
+      "occupied_2012": 110326,
+      "permanently_closed_or_vacant_2012": 13556,
+      "occupied_2024": 126482,
+      "permanently_closed_or_vacant_2024": 17291
+    }
+  },
+  {
+    "region_id": "EC-19",
+    "region_name": "Badulla",
+    "region_ent_type": "ed",
+    "values": {
+      "occupied_2012": 211178,
+      "permanently_closed_or_vacant_2012": 24766,
+      "occupied_2024": 239417,
+      "permanently_closed_or_vacant_2024": 30525
+    }
+  },
+  {
+    "region_id": "EC-20",
+    "region_name": "Moneragala",
+    "region_ent_type": "ed",
+    "values": {
+      "occupied_2012": 119503,
+      "permanently_closed_or_vacant_2012": 18765,
+      "occupied_2024": 150728,
+      "permanently_closed_or_vacant_2024": 22206
+    }
+  },
+  {
+    "region_id": "EC-21",
+    "region_name": "Ratnapura",
+    "region_ent_type": "ed",
+    "values": {
+      "occupied_2012": 284282,
+      "permanently_closed_or_vacant_2012": 41887,
+      "occupied_2024": 324853,
+      "permanently_closed_or_vacant_2024": 42866
+    }
+  },
+  {
+    "region_id": "EC-22",
+    "region_name": "Kegalle",
+    "region_ent_type": "ed",
+    "values": {
+      "occupied_2012": 219404,
+      "permanently_closed_or_vacant_2012": 24971,
+      "occupied_2024": 242027,
+      "permanently_closed_or_vacant_2024": 30526
+    }
+  }
+]
