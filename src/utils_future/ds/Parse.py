@@ -20,6 +20,8 @@ class Parse:
 
     @staticmethod
     def float(x) -> float:
+        if x == "-":
+            return 0
         try:
             return round(float(Parse._clean_(x)), Parse.PRECISION_FLOAT)
         except ValueError:
@@ -28,6 +30,8 @@ class Parse:
     @staticmethod
     def percent(x) -> float:
         x = str(x)
+        if x == "-":
+            return 0
         x = x.replace("%", "")
         try:
             return round(
