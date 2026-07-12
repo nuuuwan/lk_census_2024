@@ -1,0 +1,971 @@
+[
+  {
+    "region_id": "LK-11",
+    "region_name": "Colombo",
+    "region_ent_type": "district",
+    "values": {
+      "marriage": 132442,
+      "employment_searching_for_job": 196325,
+      "education": 61287,
+      "accompanied_a_family_member": 90372,
+      "returning_for_permanent_residence": 28046,
+      "development_projects": 519,
+      "resettled_after_displacement": 519,
+      "a_disaster_a_displaced_happened_in_the_prior_place": 2078,
+      "other": 7271
+    },
+    "total_value": 518859
+  },
+  {
+    "region_id": "LK-12",
+    "region_name": "Gampaha",
+    "region_ent_type": "district",
+    "values": {
+      "marriage": 183133,
+      "employment_searching_for_job": 136956,
+      "education": 22564,
+      "accompanied_a_family_member": 99700,
+      "returning_for_permanent_residence": 67166,
+      "development_projects": 1049,
+      "resettled_after_displacement": 1049,
+      "a_disaster_a_displaced_happened_in_the_prior_place": 3148,
+      "other": 9445
+    },
+    "total_value": 524210
+  },
+  {
+    "region_id": "LK-13",
+    "region_name": "Kalutara",
+    "region_ent_type": "district",
+    "values": {
+      "marriage": 82918,
+      "employment_searching_for_job": 21790,
+      "education": 6556,
+      "accompanied_a_family_member": 33360,
+      "returning_for_permanent_residence": 37988,
+      "development_projects": 193,
+      "resettled_after_displacement": 964,
+      "a_disaster_a_displaced_happened_in_the_prior_place": 2121,
+      "other": 6942
+    },
+    "total_value": 192832
+  },
+  {
+    "region_id": "LK-21",
+    "region_name": "Kandy",
+    "region_ent_type": "district",
+    "values": {
+      "marriage": 87107,
+      "employment_searching_for_job": 16731,
+      "education": 18456,
+      "accompanied_a_family_member": 27081,
+      "returning_for_permanent_residence": 17939,
+      "development_projects": 172,
+      "resettled_after_displacement": 345,
+      "a_disaster_a_displaced_happened_in_the_prior_place": 862,
+      "other": 3622
+    },
+    "total_value": 172315
+  },
+  {
+    "region_id": "LK-22",
+    "region_name": "Matale",
+    "region_ent_type": "district",
+    "values": {
+      "marriage": 47447,
+      "employment_searching_for_job": 7121,
+      "education": 2567,
+      "accompanied_a_family_member": 13414,
+      "returning_for_permanent_residence": 9109,
+      "development_projects": 414,
+      "resettled_after_displacement": 414,
+      "a_disaster_a_displaced_happened_in_the_prior_place": 745,
+      "other": 1490
+    },
+    "total_value": 82721
+  },
+  {
+    "region_id": "LK-23",
+    "region_name": "Nuwara Eliya",
+    "region_ent_type": "district",
+    "values": {
+      "marriage": 36317,
+      "employment_searching_for_job": 6215,
+      "education": 2133,
+      "accompanied_a_family_member": 10176,
+      "returning_for_permanent_residence": 3412,
+      "development_projects": 305,
+      "resettled_after_displacement": 792,
+      "a_disaster_a_displaced_happened_in_the_prior_place": 853,
+      "other": 731
+    },
+    "total_value": 60934
+  },
+  {
+    "region_id": "LK-31",
+    "region_name": "Galle",
+    "region_ent_type": "district",
+    "values": {
+      "marriage": 54428,
+      "employment_searching_for_job": 9801,
+      "education": 5519,
+      "accompanied_a_family_member": 13131,
+      "returning_for_permanent_residence": 8374,
+      "development_projects": 0,
+      "resettled_after_displacement": 190,
+      "a_disaster_a_displaced_happened_in_the_prior_place": 476,
+      "other": 3140
+    },
+    "total_value": 95059
+  },
+  {
+    "region_id": "LK-32",
+    "region_name": "Matara",
+    "region_ent_type": "district",
+    "values": {
+      "marriage": 52585,
+      "employment_searching_for_job": 6621,
+      "education": 8540,
+      "accompanied_a_family_member": 11803,
+      "returning_for_permanent_residence": 13530,
+      "development_projects": 0,
+      "resettled_after_displacement": 192,
+      "a_disaster_a_displaced_happened_in_the_prior_place": 576,
+      "other": 2111
+    },
+    "total_value": 95958
+  },
+  {
+    "region_id": "LK-33",
+    "region_name": "Hambantota",
+    "region_ent_type": "district",
+    "values": {
+      "marriage": 42853,
+      "employment_searching_for_job": 5148,
+      "education": 1600,
+      "accompanied_a_family_member": 8765,
+      "returning_for_permanent_residence": 6887,
+      "development_projects": 626,
+      "resettled_after_displacement": 209,
+      "a_disaster_a_displaced_happened_in_the_prior_place": 557,
+      "other": 2991
+    },
+    "total_value": 69636
+  },
+  {
+    "region_id": "LK-41",
+    "region_name": "Jaffna",
+    "region_ent_type": "district",
+    "values": {
+      "marriage": 3481,
+      "employment_searching_for_job": 3130,
+      "education": 5880,
+      "accompanied_a_family_member": 3774,
+      "returning_for_permanent_residence": 6260,
+      "development_projects": 0,
+      "resettled_after_displacement": 6143,
+      "a_disaster_a_displaced_happened_in_the_prior_place": 176,
+      "other": 380
+    },
+    "total_value": 29224
+  },
+  {
+    "region_id": "LK-42",
+    "region_name": "Mannar",
+    "region_ent_type": "district",
+    "values": {
+      "marriage": 3454,
+      "employment_searching_for_job": 1196,
+      "education": 316,
+      "accompanied_a_family_member": 2889,
+      "returning_for_permanent_residence": 2551,
+      "development_projects": 23,
+      "resettled_after_displacement": 10947,
+      "a_disaster_a_displaced_happened_in_the_prior_place": 1129,
+      "other": 90
+    },
+    "total_value": 22595
+  },
+  {
+    "region_id": "LK-43",
+    "region_name": "Vavuniya",
+    "region_ent_type": "district",
+    "values": {
+      "marriage": 9040,
+      "employment_searching_for_job": 4735,
+      "education": 2583,
+      "accompanied_a_family_member": 9126,
+      "returning_for_permanent_residence": 2841,
+      "development_projects": 732,
+      "resettled_after_displacement": 7576,
+      "a_disaster_a_displaced_happened_in_the_prior_place": 6156,
+      "other": 301
+    },
+    "total_value": 43090
+  },
+  {
+    "region_id": "LK-44",
+    "region_name": "Mullaitivu",
+    "region_ent_type": "district",
+    "values": {
+      "marriage": 7445,
+      "employment_searching_for_job": 3171,
+      "education": 634,
+      "accompanied_a_family_member": 5377,
+      "returning_for_permanent_residence": 2454,
+      "development_projects": 1930,
+      "resettled_after_displacement": 2868,
+      "a_disaster_a_displaced_happened_in_the_prior_place": 3391,
+      "other": 303
+    },
+    "total_value": 27573
+  },
+  {
+    "region_id": "LK-45",
+    "region_name": "Kilinochchi",
+    "region_ent_type": "district",
+    "values": {
+      "marriage": 6419,
+      "employment_searching_for_job": 3184,
+      "education": 2426,
+      "accompanied_a_family_member": 5661,
+      "returning_for_permanent_residence": 3083,
+      "development_projects": 202,
+      "resettled_after_displacement": 25626,
+      "a_disaster_a_displaced_happened_in_the_prior_place": 3690,
+      "other": 202
+    },
+    "total_value": 50493
+  },
+  {
+    "region_id": "LK-51",
+    "region_name": "Batticaloa",
+    "region_ent_type": "district",
+    "values": {
+      "marriage": 6037,
+      "employment_searching_for_job": 2713,
+      "education": 5303,
+      "accompanied_a_family_member": 3304,
+      "returning_for_permanent_residence": 1509,
+      "development_projects": 41,
+      "resettled_after_displacement": 489,
+      "a_disaster_a_displaced_happened_in_the_prior_place": 775,
+      "other": 224
+    },
+    "total_value": 20395
+  },
+  {
+    "region_id": "LK-52",
+    "region_name": "Ampara",
+    "region_ent_type": "district",
+    "values": {
+      "marriage": 26836,
+      "employment_searching_for_job": 6422,
+      "education": 6575,
+      "accompanied_a_family_member": 11010,
+      "returning_for_permanent_residence": 11392,
+      "development_projects": 10857,
+      "resettled_after_displacement": 841,
+      "a_disaster_a_displaced_happened_in_the_prior_place": 1606,
+      "other": 917
+    },
+    "total_value": 76456
+  },
+  {
+    "region_id": "LK-53",
+    "region_name": "Trincomalee",
+    "region_ent_type": "district",
+    "values": {
+      "marriage": 14066,
+      "employment_searching_for_job": 4512,
+      "education": 2432,
+      "accompanied_a_family_member": 8390,
+      "returning_for_permanent_residence": 2538,
+      "development_projects": 494,
+      "resettled_after_displacement": 1727,
+      "a_disaster_a_displaced_happened_in_the_prior_place": 740,
+      "other": 353
+    },
+    "total_value": 35252
+  },
+  {
+    "region_id": "LK-61",
+    "region_name": "Kurunegala",
+    "region_ent_type": "district",
+    "values": {
+      "marriage": 111928,
+      "employment_searching_for_job": 20743,
+      "education": 11912,
+      "accompanied_a_family_member": 32860,
+      "returning_for_permanent_residence": 19100,
+      "development_projects": 616,
+      "resettled_after_displacement": 616,
+      "a_disaster_a_displaced_happened_in_the_prior_place": 1643,
+      "other": 5956
+    },
+    "total_value": 205374
+  },
+  {
+    "region_id": "LK-62",
+    "region_name": "Puttalam",
+    "region_ent_type": "district",
+    "values": {
+      "marriage": 42852,
+      "employment_searching_for_job": 15535,
+      "education": 2815,
+      "accompanied_a_family_member": 18663,
+      "returning_for_permanent_residence": 7298,
+      "development_projects": 626,
+      "resettled_after_displacement": 7924,
+      "a_disaster_a_displaced_happened_in_the_prior_place": 6464,
+      "other": 2085
+    },
+    "total_value": 104262
+  },
+  {
+    "region_id": "LK-71",
+    "region_name": "Anuradhapura",
+    "region_ent_type": "district",
+    "values": {
+      "marriage": 69505,
+      "employment_searching_for_job": 14269,
+      "education": 9973,
+      "accompanied_a_family_member": 29152,
+      "returning_for_permanent_residence": 14576,
+      "development_projects": 7365,
+      "resettled_after_displacement": 2148,
+      "a_disaster_a_displaced_happened_in_the_prior_place": 2301,
+      "other": 3836
+    },
+    "total_value": 153125
+  },
+  {
+    "region_id": "LK-72",
+    "region_name": "Polonnaruwa",
+    "region_ent_type": "district",
+    "values": {
+      "marriage": 40035,
+      "employment_searching_for_job": 8469,
+      "education": 2021,
+      "accompanied_a_family_member": 17130,
+      "returning_for_permanent_residence": 13666,
+      "development_projects": 11452,
+      "resettled_after_displacement": 674,
+      "a_disaster_a_displaced_happened_in_the_prior_place": 1251,
+      "other": 1636
+    },
+    "total_value": 96334
+  },
+  {
+    "region_id": "LK-81",
+    "region_name": "Badulla",
+    "region_ent_type": "district",
+    "values": {
+      "marriage": 44068,
+      "employment_searching_for_job": 6895,
+      "education": 6445,
+      "accompanied_a_family_member": 9368,
+      "returning_for_permanent_residence": 5471,
+      "development_projects": 525,
+      "resettled_after_displacement": 150,
+      "a_disaster_a_displaced_happened_in_the_prior_place": 375,
+      "other": 1649
+    },
+    "total_value": 74946
+  },
+  {
+    "region_id": "LK-82",
+    "region_name": "Monaragala",
+    "region_ent_type": "district",
+    "values": {
+      "marriage": 44721,
+      "employment_searching_for_job": 10563,
+      "education": 2044,
+      "accompanied_a_family_member": 13289,
+      "returning_for_permanent_residence": 10903,
+      "development_projects": 1107,
+      "resettled_after_displacement": 170,
+      "a_disaster_a_displaced_happened_in_the_prior_place": 681,
+      "other": 1704
+    },
+    "total_value": 85182
+  },
+  {
+    "region_id": "LK-91",
+    "region_name": "Ratnapura",
+    "region_ent_type": "district",
+    "values": {
+      "marriage": 53046,
+      "employment_searching_for_job": 10341,
+      "education": 5554,
+      "accompanied_a_family_member": 14075,
+      "returning_for_permanent_residence": 8905,
+      "development_projects": 192,
+      "resettled_after_displacement": 192,
+      "a_disaster_a_displaced_happened_in_the_prior_place": 479,
+      "other": 3064
+    },
+    "total_value": 95848
+  },
+  {
+    "region_id": "LK-92",
+    "region_name": "Kegalle",
+    "region_ent_type": "district",
+    "values": {
+      "marriage": 67364,
+      "employment_searching_for_job": 7043,
+      "education": 3879,
+      "accompanied_a_family_member": 12656,
+      "returning_for_permanent_residence": 7961,
+      "development_projects": 0,
+      "resettled_after_displacement": 102,
+      "a_disaster_a_displaced_happened_in_the_prior_place": 510,
+      "other": 2552
+    },
+    "total_value": 102067
+  },
+  {
+    "region_id": "LK",
+    "region_name": "Sri Lanka",
+    "region_ent_type": "country",
+    "values": {
+      "marriage": 1269527,
+      "employment_searching_for_job": 529629,
+      "education": 200014,
+      "accompanied_a_family_member": 504526,
+      "returning_for_permanent_residence": 312959,
+      "development_projects": 39440,
+      "resettled_after_displacement": 72867,
+      "a_disaster_a_displaced_happened_in_the_prior_place": 42783,
+      "other": 62995
+    },
+    "total_value": 3034740
+  },
+  {
+    "region_id": "LK-1",
+    "region_name": "Western",
+    "region_ent_type": "province",
+    "values": {
+      "marriage": 398493,
+      "employment_searching_for_job": 355071,
+      "education": 90407,
+      "accompanied_a_family_member": 223432,
+      "returning_for_permanent_residence": 133200,
+      "development_projects": 1761,
+      "resettled_after_displacement": 2532,
+      "a_disaster_a_displaced_happened_in_the_prior_place": 7347,
+      "other": 23658
+    },
+    "total_value": 1235901
+  },
+  {
+    "region_id": "LK-2",
+    "region_name": "Central",
+    "region_ent_type": "province",
+    "values": {
+      "marriage": 170871,
+      "employment_searching_for_job": 30067,
+      "education": 23156,
+      "accompanied_a_family_member": 50671,
+      "returning_for_permanent_residence": 30460,
+      "development_projects": 891,
+      "resettled_after_displacement": 1551,
+      "a_disaster_a_displaced_happened_in_the_prior_place": 2460,
+      "other": 5843
+    },
+    "total_value": 315970
+  },
+  {
+    "region_id": "LK-3",
+    "region_name": "Southern",
+    "region_ent_type": "province",
+    "values": {
+      "marriage": 149866,
+      "employment_searching_for_job": 21570,
+      "education": 15659,
+      "accompanied_a_family_member": 33699,
+      "returning_for_permanent_residence": 28791,
+      "development_projects": 626,
+      "resettled_after_displacement": 591,
+      "a_disaster_a_displaced_happened_in_the_prior_place": 1609,
+      "other": 8242
+    },
+    "total_value": 260653
+  },
+  {
+    "region_id": "LK-4",
+    "region_name": "Northern",
+    "region_ent_type": "province",
+    "values": {
+      "marriage": 29839,
+      "employment_searching_for_job": 15416,
+      "education": 11839,
+      "accompanied_a_family_member": 26827,
+      "returning_for_permanent_residence": 17189,
+      "development_projects": 2887,
+      "resettled_after_displacement": 53160,
+      "a_disaster_a_displaced_happened_in_the_prior_place": 14542,
+      "other": 1276
+    },
+    "total_value": 172975
+  },
+  {
+    "region_id": "LK-5",
+    "region_name": "Eastern",
+    "region_ent_type": "province",
+    "values": {
+      "marriage": 46939,
+      "employment_searching_for_job": 13647,
+      "education": 14310,
+      "accompanied_a_family_member": 22704,
+      "returning_for_permanent_residence": 15439,
+      "development_projects": 11392,
+      "resettled_after_displacement": 3057,
+      "a_disaster_a_displaced_happened_in_the_prior_place": 3121,
+      "other": 1494
+    },
+    "total_value": 132103
+  },
+  {
+    "region_id": "LK-6",
+    "region_name": "North Western",
+    "region_ent_type": "province",
+    "values": {
+      "marriage": 154780,
+      "employment_searching_for_job": 36278,
+      "education": 14727,
+      "accompanied_a_family_member": 51523,
+      "returning_for_permanent_residence": 26398,
+      "development_projects": 1242,
+      "resettled_after_displacement": 8540,
+      "a_disaster_a_displaced_happened_in_the_prior_place": 8107,
+      "other": 8041
+    },
+    "total_value": 309636
+  },
+  {
+    "region_id": "LK-7",
+    "region_name": "North Central",
+    "region_ent_type": "province",
+    "values": {
+      "marriage": 109540,
+      "employment_searching_for_job": 22738,
+      "education": 11994,
+      "accompanied_a_family_member": 46282,
+      "returning_for_permanent_residence": 28242,
+      "development_projects": 18817,
+      "resettled_after_displacement": 2822,
+      "a_disaster_a_displaced_happened_in_the_prior_place": 3552,
+      "other": 5472
+    },
+    "total_value": 249459
+  },
+  {
+    "region_id": "LK-8",
+    "region_name": "Uva",
+    "region_ent_type": "province",
+    "values": {
+      "marriage": 88789,
+      "employment_searching_for_job": 17458,
+      "education": 8489,
+      "accompanied_a_family_member": 22657,
+      "returning_for_permanent_residence": 16374,
+      "development_projects": 1632,
+      "resettled_after_displacement": 320,
+      "a_disaster_a_displaced_happened_in_the_prior_place": 1056,
+      "other": 3353
+    },
+    "total_value": 160128
+  },
+  {
+    "region_id": "LK-9",
+    "region_name": "Sabaragamuwa",
+    "region_ent_type": "province",
+    "values": {
+      "marriage": 120410,
+      "employment_searching_for_job": 17384,
+      "education": 9433,
+      "accompanied_a_family_member": 26731,
+      "returning_for_permanent_residence": 16866,
+      "development_projects": 192,
+      "resettled_after_displacement": 294,
+      "a_disaster_a_displaced_happened_in_the_prior_place": 989,
+      "other": 5616
+    },
+    "total_value": 197915
+  },
+  {
+    "region_id": "EC-01",
+    "region_name": "Colombo",
+    "region_ent_type": "ed",
+    "values": {
+      "marriage": 132442,
+      "employment_searching_for_job": 196325,
+      "education": 61287,
+      "accompanied_a_family_member": 90372,
+      "returning_for_permanent_residence": 28046,
+      "development_projects": 519,
+      "resettled_after_displacement": 519,
+      "a_disaster_a_displaced_happened_in_the_prior_place": 2078,
+      "other": 7271
+    },
+    "total_value": 518859
+  },
+  {
+    "region_id": "EC-02",
+    "region_name": "Gampaha",
+    "region_ent_type": "ed",
+    "values": {
+      "marriage": 183133,
+      "employment_searching_for_job": 136956,
+      "education": 22564,
+      "accompanied_a_family_member": 99700,
+      "returning_for_permanent_residence": 67166,
+      "development_projects": 1049,
+      "resettled_after_displacement": 1049,
+      "a_disaster_a_displaced_happened_in_the_prior_place": 3148,
+      "other": 9445
+    },
+    "total_value": 524210
+  },
+  {
+    "region_id": "EC-03",
+    "region_name": "Kalutara",
+    "region_ent_type": "ed",
+    "values": {
+      "marriage": 82918,
+      "employment_searching_for_job": 21790,
+      "education": 6556,
+      "accompanied_a_family_member": 33360,
+      "returning_for_permanent_residence": 37988,
+      "development_projects": 193,
+      "resettled_after_displacement": 964,
+      "a_disaster_a_displaced_happened_in_the_prior_place": 2121,
+      "other": 6942
+    },
+    "total_value": 192832
+  },
+  {
+    "region_id": "EC-04",
+    "region_name": "Kandy",
+    "region_ent_type": "ed",
+    "values": {
+      "marriage": 87107,
+      "employment_searching_for_job": 16731,
+      "education": 18456,
+      "accompanied_a_family_member": 27081,
+      "returning_for_permanent_residence": 17939,
+      "development_projects": 172,
+      "resettled_after_displacement": 345,
+      "a_disaster_a_displaced_happened_in_the_prior_place": 862,
+      "other": 3622
+    },
+    "total_value": 172315
+  },
+  {
+    "region_id": "EC-05",
+    "region_name": "Matale",
+    "region_ent_type": "ed",
+    "values": {
+      "marriage": 47447,
+      "employment_searching_for_job": 7121,
+      "education": 2567,
+      "accompanied_a_family_member": 13414,
+      "returning_for_permanent_residence": 9109,
+      "development_projects": 414,
+      "resettled_after_displacement": 414,
+      "a_disaster_a_displaced_happened_in_the_prior_place": 745,
+      "other": 1490
+    },
+    "total_value": 82721
+  },
+  {
+    "region_id": "EC-06",
+    "region_name": "Nuwara-Eliya",
+    "region_ent_type": "ed",
+    "values": {
+      "marriage": 36317,
+      "employment_searching_for_job": 6215,
+      "education": 2133,
+      "accompanied_a_family_member": 10176,
+      "returning_for_permanent_residence": 3412,
+      "development_projects": 305,
+      "resettled_after_displacement": 792,
+      "a_disaster_a_displaced_happened_in_the_prior_place": 853,
+      "other": 731
+    },
+    "total_value": 60934
+  },
+  {
+    "region_id": "EC-07",
+    "region_name": "Galle",
+    "region_ent_type": "ed",
+    "values": {
+      "marriage": 54428,
+      "employment_searching_for_job": 9801,
+      "education": 5519,
+      "accompanied_a_family_member": 13131,
+      "returning_for_permanent_residence": 8374,
+      "development_projects": 0,
+      "resettled_after_displacement": 190,
+      "a_disaster_a_displaced_happened_in_the_prior_place": 476,
+      "other": 3140
+    },
+    "total_value": 95059
+  },
+  {
+    "region_id": "EC-08",
+    "region_name": "Matara",
+    "region_ent_type": "ed",
+    "values": {
+      "marriage": 52585,
+      "employment_searching_for_job": 6621,
+      "education": 8540,
+      "accompanied_a_family_member": 11803,
+      "returning_for_permanent_residence": 13530,
+      "development_projects": 0,
+      "resettled_after_displacement": 192,
+      "a_disaster_a_displaced_happened_in_the_prior_place": 576,
+      "other": 2111
+    },
+    "total_value": 95958
+  },
+  {
+    "region_id": "EC-09",
+    "region_name": "Hambantota",
+    "region_ent_type": "ed",
+    "values": {
+      "marriage": 42853,
+      "employment_searching_for_job": 5148,
+      "education": 1600,
+      "accompanied_a_family_member": 8765,
+      "returning_for_permanent_residence": 6887,
+      "development_projects": 626,
+      "resettled_after_displacement": 209,
+      "a_disaster_a_displaced_happened_in_the_prior_place": 557,
+      "other": 2991
+    },
+    "total_value": 69636
+  },
+  {
+    "region_id": "EC-10",
+    "region_name": "Jaffna",
+    "region_ent_type": "ed",
+    "values": {
+      "marriage": 9900,
+      "employment_searching_for_job": 6314,
+      "education": 8306,
+      "accompanied_a_family_member": 9435,
+      "returning_for_permanent_residence": 9343,
+      "development_projects": 202,
+      "resettled_after_displacement": 31769,
+      "a_disaster_a_displaced_happened_in_the_prior_place": 3866,
+      "other": 582
+    },
+    "total_value": 79717
+  },
+  {
+    "region_id": "EC-11",
+    "region_name": "Vanni",
+    "region_ent_type": "ed",
+    "values": {
+      "marriage": 19939,
+      "employment_searching_for_job": 9102,
+      "education": 3533,
+      "accompanied_a_family_member": 17392,
+      "returning_for_permanent_residence": 7846,
+      "development_projects": 2685,
+      "resettled_after_displacement": 21391,
+      "a_disaster_a_displaced_happened_in_the_prior_place": 10676,
+      "other": 694
+    },
+    "total_value": 93258
+  },
+  {
+    "region_id": "EC-12",
+    "region_name": "Batticaloa",
+    "region_ent_type": "ed",
+    "values": {
+      "marriage": 6037,
+      "employment_searching_for_job": 2713,
+      "education": 5303,
+      "accompanied_a_family_member": 3304,
+      "returning_for_permanent_residence": 1509,
+      "development_projects": 41,
+      "resettled_after_displacement": 489,
+      "a_disaster_a_displaced_happened_in_the_prior_place": 775,
+      "other": 224
+    },
+    "total_value": 20395
+  },
+  {
+    "region_id": "EC-13",
+    "region_name": "Digamadulla",
+    "region_ent_type": "ed",
+    "values": {
+      "marriage": 26836,
+      "employment_searching_for_job": 6422,
+      "education": 6575,
+      "accompanied_a_family_member": 11010,
+      "returning_for_permanent_residence": 11392,
+      "development_projects": 10857,
+      "resettled_after_displacement": 841,
+      "a_disaster_a_displaced_happened_in_the_prior_place": 1606,
+      "other": 917
+    },
+    "total_value": 76456
+  },
+  {
+    "region_id": "EC-14",
+    "region_name": "Trincomalee",
+    "region_ent_type": "ed",
+    "values": {
+      "marriage": 14066,
+      "employment_searching_for_job": 4512,
+      "education": 2432,
+      "accompanied_a_family_member": 8390,
+      "returning_for_permanent_residence": 2538,
+      "development_projects": 494,
+      "resettled_after_displacement": 1727,
+      "a_disaster_a_displaced_happened_in_the_prior_place": 740,
+      "other": 353
+    },
+    "total_value": 35252
+  },
+  {
+    "region_id": "EC-15",
+    "region_name": "Kurunegala",
+    "region_ent_type": "ed",
+    "values": {
+      "marriage": 111928,
+      "employment_searching_for_job": 20743,
+      "education": 11912,
+      "accompanied_a_family_member": 32860,
+      "returning_for_permanent_residence": 19100,
+      "development_projects": 616,
+      "resettled_after_displacement": 616,
+      "a_disaster_a_displaced_happened_in_the_prior_place": 1643,
+      "other": 5956
+    },
+    "total_value": 205374
+  },
+  {
+    "region_id": "EC-16",
+    "region_name": "Puttalam",
+    "region_ent_type": "ed",
+    "values": {
+      "marriage": 42852,
+      "employment_searching_for_job": 15535,
+      "education": 2815,
+      "accompanied_a_family_member": 18663,
+      "returning_for_permanent_residence": 7298,
+      "development_projects": 626,
+      "resettled_after_displacement": 7924,
+      "a_disaster_a_displaced_happened_in_the_prior_place": 6464,
+      "other": 2085
+    },
+    "total_value": 104262
+  },
+  {
+    "region_id": "EC-17",
+    "region_name": "Anuradhapura",
+    "region_ent_type": "ed",
+    "values": {
+      "marriage": 69505,
+      "employment_searching_for_job": 14269,
+      "education": 9973,
+      "accompanied_a_family_member": 29152,
+      "returning_for_permanent_residence": 14576,
+      "development_projects": 7365,
+      "resettled_after_displacement": 2148,
+      "a_disaster_a_displaced_happened_in_the_prior_place": 2301,
+      "other": 3836
+    },
+    "total_value": 153125
+  },
+  {
+    "region_id": "EC-18",
+    "region_name": "Polonnaruwa",
+    "region_ent_type": "ed",
+    "values": {
+      "marriage": 40035,
+      "employment_searching_for_job": 8469,
+      "education": 2021,
+      "accompanied_a_family_member": 17130,
+      "returning_for_permanent_residence": 13666,
+      "development_projects": 11452,
+      "resettled_after_displacement": 674,
+      "a_disaster_a_displaced_happened_in_the_prior_place": 1251,
+      "other": 1636
+    },
+    "total_value": 96334
+  },
+  {
+    "region_id": "EC-19",
+    "region_name": "Badulla",
+    "region_ent_type": "ed",
+    "values": {
+      "marriage": 44068,
+      "employment_searching_for_job": 6895,
+      "education": 6445,
+      "accompanied_a_family_member": 9368,
+      "returning_for_permanent_residence": 5471,
+      "development_projects": 525,
+      "resettled_after_displacement": 150,
+      "a_disaster_a_displaced_happened_in_the_prior_place": 375,
+      "other": 1649
+    },
+    "total_value": 74946
+  },
+  {
+    "region_id": "EC-20",
+    "region_name": "Moneragala",
+    "region_ent_type": "ed",
+    "values": {
+      "marriage": 44721,
+      "employment_searching_for_job": 10563,
+      "education": 2044,
+      "accompanied_a_family_member": 13289,
+      "returning_for_permanent_residence": 10903,
+      "development_projects": 1107,
+      "resettled_after_displacement": 170,
+      "a_disaster_a_displaced_happened_in_the_prior_place": 681,
+      "other": 1704
+    },
+    "total_value": 85182
+  },
+  {
+    "region_id": "EC-21",
+    "region_name": "Ratnapura",
+    "region_ent_type": "ed",
+    "values": {
+      "marriage": 53046,
+      "employment_searching_for_job": 10341,
+      "education": 5554,
+      "accompanied_a_family_member": 14075,
+      "returning_for_permanent_residence": 8905,
+      "development_projects": 192,
+      "resettled_after_displacement": 192,
+      "a_disaster_a_displaced_happened_in_the_prior_place": 479,
+      "other": 3064
+    },
+    "total_value": 95848
+  },
+  {
+    "region_id": "EC-22",
+    "region_name": "Kegalle",
+    "region_ent_type": "ed",
+    "values": {
+      "marriage": 67364,
+      "employment_searching_for_job": 7043,
+      "education": 3879,
+      "accompanied_a_family_member": 12656,
+      "returning_for_permanent_residence": 7961,
+      "development_projects": 0,
+      "resettled_after_displacement": 102,
+      "a_disaster_a_displaced_happened_in_the_prior_place": 510,
+      "other": 2552
+    },
+    "total_value": 102067
+  }
+]

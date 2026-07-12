@@ -91,6 +91,7 @@ class FinalReportTableDataMixin:
         )
 
         values = {}
+        total_value = None
         for i_key, key in enumerate(self.other_keys, start=1):
             region_id = None
             if key.startswith("_"):
@@ -105,10 +106,16 @@ class FinalReportTableDataMixin:
                 )
                 region = regions[0]
                 region_id = region.id
+            elif key == "total_value":
+                total_value = Parse.int(value)
             else:
                 value = Parse.int(value)
-            key = key.replace("-", " ").replace(" ", "_").lower()
-            values[key] = value
+            if key.startswith("p_") and total_value is not None:
+                value = int(round(value * total_value, 0))
+                values[key[2:]] = value
+            elif key not in ["total_value"]:
+                values[key] = value
+
             if region_id:
                 values[key[:-5] + "_id"] = region_id
         d["values"] = values
@@ -125,13 +132,10 @@ class FinalReportTableDataMixin:
         )
         parent_values = {}
         for d in d_list_for_parent:
-            for other_key in self.other_keys:
-                if other_key.startswith("_"):
-                    continue
-                if other_key not in parent_values:
-                    parent_values[other_key] = 0
-                value = d["values"][other_key]
-                parent_values[other_key] += value
+            for k, v in d["values"].items():
+                if k not in parent_values:
+                    parent_values[k] = 0
+                parent_values[k] += v
 
         d_parent["values"] = parent_values
         if self.is_summable:

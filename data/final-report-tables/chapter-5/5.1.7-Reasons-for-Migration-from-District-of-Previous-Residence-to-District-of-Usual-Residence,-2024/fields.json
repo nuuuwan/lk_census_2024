@@ -1,0 +1,15 @@
+{
+  "primary_keys": ["district_name"],
+  "other_keys": [
+    "total_value",
+    "p_marriage",
+    "p_employment_searching_for_job",
+    "p_education",
+    "p_accompanied_a_family_member",
+    "p_returning_for_permanent_residence",
+    "p_development_projects",
+    "p_resettled_after_displacement",
+    "p_a_disaster_a_displaced_happened_in_the_prior_place",
+    "p_other"
+  ]
+}

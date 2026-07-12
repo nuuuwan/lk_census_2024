@@ -30,7 +30,9 @@ class Parse:
         x = str(x)
         x = x.replace("%", "")
         try:
-            return round(float(Parse._clean_(x)), Parse.PRECISION_PERCENT)
+            return round(
+                float(Parse._clean_(x)) / 100.0, Parse.PRECISION_PERCENT
+            )
         except ValueError:
             return None
 
