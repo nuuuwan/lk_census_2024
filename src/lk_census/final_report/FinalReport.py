@@ -74,11 +74,9 @@ class FinalReport:
             )
             d_list.append(d)
         FinalReportConstants.TABLE_METADATA_FILE.write(d_list)
-        log.info(
-            f"Wrote {
+        log.info(f"Wrote {
                 len(d_list)} tables to {
-                FinalReportConstants.TABLE_METADATA_FILE}"
-        )
+                FinalReportConstants.TABLE_METADATA_FILE}")
 
     @staticmethod
     def parse_tables():

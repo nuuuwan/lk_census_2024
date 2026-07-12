@@ -1,4 +1,5 @@
 import camelot
+import fitz
 from pypdf import PdfReader, PdfWriter
 
 from utils_future.console.Log import Log
@@ -65,3 +66,9 @@ class PDFFile(File):
                 + f" Found {n_rows}x{n_cols} table"
             )
         return data
+
+    def to_image(self, output_image_file):
+        doc = fitz.open(self.path)
+        page = doc[0]
+        pix = page.get_pixmap(dpi=300)
+        pix.save(output_image_file.path)
