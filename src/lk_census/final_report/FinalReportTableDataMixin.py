@@ -1,4 +1,5 @@
 import os
+from functools import cached_property
 
 from gig_future import Ent, EntType
 from utils_future import JSONFile, Log, Parse
@@ -15,11 +16,19 @@ class FinalReportTableDataMixin:
     def fields_file(self):
         return JSONFile(os.path.join(self.dir_data, "fields.json"))
 
-    @property
+    @cached_property
     def fields(self):
         if not self.fields_file.exists:
-            return None
+            return {}
         return self.fields_file.read()
+
+    @cached_property
+    def primary_keys(self):
+        return self.fields.get("primary_keys", [])
+
+    @cached_property
+    def other_keys(self):
+        return self.fields.get("other_keys", [])
 
     @staticmethod
     def _get_region(region_name):
@@ -34,51 +43,57 @@ class FinalReportTableDataMixin:
             )
         return regions[0]
 
-    @staticmethod
-    def _build_data_item(raw_data, n_fields, fields):
+    def _build_data_item(self, raw_data):
         if "total" in raw_data[0].lower():
             return None
+
+        fields = self.fields
+        assert fields != {}
+        n_fields = len(self.primary_keys) + len(self.other_keys)
         if len(raw_data) != n_fields:
-            return None
+            log.debug(f"{raw_data=}")
+            raise ValueError(f"[{self}] {n_fields} != {len(raw_data)} Fields")
 
         d = {}
-        for i_field, field in enumerate(fields):
-            value = raw_data[i_field]
-            if field == "District":
-                region = FinalReportTableDataMixin._get_region(value)
-                d = dict(
-                    region_id=region.id,
-                    region_name=region.name,
-                    region_ent_type=EntType.DISTRICT.name,
-                )
-            else:
-                value = Parse.int(value)
-                key = field.replace("-", " ").replace(" ", "_").lower()
-                d[key] = value
+
+        primary_key_value = raw_data[0]
+        region = FinalReportTableDataMixin._get_region(primary_key_value)
+        d = dict(
+            region_id=region.id,
+            region_name=region.name,
+            region_ent_type=EntType.DISTRICT.name,
+        )
+
+        values = {}
+        for i_key, key in enumerate(self.other_keys, start=1):
+            value = raw_data[i_key]
+            value = Parse.int(value)
+            key = key.replace("-", " ").replace(" ", "_").lower()
+            values[key] = value
+        d["values"] = values
+        d["total_value"] = sum(values.values())
         return d
 
-    @staticmethod
-    def _aggregate(parent_id, d_list_for_parent):
+    def _aggregate(self, parent_id, d_list_for_parent):
         parent = Ent.from_id(parent_id)
         d_parent = dict(
             region_id=parent_id,
             region_name=parent.name,
             region_ent_type=EntType.from_id(parent_id).name,
         )
-        idx = {}
+        parent_values = {}
         for d in d_list_for_parent:
-            for k, v in d.items():
-                if k.startswith("region_"):
-                    continue
-                if k not in idx:
-                    idx[k] = 0
-                idx[k] += v
-        for k, v in idx.items():
-            d_parent[k] = v
+            for other_key in self.other_keys:
+                if other_key not in parent_values:
+                    parent_values[other_key] = 0
+                value = d["values"][other_key]
+                parent_values[other_key] += value
+
+        d_parent["values"] = parent_values
+        d_parent["total"] = sum(parent_values.values())
         return d_parent
 
-    @staticmethod
-    def _expand_to_parent_types(d_list):
+    def _expand_to_parent_types(self, d_list):
         # Map
         parent_id_to_d_list = {}
         for ent_type in [EntType.COUNTRY, EntType.PROVINCE, EntType.ED]:
@@ -96,12 +111,9 @@ class FinalReportTableDataMixin:
 
         # Reduce
         for parent_id, d_list_for_parent in parent_id_to_d_list.items():
-            d = FinalReportTableDataMixin._aggregate(
-                parent_id, d_list_for_parent
-            )
+            d = self._aggregate(parent_id, d_list_for_parent)
             d_list.append(d)
 
-        d_list.sort(key=lambda x: x["region_id"])
         return d_list
 
     def build_data(self):
@@ -112,13 +124,12 @@ class FinalReportTableDataMixin:
         if not fields:
             return
 
-        n_fields = len(fields)
         d_list = []
         for raw_data in raw_data_list:
-            d = self._build_data_item(raw_data, n_fields, fields)
+            d = self._build_data_item(raw_data)
             if d:
                 d_list.append(d)
-
+        d_list.sort(key=lambda x: x["region_id"])
         d_list = self._expand_to_parent_types(d_list)
 
         self.data_file.write(d_list)
