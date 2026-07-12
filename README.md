@@ -1,7 +1,7 @@
 # 🇱🇰 Sri Lanka - Census of Population and Housing 2024
 
 ![CPH](https://img.shields.io/badge/CPH-2024-blue)
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--07--12_12:30:34-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--07--12_13:30:46-green)
 
 **154** Datasets on Population, Housing and more, by Country, Province, District, Divisional Secretariat Division (DSD), Grama Niladhari Division (GND), Electoral District (ED), Polling Division (PD), and Local Government Authority (LG) levels.
 
@@ -645,13 +645,65 @@
 
 #### [Table 2.1](data/final-report-tables/chapter-2/2.1-Evolution-of-the-Number-of-Administrative-Districts-In-Sri-Lanka-from-1871-to-2024) - Evolution of the Number of Administrative Districts In Sri Lanka from 1871 to 2024
 #### [Table 2.2](data/final-report-tables/chapter-2/2.2-Administrative-Structure-by-District,-1981) - Administrative Structure by District, 1981
+##### Example Data Row (JSON)
+
+```json
+{
+    "region_id": "LK-11",
+    "region_name": "Colombo",
+    "region_ent_type": "district",
+    "values": {
+        "assistant_government_agend_divisions": 8,
+        "grama_sevaka_divisions": 121,
+        "municipal_councils": 2,
+        "urban_councils": 4,
+        "town_councils": 6
+    },
+    "total_value": 141
+}
+```
+
 #### [Table 2.3](data/final-report-tables/chapter-2/2.3-Administrative-Structure-by-District,-2012) - Administrative Structure by District, 2012
+##### Example Data Row (JSON)
+
+```json
+{
+    "region_id": "LK-11",
+    "region_name": "Colombo",
+    "region_ent_type": "district",
+    "values": {
+        "assistant_government_agend_divisions": 13,
+        "grama_sevaka_divisions": 557,
+        "municipal_councils": 5,
+        "urban_councils": 5,
+        "town_councils": 3
+    },
+    "total_value": 583
+}
+```
+
 #### [Table 2.4](data/final-report-tables/chapter-2/2.4-Administrative-Structure-by-District,-2024) - Administrative Structure by District, 2024
 ### Chapter 3
 
 #### [Table 3.1](data/final-report-tables/chapter-3/3.1-Total-Population,-Intercensal-Increase-and-Average-Annual-Growth-Rate-by-Census-Year,-1871---2024) - Total Population, Intercensal Increase and Average Annual Growth Rate by Census Year, 1871 - 2024
 #### [Table 3.2](data/final-report-tables/chapter-3/3.2-Distribution-of-Population-by-Province-and-District,-2024) - Distribution of Population by Province and District, 2024
 #### [Table 3.3](data/final-report-tables/chapter-3/3.3-Population-and-Average-Annual-Growth-Rate-by-District,-Census-Years-1981--2024) - Population and Average Annual Growth Rate by District, Census Years 1981- 2024
+##### Example Data Row (JSON)
+
+```json
+{
+    "region_id": "LK-11",
+    "region_name": "Colombo",
+    "region_ent_type": "district",
+    "values": {
+        "population_1981": 1675847,
+        "population_2001": 2239696,
+        "population_2012": 2324349,
+        "population_2024": 2375415
+    }
+}
+```
+
 #### [Table 3.4](data/final-report-tables/chapter-3/3.4-Population-Density-by-District,-1981,-2001,-2012-and-2024) - Population Density by District, 1981, 2001, 2012 and 2024
 #### [Table 3.5](data/final-report-tables/chapter-3/3.5-Distribution-of-Population-by-Sector,-2012-and-2024) - Distribution of Population by Sector, 2012 and 2024
 #### [Table 3.6](data/final-report-tables/chapter-3/3.6-Population-Distribution-by-District-and-Sector,-2024) - Population Distribution by District and Sector, 2024
@@ -660,12 +712,109 @@
 #### [Table 5.1.1](data/final-report-tables/chapter-5/5.1.1-Lifetime-Migrants-by-District-of-Dirth-and-District-of-Usual-Residence,) - Lifetime Migrants by District of Dirth and District of Usual Residence,
 #### [Table 5.1.2](data/final-report-tables/chapter-5/5.1.2-In,-Out-and-Net-Lifetime-Migrants-by-District,-2024) - In, Out and Net Lifetime Migrants by District, 2024
 #### [Table 5.1.3](data/final-report-tables/chapter-5/5.1.3-Largest-Migration-Flows-of-Lifetime-Migrants-by-District-of-Usual-Residence,-2024) - Largest Migration Flows of Lifetime Migrants by District of Usual Residence, 2024
+##### Example Data Row (JSON)
+
+```json
+{
+    "region_id": "LK-11",
+    "region_name": "Colombo",
+    "region_ent_type": "district",
+    "values": {
+        "lifetime_in_migrants": 491236,
+        "1st_largest_stream_migration_district_name": "Matara",
+        "1st_largest_stream_migration_district_id": "LK-32",
+        "p_1st_largest_stream_migration_district": 0.109,
+        "2nd_largest_stream_migration_district_name": "Galle",
+        "2nd_largest_stream_migration_district_id": "LK-31",
+        "p_2nd_largest_stream_migration_district": 0.102,
+        "3rd_largest_stream_migration_district_name": "Kandy",
+        "3rd_largest_stream_migration_district_id": "LK-21",
+        "p_3rd_largest_stream_migration_district": 0.099
+    }
+}
+```
+
 #### [Table 5.1.4](data/final-report-tables/chapter-5/5.1.4-Largest-Migration-Flows-of-Lifetime-Migrants-who-have-Migrated-Out-of-their-District-of-Birth,-2024) - Largest Migration Flows of Lifetime Migrants who have Migrated Out of their District of Birth, 2024
+##### Example Data Row (JSON)
+
+```json
+{
+    "region_id": "LK-11",
+    "region_name": "Colombo",
+    "region_ent_type": "district",
+    "values": {
+        "lifetime_in_migrants": 299712,
+        "1st_largest_stream_migration_district_name": "Gampaha",
+        "1st_largest_stream_migration_district_id": "LK-12",
+        "p_1st_largest_stream_migration_district": 0.383,
+        "2nd_largest_stream_migration_district_name": "Kalutara",
+        "2nd_largest_stream_migration_district_id": "LK-13",
+        "p_2nd_largest_stream_migration_district": 0.203,
+        "3rd_largest_stream_migration_district_name": "Kurunegala",
+        "3rd_largest_stream_migration_district_id": "LK-61",
+        "p_3rd_largest_stream_migration_district": 0.049
+    }
+}
+```
+
 #### [Table 5.1.5](data/final-report-tables/chapter-5/5.1.5-In-migration,-Out-migration,-and-Net-Migration-by-District,) - In-migration, Out-migration, and Net Migration by District,
 #### [Table 5.1.6](data/final-report-tables/chapter-5/5.1.6-In-migrants-by-District-of-Usual-Residence-and-Duration-of-Residence,-2024) - In-migrants by District of Usual Residence and Duration of Residence, 2024
+##### Example Data Row (JSON)
+
+```json
+{
+    "region_id": "LK-11",
+    "region_name": "Colombo",
+    "region_ent_type": "district",
+    "values": {
+        "00_04_years": 149236,
+        "04_09_years": 65105,
+        "10_or_more_years": 305038
+    },
+    "total_value": 519379
+}
+```
+
 #### [Table 5.1.7](data/final-report-tables/chapter-5/5.1.7-Reasons-for-Migration-from-District-of-Previous-Residence-to-District-of-Usual-Residence,-2024) - Reasons for Migration from District of Previous Residence to District of Usual Residence, 2024
+##### Example Data Row (JSON)
+
+```json
+{
+    "region_id": "LK-11",
+    "region_name": "Colombo",
+    "region_ent_type": "district",
+    "values": {
+        "marriage": 132442,
+        "employment_searching_for_job": 196325,
+        "education": 61287,
+        "accompanied_a_family_member": 90372,
+        "returning_for_permanent_residence": 28046,
+        "development_projects": 519,
+        "resettled_after_displacement": 519,
+        "a_disaster_a_displaced_happened_in_the_prior_place": 2078,
+        "other": 7271
+    },
+    "total_value": 518859
+}
+```
+
 #### [Table 5.1.8](data/final-report-tables/chapter-5/5.1.8-Distribution-of-the-Usually-Resident-Population-of-a-District-by-their-Permanent-Residence,-2024) - Distribution of the Usually Resident Population of a District by their Permanent Residence, 2024
 #### [Table 5.2.1](data/final-report-tables/chapter-5/5.2.1-Population-Temporarily-Living-Abroad-by-District-and-Sex,-2024) - Population Temporarily Living Abroad by District and Sex, 2024
+##### Example Data Row (JSON)
+
+```json
+{
+    "region_id": "LK-11",
+    "region_name": "Colombo",
+    "region_ent_type": "district",
+    "values": {
+        "male": 43531,
+        "female": 27908
+    },
+    "total_value": 71439
+}
+```
+
 #### [Table 5.2.2](data/final-report-tables/chapter-5/5.2.2-Population-Temporarily-Living-Abroad-by-Sector,-Sex-and-Age-Group,-2024) - Population Temporarily Living Abroad by Sector, Sex and Age Group, 2024
 #### [Table 5.2.3](data/final-report-tables/chapter-5/5.2.3-Population-Temporarily-Living-Abroad-by-District-and-Main-Reason-for-Living-in-Abroad,-2024) - Population Temporarily Living Abroad by District and Main Reason for Living in Abroad, 2024
 #### [Table 5.2.4](data/final-report-tables/chapter-5/5.2.4-Population-Temporarily-Living-Abroad-by-Main-Reason-for-Living-Abroad-and-Age-Group,-2024) - Population Temporarily Living Abroad by Main Reason for Living Abroad and Age Group, 2024
