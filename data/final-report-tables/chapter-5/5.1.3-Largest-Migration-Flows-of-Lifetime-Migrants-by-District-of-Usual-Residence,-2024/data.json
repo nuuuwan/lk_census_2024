@@ -1,0 +1,427 @@
+[
+  {
+    "region_id": "LK-11",
+    "region_name": "Colombo",
+    "region_ent_type": "district",
+    "values": {
+      "lifetime_in_migrants": 491236,
+      "1st_largest_stream_migration_district_name": "Matara",
+      "1st_largest_stream_migration_district_id": "LK-32",
+      "p_1st_largest_stream_migration_district": 10.9,
+      "2nd_largest_stream_migration_district_name": "Galle",
+      "2nd_largest_stream_migration_district_id": "LK-31",
+      "p_2nd_largest_stream_migration_district": 10.2,
+      "3rd_largest_stream_migration_district_name": "Kandy",
+      "3rd_largest_stream_migration_district_id": "LK-21",
+      "p_3rd_largest_stream_migration_district": 9.9
+    }
+  },
+  {
+    "region_id": "LK-12",
+    "region_name": "Gampaha",
+    "region_ent_type": "district",
+    "values": {
+      "lifetime_in_migrants": 490861,
+      "1st_largest_stream_migration_district_name": "Colombo",
+      "1st_largest_stream_migration_district_id": "LK-11",
+      "p_1st_largest_stream_migration_district": 23.4,
+      "2nd_largest_stream_migration_district_name": "Kurunegala",
+      "2nd_largest_stream_migration_district_id": "LK-61",
+      "p_2nd_largest_stream_migration_district": 9.7,
+      "3rd_largest_stream_migration_district_name": "Kandy",
+      "3rd_largest_stream_migration_district_id": "LK-21",
+      "p_3rd_largest_stream_migration_district": 8.4
+    }
+  },
+  {
+    "region_id": "LK-13",
+    "region_name": "Kalutara",
+    "region_ent_type": "district",
+    "values": {
+      "lifetime_in_migrants": 180877,
+      "1st_largest_stream_migration_district_name": "Colombo",
+      "1st_largest_stream_migration_district_id": "LK-11",
+      "p_1st_largest_stream_migration_district": 33.6,
+      "2nd_largest_stream_migration_district_name": "Galle",
+      "2nd_largest_stream_migration_district_id": "LK-31",
+      "p_2nd_largest_stream_migration_district": 14.9,
+      "3rd_largest_stream_migration_district_name": "Ratnapura",
+      "3rd_largest_stream_migration_district_id": "LK-91",
+      "p_3rd_largest_stream_migration_district": 9.4
+    }
+  },
+  {
+    "region_id": "LK-21",
+    "region_name": "Kandy",
+    "region_ent_type": "district",
+    "values": {
+      "lifetime_in_migrants": 157921,
+      "1st_largest_stream_migration_district_name": "Nuwara Eliya",
+      "1st_largest_stream_migration_district_id": "LK-23",
+      "p_1st_largest_stream_migration_district": 17.2,
+      "2nd_largest_stream_migration_district_name": "Matale",
+      "2nd_largest_stream_migration_district_id": "LK-22",
+      "p_2nd_largest_stream_migration_district": 11.5,
+      "3rd_largest_stream_migration_district_name": "Kegalle",
+      "3rd_largest_stream_migration_district_id": "LK-92",
+      "p_3rd_largest_stream_migration_district": 9.4
+    }
+  },
+  {
+    "region_id": "LK-22",
+    "region_name": "Matale",
+    "region_ent_type": "district",
+    "values": {
+      "lifetime_in_migrants": 78262,
+      "1st_largest_stream_migration_district_name": "Kandy",
+      "1st_largest_stream_migration_district_id": "LK-21",
+      "p_1st_largest_stream_migration_district": 33.4,
+      "2nd_largest_stream_migration_district_name": "Kurunegala",
+      "2nd_largest_stream_migration_district_id": "LK-61",
+      "p_2nd_largest_stream_migration_district": 12.1,
+      "3rd_largest_stream_migration_district_name": "Anuradhapura",
+      "3rd_largest_stream_migration_district_id": "LK-71",
+      "p_3rd_largest_stream_migration_district": 10.3
+    }
+  },
+  {
+    "region_id": "LK-23",
+    "region_name": "Nuwara Eliya",
+    "region_ent_type": "district",
+    "values": {
+      "lifetime_in_migrants": 52570,
+      "1st_largest_stream_migration_district_name": "Kandy",
+      "1st_largest_stream_migration_district_id": "LK-21",
+      "p_1st_largest_stream_migration_district": 36.1,
+      "2nd_largest_stream_migration_district_name": "Badulla",
+      "2nd_largest_stream_migration_district_id": "LK-81",
+      "p_2nd_largest_stream_migration_district": 17.5,
+      "3rd_largest_stream_migration_district_name": "Kegalle",
+      "3rd_largest_stream_migration_district_id": "LK-92",
+      "p_3rd_largest_stream_migration_district": 6.5
+    }
+  },
+  {
+    "region_id": "LK-31",
+    "region_name": "Galle",
+    "region_ent_type": "district",
+    "values": {
+      "lifetime_in_migrants": 88038,
+      "1st_largest_stream_migration_district_name": "Matara",
+      "1st_largest_stream_migration_district_id": "LK-32",
+      "p_1st_largest_stream_migration_district": 29.2,
+      "2nd_largest_stream_migration_district_name": "Kalutara",
+      "2nd_largest_stream_migration_district_id": "LK-13",
+      "p_2nd_largest_stream_migration_district": 13.0,
+      "3rd_largest_stream_migration_district_name": "Colombo",
+      "3rd_largest_stream_migration_district_id": "LK-11",
+      "p_3rd_largest_stream_migration_district": 12.2
+    }
+  },
+  {
+    "region_id": "LK-32",
+    "region_name": "Matara",
+    "region_ent_type": "district",
+    "values": {
+      "lifetime_in_migrants": 82457,
+      "1st_largest_stream_migration_district_name": "Hambantota",
+      "1st_largest_stream_migration_district_id": "LK-33",
+      "p_1st_largest_stream_migration_district": 25.2,
+      "2nd_largest_stream_migration_district_name": "Galle",
+      "2nd_largest_stream_migration_district_id": "LK-31",
+      "p_2nd_largest_stream_migration_district": 23.4,
+      "3rd_largest_stream_migration_district_name": "Colombo",
+      "3rd_largest_stream_migration_district_id": "LK-11",
+      "p_3rd_largest_stream_migration_district": 10.2
+    }
+  },
+  {
+    "region_id": "LK-33",
+    "region_name": "Hambantota",
+    "region_ent_type": "district",
+    "values": {
+      "lifetime_in_migrants": 64982,
+      "1st_largest_stream_migration_district_name": "Matara",
+      "1st_largest_stream_migration_district_id": "LK-32",
+      "p_1st_largest_stream_migration_district": 38.3,
+      "2nd_largest_stream_migration_district_name": "Ratnapura",
+      "2nd_largest_stream_migration_district_id": "LK-91",
+      "p_2nd_largest_stream_migration_district": 12.0,
+      "3rd_largest_stream_migration_district_name": "Galle",
+      "3rd_largest_stream_migration_district_id": "LK-31",
+      "p_3rd_largest_stream_migration_district": 9.8
+    }
+  },
+  {
+    "region_id": "LK-41",
+    "region_name": "Jaffna",
+    "region_ent_type": "district",
+    "values": {
+      "lifetime_in_migrants": 26104,
+      "1st_largest_stream_migration_district_name": "Kilinochchi",
+      "1st_largest_stream_migration_district_id": "LK-45",
+      "p_1st_largest_stream_migration_district": 22.0,
+      "2nd_largest_stream_migration_district_name": "Mullaitivu",
+      "2nd_largest_stream_migration_district_id": "LK-44",
+      "p_2nd_largest_stream_migration_district": 17.0,
+      "3rd_largest_stream_migration_district_name": "Vavuniya",
+      "3rd_largest_stream_migration_district_id": "LK-43",
+      "p_3rd_largest_stream_migration_district": 8.6
+    }
+  },
+  {
+    "region_id": "LK-42",
+    "region_name": "Mannar",
+    "region_ent_type": "district",
+    "values": {
+      "lifetime_in_migrants": 15367,
+      "1st_largest_stream_migration_district_name": "Puttalam",
+      "1st_largest_stream_migration_district_id": "LK-62",
+      "p_1st_largest_stream_migration_district": 36.0,
+      "2nd_largest_stream_migration_district_name": "Jaffna",
+      "2nd_largest_stream_migration_district_id": "LK-41",
+      "p_2nd_largest_stream_migration_district": 20.7,
+      "3rd_largest_stream_migration_district_name": "Vavuniya",
+      "3rd_largest_stream_migration_district_id": "LK-43",
+      "p_3rd_largest_stream_migration_district": 8.4
+    }
+  },
+  {
+    "region_id": "LK-43",
+    "region_name": "Vavuniya",
+    "region_ent_type": "district",
+    "values": {
+      "lifetime_in_migrants": 50012,
+      "1st_largest_stream_migration_district_name": "Jaffna",
+      "1st_largest_stream_migration_district_id": "LK-41",
+      "p_1st_largest_stream_migration_district": 31.9,
+      "2nd_largest_stream_migration_district_name": "Kilinochchi",
+      "2nd_largest_stream_migration_district_id": "LK-45",
+      "p_2nd_largest_stream_migration_district": 9.1,
+      "3rd_largest_stream_migration_district_name": "Mullaitivu",
+      "3rd_largest_stream_migration_district_id": "LK-44",
+      "p_3rd_largest_stream_migration_district": 7.9
+    }
+  },
+  {
+    "region_id": "LK-44",
+    "region_name": "Mullaitivu",
+    "region_ent_type": "district",
+    "values": {
+      "lifetime_in_migrants": 29279,
+      "1st_largest_stream_migration_district_name": "Jaffna",
+      "1st_largest_stream_migration_district_id": "LK-41",
+      "p_1st_largest_stream_migration_district": 34.5,
+      "2nd_largest_stream_migration_district_name": "Kilinochchi",
+      "2nd_largest_stream_migration_district_id": "LK-45",
+      "p_2nd_largest_stream_migration_district": 9.8,
+      "3rd_largest_stream_migration_district_name": "Vavuniya",
+      "3rd_largest_stream_migration_district_id": "LK-43",
+      "p_3rd_largest_stream_migration_district": 7.3
+    }
+  },
+  {
+    "region_id": "LK-45",
+    "region_name": "Kilinochchi",
+    "region_ent_type": "district",
+    "values": {
+      "lifetime_in_migrants": 32723,
+      "1st_largest_stream_migration_district_name": "Jaffna",
+      "1st_largest_stream_migration_district_id": "LK-41",
+      "p_1st_largest_stream_migration_district": 49.2,
+      "2nd_largest_stream_migration_district_name": "Mullaitivu",
+      "2nd_largest_stream_migration_district_id": "LK-44",
+      "p_2nd_largest_stream_migration_district": 8.5,
+      "3rd_largest_stream_migration_district_name": "Kandy",
+      "3rd_largest_stream_migration_district_id": "LK-21",
+      "p_3rd_largest_stream_migration_district": 8.3
+    }
+  },
+  {
+    "region_id": "LK-51",
+    "region_name": "Batticaloa",
+    "region_ent_type": "district",
+    "values": {
+      "lifetime_in_migrants": 19036,
+      "1st_largest_stream_migration_district_name": "Ampara",
+      "1st_largest_stream_migration_district_id": "LK-52",
+      "p_1st_largest_stream_migration_district": 23.4,
+      "2nd_largest_stream_migration_district_name": "Trincomalee",
+      "2nd_largest_stream_migration_district_id": "LK-53",
+      "p_2nd_largest_stream_migration_district": 11.3,
+      "3rd_largest_stream_migration_district_name": "Badulla",
+      "3rd_largest_stream_migration_district_id": "LK-81",
+      "p_3rd_largest_stream_migration_district": 10.3
+    }
+  },
+  {
+    "region_id": "LK-52",
+    "region_name": "Ampara",
+    "region_ent_type": "district",
+    "values": {
+      "lifetime_in_migrants": 72267,
+      "1st_largest_stream_migration_district_name": "Kandy",
+      "1st_largest_stream_migration_district_id": "LK-21",
+      "p_1st_largest_stream_migration_district": 19.2,
+      "2nd_largest_stream_migration_district_name": "Badulla",
+      "2nd_largest_stream_migration_district_id": "LK-81",
+      "p_2nd_largest_stream_migration_district": 15.2,
+      "3rd_largest_stream_migration_district_name": "Batticaloa",
+      "3rd_largest_stream_migration_district_id": "LK-51",
+      "p_3rd_largest_stream_migration_district": 8.5
+    }
+  },
+  {
+    "region_id": "LK-53",
+    "region_name": "Trincomalee",
+    "region_ent_type": "district",
+    "values": {
+      "lifetime_in_migrants": 33634,
+      "1st_largest_stream_migration_district_name": "Anuradhapura",
+      "1st_largest_stream_migration_district_id": "LK-71",
+      "p_1st_largest_stream_migration_district": 11.6,
+      "2nd_largest_stream_migration_district_name": "Kandy",
+      "2nd_largest_stream_migration_district_id": "LK-21",
+      "p_2nd_largest_stream_migration_district": 10.8,
+      "3rd_largest_stream_migration_district_name": "Jaffna",
+      "3rd_largest_stream_migration_district_id": "LK-41",
+      "p_3rd_largest_stream_migration_district": 9.8
+    }
+  },
+  {
+    "region_id": "LK-61",
+    "region_name": "Kurunegala",
+    "region_ent_type": "district",
+    "values": {
+      "lifetime_in_migrants": 192409,
+      "1st_largest_stream_migration_district_name": "Kandy",
+      "1st_largest_stream_migration_district_id": "LK-21",
+      "p_1st_largest_stream_migration_district": 12.7,
+      "2nd_largest_stream_migration_district_name": "Gampaha",
+      "2nd_largest_stream_migration_district_id": "LK-12",
+      "p_2nd_largest_stream_migration_district": 12.5,
+      "3rd_largest_stream_migration_district_name": "Puttalam",
+      "3rd_largest_stream_migration_district_id": "LK-62",
+      "p_3rd_largest_stream_migration_district": 11.6
+    }
+  },
+  {
+    "region_id": "LK-62",
+    "region_name": "Puttalam",
+    "region_ent_type": "district",
+    "values": {
+      "lifetime_in_migrants": 99666,
+      "1st_largest_stream_migration_district_name": "Kurunegala",
+      "1st_largest_stream_migration_district_id": "LK-61",
+      "p_1st_largest_stream_migration_district": 27.6,
+      "2nd_largest_stream_migration_district_name": "Gampaha",
+      "2nd_largest_stream_migration_district_id": "LK-12",
+      "p_2nd_largest_stream_migration_district": 14.9,
+      "3rd_largest_stream_migration_district_name": "Mannar",
+      "3rd_largest_stream_migration_district_id": "LK-42",
+      "p_3rd_largest_stream_migration_district": 10.5
+    }
+  },
+  {
+    "region_id": "LK-71",
+    "region_name": "Anuradhapura",
+    "region_ent_type": "district",
+    "values": {
+      "lifetime_in_migrants": 144866,
+      "1st_largest_stream_migration_district_name": "Kurunegala",
+      "1st_largest_stream_migration_district_id": "LK-61",
+      "p_1st_largest_stream_migration_district": 17.8,
+      "2nd_largest_stream_migration_district_name": "Kandy",
+      "2nd_largest_stream_migration_district_id": "LK-21",
+      "p_2nd_largest_stream_migration_district": 14.3,
+      "3rd_largest_stream_migration_district_name": "Matale",
+      "3rd_largest_stream_migration_district_id": "LK-22",
+      "p_3rd_largest_stream_migration_district": 10.9
+    }
+  },
+  {
+    "region_id": "LK-72",
+    "region_name": "Polonnaruwa",
+    "region_ent_type": "district",
+    "values": {
+      "lifetime_in_migrants": 93574,
+      "1st_largest_stream_migration_district_name": "Kandy",
+      "1st_largest_stream_migration_district_id": "LK-21",
+      "p_1st_largest_stream_migration_district": 18.8,
+      "2nd_largest_stream_migration_district_name": "Kurunegala",
+      "2nd_largest_stream_migration_district_id": "LK-61",
+      "p_2nd_largest_stream_migration_district": 11.4,
+      "3rd_largest_stream_migration_district_name": "Kegalle",
+      "3rd_largest_stream_migration_district_id": "LK-92",
+      "p_3rd_largest_stream_migration_district": 10.3
+    }
+  },
+  {
+    "region_id": "LK-81",
+    "region_name": "Badulla",
+    "region_ent_type": "district",
+    "values": {
+      "lifetime_in_migrants": 70437,
+      "1st_largest_stream_migration_district_name": "Nuwara Eliya",
+      "1st_largest_stream_migration_district_id": "LK-23",
+      "p_1st_largest_stream_migration_district": 14.9,
+      "2nd_largest_stream_migration_district_name": "Kandy",
+      "2nd_largest_stream_migration_district_id": "LK-21",
+      "p_2nd_largest_stream_migration_district": 14.7,
+      "3rd_largest_stream_migration_district_name": "Moneragala",
+      "3rd_largest_stream_migration_district_id": "LK-82",
+      "p_3rd_largest_stream_migration_district": 14.6
+    }
+  },
+  {
+    "region_id": "LK-82",
+    "region_name": "Monaragala",
+    "region_ent_type": "district",
+    "values": {
+      "lifetime_in_migrants": 81392,
+      "1st_largest_stream_migration_district_name": "Badulla",
+      "1st_largest_stream_migration_district_id": "LK-81",
+      "p_1st_largest_stream_migration_district": 25.9,
+      "2nd_largest_stream_migration_district_name": "Hambantota",
+      "2nd_largest_stream_migration_district_id": "LK-33",
+      "p_2nd_largest_stream_migration_district": 17.9,
+      "3rd_largest_stream_migration_district_name": "Ratnapura",
+      "3rd_largest_stream_migration_district_id": "LK-91",
+      "p_3rd_largest_stream_migration_district": 11.2
+    }
+  },
+  {
+    "region_id": "LK-91",
+    "region_name": "Ratnapura",
+    "region_ent_type": "district",
+    "values": {
+      "lifetime_in_migrants": 89081,
+      "1st_largest_stream_migration_district_name": "Hambantota",
+      "1st_largest_stream_migration_district_id": "LK-33",
+      "p_1st_largest_stream_migration_district": 14.1,
+      "2nd_largest_stream_migration_district_name": "Matara",
+      "2nd_largest_stream_migration_district_id": "LK-32",
+      "p_2nd_largest_stream_migration_district": 13.1,
+      "3rd_largest_stream_migration_district_name": "Colombo",
+      "3rd_largest_stream_migration_district_id": "LK-11",
+      "p_3rd_largest_stream_migration_district": 12.1
+    }
+  },
+  {
+    "region_id": "LK-92",
+    "region_name": "Kegalle",
+    "region_ent_type": "district",
+    "values": {
+      "lifetime_in_migrants": 95773,
+      "1st_largest_stream_migration_district_name": "Kandy",
+      "1st_largest_stream_migration_district_id": "LK-21",
+      "p_1st_largest_stream_migration_district": 17.8,
+      "2nd_largest_stream_migration_district_name": "Kurunegala",
+      "2nd_largest_stream_migration_district_id": "LK-61",
+      "p_2nd_largest_stream_migration_district": 14.1,
+      "3rd_largest_stream_migration_district_name": "Colombo",
+      "3rd_largest_stream_migration_district_id": "LK-11",
+      "p_3rd_largest_stream_migration_district": 10.9
+    }
+  }
+]

@@ -1,0 +1,14 @@
+{
+  "primary_keys": ["district_name"],
+  "other_keys": [
+    "lifetime_in_migrants",
+    "1st_largest_stream_migration_district_name",
+    "p_1st_largest_stream_migration_district",
+    "2nd_largest_stream_migration_district_name",
+    "p_2nd_largest_stream_migration_district",
+    "3rd_largest_stream_migration_district_name",
+    "p_3rd_largest_stream_migration_district"
+  ],
+  "is_summable": "false",
+  "is_expandable": "false"
+}

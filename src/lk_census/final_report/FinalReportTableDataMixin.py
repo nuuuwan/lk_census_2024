@@ -20,7 +20,13 @@ class FinalReportTableDataMixin:
     def is_summable(self):
         if not self.fields_file.exists:
             return False
-        return self.fields.get("is_summable", "false").lower() == "true"
+        return self.fields.get("is_summable", "true").lower() == "true"
+
+    @cached_property
+    def is_expandable(self):
+        if not self.fields_file.exists:
+            return False
+        return self.fields.get("is_expandable", "true").lower() == "true"
 
     @cached_property
     def fields(self):
@@ -53,6 +59,8 @@ class FinalReportTableDataMixin:
         if (
             "total" in raw_data[0].lower()
             or "sri lanka" in raw_data[0].lower()
+            or "usual" in raw_data[0].lower()
+            or "district" in raw_data[0].lower()
             or not raw_data[0]
             or raw_data[0].startswith("*")
         ):
@@ -74,6 +82,7 @@ class FinalReportTableDataMixin:
 
         primary_key_value = raw_data[0]
         region = FinalReportTableDataMixin._get_region(primary_key_value)
+
         d = dict(
             region_id=region.id,
             region_name=region.name,
@@ -82,12 +91,25 @@ class FinalReportTableDataMixin:
 
         values = {}
         for i_key, key in enumerate(self.other_keys, start=1):
+            region_id = None
             if key.startswith("_"):
                 continue
             value = raw_data[i_key]
-            value = Parse.int(value)
+            if key.startswith("p_"):
+                value = Parse.percent(value)
+            elif key.endswith("_district_name"):
+                name = str(value).strip()
+                regions = Ent.list_from_name_fuzzy(
+                    name, filter_ent_type=EntType.DISTRICT
+                )
+                region = regions[0]
+                region_id = region.id
+            else:
+                value = Parse.int(value)
             key = key.replace("-", " ").replace(" ", "_").lower()
             values[key] = value
+            if region_id:
+                values[key[:-5] + "_id"] = region_id
         d["values"] = values
         if self.is_summable:
             d["total_value"] = sum(values.values())
@@ -152,7 +174,8 @@ class FinalReportTableDataMixin:
             if d:
                 d_list.append(d)
         d_list.sort(key=lambda x: x["region_id"])
-        d_list = self._expand_to_parent_types(d_list)
+        if self.is_expandable:
+            d_list = self._expand_to_parent_types(d_list)
 
         self.data_file.write(d_list)
         log.info(f"Wrote {len(d_list)} rows to {self.data_file}")

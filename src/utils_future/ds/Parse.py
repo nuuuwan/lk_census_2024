@@ -2,6 +2,9 @@ from dateutil import parser
 
 
 class Parse:
+    PRECISION_FLOAT = 4
+    PRECISION_PERCENT = 4
+
     @staticmethod
     def _clean_(x: str) -> str:
         return x.strip().lower().replace(",", "")
@@ -18,7 +21,16 @@ class Parse:
     @staticmethod
     def float(x) -> float:
         try:
-            return float(Parse._clean_(x))
+            return round(float(Parse._clean_(x)), Parse.PRECISION_FLOAT)
+        except ValueError:
+            return None
+
+    @staticmethod
+    def percent(x) -> float:
+        x = str(x)
+        x = x.replace("%", "")
+        try:
+            return round(float(Parse._clean_(x)), Parse.PRECISION_PERCENT)
         except ValueError:
             return None
 
