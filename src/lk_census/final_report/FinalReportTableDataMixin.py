@@ -78,6 +78,9 @@ class FinalReportTableDataMixin:
             "over",
             "province",
             "note",
+            "term",
+            "accounting",
+            "family",
         ]:
             if keyword in raw_data[0].lower():
                 return None
