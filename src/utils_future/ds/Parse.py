@@ -8,6 +8,8 @@ class Parse:
 
     @staticmethod
     def int(x) -> int:
+        if x == "-":
+            return 0
         try:
             return int(Parse._clean_(x))
         except ValueError:

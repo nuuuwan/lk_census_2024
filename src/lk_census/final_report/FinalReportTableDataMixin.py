@@ -44,7 +44,11 @@ class FinalReportTableDataMixin:
         return regions[0]
 
     def _build_data_item(self, raw_data):
-        if "total" in raw_data[0].lower():
+        if (
+            "total" in raw_data[0].lower()
+            or not raw_data[0]
+            or raw_data[0].startswith("*")
+        ):
             return None
 
         fields = self.fields
@@ -126,6 +130,7 @@ class FinalReportTableDataMixin:
 
         d_list = []
         for raw_data in raw_data_list:
+            print(raw_data)
             d = self._build_data_item(raw_data)
             if d:
                 d_list.append(d)
