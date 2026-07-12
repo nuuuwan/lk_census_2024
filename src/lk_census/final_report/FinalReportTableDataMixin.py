@@ -22,13 +22,13 @@ class FinalReportTableDataMixin:
     def is_summable(self):
         if not self.fields_file.exists:
             return False
-        return self.fields.get("is_summable", "true").lower() == "true"
+        return self.fields.get("is_summable", True)
 
     @cached_property
     def is_expandable(self):
         if not self.fields_file.exists:
             return False
-        return self.fields.get("is_expandable", "true").lower() == "true"
+        return self.fields.get("is_expandable", True)
 
     @cached_property
     def fields(self):
