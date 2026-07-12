@@ -50,6 +50,7 @@ class FinalReportTableDataMixin:
 
     @staticmethod
     def _get_region(region_name):
+
         regions = Ent.list_from_name_fuzzy(
             name_fuzzy=region_name,
             filter_ent_type=EntType.DISTRICT,
@@ -115,6 +116,8 @@ class FinalReportTableDataMixin:
             value = raw_data[i_key]
             if key.startswith("p_"):
                 value = Parse.percent(value)
+            elif key.startswith("is_"):
+                value = Parse.boolean(value)
             elif key.endswith("_district_name"):
                 name = str(value).strip()
                 regions = Ent.list_from_name_fuzzy(

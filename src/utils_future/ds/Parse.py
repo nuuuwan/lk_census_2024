@@ -42,3 +42,10 @@ class Parse:
     def time_str(x) -> str:
         dt = parser.parse(x)
         return dt.strftime(Parse.TIME_FORMAT)
+
+    @staticmethod
+    def boolean(x) -> bool:
+        x = str(x).strip().lower()
+        if x in ["yes", "true", "1", "x", "\u00d7"]:
+            return True
+        return False
