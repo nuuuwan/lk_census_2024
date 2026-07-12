@@ -1,0 +1,14 @@
+{
+  "primary_keys": ["district_name"],
+  "other_keys": [
+    "population_1981",
+    "population_2001",
+    "population_2012",
+    "population_2024",
+    "_average_annual_growth_rate_1981_2001",
+    "_average_annual_growth_rate_1981_2012",
+    "_average_annual_growth_rate_2001_2012",
+    "_average_annual_growth_rate_2012_2024"
+  ],
+  "is_summable": "false"
+}

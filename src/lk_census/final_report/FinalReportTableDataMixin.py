@@ -17,6 +17,12 @@ class FinalReportTableDataMixin:
         return JSONFile(os.path.join(self.dir_data, "fields.json"))
 
     @cached_property
+    def is_summable(self):
+        if not self.fields_file.exists:
+            return False
+        return self.fields.get("is_summable", "false").lower() == "true"
+
+    @cached_property
     def fields(self):
         if not self.fields_file.exists:
             return {}
@@ -46,10 +52,16 @@ class FinalReportTableDataMixin:
     def _build_data_item(self, raw_data):
         if (
             "total" in raw_data[0].lower()
+            or "sri lanka" in raw_data[0].lower()
             or not raw_data[0]
             or raw_data[0].startswith("*")
         ):
             return None
+
+        if " " * 4 in raw_data[0]:
+            words = raw_data[0].strip().split(" ")
+            raw_data[0] = words[0]
+            raw_data[1] = words[-1]
 
         fields = self.fields
         assert fields != {}
@@ -70,12 +82,15 @@ class FinalReportTableDataMixin:
 
         values = {}
         for i_key, key in enumerate(self.other_keys, start=1):
+            if key.startswith("_"):
+                continue
             value = raw_data[i_key]
             value = Parse.int(value)
             key = key.replace("-", " ").replace(" ", "_").lower()
             values[key] = value
         d["values"] = values
-        d["total_value"] = sum(values.values())
+        if self.is_summable:
+            d["total_value"] = sum(values.values())
         return d
 
     def _aggregate(self, parent_id, d_list_for_parent):
@@ -88,13 +103,16 @@ class FinalReportTableDataMixin:
         parent_values = {}
         for d in d_list_for_parent:
             for other_key in self.other_keys:
+                if other_key.startswith("_"):
+                    continue
                 if other_key not in parent_values:
                     parent_values[other_key] = 0
                 value = d["values"][other_key]
                 parent_values[other_key] += value
 
         d_parent["values"] = parent_values
-        d_parent["total"] = sum(parent_values.values())
+        if self.is_summable:
+            d_parent["total_value"] = sum(parent_values.values())
         return d_parent
 
     def _expand_to_parent_types(self, d_list):
