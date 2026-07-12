@@ -48,7 +48,9 @@ class FinalReportTable:
     def original_pdf_file(self):
         return PDFFile(os.path.join(self.dir_data, f"original.pdf"))
 
-    def build_original_pdf(self):
+    def build_original_pdf(self, force=False):
+        if self.original_pdf_file.exists and not force:
+            return
         FinalReport.PDF_FILE.extract_subset(
             self.page_num + FinalReport.PAGE_OFFSET,
             self.page_num + FinalReport.PAGE_OFFSET,
@@ -74,15 +76,18 @@ class FinalReport:
     PAGE_OFFSET = 17
 
     @staticmethod
-    def extract_table_index():
-        FinalReport.PDF_FILE.extract_subset(
-            FinalReport.TABLE_INDEX_START_PAGE,
-            FinalReport.TABLE_INDEX_END_PAGE,
-            FinalReport.TABLE_INDEX_PDF_FILE,
-        )
-        FinalReport.TABLE_INDEX_PDF_FILE.to_text_file(
-            FinalReport.TABLE_INDEX_TXT_FILE
-        )
+    def extract_table_index(force=False):
+        if not FinalReport.TABLE_INDEX_PDF_FILE.exists or force:
+            FinalReport.PDF_FILE.extract_subset(
+                FinalReport.TABLE_INDEX_START_PAGE,
+                FinalReport.TABLE_INDEX_END_PAGE,
+                FinalReport.TABLE_INDEX_PDF_FILE,
+            )
+
+        if not FinalReport.TABLE_INDEX_TXT_FILE.exists or force:
+            FinalReport.TABLE_INDEX_PDF_FILE.to_text_file(
+                FinalReport.TABLE_INDEX_TXT_FILE
+            )
 
     TABLE_METADATA_FILE = JSONFile(
         os.path.join("derived_docs", "final-report-index.metadata.json")
