@@ -141,7 +141,7 @@ class FinalReportTableDataMixin:
                 region_id = region.id
             elif key == "total_value":
                 total_value = Parse.int(value)
-            elif "avg" in key:
+            elif "avg" in key or "index" in key:
                 value = Parse.float(value)
             else:
                 value = Parse.int(value)
