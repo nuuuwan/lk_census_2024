@@ -1,8 +1,62 @@
 import os
+from dataclasses import dataclass
 
 from utils_future import File, JSONFile, Log, PDFFile
 
 log = Log("FinalReport")
+
+
+@dataclass
+class FinalReportTable:
+    table_num: str
+    table_name: str
+    page_num: int
+
+    @property
+    def chapter_num(self):
+        return int(self.table_num.split(".")[0])
+
+    @property
+    def table_id(self):
+        return f"{self.table_num}-{self.table_name.replace(' ', '-')}"
+
+    @property
+    def dir_data(self):
+        dir_data = os.path.join(
+            "data",
+            "final-report-tables",
+            f"chapter-{self.chapter_num}",
+            self.table_id,
+        )
+        os.makedirs(dir_data, exist_ok=True)
+        return dir_data
+
+    @classmethod
+    def from_dict(cls, d):
+        return cls(
+            table_num=d["table_num"],
+            table_name=d["table_name"],
+            page_num=int(d["page_num"]),
+        )
+
+    @classmethod
+    def list(cls):
+        d_list = FinalReport.TABLE_METADATA_FILE.read()
+        return [cls.from_dict(d) for d in d_list]
+
+    @property
+    def original_pdf_file(self):
+        return PDFFile(os.path.join(self.dir_data, f"original.pdf"))
+
+    def build_original_pdf(self):
+        FinalReport.PDF_FILE.extract_subset(
+            self.page_num + FinalReport.PAGE_OFFSET,
+            self.page_num + FinalReport.PAGE_OFFSET,
+            self.original_pdf_file,
+        )
+
+    def build(self):
+        self.build_original_pdf()
 
 
 class FinalReport:
@@ -16,6 +70,8 @@ class FinalReport:
         os.path.join("derived_docs", "final-report-index.txt")
     )
     MIN_VALID_TABLE_PAGE_NUM, MAX_VALID_TABLE_PAGE_NUM = 6, 205
+
+    PAGE_OFFSET = 17
 
     @staticmethod
     def extract_table_index():
@@ -83,6 +139,13 @@ class FinalReport:
         )
 
     @staticmethod
+    def parse_tables():
+        tables = FinalReportTable.list()
+        for table in tables:
+            table.build()
+
+    @staticmethod
     def parse():
         FinalReport.extract_table_index()
         FinalReport.build_table_metadata()
+        FinalReport.parse_tables()
