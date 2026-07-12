@@ -11,6 +11,11 @@ class FinalReportTableRawDataMixin:
         return JSONFile(os.path.join(self.dir_data, "raw_data.json"))
 
     def build_raw_data(self):
+        if self.has_page_multiple_tables:
+            log.warning(
+                f"Multiple tables found on page {self.page_num}: {self}"
+            )
+            return
         try:
             raw_data = self.original_pdf_file.extract_table_data()
             self.raw_data_file.write(raw_data)
