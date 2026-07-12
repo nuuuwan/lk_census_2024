@@ -85,6 +85,8 @@ class FinalReportTableDataMixin:
             "year",
             "urban",
             "rural",
+            "variations",
+            "(",
         ]:
             if keyword in raw_data[0].lower():
                 return None
@@ -146,12 +148,15 @@ class FinalReportTableDataMixin:
                 values[key[:-5] + "_id"] = region_id
         d["values"] = values
 
+        for value in values.values():
+            if not value:
+                return None
+
         if self.is_summable:
             if total_value:
                 total_value_from_values = sum(values.values())
                 error = total_value - total_value_from_values
                 values[self.error_key] = error
-
             d["total_value"] = (
                 sum(values.values()) if not total_value else total_value
             )
