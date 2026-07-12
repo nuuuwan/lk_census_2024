@@ -1,0 +1,11 @@
+{
+  "primary_keys": ["district_name"],
+  "other_keys": [
+    "population_density_1981",
+    "population_density_2001",
+    "population_density_2012",
+    "population_density_2024"
+  ],
+  "is_summable": "false",
+  "is_expandable": "false"
+}
