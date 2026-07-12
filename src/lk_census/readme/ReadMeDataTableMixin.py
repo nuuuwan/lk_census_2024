@@ -7,7 +7,7 @@ class ReadMeDataTableMixin:
 
     def get_lines_for_example_data(self, data_table) -> list[str]:
         lines = []
-        data_list = data_table.data_listR
+        data_list = data_table.data_list
         first_data = data_list[0]
         lines.extend(
             [
