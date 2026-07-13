@@ -1,5 +1,11 @@
 {
-  "original_key": "",
-  "other_keys": [],
-  "is_summable": false
+  "primary_key": "sex",
+  "other_keys": [
+    "_",
+    "_",
+    "economically_active",
+    "_",
+    "economically_inactive",
+    "_"
+  ]
 }
