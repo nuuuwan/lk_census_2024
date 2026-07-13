@@ -1,0 +1,5 @@
+{
+  "primary_key": "sector",
+  "other_keys": ["_ignore", "sex_ratio"],
+  "is_summable": false
+}
