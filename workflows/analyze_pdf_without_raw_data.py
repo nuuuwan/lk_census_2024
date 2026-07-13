@@ -1,6 +1,7 @@
 import os
 
 from lk_census.final_report.table import FinalReportTable
+from utils_future import JSONFile
 
 if __name__ == "__main__":
     table_list = FinalReportTable.list()
@@ -18,7 +19,11 @@ if __name__ == "__main__":
         print("")
 
         os.system(f'code "{table.original_pdf_file.path}"')
+        if not table.raw_data_file.exists:
+            table.raw_data_file.write(dict(raw_table_index_list=[]))
 
-        table.build_raw_data()
+        os.system(f'code "{table.raw_data_file.path}"')
+
+        table.build_raw_data(force=True)
 
         break
