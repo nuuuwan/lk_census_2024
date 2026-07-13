@@ -1,0 +1,9 @@
+{
+  "primary_key": "age_group",
+  "other_keys": [
+    "p_total_labour_force_participation_rate",
+    "p_male_labour_force_participation_rate",
+    "p_female_labour_force_participation_rate"
+  ],
+  "is_summable": false
+}
