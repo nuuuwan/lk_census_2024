@@ -15,7 +15,7 @@ if __name__ == "__main__":
 
         if not table.has_complete_fields:
             table.fields_file.write(
-                dict(original_key="", other_keys=[], is_summable=False)
+                dict(primary_key="", other_keys=[], is_summable=False)
             )
             os.system(f"code {table.fields_file.path}")
             os.system(f"code {table.original_pdf_file.path}")
