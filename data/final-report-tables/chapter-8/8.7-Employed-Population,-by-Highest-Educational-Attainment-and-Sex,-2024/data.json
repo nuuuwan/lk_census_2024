@@ -1,0 +1,66 @@
+[
+  {
+    "educational_level": "Never attended School",
+    "values": {
+      "male": 67915,
+      "female": 49378
+    },
+    "total_value": 117293
+  },
+  {
+    "educational_level": "Studied in a special school / special unit",
+    "values": {
+      "male": 3923,
+      "female": 2719
+    },
+    "total_value": 6642
+  },
+  {
+    "educational_level": "Passed Grade 1 - 5",
+    "values": {
+      "male": 493163,
+      "female": 183967
+    },
+    "total_value": 677130
+  },
+  {
+    "educational_level": "Passed Grade 6 - 8",
+    "values": {
+      "male": 618673,
+      "female": 171412
+    },
+    "total_value": 790085
+  },
+  {
+    "educational_level": "Passed Grade 9 - 10",
+    "values": {
+      "male": 1536837,
+      "female": 486618
+    },
+    "total_value": 2023455
+  },
+  {
+    "educational_level": "Passed GCE O/L",
+    "values": {
+      "male": 1288859,
+      "female": 430468
+    },
+    "total_value": 1719327
+  },
+  {
+    "educational_level": "Passed GCE A/L",
+    "values": {
+      "male": 982912,
+      "female": 621725
+    },
+    "total_value": 1604637
+  },
+  {
+    "educational_level": "Degree or above",
+    "values": {
+      "male": 325421,
+      "female": 407242
+    },
+    "total_value": 732663
+  }
+]
