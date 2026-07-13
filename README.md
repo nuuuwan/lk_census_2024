@@ -1,7 +1,7 @@
 # 🇱🇰 Sri Lanka - Census of Population and Housing 2024
 
 ![CPH](https://img.shields.io/badge/CPH-2024-blue)
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--07--13_07:32:04-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--07--13_07:44:20-green)
 
 **154** Datasets on Population, Housing and more, by Country, Province, District, Divisional Secretariat Division (DSD), Grama Niladhari Division (GND), Electoral District (ED), Polling Division (PD), and Local Government Authority (LG) levels.
 
@@ -4573,14 +4573,26 @@ Nuclear | Extended | Composite |
 
 | Region Id | Region Name | Region Ent Type | P Water Sealed | P Not Water Sealed | P Other |
 | :-- | :-- | :-- | :-- | :-- | :-- |
+| LK-11 | Colombo | district | 0.999 | 0.001 | 0.0 |
+| LK-12 | Gampaha | district | 0.998 | 0.002 | 0.0 |
+| LK-13 | Kalutara | district | 0.997 | 0.003 | 0.0 |
+| LK-21 | Kandy | district | 0.994 | 0.006 | 0.0 |
 | LK-22 | Matale | district | 0.988 | 0.011 | 0.001 |
+| LK-23 | Nuwara Eliya | district | 0.992 | 0.008 | 0.0 |
 | LK-31 | Galle | district | 0.995 | 0.004 | 0.001 |
 | LK-32 | Matara | district | 0.997 | 0.002 | 0.001 |
 | LK-33 | Hambantota | district | 0.996 | 0.003 | 0.001 |
+| LK-41 | Jaffna | district | 0.999 | 0.001 | 0.0 |
+| LK-42 | Mannar | district | 0.991 | 0.009 | 0.0 |
+| LK-43 | Vavuniya | district | 0.992 | 0.008 | 0.0 |
+| LK-44 | Mullaitivu | district | 0.996 | 0.004 | 0.0 |
 | LK-45 | Kilinochchi | district | 0.993 | 0.006 | 0.001 |
 | LK-51 | Batticaloa | district | 0.995 | 0.004 | 0.001 |
 | LK-52 | Ampara | district | 0.996 | 0.003 | 0.001 |
+| LK-53 | Trincomalee | district | 0.995 | 0.005 | 0.0 |
+| LK-61 | Kurunegala | district | 0.998 | 0.002 | 0.0 |
 | LK-62 | Puttalam | district | 0.996 | 0.003 | 0.001 |
+| LK-71 | Anuradhapura | district | 0.996 | 0.004 | 0.0 |
 | LK-72 | Polonnaruwa | district | 0.994 | 0.005 | 0.001 |
 | LK-81 | Badulla | district | 0.994 | 0.005 | 0.001 |
 | LK-82 | Monaragala | district | 0.991 | 0.008 | 0.001 |
@@ -4590,13 +4602,13 @@ Nuclear | Extended | Composite |
 
 ```json
 {
-    "region_id": "LK-22",
-    "region_name": "Matale",
+    "region_id": "LK-11",
+    "region_name": "Colombo",
     "region_ent_type": "district",
     "values": {
-        "p_water_sealed": 0.988,
-        "p_not_water_sealed": 0.011,
-        "p_other": 0.001
+        "p_water_sealed": 0.999,
+        "p_not_water_sealed": 0.001,
+        "p_other": 0.0
     }
 }
 ```
@@ -4707,6 +4719,7 @@ Nuclear | Extended | Composite |
 | LK-32 | Matara | district | 1.4 | 1.3 | 1.6 | 1.1 | 1.0 | 1.1 | -0.214 |
 | LK-33 | Hambantota | district | 2.3 | 2.4 | 2.2 | 1.4 | 1.6 | 1.3 | -0.391 |
 | LK-41 | Jaffna | district | 2.3 | 2.1 | 2.4 | 2.9 | 2.8 | 2.9 | 0.261 |
+| LK-42 | Mannar | district | 1.3 | 1.9 | 1.6 | 1.3 | 2.1 | 1.0 | 0.0 |
 | LK-43 | Vavuniya | district | 2.8 | 2.6 | 3.0 | 2.7 | 2.9 | 3.0 | -0.036 |
 | LK-44 | Mullaitivu | district | 2.8 | 2.0 | 4.0 | 2.5 | 2.4 | 2.6 | -0.107 |
 | LK-45 | Kilinochchi | district | 2.5 | 2.9 | 2.3 | 2.4 | 2.7 | 2.5 | -0.04 |
@@ -4717,6 +4730,7 @@ Nuclear | Extended | Composite |
 | LK-62 | Puttalam | district | 1.7 | 1.7 | 1.9 | 1.1 | 1.0 | 1.2 | -0.353 |
 | LK-71 | Anuradhapura | district | 2.3 | 2.1 | 2.6 | 2.0 | 1.9 | 2.1 | -0.13 |
 | LK-72 | Polonnaruwa | district | 2.2 | 2.4 | 2.3 | 1.6 | 1.8 | 1.7 | -0.273 |
+| LK-81 | Badulla | district | 1.3 | 1.2 | 1.4 | 1.3 | 1.3 | 1.3 | 0.0 |
 | LK-82 | Monaragala | district | 1.3 | 1.1 | 1.5 | 0.9 | 0.8 | 1.1 | -0.308 |
 | LK-91 | Ratnapura | district | 2.0 | 2.0 | 2.0 | 1.5 | 1.5 | 1.5 | -0.25 |
 | LK-92 | Kegalle | district | 2.2 | 2.1 | 2.3 | 1.4 | 1.5 | 1.4 | -0.364 |

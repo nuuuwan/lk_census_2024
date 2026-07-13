@@ -1,3 +1,4 @@
+import json
 import os
 from functools import cached_property
 
@@ -94,6 +95,7 @@ class FinalReportTableDataMixin:
                 return None
 
         if len(raw_data[0].strip()) < 5:
+            log.warning(f"Raw data too short: '{raw_data[0]}'")
             return None
 
         if "\n" in raw_data[0]:
@@ -108,6 +110,9 @@ class FinalReportTableDataMixin:
         assert fields != {}
         n_fields = len(self.primary_keys) + len(self.other_keys)
         if len(raw_data) != n_fields:
+            log.warning(
+                f"Expected {n_fields} fields, got {len(raw_data)}: {raw_data}"
+            )
             return None
 
         d = {}
@@ -156,7 +161,8 @@ class FinalReportTableDataMixin:
         d["values"] = values
 
         for value in values.values():
-            if not value:
+            if value is None:
+                log.warning(f"Value is falsy: {value}")
                 return None
 
         if self.is_summable:
@@ -231,6 +237,7 @@ class FinalReportTableDataMixin:
         d_list.sort(key=lambda x: x["region_id"])
 
         if len(d_list) < self.MIN_N_DATA_LIST:
+            log.error(f"{json.dumps(d_list, indent=4)}")
             raise ValueError(
                 f"[{self}] Expected >={self.MIN_N_DATA_LIST} data items,"
                 + f" found only {len(d_list)}"

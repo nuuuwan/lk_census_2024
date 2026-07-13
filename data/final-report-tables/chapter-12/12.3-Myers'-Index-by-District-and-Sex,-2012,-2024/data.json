@@ -140,6 +140,20 @@
     }
   },
   {
+    "region_id": "LK-42",
+    "region_name": "Mannar",
+    "region_ent_type": "district",
+    "values": {
+      "index_both_sexes_2012": 1.3,
+      "index_male_2012": 1.9,
+      "index_female_2012": 1.6,
+      "index_both_sexes_2024": 1.3,
+      "index_male_2024": 2.1,
+      "index_female_2024": 1.0,
+      "p_change": 0.0
+    }
+  },
+  {
     "region_id": "LK-43",
     "region_name": "Vavuniya",
     "region_ent_type": "district",
@@ -277,6 +291,20 @@
       "index_male_2024": 1.8,
       "index_female_2024": 1.7,
       "p_change": -0.273
+    }
+  },
+  {
+    "region_id": "LK-81",
+    "region_name": "Badulla",
+    "region_ent_type": "district",
+    "values": {
+      "index_both_sexes_2012": 1.3,
+      "index_male_2012": 1.2,
+      "index_female_2012": 1.4,
+      "index_both_sexes_2024": 1.3,
+      "index_male_2024": 1.3,
+      "index_female_2024": 1.3,
+      "p_change": 0.0
     }
   },
   {
