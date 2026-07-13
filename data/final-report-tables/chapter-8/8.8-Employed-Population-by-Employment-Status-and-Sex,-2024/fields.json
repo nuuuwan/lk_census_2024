@@ -1,5 +1,4 @@
 {
-  "primary_key": "",
-  "other_keys": [],
-  "is_summable": false
+  "primary_key": "employment_status",
+  "other_keys": ["_", "_", "male", "_", "female", "_"]
 }
