@@ -1,0 +1,5 @@
+{
+  "primary_key": "disease",
+  "other_keys": ["population", "prevelence_rate"],
+  "is_summable": false
+}
