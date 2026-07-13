@@ -1,5 +1,6 @@
 import json
 
+from lk_census.final_report.table.FinalReportTable import FinalReportTable
 from utils_future import Markdown
 
 
@@ -64,6 +65,37 @@ class ReadMeFinalReportMixin:
 
         return lines
 
+    def get_lines_for_final_report_table_with_raw_data_complicated(
+        self, final_report_table
+    ):
+        assert final_report_table.raw_data_file.exists
+        lines = []
+
+        example_rows = final_report_table.raw_data_list[:10]
+        max_cols = max(len(row) for row in example_rows)
+
+        d_list = [
+            {
+                f"Col {i}": row[i] if i < len(row) else "--"
+                for i in list(range(max_cols))
+            }
+            for row in example_rows
+        ]
+        lines.extend(
+            [
+                "*🟡 Raw Text Data was extracted from PDF,"
+                + " but not parsed into structured data,"
+                + " because the table data format is complicated.*",
+                "",
+                "### Raw Data (first 10 rows)",
+                "",
+            ]
+            + Markdown.table(d_list)
+            + [""]
+        )
+
+        return lines
+
     def get_lines_for_final_report_table_with_structured_data(
         self, final_report_table
     ):
@@ -100,13 +132,18 @@ class ReadMeFinalReportMixin:
 
     def _get_lines_for_final_report_table_inner(self, final_report_table):
         status = final_report_table.build_status
-        if status == 3:
+        if status == 4:
             return self.get_lines_for_final_report_table_with_structured_data(
                 final_report_table
             )
 
-        if status == 2:
+        if status == 3:
             return self.get_lines_for_final_report_table_with_raw_data(
+                final_report_table
+            )
+
+        if status == 2:
+            return self.get_lines_for_final_report_table_with_raw_data_complicated(
                 final_report_table
             )
 
@@ -151,11 +188,13 @@ class ReadMeFinalReportMixin:
             status_to_n[status] += 1
 
         lines = [
-            "Final Report Build Status",
+            "## `Final Report Build Status`",
             "",
         ]
-        for status, n in status_to_n.items():
-            lines.append(f"- Status {status}: {n} tables")
+        status_to_n = sorted(dict(status_to_n).items(), key=lambda x: x[0])
+        for status, n in status_to_n:
+            status_label = FinalReportTable.STATUS_LABELS[status]
+            lines.append(f"- {status_label}: {n} tables")
         lines.append("")
         return lines
 

@@ -64,19 +64,33 @@ class FinalReportTable(
             "5.2.2",  # Triple Row
             "5.2.5",  # Col Sum
             "6.1.6",  # Data error?
-            "6.1.13"  # Double Row
+            "6.1.13",  # Double Row
             "6.2.1",  # Double Row
+            "6.2.4",  # Double Row
+            "6.2.5",  # Double Row
         ]
 
+    STATUS_LABELS = {
+        0: "0. ⚫️ Original PDF is missing",
+        1: "1. 🔴 Raw data is missing",
+        2: "2. 🟠 Raw data is difficult to parse",
+        3: "3. 🟡 Data is missing",
+        4: "4. ✅ Complete",
+    }
+
+    # flake8: noqa: C901
     @cached_property
     def build_status(self):
+        if not self.original_pdf_file.exists:
+            return 0
 
-        files = [
-            self.original_pdf_file,
-            self.raw_data_file,
-            self.data_file,
-        ]
-        for i, f in enumerate(files):
-            if not f.exists:
-                return i
-        return len(files)
+        if not self.raw_data_file.exists:
+            return 1
+
+        if self.is_complicated:
+            return 2
+
+        if not self.data_file.exists:
+            return 3
+
+        return 4
