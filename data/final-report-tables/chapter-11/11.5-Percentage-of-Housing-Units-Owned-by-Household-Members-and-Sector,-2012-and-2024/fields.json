@@ -1,5 +1,8 @@
 {
-  "primary_key": "",
-  "other_keys": [],
+  "primary_key": "sector",
+  "other_keys": [
+    "p_households_owned_by_members_2012",
+    "p_households_owned_by_members_2024"
+  ],
   "is_summable": false
 }
