@@ -1,0 +1,17 @@
+{
+  "primary_key": "sector",
+  "other_keys": [
+    "_total_value",
+    "p_diabetes",
+    "p_high_cholesterol",
+    "p_high_blood_pressure",
+    "p_heart_disease",
+    "p_kidney_disease",
+    "p_thalassemia",
+    "p_cancer",
+    "p_stroke",
+    "p_asthma",
+    "p_epilepsy"
+  ],
+  "is_summable": false
+}

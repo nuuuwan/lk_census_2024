@@ -1,3 +1,6 @@
+import os
+import shutil
+
 from utils_base.file.FileOrDirectory import FileOrDirectory
 
 DIALECT = "excel"
@@ -29,3 +32,13 @@ class File(FileOrDirectory):
     def write_lines(self, lines):
         content = DELIM_LINE.join(lines)
         File.write(self, content)
+
+    def open(self, app=None):
+        if app is None:
+            os.system(f'open "{self.path}"')
+        else:
+            os.system(f'{app} "{self.path}"')
+
+    def delete(self):
+        if os.path.exists(self.path):
+            os.remove(self.path)
