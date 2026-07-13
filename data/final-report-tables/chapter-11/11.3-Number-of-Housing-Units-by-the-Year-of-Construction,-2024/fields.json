@@ -1,0 +1,5 @@
+{
+  "primary_key": "construction_year",
+  "other_keys": ["housing_units", "_ignore"],
+  "is_summable": false
+}
