@@ -19,7 +19,7 @@ class FinalReport(FinalReportMetadataMixin):
             table.build()
 
     @staticmethod
-    def parse():
+    def build():
         FinalReport.extract_table_index()
         FinalReport.build_table_metadata()
         FinalReport.parse_tables()

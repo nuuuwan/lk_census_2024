@@ -6,5 +6,5 @@ def not_used():
 
 
 if __name__ == "__main__":
-    FinalReport.parse()
+    FinalReport.build()
     ReadMe().build()

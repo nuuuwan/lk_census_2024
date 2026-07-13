@@ -27,10 +27,10 @@ class FinalReportMetadataMixin:
 
     @staticmethod
     def build_table_metadata(force=False):
-        if FinalReportConstants.TABLE_INDEX_TXT_FILE.exists and not force:
+        if FinalReportConstants.TABLE_METADATA_FILE.exists and not force:
             return
         d_list = []
-        lines = FinalReportMetadataMixin.TABLE_INDEX_TXT_FILE.read_lines()
+        lines = FinalReportConstants.TABLE_INDEX_TXT_FILE.read_lines()
         for i_line, line in enumerate(lines, start=0):
             if not line.startswith("Table"):
                 continue
@@ -69,11 +69,13 @@ class FinalReportMetadataMixin:
             page_num = d["page_num"]
             if page_num not in page_num_to_d_list:
                 page_num_to_d_list[page_num] = []
+            d["i_table_on_page"] = len(page_num_to_d_list[page_num])
             page_num_to_d_list[page_num].append(d)
 
         for d in d_list:
             page_num = d["page_num"]
             has_page_multiple_tables = len(page_num_to_d_list[page_num]) > 1
+            d["total_tables_on_page"] = len(page_num_to_d_list[page_num])
             d["has_page_multiple_tables"] = has_page_multiple_tables
 
         FinalReportConstants.TABLE_METADATA_FILE.write(d_list)
