@@ -60,7 +60,6 @@ class ReadMeFinalReportMixin:
                 "",
             ]
             + Markdown.table(d_list)
-            + [""]
         )
 
         return lines
@@ -91,7 +90,6 @@ class ReadMeFinalReportMixin:
                 "",
             ]
             + Markdown.table(d_list)
-            + [""]
         )
 
         return lines
@@ -191,11 +189,17 @@ class ReadMeFinalReportMixin:
             "## `Final Report Build Status`",
             "",
         ]
-        status_to_n = sorted(dict(status_to_n).items(), key=lambda x: x[0])
-        for status, n in status_to_n:
-            status_label = FinalReportTable.STATUS_LABELS[status]
-            lines.append(f"- {status_label}: {n} tables")
-        lines.append("")
+        status_to_n = dict(sorted(status_to_n.items(), key=lambda x: x[0]))
+        print(status_to_n)
+        d_list = [
+            dict(
+                status=status,
+                status_label=FinalReportTable.STATUS_LABELS[status],
+                n=n,
+            )
+            for status, n in status_to_n.items()
+        ]
+        lines.extend(Markdown.table(d_list))
         return lines
 
     def get_lines_for_final_report(

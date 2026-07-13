@@ -71,11 +71,11 @@ class FinalReportTable(
         ]
 
     STATUS_LABELS = {
-        0: "0. ⚫️ Original PDF is missing",
-        1: "1. 🔴 Raw data is missing",
-        2: "2. 🟠 Raw data is difficult to parse",
-        3: "3. 🟡 Data is missing",
-        4: "4. ✅ Complete",
+        0: "⚫️ Original PDF is missing",
+        1: "🔴 Raw data is missing",
+        2: "🟠 Raw data is difficult to parse",
+        3: "🟡 Data is missing",
+        4: "✅ Complete",
     }
 
     # flake8: noqa: C901

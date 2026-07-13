@@ -24,4 +24,4 @@ class Markdown:
             "| " + " | ".join(str(d[k]) for k in keys) + " |" for d in d_list
         ]
 
-        return [header, separator] + rows
+        return [header, separator] + rows + [""]
