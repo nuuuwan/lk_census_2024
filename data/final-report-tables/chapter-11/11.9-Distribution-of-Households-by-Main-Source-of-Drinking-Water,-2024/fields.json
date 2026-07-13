@@ -1,5 +1,5 @@
 {
-  "primary_key": "",
-  "other_keys": [],
+  "primary_key": "source_drinking_water",
+  "other_keys": ["households", "_"],
   "is_summable": false
 }
