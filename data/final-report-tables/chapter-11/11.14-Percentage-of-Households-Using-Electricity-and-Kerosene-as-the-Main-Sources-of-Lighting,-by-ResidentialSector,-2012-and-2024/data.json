@@ -1,0 +1,38 @@
+[
+  {
+    "sector": "Sri Lanka",
+    "values": {
+      "p_electricity_2012": 0.87,
+      "p_electricity_2024": 0.98,
+      "p_kerosene_2012": 0.122,
+      "p_kerosene_2024": 0.016
+    }
+  },
+  {
+    "sector": "Urban*",
+    "values": {
+      "p_electricity_2012": 0.968,
+      "p_electricity_2024": 0.986,
+      "p_kerosene_2012": 0.031,
+      "p_kerosene_2024": 0.007
+    }
+  },
+  {
+    "sector": "Rural",
+    "values": {
+      "p_electricity_2012": 0.852,
+      "p_electricity_2024": 0.979,
+      "p_kerosene_2012": 0.138,
+      "p_kerosene_2024": 0.017
+    }
+  },
+  {
+    "sector": "Estate- Rural **",
+    "values": {
+      "p_electricity_2012": 0.799,
+      "p_electricity_2024": 0.966,
+      "p_kerosene_2012": 0.192,
+      "p_kerosene_2024": 0.029
+    }
+  }
+]
