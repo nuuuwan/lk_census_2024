@@ -79,6 +79,8 @@ class FinalReportMetadataMixin:
             d["has_page_multiple_tables"] = has_page_multiple_tables
 
         FinalReportConstants.TABLE_METADATA_FILE.write(d_list)
-        log.info(f"Wrote {
+        log.info(
+            f"Wrote {
                 len(d_list)} tables to {
-                FinalReportConstants.TABLE_METADATA_FILE}")
+                FinalReportConstants.TABLE_METADATA_FILE}"
+        )

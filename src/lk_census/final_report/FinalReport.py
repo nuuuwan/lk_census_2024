@@ -1,11 +1,8 @@
-import os
 
-from lk_census.final_report.FinalReportConstants import FinalReportConstants
-from lk_census.final_report.FinalReportMetadataMixin import (
-    FinalReportMetadataMixin,
-)
+from lk_census.final_report.FinalReportMetadataMixin import \
+    FinalReportMetadataMixin
 from lk_census.final_report.FinalReportTable import FinalReportTable
-from utils_future import Log, PDFFile
+from utils_future import Log
 
 log = Log("FinalReport")
 

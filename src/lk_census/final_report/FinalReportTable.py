@@ -2,15 +2,12 @@ import os
 
 from lk_census.final_report.FinalReportConstants import FinalReportConstants
 from lk_census.final_report.FinalReportTableBase import FinalReportTableBase
-from lk_census.final_report.FinalReportTableDataMixin import (
-    FinalReportTableDataMixin,
-)
-from lk_census.final_report.FinalReportTablePDFMixin import (
-    FinalReportTablePDFMixin,
-)
-from lk_census.final_report.FinalReportTableRawDataMixin import (
-    FinalReportTableRawDataMixin,
-)
+from lk_census.final_report.FinalReportTableDataMixin import \
+    FinalReportTableDataMixin
+from lk_census.final_report.FinalReportTablePDFMixin import \
+    FinalReportTablePDFMixin
+from lk_census.final_report.FinalReportTableRawDataMixin import \
+    FinalReportTableRawDataMixin
 from utils_future import Log
 
 log = Log("FinalReportTable")

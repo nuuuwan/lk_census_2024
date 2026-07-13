@@ -160,9 +160,11 @@ class ReadMeFinalReportMixin:
     def get_lines_for_final_report(
         self, n_datasets_non_final_table, final_report_table_list
     ):
-        n = len(final_report_table_list)
+        len(final_report_table_list)
 
-        lines = self.get_lines_for_final_report_status(final_report_table_list)
+        lines = self.get_lines_for_final_report_status(
+            final_report_table_list
+        )
         i_dataset = n_datasets_non_final_table + 1
         for final_report_table in final_report_table_list:
             if final_report_table.data_file.exists:
