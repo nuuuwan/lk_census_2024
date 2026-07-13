@@ -1,0 +1,42 @@
+[
+  {
+    "sector": "Sri Lanka",
+    "values": {
+      "with_only_one_room": 358358,
+      "with_only_more_than_one_room": 5672183
+    },
+    "total_value": 6030541
+  },
+  {
+    "sector": "Urban",
+    "values": {
+      "with_only_one_room": 80249,
+      "with_only_more_than_one_room": 945081
+    },
+    "total_value": 1025330
+  },
+  {
+    "sector": "Estate- Urban",
+    "values": {
+      "with_only_one_room": 377,
+      "with_only_more_than_one_room": 2656
+    },
+    "total_value": 3033
+  },
+  {
+    "sector": "Rural",
+    "values": {
+      "with_only_one_room": 251344,
+      "with_only_more_than_one_room": 4521992
+    },
+    "total_value": 4773336
+  },
+  {
+    "sector": "Estate- Rural",
+    "values": {
+      "with_only_one_room": 26388,
+      "with_only_more_than_one_room": 202454
+    },
+    "total_value": 228842
+  }
+]

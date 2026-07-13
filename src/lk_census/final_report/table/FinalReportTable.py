@@ -92,6 +92,7 @@ class FinalReportTable(
         "10.7",  # Double Row
         "10.10",  # Double Row
         # Chapter 11
+        "11.6",  # Sub-headings
         "11.17",  # Sub-headings
     ]
 
