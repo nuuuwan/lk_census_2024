@@ -1,6 +1,9 @@
 {
   "primary_key": "highest_educational_qualification",
-  "raw_table_index_list": [1, 2],
+  "raw_table_index_list": [
+    1,
+    2
+  ],
   "other_keys": [
     "total",
     "male",

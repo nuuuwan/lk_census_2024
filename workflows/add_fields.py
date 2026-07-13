@@ -30,3 +30,5 @@ if __name__ == "__main__":
 
             table.build_data(force=True)
             os.system(f'code "{table.data_file.path}"')
+
+        break

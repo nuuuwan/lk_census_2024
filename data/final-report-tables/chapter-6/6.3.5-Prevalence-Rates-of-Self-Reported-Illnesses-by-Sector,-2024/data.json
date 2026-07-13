@@ -1,0 +1,47 @@
+[
+  {
+    "sector": "Urban*",
+    "values": {
+      "p_diabetes": 0.104,
+      "p_high_cholesterol": 0.089,
+      "p_high_blood_pressure": 0.103,
+      "p_heart_disease": 0.024,
+      "p_kidney_disease": 0.005,
+      "p_thalassemia": 0.001,
+      "p_cancer": 0.003,
+      "p_stroke": 0.004,
+      "p_asthma": 0.014,
+      "p_epilepsy": 0.002
+    }
+  },
+  {
+    "sector": "Rural",
+    "values": {
+      "p_diabetes": 0.083,
+      "p_high_cholesterol": 0.083,
+      "p_high_blood_pressure": 0.101,
+      "p_heart_disease": 0.025,
+      "p_kidney_disease": 0.009,
+      "p_thalassemia": 0.001,
+      "p_cancer": 0.004,
+      "p_stroke": 0.006,
+      "p_asthma": 0.019,
+      "p_epilepsy": 0.003
+    }
+  },
+  {
+    "sector": "Estate Rural**",
+    "values": {
+      "p_diabetes": 0.044,
+      "p_high_cholesterol": 0.036,
+      "p_high_blood_pressure": 0.082,
+      "p_heart_disease": 0.024,
+      "p_kidney_disease": 0.005,
+      "p_thalassemia": 0.001,
+      "p_cancer": 0.003,
+      "p_stroke": 0.008,
+      "p_asthma": 0.025,
+      "p_epilepsy": 0.006
+    }
+  }
+]
