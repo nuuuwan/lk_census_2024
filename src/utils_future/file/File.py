@@ -1,5 +1,4 @@
 import os
-import shutil
 
 from utils_base.file.FileOrDirectory import FileOrDirectory
 

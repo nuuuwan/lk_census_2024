@@ -1,5 +1,3 @@
-import os
-
 from lk_census.final_report.table import FinalReportTable
 
 if __name__ == "__main__":

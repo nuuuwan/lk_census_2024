@@ -1,6 +1,6 @@
 import json
 
-from utils_base.file.File import File
+from utils_future.file.File import File
 
 
 class JSONFile(File):
