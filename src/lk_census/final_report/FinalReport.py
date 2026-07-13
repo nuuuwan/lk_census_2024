@@ -1,6 +1,5 @@
-from lk_census.final_report.FinalReportMetadataMixin import (
-    FinalReportMetadataMixin,
-)
+from lk_census.final_report.FinalReportMetadataMixin import \
+    FinalReportMetadataMixin
 from lk_census.final_report.table import FinalReportTable
 from utils_future import Log
 

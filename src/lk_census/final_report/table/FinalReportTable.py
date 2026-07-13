@@ -2,19 +2,15 @@ import os
 from functools import cached_property
 
 from lk_census.final_report.FinalReportConstants import FinalReportConstants
-from lk_census.final_report.table.FinalReportTableBase import (
-    FinalReportTableBase,
-)
-from lk_census.final_report.table.FinalReportTableDataMixin import (
-    FinalReportTableDataMixin,
-)
-from lk_census.final_report.table.FinalReportTablePDFMixin import (
-    FinalReportTablePDFMixin,
-)
-from lk_census.final_report.table.FinalReportTableRawDataMixin import (
-    FinalReportTableRawDataMixin,
-)
-from utils_future import Log, Parse
+from lk_census.final_report.table.FinalReportTableBase import \
+    FinalReportTableBase
+from lk_census.final_report.table.FinalReportTableDataMixin import \
+    FinalReportTableDataMixin
+from lk_census.final_report.table.FinalReportTablePDFMixin import \
+    FinalReportTablePDFMixin
+from lk_census.final_report.table.FinalReportTableRawDataMixin import \
+    FinalReportTableRawDataMixin
+from utils_future import Log
 
 log = Log("FinalReportTable")
 

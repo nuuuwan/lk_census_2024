@@ -1,4 +1,3 @@
-from gig_future import Ent, EntType
 from utils_future import Log, Parse
 
 log = Log("FinalReportTableDataOtherValuesMixin")
