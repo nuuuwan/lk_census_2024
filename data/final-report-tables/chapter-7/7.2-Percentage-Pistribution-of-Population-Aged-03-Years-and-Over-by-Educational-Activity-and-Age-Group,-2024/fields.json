@@ -1,5 +1,14 @@
 {
-  "primary_key": "",
-  "other_keys": [],
+  "primary_key": "age_group",
+  "other_keys": [
+    "_total_value",
+    "_ignore",
+    "p_pre_school",
+    "p_school_education",
+    "p_undergraduate_or_postgraduate_education",
+    "p_vocational_training_or_technical_education",
+    "p_other_educational_activity",
+    "p_not_studying"
+  ],
   "is_summable": false
 }
