@@ -1,0 +1,93 @@
+[
+  {
+    "marital_status": "Sri Lanka",
+    "values": {
+      "difficulty_in_seeing": 192578,
+      "difficulty_in_hearing": 130097,
+      "difficulty_in_walking_or_climbing_steps": 447969,
+      "difficulty_in_remembering_or_concentrating": 167826,
+      "difficulty_in_selfcare_such_as_washing_or_dressing": 189292,
+      "difficulty_in_communicating_with_others": 112798,
+      "no_disability": 19326120
+    },
+    "total_value": 20566680
+  },
+  {
+    "marital_status": "Never Married",
+    "values": {
+      "difficulty_in_seeing": 26799,
+      "difficulty_in_hearing": 24124,
+      "difficulty_in_walking_or_climbing_steps": 55653,
+      "difficulty_in_remembering_or_concentrating": 63731,
+      "difficulty_in_selfcare_such_as_washing_or_dressing": 47650,
+      "difficulty_in_communicating_with_others": 53285,
+      "no_disability": 7613788
+    },
+    "total_value": 7885030
+  },
+  {
+    "marital_status": "Married",
+    "values": {
+      "difficulty_in_seeing": 108272,
+      "difficulty_in_hearing": 64434,
+      "difficulty_in_walking_or_climbing_steps": 247239,
+      "difficulty_in_remembering_or_concentrating": 58641,
+      "difficulty_in_selfcare_such_as_washing_or_dressing": 84887,
+      "difficulty_in_communicating_with_others": 38237,
+      "no_disability": 10559368
+    },
+    "total_value": 11161078
+  },
+  {
+    "marital_status": "Widowed",
+    "values": {
+      "difficulty_in_seeing": 54018,
+      "difficulty_in_hearing": 39306,
+      "difficulty_in_walking_or_climbing_steps": 137784,
+      "difficulty_in_remembering_or_concentrating": 42185,
+      "difficulty_in_selfcare_such_as_washing_or_dressing": 54247,
+      "difficulty_in_communicating_with_others": 19327,
+      "no_disability": 887551
+    },
+    "total_value": 1234418
+  },
+  {
+    "marital_status": "Divorced",
+    "values": {
+      "difficulty_in_seeing": 712,
+      "difficulty_in_hearing": 499,
+      "difficulty_in_walking_or_climbing_steps": 1553,
+      "difficulty_in_remembering_or_concentrating": 840,
+      "difficulty_in_selfcare_such_as_washing_or_dressing": 633,
+      "difficulty_in_communicating_with_others": 494,
+      "no_disability": 69624
+    },
+    "total_value": 74355
+  },
+  {
+    "marital_status": "Legally Separated",
+    "values": {
+      "difficulty_in_seeing": 430,
+      "difficulty_in_hearing": 268,
+      "difficulty_in_walking_or_climbing_steps": 981,
+      "difficulty_in_remembering_or_concentrating": 417,
+      "difficulty_in_selfcare_such_as_washing_or_dressing": 332,
+      "difficulty_in_communicating_with_others": 245,
+      "no_disability": 42231
+    },
+    "total_value": 44904
+  },
+  {
+    "marital_status": "Separated(not Legally)",
+    "values": {
+      "difficulty_in_seeing": 2347,
+      "difficulty_in_hearing": 1466,
+      "difficulty_in_walking_or_climbing_steps": 4759,
+      "difficulty_in_remembering_or_concentrating": 2012,
+      "difficulty_in_selfcare_such_as_washing_or_dressing": 1543,
+      "difficulty_in_communicating_with_others": 1210,
+      "no_disability": 153558
+    },
+    "total_value": 166895
+  }
+]
