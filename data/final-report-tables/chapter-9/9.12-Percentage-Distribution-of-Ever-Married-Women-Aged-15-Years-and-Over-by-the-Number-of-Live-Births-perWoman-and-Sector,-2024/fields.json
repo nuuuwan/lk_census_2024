@@ -1,5 +1,16 @@
 {
-  "primary_key": "",
-  "other_keys": [],
+  "primary_key": "sector",
+  "other_keys": [
+    "population_of_ever_married_women_aged_15_and_over",
+    "_ignore",
+    "p_0",
+    "p_1",
+    "p_2",
+    "p_3",
+    "p_4",
+    "p_5",
+    "p_6",
+    "p_7_plus"
+  ],
   "is_summable": false
 }

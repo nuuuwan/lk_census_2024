@@ -1,0 +1,58 @@
+[
+  {
+    "sector": "All Sectors",
+    "values": {
+      "population_of_ever_married_women_aged_15_and_over": 6977254,
+      "p_0": 0.106,
+      "p_1": 0.19,
+      "p_2": 0.333,
+      "p_3": 0.224,
+      "p_4": 0.081,
+      "p_5": 0.034,
+      "p_6": 0.016,
+      "p_7_plus": 0.016
+    }
+  },
+  {
+    "sector": "Urban*",
+    "values": {
+      "population_of_ever_married_women_aged_15_and_over": 1207941,
+      "p_0": 0.129,
+      "p_1": 0.213,
+      "p_2": 0.34,
+      "p_3": 0.199,
+      "p_4": 0.069,
+      "p_5": 0.027,
+      "p_6": 0.012,
+      "p_7_plus": 0.011
+    }
+  },
+  {
+    "sector": "Rural",
+    "values": {
+      "population_of_ever_married_women_aged_15_and_over": 5504477,
+      "p_0": 0.1,
+      "p_1": 0.187,
+      "p_2": 0.334,
+      "p_3": 0.226,
+      "p_4": 0.082,
+      "p_5": 0.035,
+      "p_6": 0.016,
+      "p_7_plus": 0.018
+    }
+  },
+  {
+    "sector": "Estate Rural **",
+    "values": {
+      "population_of_ever_married_women_aged_15_and_over": 264836,
+      "p_0": 0.124,
+      "p_1": 0.16,
+      "p_2": 0.262,
+      "p_3": 0.283,
+      "p_4": 0.107,
+      "p_5": 0.038,
+      "p_6": 0.014,
+      "p_7_plus": 0.012
+    }
+  }
+]
