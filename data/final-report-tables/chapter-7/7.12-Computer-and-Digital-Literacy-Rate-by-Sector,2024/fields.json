@@ -1,5 +1,5 @@
 {
-  "primary_key": "",
-  "other_keys": [],
+  "primary_key": "sector",
+  "other_keys": ["computer_literacy_rate", "digital_literacy_rate"],
   "is_summable": false
 }

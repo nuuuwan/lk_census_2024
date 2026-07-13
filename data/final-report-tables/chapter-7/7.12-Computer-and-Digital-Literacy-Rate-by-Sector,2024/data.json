@@ -1,0 +1,30 @@
+[
+  {
+    "sector": "Sri Lanka",
+    "values": {
+      "computer_literacy_rate": 34.7,
+      "digital_literacy_rate": 67.6
+    }
+  },
+  {
+    "sector": "Urban*",
+    "values": {
+      "computer_literacy_rate": 47.0,
+      "digital_literacy_rate": 76.8
+    }
+  },
+  {
+    "sector": "Rural",
+    "values": {
+      "computer_literacy_rate": 33.0,
+      "digital_literacy_rate": 66.4
+    }
+  },
+  {
+    "sector": "Estate Rural**",
+    "values": {
+      "computer_literacy_rate": 14.9,
+      "digital_literacy_rate": 50.2
+    }
+  }
+]
