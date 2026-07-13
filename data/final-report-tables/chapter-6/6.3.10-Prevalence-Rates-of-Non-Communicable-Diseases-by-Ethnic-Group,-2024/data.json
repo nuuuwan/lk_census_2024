@@ -1,0 +1,167 @@
+[
+  {
+    "ethnicity": "Sri Lanka*",
+    "values": {
+      "p_diabetes": 0.085,
+      "p_high_cholesterol": 0.082,
+      "p_high_blood_pressure": 0.101,
+      "p_heart_disease": 0.025,
+      "p_kidney_disease": 0.008,
+      "p_thalassemia": 0.001,
+      "p_cancer": 0.004,
+      "p_stroke": 0.006,
+      "p_asthma": 0.018,
+      "p_epilepsy": 0.003
+    }
+  },
+  {
+    "ethnicity": "Sinhala",
+    "values": {
+      "p_diabetes": 0.086,
+      "p_high_cholesterol": 0.087,
+      "p_high_blood_pressure": 0.105,
+      "p_heart_disease": 0.026,
+      "p_kidney_disease": 0.008,
+      "p_thalassemia": 0.001,
+      "p_cancer": 0.004,
+      "p_stroke": 0.006,
+      "p_asthma": 0.017,
+      "p_epilepsy": 0.003
+    }
+  },
+  {
+    "ethnicity": "Sri Lanka Tamil",
+    "values": {
+      "p_diabetes": 0.08,
+      "p_high_cholesterol": 0.072,
+      "p_high_blood_pressure": 0.088,
+      "p_heart_disease": 0.021,
+      "p_kidney_disease": 0.007,
+      "p_thalassemia": 0.001,
+      "p_cancer": 0.003,
+      "p_stroke": 0.006,
+      "p_asthma": 0.03,
+      "p_epilepsy": 0.004
+    }
+  },
+  {
+    "ethnicity": "Indian Tamil/Malaiyaga  Thamilar",
+    "values": {
+      "p_diabetes": 0.046,
+      "p_high_cholesterol": 0.035,
+      "p_high_blood_pressure": 0.085,
+      "p_heart_disease": 0.024,
+      "p_kidney_disease": 0.005,
+      "p_thalassemia": 0.001,
+      "p_cancer": 0.003,
+      "p_stroke": 0.009,
+      "p_asthma": 0.024,
+      "p_epilepsy": 0.006
+    }
+  },
+  {
+    "ethnicity": "Sri Lanka Moor/ Muslim",
+    "values": {
+      "p_diabetes": 0.092,
+      "p_high_cholesterol": 0.077,
+      "p_high_blood_pressure": 0.093,
+      "p_heart_disease": 0.021,
+      "p_kidney_disease": 0.005,
+      "p_thalassemia": 0.001,
+      "p_cancer": 0.002,
+      "p_stroke": 0.004,
+      "p_asthma": 0.017,
+      "p_epilepsy": 0.003
+    }
+  },
+  {
+    "ethnicity": "Burgher",
+    "values": {
+      "p_diabetes": 0.107,
+      "p_high_cholesterol": 0.1,
+      "p_high_blood_pressure": 0.122,
+      "p_heart_disease": 0.031,
+      "p_kidney_disease": 0.006,
+      "p_thalassemia": 0.001,
+      "p_cancer": 0.005,
+      "p_stroke": 0.006,
+      "p_asthma": 0.019,
+      "p_epilepsy": 0.002
+    }
+  },
+  {
+    "ethnicity": "Malay",
+    "values": {
+      "p_diabetes": 0.115,
+      "p_high_cholesterol": 0.104,
+      "p_high_blood_pressure": 0.138,
+      "p_heart_disease": 0.03,
+      "p_kidney_disease": 0.007,
+      "p_thalassemia": 0.001,
+      "p_cancer": 0.004,
+      "p_stroke": 0.005,
+      "p_asthma": 0.017,
+      "p_epilepsy": 0.003
+    }
+  },
+  {
+    "ethnicity": "Sri Lanka Chetty",
+    "values": {
+      "p_diabetes": 0.078,
+      "p_high_cholesterol": 0.095,
+      "p_high_blood_pressure": 0.105,
+      "p_heart_disease": 0.021,
+      "p_kidney_disease": 0.006,
+      "p_thalassemia": 0.001,
+      "p_cancer": 0.003,
+      "p_stroke": 0.007,
+      "p_asthma": 0.015,
+      "p_epilepsy": 0.003
+    }
+  },
+  {
+    "ethnicity": "Bharatha",
+    "values": {
+      "p_diabetes": 0.096,
+      "p_high_cholesterol": 0.089,
+      "p_high_blood_pressure": 0.104,
+      "p_heart_disease": 0.024,
+      "p_kidney_disease": 0.004,
+      "p_thalassemia": 0,
+      "p_cancer": 0.002,
+      "p_stroke": 0.007,
+      "p_asthma": 0.012,
+      "p_epilepsy": 0.001
+    }
+  },
+  {
+    "ethnicity": "Veddas",
+    "values": {
+      "p_diabetes": 0.063,
+      "p_high_cholesterol": 0.041,
+      "p_high_blood_pressure": 0.053,
+      "p_heart_disease": 0.014,
+      "p_kidney_disease": 0.02,
+      "p_thalassemia": 0.007,
+      "p_cancer": 0.003,
+      "p_stroke": 0.012,
+      "p_asthma": 0.026,
+      "p_epilepsy": 0.005
+    }
+  },
+  {
+    "ethnicity": "Other",
+    "values": {
+      "p_diabetes": 0.057,
+      "p_high_cholesterol": 0.046,
+      "p_high_blood_pressure": 0.062,
+      "p_heart_disease": 0.017,
+      "p_kidney_disease": 0.004,
+      "p_thalassemia": 0.0,
+      "p_cancer": 0.003,
+      "p_stroke": 0.003,
+      "p_asthma": 0.009,
+      "p_epilepsy": 0.001
+    }
+  }
+]
