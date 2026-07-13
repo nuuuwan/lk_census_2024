@@ -1,5 +1,13 @@
 {
-  "primary_key": "",
-  "other_keys": [],
-  "is_summable": false
+  "primary_key": "age_group",
+  "other_keys": [
+    "p_widowed_male_1981",
+    "p_widowed_male_2012",
+    "p_widowed_male_2024",
+    "p_widowed_female_1981",
+    "p_widowed_female_2012",
+    "p_widowed_female_2024"
+  ],
+  "is_summable": false,
+  "raw_table_index_list": [2]
 }
