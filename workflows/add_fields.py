@@ -21,7 +21,7 @@ if __name__ == "__main__":
             os.system(f"code {table.original_pdf_file.path}")
 
         else:
-            table.build()
+            table.build_data(force=True)
             os.system(f"code {table.data_file.path}")
 
         break
