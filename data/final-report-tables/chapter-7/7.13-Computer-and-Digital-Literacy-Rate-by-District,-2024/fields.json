@@ -1,5 +1,10 @@
 {
-  "primary_key": "",
-  "other_keys": [],
-  "is_summable": false
+  "primary_key": "district_name",
+  "other_keys": [
+    "population_aged_5_and_over",
+    "computer_literacy_rate",
+    "digital_literacy_rate"
+  ],
+  "is_summable": false,
+  "is_expandable": false
 }
