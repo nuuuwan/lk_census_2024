@@ -1,0 +1,123 @@
+[
+  {
+    "terminal_digit": "0",
+    "values": {
+      "both_sexes_2012_myers_index": 0.2,
+      "male_2012_myers_index": 0.2,
+      "female_2012_myers_index": 0.1,
+      "both_sexes_2024_myers_index": -0.2,
+      "male_2024_myers_index": -0.2,
+      "female_2024_myers_index": -0.1
+    }
+  },
+  {
+    "terminal_digit": "1",
+    "values": {
+      "both_sexes_2012_myers_index": 0.1,
+      "male_2012_myers_index": 0.2,
+      "female_2012_myers_index": 0.1,
+      "both_sexes_2024_myers_index": -0.1,
+      "male_2024_myers_index": -0.1,
+      "female_2024_myers_index": -0.1
+    }
+  },
+  {
+    "terminal_digit": "2",
+    "values": {
+      "both_sexes_2012_myers_index": 0.2,
+      "male_2012_myers_index": 0.2,
+      "female_2012_myers_index": 0.1,
+      "both_sexes_2024_myers_index": 0.2,
+      "male_2024_myers_index": 0.2,
+      "female_2024_myers_index": 0.3
+    }
+  },
+  {
+    "terminal_digit": "3",
+    "values": {
+      "both_sexes_2012_myers_index": -0.1,
+      "male_2012_myers_index": -0.1,
+      "female_2012_myers_index": -0.1,
+      "both_sexes_2024_myers_index": 0.1,
+      "male_2024_myers_index": 0.1,
+      "female_2024_myers_index": 0.0
+    }
+  },
+  {
+    "terminal_digit": "4",
+    "values": {
+      "both_sexes_2012_myers_index": 0.0,
+      "male_2012_myers_index": 0.0,
+      "female_2012_myers_index": 0.0,
+      "both_sexes_2024_myers_index": 0.2,
+      "male_2024_myers_index": 0.2,
+      "female_2024_myers_index": 0.2
+    }
+  },
+  {
+    "terminal_digit": "5",
+    "values": {
+      "both_sexes_2012_myers_index": -0.1,
+      "male_2012_myers_index": -0.1,
+      "female_2012_myers_index": -0.1,
+      "both_sexes_2024_myers_index": 0.0,
+      "male_2024_myers_index": 0.0,
+      "female_2024_myers_index": 0.0
+    }
+  },
+  {
+    "terminal_digit": "6",
+    "values": {
+      "both_sexes_2012_myers_index": -0.3,
+      "male_2012_myers_index": -0.3,
+      "female_2012_myers_index": -0.3,
+      "both_sexes_2024_myers_index": 0.1,
+      "male_2024_myers_index": 0.1,
+      "female_2024_myers_index": 0.1
+    }
+  },
+  {
+    "terminal_digit": "7",
+    "values": {
+      "both_sexes_2012_myers_index": 0.0,
+      "male_2012_myers_index": -0.1,
+      "female_2012_myers_index": 0.0,
+      "both_sexes_2024_myers_index": -0.1,
+      "male_2024_myers_index": -0.1,
+      "female_2024_myers_index": -0.1
+    }
+  },
+  {
+    "terminal_digit": "8",
+    "values": {
+      "both_sexes_2012_myers_index": -0.2,
+      "male_2012_myers_index": -0.2,
+      "female_2012_myers_index": -0.2,
+      "both_sexes_2024_myers_index": -0.2,
+      "male_2024_myers_index": -0.2,
+      "female_2024_myers_index": -0.2
+    }
+  },
+  {
+    "terminal_digit": "9",
+    "values": {
+      "both_sexes_2012_myers_index": 0.4,
+      "male_2012_myers_index": 0.3,
+      "female_2012_myers_index": 0.4,
+      "both_sexes_2024_myers_index": 0.0,
+      "male_2024_myers_index": 0.0,
+      "female_2024_myers_index": -0.1
+    }
+  },
+  {
+    "terminal_digit": "Myer's Index",
+    "values": {
+      "both_sexes_2012_myers_index": 1.7,
+      "male_2012_myers_index": 1.8,
+      "female_2012_myers_index": 1.7,
+      "both_sexes_2024_myers_index": 1.2,
+      "male_2024_myers_index": 1.2,
+      "female_2024_myers_index": 1.1
+    }
+  }
+]
