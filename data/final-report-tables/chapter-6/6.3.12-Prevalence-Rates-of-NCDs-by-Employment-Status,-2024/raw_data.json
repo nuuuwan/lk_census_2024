@@ -1,40 +1,13 @@
 [
   [
     "",
-    "Employed",
-    "",
-    "",
-    "",
-    "",
-    "",
-    "",
-    "",
-    "",
-    "",
-    ""
-  ],
-  [
     "Employment status",
-    "",
-    "",
-    "",
-    "",
-    "Heart Disease",
-    "Kidney Disease",
-    "",
-    "",
-    "",
-    "",
-    ""
-  ],
-  [
-    "",
-    "Population",
+    "Employed \nPopulation",
     "Diabetes",
     "High \nCholesterol",
     "High Blood \nPressure",
-    "",
-    "",
+    "Heart Disease",
+    "Kidney Disease",
     "Thalassemia",
     "Cancer",
     "Stroke",
@@ -42,21 +15,8 @@
     "Epilepsy"
   ],
   [
-    "Employed population aged 15",
     "",
-    "",
-    "",
-    "",
-    "",
-    "",
-    "",
-    "",
-    "",
-    "",
-    ""
-  ],
-  [
-    "",
+    "Employed population aged 15 \nand over",
     "7,670,749",
     "7.8",
     "7.1",
@@ -70,20 +30,7 @@
     "0.2"
   ],
   [
-    "and over",
     "",
-    "",
-    "",
-    "",
-    "",
-    "",
-    "",
-    "",
-    "",
-    "",
-    ""
-  ],
-  [
     "Government paid employee",
     "1,162,693",
     "6.1",
@@ -98,21 +45,8 @@
     "0.1"
   ],
   [
-    "Semi government paid",
     "",
-    "",
-    "",
-    "",
-    "",
-    "",
-    "",
-    "",
-    "",
-    "",
-    ""
-  ],
-  [
-    "",
+    "Semi government paid \nemployee",
     "170,713",
     "7.6",
     "6.9",
@@ -126,20 +60,7 @@
     "0.1"
   ],
   [
-    "employee",
     "",
-    "",
-    "",
-    "",
-    "",
-    "",
-    "",
-    "",
-    "",
-    "",
-    ""
-  ],
-  [
     "Paid employee (private sector)",
     "3,244,290",
     "5.8",
@@ -154,6 +75,7 @@
     "0.3"
   ],
   [
+    "",
     "Employer (have employees)",
     "277,868",
     "13.8",
@@ -168,21 +90,8 @@
     "0.1"
   ],
   [
-    "Own account worker",
     "",
-    "",
-    "",
-    "",
-    "",
-    "",
-    "",
-    "",
-    "",
-    "",
-    ""
-  ],
-  [
-    "",
+    "Own account worker  \n(don\u2019t have employees)",
     "2,407,614",
     "10.4",
     "9.6",
@@ -196,35 +105,8 @@
     "0.3"
   ],
   [
-    "(don\u2019t have employees)",
     "",
-    "",
-    "",
-    "",
-    "",
-    "",
-    "",
-    "",
-    "",
-    "",
-    ""
-  ],
-  [
-    "Contributing to family enterprise",
-    "",
-    "",
-    "",
-    "",
-    "",
-    "",
-    "",
-    "",
-    "",
-    "",
-    ""
-  ],
-  [
-    "",
+    "Contributing to family enterprise \n(unpaid family worker)",
     "407,571",
     "9.6",
     "10.7",
@@ -238,21 +120,8 @@
     "0.3"
   ],
   [
-    "(unpaid family worker)",
-    "",
-    "",
-    "",
-    "",
-    "",
-    "",
-    "",
-    "",
-    "",
-    "",
-    ""
-  ],
-  [
     "*Excluding the roofless population",
+    "",
     "",
     "",
     "",
@@ -277,10 +146,12 @@
     "",
     "",
     "",
+    "",
     ""
   ],
   [
     "lower than the national average in Sri Lanka. Specifically, rates for diabetes (5.8%) and high blood pressure",
+    "",
     "",
     "",
     "",

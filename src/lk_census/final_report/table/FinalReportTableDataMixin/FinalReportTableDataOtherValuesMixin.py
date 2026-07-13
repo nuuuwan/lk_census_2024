@@ -7,7 +7,7 @@ log = Log("FinalReportTableDataOtherValuesMixin")
 class FinalReportTableDataOtherValuesMixin:
 
     def _is_key_float(self, cell_key):
-        for keyword in ["avg", "rate", "ratio"]:
+        for keyword in ["avg", "rate", "ratio", "index"]:
             if keyword in cell_key:
                 return True
         return False
@@ -26,22 +26,28 @@ class FinalReportTableDataOtherValuesMixin:
 
     # flake8: noqa: E501
     def _build_value(self, cell_key, cell_value):
-        if cell_key.startswith("p_"):
-            return Parse.percent(cell_value)
-
-        if self._is_key_float(cell_key):
-            return Parse.float(cell_value)
-
         if self._is_key_str(cell_key):
             return cell_value
 
         if self._is_key_boolean(cell_key):
             return Parse.boolean(cell_value)
 
+        if cell_key.startswith("p_"):
+            return Parse.percent(cell_value)
+
+        if self._is_key_float(cell_key):
+            return Parse.float(cell_value)
+
         return Parse.int(cell_value)
 
+    def _build_sums(self, d):
+        values = d["values"]
+        total_value = sum(values.values())
+        d["total_value"] = total_value
+        return d
+
     def _build_other_keys(self, other_cells):
-        d = {}
+        values = {}
         for other_key, other_value in zip(self.other_keys, other_cells):
             if self._is_key_ignored(other_key):
                 continue
@@ -49,5 +55,8 @@ class FinalReportTableDataOtherValuesMixin:
             if value is None:
                 log.warning(f'Null value for "{other_key}": "{other_value}"')
                 return None
-            d[other_key] = value
+            values[other_key] = value
+        d = dict(values=values)
+        if self.is_summable:
+            self._build_sums(d)
         return d

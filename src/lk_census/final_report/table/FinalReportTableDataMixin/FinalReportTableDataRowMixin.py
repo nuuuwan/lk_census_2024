@@ -8,7 +8,7 @@ class FinalReportTableDataRowMixin:
     KNOWN_PRIMARY_KEY_LIST = ["topic", "census_data"]
 
     @staticmethod
-    def _get_region_id(region_name):
+    def _get_region(region_name):
         regions = Ent.list_from_name_fuzzy(
             name_fuzzy=region_name,
             filter_ent_type=EntType.DISTRICT,
@@ -20,7 +20,7 @@ class FinalReportTableDataRowMixin:
                 + f" found {str(regions)}"
             )
             return None
-        return regions[0].id
+        return regions[0]
 
     def _normalize_raw_data(self, raw_data):
         if "\n" in raw_data[0]:
@@ -41,7 +41,7 @@ class FinalReportTableDataRowMixin:
         return raw_data
 
     def _build_primary_keys_for_district(self, first_cell):
-        region = self._get_region_id(first_cell)
+        region = self._get_region(first_cell)
         if region is None:
             log.warning(f"No region for: {first_cell}")
             return None

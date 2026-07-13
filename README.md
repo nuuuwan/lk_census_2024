@@ -1,7 +1,7 @@
 # 🇱🇰 Sri Lanka - Census of Population and Housing 2024
 
 ![CPH](https://img.shields.io/badge/CPH-2024-blue)
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--07--13_09:19:33-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--07--13_09:36:55-green)
 
 **154** Datasets on Population, Housing and more, by Country, Province, District, Divisional Secretariat Division (DSD), Grama Niladhari Division (GND), Electoral District (ED), Polling Division (PD), and Local Government Authority (LG) levels.
 
@@ -16,18 +16,20 @@ Final Report Build Status
 
 ### Raw Data (first 10 rows)
 
-| Col 0 | Col 1 | Col 2 | Col 3 | Col 4 | Col 5 | Col 6 | Col 7 |
-| :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- |
-|  | 2012 |  | 2024 |  | -- | -- | -- |
-| Sector |  |  |  |  | -- | -- | -- |
-|  | Number | Percentage | Number | Percentage | -- | -- | -- |
-| Sri Lanka | 20,359,439 | 100.0 | 21,781,800 | 100.0 | -- | -- | -- |
-| Urban* | 3,704,470 | 18.2 | 3,819,203 | 17.5 | -- | -- | -- |
-| Rural | 15,753,322 | 77.4 | 17,096,918 | 78.5 | -- | -- | -- |
-| Estate Rural** | 901,647 | 4.4 | 865,679 | 4.0 | -- | -- | -- |
-| *In 2024 information was collected separately for "Urban" and "Estate Urban" sectors, for comparison with the 2012 Census data, these |  |  |  |  | -- | -- | -- |
-| ** In the 2012 Census, the sector was identified as “Estate”, whereas in the 2024 Census it is referred to as “Estate Rural. |  |  |  |  |  |  |  |
-|  | 100.0 |  |  |  |  | 2012 | 2024 |
+| Col 0 | Col 1 | Col 2 | Col 3 | Col 4 |
+| :-- | :-- | :-- | :-- | :-- |
+|  | 2012 |  | 2024 |  |
+| Sector | Number | Percentage | Number | Percentage |
+| Sri Lanka | 20,359,439 | 100.0 | 21,781,800 | 100.0 |
+| Urban* | 3,704,470 | 18.2 | 3,819,203 | 17.5 |
+| Rural | 15,753,322 | 77.4 | 17,096,918 | 78.5 |
+| Estate Rural** | 901,647 | 4.4 | 865,679 | 4.0 |
+| *In 2024 information was collected separately for "Urban" and "Estate Urban" sectors, for comparison with the 2012 Census data, these |  |  |  |  |
+| ** In the 2012 Census, the sector was identified as “Estate”, whereas in the 2024 Census it is referred to as “Estate Rural. |  |  |  |  |
+|  | 100.0 |  |  | 2012
+2024 |
+|  | 80.0 |  | 78.5
+77.4 |  |
 
 ### Source
 
@@ -49,7 +51,7 @@ Final Report Build Status
 | According to Figure 5.2.1, the majority of the population temporarily living abroad, accounting for 66.8 | -- | -- | -- | -- | -- |
 | percent (449,369), belonged to the 30–59 years age group. In addition, 2.9 percent (19,383) were persons | -- | -- | -- | -- | -- |
 | under 18 years of age, while 2.4 percent (16,124) were aged 60 years and over. | -- | -- | -- | -- | -- |
-|  |  |  | Age Group (Years) |  |  |
+| Sector by | Total |  | Age Group (Years) |  |  |
 
 ### Source
 
@@ -62,14 +64,14 @@ Final Report Build Status
 
 | Col 0 | Col 1 | Col 2 | Col 3 | Col 4 | Col 5 | Col 6 | Col 7 | Col 8 | Col 9 | Col 10 |
 | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- |
-|  |  |  | Employment |  | Education |  | family |  | Other |  |
-|  |  |  |  |  |  |  | member’s need |  |  |  |
+|  |  |  | Employment |  | Education |  | family 
+member’s need |  | Other |  |
 |  | Number | % | Number | % | Number | % | Number | % | Number | % |
 | Total | 672,249 | 100.0 | 577,919 | 86.0 | 53,621 | 8.0 | 38,218 | 5.7 | 2,491 | 0.3 |
 | Less than 18 | 19,383 | 100.0 | 0 | 0.0 | 1,486 | 7.7 | 17,862 | 92.1 | 35 | 0.2 |
-|  |  |  |  |  |  | 20. |  |  |  |  |
-| 18 - 29 | 187,373 | 100.0 | 142,256 | 75.9 | 38,053 |  | 6,348 | 3.4 | 716 | 0.4 |
-|  |  |  |  |  |  | 3 |  |  |  |  |
+| 18 - 29 | 187,373 | 100.0 | 142,256 | 75.9 | 38,053 | 20.
+ 
+3 | 6,348 | 3.4 | 716 | 0.4 |
 | 30 - 59 | 449,369 | 100.0 | 423,249 | 94.2 | 14,042 | 3.1 | 10,530 | 2.3 | 1,548 | 0.4 |
 | 60 & over | 16,124 | 100.0 | 12,414 | 77.0 | 40 | 0.2 | 3,478 | 21.6 | 192 | 1.2 |
 
@@ -84,16 +86,17 @@ Final Report Build Status
 
 | Col 0 | Col 1 | Col 2 | Col 3 | Col 4 | Col 5 | Col 6 | Col 7 | Col 8 | Col 9 | Col 10 | Col 11 | Col 12 | Col 13 | Col 14 | Col 15 |
 | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- |
-|  |  |  |  |  |  |  |  |  |  |  | Accompanied a family |  |  |  |  |
-|  |  |  |  |  | Employment |  |  | Education |  |  |  |  |  | Other |  |
-| residence |  |  |  |  |  |  |  |  |  |  | member’s need |  |  |  |  |
+| residence |  |  |  |  | Employment |  |  | Education |  |  | Accompanied a family 
+member’s need |  |  | Other |  |
 |  | Total | Male | Female | Total | Male | Female | Total | Male | Female | Total | Male | Female | Total | Male | Female |
-|  | 672,249 | 412,735 | 259,514 | 577,919 | 367,680 | 210,239 | 53,621 | 29,735 | 23,886 | 38,218 | 14,422 | 23,796 | 2,491 | 898 | 1,593 |
-| Total |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Total | 672,249 | 412,735 | 259,514 | 577,919 | 367,680 | 210,239 | 53,621 | 29,735 | 23,886 | 38,218 | 14,422 | 23,796 | 2,491 | 898 | 1,593 |
 |  | 100.0 | 100.0 | 100.0 | 100.0 | 100.0 | 100.0 | 100.0 | 100.0 | 100.0 | 100.0 | 100.0 | 100.0 | 100.0 | 100.0 | 100.0 |
 | Kuwait | 15.2 | 7.1 | 28.3 | 17.4 | 7.8 | 34.3 | 0.6 | 0.5 | 0.8 | 3.7 | 2.8 | 4.2 | 4.5 | 2.0 | 5.8 |
 | United Arab Emirates | 14.8 | 16.8 | 11.6 | 16.2 | 18.3 | 12.7 | 2.5 | 2.6 | 2.5 | 11.2 | 10.9 | 11.5 | 6.9 | 7.5 | 6.6 |
 | Saudi Arabia | 11.6 | 9.1 | 15.5 | 13.0 | 10.0 | 18.4 | 0.7 | 0.9 | 0.5 | 5.6 | 5.0 | 6.0 | 3.6 | 2.9 | 4.0 |
+| Qatar | 10.5 | 15.3 | 2.9 | 11.8 | 16.8 | 2.8 | 0.7 | 1.0 | 0.4 | 6.7 | 7.4 | 6.2 | 2.7 | 3.2 | 2.4 |
+| Italy | 6.0 | 6.4 | 5.5 | 5.8 | 6.3 | 4.8 | 2.6 | 2.5 | 2.7 | 14.5 | 15.8 | 13.7 | 6.5 | 6.8 | 6.3 |
+| Japan | 5.4 | 6.3 | 3.9 | 3.8 | 5.0 | 1.9 | 21.3 | 23.5 | 18.6 | 6.0 | 5.2 | 6.6 | 4.8 | 4.6 | 4.9 |
 
 ### Source
 
@@ -107,15 +110,15 @@ Final Report Build Status
 | Col 0 | Col 1 | Col 2 | Col 3 | Col 4 | Col 5 |
 | :-- | :-- | :-- | :-- | :-- | :-- |
 | Table 6.1.1 : Total Population, Sex ratio and the Percentage of Male and Female, 1946-2024 |  |  |  |  |  |
-|  |  |  |  | Percentage |  |
-|  | Total |  |  |  |  |
-| Census Year |  | Sex Ratio |  |  |  |
-|  | Population |  |  |  |  |
-|  |  |  | Male |  | Female |
+| Census Year | Total | Sex Ratio |  | Percentage |  |
+|  | Population |  | Male |  | Female |
 | 1946 | 6,657,339 | 113.0 | 53.1 |  | 46.9 |
 | 1953 | 8,097,895 | 115.5 | 52.7 |  | 47.3 |
 | 1963 | 10,582,064 | 108.2 | 52.0 |  | 48.0 |
 | 1971 | 12,689,897 | 106.1 | 51.5 |  | 48.5 |
+| 1981 | 14,846,750 | 104.0 | 51.0 |  | 49.0 |
+| 2001* | 16,929,689 | 99.1 | 49.8 |  | 50.2 |
+| 2012 | 20,359,439 | 93.8 | 48.4 |  | 51.6 |
 
 ### Source
 
@@ -157,9 +160,9 @@ Final Report Build Status
 | increase in the elderly population as reported in the census. | -- | -- | -- | -- | -- | -- |
 | The population distribution by five-year age groups for the census years 2012 and 2024 is presented in | -- | -- | -- | -- | -- | -- |
 | Table 6.1.3 below. | -- | -- | -- | -- | -- | -- |
-|  |  | 2012 |  |  | 2024 |  |
-| Age Group |  |  |  |  |  |  |
-| (Years) |  |  |  |  |  |  |
+| Age Group |  | 2012 |  |  | 2024 |  |
+| (Years) | Total | Male | Female | Total | Male | Female |
+| Sri Lanka | 20,359,439 | 9,856,634 | 10,502,805 | 21,781,800 | 10,512,344 | 11,269,456 |
 
 ### Source
 
@@ -201,9 +204,9 @@ Final Report Build Status
 | within a population. | -- | -- | -- | -- | -- | -- | -- |
 | 100 |  |  |  |  |  |  |  |
 | 80 |  |  |  |  |  |  |  |
-| 60 |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  | 49.1 |
-|  |  |  |  |  |  | 35.1 |  |
+| 60 |  |  |  |  |  |  | 49.1 |
+| 40 |  |  |  |  |  | 35.1 |  |
+|  | 14.5 | 13.6 | 14.1 | 16.3 | 18.8 |  |  |
 
 ### Source
 
@@ -258,18 +261,24 @@ Final Report Build Status
 
 ### Raw Data (first 10 rows)
 
-| Col 0 | Col 1 | Col 2 | Col 3 | Col 4 | Col 5 | Col 6 | Col 7 | Col 8 | Col 9 | Col 10 |
-| :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- |
-|  |  |  |  |  |  |  |  |  |  |  |
-|  |  | 0.5 |  |  |  |  |  |  | 2024 |  |
-|  |  |  |  | 2012 |  |  |  | 0.3 |  |  |
-|  | 9.3 |  |  |  |  |  |  |  |  | Sinhalese |
-|  |  |  |  |  | Sinhalese |  |  |  |  |  |
-|  |  |  |  |  |  |  | 10.5 |  |  |  |
-| 4.1 |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  | 2.8 |  |  |  |  |
-|  |  |  |  |  | Sri Lanka Tamil |  |  |  |  | Sri Lanka Tamil |
-| 11.2 |  |  |  |  |  |  |  |  |  |  |
+| Col 0 | Col 1 | Col 2 | Col 3 | Col 4 | Col 5 | Col 6 | Col 7 | Col 8 | Col 9 | Col 10 | Col 11 |
+| :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- |
+|  |  | 0.5 |  | 2012 |  |  |  | 0.3 | 2024 |  | -- |
+|  | 9.3 |  |  |  | Sinhalese |  | 10.5 |  |  | Sinhalese | -- |
+| 4.1 |  |  |  |  | Sri Lanka Tamil | 2.8 |  |  |  | Sri Lanka Tamil | -- |
+| 11.2 |  |  |  |  | Indian Tamil | 12.3 |  |  |  | Indian Tamil/ | -- |
+|  |  |  |  |  | Srilanka Moor |  |  |  |  | Malaiyaga Thamilar | -- |
+|  |  |  |  |  |  |  |  |  |  | Sri Lanka
+Moor/Muslim | -- |
+|  |  |  | 74.9 |  | Other |  |  |  | 74.1 | Other | -- |
+| Province | Total | Sinhalese | Sri Lanka 
+Tamil | Indian Tamil/ 
+Malaiyaga 
+Thamilar | Sri Lanka 
+Moor/Muslim | Burgher | Malay | Sri Lanka 
+Chetty | Bharatha | Veddas | Other |
+| Sri Lanka | 100.0 | 74.1 | 12.3 | 2.8 | 10.5 | 0.2 | 0.1 | 0.0 | 0.0 | 0.0 | 0.0 |
+| Western | 100.0 | 83.6 | 6.3 | 0.5 | 8.9 | 0.3 | 0.3 | 0.0 | 0.0 | 0.0 | 0.1 |
 
 ### Source
 
@@ -287,11 +296,12 @@ Final Report Build Status
 | Ethnic group |  |  |  |  |  |  |  |  |  |  |  |
 |  | 1911 | 1921(4) | 1931(5) | 1946 | 1953 | 1963 | 1971 | 1981 | 2001(3) | 2012 | 2024 |
 | Sri Lanka | 4,106.4 | 4,498.6 | 5,306.0 | 6,657.3 | 8,097.9 | 10,582.0 | 12,689.9 | 14,846.8 | 16,929.7 | 20,359.4 | 21,781.8 |
-| Low Country Sinhalese | 1,716.9 | 1,927.1 | 2,216.2 | 2,902.5 | 3,469.5 | 4,470.3 | 5,425.8 |  |  |  |  |
-|  |  |  |  |  |  |  |  | 10,979.4 (2) | 13,876.2(2) | 15,250.1(2) | 16,144.0(2) |
-| Up-country (Kandyan) |  |  |  |  |  |  |  |  |  |  |  |
-|  | 998.6 | 1,089.1 | 1,256.8 | 1,718.0 | 2,147.2 | 3,042.6 | 3,705.5 |  |  |  |  |
-| Sinhalese |  |  |  |  |  |  |  |  |  |  |  |
+| Low Country Sinhalese | 1,716.9 | 1,927.1 | 2,216.2 | 2,902.5 | 3,469.5 | 4,470.3 | 5,425.8 | 10,979.4 (2) | 13,876.2(2) | 15,250.1(2) | 16,144.0(2) |
+| Up-country (Kandyan) 
+Sinhalese | 998.6 | 1,089.1 | 1,256.8 | 1,718.0 | 2,147.2 | 3,042.6 | 3,705.5 |  |  |  |  |
+| Sri Lanka Tamil | 528.0 | 517.3 | 598.9 | 733.7 | 884.7 | 1,164.7 | 1,424.0 | 1,886.9 | 732.1 | 2,269.1 | 2,681.6 |
+| Indian Tamil | 531.0 | 602.7 | 818.5 | 780.6 | 974.1 | 1,123.0 | 1,174.9 | 818.7 | 855.0 | 839.5 | 600.4(6) |
+| Sri Lanka Muslim | 233.9 | 251.9 | 289.6 | 373.6 | 464.0 | 626.8 | 828.3 | 1,046.9 | 1,339.3 | 1,892.6 | 2,283.2 |
 
 ### Source
 
@@ -305,15 +315,15 @@ Final Report Build Status
 | Col 0 | Col 1 | Col 2 | Col 3 | Col 4 | Col 5 | Col 6 | Col 7 |
 | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- |
 |  |  |  |  | Religion |  |  |  |
-| Sector | Total |  |  |  |  |  |  |
-|  |  |  |  |  | Roman | Other |  |
-|  |  | Buddhist | Hindu | Islam |  |  | Other |
+| Sector | Total | Buddhist | Hindu | Islam | Roman | Other | Other |
 |  |  |  |  |  | Catholic | Christian |  |
-|  | 21,781,800 | 15,199,093 | 2,734,839 | 2,337,379 | 1,224,348 | 282,185 | 3,956 |
-| Sri Lanka |  |  |  |  |  |  |  |
+| Sri Lanka | 21,781,800 | 15,199,093 | 2,734,839 | 2,337,379 | 1,224,348 | 282,185 | 3,956 |
 |  | 100.0 | 69.8 | 12.6 | 10.7 | 5.6 | 1.3 | 0.0 |
-|  | 3,819,203 | 2,060,541 | 498,717 | 783,638 | 380,543 | 94,038 | 1,726 |
-| Urban* |  |  |  |  |  |  |  |
+| Urban* | 3,819,203 | 2,060,541 | 498,717 | 783,638 | 380,543 | 94,038 | 1,726 |
+|  | 100.0 | 54.0 | 13.0 | 20.5 | 10.0 | 2.5 | 0.0 |
+| Rural | 17,096,918 | 13,044,342 | 1,539,173 | 1,544,664 | 801,977 | 164,634 | 2,128 |
+|  | 100.0 | 76.3 | 9.0 | 9.0 | 4.7 | 1.0 | 0.0 |
+| Estate Rural** | 865,679 | 94,210 | 696,949 | 9,077 | 41,828 | 23,513 | 102 |
 
 ### Source
 
@@ -326,16 +336,22 @@ Final Report Build Status
 
 | Col 0 | Col 1 | Col 2 | Col 3 | Col 4 | Col 5 | Col 6 | Col 7 | Col 8 |
 | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- |
-| Functional Domains |  | Rate |  | Rate |  | Rate |  | Rate |
-|  | Number | (per 1,000 | Number | (per 1,000 | Number | (per 1,000 | Number | (per 1,000 |
+| Functional Domains | Number | Rate  
+(per 1,000 | Number | Rate  
+(per 1,000 | Number | Rate  
+(per 1,000 | Number | Rate  
+(per 1,000 |
 |  |  | persons) |  | persons) |  | persons) |  | persons) |
 | Seeing | 18,626,725 | 906 | 1,747,377 | 85 | 168,207 | 8 | 24,371 | 1 |
 | Hearing | 19,833,909 | 965 | 602,674 | 29 | 105,760 | 5 | 24,337 | 1 |
 | Walking or climbing steps | 18,862,616 | 917 | 1,256,095 | 61 | 369,762 | 18 | 78,207 | 4 |
-| Remembering or |  |  |  |  |  |  |  |  |
-|  | 19,779,068 | 962 | 619,786 | 30 | 133,641 | 6 | 34,185 | 2 |
-| concentrating on something |  |  |  |  |  |  |  |  |
-| Selfcare, such as washing all |  |  |  |  |  |  |  |  |
+| Remembering or 
+concentrating on something | 19,779,068 | 962 | 619,786 | 30 | 133,641 | 6 | 34,185 | 2 |
+| Selfcare, such as washing all 
+over or dressing | 19,926,695 | 969 | 450,693 | 22 | 124,756 | 6 | 64,536 | 3 |
+| Communicating with others | 20,145,867 | 979 | 308,015 | 15 | 72,412 | 4 | 40,386 | 2 |
+| Communicating with others | 20,145,867 | 979 | 308,015 | 15 | 72,412 | 4 | 40,386 | 2 |
+| The highest number of individuals reporting any level of difficulty (“some difficulty,” “a lot of difficulty,” or |  |  |  |  |  |  |  |  |
 
 ### Source
 
@@ -348,16 +364,28 @@ Final Report Build Status
 
 | Col 0 | Col 1 | Col 2 | Col 3 | Col 4 | Col 5 | Col 6 | Col 7 | Col 8 | Col 9 | Col 10 | Col 11 | Col 12 | Col 13 | Col 14 | Col 15 |
 | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- |
-|  |  |  |  |  |  |  |  |  | Functional Domain |  |  |  |  |  |  |
-|  |  | Persons with at least |  |  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  | one Physical or Mental |  |  |  |  |  |  |  | Difficulty in |  |  | Difficulty in Selfcare, |  | Difficulty in |
-|  | Number of |  |  |  |  |  |  |  | Difficulty in Walking or |  |  |  |  |  |  |
-|  |  | Difficulty |  | Difficulty in Seeing |  |  | Difficulty in Hearing |  |  |  | Remembering or |  | such as washing or |  | Communicating with |
-| Age Group | Persons Aged |  |  |  |  |  |  | climbing steps |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  | concentrating | dressing |  | others |  |
-| (Years) | 5 Years and |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-|  | Over |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  | Rate |  | Rate |  | Rate |  | Rate |  | Rate |  | Rate |  | Rate |
+|  |  | Persons with at least |  |  |  |  |  |  | Functional Domain |  |  |  |  |  |  |
+|  | Number of | one Physical or Mental 
+Difficulty |  | Difficulty in Seeing |  |  | Difficulty in Hearing |  | Difficulty in Walking or | Difficulty in | Remembering or |  | Difficulty in Selfcare, 
+such as washing or |  | Difficulty in 
+Communicating with |
+| Age Group 
+(Years) | Persons Aged 
+5 Years and |  |  |  |  |  |  | climbing steps |  |  | concentrating | dressing |  | others |  |
+|  | Over |  | Rate |  | Rate |  | Rate |  | Rate |  | Rate |  | Rate |  | Rate |
+|  |  | Number | (per 1,000 
+persons) | Number | (per 1,000 
+persons) | Number | (per 1,000 
+persons) | Number | (per 1,000 
+persons) | Number | (per 1,000 
+persons) | Number | (per 1,000 
+persons) | Number | (per 1,000 
+persons) |
+| Sri Lanka | 20,566,680 | 3,223,413 | 157 | 1,939,955 | 94 | 732,771 | 36 | 1,704,064 | 83 | 787,612 | 38 | 639,985 | 31 | 420,813 | 20 |
+| 05 - 09 | 1,556,523 | 54,572 | 35 | 11,808 | 8 | 4,493 | 3 | 11,683 | 8 | 13,430 | 9 | 29,556 | 19 | 17,505 | 11 |
+| 10 - 14 | 1,735,196 | 49,774 | 29 | 21,988 | 13 | 6,004 | 3 | 12,967 | 7 | 12,676 | 7 | 11,908 | 7 | 14,088 | 8 |
+| 15 - 19 | 1,795,038 | 58,367 | 33 | 30,524 | 17 | 6,589 | 4 | 14,523 | 8 | 13,647 | 8 | 10,169 | 6 | 14,490 | 8 |
+| 20 - 24 | 1,608,606 | 54,853 | 34 | 27,860 | 17 | 6,274 | 4 | 14,656 | 9 | 12,703 | 8 | 9,315 | 6 | 13,383 | 8 |
 
 ### Source
 
@@ -390,18 +418,22 @@ Final Report Build Status
 
 ### Raw Data (first 10 rows)
 
-| Col 0 | Col 1 | Col 2 | Col 3 | Col 4 | Col 5 | Col 6 | Col 7 | Col 8 |
-| :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- |
-|  |  |  |  |  | Sector |  |  |  |
-|  |  | Total |  | Urban | Estate Urban | Rural |  | Estate Rural |
-| Total population aged 5 |  |  |  |  |  |  |  |  |
-|  | Number | 20,566,680 |  | 3,613,813 | 11,299 | 16,131,086 |  | 810,482 |
-| years and over |  |  |  |  |  |  |  |  |
-|  | Number |  | 727,293 | 96,426 | 260 |  | 601,740 | 28,867 |
-| Population with at least one |  |  |  |  |  |  |  |  |
-|  | Rate |  |  |  |  |  |  |  |
-| disability |  |  |  |  |  |  |  |  |
-|  |  |  | 35 | 27 | 23 |  | 37 | 36 |
+| Col 0 | Col 1 | Col 2 | Col 3 | Col 4 | Col 5 | Col 6 |
+| :-- | :-- | :-- | :-- | :-- | :-- | :-- |
+|  |  |  |  | Sector |  |  |
+|  |  | Total | Urban | Estate Urban | Rural | Estate Rural |
+| Total population aged 5 
+years and over | Number | 20,566,680 | 3,613,813 | 11,299 | 16,131,086 | 810,482 |
+| Population with at least one | Number | 727,293 | 96,426 | 260 | 601,740 | 28,867 |
+| disability | Rate  
+(per 1,000 persons) | 35 | 27 | 23 | 37 | 36 |
+| Domain of Disability |  | Total | Urban | Estate Urban | Rural | Estate Rural |
+| Seeing | Number | 192,578 | 23,378 | 73 | 159,285 | 9,842 |
+|  | Rate  
+(per 1,000 persons) | 9 | 6 | 6 | 10 | 12 |
+| Hearing | Number | 130,097 | 14,653 | 45 | 110,852 | 4,547 |
+|  | Rate  
+(per 1,000 persons) | 6 | 4 | 4 | 7 | 6 |
 
 ### Source
 
@@ -412,18 +444,32 @@ Final Report Build Status
 
 ### Raw Data (first 10 rows)
 
-| Col 0 | Col 1 | Col 2 | Col 3 | Col 4 | Col 5 | Col 6 | Col 7 | Col 8 | Col 9 |
-| :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- |
-|  |  |  | Table 6.2.7 : Distribution of Persons Aged 5 Years and Over with Disabilities by Age Group and Domain of Disability, 2024 |  |  |  |  |  |  |
-|  |  |  |  |  |  |  | Domain of Disability |  |  |
-|  |  | Persons with at least |  |  |  |  |  |  |  |
-|  | Number of | one Disability |  |  |  |  |  |  |  |
-|  |  |  |  |  |  | Walking or climbing | Remembering or | Selfcare, such as | Communicating with |
-| Age Group | Persons Aged |  |  | Seeing | Hearing |  |  |  |  |
-|  |  |  |  |  |  | steps | concentrating | washing or dressing | others |
-| (Years) | 5 Years and |  |  |  |  |  |  |  |  |
-|  | Over |  |  |  |  |  |  |  |  |
-|  |  |  | Rate | Rate | Rate | Rate | Rate | Rate | Rate |
+| Col 0 | Col 1 | Col 2 | Col 3 | Col 4 | Col 5 | Col 6 | Col 7 | Col 8 | Col 9 | Col 10 | Col 11 | Col 12 | Col 13 | Col 14 | Col 15 |
+| :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- |
+|  | Table 6.2.7 : Distribution of Persons Aged 5 Years and Over with Disabilities by Age Group and Domain of Disability, 2024 |  |  |  |  |  |  |  |  |  |  | -- | -- | -- | -- |
+| Persons with at least |  |  |  |  |  | Domain of Disability |  |  |  |  |  | -- | -- | -- | -- |
+| Number of 
+one Disability 
+Age Group 
+Persons Aged |  | Seeing | Hearing |  | Walking or climbing |  | Remembering or |  | Selfcare, such as |  | Communicating with | -- | -- | -- | -- |
+| 5 Years and 
+(Years) |  |  |  |  | steps |  | concentrating |  | washing or dressing |  | others | -- | -- | -- | -- |
+| Over 
+Rate |  | Rate |  | Rate |  | Rate | Rate |  | Rate |  | Rate | -- | -- | -- | -- |
+| Number 
+(per 1,000 | Number | (per 1,000 | Number | (per 1,000 | Number | Number 
+(per 1,000 | (per 1,000 | Number | (per 1,000 | Number | (per 1,000 | -- | -- | -- | -- |
+|  | Over |  | Rate |  | Rate |  | Rate |  | Rate |  | Rate |  | Rate |  | Rate |
+|  |  | Number | (per 1,000 
+persons) | Number | (per 1,000 
+persons) | Number | (per 1,000 
+persons) | Number | (per 1,000 
+persons) | Number | (per 1,000 
+persons) | Number | (per 1,000 
+persons) | Number | (per 1,000 
+persons) |
+| Sri Lanka | 20,566,680 | 727,293 | 35 | 192,578 | 9 | 130,097 | 6 | 447,969 | 22 | 167,826 | 8 | 189,292 | 9 | 112,798 | 5 |
+| 05 - 09 | 1,556,523 | 12,739 | 8 | 2,513 | 2 | 1,693 | 1 | 3,685 | 2 | 4,215 | 3 | 6,959 | 4 | 5,358 | 3 |
 
 ### Source
 
@@ -445,7 +491,8 @@ Final Report Build Status
 | individuals were reported to have multiple disabilities | -- | -- | -- | -- | -- |
 | Table 6.2.8 : Distribution of Persons with a Single Disability and with Multiple Disabilities by Age Group, 2024 | -- | -- | -- | -- | -- |
 |  | Table 6.2.8 : Distribution of Persons with a Single Disability and with Multiple Disabilities by Age Group, 2024 |  |  |  |  |
-|  |  |  |  |  | Persons with More Than One |
+|  |  |  | Persons with a Single Disability |  | Persons with More Than One 
+Disability |
 
 ### Source
 
@@ -465,9 +512,9 @@ Final Report Build Status
 | of disabilities are highest among persons who are studying or have attended a special school/educational | -- | -- | -- | -- | -- | -- |
 | unit. | -- | -- | -- | -- | -- | -- |
 |  |  |  | Persons with at least one disability |  |  |  |
-| Status of Economic Activity |  |  | Male |  | Female |  |
-|  | Total | % |  |  |  |  |
+| Status of Economic Activity | Total | % | Male |  | Female |  |
 |  |  |  | Number | % | Number | % |
+| Aged 15 years and over | 701,159 | 100.0 | 298,438 | 100.0 | 402,721 | 100.0 |
 
 ### Source
 
@@ -489,7 +536,8 @@ Final Report Build Status
 | Employed | 30,041 | 94.3 | 17,459 | 95.7 | 35,127 | 94.1 | 6,004 | 92.1 | 4,011 | 86.7 | 9,206 | 93.7 |
 | Unemployed | 1,822 | 5.7 | 781 | 4.3 | 2,194 | 5.9 | 514 | 7.9 | 613 | 13.3 | 622 | 6.3 |
 | Economically inactive | 155,057 | 100.0 | 108,114 | 100.0 | 402,699 | 100.0 | 151,271 | 100.0 | 172,477 | 100.0 | 91,517 | 100.0 |
-| Engaged educational or vocational training |  |  |  |  |  |  |  |  |  |  |  |  |
+| Engaged educational or vocational training 
+activities | 3,336 | 2.2 | 1,289 | 1.2 | 1,606 | 0.4 | 1,255 | 0.8 | 904 | 0.5 | 1,675 | 1.8 |
 
 ### Source
 
@@ -526,15 +574,17 @@ ntroduction |  |
 | Col 0 | Col 1 | Col 2 | Col 3 | Col 4 | Col 5 | Col 6 | Col 7 | Col 8 | Col 9 |
 | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- |
 |  | Table 6.3.2 : Prevalence Rates of the Population with at Least One Non-Communicable Disease by Age Group and Sex, 2024 |  |  |  |  |  |  |  |  |
-|  |  |  |  |  | Population who has at least one |  |  |  |  |
-|  |  | Total Population |  |  |  |  |  | Prevalence Rate |  |
-| Age Group |  |  |  |  | NCD |  |  |  |  |
-| (Years) |  |  |  |  |  |  |  |  |  |
+|  |  | Total Population |  |  | Population who has at least one 
+NCD |  |  | Prevalence Rate |  |
+| Age Group 
+(Years) |  |  |  |  |  |  |  |  |  |
 |  | Total | Male | Female | Total | Male | Female | Total | Male | Female |
 | Sri Lanka | 21,779,483 | 10,510,498 | 11,268,985 | 4,185,749 | 1,725,859 | 2,459,890 | 19.2 | 16.4 | 21.8 |
 | 00-04 | 1,215,095 | 611,067 | 604,028 | 13,673 | 7,507 | 6,166 | 1.1 | 1.2 | 1 |
 | 05-09 | 1,556,507 | 788,536 | 767,971 | 29,688 | 16,709 | 12,979 | 1.9 | 2.1 | 1.7 |
 | 10-14 | 1,735,181 | 880,895 | 854,286 | 35,588 | 20,225 | 15,363 | 2.1 | 2.3 | 1.8 |
+| 15-19 | 1,795,024 | 907,730 | 887,294 | 31,370 | 16,270 | 15,100 | 1.7 | 1.8 | 1.7 |
+| 20-24 | 1,608,577 | 790,203 | 818,374 | 29,256 | 13,480 | 15,776 | 1.8 | 1.7 | 1.9 |
 
 ### Source
 
@@ -567,32 +617,29 @@ ntroduction |  |
 
 ### Raw Data (first 10 rows)
 
-| Col 0 | Col 1 | Col 2 | Col 3 | Col 4 | Col 5 |
-| :-- | :-- | :-- | :-- | :-- | :-- |
-|  | Census of Population and Housing  - 2024 |  |  |  |  |
+| Col 0 | Col 1 | Col 2 | Col 3 | Col 4 | Col 5 | Col 6 | Col 7 |
+| :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- |
+|  | Census of Population and Housing  - 2024 |  |  |  |  |  |  |
 | 14.0
-12.7 |  |  |  |  |  |
+12.7 |  |  |  |  |  |  |  |
 | 12.0
-10.3
-9.6 |  |  |  | Male | Female |
-| 10.0 |  |  |  |  |  |
+9.6 | 10.3 |  |  |  | Male | Female |  |
+| 10.0 |  |  |  |  |  |  |  |
 | 7.3
 7.3
 8.0
-6.1 |  |  |  |  |  |
+6.1 |  |  |  |  |  |  |  |
 | Rate
-6.0 |  |  |  |  |  |
+6.0 |  |  |  |  |  |  |  |
 | 4.0 | 2.7
 2.2
 2.1
-1.6 |  |  |  |  |
-| 2.0 | 1.0
-0.6 | 0.7 | 0.5 | 0.4
+1.6 |  |  |  |  |  |  |
+| 2.0 | 1.0 | 0.6 | 0.7 | 0.5 | 0.4
 0.2 | 0.5
-0.3
-0.1 |
-| 0.0 |  |  |  |  |  |
-| Non-Communicable Diseases | -- | -- | -- | -- | -- |
+0.3 | 0.1 |
+| 0.0 |  |  |  |  |  |  |  |
+| Non-Communicable Diseases | -- | -- | -- | -- | -- | -- | -- |
 
 ### Source
 
@@ -610,12 +657,13 @@ Pressure | Heart Disease | Kidney Disease | Thalassemia | Cancer | Stroke | Asth
 | Sri Lanka* | 21,779,483 | 8.5 | 8.2 | 10.1 | 2.5 | 0.8 | 0.1 | 0.4 | 0.6 | 1.8 | 0.3 |
 | Sinhala | 16,142,478 | 8.6 | 8.7 | 10.5 | 2.6 | 0.8 | 0.1 | 0.4 | 0.6 | 1.7 | 0.3 |
 | Sri Lanka Tamil | 2,681,263 | 8.0 | 7.2 | 8.8 | 2.1 | 0.7 | 0.1 | 0.3 | 0.6 | 3.0 | 0.4 |
-| Indian Tamil/Malaiyaga |  |  |  |  |  |  |  |  |  |  |  |
-|  | 600,245 | 4.6 | 3.5 | 8.5 | 2.4 | 0.5 | 0.1 | 0.3 | 0.9 | 2.4 | 0.6 |
-| Thamilar |  |  |  |  |  |  |  |  |  |  |  |
+| Indian Tamil/Malaiyaga 
+Thamilar | 600,245 | 4.6 | 3.5 | 8.5 | 2.4 | 0.5 | 0.1 | 0.3 | 0.9 | 2.4 | 0.6 |
 | Sri Lanka Moor/ Muslim | 2,283,055 | 9.2 | 7.7 | 9.3 | 2.1 | 0.5 | 0.1 | 0.2 | 0.4 | 1.7 | 0.3 |
 | Burgher | 31,717 | 10.7 | 10.0 | 12.2 | 3.1 | 0.6 | 0.1 | 0.5 | 0.6 | 1.9 | 0.2 |
 | Malay | 26,649 | 11.5 | 10.4 | 13.8 | 3.0 | 0.7 | 0.1 | 0.4 | 0.5 | 1.7 | 0.3 |
+| Sri Lanka Chetty | 2,441 | 7.8 | 9.5 | 10.5 | 2.1 | 0.6 | 0.1 | 0.3 | 0.7 | 1.5 | 0.3 |
+| Bharatha | 1,178 | 9.6 | 8.9 | 10.4 | 2.4 | 0.4 | - | 0.2 | 0.7 | 1.2 | 0.1 |
 
 ### Source
 
@@ -632,13 +680,14 @@ Pressure | Heart Disease | Kidney Disease | Thalassemia | Cancer | Stroke | Asth
 Pressure | Heart Disease | Kidney Disease | Thalassemia | Cancer | Stroke | Asthma | Epilepsy |
 | Population aged 25 and over* | 13,869,099 | 13.3 | 12.9 | 15.8 | 3.7 | 1.2 | 0.1 | 0.6 | 0.9 | 2.4 | 0.3 |
 | Never attended school | 399,879 | 17.7 | 17.8 | 27.5 | 6.2 | 2.4 | 0.2 | 1.0 | 3.1 | 6.5 | 1.5 |
-| Studied/ Studying at the special |  |  |  |  |  |  |  |  |  |  |  |
-|  | 17,104 | 8.0 | 6.0 | 6.8 | 1.9 | 0.6 | 0.2 | 0.2 | 1.1 | 1.6 | 3.6 |
-| school/special educational unit |  |  |  |  |  |  |  |  |  |  |  |
+| Studied/ Studying at the special 
+school/special educational unit | 17,104 | 8.0 | 6.0 | 6.8 | 1.9 | 0.6 | 0.2 | 0.2 | 1.1 | 1.6 | 3.6 |
 | Passed grade 1 - 5 | 1,721,103 | 20.1 | 20.9 | 28.7 | 6.9 | 2.7 | 0.1 | 1.0 | 2.2 | 5.4 | 0.6 |
 | Passed grade 6 - 8 | 1,655,351 | 18.3 | 18.3 | 23.1 | 5.9 | 2.0 | 0.1 | 0.9 | 1.5 | 3.6 | 0.5 |
 | Passed grade 9 - 10 | 3,385,486 | 12.1 | 11.7 | 13.7 | 3.3 | 1.0 | 0.1 | 0.6 | 0.7 | 2.2 | 0.3 |
 | G.C.E. (O/L) or equal | 3,054,744 | 12.4 | 11.7 | 13.5 | 3.1 | 0.8 | 0.1 | 0.5 | 0.5 | 1.6 | 0.2 |
+| G.C.E. (A/L) or equal | 2,677,005 | 9.7 | 8.9 | 10.0 | 2.0 | 0.5 | 0.1 | 0.4 | 0.3 | 0.9 | 0.1 |
+| Degree & above | 958,427 | 7.4 | 6.5 | 7.0 | 1.3 | 0.3 | 0.0 | 0.2 | 0.2 | 0.6 | 0.1 |
 
 ### Source
 
@@ -649,20 +698,25 @@ Pressure | Heart Disease | Kidney Disease | Thalassemia | Cancer | Stroke | Asth
 
 ### Raw Data (first 10 rows)
 
-| Col 0 | Col 1 | Col 2 | Col 3 | Col 4 | Col 5 | Col 6 | Col 7 | Col 8 | Col 9 | Col 10 | Col 11 |
-| :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- |
-|  | Employed |  |  |  |  |  |  |  |  |  |  |
-| Employment status |  |  |  |  | Heart Disease | Kidney Disease |  |  |  |  |  |
-|  | Population | Diabetes | High 
+| Col 0 | Col 1 | Col 2 | Col 3 | Col 4 | Col 5 | Col 6 | Col 7 | Col 8 | Col 9 | Col 10 | Col 11 | Col 12 |
+| :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- |
+|  | Employment status | Employed 
+Population | Diabetes | High 
 Cholesterol | High Blood 
-Pressure |  |  | Thalassemia | Cancer | Stroke | Asthma | Epilepsy |
-| Employed population aged 15 |  |  |  |  |  |  |  |  |  |  |  |
-|  | 7,670,749 | 7.8 | 7.1 | 7.9 | 2.1 | 0.6 | 0.1 | 0.2 | 0.2 | 1.5 | 0.2 |
-| and over |  |  |  |  |  |  |  |  |  |  |  |
-| Government paid employee | 1,162,693 | 6.1 | 5.5 | 5.3 | 1.1 | 0.3 | 0.0 | 0.2 | 0.1 | 0.7 | 0.1 |
-| Semi government paid |  |  |  |  |  |  |  |  |  |  |  |
-|  | 170,713 | 7.6 | 6.9 | 6.5 | 1.5 | 0.3 | 0.0 | 0.2 | 0.1 | 0.9 | 0.1 |
-| employee |  |  |  |  |  |  |  |  |  |  |  |
+Pressure | Heart Disease | Kidney Disease | Thalassemia | Cancer | Stroke | Asthma | Epilepsy |
+|  | Employed population aged 15 
+and over | 7,670,749 | 7.8 | 7.1 | 7.9 | 2.1 | 0.6 | 0.1 | 0.2 | 0.2 | 1.5 | 0.2 |
+|  | Government paid employee | 1,162,693 | 6.1 | 5.5 | 5.3 | 1.1 | 0.3 | 0.0 | 0.2 | 0.1 | 0.7 | 0.1 |
+|  | Semi government paid 
+employee | 170,713 | 7.6 | 6.9 | 6.5 | 1.5 | 0.3 | 0.0 | 0.2 | 0.1 | 0.9 | 0.1 |
+|  | Paid employee (private sector) | 3,244,290 | 5.8 | 5.2 | 5.8 | 1.6 | 0.4 | 0.1 | 0.2 | 0.1 | 1.5 | 0.3 |
+|  | Employer (have employees) | 277,868 | 13.8 | 11.0 | 10.5 | 2.8 | 0.5 | 0.0 | 0.2 | 0.2 | 0.9 | 0.1 |
+|  | Own account worker  
+(don’t have employees) | 2,407,614 | 10.4 | 9.6 | 11.0 | 3.2 | 1.1 | 0.1 | 0.3 | 0.3 | 2.0 | 0.3 |
+|  | Contributing to family enterprise 
+(unpaid family worker) | 407,571 | 9.6 | 10.7 | 13.4 | 2.8 | 1.1 | 0.1 | 0.4 | 0.2 | 2.5 | 0.3 |
+| *Excluding the roofless population |  |  |  |  |  |  |  |  |  |  |  |  |
+| T | he prevalence of diseases among paid employees in both the public and private sectors remains relatively |  |  |  |  |  |  |  |  |  |  |  |
 
 ### Source
 
@@ -705,8 +759,9 @@ Pressure |  |  | Thalassemia | Cancer | Stroke | Asthma | Epilepsy |
 | considered to be participating in educational activities. | -- | -- | -- | -- | -- | -- | -- | -- | -- |
 | Table 7.5 : Population Engaged in School Education During the Reference Period by Age Group and Sex, 2024 | -- | -- | -- | -- | -- | -- | -- | -- | -- |
 |  | Table 7.5 : Population Engaged in School Education During the Reference Period by Age Group and Sex, 2024 |  |  |  |  |  |  |  |  |
-|  |  |  |  |  | Male |  |  | Female |  |
-|  | Total | Population |  |  |  |  |  |  |  |
+|  | Total | Population |  |  | Male |  |  | Female |  |
+| Age 
+group | population | engaged in | % |  | Population |  |  | Population |  |
 
 ### Source
 
@@ -792,9 +847,10 @@ Pressure |  |  | Thalassemia | Cancer | Stroke | Asthma | Epilepsy |
 | (74.2%), while the minimum value is reported in Mullaitivu district (31.7%). The literacy rates for Sinhala | -- | -- | -- | -- | -- | -- | -- | -- | -- |
 | and Tamil vary by district, a trend likely influenced by the distribution of ethnic groups. | -- | -- | -- | -- | -- | -- | -- | -- | -- |
 |  |  |  |  |  |  | Literacy rate % |  |  |  |
-|  |  |  |  |  |  |  |  |  | Language |
-|  | Ethnic Group | Sinhala |  | Tamil |  | English |  |  |  |
-|  |  |  |  |  |  |  |  |  | Literacy |
+|  | Ethnic Group | Sinhala |  | Tamil |  | English |  |  | Language 
+Literacy |
+|  |  | 2012 | 2024 | 2012 | 2024 | 2012 | 2024 | 2012 | 2024 |
+|  | Sri Lanka | 79.7 | 85.2 | 26.4 | 45.3 | 30.8 | 57.3 | 95.7 | 97.4 |
 
 ### Source
 
@@ -808,15 +864,18 @@ Pressure |  |  | Thalassemia | Cancer | Stroke | Asthma | Epilepsy |
 | Col 0 | Col 1 | Col 2 | Col 3 |
 | :-- | :-- | :-- | :-- |
 |  | Table 7.14 : Computer and Digital Literacy Rate by Age Group, 2024 |  |  |
-|  | Population | Computer | Digital Literacy |
-| Age Group |  |  |  |
-|  | Aged 5 & over | Literacy Rate | Rate |
+| Age Group | Population 
+Aged 5 & over | Computer 
+Literacy Rate | Digital Literacy 
+Rate |
 | Sri Lanka | 20,566,680 | 34.7 | 67.6 |
 | 5-9 | 1,556,523 | 11.9 | 39.9 |
 | 10-14 | 1,735,196 | 41.2 | 88.1 |
 | 15-19 | 1,795,038 | 64.3 | 97.0 |
 | 20-24 | 1,608,606 | 65.5 | 94.8 |
 | 25-29 | 1,372,458 | 57.7 | 93.0 |
+| 30-34 | 1,414,060 | 48.2 | 90.2 |
+| 35-39 | 1,452,703 | 41.8 | 86.0 |
 
 ### Source
 
@@ -859,8 +918,8 @@ Pressure |  |  | Thalassemia | Cancer | Stroke | Asthma | Epilepsy |
 | employed,  while  those  who  are  not  engaged  in  economic  activity  during  the  reference  period  but  are | -- | -- | -- | -- | -- | -- |
 | actively seeking and willing to engage in economic activity are classified as unemployed. | -- | -- | -- | -- | -- | -- |
 |  | Table 8.2 : Economically Active Population, by Sector and Sex, 2024 |  |  |  |  |  |
-|  |  |  |  | Economically Active Population |  |  |
-| Sector |  |  |  |  |  |  |
+| Sector |  |  |  | Economically Active Population |  |  |
+|  | Total | % | Male | % | Female | % |
 
 ### Source
 
@@ -874,15 +933,15 @@ Pressure |  |  | Thalassemia | Cancer | Stroke | Asthma | Epilepsy |
 | Col 0 | Col 1 | Col 2 | Col 3 | Col 4 | Col 5 | Col 6 |
 | :-- | :-- | :-- | :-- | :-- | :-- | :-- |
 |  |  | Table 8.3 : Economically Active Population by Sex and Age Group, 2024 |  |  |  |  |
-|  |  | Economically Active Population |  |  | Percentage |  |
-| Age Group |  |  |  |  |  |  |
-| (Years) |  |  |  |  |  |  |
-|  | Total | Male | Female | Total | Male | Female |
+| Age Group |  | Economically Active Population |  |  | Percentage |  |
+| (Years) | Total | Male | Female | Total | Male | Female |
 | Sri Lanka | 8,162,941 | 5,550,374 | 2,612,567 | 100.0 | 68.0 | 32.0 |
 | 15 - 19 | 149,443 | 105,358 | 44,085 | 100.0 | 70.5 | 29.5 |
 | 20 - 24 | 660,587 | 431,002 | 229,585 | 100.0 | 65.2 | 34.8 |
 | 25 - 29 | 838,591 | 548,881 | 289,710 | 100.0 | 65.5 | 34.5 |
 | 30 - 34 | 925,708 | 627,056 | 298,652 | 100.0 | 67.7 | 32.3 |
+| 35 - 39 | 970,645 | 658,779 | 311,866 | 100.0 | 67.9 | 32.1 |
+| 40 - 44 | 1,074,786 | 729,822 | 344,964 | 100.0 | 67.9 | 32.1 |
 
 ### Source
 
@@ -902,9 +961,9 @@ Pressure |  |  | Thalassemia | Cancer | Stroke | Asthma | Epilepsy |
 | work. In other words, it provides an indication of the size of the population that contributes, or is willing | -- | -- | -- |
 | and prepared to contribute, labour to the economy. | -- | -- | -- |
 |  | Table 8.4 : Labour Force Participation Rate by Age Group and Sex, 2024 |  |  |
-|  |  | Labour Force Participation Rate |  |
-| Age Group |  |  |  |
+| Age Group |  | Labour Force Participation Rate |  |
 | (Years) | Total | Male | Female |
+| Aged 15 & over | 47.3 | 67.4 | 28.9 |
 
 ### Source
 
@@ -962,8 +1021,7 @@ Pressure |  |  | Thalassemia | Cancer | Stroke | Asthma | Epilepsy |
 | Col 0 | Col 1 | Col 2 | Col 3 | Col 4 | Col 5 | Col 6 |
 | :-- | :-- | :-- | :-- | :-- | :-- | :-- |
 |  | Table 8.7 : Employed Population, by Highest Educational Attainment and Sex, 2024 |  |  |  |  |  |
-|  | Total |  | Male |  | Female |  |
-| Education level |  |  |  |  |  |  |
+| Education level | Total |  | Male |  | Female |  |
 |  | Number | % | Number | % | Number | % |
 | Total | 7,671,232 | 100.0 | 5,317,703 | 100.0 |  | 2,353,529  100.0 |
 | Never attended School | 117,293 | 1.5 | 67,915 | 1.3 | 49,378 | 2.1 |
@@ -971,6 +1029,7 @@ Pressure |  |  | Thalassemia | Cancer | Stroke | Asthma | Epilepsy |
 | Passed Grade 1 - 5 | 677,130 | 8.8 | 493,163 | 9.3 | 183,967 | 7.8 |
 | Passed Grade 6 - 8 | 790,085 | 10.3 | 618,673 | 11.6 | 171,412 | 7.3 |
 | Passed Grade 9 - 10 | 2,023,455 | 26.4 | 1,536,837 | 28.9 | 486,618 | 20.7 |
+| Passed GCE O/L | 1,719,327 | 22.4 | 1,288,859 | 24.2 | 430,468 | 18.3 |
 
 ### Source
 
@@ -983,8 +1042,7 @@ Pressure |  |  | Thalassemia | Cancer | Stroke | Asthma | Epilepsy |
 
 | Col 0 | Col 1 | Col 2 | Col 3 | Col 4 | Col 5 | Col 6 |
 | :-- | :-- | :-- | :-- | :-- | :-- | :-- |
-|  | Total |  | Male |  | Female |  |
-| Employment Status |  |  |  |  |  |  |
+| Employment Status | Total |  | Male |  | Female |  |
 |  | Number | % | Number | % | Number | % |
 | Total | 7,671,232  100.0 |  | 5,317,703 | 100.0 | 2,353,529 | 100.0 |
 | Government/Semi-Government Paid Employee | 1,333,406 | 17.4 | 741,649 | 13.9 | 591,757 | 25.1 |
@@ -1012,8 +1070,8 @@ Pressure |  |  | Thalassemia | Cancer | Stroke | Asthma | Epilepsy |
 | weeks.  According | to  Table  8.9  out  of | the | total | labour | force  491,709  were  unemployed  of | that |
 | 232,671(47.3%) are males and 259,038 (52.7%) are females. |  |  |  |  |  |  |
 |  |  |  | Unemployed Population |  |  |  |
-| Sector |  |  |  |  |  |  |
-|  | Total | % | Male | % | Female | % |
+| Sector | Total | % | Male | % | Female | % |
+| Total | 491,709 | 100.0 | 232,671 | 47.3 | 259,038 | 52.7 |
 
 ### Source
 
@@ -1033,9 +1091,9 @@ Pressure |  |  | Thalassemia | Cancer | Stroke | Asthma | Epilepsy |
 | examined.  As  shown  in  Table  8.11,  36.8  percent  of  the  economically  inactive  are  due  to  household | -- | -- |
 | work/child  or  adult  care.  Further,  26.0  percent  are  inactive  because  they  are  engaged  in  education  or | -- | -- |
 | vocational training and 24 percent are inactive since they are unable/too old to work/retired. | -- | -- |
-| Reason for being inactive |  |  |
-|  | Number | % |
+| Reason for being inactive | Number | % |
 | Total | 9,112,020 | 100.0 |
+| Engaged in Household work/Childcare/Elder Care | 3,358,527 | 36.8 |
 
 ### Source
 
@@ -1049,15 +1107,15 @@ Pressure |  |  | Thalassemia | Cancer | Stroke | Asthma | Epilepsy |
 | Col 0 | Col 1 | Col 2 | Col 3 | Col 4 | Col 5 | Col 6 | Col 7 | Col 8 | Col 9 | Col 10 | Col 11 | Col 12 | Col 13 | Col 14 |
 | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- |
 |  |  |  |  |  |  |  |  | Marital status |  |  |  |  |  |  |
-|  | Population |  |  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  | Separated |  | Separated |  |
-| Age Group |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  | Never married |  | Married |  | Widowed |  | Divorced |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  | (Legally) |  | (Not legally) |  |
+| Age Group | Population |  |  |  |  |  |  |  |  |  | Separated |  | Separated |  |
+|  |  |  | Never married |  | Married |  | Widowed |  | Divorced |  | (Legally) |  | (Not legally) |  |
 |  | Male | Female | Male | Female | Male | Female | Male | Female | Male | Female | Male | Female | Male | Female |
 | Total | 10,512,344 | 11,269,456 | 4,808,324 | 4,291,826 | 5,417,431 | 5,743,647 | 175,421 | 1,058,997 | 28,952 | 45,403 | 17,047 | 27,857 | 65,169 | 101,726 |
-|  | 2,280,530 | 2,226,309 | 2,280,530 | 2226291 | 0 | 18 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
-| Less than 15 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Less than 15 | 2,280,530 | 2,226,309 | 2,280,530 | 2226291 | 0 | 18 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+|  | 100.0 | 100.0 | 100.0 | 100.0 | 0.0 | 0.0 | 0.0 | 0.0 | 0.0 | 0.0 | 0.0 | 0.0 | 0.0 | 0.0 |
+| 15-19 | 907,739 | 887,299 | 899,119 | 856,574 | 8,458 | 30,199 | 69 | 78 | 15 | 106 | 10 | 31 | 68 | 311 |
+|  | 100.0 | 100.0 | 99.1 | 96.6 | 0.9 | 3.4 | 0.0 | 0.0 | 0.0 | 0.0 | 0.0 | 0.0 | 0.0 | 0.0 |
+| 20-24 | 790,215 | 818,391 | 703,705 | 613,975 | 84,787 | 198,888 | 166 | 697 | 341 | 1,082 | 210 | 660 | 1,006 | 3,089 |
 
 ### Source
 
@@ -1073,13 +1131,17 @@ Pressure |  |  | Thalassemia | Cancer | Stroke | Asthma | Epilepsy |
 | Marital Status by Ethnic Group |  |  |  |  |  |  |  |  |
 | Table 9.2 shows the distribution of the population by ethnic group, sex, and marital status. |  |  |  |  |  |  |  |  |
 |  |  | Table 9.2 : Marital Status by Ethnic group and Sex, 2024 |  |  |  |  |  |  |
-|  | Male/ |  | Never |  |  |  | Separated | Separated |
-| Ethnic group |  | Total |  | Married | Widowed | Divorced |  |  |
-|  | Female |  | Married |  |  |  | (Legally) | (Not legally) |
-|  |  | 21,781,800 | 9,100,150 | 11,161,078 | 1,234,418 | 74,355 | 44,904 | 166,895 |
-|  | Grand |  |  |  |  |  |  |  |
-|  | Total |  |  |  |  |  |  |  |
-|  |  | 100.0 | 41.8 | 51.2 | 5.7 | 0.3 | 0.2 | 0.8 |
+| Ethnic group | Male/ 
+Female | Total | Never 
+Married | Married | Widowed | Divorced | Separated 
+(Legally) | Separated  
+(Not legally) |
+|  | Grand | 21,781,800 | 9,100,150 | 11,161,078 | 1,234,418 | 74,355 | 44,904 | 166,895 |
+|  | Total | 100.0 | 41.8 | 51.2 | 5.7 | 0.3 | 0.2 | 0.8 |
+| Sri Lanka | Male | 10,512,344 | 4,808,324 | 5,417,431 | 175,421 | 28,952 | 17,047 | 65,169 |
+|  |  | 100.0 | 45.7 | 51.5 | 1.7 | 0.3 | 0.2 | 0.6 |
+|  | Female | 11,269,456 | 4,291,826 | 5,743,647 | 1,058,997 | 45,403 | 27,857 | 101,726 |
+|  |  | 100.0 | 38.1 | 51.0 | 9.4 | 0.4 | 0.2 | 0.9 |
 
 ### Source
 
@@ -1146,7 +1208,7 @@ igure 9.3, illustrates the percentage distribution of ever-married women aged 15
 | during this period, a decrease in the percentage of married women was observed in all age groups between | -- | -- | -- |
 | 15 and 34 years. | -- | -- | -- |
 |  | Table 9.14 : Age-Specific Fertility Rates (ASFR), 2012 and 2024 |  |  |
-|  |  | Fertility Rate (per 1,000 women) |  |
+| Age group |  | Fertility Rate (per 1,000 women) |  |
 
 ### Source
 
@@ -1181,16 +1243,18 @@ igure 9.3, illustrates the percentage distribution of ever-married women aged 15
 
 | Col 0 | Col 1 | Col 2 | Col 3 |
 | :-- | :-- | :-- | :-- |
-| Table 9.16 : Age-Specific Fertility Rate (ASFR), Age-Specific Marital Fertility Rate (ASMFR), Total Fertility Rate (TFR) and Total Marital |  |  |  |
-|  | Fertility Rate (TMFR) |  |  |
-|  | Age-Specific Fertility |  | Age-Specific Marital Fertility |
-| Age Group | Rate (ASFR) |  | Rate (ASMFR) |
+| Table 9.16 : Age-Specific Fertility Rate (ASFR), Age-Specific Marital Fertility Rate (ASMFR), Total Fertility Rate (TFR) and Total Marital | Fertility Rate (TMFR) |  |  |
+| Age Group | Age-Specific Fertility 
+Rate (ASFR) |  | Age-Specific Marital Fertility 
+Rate (ASMFR) |
 |  | (per 1,000 women) |  | (per 1,000 women) |
 | 15-19 | 7 |  | 139 |
 | 20-24 | 41 |  | 143 |
 | 25-29 | 86 |  | 126 |
 | 30-34 | 83 |  | 91 |
 | 35-39 | 38 |  | 40 |
+| 40-44 | 9 |  | 9 |
+| 45-49 | 1 |  | 1 |
 
 ### Source
 
@@ -1227,14 +1291,14 @@ igure 9.3, illustrates the percentage distribution of ever-married women aged 15
 | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- |
 |  |  | Table 10.1 : Percentage Distribution of Household Size by Sector, 2024 |  |  |  |  |  |  |  |  |
 |  | Total Number |  |  |  | Household Size |  |  |  |  | Average |
-| Sector | of |  |  |  |  |  |  |  |  | Household |
-|  |  |  |  |  |  |  |  | 7 & |  |  |
-|  | Households |  |  |  |  |  |  |  |  | Size |
-|  |  | 1 | 2 | 3 | 4 | 5 | 6 |  | Total |  |
-|  |  |  |  |  |  |  |  | Over |  |  |
+| Sector | of 
+Households |  |  |  |  |  |  | 7 & |  | Household 
+Size |
+|  |  | 1 | 2 | 3 | 4 | 5 | 6 | Over | Total |  |
 | Total | 6,111,315 | 10.5 | 18.1 | 21.0 | 25.0 | 15.9 | 6.4 | 3.1 | 100.0 | 3.5 |
 | Urban* | 1,045,665 | 10.6 | 17.7 | 20.5 | 25.8 | 15.1 | 6.4 | 3.9 | 100.0 | 3.5 |
 | Rural | 4,827,055 | 10.4 | 18.2 | 21.3 | 25.0 | 15.9 | 6.3 | 2.9 | 100.0 | 3.5 |
+| Estate Rural** | 238,595 | 11.4 | 17.8 | 19.0 | 21.6 | 18.3 | 7.5 | 4.4 | 100.0 | 3.6 |
 
 ### Source
 
@@ -1245,19 +1309,18 @@ igure 9.3, illustrates the percentage distribution of ever-married women aged 15
 
 ### Raw Data (first 10 rows)
 
-| Col 0 | Col 1 | Col 2 | Col 3 | Col 4 | Col 5 |
-| :-- | :-- | :-- | :-- | :-- | :-- |
-| Census of Population and Housing  - 2024 | -- | -- | -- | -- | -- |
-| Gampaha  District,  reported  as  the  most  populous  district,  shows  the  highest  number  of  households, | -- | -- | -- | -- | -- |
-| followed by Colombo District, which has the second-highest number of households. The lowest number of | -- | -- | -- | -- | -- |
-| households is reported from Mannar district, while the second lowest number of  households is reported | -- | -- | -- | -- | -- |
-| from Mullaitivu district. | -- | -- | -- | -- | -- |
-| Further Mullaitivu (12.4%) shows the highest percentage of one person households. Trincomalee (68.1%) | -- | -- | -- | -- | -- |
-| shows the highest percentage of nuclear households, and Kegalle (34.1%) reports the highest percentage | -- | -- | -- | -- | -- |
-| of  extended  households.  The  highest  percentage  of  composite  households  (2.8%)  is  reported  from | -- | -- | -- | -- | -- |
-| Colombo district. | -- | -- | -- | -- | -- |
-|  |  |  | One-person
-Nuclear | Extended | Composite |
+| Col 0 | Col 1 | Col 2 | Col 3 | Col 4 | Col 5 | Col 6 |
+| :-- | :-- | :-- | :-- | :-- | :-- | :-- |
+| Census of Population and Housing  - 2024 | -- | -- | -- | -- | -- | -- |
+| Gampaha  District,  reported  as  the  most  populous  district,  shows  the  highest  number  of  households, | -- | -- | -- | -- | -- | -- |
+| followed by Colombo District, which has the second-highest number of households. The lowest number of | -- | -- | -- | -- | -- | -- |
+| households is reported from Mannar district, while the second lowest number of  households is reported | -- | -- | -- | -- | -- | -- |
+| from Mullaitivu district. | -- | -- | -- | -- | -- | -- |
+| Further Mullaitivu (12.4%) shows the highest percentage of one person households. Trincomalee (68.1%) | -- | -- | -- | -- | -- | -- |
+| shows the highest percentage of nuclear households, and Kegalle (34.1%) reports the highest percentage | -- | -- | -- | -- | -- | -- |
+| of  extended  households.  The  highest  percentage  of  composite  households  (2.8%)  is  reported  from | -- | -- | -- | -- | -- | -- |
+| Colombo district. | -- | -- | -- | -- | -- | -- |
+|  |  | One-person | Nuclear | Extended | Composite |  |
 
 ### Source
 
@@ -1271,15 +1334,17 @@ Nuclear | Extended | Composite |
 | Col 0 | Col 1 | Col 2 | Col 3 | Col 4 | Col 5 | Col 6 |
 | :-- | :-- | :-- | :-- | :-- | :-- | :-- |
 |  | Total Number | Sex of the Head of Household |  |  | Age Group of the Head of Household |  |
-| Sector | of Household |  |  |  |  |  |
-|  | Heads |  |  | Aged below |  | Aged 65 & |
-|  |  | Male | Female |  | Age 20-64 |  |
-|  |  |  |  | 20 |  | over |
-|  | 6,111,315 | 4,489,242 | 1,622,073 | 8,709 | 4,581,256 | 1,521,350 |
-| Sri Lanka |  |  |  |  |  |  |
+| Sector | of Household 
+Heads |  |  | Aged below |  | Aged 65 & |
+|  |  | Male | Female | 20 | Age 20-64 | over |
+| Sri Lanka | 6,111,315 | 4,489,242 | 1,622,073 | 8,709 | 4,581,256 | 1,521,350 |
 |  | 100.0 | 73.5 | 26.5 | 0.1 | 75.0 | 24.9 |
-| U | 1,042,557 | 736,435 | 306,122 | 1,838 | 782,406 | 258,313 |
-| rban |  |  |  |  |  |  |
+| U
+rban | 1,042,557 | 736,435 | 306,122 | 1,838 | 782,406 | 258,313 |
+|  | 100.0 | 70.6 | 29.4 | 0.2 | 75.0 | 24.8 |
+| Estate Urban | 3,108 | 2,263 | 845 | 7 | 2,427 | 674 |
+|  | 100.0 | 72.8 | 27.2 | 0.2 | 78.1 | 21.7 |
+| Rural | 4,827,055 | 3,577,499 | 1,249,556 | 6,224 | 3,612,403 | 1,208,428 |
 
 ### Source
 
@@ -1293,15 +1358,17 @@ Nuclear | Extended | Composite |
 | Col 0 | Col 1 | Col 2 | Col 3 | Col 4 | Col 5 | Col 6 | Col 7 | Col 8 | Col 9 | Col 10 | Col 11 | Col 12 |
 | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- |
 |  | Table 10.8 : Percentage Distribution of Household Heads by Highest Educational Qualification Obtained and Sector, 2024 |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  | Highest Educational Qualification Obtained |  |  |  |  |  |  |
-|  | Total |  |  |  |  |  |  |  |  |  |  |  |
-|  | Number of |  |  |  |  |  |  |  |  |  |  |  |
-| Sector |  | % | Never |  | Passed |  | Passed |  | G.C.E. |  |  |  |
-|  | Household |  |  |  |  |  |  |  |  |  | G.C.E. |  |
-|  |  |  | Attended | % | Grade | % | Grade | % | (O/L) or | % |  | % |
-|  | Heads |  |  |  |  |  |  |  |  |  | (A/L) & over |  |
+|  | Total |  |  |  |  | Highest Educational Qualification Obtained |  |  |  |  |  |  |
+| Sector | Number of 
+Household | % | Never |  | Passed |  | Passed |  | G.C.E. |  |  |  |
+|  | Heads |  | Attended | % | Grade | % | Grade | % | (O/L) or | % | G.C.E.  
+(A/L) & over | % |
 |  |  |  | School |  | 1 - 5 * |  | 6 - 10 |  | Equivalent |  |  |  |
 | Sri Lanka | 6,111,315 | 100.0 | 174,144 | 2.8 | 933,438 | 15.3 | 2,443,894 | 40.1 | 1,310,679 | 21.4 | 1,249,160 | 20.4 |
+| Urban | 1,042,557 | 100.0 | 16,211 | 1.6 | 87,831 | 8.4 | 313,916 | 30.1 | 263,964 | 25.3 | 360,635 | 34.6 |
+| Estate Urban | 3,108 | 100.0 | 329 | 10.6 | 833 | 26.8 | 1,353 | 43.5 | 317 | 10.2 | 276 | 8.9 |
+| Rural | 4,827,055 | 100.0 | 127,933 | 2.7 | 761,530 | 15.8 | 2,037,293 | 42.1 | 1,023,234 | 21.2 | 877,065 | 18.2 |
+| Estate Rural | 238,595 | 100.0 | 29,671 | 12.4 | 83,244 | 34.9 | 91,332 | 38.3 | 23,164 | 9.7 | 11,184 | 4.7 |
 
 ### Source
 
@@ -1323,7 +1390,7 @@ Nuclear | Extended | Composite |
 | Notably, in the age group of 70 years and over, the number of males living alone is approximately one- | -- | -- | -- |
 | third of the corresponding number of females. | -- | -- | -- |
 | Table 10.10: Number and Percentage Distribution of Individuals in One Person Households Aged 60 Years and Over, by Sex and |  |  |  |
-|  | Age Group, 2024 |  |  |
+|  |  | Age Group, 2024 |  |
 
 ### Source
 
@@ -1382,14 +1449,16 @@ Nuclear | Extended | Composite |
 | :-- | :-- | :-- | :-- | :-- | :-- | :-- |
 |  | Table 11.11 : Distribution of Households in Sri Lanka's ability to Obtain Drinking Water Throughout the Year, 2024 |  |  |  |  |  |
 |  |  |  | Ability to obtain drinking water throughout the year |  |  |  |
-|  |  |  |  |  | Households |  |
-| Main source of |  |  |  |  |  |  |
-|  |  |  | Households with |  |  |  |
-|  | Total |  |  |  | without water |  |
-| drinking water |  |  |  |  |  |  |
-|  |  |  | water facilities |  |  |  |
-|  |  | Percentage |  | Percentage | supply for at | Percentage |
-|  | households |  | throughout the |  |  |  |
+| Main source of |  |  | Households with |  | Households 
+without water |  |
+| drinking water | Total | Percentage | water facilities | Percentage | supply for at | Percentage |
+|  | households |  | throughout the 
+year |  | least one |  |
+|  |  |  |  |  | month |  |
+| Total* | 5,559,505 | 100.0 | 5,374,541 | 96.7 | 184,964 | 3.3 |
+| Ground water | 2,470,308 | 100.0 | 2,361,822 | 95.6 | 108,486 | 4.4 |
+| Pipe borne water | 3,024,754 | 100.0 | 2,959,509 | 97.8 | 65,245 | 2.2 |
+| Other | 64,443 | 100.0 | 53,210 | 82.6 | 11,233 | 17.4 |
 
 ### Source
 
@@ -1424,8 +1493,7 @@ Nuclear | Extended | Composite |
 
 | Col 0 | Col 1 | Col 2 | Col 3 | Col 4 |
 | :-- | :-- | :-- | :-- | :-- |
-|  | 2012 |  | 2024 |  |
-| Toilet facilities |  |  |  |  |
+| Toilet facilities | 2012 |  | 2024 |  |
 |  | Number | % | Number | % |
 | Total | 5,264,282 | 100.0 | 6,111,315 | 100.0 |
 | Within the housing unit - Exclusively for the household | 1,748,249 | 33.2 | 3,798,777 | 62.2 |
@@ -1434,6 +1502,7 @@ Nuclear | Extended | Composite |
 | Within Premises - Sharing with another household | 358,453 | 6.8 | 197,678 | 3.2 |
 | No toilet but sharing with another housing unit/units | 133,772 | 2.5 | 101,924 | 1.7 |
 | Common/ Public toilet | 36,088 | 0.7 | 9,567 | 0.2 |
+| Not using a toilet (use jungle, beach and open ground) | 88,280 | 1.7 | 13,326 | 0.2 |
 
 ### Source
 
@@ -1447,8 +1516,7 @@ Nuclear | Extended | Composite |
 | Col 0 | Col 1 | Col 2 | Col 3 | Col 4 | Col 5 |
 | :-- | :-- | :-- | :-- | :-- | :-- |
 |  |  |  |  | Sector |  |
-| Method of disposing solid waste | Sri Lanka |  | Estate- |  | Estate- |
-|  |  | Urban |  | Rural |  |
+| Method of disposing solid waste | Sri Lanka | Urban | Estate- | Rural | Estate- |
 |  |  |  | Urban |  | Rural |
 | Total number of households | 6,111,315 | 1,042,557 | 3,108 | 4,827,055 | 238,595 |
 |  |  | Disposal of easy decaying waste |  |  |  |
@@ -1456,6 +1524,7 @@ Nuclear | Extended | Composite |
 | By the local authority | 23.9 | 81.9 | 43.0 | 12.4 | 2.7 |
 | Occupants burn | 34.2 | 8.4 | 28.2 | 39.7 | 35.7 |
 | Occupants dispose within the premises | 34.5 | 6.3 | 13.4 | 40.4 | 38.0 |
+| Composing solid waste | 5.6 | 2.5 | 6.0 | 6.1 | 7.8 |
 
 ### Source
 
@@ -1469,8 +1538,7 @@ Nuclear | Extended | Composite |
 | Col 0 | Col 1 | Col 2 | Col 3 | Col 4 |
 | :-- | :-- | :-- | :-- | :-- |
 |  | Table 12.1 : Myer’s Index by Sex, 1981, 2001, 2012 and 2024 |  |  |  |
-|  |  | Myers’ Index |  |  |
-| Sex |  |  |  |  |
+| Sex |  | Myers’ Index |  |  |
 |  | 1981 | 2001* | 2012 | 2024 |
 | Both sexes | 9.7 | 2.7 | 1.7 | 1.2 |
 | Male | 8.7 | 2.7 | 1.8 | 1.2 |
@@ -1485,18 +1553,20 @@ Nuclear | Extended | Composite |
 
 ### Raw Data (first 10 rows)
 
-| Col 0 | Col 1 | Col 2 | Col 3 | Col 4 | Col 5 | Col 6 | Col 7 |
-| :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- |
-| 12.0 | 11.2 |  |  |  |  |  |  |
-|  |  |  |  |  | Sri Lanka | Male | Female |
-| 9.7 |  |  |  |  |  |  |  |
-| 10.0 |  |  |  |  |  |  |  |
-|  | 8.7 |  |  |  |  |  |  |
-| 8.0 |  |  |  |  |  |  |  |
-| 6.0 |  |  |  |  |  |  |  |
-| 4.0 |  |  |  |  |  |  |  |
-|  |  |  | 3.0 |  |  |  |  |
-|  |  | 2.7 | 2.7 |  |  |  |  |
+| Col 0 | Col 1 | Col 2 | Col 3 | Col 4 | Col 5 | Col 6 | Col 7 | Col 8 |
+| :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- |
+| 12.0 | 11.2 |  |  | Sri Lanka |  | Male |  | Female |
+| 10.0 | 9.7 |  |  |  |  |  |  |  |
+|  | 8.7 |  |  |  |  |  |  |  |
+| 8.0 |  |  |  |  |  |  |  |  |
+| 6.0 |  |  |  |  |  |  |  |  |
+| 4.0 |  | 3.0
+2.7
+2.7 |  |  |  |  |  |  |
+| 2.0 |  |  | 1.7 | 1.8 | 1.7 | 1.2 | 1.2 | 1.1 |
+| 0.0 |  |  |  |  |  |  |  |  |
+|  | 1981 | 2001* |  | 2012 |  |  | 2024 |  |
+|  | Table 12.2 : Deviations of Terminal Digits of Reported Age, 2012 and 2024 |  |  |  |  |  | -- | -- |
 
 ### Source
 

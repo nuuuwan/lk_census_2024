@@ -22,28 +22,6 @@
     }
   },
   {
-    "region_id": "LK-12",
-    "region_name": "Gampaha",
-    "region_ent_type": "district",
-    "values": {
-      "is_in_1871": false,
-      "is_in_1881": false,
-      "is_in_1891": false,
-      "is_in_1901": false,
-      "is_in_1911": false,
-      "is_in_1921": false,
-      "is_in_1931": false,
-      "is_in_1946": false,
-      "is_in_1953": false,
-      "is_in_1963": false,
-      "is_in_1971": false,
-      "is_in_1981": true,
-      "is_in_2001": true,
-      "is_in_2012": true,
-      "is_in_2024": true
-    }
-  },
-  {
     "region_id": "LK-12-Negombo",
     "region_name": "Negombo",
     "region_ent_type": "district",
@@ -63,6 +41,28 @@
       "is_in_2001": false,
       "is_in_2012": false,
       "is_in_2024": false
+    }
+  },
+  {
+    "region_id": "LK-12",
+    "region_name": "Gampaha",
+    "region_ent_type": "district",
+    "values": {
+      "is_in_1871": false,
+      "is_in_1881": false,
+      "is_in_1891": false,
+      "is_in_1901": false,
+      "is_in_1911": false,
+      "is_in_1921": false,
+      "is_in_1931": false,
+      "is_in_1946": false,
+      "is_in_1953": false,
+      "is_in_1963": false,
+      "is_in_1971": false,
+      "is_in_1981": true,
+      "is_in_2001": true,
+      "is_in_2012": true,
+      "is_in_2024": true
     }
   },
   {
@@ -134,6 +134,28 @@
   {
     "region_id": "LK-23",
     "region_name": "Nuwara Eliya",
+    "region_ent_type": "district",
+    "values": {
+      "is_in_1871": true,
+      "is_in_1881": true,
+      "is_in_1891": true,
+      "is_in_1901": true,
+      "is_in_1911": true,
+      "is_in_1921": true,
+      "is_in_1931": true,
+      "is_in_1946": true,
+      "is_in_1953": true,
+      "is_in_1963": true,
+      "is_in_1971": true,
+      "is_in_1981": true,
+      "is_in_2001": true,
+      "is_in_2012": true,
+      "is_in_2024": true
+    }
+  },
+  {
+    "region_id": "LK-81",
+    "region_name": "Badulla",
     "region_ent_type": "district",
     "values": {
       "is_in_1871": true,
@@ -497,28 +519,6 @@
       "is_in_1931": false,
       "is_in_1946": false,
       "is_in_1953": false,
-      "is_in_1963": true,
-      "is_in_1971": true,
-      "is_in_1981": true,
-      "is_in_2001": true,
-      "is_in_2012": true,
-      "is_in_2024": true
-    }
-  },
-  {
-    "region_id": "LK-81",
-    "region_name": "Badulla",
-    "region_ent_type": "district",
-    "values": {
-      "is_in_1871": true,
-      "is_in_1881": true,
-      "is_in_1891": true,
-      "is_in_1901": true,
-      "is_in_1911": true,
-      "is_in_1921": true,
-      "is_in_1931": true,
-      "is_in_1946": true,
-      "is_in_1953": true,
       "is_in_1963": true,
       "is_in_1971": true,
       "is_in_1981": true,

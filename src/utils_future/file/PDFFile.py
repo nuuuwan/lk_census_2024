@@ -1,3 +1,5 @@
+import warnings
+
 import camelot
 import fitz
 from pypdf import PdfReader, PdfWriter
@@ -46,19 +48,20 @@ class PDFFile(File):
         return output_text_file
 
     def extract_table_data(self, i_table_on_page, total_tables_on_page):
-        tables = camelot.read_pdf(
-            self.path,
-            flavor="stream",
-            row_tol=10,
-        )
-
-        if total_tables_on_page != len(tables):
-            raise ValueError(
-                f"Expected {total_tables_on_page} tables on page,"
-                + f" but found {len(tables)}"
+        with warnings.catch_warnings():
+            warnings.simplefilter("ignore", UserWarning)
+            tables = camelot.read_pdf(
+                self.path,
+                flavor="stream",
+                row_tol=10,
             )
 
         if total_tables_on_page != 1:
+            if total_tables_on_page != len(tables):
+                raise ValueError(
+                    f"Expected {total_tables_on_page} tables on page,"
+                    + f" but found {len(tables)}"
+                )
             tables = [tables[i_table_on_page]]
 
         d_list = []
