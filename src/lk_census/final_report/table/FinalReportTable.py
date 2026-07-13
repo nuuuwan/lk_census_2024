@@ -53,6 +53,14 @@ class FinalReportTable(
         d_list = FinalReportConstants.TABLE_METADATA_FILE.read()
         return [cls.from_dict(d) for d in d_list]
 
+    @classmethod
+    def from_table_num(cls, table_num):
+        tables = cls.list()
+        for table in tables:
+            if table.table_num == table_num:
+                return table
+        raise ValueError(f"Table with table_num {table_num} not found")
+
     def build(self):
         self.build_original_pdf()
         self.build_raw_data()
