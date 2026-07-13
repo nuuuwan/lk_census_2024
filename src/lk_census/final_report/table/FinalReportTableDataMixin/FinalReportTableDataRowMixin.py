@@ -5,7 +5,6 @@ log = Log("FinalReportTableDataRowMixin")
 
 
 class FinalReportTableDataRowMixin:
-    KNOWN_PRIMARY_KEY_LIST = ["topic", "census_data", "sector", "age"]
 
     @staticmethod
     def _get_region(region_name):
@@ -56,9 +55,9 @@ class FinalReportTableDataRowMixin:
             return self._build_primary_keys_for_district(first_cell)
 
         first_primary_key = self.primary_keys[0]
-        if first_primary_key in self.KNOWN_PRIMARY_KEY_LIST:
-            return {first_primary_key: first_cell}
-        raise ValueError(f"Primary keys unknown: {self.primary_keys}")
+        if first_cell.lower() in ["total", "", "ethnic group"]:
+            return None
+        return {first_primary_key: first_cell}
 
     # flake8: noqa: E501
     def _build_data_item(self, raw_data):

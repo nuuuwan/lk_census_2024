@@ -24,6 +24,11 @@ class FinalReportTableDataOtherValuesMixin:
     def _is_key_boolean(self, cell_key):
         return cell_key.startswith("is_") or cell_key.startswith("has_")
 
+    def _is_key_int_in_thousands(self, cell_key):
+        if cell_key.endswith("_population_k"):
+            return True
+        return False
+
     # flake8: noqa: E501
     def _build_value(self, cell_key, cell_value):
         if self._is_key_str(cell_key):
@@ -37,6 +42,10 @@ class FinalReportTableDataOtherValuesMixin:
 
         if self._is_key_float(cell_key):
             return Parse.float(cell_value)
+
+        if self._is_key_int_in_thousands(cell_key):
+            f = Parse.float(cell_value) or 0
+            return int(f * 1000)
 
         return Parse.int(cell_value)
 

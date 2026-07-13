@@ -1,0 +1,16 @@
+{
+  "primary_key": "ethnicity",
+  "other_keys": [
+    "census_1911_population_k",
+    "census_1921_population_k",
+    "census_1931_population_k",
+    "census_1946_population_k",
+    "census_1953_population_k",
+    "census_1963_population_k",
+    "census_1971_population_k",
+    "census_1981_population_k",
+    "census_2001_population_k",
+    "census_2012_population_k",
+    "census_2024_population_k"
+  ]
+}
