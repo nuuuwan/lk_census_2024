@@ -1,5 +1,15 @@
 {
-  "primary_key": "",
-  "other_keys": [],
+  "primary_key": "marital_status",
+  "other_keys": [
+    "total",
+    "male",
+    "female",
+    "total_with_disability",
+    "_ignore",
+    "male_with_disability",
+    "_ignore",
+    "female_with_disability",
+    "_ignore"
+  ],
   "is_summable": false
 }

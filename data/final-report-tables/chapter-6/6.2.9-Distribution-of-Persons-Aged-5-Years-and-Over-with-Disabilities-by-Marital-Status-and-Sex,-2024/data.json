@@ -1,0 +1,79 @@
+[
+  {
+    "marital_status": "Sri Lanka",
+    "values": {
+      "total": 20566680,
+      "male": 9901263,
+      "female": 10665417,
+      "total_with_disability": 727293,
+      "male_with_disability": 313354,
+      "female_with_disability": 413939
+    }
+  },
+  {
+    "marital_status": "Never Married",
+    "values": {
+      "total": 7885030,
+      "male": 4197243,
+      "female": 3687787,
+      "total_with_disability": 139784,
+      "male_with_disability": 75568,
+      "female_with_disability": 64216
+    }
+  },
+  {
+    "marital_status": "Married",
+    "values": {
+      "total": 11161078,
+      "male": 5417431,
+      "female": 5743647,
+      "total_with_disability": 385815,
+      "male_with_disability": 205805,
+      "female_with_disability": 180010
+    }
+  },
+  {
+    "marital_status": "Widowed",
+    "values": {
+      "total": 1234418,
+      "male": 175421,
+      "female": 1058997,
+      "total_with_disability": 187613,
+      "male_with_disability": 25746,
+      "female_with_disability": 161867
+    }
+  },
+  {
+    "marital_status": "Divorced",
+    "values": {
+      "total": 74355,
+      "male": 28952,
+      "female": 45403,
+      "total_with_disability": 3161,
+      "male_with_disability": 1356,
+      "female_with_disability": 1805
+    }
+  },
+  {
+    "marital_status": "Legally  Separated",
+    "values": {
+      "total": 44904,
+      "male": 17047,
+      "female": 27857,
+      "total_with_disability": 1837,
+      "male_with_disability": 814,
+      "female_with_disability": 1023
+    }
+  },
+  {
+    "marital_status": "Separated   (not Legally)",
+    "values": {
+      "total": 166895,
+      "male": 65169,
+      "female": 101726,
+      "total_with_disability": 9083,
+      "male_with_disability": 4065,
+      "female_with_disability": 5018
+    }
+  }
+]
