@@ -70,6 +70,7 @@ class FinalReportTableDataRowMixin:
 
     def _build_primary_keys(self, first_cell):
         first_cell = first_cell.replace("\u2013", "-")
+        first_cell = first_cell.replace("\u2019", "'")
         first_primary_key = self.primary_keys[0]
 
         if first_primary_key in ["district_name", "province_name"]:

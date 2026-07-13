@@ -11,8 +11,7 @@
       "p_cancer": 0.002,
       "p_stroke": 0.002,
       "p_asthma": 0.015,
-      "p_epilepsy": 0.002,
-      "_rounding_error": 7670748.723
+      "p_epilepsy": 0.002
     }
   },
   {
@@ -27,8 +26,7 @@
       "p_cancer": 0.002,
       "p_stroke": 0.001,
       "p_asthma": 0.007,
-      "p_epilepsy": 0.001,
-      "_rounding_error": 1162692.806
+      "p_epilepsy": 0.001
     }
   },
   {
@@ -43,8 +41,7 @@
       "p_cancer": 0.002,
       "p_stroke": 0.001,
       "p_asthma": 0.009,
-      "p_epilepsy": 0.001,
-      "_rounding_error": 170712.759
+      "p_epilepsy": 0.001
     }
   },
   {
@@ -59,8 +56,7 @@
       "p_cancer": 0.002,
       "p_stroke": 0.001,
       "p_asthma": 0.015,
-      "p_epilepsy": 0.003,
-      "_rounding_error": 3244289.79
+      "p_epilepsy": 0.003
     }
   },
   {
@@ -75,12 +71,11 @@
       "p_cancer": 0.002,
       "p_stroke": 0.002,
       "p_asthma": 0.009,
-      "p_epilepsy": 0.001,
-      "_rounding_error": 277867.6
+      "p_epilepsy": 0.001
     }
   },
   {
-    "employment_status": "Own account worker   (don\u2019t have employees)",
+    "employment_status": "Own account worker   (don't have employees)",
     "values": {
       "p_diabetes": 0.104,
       "p_high_cholesterol": 0.096,
@@ -91,8 +86,7 @@
       "p_cancer": 0.003,
       "p_stroke": 0.003,
       "p_asthma": 0.02,
-      "p_epilepsy": 0.003,
-      "_rounding_error": 2407613.617
+      "p_epilepsy": 0.003
     }
   },
   {
@@ -107,8 +101,7 @@
       "p_cancer": 0.004,
       "p_stroke": 0.002,
       "p_asthma": 0.025,
-      "p_epilepsy": 0.003,
-      "_rounding_error": 407570.589
+      "p_epilepsy": 0.003
     }
   }
 ]
