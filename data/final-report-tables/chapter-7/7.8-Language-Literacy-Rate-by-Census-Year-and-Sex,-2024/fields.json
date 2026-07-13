@@ -1,0 +1,9 @@
+{
+  "original_key": "census_year",
+  "other_keys": [
+    "total_literacy_rate",
+    "male_literacy_rate",
+    "female_literacy_rate"
+  ],
+  "is_summable": false
+}

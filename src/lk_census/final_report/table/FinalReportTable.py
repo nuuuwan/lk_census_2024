@@ -79,6 +79,7 @@ class FinalReportTable(
             "6.2.13",  # Double Row
             "6.2.14",  # Double Row
             "6.3.1",  # Data error
+            "7.6",  # Double Row
         ]
 
     STATUS_LABELS = {
