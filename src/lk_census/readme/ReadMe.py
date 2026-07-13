@@ -1,4 +1,4 @@
-from lk_census.final_report.FinalReportTable import FinalReportTable
+from lk_census.final_report.table import FinalReportTable
 from lk_census.readme.ReadMeDataTableMixin import ReadMeDataTableMixin
 from lk_census.readme.ReadMeFinalReportMixin import ReadMeFinalReportMixin
 from lk_census.xlsx_data_table import XLSXDataTable
