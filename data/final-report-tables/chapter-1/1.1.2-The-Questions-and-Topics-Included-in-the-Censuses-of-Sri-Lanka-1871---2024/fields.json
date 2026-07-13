@@ -1,0 +1,20 @@
+{
+  "primary_keys": ["topic"],
+  "other_keys": [
+    "census_1871",
+    "census_1881",
+    "census_1891",
+    "census_1901",
+    "census_1911",
+    "census_1921",
+    "census_1931",
+    "census_1946",
+    "census_1953",
+    "census_1963",
+    "census_1971",
+    "census_1981",
+    "census_2001",
+    "census_2012",
+    "census_2024"
+  ]
+}
