@@ -1,0 +1,58 @@
+[
+  {
+    "census_year": "1946",
+    "values": {
+      "median_age_all": 21.3,
+      "median_age_male": 22.1,
+      "median_age_female": 20.5
+    }
+  },
+  {
+    "census_year": "1953",
+    "values": {
+      "median_age_all": 20.8,
+      "median_age_male": 21.7,
+      "median_age_female": 19.9
+    }
+  },
+  {
+    "census_year": "1963",
+    "values": {
+      "median_age_all": 19.4,
+      "median_age_male": 20.0,
+      "median_age_female": 18.4
+    }
+  },
+  {
+    "census_year": "1971",
+    "values": {
+      "median_age_all": 19.7,
+      "median_age_male": 20.0,
+      "median_age_female": 19.3
+    }
+  },
+  {
+    "census_year": "1981",
+    "values": {
+      "median_age_all": 21.4,
+      "median_age_male": 21.5,
+      "median_age_female": 21.4
+    }
+  },
+  {
+    "census_year": "2012",
+    "values": {
+      "median_age_all": 30.0,
+      "median_age_male": 30.0,
+      "median_age_female": 31.0
+    }
+  },
+  {
+    "census_year": "2024",
+    "values": {
+      "median_age_all": 35.0,
+      "median_age_male": 34.0,
+      "median_age_female": 36.0
+    }
+  }
+]

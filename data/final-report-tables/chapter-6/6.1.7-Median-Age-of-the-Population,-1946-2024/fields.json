@@ -1,0 +1,5 @@
+{
+  "primary_key": "census_year",
+  "other_keys": ["median_age_all", "median_age_male", "median_age_female"],
+  "is_summable": false
+}
