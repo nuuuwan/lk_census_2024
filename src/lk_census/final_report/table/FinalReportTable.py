@@ -1,4 +1,5 @@
 import os
+from functools import cached_property
 
 from lk_census.final_report.FinalReportConstants import FinalReportConstants
 from lk_census.final_report.table.FinalReportTableBase import (
@@ -57,7 +58,13 @@ class FinalReportTable(
         self.build_raw_data()
         self.build_data()
 
-    def _build_status_from_files(self):
+    @cached_property
+    def is_complicated(self):
+        return self.table_num in ["5.2.2", "5.2.5", "6.1.6"]
+
+    @cached_property
+    def build_status(self):
+
         files = [
             self.original_pdf_file,
             self.raw_data_file,
@@ -67,7 +74,3 @@ class FinalReportTable(
             if not f.exists:
                 return i
         return len(files)
-
-    @property
-    def build_status(self):
-        return self._build_status_from_files()

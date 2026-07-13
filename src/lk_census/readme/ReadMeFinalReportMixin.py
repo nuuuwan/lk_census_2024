@@ -171,6 +171,8 @@ class ReadMeFinalReportMixin:
                 continue
             if not final_report_table.raw_data_file.exists:
                 continue
+            if final_report_table.is_complicated:
+                continue
             lines.extend(
                 self.get_lines_for_final_report_table(
                     i_dataset, final_report_table
