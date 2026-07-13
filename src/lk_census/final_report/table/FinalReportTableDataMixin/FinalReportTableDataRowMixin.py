@@ -40,6 +40,7 @@ class FinalReportTableDataRowMixin:
         return raw_data
 
     def _build_primary_keys_for_district(self, first_cell):
+
         region = self._get_region(first_cell)
         if region is None:
             log.warning(f"No region for: {first_cell}")
@@ -51,6 +52,7 @@ class FinalReportTableDataRowMixin:
         )
 
     def _build_primary_keys(self, first_cell):
+        first_cell = first_cell.replace("\u2013", "-")
         if self.primary_keys == ["district_name"]:
             return self._build_primary_keys_for_district(first_cell)
 

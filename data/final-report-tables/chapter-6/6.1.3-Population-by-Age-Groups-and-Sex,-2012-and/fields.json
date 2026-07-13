@@ -1,0 +1,12 @@
+{
+  "primary_key": "age_group",
+  "other_keys": [
+    "total_2012",
+    "male_2012",
+    "female_2012",
+    "total_2024",
+    "male_2024",
+    "female_2024"
+  ],
+  "is_summable": false
+}
