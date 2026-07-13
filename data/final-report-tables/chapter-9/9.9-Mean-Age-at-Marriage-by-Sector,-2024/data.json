@@ -1,0 +1,34 @@
+[
+  {
+    "sector": "Sri Lanka",
+    "values": {
+      "mean_age_of_marriage_male": 29.2,
+      "mean_age_of_marriage_female": 25.6,
+      "mean_diff": 3.6
+    }
+  },
+  {
+    "sector": "Urban *",
+    "values": {
+      "mean_age_of_marriage_male": 29.8,
+      "mean_age_of_marriage_female": 26.6,
+      "mean_diff": 3.2
+    }
+  },
+  {
+    "sector": "Rural",
+    "values": {
+      "mean_age_of_marriage_male": 29.0,
+      "mean_age_of_marriage_female": 25.4,
+      "mean_diff": 3.6
+    }
+  },
+  {
+    "sector": "Estate Rural **",
+    "values": {
+      "mean_age_of_marriage_male": 28.4,
+      "mean_age_of_marriage_female": 24.5,
+      "mean_diff": 3.9
+    }
+  }
+]
