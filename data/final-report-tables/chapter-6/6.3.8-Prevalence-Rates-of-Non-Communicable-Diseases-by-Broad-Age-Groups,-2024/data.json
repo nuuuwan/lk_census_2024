@@ -1,0 +1,62 @@
+[
+  {
+    "age_group": "Sri Lanka*",
+    "values": {
+      "p_diabetes": 0.085,
+      "p_high_cholesterol": 0.082,
+      "p_high_blood_pressure": 0.101,
+      "p_heart_disease": 0.025,
+      "p_kidney_disease": 0.008,
+      "p_thalassemia": 0.001,
+      "p_cancer": 0.004,
+      "p_stroke": 0.006,
+      "p_asthma": 0.018,
+      "p_epilepsy": 0.003
+    }
+  },
+  {
+    "age_group": "0 - 14",
+    "values": {
+      "p_diabetes": 0.001,
+      "p_high_cholesterol": 0.0,
+      "p_high_blood_pressure": 0.0,
+      "p_heart_disease": 0.003,
+      "p_kidney_disease": 0.001,
+      "p_thalassemia": 0.001,
+      "p_cancer": 0.0,
+      "p_stroke": 0.0,
+      "p_asthma": 0.009,
+      "p_epilepsy": 0.002
+    }
+  },
+  {
+    "age_group": "15 - 59",
+    "values": {
+      "p_diabetes": 0.06,
+      "p_high_cholesterol": 0.055,
+      "p_high_blood_pressure": 0.058,
+      "p_heart_disease": 0.014,
+      "p_kidney_disease": 0.004,
+      "p_thalassemia": 0.001,
+      "p_cancer": 0.003,
+      "p_stroke": 0.003,
+      "p_asthma": 0.014,
+      "p_epilepsy": 0.003
+    }
+  },
+  {
+    "age_group": "60 & Over",
+    "values": {
+      "p_diabetes": 0.268,
+      "p_high_cholesterol": 0.27,
+      "p_high_blood_pressure": 0.364,
+      "p_heart_disease": 0.084,
+      "p_kidney_disease": 0.028,
+      "p_thalassemia": 0.001,
+      "p_cancer": 0.012,
+      "p_stroke": 0.023,
+      "p_asthma": 0.043,
+      "p_epilepsy": 0.003
+    }
+  }
+]
