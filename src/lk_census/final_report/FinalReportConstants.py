@@ -12,3 +12,11 @@ class FinalReportConstants:
     TABLE_METADATA_FILE = JSONFile(
         os.path.join("derived_docs", "final-report-index.metadata.json")
     )
+
+    TABLE_INDEX_START_PAGE, TABLE_INDEX_END_PAGE = 11, 13
+    TABLE_INDEX_PDF_FILE = PDFFile(
+        os.path.join("derived_docs", "final-report-index.pdf")
+    )
+    TABLE_INDEX_TXT_FILE = PDFFile(
+        os.path.join("derived_docs", "final-report-index.txt")
+    )
