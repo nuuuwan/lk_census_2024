@@ -68,6 +68,8 @@ class FinalReportTable(
             "6.2.1",  # Double Row
             "6.2.4",  # Double Row
             "6.2.5",  # Double Row
+            "6.2.13",  # Double Row
+            "6.2.14",  # Double Row
         ]
 
     STATUS_LABELS = {

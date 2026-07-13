@@ -37,7 +37,7 @@ class FinalReportTableDataRowMixin:
         if len(raw_data) != self.n_fields:
             log.warning(
                 "Wrong number of fields:"
-                + f" {self.n_fields} != {len(raw_data)}: {raw_data}"
+                + f" {self.n_fields} (Exp) != {len(raw_data)}: {raw_data}"
             )
             return None
 
