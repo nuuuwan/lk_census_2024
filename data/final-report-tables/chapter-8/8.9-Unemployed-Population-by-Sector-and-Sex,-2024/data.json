@@ -1,0 +1,34 @@
+[
+  {
+    "sector": "Urban",
+    "values": {
+      "male": 43342,
+      "female": 44965
+    },
+    "total_value": 88307
+  },
+  {
+    "sector": "Estate - Urban",
+    "values": {
+      "male": 151,
+      "female": 112
+    },
+    "total_value": 263
+  },
+  {
+    "sector": "Rural",
+    "values": {
+      "male": 175144,
+      "female": 199089
+    },
+    "total_value": 374233
+  },
+  {
+    "sector": "Estate - Rural",
+    "values": {
+      "male": 14034,
+      "female": 14872
+    },
+    "total_value": 28906
+  }
+]
