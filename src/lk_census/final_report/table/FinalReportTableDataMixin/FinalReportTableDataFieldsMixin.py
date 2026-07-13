@@ -50,3 +50,7 @@ class FinalReportTableDataFieldsMixin:
             self.fields.get("is_expandable", True)
             and self.is_first_primary_key_expandable
         )
+
+    @cached_property
+    def total_description(self):
+        return self.fields.get("total_description")

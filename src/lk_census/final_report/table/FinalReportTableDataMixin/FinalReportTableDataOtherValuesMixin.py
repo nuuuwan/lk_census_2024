@@ -65,7 +65,17 @@ class FinalReportTableDataOtherValuesMixin:
                 log.warning(f'Null value for "{other_key}": "{other_value}"')
                 return None
             values[other_key] = value
+
+        if "total_value" in values:
+            total_value = values["total_value"]
+            del values["total_value"]
+            error = total_value - sum(values.values())
+            values[self.error_key] = error
+
         d = dict(values=values)
+        if self.total_description:
+            d["total_description"] = self.total_description
+
         if self.is_summable:
             self._build_sums(d)
         return d
