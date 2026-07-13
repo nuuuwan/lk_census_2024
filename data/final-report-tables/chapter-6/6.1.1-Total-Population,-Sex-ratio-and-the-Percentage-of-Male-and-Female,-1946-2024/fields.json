@@ -1,0 +1,5 @@
+{
+  "primary_key": "census_year",
+  "other_keys": ["population", "sex_ratio", "p_male", "_ignore", "p_female"],
+  "is_summable": false
+}
