@@ -88,6 +88,7 @@ class FinalReportTable(
         # Chapter 10
         "10.3",  # Double Row
         "10.4",  # Double Row
+        "10.10",  # Double Row
     ]
 
     @property

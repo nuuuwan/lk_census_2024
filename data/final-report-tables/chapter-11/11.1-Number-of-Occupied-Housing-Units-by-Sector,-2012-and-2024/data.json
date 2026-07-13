@@ -1,0 +1,30 @@
+[
+  {
+    "sector": "Sri Lanka",
+    "values": {
+      "households_2012": 5207740,
+      "households_2024": 6030541
+    }
+  },
+  {
+    "sector": "Urban*",
+    "values": {
+      "households_2012": 891103,
+      "households_2024": 1028363
+    }
+  },
+  {
+    "sector": "Rural",
+    "values": {
+      "households_2012": 4092252,
+      "households_2024": 4773336
+    }
+  },
+  {
+    "sector": "Estate-Rural**",
+    "values": {
+      "households_2012": 224385,
+      "households_2024": 228842
+    }
+  }
+]
