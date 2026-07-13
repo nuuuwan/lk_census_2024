@@ -1,0 +1,5 @@
+{
+  "primary_key": "census_year",
+  "other_keys": ["total_fertility_rate"],
+  "is_summable": false
+}
