@@ -1,7 +1,6 @@
 import os
 
 from lk_census.final_report.table import FinalReportTable
-from utils_future import JSONFile
 
 if __name__ == "__main__":
     table_list = FinalReportTable.list()
