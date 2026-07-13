@@ -1,5 +1,5 @@
 {
-  "primary_key": "",
-  "other_keys": [],
+  "primary_key": "toilet_facilities",
+  "other_keys": ["units_2012", "_ignore", "units_2024", "_ignore"],
   "is_summable": false
 }
