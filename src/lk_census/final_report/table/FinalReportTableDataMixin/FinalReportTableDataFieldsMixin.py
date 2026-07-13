@@ -62,3 +62,7 @@ class FinalReportTableDataFieldsMixin:
     @cached_property
     def has_complete_fields(self):
         return len(self.other_keys) > 0
+
+    @cached_property
+    def raw_table_index_list(self):
+        return self.fields.get("raw_table_index_list", [])

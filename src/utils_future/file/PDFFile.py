@@ -47,7 +47,10 @@ class PDFFile(File):
         log.debug(f"Converted {self} to text file {output_text_file}")
         return output_text_file
 
-    def extract_table_data(self, i_table_on_page, total_tables_on_page):
+    def extract_table_data(
+        self, i_table_on_page, total_tables_on_page, raw_table_index_list
+    ):
+
         with warnings.catch_warnings():
             warnings.simplefilter("ignore", UserWarning)
             tables = camelot.read_pdf(
@@ -57,7 +60,20 @@ class PDFFile(File):
             )
 
         if total_tables_on_page != 1:
-            if total_tables_on_page != len(tables):
+
+            if len(raw_table_index_list) > 0:
+                actual_tables = []
+                for raw_table_index in raw_table_index_list:
+                    actual_tables.append(tables[raw_table_index])
+                tables = actual_tables
+
+            elif total_tables_on_page != len(tables):
+                for i_table, table in enumerate(tables):
+                    log.warning("-" * 40)
+                    log.warning(f"Table {i_table}")
+                    log.warning("-" * 40)
+                    log.warning(f"{table.df.values.tolist()}")
+
                 raise ValueError(
                     f"Expected {total_tables_on_page} tables on page,"
                     + f" but found {len(tables)}"
