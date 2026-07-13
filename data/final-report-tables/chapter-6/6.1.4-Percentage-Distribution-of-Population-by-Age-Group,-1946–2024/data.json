@@ -1,0 +1,184 @@
+[
+  {
+    "age_group": "Sri Lanka",
+    "values": {
+      "p_census_1946": 1.0,
+      "p_census_1953": 1.0,
+      "p_census_1963": 1.0,
+      "p_census_1971": 1.0,
+      "p_census_1981": 1.0,
+      "p_census_2001": 1.0,
+      "p_census_2012": 1.0,
+      "p_census_2024": 1.0
+    }
+  },
+  {
+    "age_group": "00-04",
+    "values": {
+      "p_census_1946": 0.129,
+      "p_census_1953": 0.149,
+      "p_census_1963": 0.152,
+      "p_census_1971": 0.131,
+      "p_census_1981": 0.125,
+      "p_census_2001": 0.085,
+      "p_census_2012": 0.086,
+      "p_census_2024": 0.056
+    }
+  },
+  {
+    "age_group": "05-09",
+    "values": {
+      "p_census_1946": 0.122,
+      "p_census_1953": 0.134,
+      "p_census_1963": 0.137,
+      "p_census_1971": 0.132,
+      "p_census_1981": 0.113,
+      "p_census_2001": 0.088,
+      "p_census_2012": 0.086,
+      "p_census_2024": 0.071
+    }
+  },
+  {
+    "age_group": "10-14",
+    "values": {
+      "p_census_1946": 0.121,
+      "p_census_1953": 0.114,
+      "p_census_1963": 0.126,
+      "p_census_1971": 0.127,
+      "p_census_1981": 0.114,
+      "p_census_2001": 0.09,
+      "p_census_2012": 0.081,
+      "p_census_2024": 0.08
+    }
+  },
+  {
+    "age_group": "15-19",
+    "values": {
+      "p_census_1946": 0.102,
+      "p_census_1953": 0.087,
+      "p_census_1963": 0.097,
+      "p_census_1971": 0.107,
+      "p_census_1981": 0.108,
+      "p_census_2001": 0.097,
+      "p_census_2012": 0.081,
+      "p_census_2024": 0.081
+    }
+  },
+  {
+    "age_group": "20-24",
+    "values": {
+      "p_census_1946": 0.096,
+      "p_census_1953": 0.095,
+      "p_census_1963": 0.084,
+      "p_census_1971": 0.1,
+      "p_census_1981": 0.102,
+      "p_census_2001": 0.094,
+      "p_census_2012": 0.075,
+      "p_census_2024": 0.074
+    }
+  },
+  {
+    "age_group": "25-29",
+    "values": {
+      "p_census_1946": 0.087,
+      "p_census_1953": 0.088,
+      "p_census_1963": 0.07,
+      "p_census_1971": 0.075,
+      "p_census_1981": 0.086,
+      "p_census_2001": 0.079,
+      "p_census_2012": 0.076,
+      "p_census_2024": 0.063
+    }
+  },
+  {
+    "age_group": "30-34",
+    "values": {
+      "p_census_1946": 0.068,
+      "p_census_1953": 0.064,
+      "p_census_1963": 0.063,
+      "p_census_1971": 0.058,
+      "p_census_1981": 0.076,
+      "p_census_2001": 0.076,
+      "p_census_2012": 0.081,
+      "p_census_2024": 0.065
+    }
+  },
+  {
+    "age_group": "35-39",
+    "values": {
+      "p_census_1946": 0.07,
+      "p_census_1953": 0.066,
+      "p_census_1963": 0.062,
+      "p_census_1971": 0.057,
+      "p_census_1981": 0.057,
+      "p_census_2001": 0.074,
+      "p_census_2012": 0.069,
+      "p_census_2024": 0.067
+    }
+  },
+  {
+    "age_group": "40-44",
+    "values": {
+      "p_census_1946": 0.048,
+      "p_census_1953": 0.046,
+      "p_census_1963": 0.046,
+      "p_census_1971": 0.046,
+      "p_census_1981": 0.047,
+      "p_census_2001": 0.069,
+      "p_census_2012": 0.067,
+      "p_census_2024": 0.074
+    }
+  },
+  {
+    "age_group": "45-49",
+    "values": {
+      "p_census_1946": 0.048,
+      "p_census_1953": 0.046,
+      "p_census_1963": 0.043,
+      "p_census_1971": 0.043,
+      "p_census_1981": 0.041,
+      "p_census_2001": 0.061,
+      "p_census_2012": 0.063,
+      "p_census_2024": 0.068
+    }
+  },
+  {
+    "age_group": "50-54",
+    "values": {
+      "p_census_1946": 0.03,
+      "p_census_1953": 0.034,
+      "p_census_1963": 0.034,
+      "p_census_1971": 0.033,
+      "p_census_1981": 0.036,
+      "p_census_2001": 0.054,
+      "p_census_2012": 0.06,
+      "p_census_2024": 0.062
+    }
+  },
+  {
+    "age_group": "55-59",
+    "values": {
+      "p_census_1946": 0.025,
+      "p_census_1953": 0.023,
+      "p_census_1963": 0.026,
+      "p_census_1971": 0.028,
+      "p_census_1981": 0.028,
+      "p_census_2001": 0.04,
+      "p_census_2012": 0.052,
+      "p_census_2024": 0.059
+    }
+  },
+  {
+    "age_group": "60 and over",
+    "values": {
+      "p_census_1946": 0.055,
+      "p_census_1953": 0.054,
+      "p_census_1963": 0.06,
+      "p_census_1971": 0.063,
+      "p_census_1981": 0.066,
+      "p_census_2001": 0.092,
+      "p_census_2012": 0.124,
+      "p_census_2024": 0.18
+    }
+  }
+]

@@ -1,0 +1,14 @@
+{
+  "primary_keys": ["age_group"],
+  "other_keys": [
+    "p_census_1946",
+    "p_census_1953",
+    "p_census_1963",
+    "p_census_1971",
+    "p_census_1981",
+    "p_census_2001",
+    "p_census_2012",
+    "p_census_2024"
+  ],
+  "is_summable": false
+}
