@@ -17,7 +17,11 @@ class FinalReportTableDataFieldsMixin:
 
     @cached_property
     def primary_keys(self):
-        return self.fields.get("primary_keys", ["district_name"])
+        return (
+            self.fields.get("primary_keys")
+            or [self.fields.get("primary_key")]
+            or ["district_name"]
+        )
 
     @cached_property
     def is_first_primary_key_expandable(self):

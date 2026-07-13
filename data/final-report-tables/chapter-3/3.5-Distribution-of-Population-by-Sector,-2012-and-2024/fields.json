@@ -1,0 +1,5 @@
+{
+  "primary_key": "sector",
+  "other_keys": ["population_2012", "_ignore", "population_2024", "_ignore"],
+  "is_summable": false
+}

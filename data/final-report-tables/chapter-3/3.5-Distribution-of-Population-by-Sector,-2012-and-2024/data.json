@@ -1,0 +1,37 @@
+[
+  {
+    "sector": "",
+    "values": {
+      "population_2012": 2012,
+      "population_2024": 2024
+    }
+  },
+  {
+    "sector": "Sri Lanka",
+    "values": {
+      "population_2012": 20359439,
+      "population_2024": 21781800
+    }
+  },
+  {
+    "sector": "Urban*",
+    "values": {
+      "population_2012": 3704470,
+      "population_2024": 3819203
+    }
+  },
+  {
+    "sector": "Rural",
+    "values": {
+      "population_2012": 15753322,
+      "population_2024": 17096918
+    }
+  },
+  {
+    "sector": "Estate Rural**",
+    "values": {
+      "population_2012": 901647,
+      "population_2024": 865679
+    }
+  }
+]

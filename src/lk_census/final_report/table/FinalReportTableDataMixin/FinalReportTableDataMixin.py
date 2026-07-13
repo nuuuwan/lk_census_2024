@@ -21,7 +21,7 @@ class FinalReportTableDataMixin(
     FinalReportTableDataOtherValuesMixin,
     FinalReportTableDataAggregateMixin,
 ):
-    MIN_N_DATA_LIST = 10
+    MIN_N_DATA_LIST = 5
 
     @property
     def data_file(self):
