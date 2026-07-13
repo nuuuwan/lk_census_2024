@@ -1,0 +1,106 @@
+[
+  {
+    "null": "Sri Lanka",
+    "values": {
+      "p_sinhala_literacy_rate_2012": 0.797,
+      "p_sinhala_literacy_rate_2024": 0.852,
+      "p_tamil_literacy_rate_2012": 0.264,
+      "p_tamil_literacy_rate_2024": 0.453,
+      "p_english_literacy_rate_2012": 0.308,
+      "p_english_literacy_rate_2024": 0.573,
+      "p_at_least_one_literacy_rate_2012": 0.957,
+      "p_at_least_one_literacy_rate_2024": 0.974
+    }
+  },
+  {
+    "null": "Sinhala",
+    "values": {
+      "p_sinhala_literacy_rate_2012": 0.964,
+      "p_sinhala_literacy_rate_2024": 0.978,
+      "p_tamil_literacy_rate_2012": 0.053,
+      "p_tamil_literacy_rate_2024": 0.292,
+      "p_english_literacy_rate_2012": 0.311,
+      "p_english_literacy_rate_2024": 0.586,
+      "p_at_least_one_literacy_rate_2012": 0.965,
+      "p_at_least_one_literacy_rate_2024": 0.981
+    }
+  },
+  {
+    "null": "Sri Lanka Tamil",
+    "values": {
+      "p_sinhala_literacy_rate_2012": 0.173,
+      "p_sinhala_literacy_rate_2024": 0.363,
+      "p_tamil_literacy_rate_2012": 0.941,
+      "p_tamil_literacy_rate_2024": 0.94,
+      "p_english_literacy_rate_2012": 0.243,
+      "p_english_literacy_rate_2024": 0.452,
+      "p_at_least_one_literacy_rate_2012": 0.943,
+      "p_at_least_one_literacy_rate_2024": 0.956
+    }
+  },
+  {
+    "null": "Indian Tamil/Malaiyaga Thamilar",
+    "values": {
+      "p_sinhala_literacy_rate_2012": 0.209,
+      "p_sinhala_literacy_rate_2024": 0.408,
+      "p_tamil_literacy_rate_2012": 0.862,
+      "p_tamil_literacy_rate_2024": 0.9,
+      "p_english_literacy_rate_2012": 0.194,
+      "p_english_literacy_rate_2024": 0.446,
+      "p_at_least_one_literacy_rate_2012": 0.864,
+      "p_at_least_one_literacy_rate_2024": 0.911
+    }
+  },
+  {
+    "null": "Sri Lanka Moor/Muslim",
+    "values": {
+      "p_sinhala_literacy_rate_2012": 0.406,
+      "p_sinhala_literacy_rate_2024": 0.625,
+      "p_tamil_literacy_rate_2012": 0.948,
+      "p_tamil_literacy_rate_2024": 0.945,
+      "p_english_literacy_rate_2012": 0.387,
+      "p_english_literacy_rate_2024": 0.654,
+      "p_at_least_one_literacy_rate_2012": 0.95,
+      "p_at_least_one_literacy_rate_2024": 0.968
+    }
+  },
+  {
+    "null": "Burgher",
+    "values": {
+      "p_sinhala_literacy_rate_2012": 0.77,
+      "p_sinhala_literacy_rate_2024": 0.818,
+      "p_tamil_literacy_rate_2012": 0.291,
+      "p_tamil_literacy_rate_2024": 0.538,
+      "p_english_literacy_rate_2012": 0.974,
+      "p_english_literacy_rate_2024": 0.793,
+      "p_at_least_one_literacy_rate_2012": 0.982,
+      "p_at_least_one_literacy_rate_2024": 0.98
+    }
+  },
+  {
+    "null": "Malay",
+    "values": {
+      "p_sinhala_literacy_rate_2012": 0.818,
+      "p_sinhala_literacy_rate_2024": 0.927,
+      "p_tamil_literacy_rate_2012": 0.971,
+      "p_tamil_literacy_rate_2024": 0.709,
+      "p_english_literacy_rate_2012": 0.668,
+      "p_english_literacy_rate_2024": 0.854,
+      "p_at_least_one_literacy_rate_2012": 0.976,
+      "p_at_least_one_literacy_rate_2024": 0.981
+    }
+  },
+  {
+    "null": "Other",
+    "values": {
+      "p_sinhala_literacy_rate_2012": 0.541,
+      "p_sinhala_literacy_rate_2024": 0.561,
+      "p_tamil_literacy_rate_2012": 0.383,
+      "p_tamil_literacy_rate_2024": 0.331,
+      "p_english_literacy_rate_2012": 0.808,
+      "p_english_literacy_rate_2024": 0.702,
+      "p_at_least_one_literacy_rate_2012": 0.95,
+      "p_at_least_one_literacy_rate_2024": 0.899
+    }
+  }
+]

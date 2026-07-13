@@ -40,6 +40,10 @@ class FinalReportTableDataRowMixin:
 
         raw_data = self._remove_null_cols(raw_data)
 
+        if len(raw_data) == 0:
+            log.warning("Raw data is empty after removing null columns")
+            return None
+
         if "\n" in raw_data[0]:
             raw_data[0] = raw_data[0].replace("\n", " ")
         if " " * 4 in raw_data[0]:
