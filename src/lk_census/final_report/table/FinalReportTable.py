@@ -85,6 +85,9 @@ class FinalReportTable(
         "9.1",  # Double Row
         "9.2",  # Double Row
         "9.17",  # no primary_key
+        # Chapter 10
+        "10.3",  # Double Row
+        "10.4",  # Double Row
     ]
 
     @property
