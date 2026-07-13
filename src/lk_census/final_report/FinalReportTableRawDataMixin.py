@@ -17,7 +17,10 @@ class FinalReportTableRawDataMixin:
         if self.has_page_multiple_tables:
             return
         try:
-            raw_data = self.original_pdf_file.extract_table_data()
+            raw_data = self.original_pdf_file.extract_table_data(
+                self.i_table_on_page,
+                self.total_tables_on_page,
+            )
             self.raw_data_file.write(raw_data)
             log.info(f"Wrote {self.raw_data_file}")
         except Exception as e:

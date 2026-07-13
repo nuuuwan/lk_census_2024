@@ -40,7 +40,9 @@ class FinalReportTable(
             table_num=d["table_num"],
             table_name=d["table_name"],
             page_num=int(d["page_num"]),
-            has_page_multiple_tables=d["has_page_multiple_tables"],
+            i_table_on_page=int(d["i_table_on_page"]),
+            total_tables_on_page=int(d["total_tables_on_page"]),
+            has_page_multiple_tables=bool(d["has_page_multiple_tables"]),
         )
 
     @classmethod

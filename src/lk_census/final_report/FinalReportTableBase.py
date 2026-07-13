@@ -6,6 +6,8 @@ class FinalReportTableBase:
     table_num: str
     table_name: str
     page_num: int
+    i_table_on_page: int
+    total_tables_on_page: int
     has_page_multiple_tables: bool
 
     @property

@@ -45,12 +45,21 @@ class PDFFile(File):
         log.debug(f"Converted {self} to text file {output_text_file}")
         return output_text_file
 
-    def extract_table_data(self):
+    def extract_table_data(self, i_table_on_page, total_tables_on_page):
         tables = camelot.read_pdf(
             self.path,
             flavor="stream",
             row_tol=10,
         )
+
+        if total_tables_on_page != len(tables):
+            raise ValueError(
+                f"Expected {total_tables_on_page} tables on page,"
+                + f" but found {len(tables)}"
+            )
+
+        if total_tables_on_page != 1:
+            tables = [tables[i_table_on_page]]
 
         d_list = []
         for table in tables:
