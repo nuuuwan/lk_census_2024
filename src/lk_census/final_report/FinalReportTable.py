@@ -54,3 +54,13 @@ class FinalReportTable(
         self.build_original_pdf()
         self.build_raw_data()
         self.build_data()
+
+    @property
+    def build_status(self):
+        if not self.original_pdf_file.exists:
+            return 0
+        if not self.raw_data_file.exists:
+            return 1
+        if not self.data_file.exists:
+            return 2
+        return 3

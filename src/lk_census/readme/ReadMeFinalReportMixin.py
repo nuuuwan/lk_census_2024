@@ -99,17 +99,18 @@ class ReadMeFinalReportMixin:
         return lines
 
     def _get_lines_for_final_report_table_inner(self, final_report_table):
-        if final_report_table.data_file.exists:
+        status = final_report_table.build_status
+        if status == 3:
             return self.get_lines_for_final_report_table_with_structured_data(
                 final_report_table
             )
 
-        if final_report_table.raw_data_file.exists:
+        if status == 2:
             return self.get_lines_for_final_report_table_with_raw_data(
                 final_report_table
             )
 
-        if final_report_table.original_pdf_image_file.exists:
+        if status == 1:
             return self.get_lines_for_final_report_table_with_pdf_data(
                 final_report_table
             )
@@ -139,20 +140,35 @@ class ReadMeFinalReportMixin:
         )
         return lines
 
+    def get_lines_for_final_report_status(self, final_report_table_list):
+        status_to_n = {}
+        for final_report_table in final_report_table_list:
+            status = final_report_table.build_status
+            if status not in status_to_n:
+                status_to_n[status] = 0
+            status_to_n[status] += 1
+
+        lines = [
+            "Final Report Build Status",
+            "",
+        ]
+        for status, n in status_to_n.items():
+            lines.append(f"- Status {status}: {n} tables")
+        lines.append("")
+        return lines
+
     def get_lines_for_final_report(
         self, n_datasets_non_final_table, final_report_table_list
     ):
         n = len(final_report_table_list)
 
-        lines = []
+        lines = self.get_lines_for_final_report_status(final_report_table_list)
         i_dataset = n_datasets_non_final_table + 1
         for final_report_table in final_report_table_list:
-            # if final_report_table.data_file.exists:
-            #     continue
-            # if "district" not in final_report_table.table_name.lower():
-            #     continue
-            # if not final_report_table.raw_data_file.exists:
-            #     continue
+            if final_report_table.data_file.exists:
+                continue
+            if not final_report_table.raw_data_file.exists:
+                continue
             lines.extend(
                 self.get_lines_for_final_report_table(
                     i_dataset, final_report_table
