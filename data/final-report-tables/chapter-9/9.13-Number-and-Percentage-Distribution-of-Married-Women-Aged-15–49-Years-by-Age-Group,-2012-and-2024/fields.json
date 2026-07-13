@@ -1,0 +1,6 @@
+{
+  "null_cols": [1],
+  "primary_key": "age_group",
+  "other_keys": ["2012_population", "_", "2024_population", "_"],
+  "is_summable": false
+}
