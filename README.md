@@ -1,7 +1,7 @@
 # 🇱🇰 Sri Lanka - Census of Population and Housing 2024
 
 ![CPH](https://img.shields.io/badge/CPH-2024-blue)
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--07--13_11:59:34-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--07--13_12:39:18-green)
 
 **154** Datasets on Population, Housing and more, by Country, Province, District, Divisional Secretariat Division (DSD), Grama Niladhari Division (GND), Electoral District (ED), Polling Division (PD), and Local Government Authority (LG) levels.
 
@@ -10,413 +10,11 @@
 | status | status_label | n |
 | :-- | :-- | --: |
 | 1 | 🔴 Raw data is missing | 29 |
-| 2 | 🟠 Raw data is difficult to parse | 10 |
-| 3 | 🟡 Data is missing | 37 |
-| 4 | ✅ Complete | 66 |
-
-## 13. [The Educational Level of the Population Age 25 Years and Over by Sex, 2012 and 2024](data/final-report-tables/chapter-7/7.6-The-Educational-Level-of-the-Population-Age-25-Years-and-Over-by-Sex,-2012-and-2024)
-
-7.6
-
-*🟠 Raw Text Data was extracted from PDF, but not parsed into structured data.*
-
-### Raw Data (first 10 rows)
-
-| Col 0 | Col 1 | Col 2 | Col 3 | Col 4 | Col 5 | Col 6 | Col 7 | Col 8 | Col 9 | Col 10 | Col 11 | Col 12 |
-| :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- |
-| Educational level | 2012 |  | 2024 |  | 2012 |  | 2024 |  | 2012 |  | 2024 |  |
-|  | Number | (%) | Number | (%) | Number | (%) | Number | (%) | Number | (%) | Number | (%) |
-| Population 25 years and over | 12,050,641 | 100.0 | 13,871,317 | 100.0 | 5,703,991 | 100.0 | 6,533,860 | 100.0 | 6,346,650 | 100.0 | 7,337,457 | 100.0 |
-| No schooling | 561,163 | 4.7 | 400,511 | 2.9 | 172,292 | 3.0 | 136,168 | 2.1 | 388,871 | 6.1 | 264,343 | 3.6 |
-| Primary educational level | 2,214,792 | 18.4 | 1,738,942 | 12.5 | 1,058,900 | 18.6 | 794,197 | 12.2 | 1,155,892 | 18.2 | 944,745 | 12.9 |
-| Passed Grades 1- 5* | 2,214,792 | 18.4 | 1738942 | 12.5 | 1,058,900 | 18.6 | 794,197 | 12.2 | 1,155,892 | 18.2 | 944,745 | 12.9 |
-| Secondary educational level | 7,079,569 | 58.7 | 8,096,402 | 58.4 | 3,499,694 | 61.4 | 4,025,986 | 61.6 | 3,579,875 | 56.4 | 4,070,416 | 55.5 |
-| Passed Grades 6 - 8 | 1,889,721 | 15.7 | 1,655,756 | 11.9 | 991,099 | 17.4 | 848,236 | 13.0 | 898,622 | 14.2 | 807,520 | 11.0 |
-| Passed Grades 9 - 10 | 2,886,830 | 23.9 | 3,385,775 | 24.5 | 1,407,833 | 24.7 | 1,692,481 | 25.9 | 1,478,997 | 23.3 | 1,693,294 | 23.1 |
-| G.C.E. O/L or equivalent | 2,303,018 | 19.1 | 3,054,871 | 22.0 | 1,100,762 | 19.3 | 1,485,269 | 22.7 | 1,202,256 | 18.9 | 1,569,602 | 21.4 |
-
-### Source
-
-- [https://www.statistics.gov.lk/Resource/en/Population/CPH_2024/CPH2024_Final_Eng.pdf](https://www.statistics.gov.lk/Resource/en/Population/CPH_2024/CPH2024_Final_Eng.pdf) (Table 7.6)
-
-## 14. [Language Literacy Rate by Census Year and Sex, 2024](data/final-report-tables/chapter-7/7.8-Language-Literacy-Rate-by-Census-Year-and-Sex,-2024)
-
-7.8
-
-*🟠 Raw Text Data was extracted from PDF, but not parsed into structured data.*
-
-### Raw Data (first 10 rows)
-
-| Col 0 |
-| :-- |
-| Census of Population and Housing - 2024 |
-| According to the Census of Population and Housing - 2024, Nuwara Eliya (8.3%), Batticaloa (6.6%), and |
-| Badulla (6.0%) districts respectively reported the highest populations of individuals aged 25 and over who |
-| have never attended school. However, in all districts this percentage has declined in 2024 compared to |
-| that of 2012. In all districts the largest percentage of population age 25 and  over consists of those who |
-| have completed Grades 6-10 except Colombo where the highest percentage is G.C.E. (A/L) and over. |
-| A key observation from a comparison with the 2012 Census data is that, by 2024, the proportion of the |
-| population aged 25 years and over with educational attainment below the G.C.E. (O/L) level has declined |
-| in most districts, except for Nuwara Eliya, Mullaitivu, Kilinochchi, Batticaloa, and Ampara. Conversely, the |
-| proportion of the population with G.C.E. (O/L) and higher levels of education has increased, indicating an |
-
-### Source
-
-- [https://www.statistics.gov.lk/Resource/en/Population/CPH_2024/CPH2024_Final_Eng.pdf](https://www.statistics.gov.lk/Resource/en/Population/CPH_2024/CPH2024_Final_Eng.pdf) (Table 7.8)
-
-## 15. [Language Literacy Rate by Language and Age Group, 2024](data/final-report-tables/chapter-7/7.9-Language-Literacy-Rate-by-Language-and-Age-Group,-2024)
-
-7.9
-
-*🟠 Raw Text Data was extracted from PDF, but not parsed into structured data.*
-
-### Raw Data (first 10 rows)
-
-| Col 0 |
-| :-- |
-| Census of Population and Housing - 2024 |
-| According to Table 7.8, the language literacy rate is calculated by identifying individuals  aged 10 years |
-| and above with the ability to both read and write in at least one language. In reviewing the historical data |
-| from the 1881 census to the present, the language literacy rate in Sri Lanka has shown a consistent upward |
-| trend, reaching 97.4 percent in 2024. While the male literacy rate historically remains higher than that of |
-| females, the data for 2024 indicates that the female literacy rate has nearly converged with the male rate. |
-| 100 |
-| 80 |
-| 60 |
-| 40 |
-
-### Source
-
-- [https://www.statistics.gov.lk/Resource/en/Population/CPH_2024/CPH2024_Final_Eng.pdf](https://www.statistics.gov.lk/Resource/en/Population/CPH_2024/CPH2024_Final_Eng.pdf) (Table 7.9)
-
-## 16. [Language Literacy Rate by Language and Ethnic Group, 2012 and 2024](data/final-report-tables/chapter-7/7.11-Language-Literacy-Rate-by-Language-and-Ethnic-Group,-2012-and-2024)
-
-7.11
-
-*🟠 Raw Text Data was extracted from PDF, but not parsed into structured data.*
-
-### Raw Data (first 10 rows)
-
-| Col 0 | Col 1 | Col 2 | Col 3 | Col 4 | Col 5 | Col 6 | Col 7 | Col 8 | Col 9 |
-| :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- |
-| Census of Population and Housing - 2024 | -- | -- | -- | -- | -- | -- | -- | -- | -- |
-| According to Table 7.10, the lowest language literacy rate is reported in Batticaloa District (92.7%). Also, | -- | -- | -- | -- | -- | -- | -- | -- | -- |
-| literacy  rates  exceeding  98  percent  are  reported  from  Gampaha,  Colombo,  Kalutara,  Mannar,  Jaffna, | -- | -- | -- | -- | -- | -- | -- | -- | -- |
-| Kurunegala, and Kegalle. Regarding English language literacy, the highest rate is observed in Colombo | -- | -- | -- | -- | -- | -- | -- | -- | -- |
-| (74.2%), while the minimum value is reported in Mullaitivu district (31.7%). The literacy rates for Sinhala | -- | -- | -- | -- | -- | -- | -- | -- | -- |
-| and Tamil vary by district, a trend likely influenced by the distribution of ethnic groups. | -- | -- | -- | -- | -- | -- | -- | -- | -- |
-|  |  |  |  |  |  | Literacy rate % |  |  |  |
-|  | Ethnic Group | Sinhala |  | Tamil |  | English |  |  | Language 
-Literacy |
-|  |  | 2012 | 2024 | 2012 | 2024 | 2012 | 2024 | 2012 | 2024 |
-|  | Sri Lanka | 79.7 | 85.2 | 26.4 | 45.3 | 30.8 | 57.3 | 95.7 | 97.4 |
-
-### Source
-
-- [https://www.statistics.gov.lk/Resource/en/Population/CPH_2024/CPH2024_Final_Eng.pdf](https://www.statistics.gov.lk/Resource/en/Population/CPH_2024/CPH2024_Final_Eng.pdf) (Table 7.11)
-
-## 17. [Computer and Digital Literacy Rate by Age Group,](data/final-report-tables/chapter-7/7.14-Computer-and-Digital-Literacy-Rate-by-Age-Group,)
-
-7.14
-
-*🟠 Raw Text Data was extracted from PDF, but not parsed into structured data.*
-
-### Raw Data (first 10 rows)
-
-| Col 0 | Col 1 | Col 2 | Col 3 |
-| :-- | :-- | :-- | :-- |
-|  | Table 7.14 : Computer and Digital Literacy Rate by Age Group, 2024 |  |  |
-| Age Group | Population 
-Aged 5 & over | Computer 
-Literacy Rate | Digital Literacy 
-Rate |
-| Sri Lanka | 20,566,680 | 34.7 | 67.6 |
-| 5-9 | 1,556,523 | 11.9 | 39.9 |
-| 10-14 | 1,735,196 | 41.2 | 88.1 |
-| 15-19 | 1,795,038 | 64.3 | 97.0 |
-| 20-24 | 1,608,606 | 65.5 | 94.8 |
-| 25-29 | 1,372,458 | 57.7 | 93.0 |
-| 30-34 | 1,414,060 | 48.2 | 90.2 |
-| 35-39 | 1,452,703 | 41.8 | 86.0 |
-
-### Source
-
-- [https://www.statistics.gov.lk/Resource/en/Population/CPH_2024/CPH2024_Final_Eng.pdf](https://www.statistics.gov.lk/Resource/en/Population/CPH_2024/CPH2024_Final_Eng.pdf) (Table 7.14)
-
-## 18. [Economically Active and Inactive Population by Sex, 2024](data/final-report-tables/chapter-8/8.1-Economically-Active-and-Inactive-Population-by-Sex,-2024)
-
-8.1
-
-*🟠 Raw Text Data was extracted from PDF, but not parsed into structured data.*
-
-### Raw Data (first 10 rows)
-
-| Col 0 | Col 1 | Col 2 | Col 3 | Col 4 | Col 5 | Col 6 |
-| :-- | :-- | :-- | :-- | :-- | :-- | :-- |
-| Census of Population and Housing - 2024 | -- | -- | -- | -- | -- | -- |
-| 8.3 Working-Age Population | -- | -- | -- | -- | -- | -- |
-| According to the current Census of Population and Housing, the population aged 15 years and over is | -- | -- | -- | -- | -- | -- |
-| reported  as  17,274,961.  Of  this  total,  8,231,814  are  males  and  9,043,147  are  females.  During  the | -- | -- | -- | -- | -- | -- |
-| relevant reference period, the number of economically active individuals was 8,162,941. Among them, | -- | -- | -- | -- | -- | -- |
-| 7,671,232 were employed, while the number of unemployed persons stood at  491,709. Despite being | -- | -- | -- | -- | -- | -- |
-| within the working-age population, 9,112,020 individuals were identified as economically inactive based | -- | -- | -- | -- | -- | -- |
-| on their activities during the reference period. This group consists of full-time students aged 15 and over, | -- | -- | -- | -- | -- | -- |
-| those engaged in household duties, retirees, and individuals with illnesses or disabilities. | -- | -- | -- | -- | -- | -- |
-|  |  | Table 8.1 : Economically Active and Inactive Population by Sex, 2024 |  |  |  |  |
-
-### Source
-
-- [https://www.statistics.gov.lk/Resource/en/Population/CPH_2024/CPH2024_Final_Eng.pdf](https://www.statistics.gov.lk/Resource/en/Population/CPH_2024/CPH2024_Final_Eng.pdf) (Table 8.1)
-
-## 19. [Economically Active Population, by Sector and Sex, 2024](data/final-report-tables/chapter-8/8.2-Economically-Active-Population,-by-Sector-and-Sex,-2024)
-
-8.2
-
-*🟠 Raw Text Data was extracted from PDF, but not parsed into structured data.*
-
-### Raw Data (first 10 rows)
-
-| Col 0 | Col 1 | Col 2 | Col 3 | Col 4 | Col 5 | Col 6 |
-| :-- | :-- | :-- | :-- | :-- | :-- | :-- |
-| Census of Population and Housing - 2024 | -- | -- | -- | -- | -- | -- |
-| 8.4 Economically Active Population | -- | -- | -- | -- | -- | -- |
-| The economically active population primarily consists of two components: those contributing labour to the | -- | -- | -- | -- | -- | -- |
-| economic  process  and  those  ready  to  contribute  labour  but  currently  without  employment.  Within  this | -- | -- | -- | -- | -- | -- |
-| framework, individuals who are engaged in economic activity during the reference period are classified as | -- | -- | -- | -- | -- | -- |
-| employed,  while  those  who  are  not  engaged  in  economic  activity  during  the  reference  period  but  are | -- | -- | -- | -- | -- | -- |
-| actively seeking and willing to engage in economic activity are classified as unemployed. | -- | -- | -- | -- | -- | -- |
-|  | Table 8.2 : Economically Active Population, by Sector and Sex, 2024 |  |  |  |  |  |
-| Sector |  |  |  | Economically Active Population |  |  |
-|  | Total | % | Male | % | Female | % |
-
-### Source
-
-- [https://www.statistics.gov.lk/Resource/en/Population/CPH_2024/CPH2024_Final_Eng.pdf](https://www.statistics.gov.lk/Resource/en/Population/CPH_2024/CPH2024_Final_Eng.pdf) (Table 8.2)
-
-## 20. [Economically Active Population by Sex and Age Group, 2024](data/final-report-tables/chapter-8/8.3-Economically-Active-Population-by-Sex-and-Age-Group,-2024)
-
-8.3
-
-*🟠 Raw Text Data was extracted from PDF, but not parsed into structured data.*
-
-### Raw Data (first 10 rows)
-
-| Col 0 | Col 1 | Col 2 | Col 3 | Col 4 | Col 5 | Col 6 |
-| :-- | :-- | :-- | :-- | :-- | :-- | :-- |
-|  |  | Table 8.3 : Economically Active Population by Sex and Age Group, 2024 |  |  |  |  |
-| Age Group |  | Economically Active Population |  |  | Percentage |  |
-| (Years) | Total | Male | Female | Total | Male | Female |
-| Sri Lanka | 8,162,941 | 5,550,374 | 2,612,567 | 100.0 | 68.0 | 32.0 |
-| 15 - 19 | 149,443 | 105,358 | 44,085 | 100.0 | 70.5 | 29.5 |
-| 20 - 24 | 660,587 | 431,002 | 229,585 | 100.0 | 65.2 | 34.8 |
-| 25 - 29 | 838,591 | 548,881 | 289,710 | 100.0 | 65.5 | 34.5 |
-| 30 - 34 | 925,708 | 627,056 | 298,652 | 100.0 | 67.7 | 32.3 |
-| 35 - 39 | 970,645 | 658,779 | 311,866 | 100.0 | 67.9 | 32.1 |
-| 40 - 44 | 1,074,786 | 729,822 | 344,964 | 100.0 | 67.9 | 32.1 |
-
-### Source
-
-- [https://www.statistics.gov.lk/Resource/en/Population/CPH_2024/CPH2024_Final_Eng.pdf](https://www.statistics.gov.lk/Resource/en/Population/CPH_2024/CPH2024_Final_Eng.pdf) (Table 8.3)
-
-## 21. [Labour Force Participation Rate by Age Group and Sex, 2024](data/final-report-tables/chapter-8/8.4-Labour-Force-Participation-Rate-by-Age-Group-and-Sex,-2024)
-
-8.4
-
-*🟠 Raw Text Data was extracted from PDF, but not parsed into structured data.*
-
-### Raw Data (first 10 rows)
-
-| Col 0 | Col 1 | Col 2 | Col 3 |
-| :-- | :-- | :-- | :-- |
-| 8.5 Labour Force Participation Rate | -- | -- | -- |
-| The proportion of the economically active population to the total working-age population is defined as the | -- | -- | -- |
-| Labour  Force  Participation  Rate  (LFPR).  This  rate  indicates  the  number  of  individuals,  out  of  every  100 | -- | -- | -- |
-| persons aged 15 and over, who are either employed or unemployed but actively seeking and available for | -- | -- | -- |
-| work. In other words, it provides an indication of the size of the population that contributes, or is willing | -- | -- | -- |
-| and prepared to contribute, labour to the economy. | -- | -- | -- |
-|  | Table 8.4 : Labour Force Participation Rate by Age Group and Sex, 2024 |  |  |
-| Age Group |  | Labour Force Participation Rate |  |
-| (Years) | Total | Male | Female |
-| Aged 15 & over | 47.3 | 67.4 | 28.9 |
-
-### Source
-
-- [https://www.statistics.gov.lk/Resource/en/Population/CPH_2024/CPH2024_Final_Eng.pdf](https://www.statistics.gov.lk/Resource/en/Population/CPH_2024/CPH2024_Final_Eng.pdf) (Table 8.4)
-
-## 22. [Labour Force Participation Rate, by Highest Educational Qualification Attained and Sex, 2024](data/final-report-tables/chapter-8/8.5-Labour-Force-Participation-Rate,-by-Highest-Educational-Qualification-Attained-and-Sex,-2024)
-
-8.5
-
-*🟠 Raw Text Data was extracted from PDF, but not parsed into structured data.*
-
-### Raw Data (first 10 rows)
-
-| Col 0 | Col 1 |
-| :-- | :-- |
-| Census of Population and Housing - 2024 |  |
-| The highest labour force participation rate of 67.1 percent was reported in the 40–44 age group. In the |  |
-| age range from 30 to 49 years, the participation rate remained above 65 percent. Within this 30–49 age |  |
-| bracket, the male participation rate stands at a high of over 90 percent. For females, the peak participation |  |
-| rate is observed in the 45–49 age group, with the rate exceeding 40 percent for all female age cohorts |  |
-| between 25 and 54 years. |  |
-| According  to  Table  8.5  and  Figure  8.6,  when  considering  the  labour  force  participation  rate  (LFPR)  by |  |
-| highest  educational  qualification,  individuals  with  a  degree  or  higher  which | includes  postgraduate |
-| diplomas, postgraduate degrees, and PhDs, reported the highest labour force participation rates of 73.0 |  |
-| percent for females and 77.6 percent for males. Further in this category male - female participation gap |  |
-
-### Source
-
-- [https://www.statistics.gov.lk/Resource/en/Population/CPH_2024/CPH2024_Final_Eng.pdf](https://www.statistics.gov.lk/Resource/en/Population/CPH_2024/CPH2024_Final_Eng.pdf) (Table 8.5)
-
-## 23. [Employed Population by Sector and Sex, 2024](data/final-report-tables/chapter-8/8.6-Employed-Population-by-Sector-and-Sex,-2024)
-
-8.6
-
-*🟠 Raw Text Data was extracted from PDF, but not parsed into structured data.*
-
-### Raw Data (first 10 rows)
-
-| Col 0 | Col 1 | Col 2 | Col 3 | Col 4 | Col 5 | Col 6 |
-| :-- | :-- | :-- | :-- | :-- | :-- | :-- |
-|  |  | Table 8.6 : Employed Population by Sector and Sex, 2024 |  |  |  |  |
-|  |  |  | Employed population |  |  |  |
-| Sector |  |  |  |  |  |  |
-|  | Total | % | Male | % | Female | % |
-| Total | 7,671,232 | 100.0 | 5,317,703 | 69.3 | 2,353,529 | 30.7 |
-| Urban | 1,293,887 | 100.0 | 900,141 | 69.6 | 393,746 | 30.4 |
-| Estate - Urban | 4,602 | 100.0 | 3,025 | 65.7 | 1,577 | 34.3 |
-| Rural | 6,067,097 | 100.0 | 4,220,045 | 69.6 | 1,847,052 | 30.4 |
-| Estate – Rural | 305,646 | 100.0 | 194,492 | 63.6 | 111,154 | 36.4 |
-|  |  |  |  | Male | Female | -- |
-
-### Source
-
-- [https://www.statistics.gov.lk/Resource/en/Population/CPH_2024/CPH2024_Final_Eng.pdf](https://www.statistics.gov.lk/Resource/en/Population/CPH_2024/CPH2024_Final_Eng.pdf) (Table 8.6)
-
-## 24. [Employed Population, by Highest Educational Attainment and Sex, 2024](data/final-report-tables/chapter-8/8.7-Employed-Population,-by-Highest-Educational-Attainment-and-Sex,-2024)
-
-8.7
-
-*🟠 Raw Text Data was extracted from PDF, but not parsed into structured data.*
-
-### Raw Data (first 10 rows)
-
-| Col 0 | Col 1 | Col 2 | Col 3 | Col 4 | Col 5 | Col 6 |
-| :-- | :-- | :-- | :-- | :-- | :-- | :-- |
-|  | Table 8.7 : Employed Population, by Highest Educational Attainment and Sex, 2024 |  |  |  |  |  |
-| Education level | Total |  | Male |  | Female |  |
-|  | Number | % | Number | % | Number | % |
-| Total | 7,671,232 | 100.0 | 5,317,703 | 100.0 |  | 2,353,529  100.0 |
-| Never attended School | 117,293 | 1.5 | 67,915 | 1.3 | 49,378 | 2.1 |
-| Studied in a special school / special unit | 6,642 | 0.1 | 3,923 | 0.1 | 2,719 | 0.1 |
-| Passed Grade 1 - 5 | 677,130 | 8.8 | 493,163 | 9.3 | 183,967 | 7.8 |
-| Passed Grade 6 - 8 | 790,085 | 10.3 | 618,673 | 11.6 | 171,412 | 7.3 |
-| Passed Grade 9 - 10 | 2,023,455 | 26.4 | 1,536,837 | 28.9 | 486,618 | 20.7 |
-| Passed GCE O/L | 1,719,327 | 22.4 | 1,288,859 | 24.2 | 430,468 | 18.3 |
-
-### Source
-
-- [https://www.statistics.gov.lk/Resource/en/Population/CPH_2024/CPH2024_Final_Eng.pdf](https://www.statistics.gov.lk/Resource/en/Population/CPH_2024/CPH2024_Final_Eng.pdf) (Table 8.7)
-
-## 25. [Employed Population by Employment Status and Sex, 2024](data/final-report-tables/chapter-8/8.8-Employed-Population-by-Employment-Status-and-Sex,-2024)
-
-8.8
-
-*🟠 Raw Text Data was extracted from PDF, but not parsed into structured data.*
-
-### Raw Data (first 10 rows)
-
-| Col 0 | Col 1 | Col 2 | Col 3 | Col 4 | Col 5 | Col 6 |
-| :-- | :-- | :-- | :-- | :-- | :-- | :-- |
-| Employment Status | Total |  | Male |  | Female |  |
-|  | Number | % | Number | % | Number | % |
-| Total | 7,671,232  100.0 |  | 5,317,703 | 100.0 | 2,353,529 | 100.0 |
-| Government/Semi-Government Paid Employee | 1,333,406 | 17.4 | 741,649 | 13.9 | 591,757 | 25.1 |
-| Private Sector Paid Employee | 3,244,773 | 42.3 | 2,248,841 | 42.3 | 995,932 | 42.3 |
-| Employer | 277,868 | 3.6 | 242,488 | 4.6 | 35,380 | 1.5 |
-| Own Account Worker | 2,407,614 | 31.4 | 1,906,739 | 35.9 | 500,875 | 21.3 |
-| Contributing to Family Enterprise | 407,571 | 5.3 | 177,986 | 3.3 | 229,585 | 9.8 |
-
-### Source
-
-- [https://www.statistics.gov.lk/Resource/en/Population/CPH_2024/CPH2024_Final_Eng.pdf](https://www.statistics.gov.lk/Resource/en/Population/CPH_2024/CPH2024_Final_Eng.pdf) (Table 8.8)
-
-## 26. [Unemployed Population by Sector and Sex, 2024](data/final-report-tables/chapter-8/8.9-Unemployed-Population-by-Sector-and-Sex,-2024)
-
-8.9
-
-*🟠 Raw Text Data was extracted from PDF, but not parsed into structured data.*
-
-### Raw Data (first 10 rows)
-
-| Col 0 | Col 1 | Col 2 | Col 3 | Col 4 | Col 5 | Col 6 |
-| :-- | :-- | :-- | :-- | :-- | :-- | :-- |
-|  |  | Census of Population and Housing - 2024 |  |  |  |  |
-| 8.7 Unemployed Population (Unemployment) |  |  |  |  |  |  |
-| The unemployed population refers to individuals who were not engaged in any economic activity during |  |  |  |  |  |  |
-| the reference period but were actively seeking employment and have taken steps to find employment in |  |  |  |  |  |  |
-| the  preceding  four  weeks  and  are  willing  to  accept  a  job  if  one  becomes  available  within the  next  two |  |  |  |  |  |  |
-| weeks.  According | to  Table  8.9  out  of | the | total | labour | force  491,709  were  unemployed  of | that |
-| 232,671(47.3%) are males and 259,038 (52.7%) are females. |  |  |  |  |  |  |
-|  |  |  | Unemployed Population |  |  |  |
-| Sector | Total | % | Male | % | Female | % |
-| Total | 491,709 | 100.0 | 232,671 | 47.3 | 259,038 | 52.7 |
-
-### Source
-
-- [https://www.statistics.gov.lk/Resource/en/Population/CPH_2024/CPH2024_Final_Eng.pdf](https://www.statistics.gov.lk/Resource/en/Population/CPH_2024/CPH2024_Final_Eng.pdf) (Table 8.9)
-
-## 27. [Economically Inactive Population by Main Reason for Inactivity, 2024](data/final-report-tables/chapter-8/8.11-Economically-Inactive-Population-by-Main-Reason-for-Inactivity,-2024)
-
-8.11
-
-*🟠 Raw Text Data was extracted from PDF, but not parsed into structured data.*
-
-### Raw Data (first 10 rows)
-
-| Col 0 | Col 1 | Col 2 |
-| :-- | :-- | :-- |
-| Census of Population and Housing - 2024 | -- | -- |
-| 8.9 Economically Inactive Population | -- | -- |
-| The economically inactive population, which accounts for 52% of the working-age population, may remain | -- | -- |
-| inactive for various reasons. During the census, the primary reason for being economically inactive were | -- | -- |
-| examined.  As  shown  in  Table  8.11,  36.8  percent  of  the  economically  inactive  are  due  to  household | -- | -- |
-| work/child  or  adult  care.  Further,  26.0  percent  are  inactive  because  they  are  engaged  in  education  or | -- | -- |
-| vocational training and 24 percent are inactive since they are unable/too old to work/retired. | -- | -- |
-| Reason for being inactive | Number | % |
-| Total | 9,112,020 | 100.0 |
-| Engaged in Household work/Childcare/Elder Care | 3,358,527 | 36.8 |
-
-### Source
-
-- [https://www.statistics.gov.lk/Resource/en/Population/CPH_2024/CPH2024_Final_Eng.pdf](https://www.statistics.gov.lk/Resource/en/Population/CPH_2024/CPH2024_Final_Eng.pdf) (Table 8.11)
-
-## 28. [by Marital Status, Age Group, and Sex, 2024](data/final-report-tables/chapter-9/9.1:-by-Marital-Status,-Age-Group,-and-Sex,-2024)
-
-9.1:
-
-*🟠 Raw Text Data was extracted from PDF, but not parsed into structured data.*
-
-### Raw Data (first 10 rows)
-
-| Col 0 | Col 1 | Col 2 | Col 3 | Col 4 | Col 5 | Col 6 | Col 7 | Col 8 | Col 9 | Col 10 | Col 11 | Col 12 | Col 13 | Col 14 |
-| :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- |
-|  |  |  |  |  |  |  |  | Marital status |  |  |  |  |  |  |
-| Age Group | Population |  |  |  |  |  |  |  |  |  | Separated |  | Separated |  |
-|  |  |  | Never married |  | Married |  | Widowed |  | Divorced |  | (Legally) |  | (Not legally) |  |
-|  | Male | Female | Male | Female | Male | Female | Male | Female | Male | Female | Male | Female | Male | Female |
-| Total | 10,512,344 | 11,269,456 | 4,808,324 | 4,291,826 | 5,417,431 | 5,743,647 | 175,421 | 1,058,997 | 28,952 | 45,403 | 17,047 | 27,857 | 65,169 | 101,726 |
-| Less than 15 | 2,280,530 | 2,226,309 | 2,280,530 | 2226291 | 0 | 18 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
-|  | 100.0 | 100.0 | 100.0 | 100.0 | 0.0 | 0.0 | 0.0 | 0.0 | 0.0 | 0.0 | 0.0 | 0.0 | 0.0 | 0.0 |
-| 15-19 | 907,739 | 887,299 | 899,119 | 856,574 | 8,458 | 30,199 | 69 | 78 | 15 | 106 | 10 | 31 | 68 | 311 |
-|  | 100.0 | 100.0 | 99.1 | 96.6 | 0.9 | 3.4 | 0.0 | 0.0 | 0.0 | 0.0 | 0.0 | 0.0 | 0.0 | 0.0 |
-| 20-24 | 790,215 | 818,391 | 703,705 | 613,975 | 84,787 | 198,888 | 166 | 697 | 341 | 1,082 | 210 | 660 | 1,006 | 3,089 |
-
-### Source
-
-- [https://www.statistics.gov.lk/Resource/en/Population/CPH_2024/CPH2024_Final_Eng.pdf](https://www.statistics.gov.lk/Resource/en/Population/CPH_2024/CPH2024_Final_Eng.pdf) (Table 9.1:)
-
-## 29. [Marital Status by Ethnic group and Sex,](data/final-report-tables/chapter-9/9.2-Marital-Status-by-Ethnic-group-and-Sex,)
+| 2 | 🟠 Raw data is difficult to parse | 12 |
+| 3 | 🟡 Data is missing | 21 |
+| 4 | ✅ Complete | 80 |
+
+## 13. [Marital Status by Ethnic group and Sex,](data/final-report-tables/chapter-9/9.2-Marital-Status-by-Ethnic-group-and-Sex,)
 
 9.2
 
@@ -445,7 +43,7 @@ Married | Married | Widowed | Divorced | Separated
 
 - [https://www.statistics.gov.lk/Resource/en/Population/CPH_2024/CPH2024_Final_Eng.pdf](https://www.statistics.gov.lk/Resource/en/Population/CPH_2024/CPH2024_Final_Eng.pdf) (Table 9.2)
 
-## 30. [Population Aged 15 Years and Over by Marital Status and Sex, 2012 and 2024](data/final-report-tables/chapter-9/9.3-Population-Aged-15-Years-and-Over-by-Marital-Status-and-Sex,-2012-and-2024)
+## 14. [Population Aged 15 Years and Over by Marital Status and Sex, 2012 and 2024](data/final-report-tables/chapter-9/9.3-Population-Aged-15-Years-and-Over-by-Marital-Status-and-Sex,-2012-and-2024)
 
 9.3
 
@@ -470,7 +68,7 @@ Married | Married | Widowed | Divorced | Separated
 
 - [https://www.statistics.gov.lk/Resource/en/Population/CPH_2024/CPH2024_Final_Eng.pdf](https://www.statistics.gov.lk/Resource/en/Population/CPH_2024/CPH2024_Final_Eng.pdf) (Table 9.3)
 
-## 31. [Number and Percentage Distribution of Married Women Aged 15–49 Years by Age Group, 2012 and 2024](data/final-report-tables/chapter-9/9.13-Number-and-Percentage-Distribution-of-Married-Women-Aged-15–49-Years-by-Age-Group,-2012-and-2024)
+## 15. [Number and Percentage Distribution of Married Women Aged 15–49 Years by Age Group, 2012 and 2024](data/final-report-tables/chapter-9/9.13-Number-and-Percentage-Distribution-of-Married-Women-Aged-15–49-Years-by-Age-Group,-2012-and-2024)
 
 9.13
 
@@ -496,7 +94,7 @@ igure 9.3, illustrates the percentage distribution of ever-married women aged 15
 
 - [https://www.statistics.gov.lk/Resource/en/Population/CPH_2024/CPH2024_Final_Eng.pdf](https://www.statistics.gov.lk/Resource/en/Population/CPH_2024/CPH2024_Final_Eng.pdf) (Table 9.13)
 
-## 32. [Age-Specific Fertility Rates (ASFR), 2012 and 2024](data/final-report-tables/chapter-9/9.14-Age-Specific-Fertility-Rates-(ASFR),-2012-and-2024)
+## 16. [Age-Specific Fertility Rates (ASFR), 2012 and 2024](data/final-report-tables/chapter-9/9.14-Age-Specific-Fertility-Rates-(ASFR),-2012-and-2024)
 
 9.14
 
@@ -521,7 +119,7 @@ igure 9.3, illustrates the percentage distribution of ever-married women aged 15
 
 - [https://www.statistics.gov.lk/Resource/en/Population/CPH_2024/CPH2024_Final_Eng.pdf](https://www.statistics.gov.lk/Resource/en/Population/CPH_2024/CPH2024_Final_Eng.pdf) (Table 9.14)
 
-## 33. [Total Fertility Rate (TFR), 1981, 2012 and 2024](data/final-report-tables/chapter-9/9.15-Total-Fertility-Rate-(TFR),-1981,-2012-and-2024)
+## 17. [Total Fertility Rate (TFR), 1981, 2012 and 2024](data/final-report-tables/chapter-9/9.15-Total-Fertility-Rate-(TFR),-1981,-2012-and-2024)
 
 9.15
 
@@ -546,7 +144,7 @@ igure 9.3, illustrates the percentage distribution of ever-married women aged 15
 
 - [https://www.statistics.gov.lk/Resource/en/Population/CPH_2024/CPH2024_Final_Eng.pdf](https://www.statistics.gov.lk/Resource/en/Population/CPH_2024/CPH2024_Final_Eng.pdf) (Table 9.15)
 
-## 34. [Age-Specific Fertility Rate (ASFR), Age-Specific Marital Fertility Rate (ASMFR), Total Fertility Rate (TFR) andTotal Marital Fertility Rate (TMFR)](data/final-report-tables/chapter-9/9.16-Age-Specific-Fertility-Rate-(ASFR),-Age-Specific-Marital-Fertility-Rate-(ASMFR),-Total-Fertility-Rate-(TFR)-andTotal-Marital-Fertility-Rate-(TMFR))
+## 18. [Age-Specific Fertility Rate (ASFR), Age-Specific Marital Fertility Rate (ASMFR), Total Fertility Rate (TFR) andTotal Marital Fertility Rate (TMFR)](data/final-report-tables/chapter-9/9.16-Age-Specific-Fertility-Rate-(ASFR),-Age-Specific-Marital-Fertility-Rate-(ASMFR),-Total-Fertility-Rate-(TFR)-andTotal-Marital-Fertility-Rate-(TMFR))
 
 9.16
 
@@ -573,7 +171,7 @@ Rate (ASMFR) |
 
 - [https://www.statistics.gov.lk/Resource/en/Population/CPH_2024/CPH2024_Final_Eng.pdf](https://www.statistics.gov.lk/Resource/en/Population/CPH_2024/CPH2024_Final_Eng.pdf) (Table 9.16)
 
-## 35. [Gross Reproduction Rate Using TFR and TMFR](data/final-report-tables/chapter-9/9.17-Gross-Reproduction-Rate-Using-TFR-and-TMFR)
+## 19. [Gross Reproduction Rate Using TFR and TMFR](data/final-report-tables/chapter-9/9.17-Gross-Reproduction-Rate-Using-TFR-and-TMFR)
 
 9.17
 
@@ -598,7 +196,7 @@ Rate (ASMFR) |
 
 - [https://www.statistics.gov.lk/Resource/en/Population/CPH_2024/CPH2024_Final_Eng.pdf](https://www.statistics.gov.lk/Resource/en/Population/CPH_2024/CPH2024_Final_Eng.pdf) (Table 9.17)
 
-## 36. [Percentage Distribution of Household Size by Sector, 2024](data/final-report-tables/chapter-10/10.1-Percentage-Distribution-of-Household-Size-by-Sector,-2024)
+## 20. [Percentage Distribution of Household Size by Sector, 2024](data/final-report-tables/chapter-10/10.1-Percentage-Distribution-of-Household-Size-by-Sector,-2024)
 
 10.1
 
@@ -623,7 +221,7 @@ Size |
 
 - [https://www.statistics.gov.lk/Resource/en/Population/CPH_2024/CPH2024_Final_Eng.pdf](https://www.statistics.gov.lk/Resource/en/Population/CPH_2024/CPH2024_Final_Eng.pdf) (Table 10.1)
 
-## 37. [Percentage Distribution of the Number of Household Heads by Ethnic group of the Head of Household and typeof Household, 2024](data/final-report-tables/chapter-10/10.3-Percentage-Distribution-of-the-Number-of-Household-Heads-by-Ethnic-group-of-the-Head-of-Household-and-typeof-Household,-2024)
+## 21. [Percentage Distribution of the Number of Household Heads by Ethnic group of the Head of Household and typeof Household, 2024](data/final-report-tables/chapter-10/10.3-Percentage-Distribution-of-the-Number-of-Household-Heads-by-Ethnic-group-of-the-Head-of-Household-and-typeof-Household,-2024)
 
 10.3
 
@@ -648,7 +246,7 @@ Size |
 
 - [https://www.statistics.gov.lk/Resource/en/Population/CPH_2024/CPH2024_Final_Eng.pdf](https://www.statistics.gov.lk/Resource/en/Population/CPH_2024/CPH2024_Final_Eng.pdf) (Table 10.3)
 
-## 38. [Percentage Distribution of the Number of Household Heads by Sex, Age Group, and Sector, 2024](data/final-report-tables/chapter-10/10.4-Percentage-Distribution-of-the-Number-of-Household-Heads-by-Sex,-Age-Group,-and-Sector,-2024)
+## 22. [Percentage Distribution of the Number of Household Heads by Sex, Age Group, and Sector, 2024](data/final-report-tables/chapter-10/10.4-Percentage-Distribution-of-the-Number-of-Household-Heads-by-Sex,-Age-Group,-and-Sector,-2024)
 
 10.4
 
@@ -675,7 +273,7 @@ rban | 1,042,557 | 736,435 | 306,122 | 1,838 | 782,406 | 258,313 |
 
 - [https://www.statistics.gov.lk/Resource/en/Population/CPH_2024/CPH2024_Final_Eng.pdf](https://www.statistics.gov.lk/Resource/en/Population/CPH_2024/CPH2024_Final_Eng.pdf) (Table 10.4)
 
-## 39. [Percentage Distribution of Household Heads by Highest Educational Qualification Obtained and Sector, 2024](data/final-report-tables/chapter-10/10.8-Percentage-Distribution-of-Household-Heads-by-Highest-Educational-Qualification-Obtained-and-Sector,-2024)
+## 23. [Percentage Distribution of Household Heads by Highest Educational Qualification Obtained and Sector, 2024](data/final-report-tables/chapter-10/10.8-Percentage-Distribution-of-Household-Heads-by-Highest-Educational-Qualification-Obtained-and-Sector,-2024)
 
 10.8
 
@@ -702,9 +300,9 @@ Household | % | Never |  | Passed |  | Passed |  | G.C.E. |  |  |  |
 
 - [https://www.statistics.gov.lk/Resource/en/Population/CPH_2024/CPH2024_Final_Eng.pdf](https://www.statistics.gov.lk/Resource/en/Population/CPH_2024/CPH2024_Final_Eng.pdf) (Table 10.8)
 
-## 40. [and Percentage Distribution of Individuals in One Person Households Aged 60 Years and Over, by Sexand Age Group, 2024](data/final-report-tables/chapter-10/10.10:-and-Percentage-Distribution-of-Individuals-in-One-Person-Households-Aged-60-Years-and-Over,-by-Sexand-Age-Group,-2024)
+## 24. [and Percentage Distribution of Individuals in One Person Households Aged 60 Years and Over, by Sexand Age Group, 2024](data/final-report-tables/chapter-10/10.10-and-Percentage-Distribution-of-Individuals-in-One-Person-Households-Aged-60-Years-and-Over,-by-Sexand-Age-Group,-2024)
 
-10.10:
+10.10
 
 *🟠 Raw Text Data was extracted from PDF, but not parsed into structured data.*
 
@@ -725,9 +323,9 @@ Household | % | Never |  | Passed |  | Passed |  | G.C.E. |  |  |  |
 
 ### Source
 
-- [https://www.statistics.gov.lk/Resource/en/Population/CPH_2024/CPH2024_Final_Eng.pdf](https://www.statistics.gov.lk/Resource/en/Population/CPH_2024/CPH2024_Final_Eng.pdf) (Table 10.10:)
+- [https://www.statistics.gov.lk/Resource/en/Population/CPH_2024/CPH2024_Final_Eng.pdf](https://www.statistics.gov.lk/Resource/en/Population/CPH_2024/CPH2024_Final_Eng.pdf) (Table 10.10)
 
-## 41. [Number of Occupied Housing Units by Sector, 2012 and 2024](data/final-report-tables/chapter-11/11.1-Number-of-Occupied-Housing-Units-by-Sector,-2012-and-2024)
+## 25. [Number of Occupied Housing Units by Sector, 2012 and 2024](data/final-report-tables/chapter-11/11.1-Number-of-Occupied-Housing-Units-by-Sector,-2012-and-2024)
 
 11.1
 
@@ -752,7 +350,7 @@ Household | % | Never |  | Passed |  | Passed |  | G.C.E. |  |  |  |
 
 - [https://www.statistics.gov.lk/Resource/en/Population/CPH_2024/CPH2024_Final_Eng.pdf](https://www.statistics.gov.lk/Resource/en/Population/CPH_2024/CPH2024_Final_Eng.pdf) (Table 11.1)
 
-## 42. [Number of Housing Units by the Year of Construction, 2024](data/final-report-tables/chapter-11/11.3-Number-of-Housing-Units-by-the-Year-of-Construction,-2024)
+## 26. [Number of Housing Units by the Year of Construction, 2024](data/final-report-tables/chapter-11/11.3-Number-of-Housing-Units-by-the-Year-of-Construction,-2024)
 
 11.3
 
@@ -777,7 +375,7 @@ Household | % | Never |  | Passed |  | Passed |  | G.C.E. |  |  |  |
 
 - [https://www.statistics.gov.lk/Resource/en/Population/CPH_2024/CPH2024_Final_Eng.pdf](https://www.statistics.gov.lk/Resource/en/Population/CPH_2024/CPH2024_Final_Eng.pdf) (Table 11.3)
 
-## 43. [Distribution of Households in Sri Lanka's ability to Obtain Drinking Water Throughout the Year, 2024](data/final-report-tables/chapter-11/11.11-Distribution-of-Households-in-Sri-Lanka's-ability-to-Obtain-Drinking-Water-Throughout-the-Year,-2024)
+## 27. [Distribution of Households in Sri Lanka's ability to Obtain Drinking Water Throughout the Year, 2024](data/final-report-tables/chapter-11/11.11-Distribution-of-Households-in-Sri-Lanka's-ability-to-Obtain-Drinking-Water-Throughout-the-Year,-2024)
 
 11.11
 
@@ -804,7 +402,7 @@ year |  | least one |  |
 
 - [https://www.statistics.gov.lk/Resource/en/Population/CPH_2024/CPH2024_Final_Eng.pdf](https://www.statistics.gov.lk/Resource/en/Population/CPH_2024/CPH2024_Final_Eng.pdf) (Table 11.11)
 
-## 44. [Household Numbers and Percentages by Main and Secondary Energy/Fuel Type for Lighting, 2024](data/final-report-tables/chapter-11/11.13-Household-Numbers-and-Percentages-by-Main-and-Secondary-Energy/Fuel-Type-for-Lighting,-2024)
+## 28. [Household Numbers and Percentages by Main and Secondary Energy/Fuel Type for Lighting, 2024](data/final-report-tables/chapter-11/11.13-Household-Numbers-and-Percentages-by-Main-and-Secondary-Energy/Fuel-Type-for-Lighting,-2024)
 
 11.13
 
@@ -829,7 +427,7 @@ year |  | least one |  |
 
 - [https://www.statistics.gov.lk/Resource/en/Population/CPH_2024/CPH2024_Final_Eng.pdf](https://www.statistics.gov.lk/Resource/en/Population/CPH_2024/CPH2024_Final_Eng.pdf) (Table 11.13)
 
-## 45. [Percentage Distribution of Households by Type of Toilet Facilities, 2012 and 2024](data/final-report-tables/chapter-11/11.15-Percentage-Distribution-of-Households-by-Type-of-Toilet-Facilities,-2012-and-2024)
+## 29. [Percentage Distribution of Households by Type of Toilet Facilities, 2012 and 2024](data/final-report-tables/chapter-11/11.15-Percentage-Distribution-of-Households-by-Type-of-Toilet-Facilities,-2012-and-2024)
 
 11.15
 
@@ -854,9 +452,9 @@ year |  | least one |  |
 
 - [https://www.statistics.gov.lk/Resource/en/Population/CPH_2024/CPH2024_Final_Eng.pdf](https://www.statistics.gov.lk/Resource/en/Population/CPH_2024/CPH2024_Final_Eng.pdf) (Table 11.15)
 
-## 46. [Distribution of Households by the Main Method of Disposing Solid Waste, 2024](data/final-report-tables/chapter-11/11.17:-Distribution-of-Households-by-the-Main-Method-of-Disposing-Solid-Waste,-2024)
+## 30. [Distribution of Households by the Main Method of Disposing Solid Waste, 2024](data/final-report-tables/chapter-11/11.17-Distribution-of-Households-by-the-Main-Method-of-Disposing-Solid-Waste,-2024)
 
-11.17:
+11.17
 
 *🟠 Raw Text Data was extracted from PDF, but not parsed into structured data.*
 
@@ -877,9 +475,9 @@ year |  | least one |  |
 
 ### Source
 
-- [https://www.statistics.gov.lk/Resource/en/Population/CPH_2024/CPH2024_Final_Eng.pdf](https://www.statistics.gov.lk/Resource/en/Population/CPH_2024/CPH2024_Final_Eng.pdf) (Table 11.17:)
+- [https://www.statistics.gov.lk/Resource/en/Population/CPH_2024/CPH2024_Final_Eng.pdf](https://www.statistics.gov.lk/Resource/en/Population/CPH_2024/CPH2024_Final_Eng.pdf) (Table 11.17)
 
-## 47. [Myer’s Index by Sex, 1981, 2001, 2012 and 2024](data/final-report-tables/chapter-12/12.1-Myer’s-Index-by-Sex,-1981,-2001,-2012-and-2024)
+## 31. [Myer’s Index by Sex, 1981, 2001, 2012 and 2024](data/final-report-tables/chapter-12/12.1-Myer’s-Index-by-Sex,-1981,-2001,-2012-and-2024)
 
 12.1
 
@@ -900,7 +498,7 @@ year |  | least one |  |
 
 - [https://www.statistics.gov.lk/Resource/en/Population/CPH_2024/CPH2024_Final_Eng.pdf](https://www.statistics.gov.lk/Resource/en/Population/CPH_2024/CPH2024_Final_Eng.pdf) (Table 12.1)
 
-## 48. [Deviations of Terminal Digits of Reported Age, 2012 and](data/final-report-tables/chapter-12/12.2-Deviations-of-Terminal-Digits-of-Reported-Age,-2012-and)
+## 32. [Deviations of Terminal Digits of Reported Age, 2012 and](data/final-report-tables/chapter-12/12.2-Deviations-of-Terminal-Digits-of-Reported-Age,-2012-and)
 
 12.2
 
@@ -927,7 +525,7 @@ year |  | least one |  |
 
 - [https://www.statistics.gov.lk/Resource/en/Population/CPH_2024/CPH2024_Final_Eng.pdf](https://www.statistics.gov.lk/Resource/en/Population/CPH_2024/CPH2024_Final_Eng.pdf) (Table 12.2)
 
-## 49. [Whipple’s Index by Sex, 1981, 2001, 2012 and 2024](data/final-report-tables/chapter-12/12.4-Whipple’s-Index-by-Sex,-1981,-2001,-2012-and-2024)
+## 33. [Whipple’s Index by Sex, 1981, 2001, 2012 and 2024](data/final-report-tables/chapter-12/12.4-Whipple’s-Index-by-Sex,-1981,-2001,-2012-and-2024)
 
 12.4
 

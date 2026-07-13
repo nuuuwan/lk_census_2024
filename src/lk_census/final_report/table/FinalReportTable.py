@@ -14,7 +14,7 @@ from lk_census.final_report.table.FinalReportTablePDFMixin import (
 from lk_census.final_report.table.FinalReportTableRawDataMixin import (
     FinalReportTableRawDataMixin,
 )
-from utils_future import Log
+from utils_future import Log, Parse
 
 log = Log("FinalReportTable")
 
@@ -66,26 +66,29 @@ class FinalReportTable(
         self.build_raw_data()
         self.build_data()
 
-    @cached_property
+    COMPLICATED_TABLE_NUM_LIST = [
+        # Chapter 5
+        "5.2.2",  # Triple Row
+        "5.2.5",  # Col Sum
+        # Chapter 6
+        "6.1.6",  # Data error
+        "6.1.13",  # Double Row
+        "6.2.1",  # Double Row
+        "6.2.4",  # Double Row
+        "6.2.5",  # Double Row
+        "6.2.13",  # Double Row
+        "6.2.14",  # Double Row
+        "6.3.1",  # Data error
+        # Chapter 7
+        "7.6",  # Double Row
+        # Chapter 9
+        "9.1",  # Double Row
+        "9.2",  # Double Row
+    ]
+
+    @property
     def is_complicated(self):
-        return self.table_num in [
-            # Chapter 5
-            "5.2.2",  # Triple Row
-            "5.2.5",  # Col Sum
-            # Chapter 6
-            "6.1.6",  # Data error
-            "6.1.13",  # Double Row
-            "6.2.1",  # Double Row
-            "6.2.4",  # Double Row
-            "6.2.5",  # Double Row
-            "6.2.13",  # Double Row
-            "6.2.14",  # Double Row
-            "6.3.1",  # Data error
-            # Chapter 7
-            "7.6",  # Double Row
-            # Chapter 9
-            "9.1",  # Double Row
-        ]
+        return self.table_num in self.COMPLICATED_TABLE_NUM_LIST
 
     STATUS_LABELS = {
         0: "⚫️ Original PDF is missing",

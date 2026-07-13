@@ -57,7 +57,8 @@ class FinalReportMetadataMixin:
                     + f" out of valid range in line: {new_line}"
                 )
 
-            table_num = words[1]
+            table_num = words[1].replace(":", "")
+
             table_name = FinalReportMetadataMixin.clean(" ".join(words[3:-2]))
             d = dict(
                 table_num=table_num, table_name=table_name, page_num=page_num
@@ -79,8 +80,6 @@ class FinalReportMetadataMixin:
             d["has_page_multiple_tables"] = has_page_multiple_tables
 
         FinalReportConstants.TABLE_METADATA_FILE.write(d_list)
-        log.info(
-            f"Wrote {
+        log.info(f"Wrote {
                 len(d_list)} tables to {
-                FinalReportConstants.TABLE_METADATA_FILE}"
-        )
+                FinalReportConstants.TABLE_METADATA_FILE}")
