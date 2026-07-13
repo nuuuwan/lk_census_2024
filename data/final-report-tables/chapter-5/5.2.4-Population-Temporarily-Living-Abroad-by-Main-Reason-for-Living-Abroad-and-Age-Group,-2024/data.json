@@ -1,0 +1,52 @@
+[
+  {
+    "age": "Total",
+    "values": {
+      "employment": 577919,
+      "education": 53621,
+      "accompanying_family_member_in_need": 38218,
+      "other": 2491
+    },
+    "total_value": 672249
+  },
+  {
+    "age": "Less than 18",
+    "values": {
+      "employment": 0,
+      "education": 1486,
+      "accompanying_family_member_in_need": 17862,
+      "other": 35
+    },
+    "total_value": 19383
+  },
+  {
+    "age": "18 - 29",
+    "values": {
+      "employment": 142256,
+      "education": 38053,
+      "accompanying_family_member_in_need": 6348,
+      "other": 716
+    },
+    "total_value": 187373
+  },
+  {
+    "age": "30 - 59",
+    "values": {
+      "employment": 423249,
+      "education": 14042,
+      "accompanying_family_member_in_need": 10530,
+      "other": 1548
+    },
+    "total_value": 449369
+  },
+  {
+    "age": "60 & over",
+    "values": {
+      "employment": 12414,
+      "education": 40,
+      "accompanying_family_member_in_need": 3478,
+      "other": 192
+    },
+    "total_value": 16124
+  }
+]

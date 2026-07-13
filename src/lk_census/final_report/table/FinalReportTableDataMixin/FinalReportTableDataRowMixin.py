@@ -5,7 +5,7 @@ log = Log("FinalReportTableDataRowMixin")
 
 
 class FinalReportTableDataRowMixin:
-    KNOWN_PRIMARY_KEY_LIST = ["topic", "census_data", "sector"]
+    KNOWN_PRIMARY_KEY_LIST = ["topic", "census_data", "sector", "age"]
 
     @staticmethod
     def _get_region(region_name):
