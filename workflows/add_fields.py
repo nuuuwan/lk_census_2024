@@ -25,14 +25,14 @@ if __name__ == "__main__":
             os.system(f'code "{table.original_pdf_file.path}"')
 
         else:
+            os.system(f'code "{table.original_pdf_file.path}"')
+            os.system(f'code "{table.raw_data_file.path}"')
+
             try:
                 table.build_data(force=True)
                 os.system(f'code "{table.data_file.path}"')
 
             except Exception as e:
                 print(e)
-
-            os.system(f'code "{table.original_pdf_file.path}"')
-            os.system(f'code "{table.raw_data_file.path}"')
 
         break
