@@ -29,6 +29,11 @@ class FinalReportTableDataOtherValuesMixin:
             return True
         return False
 
+    def _is_key_rate_per_k(self, cell_key):
+        if cell_key.endswith("_rate_per_k"):
+            return True
+        return False
+
     # flake8: noqa: E501
     def _build_value(self, cell_key, cell_value):
         if self._is_key_str(cell_key):
@@ -39,6 +44,9 @@ class FinalReportTableDataOtherValuesMixin:
 
         if cell_key.startswith("p_"):
             return Parse.percent(cell_value)
+
+        if self._is_key_rate_per_k(cell_key):
+            return Parse.int(cell_value)
 
         if self._is_key_float(cell_key):
             return Parse.float(cell_value)

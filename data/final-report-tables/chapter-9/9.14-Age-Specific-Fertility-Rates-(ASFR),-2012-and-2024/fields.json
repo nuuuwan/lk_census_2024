@@ -1,0 +1,9 @@
+{
+  "primary_key": "age_group",
+  "other_keys": [
+    "1981_fertility_rate_per_k",
+    "2012_fertility_rate_per_k",
+    "2024_fertility_rate_per_k"
+  ],
+  "is_summable": false
+}
