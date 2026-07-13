@@ -60,6 +60,8 @@ class PDFFile(File):
             )
 
         if total_tables_on_page != 1:
+            log.debug(f"{total_tables_on_page=}")
+            log.debug(f"len(tables)={len(tables)}")
 
             if len(raw_table_index_list) > 0:
                 actual_tables = []
@@ -78,7 +80,8 @@ class PDFFile(File):
                     f"Expected {total_tables_on_page} tables on page,"
                     + f" but found {len(tables)}"
                 )
-            tables = [tables[i_table_on_page]]
+            else:
+                tables = [tables[i_table_on_page]]
 
         d_list = []
         for table in tables:
