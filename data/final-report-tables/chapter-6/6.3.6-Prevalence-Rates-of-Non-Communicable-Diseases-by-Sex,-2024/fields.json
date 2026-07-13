@@ -1,5 +1,10 @@
 {
-  "primary_key": "",
-  "other_keys": [],
+  "primary_key": "disease",
+  "other_keys": [
+    "males_with_disease",
+    "p_male_prevalence_rate",
+    "females_with_disease",
+    "p_female_prevalence_rate"
+  ],
   "is_summable": false
 }
