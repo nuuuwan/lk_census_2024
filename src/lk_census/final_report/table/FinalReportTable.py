@@ -60,7 +60,7 @@ class FinalReportTable(
 
     @cached_property
     def is_complicated(self):
-        return self.table_num in ["5.2.2", "5.2.5", "6.1.6"]
+        return self.table_num in ["5.2.2", "5.2.5", "6.1.6", "6.1.13"]
 
     @cached_property
     def build_status(self):
