@@ -1,0 +1,310 @@
+[
+  {
+    "age_group": "Sri Lanka",
+    "values": {
+      "total": 21779483,
+      "male": 10510498,
+      "female": 11268985,
+      "total_with_at_least_one_ncd": 4185749,
+      "male_with_at_least_one_ncd": 1725859,
+      "female_with_at_least_one_ncd": 2459890,
+      "p_total": 0.192,
+      "p_male": 0.164,
+      "p_female": 0.218
+    }
+  },
+  {
+    "age_group": "00-04",
+    "values": {
+      "total": 1215095,
+      "male": 611067,
+      "female": 604028,
+      "total_with_at_least_one_ncd": 13673,
+      "male_with_at_least_one_ncd": 7507,
+      "female_with_at_least_one_ncd": 6166,
+      "p_total": 0.011,
+      "p_male": 0.012,
+      "p_female": 0.01
+    }
+  },
+  {
+    "age_group": "05-09",
+    "values": {
+      "total": 1556507,
+      "male": 788536,
+      "female": 767971,
+      "total_with_at_least_one_ncd": 29688,
+      "male_with_at_least_one_ncd": 16709,
+      "female_with_at_least_one_ncd": 12979,
+      "p_total": 0.019,
+      "p_male": 0.021,
+      "p_female": 0.017
+    }
+  },
+  {
+    "age_group": "10-14",
+    "values": {
+      "total": 1735181,
+      "male": 880895,
+      "female": 854286,
+      "total_with_at_least_one_ncd": 35588,
+      "male_with_at_least_one_ncd": 20225,
+      "female_with_at_least_one_ncd": 15363,
+      "p_total": 0.021,
+      "p_male": 0.023,
+      "p_female": 0.018
+    }
+  },
+  {
+    "age_group": "15-19",
+    "values": {
+      "total": 1795024,
+      "male": 907730,
+      "female": 887294,
+      "total_with_at_least_one_ncd": 31370,
+      "male_with_at_least_one_ncd": 16270,
+      "female_with_at_least_one_ncd": 15100,
+      "p_total": 0.017,
+      "p_male": 0.018,
+      "p_female": 0.017
+    }
+  },
+  {
+    "age_group": "20-24",
+    "values": {
+      "total": 1608577,
+      "male": 790203,
+      "female": 818374,
+      "total_with_at_least_one_ncd": 29256,
+      "male_with_at_least_one_ncd": 13480,
+      "female_with_at_least_one_ncd": 15776,
+      "p_total": 0.018,
+      "p_male": 0.017,
+      "p_female": 0.019
+    }
+  },
+  {
+    "age_group": "25-29",
+    "values": {
+      "total": 1372421,
+      "male": 662725,
+      "female": 709696,
+      "total_with_at_least_one_ncd": 36874,
+      "male_with_at_least_one_ncd": 16189,
+      "female_with_at_least_one_ncd": 20685,
+      "p_total": 0.027,
+      "p_male": 0.024,
+      "p_female": 0.029
+    }
+  },
+  {
+    "age_group": "30-34",
+    "values": {
+      "total": 1414013,
+      "male": 682539,
+      "female": 731474,
+      "total_with_at_least_one_ncd": 67032,
+      "male_with_at_least_one_ncd": 28862,
+      "female_with_at_least_one_ncd": 38170,
+      "p_total": 0.047,
+      "p_male": 0.042,
+      "p_female": 0.052
+    }
+  },
+  {
+    "age_group": "35-39",
+    "values": {
+      "total": 1452617,
+      "male": 705065,
+      "female": 747552,
+      "total_with_at_least_one_ncd": 127106,
+      "male_with_at_least_one_ncd": 56111,
+      "female_with_at_least_one_ncd": 70995,
+      "p_total": 0.088,
+      "p_male": 0.08,
+      "p_female": 0.095
+    }
+  },
+  {
+    "age_group": "40-44",
+    "values": {
+      "total": 1602207,
+      "male": 785827,
+      "female": 816380,
+      "total_with_at_least_one_ncd": 239883,
+      "male_with_at_least_one_ncd": 107296,
+      "female_with_at_least_one_ncd": 132587,
+      "p_total": 0.15,
+      "p_male": 0.137,
+      "p_female": 0.162
+    }
+  },
+  {
+    "age_group": "45-49",
+    "values": {
+      "total": 1490573,
+      "male": 730288,
+      "female": 760285,
+      "total_with_at_least_one_ncd": 351226,
+      "male_with_at_least_one_ncd": 153081,
+      "female_with_at_least_one_ncd": 198145,
+      "p_total": 0.236,
+      "p_male": 0.21,
+      "p_female": 0.261
+    }
+  },
+  {
+    "age_group": "50-54",
+    "values": {
+      "total": 1341549,
+      "male": 650882,
+      "female": 690667,
+      "total_with_at_least_one_ncd": 441704,
+      "male_with_at_least_one_ncd": 185056,
+      "female_with_at_least_one_ncd": 256648,
+      "p_total": 0.329,
+      "p_male": 0.284,
+      "p_female": 0.372
+    }
+  },
+  {
+    "age_group": "55-59",
+    "values": {
+      "total": 1275751,
+      "male": 603165,
+      "female": 672586,
+      "total_with_at_least_one_ncd": 534828,
+      "male_with_at_least_one_ncd": 217942,
+      "female_with_at_least_one_ncd": 316886,
+      "p_total": 0.419,
+      "p_male": 0.361,
+      "p_female": 0.471
+    }
+  },
+  {
+    "age_group": "60-64",
+    "values": {
+      "total": 1182973,
+      "male": 547858,
+      "female": 635115,
+      "total_with_at_least_one_ncd": 587563,
+      "male_with_at_least_one_ncd": 239189,
+      "female_with_at_least_one_ncd": 348374,
+      "p_total": 0.497,
+      "p_male": 0.437,
+      "p_female": 0.549
+    }
+  },
+  {
+    "age_group": "65-69",
+    "values": {
+      "total": 991489,
+      "male": 446651,
+      "female": 544838,
+      "total_with_at_least_one_ncd": 558098,
+      "male_with_at_least_one_ncd": 226178,
+      "female_with_at_least_one_ncd": 331920,
+      "p_total": 0.563,
+      "p_male": 0.506,
+      "p_female": 0.609
+    }
+  },
+  {
+    "age_group": "70-74",
+    "values": {
+      "total": 795319,
+      "male": 344465,
+      "female": 450854,
+      "total_with_at_least_one_ncd": 488211,
+      "male_with_at_least_one_ncd": 194928,
+      "female_with_at_least_one_ncd": 293283,
+      "p_total": 0.614,
+      "p_male": 0.566,
+      "p_female": 0.651
+    }
+  },
+  {
+    "age_group": "75-79",
+    "values": {
+      "total": 522832,
+      "male": 214786,
+      "female": 308046,
+      "total_with_at_least_one_ncd": 337335,
+      "male_with_at_least_one_ncd": 129980,
+      "female_with_at_least_one_ncd": 207355,
+      "p_total": 0.645,
+      "p_male": 0.605,
+      "p_female": 0.673
+    }
+  },
+  {
+    "age_group": "80-84",
+    "values": {
+      "total": 268326,
+      "male": 102783,
+      "female": 165543,
+      "total_with_at_least_one_ncd": 176798,
+      "male_with_at_least_one_ncd": 63951,
+      "female_with_at_least_one_ncd": 112847,
+      "p_total": 0.659,
+      "p_male": 0.622,
+      "p_female": 0.682
+    }
+  },
+  {
+    "age_group": "85-89",
+    "values": {
+      "total": 111009,
+      "male": 39731,
+      "female": 71278,
+      "total_with_at_least_one_ncd": 71442,
+      "male_with_at_least_one_ncd": 24326,
+      "female_with_at_least_one_ncd": 47116,
+      "p_total": 0.644,
+      "p_male": 0.612,
+      "p_female": 0.661
+    }
+  },
+  {
+    "age_group": "90-94",
+    "values": {
+      "total": 39232,
+      "male": 12619,
+      "female": 26613,
+      "total_with_at_least_one_ncd": 23568,
+      "male_with_at_least_one_ncd": 7251,
+      "female_with_at_least_one_ncd": 16317,
+      "p_total": 0.601,
+      "p_male": 0.575,
+      "p_female": 0.613
+    }
+  },
+  {
+    "age_group": "95 & Over",
+    "values": {
+      "total": 8788,
+      "male": 2683,
+      "female": 6105,
+      "total_with_at_least_one_ncd": 4506,
+      "male_with_at_least_one_ncd": 1328,
+      "female_with_at_least_one_ncd": 3178,
+      "p_total": 0.513,
+      "p_male": 0.495,
+      "p_female": 0.521
+    }
+  },
+  {
+    "age_group": "95 & Over",
+    "values": {
+      "total": 8788,
+      "male": 2683,
+      "female": 6105,
+      "total_with_at_least_one_ncd": 4506,
+      "male_with_at_least_one_ncd": 1328,
+      "female_with_at_least_one_ncd": 3178,
+      "p_total": 0.513,
+      "p_male": 0.495,
+      "p_female": 0.521
+    }
+  }
+]

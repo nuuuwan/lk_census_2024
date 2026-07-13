@@ -1,0 +1,15 @@
+{
+  "primary_key": "age_group",
+  "other_keys": [
+    "total",
+    "male",
+    "female",
+    "total_with_at_least_one_ncd",
+    "male_with_at_least_one_ncd",
+    "female_with_at_least_one_ncd",
+    "p_total",
+    "p_male",
+    "p_female"
+  ],
+  "is_summable": false
+}
