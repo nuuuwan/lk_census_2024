@@ -25,8 +25,16 @@ class FinalReportTableDataAggregateMixin:
         parent_id_key = ent_type.name.lower() + "_id"
         return child_region.d[parent_id_key]
 
+    def get_parent_ent_types(self):
+        ent_type = self.get_ent_type_for_primary_key()
+        if ent_type == EntType.DISTRICT:
+            return [EntType.COUNTRY, EntType.PROVINCE, EntType.ED]
+        if ent_type == EntType.PROVINCE:
+            return [EntType.COUNTRY]
+        raise ValueError(f"Unknown parent ent types for ent type: {ent_type}")
+
     def _map_to_parents(self, d_list):
-        parent_types = [EntType.COUNTRY, EntType.PROVINCE, EntType.ED]
+        parent_types = self.get_parent_ent_types()
         parent_id_to_d_list = {}
         for ent_type in parent_types:
             for d in d_list:

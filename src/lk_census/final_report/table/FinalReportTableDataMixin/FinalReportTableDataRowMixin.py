@@ -6,11 +6,15 @@ log = Log("FinalReportTableDataRowMixin")
 
 class FinalReportTableDataRowMixin:
 
-    @staticmethod
-    def _get_region(region_name):
+    def _get_ent_type_for_primary_key(self):
+        primary_key = self.primary_keys[0]
+        ent_name = primary_key.replace("_name", "")
+        return EntType.from_name(ent_name)
+
+    def _get_region(self, region_name):
         regions = Ent.list_from_name_fuzzy(
             name_fuzzy=region_name,
-            filter_ent_type=EntType.DISTRICT,
+            filter_ent_type=self._get_ent_type_for_primary_key(),
             min_fuzz_ratio=80,
         )
         if len(regions) != 1:
@@ -39,7 +43,7 @@ class FinalReportTableDataRowMixin:
 
         return raw_data
 
-    def _build_primary_keys_for_district(self, first_cell):
+    def _build_primary_keys_for_region(self, first_cell):
 
         region = self._get_region(first_cell)
         if region is None:
@@ -48,15 +52,16 @@ class FinalReportTableDataRowMixin:
         return dict(
             region_id=region.id,
             region_name=region.name,
-            region_ent_type=EntType.DISTRICT.name,
+            region_ent_type=EntType.from_id(region.id).name,
         )
 
     def _build_primary_keys(self, first_cell):
         first_cell = first_cell.replace("\u2013", "-")
-        if self.primary_keys == ["district_name"]:
-            return self._build_primary_keys_for_district(first_cell)
-
         first_primary_key = self.primary_keys[0]
+
+        if first_primary_key in ["district_name", "province_name"]:
+            return self._build_primary_keys_for_region(first_cell)
+
         if first_cell.lower() in ["total", "", "ethnic group"]:
             return None
         return {first_primary_key: first_cell}

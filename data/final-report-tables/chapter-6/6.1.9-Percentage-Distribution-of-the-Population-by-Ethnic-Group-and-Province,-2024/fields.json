@@ -1,0 +1,17 @@
+{
+  "primary_key": "province_name",
+  "other_keys": [
+    "_ignore",
+    "p_sinhalese",
+    "p_sl_tamil",
+    "p_ind_and_malaiyaga_tamil",
+    "p_sl_moor",
+    "p_malay",
+    "p_burgher",
+    "p_sl_chetty",
+    "p_bharatha",
+    "p_veddahs",
+    "p_other"
+  ],
+  "is_summable": false
+}

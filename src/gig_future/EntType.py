@@ -23,6 +23,13 @@ class EntType:
         return EntType.ID_TYPE_CONFIG.get(prefix, {}).get(n, EntType.UNKNOWN)
 
     @staticmethod
+    def from_name(name: str):
+        for ent in EntType.list():
+            if ent.name == name:
+                return ent
+        raise ValueError(f"Unknown EntType name: {name}")
+
+    @staticmethod
     def list():
         return [
             EntType.COUNTRY,
