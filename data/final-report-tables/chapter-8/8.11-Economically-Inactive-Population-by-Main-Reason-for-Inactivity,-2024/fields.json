@@ -1,0 +1,5 @@
+{
+  "primary_key": "reason_for_being_inactive",
+  "other_keys": ["population", "_ignore"],
+  "is_summable": false
+}
