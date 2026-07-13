@@ -1,0 +1,58 @@
+[
+  {
+    "level_of_education": "Never attended School",
+    "values": {
+      "p_male_labour_force_participation_rate": 0.486,
+      "p_female_labour_force_participation_rate": 0.192
+    }
+  },
+  {
+    "level_of_education": "Studied in a special school/special unit",
+    "values": {
+      "p_male_labour_force_participation_rate": 0.251,
+      "p_female_labour_force_participation_rate": 0.223
+    }
+  },
+  {
+    "level_of_education": "Passed Grade 1 - 5",
+    "values": {
+      "p_male_labour_force_participation_rate": 0.623,
+      "p_female_labour_force_participation_rate": 0.206
+    }
+  },
+  {
+    "level_of_education": "Passed Grade 6 - 8",
+    "values": {
+      "p_male_labour_force_participation_rate": 0.701,
+      "p_female_labour_force_participation_rate": 0.221
+    }
+  },
+  {
+    "level_of_education": "Passed Grade 9 - 10",
+    "values": {
+      "p_male_labour_force_participation_rate": 0.696,
+      "p_female_labour_force_participation_rate": 0.247
+    }
+  },
+  {
+    "level_of_education": "Passed GCE O/L",
+    "values": {
+      "p_male_labour_force_participation_rate": 0.651,
+      "p_female_labour_force_participation_rate": 0.229
+    }
+  },
+  {
+    "level_of_education": "Passed GCE A/L",
+    "values": {
+      "p_male_labour_force_participation_rate": 0.678,
+      "p_female_labour_force_participation_rate": 0.351
+    }
+  },
+  {
+    "level_of_education": "Degree or above",
+    "values": {
+      "p_male_labour_force_participation_rate": 0.776,
+      "p_female_labour_force_participation_rate": 0.73
+    }
+  }
+]

@@ -1,0 +1,9 @@
+{
+  "primary_key": "level_of_education",
+  "other_keys": [
+    "p_male_labour_force_participation_rate",
+    "_blank",
+    "p_female_labour_force_participation_rate"
+  ],
+  "is_summable": false
+}
