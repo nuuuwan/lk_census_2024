@@ -1,0 +1,5 @@
+{
+  "primary_key": "energy_or_fuel_type",
+  "other_keys": ["primary_source", "_ignore", "secondary_source", "_ignore"],
+  "is_summable": false
+}
