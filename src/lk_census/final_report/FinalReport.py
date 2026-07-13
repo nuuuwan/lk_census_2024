@@ -1,4 +1,3 @@
-
 from lk_census.final_report.FinalReportMetadataMixin import \
     FinalReportMetadataMixin
 from lk_census.final_report.FinalReportTable import FinalReportTable
