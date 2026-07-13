@@ -58,3 +58,7 @@ class FinalReportTableDataFieldsMixin:
     @cached_property
     def null_cols(self):
         return self.fields.get("null_cols", [])
+
+    @cached_property
+    def has_complete_fields(self):
+        return len(self.other_keys) > 0

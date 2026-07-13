@@ -49,7 +49,7 @@ class FinalReportTableDataMixin(
 
         if self.data_file.exists and not force:
             return
-        if not (bool(self.raw_data_list) and bool(self.fields)):
+        if not (bool(self.raw_data_list) and bool(self.has_complete_fields)):
             return
 
         log.debug("-" * 40)

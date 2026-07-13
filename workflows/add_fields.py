@@ -13,13 +13,12 @@ if __name__ == "__main__":
         print(table.table_num)
         print("")
 
-        os.system(f"code {table.original_pdf_file.path}")
-
         if not table.fields_file.exists:
             table.fields_file.write(
                 dict(original_key="", other_keys=[], is_summable=False)
             )
             os.system(f"code {table.fields_file.path}")
+            os.system(f"code {table.original_pdf_file.path}")
 
         else:
             table.build()
