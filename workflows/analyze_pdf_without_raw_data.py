@@ -1,3 +1,5 @@
+import sys
+
 from lk_census.final_report.table import FinalReportTable
 
 if __name__ == "__main__":
@@ -15,20 +17,21 @@ if __name__ == "__main__":
         )
         print("")
 
-        table.original_pdf_file.open("code")
-
         fields = {}
         if table.fields_file.exists:
             fields = table.fields_file.read()
         if "raw_table_index_list" not in fields:
             fields["raw_table_index_list"] = []
         table.fields_file.write(fields)
-        table.fields_file.open("code")
 
         if table.raw_data_file.exists:
             if "raw_table_index_list" in table.raw_data_file.read():
                 table.raw_data_file.delete()
 
-        table.build_raw_data(force=True)
-
-        break
+        try:
+            table.build_raw_data(force=True)
+        except Exception as e:
+            print("🛑EXCEPTION: ", e)
+            table.original_pdf_file.open("code")
+            table.fields_file.open("code")
+            sys.exit(1)
