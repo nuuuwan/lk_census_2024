@@ -1,0 +1,10 @@
+{
+  "primary_key": "sex",
+  "other_keys": [
+    "whipple_index_1981",
+    "whipple_index_2001",
+    "whipple_index_2012",
+    "whipple_index_2024"
+  ],
+  "is_summable": false
+}

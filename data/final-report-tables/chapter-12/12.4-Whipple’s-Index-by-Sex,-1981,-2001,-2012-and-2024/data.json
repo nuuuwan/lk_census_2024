@@ -1,0 +1,29 @@
+[
+  {
+    "sex": "Both sexes",
+    "values": {
+      "whipple_index_1981": 118.6,
+      "whipple_index_2001": 97.0,
+      "whipple_index_2012": 100.2,
+      "whipple_index_2024": 99.2
+    }
+  },
+  {
+    "sex": "Male",
+    "values": {
+      "whipple_index_1981": 116.7,
+      "whipple_index_2001": 97.5,
+      "whipple_index_2012": 100.3,
+      "whipple_index_2024": 99.1
+    }
+  },
+  {
+    "sex": "Female",
+    "values": {
+      "whipple_index_1981": 120.5,
+      "whipple_index_2001": 96.4,
+      "whipple_index_2012": 100.0,
+      "whipple_index_2024": 99.2
+    }
+  }
+]
