@@ -1,0 +1,4 @@
+{
+  "primary_keys": ["census_data"],
+  "other_keys": ["total_population", "_ignore", "_ignore", "_ignore"]
+}
