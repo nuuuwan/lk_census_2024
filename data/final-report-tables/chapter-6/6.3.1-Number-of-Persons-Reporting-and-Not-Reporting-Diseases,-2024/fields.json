@@ -1,0 +1,5 @@
+{
+  "primary_key": "disease_group",
+  "other_keys": ["population", "_ignore"],
+  "is_summable": false
+}
