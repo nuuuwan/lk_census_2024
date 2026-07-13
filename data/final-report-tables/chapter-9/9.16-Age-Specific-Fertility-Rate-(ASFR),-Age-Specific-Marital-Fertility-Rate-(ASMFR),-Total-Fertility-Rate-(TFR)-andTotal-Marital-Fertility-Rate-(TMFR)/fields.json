@@ -1,0 +1,9 @@
+{
+  "primary_key": "age_group",
+  "other_keys": [
+    "asfr_age_specific_fertility_rate_per_k",
+    "_blank",
+    "asmfr_age_specific_marital_fertility_rate_per_k"
+  ],
+  "is_summable": false
+}

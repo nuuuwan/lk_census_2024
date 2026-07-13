@@ -46,7 +46,7 @@ class FinalReportTableDataOtherValuesMixin:
             return Parse.percent(cell_value)
 
         if self._is_key_rate_per_k(cell_key):
-            return Parse.int(cell_value)
+            return Parse.float(cell_value)
 
         if self._is_key_float(cell_key):
             return Parse.float(cell_value)
