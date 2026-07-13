@@ -69,8 +69,10 @@ class FinalReportTable(
     @cached_property
     def is_complicated(self):
         return self.table_num in [
+            # Chapter 5
             "5.2.2",  # Triple Row
             "5.2.5",  # Col Sum
+            # Chapter 6
             "6.1.6",  # Data error
             "6.1.13",  # Double Row
             "6.2.1",  # Double Row
@@ -79,7 +81,10 @@ class FinalReportTable(
             "6.2.13",  # Double Row
             "6.2.14",  # Double Row
             "6.3.1",  # Data error
+            # Chapter 7
             "7.6",  # Double Row
+            # Chapter 9
+            "9.1",  # Double Row
         ]
 
     STATUS_LABELS = {
