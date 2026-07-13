@@ -89,6 +89,8 @@ class FinalReportTable(
         "10.3",  # Double Row
         "10.4",  # Double Row
         "10.10",  # Double Row
+        # Chapter 11
+        "11.17",  # Sub-headings
     ]
 
     @property

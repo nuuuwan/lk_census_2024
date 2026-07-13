@@ -1,0 +1,10 @@
+{
+  "primary_key": "sex",
+  "other_keys": [
+    "myers_index_1981",
+    "myers_index_2001",
+    "myers_index_2012",
+    "myers_index_2024"
+  ],
+  "is_summable": false
+}

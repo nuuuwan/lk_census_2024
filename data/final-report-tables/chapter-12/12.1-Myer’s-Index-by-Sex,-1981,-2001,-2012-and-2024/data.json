@@ -1,0 +1,29 @@
+[
+  {
+    "sex": "Both sexes",
+    "values": {
+      "myers_index_1981": 9.7,
+      "myers_index_2001": 2.7,
+      "myers_index_2012": 1.7,
+      "myers_index_2024": 1.2
+    }
+  },
+  {
+    "sex": "Male",
+    "values": {
+      "myers_index_1981": 8.7,
+      "myers_index_2001": 2.7,
+      "myers_index_2012": 1.8,
+      "myers_index_2024": 1.2
+    }
+  },
+  {
+    "sex": "Female",
+    "values": {
+      "myers_index_1981": 11.2,
+      "myers_index_2001": 3.0,
+      "myers_index_2012": 1.7,
+      "myers_index_2024": 1.1
+    }
+  }
+]
