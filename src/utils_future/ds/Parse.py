@@ -7,11 +7,13 @@ class Parse:
 
     @staticmethod
     def _clean_(x: str) -> str:
-        return x.strip().lower().replace(",", "")
+        return x.strip().lower().replace(",", "").replace("*", "")
 
     @staticmethod
     def int(x) -> int:
         if x == "-":
+            return 0
+        if x == "*":
             return 0
         try:
             return int(Parse._clean_(x))
