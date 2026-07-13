@@ -1,6 +1,7 @@
 {
   "primary_key": "",
   "other_keys": [
+    "p_radio",
     "p_television",
     "p_fixed_line_telephone",
     "p_smart_mobile_phone",
@@ -10,11 +11,10 @@
     "p_tablet_computer",
     "p_internet_facilities",
     "p_bicycle",
-    "p_motorcycle_scooter",
-    "p_three_wheeler"
+    "p_motorcycle_or_scooter",
+    "p_three_wheeler",
+    "p_other"
   ],
   "is_summable": false,
-  "raw_table_index_list": [
-    2
-  ]
+  "raw_table_index_list": [2]
 }
