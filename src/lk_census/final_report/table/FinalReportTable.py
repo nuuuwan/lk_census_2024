@@ -63,13 +63,14 @@ class FinalReportTable(
         return self.table_num in [
             "5.2.2",  # Triple Row
             "5.2.5",  # Col Sum
-            "6.1.6",  # Data error?
+            "6.1.6",  # Data error
             "6.1.13",  # Double Row
             "6.2.1",  # Double Row
             "6.2.4",  # Double Row
             "6.2.5",  # Double Row
             "6.2.13",  # Double Row
             "6.2.14",  # Double Row
+            "6.3.1",  # Data error
         ]
 
     STATUS_LABELS = {
