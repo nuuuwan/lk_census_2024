@@ -1,5 +1,6 @@
 {
-  "primary_key": "",
-  "other_keys": [],
-  "is_summable": false
+  "primary_key": "ethnicity",
+  "other_keys": ["mean_age_of_marriage_male", "mean_age_of_marriage_female"],
+  "is_summable": false,
+  "raw_table_index_list": [2]
 }
