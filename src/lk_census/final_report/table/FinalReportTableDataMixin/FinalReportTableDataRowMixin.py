@@ -25,10 +25,23 @@ class FinalReportTableDataRowMixin:
             return None
         return regions[0]
 
+    def _remove_null_cols(self, raw_data):
+        null_cols = self.null_cols
+        if len(null_cols) == 0:
+            return raw_data
+
+        new_raw_data = []
+        for i_col, cell in enumerate(raw_data):
+            if i_col not in null_cols:
+                new_raw_data.append(cell)
+        return new_raw_data
+
     def _normalize_raw_data(self, raw_data):
+
+        raw_data = self._remove_null_cols(raw_data)
+
         if "\n" in raw_data[0]:
-            words = raw_data[0].strip().split("\n")
-            return [words[0].strip(), words[-1].strip()] + raw_data[1:]
+            raw_data[0] = raw_data[0].replace("\n", " ")
         if " " * 4 in raw_data[0]:
             words = raw_data[0].strip().split(" ")
             raw_data[0] = words[0].strip()

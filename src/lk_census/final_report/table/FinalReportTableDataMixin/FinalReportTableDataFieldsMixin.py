@@ -54,3 +54,7 @@ class FinalReportTableDataFieldsMixin:
     @cached_property
     def total_description(self):
         return self.fields.get("total_description")
+
+    @cached_property
+    def null_cols(self):
+        return self.fields.get("null_cols", [])

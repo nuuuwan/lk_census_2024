@@ -1,0 +1,114 @@
+[
+  {
+    "employment_status": "Employed population aged 15  and over",
+    "values": {
+      "p_diabetes": 0.078,
+      "p_high_cholesterol": 0.071,
+      "p_high_blood_pressure": 0.079,
+      "p_heart_disease": 0.021,
+      "p_kidney_disease": 0.006,
+      "p_thalassemia": 0.001,
+      "p_cancer": 0.002,
+      "p_stroke": 0.002,
+      "p_asthma": 0.015,
+      "p_epilepsy": 0.002,
+      "_rounding_error": 7670748.723
+    }
+  },
+  {
+    "employment_status": "Government paid employee",
+    "values": {
+      "p_diabetes": 0.061,
+      "p_high_cholesterol": 0.055,
+      "p_high_blood_pressure": 0.053,
+      "p_heart_disease": 0.011,
+      "p_kidney_disease": 0.003,
+      "p_thalassemia": 0.0,
+      "p_cancer": 0.002,
+      "p_stroke": 0.001,
+      "p_asthma": 0.007,
+      "p_epilepsy": 0.001,
+      "_rounding_error": 1162692.806
+    }
+  },
+  {
+    "employment_status": "Semi government paid  employee",
+    "values": {
+      "p_diabetes": 0.076,
+      "p_high_cholesterol": 0.069,
+      "p_high_blood_pressure": 0.065,
+      "p_heart_disease": 0.015,
+      "p_kidney_disease": 0.003,
+      "p_thalassemia": 0.0,
+      "p_cancer": 0.002,
+      "p_stroke": 0.001,
+      "p_asthma": 0.009,
+      "p_epilepsy": 0.001,
+      "_rounding_error": 170712.759
+    }
+  },
+  {
+    "employment_status": "Paid employee (private sector)",
+    "values": {
+      "p_diabetes": 0.058,
+      "p_high_cholesterol": 0.052,
+      "p_high_blood_pressure": 0.058,
+      "p_heart_disease": 0.016,
+      "p_kidney_disease": 0.004,
+      "p_thalassemia": 0.001,
+      "p_cancer": 0.002,
+      "p_stroke": 0.001,
+      "p_asthma": 0.015,
+      "p_epilepsy": 0.003,
+      "_rounding_error": 3244289.79
+    }
+  },
+  {
+    "employment_status": "Employer (have employees)",
+    "values": {
+      "p_diabetes": 0.138,
+      "p_high_cholesterol": 0.11,
+      "p_high_blood_pressure": 0.105,
+      "p_heart_disease": 0.028,
+      "p_kidney_disease": 0.005,
+      "p_thalassemia": 0.0,
+      "p_cancer": 0.002,
+      "p_stroke": 0.002,
+      "p_asthma": 0.009,
+      "p_epilepsy": 0.001,
+      "_rounding_error": 277867.6
+    }
+  },
+  {
+    "employment_status": "Own account worker   (don\u2019t have employees)",
+    "values": {
+      "p_diabetes": 0.104,
+      "p_high_cholesterol": 0.096,
+      "p_high_blood_pressure": 0.11,
+      "p_heart_disease": 0.032,
+      "p_kidney_disease": 0.011,
+      "p_thalassemia": 0.001,
+      "p_cancer": 0.003,
+      "p_stroke": 0.003,
+      "p_asthma": 0.02,
+      "p_epilepsy": 0.003,
+      "_rounding_error": 2407613.617
+    }
+  },
+  {
+    "employment_status": "Contributing to family enterprise  (unpaid family worker)",
+    "values": {
+      "p_diabetes": 0.096,
+      "p_high_cholesterol": 0.107,
+      "p_high_blood_pressure": 0.134,
+      "p_heart_disease": 0.028,
+      "p_kidney_disease": 0.011,
+      "p_thalassemia": 0.001,
+      "p_cancer": 0.004,
+      "p_stroke": 0.002,
+      "p_asthma": 0.025,
+      "p_epilepsy": 0.003,
+      "_rounding_error": 407570.589
+    }
+  }
+]

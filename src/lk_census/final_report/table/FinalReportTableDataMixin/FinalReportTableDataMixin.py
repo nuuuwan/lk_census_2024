@@ -38,6 +38,8 @@ class FinalReportTableDataMixin(
     def _validate_data_list(self, d_list):
         if len(d_list) >= self.MIN_N_DATA_LIST:
             return
+        for d in d_list:
+            log.warning(str(d))
         raise ValueError(
             f"[{self}] Expected >={self.MIN_N_DATA_LIST} data items,"
             + f" found only {len(d_list)}"
