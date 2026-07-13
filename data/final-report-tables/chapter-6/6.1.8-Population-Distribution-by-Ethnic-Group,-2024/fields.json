@@ -1,0 +1,5 @@
+{
+  "primary_key": "ethnicity",
+  "other_keys": ["population", "_ignore"],
+  "is_summable": false
+}
