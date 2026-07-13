@@ -2,7 +2,7 @@ import os
 import sys
 
 from lk_census.final_report.table import FinalReportTable
-from utils_future import JSONFile
+from lk_census.readme.ReadMe import ReadMe
 
 if __name__ == "__main__":
     table_num = sys.argv[1]
@@ -14,4 +14,8 @@ if __name__ == "__main__":
         table.fields_file.write(
             dict(original_key="", other_keys=[], is_summable=False)
         )
-    os.system(f"code {table.fields_file.path}")
+        os.system(f"code {table.fields_file.path}")
+    else:
+        table.build()
+        ReadMe().build()
+        os.system(f"code {table.data_file.path}")

@@ -1,0 +1,15 @@
+{
+  "original_key": "age_group",
+  "other_keys": [
+    "total",
+    "total_in_school",
+    "_ignore",
+    "male",
+    "male_in_school",
+    "_ignore",
+    "female",
+    "female_in_school",
+    "_ignore"
+  ],
+  "is_summable": false
+}
