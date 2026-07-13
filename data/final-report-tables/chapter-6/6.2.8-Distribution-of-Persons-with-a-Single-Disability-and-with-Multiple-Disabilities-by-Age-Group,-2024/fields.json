@@ -1,0 +1,13 @@
+{
+  "primary_key": "age_group",
+  "other_keys": [
+    "total_value",
+
+    "with_single_disability",
+    "_ignore",
+
+    "with_more_than_one_disability",
+    "_ignore"
+  ],
+  "error_key": "no_disability"
+}
