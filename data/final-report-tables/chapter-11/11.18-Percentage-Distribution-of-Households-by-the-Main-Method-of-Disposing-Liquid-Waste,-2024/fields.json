@@ -1,5 +1,16 @@
 {
-  "primary_key": "",
-  "other_keys": [],
-  "is_summable": false
+  "primary_key": "sector",
+  "other_keys": [
+    "_total_value",
+    "p_to_a_properly_closed_pit",
+    "p_open_pit",
+    "p_within_the_premises",
+    "p_connected_to_a_piped_sewer",
+    "_blank",
+    "p_to_a_stream_or_spring_or_river_or_sea",
+    "p_to_a_drain_on_road",
+    "p_other"
+  ],
+  "is_summable": false,
+  "raw_table_index_list": [1]
 }

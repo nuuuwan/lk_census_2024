@@ -1,5 +1,17 @@
 {
   "primary_key": "",
-  "other_keys": [],
+  "other_keys": [
+    "p_television",
+    "p_fixed_line_telephone",
+    "p_smart_mobile_phone",
+    "p_normal_mobile_phone",
+    "p_desktop_computer",
+    "p_laptop_computer",
+    "p_tablet_computer",
+    "p_internet_facilities",
+    "p_bicycle",
+    "p_motorcycle_scooter",
+    "p_three_wheeler"
+  ],
   "is_summable": false
 }
