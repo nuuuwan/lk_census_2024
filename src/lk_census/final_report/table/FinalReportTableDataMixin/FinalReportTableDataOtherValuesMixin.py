@@ -52,6 +52,8 @@ class FinalReportTableDataOtherValuesMixin:
     def _build_sums(self, d):
         values = d["values"]
         total_value = sum(values.values())
+        if total_value <= 0:
+            raise ValueError(f"Total value is non-positive: {total_value}")
         d["total_value"] = total_value
         return d
 

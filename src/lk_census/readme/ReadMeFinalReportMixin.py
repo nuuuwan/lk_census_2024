@@ -190,7 +190,6 @@ class ReadMeFinalReportMixin:
             "",
         ]
         status_to_n = dict(sorted(status_to_n.items(), key=lambda x: x[0]))
-        print(status_to_n)
         d_list = [
             dict(
                 status=status,
