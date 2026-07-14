@@ -1,0 +1,610 @@
+{
+  "_meta": {
+    "source_url": "https://www.statistics.gov.lk/Resource/en/Population/CPH_2024/CPH2024_Final_Eng.pdf#page=104",
+    "source_description": "Table 6.1.3, Final Report, 2024 Census of Population and Housing, Department of Census and Statistics, Sri Lanka",
+    "what": {
+      "PopulationByAgeGroupsAndSex": "Population by Age Groups and Sex, 2012 and"
+    },
+    "when": [
+      "2012",
+      "2024"
+    ],
+    "where_who_types": [
+      "age_group"
+    ]
+  },
+  "PopulationByAgeGroupsAndSex": {
+    "2012": {
+      "Sri Lanka": {
+        "age_group": "Sri Lanka",
+        "values": {
+          "Total2012": 20359439,
+          "Female2012": 10502805,
+          "Male2012": 9856634
+        },
+        "total_value": 40718878,
+        "pct_values": {
+          "Total2012": 0.5,
+          "Female2012": 0.2579,
+          "Male2012": 0.2421
+        }
+      },
+      "00-04": {
+        "age_group": "00-04",
+        "values": {
+          "Total2012": 1743862,
+          "Male2012": 879223,
+          "Female2012": 864639
+        },
+        "total_value": 3487724,
+        "pct_values": {
+          "Total2012": 0.5,
+          "Male2012": 0.2521,
+          "Female2012": 0.2479
+        }
+      },
+      "05-09": {
+        "age_group": "05-09",
+        "values": {
+          "Total2012": 1747752,
+          "Male2012": 882108,
+          "Female2012": 865644
+        },
+        "total_value": 3495504,
+        "pct_values": {
+          "Total2012": 0.5,
+          "Male2012": 0.2524,
+          "Female2012": 0.2476
+        }
+      },
+      "10-14": {
+        "age_group": "10-14",
+        "values": {
+          "Total2012": 1640052,
+          "Male2012": 829069,
+          "Female2012": 810983
+        },
+        "total_value": 3280104,
+        "pct_values": {
+          "Total2012": 0.5,
+          "Male2012": 0.2528,
+          "Female2012": 0.2472
+        }
+      },
+      "15-19": {
+        "age_group": "15-19",
+        "values": {
+          "Total2012": 1644249,
+          "Female2012": 824322,
+          "Male2012": 819927
+        },
+        "total_value": 3288498,
+        "pct_values": {
+          "Total2012": 0.5,
+          "Female2012": 0.2507,
+          "Male2012": 0.2493
+        }
+      },
+      "20-24": {
+        "age_group": "20-24",
+        "values": {
+          "Total2012": 1532883,
+          "Female2012": 790567,
+          "Male2012": 742316
+        },
+        "total_value": 3065766,
+        "pct_values": {
+          "Total2012": 0.5,
+          "Female2012": 0.2579,
+          "Male2012": 0.2421
+        }
+      },
+      "25-29": {
+        "age_group": "25-29",
+        "values": {
+          "Total2012": 1552848,
+          "Female2012": 809338,
+          "Male2012": 743510
+        },
+        "total_value": 3105696,
+        "pct_values": {
+          "Total2012": 0.5,
+          "Female2012": 0.2606,
+          "Male2012": 0.2394
+        }
+      },
+      "30-34": {
+        "age_group": "30-34",
+        "values": {
+          "Total2012": 1639415,
+          "Female2012": 842549,
+          "Male2012": 796866
+        },
+        "total_value": 3278830,
+        "pct_values": {
+          "Total2012": 0.5,
+          "Female2012": 0.257,
+          "Male2012": 0.243
+        }
+      },
+      "35-39": {
+        "age_group": "35-39",
+        "values": {
+          "Total2012": 1409077,
+          "Female2012": 723040,
+          "Male2012": 686037
+        },
+        "total_value": 2818154,
+        "pct_values": {
+          "Total2012": 0.5,
+          "Female2012": 0.2566,
+          "Male2012": 0.2434
+        }
+      },
+      "40-44": {
+        "age_group": "40-44",
+        "values": {
+          "Total2012": 1359209,
+          "Female2012": 697586,
+          "Male2012": 661623
+        },
+        "total_value": 2718418,
+        "pct_values": {
+          "Total2012": 0.5,
+          "Female2012": 0.2566,
+          "Male2012": 0.2434
+        }
+      },
+      "45-49": {
+        "age_group": "45-49",
+        "values": {
+          "Total2012": 1285830,
+          "Female2012": 667690,
+          "Male2012": 618140
+        },
+        "total_value": 2571660,
+        "pct_values": {
+          "Total2012": 0.5,
+          "Female2012": 0.2596,
+          "Male2012": 0.2404
+        }
+      },
+      "50-54": {
+        "age_group": "50-54",
+        "values": {
+          "Total2012": 1219460,
+          "Female2012": 638167,
+          "Male2012": 581293
+        },
+        "total_value": 2438920,
+        "pct_values": {
+          "Total2012": 0.5,
+          "Female2012": 0.2617,
+          "Male2012": 0.2383
+        }
+      },
+      "55-59": {
+        "age_group": "55-59",
+        "values": {
+          "Total2012": 1064229,
+          "Female2012": 563358,
+          "Male2012": 500871
+        },
+        "total_value": 2128458,
+        "pct_values": {
+          "Total2012": 0.5,
+          "Female2012": 0.2647,
+          "Male2012": 0.2353
+        }
+      },
+      "60-64": {
+        "age_group": "60-64",
+        "values": {
+          "Total2012": 917910,
+          "Female2012": 492482,
+          "Male2012": 425428
+        },
+        "total_value": 1835820,
+        "pct_values": {
+          "Total2012": 0.5,
+          "Female2012": 0.2683,
+          "Male2012": 0.2317
+        }
+      },
+      "65-69": {
+        "age_group": "65-69",
+        "values": {
+          "Total2012": 633289,
+          "Female2012": 349525,
+          "Male2012": 283764
+        },
+        "total_value": 1266578,
+        "pct_values": {
+          "Total2012": 0.5,
+          "Female2012": 0.276,
+          "Male2012": 0.224
+        }
+      },
+      "70-74": {
+        "age_group": "70-74",
+        "values": {
+          "Total2012": 412414,
+          "Female2012": 230568,
+          "Male2012": 181846
+        },
+        "total_value": 824828,
+        "pct_values": {
+          "Total2012": 0.5,
+          "Female2012": 0.2795,
+          "Male2012": 0.2205
+        }
+      },
+      "75-79": {
+        "age_group": "75-79",
+        "values": {
+          "Total2012": 283186,
+          "Female2012": 166797,
+          "Male2012": 116389
+        },
+        "total_value": 566372,
+        "pct_values": {
+          "Total2012": 0.5,
+          "Female2012": 0.2945,
+          "Male2012": 0.2055
+        }
+      },
+      "80-84": {
+        "age_group": "80-84",
+        "values": {
+          "Total2012": 159379,
+          "Female2012": 95129,
+          "Male2012": 64250
+        },
+        "total_value": 318758,
+        "pct_values": {
+          "Total2012": 0.5,
+          "Female2012": 0.2984,
+          "Male2012": 0.2016
+        }
+      },
+      "85-89": {
+        "age_group": "85-89",
+        "values": {
+          "Total2012": 73441,
+          "Female2012": 45148,
+          "Male2012": 28293
+        },
+        "total_value": 146882,
+        "pct_values": {
+          "Total2012": 0.5,
+          "Female2012": 0.3074,
+          "Male2012": 0.1926
+        }
+      },
+      "90-94": {
+        "age_group": "90-94",
+        "values": {
+          "Total2012": 24258,
+          "Female2012": 14965,
+          "Male2012": 9293
+        },
+        "total_value": 48516,
+        "pct_values": {
+          "Total2012": 0.5,
+          "Female2012": 0.3085,
+          "Male2012": 0.1915
+        }
+      },
+      "95 and over": {
+        "age_group": "95 and over",
+        "values": {
+          "Total2012": 16696,
+          "Female2012": 10308,
+          "Male2012": 6388
+        },
+        "total_value": 33392,
+        "pct_values": {
+          "Total2012": 0.5,
+          "Female2012": 0.3087,
+          "Male2012": 0.1913
+        }
+      }
+    },
+    "2024": {
+      "Sri Lanka": {
+        "age_group": "Sri Lanka",
+        "values": {
+          "Total2024": 21781800,
+          "Female2024": 11269456,
+          "Male2024": 10512344
+        },
+        "total_value": 43563600,
+        "pct_values": {
+          "Total2024": 0.5,
+          "Female2024": 0.2587,
+          "Male2024": 0.2413
+        }
+      },
+      "00-04": {
+        "age_group": "00-04",
+        "values": {
+          "Total2024": 1215120,
+          "Male2024": 611081,
+          "Female2024": 604039
+        },
+        "total_value": 2430240,
+        "pct_values": {
+          "Total2024": 0.5,
+          "Male2024": 0.2514,
+          "Female2024": 0.2486
+        }
+      },
+      "05-09": {
+        "age_group": "05-09",
+        "values": {
+          "Total2024": 1556523,
+          "Male2024": 788544,
+          "Female2024": 767979
+        },
+        "total_value": 3113046,
+        "pct_values": {
+          "Total2024": 0.5,
+          "Male2024": 0.2533,
+          "Female2024": 0.2467
+        }
+      },
+      "10-14": {
+        "age_group": "10-14",
+        "values": {
+          "Total2024": 1735196,
+          "Male2024": 880905,
+          "Female2024": 854291
+        },
+        "total_value": 3470392,
+        "pct_values": {
+          "Total2024": 0.5,
+          "Male2024": 0.2538,
+          "Female2024": 0.2462
+        }
+      },
+      "15-19": {
+        "age_group": "15-19",
+        "values": {
+          "Total2024": 1795038,
+          "Male2024": 907739,
+          "Female2024": 887299
+        },
+        "total_value": 3590076,
+        "pct_values": {
+          "Total2024": 0.5,
+          "Male2024": 0.2528,
+          "Female2024": 0.2472
+        }
+      },
+      "20-24": {
+        "age_group": "20-24",
+        "values": {
+          "Total2024": 1608606,
+          "Female2024": 818391,
+          "Male2024": 790215
+        },
+        "total_value": 3217212,
+        "pct_values": {
+          "Total2024": 0.5,
+          "Female2024": 0.2544,
+          "Male2024": 0.2456
+        }
+      },
+      "25-29": {
+        "age_group": "25-29",
+        "values": {
+          "Total2024": 1372458,
+          "Female2024": 709707,
+          "Male2024": 662751
+        },
+        "total_value": 2744916,
+        "pct_values": {
+          "Total2024": 0.5,
+          "Female2024": 0.2586,
+          "Male2024": 0.2414
+        }
+      },
+      "30-34": {
+        "age_group": "30-34",
+        "values": {
+          "Total2024": 1414060,
+          "Female2024": 731492,
+          "Male2024": 682568
+        },
+        "total_value": 2828120,
+        "pct_values": {
+          "Total2024": 0.5,
+          "Female2024": 0.2586,
+          "Male2024": 0.2414
+        }
+      },
+      "35-39": {
+        "age_group": "35-39",
+        "values": {
+          "Total2024": 1452703,
+          "Female2024": 747574,
+          "Male2024": 705129
+        },
+        "total_value": 2905406,
+        "pct_values": {
+          "Total2024": 0.5,
+          "Female2024": 0.2573,
+          "Male2024": 0.2427
+        }
+      },
+      "40-44": {
+        "age_group": "40-44",
+        "values": {
+          "Total2024": 1602344,
+          "Female2024": 816417,
+          "Male2024": 785927
+        },
+        "total_value": 3204688,
+        "pct_values": {
+          "Total2024": 0.5,
+          "Female2024": 0.2548,
+          "Male2024": 0.2452
+        }
+      },
+      "45-49": {
+        "age_group": "45-49",
+        "values": {
+          "Total2024": 1490765,
+          "Female2024": 760326,
+          "Male2024": 730439
+        },
+        "total_value": 2981530,
+        "pct_values": {
+          "Total2024": 0.5,
+          "Female2024": 0.255,
+          "Male2024": 0.245
+        }
+      },
+      "50-54": {
+        "age_group": "50-54",
+        "values": {
+          "Total2024": 1341807,
+          "Female2024": 690721,
+          "Male2024": 651086
+        },
+        "total_value": 2683614,
+        "pct_values": {
+          "Total2024": 0.5,
+          "Female2024": 0.2574,
+          "Male2024": 0.2426
+        }
+      },
+      "55-59": {
+        "age_group": "55-59",
+        "values": {
+          "Total2024": 1276056,
+          "Female2024": 672631,
+          "Male2024": 603425
+        },
+        "total_value": 2552112,
+        "pct_values": {
+          "Total2024": 0.5,
+          "Female2024": 0.2636,
+          "Male2024": 0.2364
+        }
+      },
+      "60-64": {
+        "age_group": "60-64",
+        "values": {
+          "Total2024": 1183310,
+          "Female2024": 635165,
+          "Male2024": 548145
+        },
+        "total_value": 2366620,
+        "pct_values": {
+          "Total2024": 0.5,
+          "Female2024": 0.2684,
+          "Male2024": 0.2316
+        }
+      },
+      "65-69": {
+        "age_group": "65-69",
+        "values": {
+          "Total2024": 991814,
+          "Female2024": 544893,
+          "Male2024": 446921
+        },
+        "total_value": 1983628,
+        "pct_values": {
+          "Total2024": 0.5,
+          "Female2024": 0.2747,
+          "Male2024": 0.2253
+        }
+      },
+      "70-74": {
+        "age_group": "70-74",
+        "values": {
+          "Total2024": 795539,
+          "Female2024": 450902,
+          "Male2024": 344637
+        },
+        "total_value": 1591078,
+        "pct_values": {
+          "Total2024": 0.5,
+          "Female2024": 0.2834,
+          "Male2024": 0.2166
+        }
+      },
+      "75-79": {
+        "age_group": "75-79",
+        "values": {
+          "Total2024": 522990,
+          "Female2024": 308071,
+          "Male2024": 214919
+        },
+        "total_value": 1045980,
+        "pct_values": {
+          "Total2024": 0.5,
+          "Female2024": 0.2945,
+          "Male2024": 0.2055
+        }
+      },
+      "80-84": {
+        "age_group": "80-84",
+        "values": {
+          "Total2024": 268415,
+          "Female2024": 165555,
+          "Male2024": 102860
+        },
+        "total_value": 536830,
+        "pct_values": {
+          "Total2024": 0.5,
+          "Female2024": 0.3084,
+          "Male2024": 0.1916
+        }
+      },
+      "85-89": {
+        "age_group": "85-89",
+        "values": {
+          "Total2024": 111029,
+          "Female2024": 71282,
+          "Male2024": 39747
+        },
+        "total_value": 222058,
+        "pct_values": {
+          "Total2024": 0.5,
+          "Female2024": 0.321,
+          "Male2024": 0.179
+        }
+      },
+      "90-94": {
+        "age_group": "90-94",
+        "values": {
+          "Total2024": 39235,
+          "Female2024": 26615,
+          "Male2024": 12620
+        },
+        "total_value": 78470,
+        "pct_values": {
+          "Total2024": 0.5,
+          "Female2024": 0.3392,
+          "Male2024": 0.1608
+        }
+      },
+      "95 and over": {
+        "age_group": "95 and over",
+        "values": {
+          "Total2024": 8792,
+          "Female2024": 6106,
+          "Male2024": 2686
+        },
+        "total_value": 17584,
+        "pct_values": {
+          "Total2024": 0.5,
+          "Female2024": 0.3472,
+          "Male2024": 0.1528
+        }
+      }
+    }
+  }
+}
