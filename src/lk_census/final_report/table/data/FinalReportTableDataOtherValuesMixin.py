@@ -6,7 +6,15 @@ log = Log("FinalReportTableDataOtherValuesMixin")
 class FinalReportTableDataOtherValuesMixin:
 
     def _is_key_float(self, cell_key):
-        for keyword in ["avg", "rate", "ratio", "index", "median", "mean"]:
+        for keyword in [
+            "avg",
+            "rate",
+            "ratio",
+            "index",
+            "median",
+            "mean",
+            "deviation",
+        ]:
             if keyword in cell_key:
                 return True
         return False

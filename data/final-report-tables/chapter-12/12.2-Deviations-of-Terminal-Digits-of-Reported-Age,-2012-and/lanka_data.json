@@ -1,0 +1,198 @@
+{
+  "_meta": {
+    "source_url": "https://www.statistics.gov.lk/Resource/en/Population/CPH_2024/CPH2024_Final_Eng.pdf#page=219",
+    "source_description": "Table 12.2, Final Report, 2024 Census of Population and Housing, Department of Census and Statistics, Sri Lanka",
+    "what": {
+      "ReportedAgeTerminalDigitDeviation": "Deviations of Terminal Digits of Reported Age, 2012 and"
+    },
+    "when": [
+      "2012",
+      "2024"
+    ],
+    "where_who_types": [
+      "terminal_digit"
+    ]
+  },
+  "ReportedAgeTerminalDigitDeviation": {
+    "2012": {
+      "0": {
+        "terminal_digit": "0",
+        "values": {
+          "DeviationBothSexes": 0.2,
+          "DeviationMale": 0.2,
+          "DeviationFemale": 0.1
+        }
+      },
+      "1": {
+        "terminal_digit": "1",
+        "values": {
+          "DeviationMale": 0.2,
+          "DeviationBothSexes": 0.1,
+          "DeviationFemale": 0.1
+        }
+      },
+      "2": {
+        "terminal_digit": "2",
+        "values": {
+          "DeviationBothSexes": 0.2,
+          "DeviationMale": 0.2,
+          "DeviationFemale": 0.1
+        }
+      },
+      "3": {
+        "terminal_digit": "3",
+        "values": {
+          "DeviationBothSexes": -0.1,
+          "DeviationMale": -0.1,
+          "DeviationFemale": -0.1
+        }
+      },
+      "4": {
+        "terminal_digit": "4",
+        "values": {
+          "DeviationBothSexes": 0.0,
+          "DeviationMale": 0.0,
+          "DeviationFemale": 0.0
+        }
+      },
+      "5": {
+        "terminal_digit": "5",
+        "values": {
+          "DeviationBothSexes": -0.1,
+          "DeviationMale": -0.1,
+          "DeviationFemale": -0.1
+        }
+      },
+      "6": {
+        "terminal_digit": "6",
+        "values": {
+          "DeviationBothSexes": -0.3,
+          "DeviationMale": -0.3,
+          "DeviationFemale": -0.3
+        }
+      },
+      "7": {
+        "terminal_digit": "7",
+        "values": {
+          "DeviationBothSexes": 0.0,
+          "DeviationFemale": 0.0,
+          "DeviationMale": -0.1
+        }
+      },
+      "8": {
+        "terminal_digit": "8",
+        "values": {
+          "DeviationBothSexes": -0.2,
+          "DeviationMale": -0.2,
+          "DeviationFemale": -0.2
+        }
+      },
+      "9": {
+        "terminal_digit": "9",
+        "values": {
+          "DeviationBothSexes": 0.4,
+          "DeviationFemale": 0.4,
+          "DeviationMale": 0.3
+        }
+      },
+      "Myer's Index": {
+        "terminal_digit": "Myer's Index",
+        "values": {
+          "DeviationMale": 1.8,
+          "DeviationBothSexes": 1.7,
+          "DeviationFemale": 1.7
+        }
+      }
+    },
+    "2024": {
+      "0": {
+        "terminal_digit": "0",
+        "values": {
+          "DeviationFemale": -0.1,
+          "DeviationBothSexes": -0.2,
+          "DeviationMale": -0.2
+        }
+      },
+      "1": {
+        "terminal_digit": "1",
+        "values": {
+          "DeviationBothSexes": -0.1,
+          "DeviationMale": -0.1,
+          "DeviationFemale": -0.1
+        }
+      },
+      "2": {
+        "terminal_digit": "2",
+        "values": {
+          "DeviationFemale": 0.3,
+          "DeviationBothSexes": 0.2,
+          "DeviationMale": 0.2
+        }
+      },
+      "3": {
+        "terminal_digit": "3",
+        "values": {
+          "DeviationBothSexes": 0.1,
+          "DeviationMale": 0.1,
+          "DeviationFemale": 0.0
+        }
+      },
+      "4": {
+        "terminal_digit": "4",
+        "values": {
+          "DeviationBothSexes": 0.2,
+          "DeviationMale": 0.2,
+          "DeviationFemale": 0.2
+        }
+      },
+      "5": {
+        "terminal_digit": "5",
+        "values": {
+          "DeviationBothSexes": 0.0,
+          "DeviationMale": 0.0,
+          "DeviationFemale": 0.0
+        }
+      },
+      "6": {
+        "terminal_digit": "6",
+        "values": {
+          "DeviationBothSexes": 0.1,
+          "DeviationMale": 0.1,
+          "DeviationFemale": 0.1
+        }
+      },
+      "7": {
+        "terminal_digit": "7",
+        "values": {
+          "DeviationBothSexes": -0.1,
+          "DeviationMale": -0.1,
+          "DeviationFemale": -0.1
+        }
+      },
+      "8": {
+        "terminal_digit": "8",
+        "values": {
+          "DeviationBothSexes": -0.2,
+          "DeviationMale": -0.2,
+          "DeviationFemale": -0.2
+        }
+      },
+      "9": {
+        "terminal_digit": "9",
+        "values": {
+          "DeviationBothSexes": 0.0,
+          "DeviationMale": 0.0,
+          "DeviationFemale": -0.1
+        }
+      },
+      "Myer's Index": {
+        "terminal_digit": "Myer's Index",
+        "values": {
+          "DeviationBothSexes": 1.2,
+          "DeviationMale": 1.2,
+          "DeviationFemale": 1.1
+        }
+      }
+    }
+  }
+}

@@ -1,12 +1,12 @@
 {
   "primary_key": "terminal_digit",
   "other_keys": [
-    "both_sexes_2012_myers_index",
-    "male_2012_myers_index",
-    "female_2012_myers_index",
-    "both_sexes_2024_myers_index",
-    "male_2024_myers_index",
-    "female_2024_myers_index"
+    "deviation_both_sexes_2012",
+    "deviation_male_2012",
+    "deviation_female_2012",
+    "deviation_both_sexes_2024",
+    "deviation_male_2024",
+    "deviation_female_2024"
   ],
   "is_summable": false
 }
