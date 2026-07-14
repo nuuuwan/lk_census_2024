@@ -1,7 +1,7 @@
 # 🇱🇰 Sri Lanka - Census of Population and Housing 2024
 
 ![CPH](https://img.shields.io/badge/CPH-2024-blue)
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--07--14_14:12:39-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--07--14_14:15:20-green)
 
 **154** Datasets on Population, Housing and more, by Country, Province, District, Divisional Secretariat Division (DSD), Grama Niladhari Division (GND), Electoral District (ED), Polling Division (PD), and Local Government Authority (LG) levels.
 
@@ -2345,34 +2345,35 @@ years and over | Number | 20,566,680 | 3,613,813 | 11,299 | 16,131,086 | 810,482
 
 *Build Status (**4**/5) 🟡 Lanka data is missing*
 
-### Data Table (first 10 of 26 rows)
+### Data Table (first 10 of 57 rows)
 
-| Null | Difficulty In Seeing | Difficulty In Hearing | Difficulty In Walking Or Climbing Steps | Difficulty In Remembering Or Concentrating | Difficulty In Selfcare Such As Washing Or Dressing | Difficulty In Communicating With Others | No Disability | Total Value |
-| :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- |
-| Sri Lanka | 192578 | 130097 | 447969 | 167826 | 189292 | 112798 | 19326120 | 20566680 |
-| Colombo | 14104 | 9047 | 36504 | 14600 | 16175 | 9811 | 2171049 | 2271290 |
-| Gampaha | 18644 | 13115 | 47894 | 18425 | 19647 | 11712 | 2189753 | 2319190 |
-| Kalutara | 9481 | 6799 | 23755 | 10042 | 10463 | 6722 | 1172483 | 1239745 |
-| Kandy | 13417 | 9188 | 31825 | 11750 | 11875 | 7553 | 1296891 | 1382499 |
-| Matale | 5188 | 3644 | 12578 | 4415 | 4266 | 2744 | 464075 | 496910 |
-| Nuwara Eliya | 8845 | 4379 | 15715 | 5311 | 6415 | 3401 | 636365 | 680431 |
-| Galle | 9732 | 7556 | 22876 | 9813 | 10001 | 6727 | 972750 | 1039455 |
-| Matara | 8935 | 6519 | 20559 | 8317 | 8065 | 5307 | 735110 | 792812 |
-| Hambantota | 7631 | 4848 | 16678 | 6608 | 6351 | 4326 | 585177 | 631619 |
+| Region Id | Region Name | Region Ent Type | Difficulty In Seeing | Difficulty In Hearing | Difficulty In Walking Or Climbing Steps | Difficulty In Remembering Or Concentrating | Difficulty In Selfcare Such As Washing Or Dressing | Difficulty In Communicating With Others | Total Value |
+| :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- |
+| LK-11 | Colombo | district | 14104 | 9047 | 36504 | 14600 | 16175 | 9811 | 100241 |
+| LK-12 | Gampaha | district | 18644 | 13115 | 47894 | 18425 | 19647 | 11712 | 129437 |
+| LK-13 | Kalutara | district | 9481 | 6799 | 23755 | 10042 | 10463 | 6722 | 67262 |
+| LK-21 | Kandy | district | 13417 | 9188 | 31825 | 11750 | 11875 | 7553 | 85608 |
+| LK-22 | Matale | district | 5188 | 3644 | 12578 | 4415 | 4266 | 2744 | 32835 |
+| LK-23 | Nuwara Eliya | district | 8845 | 4379 | 15715 | 5311 | 6415 | 3401 | 44066 |
+| LK-31 | Galle | district | 9732 | 7556 | 22876 | 9813 | 10001 | 6727 | 66705 |
+| LK-32 | Matara | district | 8935 | 6519 | 20559 | 8317 | 8065 | 5307 | 57702 |
+| LK-33 | Hambantota | district | 7631 | 4848 | 16678 | 6608 | 6351 | 4326 | 46442 |
+| LK-41 | Jaffna | district | 4206 | 3785 | 10055 | 4005 | 7357 | 3406 | 32814 |
 
 ### Example Data Row (JSON)
 
 ```json
 {
-    "Null": "Sri Lanka",
-    "Difficulty In Seeing": 192578,
-    "Difficulty In Hearing": 130097,
-    "Difficulty In Walking Or Climbing Steps": 447969,
-    "Difficulty In Remembering Or Concentrating": 167826,
-    "Difficulty In Selfcare Such As Washing Or Dressing": 189292,
-    "Difficulty In Communicating With Others": 112798,
-    "No Disability": 19326120,
-    "Total Value": 20566680
+    "Region Id": "LK-11",
+    "Region Name": "Colombo",
+    "Region Ent Type": "district",
+    "Difficulty In Seeing": 14104,
+    "Difficulty In Hearing": 9047,
+    "Difficulty In Walking Or Climbing Steps": 36504,
+    "Difficulty In Remembering Or Concentrating": 14600,
+    "Difficulty In Selfcare Such As Washing Or Dressing": 16175,
+    "Difficulty In Communicating With Others": 9811,
+    "Total Value": 100241
 }
 ```
 

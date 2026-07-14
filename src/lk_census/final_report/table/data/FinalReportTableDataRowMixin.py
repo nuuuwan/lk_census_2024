@@ -45,7 +45,9 @@ class FinalReportTableDataRowMixin:
             return None
 
         if "\n" in raw_data[0]:
-            raw_data[0] = raw_data[0].replace("\n", " ")
+            parts = raw_data[0].split("\n", 1)
+            raw_data = [parts[0].strip(), parts[1].strip()] + raw_data[1:]
+
         if " " * 4 in raw_data[0]:
             words = raw_data[0].strip().split(" ")
             raw_data[0] = words[0].strip()

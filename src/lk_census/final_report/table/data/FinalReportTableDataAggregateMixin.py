@@ -26,7 +26,7 @@ class FinalReportTableDataAggregateMixin:
         return child_region.d[parent_id_key]
 
     def get_parent_ent_types(self):
-        ent_type = self.get_ent_type_for_primary_key()
+        ent_type = self._get_ent_type_for_primary_key()
         if ent_type == EntType.DISTRICT:
             return [EntType.COUNTRY, EntType.PROVINCE, EntType.ED]
         if ent_type == EntType.PROVINCE:
