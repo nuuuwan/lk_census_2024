@@ -14,7 +14,7 @@ class FinalReportTableBuildMixin:
         2: "🔴 Raw data is difficult to parse",
         3: "🟠 Data is missing",
         4: "🟡 Lanka data is missing",
-        5: "🟢 Complete",
+        5: "✅ All Stages Complete",
     }
 
     # flake8: noqa: C901
