@@ -1,0 +1,1041 @@
+{
+  "_meta": {
+    "source_url": "https://www.statistics.gov.lk/Resource/en/Population/CPH_2024/CPH2024_Final_Eng.pdf#page=106",
+    "source_description": [
+      "Table 6.1.5, Final Report, 2024 Census of Population and Housing, Department of Census and Statistics, Sri Lanka"
+    ],
+    "what": {
+      "PopulationBySexAndAgeOverOrBelow18": "Population Over and Below 18 Years of Age by Sector and District, 2024"
+    }
+  },
+  "PopulationBySexAndAgeOverOrBelow18": {
+    "2024": {
+      "LK-11": {
+        "region_id": "LK-11",
+        "region_name": "Colombo",
+        "region_ent_type": "district",
+        "values": {
+          "FemaleUnder18Years": 975630,
+          "MaleUnder18Years": 901956,
+          "MaleOver18Years": 252843,
+          "FemaleOver18Years": 244986
+        },
+        "total_value": 2375415,
+        "pct_values": {
+          "FemaleUnder18Years": 0.4107,
+          "MaleUnder18Years": 0.3797,
+          "MaleOver18Years": 0.1064,
+          "FemaleOver18Years": 0.1031
+        }
+      },
+      "LK-12": {
+        "region_id": "LK-12",
+        "region_name": "Gampaha",
+        "region_ent_type": "district",
+        "values": {
+          "FemaleUnder18Years": 989069,
+          "MaleUnder18Years": 896126,
+          "MaleOver18Years": 279343,
+          "FemaleOver18Years": 271604
+        },
+        "total_value": 2436142,
+        "pct_values": {
+          "FemaleUnder18Years": 0.406,
+          "MaleUnder18Years": 0.3678,
+          "MaleOver18Years": 0.1147,
+          "FemaleOver18Years": 0.1115
+        }
+      },
+      "LK-13": {
+        "region_id": "LK-13",
+        "region_name": "Kalutara",
+        "region_ent_type": "district",
+        "values": {
+          "FemaleUnder18Years": 517832,
+          "MaleUnder18Years": 470238,
+          "MaleOver18Years": 160868,
+          "FemaleOver18Years": 156846
+        },
+        "total_value": 1305784,
+        "pct_values": {
+          "FemaleUnder18Years": 0.3966,
+          "MaleUnder18Years": 0.3601,
+          "MaleOver18Years": 0.1232,
+          "FemaleOver18Years": 0.1201
+        }
+      },
+      "LK-21": {
+        "region_id": "LK-21",
+        "region_name": "Kandy",
+        "region_ent_type": "district",
+        "values": {
+          "FemaleUnder18Years": 576196,
+          "MaleUnder18Years": 502399,
+          "MaleOver18Years": 194314,
+          "FemaleOver18Years": 188986
+        },
+        "total_value": 1461895,
+        "pct_values": {
+          "FemaleUnder18Years": 0.3941,
+          "MaleUnder18Years": 0.3437,
+          "MaleOver18Years": 0.1329,
+          "FemaleOver18Years": 0.1293
+        }
+      },
+      "LK-22": {
+        "region_id": "LK-22",
+        "region_name": "Matale",
+        "region_ent_type": "district",
+        "values": {
+          "FemaleUnder18Years": 201883,
+          "MaleUnder18Years": 182841,
+          "MaleOver18Years": 72380,
+          "FemaleOver18Years": 69766
+        },
+        "total_value": 526870,
+        "pct_values": {
+          "FemaleUnder18Years": 0.3832,
+          "MaleUnder18Years": 0.347,
+          "MaleOver18Years": 0.1374,
+          "FemaleOver18Years": 0.1324
+        }
+      },
+      "LK-23": {
+        "region_id": "LK-23",
+        "region_name": "Nuwara Eliya",
+        "region_ent_type": "district",
+        "values": {
+          "FemaleUnder18Years": 274535,
+          "MaleUnder18Years": 241131,
+          "MaleOver18Years": 105340,
+          "FemaleOver18Years": 104274
+        },
+        "total_value": 725280,
+        "pct_values": {
+          "FemaleUnder18Years": 0.3785,
+          "MaleUnder18Years": 0.3325,
+          "MaleOver18Years": 0.1452,
+          "FemaleOver18Years": 0.1438
+        }
+      },
+      "LK-31": {
+        "region_id": "LK-31",
+        "region_name": "Galle",
+        "region_ent_type": "district",
+        "values": {
+          "FemaleUnder18Years": 434876,
+          "MaleUnder18Years": 388903,
+          "MaleOver18Years": 138737,
+          "FemaleOver18Years": 134856
+        },
+        "total_value": 1097372,
+        "pct_values": {
+          "FemaleUnder18Years": 0.3963,
+          "MaleUnder18Years": 0.3544,
+          "MaleOver18Years": 0.1264,
+          "FemaleOver18Years": 0.1229
+        }
+      },
+      "LK-32": {
+        "region_id": "LK-32",
+        "region_name": "Matara",
+        "region_ent_type": "district",
+        "values": {
+          "FemaleUnder18Years": 329614,
+          "MaleUnder18Years": 292611,
+          "MaleOver18Years": 109369,
+          "FemaleOver18Years": 106295
+        },
+        "total_value": 837889,
+        "pct_values": {
+          "FemaleUnder18Years": 0.3934,
+          "MaleUnder18Years": 0.3492,
+          "MaleOver18Years": 0.1305,
+          "FemaleOver18Years": 0.1269
+        }
+      },
+      "LK-33": {
+        "region_id": "LK-33",
+        "region_name": "Hambantota",
+        "region_ent_type": "district",
+        "values": {
+          "FemaleUnder18Years": 250673,
+          "MaleUnder18Years": 236075,
+          "MaleOver18Years": 93135,
+          "FemaleOver18Years": 91535
+        },
+        "total_value": 671418,
+        "pct_values": {
+          "FemaleUnder18Years": 0.3733,
+          "MaleUnder18Years": 0.3516,
+          "MaleOver18Years": 0.1387,
+          "FemaleOver18Years": 0.1363
+        }
+      },
+      "LK-41": {
+        "region_id": "LK-41",
+        "region_name": "Jaffna",
+        "region_ent_type": "district",
+        "values": {
+          "FemaleUnder18Years": 242664,
+          "MaleUnder18Years": 209299,
+          "MaleOver18Years": 72254,
+          "FemaleOver18Years": 70534
+        },
+        "total_value": 594751,
+        "pct_values": {
+          "FemaleUnder18Years": 0.408,
+          "MaleUnder18Years": 0.3519,
+          "MaleOver18Years": 0.1215,
+          "FemaleOver18Years": 0.1186
+        }
+      },
+      "LK-42": {
+        "region_id": "LK-42",
+        "region_name": "Mannar",
+        "region_ent_type": "district",
+        "values": {
+          "FemaleUnder18Years": 44568,
+          "MaleUnder18Years": 42263,
+          "MaleOver18Years": 18784,
+          "FemaleOver18Years": 18141
+        },
+        "total_value": 123756,
+        "pct_values": {
+          "FemaleUnder18Years": 0.3601,
+          "MaleUnder18Years": 0.3415,
+          "MaleOver18Years": 0.1518,
+          "FemaleOver18Years": 0.1466
+        }
+      },
+      "LK-43": {
+        "region_id": "LK-43",
+        "region_name": "Vavuniya",
+        "region_ent_type": "district",
+        "values": {
+          "FemaleUnder18Years": 66107,
+          "MaleUnder18Years": 58778,
+          "MaleOver18Years": 24053,
+          "FemaleOver18Years": 23374
+        },
+        "total_value": 172312,
+        "pct_values": {
+          "FemaleUnder18Years": 0.3836,
+          "MaleUnder18Years": 0.3411,
+          "MaleOver18Years": 0.1396,
+          "FemaleOver18Years": 0.1356
+        }
+      },
+      "LK-44": {
+        "region_id": "LK-44",
+        "region_name": "Mullaitivu",
+        "region_ent_type": "district",
+        "values": {
+          "FemaleUnder18Years": 45605,
+          "MaleUnder18Years": 41734,
+          "MaleOver18Years": 17984,
+          "FemaleOver18Years": 17296
+        },
+        "total_value": 122619,
+        "pct_values": {
+          "FemaleUnder18Years": 0.3719,
+          "MaleUnder18Years": 0.3404,
+          "MaleOver18Years": 0.1467,
+          "FemaleOver18Years": 0.1411
+        }
+      },
+      "LK-45": {
+        "region_id": "LK-45",
+        "region_name": "Kilinochchi",
+        "region_ent_type": "district",
+        "values": {
+          "FemaleUnder18Years": 51385,
+          "MaleUnder18Years": 46452,
+          "MaleOver18Years": 19672,
+          "FemaleOver18Years": 19201
+        },
+        "total_value": 136710,
+        "pct_values": {
+          "FemaleUnder18Years": 0.3759,
+          "MaleUnder18Years": 0.3398,
+          "MaleOver18Years": 0.1439,
+          "FemaleOver18Years": 0.1405
+        }
+      },
+      "LK-51": {
+        "region_id": "LK-51",
+        "region_name": "Batticaloa",
+        "region_ent_type": "district",
+        "values": {
+          "FemaleUnder18Years": 228497,
+          "MaleUnder18Years": 188134,
+          "MaleOver18Years": 90751,
+          "FemaleOver18Years": 88536
+        },
+        "total_value": 595918,
+        "pct_values": {
+          "FemaleUnder18Years": 0.3834,
+          "MaleUnder18Years": 0.3157,
+          "MaleOver18Years": 0.1523,
+          "FemaleOver18Years": 0.1486
+        }
+      },
+      "LK-52": {
+        "region_id": "LK-52",
+        "region_name": "Ampara",
+        "region_ent_type": "district",
+        "values": {
+          "FemaleUnder18Years": 276571,
+          "MaleUnder18Years": 236096,
+          "MaleOver18Years": 117922,
+          "FemaleOver18Years": 113962
+        },
+        "total_value": 744551,
+        "pct_values": {
+          "FemaleUnder18Years": 0.3715,
+          "MaleUnder18Years": 0.3171,
+          "MaleOver18Years": 0.1584,
+          "FemaleOver18Years": 0.1531
+        }
+      },
+      "LK-53": {
+        "region_id": "LK-53",
+        "region_name": "Trincomalee",
+        "region_ent_type": "district",
+        "values": {
+          "FemaleUnder18Years": 155363,
+          "MaleUnder18Years": 145067,
+          "MaleOver18Years": 72637,
+          "FemaleOver18Years": 69678
+        },
+        "total_value": 442745,
+        "pct_values": {
+          "FemaleUnder18Years": 0.3509,
+          "MaleUnder18Years": 0.3277,
+          "MaleOver18Years": 0.1641,
+          "FemaleOver18Years": 0.1574
+        }
+      },
+      "LK-61": {
+        "region_id": "LK-61",
+        "region_name": "Kurunegala",
+        "region_ent_type": "district",
+        "values": {
+          "FemaleUnder18Years": 696692,
+          "MaleUnder18Years": 618951,
+          "MaleOver18Years": 230121,
+          "FemaleOver18Years": 222392
+        },
+        "total_value": 1768156,
+        "pct_values": {
+          "FemaleUnder18Years": 0.394,
+          "MaleUnder18Years": 0.3501,
+          "MaleOver18Years": 0.1301,
+          "FemaleOver18Years": 0.1258
+        }
+      },
+      "LK-62": {
+        "region_id": "LK-62",
+        "region_name": "Puttalam",
+        "region_ent_type": "district",
+        "values": {
+          "FemaleUnder18Years": 310552,
+          "MaleUnder18Years": 278698,
+          "MaleOver18Years": 115546,
+          "FemaleOver18Years": 114020
+        },
+        "total_value": 818816,
+        "pct_values": {
+          "FemaleUnder18Years": 0.3793,
+          "MaleUnder18Years": 0.3404,
+          "MaleOver18Years": 0.1411,
+          "FemaleOver18Years": 0.1392
+        }
+      },
+      "LK-71": {
+        "region_id": "LK-71",
+        "region_name": "Anuradhapura",
+        "region_ent_type": "district",
+        "values": {
+          "FemaleUnder18Years": 359324,
+          "MaleUnder18Years": 329426,
+          "MaleOver18Years": 137145,
+          "FemaleOver18Years": 134185
+        },
+        "total_value": 960080,
+        "pct_values": {
+          "FemaleUnder18Years": 0.3743,
+          "MaleUnder18Years": 0.3431,
+          "MaleOver18Years": 0.1428,
+          "FemaleOver18Years": 0.1398
+        }
+      },
+      "LK-72": {
+        "region_id": "LK-72",
+        "region_name": "Polonnaruwa",
+        "region_ent_type": "district",
+        "values": {
+          "FemaleUnder18Years": 166341,
+          "MaleUnder18Years": 157312,
+          "MaleOver18Years": 62374,
+          "FemaleOver18Years": 61503
+        },
+        "total_value": 447530,
+        "pct_values": {
+          "FemaleUnder18Years": 0.3717,
+          "MaleUnder18Years": 0.3515,
+          "MaleOver18Years": 0.1394,
+          "FemaleOver18Years": 0.1374
+        }
+      },
+      "LK-81": {
+        "region_id": "LK-81",
+        "region_name": "Badulla",
+        "region_ent_type": "district",
+        "values": {
+          "FemaleUnder18Years": 334385,
+          "MaleUnder18Years": 305926,
+          "MaleOver18Years": 116892,
+          "FemaleOver18Years": 115104
+        },
+        "total_value": 872307,
+        "pct_values": {
+          "FemaleUnder18Years": 0.3833,
+          "MaleUnder18Years": 0.3507,
+          "MaleOver18Years": 0.134,
+          "FemaleOver18Years": 0.132
+        }
+      },
+      "LK-82": {
+        "region_id": "LK-82",
+        "region_name": "Monaragala",
+        "region_ent_type": "district",
+        "values": {
+          "FemaleUnder18Years": 191553,
+          "MaleUnder18Years": 185291,
+          "MaleOver18Years": 75636,
+          "FemaleOver18Years": 75105
+        },
+        "total_value": 527585,
+        "pct_values": {
+          "FemaleUnder18Years": 0.3631,
+          "MaleUnder18Years": 0.3512,
+          "MaleOver18Years": 0.1434,
+          "FemaleOver18Years": 0.1424
+        }
+      },
+      "LK-91": {
+        "region_id": "LK-91",
+        "region_name": "Ratnapura",
+        "region_ent_type": "district",
+        "values": {
+          "FemaleUnder18Years": 439831,
+          "MaleUnder18Years": 417080,
+          "MaleOver18Years": 145379,
+          "FemaleOver18Years": 143133
+        },
+        "total_value": 1145423,
+        "pct_values": {
+          "FemaleUnder18Years": 0.384,
+          "MaleUnder18Years": 0.3641,
+          "MaleOver18Years": 0.1269,
+          "FemaleOver18Years": 0.125
+        }
+      },
+      "LK-92": {
+        "region_id": "LK-92",
+        "region_name": "Kegalle",
+        "region_ent_type": "district",
+        "values": {
+          "FemaleUnder18Years": 348244,
+          "MaleUnder18Years": 307719,
+          "MaleOver18Years": 108359,
+          "FemaleOver18Years": 106154
+        },
+        "total_value": 870476,
+        "pct_values": {
+          "FemaleUnder18Years": 0.4001,
+          "MaleUnder18Years": 0.3535,
+          "MaleOver18Years": 0.1245,
+          "FemaleOver18Years": 0.1219
+        }
+      },
+      "LK": {
+        "region_id": "LK",
+        "region_name": "Sri Lanka",
+        "region_ent_type": "country",
+        "values": {
+          "FemaleUnder18Years": 8507990,
+          "MaleUnder18Years": 7680506,
+          "MaleOver18Years": 2831838,
+          "FemaleOver18Years": 2761466
+        },
+        "total_value": 21781800,
+        "pct_values": {
+          "FemaleUnder18Years": 0.3906,
+          "MaleUnder18Years": 0.3526,
+          "MaleOver18Years": 0.13,
+          "FemaleOver18Years": 0.1268
+        }
+      },
+      "LK-1": {
+        "region_id": "LK-1",
+        "region_name": "Western",
+        "region_ent_type": "province",
+        "values": {
+          "FemaleUnder18Years": 2482531,
+          "MaleUnder18Years": 2268320,
+          "MaleOver18Years": 693054,
+          "FemaleOver18Years": 673436
+        },
+        "total_value": 6117341,
+        "pct_values": {
+          "FemaleUnder18Years": 0.4058,
+          "MaleUnder18Years": 0.3708,
+          "MaleOver18Years": 0.1133,
+          "FemaleOver18Years": 0.1101
+        }
+      },
+      "LK-2": {
+        "region_id": "LK-2",
+        "region_name": "Central",
+        "region_ent_type": "province",
+        "values": {
+          "FemaleUnder18Years": 1052614,
+          "MaleUnder18Years": 926371,
+          "MaleOver18Years": 372034,
+          "FemaleOver18Years": 363026
+        },
+        "total_value": 2714045,
+        "pct_values": {
+          "FemaleUnder18Years": 0.3878,
+          "MaleUnder18Years": 0.3413,
+          "MaleOver18Years": 0.1371,
+          "FemaleOver18Years": 0.1338
+        }
+      },
+      "LK-3": {
+        "region_id": "LK-3",
+        "region_name": "Southern",
+        "region_ent_type": "province",
+        "values": {
+          "FemaleUnder18Years": 1015163,
+          "MaleUnder18Years": 917589,
+          "MaleOver18Years": 341241,
+          "FemaleOver18Years": 332686
+        },
+        "total_value": 2606679,
+        "pct_values": {
+          "FemaleUnder18Years": 0.3894,
+          "MaleUnder18Years": 0.352,
+          "MaleOver18Years": 0.1309,
+          "FemaleOver18Years": 0.1276
+        }
+      },
+      "LK-4": {
+        "region_id": "LK-4",
+        "region_name": "Northern",
+        "region_ent_type": "province",
+        "values": {
+          "FemaleUnder18Years": 450329,
+          "MaleUnder18Years": 398526,
+          "MaleOver18Years": 152747,
+          "FemaleOver18Years": 148546
+        },
+        "total_value": 1150148,
+        "pct_values": {
+          "FemaleUnder18Years": 0.3915,
+          "MaleUnder18Years": 0.3465,
+          "MaleOver18Years": 0.1328,
+          "FemaleOver18Years": 0.1292
+        }
+      },
+      "LK-5": {
+        "region_id": "LK-5",
+        "region_name": "Eastern",
+        "region_ent_type": "province",
+        "values": {
+          "FemaleUnder18Years": 660431,
+          "MaleUnder18Years": 569297,
+          "MaleOver18Years": 281310,
+          "FemaleOver18Years": 272176
+        },
+        "total_value": 1783214,
+        "pct_values": {
+          "FemaleUnder18Years": 0.3704,
+          "MaleUnder18Years": 0.3193,
+          "MaleOver18Years": 0.1578,
+          "FemaleOver18Years": 0.1526
+        }
+      },
+      "LK-6": {
+        "region_id": "LK-6",
+        "region_name": "North Western",
+        "region_ent_type": "province",
+        "values": {
+          "FemaleUnder18Years": 1007244,
+          "MaleUnder18Years": 897649,
+          "MaleOver18Years": 345667,
+          "FemaleOver18Years": 336412
+        },
+        "total_value": 2586972,
+        "pct_values": {
+          "FemaleUnder18Years": 0.3894,
+          "MaleUnder18Years": 0.347,
+          "MaleOver18Years": 0.1336,
+          "FemaleOver18Years": 0.13
+        }
+      },
+      "LK-7": {
+        "region_id": "LK-7",
+        "region_name": "North Central",
+        "region_ent_type": "province",
+        "values": {
+          "FemaleUnder18Years": 525665,
+          "MaleUnder18Years": 486738,
+          "MaleOver18Years": 199519,
+          "FemaleOver18Years": 195688
+        },
+        "total_value": 1407610,
+        "pct_values": {
+          "FemaleUnder18Years": 0.3734,
+          "MaleUnder18Years": 0.3458,
+          "MaleOver18Years": 0.1417,
+          "FemaleOver18Years": 0.139
+        }
+      },
+      "LK-8": {
+        "region_id": "LK-8",
+        "region_name": "Uva",
+        "region_ent_type": "province",
+        "values": {
+          "FemaleUnder18Years": 525938,
+          "MaleUnder18Years": 491217,
+          "MaleOver18Years": 192528,
+          "FemaleOver18Years": 190209
+        },
+        "total_value": 1399892,
+        "pct_values": {
+          "FemaleUnder18Years": 0.3757,
+          "MaleUnder18Years": 0.3509,
+          "MaleOver18Years": 0.1375,
+          "FemaleOver18Years": 0.1359
+        }
+      },
+      "LK-9": {
+        "region_id": "LK-9",
+        "region_name": "Sabaragamuwa",
+        "region_ent_type": "province",
+        "values": {
+          "FemaleUnder18Years": 788075,
+          "MaleUnder18Years": 724799,
+          "MaleOver18Years": 253738,
+          "FemaleOver18Years": 249287
+        },
+        "total_value": 2015899,
+        "pct_values": {
+          "FemaleUnder18Years": 0.3909,
+          "MaleUnder18Years": 0.3595,
+          "MaleOver18Years": 0.1259,
+          "FemaleOver18Years": 0.1237
+        }
+      },
+      "EC-01": {
+        "region_id": "EC-01",
+        "region_name": "Colombo",
+        "region_ent_type": "ed",
+        "values": {
+          "FemaleUnder18Years": 975630,
+          "MaleUnder18Years": 901956,
+          "MaleOver18Years": 252843,
+          "FemaleOver18Years": 244986
+        },
+        "total_value": 2375415,
+        "pct_values": {
+          "FemaleUnder18Years": 0.4107,
+          "MaleUnder18Years": 0.3797,
+          "MaleOver18Years": 0.1064,
+          "FemaleOver18Years": 0.1031
+        }
+      },
+      "EC-02": {
+        "region_id": "EC-02",
+        "region_name": "Gampaha",
+        "region_ent_type": "ed",
+        "values": {
+          "FemaleUnder18Years": 989069,
+          "MaleUnder18Years": 896126,
+          "MaleOver18Years": 279343,
+          "FemaleOver18Years": 271604
+        },
+        "total_value": 2436142,
+        "pct_values": {
+          "FemaleUnder18Years": 0.406,
+          "MaleUnder18Years": 0.3678,
+          "MaleOver18Years": 0.1147,
+          "FemaleOver18Years": 0.1115
+        }
+      },
+      "EC-03": {
+        "region_id": "EC-03",
+        "region_name": "Kalutara",
+        "region_ent_type": "ed",
+        "values": {
+          "FemaleUnder18Years": 517832,
+          "MaleUnder18Years": 470238,
+          "MaleOver18Years": 160868,
+          "FemaleOver18Years": 156846
+        },
+        "total_value": 1305784,
+        "pct_values": {
+          "FemaleUnder18Years": 0.3966,
+          "MaleUnder18Years": 0.3601,
+          "MaleOver18Years": 0.1232,
+          "FemaleOver18Years": 0.1201
+        }
+      },
+      "EC-04": {
+        "region_id": "EC-04",
+        "region_name": "Kandy",
+        "region_ent_type": "ed",
+        "values": {
+          "FemaleUnder18Years": 576196,
+          "MaleUnder18Years": 502399,
+          "MaleOver18Years": 194314,
+          "FemaleOver18Years": 188986
+        },
+        "total_value": 1461895,
+        "pct_values": {
+          "FemaleUnder18Years": 0.3941,
+          "MaleUnder18Years": 0.3437,
+          "MaleOver18Years": 0.1329,
+          "FemaleOver18Years": 0.1293
+        }
+      },
+      "EC-05": {
+        "region_id": "EC-05",
+        "region_name": "Matale",
+        "region_ent_type": "ed",
+        "values": {
+          "FemaleUnder18Years": 201883,
+          "MaleUnder18Years": 182841,
+          "MaleOver18Years": 72380,
+          "FemaleOver18Years": 69766
+        },
+        "total_value": 526870,
+        "pct_values": {
+          "FemaleUnder18Years": 0.3832,
+          "MaleUnder18Years": 0.347,
+          "MaleOver18Years": 0.1374,
+          "FemaleOver18Years": 0.1324
+        }
+      },
+      "EC-06": {
+        "region_id": "EC-06",
+        "region_name": "Nuwara-Eliya",
+        "region_ent_type": "ed",
+        "values": {
+          "FemaleUnder18Years": 274535,
+          "MaleUnder18Years": 241131,
+          "MaleOver18Years": 105340,
+          "FemaleOver18Years": 104274
+        },
+        "total_value": 725280,
+        "pct_values": {
+          "FemaleUnder18Years": 0.3785,
+          "MaleUnder18Years": 0.3325,
+          "MaleOver18Years": 0.1452,
+          "FemaleOver18Years": 0.1438
+        }
+      },
+      "EC-07": {
+        "region_id": "EC-07",
+        "region_name": "Galle",
+        "region_ent_type": "ed",
+        "values": {
+          "FemaleUnder18Years": 434876,
+          "MaleUnder18Years": 388903,
+          "MaleOver18Years": 138737,
+          "FemaleOver18Years": 134856
+        },
+        "total_value": 1097372,
+        "pct_values": {
+          "FemaleUnder18Years": 0.3963,
+          "MaleUnder18Years": 0.3544,
+          "MaleOver18Years": 0.1264,
+          "FemaleOver18Years": 0.1229
+        }
+      },
+      "EC-08": {
+        "region_id": "EC-08",
+        "region_name": "Matara",
+        "region_ent_type": "ed",
+        "values": {
+          "FemaleUnder18Years": 329614,
+          "MaleUnder18Years": 292611,
+          "MaleOver18Years": 109369,
+          "FemaleOver18Years": 106295
+        },
+        "total_value": 837889,
+        "pct_values": {
+          "FemaleUnder18Years": 0.3934,
+          "MaleUnder18Years": 0.3492,
+          "MaleOver18Years": 0.1305,
+          "FemaleOver18Years": 0.1269
+        }
+      },
+      "EC-09": {
+        "region_id": "EC-09",
+        "region_name": "Hambantota",
+        "region_ent_type": "ed",
+        "values": {
+          "FemaleUnder18Years": 250673,
+          "MaleUnder18Years": 236075,
+          "MaleOver18Years": 93135,
+          "FemaleOver18Years": 91535
+        },
+        "total_value": 671418,
+        "pct_values": {
+          "FemaleUnder18Years": 0.3733,
+          "MaleUnder18Years": 0.3516,
+          "MaleOver18Years": 0.1387,
+          "FemaleOver18Years": 0.1363
+        }
+      },
+      "EC-10": {
+        "region_id": "EC-10",
+        "region_name": "Jaffna",
+        "region_ent_type": "ed",
+        "values": {
+          "FemaleUnder18Years": 294049,
+          "MaleUnder18Years": 255751,
+          "MaleOver18Years": 91926,
+          "FemaleOver18Years": 89735
+        },
+        "total_value": 731461,
+        "pct_values": {
+          "FemaleUnder18Years": 0.402,
+          "MaleUnder18Years": 0.3496,
+          "MaleOver18Years": 0.1257,
+          "FemaleOver18Years": 0.1227
+        }
+      },
+      "EC-11": {
+        "region_id": "EC-11",
+        "region_name": "Vanni",
+        "region_ent_type": "ed",
+        "values": {
+          "FemaleUnder18Years": 156280,
+          "MaleUnder18Years": 142775,
+          "MaleOver18Years": 60821,
+          "FemaleOver18Years": 58811
+        },
+        "total_value": 418687,
+        "pct_values": {
+          "FemaleUnder18Years": 0.3733,
+          "MaleUnder18Years": 0.341,
+          "MaleOver18Years": 0.1453,
+          "FemaleOver18Years": 0.1405
+        }
+      },
+      "EC-12": {
+        "region_id": "EC-12",
+        "region_name": "Batticaloa",
+        "region_ent_type": "ed",
+        "values": {
+          "FemaleUnder18Years": 228497,
+          "MaleUnder18Years": 188134,
+          "MaleOver18Years": 90751,
+          "FemaleOver18Years": 88536
+        },
+        "total_value": 595918,
+        "pct_values": {
+          "FemaleUnder18Years": 0.3834,
+          "MaleUnder18Years": 0.3157,
+          "MaleOver18Years": 0.1523,
+          "FemaleOver18Years": 0.1486
+        }
+      },
+      "EC-13": {
+        "region_id": "EC-13",
+        "region_name": "Digamadulla",
+        "region_ent_type": "ed",
+        "values": {
+          "FemaleUnder18Years": 276571,
+          "MaleUnder18Years": 236096,
+          "MaleOver18Years": 117922,
+          "FemaleOver18Years": 113962
+        },
+        "total_value": 744551,
+        "pct_values": {
+          "FemaleUnder18Years": 0.3715,
+          "MaleUnder18Years": 0.3171,
+          "MaleOver18Years": 0.1584,
+          "FemaleOver18Years": 0.1531
+        }
+      },
+      "EC-14": {
+        "region_id": "EC-14",
+        "region_name": "Trincomalee",
+        "region_ent_type": "ed",
+        "values": {
+          "FemaleUnder18Years": 155363,
+          "MaleUnder18Years": 145067,
+          "MaleOver18Years": 72637,
+          "FemaleOver18Years": 69678
+        },
+        "total_value": 442745,
+        "pct_values": {
+          "FemaleUnder18Years": 0.3509,
+          "MaleUnder18Years": 0.3277,
+          "MaleOver18Years": 0.1641,
+          "FemaleOver18Years": 0.1574
+        }
+      },
+      "EC-15": {
+        "region_id": "EC-15",
+        "region_name": "Kurunegala",
+        "region_ent_type": "ed",
+        "values": {
+          "FemaleUnder18Years": 696692,
+          "MaleUnder18Years": 618951,
+          "MaleOver18Years": 230121,
+          "FemaleOver18Years": 222392
+        },
+        "total_value": 1768156,
+        "pct_values": {
+          "FemaleUnder18Years": 0.394,
+          "MaleUnder18Years": 0.3501,
+          "MaleOver18Years": 0.1301,
+          "FemaleOver18Years": 0.1258
+        }
+      },
+      "EC-16": {
+        "region_id": "EC-16",
+        "region_name": "Puttalam",
+        "region_ent_type": "ed",
+        "values": {
+          "FemaleUnder18Years": 310552,
+          "MaleUnder18Years": 278698,
+          "MaleOver18Years": 115546,
+          "FemaleOver18Years": 114020
+        },
+        "total_value": 818816,
+        "pct_values": {
+          "FemaleUnder18Years": 0.3793,
+          "MaleUnder18Years": 0.3404,
+          "MaleOver18Years": 0.1411,
+          "FemaleOver18Years": 0.1392
+        }
+      },
+      "EC-17": {
+        "region_id": "EC-17",
+        "region_name": "Anuradhapura",
+        "region_ent_type": "ed",
+        "values": {
+          "FemaleUnder18Years": 359324,
+          "MaleUnder18Years": 329426,
+          "MaleOver18Years": 137145,
+          "FemaleOver18Years": 134185
+        },
+        "total_value": 960080,
+        "pct_values": {
+          "FemaleUnder18Years": 0.3743,
+          "MaleUnder18Years": 0.3431,
+          "MaleOver18Years": 0.1428,
+          "FemaleOver18Years": 0.1398
+        }
+      },
+      "EC-18": {
+        "region_id": "EC-18",
+        "region_name": "Polonnaruwa",
+        "region_ent_type": "ed",
+        "values": {
+          "FemaleUnder18Years": 166341,
+          "MaleUnder18Years": 157312,
+          "MaleOver18Years": 62374,
+          "FemaleOver18Years": 61503
+        },
+        "total_value": 447530,
+        "pct_values": {
+          "FemaleUnder18Years": 0.3717,
+          "MaleUnder18Years": 0.3515,
+          "MaleOver18Years": 0.1394,
+          "FemaleOver18Years": 0.1374
+        }
+      },
+      "EC-19": {
+        "region_id": "EC-19",
+        "region_name": "Badulla",
+        "region_ent_type": "ed",
+        "values": {
+          "FemaleUnder18Years": 334385,
+          "MaleUnder18Years": 305926,
+          "MaleOver18Years": 116892,
+          "FemaleOver18Years": 115104
+        },
+        "total_value": 872307,
+        "pct_values": {
+          "FemaleUnder18Years": 0.3833,
+          "MaleUnder18Years": 0.3507,
+          "MaleOver18Years": 0.134,
+          "FemaleOver18Years": 0.132
+        }
+      },
+      "EC-20": {
+        "region_id": "EC-20",
+        "region_name": "Moneragala",
+        "region_ent_type": "ed",
+        "values": {
+          "FemaleUnder18Years": 191553,
+          "MaleUnder18Years": 185291,
+          "MaleOver18Years": 75636,
+          "FemaleOver18Years": 75105
+        },
+        "total_value": 527585,
+        "pct_values": {
+          "FemaleUnder18Years": 0.3631,
+          "MaleUnder18Years": 0.3512,
+          "MaleOver18Years": 0.1434,
+          "FemaleOver18Years": 0.1424
+        }
+      },
+      "EC-21": {
+        "region_id": "EC-21",
+        "region_name": "Ratnapura",
+        "region_ent_type": "ed",
+        "values": {
+          "FemaleUnder18Years": 439831,
+          "MaleUnder18Years": 417080,
+          "MaleOver18Years": 145379,
+          "FemaleOver18Years": 143133
+        },
+        "total_value": 1145423,
+        "pct_values": {
+          "FemaleUnder18Years": 0.384,
+          "MaleUnder18Years": 0.3641,
+          "MaleOver18Years": 0.1269,
+          "FemaleOver18Years": 0.125
+        }
+      },
+      "EC-22": {
+        "region_id": "EC-22",
+        "region_name": "Kegalle",
+        "region_ent_type": "ed",
+        "values": {
+          "FemaleUnder18Years": 348244,
+          "MaleUnder18Years": 307719,
+          "MaleOver18Years": 108359,
+          "FemaleOver18Years": 106154
+        },
+        "total_value": 870476,
+        "pct_values": {
+          "FemaleUnder18Years": 0.4001,
+          "MaleUnder18Years": 0.3535,
+          "MaleOver18Years": 0.1245,
+          "FemaleOver18Years": 0.1219
+        }
+      }
+    }
+  }
+}

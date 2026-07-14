@@ -1,7 +1,7 @@
 # 🇱🇰 Sri Lanka - Census of Population and Housing 2024
 
 ![CPH](https://img.shields.io/badge/CPH-2024-blue)
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--07--14_11:34:42-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--07--14_11:37:00-green)
 
 **154** Datasets on Population, Housing and more, by Country, Province, District, Divisional Secretariat Division (DSD), Grama Niladhari Division (GND), Electoral District (ED), Polling Division (PD), and Local Government Authority (LG) levels.
 
@@ -614,8 +614,8 @@
 | status | status_label | n |
 | :-- | :-- | --: |
 | 2 | 🔴 Raw data is difficult to parse | 21 |
-| 4 | 🟡 Lanka data is missing | 111 |
-| 5 | ✅ All Stages Complete | 10 |
+| 4 | 🟡 Lanka data is missing | 110 |
+| 5 | ✅ All Stages Complete | 11 |
 
 ## 13. [Officers who have  Assigned for Census of Population and Housing 2024 Activities](data/final-report-tables/chapter-1/1.1.1-Officers-who-have--Assigned-for-Census-of-Population-and-Housing-2024-Activities)
 
@@ -1729,36 +1729,42 @@ member’s need |  |  | Other |  |
 
 ## 42. [Population Over and Below 18 Years of Age by Sector and District, 2024](data/final-report-tables/chapter-6/6.1.5-Population-Over-and-Below-18-Years-of-Age-by-Sector-and-District,-2024)
 
-*Build Status (**4**/5) 🟡 Lanka data is missing*
+*Build Status (**5**/5) ✅ All Stages Complete*
 
-### Data Table (first 10 of 57 rows)
-
-| Region Id | Region Name | Region Ent Type | Male Over 18 Years | Male Under 18 Years | Female Over 18 Years | Female Under 18 Years | Total Value |
-| :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- |
-| LK-11 | Colombo | district | 252843 | 901956 | 244986 | 975630 | 2375415 |
-| LK-12 | Gampaha | district | 279343 | 896126 | 271604 | 989069 | 2436142 |
-| LK-13 | Kalutara | district | 160868 | 470238 | 156846 | 517832 | 1305784 |
-| LK-21 | Kandy | district | 194314 | 502399 | 188986 | 576196 | 1461895 |
-| LK-22 | Matale | district | 72380 | 182841 | 69766 | 201883 | 526870 |
-| LK-23 | Nuwara Eliya | district | 105340 | 241131 | 104274 | 274535 | 725280 |
-| LK-31 | Galle | district | 138737 | 388903 | 134856 | 434876 | 1097372 |
-| LK-32 | Matara | district | 109369 | 292611 | 106295 | 329614 | 837889 |
-| LK-33 | Hambantota | district | 93135 | 236075 | 91535 | 250673 | 671418 |
-| LK-41 | Jaffna | district | 72254 | 209299 | 70534 | 242664 | 594751 |
-
-### Example Data Row (JSON)
+### Lanka Data (first 30 of 1041 lines)
 
 ```json
 {
-    "Region Id": "LK-11",
-    "Region Name": "Colombo",
-    "Region Ent Type": "district",
-    "Male Over 18 Years": 252843,
-    "Male Under 18 Years": 901956,
-    "Female Over 18 Years": 244986,
-    "Female Under 18 Years": 975630,
-    "Total Value": 2375415
-}
+    "_meta": {
+        "source_url": "https://www.statistics.gov.lk/Resource/en/Population/CPH_2024/CPH2024_Final_Eng.pdf#page=106",
+        "source_description": [
+            "Table 6.1.5, Final Report, 2024 Census of Population and Housing, Department of Census and Statistics, Sri Lanka"
+        ],
+        "what": {
+            "PopulationBySexAndAgeOverOrBelow18": "Population Over and Below 18 Years of Age by Sector and District, 2024"
+        }
+    },
+    "PopulationBySexAndAgeOverOrBelow18": {
+        "2024": {
+            "LK-11": {
+                "region_id": "LK-11",
+                "region_name": "Colombo",
+                "region_ent_type": "district",
+                "values": {
+                    "FemaleUnder18Years": 975630,
+                    "MaleUnder18Years": 901956,
+                    "MaleOver18Years": 252843,
+                    "FemaleOver18Years": 244986
+                },
+                "total_value": 2375415,
+                "pct_values": {
+                    "FemaleUnder18Years": 0.4107,
+                    "MaleUnder18Years": 0.3797,
+                    "MaleOver18Years": 0.1064,
+                    "FemaleOver18Years": 0.1031
+                }
+            },
+...
 ```
 
 ### Source
