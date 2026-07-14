@@ -71,7 +71,7 @@ class FinalReportLankaDataMixin(FinalReportLankaMetaDataMixin):
             return False
         return True
 
-    def build_lanka_data_for_regions(self):
+    def get_lanka_data_for_regions(self):
 
         where_types = list(
             set([data["region_ent_type"] for data in self.data_list])
@@ -92,16 +92,11 @@ class FinalReportLankaDataMixin(FinalReportLankaMetaDataMixin):
 
         lanka_data = dict(_meta=_meta)
         lanka_data[self.what_label] = {self.when_label: idx}
-        self.lanka_data_file.write(lanka_data)
-        log.info(f"Wrote {self.lanka_data_file}")
         return lanka_data
 
     def build_lanka_data(self, force=False):
         if not force and self.lanka_data_file.exists:
             return self.lanka_data_file.read()
-
-        if not self.is_admin_region_dataset:
-            return None
 
         if not self.is_lanka_data_parser_implemented:
             return None
@@ -109,7 +104,14 @@ class FinalReportLankaDataMixin(FinalReportLankaMetaDataMixin):
         if not self.is_lanka_data_metadata_complete:
             return None
 
-        return self.build_lanka_data_for_regions()
+        if self.is_admin_region_dataset:
+            lanka_data = self.get_lanka_data_for_regions()
+        else:
+            return None
+
+        self.lanka_data_file.write(lanka_data)
+        log.info(f"Wrote {self.lanka_data_file}")
+        return lanka_data
 
     @property
     def lanka_data(self):
