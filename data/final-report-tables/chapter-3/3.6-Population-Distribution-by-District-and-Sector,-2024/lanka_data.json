@@ -8,12 +8,7 @@
       "Sector": "Population Distribution by District and Sector, 2024"
     },
     "when": "2024",
-    "where_types": [
-      "province",
-      "district",
-      "country",
-      "ed"
-    ]
+    "where_who_types": ["province", "district", "country", "ed"]
   },
   "Sector": {
     "2024": {

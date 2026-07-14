@@ -8,12 +8,7 @@
       "AdministrativeStructure": "Administrative Structure by District, 2024"
     },
     "when": "2024",
-    "where_types": [
-      "province",
-      "district",
-      "country",
-      "ed"
-    ]
+    "where_who_types": ["province", "district", "country", "ed"]
   },
   "AdministrativeStructure": {
     "2024": {

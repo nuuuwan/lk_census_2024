@@ -117,21 +117,21 @@ class FinalReportLankaDataMixin(FinalReportLankaMetaDataMixin):
 
         return True
 
-    def _get_meta(self, where_types):
+    def _get_meta(self, where_who_types):
         return dict(
             source_url=self.source_url,
             source_description=self.source_description,
             what={self.what_label: Parse.str(self.table_name)},
             when=self.when_label,
-            where_types=where_types,
+            where_who_types=where_who_types,
         )
 
     def get_lanka_data_for_regions(self):
 
-        where_types = list(
+        where_who_types = list(
             set([data["region_ent_type"] for data in self.data_list])
         )
-        _meta = self._get_meta(where_types)
+        _meta = self._get_meta(where_who_types)
 
         idx = {}
         for data in self.data_list:
@@ -143,7 +143,7 @@ class FinalReportLankaDataMixin(FinalReportLankaMetaDataMixin):
         lanka_data[self.what_label] = {self.when_label: idx}
         return lanka_data
 
-    def _get_where_types(self):
+    def _get_where_who_types(self):
 
         if self.is_admin_region_dataset:
             return list(
@@ -155,8 +155,8 @@ class FinalReportLankaDataMixin(FinalReportLankaMetaDataMixin):
         return [where_type]
 
     def _get_lanka_data(self):
-        where_types = self._get_where_types()
-        _meta = self._get_meta(where_types)
+        where_who_types = self._get_where_who_types()
+        _meta = self._get_meta(where_who_types)
         first_key = list(self.data_list[0].keys())[0]
 
         idx = {}

@@ -8,12 +8,7 @@
       "AdministrativeStructure": "Administrative Structure by District, 2012"
     },
     "when": "2012",
-    "where_types": [
-      "ed",
-      "province",
-      "country",
-      "district"
-    ]
+    "where_who_types": ["ed", "province", "country", "district"]
   },
   "AdministrativeStructure": {
     "2012": {

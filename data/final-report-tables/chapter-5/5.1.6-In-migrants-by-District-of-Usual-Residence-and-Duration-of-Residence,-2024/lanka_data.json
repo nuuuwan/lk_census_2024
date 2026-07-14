@@ -8,12 +8,7 @@
       "MigrantsResidenceDuration": "In-migrants by District of Usual Residence and Duration of Residence, 2024"
     },
     "when": "2024",
-    "where_types": [
-      "province",
-      "district",
-      "country",
-      "ed"
-    ]
+    "where_who_types": ["province", "district", "country", "ed"]
   },
   "MigrantsResidenceDuration": {
     "2024": {

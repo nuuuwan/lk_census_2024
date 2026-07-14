@@ -8,12 +8,7 @@
       "CensusOfficers": "Officers who have Assigned for Census of Population and Housing 2024 Activities"
     },
     "when": "2024",
-    "where_types": [
-      "ed",
-      "district",
-      "country",
-      "province"
-    ]
+    "where_who_types": ["ed", "district", "country", "province"]
   },
   "CensusOfficers": {
     "2024": {

@@ -8,9 +8,7 @@
       "MigrantsLifetime": "Lifetime Migrants by District of Dirth and District of Usual Residence,"
     },
     "when": "2024",
-    "where_types": [
-      "district"
-    ]
+    "where_who_types": ["district"]
   },
   "MigrantsLifetime": {
     "2024": {

@@ -8,9 +8,7 @@
       "ResidenceDistrictOrOtherDistrict": "Distribution of the Usually Resident Population of a District by their Permanent Residence, 2024"
     },
     "when": "2024",
-    "where_types": [
-      "district"
-    ]
+    "where_who_types": ["district"]
   },
   "ResidenceDistrictOrOtherDistrict": {
     "2024": {

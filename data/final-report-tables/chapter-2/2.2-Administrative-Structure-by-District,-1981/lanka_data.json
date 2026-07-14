@@ -8,12 +8,7 @@
       "AdministrativeStructure": "Administrative Structure by District, 1981"
     },
     "when": "1981",
-    "where_types": [
-      "province",
-      "country",
-      "district",
-      "ed"
-    ]
+    "where_who_types": ["province", "country", "district", "ed"]
   },
   "AdministrativeStructure": {
     "1981": {

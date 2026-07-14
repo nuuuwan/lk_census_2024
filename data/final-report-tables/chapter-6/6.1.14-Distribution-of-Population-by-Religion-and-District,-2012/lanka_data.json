@@ -8,12 +8,7 @@
       "Religion": "Distribution of Population by Religion and District, 2012"
     },
     "when": "2024",
-    "where_types": [
-      "district",
-      "country",
-      "ed",
-      "province"
-    ]
+    "where_who_types": ["district", "country", "ed", "province"]
   },
   "Religion": {
     "2024": {

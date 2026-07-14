@@ -8,9 +8,7 @@
       "LanguageLiteracy": "Language Literacy Rate by Language and District, 2024"
     },
     "when": "2024",
-    "where_types": [
-      "district"
-    ]
+    "where_who_types": ["district"]
   },
   "LanguageLiteracy": {
     "2024": {

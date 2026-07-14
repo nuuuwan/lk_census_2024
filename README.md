@@ -1,7 +1,7 @@
 # 🇱🇰 Sri Lanka - Census of Population and Housing 2024
 
 ![CPH](https://img.shields.io/badge/CPH-2024-blue)
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--07--14_12:50:37-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--07--14_12:51:37-green)
 
 **154** Datasets on Population, Housing and more, by Country, Province, District, Divisional Secretariat Division (DSD), Grama Niladhari Division (GND), Electoral District (ED), Polling Division (PD), and Local Government Authority (LG) levels.
 
@@ -614,8 +614,8 @@
 | status | status_label | n |
 | :-- | :-- | --: |
 | 2 | 🔴 Raw data is difficult to parse | 21 |
-| 4 | 🟡 Lanka data is missing | 110 |
-| 5 | ✅ All Stages Complete | 11 |
+| 4 | 🟡 Lanka data is missing | 107 |
+| 5 | ✅ All Stages Complete | 14 |
 
 ## 13. [Officers who have  Assigned for Census of Population and Housing 2024 Activities](data/final-report-tables/chapter-1/1.1.1-Officers-who-have--Assigned-for-Census-of-Population-and-Housing-2024-Activities)
 
@@ -634,7 +634,7 @@
             "CensusOfficers": "Officers who have Assigned for Census of Population and Housing 2024 Activities"
         },
         "when": "2024",
-        "where_types": [
+        "where_who_types": [
             "ed",
             "district",
             "country",
@@ -772,7 +772,7 @@
             "AdministrativeStructure": "Administrative Structure by District, 1981"
         },
         "when": "1981",
-        "where_types": [
+        "where_who_types": [
             "province",
             "country",
             "district",
@@ -816,7 +816,7 @@
             "AdministrativeStructure": "Administrative Structure by District, 2012"
         },
         "when": "2012",
-        "where_types": [
+        "where_who_types": [
             "ed",
             "province",
             "country",
@@ -860,7 +860,7 @@
             "AdministrativeStructure": "Administrative Structure by District, 2024"
         },
         "when": "2024",
-        "where_types": [
+        "where_who_types": [
             "province",
             "district",
             "country",
@@ -904,7 +904,7 @@
             "PopulationByCensusDate": "Total Population, Intercensal Increase and Average Annual Growth Rate by Census Year, 1871 - 2024"
         },
         "when": "2024",
-        "where_types": [
+        "where_who_types": [
             "census_date"
         ]
     },
@@ -1084,7 +1084,7 @@
             "Sector": "Population Distribution by District and Sector, 2024"
         },
         "when": "2024",
-        "where_types": [
+        "where_who_types": [
             "province",
             "district",
             "country",
@@ -1128,7 +1128,7 @@
             "MigrantsLifetime": "Lifetime Migrants by District of Dirth and District of Usual Residence,"
         },
         "when": "2024",
-        "where_types": [
+        "where_who_types": [
             "district"
         ]
     },
@@ -1322,7 +1322,7 @@
             "MigrantsResidenceDuration": "In-migrants by District of Usual Residence and Duration of Residence, 2024"
         },
         "when": "2024",
-        "where_types": [
+        "where_who_types": [
             "province",
             "district",
             "country",
@@ -1409,7 +1409,7 @@
             "ResidenceDistrictOrOtherDistrict": "Distribution of the Usually Resident Population of a District by their Permanent Residence, 2024"
         },
         "when": "2024",
-        "where_types": [
+        "where_who_types": [
             "district"
         ]
     },
@@ -1438,34 +1438,42 @@
 
 ## 33. [Population Temporarily Living Abroad by District and Sex, 2024](data/final-report-tables/chapter-5/5.2.1-Population-Temporarily-Living-Abroad-by-District-and-Sex,-2024)
 
-*Build Status (**4**/5) 🟡 Lanka data is missing*
+*Build Status (**5**/5) ✅ All Stages Complete*
 
-### Data Table (first 10 of 57 rows)
-
-| Region Id | Region Name | Region Ent Type | Male | Female | Total Value |
-| :-- | :-- | :-- | :-- | :-- | :-- |
-| LK-11 | Colombo | district | 43531 | 27908 | 71439 |
-| LK-12 | Gampaha | district | 54734 | 31343 | 86077 |
-| LK-13 | Kalutara | district | 25238 | 16114 | 41352 |
-| LK-21 | Kandy | district | 35518 | 21712 | 57230 |
-| LK-22 | Matale | district | 10682 | 9382 | 20064 |
-| LK-23 | Nuwara Eliya | district | 6158 | 10755 | 16913 |
-| LK-31 | Galle | district | 25283 | 15061 | 40344 |
-| LK-32 | Matara | district | 14822 | 6498 | 21320 |
-| LK-33 | Hambantota | district | 9432 | 4799 | 14231 |
-| LK-41 | Jaffna | district | 8091 | 1334 | 9425 |
-
-### Example Data Row (JSON)
+### Lanka Data (first 30 of 820 lines)
 
 ```json
 {
-    "Region Id": "LK-11",
-    "Region Name": "Colombo",
-    "Region Ent Type": "district",
-    "Male": 43531,
-    "Female": 27908,
-    "Total Value": 71439
-}
+    "_meta": {
+        "source_url": "https://www.statistics.gov.lk/Resource/en/Population/CPH_2024/CPH2024_Final_Eng.pdf#page=95",
+        "source_description": [
+            "Table 5.2.1, Final Report, 2024 Census of Population and Housing, Department of Census and Statistics, Sri Lanka"
+        ],
+        "what": {
+            "PopulationAbroadBySex": "Population Temporarily Living Abroad by District and Sex, 2024"
+        },
+        "when": "2024",
+        "where_who_types": [
+            "district",
+            "country",
+            "province",
+            "ed"
+        ]
+    },
+    "PopulationAbroadBySex": {
+        "2024": {
+            "LK-11": {
+                "region_id": "LK-11",
+                "region_name": "Colombo",
+                "region_ent_type": "district",
+                "values": {
+                    "Male": 43531,
+                    "Female": 27908
+                },
+                "total_value": 71439,
+                "pct_values": {
+                    "Male": 0.6093,
+...
 ```
 
 ### Source
@@ -1497,36 +1505,42 @@
 
 ## 35. [Population Temporarily Living Abroad by District and Main Reason for Living in Abroad, 2024](data/final-report-tables/chapter-5/5.2.3-Population-Temporarily-Living-Abroad-by-District-and-Main-Reason-for-Living-in-Abroad,-2024)
 
-*Build Status (**4**/5) 🟡 Lanka data is missing*
+*Build Status (**5**/5) ✅ All Stages Complete*
 
-### Data Table (first 10 of 57 rows)
-
-| Region Id | Region Name | Region Ent Type | Employment | Education | Accompanying Family Member In Need | Other | Total Value |
-| :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- |
-| LK-11 | Colombo | district | 51449 | 12339 | 7230 | 421 | 71439 |
-| LK-12 | Gampaha | district | 67844 | 10894 | 7028 | 311 | 86077 |
-| LK-13 | Kalutara | district | 34819 | 3953 | 2469 | 111 | 41352 |
-| LK-21 | Kandy | district | 48904 | 4242 | 3891 | 193 | 57230 |
-| LK-22 | Matale | district | 18526 | 755 | 730 | 53 | 20064 |
-| LK-23 | Nuwara Eliya | district | 15895 | 402 | 572 | 44 | 16913 |
-| LK-31 | Galle | district | 35722 | 2954 | 1555 | 113 | 40344 |
-| LK-32 | Matara | district | 18282 | 2145 | 840 | 53 | 21320 |
-| LK-33 | Hambantota | district | 12606 | 1184 | 408 | 33 | 14231 |
-| LK-41 | Jaffna | district | 7653 | 877 | 589 | 306 | 9425 |
-
-### Example Data Row (JSON)
+### Lanka Data (first 30 of 1048 lines)
 
 ```json
 {
-    "Region Id": "LK-11",
-    "Region Name": "Colombo",
-    "Region Ent Type": "district",
-    "Employment": 51449,
-    "Education": 12339,
-    "Accompanying Family Member In Need": 7230,
-    "Other": 421,
-    "Total Value": 71439
-}
+    "_meta": {
+        "source_url": "https://www.statistics.gov.lk/Resource/en/Population/CPH_2024/CPH2024_Final_Eng.pdf#page=97",
+        "source_description": [
+            "Table 5.2.3, Final Report, 2024 Census of Population and Housing, Department of Census and Statistics, Sri Lanka"
+        ],
+        "what": {
+            "PopulationAbroadByReason": "Population Temporarily Living Abroad by District and Main Reason for Living in Abroad, 2024"
+        },
+        "when": "2024",
+        "where_who_types": [
+            "district",
+            "ed",
+            "province",
+            "country"
+        ]
+    },
+    "PopulationAbroadByReason": {
+        "2024": {
+            "LK-11": {
+                "region_id": "LK-11",
+                "region_name": "Colombo",
+                "region_ent_type": "district",
+                "values": {
+                    "Employment": 51449,
+                    "Education": 12339,
+                    "AccompanyingFamilyMemberInNeed": 7230,
+                    "Other": 421
+                },
+                "total_value": 71439,
+...
 ```
 
 ### Source
@@ -1535,29 +1549,42 @@
 
 ## 36. [Population Temporarily Living Abroad by Main Reason for Living Abroad and Age Group, 2024](data/final-report-tables/chapter-5/5.2.4-Population-Temporarily-Living-Abroad-by-Main-Reason-for-Living-Abroad-and-Age-Group,-2024)
 
-*Build Status (**4**/5) 🟡 Lanka data is missing*
+*Build Status (**5**/5) ✅ All Stages Complete*
 
-### Data Table
-
-| Age | Employment | Education | Accompanying Family Member In Need | Other | Total Value |
-| :-- | :-- | :-- | :-- | :-- | :-- |
-| Total | 577919 | 53621 | 38218 | 2491 | 672249 |
-| Less than 18 | 0 | 1486 | 17862 | 35 | 19383 |
-| 18 - 29 | 142256 | 38053 | 6348 | 716 | 187373 |
-| 30 - 59 | 423249 | 14042 | 10530 | 1548 | 449369 |
-| 60 & over | 12414 | 40 | 3478 | 192 | 16124 |
-
-### Example Data Row (JSON)
+### Lanka Data (first 30 of 99 lines)
 
 ```json
 {
-    "Age": "Total",
-    "Employment": 577919,
-    "Education": 53621,
-    "Accompanying Family Member In Need": 38218,
-    "Other": 2491,
-    "Total Value": 672249
-}
+    "_meta": {
+        "source_url": "https://www.statistics.gov.lk/Resource/en/Population/CPH_2024/CPH2024_Final_Eng.pdf#page=98",
+        "source_description": [
+            "Table 5.2.4, Final Report, 2024 Census of Population and Housing, Department of Census and Statistics, Sri Lanka"
+        ],
+        "what": {
+            "PopulationAbroadByAgeGroup": "Population Temporarily Living Abroad by Main Reason for Living Abroad and Age Group, 2024"
+        },
+        "when": "2024",
+        "where_who_types": [
+            "age"
+        ]
+    },
+    "PopulationAbroadByAgeGroup": {
+        "2024": {
+            "Total": {
+                "age": "Total",
+                "values": {
+                    "Employment": 577919,
+                    "Education": 53621,
+                    "AccompanyingFamilyMemberInNeed": 38218,
+                    "Other": 2491
+                },
+                "total_value": 672249,
+                "pct_values": {
+                    "Employment": 0.8597,
+                    "Education": 0.0798,
+                    "AccompanyingFamilyMemberInNeed": 0.0569,
+                    "Other": 0.0037
+...
 ```
 
 ### Source
@@ -2072,7 +2099,7 @@ member’s need |  |  | Other |  |
             "Religion": "Distribution of Population by Religion and District, 2012"
         },
         "when": "2024",
-        "where_types": [
+        "where_who_types": [
             "district",
             "country",
             "ed",
@@ -3356,7 +3383,7 @@ ntroduction |  |
             "LanguageLiteracy": "Language Literacy Rate by Language and District, 2024"
         },
         "when": "2024",
-        "where_types": [
+        "where_who_types": [
             "district"
         ]
     },

@@ -8,9 +8,7 @@
       "PopulationByCensusDate": "Total Population, Intercensal Increase and Average Annual Growth Rate by Census Year, 1871 - 2024"
     },
     "when": "2024",
-    "where_types": [
-      "census_date"
-    ]
+    "where_who_types": ["census_date"]
   },
   "PopulationByCensusDate": {
     "2024": {
