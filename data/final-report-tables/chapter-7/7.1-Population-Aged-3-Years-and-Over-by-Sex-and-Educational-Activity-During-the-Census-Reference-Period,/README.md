@@ -118,7 +118,7 @@
 ```
 - Source File: [raw_data.json (2.4 kB)](../../../../data/final-report-tables/chapter-7/7.1-Population-Aged-3-Years-and-Over-by-Sex-and-Educational-Activity-During-the-Census-Reference-Period,/raw_data.json)
 
-## Original PDF
+## Original PDF Page
 
 ![Download the original PDF](../../../../data/final-report-tables/chapter-7/7.1-Population-Aged-3-Years-and-Over-by-Sex-and-Educational-Activity-During-the-Census-Reference-Period,/original.png)
 

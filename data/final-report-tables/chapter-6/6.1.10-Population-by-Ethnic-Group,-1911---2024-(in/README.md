@@ -80,7 +80,7 @@
 ```
 - Source File: [raw_data.json (2.3 kB)](../../../../data/final-report-tables/chapter-6/6.1.10-Population-by-Ethnic-Group,-1911---2024-(in/raw_data.json)
 
-## Original PDF
+## Original PDF Page
 
 ![Download the original PDF](../../../../data/final-report-tables/chapter-6/6.1.10-Population-by-Ethnic-Group,-1911---2024-(in/original.png)
 

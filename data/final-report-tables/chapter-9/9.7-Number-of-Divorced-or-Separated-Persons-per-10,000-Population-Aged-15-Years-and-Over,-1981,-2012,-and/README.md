@@ -80,7 +80,7 @@
 ```
 - Source File: [raw_data.json (537 B)](../../../../data/final-report-tables/chapter-9/9.7-Number-of-Divorced-or-Separated-Persons-per-10,000-Population-Aged-15-Years-and-Over,-1981,-2012,-and/raw_data.json)
 
-## Original PDF
+## Original PDF Page
 
 ![Download the original PDF](../../../../data/final-report-tables/chapter-9/9.7-Number-of-Divorced-or-Separated-Persons-per-10,000-Population-Aged-15-Years-and-Over,-1981,-2012,-and/original.png)
 

@@ -118,7 +118,7 @@
 ```
 - Source File: [raw_data.json (5.2 kB)](../../../../data/final-report-tables/chapter-10/10.9-Percentage-Distribution-of-Household-Heads-by-District-and-Highest-Educational-Qualification-Obtained,/raw_data.json)
 
-## Original PDF
+## Original PDF Page
 
 ![Download the original PDF](../../../../data/final-report-tables/chapter-10/10.9-Percentage-Distribution-of-Household-Heads-by-District-and-Highest-Educational-Qualification-Obtained,/original.png)
 

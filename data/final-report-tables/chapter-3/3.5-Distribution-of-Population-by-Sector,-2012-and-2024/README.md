@@ -80,7 +80,7 @@
 ```
 - Source File: [raw_data.json (1.3 kB)](../../../../data/final-report-tables/chapter-3/3.5-Distribution-of-Population-by-Sector,-2012-and-2024/raw_data.json)
 
-## Original PDF
+## Original PDF Page
 
 ![Download the original PDF](../../../../data/final-report-tables/chapter-3/3.5-Distribution-of-Population-by-Sector,-2012-and-2024/original.png)
 

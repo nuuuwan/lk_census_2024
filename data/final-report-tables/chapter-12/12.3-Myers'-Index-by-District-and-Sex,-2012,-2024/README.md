@@ -80,7 +80,7 @@
 ```
 - Source File: [raw_data.json (5.0 kB)](../../../../data/final-report-tables/chapter-12/12.3-Myers'-Index-by-District-and-Sex,-2012,-2024/raw_data.json)
 
-## Original PDF
+## Original PDF Page
 
 ![Download the original PDF](../../../../data/final-report-tables/chapter-12/12.3-Myers'-Index-by-District-and-Sex,-2012,-2024/original.png)
 

@@ -80,7 +80,7 @@
 ```
 - Source File: [raw_data.json (559 B)](../../../../data/final-report-tables/chapter-9/9.8-Mean-Age-at-Marriage,-1953–2024/raw_data.json)
 
-## Original PDF
+## Original PDF Page
 
 ![Download the original PDF](../../../../data/final-report-tables/chapter-9/9.8-Mean-Age-at-Marriage,-1953–2024/original.png)
 

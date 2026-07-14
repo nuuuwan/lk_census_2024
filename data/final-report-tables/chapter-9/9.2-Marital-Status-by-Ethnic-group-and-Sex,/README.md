@@ -42,7 +42,7 @@
 ```
 - Source File: [raw_data.json (11.0 kB)](../../../../data/final-report-tables/chapter-9/9.2-Marital-Status-by-Ethnic-group-and-Sex,/raw_data.json)
 
-## Original PDF
+## Original PDF Page
 
 ![Download the original PDF](../../../../data/final-report-tables/chapter-9/9.2-Marital-Status-by-Ethnic-group-and-Sex,/original.png)
 

@@ -118,7 +118,7 @@
 ```
 - Source File: [raw_data.json (5.2 kB)](../../../../data/final-report-tables/chapter-6/6.1.14-Distribution-of-Population-by-Religion-and-District,-2012/raw_data.json)
 
-## Original PDF
+## Original PDF Page
 
 ![Download the original PDF](../../../../data/final-report-tables/chapter-6/6.1.14-Distribution-of-Population-by-Religion-and-District,-2012/original.png)
 

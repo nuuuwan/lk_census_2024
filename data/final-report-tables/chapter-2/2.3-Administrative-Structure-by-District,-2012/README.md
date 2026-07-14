@@ -118,7 +118,7 @@
 ```
 - Source File: [raw_data.json (2.1 kB)](../../../../data/final-report-tables/chapter-2/2.3-Administrative-Structure-by-District,-2012/raw_data.json)
 
-## Original PDF
+## Original PDF Page
 
 ![Download the original PDF](../../../../data/final-report-tables/chapter-2/2.3-Administrative-Structure-by-District,-2012/original.png)
 

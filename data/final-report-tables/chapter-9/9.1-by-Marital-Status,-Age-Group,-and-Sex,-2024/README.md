@@ -42,7 +42,7 @@
 ```
 - Source File: [raw_data.json (5.6 kB)](../../../../data/final-report-tables/chapter-9/9.1-by-Marital-Status,-Age-Group,-and-Sex,-2024/raw_data.json)
 
-## Original PDF
+## Original PDF Page
 
 ![Download the original PDF](../../../../data/final-report-tables/chapter-9/9.1-by-Marital-Status,-Age-Group,-and-Sex,-2024/original.png)
 

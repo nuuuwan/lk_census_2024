@@ -80,7 +80,7 @@
 ```
 - Source File: [raw_data.json (3.3 kB)](../../../../data/final-report-tables/chapter-6/6.1.8-Population-Distribution-by-Ethnic-Group,-2024/raw_data.json)
 
-## Original PDF
+## Original PDF Page
 
 ![Download the original PDF](../../../../data/final-report-tables/chapter-6/6.1.8-Population-Distribution-by-Ethnic-Group,-2024/original.png)
 

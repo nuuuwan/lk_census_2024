@@ -102,7 +102,7 @@ class FinalReportTableReadMeMixin:
             return []
 
         lines = [
-            "## Original PDF",
+            "## Original PDF Page",
             "",
             "![Download the original PDF]"
             + f"(../../../../{self.original_pdf_image_file.path})",

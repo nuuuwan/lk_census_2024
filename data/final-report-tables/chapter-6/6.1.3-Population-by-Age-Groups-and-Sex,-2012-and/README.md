@@ -80,7 +80,7 @@
 ```
 - Source File: [raw_data.json (3.2 kB)](../../../../data/final-report-tables/chapter-6/6.1.3-Population-by-Age-Groups-and-Sex,-2012-and/raw_data.json)
 
-## Original PDF
+## Original PDF Page
 
 ![Download the original PDF](../../../../data/final-report-tables/chapter-6/6.1.3-Population-by-Age-Groups-and-Sex,-2012-and/original.png)
 

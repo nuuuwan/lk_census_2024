@@ -118,7 +118,7 @@
 ```
 - Source File: [raw_data.json (1.5 kB)](../../../../data/final-report-tables/chapter-8/8.6-Employed-Population-by-Sector-and-Sex,-2024/raw_data.json)
 
-## Original PDF
+## Original PDF Page
 
 ![Download the original PDF](../../../../data/final-report-tables/chapter-8/8.6-Employed-Population-by-Sector-and-Sex,-2024/original.png)
 
