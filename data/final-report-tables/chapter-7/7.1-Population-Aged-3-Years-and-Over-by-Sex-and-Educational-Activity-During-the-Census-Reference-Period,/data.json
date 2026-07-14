@@ -1,6 +1,6 @@
 [
   {
-    "null": "Preschool education",
+    "educational_activity": "Preschool education",
     "values": {
       "male": 243648,
       "female": 238458
@@ -8,7 +8,7 @@
     "total_value": 482106
   },
   {
-    "null": "School education",
+    "educational_activity": "School education",
     "values": {
       "male": 2157831,
       "female": 2193394
@@ -16,7 +16,7 @@
     "total_value": 4351225
   },
   {
-    "null": "Degree/Postgraduate education",
+    "educational_activity": "Degree/Postgraduate education",
     "values": {
       "male": 120745,
       "female": 200244
@@ -24,7 +24,7 @@
     "total_value": 320989
   },
   {
-    "null": "Vocational training/Technical education",
+    "educational_activity": "Vocational training/Technical education",
     "values": {
       "male": 70149,
       "female": 52308
@@ -32,7 +32,7 @@
     "total_value": 122457
   },
   {
-    "null": "Other educational activity",
+    "educational_activity": "Other educational activity",
     "values": {
       "male": 125671,
       "female": 140742
@@ -40,7 +40,7 @@
     "total_value": 266413
   },
   {
-    "null": "Not studying",
+    "educational_activity": "Not studying",
     "values": {
       "male": 7469270,
       "female": 8122199

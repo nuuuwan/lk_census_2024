@@ -1,7 +1,7 @@
 # 🇱🇰 Sri Lanka - Census of Population and Housing 2024
 
 ![CPH](https://img.shields.io/badge/CPH-2024-blue)
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--07--14_14:17:33-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--07--14_14:18:52-green)
 
 **154** Datasets on Population, Housing and more, by Country, Province, District, Divisional Secretariat Division (DSD), Grama Niladhari Division (GND), Electoral District (ED), Polling Division (PD), and Local Government Authority (LG) levels.
 
@@ -614,8 +614,8 @@
 | status | status_label | n |
 | :-- | :-- | --: |
 | 2 | 🔴 Raw data is difficult to parse | 21 |
-| 4 | 🟡 Lanka data is missing | 98 |
-| 5 | ✅ All Stages Complete | 23 |
+| 4 | 🟡 Lanka data is missing | 97 |
+| 5 | ✅ All Stages Complete | 24 |
 
 ## 13. [Officers who have  Assigned for Census of Population and Housing 2024 Activities](data/final-report-tables/chapter-1/1.1.1-Officers-who-have--Assigned-for-Census-of-Population-and-Housing-2024-Activities)
 
@@ -3124,28 +3124,42 @@ ntroduction |  |
 
 ## 79. [Population Aged 3 Years and Over by Sex and Educational Activity During the Census Reference Period,](data/final-report-tables/chapter-7/7.1-Population-Aged-3-Years-and-Over-by-Sex-and-Educational-Activity-During-the-Census-Reference-Period,)
 
-*Build Status (**4**/5) 🟡 Lanka data is missing*
+*Build Status (**5**/5) ✅ All Stages Complete*
 
-### Data Table
-
-| Null | Male | Female | Total Value |
-| :-- | :-- | :-- | :-- |
-| Preschool education | 243648 | 238458 | 482106 |
-| School education | 2157831 | 2193394 | 4351225 |
-| Degree/Postgraduate education | 120745 | 200244 | 320989 |
-| Vocational training/Technical education | 70149 | 52308 | 122457 |
-| Other educational activity | 125671 | 140742 | 266413 |
-| Not studying | 7469270 | 8122199 | 15591469 |
-
-### Example Data Row (JSON)
+### Lanka Data (first 30 of 91 lines)
 
 ```json
 {
-    "Null": "Preschool education",
-    "Male": 243648,
-    "Female": 238458,
-    "Total Value": 482106
-}
+    "_meta": {
+        "source_url": "https://www.statistics.gov.lk/Resource/en/Population/CPH_2024/CPH2024_Final_Eng.pdf#page=149",
+        "source_description": [
+            "Table 7.1, Final Report, 2024 Census of Population and Housing, Department of Census and Statistics, Sri Lanka"
+        ],
+        "what": {
+            "EducationBySex": "Population Aged 3 Years and Over by Sex and Educational Activity During the Census Reference Period,"
+        },
+        "when": "2024",
+        "where_who_types": [
+            "educational_activity"
+        ]
+    },
+    "EducationBySex": {
+        "2024": {
+            "Preschool education": {
+                "educational_activity": "Preschool education",
+                "values": {
+                    "Male": 243648,
+                    "Female": 238458
+                },
+                "total_value": 482106,
+                "pct_values": {
+                    "Male": 0.5054,
+                    "Female": 0.4946
+                }
+            },
+            "School education": {
+                "educational_activity": "School education",
+...
 ```
 
 ### Source
