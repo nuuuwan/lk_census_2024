@@ -1,0 +1,277 @@
+{
+  "_meta": {
+    "source_url": "https://www.statistics.gov.lk/Resource/en/Population/CPH_2024/CPH2024_Final_Eng.pdf#page=181",
+    "source_description": "Table 9.6, Final Report, 2024 Census of Population and Housing, Department of Census and Statistics, Sri Lanka",
+    "what": {
+      "WidowedBySex": "Percentage of Widowed Population Aged 15 Years and over, 1981, 2012, and 2024"
+    },
+    "when": [
+      "1981",
+      "2012",
+      "2024"
+    ],
+    "where_who_types": [
+      "age_group"
+    ]
+  },
+  "WidowedBySex": {
+    "1981": {
+      "Population 15 years and over": {
+        "age_group": "Population 15 years and over",
+        "pct_values": {
+          "WidowedFemale": 0.052,
+          "WidowedMale": 0.012
+        }
+      },
+      "15-19": {
+        "age_group": "15-19",
+        "pct_values": {
+          "WidowedFemale": 0.001,
+          "WidowedMale": 0.0
+        }
+      },
+      "20-24": {
+        "age_group": "20-24",
+        "pct_values": {
+          "WidowedFemale": 0.005,
+          "WidowedMale": 0.001
+        }
+      },
+      "25-29": {
+        "age_group": "25-29",
+        "pct_values": {
+          "WidowedFemale": 0.011,
+          "WidowedMale": 0.002
+        }
+      },
+      "30-34": {
+        "age_group": "30-34",
+        "pct_values": {
+          "WidowedFemale": 0.02,
+          "WidowedMale": 0.003
+        }
+      },
+      "35-39": {
+        "age_group": "35-39",
+        "pct_values": {
+          "WidowedFemale": 0.039,
+          "WidowedMale": 0.006
+        }
+      },
+      "40-44": {
+        "age_group": "40-44",
+        "pct_values": {
+          "WidowedFemale": 0.07,
+          "WidowedMale": 0.01
+        }
+      },
+      "45-49": {
+        "age_group": "45-49",
+        "pct_values": {
+          "WidowedFemale": 0.111,
+          "WidowedMale": 0.018
+        }
+      },
+      "50-54": {
+        "age_group": "50-54",
+        "pct_values": {
+          "WidowedFemale": 0.164,
+          "WidowedMale": 0.029
+        }
+      },
+      "55-59": {
+        "age_group": "55-59",
+        "pct_values": {
+          "WidowedFemale": 0.228,
+          "WidowedMale": 0.042
+        }
+      },
+      "60-64": {
+        "age_group": "60-64",
+        "pct_values": {
+          "WidowedFemale": 0.314,
+          "WidowedMale": 0.065
+        }
+      },
+      "65 and over": {
+        "age_group": "65 and over",
+        "pct_values": {
+          "WidowedFemale": 0.477,
+          "WidowedMale": 0.133
+        }
+      }
+    },
+    "2012": {
+      "Population 15 years and over": {
+        "age_group": "Population 15 years and over",
+        "pct_values": {
+          "WidowedFemale": 0.087,
+          "WidowedMale": 0.013
+        }
+      },
+      "15-19": {
+        "age_group": "15-19",
+        "pct_values": {
+          "WidowedFemale": 0.001,
+          "WidowedMale": 0.0
+        }
+      },
+      "20-24": {
+        "age_group": "20-24",
+        "pct_values": {
+          "WidowedFemale": 0.002,
+          "WidowedMale": 0.0
+        }
+      },
+      "25-29": {
+        "age_group": "25-29",
+        "pct_values": {
+          "WidowedFemale": 0.005,
+          "WidowedMale": 0.001
+        }
+      },
+      "30-34": {
+        "age_group": "30-34",
+        "pct_values": {
+          "WidowedFemale": 0.01,
+          "WidowedMale": 0.001
+        }
+      },
+      "35-39": {
+        "age_group": "35-39",
+        "pct_values": {
+          "WidowedFemale": 0.019,
+          "WidowedMale": 0.002
+        }
+      },
+      "40-44": {
+        "age_group": "40-44",
+        "pct_values": {
+          "WidowedFemale": 0.035,
+          "WidowedMale": 0.004
+        }
+      },
+      "45-49": {
+        "age_group": "45-49",
+        "pct_values": {
+          "WidowedFemale": 0.062,
+          "WidowedMale": 0.006
+        }
+      },
+      "50-54": {
+        "age_group": "50-54",
+        "pct_values": {
+          "WidowedFemale": 0.1,
+          "WidowedMale": 0.011
+        }
+      },
+      "55-59": {
+        "age_group": "55-59",
+        "pct_values": {
+          "WidowedFemale": 0.148,
+          "WidowedMale": 0.018
+        }
+      },
+      "60-64": {
+        "age_group": "60-64",
+        "pct_values": {
+          "WidowedFemale": 0.212,
+          "WidowedMale": 0.03
+        }
+      },
+      "65 and over": {
+        "age_group": "65 and over",
+        "pct_values": {
+          "WidowedFemale": 0.384,
+          "WidowedMale": 0.086
+        }
+      }
+    },
+    "2024": {
+      "Population 15 years and over": {
+        "age_group": "Population 15 years and over",
+        "pct_values": {
+          "WidowedFemale": 0.117,
+          "WidowedMale": 0.021
+        }
+      },
+      "15-19": {
+        "age_group": "15-19",
+        "pct_values": {
+          "WidowedMale": 0.0,
+          "WidowedFemale": 0.0
+        }
+      },
+      "20-24": {
+        "age_group": "20-24",
+        "pct_values": {
+          "WidowedFemale": 0.001,
+          "WidowedMale": 0.0
+        }
+      },
+      "25-29": {
+        "age_group": "25-29",
+        "pct_values": {
+          "WidowedFemale": 0.003,
+          "WidowedMale": 0.001
+        }
+      },
+      "30-34": {
+        "age_group": "30-34",
+        "pct_values": {
+          "WidowedFemale": 0.007,
+          "WidowedMale": 0.002
+        }
+      },
+      "35-39": {
+        "age_group": "35-39",
+        "pct_values": {
+          "WidowedFemale": 0.013,
+          "WidowedMale": 0.003
+        }
+      },
+      "40-44": {
+        "age_group": "40-44",
+        "pct_values": {
+          "WidowedFemale": 0.025,
+          "WidowedMale": 0.004
+        }
+      },
+      "45-49": {
+        "age_group": "45-49",
+        "pct_values": {
+          "WidowedFemale": 0.047,
+          "WidowedMale": 0.007
+        }
+      },
+      "50-54": {
+        "age_group": "50-54",
+        "pct_values": {
+          "WidowedFemale": 0.083,
+          "WidowedMale": 0.012
+        }
+      },
+      "55-59": {
+        "age_group": "55-59",
+        "pct_values": {
+          "WidowedFemale": 0.142,
+          "WidowedMale": 0.021
+        }
+      },
+      "60-64": {
+        "age_group": "60-64",
+        "pct_values": {
+          "WidowedFemale": 0.217,
+          "WidowedMale": 0.036
+        }
+      },
+      "65 and over": {
+        "age_group": "65 and over",
+        "pct_values": {
+          "WidowedFemale": 0.442,
+          "WidowedMale": 0.105
+        }
+      }
+    }
+  }
+}

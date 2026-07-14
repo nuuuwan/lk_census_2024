@@ -1,7 +1,8 @@
 import os
 
-from lk_census.final_report.table.lanka_data.FinalReportLankaMetaDataMixin import \
-    FinalReportLankaMetaDataMixin
+from lk_census.final_report.table.lanka_data.FinalReportLankaMetaDataMixin import (
+    FinalReportLankaMetaDataMixin,
+)
 from utils_future import JSONFile, Log, Parse, String
 
 log = Log("FinalReportLankaDataMixin")
@@ -28,7 +29,7 @@ class FinalReportLankaDataMixin(FinalReportLankaMetaDataMixin):
         n = len(values.keys())
 
         total_value = sum(values.values())
-        if total_value and n > 1:
+        if total_value and n > 1 and self.is_summable:
             pct_values = {
                 k: round(v / total_value, 4) for k, v in values.items()
             }
@@ -48,7 +49,7 @@ class FinalReportLankaDataMixin(FinalReportLankaMetaDataMixin):
             sorted(pct_values.items(), key=lambda item: -item[1])
         )
         total_value = data.get("total_value")
-        if total_value:
+        if total_value and self.is_summable:
             values = {
                 k: int(round(v * total_value, 0))
                 for k, v in pct_values.items()
@@ -188,9 +189,7 @@ class FinalReportLankaDataMixin(FinalReportLankaMetaDataMixin):
         when_labels = set()
         for data in self.data_list:
             data_non_values = self._get_non_values(data)
-            for when_label, data_for_when in self._split_by_when(
-                data
-            ).items():
+            for when_label, data_for_when in self._split_by_when(data).items():
                 data_for_when = self._expand_values(data_for_when)
                 if when_label not in idx:
                     idx[when_label] = {}

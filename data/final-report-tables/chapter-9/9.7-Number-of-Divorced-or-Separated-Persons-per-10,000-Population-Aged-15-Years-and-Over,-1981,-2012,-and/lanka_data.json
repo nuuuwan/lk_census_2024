@@ -1,0 +1,52 @@
+{
+  "_meta": {
+    "source_url": "https://www.statistics.gov.lk/Resource/en/Population/CPH_2024/CPH2024_Final_Eng.pdf#page=181",
+    "source_description": "Table 9.7, Final Report, 2024 Census of Population and Housing, Department of Census and Statistics, Sri Lanka",
+    "what": {
+      "DivorceOrSeperationRateBySex": "Number of Divorced or Separated Persons per 10,000 Population Aged 15 Years and Over, 1981, 2012, and"
+    },
+    "when": [
+      "2024"
+    ],
+    "where_who_types": [
+      "marital_status"
+    ]
+  },
+  "DivorceOrSeperationRateBySex": {
+    "2024": {
+      "Divorced": {
+        "marital_status": "Divorced",
+        "values": {
+          "FemalePer10K": 50,
+          "Male2012Per10K": 37,
+          "Female2012Per10K": 35,
+          "Female1981Per10K": 33,
+          "Male1981Per10K": 23,
+          "MalePer10K": 20
+        }
+      },
+      "Legal  Separated": {
+        "marital_status": "Legal  Separated",
+        "values": {
+          "FemalePer10K": 31,
+          "Male2012Per10K": 26,
+          "Female1981Per10K": 25,
+          "Female2012Per10K": 21,
+          "Male1981Per10K": 19,
+          "MalePer10K": 15
+        }
+      },
+      "Not legal": {
+        "marital_status": "Not legal",
+        "values": {
+          "FemalePer10K": 112,
+          "Female1981Per10K": 88,
+          "Female2012Per10K": 79,
+          "MalePer10K": 59,
+          "Male1981Per10K": 0,
+          "Male2012Per10K": 0
+        }
+      }
+    }
+  }
+}
