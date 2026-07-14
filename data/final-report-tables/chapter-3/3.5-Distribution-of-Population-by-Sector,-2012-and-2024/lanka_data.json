@@ -1,0 +1,82 @@
+{
+  "_meta": {
+    "source_url": "https://www.statistics.gov.lk/Resource/en/Population/CPH_2024/CPH2024_Final_Eng.pdf#page=71",
+    "source_description": "Table 3.5, Final Report, 2024 Census of Population and Housing, Department of Census and Statistics, Sri Lanka",
+    "what": {
+      "PopulationBySector": "Distribution of Population by Sector, 2012 and 2024"
+    },
+    "when": [
+      "2012",
+      "2024"
+    ],
+    "where_who_types": [
+      "sector"
+    ]
+  },
+  "PopulationBySector": {
+    "2012": {
+      "": {
+        "sector": "",
+        "values": {
+          "Population2012": 2012
+        }
+      },
+      "Sri Lanka": {
+        "sector": "Sri Lanka",
+        "values": {
+          "Population2012": 20359439
+        }
+      },
+      "Urban*": {
+        "sector": "Urban*",
+        "values": {
+          "Population2012": 3704470
+        }
+      },
+      "Rural": {
+        "sector": "Rural",
+        "values": {
+          "Population2012": 15753322
+        }
+      },
+      "Estate Rural**": {
+        "sector": "Estate Rural**",
+        "values": {
+          "Population2012": 901647
+        }
+      }
+    },
+    "2024": {
+      "": {
+        "sector": "",
+        "values": {
+          "Population2024": 2024
+        }
+      },
+      "Sri Lanka": {
+        "sector": "Sri Lanka",
+        "values": {
+          "Population2024": 21781800
+        }
+      },
+      "Urban*": {
+        "sector": "Urban*",
+        "values": {
+          "Population2024": 3819203
+        }
+      },
+      "Rural": {
+        "sector": "Rural",
+        "values": {
+          "Population2024": 17096918
+        }
+      },
+      "Estate Rural**": {
+        "sector": "Estate Rural**",
+        "values": {
+          "Population2024": 865679
+        }
+      }
+    }
+  }
+}
