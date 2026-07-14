@@ -1,7 +1,7 @@
 # 🇱🇰 Sri Lanka - Census of Population and Housing 2024
 
 ![CPH](https://img.shields.io/badge/CPH-2024-blue)
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--07--14_12:59:39-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--07--14_14:11:33-green)
 
 **154** Datasets on Population, Housing and more, by Country, Province, District, Divisional Secretariat Division (DSD), Grama Niladhari Division (GND), Electoral District (ED), Polling Division (PD), and Local Government Authority (LG) levels.
 
@@ -614,8 +614,8 @@
 | status | status_label | n |
 | :-- | :-- | --: |
 | 2 | 🔴 Raw data is difficult to parse | 21 |
-| 4 | 🟡 Lanka data is missing | 106 |
-| 5 | ✅ All Stages Complete | 15 |
+| 4 | 🟡 Lanka data is missing | 104 |
+| 5 | ✅ All Stages Complete | 17 |
 
 ## 13. [Officers who have  Assigned for Census of Population and Housing 2024 Activities](data/final-report-tables/chapter-1/1.1.1-Officers-who-have--Assigned-for-Census-of-Population-and-Housing-2024-Activities)
 
@@ -2132,38 +2132,42 @@ member’s need |  |  | Other |  |
 
 ## 52. [Distribution of Population by Religion and District, 2024](data/final-report-tables/chapter-6/6.1.15-Distribution-of-Population-by-Religion-and-District,-2024)
 
-*Build Status (**4**/5) 🟡 Lanka data is missing*
+*Build Status (**5**/5) ✅ All Stages Complete*
 
-### Data Table (first 10 of 58 rows)
-
-| Region Id | Region Name | Region Ent Type | Buddhist | Hindu | Islam | Roman Catholic | Other Christian | Other | Total Value |
-| :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- |
-| LK-11 | Colombo | district | 1682524 | 197759 | 298422 | 139882 | 55624 | 1204 | 2375415 |
-| LK-12 | Gampaha | district | 1744475 | 69429 | 134422 | 442291 | 44540 | 985 | 2436142 |
-| LK-13 | Kalutara | district | 1080638 | 42528 | 138230 | 36510 | 7733 | 145 | 1305784 |
-| LK-21 | Kandy | district | 1063511 | 144618 | 223997 | 18623 | 10919 | 227 | 1461895 |
-| LK-22 | Matale | district | 418608 | 46181 | 52224 | 7797 | 2026 | 34 | 526870 |
-| LK-23 | Nuwara Eliya | district | 278828 | 377266 | 21929 | 31705 | 15474 | 78 | 725280 |
-| LK-31 | Galle | district | 1026031 | 15600 | 46038 | 4207 | 5377 | 119 | 1097372 |
-| LK-32 | Matara | district | 787303 | 14625 | 29858 | 2445 | 3619 | 39 | 837889 |
-| LK-33 | Hambantota | district | 649736 | 1401 | 17947 | 1017 | 1247 | 70 | 671418 |
-| LK-41 | Jaffna | district | 2788 | 489521 | 4352 | 77197 | 20857 | 36 | 594751 |
-
-### Example Data Row (JSON)
+### Lanka Data (first 30 of 1276 lines)
 
 ```json
 {
-    "Region Id": "LK-11",
-    "Region Name": "Colombo",
-    "Region Ent Type": "district",
-    "Buddhist": 1682524,
-    "Hindu": 197759,
-    "Islam": 298422,
-    "Roman Catholic": 139882,
-    "Other Christian": 55624,
-    "Other": 1204,
-    "Total Value": 2375415
-}
+    "_meta": {
+        "source_url": "https://www.statistics.gov.lk/Resource/en/Population/CPH_2024/CPH2024_Final_Eng.pdf#page=124",
+        "source_description": [
+            "Table 6.1.15, Final Report, 2024 Census of Population and Housing, Department of Census and Statistics, Sri Lanka"
+        ],
+        "what": {
+            "Religion": "Distribution of Population by Religion and District, 2024"
+        },
+        "when": "2024",
+        "where_who_types": [
+            "ed",
+            "province",
+            "country",
+            "district"
+        ]
+    },
+    "Religion": {
+        "2024": {
+            "LK-11": {
+                "region_id": "LK-11",
+                "region_name": "Colombo",
+                "region_ent_type": "district",
+                "values": {
+                    "Buddhist": 1682524,
+                    "Islam": 298422,
+                    "Hindu": 197759,
+                    "RomanCatholic": 139882,
+                    "OtherChristian": 55624,
+                    "Other": 1204
+...
 ```
 
 ### Source
@@ -2201,37 +2205,42 @@ over or dressing | 19,926,695 | 969 | 450,693 | 22 | 124,756 | 6 | 64,536 | 3 |
 
 ## 54. [Distribution of Persons Aged 5 Years and Over with Physical and Mental Difficulties by District and Difficulties,2024](data/final-report-tables/chapter-6/6.2.2-Distribution-of-Persons-Aged-5-Years-and-Over-with-Physical-and-Mental-Difficulties-by-District-and-Difficulties,2024)
 
-*Build Status (**4**/5) 🟡 Lanka data is missing*
+*Build Status (**5**/5) ✅ All Stages Complete*
 
-### Data Table (first 10 of 26 rows)
-
-| Null | Difficulty In Seeing | Difficulty In Hearing | Difficulty In Walking Or Climbing Steps | Difficulty In Remembering Or Concentrating | Difficulty In Selfcare Such As Washing Or Dressing | Difficulty In Communicating With Others | No Disability | Total Value |
-| :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- |
-| Sri Lanka | 1939955 | 732771 | 1704064 | 787612 | 639985 | 420813 | 14341480 | 20566680 |
-| Colombo | 152592 | 59508 | 150614 | 69279 | 55244 | 40731 | 1743322 | 2271290 |
-| Gampaha | 194156 | 76279 | 184771 | 85190 | 65653 | 44483 | 1668658 | 2319190 |
-| Kalutara | 100364 | 42776 | 95264 | 45878 | 36097 | 25241 | 894125 | 1239745 |
-| Kandy | 133777 | 54309 | 127934 | 57599 | 41366 | 29762 | 937752 | 1382499 |
-| Matale | 52463 | 20217 | 48307 | 22094 | 15106 | 10414 | 328309 | 496910 |
-| Nuwara Eliya | 72180 | 23606 | 63822 | 26066 | 22496 | 13826 | 458435 | 680431 |
-| Galle | 100166 | 40849 | 85974 | 43463 | 30609 | 23279 | 715115 | 1039455 |
-| Matara | 91333 | 33262 | 73867 | 35908 | 22831 | 17363 | 518248 | 792812 |
-| Hambantota | 76574 | 26427 | 60341 | 28688 | 20944 | 15295 | 403350 | 631619 |
-
-### Example Data Row (JSON)
+### Lanka Data (first 30 of 591 lines)
 
 ```json
 {
-    "Null": "Sri Lanka",
-    "Difficulty In Seeing": 1939955,
-    "Difficulty In Hearing": 732771,
-    "Difficulty In Walking Or Climbing Steps": 1704064,
-    "Difficulty In Remembering Or Concentrating": 787612,
-    "Difficulty In Selfcare Such As Washing Or Dressing": 639985,
-    "Difficulty In Communicating With Others": 420813,
-    "No Disability": 14341480,
-    "Total Value": 20566680
-}
+    "_meta": {
+        "source_url": "https://www.statistics.gov.lk/Resource/en/Population/CPH_2024/CPH2024_Final_Eng.pdf#page=128",
+        "source_description": [
+            "Table 6.2.2, Final Report, 2024 Census of Population and Housing, Department of Census and Statistics, Sri Lanka"
+        ],
+        "what": {
+            "Disabilities": "Distribution of Persons Aged 5 Years and Over with Physical and Mental Difficulties by District and Difficulties,2024"
+        },
+        "when": "2024",
+        "where_who_types": [
+            "null"
+        ]
+    },
+    "Disabilities": {
+        "2024": {
+            "Sri Lanka": {
+                "null": "Sri Lanka",
+                "values": {
+                    "NoDisability": 14341480,
+                    "DifficultyInSeeing": 1939955,
+                    "DifficultyInWalkingOrClimbingSteps": 1704064,
+                    "DifficultyInRememberingOrConcentrating": 787612,
+                    "DifficultyInHearing": 732771,
+                    "DifficultyInSelfcareSuchAsWashingOrDressing": 639985,
+                    "DifficultyInCommunicatingWithOthers": 420813
+                },
+                "total_value": 20566680,
+                "pct_values": {
+                    "NoDisability": 0.6973,
+...
 ```
 
 ### Source
