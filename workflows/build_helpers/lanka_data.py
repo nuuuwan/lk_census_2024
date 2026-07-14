@@ -36,9 +36,10 @@ if __name__ == "__main__":
             lanka_data_metadata = {}
             if table.lanka_data_metadata_file.exists:
                 lanka_data_metadata = table.lanka_data_metadata_file.read()
-            lanka_data_metadata |= {
-                "what_label": table.table_name,
-            }
+            if "what_label" not in lanka_data_metadata:
+                lanka_data_metadata |= {
+                    "what_label": table.table_name,
+                }
             table.lanka_data_metadata_file.write(lanka_data_metadata)
             table.lanka_data_metadata_file.open("code")
 
