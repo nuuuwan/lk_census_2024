@@ -4,6 +4,7 @@ from utils_future import JSONFile
 
 
 class FinalReportLankaDataMixin:
+    @property
     def lanka_data_file(self) -> JSONFile:
         return JSONFile(
             os.path.join(

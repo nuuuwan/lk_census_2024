@@ -2,11 +2,13 @@ import os
 
 from utils_future import JSONFile, Log
 
-from .FinalReportTableDataAggregateMixin import \
-    FinalReportTableDataAggregateMixin
+from .FinalReportTableDataAggregateMixin import (
+    FinalReportTableDataAggregateMixin,
+)
 from .FinalReportTableDataFieldsMixin import FinalReportTableDataFieldsMixin
-from .FinalReportTableDataOtherValuesMixin import \
-    FinalReportTableDataOtherValuesMixin
+from .FinalReportTableDataOtherValuesMixin import (
+    FinalReportTableDataOtherValuesMixin,
+)
 from .FinalReportTableDataRowMixin import FinalReportTableDataRowMixin
 
 log = Log("FinalReportTableDataMixin")
@@ -47,6 +49,8 @@ class FinalReportTableDataMixin(
         if self.data_file.exists and not force:
             return
         if not (bool(self.raw_data_list) and bool(self.has_complete_fields)):
+            return
+        if self.is_complicated:
             return
 
         log.debug("-" * 40)

@@ -11,6 +11,7 @@ class FinalReportTableRawDataMixin:
         return JSONFile(os.path.join(self.dir_data, "raw_data.json"))
 
     def build_raw_data(self, force=False):
+
         if self.raw_data_file.exists and not force:
             return
 
