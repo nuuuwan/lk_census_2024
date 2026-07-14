@@ -1,7 +1,7 @@
 # 🇱🇰 Sri Lanka - Census of Population and Housing 2024
 
 ![CPH](https://img.shields.io/badge/CPH-2024-blue)
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--07--14_11:32:32-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--07--14_11:33:11-green)
 
 **154** Datasets on Population, Housing and more, by Country, Province, District, Divisional Secretariat Division (DSD), Grama Niladhari Division (GND), Electoral District (ED), Polling Division (PD), and Local Government Authority (LG) levels.
 
@@ -614,8 +614,8 @@
 | status | status_label | n |
 | :-- | :-- | --: |
 | 2 | 🔴 Raw data is difficult to parse | 21 |
-| 4 | 🟡 Lanka data is missing | 113 |
-| 5 | ✅ All Stages Complete | 8 |
+| 4 | 🟡 Lanka data is missing | 112 |
+| 5 | ✅ All Stages Complete | 9 |
 
 ## 13. [Officers who have  Assigned for Census of Population and Housing 2024 Activities](data/final-report-tables/chapter-1/1.1.1-Officers-who-have--Assigned-for-Census-of-Population-and-Housing-2024-Activities)
 
@@ -1427,34 +1427,42 @@
 
 ## 33. [Population Temporarily Living Abroad by District and Sex, 2024](data/final-report-tables/chapter-5/5.2.1-Population-Temporarily-Living-Abroad-by-District-and-Sex,-2024)
 
-*Build Status (**4**/5) 🟡 Lanka data is missing*
+*Build Status (**5**/5) ✅ All Stages Complete*
 
-### Data Table (first 10 of 57 rows)
-
-| Region Id | Region Name | Region Ent Type | Male | Female | Total Value |
-| :-- | :-- | :-- | :-- | :-- | :-- |
-| LK-11 | Colombo | district | 43531 | 27908 | 71439 |
-| LK-12 | Gampaha | district | 54734 | 31343 | 86077 |
-| LK-13 | Kalutara | district | 25238 | 16114 | 41352 |
-| LK-21 | Kandy | district | 35518 | 21712 | 57230 |
-| LK-22 | Matale | district | 10682 | 9382 | 20064 |
-| LK-23 | Nuwara Eliya | district | 6158 | 10755 | 16913 |
-| LK-31 | Galle | district | 25283 | 15061 | 40344 |
-| LK-32 | Matara | district | 14822 | 6498 | 21320 |
-| LK-33 | Hambantota | district | 9432 | 4799 | 14231 |
-| LK-41 | Jaffna | district | 8091 | 1334 | 9425 |
-
-### Example Data Row (JSON)
+### Lanka Data (first 30 of 813 lines)
 
 ```json
 {
-    "Region Id": "LK-11",
-    "Region Name": "Colombo",
-    "Region Ent Type": "district",
-    "Male": 43531,
-    "Female": 27908,
-    "Total Value": 71439
-}
+    "_meta": {
+        "source_url": "https://www.statistics.gov.lk/Resource/en/Population/CPH_2024/CPH2024_Final_Eng.pdf#page=95",
+        "source_description": [
+            "Table 5.2.1, Final Report, 2024 Census of Population and Housing, Department of Census and Statistics, Sri Lanka"
+        ],
+        "what": {
+            "PopulationAbroad": "Population Temporarily Living Abroad by District and Sex, 2024"
+        }
+    },
+    "PopulationAbroad": {
+        "2024": {
+            "LK-11": {
+                "region_id": "LK-11",
+                "region_name": "Colombo",
+                "region_ent_type": "district",
+                "values": {
+                    "Male": 43531,
+                    "Female": 27908
+                },
+                "total_value": 71439,
+                "pct_values": {
+                    "Male": 0.6093,
+                    "Female": 0.3907
+                }
+            },
+            "LK-12": {
+                "region_id": "LK-12",
+                "region_name": "Gampaha",
+                "region_ent_type": "district",
+...
 ```
 
 ### Source

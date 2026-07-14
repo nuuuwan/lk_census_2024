@@ -1,0 +1,813 @@
+{
+  "_meta": {
+    "source_url": "https://www.statistics.gov.lk/Resource/en/Population/CPH_2024/CPH2024_Final_Eng.pdf#page=95",
+    "source_description": [
+      "Table 5.2.1, Final Report, 2024 Census of Population and Housing, Department of Census and Statistics, Sri Lanka"
+    ],
+    "what": {
+      "PopulationAbroad": "Population Temporarily Living Abroad by District and Sex, 2024"
+    }
+  },
+  "PopulationAbroad": {
+    "2024": {
+      "LK-11": {
+        "region_id": "LK-11",
+        "region_name": "Colombo",
+        "region_ent_type": "district",
+        "values": {
+          "Male": 43531,
+          "Female": 27908
+        },
+        "total_value": 71439,
+        "pct_values": {
+          "Male": 0.6093,
+          "Female": 0.3907
+        }
+      },
+      "LK-12": {
+        "region_id": "LK-12",
+        "region_name": "Gampaha",
+        "region_ent_type": "district",
+        "values": {
+          "Male": 54734,
+          "Female": 31343
+        },
+        "total_value": 86077,
+        "pct_values": {
+          "Male": 0.6359,
+          "Female": 0.3641
+        }
+      },
+      "LK-13": {
+        "region_id": "LK-13",
+        "region_name": "Kalutara",
+        "region_ent_type": "district",
+        "values": {
+          "Male": 25238,
+          "Female": 16114
+        },
+        "total_value": 41352,
+        "pct_values": {
+          "Male": 0.6103,
+          "Female": 0.3897
+        }
+      },
+      "LK-21": {
+        "region_id": "LK-21",
+        "region_name": "Kandy",
+        "region_ent_type": "district",
+        "values": {
+          "Male": 35518,
+          "Female": 21712
+        },
+        "total_value": 57230,
+        "pct_values": {
+          "Male": 0.6206,
+          "Female": 0.3794
+        }
+      },
+      "LK-22": {
+        "region_id": "LK-22",
+        "region_name": "Matale",
+        "region_ent_type": "district",
+        "values": {
+          "Male": 10682,
+          "Female": 9382
+        },
+        "total_value": 20064,
+        "pct_values": {
+          "Male": 0.5324,
+          "Female": 0.4676
+        }
+      },
+      "LK-23": {
+        "region_id": "LK-23",
+        "region_name": "Nuwara Eliya",
+        "region_ent_type": "district",
+        "values": {
+          "Female": 10755,
+          "Male": 6158
+        },
+        "total_value": 16913,
+        "pct_values": {
+          "Female": 0.6359,
+          "Male": 0.3641
+        }
+      },
+      "LK-31": {
+        "region_id": "LK-31",
+        "region_name": "Galle",
+        "region_ent_type": "district",
+        "values": {
+          "Male": 25283,
+          "Female": 15061
+        },
+        "total_value": 40344,
+        "pct_values": {
+          "Male": 0.6267,
+          "Female": 0.3733
+        }
+      },
+      "LK-32": {
+        "region_id": "LK-32",
+        "region_name": "Matara",
+        "region_ent_type": "district",
+        "values": {
+          "Male": 14822,
+          "Female": 6498
+        },
+        "total_value": 21320,
+        "pct_values": {
+          "Male": 0.6952,
+          "Female": 0.3048
+        }
+      },
+      "LK-33": {
+        "region_id": "LK-33",
+        "region_name": "Hambantota",
+        "region_ent_type": "district",
+        "values": {
+          "Male": 9432,
+          "Female": 4799
+        },
+        "total_value": 14231,
+        "pct_values": {
+          "Male": 0.6628,
+          "Female": 0.3372
+        }
+      },
+      "LK-41": {
+        "region_id": "LK-41",
+        "region_name": "Jaffna",
+        "region_ent_type": "district",
+        "values": {
+          "Male": 8091,
+          "Female": 1334
+        },
+        "total_value": 9425,
+        "pct_values": {
+          "Male": 0.8585,
+          "Female": 0.1415
+        }
+      },
+      "LK-42": {
+        "region_id": "LK-42",
+        "region_name": "Mannar",
+        "region_ent_type": "district",
+        "values": {
+          "Male": 1228,
+          "Female": 412
+        },
+        "total_value": 1640,
+        "pct_values": {
+          "Male": 0.7488,
+          "Female": 0.2512
+        }
+      },
+      "LK-43": {
+        "region_id": "LK-43",
+        "region_name": "Vavuniya",
+        "region_ent_type": "district",
+        "values": {
+          "Male": 2413,
+          "Female": 1208
+        },
+        "total_value": 3621,
+        "pct_values": {
+          "Male": 0.6664,
+          "Female": 0.3336
+        }
+      },
+      "LK-44": {
+        "region_id": "LK-44",
+        "region_name": "Mullaitivu",
+        "region_ent_type": "district",
+        "values": {
+          "Male": 961,
+          "Female": 422
+        },
+        "total_value": 1383,
+        "pct_values": {
+          "Male": 0.6949,
+          "Female": 0.3051
+        }
+      },
+      "LK-45": {
+        "region_id": "LK-45",
+        "region_name": "Kilinochchi",
+        "region_ent_type": "district",
+        "values": {
+          "Male": 1309,
+          "Female": 316
+        },
+        "total_value": 1625,
+        "pct_values": {
+          "Male": 0.8055,
+          "Female": 0.1945
+        }
+      },
+      "LK-51": {
+        "region_id": "LK-51",
+        "region_name": "Batticaloa",
+        "region_ent_type": "district",
+        "values": {
+          "Male": 23723,
+          "Female": 4536
+        },
+        "total_value": 28259,
+        "pct_values": {
+          "Male": 0.8395,
+          "Female": 0.1605
+        }
+      },
+      "LK-52": {
+        "region_id": "LK-52",
+        "region_name": "Ampara",
+        "region_ent_type": "district",
+        "values": {
+          "Male": 26917,
+          "Female": 4420
+        },
+        "total_value": 31337,
+        "pct_values": {
+          "Male": 0.859,
+          "Female": 0.141
+        }
+      },
+      "LK-53": {
+        "region_id": "LK-53",
+        "region_name": "Trincomalee",
+        "region_ent_type": "district",
+        "values": {
+          "Male": 7193,
+          "Female": 4429
+        },
+        "total_value": 11622,
+        "pct_values": {
+          "Male": 0.6189,
+          "Female": 0.3811
+        }
+      },
+      "LK-61": {
+        "region_id": "LK-61",
+        "region_name": "Kurunegala",
+        "region_ent_type": "district",
+        "values": {
+          "Male": 34699,
+          "Female": 29417
+        },
+        "total_value": 64116,
+        "pct_values": {
+          "Male": 0.5412,
+          "Female": 0.4588
+        }
+      },
+      "LK-62": {
+        "region_id": "LK-62",
+        "region_name": "Puttalam",
+        "region_ent_type": "district",
+        "values": {
+          "Male": 27185,
+          "Female": 20038
+        },
+        "total_value": 47223,
+        "pct_values": {
+          "Male": 0.5757,
+          "Female": 0.4243
+        }
+      },
+      "LK-71": {
+        "region_id": "LK-71",
+        "region_name": "Anuradhapura",
+        "region_ent_type": "district",
+        "values": {
+          "Female": 13279,
+          "Male": 12343
+        },
+        "total_value": 25622,
+        "pct_values": {
+          "Female": 0.5183,
+          "Male": 0.4817
+        }
+      },
+      "LK-72": {
+        "region_id": "LK-72",
+        "region_name": "Polonnaruwa",
+        "region_ent_type": "district",
+        "values": {
+          "Female": 6783,
+          "Male": 6433
+        },
+        "total_value": 13216,
+        "pct_values": {
+          "Female": 0.5132,
+          "Male": 0.4868
+        }
+      },
+      "LK-81": {
+        "region_id": "LK-81",
+        "region_name": "Badulla",
+        "region_ent_type": "district",
+        "values": {
+          "Female": 7483,
+          "Male": 5749
+        },
+        "total_value": 13232,
+        "pct_values": {
+          "Female": 0.5655,
+          "Male": 0.4345
+        }
+      },
+      "LK-82": {
+        "region_id": "LK-82",
+        "region_name": "Monaragala",
+        "region_ent_type": "district",
+        "values": {
+          "Male": 2765,
+          "Female": 2063
+        },
+        "total_value": 4828,
+        "pct_values": {
+          "Male": 0.5727,
+          "Female": 0.4273
+        }
+      },
+      "LK-91": {
+        "region_id": "LK-91",
+        "region_name": "Ratnapura",
+        "region_ent_type": "district",
+        "values": {
+          "Male": 10145,
+          "Female": 8551
+        },
+        "total_value": 18696,
+        "pct_values": {
+          "Male": 0.5426,
+          "Female": 0.4574
+        }
+      },
+      "LK-92": {
+        "region_id": "LK-92",
+        "region_name": "Kegalle",
+        "region_ent_type": "district",
+        "values": {
+          "Male": 16183,
+          "Female": 11251
+        },
+        "total_value": 27434,
+        "pct_values": {
+          "Male": 0.5899,
+          "Female": 0.4101
+        }
+      },
+      "LK": {
+        "region_id": "LK",
+        "region_name": "Sri Lanka",
+        "region_ent_type": "country",
+        "values": {
+          "Male": 412735,
+          "Female": 259514
+        },
+        "total_value": 672249,
+        "pct_values": {
+          "Male": 0.614,
+          "Female": 0.386
+        }
+      },
+      "LK-1": {
+        "region_id": "LK-1",
+        "region_name": "Western",
+        "region_ent_type": "province",
+        "values": {
+          "Male": 123503,
+          "Female": 75365
+        },
+        "total_value": 198868,
+        "pct_values": {
+          "Male": 0.621,
+          "Female": 0.379
+        }
+      },
+      "LK-2": {
+        "region_id": "LK-2",
+        "region_name": "Central",
+        "region_ent_type": "province",
+        "values": {
+          "Male": 52358,
+          "Female": 41849
+        },
+        "total_value": 94207,
+        "pct_values": {
+          "Male": 0.5558,
+          "Female": 0.4442
+        }
+      },
+      "LK-3": {
+        "region_id": "LK-3",
+        "region_name": "Southern",
+        "region_ent_type": "province",
+        "values": {
+          "Male": 49537,
+          "Female": 26358
+        },
+        "total_value": 75895,
+        "pct_values": {
+          "Male": 0.6527,
+          "Female": 0.3473
+        }
+      },
+      "LK-4": {
+        "region_id": "LK-4",
+        "region_name": "Northern",
+        "region_ent_type": "province",
+        "values": {
+          "Male": 14002,
+          "Female": 3692
+        },
+        "total_value": 17694,
+        "pct_values": {
+          "Male": 0.7913,
+          "Female": 0.2087
+        }
+      },
+      "LK-5": {
+        "region_id": "LK-5",
+        "region_name": "Eastern",
+        "region_ent_type": "province",
+        "values": {
+          "Male": 57833,
+          "Female": 13385
+        },
+        "total_value": 71218,
+        "pct_values": {
+          "Male": 0.8121,
+          "Female": 0.1879
+        }
+      },
+      "LK-6": {
+        "region_id": "LK-6",
+        "region_name": "North Western",
+        "region_ent_type": "province",
+        "values": {
+          "Male": 61884,
+          "Female": 49455
+        },
+        "total_value": 111339,
+        "pct_values": {
+          "Male": 0.5558,
+          "Female": 0.4442
+        }
+      },
+      "LK-7": {
+        "region_id": "LK-7",
+        "region_name": "North Central",
+        "region_ent_type": "province",
+        "values": {
+          "Female": 20062,
+          "Male": 18776
+        },
+        "total_value": 38838,
+        "pct_values": {
+          "Female": 0.5166,
+          "Male": 0.4834
+        }
+      },
+      "LK-8": {
+        "region_id": "LK-8",
+        "region_name": "Uva",
+        "region_ent_type": "province",
+        "values": {
+          "Female": 9546,
+          "Male": 8514
+        },
+        "total_value": 18060,
+        "pct_values": {
+          "Female": 0.5286,
+          "Male": 0.4714
+        }
+      },
+      "LK-9": {
+        "region_id": "LK-9",
+        "region_name": "Sabaragamuwa",
+        "region_ent_type": "province",
+        "values": {
+          "Male": 26328,
+          "Female": 19802
+        },
+        "total_value": 46130,
+        "pct_values": {
+          "Male": 0.5707,
+          "Female": 0.4293
+        }
+      },
+      "EC-01": {
+        "region_id": "EC-01",
+        "region_name": "Colombo",
+        "region_ent_type": "ed",
+        "values": {
+          "Male": 43531,
+          "Female": 27908
+        },
+        "total_value": 71439,
+        "pct_values": {
+          "Male": 0.6093,
+          "Female": 0.3907
+        }
+      },
+      "EC-02": {
+        "region_id": "EC-02",
+        "region_name": "Gampaha",
+        "region_ent_type": "ed",
+        "values": {
+          "Male": 54734,
+          "Female": 31343
+        },
+        "total_value": 86077,
+        "pct_values": {
+          "Male": 0.6359,
+          "Female": 0.3641
+        }
+      },
+      "EC-03": {
+        "region_id": "EC-03",
+        "region_name": "Kalutara",
+        "region_ent_type": "ed",
+        "values": {
+          "Male": 25238,
+          "Female": 16114
+        },
+        "total_value": 41352,
+        "pct_values": {
+          "Male": 0.6103,
+          "Female": 0.3897
+        }
+      },
+      "EC-04": {
+        "region_id": "EC-04",
+        "region_name": "Kandy",
+        "region_ent_type": "ed",
+        "values": {
+          "Male": 35518,
+          "Female": 21712
+        },
+        "total_value": 57230,
+        "pct_values": {
+          "Male": 0.6206,
+          "Female": 0.3794
+        }
+      },
+      "EC-05": {
+        "region_id": "EC-05",
+        "region_name": "Matale",
+        "region_ent_type": "ed",
+        "values": {
+          "Male": 10682,
+          "Female": 9382
+        },
+        "total_value": 20064,
+        "pct_values": {
+          "Male": 0.5324,
+          "Female": 0.4676
+        }
+      },
+      "EC-06": {
+        "region_id": "EC-06",
+        "region_name": "Nuwara-Eliya",
+        "region_ent_type": "ed",
+        "values": {
+          "Female": 10755,
+          "Male": 6158
+        },
+        "total_value": 16913,
+        "pct_values": {
+          "Female": 0.6359,
+          "Male": 0.3641
+        }
+      },
+      "EC-07": {
+        "region_id": "EC-07",
+        "region_name": "Galle",
+        "region_ent_type": "ed",
+        "values": {
+          "Male": 25283,
+          "Female": 15061
+        },
+        "total_value": 40344,
+        "pct_values": {
+          "Male": 0.6267,
+          "Female": 0.3733
+        }
+      },
+      "EC-08": {
+        "region_id": "EC-08",
+        "region_name": "Matara",
+        "region_ent_type": "ed",
+        "values": {
+          "Male": 14822,
+          "Female": 6498
+        },
+        "total_value": 21320,
+        "pct_values": {
+          "Male": 0.6952,
+          "Female": 0.3048
+        }
+      },
+      "EC-09": {
+        "region_id": "EC-09",
+        "region_name": "Hambantota",
+        "region_ent_type": "ed",
+        "values": {
+          "Male": 9432,
+          "Female": 4799
+        },
+        "total_value": 14231,
+        "pct_values": {
+          "Male": 0.6628,
+          "Female": 0.3372
+        }
+      },
+      "EC-10": {
+        "region_id": "EC-10",
+        "region_name": "Jaffna",
+        "region_ent_type": "ed",
+        "values": {
+          "Male": 9400,
+          "Female": 1650
+        },
+        "total_value": 11050,
+        "pct_values": {
+          "Male": 0.8507,
+          "Female": 0.1493
+        }
+      },
+      "EC-11": {
+        "region_id": "EC-11",
+        "region_name": "Vanni",
+        "region_ent_type": "ed",
+        "values": {
+          "Male": 4602,
+          "Female": 2042
+        },
+        "total_value": 6644,
+        "pct_values": {
+          "Male": 0.6927,
+          "Female": 0.3073
+        }
+      },
+      "EC-12": {
+        "region_id": "EC-12",
+        "region_name": "Batticaloa",
+        "region_ent_type": "ed",
+        "values": {
+          "Male": 23723,
+          "Female": 4536
+        },
+        "total_value": 28259,
+        "pct_values": {
+          "Male": 0.8395,
+          "Female": 0.1605
+        }
+      },
+      "EC-13": {
+        "region_id": "EC-13",
+        "region_name": "Digamadulla",
+        "region_ent_type": "ed",
+        "values": {
+          "Male": 26917,
+          "Female": 4420
+        },
+        "total_value": 31337,
+        "pct_values": {
+          "Male": 0.859,
+          "Female": 0.141
+        }
+      },
+      "EC-14": {
+        "region_id": "EC-14",
+        "region_name": "Trincomalee",
+        "region_ent_type": "ed",
+        "values": {
+          "Male": 7193,
+          "Female": 4429
+        },
+        "total_value": 11622,
+        "pct_values": {
+          "Male": 0.6189,
+          "Female": 0.3811
+        }
+      },
+      "EC-15": {
+        "region_id": "EC-15",
+        "region_name": "Kurunegala",
+        "region_ent_type": "ed",
+        "values": {
+          "Male": 34699,
+          "Female": 29417
+        },
+        "total_value": 64116,
+        "pct_values": {
+          "Male": 0.5412,
+          "Female": 0.4588
+        }
+      },
+      "EC-16": {
+        "region_id": "EC-16",
+        "region_name": "Puttalam",
+        "region_ent_type": "ed",
+        "values": {
+          "Male": 27185,
+          "Female": 20038
+        },
+        "total_value": 47223,
+        "pct_values": {
+          "Male": 0.5757,
+          "Female": 0.4243
+        }
+      },
+      "EC-17": {
+        "region_id": "EC-17",
+        "region_name": "Anuradhapura",
+        "region_ent_type": "ed",
+        "values": {
+          "Female": 13279,
+          "Male": 12343
+        },
+        "total_value": 25622,
+        "pct_values": {
+          "Female": 0.5183,
+          "Male": 0.4817
+        }
+      },
+      "EC-18": {
+        "region_id": "EC-18",
+        "region_name": "Polonnaruwa",
+        "region_ent_type": "ed",
+        "values": {
+          "Female": 6783,
+          "Male": 6433
+        },
+        "total_value": 13216,
+        "pct_values": {
+          "Female": 0.5132,
+          "Male": 0.4868
+        }
+      },
+      "EC-19": {
+        "region_id": "EC-19",
+        "region_name": "Badulla",
+        "region_ent_type": "ed",
+        "values": {
+          "Female": 7483,
+          "Male": 5749
+        },
+        "total_value": 13232,
+        "pct_values": {
+          "Female": 0.5655,
+          "Male": 0.4345
+        }
+      },
+      "EC-20": {
+        "region_id": "EC-20",
+        "region_name": "Moneragala",
+        "region_ent_type": "ed",
+        "values": {
+          "Male": 2765,
+          "Female": 2063
+        },
+        "total_value": 4828,
+        "pct_values": {
+          "Male": 0.5727,
+          "Female": 0.4273
+        }
+      },
+      "EC-21": {
+        "region_id": "EC-21",
+        "region_name": "Ratnapura",
+        "region_ent_type": "ed",
+        "values": {
+          "Male": 10145,
+          "Female": 8551
+        },
+        "total_value": 18696,
+        "pct_values": {
+          "Male": 0.5426,
+          "Female": 0.4574
+        }
+      },
+      "EC-22": {
+        "region_id": "EC-22",
+        "region_name": "Kegalle",
+        "region_ent_type": "ed",
+        "values": {
+          "Male": 16183,
+          "Female": 11251
+        },
+        "total_value": 27434,
+        "pct_values": {
+          "Male": 0.5899,
+          "Female": 0.4101
+        }
+      }
+    }
+  }
+}
