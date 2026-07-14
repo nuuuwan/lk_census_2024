@@ -1,6 +1,6 @@
 [
   {
-    "null": "Sri Lanka",
+    "ethnicity": "Sri Lanka",
     "values": {
       "p_sinhala_literacy_rate_2012": 0.797,
       "p_sinhala_literacy_rate_2024": 0.852,
@@ -13,7 +13,7 @@
     }
   },
   {
-    "null": "Sinhala",
+    "ethnicity": "Sinhala",
     "values": {
       "p_sinhala_literacy_rate_2012": 0.964,
       "p_sinhala_literacy_rate_2024": 0.978,
@@ -26,7 +26,7 @@
     }
   },
   {
-    "null": "Sri Lanka Tamil",
+    "ethnicity": "Sri Lanka Tamil",
     "values": {
       "p_sinhala_literacy_rate_2012": 0.173,
       "p_sinhala_literacy_rate_2024": 0.363,
@@ -39,7 +39,7 @@
     }
   },
   {
-    "null": "Indian Tamil/Malaiyaga Thamilar",
+    "ethnicity": "Indian Tamil/Malaiyaga Thamilar",
     "values": {
       "p_sinhala_literacy_rate_2012": 0.209,
       "p_sinhala_literacy_rate_2024": 0.408,
@@ -52,7 +52,7 @@
     }
   },
   {
-    "null": "Sri Lanka Moor/Muslim",
+    "ethnicity": "Sri Lanka Moor/Muslim",
     "values": {
       "p_sinhala_literacy_rate_2012": 0.406,
       "p_sinhala_literacy_rate_2024": 0.625,
@@ -65,7 +65,7 @@
     }
   },
   {
-    "null": "Burgher",
+    "ethnicity": "Burgher",
     "values": {
       "p_sinhala_literacy_rate_2012": 0.77,
       "p_sinhala_literacy_rate_2024": 0.818,
@@ -78,7 +78,7 @@
     }
   },
   {
-    "null": "Malay",
+    "ethnicity": "Malay",
     "values": {
       "p_sinhala_literacy_rate_2012": 0.818,
       "p_sinhala_literacy_rate_2024": 0.927,
@@ -91,7 +91,7 @@
     }
   },
   {
-    "null": "Other",
+    "ethnicity": "Other",
     "values": {
       "p_sinhala_literacy_rate_2012": 0.541,
       "p_sinhala_literacy_rate_2024": 0.561,

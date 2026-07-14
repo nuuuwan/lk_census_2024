@@ -1,7 +1,7 @@
 # 🇱🇰 Sri Lanka - Census of Population and Housing 2024
 
 ![CPH](https://img.shields.io/badge/CPH-2024-blue)
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--07--14_12:35:53-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--07--14_12:37:44-green)
 
 **154** Datasets on Population, Housing and more, by Country, Province, District, Divisional Secretariat Division (DSD), Grama Niladhari Division (GND), Electoral District (ED), Polling Division (PD), and Local Government Authority (LG) levels.
 
@@ -3372,7 +3372,7 @@ ntroduction |  |
 
 ### Data Table
 
-| Null | P Sinhala Literacy Rate 2012 | P Sinhala Literacy Rate 2024 | P Tamil Literacy Rate 2012 | P Tamil Literacy Rate 2024 | P English Literacy Rate 2012 | P English Literacy Rate 2024 | P At Least One Literacy Rate 2012 | P At Least One Literacy Rate 2024 |
+| Ethnicity | P Sinhala Literacy Rate 2012 | P Sinhala Literacy Rate 2024 | P Tamil Literacy Rate 2012 | P Tamil Literacy Rate 2024 | P English Literacy Rate 2012 | P English Literacy Rate 2024 | P At Least One Literacy Rate 2012 | P At Least One Literacy Rate 2024 |
 | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- |
 | Sri Lanka | 0.797 | 0.852 | 0.264 | 0.453 | 0.308 | 0.573 | 0.957 | 0.974 |
 | Sinhala | 0.964 | 0.978 | 0.053 | 0.292 | 0.311 | 0.586 | 0.965 | 0.981 |
@@ -3387,7 +3387,7 @@ ntroduction |  |
 
 ```json
 {
-    "Null": "Sri Lanka",
+    "Ethnicity": "Sri Lanka",
     "P Sinhala Literacy Rate 2012": 0.797,
     "P Sinhala Literacy Rate 2024": 0.852,
     "P Tamil Literacy Rate 2012": 0.264,

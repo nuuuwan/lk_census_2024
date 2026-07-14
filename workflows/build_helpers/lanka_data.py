@@ -16,7 +16,7 @@ if __name__ == "__main__":
         if table.build_status != 4:
             continue
 
-        if "7.10" != table.table_num:
+        if "7.11" != table.table_num:
             continue
 
         if not table.is_lanka_data_parser_implemented:
