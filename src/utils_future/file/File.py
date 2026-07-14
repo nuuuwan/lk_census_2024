@@ -1,6 +1,6 @@
 import os
 
-from utils_base.file.FileOrDirectory import FileOrDirectory
+from utils_future.file.FileOrDirectory import FileOrDirectory
 
 DIALECT = "excel"
 DELIM_LINE = "\n"

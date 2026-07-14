@@ -41,13 +41,11 @@ class FinalReportTableBase:
 
     @property
     def source_description(self):
-        return (
-            ", ".join(
-                [
-                    f"Table {self.table_num}",
-                    "Final Report",
-                    "2024 Census of Population and Housing",
-                    "Department of Census and Statistics, Sri Lanka",
-                ]
-            ),
+        return ", ".join(
+            [
+                f"Table {self.table_num}",
+                "Final Report",
+                "2024 Census of Population and Housing",
+                "Department of Census and Statistics, Sri Lanka",
+            ]
         )

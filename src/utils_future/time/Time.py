@@ -1,6 +1,6 @@
 import time
 
-from utils_base.time.TimeDelta import TimeDelta
+from utils_future.time.TimeDelta import TimeDelta
 
 
 class Time:

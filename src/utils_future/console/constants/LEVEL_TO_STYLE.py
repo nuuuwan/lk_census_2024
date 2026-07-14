@@ -1,7 +1,7 @@
 import logging
 
-from utils_base.console.constants.COLOR_FOREGROUND import COLOR_FOREGROUND
-from utils_base.console.constants.COLOR_FORMAT import COLOR_FORMAT
+from utils_future.console.constants.COLOR_FOREGROUND import COLOR_FOREGROUND
+from utils_future.console.constants.COLOR_FORMAT import COLOR_FORMAT
 
 LEVEL_TO_STYLE = {
     logging.CRITICAL: dict(

@@ -13,8 +13,19 @@ class FileOrDirectory:
     def exists(self):
         return os.path.exists(self.path)
 
+    MAX_PATH_SHORTER_LEN = 80
+
+    @property
+    def base_name(self):
+        base_name = os.path.basename(self.path)
+        return base_name
+
     def __str__(self):
         return f"{self.path} ({self.size_humanized})"
+
+    @property
+    def short_str(self):
+        return f"{self.base_name} ({self.size_humanized})"
 
     def __hash__(self):
         return hash(self.path)

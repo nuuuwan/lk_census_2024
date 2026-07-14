@@ -4,8 +4,8 @@ import os
 import shutil
 from functools import cached_property
 
-from utils_base.console.Log import Log
-from utils_base.file.File import File
+from utils_future.console.Log import Log
+from utils_future.file.File import File
 
 log = Log("BigJSONFile")
 

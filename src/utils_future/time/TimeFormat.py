@@ -1,7 +1,7 @@
 import time
 
-from utils_base.time.Time import Time
-from utils_base.time.TimeZoneOffset import TimeZoneOffset
+from utils_future.time.Time import Time
+from utils_future.time.TimeZoneOffset import TimeZoneOffset
 
 
 class TimeFormat:
@@ -31,8 +31,8 @@ class TimeFormat:
         return self.format(Time.now())
 
 
-TimeFormat.DATE = TimeFormat('%Y-%m-%d')  # noqa
-TimeFormat.TIME = TimeFormat('%Y-%m-%d %H:%M:%S')  # noqa
+TimeFormat.DATE = TimeFormat("%Y-%m-%d")  # noqa
+TimeFormat.TIME = TimeFormat("%Y-%m-%d %H:%M:%S")  # noqa
 
-TimeFormat.DATE_ID = TimeFormat('%Y%m%d')  # noqa
-TimeFormat.TIME_ID = TimeFormat('%Y%m%d.%H%M%S')  # noqa
+TimeFormat.DATE_ID = TimeFormat("%Y%m%d")  # noqa
+TimeFormat.TIME_ID = TimeFormat("%Y%m%d.%H%M%S")  # noqa

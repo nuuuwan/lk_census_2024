@@ -1,0 +1,95 @@
+# Distribution of Population by Sector, 2012 and 2024
+
+![CPH](https://img.shields.io/badge/CPH-2024-blue)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--07--14-green)
+
+*Table 3.5, Final Report, 2024 Census of Population and Housing, Department of Census and Statistics, Sri Lanka*
+
+## Structured Data (similar to original layout)
+
+```json
+[
+    {
+        "sector": "",
+        "values": {
+            "population_2012": 2012,
+            "population_2024": 2024
+        }
+    },
+    {
+        "sector": "Sri Lanka",
+        "values": {
+            "population_2012": 20359439,
+            "population_2024": 21781800
+        }
+    },
+    {
+        "sector": "Urban*",
+        "values": {
+            "population_2012": 3704470,
+            "population_2024": 3819203
+        }
+    },
+    {
+        "sector": "Rural",
+        "values": {
+            "population_2012": 15753322,
+            "population_2024": 17096918
+        }
+    },
+    {
+...
+```
+
+- Source File: [data.json (612 B)](../../../../data/final-report-tables/chapter-3/3.5-Distribution-of-Population-by-Sector,-2012-and-2024/data.json)
+
+## Raw Data (directly scraped from PDF)
+
+```json
+[
+    [
+        "",
+        "2012",
+        "",
+        "2024",
+        ""
+    ],
+    [
+        "Sector",
+        "Number",
+        "Percentage",
+        "Number",
+        "Percentage"
+    ],
+    [
+        "Sri Lanka",
+        "20,359,439",
+        "100.0",
+        "21,781,800",
+        "100.0"
+    ],
+    [
+        "Urban*",
+        "3,704,470",
+        "18.2",
+        "3,819,203",
+        "17.5"
+    ],
+    [
+...
+```
+- Source File: [raw_data.json (1.3 kB)](../../../../data/final-report-tables/chapter-3/3.5-Distribution-of-Population-by-Sector,-2012-and-2024/raw_data.json)
+
+## Original PDF
+
+![Download the original PDF](../../../../data/final-report-tables/chapter-3/3.5-Distribution-of-Population-by-Sector,-2012-and-2024/original.png)
+
+- Source File: [original.pdf (96.7 kB)](../../../../data/final-report-tables/chapter-3/3.5-Distribution-of-Population-by-Sector,-2012-and-2024/original.pdf)
+
+## Source
+
+- <https://www.statistics.gov.lk/Resource/en/Population/CPH_2024/CPH2024_Final_Eng.pdf#page=71>
+
+![Maintainer](https://img.shields.io/badge/maintainer-nuuuwan-red)
+![MadeWith](https://img.shields.io/badge/made_with-python-blue)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)

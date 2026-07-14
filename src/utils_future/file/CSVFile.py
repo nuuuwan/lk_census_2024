@@ -1,7 +1,7 @@
-from utils_base.file.XSVFile import XSVFile
+from utils_future.file.XSVFile import XSVFile
 
 
 class CSVFile(XSVFile):
     @property
     def delimiter(self):
-        return ','
+        return ","

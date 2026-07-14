@@ -1,8 +1,8 @@
 import csv
 
-from utils_base.file.File import File
+from utils_future.file.File import File
 
-DIALECT = 'excel'
+DIALECT = "excel"
 
 
 class XSVFile(File):
@@ -56,7 +56,7 @@ class XSVFile(File):
         )
 
     def write(self, data_list):
-        with open(self.path, 'w', encoding="utf8") as fout:
+        with open(self.path, "w", encoding="utf8") as fout:
             writer = csv.writer(
                 fout,
                 dialect=DIALECT,
