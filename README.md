@@ -1,7 +1,7 @@
 # 🇱🇰 Sri Lanka - Census of Population and Housing 2024
 
 ![CPH](https://img.shields.io/badge/CPH-2024-blue)
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--07--14_10:21:48-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--07--14_11:17:34-green)
 
 **154** Datasets on Population, Housing and more, by Country, Province, District, Divisional Secretariat Division (DSD), Grama Niladhari Division (GND), Electoral District (ED), Polling Division (PD), and Local Government Authority (LG) levels.
 
@@ -614,11 +614,12 @@
 | status | status_label | n |
 | :-- | :-- | --: |
 | 2 | 🔴 Raw data is difficult to parse | 21 |
-| 4 | 🟡 Lanka data is missing | 121 |
+| 4 | 🟡 Lanka data is missing | 116 |
+| 5 | 🟢 Complete | 5 |
 
 ## 13. [Officers who have  Assigned for Census of Population and Housing 2024 Activities](data/final-report-tables/chapter-1/1.1.1-Officers-who-have--Assigned-for-Census-of-Population-and-Housing-2024-Activities)
 
-*4 - 🟡 Lanka data is missing*
+*5 - 🟢 Complete*
 
 ### Data Table (first 10 of 57 rows)
 
@@ -755,7 +756,7 @@
 
 ## 16. [Administrative Structure by District, 1981](data/final-report-tables/chapter-2/2.2-Administrative-Structure-by-District,-1981)
 
-*4 - 🟡 Lanka data is missing*
+*5 - 🟢 Complete*
 
 ### Data Table (first 10 of 56 rows)
 
@@ -794,7 +795,7 @@
 
 ## 17. [Administrative Structure by District, 2012](data/final-report-tables/chapter-2/2.3-Administrative-Structure-by-District,-2012)
 
-*4 - 🟡 Lanka data is missing*
+*5 - 🟢 Complete*
 
 ### Data Table (first 10 of 57 rows)
 
@@ -833,7 +834,7 @@
 
 ## 18. [Administrative Structure by District, 2024](data/final-report-tables/chapter-2/2.4-Administrative-Structure-by-District,-2024)
 
-*4 - 🟡 Lanka data is missing*
+*5 - 🟢 Complete*
 
 ### Data Table (first 10 of 57 rows)
 
@@ -1041,7 +1042,7 @@
 
 ## 24. [Population Distribution by District and Sector, 2024](data/final-report-tables/chapter-3/3.6-Population-Distribution-by-District-and-Sector,-2024)
 
-*4 - 🟡 Lanka data is missing*
+*5 - 🟢 Complete*
 
 ### Data Table (first 10 of 57 rows)
 
