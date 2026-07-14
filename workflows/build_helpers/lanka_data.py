@@ -42,6 +42,7 @@ if __name__ == "__main__":
                 }
             table.lanka_data_metadata_file.write(lanka_data_metadata)
             table.lanka_data_metadata_file.open("code")
+            break
 
         else:
             lanka_data = table.build_lanka_data()
