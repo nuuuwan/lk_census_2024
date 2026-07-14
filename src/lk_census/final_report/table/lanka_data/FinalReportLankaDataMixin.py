@@ -32,13 +32,19 @@ class FinalReportLankaDataMixin(FinalReportLankaMetaDataMixin):
         return data
 
     @property
-    def is_lanka_data_parser_implemented(self):
+    def is_admin_region_dataset(self):
         data_list = self.data_list
         first_data = data_list[0]
 
         if "region_id" not in first_data:
             log.warning("No region_id. Skipping")
             return False
+        return True
+
+    @property
+    def is_lanka_data_parser_implemented(self):
+        data_list = self.data_list
+        first_data = data_list[0]
 
         if "total_value" not in first_data:
             log.warning("No total_value. Skipping")
@@ -65,15 +71,7 @@ class FinalReportLankaDataMixin(FinalReportLankaMetaDataMixin):
             return False
         return True
 
-    def build_lanka_data(self, force=False):
-        if not force and self.lanka_data_file.exists:
-            return self.lanka_data_file.read()
-
-        if not self.is_lanka_data_parser_implemented:
-            return None
-
-        if not self.is_lanka_data_metadata_complete:
-            return None
+    def build_lanka_data_for_regions(self):
 
         where_types = list(
             set([data["region_ent_type"] for data in self.data_list])
@@ -97,6 +95,21 @@ class FinalReportLankaDataMixin(FinalReportLankaMetaDataMixin):
         self.lanka_data_file.write(lanka_data)
         log.info(f"Wrote {self.lanka_data_file}")
         return lanka_data
+
+    def build_lanka_data(self, force=False):
+        if not force and self.lanka_data_file.exists:
+            return self.lanka_data_file.read()
+
+        if not self.is_admin_region_dataset:
+            return None
+
+        if not self.is_lanka_data_parser_implemented:
+            return None
+
+        if not self.is_lanka_data_metadata_complete:
+            return None
+
+        return self.build_lanka_data_for_regions()
 
     @property
     def lanka_data(self):
