@@ -43,6 +43,33 @@
 
 - Source File: [data.json (4.7 MB)](../../data/Population-Religion/data.json)
 
+## Structured TSV Data (similar to original layout) - First 20 rows
+
+| region_id | region_name | region_ent_type | total_value | buddhist | hindu | islam | roman_catholic | other_christian | other |
+| :-- | :-- | :-- | --: | :-- | :-- | :-- | :-- | :-- | :-- |
+| LK | Sri Lanka | country | 21781800 | 15196960 | 2718154 | 2327605 | 1209072 | 266515 | 63494 |
+| LK-1 | Western | province | 6117341 | 4507601 | 305971 | 568301 | 616413 | 104869 | 14186 |
+| LK-2 | Central | province | 2714045 | 1760853 | 565722 | 296754 | 55680 | 26421 | 8615 |
+| LK-3 | Southern | province | 2606679 | 2463066 | 28775 | 92985 | 5093 | 7568 | 9192 |
+| LK-6 | North Western | province | 2586972 | 1918652 | 43060 | 318870 | 278850 | 17211 | 10329 |
+| LK-12 | Gampaha | district | 2436142 | 1744475 | 67337 | 132985 | 441173 | 43053 | 7119 |
+| EC-02 | Gampaha | ed | 2436142 | 1744475 | 67337 | 132985 | 441173 | 43053 | 7119 |
+| LK-11 | Colombo | district | 2375415 | 1682524 | 197524 | 297852 | 139690 | 55217 | 2608 |
+| EC-01 | Colombo | ed | 2375415 | 1682524 | 197524 | 297852 | 139690 | 55217 | 2608 |
+| LK-9 | Sabaragamuwa | province | 2015899 | 1728595 | 158799 | 98549 | 14257 | 10416 | 5283 |
+| LK-5 | Eastern | province | 1783214 | 388164 | 596842 | 706572 | 46596 | 41109 | 3931 |
+| LK-61 | Kurunegala | district | 1768156 | 1557548 | 15155 | 142329 | 38045 | 7359 | 7720 |
+| EC-15 | Kurunegala | ed | 1768156 | 1557548 | 15155 | 142329 | 38045 | 7359 | 7720 |
+| LK-21 | Kandy | district | 1461895 | 1063437 | 143193 | 223243 | 17093 | 9656 | 5273 |
+| EC-04 | Kandy | ed | 1461895 | 1063437 | 143193 | 223243 | 17093 | 9656 | 5273 |
+| LK-7 | North Central | province | 1407610 | 1262247 | 9588 | 120511 | 6869 | 3663 | 4732 |
+| LK-8 | Uva | province | 1399892 | 1135408 | 180305 | 65203 | 9852 | 5431 | 3693 |
+| LK-13 | Kalutara | district | 1305784 | 1080602 | 41110 | 137464 | 35550 | 6599 | 4459 |
+| EC-03 | Kalutara | ed | 1305784 | 1080602 | 41110 | 137464 | 35550 | 6599 | 4459 |
+| LK-4 | Northern | province | 1150148 | 32374 | 829092 | 59860 | 175462 | 49827 | 3533 |
+
+- Source File: [data.tsv (753.6 kB)](../../data/Population-Religion/data.tsv)
+
 ## Source
 
 - <https://www.statistics.gov.lk/Population/StaticalInformation/CPH2024/GNLevel/GN_Level_Population_by_Religion>

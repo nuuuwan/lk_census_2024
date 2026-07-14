@@ -1,7 +1,15 @@
 import json
 import os
 
-from utils_future import File, Format, JSONFile, Log, Time, TimeFormat
+from utils_future import (
+    File,
+    Format,
+    JSONFile,
+    Log,
+    Markdown,
+    Time,
+    TimeFormat,
+)
 
 log = Log("CommonTableReadMeMixin")
 
@@ -83,6 +91,27 @@ class CommonTableReadMeMixin:
         ]
         return lines
 
+    def get_lines_for_tsv(self):
+        if not self.tsv_file.exists:
+            return []
+
+        N_ROWS = 20
+        d_list = self.tsv_file.read()
+        suffix = ""
+        if len(d_list) > N_ROWS:
+            d_list = d_list[:N_ROWS]
+            suffix = f" - First {N_ROWS} rows"
+
+        lines = [
+            "## Structured TSV Data (similar to original layout)" + suffix,
+            "",
+            *Markdown.table(d_list),
+            f"- Source File: [{self.tsv_file.short_str}]"
+            + f"({self.base_dir}{self.tsv_file.path})",
+            "",
+        ]
+        return lines
+
     def get_lines_for_raw_data(self):
         if not self.raw_data_file.exists:
             return []
@@ -136,6 +165,7 @@ class CommonTableReadMeMixin:
             self.get_lines_for_header()
             + self.get_lines_for_lanka_data()
             + self.get_lines_for_data()
+            + self.get_lines_for_tsv()
             + self.get_lines_for_raw_data()
             + self.get_lines_for_original_pdf()
             + self.get_lines_for_source()
@@ -152,6 +182,10 @@ class CommonTableReadMeMixin:
         return self.readme_file.read()
 
     # DUMMY functions
+
+    @property
+    def tsv_file(self):
+        return JSONFile(os.path.join(self.dir_data, "data.tsv"))
 
     @property
     def raw_data_file(self):
