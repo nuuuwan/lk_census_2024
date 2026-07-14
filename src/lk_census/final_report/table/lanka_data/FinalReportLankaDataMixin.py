@@ -117,12 +117,8 @@ class FinalReportLankaDataMixin(FinalReportLankaMetaDataMixin):
 
         return True
 
-    def get_lanka_data_for_regions(self):
-
-        where_types = list(
-            set([data["region_ent_type"] for data in self.data_list])
-        )
-        _meta = dict(
+    def _get_meta(self, where_types):
+        return dict(
             source_url=self.source_url,
             source_description=self.source_description,
             what={self.what_label: Parse.str(self.table_name)},
@@ -130,11 +126,43 @@ class FinalReportLankaDataMixin(FinalReportLankaMetaDataMixin):
             where_types=where_types,
         )
 
+    def get_lanka_data_for_regions(self):
+
+        where_types = list(
+            set([data["region_ent_type"] for data in self.data_list])
+        )
+        _meta = self._get_meta(where_types)
+
         idx = {}
         for data in self.data_list:
             data = self._expand_values(data)
 
             idx[data["region_id"]] = data
+
+        lanka_data = dict(_meta=_meta)
+        lanka_data[self.what_label] = {self.when_label: idx}
+        return lanka_data
+
+    def _get_where_types(self):
+
+        if self.is_admin_region_dataset:
+            return list(
+                set([data["region_ent_type"] for data in self.data_list])
+            )
+
+        where_type = list(self.data_list[0].keys())[0]
+        assert where_type not in ["region_id", "values", "total_value"]
+        return [where_type]
+
+    def _get_lanka_data(self):
+        where_types = self._get_where_types()
+        _meta = self._get_meta(where_types)
+        first_key = list(self.data_list[0].keys())[0]
+
+        idx = {}
+        for data in self.data_list:
+            data = self._expand_values(data)
+            idx[data[first_key]] = data
 
         lanka_data = dict(_meta=_meta)
         lanka_data[self.what_label] = {self.when_label: idx}
@@ -150,10 +178,7 @@ class FinalReportLankaDataMixin(FinalReportLankaMetaDataMixin):
         if not self.is_lanka_data_metadata_complete:
             return None
 
-        if self.is_admin_region_dataset:
-            lanka_data = self.get_lanka_data_for_regions()
-        else:
-            return None
+        lanka_data = self._get_lanka_data()
 
         self.lanka_data_file.write(lanka_data)
         log.info(f"Wrote {self.lanka_data_file}")
