@@ -1,7 +1,7 @@
 # 🇱🇰 Sri Lanka - Census of Population and Housing 2024
 
 ![CPH](https://img.shields.io/badge/CPH-2024-blue)
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--07--14_14:11:33-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--07--14_14:12:39-green)
 
 **154** Datasets on Population, Housing and more, by Country, Province, District, Divisional Secretariat Division (DSD), Grama Niladhari Division (GND), Electoral District (ED), Polling Division (PD), and Local Government Authority (LG) levels.
 
@@ -614,8 +614,8 @@
 | status | status_label | n |
 | :-- | :-- | --: |
 | 2 | 🔴 Raw data is difficult to parse | 21 |
-| 4 | 🟡 Lanka data is missing | 104 |
-| 5 | ✅ All Stages Complete | 17 |
+| 4 | 🟡 Lanka data is missing | 103 |
+| 5 | ✅ All Stages Complete | 18 |
 
 ## 13. [Officers who have  Assigned for Census of Population and Housing 2024 Activities](data/final-report-tables/chapter-1/1.1.1-Officers-who-have--Assigned-for-Census-of-Population-and-Housing-2024-Activities)
 
@@ -2249,38 +2249,42 @@ over or dressing | 19,926,695 | 969 | 450,693 | 22 | 124,756 | 6 | 64,536 | 3 |
 
 ## 55. [Distribution of Persons Aged 5 Years and Over with Physical and Mental Difficulties by Age Group andDifficulties, 2024](data/final-report-tables/chapter-6/6.2.3-Distribution-of-Persons-Aged-5-Years-and-Over-with-Physical-and-Mental-Difficulties-by-Age-Group-andDifficulties,-2024)
 
-*Build Status (**4**/5) 🟡 Lanka data is missing*
+*Build Status (**5**/5) ✅ All Stages Complete*
 
-### Data Table (first 10 of 17 rows)
-
-| Age Group | Difficulty In Seeing | Difficulty In Hearing | Difficulty In Walking Or Climbing Steps | Difficulty In Remembering Or Concentrating | Difficulty In Selfcare Such As Washing Or Dressing | Difficulty In Communicating With Others | No Disability | Total Description | Total Value |
-| :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- |
-| Sri Lanka | 1939955 | 732771 | 1704064 | 787612 | 639985 | 420813 | 14341480 | population_aged_5_years_and_above | 20566680 |
-| 05 - 09 | 11808 | 4493 | 11683 | 13430 | 29556 | 17505 | 1468048 | population_aged_5_years_and_above | 1556523 |
-| 10 - 14 | 21988 | 6004 | 12967 | 12676 | 11908 | 14088 | 1655565 | population_aged_5_years_and_above | 1735196 |
-| 15 - 19 | 30524 | 6589 | 14523 | 13647 | 10169 | 14490 | 1705096 | population_aged_5_years_and_above | 1795038 |
-| 20 - 24 | 27860 | 6274 | 14656 | 12703 | 9315 | 13383 | 1524415 | population_aged_5_years_and_above | 1608606 |
-| 25 - 29 | 24105 | 6590 | 15010 | 12176 | 8836 | 12367 | 1293374 | population_aged_5_years_and_above | 1372458 |
-| 30 - 34 | 26681 | 7805 | 19457 | 13634 | 9723 | 13393 | 1323367 | population_aged_5_years_and_above | 1414060 |
-| 35 - 39 | 38818 | 8894 | 27929 | 15406 | 11353 | 13775 | 1336528 | population_aged_5_years_and_above | 1452703 |
-| 40 - 44 | 106436 | 13057 | 45340 | 19938 | 14847 | 15870 | 1386856 | population_aged_5_years_and_above | 1602344 |
-| 45 - 49 | 163791 | 18517 | 68656 | 23994 | 18532 | 17318 | 1179957 | population_aged_5_years_and_above | 1490765 |
-
-### Example Data Row (JSON)
+### Lanka Data (first 30 of 410 lines)
 
 ```json
 {
-    "Age Group": "Sri Lanka",
-    "Difficulty In Seeing": 1939955,
-    "Difficulty In Hearing": 732771,
-    "Difficulty In Walking Or Climbing Steps": 1704064,
-    "Difficulty In Remembering Or Concentrating": 787612,
-    "Difficulty In Selfcare Such As Washing Or Dressing": 639985,
-    "Difficulty In Communicating With Others": 420813,
-    "No Disability": 14341480,
-    "Total Description": "population_aged_5_years_and_above",
-    "Total Value": 20566680
-}
+    "_meta": {
+        "source_url": "https://www.statistics.gov.lk/Resource/en/Population/CPH_2024/CPH2024_Final_Eng.pdf#page=129",
+        "source_description": [
+            "Table 6.2.3, Final Report, 2024 Census of Population and Housing, Department of Census and Statistics, Sri Lanka"
+        ],
+        "what": {
+            "DisabilitiesByAgeGroup": "Distribution of Persons Aged 5 Years and Over with Physical and Mental Difficulties by Age Group andDifficulties, 2024"
+        },
+        "when": "2024",
+        "where_who_types": [
+            "age_group"
+        ]
+    },
+    "DisabilitiesByAgeGroup": {
+        "2024": {
+            "Sri Lanka": {
+                "age_group": "Sri Lanka",
+                "values": {
+                    "NoDisability": 14341480,
+                    "DifficultyInSeeing": 1939955,
+                    "DifficultyInWalkingOrClimbingSteps": 1704064,
+                    "DifficultyInRememberingOrConcentrating": 787612,
+                    "DifficultyInHearing": 732771,
+                    "DifficultyInSelfcareSuchAsWashingOrDressing": 639985,
+                    "DifficultyInCommunicatingWithOthers": 420813
+                },
+                "total_description": "population_aged_5_years_and_above",
+                "total_value": 20566680,
+                "pct_values": {
+...
 ```
 
 ### Source
