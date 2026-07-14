@@ -1,7 +1,7 @@
 # 🇱🇰 Sri Lanka - Census of Population and Housing 2024
 
 ![CPH](https://img.shields.io/badge/CPH-2024-blue)
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--07--14_11:37:17-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--07--14_11:44:17-green)
 
 **154** Datasets on Population, Housing and more, by Country, Province, District, Divisional Secretariat Division (DSD), Grama Niladhari Division (GND), Electoral District (ED), Polling Division (PD), and Local Government Authority (LG) levels.
 
@@ -614,14 +614,14 @@
 | status | status_label | n |
 | :-- | :-- | --: |
 | 2 | 🔴 Raw data is difficult to parse | 21 |
-| 4 | 🟡 Lanka data is missing | 110 |
-| 5 | ✅ All Stages Complete | 11 |
+| 4 | 🟡 Lanka data is missing | 113 |
+| 5 | ✅ All Stages Complete | 8 |
 
 ## 13. [Officers who have  Assigned for Census of Population and Housing 2024 Activities](data/final-report-tables/chapter-1/1.1.1-Officers-who-have--Assigned-for-Census-of-Population-and-Housing-2024-Activities)
 
 *Build Status (**5**/5) ✅ All Stages Complete*
 
-### Lanka Data (first 30 of 1611 lines)
+### Lanka Data (first 30 of 1618 lines)
 
 ```json
 {
@@ -632,7 +632,14 @@
         ],
         "what": {
             "CensusOfficers": "Officers who have Assigned for Census of Population and Housing 2024 Activities"
-        }
+        },
+        "when": "2024",
+        "where_types": [
+            "ed",
+            "district",
+            "country",
+            "province"
+        ]
     },
     "CensusOfficers": {
         "2024": {
@@ -647,13 +654,6 @@
                     "OtherNonTechnicalStaff": 70,
                     "TechnicalStaffAreaSupervisors": 53,
                     "TechnicalStaffZonalSupervisorsAndDistrictStatisticalBranchHead": 18,
-                    "DeputyCensusCommissioners": 14,
-                    "AssistantCensusCommissioners": 14,
-                    "TechnicalStaffDivisionalCensusOfficer": 13
-                },
-                "total_value": 3370,
-                "pct_values": {
-                    "EnumeratorsWhoUsedSmartPhonesByoad": 0.5893,
 ...
 ```
 
@@ -759,7 +759,7 @@
 
 *Build Status (**5**/5) ✅ All Stages Complete*
 
-### Lanka Data (first 30 of 1135 lines)
+### Lanka Data (first 30 of 1142 lines)
 
 ```json
 {
@@ -770,7 +770,14 @@
         ],
         "what": {
             "AdministrativeStructure": "Administrative Structure by District, 1981"
-        }
+        },
+        "when": "1981",
+        "where_types": [
+            "province",
+            "country",
+            "district",
+            "ed"
+        ]
     },
     "AdministrativeStructure": {
         "1981": {
@@ -785,13 +792,6 @@
                     "UrbanCouncils": 4,
                     "MunicipalCouncils": 2
                 },
-                "total_value": 141,
-                "pct_values": {
-                    "GramaSevakaDivisions": 0.8582,
-                    "AssistantGovernmentAgendDivisions": 0.0567,
-                    "TownCouncils": 0.0426,
-                    "UrbanCouncils": 0.0284,
-                    "MunicipalCouncils": 0.0142
 ...
 ```
 
@@ -803,7 +803,7 @@
 
 *Build Status (**5**/5) ✅ All Stages Complete*
 
-### Lanka Data (first 30 of 1155 lines)
+### Lanka Data (first 30 of 1162 lines)
 
 ```json
 {
@@ -814,7 +814,14 @@
         ],
         "what": {
             "AdministrativeStructure": "Administrative Structure by District, 2012"
-        }
+        },
+        "when": "2012",
+        "where_types": [
+            "ed",
+            "province",
+            "country",
+            "district"
+        ]
     },
     "AdministrativeStructure": {
         "2012": {
@@ -829,13 +836,6 @@
                     "UrbanCouncils": 5,
                     "TownCouncils": 3
                 },
-                "total_value": 583,
-                "pct_values": {
-                    "GramaSevakaDivisions": 0.9554,
-                    "AssistantGovernmentAgendDivisions": 0.0223,
-                    "MunicipalCouncils": 0.0086,
-                    "UrbanCouncils": 0.0086,
-                    "TownCouncils": 0.0051
 ...
 ```
 
@@ -847,7 +847,7 @@
 
 *Build Status (**5**/5) ✅ All Stages Complete*
 
-### Lanka Data (first 30 of 1155 lines)
+### Lanka Data (first 30 of 1162 lines)
 
 ```json
 {
@@ -858,7 +858,14 @@
         ],
         "what": {
             "AdministrativeStructure": "Administrative Structure by District, 2024"
-        }
+        },
+        "when": "2024",
+        "where_types": [
+            "province",
+            "district",
+            "country",
+            "ed"
+        ]
     },
     "AdministrativeStructure": {
         "2024": {
@@ -873,13 +880,6 @@
                     "UrbanCouncils": 5,
                     "TownCouncils": 3
                 },
-                "total_value": 583,
-                "pct_values": {
-                    "GramaSevakaDivisions": 0.9554,
-                    "AssistantGovernmentAgendDivisions": 0.0223,
-                    "MunicipalCouncils": 0.0086,
-                    "UrbanCouncils": 0.0086,
-                    "TownCouncils": 0.0051
 ...
 ```
 
@@ -1058,42 +1058,36 @@
 
 ## 24. [Population Distribution by District and Sector, 2024](data/final-report-tables/chapter-3/3.6-Population-Distribution-by-District-and-Sector,-2024)
 
-*Build Status (**5**/5) ✅ All Stages Complete*
+*Build Status (**4**/5) 🟡 Lanka data is missing*
 
-### Lanka Data (first 30 of 1041 lines)
+### Data Table (first 10 of 57 rows)
+
+| Region Id | Region Name | Region Ent Type | Population Urban | Population Estate Urban | Population Rural | Population Estate Rural | Total Value |
+| :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- |
+| LK-11 | Colombo | district | 1773222 | 3874 | 593669 | 4650 | 2375415 |
+| LK-12 | Gampaha | district | 350441 | 0 | 2085307 | 394 | 2436142 |
+| LK-13 | Kalutara | district | 149939 | 864 | 1120942 | 34039 | 1305784 |
+| LK-21 | Kandy | district | 171416 | 241 | 1208607 | 81631 | 1461895 |
+| LK-22 | Matale | district | 62848 | 0 | 447122 | 16900 | 526870 |
+| LK-23 | Nuwara Eliya | district | 36649 | 5666 | 308357 | 374608 | 725280 |
+| LK-31 | Galle | district | 135514 | 0 | 944811 | 17047 | 1097372 |
+| LK-32 | Matara | district | 98886 | 0 | 721903 | 17100 | 837889 |
+| LK-33 | Hambantota | district | 33918 | 0 | 637442 | 58 | 671418 |
+| LK-41 | Jaffna | district | 113821 | 0 | 480930 | 0 | 594751 |
+
+### Example Data Row (JSON)
 
 ```json
 {
-    "_meta": {
-        "source_url": "https://www.statistics.gov.lk/Resource/en/Population/CPH_2024/CPH2024_Final_Eng.pdf#page=72",
-        "source_description": [
-            "Table 3.6, Final Report, 2024 Census of Population and Housing, Department of Census and Statistics, Sri Lanka"
-        ],
-        "what": {
-            "PopulationBySector": "Population Distribution by District and Sector, 2024"
-        }
-    },
-    "PopulationBySector": {
-        "2024": {
-            "LK-11": {
-                "region_id": "LK-11",
-                "region_name": "Colombo",
-                "region_ent_type": "district",
-                "values": {
-                    "PopulationUrban": 1773222,
-                    "PopulationRural": 593669,
-                    "PopulationEstateRural": 4650,
-                    "PopulationEstateUrban": 3874
-                },
-                "total_value": 2375415,
-                "pct_values": {
-                    "PopulationUrban": 0.7465,
-                    "PopulationRural": 0.2499,
-                    "PopulationEstateRural": 0.002,
-                    "PopulationEstateUrban": 0.0016
-                }
-            },
-...
+    "Region Id": "LK-11",
+    "Region Name": "Colombo",
+    "Region Ent Type": "district",
+    "Population Urban": 1773222,
+    "Population Estate Urban": 3874,
+    "Population Rural": 593669,
+    "Population Estate Rural": 4650,
+    "Total Value": 2375415
+}
 ```
 
 ### Source
@@ -1104,7 +1098,7 @@
 
 *Build Status (**5**/5) ✅ All Stages Complete*
 
-### Lanka Data (first 30 of 415 lines)
+### Lanka Data (first 30 of 419 lines)
 
 ```json
 {
@@ -1115,7 +1109,11 @@
         ],
         "what": {
             "MigrantsLifetime": "Lifetime Migrants by District of Dirth and District of Usual Residence,"
-        }
+        },
+        "when": "2024",
+        "where_types": [
+            "district"
+        ]
     },
     "MigrantsLifetime": {
         "2024": {
@@ -1133,10 +1131,6 @@
                     "PopulationLocal": 0.7901,
                     "PopulationMigrant": 0.2068,
                     "PopulationForeign": 0.0031
-                }
-            },
-            "LK-12": {
-                "region_id": "LK-12",
 ...
 ```
 
@@ -1298,7 +1292,7 @@
 
 *Build Status (**5**/5) ✅ All Stages Complete*
 
-### Lanka Data (first 30 of 927 lines)
+### Lanka Data (first 30 of 934 lines)
 
 ```json
 {
@@ -1309,7 +1303,14 @@
         ],
         "what": {
             "MigrantsResidenceDuration": "In-migrants by District of Usual Residence and Duration of Residence, 2024"
-        }
+        },
+        "when": "2024",
+        "where_types": [
+            "province",
+            "district",
+            "country",
+            "ed"
+        ]
     },
     "MigrantsResidenceDuration": {
         "2024": {
@@ -1324,13 +1325,6 @@
                 },
                 "total_value": 519379,
                 "pct_values": {
-                    "10OrMoreYears": 0.5873,
-                    "0004Years": 0.2873,
-                    "0409Years": 0.1254
-                }
-            },
-            "LK-12": {
-                "region_id": "LK-12",
 ...
 ```
 
@@ -1385,7 +1379,7 @@
 
 *Build Status (**5**/5) ✅ All Stages Complete*
 
-### Lanka Data (first 30 of 365 lines)
+### Lanka Data (first 30 of 369 lines)
 
 ```json
 {
@@ -1396,7 +1390,11 @@
         ],
         "what": {
             "ResidenceDistrictOrOtherDistrict": "Distribution of the Usually Resident Population of a District by their Permanent Residence, 2024"
-        }
+        },
+        "when": "2024",
+        "where_types": [
+            "district"
+        ]
     },
     "ResidenceDistrictOrOtherDistrict": {
         "2024": {
@@ -1414,10 +1412,6 @@
                     "InOtherDistrict": 0.055
                 }
             },
-            "LK-12": {
-                "region_id": "LK-12",
-                "region_name": "Gampaha",
-                "region_ent_type": "district",
 ...
 ```
 
@@ -1427,42 +1421,34 @@
 
 ## 33. [Population Temporarily Living Abroad by District and Sex, 2024](data/final-report-tables/chapter-5/5.2.1-Population-Temporarily-Living-Abroad-by-District-and-Sex,-2024)
 
-*Build Status (**5**/5) ✅ All Stages Complete*
+*Build Status (**4**/5) 🟡 Lanka data is missing*
 
-### Lanka Data (first 30 of 813 lines)
+### Data Table (first 10 of 57 rows)
+
+| Region Id | Region Name | Region Ent Type | Male | Female | Total Value |
+| :-- | :-- | :-- | :-- | :-- | :-- |
+| LK-11 | Colombo | district | 43531 | 27908 | 71439 |
+| LK-12 | Gampaha | district | 54734 | 31343 | 86077 |
+| LK-13 | Kalutara | district | 25238 | 16114 | 41352 |
+| LK-21 | Kandy | district | 35518 | 21712 | 57230 |
+| LK-22 | Matale | district | 10682 | 9382 | 20064 |
+| LK-23 | Nuwara Eliya | district | 6158 | 10755 | 16913 |
+| LK-31 | Galle | district | 25283 | 15061 | 40344 |
+| LK-32 | Matara | district | 14822 | 6498 | 21320 |
+| LK-33 | Hambantota | district | 9432 | 4799 | 14231 |
+| LK-41 | Jaffna | district | 8091 | 1334 | 9425 |
+
+### Example Data Row (JSON)
 
 ```json
 {
-    "_meta": {
-        "source_url": "https://www.statistics.gov.lk/Resource/en/Population/CPH_2024/CPH2024_Final_Eng.pdf#page=95",
-        "source_description": [
-            "Table 5.2.1, Final Report, 2024 Census of Population and Housing, Department of Census and Statistics, Sri Lanka"
-        ],
-        "what": {
-            "PopulationAbroadBySex": "Population Temporarily Living Abroad by District and Sex, 2024"
-        }
-    },
-    "PopulationAbroadBySex": {
-        "2024": {
-            "LK-11": {
-                "region_id": "LK-11",
-                "region_name": "Colombo",
-                "region_ent_type": "district",
-                "values": {
-                    "Male": 43531,
-                    "Female": 27908
-                },
-                "total_value": 71439,
-                "pct_values": {
-                    "Male": 0.6093,
-                    "Female": 0.3907
-                }
-            },
-            "LK-12": {
-                "region_id": "LK-12",
-                "region_name": "Gampaha",
-                "region_ent_type": "district",
-...
+    "Region Id": "LK-11",
+    "Region Name": "Colombo",
+    "Region Ent Type": "district",
+    "Male": 43531,
+    "Female": 27908,
+    "Total Value": 71439
+}
 ```
 
 ### Source
@@ -1494,42 +1480,36 @@
 
 ## 35. [Population Temporarily Living Abroad by District and Main Reason for Living in Abroad, 2024](data/final-report-tables/chapter-5/5.2.3-Population-Temporarily-Living-Abroad-by-District-and-Main-Reason-for-Living-in-Abroad,-2024)
 
-*Build Status (**5**/5) ✅ All Stages Complete*
+*Build Status (**4**/5) 🟡 Lanka data is missing*
 
-### Lanka Data (first 30 of 1041 lines)
+### Data Table (first 10 of 57 rows)
+
+| Region Id | Region Name | Region Ent Type | Employment | Education | Accompanying Family Member In Need | Other | Total Value |
+| :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- |
+| LK-11 | Colombo | district | 51449 | 12339 | 7230 | 421 | 71439 |
+| LK-12 | Gampaha | district | 67844 | 10894 | 7028 | 311 | 86077 |
+| LK-13 | Kalutara | district | 34819 | 3953 | 2469 | 111 | 41352 |
+| LK-21 | Kandy | district | 48904 | 4242 | 3891 | 193 | 57230 |
+| LK-22 | Matale | district | 18526 | 755 | 730 | 53 | 20064 |
+| LK-23 | Nuwara Eliya | district | 15895 | 402 | 572 | 44 | 16913 |
+| LK-31 | Galle | district | 35722 | 2954 | 1555 | 113 | 40344 |
+| LK-32 | Matara | district | 18282 | 2145 | 840 | 53 | 21320 |
+| LK-33 | Hambantota | district | 12606 | 1184 | 408 | 33 | 14231 |
+| LK-41 | Jaffna | district | 7653 | 877 | 589 | 306 | 9425 |
+
+### Example Data Row (JSON)
 
 ```json
 {
-    "_meta": {
-        "source_url": "https://www.statistics.gov.lk/Resource/en/Population/CPH_2024/CPH2024_Final_Eng.pdf#page=97",
-        "source_description": [
-            "Table 5.2.3, Final Report, 2024 Census of Population and Housing, Department of Census and Statistics, Sri Lanka"
-        ],
-        "what": {
-            "PopulationAbroadByReason": "Population Temporarily Living Abroad by District and Main Reason for Living in Abroad, 2024"
-        }
-    },
-    "PopulationAbroadByReason": {
-        "2024": {
-            "LK-11": {
-                "region_id": "LK-11",
-                "region_name": "Colombo",
-                "region_ent_type": "district",
-                "values": {
-                    "Employment": 51449,
-                    "Education": 12339,
-                    "AccompanyingFamilyMemberInNeed": 7230,
-                    "Other": 421
-                },
-                "total_value": 71439,
-                "pct_values": {
-                    "Employment": 0.7202,
-                    "Education": 0.1727,
-                    "AccompanyingFamilyMemberInNeed": 0.1012,
-                    "Other": 0.0059
-                }
-            },
-...
+    "Region Id": "LK-11",
+    "Region Name": "Colombo",
+    "Region Ent Type": "district",
+    "Employment": 51449,
+    "Education": 12339,
+    "Accompanying Family Member In Need": 7230,
+    "Other": 421,
+    "Total Value": 71439
+}
 ```
 
 ### Source
@@ -1729,42 +1709,36 @@ member’s need |  |  | Other |  |
 
 ## 42. [Population Over and Below 18 Years of Age by Sector and District, 2024](data/final-report-tables/chapter-6/6.1.5-Population-Over-and-Below-18-Years-of-Age-by-Sector-and-District,-2024)
 
-*Build Status (**5**/5) ✅ All Stages Complete*
+*Build Status (**4**/5) 🟡 Lanka data is missing*
 
-### Lanka Data (first 30 of 1041 lines)
+### Data Table (first 10 of 57 rows)
+
+| Region Id | Region Name | Region Ent Type | Male Over 18 Years | Male Under 18 Years | Female Over 18 Years | Female Under 18 Years | Total Value |
+| :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- |
+| LK-11 | Colombo | district | 252843 | 901956 | 244986 | 975630 | 2375415 |
+| LK-12 | Gampaha | district | 279343 | 896126 | 271604 | 989069 | 2436142 |
+| LK-13 | Kalutara | district | 160868 | 470238 | 156846 | 517832 | 1305784 |
+| LK-21 | Kandy | district | 194314 | 502399 | 188986 | 576196 | 1461895 |
+| LK-22 | Matale | district | 72380 | 182841 | 69766 | 201883 | 526870 |
+| LK-23 | Nuwara Eliya | district | 105340 | 241131 | 104274 | 274535 | 725280 |
+| LK-31 | Galle | district | 138737 | 388903 | 134856 | 434876 | 1097372 |
+| LK-32 | Matara | district | 109369 | 292611 | 106295 | 329614 | 837889 |
+| LK-33 | Hambantota | district | 93135 | 236075 | 91535 | 250673 | 671418 |
+| LK-41 | Jaffna | district | 72254 | 209299 | 70534 | 242664 | 594751 |
+
+### Example Data Row (JSON)
 
 ```json
 {
-    "_meta": {
-        "source_url": "https://www.statistics.gov.lk/Resource/en/Population/CPH_2024/CPH2024_Final_Eng.pdf#page=106",
-        "source_description": [
-            "Table 6.1.5, Final Report, 2024 Census of Population and Housing, Department of Census and Statistics, Sri Lanka"
-        ],
-        "what": {
-            "PopulationBySexAndAgeOverOrBelow18": "Population Over and Below 18 Years of Age by Sector and District, 2024"
-        }
-    },
-    "PopulationBySexAndAgeOverOrBelow18": {
-        "2024": {
-            "LK-11": {
-                "region_id": "LK-11",
-                "region_name": "Colombo",
-                "region_ent_type": "district",
-                "values": {
-                    "FemaleUnder18Years": 975630,
-                    "MaleUnder18Years": 901956,
-                    "MaleOver18Years": 252843,
-                    "FemaleOver18Years": 244986
-                },
-                "total_value": 2375415,
-                "pct_values": {
-                    "FemaleUnder18Years": 0.4107,
-                    "MaleUnder18Years": 0.3797,
-                    "MaleOver18Years": 0.1064,
-                    "FemaleOver18Years": 0.1031
-                }
-            },
-...
+    "Region Id": "LK-11",
+    "Region Name": "Colombo",
+    "Region Ent Type": "district",
+    "Male Over 18 Years": 252843,
+    "Male Under 18 Years": 901956,
+    "Female Over 18 Years": 244986,
+    "Female Under 18 Years": 975630,
+    "Total Value": 2375415
+}
 ```
 
 ### Source
@@ -2066,38 +2040,42 @@ member’s need |  |  | Other |  |
 
 ## 51. [Distribution of Population by Religion and District, 2012](data/final-report-tables/chapter-6/6.1.14-Distribution-of-Population-by-Religion-and-District,-2012)
 
-*Build Status (**4**/5) 🟡 Lanka data is missing*
+*Build Status (**5**/5) ✅ All Stages Complete*
 
-### Data Table (first 10 of 58 rows)
-
-| Region Id | Region Name | Region Ent Type | Buddhist | Hindu | Islam | Roman Catholic | Other Christian | Other | Total Value |
-| :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- |
-| LK-11 | Colombo | district | 1632225 | 186454 | 274087 | 162314 | 66994 | 2275 | 2324349 |
-| LK-12 | Gampaha | district | 1642767 | 52973 | 112746 | 449398 | 46080 | 869 | 2304833 |
-| LK-13 | Kalutara | district | 1018909 | 39541 | 114556 | 39774 | 8956 | 212 | 1221948 |
-| LK-21 | Kandy | district | 1009220 | 133744 | 197076 | 22379 | 12798 | 165 | 1375382 |
-| LK-22 | Matale | district | 385151 | 43432 | 45682 | 7899 | 2342 | 25 | 484531 |
-| LK-23 | Nuwara Eliya | district | 278254 | 363163 | 21116 | 33476 | 15508 | 127 | 711644 |
-| LK-31 | Galle | district | 998647 | 15584 | 39267 | 4415 | 5315 | 106 | 1063334 |
-| LK-32 | Matara | district | 766323 | 16421 | 25614 | 2432 | 3208 | 50 | 814048 |
-| LK-33 | Hambantota | district | 580344 | 1222 | 15204 | 1139 | 1692 | 302 | 599903 |
-| LK-41 | Jaffna | district | 2168 | 483255 | 2363 | 75474 | 20511 | 111 | 583882 |
-
-### Example Data Row (JSON)
+### Lanka Data (first 30 of 1276 lines)
 
 ```json
 {
-    "Region Id": "LK-11",
-    "Region Name": "Colombo",
-    "Region Ent Type": "district",
-    "Buddhist": 1632225,
-    "Hindu": 186454,
-    "Islam": 274087,
-    "Roman Catholic": 162314,
-    "Other Christian": 66994,
-    "Other": 2275,
-    "Total Value": 2324349
-}
+    "_meta": {
+        "source_url": "https://www.statistics.gov.lk/Resource/en/Population/CPH_2024/CPH2024_Final_Eng.pdf#page=123",
+        "source_description": [
+            "Table 6.1.14, Final Report, 2024 Census of Population and Housing, Department of Census and Statistics, Sri Lanka"
+        ],
+        "what": {
+            "Religion": "Distribution of Population by Religion and District, 2012"
+        },
+        "when": "2024",
+        "where_types": [
+            "district",
+            "country",
+            "ed",
+            "province"
+        ]
+    },
+    "Religion": {
+        "2024": {
+            "LK-11": {
+                "region_id": "LK-11",
+                "region_name": "Colombo",
+                "region_ent_type": "district",
+                "values": {
+                    "Buddhist": 1632225,
+                    "Islam": 274087,
+                    "Hindu": 186454,
+                    "RomanCatholic": 162314,
+                    "OtherChristian": 66994,
+                    "Other": 2275
+...
 ```
 
 ### Source

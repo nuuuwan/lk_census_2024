@@ -1,8 +1,7 @@
 import os
 
-from lk_census.final_report.table.lanka_data.FinalReportLankaMetaDataMixin import (
-    FinalReportLankaMetaDataMixin,
-)
+from lk_census.final_report.table.lanka_data.FinalReportLankaMetaDataMixin import \
+    FinalReportLankaMetaDataMixin
 from utils_future import JSONFile, Log, Parse, String
 
 log = Log("FinalReportLankaDataMixin")
@@ -53,6 +52,14 @@ class FinalReportLankaDataMixin(FinalReportLankaMetaDataMixin):
             if k.startswith("p_"):
                 log.warning(f"Found key starting with 'p_': {k}")
                 return False
+
+        if "Population" in self.what_label:
+            log.warning("Found 'Population' in what_label. Skipping")
+            return False
+
+        if "Housing" in self.what_label:
+            log.warning("Found 'Housing' in what_label. Skipping")
+            return False
         return True
 
     def build_lanka_data(self, force=False):
@@ -65,13 +72,15 @@ class FinalReportLankaDataMixin(FinalReportLankaMetaDataMixin):
         if not self.is_lanka_data_metadata_complete:
             return None
 
-        region_ids = [data["region_id"] for data in self.data_list]
+        where_types = list(
+            set([data["region_ent_type"] for data in self.data_list])
+        )
         _meta = dict(
             source_url=self.source_url,
             source_description=self.source_description,
             what={self.what_label: Parse.str(self.table_name)},
             when=self.when_label,
-            where=region_ids,
+            where_types=where_types,
         )
 
         idx = {}

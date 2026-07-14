@@ -1,0 +1,934 @@
+{
+  "_meta": {
+    "source_url": "https://www.statistics.gov.lk/Resource/en/Population/CPH_2024/CPH2024_Final_Eng.pdf#page=90",
+    "source_description": [
+      "Table 5.1.6, Final Report, 2024 Census of Population and Housing, Department of Census and Statistics, Sri Lanka"
+    ],
+    "what": {
+      "MigrantsResidenceDuration": "In-migrants by District of Usual Residence and Duration of Residence, 2024"
+    },
+    "when": "2024",
+    "where_types": [
+      "province",
+      "district",
+      "country",
+      "ed"
+    ]
+  },
+  "MigrantsResidenceDuration": {
+    "2024": {
+      "LK-11": {
+        "region_id": "LK-11",
+        "region_name": "Colombo",
+        "region_ent_type": "district",
+        "values": {
+          "10OrMoreYears": 305038,
+          "0004Years": 149236,
+          "0409Years": 65105
+        },
+        "total_value": 519379,
+        "pct_values": {
+          "10OrMoreYears": 0.5873,
+          "0004Years": 0.2873,
+          "0409Years": 0.1254
+        }
+      },
+      "LK-12": {
+        "region_id": "LK-12",
+        "region_name": "Gampaha",
+        "region_ent_type": "district",
+        "values": {
+          "10OrMoreYears": 313338,
+          "0004Years": 139859,
+          "0409Years": 71540
+        },
+        "total_value": 524737,
+        "pct_values": {
+          "10OrMoreYears": 0.5971,
+          "0004Years": 0.2665,
+          "0409Years": 0.1363
+        }
+      },
+      "LK-13": {
+        "region_id": "LK-13",
+        "region_name": "Kalutara",
+        "region_ent_type": "district",
+        "values": {
+          "10OrMoreYears": 116743,
+          "0004Years": 47096,
+          "0409Years": 28994
+        },
+        "total_value": 192833,
+        "pct_values": {
+          "10OrMoreYears": 0.6054,
+          "0004Years": 0.2442,
+          "0409Years": 0.1504
+        }
+      },
+      "LK-21": {
+        "region_id": "LK-21",
+        "region_name": "Kandy",
+        "region_ent_type": "district",
+        "values": {
+          "10OrMoreYears": 106067,
+          "0004Years": 44174,
+          "0409Years": 22248
+        },
+        "total_value": 172489,
+        "pct_values": {
+          "10OrMoreYears": 0.6149,
+          "0004Years": 0.2561,
+          "0409Years": 0.129
+        }
+      },
+      "LK-22": {
+        "region_id": "LK-22",
+        "region_name": "Matale",
+        "region_ent_type": "district",
+        "values": {
+          "10OrMoreYears": 54976,
+          "0004Years": 17519,
+          "0409Years": 10310
+        },
+        "total_value": 82805,
+        "pct_values": {
+          "10OrMoreYears": 0.6639,
+          "0004Years": 0.2116,
+          "0409Years": 0.1245
+        }
+      },
+      "LK-23": {
+        "region_id": "LK-23",
+        "region_name": "Nuwara Eliya",
+        "region_ent_type": "district",
+        "values": {
+          "10OrMoreYears": 40266,
+          "0004Years": 13415,
+          "0409Years": 7253
+        },
+        "total_value": 60934,
+        "pct_values": {
+          "10OrMoreYears": 0.6608,
+          "0004Years": 0.2202,
+          "0409Years": 0.119
+        }
+      },
+      "LK-31": {
+        "region_id": "LK-31",
+        "region_name": "Galle",
+        "region_ent_type": "district",
+        "values": {
+          "10OrMoreYears": 58454,
+          "0004Years": 24208,
+          "0409Years": 12492
+        },
+        "total_value": 95154,
+        "pct_values": {
+          "10OrMoreYears": 0.6143,
+          "0004Years": 0.2544,
+          "0409Years": 0.1313
+        }
+      },
+      "LK-32": {
+        "region_id": "LK-32",
+        "region_name": "Matara",
+        "region_ent_type": "district",
+        "values": {
+          "10OrMoreYears": 58573,
+          "0004Years": 24796,
+          "0409Years": 12589
+        },
+        "total_value": 95958,
+        "pct_values": {
+          "10OrMoreYears": 0.6104,
+          "0004Years": 0.2584,
+          "0409Years": 0.1312
+        }
+      },
+      "LK-33": {
+        "region_id": "LK-33",
+        "region_name": "Hambantota",
+        "region_ent_type": "district",
+        "values": {
+          "10OrMoreYears": 44796,
+          "0004Years": 15048,
+          "0409Years": 9723
+        },
+        "total_value": 69567,
+        "pct_values": {
+          "10OrMoreYears": 0.6439,
+          "0004Years": 0.2163,
+          "0409Years": 0.1398
+        }
+      },
+      "LK-41": {
+        "region_id": "LK-41",
+        "region_name": "Jaffna",
+        "region_ent_type": "district",
+        "values": {
+          "10OrMoreYears": 14630,
+          "0004Years": 10935,
+          "0409Years": 3688
+        },
+        "total_value": 29253,
+        "pct_values": {
+          "10OrMoreYears": 0.5001,
+          "0004Years": 0.3738,
+          "0409Years": 0.1261
+        }
+      },
+      "LK-42": {
+        "region_id": "LK-42",
+        "region_name": "Mannar",
+        "region_ent_type": "district",
+        "values": {
+          "10OrMoreYears": 17060,
+          "0004Years": 3292,
+          "0409Years": 2220
+        },
+        "total_value": 22572,
+        "pct_values": {
+          "10OrMoreYears": 0.7558,
+          "0004Years": 0.1458,
+          "0409Years": 0.0984
+        }
+      },
+      "LK-43": {
+        "region_id": "LK-43",
+        "region_name": "Vavuniya",
+        "region_ent_type": "district",
+        "values": {
+          "10OrMoreYears": 29552,
+          "0004Years": 9395,
+          "0409Years": 4099
+        },
+        "total_value": 43046,
+        "pct_values": {
+          "10OrMoreYears": 0.6865,
+          "0004Years": 0.2183,
+          "0409Years": 0.0952
+        }
+      },
+      "LK-44": {
+        "region_id": "LK-44",
+        "region_name": "Mullaitivu",
+        "region_ent_type": "district",
+        "values": {
+          "10OrMoreYears": 19749,
+          "0004Years": 5132,
+          "0409Years": 2692
+        },
+        "total_value": 27573,
+        "pct_values": {
+          "10OrMoreYears": 0.7162,
+          "0004Years": 0.1861,
+          "0409Years": 0.0976
+        }
+      },
+      "LK-45": {
+        "region_id": "LK-45",
+        "region_name": "Kilinochchi",
+        "region_ent_type": "district",
+        "values": {
+          "10OrMoreYears": 41168,
+          "0004Years": 6423,
+          "0409Years": 2953
+        },
+        "total_value": 50544,
+        "pct_values": {
+          "10OrMoreYears": 0.8145,
+          "0004Years": 0.1271,
+          "0409Years": 0.0584
+        }
+      },
+      "LK-51": {
+        "region_id": "LK-51",
+        "region_name": "Batticaloa",
+        "region_ent_type": "district",
+        "values": {
+          "0004Years": 9791,
+          "10OrMoreYears": 8236,
+          "0409Years": 2368
+        },
+        "total_value": 20395,
+        "pct_values": {
+          "0004Years": 0.4801,
+          "10OrMoreYears": 0.4038,
+          "0409Years": 0.1161
+        }
+      },
+      "LK-52": {
+        "region_id": "LK-52",
+        "region_name": "Ampara",
+        "region_ent_type": "district",
+        "values": {
+          "10OrMoreYears": 54115,
+          "0004Years": 15547,
+          "0409Years": 6795
+        },
+        "total_value": 76457,
+        "pct_values": {
+          "10OrMoreYears": 0.7078,
+          "0004Years": 0.2033,
+          "0409Years": 0.0889
+        }
+      },
+      "LK-53": {
+        "region_id": "LK-53",
+        "region_name": "Trincomalee",
+        "region_ent_type": "district",
+        "values": {
+          "10OrMoreYears": 22224,
+          "0004Years": 8426,
+          "0409Years": 4603
+        },
+        "total_value": 35253,
+        "pct_values": {
+          "10OrMoreYears": 0.6304,
+          "0004Years": 0.239,
+          "0409Years": 0.1306
+        }
+      },
+      "LK-61": {
+        "region_id": "LK-61",
+        "region_name": "Kurunegala",
+        "region_ent_type": "district",
+        "values": {
+          "10OrMoreYears": 125269,
+          "0004Years": 53587,
+          "0409Years": 26516
+        },
+        "total_value": 205372,
+        "pct_values": {
+          "10OrMoreYears": 0.61,
+          "0004Years": 0.2609,
+          "0409Years": 0.1291
+        }
+      },
+      "LK-62": {
+        "region_id": "LK-62",
+        "region_name": "Puttalam",
+        "region_ent_type": "district",
+        "values": {
+          "10OrMoreYears": 68381,
+          "0004Years": 24566,
+          "0409Years": 11316
+        },
+        "total_value": 104263,
+        "pct_values": {
+          "10OrMoreYears": 0.6559,
+          "0004Years": 0.2356,
+          "0409Years": 0.1085
+        }
+      },
+      "LK-71": {
+        "region_id": "LK-71",
+        "region_name": "Anuradhapura",
+        "region_ent_type": "district",
+        "values": {
+          "10OrMoreYears": 104547,
+          "0004Years": 32249,
+          "0409Years": 16636
+        },
+        "total_value": 153432,
+        "pct_values": {
+          "10OrMoreYears": 0.6814,
+          "0004Years": 0.2102,
+          "0409Years": 0.1084
+        }
+      },
+      "LK-72": {
+        "region_id": "LK-72",
+        "region_name": "Polonnaruwa",
+        "region_ent_type": "district",
+        "values": {
+          "10OrMoreYears": 75393,
+          "0004Years": 12868,
+          "0409Years": 7976
+        },
+        "total_value": 96237,
+        "pct_values": {
+          "10OrMoreYears": 0.7834,
+          "0004Years": 0.1337,
+          "0409Years": 0.0829
+        }
+      },
+      "LK-81": {
+        "region_id": "LK-81",
+        "region_name": "Badulla",
+        "region_ent_type": "district",
+        "values": {
+          "10OrMoreYears": 44860,
+          "0004Years": 20503,
+          "0409Years": 9582
+        },
+        "total_value": 74945,
+        "pct_values": {
+          "10OrMoreYears": 0.5986,
+          "0004Years": 0.2736,
+          "0409Years": 0.1279
+        }
+      },
+      "LK-82": {
+        "region_id": "LK-82",
+        "region_name": "Monaragala",
+        "region_ent_type": "district",
+        "values": {
+          "10OrMoreYears": 59771,
+          "0004Years": 15604,
+          "0409Years": 9808
+        },
+        "total_value": 85183,
+        "pct_values": {
+          "10OrMoreYears": 0.7017,
+          "0004Years": 0.1832,
+          "0409Years": 0.1151
+        }
+      },
+      "LK-91": {
+        "region_id": "LK-91",
+        "region_name": "Ratnapura",
+        "region_ent_type": "district",
+        "values": {
+          "10OrMoreYears": 60260,
+          "0004Years": 23481,
+          "0409Years": 12010
+        },
+        "total_value": 95751,
+        "pct_values": {
+          "10OrMoreYears": 0.6293,
+          "0004Years": 0.2452,
+          "0409Years": 0.1254
+        }
+      },
+      "LK-92": {
+        "region_id": "LK-92",
+        "region_name": "Kegalle",
+        "region_ent_type": "district",
+        "values": {
+          "10OrMoreYears": 66331,
+          "0004Years": 22537,
+          "0409Years": 13198
+        },
+        "total_value": 102066,
+        "pct_values": {
+          "10OrMoreYears": 0.6499,
+          "0004Years": 0.2208,
+          "0409Years": 0.1293
+        }
+      },
+      "LK": {
+        "region_id": "LK",
+        "region_name": "Sri Lanka",
+        "region_ent_type": "country",
+        "values": {
+          "10OrMoreYears": 1909797,
+          "0004Years": 749687,
+          "0409Years": 376714
+        },
+        "total_value": 3036198,
+        "pct_values": {
+          "10OrMoreYears": 0.629,
+          "0004Years": 0.2469,
+          "0409Years": 0.1241
+        }
+      },
+      "LK-1": {
+        "region_id": "LK-1",
+        "region_name": "Western",
+        "region_ent_type": "province",
+        "values": {
+          "10OrMoreYears": 735119,
+          "0004Years": 336191,
+          "0409Years": 165639
+        },
+        "total_value": 1236949,
+        "pct_values": {
+          "10OrMoreYears": 0.5943,
+          "0004Years": 0.2718,
+          "0409Years": 0.1339
+        }
+      },
+      "LK-2": {
+        "region_id": "LK-2",
+        "region_name": "Central",
+        "region_ent_type": "province",
+        "values": {
+          "10OrMoreYears": 201309,
+          "0004Years": 75108,
+          "0409Years": 39811
+        },
+        "total_value": 316228,
+        "pct_values": {
+          "10OrMoreYears": 0.6366,
+          "0004Years": 0.2375,
+          "0409Years": 0.1259
+        }
+      },
+      "LK-3": {
+        "region_id": "LK-3",
+        "region_name": "Southern",
+        "region_ent_type": "province",
+        "values": {
+          "10OrMoreYears": 161823,
+          "0004Years": 64052,
+          "0409Years": 34804
+        },
+        "total_value": 260679,
+        "pct_values": {
+          "10OrMoreYears": 0.6208,
+          "0004Years": 0.2457,
+          "0409Years": 0.1335
+        }
+      },
+      "LK-4": {
+        "region_id": "LK-4",
+        "region_name": "Northern",
+        "region_ent_type": "province",
+        "values": {
+          "10OrMoreYears": 122159,
+          "0004Years": 35177,
+          "0409Years": 15652
+        },
+        "total_value": 172988,
+        "pct_values": {
+          "10OrMoreYears": 0.7062,
+          "0004Years": 0.2033,
+          "0409Years": 0.0905
+        }
+      },
+      "LK-5": {
+        "region_id": "LK-5",
+        "region_name": "Eastern",
+        "region_ent_type": "province",
+        "values": {
+          "10OrMoreYears": 84575,
+          "0004Years": 33764,
+          "0409Years": 13766
+        },
+        "total_value": 132105,
+        "pct_values": {
+          "10OrMoreYears": 0.6402,
+          "0004Years": 0.2556,
+          "0409Years": 0.1042
+        }
+      },
+      "LK-6": {
+        "region_id": "LK-6",
+        "region_name": "North Western",
+        "region_ent_type": "province",
+        "values": {
+          "10OrMoreYears": 193650,
+          "0004Years": 78153,
+          "0409Years": 37832
+        },
+        "total_value": 309635,
+        "pct_values": {
+          "10OrMoreYears": 0.6254,
+          "0004Years": 0.2524,
+          "0409Years": 0.1222
+        }
+      },
+      "LK-7": {
+        "region_id": "LK-7",
+        "region_name": "North Central",
+        "region_ent_type": "province",
+        "values": {
+          "10OrMoreYears": 179940,
+          "0004Years": 45117,
+          "0409Years": 24612
+        },
+        "total_value": 249669,
+        "pct_values": {
+          "10OrMoreYears": 0.7207,
+          "0004Years": 0.1807,
+          "0409Years": 0.0986
+        }
+      },
+      "LK-8": {
+        "region_id": "LK-8",
+        "region_name": "Uva",
+        "region_ent_type": "province",
+        "values": {
+          "10OrMoreYears": 104631,
+          "0004Years": 36107,
+          "0409Years": 19390
+        },
+        "total_value": 160128,
+        "pct_values": {
+          "10OrMoreYears": 0.6534,
+          "0004Years": 0.2255,
+          "0409Years": 0.1211
+        }
+      },
+      "LK-9": {
+        "region_id": "LK-9",
+        "region_name": "Sabaragamuwa",
+        "region_ent_type": "province",
+        "values": {
+          "10OrMoreYears": 126591,
+          "0004Years": 46018,
+          "0409Years": 25208
+        },
+        "total_value": 197817,
+        "pct_values": {
+          "10OrMoreYears": 0.6399,
+          "0004Years": 0.2326,
+          "0409Years": 0.1274
+        }
+      },
+      "EC-01": {
+        "region_id": "EC-01",
+        "region_name": "Colombo",
+        "region_ent_type": "ed",
+        "values": {
+          "10OrMoreYears": 305038,
+          "0004Years": 149236,
+          "0409Years": 65105
+        },
+        "total_value": 519379,
+        "pct_values": {
+          "10OrMoreYears": 0.5873,
+          "0004Years": 0.2873,
+          "0409Years": 0.1254
+        }
+      },
+      "EC-02": {
+        "region_id": "EC-02",
+        "region_name": "Gampaha",
+        "region_ent_type": "ed",
+        "values": {
+          "10OrMoreYears": 313338,
+          "0004Years": 139859,
+          "0409Years": 71540
+        },
+        "total_value": 524737,
+        "pct_values": {
+          "10OrMoreYears": 0.5971,
+          "0004Years": 0.2665,
+          "0409Years": 0.1363
+        }
+      },
+      "EC-03": {
+        "region_id": "EC-03",
+        "region_name": "Kalutara",
+        "region_ent_type": "ed",
+        "values": {
+          "10OrMoreYears": 116743,
+          "0004Years": 47096,
+          "0409Years": 28994
+        },
+        "total_value": 192833,
+        "pct_values": {
+          "10OrMoreYears": 0.6054,
+          "0004Years": 0.2442,
+          "0409Years": 0.1504
+        }
+      },
+      "EC-04": {
+        "region_id": "EC-04",
+        "region_name": "Kandy",
+        "region_ent_type": "ed",
+        "values": {
+          "10OrMoreYears": 106067,
+          "0004Years": 44174,
+          "0409Years": 22248
+        },
+        "total_value": 172489,
+        "pct_values": {
+          "10OrMoreYears": 0.6149,
+          "0004Years": 0.2561,
+          "0409Years": 0.129
+        }
+      },
+      "EC-05": {
+        "region_id": "EC-05",
+        "region_name": "Matale",
+        "region_ent_type": "ed",
+        "values": {
+          "10OrMoreYears": 54976,
+          "0004Years": 17519,
+          "0409Years": 10310
+        },
+        "total_value": 82805,
+        "pct_values": {
+          "10OrMoreYears": 0.6639,
+          "0004Years": 0.2116,
+          "0409Years": 0.1245
+        }
+      },
+      "EC-06": {
+        "region_id": "EC-06",
+        "region_name": "Nuwara-Eliya",
+        "region_ent_type": "ed",
+        "values": {
+          "10OrMoreYears": 40266,
+          "0004Years": 13415,
+          "0409Years": 7253
+        },
+        "total_value": 60934,
+        "pct_values": {
+          "10OrMoreYears": 0.6608,
+          "0004Years": 0.2202,
+          "0409Years": 0.119
+        }
+      },
+      "EC-07": {
+        "region_id": "EC-07",
+        "region_name": "Galle",
+        "region_ent_type": "ed",
+        "values": {
+          "10OrMoreYears": 58454,
+          "0004Years": 24208,
+          "0409Years": 12492
+        },
+        "total_value": 95154,
+        "pct_values": {
+          "10OrMoreYears": 0.6143,
+          "0004Years": 0.2544,
+          "0409Years": 0.1313
+        }
+      },
+      "EC-08": {
+        "region_id": "EC-08",
+        "region_name": "Matara",
+        "region_ent_type": "ed",
+        "values": {
+          "10OrMoreYears": 58573,
+          "0004Years": 24796,
+          "0409Years": 12589
+        },
+        "total_value": 95958,
+        "pct_values": {
+          "10OrMoreYears": 0.6104,
+          "0004Years": 0.2584,
+          "0409Years": 0.1312
+        }
+      },
+      "EC-09": {
+        "region_id": "EC-09",
+        "region_name": "Hambantota",
+        "region_ent_type": "ed",
+        "values": {
+          "10OrMoreYears": 44796,
+          "0004Years": 15048,
+          "0409Years": 9723
+        },
+        "total_value": 69567,
+        "pct_values": {
+          "10OrMoreYears": 0.6439,
+          "0004Years": 0.2163,
+          "0409Years": 0.1398
+        }
+      },
+      "EC-10": {
+        "region_id": "EC-10",
+        "region_name": "Jaffna",
+        "region_ent_type": "ed",
+        "values": {
+          "10OrMoreYears": 55798,
+          "0004Years": 17358,
+          "0409Years": 6641
+        },
+        "total_value": 79797,
+        "pct_values": {
+          "10OrMoreYears": 0.6992,
+          "0004Years": 0.2175,
+          "0409Years": 0.0832
+        }
+      },
+      "EC-11": {
+        "region_id": "EC-11",
+        "region_name": "Vanni",
+        "region_ent_type": "ed",
+        "values": {
+          "10OrMoreYears": 66361,
+          "0004Years": 17819,
+          "0409Years": 9011
+        },
+        "total_value": 93191,
+        "pct_values": {
+          "10OrMoreYears": 0.7121,
+          "0004Years": 0.1912,
+          "0409Years": 0.0967
+        }
+      },
+      "EC-12": {
+        "region_id": "EC-12",
+        "region_name": "Batticaloa",
+        "region_ent_type": "ed",
+        "values": {
+          "0004Years": 9791,
+          "10OrMoreYears": 8236,
+          "0409Years": 2368
+        },
+        "total_value": 20395,
+        "pct_values": {
+          "0004Years": 0.4801,
+          "10OrMoreYears": 0.4038,
+          "0409Years": 0.1161
+        }
+      },
+      "EC-13": {
+        "region_id": "EC-13",
+        "region_name": "Digamadulla",
+        "region_ent_type": "ed",
+        "values": {
+          "10OrMoreYears": 54115,
+          "0004Years": 15547,
+          "0409Years": 6795
+        },
+        "total_value": 76457,
+        "pct_values": {
+          "10OrMoreYears": 0.7078,
+          "0004Years": 0.2033,
+          "0409Years": 0.0889
+        }
+      },
+      "EC-14": {
+        "region_id": "EC-14",
+        "region_name": "Trincomalee",
+        "region_ent_type": "ed",
+        "values": {
+          "10OrMoreYears": 22224,
+          "0004Years": 8426,
+          "0409Years": 4603
+        },
+        "total_value": 35253,
+        "pct_values": {
+          "10OrMoreYears": 0.6304,
+          "0004Years": 0.239,
+          "0409Years": 0.1306
+        }
+      },
+      "EC-15": {
+        "region_id": "EC-15",
+        "region_name": "Kurunegala",
+        "region_ent_type": "ed",
+        "values": {
+          "10OrMoreYears": 125269,
+          "0004Years": 53587,
+          "0409Years": 26516
+        },
+        "total_value": 205372,
+        "pct_values": {
+          "10OrMoreYears": 0.61,
+          "0004Years": 0.2609,
+          "0409Years": 0.1291
+        }
+      },
+      "EC-16": {
+        "region_id": "EC-16",
+        "region_name": "Puttalam",
+        "region_ent_type": "ed",
+        "values": {
+          "10OrMoreYears": 68381,
+          "0004Years": 24566,
+          "0409Years": 11316
+        },
+        "total_value": 104263,
+        "pct_values": {
+          "10OrMoreYears": 0.6559,
+          "0004Years": 0.2356,
+          "0409Years": 0.1085
+        }
+      },
+      "EC-17": {
+        "region_id": "EC-17",
+        "region_name": "Anuradhapura",
+        "region_ent_type": "ed",
+        "values": {
+          "10OrMoreYears": 104547,
+          "0004Years": 32249,
+          "0409Years": 16636
+        },
+        "total_value": 153432,
+        "pct_values": {
+          "10OrMoreYears": 0.6814,
+          "0004Years": 0.2102,
+          "0409Years": 0.1084
+        }
+      },
+      "EC-18": {
+        "region_id": "EC-18",
+        "region_name": "Polonnaruwa",
+        "region_ent_type": "ed",
+        "values": {
+          "10OrMoreYears": 75393,
+          "0004Years": 12868,
+          "0409Years": 7976
+        },
+        "total_value": 96237,
+        "pct_values": {
+          "10OrMoreYears": 0.7834,
+          "0004Years": 0.1337,
+          "0409Years": 0.0829
+        }
+      },
+      "EC-19": {
+        "region_id": "EC-19",
+        "region_name": "Badulla",
+        "region_ent_type": "ed",
+        "values": {
+          "10OrMoreYears": 44860,
+          "0004Years": 20503,
+          "0409Years": 9582
+        },
+        "total_value": 74945,
+        "pct_values": {
+          "10OrMoreYears": 0.5986,
+          "0004Years": 0.2736,
+          "0409Years": 0.1279
+        }
+      },
+      "EC-20": {
+        "region_id": "EC-20",
+        "region_name": "Moneragala",
+        "region_ent_type": "ed",
+        "values": {
+          "10OrMoreYears": 59771,
+          "0004Years": 15604,
+          "0409Years": 9808
+        },
+        "total_value": 85183,
+        "pct_values": {
+          "10OrMoreYears": 0.7017,
+          "0004Years": 0.1832,
+          "0409Years": 0.1151
+        }
+      },
+      "EC-21": {
+        "region_id": "EC-21",
+        "region_name": "Ratnapura",
+        "region_ent_type": "ed",
+        "values": {
+          "10OrMoreYears": 60260,
+          "0004Years": 23481,
+          "0409Years": 12010
+        },
+        "total_value": 95751,
+        "pct_values": {
+          "10OrMoreYears": 0.6293,
+          "0004Years": 0.2452,
+          "0409Years": 0.1254
+        }
+      },
+      "EC-22": {
+        "region_id": "EC-22",
+        "region_name": "Kegalle",
+        "region_ent_type": "ed",
+        "values": {
+          "10OrMoreYears": 66331,
+          "0004Years": 22537,
+          "0409Years": 13198
+        },
+        "total_value": 102066,
+        "pct_values": {
+          "10OrMoreYears": 0.6499,
+          "0004Years": 0.2208,
+          "0409Years": 0.1293
+        }
+      }
+    }
+  }
+}
