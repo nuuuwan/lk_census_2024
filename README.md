@@ -1,7 +1,7 @@
 # 🇱🇰 Sri Lanka - Census of Population and Housing 2024
 
 ![CPH](https://img.shields.io/badge/CPH-2024-blue)
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--07--14_11:20:47-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--07--14_11:28:45-green)
 
 **154** Datasets on Population, Housing and more, by Country, Province, District, Divisional Secretariat Division (DSD), Grama Niladhari Division (GND), Electoral District (ED), Polling Division (PD), and Local Government Authority (LG) levels.
 
@@ -619,41 +619,42 @@
 
 ## 13. [Officers who have  Assigned for Census of Population and Housing 2024 Activities](data/final-report-tables/chapter-1/1.1.1-Officers-who-have--Assigned-for-Census-of-Population-and-Housing-2024-Activities)
 
-*5 - 🟢 Complete*
+*Build Status - **5** - 🟢 Complete*
 
-### Data Table (first 10 of 57 rows)
-
-| Region Id | Region Name | Region Ent Type | Deputy Census Commissioners | Assistant Census Commissioners | Technical Staff Zonal Supervisors And District Statistical Branch Head | Technical Staff Divisional Census Officer | Technical Staff Area Supervisors | Technical Staff Circle Officers | Other Non Technical Staff | Enumerators Who Used Tablet Computers Capi | Enumerators Who Used Smart Phones Byoad | Total Value |
-| :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- |
-| LK-11 | Colombo | district | 14 | 14 | 18 | 13 | 53 | 98 | 70 | 1104 | 1986 | 3370 |
-| LK-12 | Gampaha | district | 14 | 14 | 13 | 13 | 48 | 90 | 70 | 1493 | 1572 | 3327 |
-| LK-13 | Kalutara | district | 15 | 15 | 5 | 14 | 29 | 51 | 75 | 792 | 836 | 1832 |
-| LK-21 | Kandy | district | 21 | 21 | 6 | 20 | 36 | 63 | 105 | 1056 | 779 | 2107 |
-| LK-22 | Matale | district | 12 | 12 | 3 | 11 | 16 | 27 | 60 | 432 | 317 | 890 |
-| LK-23 | Nuwara Eliya | district | 11 | 11 | 4 | 10 | 19 | 35 | 55 | 557 | 431 | 1133 |
-| LK-31 | Galle | district | 23 | 23 | 5 | 22 | 32 | 55 | 115 | 836 | 642 | 1753 |
-| LK-32 | Matara | district | 17 | 17 | 4 | 16 | 23 | 40 | 85 | 626 | 497 | 1325 |
-| LK-33 | Hambantota | district | 13 | 13 | 3 | 12 | 19 | 31 | 65 | 488 | 435 | 1079 |
-| LK-41 | Jaffna | district | 16 | 16 | 3 | 15 | 18 | 28 | 80 | 431 | 375 | 982 |
-
-### Example Data Row (JSON)
+### Lanka Data (first 30 of 1611 lines)
 
 ```json
 {
-    "Region Id": "LK-11",
-    "Region Name": "Colombo",
-    "Region Ent Type": "district",
-    "Deputy Census Commissioners": 14,
-    "Assistant Census Commissioners": 14,
-    "Technical Staff Zonal Supervisors And District Statistical Branch Head": 18,
-    "Technical Staff Divisional Census Officer": 13,
-    "Technical Staff Area Supervisors": 53,
-    "Technical Staff Circle Officers": 98,
-    "Other Non Technical Staff": 70,
-    "Enumerators Who Used Tablet Computers Capi": 1104,
-    "Enumerators Who Used Smart Phones Byoad": 1986,
-    "Total Value": 3370
-}
+    "_meta": {
+        "source_url": "https://www.statistics.gov.lk/Resource/en/Population/CPH_2024/CPH2024_Final_Eng.pdf#page=23",
+        "source_description": [
+            "Table 1.1.1, Final Report, 2024 Census of Population and Housing, Department of Census and Statistics, Sri Lanka"
+        ],
+        "what": {
+            "CensusOfficers": "Officers who have Assigned for Census of Population and Housing 2024 Activities"
+        }
+    },
+    "CensusOfficers": {
+        "2024": {
+            "LK-11": {
+                "region_id": "LK-11",
+                "region_name": "Colombo",
+                "region_ent_type": "district",
+                "values": {
+                    "EnumeratorsWhoUsedSmartPhonesByoad": 1986,
+                    "EnumeratorsWhoUsedTabletComputersCapi": 1104,
+                    "TechnicalStaffCircleOfficers": 98,
+                    "OtherNonTechnicalStaff": 70,
+                    "TechnicalStaffAreaSupervisors": 53,
+                    "TechnicalStaffZonalSupervisorsAndDistrictStatisticalBranchHead": 18,
+                    "DeputyCensusCommissioners": 14,
+                    "AssistantCensusCommissioners": 14,
+                    "TechnicalStaffDivisionalCensusOfficer": 13
+                },
+                "total_value": 3370,
+                "pct_values": {
+                    "EnumeratorsWhoUsedSmartPhonesByoad": 0.5893,
+...
 ```
 
 ### Source
@@ -662,7 +663,7 @@
 
 ## 14. [The Questions and Topics Included in the Censuses of Sri Lanka 1871 - 2024](data/final-report-tables/chapter-1/1.1.2-The-Questions-and-Topics-Included-in-the-Censuses-of-Sri-Lanka-1871---2024)
 
-*4 - 🟡 Lanka data is missing*
+*Build Status - **4** - 🟡 Lanka data is missing*
 
 ### Data Table (first 10 of 25 rows)
 
@@ -708,7 +709,7 @@
 
 ## 15. [Evolution of the Number of Administrative Districts In Sri Lanka from 1871 to 2024](data/final-report-tables/chapter-2/2.1-Evolution-of-the-Number-of-Administrative-Districts-In-Sri-Lanka-from-1871-to-2024)
 
-*4 - 🟡 Lanka data is missing*
+*Build Status - **4** - 🟡 Lanka data is missing*
 
 ### Data Table (first 10 of 27 rows)
 
@@ -756,37 +757,42 @@
 
 ## 16. [Administrative Structure by District, 1981](data/final-report-tables/chapter-2/2.2-Administrative-Structure-by-District,-1981)
 
-*5 - 🟢 Complete*
+*Build Status - **5** - 🟢 Complete*
 
-### Data Table (first 10 of 56 rows)
-
-| Region Id | Region Name | Region Ent Type | Assistant Government Agend Divisions | Grama Sevaka Divisions | Municipal Councils | Urban Councils | Town Councils | Total Value |
-| :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- |
-| LK-11 | Colombo | district | 8 | 121 | 2 | 4 | 6 | 141 |
-| LK-12 | Gampaha | district | 13 | 389 | 1 | 6 | 9 | 418 |
-| LK-13 | Kalutara | district | 10 | 230 | 0 | 4 | 6 | 250 |
-| LK-21 | Kandy | district | 16 | 430 | 1 | 4 | 2 | 453 |
-| LK-22 | Matale | district | 10 | 170 | 1 | 0 | 3 | 184 |
-| LK-23 | Nuwara Eliya | district | 4 | 98 | 1 | 2 | 1 | 106 |
-| LK-31 | Galle | district | 16 | 274 | 1 | 1 | 7 | 299 |
-| LK-32 | Matara | district | 11 | 214 | 0 | 2 | 2 | 229 |
-| LK-33 | Hambantota | district | 8 | 165 | 0 | 2 | 4 | 179 |
-| LK-41 | Jaffna | district | 16 | 150 | 1 | 3 | 9 | 179 |
-
-### Example Data Row (JSON)
+### Lanka Data (first 30 of 1135 lines)
 
 ```json
 {
-    "Region Id": "LK-11",
-    "Region Name": "Colombo",
-    "Region Ent Type": "district",
-    "Assistant Government Agend Divisions": 8,
-    "Grama Sevaka Divisions": 121,
-    "Municipal Councils": 2,
-    "Urban Councils": 4,
-    "Town Councils": 6,
-    "Total Value": 141
-}
+    "_meta": {
+        "source_url": "https://www.statistics.gov.lk/Resource/en/Population/CPH_2024/CPH2024_Final_Eng.pdf#page=62",
+        "source_description": [
+            "Table 2.2, Final Report, 2024 Census of Population and Housing, Department of Census and Statistics, Sri Lanka"
+        ],
+        "what": {
+            "AdministrativeStructure": "Administrative Structure by District, 1981"
+        }
+    },
+    "AdministrativeStructure": {
+        "1981": {
+            "LK-11": {
+                "region_id": "LK-11",
+                "region_name": "Colombo",
+                "region_ent_type": "district",
+                "values": {
+                    "GramaSevakaDivisions": 121,
+                    "AssistantGovernmentAgendDivisions": 8,
+                    "TownCouncils": 6,
+                    "UrbanCouncils": 4,
+                    "MunicipalCouncils": 2
+                },
+                "total_value": 141,
+                "pct_values": {
+                    "GramaSevakaDivisions": 0.8582,
+                    "AssistantGovernmentAgendDivisions": 0.0567,
+                    "TownCouncils": 0.0426,
+                    "UrbanCouncils": 0.0284,
+                    "MunicipalCouncils": 0.0142
+...
 ```
 
 ### Source
@@ -795,37 +801,42 @@
 
 ## 17. [Administrative Structure by District, 2012](data/final-report-tables/chapter-2/2.3-Administrative-Structure-by-District,-2012)
 
-*5 - 🟢 Complete*
+*Build Status - **5** - 🟢 Complete*
 
-### Data Table (first 10 of 57 rows)
-
-| Region Id | Region Name | Region Ent Type | Assistant Government Agend Divisions | Grama Sevaka Divisions | Municipal Councils | Urban Councils | Town Councils | Total Value |
-| :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- |
-| LK-11 | Colombo | district | 13 | 557 | 5 | 5 | 3 | 583 |
-| LK-12 | Gampaha | district | 13 | 1177 | 2 | 5 | 12 | 1209 |
-| LK-13 | Kalutara | district | 14 | 762 | 0 | 4 | 12 | 792 |
-| LK-21 | Kandy | district | 20 | 1187 | 1 | 4 | 17 | 1229 |
-| LK-22 | Matale | district | 11 | 545 | 2 | 0 | 11 | 569 |
-| LK-23 | Nuwara Eliya | district | 5 | 491 | 1 | 2 | 5 | 504 |
-| LK-31 | Galle | district | 19 | 895 | 1 | 2 | 17 | 934 |
-| LK-32 | Matara | district | 16 | 650 | 1 | 1 | 15 | 683 |
-| LK-33 | Hambantota | district | 12 | 576 | 1 | 1 | 10 | 600 |
-| LK-41 | Jaffna | district | 15 | 435 | 1 | 3 | 13 | 467 |
-
-### Example Data Row (JSON)
+### Lanka Data (first 30 of 1155 lines)
 
 ```json
 {
-    "Region Id": "LK-11",
-    "Region Name": "Colombo",
-    "Region Ent Type": "district",
-    "Assistant Government Agend Divisions": 13,
-    "Grama Sevaka Divisions": 557,
-    "Municipal Councils": 5,
-    "Urban Councils": 5,
-    "Town Councils": 3,
-    "Total Value": 583
-}
+    "_meta": {
+        "source_url": "https://www.statistics.gov.lk/Resource/en/Population/CPH_2024/CPH2024_Final_Eng.pdf#page=63",
+        "source_description": [
+            "Table 2.3, Final Report, 2024 Census of Population and Housing, Department of Census and Statistics, Sri Lanka"
+        ],
+        "what": {
+            "AdministrativeStructure": "Administrative Structure by District, 2012"
+        }
+    },
+    "AdministrativeStructure": {
+        "2012": {
+            "LK-11": {
+                "region_id": "LK-11",
+                "region_name": "Colombo",
+                "region_ent_type": "district",
+                "values": {
+                    "GramaSevakaDivisions": 557,
+                    "AssistantGovernmentAgendDivisions": 13,
+                    "MunicipalCouncils": 5,
+                    "UrbanCouncils": 5,
+                    "TownCouncils": 3
+                },
+                "total_value": 583,
+                "pct_values": {
+                    "GramaSevakaDivisions": 0.9554,
+                    "AssistantGovernmentAgendDivisions": 0.0223,
+                    "MunicipalCouncils": 0.0086,
+                    "UrbanCouncils": 0.0086,
+                    "TownCouncils": 0.0051
+...
 ```
 
 ### Source
@@ -834,37 +845,42 @@
 
 ## 18. [Administrative Structure by District, 2024](data/final-report-tables/chapter-2/2.4-Administrative-Structure-by-District,-2024)
 
-*5 - 🟢 Complete*
+*Build Status - **5** - 🟢 Complete*
 
-### Data Table (first 10 of 57 rows)
-
-| Region Id | Region Name | Region Ent Type | Assistant Government Agend Divisions | Grama Sevaka Divisions | Municipal Councils | Urban Councils | Town Councils | Total Value |
-| :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- |
-| LK-11 | Colombo | district | 13 | 557 | 5 | 5 | 3 | 583 |
-| LK-12 | Gampaha | district | 13 | 1177 | 2 | 5 | 12 | 1209 |
-| LK-13 | Kalutara | district | 14 | 762 | 13 | 33 | 13 | 835 |
-| LK-21 | Kandy | district | 20 | 1187 | 1 | 4 | 17 | 1229 |
-| LK-22 | Matale | district | 11 | 5321 | 2 | 0 | 11 | 5345 |
-| LK-23 | Nuwara Eliya | district | 10 | 491 | 1 | 2 | 9 | 513 |
-| LK-31 | Galle | district | 22 | 895 | 1 | 2 | 17 | 937 |
-| LK-32 | Matara | district | 16 | 650 | 1 | 1 | 14 | 682 |
-| LK-33 | Hambantota | district | 12 | 576 | 1 | 1 | 10 | 600 |
-| LK-41 | Jaffna | district | 15 | 435 | 1 | 3 | 13 | 467 |
-
-### Example Data Row (JSON)
+### Lanka Data (first 30 of 1155 lines)
 
 ```json
 {
-    "Region Id": "LK-11",
-    "Region Name": "Colombo",
-    "Region Ent Type": "district",
-    "Assistant Government Agend Divisions": 13,
-    "Grama Sevaka Divisions": 557,
-    "Municipal Councils": 5,
-    "Urban Councils": 5,
-    "Town Councils": 3,
-    "Total Value": 583
-}
+    "_meta": {
+        "source_url": "https://www.statistics.gov.lk/Resource/en/Population/CPH_2024/CPH2024_Final_Eng.pdf#page=64",
+        "source_description": [
+            "Table 2.4, Final Report, 2024 Census of Population and Housing, Department of Census and Statistics, Sri Lanka"
+        ],
+        "what": {
+            "AdministrativeStructure": "Administrative Structure by District, 2024"
+        }
+    },
+    "AdministrativeStructure": {
+        "2024": {
+            "LK-11": {
+                "region_id": "LK-11",
+                "region_name": "Colombo",
+                "region_ent_type": "district",
+                "values": {
+                    "GramaSevakaDivisions": 557,
+                    "AssistantGovernmentAgendDivisions": 13,
+                    "MunicipalCouncils": 5,
+                    "UrbanCouncils": 5,
+                    "TownCouncils": 3
+                },
+                "total_value": 583,
+                "pct_values": {
+                    "GramaSevakaDivisions": 0.9554,
+                    "AssistantGovernmentAgendDivisions": 0.0223,
+                    "MunicipalCouncils": 0.0086,
+                    "UrbanCouncils": 0.0086,
+                    "TownCouncils": 0.0051
+...
 ```
 
 ### Source
@@ -873,7 +889,7 @@
 
 ## 19. [Total Population, Intercensal Increase and Average Annual Growth Rate by Census Year, 1871 - 2024](data/final-report-tables/chapter-3/3.1-Total-Population,-Intercensal-Increase-and-Average-Annual-Growth-Rate-by-Census-Year,-1871---2024)
 
-*4 - 🟡 Lanka data is missing*
+*Build Status - **4** - 🟡 Lanka data is missing*
 
 ### Data Table (first 10 of 16 rows)
 
@@ -906,7 +922,7 @@
 
 ## 20. [Distribution of Population by Province and District, 2024](data/final-report-tables/chapter-3/3.2-Distribution-of-Population-by-Province-and-District,-2024)
 
-*4 - 🟡 Lanka data is missing*
+*Build Status - **4** - 🟡 Lanka data is missing*
 
 ### Data Table (first 10 of 57 rows)
 
@@ -940,7 +956,7 @@
 
 ## 21. [Population and Average Annual Growth Rate by District, Census Years 1981- 2024](data/final-report-tables/chapter-3/3.3-Population-and-Average-Annual-Growth-Rate-by-District,-Census-Years-1981--2024)
 
-*4 - 🟡 Lanka data is missing*
+*Build Status - **4** - 🟡 Lanka data is missing*
 
 ### Data Table (first 10 of 57 rows)
 
@@ -977,7 +993,7 @@
 
 ## 22. [Population Density by District, 1981, 2001, 2012 and 2024](data/final-report-tables/chapter-3/3.4-Population-Density-by-District,-1981,-2001,-2012-and-2024)
 
-*4 - 🟡 Lanka data is missing*
+*Build Status - **4** - 🟡 Lanka data is missing*
 
 ### Data Table (first 10 of 27 rows)
 
@@ -1014,7 +1030,7 @@
 
 ## 23. [Distribution of Population by Sector, 2012 and 2024](data/final-report-tables/chapter-3/3.5-Distribution-of-Population-by-Sector,-2012-and-2024)
 
-*4 - 🟡 Lanka data is missing*
+*Build Status - **4** - 🟡 Lanka data is missing*
 
 ### Data Table
 
@@ -1042,36 +1058,42 @@
 
 ## 24. [Population Distribution by District and Sector, 2024](data/final-report-tables/chapter-3/3.6-Population-Distribution-by-District-and-Sector,-2024)
 
-*5 - 🟢 Complete*
+*Build Status - **5** - 🟢 Complete*
 
-### Data Table (first 10 of 57 rows)
-
-| Region Id | Region Name | Region Ent Type | Population Urban | Population Estate Urban | Population Rural | Population Estate Rural | Total Value |
-| :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- |
-| LK-11 | Colombo | district | 1773222 | 3874 | 593669 | 4650 | 2375415 |
-| LK-12 | Gampaha | district | 350441 | 0 | 2085307 | 394 | 2436142 |
-| LK-13 | Kalutara | district | 149939 | 864 | 1120942 | 34039 | 1305784 |
-| LK-21 | Kandy | district | 171416 | 241 | 1208607 | 81631 | 1461895 |
-| LK-22 | Matale | district | 62848 | 0 | 447122 | 16900 | 526870 |
-| LK-23 | Nuwara Eliya | district | 36649 | 5666 | 308357 | 374608 | 725280 |
-| LK-31 | Galle | district | 135514 | 0 | 944811 | 17047 | 1097372 |
-| LK-32 | Matara | district | 98886 | 0 | 721903 | 17100 | 837889 |
-| LK-33 | Hambantota | district | 33918 | 0 | 637442 | 58 | 671418 |
-| LK-41 | Jaffna | district | 113821 | 0 | 480930 | 0 | 594751 |
-
-### Example Data Row (JSON)
+### Lanka Data (first 30 of 1041 lines)
 
 ```json
 {
-    "Region Id": "LK-11",
-    "Region Name": "Colombo",
-    "Region Ent Type": "district",
-    "Population Urban": 1773222,
-    "Population Estate Urban": 3874,
-    "Population Rural": 593669,
-    "Population Estate Rural": 4650,
-    "Total Value": 2375415
-}
+    "_meta": {
+        "source_url": "https://www.statistics.gov.lk/Resource/en/Population/CPH_2024/CPH2024_Final_Eng.pdf#page=72",
+        "source_description": [
+            "Table 3.6, Final Report, 2024 Census of Population and Housing, Department of Census and Statistics, Sri Lanka"
+        ],
+        "what": {
+            "PopulationBySector": "Population Distribution by District and Sector, 2024"
+        }
+    },
+    "PopulationBySector": {
+        "2024": {
+            "LK-11": {
+                "region_id": "LK-11",
+                "region_name": "Colombo",
+                "region_ent_type": "district",
+                "values": {
+                    "PopulationUrban": 1773222,
+                    "PopulationRural": 593669,
+                    "PopulationEstateRural": 4650,
+                    "PopulationEstateUrban": 3874
+                },
+                "total_value": 2375415,
+                "pct_values": {
+                    "PopulationUrban": 0.7465,
+                    "PopulationRural": 0.2499,
+                    "PopulationEstateRural": 0.002,
+                    "PopulationEstateUrban": 0.0016
+                }
+            },
+...
 ```
 
 ### Source
@@ -1080,35 +1102,42 @@
 
 ## 25. [Lifetime Migrants by District of Dirth and District of Usual Residence,](data/final-report-tables/chapter-5/5.1.1-Lifetime-Migrants-by-District-of-Dirth-and-District-of-Usual-Residence,)
 
-*5 - 🟢 Complete*
+*Build Status - **5** - 🟢 Complete*
 
-### Data Table (first 10 of 25 rows)
-
-| Region Id | Region Name | Region Ent Type | Population Local | Population Foreign | Population Migrant | Total Value |
-| :-- | :-- | :-- | :-- | :-- | :-- | :-- |
-| LK-11 | Colombo | district | 1876288 | 7345 | 491236 | 2374869 |
-| LK-12 | Gampaha | district | 1941334 | 3718 | 490861 | 2435913 |
-| LK-13 | Kalutara | district | 1123880 | 951 | 180877 | 1305708 |
-| LK-21 | Kandy | district | 1302243 | 1591 | 157921 | 1461755 |
-| LK-22 | Matale | district | 448233 | 354 | 78262 | 526849 |
-| LK-23 | Nuwara Eliya | district | 672433 | 248 | 52570 | 725251 |
-| LK-31 | Galle | district | 1008225 | 962 | 88038 | 1097225 |
-| LK-32 | Matara | district | 754961 | 338 | 82457 | 837756 |
-| LK-33 | Hambantota | district | 606207 | 194 | 64982 | 671383 |
-| LK-41 | Jaffna | district | 567486 | 1109 | 26104 | 594699 |
-
-### Example Data Row (JSON)
+### Lanka Data (first 30 of 415 lines)
 
 ```json
 {
-    "Region Id": "LK-11",
-    "Region Name": "Colombo",
-    "Region Ent Type": "district",
-    "Population Local": 1876288,
-    "Population Foreign": 7345,
-    "Population Migrant": 491236,
-    "Total Value": 2374869
-}
+    "_meta": {
+        "source_url": "https://www.statistics.gov.lk/Resource/en/Population/CPH_2024/CPH2024_Final_Eng.pdf#page=82",
+        "source_description": [
+            "Table 5.1.1, Final Report, 2024 Census of Population and Housing, Department of Census and Statistics, Sri Lanka"
+        ],
+        "what": {
+            "MigrantsLifetime": "Lifetime Migrants by District of Dirth and District of Usual Residence,"
+        }
+    },
+    "MigrantsLifetime": {
+        "2024": {
+            "LK-11": {
+                "region_id": "LK-11",
+                "region_name": "Colombo",
+                "region_ent_type": "district",
+                "values": {
+                    "PopulationLocal": 1876288,
+                    "PopulationMigrant": 491236,
+                    "PopulationForeign": 7345
+                },
+                "total_value": 2374869,
+                "pct_values": {
+                    "PopulationLocal": 0.7901,
+                    "PopulationMigrant": 0.2068,
+                    "PopulationForeign": 0.0031
+                }
+            },
+            "LK-12": {
+                "region_id": "LK-12",
+...
 ```
 
 ### Source
@@ -1117,7 +1146,7 @@
 
 ## 26. [In, Out and Net Lifetime Migrants by District, 2024](data/final-report-tables/chapter-5/5.1.2-In,-Out-and-Net-Lifetime-Migrants-by-District,-2024)
 
-*4 - 🟡 Lanka data is missing*
+*Build Status - **4** - 🟡 Lanka data is missing*
 
 ### Data Table (first 10 of 25 rows)
 
@@ -1152,7 +1181,7 @@
 
 ## 27. [Largest Migration Flows of Lifetime Migrants by District of Usual Residence, 2024](data/final-report-tables/chapter-5/5.1.3-Largest-Migration-Flows-of-Lifetime-Migrants-by-District-of-Usual-Residence,-2024)
 
-*4 - 🟡 Lanka data is missing*
+*Build Status - **4** - 🟡 Lanka data is missing*
 
 ### Data Table (first 10 of 25 rows)
 
@@ -1192,7 +1221,7 @@
 
 ## 28. [Largest Migration Flows of Lifetime Migrants who have Migrated Out of their District of Birth, 2024](data/final-report-tables/chapter-5/5.1.4-Largest-Migration-Flows-of-Lifetime-Migrants-who-have-Migrated-Out-of-their-District-of-Birth,-2024)
 
-*4 - 🟡 Lanka data is missing*
+*Build Status - **4** - 🟡 Lanka data is missing*
 
 ### Data Table (first 10 of 25 rows)
 
@@ -1232,7 +1261,7 @@
 
 ## 29. [In-migration, Out-migration, and Net Migration by District,](data/final-report-tables/chapter-5/5.1.5-In-migration,-Out-migration,-and-Net-Migration-by-District,)
 
-*4 - 🟡 Lanka data is missing*
+*Build Status - **4** - 🟡 Lanka data is missing*
 
 ### Data Table (first 10 of 25 rows)
 
@@ -1267,35 +1296,42 @@
 
 ## 30. [In-migrants by District of Usual Residence and Duration of Residence, 2024](data/final-report-tables/chapter-5/5.1.6-In-migrants-by-District-of-Usual-Residence-and-Duration-of-Residence,-2024)
 
-*5 - 🟢 Complete*
+*Build Status - **5** - 🟢 Complete*
 
-### Data Table (first 10 of 57 rows)
-
-| Region Id | Region Name | Region Ent Type | 00 04 Years | 04 09 Years | 10 Or More Years | Total Value |
-| :-- | :-- | :-- | :-- | :-- | :-- | :-- |
-| LK-11 | Colombo | district | 149236 | 65105 | 305038 | 519379 |
-| LK-12 | Gampaha | district | 139859 | 71540 | 313338 | 524737 |
-| LK-13 | Kalutara | district | 47096 | 28994 | 116743 | 192833 |
-| LK-21 | Kandy | district | 44174 | 22248 | 106067 | 172489 |
-| LK-22 | Matale | district | 17519 | 10310 | 54976 | 82805 |
-| LK-23 | Nuwara Eliya | district | 13415 | 7253 | 40266 | 60934 |
-| LK-31 | Galle | district | 24208 | 12492 | 58454 | 95154 |
-| LK-32 | Matara | district | 24796 | 12589 | 58573 | 95958 |
-| LK-33 | Hambantota | district | 15048 | 9723 | 44796 | 69567 |
-| LK-41 | Jaffna | district | 10935 | 3688 | 14630 | 29253 |
-
-### Example Data Row (JSON)
+### Lanka Data (first 30 of 927 lines)
 
 ```json
 {
-    "Region Id": "LK-11",
-    "Region Name": "Colombo",
-    "Region Ent Type": "district",
-    "00 04 Years": 149236,
-    "04 09 Years": 65105,
-    "10 Or More Years": 305038,
-    "Total Value": 519379
-}
+    "_meta": {
+        "source_url": "https://www.statistics.gov.lk/Resource/en/Population/CPH_2024/CPH2024_Final_Eng.pdf#page=90",
+        "source_description": [
+            "Table 5.1.6, Final Report, 2024 Census of Population and Housing, Department of Census and Statistics, Sri Lanka"
+        ],
+        "what": {
+            "MigrantsResidenceDuration": "In-migrants by District of Usual Residence and Duration of Residence, 2024"
+        }
+    },
+    "MigrantsResidenceDuration": {
+        "2024": {
+            "LK-11": {
+                "region_id": "LK-11",
+                "region_name": "Colombo",
+                "region_ent_type": "district",
+                "values": {
+                    "10OrMoreYears": 305038,
+                    "0004Years": 149236,
+                    "0409Years": 65105
+                },
+                "total_value": 519379,
+                "pct_values": {
+                    "10OrMoreYears": 0.5873,
+                    "0004Years": 0.2873,
+                    "0409Years": 0.1254
+                }
+            },
+            "LK-12": {
+                "region_id": "LK-12",
+...
 ```
 
 ### Source
@@ -1304,7 +1340,7 @@
 
 ## 31. [Reasons for Migration from District of Previous Residence to District of Usual Residence, 2024](data/final-report-tables/chapter-5/5.1.7-Reasons-for-Migration-from-District-of-Previous-Residence-to-District-of-Usual-Residence,-2024)
 
-*4 - 🟡 Lanka data is missing*
+*Build Status - **4** - 🟡 Lanka data is missing*
 
 ### Data Table (first 10 of 57 rows)
 
@@ -1347,7 +1383,7 @@
 
 ## 32. [Distribution of the Usually Resident Population of a District by their Permanent Residence, 2024](data/final-report-tables/chapter-5/5.1.8-Distribution-of-the-Usually-Resident-Population-of-a-District-by-their-Permanent-Residence,-2024)
 
-*4 - 🟡 Lanka data is missing*
+*Build Status - **4** - 🟡 Lanka data is missing*
 
 ### Data Table (first 10 of 25 rows)
 
@@ -1383,7 +1419,7 @@
 
 ## 33. [Population Temporarily Living Abroad by District and Sex, 2024](data/final-report-tables/chapter-5/5.2.1-Population-Temporarily-Living-Abroad-by-District-and-Sex,-2024)
 
-*4 - 🟡 Lanka data is missing*
+*Build Status - **4** - 🟡 Lanka data is missing*
 
 ### Data Table (first 10 of 57 rows)
 
@@ -1419,7 +1455,7 @@
 
 ## 34. [Population Temporarily Living Abroad by Sector, Sex and Age Group, 2024](data/final-report-tables/chapter-5/5.2.2-Population-Temporarily-Living-Abroad-by-Sector,-Sex-and-Age-Group,-2024)
 
-*2 - 🔴 Raw data is difficult to parse*
+*Build Status - **2** - 🔴 Raw data is difficult to parse*
 
 ### Raw Data (first 10 rows)
 
@@ -1442,7 +1478,7 @@
 
 ## 35. [Population Temporarily Living Abroad by District and Main Reason for Living in Abroad, 2024](data/final-report-tables/chapter-5/5.2.3-Population-Temporarily-Living-Abroad-by-District-and-Main-Reason-for-Living-in-Abroad,-2024)
 
-*4 - 🟡 Lanka data is missing*
+*Build Status - **4** - 🟡 Lanka data is missing*
 
 ### Data Table (first 10 of 57 rows)
 
@@ -1480,7 +1516,7 @@
 
 ## 36. [Population Temporarily Living Abroad by Main Reason for Living Abroad and Age Group, 2024](data/final-report-tables/chapter-5/5.2.4-Population-Temporarily-Living-Abroad-by-Main-Reason-for-Living-Abroad-and-Age-Group,-2024)
 
-*4 - 🟡 Lanka data is missing*
+*Build Status - **4** - 🟡 Lanka data is missing*
 
 ### Data Table
 
@@ -1511,7 +1547,7 @@
 
 ## 37. [Population Temporarily Living Abroad, by Main Reason for Living Abroad, Country of Residence and Sex,](data/final-report-tables/chapter-5/5.2.5-Population-Temporarily-Living-Abroad,-by-Main-Reason-for-Living-Abroad,-Country-of-Residence-and-Sex,)
 
-*2 - 🔴 Raw data is difficult to parse*
+*Build Status - **2** - 🔴 Raw data is difficult to parse*
 
 ### Raw Data (first 10 rows)
 
@@ -1535,7 +1571,7 @@ member’s need |  |  | Other |  |
 
 ## 38. [Total Population, Sex ratio and the Percentage of Male and Female, 1946-2024](data/final-report-tables/chapter-6/6.1.1-Total-Population,-Sex-ratio-and-the-Percentage-of-Male-and-Female,-1946-2024)
 
-*4 - 🟡 Lanka data is missing*
+*Build Status - **4** - 🟡 Lanka data is missing*
 
 ### Data Table
 
@@ -1568,7 +1604,7 @@ member’s need |  |  | Other |  |
 
 ## 39. [Sex Ratio by Sector, 2024](data/final-report-tables/chapter-6/6.1.2-Sex-Ratio-by-Sector,-2024)
 
-*4 - 🟡 Lanka data is missing*
+*Build Status - **4** - 🟡 Lanka data is missing*
 
 ### Data Table
 
@@ -1595,7 +1631,7 @@ member’s need |  |  | Other |  |
 
 ## 40. [Population by Age Groups and Sex, 2012 and](data/final-report-tables/chapter-6/6.1.3-Population-by-Age-Groups-and-Sex,-2012-and)
 
-*4 - 🟡 Lanka data is missing*
+*Build Status - **4** - 🟡 Lanka data is missing*
 
 ### Data Table (first 10 of 21 rows)
 
@@ -1632,7 +1668,7 @@ member’s need |  |  | Other |  |
 
 ## 41. [Percentage Distribution of Population by Age Group, 1946–2024](data/final-report-tables/chapter-6/6.1.4-Percentage-Distribution-of-Population-by-Age-Group,-1946–2024)
 
-*4 - 🟡 Lanka data is missing*
+*Build Status - **4** - 🟡 Lanka data is missing*
 
 ### Data Table (first 10 of 14 rows)
 
@@ -1671,7 +1707,7 @@ member’s need |  |  | Other |  |
 
 ## 42. [Population Over and Below 18 Years of Age by Sector and District, 2024](data/final-report-tables/chapter-6/6.1.5-Population-Over-and-Below-18-Years-of-Age-by-Sector-and-District,-2024)
 
-*4 - 🟡 Lanka data is missing*
+*Build Status - **4** - 🟡 Lanka data is missing*
 
 ### Data Table (first 10 of 57 rows)
 
@@ -1709,7 +1745,7 @@ member’s need |  |  | Other |  |
 
 ## 43. [Elderly Population and Sex Ratio by Age Groups, 2012 and 2024](data/final-report-tables/chapter-6/6.1.6-Elderly-Population-and-Sex-Ratio-by-Age-Groups,-2012-and-2024)
 
-*2 - 🔴 Raw data is difficult to parse*
+*Build Status - **2** - 🔴 Raw data is difficult to parse*
 
 ### Raw Data (first 10 rows)
 
@@ -1732,7 +1768,7 @@ member’s need |  |  | Other |  |
 
 ## 44. [Median Age of the Population, 1946-2024](data/final-report-tables/chapter-6/6.1.7-Median-Age-of-the-Population,-1946-2024)
 
-*4 - 🟡 Lanka data is missing*
+*Build Status - **4** - 🟡 Lanka data is missing*
 
 ### Data Table
 
@@ -1763,7 +1799,7 @@ member’s need |  |  | Other |  |
 
 ## 45. [Population Distribution by Ethnic Group, 2024](data/final-report-tables/chapter-6/6.1.8-Population-Distribution-by-Ethnic-Group,-2024)
 
-*4 - 🟡 Lanka data is missing*
+*Build Status - **4** - 🟡 Lanka data is missing*
 
 ### Data Table (first 10 of 11 rows)
 
@@ -1795,7 +1831,7 @@ member’s need |  |  | Other |  |
 
 ## 46. [Percentage Distribution of the Population by Ethnic Group and Province, 2024](data/final-report-tables/chapter-6/6.1.9-Percentage-Distribution-of-the-Population-by-Ethnic-Group-and-Province,-2024)
 
-*4 - 🟡 Lanka data is missing*
+*Build Status - **4** - 🟡 Lanka data is missing*
 
 ### Data Table
 
@@ -1838,7 +1874,7 @@ member’s need |  |  | Other |  |
 
 ## 47. [Population by Ethnic Group, 1911 - 2024 (in](data/final-report-tables/chapter-6/6.1.10-Population-by-Ethnic-Group,-1911---2024-(in)
 
-*4 - 🟡 Lanka data is missing*
+*Build Status - **4** - 🟡 Lanka data is missing*
 
 ### Data Table
 
@@ -1881,7 +1917,7 @@ member’s need |  |  | Other |  |
 
 ## 48. [Distribution of Population by Ethnic Group and District, 2012 and 2024](data/final-report-tables/chapter-6/6.1.11-Distribution-of-Population-by-Ethnic-Group-and-District,-2012-and-2024)
 
-*4 - 🟡 Lanka data is missing*
+*Build Status - **4** - 🟡 Lanka data is missing*
 
 ### Data Table (first 10 of 57 rows)
 
@@ -1930,7 +1966,7 @@ member’s need |  |  | Other |  |
 
 ## 49. [Percentage Distribution of Population by Ethnic Group and District, 2012 and 2024](data/final-report-tables/chapter-6/6.1.12-Percentage-Distribution-of-Population-by-Ethnic-Group-and-District,-2012-and-2024)
 
-*4 - 🟡 Lanka data is missing*
+*Build Status - **4** - 🟡 Lanka data is missing*
 
 ### Data Table (first 10 of 57 rows)
 
@@ -1979,7 +2015,7 @@ member’s need |  |  | Other |  |
 
 ## 50. [Population and Percentage Distribution by Sector and Religion, 2024](data/final-report-tables/chapter-6/6.1.13-Population-and-Percentage-Distribution-by-Sector-and-Religion,-2024)
 
-*2 - 🔴 Raw data is difficult to parse*
+*Build Status - **2** - 🔴 Raw data is difficult to parse*
 
 ### Raw Data (first 10 rows)
 
@@ -2002,7 +2038,7 @@ member’s need |  |  | Other |  |
 
 ## 51. [Distribution of Population by Religion and District, 2012](data/final-report-tables/chapter-6/6.1.14-Distribution-of-Population-by-Religion-and-District,-2012)
 
-*4 - 🟡 Lanka data is missing*
+*Build Status - **4** - 🟡 Lanka data is missing*
 
 ### Data Table (first 10 of 58 rows)
 
@@ -2042,7 +2078,7 @@ member’s need |  |  | Other |  |
 
 ## 52. [Distribution of Population by Religion and District, 2024](data/final-report-tables/chapter-6/6.1.15-Distribution-of-Population-by-Religion-and-District,-2024)
 
-*4 - 🟡 Lanka data is missing*
+*Build Status - **4** - 🟡 Lanka data is missing*
 
 ### Data Table (first 10 of 58 rows)
 
@@ -2082,7 +2118,7 @@ member’s need |  |  | Other |  |
 
 ## 53. [Distribution of the Population Aged 5 Years and Over by Level of Physical and Mental Difficulties for EachFunctional Domain, 2024](data/final-report-tables/chapter-6/6.2.1-Distribution-of-the-Population-Aged-5-Years-and-Over-by-Level-of-Physical-and-Mental-Difficulties-for-EachFunctional-Domain,-2024)
 
-*2 - 🔴 Raw data is difficult to parse*
+*Build Status - **2** - 🔴 Raw data is difficult to parse*
 
 ### Raw Data (first 10 rows)
 
@@ -2111,7 +2147,7 @@ over or dressing | 19,926,695 | 969 | 450,693 | 22 | 124,756 | 6 | 64,536 | 3 |
 
 ## 54. [Distribution of Persons Aged 5 Years and Over with Physical and Mental Difficulties by District and Difficulties,2024](data/final-report-tables/chapter-6/6.2.2-Distribution-of-Persons-Aged-5-Years-and-Over-with-Physical-and-Mental-Difficulties-by-District-and-Difficulties,2024)
 
-*4 - 🟡 Lanka data is missing*
+*Build Status - **4** - 🟡 Lanka data is missing*
 
 ### Data Table (first 10 of 26 rows)
 
@@ -2150,7 +2186,7 @@ over or dressing | 19,926,695 | 969 | 450,693 | 22 | 124,756 | 6 | 64,536 | 3 |
 
 ## 55. [Distribution of Persons Aged 5 Years and Over with Physical and Mental Difficulties by Age Group andDifficulties, 2024](data/final-report-tables/chapter-6/6.2.3-Distribution-of-Persons-Aged-5-Years-and-Over-with-Physical-and-Mental-Difficulties-by-Age-Group-andDifficulties,-2024)
 
-*4 - 🟡 Lanka data is missing*
+*Build Status - **4** - 🟡 Lanka data is missing*
 
 ### Data Table (first 10 of 17 rows)
 
@@ -2190,7 +2226,7 @@ over or dressing | 19,926,695 | 969 | 450,693 | 22 | 124,756 | 6 | 64,536 | 3 |
 
 ## 56. [Distribution of Persons Aged 5 Years and Over with Disabilities by Sex and Domain of Disability, 2024](data/final-report-tables/chapter-6/6.2.4-Distribution-of-Persons-Aged-5-Years-and-Over-with-Disabilities-by-Sex-and-Domain-of-Disability,-2024)
 
-*2 - 🔴 Raw data is difficult to parse*
+*Build Status - **2** - 🔴 Raw data is difficult to parse*
 
 ### Raw Data (first 10 rows)
 
@@ -2213,7 +2249,7 @@ over or dressing | 19,926,695 | 969 | 450,693 | 22 | 124,756 | 6 | 64,536 | 3 |
 
 ## 57. [Distribution of Persons Aged 5 Years and Over with Disabilities by Sector and Domain of Disability, 2024](data/final-report-tables/chapter-6/6.2.5-Distribution-of-Persons-Aged-5-Years-and-Over-with-Disabilities-by-Sector-and-Domain-of-Disability,-2024)
 
-*2 - 🔴 Raw data is difficult to parse*
+*Build Status - **2** - 🔴 Raw data is difficult to parse*
 
 ### Raw Data (first 10 rows)
 
@@ -2240,7 +2276,7 @@ years and over | Number | 20,566,680 | 3,613,813 | 11,299 | 16,131,086 | 810,482
 
 ## 58. [Distribution of Persons Aged 5 Years and Over with Disabilities by District and Domain of Disability, 2024](data/final-report-tables/chapter-6/6.2.6-Distribution-of-Persons-Aged-5-Years-and-Over-with-Disabilities-by-District-and-Domain-of-Disability,-2024)
 
-*4 - 🟡 Lanka data is missing*
+*Build Status - **4** - 🟡 Lanka data is missing*
 
 ### Data Table (first 10 of 26 rows)
 
@@ -2279,7 +2315,7 @@ years and over | Number | 20,566,680 | 3,613,813 | 11,299 | 16,131,086 | 810,482
 
 ## 59. [Distribution of Persons Aged 5 Years and Over with Disabilities by Age Group and Domain of Disability,](data/final-report-tables/chapter-6/6.2.7-Distribution-of-Persons-Aged-5-Years-and-Over-with-Disabilities-by-Age-Group-and-Domain-of-Disability,)
 
-*4 - 🟡 Lanka data is missing*
+*Build Status - **4** - 🟡 Lanka data is missing*
 
 ### Data Table (first 10 of 17 rows)
 
@@ -2319,7 +2355,7 @@ years and over | Number | 20,566,680 | 3,613,813 | 11,299 | 16,131,086 | 810,482
 
 ## 60. [Distribution of Persons with a Single Disability and with Multiple Disabilities by Age Group, 2024](data/final-report-tables/chapter-6/6.2.8-Distribution-of-Persons-with-a-Single-Disability-and-with-Multiple-Disabilities-by-Age-Group,-2024)
 
-*4 - 🟡 Lanka data is missing*
+*Build Status - **4** - 🟡 Lanka data is missing*
 
 ### Data Table (first 10 of 17 rows)
 
@@ -2354,7 +2390,7 @@ years and over | Number | 20,566,680 | 3,613,813 | 11,299 | 16,131,086 | 810,482
 
 ## 61. [Distribution of Persons Aged 5 Years and Over with Disabilities by Marital Status and Sex, 2024](data/final-report-tables/chapter-6/6.2.9-Distribution-of-Persons-Aged-5-Years-and-Over-with-Disabilities-by-Marital-Status-and-Sex,-2024)
 
-*4 - 🟡 Lanka data is missing*
+*Build Status - **4** - 🟡 Lanka data is missing*
 
 ### Data Table
 
@@ -2388,7 +2424,7 @@ years and over | Number | 20,566,680 | 3,613,813 | 11,299 | 16,131,086 | 810,482
 
 ## 62. [Distribution of Persons Aged 5 Years and Over with Disabilities by Highest Educational Qualification and Sex,2024](data/final-report-tables/chapter-6/6.2.10-Distribution-of-Persons-Aged-5-Years-and-Over-with-Disabilities-by-Highest-Educational-Qualification-and-Sex,2024)
 
-*4 - 🟡 Lanka data is missing*
+*Build Status - **4** - 🟡 Lanka data is missing*
 
 ### Data Table
 
@@ -2425,7 +2461,7 @@ years and over | Number | 20,566,680 | 3,613,813 | 11,299 | 16,131,086 | 810,482
 
 ## 63. [Distribution of Persons Aged 5 Years and Over with Disabilities by Marital Status and Domain of Disability,2024](data/final-report-tables/chapter-6/6.2.11-Distribution-of-Persons-Aged-5-Years-and-Over-with-Disabilities-by-Marital-Status-and-Domain-of-Disability,2024)
 
-*4 - 🟡 Lanka data is missing*
+*Build Status - **4** - 🟡 Lanka data is missing*
 
 ### Data Table
 
@@ -2461,7 +2497,7 @@ years and over | Number | 20,566,680 | 3,613,813 | 11,299 | 16,131,086 | 810,482
 
 ## 64. [Distribution of Persons Aged 5 Years and Over with Disabilities by Highest Educational Qualification andDomain of Disability, 2024](data/final-report-tables/chapter-6/6.2.12-Distribution-of-Persons-Aged-5-Years-and-Over-with-Disabilities-by-Highest-Educational-Qualification-andDomain-of-Disability,-2024)
 
-*4 - 🟡 Lanka data is missing*
+*Build Status - **4** - 🟡 Lanka data is missing*
 
 ### Data Table
 
@@ -2499,7 +2535,7 @@ years and over | Number | 20,566,680 | 3,613,813 | 11,299 | 16,131,086 | 810,482
 
 ## 65. [Economic Activities of Persons Aged 15 Years and Over with Disabilities, 2024](data/final-report-tables/chapter-6/6.2.13-Economic-Activities-of-Persons-Aged-15-Years-and-Over-with-Disabilities,-2024)
 
-*2 - 🔴 Raw data is difficult to parse*
+*Build Status - **2** - 🔴 Raw data is difficult to parse*
 
 ### Raw Data (first 10 rows)
 
@@ -2522,7 +2558,7 @@ years and over | Number | 20,566,680 | 3,613,813 | 11,299 | 16,131,086 | 810,482
 
 ## 66. [Economic Activity of Persons Aged 15 Years and Over with Disabilities by Domain of Disability, 2024](data/final-report-tables/chapter-6/6.2.14-Economic-Activity-of-Persons-Aged-15-Years-and-Over-with-Disabilities-by-Domain-of-Disability,-2024)
 
-*2 - 🔴 Raw data is difficult to parse*
+*Build Status - **2** - 🔴 Raw data is difficult to parse*
 
 ### Raw Data (first 10 rows)
 
@@ -2546,7 +2582,7 @@ activities | 3,336 | 2.2 | 1,289 | 1.2 | 1,606 | 0.4 | 1,255 | 0.8 | 904 | 0.5 |
 
 ## 67. [Number of Persons Reporting and Not Reporting Diseases, 2024](data/final-report-tables/chapter-6/6.3.1-Number-of-Persons-Reporting-and-Not-Reporting-Diseases,-2024)
 
-*2 - 🔴 Raw data is difficult to parse*
+*Build Status - **2** - 🔴 Raw data is difficult to parse*
 
 ### Raw Data (first 10 rows)
 
@@ -2570,7 +2606,7 @@ ntroduction |  |
 
 ## 68. [Prevalence Rates of the Population with at Least One Non-Communicable Disease by Age Group and Sex,](data/final-report-tables/chapter-6/6.3.2-Prevalence-Rates-of-the-Population-with-at-Least-One-Non-Communicable-Disease-by-Age-Group-and-Sex,)
 
-*4 - 🟡 Lanka data is missing*
+*Build Status - **4** - 🟡 Lanka data is missing*
 
 ### Data Table (first 10 of 22 rows)
 
@@ -2610,7 +2646,7 @@ ntroduction |  |
 
 ## 69. [Number of Individuals Living with Non-Communicable Diseases and Prevalence Rates, 2024](data/final-report-tables/chapter-6/6.3.3-Number-of-Individuals-Living-with-Non-Communicable-Diseases-and-Prevalence-Rates,-2024)
 
-*4 - 🟡 Lanka data is missing*
+*Build Status - **4** - 🟡 Lanka data is missing*
 
 ### Data Table
 
@@ -2643,7 +2679,7 @@ ntroduction |  |
 
 ## 70. [Prevalence Rates of Non-Communicable Diseases by District, 2024](data/final-report-tables/chapter-6/6.3.4-Prevalence-Rates-of-Non-Communicable-Diseases-by-District,-2024)
 
-*4 - 🟡 Lanka data is missing*
+*Build Status - **4** - 🟡 Lanka data is missing*
 
 ### Data Table (first 10 of 60 rows)
 
@@ -2687,7 +2723,7 @@ ntroduction |  |
 
 ## 71. [Prevalence Rates of Self-Reported Illnesses by Sector, 2024](data/final-report-tables/chapter-6/6.3.5-Prevalence-Rates-of-Self-Reported-Illnesses-by-Sector,-2024)
 
-*4 - 🟡 Lanka data is missing*
+*Build Status - **4** - 🟡 Lanka data is missing*
 
 ### Data Table
 
@@ -2721,7 +2757,7 @@ ntroduction |  |
 
 ## 72. [Prevalence Rates of Non-Communicable Diseases by Sex, 2024](data/final-report-tables/chapter-6/6.3.6-Prevalence-Rates-of-Non-Communicable-Diseases-by-Sex,-2024)
 
-*4 - 🟡 Lanka data is missing*
+*Build Status - **4** - 🟡 Lanka data is missing*
 
 ### Data Table (first 10 of 11 rows)
 
@@ -2756,7 +2792,7 @@ ntroduction |  |
 
 ## 73. [Prevalence Rates of Non-Communicable Diseases by Age Group, 2024](data/final-report-tables/chapter-6/6.3.7-Prevalence-Rates-of-Non-Communicable-Diseases-by-Age-Group,-2024)
 
-*4 - 🟡 Lanka data is missing*
+*Build Status - **4** - 🟡 Lanka data is missing*
 
 ### Data Table (first 10 of 21 rows)
 
@@ -2797,7 +2833,7 @@ ntroduction |  |
 
 ## 74. [Prevalence Rates of Non-Communicable Diseases by Broad Age Groups, 2024](data/final-report-tables/chapter-6/6.3.8-Prevalence-Rates-of-Non-Communicable-Diseases-by-Broad-Age-Groups,-2024)
 
-*4 - 🟡 Lanka data is missing*
+*Build Status - **4** - 🟡 Lanka data is missing*
 
 ### Data Table
 
@@ -2832,7 +2868,7 @@ ntroduction |  |
 
 ## 75. [Prevalence Rates of Non-Communicable Diseases by Marital Status, 2024](data/final-report-tables/chapter-6/6.3.9-Prevalence-Rates-of-Non-Communicable-Diseases-by-Marital-Status,-2024)
 
-*4 - 🟡 Lanka data is missing*
+*Build Status - **4** - 🟡 Lanka data is missing*
 
 ### Data Table
 
@@ -2870,7 +2906,7 @@ ntroduction |  |
 
 ## 76. [Prevalence Rates of Non-Communicable Diseases by Ethnic Group, 2024](data/final-report-tables/chapter-6/6.3.10-Prevalence-Rates-of-Non-Communicable-Diseases-by-Ethnic-Group,-2024)
 
-*4 - 🟡 Lanka data is missing*
+*Build Status - **4** - 🟡 Lanka data is missing*
 
 ### Data Table (first 10 of 11 rows)
 
@@ -2911,7 +2947,7 @@ ntroduction |  |
 
 ## 77. [Prevalence Rates for the Population Aged 25 and Over by Highest Educational Qualification, 2024](data/final-report-tables/chapter-6/6.3.11-Prevalence-Rates-for-the-Population-Aged-25-and-Over-by-Highest-Educational-Qualification,-2024)
 
-*4 - 🟡 Lanka data is missing*
+*Build Status - **4** - 🟡 Lanka data is missing*
 
 ### Data Table
 
@@ -2951,7 +2987,7 @@ ntroduction |  |
 
 ## 78. [Prevalence Rates of NCDs by Employment Status, 2024](data/final-report-tables/chapter-6/6.3.12-Prevalence-Rates-of-NCDs-by-Employment-Status,-2024)
 
-*4 - 🟡 Lanka data is missing*
+*Build Status - **4** - 🟡 Lanka data is missing*
 
 ### Data Table
 
@@ -2989,7 +3025,7 @@ ntroduction |  |
 
 ## 79. [Population Aged 3 Years and Over by Sex and Educational Activity During the Census Reference Period,](data/final-report-tables/chapter-7/7.1-Population-Aged-3-Years-and-Over-by-Sex-and-Educational-Activity-During-the-Census-Reference-Period,)
 
-*4 - 🟡 Lanka data is missing*
+*Build Status - **4** - 🟡 Lanka data is missing*
 
 ### Data Table
 
@@ -3019,7 +3055,7 @@ ntroduction |  |
 
 ## 80. [Percentage Pistribution of Population Aged 03 Years and Over by Educational Activity and Age Group, 2024](data/final-report-tables/chapter-7/7.2-Percentage-Pistribution-of-Population-Aged-03-Years-and-Over-by-Educational-Activity-and-Age-Group,-2024)
 
-*4 - 🟡 Lanka data is missing*
+*Build Status - **4** - 🟡 Lanka data is missing*
 
 ### Data Table
 
@@ -3051,7 +3087,7 @@ ntroduction |  |
 
 ## 81. [Children Enrolled in Pre-school Education During the Reference Period by Age, 2024](data/final-report-tables/chapter-7/7.3-Children-Enrolled-in-Pre-school-Education-During-the-Reference-Period-by-Age,-2024)
 
-*4 - 🟡 Lanka data is missing*
+*Build Status - **4** - 🟡 Lanka data is missing*
 
 ### Data Table
 
@@ -3079,7 +3115,7 @@ ntroduction |  |
 
 ## 82. [Percentage of Children Receiving Preschool Education by Age Group and District, 2024](data/final-report-tables/chapter-7/7.4-Percentage-of-Children-Receiving-Preschool-Education-by-Age-Group-and-District,-2024)
 
-*4 - 🟡 Lanka data is missing*
+*Build Status - **4** - 🟡 Lanka data is missing*
 
 ### Data Table (first 10 of 25 rows)
 
@@ -3116,7 +3152,7 @@ ntroduction |  |
 
 ## 83. [Population Engaged in School Education During the Reference Period by Age Group and Sex,](data/final-report-tables/chapter-7/7.5-Population-Engaged-in-School-Education-During-the-Reference-Period-by-Age-Group-and-Sex,)
 
-*4 - 🟡 Lanka data is missing*
+*Build Status - **4** - 🟡 Lanka data is missing*
 
 ### Data Table
 
@@ -3148,7 +3184,7 @@ ntroduction |  |
 
 ## 84. [The Educational Level of the Population Age 25 Years and Over by Sex, 2012 and 2024](data/final-report-tables/chapter-7/7.6-The-Educational-Level-of-the-Population-Age-25-Years-and-Over-by-Sex,-2012-and-2024)
 
-*2 - 🔴 Raw data is difficult to parse*
+*Build Status - **2** - 🔴 Raw data is difficult to parse*
 
 ### Raw Data (first 10 rows)
 
@@ -3171,7 +3207,7 @@ ntroduction |  |
 
 ## 85. [Percentage Distribution of Population Aged 25 and Over by Educational Level and District, 2012 and 2024](data/final-report-tables/chapter-7/7.7-Percentage-Distribution-of-Population-Aged-25-and-Over-by-Educational-Level-and-District,-2012-and-2024)
 
-*4 - 🟡 Lanka data is missing*
+*Build Status - **4** - 🟡 Lanka data is missing*
 
 ### Data Table (first 10 of 25 rows)
 
@@ -3216,7 +3252,7 @@ ntroduction |  |
 
 ## 86. [Language Literacy Rate by Census Year and Sex, 2024](data/final-report-tables/chapter-7/7.8-Language-Literacy-Rate-by-Census-Year-and-Sex,-2024)
 
-*4 - 🟡 Lanka data is missing*
+*Build Status - **4** - 🟡 Lanka data is missing*
 
 ### Data Table (first 10 of 13 rows)
 
@@ -3250,7 +3286,7 @@ ntroduction |  |
 
 ## 87. [Language Literacy Rate by Language and Age Group, 2024](data/final-report-tables/chapter-7/7.9-Language-Literacy-Rate-by-Language-and-Age-Group,-2024)
 
-*4 - 🟡 Lanka data is missing*
+*Build Status - **4** - 🟡 Lanka data is missing*
 
 ### Data Table
 
@@ -3282,7 +3318,7 @@ ntroduction |  |
 
 ## 88. [Language Literacy Rate by Language and District, 2024](data/final-report-tables/chapter-7/7.10-Language-Literacy-Rate-by-Language-and-District,-2024)
 
-*4 - 🟡 Lanka data is missing*
+*Build Status - **4** - 🟡 Lanka data is missing*
 
 ### Data Table (first 10 of 25 rows)
 
@@ -3320,7 +3356,7 @@ ntroduction |  |
 
 ## 89. [Language Literacy Rate by Language and Ethnic Group, 2012 and 2024](data/final-report-tables/chapter-7/7.11-Language-Literacy-Rate-by-Language-and-Ethnic-Group,-2012-and-2024)
 
-*4 - 🟡 Lanka data is missing*
+*Build Status - **4** - 🟡 Lanka data is missing*
 
 ### Data Table
 
@@ -3357,7 +3393,7 @@ ntroduction |  |
 
 ## 90. [Computer and Digital Literacy Rate by Sector,2024](data/final-report-tables/chapter-7/7.12-Computer-and-Digital-Literacy-Rate-by-Sector,2024)
 
-*4 - 🟡 Lanka data is missing*
+*Build Status - **4** - 🟡 Lanka data is missing*
 
 ### Data Table
 
@@ -3384,7 +3420,7 @@ ntroduction |  |
 
 ## 91. [Computer and Digital Literacy Rate by District, 2024](data/final-report-tables/chapter-7/7.13-Computer-and-Digital-Literacy-Rate-by-District,-2024)
 
-*4 - 🟡 Lanka data is missing*
+*Build Status - **4** - 🟡 Lanka data is missing*
 
 ### Data Table (first 10 of 25 rows)
 
@@ -3420,7 +3456,7 @@ ntroduction |  |
 
 ## 92. [Computer and Digital Literacy Rate by Age Group,](data/final-report-tables/chapter-7/7.14-Computer-and-Digital-Literacy-Rate-by-Age-Group,)
 
-*4 - 🟡 Lanka data is missing*
+*Build Status - **4** - 🟡 Lanka data is missing*
 
 ### Data Table (first 10 of 12 rows)
 
@@ -3454,7 +3490,7 @@ ntroduction |  |
 
 ## 93. [Economically Active and Inactive Population by Sex, 2024](data/final-report-tables/chapter-8/8.1-Economically-Active-and-Inactive-Population-by-Sex,-2024)
 
-*4 - 🟡 Lanka data is missing*
+*Build Status - **4** - 🟡 Lanka data is missing*
 
 ### Data Table
 
@@ -3480,7 +3516,7 @@ ntroduction |  |
 
 ## 94. [Economically Active Population, by Sector and Sex, 2024](data/final-report-tables/chapter-8/8.2-Economically-Active-Population,-by-Sector-and-Sex,-2024)
 
-*4 - 🟡 Lanka data is missing*
+*Build Status - **4** - 🟡 Lanka data is missing*
 
 ### Data Table
 
@@ -3508,7 +3544,7 @@ ntroduction |  |
 
 ## 95. [Economically Active Population by Sex and Age Group, 2024](data/final-report-tables/chapter-8/8.3-Economically-Active-Population-by-Sex-and-Age-Group,-2024)
 
-*4 - 🟡 Lanka data is missing*
+*Build Status - **4** - 🟡 Lanka data is missing*
 
 ### Data Table (first 10 of 14 rows)
 
@@ -3542,7 +3578,7 @@ ntroduction |  |
 
 ## 96. [Labour Force Participation Rate by Age Group and Sex, 2024](data/final-report-tables/chapter-8/8.4-Labour-Force-Participation-Rate-by-Age-Group-and-Sex,-2024)
 
-*4 - 🟡 Lanka data is missing*
+*Build Status - **4** - 🟡 Lanka data is missing*
 
 ### Data Table (first 10 of 14 rows)
 
@@ -3576,7 +3612,7 @@ ntroduction |  |
 
 ## 97. [Labour Force Participation Rate, by Highest Educational Qualification Attained and Sex, 2024](data/final-report-tables/chapter-8/8.5-Labour-Force-Participation-Rate,-by-Highest-Educational-Qualification-Attained-and-Sex,-2024)
 
-*4 - 🟡 Lanka data is missing*
+*Build Status - **4** - 🟡 Lanka data is missing*
 
 ### Data Table
 
@@ -3607,7 +3643,7 @@ ntroduction |  |
 
 ## 98. [Employed Population by Sector and Sex, 2024](data/final-report-tables/chapter-8/8.6-Employed-Population-by-Sector-and-Sex,-2024)
 
-*4 - 🟡 Lanka data is missing*
+*Build Status - **4** - 🟡 Lanka data is missing*
 
 ### Data Table
 
@@ -3635,7 +3671,7 @@ ntroduction |  |
 
 ## 99. [Employed Population, by Highest Educational Attainment and Sex, 2024](data/final-report-tables/chapter-8/8.7-Employed-Population,-by-Highest-Educational-Attainment-and-Sex,-2024)
 
-*4 - 🟡 Lanka data is missing*
+*Build Status - **4** - 🟡 Lanka data is missing*
 
 ### Data Table
 
@@ -3667,7 +3703,7 @@ ntroduction |  |
 
 ## 100. [Employed Population by Employment Status and Sex, 2024](data/final-report-tables/chapter-8/8.8-Employed-Population-by-Employment-Status-and-Sex,-2024)
 
-*4 - 🟡 Lanka data is missing*
+*Build Status - **4** - 🟡 Lanka data is missing*
 
 ### Data Table
 
@@ -3696,7 +3732,7 @@ ntroduction |  |
 
 ## 101. [Unemployed Population by Sector and Sex, 2024](data/final-report-tables/chapter-8/8.9-Unemployed-Population-by-Sector-and-Sex,-2024)
 
-*4 - 🟡 Lanka data is missing*
+*Build Status - **4** - 🟡 Lanka data is missing*
 
 ### Data Table
 
@@ -3724,7 +3760,7 @@ ntroduction |  |
 
 ## 102. [Employment Rate and Unemployment Rate by District, 2024](data/final-report-tables/chapter-8/8.10-Employment-Rate-and-Unemployment-Rate-by-District,-2024)
 
-*4 - 🟡 Lanka data is missing*
+*Build Status - **4** - 🟡 Lanka data is missing*
 
 ### Data Table (first 10 of 57 rows)
 
@@ -3760,7 +3796,7 @@ ntroduction |  |
 
 ## 103. [Economically Inactive Population by Main Reason for Inactivity, 2024](data/final-report-tables/chapter-8/8.11-Economically-Inactive-Population-by-Main-Reason-for-Inactivity,-2024)
 
-*4 - 🟡 Lanka data is missing*
+*Build Status - **4** - 🟡 Lanka data is missing*
 
 ### Data Table
 
@@ -3789,7 +3825,7 @@ ntroduction |  |
 
 ## 104. [by Marital Status, Age Group, and Sex, 2024](data/final-report-tables/chapter-9/9.1-by-Marital-Status,-Age-Group,-and-Sex,-2024)
 
-*2 - 🔴 Raw data is difficult to parse*
+*Build Status - **2** - 🔴 Raw data is difficult to parse*
 
 ### Raw Data (first 10 rows)
 
@@ -3812,7 +3848,7 @@ ntroduction |  |
 
 ## 105. [Marital Status by Ethnic group and Sex,](data/final-report-tables/chapter-9/9.2-Marital-Status-by-Ethnic-group-and-Sex,)
 
-*2 - 🔴 Raw data is difficult to parse*
+*Build Status - **2** - 🔴 Raw data is difficult to parse*
 
 ### Raw Data (first 10 rows)
 
@@ -3839,7 +3875,7 @@ Married | Married | Widowed | Divorced | Separated
 
 ## 106. [Population Aged 15 Years and Over by Marital Status and Sex, 2012 and 2024](data/final-report-tables/chapter-9/9.3-Population-Aged-15-Years-and-Over-by-Marital-Status-and-Sex,-2012-and-2024)
 
-*4 - 🟡 Lanka data is missing*
+*Build Status - **4** - 🟡 Lanka data is missing*
 
 ### Data Table
 
@@ -3873,7 +3909,7 @@ Married | Married | Widowed | Divorced | Separated
 
 ## 107. [Percentage of Never-Married Persons within the Age Group by Sex, 1981, 2012, and 2024](data/final-report-tables/chapter-9/9.4-Percentage-of-Never-Married-Persons-within-the-Age-Group-by-Sex,-1981,-2012,-and-2024)
 
-*4 - 🟡 Lanka data is missing*
+*Build Status - **4** - 🟡 Lanka data is missing*
 
 ### Data Table (first 10 of 12 rows)
 
@@ -3910,7 +3946,7 @@ Married | Married | Widowed | Divorced | Separated
 
 ## 108. [Percentage of Married Population Aged 15 Years and Over by Age Group, 1981, 2012, and 2024](data/final-report-tables/chapter-9/9.5-Percentage-of-Married-Population-Aged-15-Years-and-Over-by-Age-Group,-1981,-2012,-and-2024)
 
-*4 - 🟡 Lanka data is missing*
+*Build Status - **4** - 🟡 Lanka data is missing*
 
 ### Data Table (first 10 of 12 rows)
 
@@ -3947,7 +3983,7 @@ Married | Married | Widowed | Divorced | Separated
 
 ## 109. [Percentage of Widowed Population Aged 15 Years and over, 1981, 2012, and 2024](data/final-report-tables/chapter-9/9.6-Percentage-of-Widowed-Population-Aged-15-Years-and-over,-1981,-2012,-and-2024)
 
-*4 - 🟡 Lanka data is missing*
+*Build Status - **4** - 🟡 Lanka data is missing*
 
 ### Data Table (first 10 of 12 rows)
 
@@ -3984,7 +4020,7 @@ Married | Married | Widowed | Divorced | Separated
 
 ## 110. [Number of Divorced or Separated Persons per 10,000 Population Aged 15 Years and Over, 1981, 2012, and](data/final-report-tables/chapter-9/9.7-Number-of-Divorced-or-Separated-Persons-per-10,000-Population-Aged-15-Years-and-Over,-1981,-2012,-and)
 
-*4 - 🟡 Lanka data is missing*
+*Build Status - **4** - 🟡 Lanka data is missing*
 
 ### Data Table
 
@@ -4014,7 +4050,7 @@ Married | Married | Widowed | Divorced | Separated
 
 ## 111. [Mean Age at Marriage, 1953–2024](data/final-report-tables/chapter-9/9.8-Mean-Age-at-Marriage,-1953–2024)
 
-*4 - 🟡 Lanka data is missing*
+*Build Status - **4** - 🟡 Lanka data is missing*
 
 ### Data Table
 
@@ -4044,7 +4080,7 @@ Married | Married | Widowed | Divorced | Separated
 
 ## 112. [Mean Age at Marriage by Sector, 2024](data/final-report-tables/chapter-9/9.9-Mean-Age-at-Marriage-by-Sector,-2024)
 
-*4 - 🟡 Lanka data is missing*
+*Build Status - **4** - 🟡 Lanka data is missing*
 
 ### Data Table
 
@@ -4072,7 +4108,7 @@ Married | Married | Widowed | Divorced | Separated
 
 ## 113. [Mean Age at Marriage by District of Usual Residence, 2012 and 2024](data/final-report-tables/chapter-9/9.10-Mean-Age-at-Marriage-by-District-of-Usual-Residence,-2012-and-2024)
 
-*4 - 🟡 Lanka data is missing*
+*Build Status - **4** - 🟡 Lanka data is missing*
 
 ### Data Table (first 10 of 25 rows)
 
@@ -4109,7 +4145,7 @@ Married | Married | Widowed | Divorced | Separated
 
 ## 114. [Mean Age at Marriage by Ethnic Group, 2024](data/final-report-tables/chapter-9/9.11-Mean-Age-at-Marriage-by-Ethnic-Group,-2024)
 
-*4 - 🟡 Lanka data is missing*
+*Build Status - **4** - 🟡 Lanka data is missing*
 
 ### Data Table
 
@@ -4137,7 +4173,7 @@ Married | Married | Widowed | Divorced | Separated
 
 ## 115. [Percentage Distribution of Ever-Married Women Aged 15 Years and Over by the Number of Live Births perWoman and Sector, 2024](data/final-report-tables/chapter-9/9.12-Percentage-Distribution-of-Ever-Married-Women-Aged-15-Years-and-Over-by-the-Number-of-Live-Births-perWoman-and-Sector,-2024)
 
-*4 - 🟡 Lanka data is missing*
+*Build Status - **4** - 🟡 Lanka data is missing*
 
 ### Data Table
 
@@ -4171,7 +4207,7 @@ Married | Married | Widowed | Divorced | Separated
 
 ## 116. [Number and Percentage Distribution of Married Women Aged 15–49 Years by Age Group, 2012 and 2024](data/final-report-tables/chapter-9/9.13-Number-and-Percentage-Distribution-of-Married-Women-Aged-15–49-Years-by-Age-Group,-2012-and-2024)
 
-*4 - 🟡 Lanka data is missing*
+*Build Status - **4** - 🟡 Lanka data is missing*
 
 ### Data Table
 
@@ -4202,7 +4238,7 @@ Married | Married | Widowed | Divorced | Separated
 
 ## 117. [Age-Specific Fertility Rates (ASFR), 2012 and 2024](data/final-report-tables/chapter-9/9.14-Age-Specific-Fertility-Rates-(ASFR),-2012-and-2024)
 
-*4 - 🟡 Lanka data is missing*
+*Build Status - **4** - 🟡 Lanka data is missing*
 
 ### Data Table
 
@@ -4233,7 +4269,7 @@ Married | Married | Widowed | Divorced | Separated
 
 ## 118. [Total Fertility Rate (TFR), 1981, 2012 and 2024](data/final-report-tables/chapter-9/9.15-Total-Fertility-Rate-(TFR),-1981,-2012-and-2024)
 
-*4 - 🟡 Lanka data is missing*
+*Build Status - **4** - 🟡 Lanka data is missing*
 
 ### Data Table
 
@@ -4258,7 +4294,7 @@ Married | Married | Widowed | Divorced | Separated
 
 ## 119. [Age-Specific Fertility Rate (ASFR), Age-Specific Marital Fertility Rate (ASMFR), Total Fertility Rate (TFR) andTotal Marital Fertility Rate (TMFR)](data/final-report-tables/chapter-9/9.16-Age-Specific-Fertility-Rate-(ASFR),-Age-Specific-Marital-Fertility-Rate-(ASMFR),-Total-Fertility-Rate-(TFR)-andTotal-Marital-Fertility-Rate-(TMFR))
 
-*4 - 🟡 Lanka data is missing*
+*Build Status - **4** - 🟡 Lanka data is missing*
 
 ### Data Table
 
@@ -4288,7 +4324,7 @@ Married | Married | Widowed | Divorced | Separated
 
 ## 120. [Gross Reproduction Rate Using TFR and TMFR](data/final-report-tables/chapter-9/9.17-Gross-Reproduction-Rate-Using-TFR-and-TMFR)
 
-*2 - 🔴 Raw data is difficult to parse*
+*Build Status - **2** - 🔴 Raw data is difficult to parse*
 
 ### Raw Data (first 10 rows)
 
@@ -4311,7 +4347,7 @@ Married | Married | Widowed | Divorced | Separated
 
 ## 121. [Percentage Distribution of Household Size by Sector, 2024](data/final-report-tables/chapter-10/10.1-Percentage-Distribution-of-Household-Size-by-Sector,-2024)
 
-*4 - 🟡 Lanka data is missing*
+*Build Status - **4** - 🟡 Lanka data is missing*
 
 ### Data Table
 
@@ -4343,7 +4379,7 @@ Married | Married | Widowed | Divorced | Separated
 
 ## 122. [Percentage Distribution of the Number and of Households by Sector, District and Household Type, 2024](data/final-report-tables/chapter-10/10.2-Percentage-Distribution-of-the-Number-and-of-Households-by-Sector,-District-and-Household-Type,-2024)
 
-*4 - 🟡 Lanka data is missing*
+*Build Status - **4** - 🟡 Lanka data is missing*
 
 ### Data Table (first 10 of 57 rows)
 
@@ -4381,7 +4417,7 @@ Married | Married | Widowed | Divorced | Separated
 
 ## 123. [Percentage Distribution of the Number of Household Heads by Ethnic group of the Head of Household and typeof Household, 2024](data/final-report-tables/chapter-10/10.3-Percentage-Distribution-of-the-Number-of-Household-Heads-by-Ethnic-group-of-the-Head-of-Household-and-typeof-Household,-2024)
 
-*2 - 🔴 Raw data is difficult to parse*
+*Build Status - **2** - 🔴 Raw data is difficult to parse*
 
 ### Raw Data (first 10 rows)
 
@@ -4404,7 +4440,7 @@ Married | Married | Widowed | Divorced | Separated
 
 ## 124. [Percentage Distribution of the Number of Household Heads by Sex, Age Group, and Sector, 2024](data/final-report-tables/chapter-10/10.4-Percentage-Distribution-of-the-Number-of-Household-Heads-by-Sex,-Age-Group,-and-Sector,-2024)
 
-*2 - 🔴 Raw data is difficult to parse*
+*Build Status - **2** - 🔴 Raw data is difficult to parse*
 
 ### Raw Data (first 10 rows)
 
@@ -4429,7 +4465,7 @@ rban | 1,042,557 | 736,435 | 306,122 | 1,838 | 782,406 | 258,313 |
 
 ## 125. [Percentage Distribution of the Number of Household Heads by District, Sex, and Age Group, 2024](data/final-report-tables/chapter-10/10.5-Percentage-Distribution-of-the-Number-of-Household-Heads-by-District,-Sex,-and-Age-Group,-2024)
 
-*4 - 🟡 Lanka data is missing*
+*Build Status - **4** - 🟡 Lanka data is missing*
 
 ### Data Table (first 10 of 58 rows)
 
@@ -4468,7 +4504,7 @@ rban | 1,042,557 | 736,435 | 306,122 | 1,838 | 782,406 | 258,313 |
 
 ## 126. [Percentage Distribution of the Number of Household Heads by Sector and Marital Status, 2024](data/final-report-tables/chapter-10/10.6-Percentage-Distribution-of-the-Number-of-Household-Heads-by-Sector-and-Marital-Status,-2024)
 
-*2 - 🔴 Raw data is difficult to parse*
+*Build Status - **2** - 🔴 Raw data is difficult to parse*
 
 ### Raw Data (first 10 rows)
 
@@ -4491,7 +4527,7 @@ rban | 1,042,557 | 736,435 | 306,122 | 1,838 | 782,406 | 258,313 |
 
 ## 127. [Percentage Distribution of the Number of Household Heads by Sex and Marital Status, 2024](data/final-report-tables/chapter-10/10.7-Percentage-Distribution-of-the-Number-of-Household-Heads-by-Sex-and-Marital-Status,-2024)
 
-*2 - 🔴 Raw data is difficult to parse*
+*Build Status - **2** - 🔴 Raw data is difficult to parse*
 
 ### Raw Data (first 10 rows)
 
@@ -4516,7 +4552,7 @@ rban* | 1,045,665 | 53,728 | 847,598 | 122,157 | 7,926 | 3,516 | 10,740 |
 
 ## 128. [Percentage Distribution of Household Heads by Highest Educational Qualification Obtained and Sector, 2024](data/final-report-tables/chapter-10/10.8-Percentage-Distribution-of-Household-Heads-by-Highest-Educational-Qualification-Obtained-and-Sector,-2024)
 
-*4 - 🟡 Lanka data is missing*
+*Build Status - **4** - 🟡 Lanka data is missing*
 
 ### Data Table
 
@@ -4548,7 +4584,7 @@ rban* | 1,045,665 | 53,728 | 847,598 | 122,157 | 7,926 | 3,516 | 10,740 |
 
 ## 129. [Percentage Distribution of Household Heads by District and Highest Educational Qualification Obtained,](data/final-report-tables/chapter-10/10.9-Percentage-Distribution-of-Household-Heads-by-District-and-Highest-Educational-Qualification-Obtained,)
 
-*4 - 🟡 Lanka data is missing*
+*Build Status - **4** - 🟡 Lanka data is missing*
 
 ### Data Table (first 10 of 57 rows)
 
@@ -4587,7 +4623,7 @@ rban* | 1,045,665 | 53,728 | 847,598 | 122,157 | 7,926 | 3,516 | 10,740 |
 
 ## 130. [and Percentage Distribution of Individuals in One Person Households Aged 60 Years and Over, by Sexand Age Group, 2024](data/final-report-tables/chapter-10/10.10-and-Percentage-Distribution-of-Individuals-in-One-Person-Households-Aged-60-Years-and-Over,-by-Sexand-Age-Group,-2024)
 
-*2 - 🔴 Raw data is difficult to parse*
+*Build Status - **2** - 🔴 Raw data is difficult to parse*
 
 ### Raw Data (first 10 rows)
 
@@ -4610,7 +4646,7 @@ rban* | 1,045,665 | 53,728 | 847,598 | 122,157 | 7,926 | 3,516 | 10,740 |
 
 ## 131. [Number of Occupied Housing Units by Sector, 2012 and 2024](data/final-report-tables/chapter-11/11.1-Number-of-Occupied-Housing-Units-by-Sector,-2012-and-2024)
 
-*4 - 🟡 Lanka data is missing*
+*Build Status - **4** - 🟡 Lanka data is missing*
 
 ### Data Table
 
@@ -4637,7 +4673,7 @@ rban* | 1,045,665 | 53,728 | 847,598 | 122,157 | 7,926 | 3,516 | 10,740 |
 
 ## 132. [Number of Occupied Housing Units & Permanently Closed/Vacant Housing Units by District, 2012 and 2024](data/final-report-tables/chapter-11/11.2-Number-of-Occupied-Housing-Units-&-Permanently-Closed/Vacant-Housing-Units-by-District,-2012-and-2024)
 
-*4 - 🟡 Lanka data is missing*
+*Build Status - **4** - 🟡 Lanka data is missing*
 
 ### Data Table (first 10 of 57 rows)
 
@@ -4674,7 +4710,7 @@ rban* | 1,045,665 | 53,728 | 847,598 | 122,157 | 7,926 | 3,516 | 10,740 |
 
 ## 133. [Number of Housing Units by the Year of Construction, 2024](data/final-report-tables/chapter-11/11.3-Number-of-Housing-Units-by-the-Year-of-Construction,-2024)
 
-*4 - 🟡 Lanka data is missing*
+*Build Status - **4** - 🟡 Lanka data is missing*
 
 ### Data Table (first 10 of 14 rows)
 
@@ -4706,7 +4742,7 @@ rban* | 1,045,665 | 53,728 | 847,598 | 122,157 | 7,926 | 3,516 | 10,740 |
 
 ## 134. [Tenure of Housing Units by Sector and District, 2024](data/final-report-tables/chapter-11/11.4-Tenure-of-Housing-Units-by-Sector-and-District,-2024)
 
-*4 - 🟡 Lanka data is missing*
+*Build Status - **4** - 🟡 Lanka data is missing*
 
 ### Data Table (first 10 of 25 rows)
 
@@ -4745,7 +4781,7 @@ rban* | 1,045,665 | 53,728 | 847,598 | 122,157 | 7,926 | 3,516 | 10,740 |
 
 ## 135. [Percentage of Housing Units Owned by Household Members and Sector, 2012 and 2024](data/final-report-tables/chapter-11/11.5-Percentage-of-Housing-Units-Owned-by-Household-Members-and-Sector,-2012-and-2024)
 
-*4 - 🟡 Lanka data is missing*
+*Build Status - **4** - 🟡 Lanka data is missing*
 
 ### Data Table
 
@@ -4772,7 +4808,7 @@ rban* | 1,045,665 | 53,728 | 847,598 | 122,157 | 7,926 | 3,516 | 10,740 |
 
 ## 136. [Percentage of Housing units by Materials Used to Construct Walls, Roofs and Floors,](data/final-report-tables/chapter-11/11.6-Percentage-of-Housing-units-by-Materials-Used-to-Construct-Walls,-Roofs-and-Floors,)
 
-*2 - 🔴 Raw data is difficult to parse*
+*Build Status - **2** - 🔴 Raw data is difficult to parse*
 
 ### Raw Data (first 10 rows)
 
@@ -4795,7 +4831,7 @@ rban* | 1,045,665 | 53,728 | 847,598 | 122,157 | 7,926 | 3,516 | 10,740 |
 
 ## 137. [of Housing Units and Status of Housing Units, by Sector and District, 2024](data/final-report-tables/chapter-11/11.7-of-Housing-Units-and-Status-of-Housing-Units,-by-Sector-and-District,-2024)
 
-*4 - 🟡 Lanka data is missing*
+*Build Status - **4** - 🟡 Lanka data is missing*
 
 ### Data Table (first 10 of 57 rows)
 
@@ -4833,7 +4869,7 @@ rban* | 1,045,665 | 53,728 | 847,598 | 122,157 | 7,926 | 3,516 | 10,740 |
 
 ## 138. [in Housing Units by Sector, 2024](data/final-report-tables/chapter-11/11.8-in-Housing-Units-by-Sector,-2024)
 
-*4 - 🟡 Lanka data is missing*
+*Build Status - **4** - 🟡 Lanka data is missing*
 
 ### Data Table
 
@@ -4862,7 +4898,7 @@ rban* | 1,045,665 | 53,728 | 847,598 | 122,157 | 7,926 | 3,516 | 10,740 |
 
 ## 139. [Distribution of Households by Main Source of Drinking Water, 2024](data/final-report-tables/chapter-11/11.9-Distribution-of-Households-by-Main-Source-of-Drinking-Water,-2024)
 
-*4 - 🟡 Lanka data is missing*
+*Build Status - **4** - 🟡 Lanka data is missing*
 
 ### Data Table (first 10 of 16 rows)
 
@@ -4894,7 +4930,7 @@ rban* | 1,045,665 | 53,728 | 847,598 | 122,157 | 7,926 | 3,516 | 10,740 |
 
 ## 140. [Percentage Distribution of Households by Availability of Drinking Water Facility, by Sector and District,](data/final-report-tables/chapter-11/11.10-Percentage-Distribution-of-Households-by-Availability-of-Drinking-Water-Facility,-by-Sector-and-District,)
 
-*4 - 🟡 Lanka data is missing*
+*Build Status - **4** - 🟡 Lanka data is missing*
 
 ### Data Table (first 10 of 57 rows)
 
@@ -4931,7 +4967,7 @@ rban* | 1,045,665 | 53,728 | 847,598 | 122,157 | 7,926 | 3,516 | 10,740 |
 
 ## 141. [Distribution of Households in Sri Lanka's ability to Obtain Drinking Water Throughout the Year, 2024](data/final-report-tables/chapter-11/11.11-Distribution-of-Households-in-Sri-Lanka's-ability-to-Obtain-Drinking-Water-Throughout-the-Year,-2024)
 
-*4 - 🟡 Lanka data is missing*
+*Build Status - **4** - 🟡 Lanka data is missing*
 
 ### Data Table
 
@@ -4958,7 +4994,7 @@ rban* | 1,045,665 | 53,728 | 847,598 | 122,157 | 7,926 | 3,516 | 10,740 |
 
 ## 142. [Percentage of households Using Firewood and gas, by Sector and District,](data/final-report-tables/chapter-11/11.12-Percentage-of-households-Using-Firewood-and-gas,-by-Sector-and-District,)
 
-*4 - 🟡 Lanka data is missing*
+*Build Status - **4** - 🟡 Lanka data is missing*
 
 ### Data Table (first 10 of 25 rows)
 
@@ -4995,7 +5031,7 @@ rban* | 1,045,665 | 53,728 | 847,598 | 122,157 | 7,926 | 3,516 | 10,740 |
 
 ## 143. [Household Numbers and Percentages by Main and Secondary Energy/Fuel Type for Lighting, 2024](data/final-report-tables/chapter-11/11.13-Household-Numbers-and-Percentages-by-Main-and-Secondary-Energy/Fuel-Type-for-Lighting,-2024)
 
-*4 - 🟡 Lanka data is missing*
+*Build Status - **4** - 🟡 Lanka data is missing*
 
 ### Data Table
 
@@ -5024,7 +5060,7 @@ rban* | 1,045,665 | 53,728 | 847,598 | 122,157 | 7,926 | 3,516 | 10,740 |
 
 ## 144. [Percentage of Households Using Electricity and Kerosene as the Main Sources of Lighting, by ResidentialSector, 2012 and 2024](data/final-report-tables/chapter-11/11.14-Percentage-of-Households-Using-Electricity-and-Kerosene-as-the-Main-Sources-of-Lighting,-by-ResidentialSector,-2012-and-2024)
 
-*4 - 🟡 Lanka data is missing*
+*Build Status - **4** - 🟡 Lanka data is missing*
 
 ### Data Table
 
@@ -5053,7 +5089,7 @@ rban* | 1,045,665 | 53,728 | 847,598 | 122,157 | 7,926 | 3,516 | 10,740 |
 
 ## 145. [Percentage Distribution of Households by Type of Toilet Facilities, 2012 and 2024](data/final-report-tables/chapter-11/11.15-Percentage-Distribution-of-Households-by-Type-of-Toilet-Facilities,-2012-and-2024)
 
-*4 - 🟡 Lanka data is missing*
+*Build Status - **4** - 🟡 Lanka data is missing*
 
 ### Data Table
 
@@ -5084,7 +5120,7 @@ rban* | 1,045,665 | 53,728 | 847,598 | 122,157 | 7,926 | 3,516 | 10,740 |
 
 ## 146. [Percentage Distribution of Type of Toilet Used by households by Sector and District, 2024](data/final-report-tables/chapter-11/11.16-Percentage-Distribution-of-Type-of-Toilet-Used-by-households-by-Sector-and-District,-2024)
 
-*4 - 🟡 Lanka data is missing*
+*Build Status - **4** - 🟡 Lanka data is missing*
 
 ### Data Table (first 10 of 25 rows)
 
@@ -5120,7 +5156,7 @@ rban* | 1,045,665 | 53,728 | 847,598 | 122,157 | 7,926 | 3,516 | 10,740 |
 
 ## 147. [Distribution of Households by the Main Method of Disposing Solid Waste, 2024](data/final-report-tables/chapter-11/11.17-Distribution-of-Households-by-the-Main-Method-of-Disposing-Solid-Waste,-2024)
 
-*2 - 🔴 Raw data is difficult to parse*
+*Build Status - **2** - 🔴 Raw data is difficult to parse*
 
 ### Raw Data (first 10 rows)
 
@@ -5143,7 +5179,7 @@ rban* | 1,045,665 | 53,728 | 847,598 | 122,157 | 7,926 | 3,516 | 10,740 |
 
 ## 148. [Percentage Distribution of Households by the Main Method of Disposing Liquid Waste, 2024](data/final-report-tables/chapter-11/11.18-Percentage-Distribution-of-Households-by-the-Main-Method-of-Disposing-Liquid-Waste,-2024)
 
-*4 - 🟡 Lanka data is missing*
+*Build Status - **4** - 🟡 Lanka data is missing*
 
 ### Data Table
 
@@ -5176,7 +5212,7 @@ rban* | 1,045,665 | 53,728 | 847,598 | 122,157 | 7,926 | 3,516 | 10,740 |
 
 ## 149. [Percentage Distribution of Households Using Communication Technology Equipment and Vehicles by Sector,2024](data/final-report-tables/chapter-11/11.19-Percentage-Distribution-of-Households-Using-Communication-Technology-Equipment-and-Vehicles-by-Sector,2024)
 
-*4 - 🟡 Lanka data is missing*
+*Build Status - **4** - 🟡 Lanka data is missing*
 
 ### Data Table
 
@@ -5214,7 +5250,7 @@ rban* | 1,045,665 | 53,728 | 847,598 | 122,157 | 7,926 | 3,516 | 10,740 |
 
 ## 150. [Myer’s Index by Sex, 1981, 2001, 2012 and 2024](data/final-report-tables/chapter-12/12.1-Myer’s-Index-by-Sex,-1981,-2001,-2012-and-2024)
 
-*4 - 🟡 Lanka data is missing*
+*Build Status - **4** - 🟡 Lanka data is missing*
 
 ### Data Table
 
@@ -5242,7 +5278,7 @@ rban* | 1,045,665 | 53,728 | 847,598 | 122,157 | 7,926 | 3,516 | 10,740 |
 
 ## 151. [Deviations of Terminal Digits of Reported Age, 2012 and](data/final-report-tables/chapter-12/12.2-Deviations-of-Terminal-Digits-of-Reported-Age,-2012-and)
 
-*4 - 🟡 Lanka data is missing*
+*Build Status - **4** - 🟡 Lanka data is missing*
 
 ### Data Table (first 10 of 11 rows)
 
@@ -5279,7 +5315,7 @@ rban* | 1,045,665 | 53,728 | 847,598 | 122,157 | 7,926 | 3,516 | 10,740 |
 
 ## 152. [Myers' Index by District and Sex, 2012, 2024](data/final-report-tables/chapter-12/12.3-Myers'-Index-by-District-and-Sex,-2012,-2024)
 
-*4 - 🟡 Lanka data is missing*
+*Build Status - **4** - 🟡 Lanka data is missing*
 
 ### Data Table (first 10 of 25 rows)
 
@@ -5319,7 +5355,7 @@ rban* | 1,045,665 | 53,728 | 847,598 | 122,157 | 7,926 | 3,516 | 10,740 |
 
 ## 153. [Whipple’s Index by Sex, 1981, 2001, 2012 and 2024](data/final-report-tables/chapter-12/12.4-Whipple’s-Index-by-Sex,-1981,-2001,-2012-and-2024)
 
-*4 - 🟡 Lanka data is missing*
+*Build Status - **4** - 🟡 Lanka data is missing*
 
 ### Data Table
 
@@ -5347,7 +5383,7 @@ rban* | 1,045,665 | 53,728 | 847,598 | 122,157 | 7,926 | 3,516 | 10,740 |
 
 ## 154. [Whipple's Index by District and Sex, 2012 and 2024](data/final-report-tables/chapter-12/12.5-Whipple's-Index-by-District-and-Sex,-2012-and-2024)
 
-*4 - 🟡 Lanka data is missing*
+*Build Status - **4** - 🟡 Lanka data is missing*
 
 ### Data Table (first 10 of 25 rows)
 

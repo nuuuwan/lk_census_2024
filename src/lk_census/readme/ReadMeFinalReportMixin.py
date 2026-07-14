@@ -195,8 +195,8 @@ class ReadMeFinalReportMixin:
             f"## {i_dataset}. [{final_report_table.table_name}]"
             + f"({final_report_table.dir_data})",
             "",
-            f"*Build Status - **{final_report_table.build_status}**"
-            + f" - {description}*",
+            f"*Build Status (**{final_report_table.build_status}**)"
+            + f" {description}*",
             "",
         ]
         lines.extend(
