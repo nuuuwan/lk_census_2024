@@ -10,13 +10,11 @@ log = Log("ReadMe")
 class ReadMe(ReadMeDataTableMixin, ReadMeFinalReportMixin):
     PATH = "README.md"
 
-    def get_lines_for_header(
-        self, data_table_list, final_report_table_list
-    ) -> list[str]:
+    def get_lines_for_header(self, n_xlsx, n_final) -> list[str]:
         time_updated_for_badge = Format.badge(
             TimeFormat.TIME.format(Time.now())
         )
-        n = len(data_table_list) + len(final_report_table_list)
+        n = n_xlsx + n_final
         return [
             "# 🇱🇰 Sri Lanka - " + "Census of Population and Housing 2024",
             "",
@@ -30,6 +28,14 @@ class ReadMe(ReadMeDataTableMixin, ReadMeFinalReportMixin):
             + " Grama Niladhari Division (GND), Electoral District (ED),"
             + " Polling Division (PD), and"
             + " Local Government Authority (LG) levels.",
+            "",
+            f"- **{n_xlsx:,}** Datasets from Excel Files"
+            + " shared on the Website of the"
+            + " [Department of Census and Statistics, Sri Lanka]"
+            + f"({XLSXDataTable.URL_BASE}),",
+            f"- **{n_final:,}** Datasets from the"
+            + " [Final Report of the Census]"
+            + f"({FinalReportTable.URL_FINAL_REPORT})",
             "",
         ]
 
@@ -48,9 +54,10 @@ class ReadMe(ReadMeDataTableMixin, ReadMeFinalReportMixin):
     def get_lines(self) -> list[str]:
         data_table_list = XLSXDataTable.list_all()
         final_report_table_list = FinalReportTable.list()
-        n_datasets_non_final_table = len(data_table_list)
+        n_xlsx = len(data_table_list)
+        n_final = len(final_report_table_list)
         return (
-            self.get_lines_for_header(data_table_list, final_report_table_list)
+            self.get_lines_for_header(n_xlsx, n_final)
             + self.get_lines_for_xlsx_data_tables(data_table_list)
             + self.get_lines_for_final_report(final_report_table_list)
             + self.get_lines_for_footer()

@@ -1,11 +1,14 @@
 # 🇱🇰 Sri Lanka - Census of Population and Housing 2024
 
 ![CPH](https://img.shields.io/badge/CPH-2024-blue)
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--07--14_15:54:44-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--07--14_16:02:50-green)
 
 **154** Datasets on Population, Housing and more, by Country, Province, District, Divisional Secretariat Division (DSD), Grama Niladhari Division (GND), Electoral District (ED), Polling Division (PD), and Local Government Authority (LG) levels.
 
-## Datasets from Excel Files
+- **12** Datasets from Excel Files shared on the Website of the [Department of Census and Statistics, Sri Lanka](https://www.statistics.gov.lk/Population/StaticalInformation/CPH2024),
+- **142** Datasets from the [Final Report of the Census](https://www.statistics.gov.lk/Resource/en/Population/CPH_2024/CPH2024_Final_Eng.pdf)
+
+## Datasets from Excel Files (**12**)
 
 - [Population-Gender](data/Population-Gender)
 - [Population-Ethnicity](data/Population-Ethnicity)
@@ -19,6 +22,7 @@
 - [Housing-Cooking-Fuel](data/Housing-Cooking-Fuel)
 - [Housing-Lighting](data/Housing-Lighting)
 - [Housing-Toilet](data/Housing-Toilet)
+
 ## Datasets from Final Report (**142**)
 
 ### Chapter 1

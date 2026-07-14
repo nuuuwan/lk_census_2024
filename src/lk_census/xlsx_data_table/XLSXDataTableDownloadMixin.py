@@ -10,6 +10,11 @@ class XLSXDataTableDownloadMixin:
     DIR_ORIGINAL_DOCS = "original_docs"
     MIN_ORIGINAL_DOC_SIZE_KB = 500
 
+    URL_BASE = (
+        "https://www.statistics.gov.lk"
+        + "/Population/StaticalInformation/CPH2024"
+    )
+
     @property
     def dir_data(self):
         return os.path.join(
@@ -19,11 +24,7 @@ class XLSXDataTableDownloadMixin:
 
     @property
     def source_url(self):
-        return (
-            "https://www.statistics.gov.lk"
-            + "/Population/StaticalInformation/CPH2024"
-            + f"/{self.remote_file_name}"
-        )
+        return self.URL_BASE + f"/{self.remote_file_name}"
 
     @property
     def xlsx_file(self):

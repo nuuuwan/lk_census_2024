@@ -11,7 +11,10 @@ class ReadMeDataTableMixin:
         ]
 
     def get_lines_for_xlsx_data_tables(self, data_table_list) -> list[str]:
-        lines = ["## Datasets from Excel Files", ""]
+        n = len(data_table_list)
+        lines = [f"## Datasets from Excel Files (**{n:,}**)", ""]
+
         for data_table in data_table_list:
             lines.extend(self.get_lines_for_data_table(data_table))
+        lines.append("")
         return lines
