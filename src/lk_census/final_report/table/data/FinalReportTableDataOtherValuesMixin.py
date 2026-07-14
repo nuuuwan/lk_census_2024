@@ -24,7 +24,7 @@ class FinalReportTableDataOtherValuesMixin:
         return cell_key.startswith("is_") or cell_key.startswith("has_")
 
     def _is_key_int_in_thousands(self, cell_key):
-        if cell_key.endswith("_population_k"):
+        if "_population_k" in cell_key:
             return True
         return False
 

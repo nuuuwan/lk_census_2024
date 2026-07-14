@@ -1,7 +1,7 @@
 # 🇱🇰 Sri Lanka - Census of Population and Housing 2024
 
 ![CPH](https://img.shields.io/badge/CPH-2024-blue)
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--07--14_12:51:37-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--07--14_12:59:39-green)
 
 **154** Datasets on Population, Housing and more, by Country, Province, District, Divisional Secretariat Division (DSD), Grama Niladhari Division (GND), Electoral District (ED), Polling Division (PD), and Local Government Authority (LG) levels.
 
@@ -614,8 +614,8 @@
 | status | status_label | n |
 | :-- | :-- | --: |
 | 2 | 🔴 Raw data is difficult to parse | 21 |
-| 4 | 🟡 Lanka data is missing | 107 |
-| 5 | ✅ All Stages Complete | 14 |
+| 4 | 🟡 Lanka data is missing | 106 |
+| 5 | ✅ All Stages Complete | 15 |
 
 ## 13. [Officers who have  Assigned for Census of Population and Housing 2024 Activities](data/final-report-tables/chapter-1/1.1.1-Officers-who-have--Assigned-for-Census-of-Population-and-Housing-2024-Activities)
 
@@ -1753,36 +1753,42 @@ member’s need |  |  | Other |  |
 
 ## 42. [Population Over and Below 18 Years of Age by Sector and District, 2024](data/final-report-tables/chapter-6/6.1.5-Population-Over-and-Below-18-Years-of-Age-by-Sector-and-District,-2024)
 
-*Build Status (**4**/5) 🟡 Lanka data is missing*
+*Build Status (**5**/5) ✅ All Stages Complete*
 
-### Data Table (first 10 of 57 rows)
-
-| Region Id | Region Name | Region Ent Type | Male Over 18 Years | Male Under 18 Years | Female Over 18 Years | Female Under 18 Years | Total Value |
-| :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- |
-| LK-11 | Colombo | district | 252843 | 901956 | 244986 | 975630 | 2375415 |
-| LK-12 | Gampaha | district | 279343 | 896126 | 271604 | 989069 | 2436142 |
-| LK-13 | Kalutara | district | 160868 | 470238 | 156846 | 517832 | 1305784 |
-| LK-21 | Kandy | district | 194314 | 502399 | 188986 | 576196 | 1461895 |
-| LK-22 | Matale | district | 72380 | 182841 | 69766 | 201883 | 526870 |
-| LK-23 | Nuwara Eliya | district | 105340 | 241131 | 104274 | 274535 | 725280 |
-| LK-31 | Galle | district | 138737 | 388903 | 134856 | 434876 | 1097372 |
-| LK-32 | Matara | district | 109369 | 292611 | 106295 | 329614 | 837889 |
-| LK-33 | Hambantota | district | 93135 | 236075 | 91535 | 250673 | 671418 |
-| LK-41 | Jaffna | district | 72254 | 209299 | 70534 | 242664 | 594751 |
-
-### Example Data Row (JSON)
+### Lanka Data (first 30 of 1048 lines)
 
 ```json
 {
-    "Region Id": "LK-11",
-    "Region Name": "Colombo",
-    "Region Ent Type": "district",
-    "Male Over 18 Years": 252843,
-    "Male Under 18 Years": 901956,
-    "Female Over 18 Years": 244986,
-    "Female Under 18 Years": 975630,
-    "Total Value": 2375415
-}
+    "_meta": {
+        "source_url": "https://www.statistics.gov.lk/Resource/en/Population/CPH_2024/CPH2024_Final_Eng.pdf#page=106",
+        "source_description": [
+            "Table 6.1.5, Final Report, 2024 Census of Population and Housing, Department of Census and Statistics, Sri Lanka"
+        ],
+        "what": {
+            "PopulationBySexAndAgeOverOrBelow18": "Population Over and Below 18 Years of Age by Sector and District, 2024"
+        },
+        "when": "2024",
+        "where_who_types": [
+            "country",
+            "district",
+            "province",
+            "ed"
+        ]
+    },
+    "PopulationBySexAndAgeOverOrBelow18": {
+        "2024": {
+            "LK-11": {
+                "region_id": "LK-11",
+                "region_name": "Colombo",
+                "region_ent_type": "district",
+                "values": {
+                    "FemaleUnder18Years": 975630,
+                    "MaleUnder18Years": 901956,
+                    "MaleOver18Years": 252843,
+                    "FemaleOver18Years": 244986
+                },
+                "total_value": 2375415,
+...
 ```
 
 ### Source
@@ -1881,17 +1887,17 @@ member’s need |  |  | Other |  |
 
 ### Data Table
 
-| Region Id | Region Name | Region Ent Type | P Sinhalese | P Sl Tamil | P Ind And Malaiyaga Tamil | P Sl Moor | P Malay | P Burgher | P Sl Chetty | P Bharatha | P Veddahs | P Other | Total Value |
-| :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- |
-| LK-1 | Western | province | 0.836 | 0.063 | 0.005 | 0.089 | 0.003 | 0.003 | 0.0 | 0.0 | 0.0 | 0.001 | 1.0 |
-| LK-2 | Central | province | 0.658 | 0.083 | 0.15 | 0.107 | 0.001 | 0.001 | 0.0 | 0.0 | 0.0 | 0.0 | 1.0 |
-| LK-3 | Southern | province | 0.948 | 0.012 | 0.004 | 0.034 | 0.0 | 0.002 | 0.0 | 0.0 | 0.0 | 0.0 | 1.0 |
-| LK-4 | Northern | province | 0.032 | 0.915 | 0.003 | 0.05 | 0.0 | 0.0 | 0.0 | 0.0 | 0.0 | 0.0 | 1.0 |
-| LK-5 | Eastern | province | 0.221 | 0.381 | 0.001 | 0.395 | 0.003 | 0.0 | 0.0 | 0.0 | 0.001 | 0.0 | 1.002 |
-| LK-6 | North Western | province | 0.848 | 0.027 | 0.001 | 0.122 | 0.001 | 0.001 | 0.0 | 0.0 | 0.0 | 0.0 | 1.0 |
-| LK-7 | North Central | province | 0.905 | 0.009 | 0.0 | 0.085 | 0.0 | 0.0 | 0.0 | 0.0 | 0.0 | 0.001 | 1.0 |
-| LK-8 | Uva | province | 0.814 | 0.069 | 0.069 | 0.046 | 0.001 | 0.001 | 0.0 | 0.0 | 0.0 | 0.0 | 1.0 |
-| LK-9 | Sabaragamuwa | province | 0.865 | 0.065 | 0.022 | 0.048 | 0.0 | 0.0 | 0.0 | 0.0 | 0.0 | 0.0 | 1.0 |
+| Region Id | Region Name | Region Ent Type | P Sinhalese | P Sl Tamil | P Ind And Malaiyaga Tamil | P Sl Moor | P Malay | P Burgher | P Sl Chetty | P Bharatha | P Veddahs | P Other |
+| :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- |
+| LK-1 | Western | province | 0.836 | 0.063 | 0.005 | 0.089 | 0.003 | 0.003 | 0.0 | 0.0 | 0.0 | 0.001 |
+| LK-2 | Central | province | 0.658 | 0.083 | 0.15 | 0.107 | 0.001 | 0.001 | 0.0 | 0.0 | 0.0 | 0.0 |
+| LK-3 | Southern | province | 0.948 | 0.012 | 0.004 | 0.034 | 0.0 | 0.002 | 0.0 | 0.0 | 0.0 | 0.0 |
+| LK-4 | Northern | province | 0.032 | 0.915 | 0.003 | 0.05 | 0.0 | 0.0 | 0.0 | 0.0 | 0.0 | 0.0 |
+| LK-5 | Eastern | province | 0.221 | 0.381 | 0.001 | 0.395 | 0.003 | 0.0 | 0.0 | 0.0 | 0.001 | 0.0 |
+| LK-6 | North Western | province | 0.848 | 0.027 | 0.001 | 0.122 | 0.001 | 0.001 | 0.0 | 0.0 | 0.0 | 0.0 |
+| LK-7 | North Central | province | 0.905 | 0.009 | 0.0 | 0.085 | 0.0 | 0.0 | 0.0 | 0.0 | 0.0 | 0.001 |
+| LK-8 | Uva | province | 0.814 | 0.069 | 0.069 | 0.046 | 0.001 | 0.001 | 0.0 | 0.0 | 0.0 | 0.0 |
+| LK-9 | Sabaragamuwa | province | 0.865 | 0.065 | 0.022 | 0.048 | 0.0 | 0.0 | 0.0 | 0.0 | 0.0 | 0.0 |
 
 ### Example Data Row (JSON)
 
@@ -1909,8 +1915,7 @@ member’s need |  |  | Other |  |
     "P Sl Chetty": 0.0,
     "P Bharatha": 0.0,
     "P Veddahs": 0.0,
-    "P Other": 0.001,
-    "Total Value": 1.0
+    "P Other": 0.001
 }
 ```
 
@@ -1924,36 +1929,35 @@ member’s need |  |  | Other |  |
 
 ### Data Table
 
-| Ethnicity | Census 1911 Population K | Census 1921 Population K | Census 1931 Population K | Census 1946 Population K | Census 1953 Population K | Census 1963 Population K | Census 1971 Population K | Census 1981 Population K | Census 2001 Population K | Census 2012 Population K | Census 2024 Population K | Total Value |
-| :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- |
-| Sri Lanka | 4106399 | 4498600 | 5306000 | 6657300 | 8097900 | 10582000 | 12689900 | 14846800 | 16929700 | 20359400 | 21781800 | 125855799 |
-| Low Country Sinhalese | 1716900 | 1927100 | 2216200 | 2902500 | 3469500 | 4470300 | 5425800 | 0 | 0 | 0 | 0 | 22128300 |
-| Up-country (Kandyan) | 0 | 998600 | 1089100 | 1256800 | 1718000 | 2147200 | 3042600 | 3705500 | 0 | 0 | 0 | 13957800 |
-| Sri Lanka Tamil | 528000 | 517299 | 598900 | 733700 | 884700 | 1164700 | 1424000 | 1886900 | 732100 | 2269100 | 2681600 | 13420999 |
-| Indian Tamil | 531000 | 602700 | 818500 | 780600 | 974100 | 1123000 | 1174900 | 818700 | 855000 | 839500 | 0 | 8518000 |
-| Sri Lanka Muslim | 233900 | 251900 | 289600 | 373600 | 464000 | 626800 | 828300 | 1046900 | 1339300 | 1892600 | 2283200 | 9630100 |
-| Indian Muslim | 32700 | 33000 | 36300 | 35600 | 47500 | 55400 | 27400 | 0 | 0 | 0 | 0 | 267900 |
-| European | 7600 | 8100 | 9200 | 5400 | 6500 | 0 | 0 | 0 | 0 | 0 | 0 | 36800 |
-| Burgher & Eurasian | 26700 | 29400 | 32299 | 41900 | 46000 | 45900 | 45400 | 39470 | 35370 | 38270 | 31770 | 412479 |
-| Malay | 13000 | 13400 | 16000 | 22500 | 25400 | 33400 | 43500 | 47000 | 54800 | 44100 | 26600 | 339700 |
+| Ethnicity | Census Population K 1911 | Census Population K 1921 | Census Population K 1931 | Census Population K 1946 | Census Population K 1953 | Census Population K 1963 | Census Population K 1971 | Census Population K 1981 | Census Population K 2001 | Census Population K 2012 | Census Population K 2024 |
+| :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- |
+| Sri Lanka | 4106399 | 4498600 | 5306000 | 6657300 | 8097900 | 10582000 | 12689900 | 14846800 | 16929700 | 20359400 | 21781800 |
+| Low Country Sinhalese | 1716900 | 1927100 | 2216200 | 2902500 | 3469500 | 4470300 | 5425800 | 0 | 0 | 0 | 0 |
+| Up-country (Kandyan)  Sinhalese | 998600 | 1089100 | 1256800 | 1718000 | 2147200 | 3042600 | 3705500 | 0 | 0 | 0 | 0 |
+| Sri Lanka Tamil | 528000 | 517299 | 598900 | 733700 | 884700 | 1164700 | 1424000 | 1886900 | 732100 | 2269100 | 2681600 |
+| Indian Tamil | 531000 | 602700 | 818500 | 780600 | 974100 | 1123000 | 1174900 | 818700 | 855000 | 839500 | 0 |
+| Sri Lanka Muslim | 233900 | 251900 | 289600 | 373600 | 464000 | 626800 | 828300 | 1046900 | 1339300 | 1892600 | 2283200 |
+| Indian Muslim | 32700 | 33000 | 36300 | 35600 | 47500 | 55400 | 27400 | 0 | 0 | 0 | 0 |
+| European | 7600 | 8100 | 9200 | 5400 | 6500 | 0 | 0 | 0 | 0 | 0 | 0 |
+| Burgher & Eurasian | 26700 | 29400 | 32299 | 41900 | 46000 | 45900 | 45400 | 39470 | 35370 | 38270 | 31770 |
+| Malay | 13000 | 13400 | 16000 | 22500 | 25400 | 33400 | 43500 | 47000 | 54800 | 44100 | 26600 |
 
 ### Example Data Row (JSON)
 
 ```json
 {
     "Ethnicity": "Sri Lanka",
-    "Census 1911 Population K": 4106399,
-    "Census 1921 Population K": 4498600,
-    "Census 1931 Population K": 5306000,
-    "Census 1946 Population K": 6657300,
-    "Census 1953 Population K": 8097900,
-    "Census 1963 Population K": 10582000,
-    "Census 1971 Population K": 12689900,
-    "Census 1981 Population K": 14846800,
-    "Census 2001 Population K": 16929700,
-    "Census 2012 Population K": 20359400,
-    "Census 2024 Population K": 21781800,
-    "Total Value": 125855799
+    "Census Population K 1911": 4106399,
+    "Census Population K 1921": 4498600,
+    "Census Population K 1931": 5306000,
+    "Census Population K 1946": 6657300,
+    "Census Population K 1953": 8097900,
+    "Census Population K 1963": 10582000,
+    "Census Population K 1971": 12689900,
+    "Census Population K 1981": 14846800,
+    "Census Population K 2001": 16929700,
+    "Census Population K 2012": 20359400,
+    "Census Population K 2024": 21781800
 }
 ```
 

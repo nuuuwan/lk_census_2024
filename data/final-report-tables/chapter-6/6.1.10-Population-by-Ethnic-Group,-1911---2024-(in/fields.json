@@ -1,16 +1,17 @@
 {
   "primary_key": "ethnicity",
   "other_keys": [
-    "census_1911_population_k",
-    "census_1921_population_k",
-    "census_1931_population_k",
-    "census_1946_population_k",
-    "census_1953_population_k",
-    "census_1963_population_k",
-    "census_1971_population_k",
-    "census_1981_population_k",
-    "census_2001_population_k",
-    "census_2012_population_k",
-    "census_2024_population_k"
-  ]
+    "census_population_k_1911",
+    "census_population_k_1921",
+    "census_population_k_1931",
+    "census_population_k_1946",
+    "census_population_k_1953",
+    "census_population_k_1963",
+    "census_population_k_1971",
+    "census_population_k_1981",
+    "census_population_k_2001",
+    "census_population_k_2012",
+    "census_population_k_2024"
+  ],
+  "is_summable": false
 }
