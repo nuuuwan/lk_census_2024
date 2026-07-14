@@ -1,7 +1,8 @@
 import os
 
-from lk_census.final_report.table.lanka_data.FinalReportLankaMetaDataMixin import \
-    FinalReportLankaMetaDataMixin
+from lk_census.final_report.table.lanka_data.FinalReportLankaMetaDataMixin import (
+    FinalReportLankaMetaDataMixin,
+)
 from utils_future import JSONFile, Log, Parse, String
 
 log = Log("FinalReportLankaDataMixin")
@@ -98,6 +99,9 @@ class FinalReportLankaDataMixin(FinalReportLankaMetaDataMixin):
     @property
     def is_lanka_data_parser_implemented(self):
         data_list = self.data_list
+        if not data_list or len(data_list) == 0:
+            log.warning("No data available. Skipping")
+            return False
         first_data = data_list[0]
 
         if "total_value" not in first_data:

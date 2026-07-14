@@ -7,6 +7,7 @@ class FinalReportTableBuildMixin:
         self.build_raw_data()
         self.build_data()
         self.build_lanka_data()
+        self.build_readme()
 
     STATUS_LABELS = {
         0: "⚫️ Original PDF is missing",
