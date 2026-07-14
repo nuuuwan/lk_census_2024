@@ -69,7 +69,7 @@ class ReadMeDataTableMixin:
     def get_lines_for_data_table(self, i_table, data_table) -> list[str]:
         lines = [
             f"## {i_table:02d}. [{data_table.data_table_id}]"
-            + f"({data_table.dir_table})",
+            + f"({data_table.dir_data})",
             "",
         ]
         lines.extend(self.get_lines_for_provinces_table(data_table))

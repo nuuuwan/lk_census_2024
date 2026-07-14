@@ -1,3 +1,6 @@
+from lk_census.common.CommonTableReadMeMixin import (
+    CommonTableReadMeMixin,
+)
 from lk_census.final_report.table.data import FinalReportTableDataMixin
 from lk_census.final_report.table.FinalReportTableBase import (
     FinalReportTableBase,
@@ -17,9 +20,6 @@ from lk_census.final_report.table.FinalReportTablePDFMixin import (
 from lk_census.final_report.table.FinalReportTableRawDataMixin import (
     FinalReportTableRawDataMixin,
 )
-from lk_census.final_report.table.FinalReportTableReadMeMixin import (
-    FinalReportTableReadMeMixin,
-)
 from lk_census.final_report.table.lanka_data.FinalReportLankaDataMixin import (
     FinalReportLankaDataMixin,
 )
@@ -37,6 +37,6 @@ class FinalReportTable(
     FinalReportTableBuildMixin,
     FinalReportTableIsComplicatedMixin,
     FinalReportTableLoadMixin,
-    FinalReportTableReadMeMixin,
+    CommonTableReadMeMixin,
 ):
     pass

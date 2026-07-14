@@ -3,10 +3,10 @@ import os
 
 from utils_future import File, Format, Log, Time, TimeFormat
 
-log = Log("FinalReportTableReadMeMixin")
+log = Log("CommonTableReadMeMixin")
 
 
-class FinalReportTableReadMeMixin:
+class CommonTableReadMeMixin:
     @property
     def readme_file(self):
         return File(os.path.join(self.dir_data, "README.md"))

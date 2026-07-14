@@ -10,7 +10,7 @@ log = Log("XLSXDataTableAllDataMixin")
 class XLSXDataTableAllDataMixin:
     @property
     def all_data_file(self):
-        return JSONFile(os.path.join(self.dir_table, "data.json"))
+        return JSONFile(os.path.join(self.dir_data, "data.json"))
 
     # flake8: noqa: CFQ001, C901
     def build_all_data_json(self):
@@ -86,7 +86,7 @@ class XLSXDataTableAllDataMixin:
 
         all_data_list.sort(key=lambda d: -d["total_value"])
 
-        os.makedirs(self.dir_table, exist_ok=True)
+        os.makedirs(self.dir_data, exist_ok=True)
         self.all_data_file.write(all_data_list)
         log.info(f"Wrote {len(all_data_list)} rows to {self.all_data_file}")
 
@@ -97,9 +97,7 @@ class XLSXDataTableAllDataMixin:
             )
 
         gnd_ids_in_data_table = set(d["region_id"] for d in gnd_data_list)
-        gnd_ids_not_in_data_table = (
-            set(gnd_idx.keys()) - gnd_ids_in_data_table
-        )
+        gnd_ids_not_in_data_table = set(gnd_idx.keys()) - gnd_ids_in_data_table
         if gnd_ids_not_in_data_table:
             log.warning(
                 f"{len(gnd_ids_not_in_data_table)}"
@@ -112,7 +110,7 @@ class XLSXDataTableAllDataMixin:
 
     @property
     def tsv_file(self):
-        return TSVFile(os.path.join(self.dir_table, "data.tsv"))
+        return TSVFile(os.path.join(self.dir_data, "data.tsv"))
 
     def build_all_data_tsv(self):
         tsv_file = self.tsv_file

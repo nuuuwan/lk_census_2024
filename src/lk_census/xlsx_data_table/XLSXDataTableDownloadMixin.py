@@ -11,7 +11,7 @@ class XLSXDataTableDownloadMixin:
     MIN_ORIGINAL_DOC_SIZE_KB = 500
 
     @property
-    def dir_table(self):
+    def dir_data(self):
         return os.path.join(
             self.DIR_DATA,
             self.data_table_id,
@@ -42,8 +42,6 @@ class XLSXDataTableDownloadMixin:
         WWW(self.url_remote).download_binary(local_path)
         if self.xlsx_file.size < self.MIN_ORIGINAL_DOC_SIZE_KB:
             os.remove(local_path)
-            raise ValueError(
-                f"Downloaded file {self.xlsx_file} is too small."
-            )
+            raise ValueError(f"Downloaded file {self.xlsx_file} is too small.")
 
         log.info(f"Wrote {self.xlsx_file}")

@@ -1,14 +1,22 @@
-from lk_census.xlsx_data_table.XLSXDataTableAllDataMixin import \
-    XLSXDataTableAllDataMixin
+from lk_census.xlsx_data_table.XLSXDataTableAllDataMixin import (
+    XLSXDataTableAllDataMixin,
+)
 from lk_census.xlsx_data_table.XLSXDataTableBase import XLSXDataTableBase
-from lk_census.xlsx_data_table.XLSXDataTableBuilderMixin import \
-    XLSXDataTableBuilderMixin
-from lk_census.xlsx_data_table.XLSXDataTableDownloadMixin import \
-    XLSXDataTableDownloadMixin
-from lk_census.xlsx_data_table.XLSXDataTableGNDDataMixin import \
-    XLSXDataTableGNDDataMixin
-from lk_census.xlsx_data_table.XLSXDataTableLoaderMixin import \
-    XLSXDataTableLoaderMixin
+from lk_census.xlsx_data_table.XLSXDataTableBuilderMixin import (
+    XLSXDataTableBuilderMixin,
+)
+from lk_census.xlsx_data_table.XLSXDataTableDownloadMixin import (
+    XLSXDataTableDownloadMixin,
+)
+from lk_census.xlsx_data_table.XLSXDataTableGNDDataMixin import (
+    XLSXDataTableGNDDataMixin,
+)
+from lk_census.xlsx_data_table.XLSXDataTableLoaderMixin import (
+    XLSXDataTableLoaderMixin,
+)
+from lk_census.xlsx_data_table.XLSXDataTableReadMeMixin import (
+    XLSXDataTableReadMeMixin,
+)
 from utils_future import Log
 
 log = Log("XLSXDataTable")
@@ -22,5 +30,6 @@ class XLSXDataTable(
     XLSXDataTableDownloadMixin,
     XLSXDataTableGNDDataMixin,
     XLSXDataTableAllDataMixin,
+    XLSXDataTableReadMeMixin,
 ):
     pass
