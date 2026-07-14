@@ -1,4 +1,3 @@
-import json
 
 from lk_census.final_report.table.FinalReportTable import FinalReportTable
 from utils_future import Markdown

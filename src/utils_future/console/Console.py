@@ -1,8 +1,5 @@
-from utils_future.console.constants import (
-    COLOR_BACKGROUND,
-    COLOR_FOREGROUND,
-    COLOR_FORMAT,
-)
+from utils_future.console.constants import (COLOR_BACKGROUND, COLOR_FOREGROUND,
+                                            COLOR_FORMAT)
 
 
 class Console:

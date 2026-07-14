@@ -1,15 +1,8 @@
 import json
 import os
 
-from utils_future import (
-    File,
-    Format,
-    JSONFile,
-    Log,
-    Markdown,
-    Time,
-    TimeFormat,
-)
+from utils_future import (File, Format, JSONFile, Log, Markdown, Time,
+                          TimeFormat)
 
 log = Log("CommonTableReadMeMixin")
 

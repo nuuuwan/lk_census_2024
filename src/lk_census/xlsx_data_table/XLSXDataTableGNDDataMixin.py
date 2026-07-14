@@ -91,7 +91,9 @@ class XLSXDataTableGNDDataMixin:
             log.debug(f"{row=}")
             log.debug(f"{values=}")
             diff = total_value - total_value_from_source
-            log.debug(f"{total_value=}, {total_value_from_source=} -> {diff=}")
+            log.debug(
+                f"{total_value=}, {total_value_from_source=} -> {diff=}"
+            )
             raise ValueError(
                 f"Total value mismatch for {gnd_name} ({gnd_id})."
             )

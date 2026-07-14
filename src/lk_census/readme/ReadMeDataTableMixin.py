@@ -1,6 +1,4 @@
-import json
 
-from gig_future import EntType
 
 
 class ReadMeDataTableMixin:

@@ -43,6 +43,8 @@ class XLSXDataTableDownloadMixin:
         WWW(self.source_url).download_binary(local_path)
         if self.xlsx_file.size < self.MIN_ORIGINAL_DOC_SIZE_KB:
             os.remove(local_path)
-            raise ValueError(f"Downloaded file {self.xlsx_file} is too small.")
+            raise ValueError(
+                f"Downloaded file {self.xlsx_file} is too small."
+            )
 
         log.info(f"Wrote {self.xlsx_file}")
