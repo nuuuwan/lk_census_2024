@@ -1,0 +1,79 @@
+{
+  "_meta": {
+    "source_url": "https://www.statistics.gov.lk/Resource/en/Population/CPH_2024/CPH2024_Final_Eng.pdf#page=170",
+    "source_description": [
+      "Table 8.8, Final Report, 2024 Census of Population and Housing, Department of Census and Statistics, Sri Lanka"
+    ],
+    "what": {
+      "EmploymentByEmploymentStatusAndSex": "Employed Population by Employment Status and Sex, 2024"
+    },
+    "when": "2024",
+    "where_who_types": [
+      "employment_status"
+    ]
+  },
+  "EmploymentByEmploymentStatusAndSex": {
+    "2024": {
+      "Government/Semi-Government Paid Employee": {
+        "employment_status": "Government/Semi-Government Paid Employee",
+        "values": {
+          "Male": 741649,
+          "Female": 591757
+        },
+        "total_value": 1333406,
+        "pct_values": {
+          "Male": 0.5562,
+          "Female": 0.4438
+        }
+      },
+      "Private Sector Paid Employee": {
+        "employment_status": "Private Sector Paid Employee",
+        "values": {
+          "Male": 2248841,
+          "Female": 995932
+        },
+        "total_value": 3244773,
+        "pct_values": {
+          "Male": 0.6931,
+          "Female": 0.3069
+        }
+      },
+      "Employer": {
+        "employment_status": "Employer",
+        "values": {
+          "Male": 242488,
+          "Female": 35380
+        },
+        "total_value": 277868,
+        "pct_values": {
+          "Male": 0.8727,
+          "Female": 0.1273
+        }
+      },
+      "Own Account Worker": {
+        "employment_status": "Own Account Worker",
+        "values": {
+          "Male": 1906739,
+          "Female": 500875
+        },
+        "total_value": 2407614,
+        "pct_values": {
+          "Male": 0.792,
+          "Female": 0.208
+        }
+      },
+      "Contributing to Family Enterprise": {
+        "employment_status": "Contributing to Family Enterprise",
+        "values": {
+          "Female": 229585,
+          "Male": 177986
+        },
+        "total_value": 407571,
+        "pct_values": {
+          "Female": 0.5633,
+          "Male": 0.4367
+        }
+      }
+    }
+  }
+}

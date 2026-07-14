@@ -1,7 +1,7 @@
 # 🇱🇰 Sri Lanka - Census of Population and Housing 2024
 
 ![CPH](https://img.shields.io/badge/CPH-2024-blue)
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--07--14_14:22:02-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--07--14_14:27:00-green)
 
 **154** Datasets on Population, Housing and more, by Country, Province, District, Divisional Secretariat Division (DSD), Grama Niladhari Division (GND), Electoral District (ED), Polling Division (PD), and Local Government Authority (LG) levels.
 
@@ -614,8 +614,8 @@
 | status | status_label | n |
 | :-- | :-- | --: |
 | 2 | 🔴 Raw data is difficult to parse | 21 |
-| 4 | 🟡 Lanka data is missing | 93 |
-| 5 | ✅ All Stages Complete | 28 |
+| 4 | 🟡 Lanka data is missing | 84 |
+| 5 | ✅ All Stages Complete | 37 |
 
 ## 13. [Officers who have  Assigned for Census of Population and Housing 2024 Activities](data/final-report-tables/chapter-1/1.1.1-Officers-who-have--Assigned-for-Census-of-Population-and-Housing-2024-Activities)
 
@@ -3850,30 +3850,42 @@ ntroduction |  |
 
 ## 99. [Employed Population, by Highest Educational Attainment and Sex, 2024](data/final-report-tables/chapter-8/8.7-Employed-Population,-by-Highest-Educational-Attainment-and-Sex,-2024)
 
-*Build Status (**4**/5) 🟡 Lanka data is missing*
+*Build Status (**5**/5) ✅ All Stages Complete*
 
-### Data Table
-
-| Educational Level | Male | Female | Total Value |
-| :-- | :-- | :-- | :-- |
-| Never attended School | 67915 | 49378 | 117293 |
-| Studied in a special school / special unit | 3923 | 2719 | 6642 |
-| Passed Grade 1 - 5 | 493163 | 183967 | 677130 |
-| Passed Grade 6 - 8 | 618673 | 171412 | 790085 |
-| Passed Grade 9 - 10 | 1536837 | 486618 | 2023455 |
-| Passed GCE O/L | 1288859 | 430468 | 1719327 |
-| Passed GCE A/L | 982912 | 621725 | 1604637 |
-| Degree or above | 325421 | 407242 | 732663 |
-
-### Example Data Row (JSON)
+### Lanka Data (first 30 of 115 lines)
 
 ```json
 {
-    "Educational Level": "Never attended School",
-    "Male": 67915,
-    "Female": 49378,
-    "Total Value": 117293
-}
+    "_meta": {
+        "source_url": "https://www.statistics.gov.lk/Resource/en/Population/CPH_2024/CPH2024_Final_Eng.pdf#page=169",
+        "source_description": [
+            "Table 8.7, Final Report, 2024 Census of Population and Housing, Department of Census and Statistics, Sri Lanka"
+        ],
+        "what": {
+            "EmploymentByEducationAndSex": "Employed Population, by Highest Educational Attainment and Sex, 2024"
+        },
+        "when": "2024",
+        "where_who_types": [
+            "educational_level"
+        ]
+    },
+    "EmploymentByEducationAndSex": {
+        "2024": {
+            "Never attended School": {
+                "educational_level": "Never attended School",
+                "values": {
+                    "Male": 67915,
+                    "Female": 49378
+                },
+                "total_value": 117293,
+                "pct_values": {
+                    "Male": 0.579,
+                    "Female": 0.421
+                }
+            },
+            "Studied in a special school / special unit": {
+                "educational_level": "Studied in a special school / special unit",
+...
 ```
 
 ### Source
@@ -3882,27 +3894,42 @@ ntroduction |  |
 
 ## 100. [Employed Population by Employment Status and Sex, 2024](data/final-report-tables/chapter-8/8.8-Employed-Population-by-Employment-Status-and-Sex,-2024)
 
-*Build Status (**4**/5) 🟡 Lanka data is missing*
+*Build Status (**5**/5) ✅ All Stages Complete*
 
-### Data Table
-
-| Employment Status | Male | Female | Total Value |
-| :-- | :-- | :-- | :-- |
-| Government/Semi-Government Paid Employee | 741649 | 591757 | 1333406 |
-| Private Sector Paid Employee | 2248841 | 995932 | 3244773 |
-| Employer | 242488 | 35380 | 277868 |
-| Own Account Worker | 1906739 | 500875 | 2407614 |
-| Contributing to Family Enterprise | 177986 | 229585 | 407571 |
-
-### Example Data Row (JSON)
+### Lanka Data (first 30 of 79 lines)
 
 ```json
 {
-    "Employment Status": "Government/Semi-Government Paid Employee",
-    "Male": 741649,
-    "Female": 591757,
-    "Total Value": 1333406
-}
+    "_meta": {
+        "source_url": "https://www.statistics.gov.lk/Resource/en/Population/CPH_2024/CPH2024_Final_Eng.pdf#page=170",
+        "source_description": [
+            "Table 8.8, Final Report, 2024 Census of Population and Housing, Department of Census and Statistics, Sri Lanka"
+        ],
+        "what": {
+            "EmploymentByEmploymentStatusAndSex": "Employed Population by Employment Status and Sex, 2024"
+        },
+        "when": "2024",
+        "where_who_types": [
+            "employment_status"
+        ]
+    },
+    "EmploymentByEmploymentStatusAndSex": {
+        "2024": {
+            "Government/Semi-Government Paid Employee": {
+                "employment_status": "Government/Semi-Government Paid Employee",
+                "values": {
+                    "Male": 741649,
+                    "Female": 591757
+                },
+                "total_value": 1333406,
+                "pct_values": {
+                    "Male": 0.5562,
+                    "Female": 0.4438
+                }
+            },
+            "Private Sector Paid Employee": {
+                "employment_status": "Private Sector Paid Employee",
+...
 ```
 
 ### Source
@@ -3911,26 +3938,42 @@ ntroduction |  |
 
 ## 101. [Unemployed Population by Sector and Sex, 2024](data/final-report-tables/chapter-8/8.9-Unemployed-Population-by-Sector-and-Sex,-2024)
 
-*Build Status (**4**/5) 🟡 Lanka data is missing*
+*Build Status (**5**/5) ✅ All Stages Complete*
 
-### Data Table
-
-| Sector | Male | Female | Total Value |
-| :-- | :-- | :-- | :-- |
-| Urban | 43342 | 44965 | 88307 |
-| Estate - Urban | 151 | 112 | 263 |
-| Rural | 175144 | 199089 | 374233 |
-| Estate - Rural | 14034 | 14872 | 28906 |
-
-### Example Data Row (JSON)
+### Lanka Data (first 30 of 67 lines)
 
 ```json
 {
-    "Sector": "Urban",
-    "Male": 43342,
-    "Female": 44965,
-    "Total Value": 88307
-}
+    "_meta": {
+        "source_url": "https://www.statistics.gov.lk/Resource/en/Population/CPH_2024/CPH2024_Final_Eng.pdf#page=171",
+        "source_description": [
+            "Table 8.9, Final Report, 2024 Census of Population and Housing, Department of Census and Statistics, Sri Lanka"
+        ],
+        "what": {
+            "UnemploymentBySectorAndSex": "Unemployed Population by Sector and Sex, 2024"
+        },
+        "when": "2024",
+        "where_who_types": [
+            "sector"
+        ]
+    },
+    "UnemploymentBySectorAndSex": {
+        "2024": {
+            "Urban": {
+                "sector": "Urban",
+                "values": {
+                    "Female": 44965,
+                    "Male": 43342
+                },
+                "total_value": 88307,
+                "pct_values": {
+                    "Female": 0.5092,
+                    "Male": 0.4908
+                }
+            },
+            "Estate - Urban": {
+                "sector": "Estate - Urban",
+...
 ```
 
 ### Source
@@ -3939,34 +3982,42 @@ ntroduction |  |
 
 ## 102. [Employment Rate and Unemployment Rate by District, 2024](data/final-report-tables/chapter-8/8.10-Employment-Rate-and-Unemployment-Rate-by-District,-2024)
 
-*Build Status (**4**/5) 🟡 Lanka data is missing*
+*Build Status (**5**/5) ✅ All Stages Complete*
 
-### Data Table (first 10 of 57 rows)
-
-| Region Id | Region Name | Region Ent Type | Employed | Unemployed | Total Value |
-| :-- | :-- | :-- | :-- | :-- | :-- |
-| LK-11 | Colombo | district | 867111 | 53635 | 920746 |
-| LK-12 | Gampaha | district | 889380 | 52943 | 942323 |
-| LK-13 | Kalutara | district | 462465 | 26157 | 488622 |
-| LK-21 | Kandy | district | 477418 | 35467 | 512885 |
-| LK-22 | Matale | district | 186449 | 10062 | 196511 |
-| LK-23 | Nuwara Eliya | district | 251699 | 25234 | 276933 |
-| LK-31 | Galle | district | 389323 | 23061 | 412384 |
-| LK-32 | Matara | district | 300965 | 18307 | 319272 |
-| LK-33 | Hambantota | district | 221480 | 16993 | 238473 |
-| LK-41 | Jaffna | district | 183239 | 13246 | 196485 |
-
-### Example Data Row (JSON)
+### Lanka Data (first 30 of 820 lines)
 
 ```json
 {
-    "Region Id": "LK-11",
-    "Region Name": "Colombo",
-    "Region Ent Type": "district",
-    "Employed": 867111,
-    "Unemployed": 53635,
-    "Total Value": 920746
-}
+    "_meta": {
+        "source_url": "https://www.statistics.gov.lk/Resource/en/Population/CPH_2024/CPH2024_Final_Eng.pdf#page=172",
+        "source_description": [
+            "Table 8.10, Final Report, 2024 Census of Population and Housing, Department of Census and Statistics, Sri Lanka"
+        ],
+        "what": {
+            "EmploymentRate": "Employment Rate and Unemployment Rate by District, 2024"
+        },
+        "when": "2024",
+        "where_who_types": [
+            "country",
+            "ed",
+            "province",
+            "district"
+        ]
+    },
+    "EmploymentRate": {
+        "2024": {
+            "LK-11": {
+                "region_id": "LK-11",
+                "region_name": "Colombo",
+                "region_ent_type": "district",
+                "values": {
+                    "Employed": 867111,
+                    "Unemployed": 53635
+                },
+                "total_value": 920746,
+                "pct_values": {
+                    "Employed": 0.9417,
+...
 ```
 
 ### Source
@@ -4558,36 +4609,42 @@ Married | Married | Widowed | Divorced | Separated
 
 ## 122. [Percentage Distribution of the Number and of Households by Sector, District and Household Type, 2024](data/final-report-tables/chapter-10/10.2-Percentage-Distribution-of-the-Number-and-of-Households-by-Sector,-District-and-Household-Type,-2024)
 
-*Build Status (**4**/5) 🟡 Lanka data is missing*
+*Build Status (**5**/5) ✅ All Stages Complete*
 
-### Data Table (first 10 of 57 rows)
-
-| Region Id | Region Name | Region Ent Type | One Person | Nuclear | Extended | Composite | Total Value |
-| :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- |
-| LK-11 | Colombo | district | 69392 | 368810 | 204760 | 18860 | 661822 |
-| LK-12 | Gampaha | district | 79204 | 378791 | 220914 | 9726 | 688635 |
-| LK-13 | Kalutara | district | 30146 | 200277 | 119953 | 2587 | 352963 |
-| LK-21 | Kandy | district | 37663 | 227856 | 128989 | 3118 | 397626 |
-| LK-22 | Matale | district | 16281 | 88182 | 45750 | 919 | 151132 |
-| LK-23 | Nuwara Eliya | district | 21435 | 111832 | 66308 | 686 | 200261 |
-| LK-31 | Galle | district | 31145 | 179230 | 95257 | 2072 | 307704 |
-| LK-32 | Matara | district | 21716 | 137577 | 71010 | 1643 | 231946 |
-| LK-33 | Hambantota | district | 19492 | 120108 | 48267 | 771 | 188638 |
-| LK-41 | Jaffna | district | 17874 | 92908 | 48086 | 885 | 159753 |
-
-### Example Data Row (JSON)
+### Lanka Data (first 30 of 1048 lines)
 
 ```json
 {
-    "Region Id": "LK-11",
-    "Region Name": "Colombo",
-    "Region Ent Type": "district",
-    "One Person": 69392,
-    "Nuclear": 368810,
-    "Extended": 204760,
-    "Composite": 18860,
-    "Total Value": 661822
-}
+    "_meta": {
+        "source_url": "https://www.statistics.gov.lk/Resource/en/Population/CPH_2024/CPH2024_Final_Eng.pdf#page=193",
+        "source_description": [
+            "Table 10.2, Final Report, 2024 Census of Population and Housing, Department of Census and Statistics, Sri Lanka"
+        ],
+        "what": {
+            "HouseholdType": "Percentage Distribution of the Number and of Households by Sector, District and Household Type, 2024"
+        },
+        "when": "2024",
+        "where_who_types": [
+            "province",
+            "ed",
+            "district",
+            "country"
+        ]
+    },
+    "HouseholdType": {
+        "2024": {
+            "LK-11": {
+                "region_id": "LK-11",
+                "region_name": "Colombo",
+                "region_ent_type": "district",
+                "values": {
+                    "Nuclear": 368810,
+                    "Extended": 204760,
+                    "OnePerson": 69392,
+                    "Composite": 18860
+                },
+                "total_value": 661822,
+...
 ```
 
 ### Source
@@ -4731,30 +4788,42 @@ rban* | 1,045,665 | 53,728 | 847,598 | 122,157 | 7,926 | 3,516 | 10,740 |
 
 ## 128. [Percentage Distribution of Household Heads by Highest Educational Qualification Obtained and Sector, 2024](data/final-report-tables/chapter-10/10.8-Percentage-Distribution-of-Household-Heads-by-Highest-Educational-Qualification-Obtained-and-Sector,-2024)
 
-*Build Status (**4**/5) 🟡 Lanka data is missing*
+*Build Status (**5**/5) ✅ All Stages Complete*
 
-### Data Table
-
-| Sector | No Schooling | Passed 1 5 Years | Passed 6 10 Years | Gce Ol | Gce Al | Total Value |
-| :-- | :-- | :-- | :-- | :-- | :-- | :-- |
-| Sri Lanka | 174144 | 933438 | 2443894 | 1310679 | 1249160 | 6111315 |
-| Urban | 16211 | 87831 | 313916 | 263964 | 360635 | 1042557 |
-| Estate Urban | 329 | 833 | 1353 | 317 | 276 | 3108 |
-| Rural | 127933 | 761530 | 2037293 | 1023234 | 877065 | 4827055 |
-| Estate Rural | 29671 | 83244 | 91332 | 23164 | 11184 | 238595 |
-
-### Example Data Row (JSON)
+### Lanka Data (first 30 of 109 lines)
 
 ```json
 {
-    "Sector": "Sri Lanka",
-    "No Schooling": 174144,
-    "Passed 1 5 Years": 933438,
-    "Passed 6 10 Years": 2443894,
-    "Gce Ol": 1310679,
-    "Gce Al": 1249160,
-    "Total Value": 6111315
-}
+    "_meta": {
+        "source_url": "https://www.statistics.gov.lk/Resource/en/Population/CPH_2024/CPH2024_Final_Eng.pdf#page=198",
+        "source_description": [
+            "Table 10.8, Final Report, 2024 Census of Population and Housing, Department of Census and Statistics, Sri Lanka"
+        ],
+        "what": {
+            "HouseholdHeadBySector": "Percentage Distribution of Household Heads by Highest Educational Qualification Obtained and Sector, 2024"
+        },
+        "when": "2024",
+        "where_who_types": [
+            "sector"
+        ]
+    },
+    "HouseholdHeadBySector": {
+        "2024": {
+            "Sri Lanka": {
+                "sector": "Sri Lanka",
+                "values": {
+                    "Passed610Years": 2443894,
+                    "GceOl": 1310679,
+                    "GceAl": 1249160,
+                    "Passed15Years": 933438,
+                    "NoSchooling": 174144
+                },
+                "total_value": 6111315,
+                "pct_values": {
+                    "Passed610Years": 0.3999,
+                    "GceOl": 0.2145,
+                    "GceAl": 0.2044,
+...
 ```
 
 ### Source
@@ -4763,37 +4832,42 @@ rban* | 1,045,665 | 53,728 | 847,598 | 122,157 | 7,926 | 3,516 | 10,740 |
 
 ## 129. [Percentage Distribution of Household Heads by District and Highest Educational Qualification Obtained,](data/final-report-tables/chapter-10/10.9-Percentage-Distribution-of-Household-Heads-by-District-and-Highest-Educational-Qualification-Obtained,)
 
-*Build Status (**4**/5) 🟡 Lanka data is missing*
+*Build Status (**5**/5) ✅ All Stages Complete*
 
-### Data Table (first 10 of 57 rows)
-
-| Region Id | Region Name | Region Ent Type | No Schooling | Passed 1 5 Years | Passed 6 10 Years | Gce Ol | Gce Al | Total Value |
-| :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- |
-| LK-11 | Colombo | district | 9113 | 41277 | 189119 | 178500 | 243813 | 661822 |
-| LK-12 | Gampaha | district | 6336 | 45940 | 254321 | 194820 | 187218 | 688635 |
-| LK-13 | Kalutara | district | 6052 | 40233 | 144218 | 84890 | 77570 | 352963 |
-| LK-21 | Kandy | district | 11896 | 54250 | 144659 | 91921 | 94900 | 397626 |
-| LK-22 | Matale | district | 5233 | 28015 | 66546 | 27846 | 23492 | 151132 |
-| LK-23 | Nuwara Eliya | district | 15552 | 52077 | 78455 | 32977 | 21200 | 200261 |
-| LK-31 | Galle | district | 7209 | 45798 | 130111 | 63383 | 61203 | 307704 |
-| LK-32 | Matara | district | 7407 | 38150 | 98413 | 45960 | 42016 | 231946 |
-| LK-33 | Hambantota | district | 6415 | 36354 | 82320 | 36996 | 26553 | 188638 |
-| LK-41 | Jaffna | district | 865 | 26992 | 74540 | 29740 | 27616 | 159753 |
-
-### Example Data Row (JSON)
+### Lanka Data (first 30 of 1162 lines)
 
 ```json
 {
-    "Region Id": "LK-11",
-    "Region Name": "Colombo",
-    "Region Ent Type": "district",
-    "No Schooling": 9113,
-    "Passed 1 5 Years": 41277,
-    "Passed 6 10 Years": 189119,
-    "Gce Ol": 178500,
-    "Gce Al": 243813,
-    "Total Value": 661822
-}
+    "_meta": {
+        "source_url": "https://www.statistics.gov.lk/Resource/en/Population/CPH_2024/CPH2024_Final_Eng.pdf#page=199",
+        "source_description": [
+            "Table 10.9, Final Report, 2024 Census of Population and Housing, Department of Census and Statistics, Sri Lanka"
+        ],
+        "what": {
+            "HouseholdHeadByEducation": "Percentage Distribution of Household Heads by District and Highest Educational Qualification Obtained,"
+        },
+        "when": "2024",
+        "where_who_types": [
+            "province",
+            "country",
+            "district",
+            "ed"
+        ]
+    },
+    "HouseholdHeadByEducation": {
+        "2024": {
+            "LK-11": {
+                "region_id": "LK-11",
+                "region_name": "Colombo",
+                "region_ent_type": "district",
+                "values": {
+                    "GceAl": 243813,
+                    "Passed610Years": 189119,
+                    "GceOl": 178500,
+                    "Passed15Years": 41277,
+                    "NoSchooling": 9113
+                },
+...
 ```
 
 ### Source
@@ -5010,36 +5084,42 @@ rban* | 1,045,665 | 53,728 | 847,598 | 122,157 | 7,926 | 3,516 | 10,740 |
 
 ## 137. [of Housing Units and Status of Housing Units, by Sector and District, 2024](data/final-report-tables/chapter-11/11.7-of-Housing-Units-and-Status-of-Housing-Units,-by-Sector-and-District,-2024)
 
-*Build Status (**4**/5) 🟡 Lanka data is missing*
+*Build Status (**5**/5) ✅ All Stages Complete*
 
-### Data Table (first 10 of 57 rows)
-
-| Region Id | Region Name | Region Ent Type | Permanent | Semi Permanent | Improvised | Not Permanent | Total Value |
-| :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- |
-| LK-11 | Colombo | district | 645260 | 8256 | 195 | 340 | 654051 |
-| LK-12 | Gampaha | district | 673967 | 8381 | 404 | 273 | 683025 |
-| LK-13 | Kalutara | district | 341868 | 7237 | 156 | 169 | 349430 |
-| LK-21 | Kandy | district | 369080 | 20395 | 216 | 135 | 389826 |
-| LK-22 | Matale | district | 139556 | 8492 | 75 | 61 | 148184 |
-| LK-23 | Nuwara Eliya | district | 179664 | 12472 | 344 | 435 | 192915 |
-| LK-31 | Galle | district | 298982 | 6129 | 138 | 130 | 305379 |
-| LK-32 | Matara | district | 223653 | 6193 | 113 | 75 | 230034 |
-| LK-33 | Hambantota | district | 183050 | 4364 | 84 | 60 | 187558 |
-| LK-41 | Jaffna | district | 151345 | 4360 | 681 | 411 | 156797 |
-
-### Example Data Row (JSON)
+### Lanka Data (first 30 of 1048 lines)
 
 ```json
 {
-    "Region Id": "LK-11",
-    "Region Name": "Colombo",
-    "Region Ent Type": "district",
-    "Permanent": 645260,
-    "Semi Permanent": 8256,
-    "Improvised": 195,
-    "Not Permanent": 340,
-    "Total Value": 654051
-}
+    "_meta": {
+        "source_url": "https://www.statistics.gov.lk/Resource/en/Population/CPH_2024/CPH2024_Final_Eng.pdf#page=207",
+        "source_description": [
+            "Table 11.7, Final Report, 2024 Census of Population and Housing, Department of Census and Statistics, Sri Lanka"
+        ],
+        "what": {
+            "HouseholdStatus": "of Housing Units and Status of Housing Units, by Sector and District, 2024"
+        },
+        "when": "2024",
+        "where_who_types": [
+            "ed",
+            "country",
+            "district",
+            "province"
+        ]
+    },
+    "HouseholdStatus": {
+        "2024": {
+            "LK-11": {
+                "region_id": "LK-11",
+                "region_name": "Colombo",
+                "region_ent_type": "district",
+                "values": {
+                    "Permanent": 645260,
+                    "SemiPermanent": 8256,
+                    "NotPermanent": 340,
+                    "Improvised": 195
+                },
+                "total_value": 654051,
+...
 ```
 
 ### Source
@@ -5048,27 +5128,42 @@ rban* | 1,045,665 | 53,728 | 847,598 | 122,157 | 7,926 | 3,516 | 10,740 |
 
 ## 138. [in Housing Units by Sector, 2024](data/final-report-tables/chapter-11/11.8-in-Housing-Units-by-Sector,-2024)
 
-*Build Status (**4**/5) 🟡 Lanka data is missing*
+*Build Status (**5**/5) ✅ All Stages Complete*
 
-### Data Table
-
-| Sector | With Only One Room | With Only More Than One Room | Total Value |
-| :-- | :-- | :-- | :-- |
-| Sri Lanka | 358358 | 5672183 | 6030541 |
-| Urban | 80249 | 945081 | 1025330 |
-| Estate- Urban | 377 | 2656 | 3033 |
-| Rural | 251344 | 4521992 | 4773336 |
-| Estate- Rural | 26388 | 202454 | 228842 |
-
-### Example Data Row (JSON)
+### Lanka Data (first 30 of 79 lines)
 
 ```json
 {
-    "Sector": "Sri Lanka",
-    "With Only One Room": 358358,
-    "With Only More Than One Room": 5672183,
-    "Total Value": 6030541
-}
+    "_meta": {
+        "source_url": "https://www.statistics.gov.lk/Resource/en/Population/CPH_2024/CPH2024_Final_Eng.pdf#page=208",
+        "source_description": [
+            "Table 11.8, Final Report, 2024 Census of Population and Housing, Department of Census and Statistics, Sri Lanka"
+        ],
+        "what": {
+            "HouseholdStatusBySector": "in Housing Units by Sector, 2024"
+        },
+        "when": "2024",
+        "where_who_types": [
+            "sector"
+        ]
+    },
+    "HouseholdStatusBySector": {
+        "2024": {
+            "Sri Lanka": {
+                "sector": "Sri Lanka",
+                "values": {
+                    "WithOnlyMoreThanOneRoom": 5672183,
+                    "WithOnlyOneRoom": 358358
+                },
+                "total_value": 6030541,
+                "pct_values": {
+                    "WithOnlyMoreThanOneRoom": 0.9406,
+                    "WithOnlyOneRoom": 0.0594
+                }
+            },
+            "Urban": {
+                "sector": "Urban",
+...
 ```
 
 ### Source

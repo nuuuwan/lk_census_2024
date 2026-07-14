@@ -1,0 +1,115 @@
+{
+  "_meta": {
+    "source_url": "https://www.statistics.gov.lk/Resource/en/Population/CPH_2024/CPH2024_Final_Eng.pdf#page=169",
+    "source_description": [
+      "Table 8.7, Final Report, 2024 Census of Population and Housing, Department of Census and Statistics, Sri Lanka"
+    ],
+    "what": {
+      "EmploymentByEducationAndSex": "Employed Population, by Highest Educational Attainment and Sex, 2024"
+    },
+    "when": "2024",
+    "where_who_types": [
+      "educational_level"
+    ]
+  },
+  "EmploymentByEducationAndSex": {
+    "2024": {
+      "Never attended School": {
+        "educational_level": "Never attended School",
+        "values": {
+          "Male": 67915,
+          "Female": 49378
+        },
+        "total_value": 117293,
+        "pct_values": {
+          "Male": 0.579,
+          "Female": 0.421
+        }
+      },
+      "Studied in a special school / special unit": {
+        "educational_level": "Studied in a special school / special unit",
+        "values": {
+          "Male": 3923,
+          "Female": 2719
+        },
+        "total_value": 6642,
+        "pct_values": {
+          "Male": 0.5906,
+          "Female": 0.4094
+        }
+      },
+      "Passed Grade 1 - 5": {
+        "educational_level": "Passed Grade 1 - 5",
+        "values": {
+          "Male": 493163,
+          "Female": 183967
+        },
+        "total_value": 677130,
+        "pct_values": {
+          "Male": 0.7283,
+          "Female": 0.2717
+        }
+      },
+      "Passed Grade 6 - 8": {
+        "educational_level": "Passed Grade 6 - 8",
+        "values": {
+          "Male": 618673,
+          "Female": 171412
+        },
+        "total_value": 790085,
+        "pct_values": {
+          "Male": 0.783,
+          "Female": 0.217
+        }
+      },
+      "Passed Grade 9 - 10": {
+        "educational_level": "Passed Grade 9 - 10",
+        "values": {
+          "Male": 1536837,
+          "Female": 486618
+        },
+        "total_value": 2023455,
+        "pct_values": {
+          "Male": 0.7595,
+          "Female": 0.2405
+        }
+      },
+      "Passed GCE O/L": {
+        "educational_level": "Passed GCE O/L",
+        "values": {
+          "Male": 1288859,
+          "Female": 430468
+        },
+        "total_value": 1719327,
+        "pct_values": {
+          "Male": 0.7496,
+          "Female": 0.2504
+        }
+      },
+      "Passed GCE A/L": {
+        "educational_level": "Passed GCE A/L",
+        "values": {
+          "Male": 982912,
+          "Female": 621725
+        },
+        "total_value": 1604637,
+        "pct_values": {
+          "Male": 0.6125,
+          "Female": 0.3875
+        }
+      },
+      "Degree or above": {
+        "educational_level": "Degree or above",
+        "values": {
+          "Female": 407242,
+          "Male": 325421
+        },
+        "total_value": 732663,
+        "pct_values": {
+          "Female": 0.5558,
+          "Male": 0.4442
+        }
+      }
+    }
+  }
+}
