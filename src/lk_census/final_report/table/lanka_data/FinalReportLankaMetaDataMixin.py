@@ -32,8 +32,12 @@ class FinalReportLankaMetaDataMixin:
         return what_label
 
     @cached_property
-    def when_label(self):
-        return self.lanka_data_metadata.get("when_label", "2024")
+    def when_labels(self):
+        if "when_labels" in self.lanka_data_metadata:
+            return self.lanka_data_metadata.get("when_labels")
+        if "when_label" in self.lanka_data_metadata:
+            return [self.lanka_data_metadata.get("when_label")]
+        return ["2024"]
 
     @property
     def is_lanka_data_metadata_complete(self):

@@ -1,0 +1,2564 @@
+{
+  "_meta": {
+    "source_url": "https://www.statistics.gov.lk/Resource/en/Population/CPH_2024/CPH2024_Final_Eng.pdf#page=31",
+    "source_description": "Table 1.1.2, Final Report, 2024 Census of Population and Housing, Department of Census and Statistics, Sri Lanka",
+    "what": {
+      "CensusTopics": "The Questions and Topics Included in the Censuses of Sri Lanka 1871 - 2024"
+    },
+    "when": [
+      "1871",
+      "1881",
+      "1891",
+      "1901",
+      "1911",
+      "1921",
+      "1931",
+      "1946",
+      "1953",
+      "1963",
+      "1971",
+      "1981",
+      "2001",
+      "2012",
+      "2024"
+    ],
+    "where_who_types": [
+      "topic"
+    ]
+  },
+  "CensusTopics": {
+    "1871": {
+      "schedule": {
+        "values": {
+          "IsCensus1871": false
+        }
+      },
+      "Demographic and Personal Information": {
+        "values": {
+          "IsCensus1871": false
+        }
+      },
+      "Name": {
+        "values": {
+          "IsCensus1871": true
+        },
+        "total_value": 1,
+        "pct_values": {
+          "IsCensus1871": 1.0
+        }
+      },
+      "Relationship to head of the household": {
+        "values": {
+          "IsCensus1871": true
+        },
+        "total_value": 1,
+        "pct_values": {
+          "IsCensus1871": 1.0
+        }
+      },
+      "Sex": {
+        "values": {
+          "IsCensus1871": true
+        },
+        "total_value": 1,
+        "pct_values": {
+          "IsCensus1871": 1.0
+        }
+      },
+      "Date of birth": {
+        "values": {
+          "IsCensus1871": false
+        }
+      },
+      "Age": {
+        "values": {
+          "IsCensus1871": true
+        },
+        "total_value": 1,
+        "pct_values": {
+          "IsCensus1871": 1.0
+        }
+      },
+      "Marital Status": {
+        "values": {
+          "IsCensus1871": true
+        },
+        "total_value": 1,
+        "pct_values": {
+          "IsCensus1871": 1.0
+        }
+      },
+      "Ethnic group": {
+        "values": {
+          "IsCensus1871": true
+        },
+        "total_value": 1,
+        "pct_values": {
+          "IsCensus1871": 1.0
+        }
+      },
+      "Religion": {
+        "values": {
+          "IsCensus1871": true
+        },
+        "total_value": 1,
+        "pct_values": {
+          "IsCensus1871": 1.0
+        }
+      },
+      "Citizenship": {
+        "values": {
+          "IsCensus1871": false
+        }
+      },
+      "N.I.C. No.": {
+        "values": {
+          "IsCensus1871": false
+        }
+      },
+      "Status of clergy/priest": {
+        "values": {
+          "IsCensus1871": false
+        }
+      },
+      "Educational Characteristics": {
+        "values": {
+          "IsCensus1871": false
+        }
+      },
+      "Ability to speak Sinhala & Tamil": {
+        "values": {
+          "IsCensus1871": false
+        }
+      },
+      "Ability to speak English": {
+        "values": {
+          "IsCensus1871": false
+        }
+      },
+      "Ability to speak Sinhala, English & Tamil": {
+        "values": {
+          "IsCensus1871": false
+        }
+      },
+      "Literacy": {
+        "values": {
+          "IsCensus1871": false
+        }
+      },
+      "English Literacy": {
+        "values": {
+          "IsCensus1871": false
+        }
+      },
+      "Sinhala, English & Tamil Literacy": {
+        "values": {
+          "IsCensus1871": false
+        }
+      },
+      "Computer Literacy": {
+        "values": {
+          "IsCensus1871": false
+        }
+      },
+      "Digital Literacy": {
+        "values": {
+          "IsCensus1871": false
+        }
+      },
+      "Educational attainment/Highest level of": {
+        "values": {
+          "IsCensus1871": false
+        }
+      },
+      "School Attendance/ Attend in educational": {
+        "values": {
+          "IsCensus1871": false
+        }
+      },
+      "Vocational & Apprenticeship qualification": {
+        "values": {
+          "IsCensus1871": false
+        }
+      }
+    },
+    "1881": {
+      "schedule": {
+        "values": {
+          "IsCensus1881": false
+        }
+      },
+      "Demographic and Personal Information": {
+        "values": {
+          "IsCensus1881": false
+        }
+      },
+      "Name": {
+        "values": {
+          "IsCensus1881": true
+        },
+        "total_value": 1,
+        "pct_values": {
+          "IsCensus1881": 1.0
+        }
+      },
+      "Relationship to head of the household": {
+        "values": {
+          "IsCensus1881": true
+        },
+        "total_value": 1,
+        "pct_values": {
+          "IsCensus1881": 1.0
+        }
+      },
+      "Sex": {
+        "values": {
+          "IsCensus1881": true
+        },
+        "total_value": 1,
+        "pct_values": {
+          "IsCensus1881": 1.0
+        }
+      },
+      "Date of birth": {
+        "values": {
+          "IsCensus1881": false
+        }
+      },
+      "Age": {
+        "values": {
+          "IsCensus1881": true
+        },
+        "total_value": 1,
+        "pct_values": {
+          "IsCensus1881": 1.0
+        }
+      },
+      "Marital Status": {
+        "values": {
+          "IsCensus1881": false
+        }
+      },
+      "Ethnic group": {
+        "values": {
+          "IsCensus1881": true
+        },
+        "total_value": 1,
+        "pct_values": {
+          "IsCensus1881": 1.0
+        }
+      },
+      "Religion": {
+        "values": {
+          "IsCensus1881": true
+        },
+        "total_value": 1,
+        "pct_values": {
+          "IsCensus1881": 1.0
+        }
+      },
+      "Citizenship": {
+        "values": {
+          "IsCensus1881": false
+        }
+      },
+      "N.I.C. No.": {
+        "values": {
+          "IsCensus1881": false
+        }
+      },
+      "Status of clergy/priest": {
+        "values": {
+          "IsCensus1881": false
+        }
+      },
+      "Educational Characteristics": {
+        "values": {
+          "IsCensus1881": false
+        }
+      },
+      "Ability to speak Sinhala & Tamil": {
+        "values": {
+          "IsCensus1881": false
+        }
+      },
+      "Ability to speak English": {
+        "values": {
+          "IsCensus1881": false
+        }
+      },
+      "Ability to speak Sinhala, English & Tamil": {
+        "values": {
+          "IsCensus1881": false
+        }
+      },
+      "Literacy": {
+        "values": {
+          "IsCensus1881": true
+        },
+        "total_value": 1,
+        "pct_values": {
+          "IsCensus1881": 1.0
+        }
+      },
+      "English Literacy": {
+        "values": {
+          "IsCensus1881": false
+        }
+      },
+      "Sinhala, English & Tamil Literacy": {
+        "values": {
+          "IsCensus1881": false
+        }
+      },
+      "Computer Literacy": {
+        "values": {
+          "IsCensus1881": false
+        }
+      },
+      "Digital Literacy": {
+        "values": {
+          "IsCensus1881": false
+        }
+      },
+      "Educational attainment/Highest level of": {
+        "values": {
+          "IsCensus1881": false
+        }
+      },
+      "School Attendance/ Attend in educational": {
+        "values": {
+          "IsCensus1881": false
+        }
+      },
+      "Vocational & Apprenticeship qualification": {
+        "values": {
+          "IsCensus1881": false
+        }
+      }
+    },
+    "1891": {
+      "schedule": {
+        "values": {
+          "IsCensus1891": false
+        }
+      },
+      "Demographic and Personal Information": {
+        "values": {
+          "IsCensus1891": false
+        }
+      },
+      "Name": {
+        "values": {
+          "IsCensus1891": true
+        },
+        "total_value": 1,
+        "pct_values": {
+          "IsCensus1891": 1.0
+        }
+      },
+      "Relationship to head of the household": {
+        "values": {
+          "IsCensus1891": true
+        },
+        "total_value": 1,
+        "pct_values": {
+          "IsCensus1891": 1.0
+        }
+      },
+      "Sex": {
+        "values": {
+          "IsCensus1891": true
+        },
+        "total_value": 1,
+        "pct_values": {
+          "IsCensus1891": 1.0
+        }
+      },
+      "Date of birth": {
+        "values": {
+          "IsCensus1891": false
+        }
+      },
+      "Age": {
+        "values": {
+          "IsCensus1891": true
+        },
+        "total_value": 1,
+        "pct_values": {
+          "IsCensus1891": 1.0
+        }
+      },
+      "Marital Status": {
+        "values": {
+          "IsCensus1891": false
+        }
+      },
+      "Ethnic group": {
+        "values": {
+          "IsCensus1891": true
+        },
+        "total_value": 1,
+        "pct_values": {
+          "IsCensus1891": 1.0
+        }
+      },
+      "Religion": {
+        "values": {
+          "IsCensus1891": true
+        },
+        "total_value": 1,
+        "pct_values": {
+          "IsCensus1891": 1.0
+        }
+      },
+      "Citizenship": {
+        "values": {
+          "IsCensus1891": false
+        }
+      },
+      "N.I.C. No.": {
+        "values": {
+          "IsCensus1891": false
+        }
+      },
+      "Status of clergy/priest": {
+        "values": {
+          "IsCensus1891": false
+        }
+      },
+      "Educational Characteristics": {
+        "values": {
+          "IsCensus1891": false
+        }
+      },
+      "Ability to speak Sinhala & Tamil": {
+        "values": {
+          "IsCensus1891": false
+        }
+      },
+      "Ability to speak English": {
+        "values": {
+          "IsCensus1891": false
+        }
+      },
+      "Ability to speak Sinhala, English & Tamil": {
+        "values": {
+          "IsCensus1891": false
+        }
+      },
+      "Literacy": {
+        "values": {
+          "IsCensus1891": true
+        },
+        "total_value": 1,
+        "pct_values": {
+          "IsCensus1891": 1.0
+        }
+      },
+      "English Literacy": {
+        "values": {
+          "IsCensus1891": false
+        }
+      },
+      "Sinhala, English & Tamil Literacy": {
+        "values": {
+          "IsCensus1891": false
+        }
+      },
+      "Computer Literacy": {
+        "values": {
+          "IsCensus1891": false
+        }
+      },
+      "Digital Literacy": {
+        "values": {
+          "IsCensus1891": false
+        }
+      },
+      "Educational attainment/Highest level of": {
+        "values": {
+          "IsCensus1891": false
+        }
+      },
+      "School Attendance/ Attend in educational": {
+        "values": {
+          "IsCensus1891": false
+        }
+      },
+      "Vocational & Apprenticeship qualification": {
+        "values": {
+          "IsCensus1891": false
+        }
+      }
+    },
+    "1901": {
+      "schedule": {
+        "values": {
+          "IsCensus1901": false
+        }
+      },
+      "Demographic and Personal Information": {
+        "values": {
+          "IsCensus1901": false
+        }
+      },
+      "Name": {
+        "values": {
+          "IsCensus1901": true
+        },
+        "total_value": 1,
+        "pct_values": {
+          "IsCensus1901": 1.0
+        }
+      },
+      "Relationship to head of the household": {
+        "values": {
+          "IsCensus1901": false
+        }
+      },
+      "Sex": {
+        "values": {
+          "IsCensus1901": true
+        },
+        "total_value": 1,
+        "pct_values": {
+          "IsCensus1901": 1.0
+        }
+      },
+      "Date of birth": {
+        "values": {
+          "IsCensus1901": false
+        }
+      },
+      "Age": {
+        "values": {
+          "IsCensus1901": true
+        },
+        "total_value": 1,
+        "pct_values": {
+          "IsCensus1901": 1.0
+        }
+      },
+      "Marital Status": {
+        "values": {
+          "IsCensus1901": true
+        },
+        "total_value": 1,
+        "pct_values": {
+          "IsCensus1901": 1.0
+        }
+      },
+      "Ethnic group": {
+        "values": {
+          "IsCensus1901": true
+        },
+        "total_value": 1,
+        "pct_values": {
+          "IsCensus1901": 1.0
+        }
+      },
+      "Religion": {
+        "values": {
+          "IsCensus1901": true
+        },
+        "total_value": 1,
+        "pct_values": {
+          "IsCensus1901": 1.0
+        }
+      },
+      "Citizenship": {
+        "values": {
+          "IsCensus1901": false
+        }
+      },
+      "N.I.C. No.": {
+        "values": {
+          "IsCensus1901": false
+        }
+      },
+      "Status of clergy/priest": {
+        "values": {
+          "IsCensus1901": false
+        }
+      },
+      "Educational Characteristics": {
+        "values": {
+          "IsCensus1901": false
+        }
+      },
+      "Ability to speak Sinhala & Tamil": {
+        "values": {
+          "IsCensus1901": false
+        }
+      },
+      "Ability to speak English": {
+        "values": {
+          "IsCensus1901": false
+        }
+      },
+      "Ability to speak Sinhala, English & Tamil": {
+        "values": {
+          "IsCensus1901": false
+        }
+      },
+      "Literacy": {
+        "values": {
+          "IsCensus1901": true
+        },
+        "total_value": 1,
+        "pct_values": {
+          "IsCensus1901": 1.0
+        }
+      },
+      "English Literacy": {
+        "values": {
+          "IsCensus1901": true
+        },
+        "total_value": 1,
+        "pct_values": {
+          "IsCensus1901": 1.0
+        }
+      },
+      "Sinhala, English & Tamil Literacy": {
+        "values": {
+          "IsCensus1901": false
+        }
+      },
+      "Computer Literacy": {
+        "values": {
+          "IsCensus1901": false
+        }
+      },
+      "Digital Literacy": {
+        "values": {
+          "IsCensus1901": false
+        }
+      },
+      "Educational attainment/Highest level of": {
+        "values": {
+          "IsCensus1901": false
+        }
+      },
+      "School Attendance/ Attend in educational": {
+        "values": {
+          "IsCensus1901": false
+        }
+      },
+      "Vocational & Apprenticeship qualification": {
+        "values": {
+          "IsCensus1901": false
+        }
+      }
+    },
+    "1911": {
+      "schedule": {
+        "values": {
+          "IsCensus1911": false
+        }
+      },
+      "Demographic and Personal Information": {
+        "values": {
+          "IsCensus1911": false
+        }
+      },
+      "Name": {
+        "values": {
+          "IsCensus1911": true
+        },
+        "total_value": 1,
+        "pct_values": {
+          "IsCensus1911": 1.0
+        }
+      },
+      "Relationship to head of the household": {
+        "values": {
+          "IsCensus1911": false
+        }
+      },
+      "Sex": {
+        "values": {
+          "IsCensus1911": true
+        },
+        "total_value": 1,
+        "pct_values": {
+          "IsCensus1911": 1.0
+        }
+      },
+      "Date of birth": {
+        "values": {
+          "IsCensus1911": false
+        }
+      },
+      "Age": {
+        "values": {
+          "IsCensus1911": true
+        },
+        "total_value": 1,
+        "pct_values": {
+          "IsCensus1911": 1.0
+        }
+      },
+      "Marital Status": {
+        "values": {
+          "IsCensus1911": true
+        },
+        "total_value": 1,
+        "pct_values": {
+          "IsCensus1911": 1.0
+        }
+      },
+      "Ethnic group": {
+        "values": {
+          "IsCensus1911": true
+        },
+        "total_value": 1,
+        "pct_values": {
+          "IsCensus1911": 1.0
+        }
+      },
+      "Religion": {
+        "values": {
+          "IsCensus1911": true
+        },
+        "total_value": 1,
+        "pct_values": {
+          "IsCensus1911": 1.0
+        }
+      },
+      "Citizenship": {
+        "values": {
+          "IsCensus1911": false
+        }
+      },
+      "N.I.C. No.": {
+        "values": {
+          "IsCensus1911": false
+        }
+      },
+      "Status of clergy/priest": {
+        "values": {
+          "IsCensus1911": false
+        }
+      },
+      "Educational Characteristics": {
+        "values": {
+          "IsCensus1911": false
+        }
+      },
+      "Ability to speak Sinhala & Tamil": {
+        "values": {
+          "IsCensus1911": false
+        }
+      },
+      "Ability to speak English": {
+        "values": {
+          "IsCensus1911": true
+        },
+        "total_value": 1,
+        "pct_values": {
+          "IsCensus1911": 1.0
+        }
+      },
+      "Ability to speak Sinhala, English & Tamil": {
+        "values": {
+          "IsCensus1911": false
+        }
+      },
+      "Literacy": {
+        "values": {
+          "IsCensus1911": true
+        },
+        "total_value": 1,
+        "pct_values": {
+          "IsCensus1911": 1.0
+        }
+      },
+      "English Literacy": {
+        "values": {
+          "IsCensus1911": true
+        },
+        "total_value": 1,
+        "pct_values": {
+          "IsCensus1911": 1.0
+        }
+      },
+      "Sinhala, English & Tamil Literacy": {
+        "values": {
+          "IsCensus1911": false
+        }
+      },
+      "Computer Literacy": {
+        "values": {
+          "IsCensus1911": false
+        }
+      },
+      "Digital Literacy": {
+        "values": {
+          "IsCensus1911": false
+        }
+      },
+      "Educational attainment/Highest level of": {
+        "values": {
+          "IsCensus1911": false
+        }
+      },
+      "School Attendance/ Attend in educational": {
+        "values": {
+          "IsCensus1911": false
+        }
+      },
+      "Vocational & Apprenticeship qualification": {
+        "values": {
+          "IsCensus1911": false
+        }
+      }
+    },
+    "1921": {
+      "schedule": {
+        "values": {
+          "IsCensus1921": false
+        }
+      },
+      "Demographic and Personal Information": {
+        "values": {
+          "IsCensus1921": false
+        }
+      },
+      "Name": {
+        "values": {
+          "IsCensus1921": true
+        },
+        "total_value": 1,
+        "pct_values": {
+          "IsCensus1921": 1.0
+        }
+      },
+      "Relationship to head of the household": {
+        "values": {
+          "IsCensus1921": false
+        }
+      },
+      "Sex": {
+        "values": {
+          "IsCensus1921": true
+        },
+        "total_value": 1,
+        "pct_values": {
+          "IsCensus1921": 1.0
+        }
+      },
+      "Date of birth": {
+        "values": {
+          "IsCensus1921": false
+        }
+      },
+      "Age": {
+        "values": {
+          "IsCensus1921": true
+        },
+        "total_value": 1,
+        "pct_values": {
+          "IsCensus1921": 1.0
+        }
+      },
+      "Marital Status": {
+        "values": {
+          "IsCensus1921": true
+        },
+        "total_value": 1,
+        "pct_values": {
+          "IsCensus1921": 1.0
+        }
+      },
+      "Ethnic group": {
+        "values": {
+          "IsCensus1921": true
+        },
+        "total_value": 1,
+        "pct_values": {
+          "IsCensus1921": 1.0
+        }
+      },
+      "Religion": {
+        "values": {
+          "IsCensus1921": true
+        },
+        "total_value": 1,
+        "pct_values": {
+          "IsCensus1921": 1.0
+        }
+      },
+      "Citizenship": {
+        "values": {
+          "IsCensus1921": false
+        }
+      },
+      "N.I.C. No.": {
+        "values": {
+          "IsCensus1921": false
+        }
+      },
+      "Status of clergy/priest": {
+        "values": {
+          "IsCensus1921": false
+        }
+      },
+      "Educational Characteristics": {
+        "values": {
+          "IsCensus1921": false
+        }
+      },
+      "Ability to speak Sinhala & Tamil": {
+        "values": {
+          "IsCensus1921": false
+        }
+      },
+      "Ability to speak English": {
+        "values": {
+          "IsCensus1921": true
+        },
+        "total_value": 1,
+        "pct_values": {
+          "IsCensus1921": 1.0
+        }
+      },
+      "Ability to speak Sinhala, English & Tamil": {
+        "values": {
+          "IsCensus1921": false
+        }
+      },
+      "Literacy": {
+        "values": {
+          "IsCensus1921": true
+        },
+        "total_value": 1,
+        "pct_values": {
+          "IsCensus1921": 1.0
+        }
+      },
+      "English Literacy": {
+        "values": {
+          "IsCensus1921": true
+        },
+        "total_value": 1,
+        "pct_values": {
+          "IsCensus1921": 1.0
+        }
+      },
+      "Sinhala, English & Tamil Literacy": {
+        "values": {
+          "IsCensus1921": false
+        }
+      },
+      "Computer Literacy": {
+        "values": {
+          "IsCensus1921": false
+        }
+      },
+      "Digital Literacy": {
+        "values": {
+          "IsCensus1921": false
+        }
+      },
+      "Educational attainment/Highest level of": {
+        "values": {
+          "IsCensus1921": false
+        }
+      },
+      "School Attendance/ Attend in educational": {
+        "values": {
+          "IsCensus1921": false
+        }
+      },
+      "Vocational & Apprenticeship qualification": {
+        "values": {
+          "IsCensus1921": false
+        }
+      }
+    },
+    "1931": {
+      "schedule": {
+        "values": {
+          "IsCensus1931": false
+        }
+      },
+      "Demographic and Personal Information": {
+        "values": {
+          "IsCensus1931": false
+        }
+      },
+      "Name": {
+        "values": {
+          "IsCensus1931": true
+        },
+        "total_value": 1,
+        "pct_values": {
+          "IsCensus1931": 1.0
+        }
+      },
+      "Relationship to head of the household": {
+        "values": {
+          "IsCensus1931": false
+        }
+      },
+      "Sex": {
+        "values": {
+          "IsCensus1931": true
+        },
+        "total_value": 1,
+        "pct_values": {
+          "IsCensus1931": 1.0
+        }
+      },
+      "Date of birth": {
+        "values": {
+          "IsCensus1931": false
+        }
+      },
+      "Age": {
+        "values": {
+          "IsCensus1931": true
+        },
+        "total_value": 1,
+        "pct_values": {
+          "IsCensus1931": 1.0
+        }
+      },
+      "Marital Status": {
+        "values": {
+          "IsCensus1931": true
+        },
+        "total_value": 1,
+        "pct_values": {
+          "IsCensus1931": 1.0
+        }
+      },
+      "Ethnic group": {
+        "values": {
+          "IsCensus1931": true
+        },
+        "total_value": 1,
+        "pct_values": {
+          "IsCensus1931": 1.0
+        }
+      },
+      "Religion": {
+        "values": {
+          "IsCensus1931": true
+        },
+        "total_value": 1,
+        "pct_values": {
+          "IsCensus1931": 1.0
+        }
+      },
+      "Citizenship": {
+        "values": {
+          "IsCensus1931": false
+        }
+      },
+      "N.I.C. No.": {
+        "values": {
+          "IsCensus1931": false
+        }
+      },
+      "Status of clergy/priest": {
+        "values": {
+          "IsCensus1931": false
+        }
+      },
+      "Educational Characteristics": {
+        "values": {
+          "IsCensus1931": false
+        }
+      },
+      "Ability to speak Sinhala & Tamil": {
+        "values": {
+          "IsCensus1931": false
+        }
+      },
+      "Ability to speak English": {
+        "values": {
+          "IsCensus1931": true
+        },
+        "total_value": 1,
+        "pct_values": {
+          "IsCensus1931": 1.0
+        }
+      },
+      "Ability to speak Sinhala, English & Tamil": {
+        "values": {
+          "IsCensus1931": false
+        }
+      },
+      "Literacy": {
+        "values": {
+          "IsCensus1931": true
+        },
+        "total_value": 1,
+        "pct_values": {
+          "IsCensus1931": 1.0
+        }
+      },
+      "English Literacy": {
+        "values": {
+          "IsCensus1931": true
+        },
+        "total_value": 1,
+        "pct_values": {
+          "IsCensus1931": 1.0
+        }
+      },
+      "Sinhala, English & Tamil Literacy": {
+        "values": {
+          "IsCensus1931": false
+        }
+      },
+      "Computer Literacy": {
+        "values": {
+          "IsCensus1931": false
+        }
+      },
+      "Digital Literacy": {
+        "values": {
+          "IsCensus1931": false
+        }
+      },
+      "Educational attainment/Highest level of": {
+        "values": {
+          "IsCensus1931": false
+        }
+      },
+      "School Attendance/ Attend in educational": {
+        "values": {
+          "IsCensus1931": false
+        }
+      },
+      "Vocational & Apprenticeship qualification": {
+        "values": {
+          "IsCensus1931": false
+        }
+      }
+    },
+    "1946": {
+      "schedule": {
+        "values": {
+          "IsCensus1946": false
+        }
+      },
+      "Demographic and Personal Information": {
+        "values": {
+          "IsCensus1946": false
+        }
+      },
+      "Name": {
+        "values": {
+          "IsCensus1946": true
+        },
+        "total_value": 1,
+        "pct_values": {
+          "IsCensus1946": 1.0
+        }
+      },
+      "Relationship to head of the household": {
+        "values": {
+          "IsCensus1946": true
+        },
+        "total_value": 1,
+        "pct_values": {
+          "IsCensus1946": 1.0
+        }
+      },
+      "Sex": {
+        "values": {
+          "IsCensus1946": true
+        },
+        "total_value": 1,
+        "pct_values": {
+          "IsCensus1946": 1.0
+        }
+      },
+      "Date of birth": {
+        "values": {
+          "IsCensus1946": false
+        }
+      },
+      "Age": {
+        "values": {
+          "IsCensus1946": true
+        },
+        "total_value": 1,
+        "pct_values": {
+          "IsCensus1946": 1.0
+        }
+      },
+      "Marital Status": {
+        "values": {
+          "IsCensus1946": true
+        },
+        "total_value": 1,
+        "pct_values": {
+          "IsCensus1946": 1.0
+        }
+      },
+      "Ethnic group": {
+        "values": {
+          "IsCensus1946": true
+        },
+        "total_value": 1,
+        "pct_values": {
+          "IsCensus1946": 1.0
+        }
+      },
+      "Religion": {
+        "values": {
+          "IsCensus1946": true
+        },
+        "total_value": 1,
+        "pct_values": {
+          "IsCensus1946": 1.0
+        }
+      },
+      "Citizenship": {
+        "values": {
+          "IsCensus1946": false
+        }
+      },
+      "N.I.C. No.": {
+        "values": {
+          "IsCensus1946": false
+        }
+      },
+      "Status of clergy/priest": {
+        "values": {
+          "IsCensus1946": false
+        }
+      },
+      "Educational Characteristics": {
+        "values": {
+          "IsCensus1946": false
+        }
+      },
+      "Ability to speak Sinhala & Tamil": {
+        "values": {
+          "IsCensus1946": true
+        },
+        "total_value": 1,
+        "pct_values": {
+          "IsCensus1946": 1.0
+        }
+      },
+      "Ability to speak English": {
+        "values": {
+          "IsCensus1946": true
+        },
+        "total_value": 1,
+        "pct_values": {
+          "IsCensus1946": 1.0
+        }
+      },
+      "Ability to speak Sinhala, English & Tamil": {
+        "values": {
+          "IsCensus1946": false
+        }
+      },
+      "Literacy": {
+        "values": {
+          "IsCensus1946": true
+        },
+        "total_value": 1,
+        "pct_values": {
+          "IsCensus1946": 1.0
+        }
+      },
+      "English Literacy": {
+        "values": {
+          "IsCensus1946": true
+        },
+        "total_value": 1,
+        "pct_values": {
+          "IsCensus1946": 1.0
+        }
+      },
+      "Sinhala, English & Tamil Literacy": {
+        "values": {
+          "IsCensus1946": false
+        }
+      },
+      "Computer Literacy": {
+        "values": {
+          "IsCensus1946": false
+        }
+      },
+      "Digital Literacy": {
+        "values": {
+          "IsCensus1946": false
+        }
+      },
+      "Educational attainment/Highest level of": {
+        "values": {
+          "IsCensus1946": false
+        }
+      },
+      "School Attendance/ Attend in educational": {
+        "values": {
+          "IsCensus1946": false
+        }
+      },
+      "Vocational & Apprenticeship qualification": {
+        "values": {
+          "IsCensus1946": false
+        }
+      }
+    },
+    "1953": {
+      "schedule": {
+        "values": {
+          "IsCensus1953": false
+        }
+      },
+      "Demographic and Personal Information": {
+        "values": {
+          "IsCensus1953": false
+        }
+      },
+      "Name": {
+        "values": {
+          "IsCensus1953": true
+        },
+        "total_value": 1,
+        "pct_values": {
+          "IsCensus1953": 1.0
+        }
+      },
+      "Relationship to head of the household": {
+        "values": {
+          "IsCensus1953": true
+        },
+        "total_value": 1,
+        "pct_values": {
+          "IsCensus1953": 1.0
+        }
+      },
+      "Sex": {
+        "values": {
+          "IsCensus1953": true
+        },
+        "total_value": 1,
+        "pct_values": {
+          "IsCensus1953": 1.0
+        }
+      },
+      "Date of birth": {
+        "values": {
+          "IsCensus1953": false
+        }
+      },
+      "Age": {
+        "values": {
+          "IsCensus1953": true
+        },
+        "total_value": 1,
+        "pct_values": {
+          "IsCensus1953": 1.0
+        }
+      },
+      "Marital Status": {
+        "values": {
+          "IsCensus1953": false
+        }
+      },
+      "Ethnic group": {
+        "values": {
+          "IsCensus1953": true
+        },
+        "total_value": 1,
+        "pct_values": {
+          "IsCensus1953": 1.0
+        }
+      },
+      "Religion": {
+        "values": {
+          "IsCensus1953": true
+        },
+        "total_value": 1,
+        "pct_values": {
+          "IsCensus1953": 1.0
+        }
+      },
+      "Citizenship": {
+        "values": {
+          "IsCensus1953": true
+        },
+        "total_value": 1,
+        "pct_values": {
+          "IsCensus1953": 1.0
+        }
+      },
+      "N.I.C. No.": {
+        "values": {
+          "IsCensus1953": false
+        }
+      },
+      "Status of clergy/priest": {
+        "values": {
+          "IsCensus1953": false
+        }
+      },
+      "Educational Characteristics": {
+        "values": {
+          "IsCensus1953": false
+        }
+      },
+      "Ability to speak Sinhala & Tamil": {
+        "values": {
+          "IsCensus1953": true
+        },
+        "total_value": 1,
+        "pct_values": {
+          "IsCensus1953": 1.0
+        }
+      },
+      "Ability to speak English": {
+        "values": {
+          "IsCensus1953": true
+        },
+        "total_value": 1,
+        "pct_values": {
+          "IsCensus1953": 1.0
+        }
+      },
+      "Ability to speak Sinhala, English & Tamil": {
+        "values": {
+          "IsCensus1953": false
+        }
+      },
+      "Literacy": {
+        "values": {
+          "IsCensus1953": true
+        },
+        "total_value": 1,
+        "pct_values": {
+          "IsCensus1953": 1.0
+        }
+      },
+      "English Literacy": {
+        "values": {
+          "IsCensus1953": false
+        }
+      },
+      "Sinhala, English & Tamil Literacy": {
+        "values": {
+          "IsCensus1953": false
+        }
+      },
+      "Computer Literacy": {
+        "values": {
+          "IsCensus1953": false
+        }
+      },
+      "Digital Literacy": {
+        "values": {
+          "IsCensus1953": false
+        }
+      },
+      "Educational attainment/Highest level of": {
+        "values": {
+          "IsCensus1953": false
+        }
+      },
+      "School Attendance/ Attend in educational": {
+        "values": {
+          "IsCensus1953": false
+        }
+      },
+      "Vocational & Apprenticeship qualification": {
+        "values": {
+          "IsCensus1953": false
+        }
+      }
+    },
+    "1963": {
+      "schedule": {
+        "values": {
+          "IsCensus1963": false
+        }
+      },
+      "Demographic and Personal Information": {
+        "values": {
+          "IsCensus1963": false
+        }
+      },
+      "Name": {
+        "values": {
+          "IsCensus1963": true
+        },
+        "total_value": 1,
+        "pct_values": {
+          "IsCensus1963": 1.0
+        }
+      },
+      "Relationship to head of the household": {
+        "values": {
+          "IsCensus1963": true
+        },
+        "total_value": 1,
+        "pct_values": {
+          "IsCensus1963": 1.0
+        }
+      },
+      "Sex": {
+        "values": {
+          "IsCensus1963": true
+        },
+        "total_value": 1,
+        "pct_values": {
+          "IsCensus1963": 1.0
+        }
+      },
+      "Date of birth": {
+        "values": {
+          "IsCensus1963": true
+        },
+        "total_value": 1,
+        "pct_values": {
+          "IsCensus1963": 1.0
+        }
+      },
+      "Age": {
+        "values": {
+          "IsCensus1963": true
+        },
+        "total_value": 1,
+        "pct_values": {
+          "IsCensus1963": 1.0
+        }
+      },
+      "Marital Status": {
+        "values": {
+          "IsCensus1963": true
+        },
+        "total_value": 1,
+        "pct_values": {
+          "IsCensus1963": 1.0
+        }
+      },
+      "Ethnic group": {
+        "values": {
+          "IsCensus1963": true
+        },
+        "total_value": 1,
+        "pct_values": {
+          "IsCensus1963": 1.0
+        }
+      },
+      "Religion": {
+        "values": {
+          "IsCensus1963": true
+        },
+        "total_value": 1,
+        "pct_values": {
+          "IsCensus1963": 1.0
+        }
+      },
+      "Citizenship": {
+        "values": {
+          "IsCensus1963": true
+        },
+        "total_value": 1,
+        "pct_values": {
+          "IsCensus1963": 1.0
+        }
+      },
+      "N.I.C. No.": {
+        "values": {
+          "IsCensus1963": false
+        }
+      },
+      "Status of clergy/priest": {
+        "values": {
+          "IsCensus1963": false
+        }
+      },
+      "Educational Characteristics": {
+        "values": {
+          "IsCensus1963": false
+        }
+      },
+      "Ability to speak Sinhala & Tamil": {
+        "values": {
+          "IsCensus1963": true
+        },
+        "total_value": 1,
+        "pct_values": {
+          "IsCensus1963": 1.0
+        }
+      },
+      "Ability to speak English": {
+        "values": {
+          "IsCensus1963": true
+        },
+        "total_value": 1,
+        "pct_values": {
+          "IsCensus1963": 1.0
+        }
+      },
+      "Ability to speak Sinhala, English & Tamil": {
+        "values": {
+          "IsCensus1963": false
+        }
+      },
+      "Literacy": {
+        "values": {
+          "IsCensus1963": true
+        },
+        "total_value": 1,
+        "pct_values": {
+          "IsCensus1963": 1.0
+        }
+      },
+      "English Literacy": {
+        "values": {
+          "IsCensus1963": true
+        },
+        "total_value": 1,
+        "pct_values": {
+          "IsCensus1963": 1.0
+        }
+      },
+      "Sinhala, English & Tamil Literacy": {
+        "values": {
+          "IsCensus1963": false
+        }
+      },
+      "Computer Literacy": {
+        "values": {
+          "IsCensus1963": false
+        }
+      },
+      "Digital Literacy": {
+        "values": {
+          "IsCensus1963": false
+        }
+      },
+      "Educational attainment/Highest level of": {
+        "values": {
+          "IsCensus1963": false
+        }
+      },
+      "School Attendance/ Attend in educational": {
+        "values": {
+          "IsCensus1963": false
+        }
+      },
+      "Vocational & Apprenticeship qualification": {
+        "values": {
+          "IsCensus1963": false
+        }
+      }
+    },
+    "1971": {
+      "schedule": {
+        "values": {
+          "IsCensus1971": false
+        }
+      },
+      "Demographic and Personal Information": {
+        "values": {
+          "IsCensus1971": false
+        }
+      },
+      "Name": {
+        "values": {
+          "IsCensus1971": true
+        },
+        "total_value": 1,
+        "pct_values": {
+          "IsCensus1971": 1.0
+        }
+      },
+      "Relationship to head of the household": {
+        "values": {
+          "IsCensus1971": true
+        },
+        "total_value": 1,
+        "pct_values": {
+          "IsCensus1971": 1.0
+        }
+      },
+      "Sex": {
+        "values": {
+          "IsCensus1971": true
+        },
+        "total_value": 1,
+        "pct_values": {
+          "IsCensus1971": 1.0
+        }
+      },
+      "Date of birth": {
+        "values": {
+          "IsCensus1971": true
+        },
+        "total_value": 1,
+        "pct_values": {
+          "IsCensus1971": 1.0
+        }
+      },
+      "Age": {
+        "values": {
+          "IsCensus1971": true
+        },
+        "total_value": 1,
+        "pct_values": {
+          "IsCensus1971": 1.0
+        }
+      },
+      "Marital Status": {
+        "values": {
+          "IsCensus1971": true
+        },
+        "total_value": 1,
+        "pct_values": {
+          "IsCensus1971": 1.0
+        }
+      },
+      "Ethnic group": {
+        "values": {
+          "IsCensus1971": true
+        },
+        "total_value": 1,
+        "pct_values": {
+          "IsCensus1971": 1.0
+        }
+      },
+      "Religion": {
+        "values": {
+          "IsCensus1971": true
+        },
+        "total_value": 1,
+        "pct_values": {
+          "IsCensus1971": 1.0
+        }
+      },
+      "Citizenship": {
+        "values": {
+          "IsCensus1971": true
+        },
+        "total_value": 1,
+        "pct_values": {
+          "IsCensus1971": 1.0
+        }
+      },
+      "N.I.C. No.": {
+        "values": {
+          "IsCensus1971": false
+        }
+      },
+      "Status of clergy/priest": {
+        "values": {
+          "IsCensus1971": false
+        }
+      },
+      "Educational Characteristics": {
+        "values": {
+          "IsCensus1971": false
+        }
+      },
+      "Ability to speak Sinhala & Tamil": {
+        "values": {
+          "IsCensus1971": false
+        }
+      },
+      "Ability to speak English": {
+        "values": {
+          "IsCensus1971": false
+        }
+      },
+      "Ability to speak Sinhala, English & Tamil": {
+        "values": {
+          "IsCensus1971": false
+        }
+      },
+      "Literacy": {
+        "values": {
+          "IsCensus1971": true
+        },
+        "total_value": 1,
+        "pct_values": {
+          "IsCensus1971": 1.0
+        }
+      },
+      "English Literacy": {
+        "values": {
+          "IsCensus1971": false
+        }
+      },
+      "Sinhala, English & Tamil Literacy": {
+        "values": {
+          "IsCensus1971": false
+        }
+      },
+      "Computer Literacy": {
+        "values": {
+          "IsCensus1971": false
+        }
+      },
+      "Digital Literacy": {
+        "values": {
+          "IsCensus1971": false
+        }
+      },
+      "Educational attainment/Highest level of": {
+        "values": {
+          "IsCensus1971": true
+        },
+        "total_value": 1,
+        "pct_values": {
+          "IsCensus1971": 1.0
+        }
+      },
+      "School Attendance/ Attend in educational": {
+        "values": {
+          "IsCensus1971": false
+        }
+      },
+      "Vocational & Apprenticeship qualification": {
+        "values": {
+          "IsCensus1971": false
+        }
+      }
+    },
+    "1981": {
+      "schedule": {
+        "values": {
+          "IsCensus1981": false
+        }
+      },
+      "Demographic and Personal Information": {
+        "values": {
+          "IsCensus1981": false
+        }
+      },
+      "Name": {
+        "values": {
+          "IsCensus1981": true
+        },
+        "total_value": 1,
+        "pct_values": {
+          "IsCensus1981": 1.0
+        }
+      },
+      "Relationship to head of the household": {
+        "values": {
+          "IsCensus1981": true
+        },
+        "total_value": 1,
+        "pct_values": {
+          "IsCensus1981": 1.0
+        }
+      },
+      "Sex": {
+        "values": {
+          "IsCensus1981": true
+        },
+        "total_value": 1,
+        "pct_values": {
+          "IsCensus1981": 1.0
+        }
+      },
+      "Date of birth": {
+        "values": {
+          "IsCensus1981": true
+        },
+        "total_value": 1,
+        "pct_values": {
+          "IsCensus1981": 1.0
+        }
+      },
+      "Age": {
+        "values": {
+          "IsCensus1981": true
+        },
+        "total_value": 1,
+        "pct_values": {
+          "IsCensus1981": 1.0
+        }
+      },
+      "Marital Status": {
+        "values": {
+          "IsCensus1981": true
+        },
+        "total_value": 1,
+        "pct_values": {
+          "IsCensus1981": 1.0
+        }
+      },
+      "Ethnic group": {
+        "values": {
+          "IsCensus1981": true
+        },
+        "total_value": 1,
+        "pct_values": {
+          "IsCensus1981": 1.0
+        }
+      },
+      "Religion": {
+        "values": {
+          "IsCensus1981": true
+        },
+        "total_value": 1,
+        "pct_values": {
+          "IsCensus1981": 1.0
+        }
+      },
+      "Citizenship": {
+        "values": {
+          "IsCensus1981": true
+        },
+        "total_value": 1,
+        "pct_values": {
+          "IsCensus1981": 1.0
+        }
+      },
+      "N.I.C. No.": {
+        "values": {
+          "IsCensus1981": false
+        }
+      },
+      "Status of clergy/priest": {
+        "values": {
+          "IsCensus1981": false
+        }
+      },
+      "Educational Characteristics": {
+        "values": {
+          "IsCensus1981": false
+        }
+      },
+      "Ability to speak Sinhala & Tamil": {
+        "values": {
+          "IsCensus1981": false
+        }
+      },
+      "Ability to speak English": {
+        "values": {
+          "IsCensus1981": false
+        }
+      },
+      "Ability to speak Sinhala, English & Tamil": {
+        "values": {
+          "IsCensus1981": false
+        }
+      },
+      "Literacy": {
+        "values": {
+          "IsCensus1981": false
+        }
+      },
+      "English Literacy": {
+        "values": {
+          "IsCensus1981": false
+        }
+      },
+      "Sinhala, English & Tamil Literacy": {
+        "values": {
+          "IsCensus1981": true
+        },
+        "total_value": 1,
+        "pct_values": {
+          "IsCensus1981": 1.0
+        }
+      },
+      "Computer Literacy": {
+        "values": {
+          "IsCensus1981": false
+        }
+      },
+      "Digital Literacy": {
+        "values": {
+          "IsCensus1981": false
+        }
+      },
+      "Educational attainment/Highest level of": {
+        "values": {
+          "IsCensus1981": true
+        },
+        "total_value": 1,
+        "pct_values": {
+          "IsCensus1981": 1.0
+        }
+      },
+      "School Attendance/ Attend in educational": {
+        "values": {
+          "IsCensus1981": true
+        },
+        "total_value": 1,
+        "pct_values": {
+          "IsCensus1981": 1.0
+        }
+      },
+      "Vocational & Apprenticeship qualification": {
+        "values": {
+          "IsCensus1981": false
+        }
+      }
+    },
+    "2001": {
+      "schedule": {
+        "values": {
+          "IsCensus2001": false
+        }
+      },
+      "Demographic and Personal Information": {
+        "values": {
+          "IsCensus2001": false
+        }
+      },
+      "Name": {
+        "values": {
+          "IsCensus2001": true
+        },
+        "total_value": 1,
+        "pct_values": {
+          "IsCensus2001": 1.0
+        }
+      },
+      "Relationship to head of the household": {
+        "values": {
+          "IsCensus2001": true
+        },
+        "total_value": 1,
+        "pct_values": {
+          "IsCensus2001": 1.0
+        }
+      },
+      "Sex": {
+        "values": {
+          "IsCensus2001": true
+        },
+        "total_value": 1,
+        "pct_values": {
+          "IsCensus2001": 1.0
+        }
+      },
+      "Date of birth": {
+        "values": {
+          "IsCensus2001": true
+        },
+        "total_value": 1,
+        "pct_values": {
+          "IsCensus2001": 1.0
+        }
+      },
+      "Age": {
+        "values": {
+          "IsCensus2001": false
+        }
+      },
+      "Marital Status": {
+        "values": {
+          "IsCensus2001": true
+        },
+        "total_value": 1,
+        "pct_values": {
+          "IsCensus2001": 1.0
+        }
+      },
+      "Ethnic group": {
+        "values": {
+          "IsCensus2001": true
+        },
+        "total_value": 1,
+        "pct_values": {
+          "IsCensus2001": 1.0
+        }
+      },
+      "Religion": {
+        "values": {
+          "IsCensus2001": true
+        },
+        "total_value": 1,
+        "pct_values": {
+          "IsCensus2001": 1.0
+        }
+      },
+      "Citizenship": {
+        "values": {
+          "IsCensus2001": true
+        },
+        "total_value": 1,
+        "pct_values": {
+          "IsCensus2001": 1.0
+        }
+      },
+      "N.I.C. No.": {
+        "values": {
+          "IsCensus2001": false
+        }
+      },
+      "Status of clergy/priest": {
+        "values": {
+          "IsCensus2001": false
+        }
+      },
+      "Educational Characteristics": {
+        "values": {
+          "IsCensus2001": false
+        }
+      },
+      "Ability to speak Sinhala & Tamil": {
+        "values": {
+          "IsCensus2001": false
+        }
+      },
+      "Ability to speak English": {
+        "values": {
+          "IsCensus2001": false
+        }
+      },
+      "Ability to speak Sinhala, English & Tamil": {
+        "values": {
+          "IsCensus2001": true
+        },
+        "total_value": 1,
+        "pct_values": {
+          "IsCensus2001": 1.0
+        }
+      },
+      "Literacy": {
+        "values": {
+          "IsCensus2001": false
+        }
+      },
+      "English Literacy": {
+        "values": {
+          "IsCensus2001": false
+        }
+      },
+      "Sinhala, English & Tamil Literacy": {
+        "values": {
+          "IsCensus2001": true
+        },
+        "total_value": 1,
+        "pct_values": {
+          "IsCensus2001": 1.0
+        }
+      },
+      "Computer Literacy": {
+        "values": {
+          "IsCensus2001": false
+        }
+      },
+      "Digital Literacy": {
+        "values": {
+          "IsCensus2001": false
+        }
+      },
+      "Educational attainment/Highest level of": {
+        "values": {
+          "IsCensus2001": true
+        },
+        "total_value": 1,
+        "pct_values": {
+          "IsCensus2001": 1.0
+        }
+      },
+      "School Attendance/ Attend in educational": {
+        "values": {
+          "IsCensus2001": true
+        },
+        "total_value": 1,
+        "pct_values": {
+          "IsCensus2001": 1.0
+        }
+      },
+      "Vocational & Apprenticeship qualification": {
+        "values": {
+          "IsCensus2001": false
+        }
+      }
+    },
+    "2012": {
+      "schedule": {
+        "values": {
+          "IsCensus2012": false
+        }
+      },
+      "Demographic and Personal Information": {
+        "values": {
+          "IsCensus2012": false
+        }
+      },
+      "Name": {
+        "values": {
+          "IsCensus2012": true
+        },
+        "total_value": 1,
+        "pct_values": {
+          "IsCensus2012": 1.0
+        }
+      },
+      "Relationship to head of the household": {
+        "values": {
+          "IsCensus2012": true
+        },
+        "total_value": 1,
+        "pct_values": {
+          "IsCensus2012": 1.0
+        }
+      },
+      "Sex": {
+        "values": {
+          "IsCensus2012": true
+        },
+        "total_value": 1,
+        "pct_values": {
+          "IsCensus2012": 1.0
+        }
+      },
+      "Date of birth": {
+        "values": {
+          "IsCensus2012": true
+        },
+        "total_value": 1,
+        "pct_values": {
+          "IsCensus2012": 1.0
+        }
+      },
+      "Age": {
+        "values": {
+          "IsCensus2012": false
+        }
+      },
+      "Marital Status": {
+        "values": {
+          "IsCensus2012": true
+        },
+        "total_value": 1,
+        "pct_values": {
+          "IsCensus2012": 1.0
+        }
+      },
+      "Ethnic group": {
+        "values": {
+          "IsCensus2012": true
+        },
+        "total_value": 1,
+        "pct_values": {
+          "IsCensus2012": 1.0
+        }
+      },
+      "Religion": {
+        "values": {
+          "IsCensus2012": true
+        },
+        "total_value": 1,
+        "pct_values": {
+          "IsCensus2012": 1.0
+        }
+      },
+      "Citizenship": {
+        "values": {
+          "IsCensus2012": true
+        },
+        "total_value": 1,
+        "pct_values": {
+          "IsCensus2012": 1.0
+        }
+      },
+      "N.I.C. No.": {
+        "values": {
+          "IsCensus2012": true
+        },
+        "total_value": 1,
+        "pct_values": {
+          "IsCensus2012": 1.0
+        }
+      },
+      "Status of clergy/priest": {
+        "values": {
+          "IsCensus2012": false
+        }
+      },
+      "Educational Characteristics": {
+        "values": {
+          "IsCensus2012": false
+        }
+      },
+      "Ability to speak Sinhala & Tamil": {
+        "values": {
+          "IsCensus2012": false
+        }
+      },
+      "Ability to speak English": {
+        "values": {
+          "IsCensus2012": false
+        }
+      },
+      "Ability to speak Sinhala, English & Tamil": {
+        "values": {
+          "IsCensus2012": true
+        },
+        "total_value": 1,
+        "pct_values": {
+          "IsCensus2012": 1.0
+        }
+      },
+      "Literacy": {
+        "values": {
+          "IsCensus2012": false
+        }
+      },
+      "English Literacy": {
+        "values": {
+          "IsCensus2012": false
+        }
+      },
+      "Sinhala, English & Tamil Literacy": {
+        "values": {
+          "IsCensus2012": true
+        },
+        "total_value": 1,
+        "pct_values": {
+          "IsCensus2012": 1.0
+        }
+      },
+      "Computer Literacy": {
+        "values": {
+          "IsCensus2012": true
+        },
+        "total_value": 1,
+        "pct_values": {
+          "IsCensus2012": 1.0
+        }
+      },
+      "Digital Literacy": {
+        "values": {
+          "IsCensus2012": false
+        }
+      },
+      "Educational attainment/Highest level of": {
+        "values": {
+          "IsCensus2012": true
+        },
+        "total_value": 1,
+        "pct_values": {
+          "IsCensus2012": 1.0
+        }
+      },
+      "School Attendance/ Attend in educational": {
+        "values": {
+          "IsCensus2012": true
+        },
+        "total_value": 1,
+        "pct_values": {
+          "IsCensus2012": 1.0
+        }
+      },
+      "Vocational & Apprenticeship qualification": {
+        "values": {
+          "IsCensus2012": true
+        },
+        "total_value": 1,
+        "pct_values": {
+          "IsCensus2012": 1.0
+        }
+      }
+    },
+    "2024": {
+      "schedule": {
+        "values": {
+          "IsCensus2024": false
+        }
+      },
+      "Demographic and Personal Information": {
+        "values": {
+          "IsCensus2024": false
+        }
+      },
+      "Name": {
+        "values": {
+          "IsCensus2024": true
+        },
+        "total_value": 1,
+        "pct_values": {
+          "IsCensus2024": 1.0
+        }
+      },
+      "Relationship to head of the household": {
+        "values": {
+          "IsCensus2024": true
+        },
+        "total_value": 1,
+        "pct_values": {
+          "IsCensus2024": 1.0
+        }
+      },
+      "Sex": {
+        "values": {
+          "IsCensus2024": true
+        },
+        "total_value": 1,
+        "pct_values": {
+          "IsCensus2024": 1.0
+        }
+      },
+      "Date of birth": {
+        "values": {
+          "IsCensus2024": true
+        },
+        "total_value": 1,
+        "pct_values": {
+          "IsCensus2024": 1.0
+        }
+      },
+      "Age": {
+        "values": {
+          "IsCensus2024": false
+        }
+      },
+      "Marital Status": {
+        "values": {
+          "IsCensus2024": true
+        },
+        "total_value": 1,
+        "pct_values": {
+          "IsCensus2024": 1.0
+        }
+      },
+      "Ethnic group": {
+        "values": {
+          "IsCensus2024": true
+        },
+        "total_value": 1,
+        "pct_values": {
+          "IsCensus2024": 1.0
+        }
+      },
+      "Religion": {
+        "values": {
+          "IsCensus2024": true
+        },
+        "total_value": 1,
+        "pct_values": {
+          "IsCensus2024": 1.0
+        }
+      },
+      "Citizenship": {
+        "values": {
+          "IsCensus2024": true
+        },
+        "total_value": 1,
+        "pct_values": {
+          "IsCensus2024": 1.0
+        }
+      },
+      "N.I.C. No.": {
+        "values": {
+          "IsCensus2024": true
+        },
+        "total_value": 1,
+        "pct_values": {
+          "IsCensus2024": 1.0
+        }
+      },
+      "Status of clergy/priest": {
+        "values": {
+          "IsCensus2024": true
+        },
+        "total_value": 1,
+        "pct_values": {
+          "IsCensus2024": 1.0
+        }
+      },
+      "Educational Characteristics": {
+        "values": {
+          "IsCensus2024": false
+        }
+      },
+      "Ability to speak Sinhala & Tamil": {
+        "values": {
+          "IsCensus2024": false
+        }
+      },
+      "Ability to speak English": {
+        "values": {
+          "IsCensus2024": false
+        }
+      },
+      "Ability to speak Sinhala, English & Tamil": {
+        "values": {
+          "IsCensus2024": true
+        },
+        "total_value": 1,
+        "pct_values": {
+          "IsCensus2024": 1.0
+        }
+      },
+      "Literacy": {
+        "values": {
+          "IsCensus2024": false
+        }
+      },
+      "English Literacy": {
+        "values": {
+          "IsCensus2024": false
+        }
+      },
+      "Sinhala, English & Tamil Literacy": {
+        "values": {
+          "IsCensus2024": true
+        },
+        "total_value": 1,
+        "pct_values": {
+          "IsCensus2024": 1.0
+        }
+      },
+      "Computer Literacy": {
+        "values": {
+          "IsCensus2024": true
+        },
+        "total_value": 1,
+        "pct_values": {
+          "IsCensus2024": 1.0
+        }
+      },
+      "Digital Literacy": {
+        "values": {
+          "IsCensus2024": true
+        },
+        "total_value": 1,
+        "pct_values": {
+          "IsCensus2024": 1.0
+        }
+      },
+      "Educational attainment/Highest level of": {
+        "values": {
+          "IsCensus2024": true
+        },
+        "total_value": 1,
+        "pct_values": {
+          "IsCensus2024": 1.0
+        }
+      },
+      "School Attendance/ Attend in educational": {
+        "values": {
+          "IsCensus2024": true
+        },
+        "total_value": 1,
+        "pct_values": {
+          "IsCensus2024": 1.0
+        }
+      },
+      "Vocational & Apprenticeship qualification": {
+        "values": {
+          "IsCensus2024": true
+        },
+        "total_value": 1,
+        "pct_values": {
+          "IsCensus2024": 1.0
+        }
+      }
+    }
+  }
+}
