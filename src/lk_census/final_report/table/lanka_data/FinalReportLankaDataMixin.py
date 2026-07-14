@@ -53,6 +53,9 @@ class FinalReportLankaDataMixin(FinalReportLankaMetaDataMixin):
                 log.warning(f"Found key starting with 'p_': {k}")
                 return False
 
+        if not self.what_label:
+            return False
+
         if "Population" in self.what_label:
             log.warning("Found 'Population' in what_label. Skipping")
             return False
