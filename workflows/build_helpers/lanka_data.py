@@ -1,6 +1,7 @@
 import json
 
 from lk_census.final_report.table import FinalReportTable
+from lk_census.readme import ReadMe
 
 
 def print_line():
@@ -48,4 +49,5 @@ if __name__ == "__main__":
             if lanka_data is not None:
                 table.lanka_data_file.open("code")
 
+        ReadMe().build()
         break

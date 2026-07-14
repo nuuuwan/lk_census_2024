@@ -121,7 +121,8 @@ class ReadMeFinalReportMixin:
 
     def _get_lines_for_final_report_table_inner(self, final_report_table):
         status = final_report_table.build_status
-        if status == 4:
+
+        if status == 4 or status == 5:
             return self.get_lines_for_final_report_table_with_structured_data(
                 final_report_table
             )
