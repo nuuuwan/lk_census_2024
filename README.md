@@ -1,7 +1,7 @@
 # 🇱🇰 Sri Lanka - Census of Population and Housing 2024
 
 ![CPH](https://img.shields.io/badge/CPH-2024-blue)
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--07--14_11:17:34-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--07--14_11:20:47-green)
 
 **154** Datasets on Population, Housing and more, by Country, Province, District, Divisional Secretariat Division (DSD), Grama Niladhari Division (GND), Electoral District (ED), Polling Division (PD), and Local Government Authority (LG) levels.
 
@@ -614,8 +614,8 @@
 | status | status_label | n |
 | :-- | :-- | --: |
 | 2 | 🔴 Raw data is difficult to parse | 21 |
-| 4 | 🟡 Lanka data is missing | 116 |
-| 5 | 🟢 Complete | 5 |
+| 4 | 🟡 Lanka data is missing | 114 |
+| 5 | 🟢 Complete | 7 |
 
 ## 13. [Officers who have  Assigned for Census of Population and Housing 2024 Activities](data/final-report-tables/chapter-1/1.1.1-Officers-who-have--Assigned-for-Census-of-Population-and-Housing-2024-Activities)
 
@@ -1080,7 +1080,7 @@
 
 ## 25. [Lifetime Migrants by District of Dirth and District of Usual Residence,](data/final-report-tables/chapter-5/5.1.1-Lifetime-Migrants-by-District-of-Dirth-and-District-of-Usual-Residence,)
 
-*4 - 🟡 Lanka data is missing*
+*5 - 🟢 Complete*
 
 ### Data Table (first 10 of 25 rows)
 
@@ -1267,7 +1267,7 @@
 
 ## 30. [In-migrants by District of Usual Residence and Duration of Residence, 2024](data/final-report-tables/chapter-5/5.1.6-In-migrants-by-District-of-Usual-Residence-and-Duration-of-Residence,-2024)
 
-*4 - 🟡 Lanka data is missing*
+*5 - 🟢 Complete*
 
 ### Data Table (first 10 of 57 rows)
 
