@@ -1,0 +1,709 @@
+{
+  "_meta": {
+    "source_url": "https://www.statistics.gov.lk/Resource/en/Population/CPH_2024/CPH2024_Final_Eng.pdf#page=113",
+    "source_description": "Table 6.1.10, Final Report, 2024 Census of Population and Housing, Department of Census and Statistics, Sri Lanka",
+    "what": {
+      "PopulationByEthnicityAndCensus": "Population by Ethnic Group, 1911 - 2024 (in"
+    },
+    "when": [
+      "1911",
+      "1921",
+      "1931",
+      "1946",
+      "1953",
+      "1963",
+      "1971",
+      "1981",
+      "2001",
+      "2012",
+      "2024"
+    ],
+    "where_who_types": [
+      "ethnicity"
+    ]
+  },
+  "PopulationByEthnicityAndCensus": {
+    "1911": {
+      "Sri Lanka": {
+        "ethnicity": "Sri Lanka",
+        "values": {
+          "CensusPopulationK": 4106399
+        }
+      },
+      "Low Country Sinhalese": {
+        "ethnicity": "Low Country Sinhalese",
+        "values": {
+          "CensusPopulationK": 1716900
+        }
+      },
+      "Up-country (Kandyan)  Sinhalese": {
+        "ethnicity": "Up-country (Kandyan)  Sinhalese",
+        "values": {
+          "CensusPopulationK": 998600
+        }
+      },
+      "Sri Lanka Tamil": {
+        "ethnicity": "Sri Lanka Tamil",
+        "values": {
+          "CensusPopulationK": 528000
+        }
+      },
+      "Indian Tamil": {
+        "ethnicity": "Indian Tamil",
+        "values": {
+          "CensusPopulationK": 531000
+        }
+      },
+      "Sri Lanka Muslim": {
+        "ethnicity": "Sri Lanka Muslim",
+        "values": {
+          "CensusPopulationK": 233900
+        }
+      },
+      "Indian Muslim": {
+        "ethnicity": "Indian Muslim",
+        "values": {
+          "CensusPopulationK": 32700
+        }
+      },
+      "European": {
+        "ethnicity": "European",
+        "values": {
+          "CensusPopulationK": 7600
+        }
+      },
+      "Burgher & Eurasian": {
+        "ethnicity": "Burgher & Eurasian",
+        "values": {
+          "CensusPopulationK": 26700
+        }
+      },
+      "Malay": {
+        "ethnicity": "Malay",
+        "values": {
+          "CensusPopulationK": 13000
+        }
+      }
+    },
+    "1921": {
+      "Sri Lanka": {
+        "ethnicity": "Sri Lanka",
+        "values": {
+          "CensusPopulationK": 4498600
+        }
+      },
+      "Low Country Sinhalese": {
+        "ethnicity": "Low Country Sinhalese",
+        "values": {
+          "CensusPopulationK": 1927100
+        }
+      },
+      "Up-country (Kandyan)  Sinhalese": {
+        "ethnicity": "Up-country (Kandyan)  Sinhalese",
+        "values": {
+          "CensusPopulationK": 1089100
+        }
+      },
+      "Sri Lanka Tamil": {
+        "ethnicity": "Sri Lanka Tamil",
+        "values": {
+          "CensusPopulationK": 517299
+        }
+      },
+      "Indian Tamil": {
+        "ethnicity": "Indian Tamil",
+        "values": {
+          "CensusPopulationK": 602700
+        }
+      },
+      "Sri Lanka Muslim": {
+        "ethnicity": "Sri Lanka Muslim",
+        "values": {
+          "CensusPopulationK": 251900
+        }
+      },
+      "Indian Muslim": {
+        "ethnicity": "Indian Muslim",
+        "values": {
+          "CensusPopulationK": 33000
+        }
+      },
+      "European": {
+        "ethnicity": "European",
+        "values": {
+          "CensusPopulationK": 8100
+        }
+      },
+      "Burgher & Eurasian": {
+        "ethnicity": "Burgher & Eurasian",
+        "values": {
+          "CensusPopulationK": 29400
+        }
+      },
+      "Malay": {
+        "ethnicity": "Malay",
+        "values": {
+          "CensusPopulationK": 13400
+        }
+      }
+    },
+    "1931": {
+      "Sri Lanka": {
+        "ethnicity": "Sri Lanka",
+        "values": {
+          "CensusPopulationK": 5306000
+        }
+      },
+      "Low Country Sinhalese": {
+        "ethnicity": "Low Country Sinhalese",
+        "values": {
+          "CensusPopulationK": 2216200
+        }
+      },
+      "Up-country (Kandyan)  Sinhalese": {
+        "ethnicity": "Up-country (Kandyan)  Sinhalese",
+        "values": {
+          "CensusPopulationK": 1256800
+        }
+      },
+      "Sri Lanka Tamil": {
+        "ethnicity": "Sri Lanka Tamil",
+        "values": {
+          "CensusPopulationK": 598900
+        }
+      },
+      "Indian Tamil": {
+        "ethnicity": "Indian Tamil",
+        "values": {
+          "CensusPopulationK": 818500
+        }
+      },
+      "Sri Lanka Muslim": {
+        "ethnicity": "Sri Lanka Muslim",
+        "values": {
+          "CensusPopulationK": 289600
+        }
+      },
+      "Indian Muslim": {
+        "ethnicity": "Indian Muslim",
+        "values": {
+          "CensusPopulationK": 36300
+        }
+      },
+      "European": {
+        "ethnicity": "European",
+        "values": {
+          "CensusPopulationK": 9200
+        }
+      },
+      "Burgher & Eurasian": {
+        "ethnicity": "Burgher & Eurasian",
+        "values": {
+          "CensusPopulationK": 32299
+        }
+      },
+      "Malay": {
+        "ethnicity": "Malay",
+        "values": {
+          "CensusPopulationK": 16000
+        }
+      }
+    },
+    "1946": {
+      "Sri Lanka": {
+        "ethnicity": "Sri Lanka",
+        "values": {
+          "CensusPopulationK": 6657300
+        }
+      },
+      "Low Country Sinhalese": {
+        "ethnicity": "Low Country Sinhalese",
+        "values": {
+          "CensusPopulationK": 2902500
+        }
+      },
+      "Up-country (Kandyan)  Sinhalese": {
+        "ethnicity": "Up-country (Kandyan)  Sinhalese",
+        "values": {
+          "CensusPopulationK": 1718000
+        }
+      },
+      "Sri Lanka Tamil": {
+        "ethnicity": "Sri Lanka Tamil",
+        "values": {
+          "CensusPopulationK": 733700
+        }
+      },
+      "Indian Tamil": {
+        "ethnicity": "Indian Tamil",
+        "values": {
+          "CensusPopulationK": 780600
+        }
+      },
+      "Sri Lanka Muslim": {
+        "ethnicity": "Sri Lanka Muslim",
+        "values": {
+          "CensusPopulationK": 373600
+        }
+      },
+      "Indian Muslim": {
+        "ethnicity": "Indian Muslim",
+        "values": {
+          "CensusPopulationK": 35600
+        }
+      },
+      "European": {
+        "ethnicity": "European",
+        "values": {
+          "CensusPopulationK": 5400
+        }
+      },
+      "Burgher & Eurasian": {
+        "ethnicity": "Burgher & Eurasian",
+        "values": {
+          "CensusPopulationK": 41900
+        }
+      },
+      "Malay": {
+        "ethnicity": "Malay",
+        "values": {
+          "CensusPopulationK": 22500
+        }
+      }
+    },
+    "1953": {
+      "Sri Lanka": {
+        "ethnicity": "Sri Lanka",
+        "values": {
+          "CensusPopulationK": 8097900
+        }
+      },
+      "Low Country Sinhalese": {
+        "ethnicity": "Low Country Sinhalese",
+        "values": {
+          "CensusPopulationK": 3469500
+        }
+      },
+      "Up-country (Kandyan)  Sinhalese": {
+        "ethnicity": "Up-country (Kandyan)  Sinhalese",
+        "values": {
+          "CensusPopulationK": 2147200
+        }
+      },
+      "Sri Lanka Tamil": {
+        "ethnicity": "Sri Lanka Tamil",
+        "values": {
+          "CensusPopulationK": 884700
+        }
+      },
+      "Indian Tamil": {
+        "ethnicity": "Indian Tamil",
+        "values": {
+          "CensusPopulationK": 974100
+        }
+      },
+      "Sri Lanka Muslim": {
+        "ethnicity": "Sri Lanka Muslim",
+        "values": {
+          "CensusPopulationK": 464000
+        }
+      },
+      "Indian Muslim": {
+        "ethnicity": "Indian Muslim",
+        "values": {
+          "CensusPopulationK": 47500
+        }
+      },
+      "European": {
+        "ethnicity": "European",
+        "values": {
+          "CensusPopulationK": 6500
+        }
+      },
+      "Burgher & Eurasian": {
+        "ethnicity": "Burgher & Eurasian",
+        "values": {
+          "CensusPopulationK": 46000
+        }
+      },
+      "Malay": {
+        "ethnicity": "Malay",
+        "values": {
+          "CensusPopulationK": 25400
+        }
+      }
+    },
+    "1963": {
+      "Sri Lanka": {
+        "ethnicity": "Sri Lanka",
+        "values": {
+          "CensusPopulationK": 10582000
+        }
+      },
+      "Low Country Sinhalese": {
+        "ethnicity": "Low Country Sinhalese",
+        "values": {
+          "CensusPopulationK": 4470300
+        }
+      },
+      "Up-country (Kandyan)  Sinhalese": {
+        "ethnicity": "Up-country (Kandyan)  Sinhalese",
+        "values": {
+          "CensusPopulationK": 3042600
+        }
+      },
+      "Sri Lanka Tamil": {
+        "ethnicity": "Sri Lanka Tamil",
+        "values": {
+          "CensusPopulationK": 1164700
+        }
+      },
+      "Indian Tamil": {
+        "ethnicity": "Indian Tamil",
+        "values": {
+          "CensusPopulationK": 1123000
+        }
+      },
+      "Sri Lanka Muslim": {
+        "ethnicity": "Sri Lanka Muslim",
+        "values": {
+          "CensusPopulationK": 626800
+        }
+      },
+      "Indian Muslim": {
+        "ethnicity": "Indian Muslim",
+        "values": {
+          "CensusPopulationK": 55400
+        }
+      },
+      "European": {
+        "ethnicity": "European",
+        "values": {
+          "CensusPopulationK": 0
+        }
+      },
+      "Burgher & Eurasian": {
+        "ethnicity": "Burgher & Eurasian",
+        "values": {
+          "CensusPopulationK": 45900
+        }
+      },
+      "Malay": {
+        "ethnicity": "Malay",
+        "values": {
+          "CensusPopulationK": 33400
+        }
+      }
+    },
+    "1971": {
+      "Sri Lanka": {
+        "ethnicity": "Sri Lanka",
+        "values": {
+          "CensusPopulationK": 12689900
+        }
+      },
+      "Low Country Sinhalese": {
+        "ethnicity": "Low Country Sinhalese",
+        "values": {
+          "CensusPopulationK": 5425800
+        }
+      },
+      "Up-country (Kandyan)  Sinhalese": {
+        "ethnicity": "Up-country (Kandyan)  Sinhalese",
+        "values": {
+          "CensusPopulationK": 3705500
+        }
+      },
+      "Sri Lanka Tamil": {
+        "ethnicity": "Sri Lanka Tamil",
+        "values": {
+          "CensusPopulationK": 1424000
+        }
+      },
+      "Indian Tamil": {
+        "ethnicity": "Indian Tamil",
+        "values": {
+          "CensusPopulationK": 1174900
+        }
+      },
+      "Sri Lanka Muslim": {
+        "ethnicity": "Sri Lanka Muslim",
+        "values": {
+          "CensusPopulationK": 828300
+        }
+      },
+      "Indian Muslim": {
+        "ethnicity": "Indian Muslim",
+        "values": {
+          "CensusPopulationK": 27400
+        }
+      },
+      "European": {
+        "ethnicity": "European",
+        "values": {
+          "CensusPopulationK": 0
+        }
+      },
+      "Burgher & Eurasian": {
+        "ethnicity": "Burgher & Eurasian",
+        "values": {
+          "CensusPopulationK": 45400
+        }
+      },
+      "Malay": {
+        "ethnicity": "Malay",
+        "values": {
+          "CensusPopulationK": 43500
+        }
+      }
+    },
+    "1981": {
+      "Sri Lanka": {
+        "ethnicity": "Sri Lanka",
+        "values": {
+          "CensusPopulationK": 14846800
+        }
+      },
+      "Low Country Sinhalese": {
+        "ethnicity": "Low Country Sinhalese",
+        "values": {
+          "CensusPopulationK": 0
+        }
+      },
+      "Up-country (Kandyan)  Sinhalese": {
+        "ethnicity": "Up-country (Kandyan)  Sinhalese",
+        "values": {
+          "CensusPopulationK": 0
+        }
+      },
+      "Sri Lanka Tamil": {
+        "ethnicity": "Sri Lanka Tamil",
+        "values": {
+          "CensusPopulationK": 1886900
+        }
+      },
+      "Indian Tamil": {
+        "ethnicity": "Indian Tamil",
+        "values": {
+          "CensusPopulationK": 818700
+        }
+      },
+      "Sri Lanka Muslim": {
+        "ethnicity": "Sri Lanka Muslim",
+        "values": {
+          "CensusPopulationK": 1046900
+        }
+      },
+      "Indian Muslim": {
+        "ethnicity": "Indian Muslim",
+        "values": {
+          "CensusPopulationK": 0
+        }
+      },
+      "European": {
+        "ethnicity": "European",
+        "values": {
+          "CensusPopulationK": 0
+        }
+      },
+      "Burgher & Eurasian": {
+        "ethnicity": "Burgher & Eurasian",
+        "values": {
+          "CensusPopulationK": 39470
+        }
+      },
+      "Malay": {
+        "ethnicity": "Malay",
+        "values": {
+          "CensusPopulationK": 47000
+        }
+      }
+    },
+    "2001": {
+      "Sri Lanka": {
+        "ethnicity": "Sri Lanka",
+        "values": {
+          "CensusPopulationK": 16929700
+        }
+      },
+      "Low Country Sinhalese": {
+        "ethnicity": "Low Country Sinhalese",
+        "values": {
+          "CensusPopulationK": 0
+        }
+      },
+      "Up-country (Kandyan)  Sinhalese": {
+        "ethnicity": "Up-country (Kandyan)  Sinhalese",
+        "values": {
+          "CensusPopulationK": 0
+        }
+      },
+      "Sri Lanka Tamil": {
+        "ethnicity": "Sri Lanka Tamil",
+        "values": {
+          "CensusPopulationK": 732100
+        }
+      },
+      "Indian Tamil": {
+        "ethnicity": "Indian Tamil",
+        "values": {
+          "CensusPopulationK": 855000
+        }
+      },
+      "Sri Lanka Muslim": {
+        "ethnicity": "Sri Lanka Muslim",
+        "values": {
+          "CensusPopulationK": 1339300
+        }
+      },
+      "Indian Muslim": {
+        "ethnicity": "Indian Muslim",
+        "values": {
+          "CensusPopulationK": 0
+        }
+      },
+      "European": {
+        "ethnicity": "European",
+        "values": {
+          "CensusPopulationK": 0
+        }
+      },
+      "Burgher & Eurasian": {
+        "ethnicity": "Burgher & Eurasian",
+        "values": {
+          "CensusPopulationK": 35370
+        }
+      },
+      "Malay": {
+        "ethnicity": "Malay",
+        "values": {
+          "CensusPopulationK": 54800
+        }
+      }
+    },
+    "2012": {
+      "Sri Lanka": {
+        "ethnicity": "Sri Lanka",
+        "values": {
+          "CensusPopulationK": 20359400
+        }
+      },
+      "Low Country Sinhalese": {
+        "ethnicity": "Low Country Sinhalese",
+        "values": {
+          "CensusPopulationK": 0
+        }
+      },
+      "Up-country (Kandyan)  Sinhalese": {
+        "ethnicity": "Up-country (Kandyan)  Sinhalese",
+        "values": {
+          "CensusPopulationK": 0
+        }
+      },
+      "Sri Lanka Tamil": {
+        "ethnicity": "Sri Lanka Tamil",
+        "values": {
+          "CensusPopulationK": 2269100
+        }
+      },
+      "Indian Tamil": {
+        "ethnicity": "Indian Tamil",
+        "values": {
+          "CensusPopulationK": 839500
+        }
+      },
+      "Sri Lanka Muslim": {
+        "ethnicity": "Sri Lanka Muslim",
+        "values": {
+          "CensusPopulationK": 1892600
+        }
+      },
+      "Indian Muslim": {
+        "ethnicity": "Indian Muslim",
+        "values": {
+          "CensusPopulationK": 0
+        }
+      },
+      "European": {
+        "ethnicity": "European",
+        "values": {
+          "CensusPopulationK": 0
+        }
+      },
+      "Burgher & Eurasian": {
+        "ethnicity": "Burgher & Eurasian",
+        "values": {
+          "CensusPopulationK": 38270
+        }
+      },
+      "Malay": {
+        "ethnicity": "Malay",
+        "values": {
+          "CensusPopulationK": 44100
+        }
+      }
+    },
+    "2024": {
+      "Sri Lanka": {
+        "ethnicity": "Sri Lanka",
+        "values": {
+          "CensusPopulationK": 21781800
+        }
+      },
+      "Low Country Sinhalese": {
+        "ethnicity": "Low Country Sinhalese",
+        "values": {
+          "CensusPopulationK": 0
+        }
+      },
+      "Up-country (Kandyan)  Sinhalese": {
+        "ethnicity": "Up-country (Kandyan)  Sinhalese",
+        "values": {
+          "CensusPopulationK": 0
+        }
+      },
+      "Sri Lanka Tamil": {
+        "ethnicity": "Sri Lanka Tamil",
+        "values": {
+          "CensusPopulationK": 2681600
+        }
+      },
+      "Indian Tamil": {
+        "ethnicity": "Indian Tamil",
+        "values": {
+          "CensusPopulationK": 0
+        }
+      },
+      "Sri Lanka Muslim": {
+        "ethnicity": "Sri Lanka Muslim",
+        "values": {
+          "CensusPopulationK": 2283200
+        }
+      },
+      "Indian Muslim": {
+        "ethnicity": "Indian Muslim",
+        "values": {
+          "CensusPopulationK": 0
+        }
+      },
+      "European": {
+        "ethnicity": "European",
+        "values": {
+          "CensusPopulationK": 0
+        }
+      },
+      "Burgher & Eurasian": {
+        "ethnicity": "Burgher & Eurasian",
+        "values": {
+          "CensusPopulationK": 31770
+        }
+      },
+      "Malay": {
+        "ethnicity": "Malay",
+        "values": {
+          "CensusPopulationK": 26600
+        }
+      }
+    }
+  }
+}

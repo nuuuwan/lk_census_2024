@@ -162,7 +162,8 @@ class FinalReportLankaDataMixin(FinalReportLankaMetaDataMixin):
             when_label = self._get_when_for_key(k)
             if when_label not in idx:
                 idx[when_label] = dict(values={})
-            idx[when_label]["values"][k] = v
+            unwhen_k = k.replace("_" + when_label, "")
+            idx[when_label]["values"][unwhen_k] = v
         return idx
 
     def _get_non_values(self, data):
