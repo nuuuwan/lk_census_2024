@@ -31,27 +31,35 @@ class FinalReportLankaDataMixin(FinalReportLankaMetaDataMixin):
                 k: round(v / total_value, 4) for k, v in values.items()
             }
             data["total_value"] = total_value
+            if self.total_description:
+                data["total_description"] = self.total_description
             data["pct_values"] = pct_values
             return data
 
         if self.is_all_pct_values:
             pct_values = {}
             for k, v in data["values"].items():
+                assert k.startswith("p_")
+                k = k[2:]
                 pct_values[String(k).pascal] = v
             pct_values = dict(
-                sorted(values.items(), key=lambda item: -item[1])
+                sorted(pct_values.items(), key=lambda item: -item[1])
             )
             total_value = data["total_value"]
 
             values = {
-                k: round(v * total_value, 4) for k, v in pct_values.items()
+                k: int(round(v * total_value, 0))
+                for k, v in pct_values.items()
             }
-            _rounding_error = total_value - sum(values.values())
-            if _rounding_error != 0:
-                values["_rounding_error"] = _rounding_error
+            if self.is_summable:
+                _rounding_error = total_value - sum(values.values())
+                if _rounding_error != 0:
+                    values["_rounding_error"] = _rounding_error
 
             data["values"] = values
             data["total_value"] = total_value
+            if self.total_description:
+                data["total_description"] = self.total_description
             data["pct_values"] = pct_values
 
             return data
@@ -101,22 +109,12 @@ class FinalReportLankaDataMixin(FinalReportLankaMetaDataMixin):
             log.warning("No values. Skipping")
             return False
 
-        if not self.is_all_not_pct_values or not self.is_all_pct_values:
+        if not (self.is_all_not_pct_values or self.is_all_pct_values):
             log.warning(
                 "Values mixed between percentage & non-percentage. Skipping"
             )
             return False
 
-        if not self.what_label:
-            return False
-
-        if "Population" in self.what_label:
-            log.warning("Found 'Population' in what_label. Skipping")
-            return False
-
-        if "Housing" in self.what_label:
-            log.warning("Found 'Housing' in what_label. Skipping")
-            return False
         return True
 
     def get_lanka_data_for_regions(self):

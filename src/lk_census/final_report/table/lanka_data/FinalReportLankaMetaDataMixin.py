@@ -1,7 +1,9 @@
 import os
 from functools import cached_property
 
-from utils_future import JSONFile
+from utils_future import JSONFile, Log
+
+log = Log("FinalReportLankaMetaDataMixin")
 
 
 class FinalReportLankaMetaDataMixin:
@@ -35,4 +37,16 @@ class FinalReportLankaMetaDataMixin:
 
     @property
     def is_lanka_data_metadata_complete(self):
+        if not self.what_label:
+            log.warning("Missing or invalid what_label")
+            return False
+
+        if "Population" in self.what_label:
+            log.warning("Found 'Population' in what_label. Skipping")
+            return False
+
+        if "Housing" in self.what_label:
+            log.warning("Found 'Housing' in what_label. Skipping")
+            return False
+
         return self.what_label is not None

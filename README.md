@@ -1,7 +1,7 @@
 # 🇱🇰 Sri Lanka - Census of Population and Housing 2024
 
 ![CPH](https://img.shields.io/badge/CPH-2024-blue)
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--07--14_12:15:38-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--07--14_12:35:53-green)
 
 **154** Datasets on Population, Housing and more, by Country, Province, District, Divisional Secretariat Division (DSD), Grama Niladhari Division (GND), Electoral District (ED), Polling Division (PD), and Local Government Authority (LG) levels.
 
@@ -614,8 +614,8 @@
 | status | status_label | n |
 | :-- | :-- | --: |
 | 2 | 🔴 Raw data is difficult to parse | 21 |
-| 4 | 🟡 Lanka data is missing | 113 |
-| 5 | ✅ All Stages Complete | 8 |
+| 4 | 🟡 Lanka data is missing | 112 |
+| 5 | ✅ All Stages Complete | 9 |
 
 ## 13. [Officers who have  Assigned for Census of Population and Housing 2024 Activities](data/final-report-tables/chapter-1/1.1.1-Officers-who-have--Assigned-for-Census-of-Population-and-Housing-2024-Activities)
 
@@ -3324,36 +3324,42 @@ ntroduction |  |
 
 ## 88. [Language Literacy Rate by Language and District, 2024](data/final-report-tables/chapter-7/7.10-Language-Literacy-Rate-by-Language-and-District,-2024)
 
-*Build Status (**4**/5) 🟡 Lanka data is missing*
+*Build Status (**5**/5) ✅ All Stages Complete*
 
-### Data Table (first 10 of 25 rows)
-
-| Region Id | Region Name | Region Ent Type | P Literacy At Least One Language | P Literacy Sinhala | P Literacy Tamil | P Literacy English | Total Value |
-| :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- |
-| LK-11 | Colombo | district | 0.986 | 0.941 | 0.415 | 0.742 | 2139371 |
-| LK-12 | Gampaha | district | 0.989 | 0.971 | 0.329 | 0.672 | 2169227 |
-| LK-13 | Kalutara | district | 0.985 | 0.96 | 0.366 | 0.625 | 1151651 |
-| LK-21 | Kandy | district | 0.975 | 0.909 | 0.501 | 0.648 | 1275003 |
-| LK-22 | Matale | district | 0.967 | 0.914 | 0.424 | 0.548 | 456498 |
-| LK-23 | Nuwara Eliya | district | 0.936 | 0.595 | 0.68 | 0.471 | 623842 |
-| LK-31 | Galle | district | 0.978 | 0.97 | 0.298 | 0.594 | 962957 |
-| LK-32 | Matara | district | 0.971 | 0.961 | 0.281 | 0.553 | 732282 |
-| LK-33 | Hambantota | district | 0.972 | 0.968 | 0.288 | 0.52 | 577879 |
-| LK-41 | Jaffna | district | 0.983 | 0.171 | 0.979 | 0.41 | 520973 |
-
-### Example Data Row (JSON)
+### Lanka Data (first 30 of 494 lines)
 
 ```json
 {
-    "Region Id": "LK-11",
-    "Region Name": "Colombo",
-    "Region Ent Type": "district",
-    "P Literacy At Least One Language": 0.986,
-    "P Literacy Sinhala": 0.941,
-    "P Literacy Tamil": 0.415,
-    "P Literacy English": 0.742,
-    "Total Value": 2139371
-}
+    "_meta": {
+        "source_url": "https://www.statistics.gov.lk/Resource/en/Population/CPH_2024/CPH2024_Final_Eng.pdf#page=157",
+        "source_description": [
+            "Table 7.10, Final Report, 2024 Census of Population and Housing, Department of Census and Statistics, Sri Lanka"
+        ],
+        "what": {
+            "LanguageLiteracy": "Language Literacy Rate by Language and District, 2024"
+        },
+        "when": "2024",
+        "where_types": [
+            "district"
+        ]
+    },
+    "LanguageLiteracy": {
+        "2024": {
+            "LK-11": {
+                "region_id": "LK-11",
+                "region_name": "Colombo",
+                "region_ent_type": "district",
+                "values": {
+                    "LiteracyAtLeastOneLanguage": 2109420,
+                    "LiteracySinhala": 2013148,
+                    "LiteracyEnglish": 1587413,
+                    "LiteracyTamil": 887839
+                },
+                "total_value": 2139371,
+                "total_description": "Population aged 10 and over",
+                "pct_values": {
+                    "LiteracyAtLeastOneLanguage": 0.986,
+...
 ```
 
 ### Source
