@@ -55,6 +55,8 @@ class ReadMeFinalReportMixin:
         lines = [
             f"## Datasets from Final Report (**{n:,}**)",
             "",
+            "*Smaller tables spanning a wide range of topics.*",
+            "",
         ]
 
         idx = self._group_by_chapter(final_report_table_list)
