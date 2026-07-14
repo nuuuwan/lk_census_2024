@@ -49,20 +49,22 @@ class FinalReportLankaDataMixin(FinalReportLankaMetaDataMixin):
         pct_values = dict(
             sorted(pct_values.items(), key=lambda item: -item[1])
         )
-        total_value = data["total_value"]
-
-        values = {
-            k: int(round(v * total_value, 0)) for k, v in pct_values.items()
-        }
-        if self.is_summable:
-            _rounding_error = total_value - sum(values.values())
-            if _rounding_error != 0:
-                values["_rounding_error"] = _rounding_error
-
-        data["values"] = values
-        data["total_value"] = total_value
-        if self.total_description:
-            data["total_description"] = self.total_description
+        total_value = data.get("total_value")
+        if total_value:
+            values = {
+                k: int(round(v * total_value, 0))
+                for k, v in pct_values.items()
+            }
+            if self.is_summable:
+                _rounding_error = total_value - sum(values.values())
+                if _rounding_error != 0:
+                    values["_rounding_error"] = _rounding_error
+            data["values"] = values
+            data["total_value"] = total_value
+            if self.total_description:
+                data["total_description"] = self.total_description
+        else:
+            del data["values"]
         data["pct_values"] = pct_values
 
         return data
