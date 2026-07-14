@@ -25,8 +25,6 @@ class ReadMeFinalReportMixin:
     ):
         assert final_report_table.original_pdf_image_file.exists
         lines = [
-            "*🔴 Table was detected in PDF, but not parsed into textual data.*",
-            "",
             "### Original Table",
             "",
             f"![{final_report_table.table_id}]"
@@ -53,9 +51,6 @@ class ReadMeFinalReportMixin:
         ]
         lines.extend(
             [
-                "*🟠 Raw Text Data was extracted from PDF,"
-                + " but not parsed into structured data.*",
-                "",
                 "### Raw Data (first 10 rows)",
                 "",
             ]
@@ -82,10 +77,6 @@ class ReadMeFinalReportMixin:
         ]
         lines.extend(
             [
-                "*🟡 Raw Text Data was extracted from PDF,"
-                + " but not parsed into structured data,"
-                + " because the table data format is complicated.*",
-                "",
                 "### Raw Data (first 10 rows)",
                 "",
             ]
@@ -113,8 +104,6 @@ class ReadMeFinalReportMixin:
         lines = []
         lines.extend(
             [
-                "*🟢 Structured Data was extracted from PDF.*",
-                "",
                 f"### {title}",
                 "",
             ]
@@ -161,9 +150,14 @@ class ReadMeFinalReportMixin:
         )
 
     def get_lines_for_final_report_table(self, i_dataset, final_report_table):
+        description = FinalReportTable.STATUS_LABELS[
+            final_report_table.build_status
+        ]
         lines = [
             f"## {i_dataset}. [{final_report_table.table_name}]"
             + f"({final_report_table.dir_data})",
+            "",
+            f"*{final_report_table.build_status}" + f" - {description}*",
             "",
         ]
         lines.extend(
