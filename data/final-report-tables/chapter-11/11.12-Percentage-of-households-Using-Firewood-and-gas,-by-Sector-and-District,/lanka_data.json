@@ -1,0 +1,472 @@
+{
+  "_meta": {
+    "source_url": "https://www.statistics.gov.lk/Resource/en/Population/CPH_2024/CPH2024_Final_Eng.pdf#page=211",
+    "source_description": "Table 11.12, Final Report, 2024 Census of Population and Housing, Department of Census and Statistics, Sri Lanka",
+    "what": {
+      "HouseholdEnergyFirewoodAndGas": "Percentage of households Using Firewood and gas, by Sector and District,"
+    },
+    "when": [
+      "2012",
+      "2024"
+    ],
+    "where_who_types": [
+      "district"
+    ]
+  },
+  "HouseholdEnergyFirewoodAndGas": {
+    "2012": {
+      "LK-11": {
+        "region_id": "LK-11",
+        "region_name": "Colombo",
+        "region_ent_type": "district",
+        "pct_values": {
+          "Gas": 0.605,
+          "Firewood": 0.288
+        }
+      },
+      "LK-12": {
+        "region_id": "LK-12",
+        "region_name": "Gampaha",
+        "region_ent_type": "district",
+        "pct_values": {
+          "Firewood": 0.625,
+          "Gas": 0.31
+        }
+      },
+      "LK-13": {
+        "region_id": "LK-13",
+        "region_name": "Kalutara",
+        "region_ent_type": "district",
+        "pct_values": {
+          "Firewood": 0.771,
+          "Gas": 0.212
+        }
+      },
+      "LK-21": {
+        "region_id": "LK-21",
+        "region_name": "Kandy",
+        "region_ent_type": "district",
+        "pct_values": {
+          "Firewood": 0.808,
+          "Gas": 0.178
+        }
+      },
+      "LK-22": {
+        "region_id": "LK-22",
+        "region_name": "Matale",
+        "region_ent_type": "district",
+        "pct_values": {
+          "Firewood": 0.909,
+          "Gas": 0.084
+        }
+      },
+      "LK-23": {
+        "region_id": "LK-23",
+        "region_name": "Nuwara Eliya",
+        "region_ent_type": "district",
+        "pct_values": {
+          "Firewood": 0.865,
+          "Gas": 0.112
+        }
+      },
+      "LK-31": {
+        "region_id": "LK-31",
+        "region_name": "Galle",
+        "region_ent_type": "district",
+        "pct_values": {
+          "Firewood": 0.836,
+          "Gas": 0.154
+        }
+      },
+      "LK-32": {
+        "region_id": "LK-32",
+        "region_name": "Matara",
+        "region_ent_type": "district",
+        "pct_values": {
+          "Firewood": 0.867,
+          "Gas": 0.126
+        }
+      },
+      "LK-33": {
+        "region_id": "LK-33",
+        "region_name": "Hambantota",
+        "region_ent_type": "district",
+        "pct_values": {
+          "Firewood": 0.93,
+          "Gas": 0.065
+        }
+      },
+      "LK-41": {
+        "region_id": "LK-41",
+        "region_name": "Jaffna",
+        "region_ent_type": "district",
+        "pct_values": {
+          "Firewood": 0.907,
+          "Gas": 0.052
+        }
+      },
+      "LK-42": {
+        "region_id": "LK-42",
+        "region_name": "Mannar",
+        "region_ent_type": "district",
+        "pct_values": {
+          "Firewood": 0.885,
+          "Gas": 0.085
+        }
+      },
+      "LK-43": {
+        "region_id": "LK-43",
+        "region_name": "Vavuniya",
+        "region_ent_type": "district",
+        "pct_values": {
+          "Firewood": 0.83,
+          "Gas": 0.127
+        }
+      },
+      "LK-44": {
+        "region_id": "LK-44",
+        "region_name": "Mullaitivu",
+        "region_ent_type": "district",
+        "pct_values": {
+          "Firewood": 0.975,
+          "Gas": 0.006
+        }
+      },
+      "LK-45": {
+        "region_id": "LK-45",
+        "region_name": "Kilinochchi",
+        "region_ent_type": "district",
+        "pct_values": {
+          "Firewood": 0.968,
+          "Gas": 0.007
+        }
+      },
+      "LK-51": {
+        "region_id": "LK-51",
+        "region_name": "Batticaloa",
+        "region_ent_type": "district",
+        "pct_values": {
+          "Firewood": 0.746,
+          "Gas": 0.203
+        }
+      },
+      "LK-52": {
+        "region_id": "LK-52",
+        "region_name": "Ampara",
+        "region_ent_type": "district",
+        "pct_values": {
+          "Firewood": 0.774,
+          "Gas": 0.165
+        }
+      },
+      "LK-53": {
+        "region_id": "LK-53",
+        "region_name": "Trincomalee",
+        "region_ent_type": "district",
+        "pct_values": {
+          "Firewood": 0.824,
+          "Gas": 0.138
+        }
+      },
+      "LK-61": {
+        "region_id": "LK-61",
+        "region_name": "Kurunegala",
+        "region_ent_type": "district",
+        "pct_values": {
+          "Firewood": 0.944,
+          "Gas": 0.052
+        }
+      },
+      "LK-62": {
+        "region_id": "LK-62",
+        "region_name": "Puttalam",
+        "region_ent_type": "district",
+        "pct_values": {
+          "Firewood": 0.874,
+          "Gas": 0.106
+        }
+      },
+      "LK-71": {
+        "region_id": "LK-71",
+        "region_name": "Anuradhapura",
+        "region_ent_type": "district",
+        "pct_values": {
+          "Firewood": 0.919,
+          "Gas": 0.076
+        }
+      },
+      "LK-72": {
+        "region_id": "LK-72",
+        "region_name": "Polonnaruwa",
+        "region_ent_type": "district",
+        "pct_values": {
+          "Firewood": 0.937,
+          "Gas": 0.057
+        }
+      },
+      "LK-81": {
+        "region_id": "LK-81",
+        "region_name": "Badulla",
+        "region_ent_type": "district",
+        "pct_values": {
+          "Firewood": 0.915,
+          "Gas": 0.077
+        }
+      },
+      "LK-82": {
+        "region_id": "LK-82",
+        "region_name": "Monaragala",
+        "region_ent_type": "district",
+        "pct_values": {
+          "Firewood": 0.962,
+          "Gas": 0.032
+        }
+      },
+      "LK-91": {
+        "region_id": "LK-91",
+        "region_name": "Ratnapura",
+        "region_ent_type": "district",
+        "pct_values": {
+          "Firewood": 0.927,
+          "Gas": 0.067
+        }
+      },
+      "LK-92": {
+        "region_id": "LK-92",
+        "region_name": "Kegalle",
+        "region_ent_type": "district",
+        "pct_values": {
+          "Firewood": 0.927,
+          "Gas": 0.068
+        }
+      }
+    },
+    "2024": {
+      "LK-11": {
+        "region_id": "LK-11",
+        "region_name": "Colombo",
+        "region_ent_type": "district",
+        "pct_values": {
+          "Gas": 0.855,
+          "Firewood": 0.099
+        }
+      },
+      "LK-12": {
+        "region_id": "LK-12",
+        "region_name": "Gampaha",
+        "region_ent_type": "district",
+        "pct_values": {
+          "Gas": 0.639,
+          "Firewood": 0.318
+        }
+      },
+      "LK-13": {
+        "region_id": "LK-13",
+        "region_name": "Kalutara",
+        "region_ent_type": "district",
+        "pct_values": {
+          "Gas": 0.559,
+          "Firewood": 0.424
+        }
+      },
+      "LK-21": {
+        "region_id": "LK-21",
+        "region_name": "Kandy",
+        "region_ent_type": "district",
+        "pct_values": {
+          "Firewood": 0.583,
+          "Gas": 0.403
+        }
+      },
+      "LK-22": {
+        "region_id": "LK-22",
+        "region_name": "Matale",
+        "region_ent_type": "district",
+        "pct_values": {
+          "Firewood": 0.755,
+          "Gas": 0.235
+        }
+      },
+      "LK-23": {
+        "region_id": "LK-23",
+        "region_name": "Nuwara Eliya",
+        "region_ent_type": "district",
+        "pct_values": {
+          "Firewood": 0.719,
+          "Gas": 0.266
+        }
+      },
+      "LK-31": {
+        "region_id": "LK-31",
+        "region_name": "Galle",
+        "region_ent_type": "district",
+        "pct_values": {
+          "Firewood": 0.521,
+          "Gas": 0.461
+        }
+      },
+      "LK-32": {
+        "region_id": "LK-32",
+        "region_name": "Matara",
+        "region_ent_type": "district",
+        "pct_values": {
+          "Firewood": 0.61,
+          "Gas": 0.374
+        }
+      },
+      "LK-33": {
+        "region_id": "LK-33",
+        "region_name": "Hambantota",
+        "region_ent_type": "district",
+        "pct_values": {
+          "Firewood": 0.724,
+          "Gas": 0.263
+        }
+      },
+      "LK-41": {
+        "region_id": "LK-41",
+        "region_name": "Jaffna",
+        "region_ent_type": "district",
+        "pct_values": {
+          "Firewood": 0.547,
+          "Gas": 0.423
+        }
+      },
+      "LK-42": {
+        "region_id": "LK-42",
+        "region_name": "Mannar",
+        "region_ent_type": "district",
+        "pct_values": {
+          "Firewood": 0.559,
+          "Gas": 0.411
+        }
+      },
+      "LK-43": {
+        "region_id": "LK-43",
+        "region_name": "Vavuniya",
+        "region_ent_type": "district",
+        "pct_values": {
+          "Firewood": 0.565,
+          "Gas": 0.419
+        }
+      },
+      "LK-44": {
+        "region_id": "LK-44",
+        "region_name": "Mullaitivu",
+        "region_ent_type": "district",
+        "pct_values": {
+          "Firewood": 0.738,
+          "Gas": 0.245
+        }
+      },
+      "LK-45": {
+        "region_id": "LK-45",
+        "region_name": "Kilinochchi",
+        "region_ent_type": "district",
+        "pct_values": {
+          "Firewood": 0.773,
+          "Gas": 0.212
+        }
+      },
+      "LK-51": {
+        "region_id": "LK-51",
+        "region_name": "Batticaloa",
+        "region_ent_type": "district",
+        "pct_values": {
+          "Gas": 0.545,
+          "Firewood": 0.428
+        }
+      },
+      "LK-52": {
+        "region_id": "LK-52",
+        "region_name": "Ampara",
+        "region_ent_type": "district",
+        "pct_values": {
+          "Gas": 0.487,
+          "Firewood": 0.483
+        }
+      },
+      "LK-53": {
+        "region_id": "LK-53",
+        "region_name": "Trincomalee",
+        "region_ent_type": "district",
+        "pct_values": {
+          "Firewood": 0.489,
+          "Gas": 0.479
+        }
+      },
+      "LK-61": {
+        "region_id": "LK-61",
+        "region_name": "Kurunegala",
+        "region_ent_type": "district",
+        "pct_values": {
+          "Firewood": 0.772,
+          "Gas": 0.213
+        }
+      },
+      "LK-62": {
+        "region_id": "LK-62",
+        "region_name": "Puttalam",
+        "region_ent_type": "district",
+        "pct_values": {
+          "Firewood": 0.6,
+          "Gas": 0.373
+        }
+      },
+      "LK-71": {
+        "region_id": "LK-71",
+        "region_name": "Anuradhapura",
+        "region_ent_type": "district",
+        "pct_values": {
+          "Firewood": 0.749,
+          "Gas": 0.24
+        }
+      },
+      "LK-72": {
+        "region_id": "LK-72",
+        "region_name": "Polonnaruwa",
+        "region_ent_type": "district",
+        "pct_values": {
+          "Firewood": 0.776,
+          "Gas": 0.212
+        }
+      },
+      "LK-81": {
+        "region_id": "LK-81",
+        "region_name": "Badulla",
+        "region_ent_type": "district",
+        "pct_values": {
+          "Firewood": 0.806,
+          "Gas": 0.184
+        }
+      },
+      "LK-82": {
+        "region_id": "LK-82",
+        "region_name": "Monaragala",
+        "region_ent_type": "district",
+        "pct_values": {
+          "Firewood": 0.836,
+          "Gas": 0.153
+        }
+      },
+      "LK-91": {
+        "region_id": "LK-91",
+        "region_name": "Ratnapura",
+        "region_ent_type": "district",
+        "pct_values": {
+          "Firewood": 0.781,
+          "Gas": 0.208
+        }
+      },
+      "LK-92": {
+        "region_id": "LK-92",
+        "region_name": "Kegalle",
+        "region_ent_type": "district",
+        "pct_values": {
+          "Firewood": 0.729,
+          "Gas": 0.26
+        }
+      }
+    }
+  }
+}

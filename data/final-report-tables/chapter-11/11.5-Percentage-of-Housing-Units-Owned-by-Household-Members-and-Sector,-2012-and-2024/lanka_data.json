@@ -1,0 +1,70 @@
+{
+  "_meta": {
+    "source_url": "https://www.statistics.gov.lk/Resource/en/Population/CPH_2024/CPH2024_Final_Eng.pdf#page=205",
+    "source_description": "Table 11.5, Final Report, 2024 Census of Population and Housing, Department of Census and Statistics, Sri Lanka",
+    "what": {
+      "PercentageHouseholdsMemberOwned": "Percentage of Housing Units Owned by Household Members and Sector, 2012 and 2024"
+    },
+    "when": [
+      "2012",
+      "2024"
+    ],
+    "where_who_types": [
+      "sector"
+    ]
+  },
+  "PercentageHouseholdsMemberOwned": {
+    "2012": {
+      "Sri Lanka": {
+        "sector": "Sri Lanka",
+        "pct_values": {
+          "HouseholdsOwnedByMembers": 0.829
+        }
+      },
+      "Urban*": {
+        "sector": "Urban*",
+        "pct_values": {
+          "HouseholdsOwnedByMembers": 0.75
+        }
+      },
+      "Rural": {
+        "sector": "Rural",
+        "pct_values": {
+          "HouseholdsOwnedByMembers": 0.88
+        }
+      },
+      "Estate- Rural**": {
+        "sector": "Estate- Rural**",
+        "pct_values": {
+          "HouseholdsOwnedByMembers": 0.222
+        }
+      }
+    },
+    "2024": {
+      "Sri Lanka": {
+        "sector": "Sri Lanka",
+        "pct_values": {
+          "HouseholdsOwnedByMembers": 0.846
+        }
+      },
+      "Urban*": {
+        "sector": "Urban*",
+        "pct_values": {
+          "HouseholdsOwnedByMembers": 0.769
+        }
+      },
+      "Rural": {
+        "sector": "Rural",
+        "pct_values": {
+          "HouseholdsOwnedByMembers": 0.89
+        }
+      },
+      "Estate- Rural**": {
+        "sector": "Estate- Rural**",
+        "pct_values": {
+          "HouseholdsOwnedByMembers": 0.295
+        }
+      }
+    }
+  }
+}
