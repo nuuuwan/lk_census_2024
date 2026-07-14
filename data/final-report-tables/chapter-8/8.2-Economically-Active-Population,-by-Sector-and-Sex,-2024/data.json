@@ -2,32 +2,32 @@
   {
     "sector": "Urban",
     "values": {
-      "economically_active": 943483,
-      "economically_inactive": 438711
+      "male": 943483,
+      "female": 438711
     },
     "total_value": 1382194
   },
   {
     "sector": "Estate - Urban",
     "values": {
-      "economically_active": 3176,
-      "economically_inactive": 1689
+      "male": 3176,
+      "female": 1689
     },
     "total_value": 4865
   },
   {
     "sector": "Rural",
     "values": {
-      "economically_active": 4395189,
-      "economically_inactive": 2046141
+      "male": 4395189,
+      "female": 2046141
     },
     "total_value": 6441330
   },
   {
     "sector": "Estate - Rural",
     "values": {
-      "economically_active": 208526,
-      "economically_inactive": 126026
+      "male": 208526,
+      "female": 126026
     },
     "total_value": 334552
   }

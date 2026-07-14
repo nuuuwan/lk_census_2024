@@ -1,0 +1,43 @@
+{
+  "_meta": {
+    "source_url": "https://www.statistics.gov.lk/Resource/en/Population/CPH_2024/CPH2024_Final_Eng.pdf#page=163",
+    "source_description": [
+      "Table 8.1, Final Report, 2024 Census of Population and Housing, Department of Census and Statistics, Sri Lanka"
+    ],
+    "what": {
+      "EconomicActivityBySex": "Economically Active and Inactive Population by Sex, 2024"
+    },
+    "when": "2024",
+    "where_who_types": [
+      "sex"
+    ]
+  },
+  "EconomicActivityBySex": {
+    "2024": {
+      "Male": {
+        "sex": "Male",
+        "values": {
+          "EconomicallyActive": 5550374,
+          "EconomicallyInactive": 2681440
+        },
+        "total_value": 8231814,
+        "pct_values": {
+          "EconomicallyActive": 0.6743,
+          "EconomicallyInactive": 0.3257
+        }
+      },
+      "Female": {
+        "sex": "Female",
+        "values": {
+          "EconomicallyInactive": 6430580,
+          "EconomicallyActive": 2612567
+        },
+        "total_value": 9043147,
+        "pct_values": {
+          "EconomicallyInactive": 0.7111,
+          "EconomicallyActive": 0.2889
+        }
+      }
+    }
+  }
+}

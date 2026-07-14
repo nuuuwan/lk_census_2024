@@ -1,7 +1,7 @@
 # 🇱🇰 Sri Lanka - Census of Population and Housing 2024
 
 ![CPH](https://img.shields.io/badge/CPH-2024-blue)
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--07--14_14:18:52-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--07--14_14:20:32-green)
 
 **154** Datasets on Population, Housing and more, by Country, Province, District, Divisional Secretariat Division (DSD), Grama Niladhari Division (GND), Electoral District (ED), Polling Division (PD), and Local Government Authority (LG) levels.
 
@@ -614,8 +614,8 @@
 | status | status_label | n |
 | :-- | :-- | --: |
 | 2 | 🔴 Raw data is difficult to parse | 21 |
-| 4 | 🟡 Lanka data is missing | 97 |
-| 5 | ✅ All Stages Complete | 24 |
+| 4 | 🟡 Lanka data is missing | 96 |
+| 5 | ✅ All Stages Complete | 25 |
 
 ## 13. [Officers who have  Assigned for Census of Population and Housing 2024 Activities](data/final-report-tables/chapter-1/1.1.1-Officers-who-have--Assigned-for-Census-of-Population-and-Housing-2024-Activities)
 
@@ -3609,24 +3609,42 @@ ntroduction |  |
 
 ## 93. [Economically Active and Inactive Population by Sex, 2024](data/final-report-tables/chapter-8/8.1-Economically-Active-and-Inactive-Population-by-Sex,-2024)
 
-*Build Status (**4**/5) 🟡 Lanka data is missing*
+*Build Status (**5**/5) ✅ All Stages Complete*
 
-### Data Table
-
-| Sex | Economically Active | Economically Inactive | Total Value |
-| :-- | :-- | :-- | :-- |
-| Male | 5550374 | 2681440 | 8231814 |
-| Female | 2612567 | 6430580 | 9043147 |
-
-### Example Data Row (JSON)
+### Lanka Data (first 30 of 43 lines)
 
 ```json
 {
-    "Sex": "Male",
-    "Economically Active": 5550374,
-    "Economically Inactive": 2681440,
-    "Total Value": 8231814
-}
+    "_meta": {
+        "source_url": "https://www.statistics.gov.lk/Resource/en/Population/CPH_2024/CPH2024_Final_Eng.pdf#page=163",
+        "source_description": [
+            "Table 8.1, Final Report, 2024 Census of Population and Housing, Department of Census and Statistics, Sri Lanka"
+        ],
+        "what": {
+            "EconomicActivityBySex": "Economically Active and Inactive Population by Sex, 2024"
+        },
+        "when": "2024",
+        "where_who_types": [
+            "sex"
+        ]
+    },
+    "EconomicActivityBySex": {
+        "2024": {
+            "Male": {
+                "sex": "Male",
+                "values": {
+                    "EconomicallyActive": 5550374,
+                    "EconomicallyInactive": 2681440
+                },
+                "total_value": 8231814,
+                "pct_values": {
+                    "EconomicallyActive": 0.6743,
+                    "EconomicallyInactive": 0.3257
+                }
+            },
+            "Female": {
+                "sex": "Female",
+...
 ```
 
 ### Source
@@ -3639,7 +3657,7 @@ ntroduction |  |
 
 ### Data Table
 
-| Sector | Economically Active | Economically Inactive | Total Value |
+| Sector | Male | Female | Total Value |
 | :-- | :-- | :-- | :-- |
 | Urban | 943483 | 438711 | 1382194 |
 | Estate - Urban | 3176 | 1689 | 4865 |
@@ -3651,8 +3669,8 @@ ntroduction |  |
 ```json
 {
     "Sector": "Urban",
-    "Economically Active": 943483,
-    "Economically Inactive": 438711,
+    "Male": 943483,
+    "Female": 438711,
     "Total Value": 1382194
 }
 ```
