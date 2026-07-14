@@ -25,7 +25,7 @@ class FinalReportLankaMetaDataMixin:
         what_label = self.lanka_data_metadata.get("what_label")
         if not what_label or what_label.strip() == "":
             return None
-        if " " in what_label or len(what_label) > 32:
+        if " " in what_label or len(what_label) > 40:
             return None
         return what_label
 
