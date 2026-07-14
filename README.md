@@ -1,7 +1,7 @@
 # 🇱🇰 Sri Lanka - Census of Population and Housing 2024
 
 ![CPH](https://img.shields.io/badge/CPH-2024-blue)
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--07--14_12:04:23-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--07--14_12:15:38-green)
 
 **154** Datasets on Population, Housing and more, by Country, Province, District, Divisional Secretariat Division (DSD), Grama Niladhari Division (GND), Electoral District (ED), Polling Division (PD), and Local Government Authority (LG) levels.
 
@@ -3328,18 +3328,18 @@ ntroduction |  |
 
 ### Data Table (first 10 of 25 rows)
 
-| Region Id | Region Name | Region Ent Type | Population 10 And Over | P Literacy At Least One Language | P Literacy Sinhala | P Literacy Tamil | P Literacy English |
+| Region Id | Region Name | Region Ent Type | P Literacy At Least One Language | P Literacy Sinhala | P Literacy Tamil | P Literacy English | Total Value |
 | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- |
-| LK-11 | Colombo | district | 2139371 | 0.986 | 0.941 | 0.415 | 0.742 |
-| LK-12 | Gampaha | district | 2169227 | 0.989 | 0.971 | 0.329 | 0.672 |
-| LK-13 | Kalutara | district | 1151651 | 0.985 | 0.96 | 0.366 | 0.625 |
-| LK-21 | Kandy | district | 1275003 | 0.975 | 0.909 | 0.501 | 0.648 |
-| LK-22 | Matale | district | 456498 | 0.967 | 0.914 | 0.424 | 0.548 |
-| LK-23 | Nuwara Eliya | district | 623842 | 0.936 | 0.595 | 0.68 | 0.471 |
-| LK-31 | Galle | district | 962957 | 0.978 | 0.97 | 0.298 | 0.594 |
-| LK-32 | Matara | district | 732282 | 0.971 | 0.961 | 0.281 | 0.553 |
-| LK-33 | Hambantota | district | 577879 | 0.972 | 0.968 | 0.288 | 0.52 |
-| LK-41 | Jaffna | district | 520973 | 0.983 | 0.171 | 0.979 | 0.41 |
+| LK-11 | Colombo | district | 0.986 | 0.941 | 0.415 | 0.742 | 2139371 |
+| LK-12 | Gampaha | district | 0.989 | 0.971 | 0.329 | 0.672 | 2169227 |
+| LK-13 | Kalutara | district | 0.985 | 0.96 | 0.366 | 0.625 | 1151651 |
+| LK-21 | Kandy | district | 0.975 | 0.909 | 0.501 | 0.648 | 1275003 |
+| LK-22 | Matale | district | 0.967 | 0.914 | 0.424 | 0.548 | 456498 |
+| LK-23 | Nuwara Eliya | district | 0.936 | 0.595 | 0.68 | 0.471 | 623842 |
+| LK-31 | Galle | district | 0.978 | 0.97 | 0.298 | 0.594 | 962957 |
+| LK-32 | Matara | district | 0.971 | 0.961 | 0.281 | 0.553 | 732282 |
+| LK-33 | Hambantota | district | 0.972 | 0.968 | 0.288 | 0.52 | 577879 |
+| LK-41 | Jaffna | district | 0.983 | 0.171 | 0.979 | 0.41 | 520973 |
 
 ### Example Data Row (JSON)
 
@@ -3348,11 +3348,11 @@ ntroduction |  |
     "Region Id": "LK-11",
     "Region Name": "Colombo",
     "Region Ent Type": "district",
-    "Population 10 And Over": 2139371,
     "P Literacy At Least One Language": 0.986,
     "P Literacy Sinhala": 0.941,
     "P Literacy Tamil": 0.415,
-    "P Literacy English": 0.742
+    "P Literacy English": 0.742,
+    "Total Value": 2139371
 }
 ```
 

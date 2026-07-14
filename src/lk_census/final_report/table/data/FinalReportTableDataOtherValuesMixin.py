@@ -75,13 +75,12 @@ class FinalReportTableDataOtherValuesMixin:
                 return None
             values[other_key] = value
 
+        d = dict(values=values)
         if "total_value" in values:
             total_value = values["total_value"]
-            del values["total_value"]
-            error = total_value - sum(values.values())
-            values[self.error_key] = error
+            del d["values"]["total_value"]
+            d["total_value"] = total_value
 
-        d = dict(values=values)
         if self.total_description:
             d["total_description"] = self.total_description
 

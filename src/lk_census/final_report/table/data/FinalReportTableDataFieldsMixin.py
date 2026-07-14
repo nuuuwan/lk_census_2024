@@ -1,4 +1,5 @@
 import os
+import re
 from functools import cached_property
 
 from utils_future import JSONFile
@@ -17,11 +18,13 @@ class FinalReportTableDataFieldsMixin:
 
     @cached_property
     def primary_keys(self):
-        return (
-            self.fields.get("primary_keys")
-            or [self.fields.get("primary_key")]
-            or ["district_name"]
-        )
+
+        if "primary_keys" in self.fields:
+            return self.fields["primary_keys"]
+        if "primary_key" in self.fields:
+            return [self.fields["primary_key"]]
+
+        return ["district_name"]
 
     @cached_property
     def is_first_primary_key_expandable(self):
