@@ -1,3 +1,8 @@
+import os
+
+from lk_census.common.CommonTableReadMeMixin import (
+    CommonTableReadMeMixin,
+)
 from lk_census.xlsx_data_table.XLSXDataTableAllDataMixin import (
     XLSXDataTableAllDataMixin,
 )
@@ -11,13 +16,13 @@ from lk_census.xlsx_data_table.XLSXDataTableDownloadMixin import (
 from lk_census.xlsx_data_table.XLSXDataTableGNDDataMixin import (
     XLSXDataTableGNDDataMixin,
 )
+from lk_census.xlsx_data_table.XLSXDataTableLankaDataMixin import (
+    XLSXDataTableLankaDataMixin,
+)
 from lk_census.xlsx_data_table.XLSXDataTableLoaderMixin import (
     XLSXDataTableLoaderMixin,
 )
-from lk_census.xlsx_data_table.XLSXDataTableReadMeMixin import (
-    XLSXDataTableReadMeMixin,
-)
-from utils_future import Log
+from utils_future import JSONFile, Log
 
 log = Log("XLSXDataTable")
 
@@ -30,6 +35,9 @@ class XLSXDataTable(
     XLSXDataTableDownloadMixin,
     XLSXDataTableGNDDataMixin,
     XLSXDataTableAllDataMixin,
-    XLSXDataTableReadMeMixin,
+    XLSXDataTableLankaDataMixin,
+    CommonTableReadMeMixin,
 ):
-    pass
+    @property
+    def base_dir(self):
+        return "../../"

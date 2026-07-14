@@ -1,4 +1,7 @@
+import os
 from dataclasses import dataclass
+
+from utils_future import JSONFile
 
 
 @dataclass
@@ -15,3 +18,17 @@ class XLSXDataTableBase:
     @property
     def n_fields(self) -> int:
         return len(self.field_list)
+
+    @property
+    def table_name(self):
+        return self.data_table_id
+
+    @property
+    def source_description(self):
+        return ", ".join(
+            [
+                self.table_name,
+                "2024 Census of Population and Housing",
+                "Department of Census and Statistics, Sri Lanka",
+            ]
+        )

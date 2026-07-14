@@ -9,14 +9,14 @@ log = Log("XLSXDataTableAllDataMixin")
 
 class XLSXDataTableAllDataMixin:
     @property
-    def all_data_file(self):
+    def data_file(self):
         return JSONFile(os.path.join(self.dir_data, "data.json"))
 
     # flake8: noqa: CFQ001, C901
     def build_all_data_json(self):
-        if self.all_data_file.exists:
-            log.debug(f"{self.all_data_file} exists.")
-            return self.all_data_file.read()
+        if self.data_file.exists:
+            log.debug(f"{self.data_file} exists.")
+            return self.data_file.read()
 
         gnd_data_list = self.gnd_data_list
 
@@ -87,8 +87,8 @@ class XLSXDataTableAllDataMixin:
         all_data_list.sort(key=lambda d: -d["total_value"])
 
         os.makedirs(self.dir_data, exist_ok=True)
-        self.all_data_file.write(all_data_list)
-        log.info(f"Wrote {len(all_data_list)} rows to {self.all_data_file}")
+        self.data_file.write(all_data_list)
+        log.info(f"Wrote {len(all_data_list)} rows to {self.data_file}")
 
         if gnd_ids_not_in_lk_admin_regions:
             log.warning(
@@ -106,7 +106,7 @@ class XLSXDataTableAllDataMixin:
 
     @property
     def data_list(self):
-        return self.all_data_file.read()
+        return self.data_file.read()
 
     @property
     def tsv_file(self):

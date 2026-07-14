@@ -18,7 +18,7 @@ class XLSXDataTableDownloadMixin:
         )
 
     @property
-    def url_remote(self):
+    def source_url(self):
         return (
             "https://www.statistics.gov.lk"
             + "/Population/StaticalInformation/CPH2024"
@@ -38,8 +38,8 @@ class XLSXDataTableDownloadMixin:
             log.debug(f"{self.xlsx_file} exists")
             return
         os.makedirs(self.DIR_ORIGINAL_DOCS, exist_ok=True)
-        log.debug(f"Downloading {self.url_remote}...")
-        WWW(self.url_remote).download_binary(local_path)
+        log.debug(f"Downloading {self.source_url}...")
+        WWW(self.source_url).download_binary(local_path)
         if self.xlsx_file.size < self.MIN_ORIGINAL_DOC_SIZE_KB:
             os.remove(local_path)
             raise ValueError(f"Downloaded file {self.xlsx_file} is too small.")

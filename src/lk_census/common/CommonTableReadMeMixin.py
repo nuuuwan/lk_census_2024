@@ -1,7 +1,7 @@
 import json
 import os
 
-from utils_future import File, Format, Log, Time, TimeFormat
+from utils_future import File, Format, JSONFile, Log, Time, TimeFormat
 
 log = Log("CommonTableReadMeMixin")
 
@@ -63,7 +63,7 @@ class CommonTableReadMeMixin:
             *self._format_json_lines(self.lanka_data),
             "",
             f"- Source File: [{self.lanka_data_file.short_str}]"
-            + f"(../../../../{self.lanka_data_file.path})",
+            + f"({self.base_dir}{self.lanka_data_file.path})",
             "",
         ]
         return lines
@@ -78,7 +78,7 @@ class CommonTableReadMeMixin:
             *self._format_json_lines(self.data_list),
             "",
             f"- Source File: [{self.data_file.short_str}]"
-            + f"(../../../../{self.data_file.path})",
+            + f"({self.base_dir}{self.data_file.path})",
             "",
         ]
         return lines
@@ -92,7 +92,7 @@ class CommonTableReadMeMixin:
             "",
             *self._format_json_lines(self.raw_data_list),
             f"- Source File: [{self.raw_data_file.short_str}]"
-            + f"(../../../../{self.raw_data_file.path})",
+            + f"({self.base_dir}{self.raw_data_file.path})",
             "",
         ]
         return lines
@@ -105,10 +105,10 @@ class CommonTableReadMeMixin:
             "## Original PDF Page",
             "",
             "![Download the original PDF]"
-            + f"(../../../../{self.original_pdf_image_file.path})",
+            + f"({self.base_dir}{self.original_pdf_image_file.path})",
             "",
             f"- Source File: [{self.original_pdf_file.short_str}]"
-            + f"(../../../../{self.original_pdf_file.path})",
+            + f"({self.base_dir}{self.original_pdf_file.path})",
             "",
         ]
 
@@ -150,3 +150,17 @@ class CommonTableReadMeMixin:
         self.readme_file.write("\n".join(lines))
         log.info(f"Wrote {self.readme_file}")
         return self.readme_file.read()
+
+    # DUMMY functions
+
+    @property
+    def raw_data_file(self):
+        return JSONFile(os.path.join(self.dir_data, "raw_data.json"))
+
+    @property
+    def original_pdf_image_file(self):
+        return JSONFile(os.path.join(self.dir_data, "original.png"))
+
+    @property
+    def base_dir(self):
+        return "../../../../"
