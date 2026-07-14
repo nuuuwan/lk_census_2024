@@ -1,8 +1,7 @@
 import os
 
-from lk_census.final_report.table.lanka_data.FinalReportLankaMetaDataMixin import (
-    FinalReportLankaMetaDataMixin,
-)
+from lk_census.final_report.table.lanka_data.FinalReportLankaMetaDataMixin import \
+    FinalReportLankaMetaDataMixin
 from utils_future import JSONFile, Log, Parse, String
 
 log = Log("FinalReportLankaDataMixin")
