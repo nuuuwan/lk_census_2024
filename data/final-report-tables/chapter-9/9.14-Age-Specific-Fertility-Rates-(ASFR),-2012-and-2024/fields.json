@@ -1,9 +1,9 @@
 {
   "primary_key": "age_group",
   "other_keys": [
-    "1981_fertility_rate_per_k",
-    "2012_fertility_rate_per_k",
-    "2024_fertility_rate_per_k"
+    "fertility_rate_per_k_1981",
+    "fertility_rate_per_k_2012",
+    "fertility_rate_per_k_2024"
   ],
   "is_summable": false
 }
