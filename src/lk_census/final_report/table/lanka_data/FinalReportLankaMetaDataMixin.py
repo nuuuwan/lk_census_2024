@@ -41,12 +41,4 @@ class FinalReportLankaMetaDataMixin:
             log.warning("Missing or invalid what_label")
             return False
 
-        if "Population" in self.what_label:
-            log.warning("Found 'Population' in what_label. Skipping")
-            return False
-
-        if "Housing" in self.what_label:
-            log.warning("Found 'Housing' in what_label. Skipping")
-            return False
-
         return self.what_label is not None

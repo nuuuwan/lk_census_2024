@@ -1,7 +1,7 @@
 # 🇱🇰 Sri Lanka - Census of Population and Housing 2024
 
 ![CPH](https://img.shields.io/badge/CPH-2024-blue)
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--07--14_12:47:52-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--07--14_12:50:37-green)
 
 **154** Datasets on Population, Housing and more, by Country, Province, District, Divisional Secretariat Division (DSD), Grama Niladhari Division (GND), Electoral District (ED), Polling Division (PD), and Local Government Authority (LG) levels.
 
@@ -614,8 +614,8 @@
 | status | status_label | n |
 | :-- | :-- | --: |
 | 2 | 🔴 Raw data is difficult to parse | 21 |
-| 4 | 🟡 Lanka data is missing | 112 |
-| 5 | ✅ All Stages Complete | 9 |
+| 4 | 🟡 Lanka data is missing | 110 |
+| 5 | ✅ All Stages Complete | 11 |
 
 ## 13. [Officers who have  Assigned for Census of Population and Housing 2024 Activities](data/final-report-tables/chapter-1/1.1.1-Officers-who-have--Assigned-for-Census-of-Population-and-Housing-2024-Activities)
 
@@ -889,31 +889,42 @@
 
 ## 19. [Total Population, Intercensal Increase and Average Annual Growth Rate by Census Year, 1871 - 2024](data/final-report-tables/chapter-3/3.1-Total-Population,-Intercensal-Increase-and-Average-Annual-Growth-Rate-by-Census-Year,-1871---2024)
 
-*Build Status (**4**/5) 🟡 Lanka data is missing*
+*Build Status (**5**/5) ✅ All Stages Complete*
 
-### Data Table (first 10 of 16 rows)
-
-| Census Data | Total Population | Total Value |
-| :-- | :-- | :-- |
-| 27 March 1871 | 2400380 | 2400380 |
-| 17 February 1881 | 2759738 | 2759738 |
-| 26 February 1891 | 3007789 | 3007789 |
-| 01 March 1901 | 3565954 | 3565954 |
-| 10 March 1911 | 4106350 | 4106350 |
-| 18 March 1921 | 4498605 | 4498605 |
-| 26 February 1931 | 5306871 | 5306871 |
-| 19 March 1946 | 6657339 | 6657339 |
-| 20 March 1953 | 8097895 | 8097895 |
-| 08 July 1963 | 10582064 | 10582064 |
-
-### Example Data Row (JSON)
+### Lanka Data (first 30 of 169 lines)
 
 ```json
 {
-    "Census Data": "27 March 1871",
-    "Total Population": 2400380,
-    "Total Value": 2400380
-}
+    "_meta": {
+        "source_url": "https://www.statistics.gov.lk/Resource/en/Population/CPH_2024/CPH2024_Final_Eng.pdf#page=67",
+        "source_description": [
+            "Table 3.1, Final Report, 2024 Census of Population and Housing, Department of Census and Statistics, Sri Lanka"
+        ],
+        "what": {
+            "PopulationByCensusDate": "Total Population, Intercensal Increase and Average Annual Growth Rate by Census Year, 1871 - 2024"
+        },
+        "when": "2024",
+        "where_types": [
+            "census_date"
+        ]
+    },
+    "PopulationByCensusDate": {
+        "2024": {
+            "27 March 1871": {
+                "census_date": "27 March 1871",
+                "values": {
+                    "TotalPopulation": 2400380
+                },
+                "total_value": 2400380,
+                "pct_values": {
+                    "TotalPopulation": 1.0
+                }
+            },
+            "17 February 1881": {
+                "census_date": "17 February 1881",
+                "values": {
+                    "TotalPopulation": 2759738
+...
 ```
 
 ### Source
@@ -1058,36 +1069,42 @@
 
 ## 24. [Population Distribution by District and Sector, 2024](data/final-report-tables/chapter-3/3.6-Population-Distribution-by-District-and-Sector,-2024)
 
-*Build Status (**4**/5) 🟡 Lanka data is missing*
+*Build Status (**5**/5) ✅ All Stages Complete*
 
-### Data Table (first 10 of 57 rows)
-
-| Region Id | Region Name | Region Ent Type | Population Urban | Population Estate Urban | Population Rural | Population Estate Rural | Total Value |
-| :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- |
-| LK-11 | Colombo | district | 1773222 | 3874 | 593669 | 4650 | 2375415 |
-| LK-12 | Gampaha | district | 350441 | 0 | 2085307 | 394 | 2436142 |
-| LK-13 | Kalutara | district | 149939 | 864 | 1120942 | 34039 | 1305784 |
-| LK-21 | Kandy | district | 171416 | 241 | 1208607 | 81631 | 1461895 |
-| LK-22 | Matale | district | 62848 | 0 | 447122 | 16900 | 526870 |
-| LK-23 | Nuwara Eliya | district | 36649 | 5666 | 308357 | 374608 | 725280 |
-| LK-31 | Galle | district | 135514 | 0 | 944811 | 17047 | 1097372 |
-| LK-32 | Matara | district | 98886 | 0 | 721903 | 17100 | 837889 |
-| LK-33 | Hambantota | district | 33918 | 0 | 637442 | 58 | 671418 |
-| LK-41 | Jaffna | district | 113821 | 0 | 480930 | 0 | 594751 |
-
-### Example Data Row (JSON)
+### Lanka Data (first 30 of 1048 lines)
 
 ```json
 {
-    "Region Id": "LK-11",
-    "Region Name": "Colombo",
-    "Region Ent Type": "district",
-    "Population Urban": 1773222,
-    "Population Estate Urban": 3874,
-    "Population Rural": 593669,
-    "Population Estate Rural": 4650,
-    "Total Value": 2375415
-}
+    "_meta": {
+        "source_url": "https://www.statistics.gov.lk/Resource/en/Population/CPH_2024/CPH2024_Final_Eng.pdf#page=72",
+        "source_description": [
+            "Table 3.6, Final Report, 2024 Census of Population and Housing, Department of Census and Statistics, Sri Lanka"
+        ],
+        "what": {
+            "Sector": "Population Distribution by District and Sector, 2024"
+        },
+        "when": "2024",
+        "where_types": [
+            "province",
+            "district",
+            "country",
+            "ed"
+        ]
+    },
+    "Sector": {
+        "2024": {
+            "LK-11": {
+                "region_id": "LK-11",
+                "region_name": "Colombo",
+                "region_ent_type": "district",
+                "values": {
+                    "PopulationUrban": 1773222,
+                    "PopulationRural": 593669,
+                    "PopulationEstateRural": 4650,
+                    "PopulationEstateUrban": 3874
+                },
+                "total_value": 2375415,
+...
 ```
 
 ### Source

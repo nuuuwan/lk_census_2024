@@ -1,0 +1,169 @@
+{
+  "_meta": {
+    "source_url": "https://www.statistics.gov.lk/Resource/en/Population/CPH_2024/CPH2024_Final_Eng.pdf#page=67",
+    "source_description": [
+      "Table 3.1, Final Report, 2024 Census of Population and Housing, Department of Census and Statistics, Sri Lanka"
+    ],
+    "what": {
+      "PopulationByCensusDate": "Total Population, Intercensal Increase and Average Annual Growth Rate by Census Year, 1871 - 2024"
+    },
+    "when": "2024",
+    "where_types": [
+      "census_date"
+    ]
+  },
+  "PopulationByCensusDate": {
+    "2024": {
+      "27 March 1871": {
+        "census_date": "27 March 1871",
+        "values": {
+          "TotalPopulation": 2400380
+        },
+        "total_value": 2400380,
+        "pct_values": {
+          "TotalPopulation": 1.0
+        }
+      },
+      "17 February 1881": {
+        "census_date": "17 February 1881",
+        "values": {
+          "TotalPopulation": 2759738
+        },
+        "total_value": 2759738,
+        "pct_values": {
+          "TotalPopulation": 1.0
+        }
+      },
+      "26 February 1891": {
+        "census_date": "26 February 1891",
+        "values": {
+          "TotalPopulation": 3007789
+        },
+        "total_value": 3007789,
+        "pct_values": {
+          "TotalPopulation": 1.0
+        }
+      },
+      "01 March 1901": {
+        "census_date": "01 March 1901",
+        "values": {
+          "TotalPopulation": 3565954
+        },
+        "total_value": 3565954,
+        "pct_values": {
+          "TotalPopulation": 1.0
+        }
+      },
+      "10 March 1911": {
+        "census_date": "10 March 1911",
+        "values": {
+          "TotalPopulation": 4106350
+        },
+        "total_value": 4106350,
+        "pct_values": {
+          "TotalPopulation": 1.0
+        }
+      },
+      "18 March 1921": {
+        "census_date": "18 March 1921",
+        "values": {
+          "TotalPopulation": 4498605
+        },
+        "total_value": 4498605,
+        "pct_values": {
+          "TotalPopulation": 1.0
+        }
+      },
+      "26 February 1931": {
+        "census_date": "26 February 1931",
+        "values": {
+          "TotalPopulation": 5306871
+        },
+        "total_value": 5306871,
+        "pct_values": {
+          "TotalPopulation": 1.0
+        }
+      },
+      "19 March 1946": {
+        "census_date": "19 March 1946",
+        "values": {
+          "TotalPopulation": 6657339
+        },
+        "total_value": 6657339,
+        "pct_values": {
+          "TotalPopulation": 1.0
+        }
+      },
+      "20 March 1953": {
+        "census_date": "20 March 1953",
+        "values": {
+          "TotalPopulation": 8097895
+        },
+        "total_value": 8097895,
+        "pct_values": {
+          "TotalPopulation": 1.0
+        }
+      },
+      "08 July 1963": {
+        "census_date": "08 July 1963",
+        "values": {
+          "TotalPopulation": 10582064
+        },
+        "total_value": 10582064,
+        "pct_values": {
+          "TotalPopulation": 1.0
+        }
+      },
+      "09 October 1971": {
+        "census_date": "09 October 1971",
+        "values": {
+          "TotalPopulation": 12689897
+        },
+        "total_value": 12689897,
+        "pct_values": {
+          "TotalPopulation": 1.0
+        }
+      },
+      "17 March 1981": {
+        "census_date": "17 March 1981",
+        "values": {
+          "TotalPopulation": 14846750
+        },
+        "total_value": 14846750,
+        "pct_values": {
+          "TotalPopulation": 1.0
+        }
+      },
+      "17 July 20011": {
+        "census_date": "17 July 20011",
+        "values": {
+          "TotalPopulation": 18797257
+        },
+        "total_value": 18797257,
+        "pct_values": {
+          "TotalPopulation": 1.0
+        }
+      },
+      "20 March 2012": {
+        "census_date": "20 March 2012",
+        "values": {
+          "TotalPopulation": 20359439
+        },
+        "total_value": 20359439,
+        "pct_values": {
+          "TotalPopulation": 1.0
+        }
+      },
+      "19 December 2024": {
+        "census_date": "19 December 2024",
+        "values": {
+          "TotalPopulation": 21781800
+        },
+        "total_value": 21781800,
+        "pct_values": {
+          "TotalPopulation": 1.0
+        }
+      }
+    }
+  }
+}
