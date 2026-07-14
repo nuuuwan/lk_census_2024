@@ -1,67 +1,56 @@
 [
   {
+    "marital_status": "Never married",
+    "values": {
+      "male_2012": 2179099,
+      "female_2012": 1748503,
+      "male_2024": 2527794,
+      "female_2024": 2065535
+    }
+  },
+  {
     "marital_status": "Married",
     "values": {
-      "2012_male": 4921044,
-      "p_2012_male": 0.677,
-      "2012_female": 5401061,
-      "p_2012_female": 0.679,
-      "2024_male": 5417431,
-      "p_2024_male": 0.658,
-      "2024_female": 5743629,
-      "p_2024_female": 0.636
+      "male_2012": 4921044,
+      "female_2012": 5401061,
+      "male_2024": 5417431,
+      "female_2024": 5743629
     }
   },
   {
     "marital_status": "Widow",
     "values": {
-      "2012_male": 97532,
-      "p_2012_male": 0.013,
-      "2012_female": 695415,
-      "p_2012_female": 0.087,
-      "2024_male": 175421,
-      "p_2024_male": 0.021,
-      "2024_female": 1058997,
-      "p_2024_female": 0.117
+      "male_2012": 97532,
+      "female_2012": 695415,
+      "male_2024": 175421,
+      "female_2024": 1058997
     }
   },
   {
     "marital_status": "Divorced",
     "values": {
-      "2012_male": 14847,
-      "p_2012_male": 0.002,
-      "2012_female": 26328,
-      "p_2012_female": 0.003,
-      "2024_male": 28952,
-      "p_2024_male": 0.004,
-      "2024_female": 45403,
-      "p_2024_female": 0.005
+      "male_2012": 14847,
+      "female_2012": 26328,
+      "male_2024": 28952,
+      "female_2024": 45403
     }
   },
   {
     "marital_status": "Legal separated",
     "values": {
-      "2012_male": 11135,
-      "p_2012_male": 0.002,
-      "2012_female": 19778,
-      "p_2012_female": 0.002,
-      "2024_male": 17047,
-      "p_2024_male": 0.002,
-      "2024_female": 27857,
-      "p_2024_female": 0.003
+      "male_2012": 11135,
+      "female_2012": 19778,
+      "male_2024": 17047,
+      "female_2024": 27857
     }
   },
   {
     "marital_status": "Separated (not legally)",
     "values": {
-      "2012_male": 42577,
-      "p_2012_male": 0.006,
-      "2012_female": 70454,
-      "p_2012_female": 0.009,
-      "2024_male": 65169,
-      "p_2024_male": 0.008,
-      "2024_female": 101726,
-      "p_2024_female": 0.011
+      "male_2012": 42577,
+      "female_2012": 70454,
+      "male_2024": 65169,
+      "female_2024": 101726
     }
   }
 ]

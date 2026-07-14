@@ -1,14 +1,14 @@
 {
   "primary_key": "marital_status",
   "other_keys": [
-    "2012_male",
-    "p_2012_male",
-    "2012_female",
-    "p_2012_female",
-    "2024_male",
-    "p_2024_male",
-    "2024_female",
-    "p_2024_female"
+    "male_2012",
+    "_ignore",
+    "female_2012",
+    "_ignore",
+    "male_2024",
+    "_ignore",
+    "female_2024",
+    "_ignore"
   ],
   "is_summable": false
 }
