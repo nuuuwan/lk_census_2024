@@ -1,7 +1,8 @@
 import os
 
-from lk_census.final_report.table.lanka_data.FinalReportLankaMetaDataMixin import \
-    FinalReportLankaMetaDataMixin
+from lk_census.final_report.table.lanka_data.FinalReportLankaMetaDataMixin import (
+    FinalReportLankaMetaDataMixin,
+)
 from utils_future import JSONFile, Log, Parse, String
 
 log = Log("FinalReportLankaDataMixin")
@@ -64,10 +65,13 @@ class FinalReportLankaDataMixin(FinalReportLankaMetaDataMixin):
         if not self.is_lanka_data_metadata_complete:
             return None
 
+        region_ids = [data["region_id"] for data in self.data_list]
         _meta = dict(
             source_url=self.source_url,
             source_description=self.source_description,
             what={self.what_label: Parse.str(self.table_name)},
+            when=self.when_label,
+            where=region_ids,
         )
 
         idx = {}
