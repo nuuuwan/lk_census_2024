@@ -1,7 +1,8 @@
 import os
 
-from lk_census.final_report.table.lanka_data.FinalReportLankaMetaDataMixin import \
-    FinalReportLankaMetaDataMixin
+from lk_census.final_report.table.lanka_data.FinalReportLankaMetaDataMixin import (
+    FinalReportLankaMetaDataMixin,
+)
 from utils_future import JSONFile, Log, Parse, String
 
 log = Log("FinalReportLankaDataMixin")
@@ -81,3 +82,9 @@ class FinalReportLankaDataMixin(FinalReportLankaMetaDataMixin):
         self.lanka_data_file.write(lanka_data)
         log.info(f"Wrote {self.lanka_data_file}")
         return lanka_data
+
+    @property
+    def lanka_data(self):
+        if not self.lanka_data_file.exists:
+            return {}
+        return self.lanka_data_file.read()
