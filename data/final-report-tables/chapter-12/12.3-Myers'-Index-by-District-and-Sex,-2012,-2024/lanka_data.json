@@ -1,0 +1,522 @@
+{
+  "_meta": {
+    "source_url": "https://www.statistics.gov.lk/Resource/en/Population/CPH_2024/CPH2024_Final_Eng.pdf#page=220",
+    "source_description": "Table 12.3, Final Report, 2024 Census of Population and Housing, Department of Census and Statistics, Sri Lanka",
+    "what": {
+      "MyersIndexBySex": "Myers' Index by District and Sex, 2012, 2024"
+    },
+    "when": [
+      "2012",
+      "2024"
+    ],
+    "where_who_types": [
+      "district"
+    ]
+  },
+  "MyersIndexBySex": {
+    "2012": {
+      "LK-11": {
+        "region_id": "LK-11",
+        "region_name": "Colombo",
+        "region_ent_type": "district",
+        "values": {
+          "IndexMale": 2.5,
+          "IndexBothSexes": 2.2,
+          "IndexFemale": 2.0
+        }
+      },
+      "LK-12": {
+        "region_id": "LK-12",
+        "region_name": "Gampaha",
+        "region_ent_type": "district",
+        "values": {
+          "IndexMale": 2.3,
+          "IndexBothSexes": 2.2,
+          "IndexFemale": 2.2
+        }
+      },
+      "LK-13": {
+        "region_id": "LK-13",
+        "region_name": "Kalutara",
+        "region_ent_type": "district",
+        "values": {
+          "IndexBothSexes": 2.2,
+          "IndexMale": 2.2,
+          "IndexFemale": 2.2
+        }
+      },
+      "LK-21": {
+        "region_id": "LK-21",
+        "region_name": "Kandy",
+        "region_ent_type": "district",
+        "values": {
+          "IndexBothSexes": 1.6,
+          "IndexMale": 1.6,
+          "IndexFemale": 1.5
+        }
+      },
+      "LK-22": {
+        "region_id": "LK-22",
+        "region_name": "Matale",
+        "region_ent_type": "district",
+        "values": {
+          "IndexFemale": 2.0,
+          "IndexBothSexes": 1.8,
+          "IndexMale": 1.7
+        }
+      },
+      "LK-23": {
+        "region_id": "LK-23",
+        "region_name": "Nuwara Eliya",
+        "region_ent_type": "district",
+        "values": {
+          "IndexMale": 1.6,
+          "IndexBothSexes": 0.9,
+          "IndexFemale": 0.8
+        }
+      },
+      "LK-31": {
+        "region_id": "LK-31",
+        "region_name": "Galle",
+        "region_ent_type": "district",
+        "values": {
+          "IndexMale": 1.8,
+          "IndexBothSexes": 1.6,
+          "IndexFemale": 1.6
+        }
+      },
+      "LK-32": {
+        "region_id": "LK-32",
+        "region_name": "Matara",
+        "region_ent_type": "district",
+        "values": {
+          "IndexFemale": 1.6,
+          "IndexBothSexes": 1.4,
+          "IndexMale": 1.3
+        }
+      },
+      "LK-33": {
+        "region_id": "LK-33",
+        "region_name": "Hambantota",
+        "region_ent_type": "district",
+        "values": {
+          "IndexMale": 2.4,
+          "IndexBothSexes": 2.3,
+          "IndexFemale": 2.2
+        }
+      },
+      "LK-41": {
+        "region_id": "LK-41",
+        "region_name": "Jaffna",
+        "region_ent_type": "district",
+        "values": {
+          "IndexFemale": 2.4,
+          "IndexBothSexes": 2.3,
+          "IndexMale": 2.1
+        }
+      },
+      "LK-42": {
+        "region_id": "LK-42",
+        "region_name": "Mannar",
+        "region_ent_type": "district",
+        "values": {
+          "IndexMale": 1.9,
+          "IndexFemale": 1.6,
+          "IndexBothSexes": 1.3
+        }
+      },
+      "LK-43": {
+        "region_id": "LK-43",
+        "region_name": "Vavuniya",
+        "region_ent_type": "district",
+        "values": {
+          "IndexFemale": 3.0,
+          "IndexBothSexes": 2.8,
+          "IndexMale": 2.6
+        }
+      },
+      "LK-44": {
+        "region_id": "LK-44",
+        "region_name": "Mullaitivu",
+        "region_ent_type": "district",
+        "values": {
+          "IndexFemale": 4.0,
+          "IndexBothSexes": 2.8,
+          "IndexMale": 2.0
+        }
+      },
+      "LK-45": {
+        "region_id": "LK-45",
+        "region_name": "Kilinochchi",
+        "region_ent_type": "district",
+        "values": {
+          "IndexMale": 2.9,
+          "IndexBothSexes": 2.5,
+          "IndexFemale": 2.3
+        }
+      },
+      "LK-51": {
+        "region_id": "LK-51",
+        "region_name": "Batticaloa",
+        "region_ent_type": "district",
+        "values": {
+          "IndexFemale": 1.5,
+          "IndexBothSexes": 1.4,
+          "IndexMale": 1.2
+        }
+      },
+      "LK-52": {
+        "region_id": "LK-52",
+        "region_name": "Ampara",
+        "region_ent_type": "district",
+        "values": {
+          "IndexFemale": 1.6,
+          "IndexBothSexes": 1.5,
+          "IndexMale": 1.5
+        }
+      },
+      "LK-53": {
+        "region_id": "LK-53",
+        "region_name": "Trincomalee",
+        "region_ent_type": "district",
+        "values": {
+          "IndexMale": 2.6,
+          "IndexBothSexes": 2.4,
+          "IndexFemale": 2.3
+        }
+      },
+      "LK-61": {
+        "region_id": "LK-61",
+        "region_name": "Kurunegala",
+        "region_ent_type": "district",
+        "values": {
+          "IndexFemale": 2.4,
+          "IndexBothSexes": 2.2,
+          "IndexMale": 2.1
+        }
+      },
+      "LK-62": {
+        "region_id": "LK-62",
+        "region_name": "Puttalam",
+        "region_ent_type": "district",
+        "values": {
+          "IndexFemale": 1.9,
+          "IndexBothSexes": 1.7,
+          "IndexMale": 1.7
+        }
+      },
+      "LK-71": {
+        "region_id": "LK-71",
+        "region_name": "Anuradhapura",
+        "region_ent_type": "district",
+        "values": {
+          "IndexFemale": 2.6,
+          "IndexBothSexes": 2.3,
+          "IndexMale": 2.1
+        }
+      },
+      "LK-72": {
+        "region_id": "LK-72",
+        "region_name": "Polonnaruwa",
+        "region_ent_type": "district",
+        "values": {
+          "IndexMale": 2.4,
+          "IndexFemale": 2.3,
+          "IndexBothSexes": 2.2
+        }
+      },
+      "LK-81": {
+        "region_id": "LK-81",
+        "region_name": "Badulla",
+        "region_ent_type": "district",
+        "values": {
+          "IndexFemale": 1.4,
+          "IndexBothSexes": 1.3,
+          "IndexMale": 1.2
+        }
+      },
+      "LK-82": {
+        "region_id": "LK-82",
+        "region_name": "Monaragala",
+        "region_ent_type": "district",
+        "values": {
+          "IndexFemale": 1.5,
+          "IndexBothSexes": 1.3,
+          "IndexMale": 1.1
+        }
+      },
+      "LK-91": {
+        "region_id": "LK-91",
+        "region_name": "Ratnapura",
+        "region_ent_type": "district",
+        "values": {
+          "IndexBothSexes": 2.0,
+          "IndexMale": 2.0,
+          "IndexFemale": 2.0
+        }
+      },
+      "LK-92": {
+        "region_id": "LK-92",
+        "region_name": "Kegalle",
+        "region_ent_type": "district",
+        "values": {
+          "IndexFemale": 2.3,
+          "IndexBothSexes": 2.2,
+          "IndexMale": 2.1
+        }
+      }
+    },
+    "2024": {
+      "LK-11": {
+        "region_id": "LK-11",
+        "region_name": "Colombo",
+        "region_ent_type": "district",
+        "values": {
+          "IndexMale": 1.9,
+          "IndexBothSexes": 1.6,
+          "IndexFemale": 1.5
+        }
+      },
+      "LK-12": {
+        "region_id": "LK-12",
+        "region_name": "Gampaha",
+        "region_ent_type": "district",
+        "values": {
+          "IndexFemale": 1.4,
+          "IndexBothSexes": 1.3,
+          "IndexMale": 1.3
+        }
+      },
+      "LK-13": {
+        "region_id": "LK-13",
+        "region_name": "Kalutara",
+        "region_ent_type": "district",
+        "values": {
+          "IndexBothSexes": 1.1,
+          "IndexMale": 1.1,
+          "IndexFemale": 1.1
+        }
+      },
+      "LK-21": {
+        "region_id": "LK-21",
+        "region_name": "Kandy",
+        "region_ent_type": "district",
+        "values": {
+          "IndexBothSexes": 1.3,
+          "IndexFemale": 1.3,
+          "IndexMale": 1.2
+        }
+      },
+      "LK-22": {
+        "region_id": "LK-22",
+        "region_name": "Matale",
+        "region_ent_type": "district",
+        "values": {
+          "IndexMale": 1.5,
+          "IndexBothSexes": 1.4,
+          "IndexFemale": 1.4
+        }
+      },
+      "LK-23": {
+        "region_id": "LK-23",
+        "region_name": "Nuwara Eliya",
+        "region_ent_type": "district",
+        "values": {
+          "IndexMale": 1.6,
+          "IndexBothSexes": 1.1,
+          "IndexFemale": 1.0
+        }
+      },
+      "LK-31": {
+        "region_id": "LK-31",
+        "region_name": "Galle",
+        "region_ent_type": "district",
+        "values": {
+          "IndexMale": 1.0,
+          "IndexFemale": 1.0,
+          "IndexBothSexes": 0.9
+        }
+      },
+      "LK-32": {
+        "region_id": "LK-32",
+        "region_name": "Matara",
+        "region_ent_type": "district",
+        "values": {
+          "IndexBothSexes": 1.1,
+          "IndexFemale": 1.1,
+          "IndexMale": 1.0
+        }
+      },
+      "LK-33": {
+        "region_id": "LK-33",
+        "region_name": "Hambantota",
+        "region_ent_type": "district",
+        "values": {
+          "IndexMale": 1.6,
+          "IndexBothSexes": 1.4,
+          "IndexFemale": 1.3
+        }
+      },
+      "LK-41": {
+        "region_id": "LK-41",
+        "region_name": "Jaffna",
+        "region_ent_type": "district",
+        "values": {
+          "IndexBothSexes": 2.9,
+          "IndexFemale": 2.9,
+          "IndexMale": 2.8
+        }
+      },
+      "LK-42": {
+        "region_id": "LK-42",
+        "region_name": "Mannar",
+        "region_ent_type": "district",
+        "values": {
+          "IndexMale": 2.1,
+          "IndexBothSexes": 1.3,
+          "IndexFemale": 1.0
+        }
+      },
+      "LK-43": {
+        "region_id": "LK-43",
+        "region_name": "Vavuniya",
+        "region_ent_type": "district",
+        "values": {
+          "IndexFemale": 3.0,
+          "IndexMale": 2.9,
+          "IndexBothSexes": 2.7
+        }
+      },
+      "LK-44": {
+        "region_id": "LK-44",
+        "region_name": "Mullaitivu",
+        "region_ent_type": "district",
+        "values": {
+          "IndexFemale": 2.6,
+          "IndexBothSexes": 2.5,
+          "IndexMale": 2.4
+        }
+      },
+      "LK-45": {
+        "region_id": "LK-45",
+        "region_name": "Kilinochchi",
+        "region_ent_type": "district",
+        "values": {
+          "IndexMale": 2.7,
+          "IndexFemale": 2.5,
+          "IndexBothSexes": 2.4
+        }
+      },
+      "LK-51": {
+        "region_id": "LK-51",
+        "region_name": "Batticaloa",
+        "region_ent_type": "district",
+        "values": {
+          "IndexMale": 2.1,
+          "IndexFemale": 1.9,
+          "IndexBothSexes": 1.8
+        }
+      },
+      "LK-52": {
+        "region_id": "LK-52",
+        "region_name": "Ampara",
+        "region_ent_type": "district",
+        "values": {
+          "IndexFemale": 1.6,
+          "IndexBothSexes": 1.2,
+          "IndexMale": 1.2
+        }
+      },
+      "LK-53": {
+        "region_id": "LK-53",
+        "region_name": "Trincomalee",
+        "region_ent_type": "district",
+        "values": {
+          "IndexMale": 2.0,
+          "IndexBothSexes": 1.6,
+          "IndexFemale": 1.3
+        }
+      },
+      "LK-61": {
+        "region_id": "LK-61",
+        "region_name": "Kurunegala",
+        "region_ent_type": "district",
+        "values": {
+          "IndexFemale": 1.5,
+          "IndexBothSexes": 1.3,
+          "IndexMale": 1.3
+        }
+      },
+      "LK-62": {
+        "region_id": "LK-62",
+        "region_name": "Puttalam",
+        "region_ent_type": "district",
+        "values": {
+          "IndexFemale": 1.2,
+          "IndexBothSexes": 1.1,
+          "IndexMale": 1.0
+        }
+      },
+      "LK-71": {
+        "region_id": "LK-71",
+        "region_name": "Anuradhapura",
+        "region_ent_type": "district",
+        "values": {
+          "IndexFemale": 2.1,
+          "IndexBothSexes": 2.0,
+          "IndexMale": 1.9
+        }
+      },
+      "LK-72": {
+        "region_id": "LK-72",
+        "region_name": "Polonnaruwa",
+        "region_ent_type": "district",
+        "values": {
+          "IndexMale": 1.8,
+          "IndexFemale": 1.7,
+          "IndexBothSexes": 1.6
+        }
+      },
+      "LK-81": {
+        "region_id": "LK-81",
+        "region_name": "Badulla",
+        "region_ent_type": "district",
+        "values": {
+          "IndexBothSexes": 1.3,
+          "IndexMale": 1.3,
+          "IndexFemale": 1.3
+        }
+      },
+      "LK-82": {
+        "region_id": "LK-82",
+        "region_name": "Monaragala",
+        "region_ent_type": "district",
+        "values": {
+          "IndexFemale": 1.1,
+          "IndexBothSexes": 0.9,
+          "IndexMale": 0.8
+        }
+      },
+      "LK-91": {
+        "region_id": "LK-91",
+        "region_name": "Ratnapura",
+        "region_ent_type": "district",
+        "values": {
+          "IndexBothSexes": 1.5,
+          "IndexMale": 1.5,
+          "IndexFemale": 1.5
+        }
+      },
+      "LK-92": {
+        "region_id": "LK-92",
+        "region_name": "Kegalle",
+        "region_ent_type": "district",
+        "values": {
+          "IndexMale": 1.5,
+          "IndexBothSexes": 1.4,
+          "IndexFemale": 1.4
+        }
+      }
+    }
+  }
+}

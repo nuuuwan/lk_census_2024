@@ -1,0 +1,100 @@
+{
+  "_meta": {
+    "source_url": "https://www.statistics.gov.lk/Resource/en/Population/CPH_2024/CPH2024_Final_Eng.pdf#page=221",
+    "source_description": "Table 12.4, Final Report, 2024 Census of Population and Housing, Department of Census and Statistics, Sri Lanka",
+    "what": {
+      "WhippleIndexBySex": "Whipple\u2019s Index by Sex, 1981, 2001, 2012 and 2024"
+    },
+    "when": [
+      "1981",
+      "2001",
+      "2012",
+      "2024"
+    ],
+    "where_who_types": [
+      "sex"
+    ]
+  },
+  "WhippleIndexBySex": {
+    "1981": {
+      "Both sexes": {
+        "sex": "Both sexes",
+        "values": {
+          "WhippleIndex": 118.6
+        }
+      },
+      "Male": {
+        "sex": "Male",
+        "values": {
+          "WhippleIndex": 116.7
+        }
+      },
+      "Female": {
+        "sex": "Female",
+        "values": {
+          "WhippleIndex": 120.5
+        }
+      }
+    },
+    "2001": {
+      "Both sexes": {
+        "sex": "Both sexes",
+        "values": {
+          "WhippleIndex": 97.0
+        }
+      },
+      "Male": {
+        "sex": "Male",
+        "values": {
+          "WhippleIndex": 97.5
+        }
+      },
+      "Female": {
+        "sex": "Female",
+        "values": {
+          "WhippleIndex": 96.4
+        }
+      }
+    },
+    "2012": {
+      "Both sexes": {
+        "sex": "Both sexes",
+        "values": {
+          "WhippleIndex": 100.2
+        }
+      },
+      "Male": {
+        "sex": "Male",
+        "values": {
+          "WhippleIndex": 100.3
+        }
+      },
+      "Female": {
+        "sex": "Female",
+        "values": {
+          "WhippleIndex": 100.0
+        }
+      }
+    },
+    "2024": {
+      "Both sexes": {
+        "sex": "Both sexes",
+        "values": {
+          "WhippleIndex": 99.2
+        }
+      },
+      "Male": {
+        "sex": "Male",
+        "values": {
+          "WhippleIndex": 99.1
+        }
+      },
+      "Female": {
+        "sex": "Female",
+        "values": {
+          "WhippleIndex": 99.2
+        }
+      }
+    }
+  }
+}
