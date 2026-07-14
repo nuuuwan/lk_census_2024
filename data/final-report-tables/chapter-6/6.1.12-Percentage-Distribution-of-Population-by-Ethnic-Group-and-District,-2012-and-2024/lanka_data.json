@@ -1,0 +1,1735 @@
+{
+  "_meta": {
+    "source_url": "https://www.statistics.gov.lk/Resource/en/Population/CPH_2024/CPH2024_Final_Eng.pdf#page=116",
+    "source_description": "Table 6.1.12, Final Report, 2024 Census of Population and Housing, Department of Census and Statistics, Sri Lanka",
+    "what": {
+      "EthnicityPercentage": "Percentage Distribution of Population by Ethnic Group and District, 2012 and 2024"
+    },
+    "when": [
+      "2012",
+      "2024"
+    ],
+    "where_who_types": [
+      "ed",
+      "country",
+      "province",
+      "district"
+    ]
+  },
+  "EthnicityPercentage": {
+    "2012": {
+      "LK-11": {
+        "region_id": "LK-11",
+        "region_name": "Colombo",
+        "region_ent_type": "district",
+        "pct_values": {
+          "Burgher": 0.347,
+          "Other": 0.338,
+          "Malay": 0.327,
+          "SlMoor": 0.132,
+          "Sinhalese": 0.117,
+          "Total": 0.114,
+          "SlTamil": 0.104,
+          "IndAndMalaiyagaTamil": 0.029
+        }
+      },
+      "LK-12": {
+        "region_id": "LK-12",
+        "region_name": "Gampaha",
+        "region_ent_type": "district",
+        "pct_values": {
+          "Malay": 0.288,
+          "Burgher": 0.282,
+          "Other": 0.269,
+          "Sinhalese": 0.137,
+          "Total": 0.113,
+          "SlMoor": 0.052,
+          "SlTamil": 0.036,
+          "IndAndMalaiyagaTamil": 0.011
+        }
+      },
+      "LK-13": {
+        "region_id": "LK-13",
+        "region_name": "Kalutara",
+        "region_ent_type": "district",
+        "pct_values": {
+          "Sinhalese": 0.07,
+          "Total": 0.06,
+          "SlMoor": 0.06,
+          "Burgher": 0.031,
+          "IndAndMalaiyagaTamil": 0.028,
+          "Malay": 0.016,
+          "Other": 0.015,
+          "SlTamil": 0.01
+        }
+      },
+      "LK-21": {
+        "region_id": "LK-21",
+        "region_name": "Kandy",
+        "region_ent_type": "district",
+        "pct_values": {
+          "IndAndMalaiyagaTamil": 0.101,
+          "SlMoor": 0.101,
+          "Total": 0.068,
+          "Sinhalese": 0.067,
+          "Burgher": 0.062,
+          "Malay": 0.055,
+          "Other": 0.046,
+          "SlTamil": 0.03
+        }
+      },
+      "LK-22": {
+        "region_id": "LK-22",
+        "region_name": "Matale",
+        "region_ent_type": "district",
+        "pct_values": {
+          "IndAndMalaiyagaTamil": 0.028,
+          "Sinhalese": 0.026,
+          "Total": 0.024,
+          "SlMoor": 0.024,
+          "SlTamil": 0.011,
+          "Burgher": 0.01,
+          "Malay": 0.009,
+          "Other": 0.006
+        }
+      },
+      "LK-23": {
+        "region_id": "LK-23",
+        "region_name": "Nuwara Eliya",
+        "region_ent_type": "district",
+        "pct_values": {
+          "IndAndMalaiyagaTamil": 0.45,
+          "Total": 0.035,
+          "Burgher": 0.02,
+          "Sinhalese": 0.018,
+          "Other": 0.017,
+          "SlTamil": 0.014,
+          "Malay": 0.012,
+          "SlMoor": 0.009
+        }
+      },
+      "LK-31": {
+        "region_id": "LK-31",
+        "region_name": "Galle",
+        "region_ent_type": "district",
+        "pct_values": {
+          "Sinhalese": 0.066,
+          "Total": 0.052,
+          "SlMoor": 0.02,
+          "Other": 0.014,
+          "IndAndMalaiyagaTamil": 0.007,
+          "Burgher": 0.007,
+          "SlTamil": 0.006,
+          "Malay": 0.002
+        }
+      },
+      "LK-32": {
+        "region_id": "LK-32",
+        "region_name": "Matara",
+        "region_ent_type": "district",
+        "pct_values": {
+          "Sinhalese": 0.05,
+          "Total": 0.04,
+          "IndAndMalaiyagaTamil": 0.014,
+          "SlMoor": 0.013,
+          "Other": 0.005,
+          "SlTamil": 0.004,
+          "Burgher": 0.003,
+          "Malay": 0.001
+        }
+      },
+      "LK-33": {
+        "region_id": "LK-33",
+        "region_name": "Hambantota",
+        "region_ent_type": "district",
+        "pct_values": {
+          "Malay": 0.185,
+          "Sinhalese": 0.038,
+          "Total": 0.029,
+          "Other": 0.017,
+          "SlMoor": 0.004,
+          "Burgher": 0.004,
+          "SlTamil": 0.001,
+          "IndAndMalaiyagaTamil": 0
+        }
+      },
+      "LK-41": {
+        "region_id": "LK-41",
+        "region_name": "Jaffna",
+        "region_ent_type": "district",
+        "pct_values": {
+          "SlTamil": 0.254,
+          "Total": 0.029,
+          "Other": 0.006,
+          "Burgher": 0.003,
+          "IndAndMalaiyagaTamil": 0.002,
+          "SlMoor": 0.001,
+          "Malay": 0.001,
+          "Sinhalese": 0.0
+        }
+      },
+      "LK-42": {
+        "region_id": "LK-42",
+        "region_name": "Mannar",
+        "region_ent_type": "district",
+        "pct_values": {
+          "SlTamil": 0.035,
+          "SlMoor": 0.009,
+          "Total": 0.005,
+          "IndAndMalaiyagaTamil": 0.001,
+          "Sinhalese": 0.0,
+          "Burgher": 0.0,
+          "Malay": 0.0,
+          "Other": 0.0
+        }
+      },
+      "LK-43": {
+        "region_id": "LK-43",
+        "region_name": "Vavuniya",
+        "region_ent_type": "district",
+        "pct_values": {
+          "SlTamil": 0.062,
+          "Total": 0.008,
+          "SlMoor": 0.006,
+          "IndAndMalaiyagaTamil": 0.002,
+          "Burgher": 0.002,
+          "Other": 0.002,
+          "Sinhalese": 0.001,
+          "Malay": 0.0
+        }
+      },
+      "LK-44": {
+        "region_id": "LK-44",
+        "region_name": "Mullaitivu",
+        "region_ent_type": "district",
+        "pct_values": {
+          "SlTamil": 0.035,
+          "Total": 0.005,
+          "IndAndMalaiyagaTamil": 0.003,
+          "Other": 0.002,
+          "Sinhalese": 0.001,
+          "SlMoor": 0.001,
+          "Burgher": 0.001,
+          "Malay": 0.0
+        }
+      },
+      "LK-45": {
+        "region_id": "LK-45",
+        "region_name": "Kilinochchi",
+        "region_ent_type": "district",
+        "pct_values": {
+          "SlTamil": 0.049,
+          "Total": 0.006,
+          "IndAndMalaiyagaTamil": 0.001,
+          "Other": 0.001,
+          "Sinhalese": 0.0,
+          "SlMoor": 0.0,
+          "Burgher": 0.0,
+          "Malay": 0.0
+        }
+      },
+      "LK-51": {
+        "region_id": "LK-51",
+        "region_name": "Batticaloa",
+        "region_ent_type": "district",
+        "pct_values": {
+          "SlTamil": 0.168,
+          "Burgher": 0.073,
+          "SlMoor": 0.071,
+          "Total": 0.026,
+          "Other": 0.003,
+          "IndAndMalaiyagaTamil": 0.002,
+          "Malay": 0.001,
+          "Sinhalese": 0.0
+        }
+      },
+      "LK-52": {
+        "region_id": "LK-52",
+        "region_name": "Ampara",
+        "region_ent_type": "district",
+        "pct_values": {
+          "SlMoor": 0.149,
+          "SlTamil": 0.05,
+          "Total": 0.032,
+          "Other": 0.028,
+          "Burgher": 0.027,
+          "Sinhalese": 0.017,
+          "Malay": 0.004,
+          "IndAndMalaiyagaTamil": 0.001
+        }
+      },
+      "LK-53": {
+        "region_id": "LK-53",
+        "region_name": "Trincomalee",
+        "region_ent_type": "district",
+        "pct_values": {
+          "SlMoor": 0.084,
+          "SlTamil": 0.051,
+          "Burgher": 0.025,
+          "Total": 0.019,
+          "Malay": 0.008,
+          "Sinhalese": 0.007,
+          "Other": 0.004,
+          "IndAndMalaiyagaTamil": 0.001
+        }
+      },
+      "LK-61": {
+        "region_id": "LK-61",
+        "region_name": "Kurunegala",
+        "region_ent_type": "district",
+        "pct_values": {
+          "Sinhalese": 0.097,
+          "Total": 0.079,
+          "SlMoor": 0.061,
+          "Other": 0.031,
+          "Malay": 0.028,
+          "Burgher": 0.017,
+          "SlTamil": 0.008,
+          "IndAndMalaiyagaTamil": 0.003
+        }
+      },
+      "LK-62": {
+        "region_id": "LK-62",
+        "region_name": "Puttalam",
+        "region_ent_type": "district",
+        "pct_values": {
+          "SlMoor": 0.078,
+          "Other": 0.076,
+          "Total": 0.037,
+          "Sinhalese": 0.037,
+          "Burgher": 0.03,
+          "SlTamil": 0.021,
+          "Malay": 0.014,
+          "IndAndMalaiyagaTamil": 0.002
+        }
+      },
+      "LK-71": {
+        "region_id": "LK-71",
+        "region_name": "Anuradhapura",
+        "region_ent_type": "district",
+        "pct_values": {
+          "Other": 0.057,
+          "Sinhalese": 0.051,
+          "Total": 0.042,
+          "SlMoor": 0.037,
+          "Burgher": 0.006,
+          "Malay": 0.004,
+          "SlTamil": 0.002,
+          "IndAndMalaiyagaTamil": 0.001
+        }
+      },
+      "LK-72": {
+        "region_id": "LK-72",
+        "region_name": "Polonnaruwa",
+        "region_ent_type": "district",
+        "pct_values": {
+          "Sinhalese": 0.024,
+          "Total": 0.02,
+          "SlMoor": 0.016,
+          "Other": 0.005,
+          "SlTamil": 0.003,
+          "Burgher": 0.002,
+          "Malay": 0.001,
+          "IndAndMalaiyagaTamil": 0
+        }
+      },
+      "LK-81": {
+        "region_id": "LK-81",
+        "region_name": "Badulla",
+        "region_ent_type": "district",
+        "pct_values": {
+          "IndAndMalaiyagaTamil": 0.179,
+          "Total": 0.04,
+          "Sinhalese": 0.039,
+          "Malay": 0.031,
+          "Burgher": 0.026,
+          "SlMoor": 0.024,
+          "Other": 0.024,
+          "SlTamil": 0.01
+        }
+      },
+      "LK-82": {
+        "region_id": "LK-82",
+        "region_name": "Monaragala",
+        "region_ent_type": "district",
+        "pct_values": {
+          "Sinhalese": 0.028,
+          "Total": 0.022,
+          "IndAndMalaiyagaTamil": 0.006,
+          "SlMoor": 0.005,
+          "SlTamil": 0.004,
+          "Burgher": 0.003,
+          "Other": 0.002,
+          "Malay": 0.001
+        }
+      },
+      "LK-91": {
+        "region_id": "LK-91",
+        "region_name": "Ratnapura",
+        "region_ent_type": "district",
+        "pct_values": {
+          "IndAndMalaiyagaTamil": 0.074,
+          "Sinhalese": 0.062,
+          "Total": 0.053,
+          "SlTamil": 0.024,
+          "Other": 0.023,
+          "SlMoor": 0.012,
+          "Burgher": 0.011,
+          "Malay": 0.007
+        }
+      },
+      "LK-92": {
+        "region_id": "LK-92",
+        "region_name": "Kegalle",
+        "region_ent_type": "district",
+        "pct_values": {
+          "IndAndMalaiyagaTamil": 0.052,
+          "Sinhalese": 0.047,
+          "Total": 0.041,
+          "SlMoor": 0.032,
+          "Other": 0.01,
+          "SlTamil": 0.008,
+          "Burgher": 0.006,
+          "Malay": 0.004
+        }
+      },
+      "LK": {
+        "region_id": "LK",
+        "region_name": "Sri Lanka",
+        "region_ent_type": "country",
+        "pct_values": {
+          "Other": 1.0010000000000001,
+          "SlMoor": 1.001,
+          "Sinhalese": 1.0000000000000002,
+          "SlTamil": 1.0000000000000002,
+          "Total": 0.9990000000000003,
+          "Malay": 0.9990000000000001,
+          "IndAndMalaiyagaTamil": 0.9980000000000001,
+          "Burgher": 0.9980000000000001
+        }
+      },
+      "LK-1": {
+        "region_id": "LK-1",
+        "region_name": "Western",
+        "region_ent_type": "province",
+        "pct_values": {
+          "Burgher": 0.66,
+          "Malay": 0.631,
+          "Other": 0.622,
+          "Sinhalese": 0.324,
+          "Total": 0.28700000000000003,
+          "SlMoor": 0.244,
+          "SlTamil": 0.15,
+          "IndAndMalaiyagaTamil": 0.068
+        }
+      },
+      "LK-2": {
+        "region_id": "LK-2",
+        "region_name": "Central",
+        "region_ent_type": "province",
+        "pct_values": {
+          "IndAndMalaiyagaTamil": 0.579,
+          "SlMoor": 0.134,
+          "Total": 0.127,
+          "Sinhalese": 0.111,
+          "Burgher": 0.092,
+          "Malay": 0.076,
+          "Other": 0.069,
+          "SlTamil": 0.05499999999999999
+        }
+      },
+      "LK-3": {
+        "region_id": "LK-3",
+        "region_name": "Southern",
+        "region_ent_type": "province",
+        "pct_values": {
+          "Malay": 0.188,
+          "Sinhalese": 0.154,
+          "Total": 0.121,
+          "SlMoor": 0.037000000000000005,
+          "Other": 0.036000000000000004,
+          "IndAndMalaiyagaTamil": 0.021,
+          "Burgher": 0.014,
+          "SlTamil": 0.011
+        }
+      },
+      "LK-4": {
+        "region_id": "LK-4",
+        "region_name": "Northern",
+        "region_ent_type": "province",
+        "pct_values": {
+          "SlTamil": 0.435,
+          "Total": 0.053,
+          "SlMoor": 0.017,
+          "Other": 0.011,
+          "IndAndMalaiyagaTamil": 0.009000000000000001,
+          "Burgher": 0.006,
+          "Sinhalese": 0.002,
+          "Malay": 0.001
+        }
+      },
+      "LK-5": {
+        "region_id": "LK-5",
+        "region_name": "Eastern",
+        "region_ent_type": "province",
+        "pct_values": {
+          "SlMoor": 0.304,
+          "SlTamil": 0.269,
+          "Burgher": 0.125,
+          "Total": 0.077,
+          "Other": 0.035,
+          "Sinhalese": 0.024,
+          "Malay": 0.013000000000000001,
+          "IndAndMalaiyagaTamil": 0.004
+        }
+      },
+      "LK-6": {
+        "region_id": "LK-6",
+        "region_name": "North Western",
+        "region_ent_type": "province",
+        "pct_values": {
+          "SlMoor": 0.139,
+          "Sinhalese": 0.134,
+          "Total": 0.11599999999999999,
+          "Other": 0.107,
+          "Burgher": 0.047,
+          "Malay": 0.042,
+          "SlTamil": 0.029,
+          "IndAndMalaiyagaTamil": 0.005
+        }
+      },
+      "LK-7": {
+        "region_id": "LK-7",
+        "region_name": "North Central",
+        "region_ent_type": "province",
+        "pct_values": {
+          "Sinhalese": 0.075,
+          "Total": 0.062,
+          "Other": 0.062,
+          "SlMoor": 0.053,
+          "Burgher": 0.008,
+          "SlTamil": 0.005,
+          "Malay": 0.005,
+          "IndAndMalaiyagaTamil": 0.001
+        }
+      },
+      "LK-8": {
+        "region_id": "LK-8",
+        "region_name": "Uva",
+        "region_ent_type": "province",
+        "pct_values": {
+          "IndAndMalaiyagaTamil": 0.185,
+          "Sinhalese": 0.067,
+          "Total": 0.062,
+          "Malay": 0.032,
+          "SlMoor": 0.029,
+          "Burgher": 0.028999999999999998,
+          "Other": 0.026000000000000002,
+          "SlTamil": 0.014
+        }
+      },
+      "LK-9": {
+        "region_id": "LK-9",
+        "region_name": "Sabaragamuwa",
+        "region_ent_type": "province",
+        "pct_values": {
+          "IndAndMalaiyagaTamil": 0.126,
+          "Sinhalese": 0.109,
+          "Total": 0.094,
+          "SlMoor": 0.044,
+          "Other": 0.033,
+          "SlTamil": 0.032,
+          "Burgher": 0.017,
+          "Malay": 0.011
+        }
+      },
+      "EC-01": {
+        "region_id": "EC-01",
+        "region_name": "Colombo",
+        "region_ent_type": "ed",
+        "pct_values": {
+          "Burgher": 0.347,
+          "Other": 0.338,
+          "Malay": 0.327,
+          "SlMoor": 0.132,
+          "Sinhalese": 0.117,
+          "Total": 0.114,
+          "SlTamil": 0.104,
+          "IndAndMalaiyagaTamil": 0.029
+        }
+      },
+      "EC-02": {
+        "region_id": "EC-02",
+        "region_name": "Gampaha",
+        "region_ent_type": "ed",
+        "pct_values": {
+          "Malay": 0.288,
+          "Burgher": 0.282,
+          "Other": 0.269,
+          "Sinhalese": 0.137,
+          "Total": 0.113,
+          "SlMoor": 0.052,
+          "SlTamil": 0.036,
+          "IndAndMalaiyagaTamil": 0.011
+        }
+      },
+      "EC-03": {
+        "region_id": "EC-03",
+        "region_name": "Kalutara",
+        "region_ent_type": "ed",
+        "pct_values": {
+          "Sinhalese": 0.07,
+          "Total": 0.06,
+          "SlMoor": 0.06,
+          "Burgher": 0.031,
+          "IndAndMalaiyagaTamil": 0.028,
+          "Malay": 0.016,
+          "Other": 0.015,
+          "SlTamil": 0.01
+        }
+      },
+      "EC-04": {
+        "region_id": "EC-04",
+        "region_name": "Kandy",
+        "region_ent_type": "ed",
+        "pct_values": {
+          "IndAndMalaiyagaTamil": 0.101,
+          "SlMoor": 0.101,
+          "Total": 0.068,
+          "Sinhalese": 0.067,
+          "Burgher": 0.062,
+          "Malay": 0.055,
+          "Other": 0.046,
+          "SlTamil": 0.03
+        }
+      },
+      "EC-05": {
+        "region_id": "EC-05",
+        "region_name": "Matale",
+        "region_ent_type": "ed",
+        "pct_values": {
+          "IndAndMalaiyagaTamil": 0.028,
+          "Sinhalese": 0.026,
+          "Total": 0.024,
+          "SlMoor": 0.024,
+          "SlTamil": 0.011,
+          "Burgher": 0.01,
+          "Malay": 0.009,
+          "Other": 0.006
+        }
+      },
+      "EC-06": {
+        "region_id": "EC-06",
+        "region_name": "Nuwara-Eliya",
+        "region_ent_type": "ed",
+        "pct_values": {
+          "IndAndMalaiyagaTamil": 0.45,
+          "Total": 0.035,
+          "Burgher": 0.02,
+          "Sinhalese": 0.018,
+          "Other": 0.017,
+          "SlTamil": 0.014,
+          "Malay": 0.012,
+          "SlMoor": 0.009
+        }
+      },
+      "EC-07": {
+        "region_id": "EC-07",
+        "region_name": "Galle",
+        "region_ent_type": "ed",
+        "pct_values": {
+          "Sinhalese": 0.066,
+          "Total": 0.052,
+          "SlMoor": 0.02,
+          "Other": 0.014,
+          "IndAndMalaiyagaTamil": 0.007,
+          "Burgher": 0.007,
+          "SlTamil": 0.006,
+          "Malay": 0.002
+        }
+      },
+      "EC-08": {
+        "region_id": "EC-08",
+        "region_name": "Matara",
+        "region_ent_type": "ed",
+        "pct_values": {
+          "Sinhalese": 0.05,
+          "Total": 0.04,
+          "IndAndMalaiyagaTamil": 0.014,
+          "SlMoor": 0.013,
+          "Other": 0.005,
+          "SlTamil": 0.004,
+          "Burgher": 0.003,
+          "Malay": 0.001
+        }
+      },
+      "EC-09": {
+        "region_id": "EC-09",
+        "region_name": "Hambantota",
+        "region_ent_type": "ed",
+        "pct_values": {
+          "Malay": 0.185,
+          "Sinhalese": 0.038,
+          "Total": 0.029,
+          "Other": 0.017,
+          "SlMoor": 0.004,
+          "Burgher": 0.004,
+          "SlTamil": 0.001,
+          "IndAndMalaiyagaTamil": 0
+        }
+      },
+      "EC-10": {
+        "region_id": "EC-10",
+        "region_name": "Jaffna",
+        "region_ent_type": "ed",
+        "pct_values": {
+          "SlTamil": 0.303,
+          "Total": 0.035,
+          "Other": 0.007,
+          "IndAndMalaiyagaTamil": 0.003,
+          "Burgher": 0.003,
+          "SlMoor": 0.001,
+          "Malay": 0.001,
+          "Sinhalese": 0.0
+        }
+      },
+      "EC-11": {
+        "region_id": "EC-11",
+        "region_name": "Vanni",
+        "region_ent_type": "ed",
+        "pct_values": {
+          "SlTamil": 0.132,
+          "Total": 0.018000000000000002,
+          "SlMoor": 0.016,
+          "IndAndMalaiyagaTamil": 0.006,
+          "Other": 0.004,
+          "Burgher": 0.003,
+          "Sinhalese": 0.002,
+          "Malay": 0.0
+        }
+      },
+      "EC-12": {
+        "region_id": "EC-12",
+        "region_name": "Batticaloa",
+        "region_ent_type": "ed",
+        "pct_values": {
+          "SlTamil": 0.168,
+          "Burgher": 0.073,
+          "SlMoor": 0.071,
+          "Total": 0.026,
+          "Other": 0.003,
+          "IndAndMalaiyagaTamil": 0.002,
+          "Malay": 0.001,
+          "Sinhalese": 0.0
+        }
+      },
+      "EC-13": {
+        "region_id": "EC-13",
+        "region_name": "Digamadulla",
+        "region_ent_type": "ed",
+        "pct_values": {
+          "SlMoor": 0.149,
+          "SlTamil": 0.05,
+          "Total": 0.032,
+          "Other": 0.028,
+          "Burgher": 0.027,
+          "Sinhalese": 0.017,
+          "Malay": 0.004,
+          "IndAndMalaiyagaTamil": 0.001
+        }
+      },
+      "EC-14": {
+        "region_id": "EC-14",
+        "region_name": "Trincomalee",
+        "region_ent_type": "ed",
+        "pct_values": {
+          "SlMoor": 0.084,
+          "SlTamil": 0.051,
+          "Burgher": 0.025,
+          "Total": 0.019,
+          "Malay": 0.008,
+          "Sinhalese": 0.007,
+          "Other": 0.004,
+          "IndAndMalaiyagaTamil": 0.001
+        }
+      },
+      "EC-15": {
+        "region_id": "EC-15",
+        "region_name": "Kurunegala",
+        "region_ent_type": "ed",
+        "pct_values": {
+          "Sinhalese": 0.097,
+          "Total": 0.079,
+          "SlMoor": 0.061,
+          "Other": 0.031,
+          "Malay": 0.028,
+          "Burgher": 0.017,
+          "SlTamil": 0.008,
+          "IndAndMalaiyagaTamil": 0.003
+        }
+      },
+      "EC-16": {
+        "region_id": "EC-16",
+        "region_name": "Puttalam",
+        "region_ent_type": "ed",
+        "pct_values": {
+          "SlMoor": 0.078,
+          "Other": 0.076,
+          "Total": 0.037,
+          "Sinhalese": 0.037,
+          "Burgher": 0.03,
+          "SlTamil": 0.021,
+          "Malay": 0.014,
+          "IndAndMalaiyagaTamil": 0.002
+        }
+      },
+      "EC-17": {
+        "region_id": "EC-17",
+        "region_name": "Anuradhapura",
+        "region_ent_type": "ed",
+        "pct_values": {
+          "Other": 0.057,
+          "Sinhalese": 0.051,
+          "Total": 0.042,
+          "SlMoor": 0.037,
+          "Burgher": 0.006,
+          "Malay": 0.004,
+          "SlTamil": 0.002,
+          "IndAndMalaiyagaTamil": 0.001
+        }
+      },
+      "EC-18": {
+        "region_id": "EC-18",
+        "region_name": "Polonnaruwa",
+        "region_ent_type": "ed",
+        "pct_values": {
+          "Sinhalese": 0.024,
+          "Total": 0.02,
+          "SlMoor": 0.016,
+          "Other": 0.005,
+          "SlTamil": 0.003,
+          "Burgher": 0.002,
+          "Malay": 0.001,
+          "IndAndMalaiyagaTamil": 0
+        }
+      },
+      "EC-19": {
+        "region_id": "EC-19",
+        "region_name": "Badulla",
+        "region_ent_type": "ed",
+        "pct_values": {
+          "IndAndMalaiyagaTamil": 0.179,
+          "Total": 0.04,
+          "Sinhalese": 0.039,
+          "Malay": 0.031,
+          "Burgher": 0.026,
+          "SlMoor": 0.024,
+          "Other": 0.024,
+          "SlTamil": 0.01
+        }
+      },
+      "EC-20": {
+        "region_id": "EC-20",
+        "region_name": "Moneragala",
+        "region_ent_type": "ed",
+        "pct_values": {
+          "Sinhalese": 0.028,
+          "Total": 0.022,
+          "IndAndMalaiyagaTamil": 0.006,
+          "SlMoor": 0.005,
+          "SlTamil": 0.004,
+          "Burgher": 0.003,
+          "Other": 0.002,
+          "Malay": 0.001
+        }
+      },
+      "EC-21": {
+        "region_id": "EC-21",
+        "region_name": "Ratnapura",
+        "region_ent_type": "ed",
+        "pct_values": {
+          "IndAndMalaiyagaTamil": 0.074,
+          "Sinhalese": 0.062,
+          "Total": 0.053,
+          "SlTamil": 0.024,
+          "Other": 0.023,
+          "SlMoor": 0.012,
+          "Burgher": 0.011,
+          "Malay": 0.007
+        }
+      },
+      "EC-22": {
+        "region_id": "EC-22",
+        "region_name": "Kegalle",
+        "region_ent_type": "ed",
+        "pct_values": {
+          "IndAndMalaiyagaTamil": 0.052,
+          "Sinhalese": 0.047,
+          "Total": 0.041,
+          "SlMoor": 0.032,
+          "Other": 0.01,
+          "SlTamil": 0.008,
+          "Burgher": 0.006,
+          "Malay": 0.004
+        }
+      }
+    },
+    "2024": {
+      "LK-11": {
+        "region_id": "LK-11",
+        "region_name": "Colombo",
+        "region_ent_type": "district",
+        "pct_values": {
+          "Burgher": 0.336,
+          "Malay": 0.31,
+          "Other": 0.279,
+          "SlMoor": 0.125,
+          "Sinhalese": 0.112,
+          "Total": 0.109,
+          "SlTamil": 0.091,
+          "IndAndMalaiyagaTamil": 0.026
+        }
+      },
+      "LK-12": {
+        "region_id": "LK-12",
+        "region_name": "Gampaha",
+        "region_ent_type": "district",
+        "pct_values": {
+          "Malay": 0.356,
+          "Other": 0.24,
+          "Burgher": 0.222,
+          "Sinhalese": 0.136,
+          "Total": 0.112,
+          "SlMoor": 0.054,
+          "SlTamil": 0.037,
+          "IndAndMalaiyagaTamil": 0.011
+        }
+      },
+      "LK-13": {
+        "region_id": "LK-13",
+        "region_name": "Kalutara",
+        "region_ent_type": "district",
+        "pct_values": {
+          "Sinhalese": 0.069,
+          "Total": 0.06,
+          "SlMoor": 0.06,
+          "Other": 0.027,
+          "Burgher": 0.026,
+          "Malay": 0.018,
+          "SlTamil": 0.015,
+          "IndAndMalaiyagaTamil": 0.012
+        }
+      },
+      "LK-21": {
+        "region_id": "LK-21",
+        "region_name": "Kandy",
+        "region_ent_type": "district",
+        "pct_values": {
+          "SlMoor": 0.096,
+          "Total": 0.067,
+          "Sinhalese": 0.067,
+          "IndAndMalaiyagaTamil": 0.064,
+          "Burgher": 0.06,
+          "Other": 0.05,
+          "SlTamil": 0.046,
+          "Malay": 0.038
+        }
+      },
+      "LK-22": {
+        "region_id": "LK-22",
+        "region_name": "Matale",
+        "region_ent_type": "district",
+        "pct_values": {
+          "Sinhalese": 0.026,
+          "Total": 0.024,
+          "SlMoor": 0.023,
+          "SlTamil": 0.016,
+          "IndAndMalaiyagaTamil": 0.013,
+          "Burgher": 0.011,
+          "Malay": 0.011,
+          "Other": 0.006
+        }
+      },
+      "LK-23": {
+        "region_id": "LK-23",
+        "region_name": "Nuwara Eliya",
+        "region_ent_type": "district",
+        "pct_values": {
+          "IndAndMalaiyagaTamil": 0.603,
+          "Burgher": 0.039,
+          "Total": 0.033,
+          "SlTamil": 0.022,
+          "Sinhalese": 0.017,
+          "SlMoor": 0.008,
+          "Malay": 0.008,
+          "Other": 0.005
+        }
+      },
+      "LK-31": {
+        "region_id": "LK-31",
+        "region_name": "Galle",
+        "region_ent_type": "district",
+        "pct_values": {
+          "Sinhalese": 0.064,
+          "Total": 0.05,
+          "Other": 0.038,
+          "SlMoor": 0.02,
+          "Burgher": 0.008,
+          "SlTamil": 0.007,
+          "IndAndMalaiyagaTamil": 0.005,
+          "Malay": 0.003
+        }
+      },
+      "LK-32": {
+        "region_id": "LK-32",
+        "region_name": "Matara",
+        "region_ent_type": "district",
+        "pct_values": {
+          "Sinhalese": 0.049,
+          "Total": 0.038,
+          "IndAndMalaiyagaTamil": 0.013,
+          "SlMoor": 0.013,
+          "Other": 0.011,
+          "Burgher": 0.008,
+          "SlTamil": 0.004,
+          "Malay": 0.002
+        }
+      },
+      "LK-33": {
+        "region_id": "LK-33",
+        "region_name": "Hambantota",
+        "region_ent_type": "district",
+        "pct_values": {
+          "Malay": 0.148,
+          "Sinhalese": 0.04,
+          "Total": 0.031,
+          "Other": 0.009,
+          "SlMoor": 0.006,
+          "Burgher": 0.003,
+          "SlTamil": 0.001,
+          "IndAndMalaiyagaTamil": 0.0
+        }
+      },
+      "LK-41": {
+        "region_id": "LK-41",
+        "region_name": "Jaffna",
+        "region_ent_type": "district",
+        "pct_values": {
+          "SlTamil": 0.219,
+          "Total": 0.027,
+          "Other": 0.005,
+          "SlMoor": 0.002,
+          "Burgher": 0.002,
+          "IndAndMalaiyagaTamil": 0.001,
+          "Sinhalese": 0.0,
+          "Malay": 0.0
+        }
+      },
+      "LK-42": {
+        "region_id": "LK-42",
+        "region_name": "Mannar",
+        "region_ent_type": "district",
+        "pct_values": {
+          "SlTamil": 0.034,
+          "SlMoor": 0.014,
+          "Total": 0.006,
+          "IndAndMalaiyagaTamil": 0.001,
+          "Sinhalese": 0.0,
+          "Burgher": 0.0,
+          "Malay": 0.0,
+          "Other": 0.0
+        }
+      },
+      "LK-43": {
+        "region_id": "LK-43",
+        "region_name": "Vavuniya",
+        "region_ent_type": "district",
+        "pct_values": {
+          "SlTamil": 0.05,
+          "Other": 0.02,
+          "Total": 0.008,
+          "SlMoor": 0.007,
+          "IndAndMalaiyagaTamil": 0.003,
+          "Sinhalese": 0.001,
+          "Burgher": 0.001,
+          "Malay": 0.0
+        }
+      },
+      "LK-44": {
+        "region_id": "LK-44",
+        "region_name": "Mullaitivu",
+        "region_ent_type": "district",
+        "pct_values": {
+          "SlTamil": 0.04,
+          "Total": 0.006,
+          "Sinhalese": 0.001,
+          "SlMoor": 0.001,
+          "IndAndMalaiyagaTamil": 0.0,
+          "Burgher": 0.0,
+          "Malay": 0.0,
+          "Other": 0.0
+        }
+      },
+      "LK-45": {
+        "region_id": "LK-45",
+        "region_name": "Kilinochchi",
+        "region_ent_type": "district",
+        "pct_values": {
+          "SlTamil": 0.05,
+          "Total": 0.006,
+          "IndAndMalaiyagaTamil": 0.001,
+          "SlMoor": 0.001,
+          "Burgher": 0.001,
+          "Sinhalese": 0.0,
+          "Malay": 0.0,
+          "Other": 0.0
+        }
+      },
+      "LK-51": {
+        "region_id": "LK-51",
+        "region_name": "Batticaloa",
+        "region_ent_type": "district",
+        "pct_values": {
+          "SlTamil": 0.158,
+          "Burgher": 0.091,
+          "SlMoor": 0.07,
+          "Total": 0.027,
+          "Other": 0.011,
+          "IndAndMalaiyagaTamil": 0.002,
+          "Malay": 0.001,
+          "Sinhalese": 0.0
+        }
+      },
+      "LK-52": {
+        "region_id": "LK-52",
+        "region_name": "Ampara",
+        "region_ent_type": "district",
+        "pct_values": {
+          "SlMoor": 0.149,
+          "Other": 0.068,
+          "SlTamil": 0.047,
+          "Burgher": 0.037,
+          "Total": 0.034,
+          "Sinhalese": 0.017,
+          "Malay": 0.005,
+          "IndAndMalaiyagaTamil": 0.001
+        }
+      },
+      "LK-53": {
+        "region_id": "LK-53",
+        "region_name": "Trincomalee",
+        "region_ent_type": "district",
+        "pct_values": {
+          "SlMoor": 0.089,
+          "SlTamil": 0.048,
+          "Burgher": 0.027,
+          "Total": 0.02,
+          "Malay": 0.012,
+          "Sinhalese": 0.007,
+          "Other": 0.004,
+          "IndAndMalaiyagaTamil": 0.001
+        }
+      },
+      "LK-61": {
+        "region_id": "LK-61",
+        "region_name": "Kurunegala",
+        "region_ent_type": "district",
+        "pct_values": {
+          "Sinhalese": 0.099,
+          "Total": 0.081,
+          "SlMoor": 0.062,
+          "Other": 0.038,
+          "Malay": 0.03,
+          "Burgher": 0.015,
+          "SlTamil": 0.008,
+          "IndAndMalaiyagaTamil": 0.003
+        }
+      },
+      "LK-62": {
+        "region_id": "LK-62",
+        "region_name": "Puttalam",
+        "region_ent_type": "district",
+        "pct_values": {
+          "SlMoor": 0.076,
+          "Burgher": 0.054,
+          "Total": 0.038,
+          "Sinhalese": 0.037,
+          "Other": 0.036,
+          "Malay": 0.021,
+          "SlTamil": 0.018,
+          "IndAndMalaiyagaTamil": 0.002
+        }
+      },
+      "LK-71": {
+        "region_id": "LK-71",
+        "region_name": "Anuradhapura",
+        "region_ent_type": "district",
+        "pct_values": {
+          "Other": 0.07,
+          "Sinhalese": 0.054,
+          "Total": 0.044,
+          "SlMoor": 0.036,
+          "Burgher": 0.005,
+          "Malay": 0.004,
+          "SlTamil": 0.002,
+          "IndAndMalaiyagaTamil": 0.001
+        }
+      },
+      "LK-72": {
+        "region_id": "LK-72",
+        "region_name": "Polonnaruwa",
+        "region_ent_type": "district",
+        "pct_values": {
+          "Sinhalese": 0.025,
+          "Other": 0.022,
+          "Total": 0.021,
+          "SlMoor": 0.016,
+          "SlTamil": 0.003,
+          "Burgher": 0.002,
+          "Malay": 0.001,
+          "IndAndMalaiyagaTamil": 0.0
+        }
+      },
+      "LK-81": {
+        "region_id": "LK-81",
+        "region_name": "Badulla",
+        "region_ent_type": "district",
+        "pct_values": {
+          "IndAndMalaiyagaTamil": 0.159,
+          "Total": 0.04,
+          "Sinhalese": 0.04,
+          "SlTamil": 0.031,
+          "Burgher": 0.028,
+          "Malay": 0.027,
+          "Other": 0.025,
+          "SlMoor": 0.023
+        }
+      },
+      "LK-82": {
+        "region_id": "LK-82",
+        "region_name": "Monaragala",
+        "region_ent_type": "district",
+        "pct_values": {
+          "Sinhalese": 0.031,
+          "Total": 0.024,
+          "SlTamil": 0.006,
+          "SlMoor": 0.005,
+          "Other": 0.003,
+          "IndAndMalaiyagaTamil": 0.002,
+          "Burgher": 0.002,
+          "Malay": 0.001
+        }
+      },
+      "LK-91": {
+        "region_id": "LK-91",
+        "region_name": "Ratnapura",
+        "region_ent_type": "district",
+        "pct_values": {
+          "Sinhalese": 0.062,
+          "Total": 0.053,
+          "IndAndMalaiyagaTamil": 0.04,
+          "SlTamil": 0.034,
+          "Burgher": 0.015,
+          "Other": 0.014,
+          "SlMoor": 0.011,
+          "Malay": 0.002
+        }
+      },
+      "LK-92": {
+        "region_id": "LK-92",
+        "region_name": "Kegalle",
+        "region_ent_type": "district",
+        "pct_values": {
+          "Sinhalese": 0.046,
+          "Total": 0.04,
+          "IndAndMalaiyagaTamil": 0.035,
+          "SlMoor": 0.031,
+          "Other": 0.019,
+          "SlTamil": 0.015,
+          "Burgher": 0.006,
+          "Malay": 0.004
+        }
+      },
+      "LK": {
+        "region_id": "LK",
+        "region_name": "Sri Lanka",
+        "region_ent_type": "country",
+        "pct_values": {
+          "SlTamil": 1.0020000000000002,
+          "Malay": 1.002,
+          "Sinhalese": 1.0000000000000002,
+          "Other": 1.0000000000000002,
+          "Total": 0.9990000000000003,
+          "Burgher": 0.9990000000000003,
+          "IndAndMalaiyagaTamil": 0.9990000000000001,
+          "SlMoor": 0.9980000000000001
+        }
+      },
+      "LK-1": {
+        "region_id": "LK-1",
+        "region_name": "Western",
+        "region_ent_type": "province",
+        "pct_values": {
+          "Malay": 0.6839999999999999,
+          "Burgher": 0.5840000000000001,
+          "Other": 0.546,
+          "Sinhalese": 0.317,
+          "Total": 0.281,
+          "SlMoor": 0.239,
+          "SlTamil": 0.14300000000000002,
+          "IndAndMalaiyagaTamil": 0.049
+        }
+      },
+      "LK-2": {
+        "region_id": "LK-2",
+        "region_name": "Central",
+        "region_ent_type": "province",
+        "pct_values": {
+          "IndAndMalaiyagaTamil": 0.6799999999999999,
+          "SlMoor": 0.127,
+          "Total": 0.124,
+          "Sinhalese": 0.11,
+          "Burgher": 0.10999999999999999,
+          "SlTamil": 0.08399999999999999,
+          "Other": 0.061,
+          "Malay": 0.057
+        }
+      },
+      "LK-3": {
+        "region_id": "LK-3",
+        "region_name": "Southern",
+        "region_ent_type": "province",
+        "pct_values": {
+          "Sinhalese": 0.153,
+          "Malay": 0.153,
+          "Total": 0.119,
+          "Other": 0.058,
+          "SlMoor": 0.039,
+          "Burgher": 0.019,
+          "IndAndMalaiyagaTamil": 0.018,
+          "SlTamil": 0.012
+        }
+      },
+      "LK-4": {
+        "region_id": "LK-4",
+        "region_name": "Northern",
+        "region_ent_type": "province",
+        "pct_values": {
+          "SlTamil": 0.39299999999999996,
+          "Total": 0.053,
+          "SlMoor": 0.025,
+          "Other": 0.025,
+          "IndAndMalaiyagaTamil": 0.006,
+          "Burgher": 0.004,
+          "Sinhalese": 0.002,
+          "Malay": 0.0
+        }
+      },
+      "LK-5": {
+        "region_id": "LK-5",
+        "region_name": "Eastern",
+        "region_ent_type": "province",
+        "pct_values": {
+          "SlMoor": 0.308,
+          "SlTamil": 0.253,
+          "Burgher": 0.155,
+          "Other": 0.083,
+          "Total": 0.081,
+          "Sinhalese": 0.024,
+          "Malay": 0.018000000000000002,
+          "IndAndMalaiyagaTamil": 0.004
+        }
+      },
+      "LK-6": {
+        "region_id": "LK-6",
+        "region_name": "North Western",
+        "region_ent_type": "province",
+        "pct_values": {
+          "SlMoor": 0.138,
+          "Sinhalese": 0.136,
+          "Total": 0.119,
+          "Other": 0.074,
+          "Burgher": 0.069,
+          "Malay": 0.051000000000000004,
+          "SlTamil": 0.026,
+          "IndAndMalaiyagaTamil": 0.005
+        }
+      },
+      "LK-7": {
+        "region_id": "LK-7",
+        "region_name": "North Central",
+        "region_ent_type": "province",
+        "pct_values": {
+          "Other": 0.092,
+          "Sinhalese": 0.079,
+          "Total": 0.065,
+          "SlMoor": 0.052,
+          "Burgher": 0.007,
+          "SlTamil": 0.005,
+          "Malay": 0.005,
+          "IndAndMalaiyagaTamil": 0.001
+        }
+      },
+      "LK-8": {
+        "region_id": "LK-8",
+        "region_name": "Uva",
+        "region_ent_type": "province",
+        "pct_values": {
+          "IndAndMalaiyagaTamil": 0.161,
+          "Sinhalese": 0.07100000000000001,
+          "Total": 0.064,
+          "SlTamil": 0.037,
+          "Burgher": 0.03,
+          "SlMoor": 0.028,
+          "Malay": 0.028,
+          "Other": 0.028
+        }
+      },
+      "LK-9": {
+        "region_id": "LK-9",
+        "region_name": "Sabaragamuwa",
+        "region_ent_type": "province",
+        "pct_values": {
+          "Sinhalese": 0.108,
+          "Total": 0.093,
+          "IndAndMalaiyagaTamil": 0.07500000000000001,
+          "SlTamil": 0.049,
+          "SlMoor": 0.041999999999999996,
+          "Other": 0.033,
+          "Burgher": 0.020999999999999998,
+          "Malay": 0.006
+        }
+      },
+      "EC-01": {
+        "region_id": "EC-01",
+        "region_name": "Colombo",
+        "region_ent_type": "ed",
+        "pct_values": {
+          "Burgher": 0.336,
+          "Malay": 0.31,
+          "Other": 0.279,
+          "SlMoor": 0.125,
+          "Sinhalese": 0.112,
+          "Total": 0.109,
+          "SlTamil": 0.091,
+          "IndAndMalaiyagaTamil": 0.026
+        }
+      },
+      "EC-02": {
+        "region_id": "EC-02",
+        "region_name": "Gampaha",
+        "region_ent_type": "ed",
+        "pct_values": {
+          "Malay": 0.356,
+          "Other": 0.24,
+          "Burgher": 0.222,
+          "Sinhalese": 0.136,
+          "Total": 0.112,
+          "SlMoor": 0.054,
+          "SlTamil": 0.037,
+          "IndAndMalaiyagaTamil": 0.011
+        }
+      },
+      "EC-03": {
+        "region_id": "EC-03",
+        "region_name": "Kalutara",
+        "region_ent_type": "ed",
+        "pct_values": {
+          "Sinhalese": 0.069,
+          "Total": 0.06,
+          "SlMoor": 0.06,
+          "Other": 0.027,
+          "Burgher": 0.026,
+          "Malay": 0.018,
+          "SlTamil": 0.015,
+          "IndAndMalaiyagaTamil": 0.012
+        }
+      },
+      "EC-04": {
+        "region_id": "EC-04",
+        "region_name": "Kandy",
+        "region_ent_type": "ed",
+        "pct_values": {
+          "SlMoor": 0.096,
+          "Total": 0.067,
+          "Sinhalese": 0.067,
+          "IndAndMalaiyagaTamil": 0.064,
+          "Burgher": 0.06,
+          "Other": 0.05,
+          "SlTamil": 0.046,
+          "Malay": 0.038
+        }
+      },
+      "EC-05": {
+        "region_id": "EC-05",
+        "region_name": "Matale",
+        "region_ent_type": "ed",
+        "pct_values": {
+          "Sinhalese": 0.026,
+          "Total": 0.024,
+          "SlMoor": 0.023,
+          "SlTamil": 0.016,
+          "IndAndMalaiyagaTamil": 0.013,
+          "Burgher": 0.011,
+          "Malay": 0.011,
+          "Other": 0.006
+        }
+      },
+      "EC-06": {
+        "region_id": "EC-06",
+        "region_name": "Nuwara-Eliya",
+        "region_ent_type": "ed",
+        "pct_values": {
+          "IndAndMalaiyagaTamil": 0.603,
+          "Burgher": 0.039,
+          "Total": 0.033,
+          "SlTamil": 0.022,
+          "Sinhalese": 0.017,
+          "SlMoor": 0.008,
+          "Malay": 0.008,
+          "Other": 0.005
+        }
+      },
+      "EC-07": {
+        "region_id": "EC-07",
+        "region_name": "Galle",
+        "region_ent_type": "ed",
+        "pct_values": {
+          "Sinhalese": 0.064,
+          "Total": 0.05,
+          "Other": 0.038,
+          "SlMoor": 0.02,
+          "Burgher": 0.008,
+          "SlTamil": 0.007,
+          "IndAndMalaiyagaTamil": 0.005,
+          "Malay": 0.003
+        }
+      },
+      "EC-08": {
+        "region_id": "EC-08",
+        "region_name": "Matara",
+        "region_ent_type": "ed",
+        "pct_values": {
+          "Sinhalese": 0.049,
+          "Total": 0.038,
+          "IndAndMalaiyagaTamil": 0.013,
+          "SlMoor": 0.013,
+          "Other": 0.011,
+          "Burgher": 0.008,
+          "SlTamil": 0.004,
+          "Malay": 0.002
+        }
+      },
+      "EC-09": {
+        "region_id": "EC-09",
+        "region_name": "Hambantota",
+        "region_ent_type": "ed",
+        "pct_values": {
+          "Malay": 0.148,
+          "Sinhalese": 0.04,
+          "Total": 0.031,
+          "Other": 0.009,
+          "SlMoor": 0.006,
+          "Burgher": 0.003,
+          "SlTamil": 0.001,
+          "IndAndMalaiyagaTamil": 0.0
+        }
+      },
+      "EC-10": {
+        "region_id": "EC-10",
+        "region_name": "Jaffna",
+        "region_ent_type": "ed",
+        "pct_values": {
+          "SlTamil": 0.269,
+          "Total": 0.033,
+          "Other": 0.005,
+          "SlMoor": 0.003,
+          "Burgher": 0.003,
+          "IndAndMalaiyagaTamil": 0.002,
+          "Sinhalese": 0.0,
+          "Malay": 0.0
+        }
+      },
+      "EC-11": {
+        "region_id": "EC-11",
+        "region_name": "Vanni",
+        "region_ent_type": "ed",
+        "pct_values": {
+          "SlTamil": 0.124,
+          "SlMoor": 0.022000000000000002,
+          "Total": 0.02,
+          "Other": 0.02,
+          "IndAndMalaiyagaTamil": 0.004,
+          "Sinhalese": 0.002,
+          "Burgher": 0.001,
+          "Malay": 0.0
+        }
+      },
+      "EC-12": {
+        "region_id": "EC-12",
+        "region_name": "Batticaloa",
+        "region_ent_type": "ed",
+        "pct_values": {
+          "SlTamil": 0.158,
+          "Burgher": 0.091,
+          "SlMoor": 0.07,
+          "Total": 0.027,
+          "Other": 0.011,
+          "IndAndMalaiyagaTamil": 0.002,
+          "Malay": 0.001,
+          "Sinhalese": 0.0
+        }
+      },
+      "EC-13": {
+        "region_id": "EC-13",
+        "region_name": "Digamadulla",
+        "region_ent_type": "ed",
+        "pct_values": {
+          "SlMoor": 0.149,
+          "Other": 0.068,
+          "SlTamil": 0.047,
+          "Burgher": 0.037,
+          "Total": 0.034,
+          "Sinhalese": 0.017,
+          "Malay": 0.005,
+          "IndAndMalaiyagaTamil": 0.001
+        }
+      },
+      "EC-14": {
+        "region_id": "EC-14",
+        "region_name": "Trincomalee",
+        "region_ent_type": "ed",
+        "pct_values": {
+          "SlMoor": 0.089,
+          "SlTamil": 0.048,
+          "Burgher": 0.027,
+          "Total": 0.02,
+          "Malay": 0.012,
+          "Sinhalese": 0.007,
+          "Other": 0.004,
+          "IndAndMalaiyagaTamil": 0.001
+        }
+      },
+      "EC-15": {
+        "region_id": "EC-15",
+        "region_name": "Kurunegala",
+        "region_ent_type": "ed",
+        "pct_values": {
+          "Sinhalese": 0.099,
+          "Total": 0.081,
+          "SlMoor": 0.062,
+          "Other": 0.038,
+          "Malay": 0.03,
+          "Burgher": 0.015,
+          "SlTamil": 0.008,
+          "IndAndMalaiyagaTamil": 0.003
+        }
+      },
+      "EC-16": {
+        "region_id": "EC-16",
+        "region_name": "Puttalam",
+        "region_ent_type": "ed",
+        "pct_values": {
+          "SlMoor": 0.076,
+          "Burgher": 0.054,
+          "Total": 0.038,
+          "Sinhalese": 0.037,
+          "Other": 0.036,
+          "Malay": 0.021,
+          "SlTamil": 0.018,
+          "IndAndMalaiyagaTamil": 0.002
+        }
+      },
+      "EC-17": {
+        "region_id": "EC-17",
+        "region_name": "Anuradhapura",
+        "region_ent_type": "ed",
+        "pct_values": {
+          "Other": 0.07,
+          "Sinhalese": 0.054,
+          "Total": 0.044,
+          "SlMoor": 0.036,
+          "Burgher": 0.005,
+          "Malay": 0.004,
+          "SlTamil": 0.002,
+          "IndAndMalaiyagaTamil": 0.001
+        }
+      },
+      "EC-18": {
+        "region_id": "EC-18",
+        "region_name": "Polonnaruwa",
+        "region_ent_type": "ed",
+        "pct_values": {
+          "Sinhalese": 0.025,
+          "Other": 0.022,
+          "Total": 0.021,
+          "SlMoor": 0.016,
+          "SlTamil": 0.003,
+          "Burgher": 0.002,
+          "Malay": 0.001,
+          "IndAndMalaiyagaTamil": 0.0
+        }
+      },
+      "EC-19": {
+        "region_id": "EC-19",
+        "region_name": "Badulla",
+        "region_ent_type": "ed",
+        "pct_values": {
+          "IndAndMalaiyagaTamil": 0.159,
+          "Total": 0.04,
+          "Sinhalese": 0.04,
+          "SlTamil": 0.031,
+          "Burgher": 0.028,
+          "Malay": 0.027,
+          "Other": 0.025,
+          "SlMoor": 0.023
+        }
+      },
+      "EC-20": {
+        "region_id": "EC-20",
+        "region_name": "Moneragala",
+        "region_ent_type": "ed",
+        "pct_values": {
+          "Sinhalese": 0.031,
+          "Total": 0.024,
+          "SlTamil": 0.006,
+          "SlMoor": 0.005,
+          "Other": 0.003,
+          "IndAndMalaiyagaTamil": 0.002,
+          "Burgher": 0.002,
+          "Malay": 0.001
+        }
+      },
+      "EC-21": {
+        "region_id": "EC-21",
+        "region_name": "Ratnapura",
+        "region_ent_type": "ed",
+        "pct_values": {
+          "Sinhalese": 0.062,
+          "Total": 0.053,
+          "IndAndMalaiyagaTamil": 0.04,
+          "SlTamil": 0.034,
+          "Burgher": 0.015,
+          "Other": 0.014,
+          "SlMoor": 0.011,
+          "Malay": 0.002
+        }
+      },
+      "EC-22": {
+        "region_id": "EC-22",
+        "region_name": "Kegalle",
+        "region_ent_type": "ed",
+        "pct_values": {
+          "Sinhalese": 0.046,
+          "Total": 0.04,
+          "IndAndMalaiyagaTamil": 0.035,
+          "SlMoor": 0.031,
+          "Other": 0.019,
+          "SlTamil": 0.015,
+          "Burgher": 0.006,
+          "Malay": 0.004
+        }
+      }
+    }
+  }
+}
