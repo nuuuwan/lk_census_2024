@@ -76,4 +76,5 @@ class FinalReportLankaDataMixin(FinalReportLankaMetaDataMixin):
         lanka_data = dict(_meta=_meta)
         lanka_data[self.what_label] = {when_label: idx}
         self.lanka_data_file.write(lanka_data)
+        log.info(f"Wrote {self.lanka_data_file}")
         return lanka_data
