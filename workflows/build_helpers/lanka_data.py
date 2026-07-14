@@ -22,7 +22,7 @@ if __name__ == "__main__":
         print_line()
 
         print(table.table_num)
-
+        print(table.table_name)
         print(
             table.build_status,
             FinalReportTable.STATUS_LABELS[table.build_status],
