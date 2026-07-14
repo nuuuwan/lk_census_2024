@@ -1,0 +1,118 @@
+{
+  "_meta": {
+    "source_url": "https://www.statistics.gov.lk/Resource/en/Population/CPH_2024/CPH2024_Final_Eng.pdf#page=185",
+    "source_description": "Table 9.13, Final Report, 2024 Census of Population and Housing, Department of Census and Statistics, Sri Lanka",
+    "what": {
+      "MarriedWomenByAgeGroup": "Number and Percentage Distribution of Married Women Aged 15\u201349 Years by Age Group, 2012 and 2024"
+    },
+    "when": [
+      "2012",
+      "2024"
+    ],
+    "where_who_types": [
+      "age_group"
+    ]
+  },
+  "MarriedWomenByAgeGroup": {
+    "2012": {
+      "15-19": {
+        "age_group": "15-19",
+        "values": {
+          "Population": 85392
+        }
+      },
+      "20-24": {
+        "age_group": "20-24",
+        "values": {
+          "Population": 335158
+        }
+      },
+      "25-29": {
+        "age_group": "25-29",
+        "values": {
+          "Population": 598450
+        }
+      },
+      "30-34": {
+        "age_group": "30-34",
+        "values": {
+          "Population": 734555
+        }
+      },
+      "35-39": {
+        "age_group": "35-39",
+        "values": {
+          "Population": 646905
+        }
+      },
+      "40-44": {
+        "age_group": "40-44",
+        "values": {
+          "Population": 617503
+        }
+      },
+      "45-49": {
+        "age_group": "45-49",
+        "values": {
+          "Population": 574175
+        }
+      },
+      "15-49 years": {
+        "age_group": "15-49 years",
+        "values": {
+          "Population": 3592138
+        }
+      }
+    },
+    "2024": {
+      "15-19": {
+        "age_group": "15-19",
+        "values": {
+          "Population": 30199
+        }
+      },
+      "20-24": {
+        "age_group": "20-24",
+        "values": {
+          "Population": 198888
+        }
+      },
+      "25-29": {
+        "age_group": "25-29",
+        "values": {
+          "Population": 438683
+        }
+      },
+      "30-34": {
+        "age_group": "30-34",
+        "values": {
+          "Population": 635307
+        }
+      },
+      "35-39": {
+        "age_group": "35-39",
+        "values": {
+          "Population": 682347
+        }
+      },
+      "40-44": {
+        "age_group": "40-44",
+        "values": {
+          "Population": 741533
+        }
+      },
+      "45-49": {
+        "age_group": "45-49",
+        "values": {
+          "Population": 672196
+        }
+      },
+      "15-49 years": {
+        "age_group": "15-49 years",
+        "values": {
+          "Population": 3399153
+        }
+      }
+    }
+  }
+}
