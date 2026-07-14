@@ -32,32 +32,38 @@ class FinalReportLankaDataMixin(FinalReportLankaMetaDataMixin):
 
         return data
 
-    def build_lanka_data(self, force=False):
-        if not force and self.lanka_data_file.exists:
-            return self.lanka_data_file.read()
-
-        if not self.is_lanka_data_metadata_complete:
-            return None
-
+    @property
+    def is_lanka_data_parser_implemented(self):
         data_list = self.data_list
         first_data = data_list[0]
 
         if "region_id" not in first_data:
             log.warning("No region_id. Skipping")
-            return None
+            return False
 
         if "total_value" not in first_data:
             log.warning("No total_value. Skipping")
-            return None
+            return False
 
         if "values" not in first_data:
             log.warning("No values. Skipping")
-            return None
+            return False
 
         for k in first_data["values"].keys():
             if k.startswith("p_"):
                 log.warning(f"Found key starting with 'p_': {k}")
-                return None
+                return False
+        return True
+
+    def build_lanka_data(self, force=False):
+        if not force and self.lanka_data_file.exists:
+            return self.lanka_data_file.read()
+
+        if not self.is_lanka_data_parser_implemented:
+            return None
+
+        if not self.is_lanka_data_metadata_complete:
+            return None
 
         _meta = dict(
             source_url=self.source_url,
@@ -68,7 +74,7 @@ class FinalReportLankaDataMixin(FinalReportLankaMetaDataMixin):
         when_label = "2024"
 
         idx = {}
-        for data in data_list:
+        for data in self.data_list:
             data = self._expand_values(data)
 
             idx[data["region_id"]] = data
