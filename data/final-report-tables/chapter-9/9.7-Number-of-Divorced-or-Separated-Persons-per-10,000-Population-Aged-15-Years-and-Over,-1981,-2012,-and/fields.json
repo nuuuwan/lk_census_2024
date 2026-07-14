@@ -1,12 +1,12 @@
 {
   "primary_key": "marital_status",
   "other_keys": [
-    "male_1981_per_10k",
-    "male_2012_per_10k",
-    "male_2024_per_10k",
-    "female_1981_per_10k",
-    "female_2012_per_10k",
-    "female_2024_per_10k"
+    "male_per_10k_1981",
+    "male_per_10k_2012",
+    "male_per_10k_2024",
+    "female_per_10k_1981",
+    "female_per_10k_2012",
+    "female_per_10k_2024"
   ],
   "is_summable": false
 }

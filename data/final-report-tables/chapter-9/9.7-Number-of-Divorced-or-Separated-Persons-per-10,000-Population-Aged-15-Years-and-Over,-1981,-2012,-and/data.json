@@ -2,34 +2,23 @@
   {
     "marital_status": "Divorced",
     "values": {
-      "male_1981_per_10k": 23,
-      "male_2012_per_10k": 37,
-      "male_2024_per_10k": 20,
-      "female_1981_per_10k": 33,
-      "female_2012_per_10k": 35,
-      "female_2024_per_10k": 50
-    }
-  },
-  {
-    "marital_status": "Legal  Separated",
-    "values": {
-      "male_1981_per_10k": 19,
-      "male_2012_per_10k": 26,
-      "male_2024_per_10k": 15,
-      "female_1981_per_10k": 25,
-      "female_2012_per_10k": 21,
-      "female_2024_per_10k": 31
+      "male_per_10k_1981": 23,
+      "male_per_10k_2012": 37,
+      "male_per_10k_2024": 20,
+      "female_per_10k_1981": 33,
+      "female_per_10k_2012": 35,
+      "female_per_10k_2024": 50
     }
   },
   {
     "marital_status": "Not legal",
     "values": {
-      "male_1981_per_10k": 0,
-      "male_2012_per_10k": 0,
-      "male_2024_per_10k": 59,
-      "female_1981_per_10k": 88,
-      "female_2012_per_10k": 79,
-      "female_2024_per_10k": 112
+      "male_per_10k_1981": 0,
+      "male_per_10k_2012": 0,
+      "male_per_10k_2024": 59,
+      "female_per_10k_1981": 88,
+      "female_per_10k_2012": 79,
+      "female_per_10k_2024": 112
     }
   }
 ]
