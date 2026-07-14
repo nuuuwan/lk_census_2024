@@ -98,19 +98,24 @@ class ReadMeFinalReportMixin:
         self, final_report_table
     ):
         assert final_report_table.data_file.exists
+        N_DISPLAY = 10
 
-        d_list = final_report_table.data_list
-        d_list_by_district = [
-            d for d in d_list if d["region_ent_type"] == "district"
+        d_list_for_table = [
+            self.flatten_dict(d) for d in final_report_table.data_list
         ]
-        d_list_for_table = [self.flatten_dict(d) for d in d_list_by_district]
+        n_total = len(d_list_for_table)
+
+        title = "Data Table"
+        if N_DISPLAY < n_total:
+            title += f" (first {N_DISPLAY} of {n_total} rows)"
+            d_list_for_table = d_list_for_table[:N_DISPLAY]
 
         lines = []
         lines.extend(
             [
                 "*🟢 Structured Data was extracted from PDF.*",
                 "",
-                "### Data by District",
+                f"### {title}",
                 "",
             ]
             + Markdown.table(d_list_for_table)
@@ -120,7 +125,7 @@ class ReadMeFinalReportMixin:
                 "### Example Data Row (JSON)",
                 "",
                 "```json",
-                json.dumps(d_list_by_district[0], indent=4),
+                json.dumps(d_list_for_table[0], indent=4),
                 "```",
                 "",
             ]
@@ -159,8 +164,6 @@ class ReadMeFinalReportMixin:
         lines = [
             f"## {i_dataset}. [{final_report_table.table_name}]"
             + f"({final_report_table.dir_data})",
-            "",
-            final_report_table.table_num,
             "",
         ]
         lines.extend(
@@ -206,17 +209,10 @@ class ReadMeFinalReportMixin:
     ):
         len(final_report_table_list)
 
-        lines = self.get_lines_for_final_report_status(
-            final_report_table_list
-        )
+        lines = self.get_lines_for_final_report_status(final_report_table_list)
         i_dataset = n_datasets_non_final_table + 1
         for final_report_table in final_report_table_list:
-            if final_report_table.data_file.exists:
-                continue
-            if not final_report_table.raw_data_file.exists:
-                continue
-            if final_report_table.is_complicated:
-                continue
+
             lines.extend(
                 self.get_lines_for_final_report_table(
                     i_dataset, final_report_table

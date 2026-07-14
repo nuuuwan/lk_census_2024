@@ -1,8 +1,10 @@
 import os
 
 from lk_census.final_report.table import FinalReportTable
+from lk_census.readme.ReadMe import ReadMe
 
 if __name__ == "__main__":
+
     table_list = FinalReportTable.list()
 
     for table in table_list:
@@ -32,3 +34,5 @@ if __name__ == "__main__":
             os.system(f'code "{table.data_file.path}"')
 
         break
+
+    ReadMe().build()

@@ -21,7 +21,8 @@ class Markdown:
             "| " + " | ".join([Markdown.get_sep(key) for key in keys]) + " |"
         )
         rows = [
-            "| " + " | ".join(str(d[k]) for k in keys) + " |" for d in d_list
+            "| " + " | ".join(str(d.get(k, "")) for k in keys) + " |"
+            for d in d_list
         ]
 
         return [header, separator] + rows + [""]
