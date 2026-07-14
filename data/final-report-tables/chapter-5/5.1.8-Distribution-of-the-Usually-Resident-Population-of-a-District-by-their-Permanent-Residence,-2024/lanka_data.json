@@ -1,0 +1,365 @@
+{
+  "_meta": {
+    "source_url": "https://www.statistics.gov.lk/Resource/en/Population/CPH_2024/CPH2024_Final_Eng.pdf#page=94",
+    "source_description": [
+      "Table 5.1.8, Final Report, 2024 Census of Population and Housing, Department of Census and Statistics, Sri Lanka"
+    ],
+    "what": {
+      "ResidenceDistrictOrOtherDistrict": "Distribution of the Usually Resident Population of a District by their Permanent Residence, 2024"
+    }
+  },
+  "ResidenceDistrictOrOtherDistrict": {
+    "2024": {
+      "LK-11": {
+        "region_id": "LK-11",
+        "region_name": "Colombo",
+        "region_ent_type": "district",
+        "values": {
+          "InDistrict": 2244323,
+          "InOtherDistrict": 130546
+        },
+        "total_value": 2374869,
+        "pct_values": {
+          "InDistrict": 0.945,
+          "InOtherDistrict": 0.055
+        }
+      },
+      "LK-12": {
+        "region_id": "LK-12",
+        "region_name": "Gampaha",
+        "region_ent_type": "district",
+        "values": {
+          "InDistrict": 2340241,
+          "InOtherDistrict": 95672
+        },
+        "total_value": 2435913,
+        "pct_values": {
+          "InDistrict": 0.9607,
+          "InOtherDistrict": 0.0393
+        }
+      },
+      "LK-13": {
+        "region_id": "LK-13",
+        "region_name": "Kalutara",
+        "region_ent_type": "district",
+        "values": {
+          "InDistrict": 1287854,
+          "InOtherDistrict": 17854
+        },
+        "total_value": 1305708,
+        "pct_values": {
+          "InDistrict": 0.9863,
+          "InOtherDistrict": 0.0137
+        }
+      },
+      "LK-21": {
+        "region_id": "LK-21",
+        "region_name": "Kandy",
+        "region_ent_type": "district",
+        "values": {
+          "InDistrict": 1434821,
+          "InOtherDistrict": 26934
+        },
+        "total_value": 1461755,
+        "pct_values": {
+          "InDistrict": 0.9816,
+          "InOtherDistrict": 0.0184
+        }
+      },
+      "LK-22": {
+        "region_id": "LK-22",
+        "region_name": "Matale",
+        "region_ent_type": "district",
+        "values": {
+          "InDistrict": 518870,
+          "InOtherDistrict": 7979
+        },
+        "total_value": 526849,
+        "pct_values": {
+          "InDistrict": 0.9849,
+          "InOtherDistrict": 0.0151
+        }
+      },
+      "LK-23": {
+        "region_id": "LK-23",
+        "region_name": "Nuwara Eliya",
+        "region_ent_type": "district",
+        "values": {
+          "InDistrict": 719906,
+          "InOtherDistrict": 5345
+        },
+        "total_value": 725251,
+        "pct_values": {
+          "InDistrict": 0.9926,
+          "InOtherDistrict": 0.0074
+        }
+      },
+      "LK-31": {
+        "region_id": "LK-31",
+        "region_name": "Galle",
+        "region_ent_type": "district",
+        "values": {
+          "InDistrict": 1084085,
+          "InOtherDistrict": 13140
+        },
+        "total_value": 1097225,
+        "pct_values": {
+          "InDistrict": 0.988,
+          "InOtherDistrict": 0.012
+        }
+      },
+      "LK-32": {
+        "region_id": "LK-32",
+        "region_name": "Matara",
+        "region_ent_type": "district",
+        "values": {
+          "InDistrict": 825062,
+          "InOtherDistrict": 12694
+        },
+        "total_value": 837756,
+        "pct_values": {
+          "InDistrict": 0.9848,
+          "InOtherDistrict": 0.0152
+        }
+      },
+      "LK-33": {
+        "region_id": "LK-33",
+        "region_name": "Hambantota",
+        "region_ent_type": "district",
+        "values": {
+          "InDistrict": 664855,
+          "InOtherDistrict": 6528
+        },
+        "total_value": 671383,
+        "pct_values": {
+          "InDistrict": 0.9903,
+          "InOtherDistrict": 0.0097
+        }
+      },
+      "LK-41": {
+        "region_id": "LK-41",
+        "region_name": "Jaffna",
+        "region_ent_type": "district",
+        "values": {
+          "InDistrict": 585641,
+          "InOtherDistrict": 9058
+        },
+        "total_value": 594699,
+        "pct_values": {
+          "InDistrict": 0.9848,
+          "InOtherDistrict": 0.0152
+        }
+      },
+      "LK-42": {
+        "region_id": "LK-42",
+        "region_name": "Mannar",
+        "region_ent_type": "district",
+        "values": {
+          "InDistrict": 122800,
+          "InOtherDistrict": 952
+        },
+        "total_value": 123752,
+        "pct_values": {
+          "InDistrict": 0.9923,
+          "InOtherDistrict": 0.0077
+        }
+      },
+      "LK-43": {
+        "region_id": "LK-43",
+        "region_name": "Vavuniya",
+        "region_ent_type": "district",
+        "values": {
+          "InDistrict": 168602,
+          "InOtherDistrict": 3678
+        },
+        "total_value": 172280,
+        "pct_values": {
+          "InDistrict": 0.9787,
+          "InOtherDistrict": 0.0213
+        }
+      },
+      "LK-44": {
+        "region_id": "LK-44",
+        "region_name": "Mullaitivu",
+        "region_ent_type": "district",
+        "values": {
+          "InDistrict": 120696,
+          "InOtherDistrict": 1921
+        },
+        "total_value": 122617,
+        "pct_values": {
+          "InDistrict": 0.9843,
+          "InOtherDistrict": 0.0157
+        }
+      },
+      "LK-45": {
+        "region_id": "LK-45",
+        "region_name": "Kilinochchi",
+        "region_ent_type": "district",
+        "values": {
+          "InDistrict": 132107,
+          "InOtherDistrict": 4603
+        },
+        "total_value": 136710,
+        "pct_values": {
+          "InDistrict": 0.9663,
+          "InOtherDistrict": 0.0337
+        }
+      },
+      "LK-51": {
+        "region_id": "LK-51",
+        "region_name": "Batticaloa",
+        "region_ent_type": "district",
+        "values": {
+          "InDistrict": 588704,
+          "InOtherDistrict": 7185
+        },
+        "total_value": 595889,
+        "pct_values": {
+          "InDistrict": 0.9879,
+          "InOtherDistrict": 0.0121
+        }
+      },
+      "LK-52": {
+        "region_id": "LK-52",
+        "region_name": "Ampara",
+        "region_ent_type": "district",
+        "values": {
+          "InDistrict": 735399,
+          "InOtherDistrict": 9132
+        },
+        "total_value": 744531,
+        "pct_values": {
+          "InDistrict": 0.9877,
+          "InOtherDistrict": 0.0123
+        }
+      },
+      "LK-53": {
+        "region_id": "LK-53",
+        "region_name": "Trincomalee",
+        "region_ent_type": "district",
+        "values": {
+          "InDistrict": 438683,
+          "InOtherDistrict": 4039
+        },
+        "total_value": 442722,
+        "pct_values": {
+          "InDistrict": 0.9909,
+          "InOtherDistrict": 0.0091
+        }
+      },
+      "LK-61": {
+        "region_id": "LK-61",
+        "region_name": "Kurunegala",
+        "region_ent_type": "district",
+        "values": {
+          "InDistrict": 1742683,
+          "InOtherDistrict": 25340
+        },
+        "total_value": 1768023,
+        "pct_values": {
+          "InDistrict": 0.9857,
+          "InOtherDistrict": 0.0143
+        }
+      },
+      "LK-62": {
+        "region_id": "LK-62",
+        "region_name": "Puttalam",
+        "region_ent_type": "district",
+        "values": {
+          "InDistrict": 805775,
+          "InOtherDistrict": 12928
+        },
+        "total_value": 818703,
+        "pct_values": {
+          "InDistrict": 0.9842,
+          "InOtherDistrict": 0.0158
+        }
+      },
+      "LK-71": {
+        "region_id": "LK-71",
+        "region_name": "Anuradhapura",
+        "region_ent_type": "district",
+        "values": {
+          "InDistrict": 944348,
+          "InOtherDistrict": 15553
+        },
+        "total_value": 959901,
+        "pct_values": {
+          "InDistrict": 0.9838,
+          "InOtherDistrict": 0.0162
+        }
+      },
+      "LK-72": {
+        "region_id": "LK-72",
+        "region_name": "Polonnaruwa",
+        "region_ent_type": "district",
+        "values": {
+          "InDistrict": 441668,
+          "InOtherDistrict": 5835
+        },
+        "total_value": 447503,
+        "pct_values": {
+          "InDistrict": 0.987,
+          "InOtherDistrict": 0.013
+        }
+      },
+      "LK-81": {
+        "region_id": "LK-81",
+        "region_name": "Badulla",
+        "region_ent_type": "district",
+        "values": {
+          "InDistrict": 861106,
+          "InOtherDistrict": 11133
+        },
+        "total_value": 872239,
+        "pct_values": {
+          "InDistrict": 0.9872,
+          "InOtherDistrict": 0.0128
+        }
+      },
+      "LK-82": {
+        "region_id": "LK-82",
+        "region_name": "Monaragala",
+        "region_ent_type": "district",
+        "values": {
+          "InDistrict": 522063,
+          "InOtherDistrict": 5469
+        },
+        "total_value": 527532,
+        "pct_values": {
+          "InDistrict": 0.9896,
+          "InOtherDistrict": 0.0104
+        }
+      },
+      "LK-91": {
+        "region_id": "LK-91",
+        "region_name": "Ratnapura",
+        "region_ent_type": "district",
+        "values": {
+          "InDistrict": 1134639,
+          "InOtherDistrict": 10613
+        },
+        "total_value": 1145252,
+        "pct_values": {
+          "InDistrict": 0.9907,
+          "InOtherDistrict": 0.0093
+        }
+      },
+      "LK-92": {
+        "region_id": "LK-92",
+        "region_name": "Kegalle",
+        "region_ent_type": "district",
+        "values": {
+          "InDistrict": 860518,
+          "InOtherDistrict": 9903
+        },
+        "total_value": 870421,
+        "pct_values": {
+          "InDistrict": 0.9886,
+          "InOtherDistrict": 0.0114
+        }
+      }
+    }
+  }
+}

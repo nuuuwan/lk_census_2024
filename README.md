@@ -1,7 +1,7 @@
 # 🇱🇰 Sri Lanka - Census of Population and Housing 2024
 
 ![CPH](https://img.shields.io/badge/CPH-2024-blue)
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--07--14_11:30:12-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--07--14_11:32:32-green)
 
 **154** Datasets on Population, Housing and more, by Country, Province, District, Divisional Secretariat Division (DSD), Grama Niladhari Division (GND), Electoral District (ED), Polling Division (PD), and Local Government Authority (LG) levels.
 
@@ -614,8 +614,8 @@
 | status | status_label | n |
 | :-- | :-- | --: |
 | 2 | 🔴 Raw data is difficult to parse | 21 |
-| 4 | 🟡 Lanka data is missing | 114 |
-| 5 | ✅ All Stages Complete | 7 |
+| 4 | 🟡 Lanka data is missing | 113 |
+| 5 | ✅ All Stages Complete | 8 |
 
 ## 13. [Officers who have  Assigned for Census of Population and Housing 2024 Activities](data/final-report-tables/chapter-1/1.1.1-Officers-who-have--Assigned-for-Census-of-Population-and-Housing-2024-Activities)
 
@@ -1383,34 +1383,42 @@
 
 ## 32. [Distribution of the Usually Resident Population of a District by their Permanent Residence, 2024](data/final-report-tables/chapter-5/5.1.8-Distribution-of-the-Usually-Resident-Population-of-a-District-by-their-Permanent-Residence,-2024)
 
-*Build Status (**4**/5) 🟡 Lanka data is missing*
+*Build Status (**5**/5) ✅ All Stages Complete*
 
-### Data Table (first 10 of 25 rows)
-
-| Region Id | Region Name | Region Ent Type | In District | In Other District | Total Value |
-| :-- | :-- | :-- | :-- | :-- | :-- |
-| LK-11 | Colombo | district | 2244323 | 130546 | 2374869 |
-| LK-12 | Gampaha | district | 2340241 | 95672 | 2435913 |
-| LK-13 | Kalutara | district | 1287854 | 17854 | 1305708 |
-| LK-21 | Kandy | district | 1434821 | 26934 | 1461755 |
-| LK-22 | Matale | district | 518870 | 7979 | 526849 |
-| LK-23 | Nuwara Eliya | district | 719906 | 5345 | 725251 |
-| LK-31 | Galle | district | 1084085 | 13140 | 1097225 |
-| LK-32 | Matara | district | 825062 | 12694 | 837756 |
-| LK-33 | Hambantota | district | 664855 | 6528 | 671383 |
-| LK-41 | Jaffna | district | 585641 | 9058 | 594699 |
-
-### Example Data Row (JSON)
+### Lanka Data (first 30 of 365 lines)
 
 ```json
 {
-    "Region Id": "LK-11",
-    "Region Name": "Colombo",
-    "Region Ent Type": "district",
-    "In District": 2244323,
-    "In Other District": 130546,
-    "Total Value": 2374869
-}
+    "_meta": {
+        "source_url": "https://www.statistics.gov.lk/Resource/en/Population/CPH_2024/CPH2024_Final_Eng.pdf#page=94",
+        "source_description": [
+            "Table 5.1.8, Final Report, 2024 Census of Population and Housing, Department of Census and Statistics, Sri Lanka"
+        ],
+        "what": {
+            "ResidenceDistrictOrOtherDistrict": "Distribution of the Usually Resident Population of a District by their Permanent Residence, 2024"
+        }
+    },
+    "ResidenceDistrictOrOtherDistrict": {
+        "2024": {
+            "LK-11": {
+                "region_id": "LK-11",
+                "region_name": "Colombo",
+                "region_ent_type": "district",
+                "values": {
+                    "InDistrict": 2244323,
+                    "InOtherDistrict": 130546
+                },
+                "total_value": 2374869,
+                "pct_values": {
+                    "InDistrict": 0.945,
+                    "InOtherDistrict": 0.055
+                }
+            },
+            "LK-12": {
+                "region_id": "LK-12",
+                "region_name": "Gampaha",
+                "region_ent_type": "district",
+...
 ```
 
 ### Source
