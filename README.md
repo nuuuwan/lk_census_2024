@@ -1,7 +1,7 @@
 # 🇱🇰 Sri Lanka - Census of Population and Housing 2024
 
 ![CPH](https://img.shields.io/badge/CPH-2024-blue)
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--07--14_14:15:20-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--07--14_14:17:33-green)
 
 **154** Datasets on Population, Housing and more, by Country, Province, District, Divisional Secretariat Division (DSD), Grama Niladhari Division (GND), Electoral District (ED), Polling Division (PD), and Local Government Authority (LG) levels.
 
@@ -614,8 +614,8 @@
 | status | status_label | n |
 | :-- | :-- | --: |
 | 2 | 🔴 Raw data is difficult to parse | 21 |
-| 4 | 🟡 Lanka data is missing | 103 |
-| 5 | ✅ All Stages Complete | 18 |
+| 4 | 🟡 Lanka data is missing | 98 |
+| 5 | ✅ All Stages Complete | 23 |
 
 ## 13. [Officers who have  Assigned for Census of Population and Housing 2024 Activities](data/final-report-tables/chapter-1/1.1.1-Officers-who-have--Assigned-for-Census-of-Population-and-Housing-2024-Activities)
 
@@ -2343,38 +2343,42 @@ years and over | Number | 20,566,680 | 3,613,813 | 11,299 | 16,131,086 | 810,482
 
 ## 58. [Distribution of Persons Aged 5 Years and Over with Disabilities by District and Domain of Disability, 2024](data/final-report-tables/chapter-6/6.2.6-Distribution-of-Persons-Aged-5-Years-and-Over-with-Disabilities-by-District-and-Domain-of-Disability,-2024)
 
-*Build Status (**4**/5) 🟡 Lanka data is missing*
+*Build Status (**5**/5) ✅ All Stages Complete*
 
-### Data Table (first 10 of 57 rows)
-
-| Region Id | Region Name | Region Ent Type | Difficulty In Seeing | Difficulty In Hearing | Difficulty In Walking Or Climbing Steps | Difficulty In Remembering Or Concentrating | Difficulty In Selfcare Such As Washing Or Dressing | Difficulty In Communicating With Others | Total Value |
-| :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- |
-| LK-11 | Colombo | district | 14104 | 9047 | 36504 | 14600 | 16175 | 9811 | 100241 |
-| LK-12 | Gampaha | district | 18644 | 13115 | 47894 | 18425 | 19647 | 11712 | 129437 |
-| LK-13 | Kalutara | district | 9481 | 6799 | 23755 | 10042 | 10463 | 6722 | 67262 |
-| LK-21 | Kandy | district | 13417 | 9188 | 31825 | 11750 | 11875 | 7553 | 85608 |
-| LK-22 | Matale | district | 5188 | 3644 | 12578 | 4415 | 4266 | 2744 | 32835 |
-| LK-23 | Nuwara Eliya | district | 8845 | 4379 | 15715 | 5311 | 6415 | 3401 | 44066 |
-| LK-31 | Galle | district | 9732 | 7556 | 22876 | 9813 | 10001 | 6727 | 66705 |
-| LK-32 | Matara | district | 8935 | 6519 | 20559 | 8317 | 8065 | 5307 | 57702 |
-| LK-33 | Hambantota | district | 7631 | 4848 | 16678 | 6608 | 6351 | 4326 | 46442 |
-| LK-41 | Jaffna | district | 4206 | 3785 | 10055 | 4005 | 7357 | 3406 | 32814 |
-
-### Example Data Row (JSON)
+### Lanka Data (first 30 of 1276 lines)
 
 ```json
 {
-    "Region Id": "LK-11",
-    "Region Name": "Colombo",
-    "Region Ent Type": "district",
-    "Difficulty In Seeing": 14104,
-    "Difficulty In Hearing": 9047,
-    "Difficulty In Walking Or Climbing Steps": 36504,
-    "Difficulty In Remembering Or Concentrating": 14600,
-    "Difficulty In Selfcare Such As Washing Or Dressing": 16175,
-    "Difficulty In Communicating With Others": 9811,
-    "Total Value": 100241
-}
+    "_meta": {
+        "source_url": "https://www.statistics.gov.lk/Resource/en/Population/CPH_2024/CPH2024_Final_Eng.pdf#page=132",
+        "source_description": [
+            "Table 6.2.6, Final Report, 2024 Census of Population and Housing, Department of Census and Statistics, Sri Lanka"
+        ],
+        "what": {
+            "Disabilities": "Distribution of Persons Aged 5 Years and Over with Disabilities by District and Domain of Disability, 2024"
+        },
+        "when": "2024",
+        "where_who_types": [
+            "ed",
+            "province",
+            "district",
+            "country"
+        ]
+    },
+    "Disabilities": {
+        "2024": {
+            "LK-11": {
+                "region_id": "LK-11",
+                "region_name": "Colombo",
+                "region_ent_type": "district",
+                "values": {
+                    "DifficultyInWalkingOrClimbingSteps": 36504,
+                    "DifficultyInSelfcareSuchAsWashingOrDressing": 16175,
+                    "DifficultyInRememberingOrConcentrating": 14600,
+                    "DifficultyInSeeing": 14104,
+                    "DifficultyInCommunicatingWithOthers": 9811,
+                    "DifficultyInHearing": 9047
+...
 ```
 
 ### Source
@@ -2383,38 +2387,42 @@ years and over | Number | 20,566,680 | 3,613,813 | 11,299 | 16,131,086 | 810,482
 
 ## 59. [Distribution of Persons Aged 5 Years and Over with Disabilities by Age Group and Domain of Disability,](data/final-report-tables/chapter-6/6.2.7-Distribution-of-Persons-Aged-5-Years-and-Over-with-Disabilities-by-Age-Group-and-Domain-of-Disability,)
 
-*Build Status (**4**/5) 🟡 Lanka data is missing*
+*Build Status (**5**/5) ✅ All Stages Complete*
 
-### Data Table (first 10 of 17 rows)
-
-| Age Group | Difficulty In Seeing | Difficulty In Hearing | Difficulty In Walking Or Climbing Steps | Difficulty In Remembering Or Concentrating | Difficulty In Selfcare Such As Washing Or Dressing | Difficulty In Communicating With Others | Difficulty In Communicating With Others Rate Per 1000 Persons | No Disability | Total Value |
-| :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- |
-| Sri Lanka | 192578 | 130097 | 447969 | 167826 | 189292 | 112798 | 5.0 | 19326115.0 | 20566680.0 |
-| 05 - 09 | 2513 | 1693 | 3685 | 4215 | 6959 | 5358 | 3.0 | 1532097.0 | 1556523.0 |
-| 10 - 14 | 3145 | 2050 | 4264 | 5822 | 5232 | 6095 | 4.0 | 1708584.0 | 1735196.0 |
-| 15 - 19 | 3346 | 2151 | 4698 | 6514 | 4983 | 6287 | 4.0 | 1767055.0 | 1795038.0 |
-| 20 - 24 | 2911 | 2163 | 4450 | 5909 | 4392 | 5651 | 4.0 | 1583126.0 | 1608606.0 |
-| 25 - 29 | 2499 | 2515 | 4362 | 5455 | 3838 | 5444 | 4.0 | 1348341.0 | 1372458.0 |
-| 30 - 34 | 2915 | 2918 | 5426 | 5882 | 4104 | 5682 | 4.0 | 1387129.0 | 1414060.0 |
-| 35 - 39 | 3686 | 2864 | 7291 | 5813 | 4139 | 5317 | 4.0 | 1423589.0 | 1452703.0 |
-| 40 - 44 | 5677 | 3549 | 10262 | 6751 | 4936 | 5576 | 3.0 | 1565590.0 | 1602344.0 |
-| 45 - 49 | 7939 | 4754 | 14371 | 6761 | 5686 | 6229 | 4.0 | 1445021.0 | 1490765.0 |
-
-### Example Data Row (JSON)
+### Lanka Data (first 30 of 427 lines)
 
 ```json
 {
-    "Age Group": "Sri Lanka",
-    "Difficulty In Seeing": 192578,
-    "Difficulty In Hearing": 130097,
-    "Difficulty In Walking Or Climbing Steps": 447969,
-    "Difficulty In Remembering Or Concentrating": 167826,
-    "Difficulty In Selfcare Such As Washing Or Dressing": 189292,
-    "Difficulty In Communicating With Others": 112798,
-    "Difficulty In Communicating With Others Rate Per 1000 Persons": 5.0,
-    "No Disability": 19326115.0,
-    "Total Value": 20566680.0
-}
+    "_meta": {
+        "source_url": "https://www.statistics.gov.lk/Resource/en/Population/CPH_2024/CPH2024_Final_Eng.pdf#page=133",
+        "source_description": [
+            "Table 6.2.7, Final Report, 2024 Census of Population and Housing, Department of Census and Statistics, Sri Lanka"
+        ],
+        "what": {
+            "DisabilitiesByAgeGroup": "Distribution of Persons Aged 5 Years and Over with Disabilities by Age Group and Domain of Disability,"
+        },
+        "when": "2024",
+        "where_who_types": [
+            "age_group"
+        ]
+    },
+    "DisabilitiesByAgeGroup": {
+        "2024": {
+            "Sri Lanka": {
+                "age_group": "Sri Lanka",
+                "values": {
+                    "NoDisability": 19326115.0,
+                    "DifficultyInWalkingOrClimbingSteps": 447969,
+                    "DifficultyInSeeing": 192578,
+                    "DifficultyInSelfcareSuchAsWashingOrDressing": 189292,
+                    "DifficultyInRememberingOrConcentrating": 167826,
+                    "DifficultyInHearing": 130097,
+                    "DifficultyInCommunicatingWithOthers": 112798,
+                    "DifficultyInCommunicatingWithOthersRatePer1000Persons": 5.0
+                },
+                "total_value": 20566680.0,
+                "pct_values": {
+...
 ```
 
 ### Source
@@ -2423,33 +2431,42 @@ years and over | Number | 20,566,680 | 3,613,813 | 11,299 | 16,131,086 | 810,482
 
 ## 60. [Distribution of Persons with a Single Disability and with Multiple Disabilities by Age Group, 2024](data/final-report-tables/chapter-6/6.2.8-Distribution-of-Persons-with-a-Single-Disability-and-with-Multiple-Disabilities-by-Age-Group,-2024)
 
-*Build Status (**4**/5) 🟡 Lanka data is missing*
+*Build Status (**5**/5) ✅ All Stages Complete*
 
-### Data Table (first 10 of 17 rows)
-
-| Age Group | With Single Disability | With More Than One Disability | No Disability | Total Value |
-| :-- | :-- | :-- | :-- | :-- |
-| Sri Lanka | 452247 | 275046 | 19839387 | 20566680 |
-| 05 - 09 | 7320 | 5419 | 1543784 | 1556523 |
-| 10 - 14 | 6995 | 6400 | 1721801 | 1735196 |
-| 15 - 19 | 7643 | 6713 | 1780682 | 1795038 |
-| 20 - 24 | 7169 | 6153 | 1595284 | 1608606 |
-| 25 - 29 | 7156 | 5950 | 1359352 | 1372458 |
-| 30 - 34 | 8909 | 6515 | 1398636 | 1414060 |
-| 35 - 39 | 11522 | 6555 | 1434626 | 1452703 |
-| 40 - 44 | 16534 | 7734 | 1578076 | 1602344 |
-| 45 - 49 | 21690 | 9434 | 1459641 | 1490765 |
-
-### Example Data Row (JSON)
+### Lanka Data (first 30 of 257 lines)
 
 ```json
 {
-    "Age Group": "Sri Lanka",
-    "With Single Disability": 452247,
-    "With More Than One Disability": 275046,
-    "No Disability": 19839387,
-    "Total Value": 20566680
-}
+    "_meta": {
+        "source_url": "https://www.statistics.gov.lk/Resource/en/Population/CPH_2024/CPH2024_Final_Eng.pdf#page=134",
+        "source_description": [
+            "Table 6.2.8, Final Report, 2024 Census of Population and Housing, Department of Census and Statistics, Sri Lanka"
+        ],
+        "what": {
+            "DisabilitiesByAgeGroupSingleOrMultiple": "Distribution of Persons with a Single Disability and with Multiple Disabilities by Age Group, 2024"
+        },
+        "when": "2024",
+        "where_who_types": [
+            "age_group"
+        ]
+    },
+    "DisabilitiesByAgeGroupSingleOrMultiple": {
+        "2024": {
+            "Sri Lanka": {
+                "age_group": "Sri Lanka",
+                "values": {
+                    "NoDisability": 19839387,
+                    "WithSingleDisability": 452247,
+                    "WithMoreThanOneDisability": 275046
+                },
+                "total_value": 20566680,
+                "pct_values": {
+                    "NoDisability": 0.9646,
+                    "WithSingleDisability": 0.022,
+                    "WithMoreThanOneDisability": 0.0134
+                }
+            },
+...
 ```
 
 ### Source
@@ -2529,34 +2546,42 @@ years and over | Number | 20,566,680 | 3,613,813 | 11,299 | 16,131,086 | 810,482
 
 ## 63. [Distribution of Persons Aged 5 Years and Over with Disabilities by Marital Status and Domain of Disability,2024](data/final-report-tables/chapter-6/6.2.11-Distribution-of-Persons-Aged-5-Years-and-Over-with-Disabilities-by-Marital-Status-and-Domain-of-Disability,2024)
 
-*Build Status (**4**/5) 🟡 Lanka data is missing*
+*Build Status (**5**/5) ✅ All Stages Complete*
 
-### Data Table
-
-| Marital Status | Difficulty In Seeing | Difficulty In Hearing | Difficulty In Walking Or Climbing Steps | Difficulty In Remembering Or Concentrating | Difficulty In Selfcare Such As Washing Or Dressing | Difficulty In Communicating With Others | No Disability | Total Value |
-| :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- |
-| Sri Lanka | 192578 | 130097 | 447969 | 167826 | 189292 | 112798 | 19326120 | 20566680 |
-| Never Married | 26799 | 24124 | 55653 | 63731 | 47650 | 53285 | 7613788 | 7885030 |
-| Married | 108272 | 64434 | 247239 | 58641 | 84887 | 38237 | 10559368 | 11161078 |
-| Widowed | 54018 | 39306 | 137784 | 42185 | 54247 | 19327 | 887551 | 1234418 |
-| Divorced | 712 | 499 | 1553 | 840 | 633 | 494 | 69624 | 74355 |
-| Legally Separated | 430 | 268 | 981 | 417 | 332 | 245 | 42231 | 44904 |
-| Separated(not Legally) | 2347 | 1466 | 4759 | 2012 | 1543 | 1210 | 153558 | 166895 |
-
-### Example Data Row (JSON)
+### Lanka Data (first 30 of 173 lines)
 
 ```json
 {
-    "Marital Status": "Sri Lanka",
-    "Difficulty In Seeing": 192578,
-    "Difficulty In Hearing": 130097,
-    "Difficulty In Walking Or Climbing Steps": 447969,
-    "Difficulty In Remembering Or Concentrating": 167826,
-    "Difficulty In Selfcare Such As Washing Or Dressing": 189292,
-    "Difficulty In Communicating With Others": 112798,
-    "No Disability": 19326120,
-    "Total Value": 20566680
-}
+    "_meta": {
+        "source_url": "https://www.statistics.gov.lk/Resource/en/Population/CPH_2024/CPH2024_Final_Eng.pdf#page=136",
+        "source_description": [
+            "Table 6.2.11, Final Report, 2024 Census of Population and Housing, Department of Census and Statistics, Sri Lanka"
+        ],
+        "what": {
+            "DisabilitiesByMaritalStatus": "Distribution of Persons Aged 5 Years and Over with Disabilities by Marital Status and Domain of Disability,2024"
+        },
+        "when": "2024",
+        "where_who_types": [
+            "marital_status"
+        ]
+    },
+    "DisabilitiesByMaritalStatus": {
+        "2024": {
+            "Sri Lanka": {
+                "marital_status": "Sri Lanka",
+                "values": {
+                    "NoDisability": 19326120,
+                    "DifficultyInWalkingOrClimbingSteps": 447969,
+                    "DifficultyInSeeing": 192578,
+                    "DifficultyInSelfcareSuchAsWashingOrDressing": 189292,
+                    "DifficultyInRememberingOrConcentrating": 167826,
+                    "DifficultyInHearing": 130097,
+                    "DifficultyInCommunicatingWithOthers": 112798
+                },
+                "total_value": 20566680,
+                "pct_values": {
+                    "NoDisability": 0.9397,
+...
 ```
 
 ### Source
@@ -2565,36 +2590,42 @@ years and over | Number | 20,566,680 | 3,613,813 | 11,299 | 16,131,086 | 810,482
 
 ## 64. [Distribution of Persons Aged 5 Years and Over with Disabilities by Highest Educational Qualification andDomain of Disability, 2024](data/final-report-tables/chapter-6/6.2.12-Distribution-of-Persons-Aged-5-Years-and-Over-with-Disabilities-by-Highest-Educational-Qualification-andDomain-of-Disability,-2024)
 
-*Build Status (**4**/5) 🟡 Lanka data is missing*
+*Build Status (**5**/5) ✅ All Stages Complete*
 
-### Data Table
-
-| Highest Educational Qualification | Difficulty In Seeing | Difficulty In Hearing | Difficulty In Walking Or Climbing Steps | Difficulty In Remembering Or Concentrating | Difficulty In Selfcare Such As Washing Or Dressing | Difficulty In Communicating With Others | No Disability | Total Value |
-| :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- |
-| Sri Lanka | 192578 | 130097 | 447969 | 167826 | 189292 | 112798 | 19326120 | 20566680 |
-| Never attended School | 30146 | 27485 | 61681 | 46627 | 43022 | 39767 | 437737 | 686465 |
-| Studied/Studying Special  School/ Educational unit | 1086 | 3518 | 2664 | 7992 | 4516 | 9367 | 12961 | 42104 |
-| Passed Grade 1-5* | 66400 | 45542 | 144615 | 51177 | 60164 | 28445 | 3205073 | 3601416 |
-| Passed Grade 6-8 | 33325 | 21432 | 82747 | 23477 | 29113 | 12753 | 2563827 | 2766674 |
-| Passed Grade 9-10 | 29431 | 16295 | 71595 | 19057 | 23440 | 11283 | 4452750 | 4623851 |
-| G.C.E. (O/L) or equivalent | 20120 | 10246 | 53684 | 11951 | 17462 | 6739 | 4146115 | 4266317 |
-| G.C.E. (A/L) or equivalent | 9754 | 4577 | 25683 | 6207 | 9369 | 3538 | 3498137 | 3557265 |
-| Degree & above | 2316 | 1002 | 5300 | 1338 | 2206 | 906 | 1009520 | 1022588 |
-
-### Example Data Row (JSON)
+### Lanka Data (first 30 of 217 lines)
 
 ```json
 {
-    "Highest Educational Qualification": "Sri Lanka",
-    "Difficulty In Seeing": 192578,
-    "Difficulty In Hearing": 130097,
-    "Difficulty In Walking Or Climbing Steps": 447969,
-    "Difficulty In Remembering Or Concentrating": 167826,
-    "Difficulty In Selfcare Such As Washing Or Dressing": 189292,
-    "Difficulty In Communicating With Others": 112798,
-    "No Disability": 19326120,
-    "Total Value": 20566680
-}
+    "_meta": {
+        "source_url": "https://www.statistics.gov.lk/Resource/en/Population/CPH_2024/CPH2024_Final_Eng.pdf#page=136",
+        "source_description": [
+            "Table 6.2.12, Final Report, 2024 Census of Population and Housing, Department of Census and Statistics, Sri Lanka"
+        ],
+        "what": {
+            "DisabilitiesByEducation": "Distribution of Persons Aged 5 Years and Over with Disabilities by Highest Educational Qualification andDomain of Disability, 2024"
+        },
+        "when": "2024",
+        "where_who_types": [
+            "highest_educational_qualification"
+        ]
+    },
+    "DisabilitiesByEducation": {
+        "2024": {
+            "Sri Lanka": {
+                "highest_educational_qualification": "Sri Lanka",
+                "values": {
+                    "NoDisability": 19326120,
+                    "DifficultyInWalkingOrClimbingSteps": 447969,
+                    "DifficultyInSeeing": 192578,
+                    "DifficultyInSelfcareSuchAsWashingOrDressing": 189292,
+                    "DifficultyInRememberingOrConcentrating": 167826,
+                    "DifficultyInHearing": 130097,
+                    "DifficultyInCommunicatingWithOthers": 112798
+                },
+                "total_value": 20566680,
+                "pct_values": {
+                    "NoDisability": 0.9397,
+...
 ```
 
 ### Source

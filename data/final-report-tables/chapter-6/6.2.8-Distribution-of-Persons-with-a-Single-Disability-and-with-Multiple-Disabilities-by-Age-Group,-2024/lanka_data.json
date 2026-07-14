@@ -1,0 +1,257 @@
+{
+  "_meta": {
+    "source_url": "https://www.statistics.gov.lk/Resource/en/Population/CPH_2024/CPH2024_Final_Eng.pdf#page=134",
+    "source_description": [
+      "Table 6.2.8, Final Report, 2024 Census of Population and Housing, Department of Census and Statistics, Sri Lanka"
+    ],
+    "what": {
+      "DisabilitiesByAgeGroupSingleOrMultiple": "Distribution of Persons with a Single Disability and with Multiple Disabilities by Age Group, 2024"
+    },
+    "when": "2024",
+    "where_who_types": [
+      "age_group"
+    ]
+  },
+  "DisabilitiesByAgeGroupSingleOrMultiple": {
+    "2024": {
+      "Sri Lanka": {
+        "age_group": "Sri Lanka",
+        "values": {
+          "NoDisability": 19839387,
+          "WithSingleDisability": 452247,
+          "WithMoreThanOneDisability": 275046
+        },
+        "total_value": 20566680,
+        "pct_values": {
+          "NoDisability": 0.9646,
+          "WithSingleDisability": 0.022,
+          "WithMoreThanOneDisability": 0.0134
+        }
+      },
+      "05 - 09": {
+        "age_group": "05 - 09",
+        "values": {
+          "NoDisability": 1543784,
+          "WithSingleDisability": 7320,
+          "WithMoreThanOneDisability": 5419
+        },
+        "total_value": 1556523,
+        "pct_values": {
+          "NoDisability": 0.9918,
+          "WithSingleDisability": 0.0047,
+          "WithMoreThanOneDisability": 0.0035
+        }
+      },
+      "10 - 14": {
+        "age_group": "10 - 14",
+        "values": {
+          "NoDisability": 1721801,
+          "WithSingleDisability": 6995,
+          "WithMoreThanOneDisability": 6400
+        },
+        "total_value": 1735196,
+        "pct_values": {
+          "NoDisability": 0.9923,
+          "WithSingleDisability": 0.004,
+          "WithMoreThanOneDisability": 0.0037
+        }
+      },
+      "15 - 19": {
+        "age_group": "15 - 19",
+        "values": {
+          "NoDisability": 1780682,
+          "WithSingleDisability": 7643,
+          "WithMoreThanOneDisability": 6713
+        },
+        "total_value": 1795038,
+        "pct_values": {
+          "NoDisability": 0.992,
+          "WithSingleDisability": 0.0043,
+          "WithMoreThanOneDisability": 0.0037
+        }
+      },
+      "20 - 24": {
+        "age_group": "20 - 24",
+        "values": {
+          "NoDisability": 1595284,
+          "WithSingleDisability": 7169,
+          "WithMoreThanOneDisability": 6153
+        },
+        "total_value": 1608606,
+        "pct_values": {
+          "NoDisability": 0.9917,
+          "WithSingleDisability": 0.0045,
+          "WithMoreThanOneDisability": 0.0038
+        }
+      },
+      "25 - 29": {
+        "age_group": "25 - 29",
+        "values": {
+          "NoDisability": 1359352,
+          "WithSingleDisability": 7156,
+          "WithMoreThanOneDisability": 5950
+        },
+        "total_value": 1372458,
+        "pct_values": {
+          "NoDisability": 0.9905,
+          "WithSingleDisability": 0.0052,
+          "WithMoreThanOneDisability": 0.0043
+        }
+      },
+      "30 - 34": {
+        "age_group": "30 - 34",
+        "values": {
+          "NoDisability": 1398636,
+          "WithSingleDisability": 8909,
+          "WithMoreThanOneDisability": 6515
+        },
+        "total_value": 1414060,
+        "pct_values": {
+          "NoDisability": 0.9891,
+          "WithSingleDisability": 0.0063,
+          "WithMoreThanOneDisability": 0.0046
+        }
+      },
+      "35 - 39": {
+        "age_group": "35 - 39",
+        "values": {
+          "NoDisability": 1434626,
+          "WithSingleDisability": 11522,
+          "WithMoreThanOneDisability": 6555
+        },
+        "total_value": 1452703,
+        "pct_values": {
+          "NoDisability": 0.9876,
+          "WithSingleDisability": 0.0079,
+          "WithMoreThanOneDisability": 0.0045
+        }
+      },
+      "40 - 44": {
+        "age_group": "40 - 44",
+        "values": {
+          "NoDisability": 1578076,
+          "WithSingleDisability": 16534,
+          "WithMoreThanOneDisability": 7734
+        },
+        "total_value": 1602344,
+        "pct_values": {
+          "NoDisability": 0.9849,
+          "WithSingleDisability": 0.0103,
+          "WithMoreThanOneDisability": 0.0048
+        }
+      },
+      "45 - 49": {
+        "age_group": "45 - 49",
+        "values": {
+          "NoDisability": 1459641,
+          "WithSingleDisability": 21690,
+          "WithMoreThanOneDisability": 9434
+        },
+        "total_value": 1490765,
+        "pct_values": {
+          "NoDisability": 0.9791,
+          "WithSingleDisability": 0.0145,
+          "WithMoreThanOneDisability": 0.0063
+        }
+      },
+      "50 - 54": {
+        "age_group": "50 - 54",
+        "values": {
+          "NoDisability": 1304746,
+          "WithSingleDisability": 27220,
+          "WithMoreThanOneDisability": 9841
+        },
+        "total_value": 1341807,
+        "pct_values": {
+          "NoDisability": 0.9724,
+          "WithSingleDisability": 0.0203,
+          "WithMoreThanOneDisability": 0.0073
+        }
+      },
+      "55 - 59": {
+        "age_group": "55 - 59",
+        "values": {
+          "NoDisability": 1225877,
+          "WithSingleDisability": 36944,
+          "WithMoreThanOneDisability": 13235
+        },
+        "total_value": 1276056,
+        "pct_values": {
+          "NoDisability": 0.9607,
+          "WithSingleDisability": 0.029,
+          "WithMoreThanOneDisability": 0.0104
+        }
+      },
+      "60 - 64": {
+        "age_group": "60 - 64",
+        "values": {
+          "NoDisability": 1116671,
+          "WithSingleDisability": 48823,
+          "WithMoreThanOneDisability": 17816
+        },
+        "total_value": 1183310,
+        "pct_values": {
+          "NoDisability": 0.9437,
+          "WithSingleDisability": 0.0413,
+          "WithMoreThanOneDisability": 0.0151
+        }
+      },
+      "65 - 69": {
+        "age_group": "65 - 69",
+        "values": {
+          "NoDisability": 910065,
+          "WithSingleDisability": 58416,
+          "WithMoreThanOneDisability": 23333
+        },
+        "total_value": 991814,
+        "pct_values": {
+          "NoDisability": 0.9176,
+          "WithSingleDisability": 0.0589,
+          "WithMoreThanOneDisability": 0.0235
+        }
+      },
+      "70 - 74": {
+        "age_group": "70 - 74",
+        "values": {
+          "NoDisability": 697924,
+          "WithSingleDisability": 65119,
+          "WithMoreThanOneDisability": 32496
+        },
+        "total_value": 795539,
+        "pct_values": {
+          "NoDisability": 0.8773,
+          "WithSingleDisability": 0.0819,
+          "WithMoreThanOneDisability": 0.0408
+        }
+      },
+      "75 - 79": {
+        "age_group": "75 - 79",
+        "values": {
+          "NoDisability": 427128,
+          "WithSingleDisability": 57716,
+          "WithMoreThanOneDisability": 38146
+        },
+        "total_value": 522990,
+        "pct_values": {
+          "NoDisability": 0.8167,
+          "WithSingleDisability": 0.1104,
+          "WithMoreThanOneDisability": 0.0729
+        }
+      },
+      "80 & over": {
+        "age_group": "80 & over",
+        "values": {
+          "NoDisability": 285094,
+          "WithMoreThanOneDisability": 79306,
+          "WithSingleDisability": 63071
+        },
+        "total_value": 427471,
+        "pct_values": {
+          "NoDisability": 0.6669,
+          "WithMoreThanOneDisability": 0.1855,
+          "WithSingleDisability": 0.1475
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,427 @@
+{
+  "_meta": {
+    "source_url": "https://www.statistics.gov.lk/Resource/en/Population/CPH_2024/CPH2024_Final_Eng.pdf#page=133",
+    "source_description": [
+      "Table 6.2.7, Final Report, 2024 Census of Population and Housing, Department of Census and Statistics, Sri Lanka"
+    ],
+    "what": {
+      "DisabilitiesByAgeGroup": "Distribution of Persons Aged 5 Years and Over with Disabilities by Age Group and Domain of Disability,"
+    },
+    "when": "2024",
+    "where_who_types": [
+      "age_group"
+    ]
+  },
+  "DisabilitiesByAgeGroup": {
+    "2024": {
+      "Sri Lanka": {
+        "age_group": "Sri Lanka",
+        "values": {
+          "NoDisability": 19326115.0,
+          "DifficultyInWalkingOrClimbingSteps": 447969,
+          "DifficultyInSeeing": 192578,
+          "DifficultyInSelfcareSuchAsWashingOrDressing": 189292,
+          "DifficultyInRememberingOrConcentrating": 167826,
+          "DifficultyInHearing": 130097,
+          "DifficultyInCommunicatingWithOthers": 112798,
+          "DifficultyInCommunicatingWithOthersRatePer1000Persons": 5.0
+        },
+        "total_value": 20566680.0,
+        "pct_values": {
+          "NoDisability": 0.9397,
+          "DifficultyInWalkingOrClimbingSteps": 0.0218,
+          "DifficultyInSeeing": 0.0094,
+          "DifficultyInSelfcareSuchAsWashingOrDressing": 0.0092,
+          "DifficultyInRememberingOrConcentrating": 0.0082,
+          "DifficultyInHearing": 0.0063,
+          "DifficultyInCommunicatingWithOthers": 0.0055,
+          "DifficultyInCommunicatingWithOthersRatePer1000Persons": 0.0
+        }
+      },
+      "05 - 09": {
+        "age_group": "05 - 09",
+        "values": {
+          "NoDisability": 1532097.0,
+          "DifficultyInSelfcareSuchAsWashingOrDressing": 6959,
+          "DifficultyInCommunicatingWithOthers": 5358,
+          "DifficultyInRememberingOrConcentrating": 4215,
+          "DifficultyInWalkingOrClimbingSteps": 3685,
+          "DifficultyInSeeing": 2513,
+          "DifficultyInHearing": 1693,
+          "DifficultyInCommunicatingWithOthersRatePer1000Persons": 3.0
+        },
+        "total_value": 1556523.0,
+        "pct_values": {
+          "NoDisability": 0.9843,
+          "DifficultyInSelfcareSuchAsWashingOrDressing": 0.0045,
+          "DifficultyInCommunicatingWithOthers": 0.0034,
+          "DifficultyInRememberingOrConcentrating": 0.0027,
+          "DifficultyInWalkingOrClimbingSteps": 0.0024,
+          "DifficultyInSeeing": 0.0016,
+          "DifficultyInHearing": 0.0011,
+          "DifficultyInCommunicatingWithOthersRatePer1000Persons": 0.0
+        }
+      },
+      "10 - 14": {
+        "age_group": "10 - 14",
+        "values": {
+          "NoDisability": 1708584.0,
+          "DifficultyInCommunicatingWithOthers": 6095,
+          "DifficultyInRememberingOrConcentrating": 5822,
+          "DifficultyInSelfcareSuchAsWashingOrDressing": 5232,
+          "DifficultyInWalkingOrClimbingSteps": 4264,
+          "DifficultyInSeeing": 3145,
+          "DifficultyInHearing": 2050,
+          "DifficultyInCommunicatingWithOthersRatePer1000Persons": 4.0
+        },
+        "total_value": 1735196.0,
+        "pct_values": {
+          "NoDisability": 0.9847,
+          "DifficultyInCommunicatingWithOthers": 0.0035,
+          "DifficultyInRememberingOrConcentrating": 0.0034,
+          "DifficultyInSelfcareSuchAsWashingOrDressing": 0.003,
+          "DifficultyInWalkingOrClimbingSteps": 0.0025,
+          "DifficultyInSeeing": 0.0018,
+          "DifficultyInHearing": 0.0012,
+          "DifficultyInCommunicatingWithOthersRatePer1000Persons": 0.0
+        }
+      },
+      "15 - 19": {
+        "age_group": "15 - 19",
+        "values": {
+          "NoDisability": 1767055.0,
+          "DifficultyInRememberingOrConcentrating": 6514,
+          "DifficultyInCommunicatingWithOthers": 6287,
+          "DifficultyInSelfcareSuchAsWashingOrDressing": 4983,
+          "DifficultyInWalkingOrClimbingSteps": 4698,
+          "DifficultyInSeeing": 3346,
+          "DifficultyInHearing": 2151,
+          "DifficultyInCommunicatingWithOthersRatePer1000Persons": 4.0
+        },
+        "total_value": 1795038.0,
+        "pct_values": {
+          "NoDisability": 0.9844,
+          "DifficultyInRememberingOrConcentrating": 0.0036,
+          "DifficultyInCommunicatingWithOthers": 0.0035,
+          "DifficultyInSelfcareSuchAsWashingOrDressing": 0.0028,
+          "DifficultyInWalkingOrClimbingSteps": 0.0026,
+          "DifficultyInSeeing": 0.0019,
+          "DifficultyInHearing": 0.0012,
+          "DifficultyInCommunicatingWithOthersRatePer1000Persons": 0.0
+        }
+      },
+      "20 - 24": {
+        "age_group": "20 - 24",
+        "values": {
+          "NoDisability": 1583126.0,
+          "DifficultyInRememberingOrConcentrating": 5909,
+          "DifficultyInCommunicatingWithOthers": 5651,
+          "DifficultyInWalkingOrClimbingSteps": 4450,
+          "DifficultyInSelfcareSuchAsWashingOrDressing": 4392,
+          "DifficultyInSeeing": 2911,
+          "DifficultyInHearing": 2163,
+          "DifficultyInCommunicatingWithOthersRatePer1000Persons": 4.0
+        },
+        "total_value": 1608606.0,
+        "pct_values": {
+          "NoDisability": 0.9842,
+          "DifficultyInRememberingOrConcentrating": 0.0037,
+          "DifficultyInCommunicatingWithOthers": 0.0035,
+          "DifficultyInWalkingOrClimbingSteps": 0.0028,
+          "DifficultyInSelfcareSuchAsWashingOrDressing": 0.0027,
+          "DifficultyInSeeing": 0.0018,
+          "DifficultyInHearing": 0.0013,
+          "DifficultyInCommunicatingWithOthersRatePer1000Persons": 0.0
+        }
+      },
+      "25 - 29": {
+        "age_group": "25 - 29",
+        "values": {
+          "NoDisability": 1348341.0,
+          "DifficultyInRememberingOrConcentrating": 5455,
+          "DifficultyInCommunicatingWithOthers": 5444,
+          "DifficultyInWalkingOrClimbingSteps": 4362,
+          "DifficultyInSelfcareSuchAsWashingOrDressing": 3838,
+          "DifficultyInHearing": 2515,
+          "DifficultyInSeeing": 2499,
+          "DifficultyInCommunicatingWithOthersRatePer1000Persons": 4.0
+        },
+        "total_value": 1372458.0,
+        "pct_values": {
+          "NoDisability": 0.9824,
+          "DifficultyInRememberingOrConcentrating": 0.004,
+          "DifficultyInCommunicatingWithOthers": 0.004,
+          "DifficultyInWalkingOrClimbingSteps": 0.0032,
+          "DifficultyInSelfcareSuchAsWashingOrDressing": 0.0028,
+          "DifficultyInHearing": 0.0018,
+          "DifficultyInSeeing": 0.0018,
+          "DifficultyInCommunicatingWithOthersRatePer1000Persons": 0.0
+        }
+      },
+      "30 - 34": {
+        "age_group": "30 - 34",
+        "values": {
+          "NoDisability": 1387129.0,
+          "DifficultyInRememberingOrConcentrating": 5882,
+          "DifficultyInCommunicatingWithOthers": 5682,
+          "DifficultyInWalkingOrClimbingSteps": 5426,
+          "DifficultyInSelfcareSuchAsWashingOrDressing": 4104,
+          "DifficultyInHearing": 2918,
+          "DifficultyInSeeing": 2915,
+          "DifficultyInCommunicatingWithOthersRatePer1000Persons": 4.0
+        },
+        "total_value": 1414060.0,
+        "pct_values": {
+          "NoDisability": 0.981,
+          "DifficultyInRememberingOrConcentrating": 0.0042,
+          "DifficultyInCommunicatingWithOthers": 0.004,
+          "DifficultyInWalkingOrClimbingSteps": 0.0038,
+          "DifficultyInSelfcareSuchAsWashingOrDressing": 0.0029,
+          "DifficultyInHearing": 0.0021,
+          "DifficultyInSeeing": 0.0021,
+          "DifficultyInCommunicatingWithOthersRatePer1000Persons": 0.0
+        }
+      },
+      "35 - 39": {
+        "age_group": "35 - 39",
+        "values": {
+          "NoDisability": 1423589.0,
+          "DifficultyInWalkingOrClimbingSteps": 7291,
+          "DifficultyInRememberingOrConcentrating": 5813,
+          "DifficultyInCommunicatingWithOthers": 5317,
+          "DifficultyInSelfcareSuchAsWashingOrDressing": 4139,
+          "DifficultyInSeeing": 3686,
+          "DifficultyInHearing": 2864,
+          "DifficultyInCommunicatingWithOthersRatePer1000Persons": 4.0
+        },
+        "total_value": 1452703.0,
+        "pct_values": {
+          "NoDisability": 0.98,
+          "DifficultyInWalkingOrClimbingSteps": 0.005,
+          "DifficultyInRememberingOrConcentrating": 0.004,
+          "DifficultyInCommunicatingWithOthers": 0.0037,
+          "DifficultyInSelfcareSuchAsWashingOrDressing": 0.0028,
+          "DifficultyInSeeing": 0.0025,
+          "DifficultyInHearing": 0.002,
+          "DifficultyInCommunicatingWithOthersRatePer1000Persons": 0.0
+        }
+      },
+      "40 - 44": {
+        "age_group": "40 - 44",
+        "values": {
+          "NoDisability": 1565590.0,
+          "DifficultyInWalkingOrClimbingSteps": 10262,
+          "DifficultyInRememberingOrConcentrating": 6751,
+          "DifficultyInSeeing": 5677,
+          "DifficultyInCommunicatingWithOthers": 5576,
+          "DifficultyInSelfcareSuchAsWashingOrDressing": 4936,
+          "DifficultyInHearing": 3549,
+          "DifficultyInCommunicatingWithOthersRatePer1000Persons": 3.0
+        },
+        "total_value": 1602344.0,
+        "pct_values": {
+          "NoDisability": 0.9771,
+          "DifficultyInWalkingOrClimbingSteps": 0.0064,
+          "DifficultyInRememberingOrConcentrating": 0.0042,
+          "DifficultyInSeeing": 0.0035,
+          "DifficultyInCommunicatingWithOthers": 0.0035,
+          "DifficultyInSelfcareSuchAsWashingOrDressing": 0.0031,
+          "DifficultyInHearing": 0.0022,
+          "DifficultyInCommunicatingWithOthersRatePer1000Persons": 0.0
+        }
+      },
+      "45 - 49": {
+        "age_group": "45 - 49",
+        "values": {
+          "NoDisability": 1445021.0,
+          "DifficultyInWalkingOrClimbingSteps": 14371,
+          "DifficultyInSeeing": 7939,
+          "DifficultyInRememberingOrConcentrating": 6761,
+          "DifficultyInCommunicatingWithOthers": 6229,
+          "DifficultyInSelfcareSuchAsWashingOrDressing": 5686,
+          "DifficultyInHearing": 4754,
+          "DifficultyInCommunicatingWithOthersRatePer1000Persons": 4.0
+        },
+        "total_value": 1490765.0,
+        "pct_values": {
+          "NoDisability": 0.9693,
+          "DifficultyInWalkingOrClimbingSteps": 0.0096,
+          "DifficultyInSeeing": 0.0053,
+          "DifficultyInRememberingOrConcentrating": 0.0045,
+          "DifficultyInCommunicatingWithOthers": 0.0042,
+          "DifficultyInSelfcareSuchAsWashingOrDressing": 0.0038,
+          "DifficultyInHearing": 0.0032,
+          "DifficultyInCommunicatingWithOthersRatePer1000Persons": 0.0
+        }
+      },
+      "50 - 54": {
+        "age_group": "50 - 54",
+        "values": {
+          "NoDisability": 1289641.0,
+          "DifficultyInWalkingOrClimbingSteps": 19681,
+          "DifficultyInSeeing": 9841,
+          "DifficultyInRememberingOrConcentrating": 6848,
+          "DifficultyInSelfcareSuchAsWashingOrDressing": 6308,
+          "DifficultyInCommunicatingWithOthers": 5207,
+          "DifficultyInHearing": 4277,
+          "DifficultyInCommunicatingWithOthersRatePer1000Persons": 4.0
+        },
+        "total_value": 1341807.0,
+        "pct_values": {
+          "NoDisability": 0.9611,
+          "DifficultyInWalkingOrClimbingSteps": 0.0147,
+          "DifficultyInSeeing": 0.0073,
+          "DifficultyInRememberingOrConcentrating": 0.0051,
+          "DifficultyInSelfcareSuchAsWashingOrDressing": 0.0047,
+          "DifficultyInCommunicatingWithOthers": 0.0039,
+          "DifficultyInHearing": 0.0032,
+          "DifficultyInCommunicatingWithOthersRatePer1000Persons": 0.0
+        }
+      },
+      "55 - 59": {
+        "age_group": "55 - 59",
+        "values": {
+          "NoDisability": 1205812.0,
+          "DifficultyInWalkingOrClimbingSteps": 29053,
+          "DifficultyInSeeing": 13195,
+          "DifficultyInSelfcareSuchAsWashingOrDressing": 8703,
+          "DifficultyInRememberingOrConcentrating": 7889,
+          "DifficultyInCommunicatingWithOthers": 5728,
+          "DifficultyInHearing": 5672,
+          "DifficultyInCommunicatingWithOthersRatePer1000Persons": 4.0
+        },
+        "total_value": 1276056.0,
+        "pct_values": {
+          "NoDisability": 0.945,
+          "DifficultyInWalkingOrClimbingSteps": 0.0228,
+          "DifficultyInSeeing": 0.0103,
+          "DifficultyInSelfcareSuchAsWashingOrDressing": 0.0068,
+          "DifficultyInRememberingOrConcentrating": 0.0062,
+          "DifficultyInCommunicatingWithOthers": 0.0045,
+          "DifficultyInHearing": 0.0044,
+          "DifficultyInCommunicatingWithOthersRatePer1000Persons": 0.0
+        }
+      },
+      "60 - 64": {
+        "age_group": "60 - 64",
+        "values": {
+          "NoDisability": 1089090.0,
+          "DifficultyInWalkingOrClimbingSteps": 41282,
+          "DifficultyInSeeing": 17904,
+          "DifficultyInSelfcareSuchAsWashingOrDressing": 11789,
+          "DifficultyInRememberingOrConcentrating": 9603,
+          "DifficultyInHearing": 7568,
+          "DifficultyInCommunicatingWithOthers": 6069,
+          "DifficultyInCommunicatingWithOthersRatePer1000Persons": 5.0
+        },
+        "total_value": 1183310.0,
+        "pct_values": {
+          "NoDisability": 0.9204,
+          "DifficultyInWalkingOrClimbingSteps": 0.0349,
+          "DifficultyInSeeing": 0.0151,
+          "DifficultyInSelfcareSuchAsWashingOrDressing": 0.01,
+          "DifficultyInRememberingOrConcentrating": 0.0081,
+          "DifficultyInHearing": 0.0064,
+          "DifficultyInCommunicatingWithOthers": 0.0051,
+          "DifficultyInCommunicatingWithOthersRatePer1000Persons": 0.0
+        }
+      },
+      "65 - 69": {
+        "age_group": "65 - 69",
+        "values": {
+          "NoDisability": 872989.0,
+          "DifficultyInWalkingOrClimbingSteps": 53294,
+          "DifficultyInSeeing": 22114,
+          "DifficultyInSelfcareSuchAsWashingOrDressing": 15469,
+          "DifficultyInRememberingOrConcentrating": 11220,
+          "DifficultyInHearing": 10417,
+          "DifficultyInCommunicatingWithOthers": 6305,
+          "DifficultyInCommunicatingWithOthersRatePer1000Persons": 6.0
+        },
+        "total_value": 991814.0,
+        "pct_values": {
+          "NoDisability": 0.8802,
+          "DifficultyInWalkingOrClimbingSteps": 0.0537,
+          "DifficultyInSeeing": 0.0223,
+          "DifficultyInSelfcareSuchAsWashingOrDressing": 0.0156,
+          "DifficultyInRememberingOrConcentrating": 0.0113,
+          "DifficultyInHearing": 0.0105,
+          "DifficultyInCommunicatingWithOthers": 0.0064,
+          "DifficultyInCommunicatingWithOthersRatePer1000Persons": 0.0
+        }
+      },
+      "70 - 74": {
+        "age_group": "70 - 74",
+        "values": {
+          "NoDisability": 642994.0,
+          "DifficultyInWalkingOrClimbingSteps": 66587,
+          "DifficultyInSeeing": 26277,
+          "DifficultyInSelfcareSuchAsWashingOrDressing": 21111,
+          "DifficultyInRememberingOrConcentrating": 15475,
+          "DifficultyInHearing": 15334,
+          "DifficultyInCommunicatingWithOthers": 7751,
+          "DifficultyInCommunicatingWithOthersRatePer1000Persons": 10.0
+        },
+        "total_value": 795539.0,
+        "pct_values": {
+          "NoDisability": 0.8082,
+          "DifficultyInWalkingOrClimbingSteps": 0.0837,
+          "DifficultyInSeeing": 0.033,
+          "DifficultyInSelfcareSuchAsWashingOrDressing": 0.0265,
+          "DifficultyInRememberingOrConcentrating": 0.0195,
+          "DifficultyInHearing": 0.0193,
+          "DifficultyInCommunicatingWithOthers": 0.0097,
+          "DifficultyInCommunicatingWithOthersRatePer1000Persons": 0.0
+        }
+      },
+      "75 - 79": {
+        "age_group": "75 - 79",
+        "values": {
+          "NoDisability": 356610.0,
+          "DifficultyInWalkingOrClimbingSteps": 68160,
+          "DifficultyInSeeing": 25911,
+          "DifficultyInSelfcareSuchAsWashingOrDressing": 24912,
+          "DifficultyInHearing": 19522,
+          "DifficultyInRememberingOrConcentrating": 19052,
+          "DifficultyInCommunicatingWithOthers": 8806,
+          "DifficultyInCommunicatingWithOthersRatePer1000Persons": 17.0
+        },
+        "total_value": 522990.0,
+        "pct_values": {
+          "NoDisability": 0.6819,
+          "DifficultyInWalkingOrClimbingSteps": 0.1303,
+          "DifficultyInSeeing": 0.0495,
+          "DifficultyInSelfcareSuchAsWashingOrDressing": 0.0476,
+          "DifficultyInHearing": 0.0373,
+          "DifficultyInRememberingOrConcentrating": 0.0364,
+          "DifficultyInCommunicatingWithOthers": 0.0168,
+          "DifficultyInCommunicatingWithOthersRatePer1000Persons": 0.0
+        }
+      },
+      "80 & over": {
+        "age_group": "80 & over",
+        "values": {
+          "DifficultyInWalkingOrClimbingSteps": 111103,
+          "NoDisability": 108322.0,
+          "DifficultyInSelfcareSuchAsWashingOrDressing": 56731,
+          "DifficultyInRememberingOrConcentrating": 44617,
+          "DifficultyInSeeing": 42705,
+          "DifficultyInHearing": 42650,
+          "DifficultyInCommunicatingWithOthers": 21293,
+          "DifficultyInCommunicatingWithOthersRatePer1000Persons": 50.0
+        },
+        "total_value": 427471.0,
+        "pct_values": {
+          "DifficultyInWalkingOrClimbingSteps": 0.2599,
+          "NoDisability": 0.2534,
+          "DifficultyInSelfcareSuchAsWashingOrDressing": 0.1327,
+          "DifficultyInRememberingOrConcentrating": 0.1044,
+          "DifficultyInSeeing": 0.0999,
+          "DifficultyInHearing": 0.0998,
+          "DifficultyInCommunicatingWithOthers": 0.0498,
+          "DifficultyInCommunicatingWithOthersRatePer1000Persons": 0.0001
+        }
+      }
+    }
+  }
+}
