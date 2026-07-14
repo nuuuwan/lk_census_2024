@@ -71,8 +71,6 @@ class FinalReportLankaDataMixin(FinalReportLankaMetaDataMixin):
             what={self.what_label: Parse.str(self.table_name)},
         )
 
-        when_label = "2024"
-
         idx = {}
         for data in self.data_list:
             data = self._expand_values(data)
@@ -80,7 +78,7 @@ class FinalReportLankaDataMixin(FinalReportLankaMetaDataMixin):
             idx[data["region_id"]] = data
 
         lanka_data = dict(_meta=_meta)
-        lanka_data[self.what_label] = {when_label: idx}
+        lanka_data[self.what_label] = {self.when_label: idx}
         self.lanka_data_file.write(lanka_data)
         log.info(f"Wrote {self.lanka_data_file}")
         return lanka_data

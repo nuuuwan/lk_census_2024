@@ -29,6 +29,10 @@ class FinalReportLankaMetaDataMixin:
             return None
         return what_label
 
+    @cached_property
+    def when_label(self):
+        return self.lanka_data_metadata.get("when_label", "2024")
+
     @property
     def is_lanka_data_metadata_complete(self):
         return self.what_label is not None
