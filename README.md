@@ -1,7 +1,7 @@
 # 🇱🇰 Sri Lanka - Census of Population and Housing 2024
 
 ![CPH](https://img.shields.io/badge/CPH-2024-blue)
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--07--14_14:20:32-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--07--14_14:22:02-green)
 
 **154** Datasets on Population, Housing and more, by Country, Province, District, Divisional Secretariat Division (DSD), Grama Niladhari Division (GND), Electoral District (ED), Polling Division (PD), and Local Government Authority (LG) levels.
 
@@ -614,8 +614,8 @@
 | status | status_label | n |
 | :-- | :-- | --: |
 | 2 | 🔴 Raw data is difficult to parse | 21 |
-| 4 | 🟡 Lanka data is missing | 96 |
-| 5 | ✅ All Stages Complete | 25 |
+| 4 | 🟡 Lanka data is missing | 93 |
+| 5 | ✅ All Stages Complete | 28 |
 
 ## 13. [Officers who have  Assigned for Census of Population and Housing 2024 Activities](data/final-report-tables/chapter-1/1.1.1-Officers-who-have--Assigned-for-Census-of-Population-and-Housing-2024-Activities)
 
@@ -3653,26 +3653,42 @@ ntroduction |  |
 
 ## 94. [Economically Active Population, by Sector and Sex, 2024](data/final-report-tables/chapter-8/8.2-Economically-Active-Population,-by-Sector-and-Sex,-2024)
 
-*Build Status (**4**/5) 🟡 Lanka data is missing*
+*Build Status (**5**/5) ✅ All Stages Complete*
 
-### Data Table
-
-| Sector | Male | Female | Total Value |
-| :-- | :-- | :-- | :-- |
-| Urban | 943483 | 438711 | 1382194 |
-| Estate - Urban | 3176 | 1689 | 4865 |
-| Rural | 4395189 | 2046141 | 6441330 |
-| Estate - Rural | 208526 | 126026 | 334552 |
-
-### Example Data Row (JSON)
+### Lanka Data (first 30 of 67 lines)
 
 ```json
 {
-    "Sector": "Urban",
-    "Male": 943483,
-    "Female": 438711,
-    "Total Value": 1382194
-}
+    "_meta": {
+        "source_url": "https://www.statistics.gov.lk/Resource/en/Population/CPH_2024/CPH2024_Final_Eng.pdf#page=164",
+        "source_description": [
+            "Table 8.2, Final Report, 2024 Census of Population and Housing, Department of Census and Statistics, Sri Lanka"
+        ],
+        "what": {
+            "EconomicActivityBySectorAndSex": "Economically Active Population, by Sector and Sex, 2024"
+        },
+        "when": "2024",
+        "where_who_types": [
+            "sector"
+        ]
+    },
+    "EconomicActivityBySectorAndSex": {
+        "2024": {
+            "Urban": {
+                "sector": "Urban",
+                "values": {
+                    "Male": 943483,
+                    "Female": 438711
+                },
+                "total_value": 1382194,
+                "pct_values": {
+                    "Male": 0.6826,
+                    "Female": 0.3174
+                }
+            },
+            "Estate - Urban": {
+                "sector": "Estate - Urban",
+...
 ```
 
 ### Source
@@ -3681,32 +3697,42 @@ ntroduction |  |
 
 ## 95. [Economically Active Population by Sex and Age Group, 2024](data/final-report-tables/chapter-8/8.3-Economically-Active-Population-by-Sex-and-Age-Group,-2024)
 
-*Build Status (**4**/5) 🟡 Lanka data is missing*
+*Build Status (**5**/5) ✅ All Stages Complete*
 
-### Data Table (first 10 of 14 rows)
-
-| Age Group | Male Economically Active | Female Economically Active | Total Value |
-| :-- | :-- | :-- | :-- |
-| Sri Lanka | 5550374 | 2612567 | 8162941 |
-| 15 - 19 | 105358 | 44085 | 149443 |
-| 20 - 24 | 431002 | 229585 | 660587 |
-| 25 - 29 | 548881 | 289710 | 838591 |
-| 30 - 34 | 627056 | 298652 | 925708 |
-| 35 - 39 | 658779 | 311866 | 970645 |
-| 40 - 44 | 729822 | 344964 | 1074786 |
-| 45 - 49 | 666969 | 322647 | 989616 |
-| 50 - 54 | 577876 | 275996 | 853872 |
-| 55 - 59 | 489343 | 228097 | 717440 |
-
-### Example Data Row (JSON)
+### Lanka Data (first 30 of 187 lines)
 
 ```json
 {
-    "Age Group": "Sri Lanka",
-    "Male Economically Active": 5550374,
-    "Female Economically Active": 2612567,
-    "Total Value": 8162941
-}
+    "_meta": {
+        "source_url": "https://www.statistics.gov.lk/Resource/en/Population/CPH_2024/CPH2024_Final_Eng.pdf#page=165",
+        "source_description": [
+            "Table 8.3, Final Report, 2024 Census of Population and Housing, Department of Census and Statistics, Sri Lanka"
+        ],
+        "what": {
+            "EconomicActivityByAgeGroupAndSex": "Economically Active Population by Sex and Age Group, 2024"
+        },
+        "when": "2024",
+        "where_who_types": [
+            "age_group"
+        ]
+    },
+    "EconomicActivityByAgeGroupAndSex": {
+        "2024": {
+            "Sri Lanka": {
+                "age_group": "Sri Lanka",
+                "values": {
+                    "MaleEconomicallyActive": 5550374,
+                    "FemaleEconomicallyActive": 2612567
+                },
+                "total_value": 8162941,
+                "pct_values": {
+                    "MaleEconomicallyActive": 0.6799,
+                    "FemaleEconomicallyActive": 0.3201
+                }
+            },
+            "15 - 19": {
+                "age_group": "15 - 19",
+...
 ```
 
 ### Source
@@ -3780,26 +3806,42 @@ ntroduction |  |
 
 ## 98. [Employed Population by Sector and Sex, 2024](data/final-report-tables/chapter-8/8.6-Employed-Population-by-Sector-and-Sex,-2024)
 
-*Build Status (**4**/5) 🟡 Lanka data is missing*
+*Build Status (**5**/5) ✅ All Stages Complete*
 
-### Data Table
-
-| Sector | Male | Female | Total Value |
-| :-- | :-- | :-- | :-- |
-| Urban | 900141 | 393746 | 1293887 |
-| Estate - Urban | 3025 | 1577 | 4602 |
-| Rural | 4220045 | 1847052 | 6067097 |
-| Estate - Rural | 194492 | 111154 | 305646 |
-
-### Example Data Row (JSON)
+### Lanka Data (first 30 of 67 lines)
 
 ```json
 {
-    "Sector": "Urban",
-    "Male": 900141,
-    "Female": 393746,
-    "Total Value": 1293887
-}
+    "_meta": {
+        "source_url": "https://www.statistics.gov.lk/Resource/en/Population/CPH_2024/CPH2024_Final_Eng.pdf#page=168",
+        "source_description": [
+            "Table 8.6, Final Report, 2024 Census of Population and Housing, Department of Census and Statistics, Sri Lanka"
+        ],
+        "what": {
+            "EmploymentBySectorAndSex": "Employed Population by Sector and Sex, 2024"
+        },
+        "when": "2024",
+        "where_who_types": [
+            "sector"
+        ]
+    },
+    "EmploymentBySectorAndSex": {
+        "2024": {
+            "Urban": {
+                "sector": "Urban",
+                "values": {
+                    "Male": 900141,
+                    "Female": 393746
+                },
+                "total_value": 1293887,
+                "pct_values": {
+                    "Male": 0.6957,
+                    "Female": 0.3043
+                }
+            },
+            "Estate - Urban": {
+                "sector": "Estate - Urban",
+...
 ```
 
 ### Source
