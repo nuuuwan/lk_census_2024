@@ -125,14 +125,16 @@ class ReadMeFinalReportMixin:
         assert final_report_table.data_file.exists
         N_DISPLAY_LINES = 30
 
-        data_lines = json.dumps(
-            final_report_table.lanka_data, indent=4
-        ).split("\n")
+        data_lines = json.dumps(final_report_table.lanka_data, indent=4).split(
+            "\n"
+        )
         n_data_lines = len(data_lines)
 
         if n_data_lines > N_DISPLAY_LINES:
             data_lines = data_lines[:N_DISPLAY_LINES] + ["..."]
-            title = f"Lanka Data (first {N_DISPLAY_LINES} of {n_data_lines} lines)"
+            title = (
+                f"Lanka Data (first {N_DISPLAY_LINES} of {n_data_lines} lines)"
+            )
         else:
             title = "Lanka Data"
 
@@ -204,7 +206,7 @@ class ReadMeFinalReportMixin:
             [
                 "### Source",
                 "",
-                f"- [{self.URL_FINAL_REPORT}]({self.URL_FINAL_REPORT})"
+                f"- <{final_report_table.source_url}>"
                 + f" (Table {final_report_table.table_num})",
                 "",
             ]
@@ -240,9 +242,7 @@ class ReadMeFinalReportMixin:
     ):
         len(final_report_table_list)
 
-        lines = self.get_lines_for_final_report_status(
-            final_report_table_list
-        )
+        lines = self.get_lines_for_final_report_status(final_report_table_list)
         i_dataset = n_datasets_non_final_table + 1
         for final_report_table in final_report_table_list:
 
