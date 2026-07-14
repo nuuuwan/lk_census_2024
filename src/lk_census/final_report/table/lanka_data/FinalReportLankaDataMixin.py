@@ -1,7 +1,8 @@
 import os
 
-from lk_census.final_report.table.lanka_data.FinalReportLankaMetaDataMixin import \
-    FinalReportLankaMetaDataMixin
+from lk_census.final_report.table.lanka_data.FinalReportLankaMetaDataMixin import (
+    FinalReportLankaMetaDataMixin,
+)
 from utils_future import JSONFile, Log, Parse, String
 
 log = Log("FinalReportLankaDataMixin")
@@ -18,18 +19,46 @@ class FinalReportLankaDataMixin(FinalReportLankaMetaDataMixin):
         )
 
     def _expand_values(self, data):
-        values = {}
-        for k, v in data["values"].items():
-            values[String(k).pascal] = v
-        values = dict(sorted(values.items(), key=lambda item: -item[1]))
-        data["values"] = values
+        if self.is_all_not_pct_values:
+            values = {}
+            for k, v in data["values"].items():
+                values[String(k).pascal] = v
+            values = dict(sorted(values.items(), key=lambda item: -item[1]))
+            data["values"] = values
 
-        total_value = sum(values.values())
-        pct_values = {k: round(v / total_value, 4) for k, v in values.items()}
-        data["total_value"] = total_value
-        data["pct_values"] = pct_values
+            total_value = sum(values.values())
+            pct_values = {
+                k: round(v / total_value, 4) for k, v in values.items()
+            }
+            data["total_value"] = total_value
+            data["pct_values"] = pct_values
+            return data
 
-        return data
+        if self.is_all_pct_values:
+            pct_values = {}
+            for k, v in data["values"].items():
+                pct_values[String(k).pascal] = v
+            pct_values = dict(
+                sorted(values.items(), key=lambda item: -item[1])
+            )
+            total_value = data["total_value"]
+
+            values = {
+                k: round(v * total_value, 4) for k, v in pct_values.items()
+            }
+            _rounding_error = total_value - sum(values.values())
+            if _rounding_error != 0:
+                values["_rounding_error"] = _rounding_error
+
+            data["values"] = values
+            data["total_value"] = total_value
+            data["pct_values"] = pct_values
+
+            return data
+
+        raise ValueError(
+            "Data must be either all pct values or all non-pct values."
+        )
 
     @property
     def is_admin_region_dataset(self):
@@ -39,6 +68,24 @@ class FinalReportLankaDataMixin(FinalReportLankaMetaDataMixin):
         if "region_id" not in first_data:
             log.warning("No region_id. Skipping")
             return False
+        return True
+
+    @property
+    def is_all_pct_values(self):
+        data_list = self.data_list
+        first_data = data_list[0]
+        for k in first_data["values"].keys():
+            if not k.startswith("p_"):
+                return False
+        return True
+
+    @property
+    def is_all_not_pct_values(self):
+        data_list = self.data_list
+        first_data = data_list[0]
+        for k in first_data["values"].keys():
+            if k.startswith("p_"):
+                return False
         return True
 
     @property
@@ -54,10 +101,11 @@ class FinalReportLankaDataMixin(FinalReportLankaMetaDataMixin):
             log.warning("No values. Skipping")
             return False
 
-        for k in first_data["values"].keys():
-            if k.startswith("p_"):
-                log.warning(f"Found key starting with 'p_': {k}")
-                return False
+        if not self.is_all_not_pct_values or not self.is_all_pct_values:
+            log.warning(
+                "Values mixed between percentage & non-percentage. Skipping"
+            )
+            return False
 
         if not self.what_label:
             return False
