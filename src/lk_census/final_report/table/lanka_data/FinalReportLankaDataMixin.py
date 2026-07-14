@@ -58,7 +58,7 @@ class FinalReportLankaDataMixin(FinalReportLankaMetaDataMixin):
             if self.is_summable:
                 _rounding_error = total_value - sum(values.values())
                 if _rounding_error != 0:
-                    values["_rounding_error"] = _rounding_error
+                    data["_rounding_error"] = _rounding_error
             data["values"] = values
             data["total_value"] = total_value
             if self.total_description:
@@ -157,6 +157,9 @@ class FinalReportLankaDataMixin(FinalReportLankaMetaDataMixin):
         return "2024"
 
     def _split_by_when(self, data):
+        print("-" * 32)
+        print(data)
+
         idx = {}
         for k, v in data["values"].items():
             when_label = self._get_when_for_key(k)
@@ -164,10 +167,21 @@ class FinalReportLankaDataMixin(FinalReportLankaMetaDataMixin):
                 idx[when_label] = dict(values={})
             unwhen_k = k.replace("_" + when_label, "")
             idx[when_label]["values"][unwhen_k] = v
+
+        for when_label, _ in idx.items():
+            total_value_key = f"total_value_{when_label}"
+            if total_value_key in data:
+                idx[when_label]["total_value"] = data[total_value_key]
+
+        print(idx)
         return idx
 
     def _get_non_values(self, data):
-        return {k: v for k, v in data.items() if k != "values"}
+        return {
+            k: v
+            for k, v in data.items()
+            if k != "values" and not k.startswith("total_value_")
+        }
 
     def _get_lanka_data(self):
         first_key = list(self.data_list[0].keys())[0]

@@ -65,6 +65,7 @@ class FinalReportTableDataOtherValuesMixin:
         return d
 
     def _build_other_keys(self, other_cells):
+        d = {}
         values = {}
         for other_key, other_value in zip(self.other_keys, other_cells):
             if self._is_key_ignored(other_key):
@@ -73,14 +74,12 @@ class FinalReportTableDataOtherValuesMixin:
             if value is None:
                 log.warning(f'Null value for "{other_key}": "{other_value}"')
                 return None
-            values[other_key] = value
+            if other_key.startswith("total_value_"):
+                d[other_key] = value
+            else:
+                values[other_key] = value
 
-        d = dict(values=values)
-        if "total_value" in values:
-            total_value = values["total_value"]
-            del d["values"]["total_value"]
-            d["total_value"] = total_value
-
+        d["values"] = values
         if self.total_description:
             d["total_description"] = self.total_description
 
