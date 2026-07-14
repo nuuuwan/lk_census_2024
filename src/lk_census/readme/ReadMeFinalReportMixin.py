@@ -200,7 +200,9 @@ class ReadMeFinalReportMixin:
     ):
         len(final_report_table_list)
 
-        lines = self.get_lines_for_final_report_status(final_report_table_list)
+        lines = self.get_lines_for_final_report_status(
+            final_report_table_list
+        )
         i_dataset = n_datasets_non_final_table + 1
         for final_report_table in final_report_table_list:
 

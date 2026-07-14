@@ -1,8 +1,6 @@
 import json
-import os
 
 from lk_census.final_report.table import FinalReportTable
-from lk_census.readme.ReadMe import ReadMe
 
 
 def print_line():
