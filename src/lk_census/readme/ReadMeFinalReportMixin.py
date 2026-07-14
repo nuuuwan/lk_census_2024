@@ -5,10 +5,7 @@ from utils_future import Markdown
 
 
 class ReadMeFinalReportMixin:
-    URL_FINAL_REPORT = (
-        "https://www.statistics.gov.lk"
-        + "/Resource/en/Population/CPH_2024/CPH2024_Final_Eng.pdf"
-    )
+    URL_FINAL_REPORT = FinalReportTable.URL_FINAL_REPORT
 
     def flatten_dict(self, d):
         flat_d = {}

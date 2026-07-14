@@ -1,3 +1,5 @@
+import re
+
 from dateutil import parser
 
 
@@ -55,3 +57,9 @@ class Parse:
         if x in ["yes", "true", "1", "x", "\u00d7"]:
             return True
         return False
+
+    @staticmethod
+    def str(x) -> str:
+        x = str(x).strip()
+        x = re.sub(r"\s+", " ", x)
+        return x

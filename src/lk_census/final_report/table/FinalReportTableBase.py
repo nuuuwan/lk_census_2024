@@ -1,5 +1,7 @@
 from dataclasses import dataclass
 
+from lk_census.final_report.FinalReportConstants import FinalReportConstants
+
 
 @dataclass
 class FinalReportTableBase:
@@ -23,3 +25,29 @@ class FinalReportTableBase:
 
     def __repr__(self):
         return str(self)
+
+    URL_FINAL_REPORT = (
+        "https://www.statistics.gov.lk"
+        + "/Resource/en/Population/CPH_2024/CPH2024_Final_Eng.pdf"
+    )
+
+    @property
+    def actual_page_num(self):
+        return self.page_num + FinalReportConstants.PAGE_OFFSET
+
+    @property
+    def source_url(self):
+        return f"{self.URL_FINAL_REPORT}#page={self.actual_page_num}"
+
+    @property
+    def source_description(self):
+        return (
+            ", ".join(
+                [
+                    f"Table {self.table_num}",
+                    "Final Report",
+                    "2024 Census of Population and Housing",
+                    "Department of Census and Statistics, Sri Lanka",
+                ]
+            ),
+        )
