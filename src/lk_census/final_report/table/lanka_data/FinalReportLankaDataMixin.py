@@ -27,8 +27,10 @@ class FinalReportLankaDataMixin(FinalReportLankaMetaDataMixin):
         values = dict(sorted(values.items(), key=lambda item: -item[1]))
         data["values"] = values
 
+        n = len(values.keys())
+
         total_value = sum(values.values())
-        if total_value:
+        if total_value and n > 1:
             pct_values = {
                 k: round(v / total_value, 4) for k, v in values.items()
             }
@@ -161,17 +163,23 @@ class FinalReportLankaDataMixin(FinalReportLankaMetaDataMixin):
             idx[when_label]["values"][k] = v
         return idx
 
+    def _get_non_values(self, data):
+        return {k: v for k, v in data.items() if k != "values"}
+
     def _get_lanka_data(self):
         first_key = list(self.data_list[0].keys())[0]
 
         idx = {}
         when_labels = set()
         for data in self.data_list:
+            data_non_values = self._get_non_values(data)
             for when_label, data_for_when in self._split_by_when(data).items():
                 data_for_when = self._expand_values(data_for_when)
                 if when_label not in idx:
                     idx[when_label] = {}
-                idx[when_label][data[first_key]] = data_for_when
+                idx[when_label][data[first_key]] = (
+                    data_non_values | data_for_when
+                )
                 when_labels.add(when_label)
 
         where_who_types = self._get_where_who_types()

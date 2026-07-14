@@ -51,6 +51,25 @@ if __name__ == "__main__":
         print("⚠️ Years in keys:", years)
         print_line()
 
-        table.build_lanka_data()
+        if not table.is_lanka_data_metadata_complete:
+            lanka_data_metadata = {}
+            if table.lanka_data_metadata_file.exists:
+                lanka_data_metadata = table.lanka_data_metadata_file.read()
+            if "what_label" not in lanka_data_metadata:
+                lanka_data_metadata |= {
+                    "what_label": table.table_name,
+                }
+            table.lanka_data_metadata_file.write(lanka_data_metadata)
+            table.lanka_data_metadata_file.open("code")
+            break
+
+        else:
+            lanka_data = table.build_lanka_data()
+            print(json.dumps(lanka_data, indent=4))
+            print_line()
+            if lanka_data is not None:
+                table.lanka_data_file.open("code")
+
+        ReadMe().build()
 
         break
