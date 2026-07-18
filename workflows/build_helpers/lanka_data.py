@@ -46,7 +46,7 @@ if __name__ == "__main__":
         table.lanka_data_metadata_file.open("code")
 
         if table.is_lanka_data_metadata_complete:
-            table.build_lanka_data(force=True)
+            table.build()
             table.lanka_data_file.open("code")
 
         ReadMe().build()

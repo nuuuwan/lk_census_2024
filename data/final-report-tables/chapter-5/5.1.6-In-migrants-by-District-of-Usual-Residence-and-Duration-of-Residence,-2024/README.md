@@ -9,39 +9,39 @@
 
 ```json
 {
-    "_meta": {
-        "source_url": "https://www.statistics.gov.lk/Resource/en/Population/CPH_2024/CPH2024_Final_Eng.pdf#page=90",
-        "source_description": [
-            "Table 5.1.6, Final Report, 2024 Census of Population and Housing, Department of Census and Statistics, Sri Lanka"
-        ],
-        "what": {
-            "MigrantsResidenceDuration": "In-migrants by District of Usual Residence and Duration of Residence, 2024"
-        },
-        "when": "2024",
-        "where_who_types": [
-            "province",
-            "district",
-            "country",
-            "ed"
-        ]
-    },
-    "MigrantsResidenceDuration": {
-        "2024": {
-            "LK-11": {
-                "region_id": "LK-11",
-                "region_name": "Colombo",
-                "region_ent_type": "district",
-                "values": {
-                    "10OrMoreYears": 305038,
-                    "0004Years": 149236,
-                    "0409Years": 65105
+    "Person": {
+        "Time:2024": {
+            "District:LK-11": {
+                "TimeGroup0510More:00To04Years": {
+                    "Count": "Int:149236"
                 },
-                "total_value": 519379,
-                "pct_values": {
+                "TimeGroup0510More:04To09Years": {
+                    "Count": "Int:65105"
+                },
+                "TimeGroup0510More:10OrMoreYears": {
+                    "Count": "Int:305038"
+                }
+            },
+            "District:LK-12": {
+                "TimeGroup0510More:00To04Years": {
+                    "Count": "Int:139859"
+                },
+                "TimeGroup0510More:04To09Years": {
+                    "Count": "Int:71540"
+                },
+                "TimeGroup0510More:10OrMoreYears": {
+                    "Count": "Int:313338"
+                }
+            },
+            "District:LK-13": {
+                "TimeGroup0510More:00To04Years": {
+                    "Count": "Int:47096"
+                },
+                "TimeGroup0510More:04To09Years": {
 ...
 ```
 
-- Source File: [lanka_data.json (23.5 KB)](../../../../data/final-report-tables/chapter-5/5.1.6-In-migrants-by-District-of-Usual-Residence-and-Duration-of-Residence,-2024/lanka_data.json)
+- Source File: [lanka_data.json (16.1 KB)](../../../../data/final-report-tables/chapter-5/5.1.6-In-migrants-by-District-of-Usual-Residence-and-Duration-of-Residence,-2024/lanka_data.json)
 
 ## Structured Data (similar to original layout)
 
@@ -53,7 +53,7 @@
         "region_ent_type": "district",
         "values": {
             "00_04_years": 149236,
-            "04_09_years": 65105,
+            "05_09_years": 65105,
             "10_or_more_years": 305038
         },
         "total_value": 519379
@@ -64,7 +64,7 @@
         "region_ent_type": "district",
         "values": {
             "00_04_years": 139859,
-            "04_09_years": 71540,
+            "05_09_years": 71540,
             "10_or_more_years": 313338
         },
         "total_value": 524737
@@ -75,7 +75,7 @@
         "region_ent_type": "district",
         "values": {
             "00_04_years": 47096,
-            "04_09_years": 28994,
+            "05_09_years": 28994,
 ...
 ```
 
