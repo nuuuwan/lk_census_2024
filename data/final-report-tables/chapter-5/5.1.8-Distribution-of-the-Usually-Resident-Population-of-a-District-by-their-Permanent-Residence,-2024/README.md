@@ -9,39 +9,39 @@
 
 ```json
 {
-    "_meta": {
-        "source_url": "https://www.statistics.gov.lk/Resource/en/Population/CPH_2024/CPH2024_Final_Eng.pdf#page=94",
-        "source_description": [
-            "Table 5.1.8, Final Report, 2024 Census of Population and Housing, Department of Census and Statistics, Sri Lanka"
-        ],
-        "what": {
-            "ResidenceDistrictOrOtherDistrict": "Distribution of the Usually Resident Population of a District by their Permanent Residence, 2024"
-        },
-        "when": "2024",
-        "where_who_types": [
-            "district"
-        ]
-    },
-    "ResidenceDistrictOrOtherDistrict": {
-        "2024": {
-            "LK-11": {
-                "region_id": "LK-11",
-                "region_name": "Colombo",
-                "region_ent_type": "district",
-                "values": {
-                    "InDistrict": 2244323,
-                    "InOtherDistrict": 130546
+    "Person": {
+        "Time:2024": {
+            "District:LK-11": {
+                "ResidentRelativeToDistrict:InDistrict": {
+                    "Count": "Int:2244323"
                 },
-                "total_value": 2374869,
-                "pct_values": {
-                    "InDistrict": 0.945,
-                    "InOtherDistrict": 0.055
+                "ResidentRelativeToDistrict:InOtherDistrict": {
+                    "Count": "Int:130546"
                 }
             },
+            "District:LK-12": {
+                "ResidentRelativeToDistrict:InDistrict": {
+                    "Count": "Int:2340241"
+                },
+                "ResidentRelativeToDistrict:InOtherDistrict": {
+                    "Count": "Int:95672"
+                }
+            },
+            "District:LK-13": {
+                "ResidentRelativeToDistrict:InDistrict": {
+                    "Count": "Int:1287854"
+                },
+                "ResidentRelativeToDistrict:InOtherDistrict": {
+                    "Count": "Int:17854"
+                }
+            },
+            "District:LK-21": {
+                "ResidentRelativeToDistrict:InDistrict": {
+                    "Count": "Int:1434821"
 ...
 ```
 
-- Source File: [lanka_data.json (9.4 KB)](../../../../data/final-report-tables/chapter-5/5.1.8-Distribution-of-the-Usually-Resident-Population-of-a-District-by-their-Permanent-Residence,-2024/lanka_data.json)
+- Source File: [lanka_data.json (5.6 KB)](../../../../data/final-report-tables/chapter-5/5.1.8-Distribution-of-the-Usually-Resident-Population-of-a-District-by-their-Permanent-Residence,-2024/lanka_data.json)
 
 ## Structured Data (similar to original layout)
 

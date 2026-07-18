@@ -1,0 +1,206 @@
+{
+  "Person": {
+    "Time:2024": {
+      "District:LK-11": {
+        "ResidentRelativeToDistrict:InDistrict": {
+          "Count": "Int:2244323"
+        },
+        "ResidentRelativeToDistrict:InOtherDistrict": {
+          "Count": "Int:130546"
+        }
+      },
+      "District:LK-12": {
+        "ResidentRelativeToDistrict:InDistrict": {
+          "Count": "Int:2340241"
+        },
+        "ResidentRelativeToDistrict:InOtherDistrict": {
+          "Count": "Int:95672"
+        }
+      },
+      "District:LK-13": {
+        "ResidentRelativeToDistrict:InDistrict": {
+          "Count": "Int:1287854"
+        },
+        "ResidentRelativeToDistrict:InOtherDistrict": {
+          "Count": "Int:17854"
+        }
+      },
+      "District:LK-21": {
+        "ResidentRelativeToDistrict:InDistrict": {
+          "Count": "Int:1434821"
+        },
+        "ResidentRelativeToDistrict:InOtherDistrict": {
+          "Count": "Int:26934"
+        }
+      },
+      "District:LK-22": {
+        "ResidentRelativeToDistrict:InDistrict": {
+          "Count": "Int:518870"
+        },
+        "ResidentRelativeToDistrict:InOtherDistrict": {
+          "Count": "Int:7979"
+        }
+      },
+      "District:LK-23": {
+        "ResidentRelativeToDistrict:InDistrict": {
+          "Count": "Int:719906"
+        },
+        "ResidentRelativeToDistrict:InOtherDistrict": {
+          "Count": "Int:5345"
+        }
+      },
+      "District:LK-31": {
+        "ResidentRelativeToDistrict:InDistrict": {
+          "Count": "Int:1084085"
+        },
+        "ResidentRelativeToDistrict:InOtherDistrict": {
+          "Count": "Int:13140"
+        }
+      },
+      "District:LK-32": {
+        "ResidentRelativeToDistrict:InDistrict": {
+          "Count": "Int:825062"
+        },
+        "ResidentRelativeToDistrict:InOtherDistrict": {
+          "Count": "Int:12694"
+        }
+      },
+      "District:LK-33": {
+        "ResidentRelativeToDistrict:InDistrict": {
+          "Count": "Int:664855"
+        },
+        "ResidentRelativeToDistrict:InOtherDistrict": {
+          "Count": "Int:6528"
+        }
+      },
+      "District:LK-41": {
+        "ResidentRelativeToDistrict:InDistrict": {
+          "Count": "Int:585641"
+        },
+        "ResidentRelativeToDistrict:InOtherDistrict": {
+          "Count": "Int:9058"
+        }
+      },
+      "District:LK-42": {
+        "ResidentRelativeToDistrict:InDistrict": {
+          "Count": "Int:122800"
+        },
+        "ResidentRelativeToDistrict:InOtherDistrict": {
+          "Count": "Int:952"
+        }
+      },
+      "District:LK-43": {
+        "ResidentRelativeToDistrict:InDistrict": {
+          "Count": "Int:168602"
+        },
+        "ResidentRelativeToDistrict:InOtherDistrict": {
+          "Count": "Int:3678"
+        }
+      },
+      "District:LK-44": {
+        "ResidentRelativeToDistrict:InDistrict": {
+          "Count": "Int:120696"
+        },
+        "ResidentRelativeToDistrict:InOtherDistrict": {
+          "Count": "Int:1921"
+        }
+      },
+      "District:LK-45": {
+        "ResidentRelativeToDistrict:InDistrict": {
+          "Count": "Int:132107"
+        },
+        "ResidentRelativeToDistrict:InOtherDistrict": {
+          "Count": "Int:4603"
+        }
+      },
+      "District:LK-51": {
+        "ResidentRelativeToDistrict:InDistrict": {
+          "Count": "Int:588704"
+        },
+        "ResidentRelativeToDistrict:InOtherDistrict": {
+          "Count": "Int:7185"
+        }
+      },
+      "District:LK-52": {
+        "ResidentRelativeToDistrict:InDistrict": {
+          "Count": "Int:735399"
+        },
+        "ResidentRelativeToDistrict:InOtherDistrict": {
+          "Count": "Int:9132"
+        }
+      },
+      "District:LK-53": {
+        "ResidentRelativeToDistrict:InDistrict": {
+          "Count": "Int:438683"
+        },
+        "ResidentRelativeToDistrict:InOtherDistrict": {
+          "Count": "Int:4039"
+        }
+      },
+      "District:LK-61": {
+        "ResidentRelativeToDistrict:InDistrict": {
+          "Count": "Int:1742683"
+        },
+        "ResidentRelativeToDistrict:InOtherDistrict": {
+          "Count": "Int:25340"
+        }
+      },
+      "District:LK-62": {
+        "ResidentRelativeToDistrict:InDistrict": {
+          "Count": "Int:805775"
+        },
+        "ResidentRelativeToDistrict:InOtherDistrict": {
+          "Count": "Int:12928"
+        }
+      },
+      "District:LK-71": {
+        "ResidentRelativeToDistrict:InDistrict": {
+          "Count": "Int:944348"
+        },
+        "ResidentRelativeToDistrict:InOtherDistrict": {
+          "Count": "Int:15553"
+        }
+      },
+      "District:LK-72": {
+        "ResidentRelativeToDistrict:InDistrict": {
+          "Count": "Int:441668"
+        },
+        "ResidentRelativeToDistrict:InOtherDistrict": {
+          "Count": "Int:5835"
+        }
+      },
+      "District:LK-81": {
+        "ResidentRelativeToDistrict:InDistrict": {
+          "Count": "Int:861106"
+        },
+        "ResidentRelativeToDistrict:InOtherDistrict": {
+          "Count": "Int:11133"
+        }
+      },
+      "District:LK-82": {
+        "ResidentRelativeToDistrict:InDistrict": {
+          "Count": "Int:522063"
+        },
+        "ResidentRelativeToDistrict:InOtherDistrict": {
+          "Count": "Int:5469"
+        }
+      },
+      "District:LK-91": {
+        "ResidentRelativeToDistrict:InDistrict": {
+          "Count": "Int:1134639"
+        },
+        "ResidentRelativeToDistrict:InOtherDistrict": {
+          "Count": "Int:10613"
+        }
+      },
+      "District:LK-92": {
+        "ResidentRelativeToDistrict:InDistrict": {
+          "Count": "Int:860518"
+        },
+        "ResidentRelativeToDistrict:InOtherDistrict": {
+          "Count": "Int:9903"
+        }
+      }
+    }
+  }
+}
