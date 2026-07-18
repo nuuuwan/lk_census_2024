@@ -22,7 +22,9 @@ class ReadMeFinalReportMixin:
         d_list = [
             dict(
                 status=f"**{status}**/5",
-                status_label=FinalReportTable.STATUS_LABELS[status],
+                status_label=FinalReportTable.STATUS_EMOJIS[status]
+                + " "
+                + FinalReportTable.STATUS_LABELS[status],
                 n=f"**{n:,}**",
                 p=f"**{n / total:.1%}**",
             )
@@ -32,8 +34,9 @@ class ReadMeFinalReportMixin:
         return lines
 
     def get_lines_for_final_report_table(self, final_report_table):
+        emoji = FinalReportTable.STATUS_EMOJIS[final_report_table.build_status]
         return [
-            f"- Table {final_report_table.table_num}"
+            f"- {emoji} Table {final_report_table.table_num}"
             + f" - [{final_report_table.table_name}]"
             + f"({final_report_table.dir_data})"
         ]

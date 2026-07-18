@@ -10,12 +10,21 @@ class FinalReportTableBuildMixin:
         self.build_readme()
 
     STATUS_LABELS = {
-        0: "⚫️ Original PDF is missing",
-        1: "🟤 Raw data is missing",
-        2: "🔴 Raw data is difficult to parse",
-        3: "🟠 Data is missing",
-        4: "🟡 Lanka data is missing",
-        5: "✅ All Stages Complete",
+        0: "Original PDF is missing",
+        1: "Raw data is missing",
+        2: "Raw data is difficult to parse",
+        3: "Data is missing",
+        4: "Lanka data is missing",
+        5: "All Stages Complete",
+    }
+
+    STATUS_EMOJIS = {
+        0: "⚫️",
+        1: "🟤",
+        2: "🔴",
+        3: "🟠",
+        4: "🟡",
+        5: "✅",
     }
 
     # flake8: noqa: C901
