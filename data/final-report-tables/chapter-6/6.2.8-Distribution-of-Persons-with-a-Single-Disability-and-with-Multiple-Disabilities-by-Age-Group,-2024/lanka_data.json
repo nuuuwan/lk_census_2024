@@ -1,0 +1,182 @@
+{
+  "Person": {
+    "Time:2024": {
+      "AgeGroup:5To9Years": {
+        "SingleOrMultipleDisabilities:WithSingleDisability": {
+          "Count": "Int:7320"
+        },
+        "SingleOrMultipleDisabilities:WithMoreThanOneDisability": {
+          "Count": "Int:5419"
+        },
+        "SingleOrMultipleDisabilities:NoDisability": {
+          "Count": "Int:1543784"
+        }
+      },
+      "AgeGroup:10To14Years": {
+        "SingleOrMultipleDisabilities:WithSingleDisability": {
+          "Count": "Int:6995"
+        },
+        "SingleOrMultipleDisabilities:WithMoreThanOneDisability": {
+          "Count": "Int:6400"
+        },
+        "SingleOrMultipleDisabilities:NoDisability": {
+          "Count": "Int:1721801"
+        }
+      },
+      "AgeGroup:15To19Years": {
+        "SingleOrMultipleDisabilities:WithSingleDisability": {
+          "Count": "Int:7643"
+        },
+        "SingleOrMultipleDisabilities:WithMoreThanOneDisability": {
+          "Count": "Int:6713"
+        },
+        "SingleOrMultipleDisabilities:NoDisability": {
+          "Count": "Int:1780682"
+        }
+      },
+      "AgeGroup:20To24Years": {
+        "SingleOrMultipleDisabilities:WithSingleDisability": {
+          "Count": "Int:7169"
+        },
+        "SingleOrMultipleDisabilities:WithMoreThanOneDisability": {
+          "Count": "Int:6153"
+        },
+        "SingleOrMultipleDisabilities:NoDisability": {
+          "Count": "Int:1595284"
+        }
+      },
+      "AgeGroup:25To29Years": {
+        "SingleOrMultipleDisabilities:WithSingleDisability": {
+          "Count": "Int:7156"
+        },
+        "SingleOrMultipleDisabilities:WithMoreThanOneDisability": {
+          "Count": "Int:5950"
+        },
+        "SingleOrMultipleDisabilities:NoDisability": {
+          "Count": "Int:1359352"
+        }
+      },
+      "AgeGroup:30To34Years": {
+        "SingleOrMultipleDisabilities:WithSingleDisability": {
+          "Count": "Int:8909"
+        },
+        "SingleOrMultipleDisabilities:WithMoreThanOneDisability": {
+          "Count": "Int:6515"
+        },
+        "SingleOrMultipleDisabilities:NoDisability": {
+          "Count": "Int:1398636"
+        }
+      },
+      "AgeGroup:35To39Years": {
+        "SingleOrMultipleDisabilities:WithSingleDisability": {
+          "Count": "Int:11522"
+        },
+        "SingleOrMultipleDisabilities:WithMoreThanOneDisability": {
+          "Count": "Int:6555"
+        },
+        "SingleOrMultipleDisabilities:NoDisability": {
+          "Count": "Int:1434626"
+        }
+      },
+      "AgeGroup:40To44Years": {
+        "SingleOrMultipleDisabilities:WithSingleDisability": {
+          "Count": "Int:16534"
+        },
+        "SingleOrMultipleDisabilities:WithMoreThanOneDisability": {
+          "Count": "Int:7734"
+        },
+        "SingleOrMultipleDisabilities:NoDisability": {
+          "Count": "Int:1578076"
+        }
+      },
+      "AgeGroup:45To49Years": {
+        "SingleOrMultipleDisabilities:WithSingleDisability": {
+          "Count": "Int:21690"
+        },
+        "SingleOrMultipleDisabilities:WithMoreThanOneDisability": {
+          "Count": "Int:9434"
+        },
+        "SingleOrMultipleDisabilities:NoDisability": {
+          "Count": "Int:1459641"
+        }
+      },
+      "AgeGroup:50To54Years": {
+        "SingleOrMultipleDisabilities:WithSingleDisability": {
+          "Count": "Int:27220"
+        },
+        "SingleOrMultipleDisabilities:WithMoreThanOneDisability": {
+          "Count": "Int:9841"
+        },
+        "SingleOrMultipleDisabilities:NoDisability": {
+          "Count": "Int:1304746"
+        }
+      },
+      "AgeGroup:55To59Years": {
+        "SingleOrMultipleDisabilities:WithSingleDisability": {
+          "Count": "Int:36944"
+        },
+        "SingleOrMultipleDisabilities:WithMoreThanOneDisability": {
+          "Count": "Int:13235"
+        },
+        "SingleOrMultipleDisabilities:NoDisability": {
+          "Count": "Int:1225877"
+        }
+      },
+      "AgeGroup:60To64Years": {
+        "SingleOrMultipleDisabilities:WithSingleDisability": {
+          "Count": "Int:48823"
+        },
+        "SingleOrMultipleDisabilities:WithMoreThanOneDisability": {
+          "Count": "Int:17816"
+        },
+        "SingleOrMultipleDisabilities:NoDisability": {
+          "Count": "Int:1116671"
+        }
+      },
+      "AgeGroup:65To69Years": {
+        "SingleOrMultipleDisabilities:WithSingleDisability": {
+          "Count": "Int:58416"
+        },
+        "SingleOrMultipleDisabilities:WithMoreThanOneDisability": {
+          "Count": "Int:23333"
+        },
+        "SingleOrMultipleDisabilities:NoDisability": {
+          "Count": "Int:910065"
+        }
+      },
+      "AgeGroup:70To74Years": {
+        "SingleOrMultipleDisabilities:WithSingleDisability": {
+          "Count": "Int:65119"
+        },
+        "SingleOrMultipleDisabilities:WithMoreThanOneDisability": {
+          "Count": "Int:32496"
+        },
+        "SingleOrMultipleDisabilities:NoDisability": {
+          "Count": "Int:697924"
+        }
+      },
+      "AgeGroup:75To79Years": {
+        "SingleOrMultipleDisabilities:WithSingleDisability": {
+          "Count": "Int:57716"
+        },
+        "SingleOrMultipleDisabilities:WithMoreThanOneDisability": {
+          "Count": "Int:38146"
+        },
+        "SingleOrMultipleDisabilities:NoDisability": {
+          "Count": "Int:427128"
+        }
+      },
+      "AgeGroup:80To125Years": {
+        "SingleOrMultipleDisabilities:WithSingleDisability": {
+          "Count": "Int:63071"
+        },
+        "SingleOrMultipleDisabilities:WithMoreThanOneDisability": {
+          "Count": "Int:79306"
+        },
+        "SingleOrMultipleDisabilities:NoDisability": {
+          "Count": "Int:285094"
+        }
+      }
+    }
+  }
+}
