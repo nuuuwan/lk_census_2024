@@ -36,7 +36,7 @@ class FinalReportTableDataFieldsMixin:
         other_keys = self.fields.get("other_keys")
         if other_keys:
             return other_keys
-        dim_class_name = self.fields.get("dim_class_name")
+        dim_class_name = self.fields.get("col_dim_class_name")
         if not dim_class_name:
             return []
 

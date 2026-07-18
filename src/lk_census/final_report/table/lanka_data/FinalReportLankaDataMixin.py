@@ -23,9 +23,10 @@ class FinalReportLankaDataMixin(FinalReportLankaMetaDataMixin):
     def build_lanka_data(self, force=False):
         if self.lanka_data_pass and not force:
             return
-        assert (
-            self.is_lanka_data_fields_complete
-        ), "Lanka data fields are not complete"
+        if not self.is_lanka_data_fields_complete:
+            return
+        if not self.data_list:
+            return
 
         datumset = StandardTableAdapter.build_datumset(
             d_list=self.data_list,
