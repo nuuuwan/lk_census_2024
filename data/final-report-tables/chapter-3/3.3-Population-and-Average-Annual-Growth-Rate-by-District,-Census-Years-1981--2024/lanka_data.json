@@ -1,0 +1,802 @@
+{
+  "Person": {
+    "District:LK-11": {
+      "Time:1981": {
+        "Count": "Int:1675847"
+      },
+      "Time:2001": {
+        "Count": "Int:2239696"
+      },
+      "Time:2012": {
+        "Count": "Int:2324349"
+      },
+      "Time:2024": {
+        "Count": "Int:2375415"
+      }
+    },
+    "District:LK-12": {
+      "Time:1981": {
+        "Count": "Int:1367813"
+      },
+      "Time:2001": {
+        "Count": "Int:2060470"
+      },
+      "Time:2012": {
+        "Count": "Int:2304833"
+      },
+      "Time:2024": {
+        "Count": "Int:2436142"
+      }
+    },
+    "District:LK-13": {
+      "Time:1981": {
+        "Count": "Int:823964"
+      },
+      "Time:2001": {
+        "Count": "Int:1065635"
+      },
+      "Time:2012": {
+        "Count": "Int:1221948"
+      },
+      "Time:2024": {
+        "Count": "Int:1305784"
+      }
+    },
+    "District:LK-21": {
+      "Time:1981": {
+        "Count": "Int:1032335"
+      },
+      "Time:2001": {
+        "Count": "Int:1276202"
+      },
+      "Time:2012": {
+        "Count": "Int:1375382"
+      },
+      "Time:2024": {
+        "Count": "Int:1461895"
+      }
+    },
+    "District:LK-22": {
+      "Time:1981": {
+        "Count": "Int:352860"
+      },
+      "Time:2001": {
+        "Count": "Int:439031"
+      },
+      "Time:2012": {
+        "Count": "Int:484531"
+      },
+      "Time:2024": {
+        "Count": "Int:526870"
+      }
+    },
+    "District:LK-23": {
+      "Time:1981": {
+        "Count": "Int:583716"
+      },
+      "Time:2001": {
+        "Count": "Int:702689"
+      },
+      "Time:2012": {
+        "Count": "Int:711644"
+      },
+      "Time:2024": {
+        "Count": "Int:725280"
+      }
+    },
+    "District:LK-31": {
+      "Time:1981": {
+        "Count": "Int:805403"
+      },
+      "Time:2001": {
+        "Count": "Int:989769"
+      },
+      "Time:2012": {
+        "Count": "Int:1063334"
+      },
+      "Time:2024": {
+        "Count": "Int:1097372"
+      }
+    },
+    "District:LK-32": {
+      "Time:1981": {
+        "Count": "Int:642235"
+      },
+      "Time:2001": {
+        "Count": "Int:760990"
+      },
+      "Time:2012": {
+        "Count": "Int:814048"
+      },
+      "Time:2024": {
+        "Count": "Int:837889"
+      }
+    },
+    "District:LK-33": {
+      "Time:1981": {
+        "Count": "Int:421277"
+      },
+      "Time:2001": {
+        "Count": "Int:525913"
+      },
+      "Time:2012": {
+        "Count": "Int:599903"
+      },
+      "Time:2024": {
+        "Count": "Int:671418"
+      }
+    },
+    "District:LK-41": {
+      "Time:1981": {
+        "Count": "Int:734474"
+      },
+      "Time:2001": {
+        "Count": "Int:0"
+      },
+      "Time:2012": {
+        "Count": "Int:583882"
+      },
+      "Time:2024": {
+        "Count": "Int:594751"
+      }
+    },
+    "District:LK-42": {
+      "Time:1981": {
+        "Count": "Int:105276"
+      },
+      "Time:2001": {
+        "Count": "Int:0"
+      },
+      "Time:2012": {
+        "Count": "Int:99570"
+      },
+      "Time:2024": {
+        "Count": "Int:123756"
+      }
+    },
+    "District:LK-43": {
+      "Time:1981": {
+        "Count": "Int:93694"
+      },
+      "Time:2001": {
+        "Count": "Int:0"
+      },
+      "Time:2012": {
+        "Count": "Int:172115"
+      },
+      "Time:2024": {
+        "Count": "Int:172312"
+      }
+    },
+    "District:LK-44": {
+      "Time:1981": {
+        "Count": "Int:73886"
+      },
+      "Time:2001": {
+        "Count": "Int:0"
+      },
+      "Time:2012": {
+        "Count": "Int:92238"
+      },
+      "Time:2024": {
+        "Count": "Int:122619"
+      }
+    },
+    "District:LK-45": {
+      "Time:1981": {
+        "Count": "Int:90778"
+      },
+      "Time:2001": {
+        "Count": "Int:0"
+      },
+      "Time:2012": {
+        "Count": "Int:113510"
+      },
+      "Time:2024": {
+        "Count": "Int:136710"
+      }
+    },
+    "District:LK-51": {
+      "Time:1981": {
+        "Count": "Int:329343"
+      },
+      "Time:2001": {
+        "Count": "Int:0"
+      },
+      "Time:2012": {
+        "Count": "Int:526567"
+      },
+      "Time:2024": {
+        "Count": "Int:595918"
+      }
+    },
+    "District:LK-52": {
+      "Time:1981": {
+        "Count": "Int:383275"
+      },
+      "Time:2001": {
+        "Count": "Int:592596"
+      },
+      "Time:2012": {
+        "Count": "Int:649402"
+      },
+      "Time:2024": {
+        "Count": "Int:744551"
+      }
+    },
+    "District:LK-53": {
+      "Time:1981": {
+        "Count": "Int:250771"
+      },
+      "Time:2001": {
+        "Count": "Int:0"
+      },
+      "Time:2012": {
+        "Count": "Int:379541"
+      },
+      "Time:2024": {
+        "Count": "Int:442745"
+      }
+    },
+    "District:LK-61": {
+      "Time:1981": {
+        "Count": "Int:1198795"
+      },
+      "Time:2001": {
+        "Count": "Int:1458385"
+      },
+      "Time:2012": {
+        "Count": "Int:1618465"
+      },
+      "Time:2024": {
+        "Count": "Int:1768156"
+      }
+    },
+    "District:LK-62": {
+      "Time:1981": {
+        "Count": "Int:485619"
+      },
+      "Time:2001": {
+        "Count": "Int:709002"
+      },
+      "Time:2012": {
+        "Count": "Int:762396"
+      },
+      "Time:2024": {
+        "Count": "Int:818816"
+      }
+    },
+    "District:LK-71": {
+      "Time:1981": {
+        "Count": "Int:575546"
+      },
+      "Time:2001": {
+        "Count": "Int:742535"
+      },
+      "Time:2012": {
+        "Count": "Int:860575"
+      },
+      "Time:2024": {
+        "Count": "Int:960080"
+      }
+    },
+    "District:LK-72": {
+      "Time:1981": {
+        "Count": "Int:253411"
+      },
+      "Time:2001": {
+        "Count": "Int:358804"
+      },
+      "Time:2012": {
+        "Count": "Int:406088"
+      },
+      "Time:2024": {
+        "Count": "Int:447530"
+      }
+    },
+    "District:LK-81": {
+      "Time:1981": {
+        "Count": "Int:620839"
+      },
+      "Time:2001": {
+        "Count": "Int:778422"
+      },
+      "Time:2012": {
+        "Count": "Int:815405"
+      },
+      "Time:2024": {
+        "Count": "Int:872307"
+      }
+    },
+    "District:LK-82": {
+      "Time:1981": {
+        "Count": "Int:269684"
+      },
+      "Time:2001": {
+        "Count": "Int:396521"
+      },
+      "Time:2012": {
+        "Count": "Int:451058"
+      },
+      "Time:2024": {
+        "Count": "Int:527585"
+      }
+    },
+    "District:LK-91": {
+      "Time:1981": {
+        "Count": "Int:779927"
+      },
+      "Time:2001": {
+        "Count": "Int:1016221"
+      },
+      "Time:2012": {
+        "Count": "Int:1088007"
+      },
+      "Time:2024": {
+        "Count": "Int:1145423"
+      }
+    },
+    "District:LK-92": {
+      "Time:1981": {
+        "Count": "Int:678456"
+      },
+      "Time:2001": {
+        "Count": "Int:784371"
+      },
+      "Time:2012": {
+        "Count": "Int:840648"
+      },
+      "Time:2024": {
+        "Count": "Int:870476"
+      }
+    },
+    "Country:LK": {
+      "Time:1981": {
+        "Count": "Int:14629224"
+      },
+      "Time:2001": {
+        "Count": "Int:16897252"
+      },
+      "Time:2012": {
+        "Count": "Int:20359439"
+      },
+      "Time:2024": {
+        "Count": "Int:21781800"
+      }
+    },
+    "Province:LK-1": {
+      "Time:1981": {
+        "Count": "Int:3867624"
+      },
+      "Time:2001": {
+        "Count": "Int:5365801"
+      },
+      "Time:2012": {
+        "Count": "Int:5851130"
+      },
+      "Time:2024": {
+        "Count": "Int:6117341"
+      }
+    },
+    "Province:LK-2": {
+      "Time:1981": {
+        "Count": "Int:1968911"
+      },
+      "Time:2001": {
+        "Count": "Int:2417922"
+      },
+      "Time:2012": {
+        "Count": "Int:2571557"
+      },
+      "Time:2024": {
+        "Count": "Int:2714045"
+      }
+    },
+    "Province:LK-3": {
+      "Time:1981": {
+        "Count": "Int:1868915"
+      },
+      "Time:2001": {
+        "Count": "Int:2276672"
+      },
+      "Time:2012": {
+        "Count": "Int:2477285"
+      },
+      "Time:2024": {
+        "Count": "Int:2606679"
+      }
+    },
+    "Province:LK-4": {
+      "Time:1981": {
+        "Count": "Int:1098108"
+      },
+      "Time:2001": {
+        "Count": "Int:0"
+      },
+      "Time:2012": {
+        "Count": "Int:1061315"
+      },
+      "Time:2024": {
+        "Count": "Int:1150148"
+      }
+    },
+    "Province:LK-5": {
+      "Time:1981": {
+        "Count": "Int:963389"
+      },
+      "Time:2001": {
+        "Count": "Int:592596"
+      },
+      "Time:2012": {
+        "Count": "Int:1555510"
+      },
+      "Time:2024": {
+        "Count": "Int:1783214"
+      }
+    },
+    "Province:LK-6": {
+      "Time:1981": {
+        "Count": "Int:1684414"
+      },
+      "Time:2001": {
+        "Count": "Int:2167387"
+      },
+      "Time:2012": {
+        "Count": "Int:2380861"
+      },
+      "Time:2024": {
+        "Count": "Int:2586972"
+      }
+    },
+    "Province:LK-7": {
+      "Time:1981": {
+        "Count": "Int:828957"
+      },
+      "Time:2001": {
+        "Count": "Int:1101339"
+      },
+      "Time:2012": {
+        "Count": "Int:1266663"
+      },
+      "Time:2024": {
+        "Count": "Int:1407610"
+      }
+    },
+    "Province:LK-8": {
+      "Time:1981": {
+        "Count": "Int:890523"
+      },
+      "Time:2001": {
+        "Count": "Int:1174943"
+      },
+      "Time:2012": {
+        "Count": "Int:1266463"
+      },
+      "Time:2024": {
+        "Count": "Int:1399892"
+      }
+    },
+    "Province:LK-9": {
+      "Time:1981": {
+        "Count": "Int:1458383"
+      },
+      "Time:2001": {
+        "Count": "Int:1800592"
+      },
+      "Time:2012": {
+        "Count": "Int:1928655"
+      },
+      "Time:2024": {
+        "Count": "Int:2015899"
+      }
+    },
+    "ED:EC-01": {
+      "Time:1981": {
+        "Count": "Int:1675847"
+      },
+      "Time:2001": {
+        "Count": "Int:2239696"
+      },
+      "Time:2012": {
+        "Count": "Int:2324349"
+      },
+      "Time:2024": {
+        "Count": "Int:2375415"
+      }
+    },
+    "ED:EC-02": {
+      "Time:1981": {
+        "Count": "Int:1367813"
+      },
+      "Time:2001": {
+        "Count": "Int:2060470"
+      },
+      "Time:2012": {
+        "Count": "Int:2304833"
+      },
+      "Time:2024": {
+        "Count": "Int:2436142"
+      }
+    },
+    "ED:EC-03": {
+      "Time:1981": {
+        "Count": "Int:823964"
+      },
+      "Time:2001": {
+        "Count": "Int:1065635"
+      },
+      "Time:2012": {
+        "Count": "Int:1221948"
+      },
+      "Time:2024": {
+        "Count": "Int:1305784"
+      }
+    },
+    "ED:EC-04": {
+      "Time:1981": {
+        "Count": "Int:1032335"
+      },
+      "Time:2001": {
+        "Count": "Int:1276202"
+      },
+      "Time:2012": {
+        "Count": "Int:1375382"
+      },
+      "Time:2024": {
+        "Count": "Int:1461895"
+      }
+    },
+    "ED:EC-05": {
+      "Time:1981": {
+        "Count": "Int:352860"
+      },
+      "Time:2001": {
+        "Count": "Int:439031"
+      },
+      "Time:2012": {
+        "Count": "Int:484531"
+      },
+      "Time:2024": {
+        "Count": "Int:526870"
+      }
+    },
+    "ED:EC-06": {
+      "Time:1981": {
+        "Count": "Int:583716"
+      },
+      "Time:2001": {
+        "Count": "Int:702689"
+      },
+      "Time:2012": {
+        "Count": "Int:711644"
+      },
+      "Time:2024": {
+        "Count": "Int:725280"
+      }
+    },
+    "ED:EC-07": {
+      "Time:1981": {
+        "Count": "Int:805403"
+      },
+      "Time:2001": {
+        "Count": "Int:989769"
+      },
+      "Time:2012": {
+        "Count": "Int:1063334"
+      },
+      "Time:2024": {
+        "Count": "Int:1097372"
+      }
+    },
+    "ED:EC-08": {
+      "Time:1981": {
+        "Count": "Int:642235"
+      },
+      "Time:2001": {
+        "Count": "Int:760990"
+      },
+      "Time:2012": {
+        "Count": "Int:814048"
+      },
+      "Time:2024": {
+        "Count": "Int:837889"
+      }
+    },
+    "ED:EC-09": {
+      "Time:1981": {
+        "Count": "Int:421277"
+      },
+      "Time:2001": {
+        "Count": "Int:525913"
+      },
+      "Time:2012": {
+        "Count": "Int:599903"
+      },
+      "Time:2024": {
+        "Count": "Int:671418"
+      }
+    },
+    "ED:EC-10": {
+      "Time:1981": {
+        "Count": "Int:825252"
+      },
+      "Time:2001": {
+        "Count": "Int:0"
+      },
+      "Time:2012": {
+        "Count": "Int:697392"
+      },
+      "Time:2024": {
+        "Count": "Int:731461"
+      }
+    },
+    "ED:EC-11": {
+      "Time:1981": {
+        "Count": "Int:272856"
+      },
+      "Time:2001": {
+        "Count": "Int:0"
+      },
+      "Time:2012": {
+        "Count": "Int:363923"
+      },
+      "Time:2024": {
+        "Count": "Int:418687"
+      }
+    },
+    "ED:EC-12": {
+      "Time:1981": {
+        "Count": "Int:329343"
+      },
+      "Time:2001": {
+        "Count": "Int:0"
+      },
+      "Time:2012": {
+        "Count": "Int:526567"
+      },
+      "Time:2024": {
+        "Count": "Int:595918"
+      }
+    },
+    "ED:EC-13": {
+      "Time:1981": {
+        "Count": "Int:383275"
+      },
+      "Time:2001": {
+        "Count": "Int:592596"
+      },
+      "Time:2012": {
+        "Count": "Int:649402"
+      },
+      "Time:2024": {
+        "Count": "Int:744551"
+      }
+    },
+    "ED:EC-14": {
+      "Time:1981": {
+        "Count": "Int:250771"
+      },
+      "Time:2001": {
+        "Count": "Int:0"
+      },
+      "Time:2012": {
+        "Count": "Int:379541"
+      },
+      "Time:2024": {
+        "Count": "Int:442745"
+      }
+    },
+    "ED:EC-15": {
+      "Time:1981": {
+        "Count": "Int:1198795"
+      },
+      "Time:2001": {
+        "Count": "Int:1458385"
+      },
+      "Time:2012": {
+        "Count": "Int:1618465"
+      },
+      "Time:2024": {
+        "Count": "Int:1768156"
+      }
+    },
+    "ED:EC-16": {
+      "Time:1981": {
+        "Count": "Int:485619"
+      },
+      "Time:2001": {
+        "Count": "Int:709002"
+      },
+      "Time:2012": {
+        "Count": "Int:762396"
+      },
+      "Time:2024": {
+        "Count": "Int:818816"
+      }
+    },
+    "ED:EC-17": {
+      "Time:1981": {
+        "Count": "Int:575546"
+      },
+      "Time:2001": {
+        "Count": "Int:742535"
+      },
+      "Time:2012": {
+        "Count": "Int:860575"
+      },
+      "Time:2024": {
+        "Count": "Int:960080"
+      }
+    },
+    "ED:EC-18": {
+      "Time:1981": {
+        "Count": "Int:253411"
+      },
+      "Time:2001": {
+        "Count": "Int:358804"
+      },
+      "Time:2012": {
+        "Count": "Int:406088"
+      },
+      "Time:2024": {
+        "Count": "Int:447530"
+      }
+    },
+    "ED:EC-19": {
+      "Time:1981": {
+        "Count": "Int:620839"
+      },
+      "Time:2001": {
+        "Count": "Int:778422"
+      },
+      "Time:2012": {
+        "Count": "Int:815405"
+      },
+      "Time:2024": {
+        "Count": "Int:872307"
+      }
+    },
+    "ED:EC-20": {
+      "Time:1981": {
+        "Count": "Int:269684"
+      },
+      "Time:2001": {
+        "Count": "Int:396521"
+      },
+      "Time:2012": {
+        "Count": "Int:451058"
+      },
+      "Time:2024": {
+        "Count": "Int:527585"
+      }
+    },
+    "ED:EC-21": {
+      "Time:1981": {
+        "Count": "Int:779927"
+      },
+      "Time:2001": {
+        "Count": "Int:1016221"
+      },
+      "Time:2012": {
+        "Count": "Int:1088007"
+      },
+      "Time:2024": {
+        "Count": "Int:1145423"
+      }
+    },
+    "ED:EC-22": {
+      "Time:1981": {
+        "Count": "Int:678456"
+      },
+      "Time:2001": {
+        "Count": "Int:784371"
+      },
+      "Time:2012": {
+        "Count": "Int:840648"
+      },
+      "Time:2024": {
+        "Count": "Int:870476"
+      }
+    }
+  }
+}
