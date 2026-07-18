@@ -1,0 +1,54 @@
+{
+  "Person": {
+    "Time:2024": {
+      "EducationActivity:PreschoolEducation": {
+        "Sex:Male": {
+          "Count": "Int:243648"
+        },
+        "Sex:Female": {
+          "Count": "Int:238458"
+        }
+      },
+      "EducationActivity:SchoolEducation": {
+        "Sex:Male": {
+          "Count": "Int:2157831"
+        },
+        "Sex:Female": {
+          "Count": "Int:2193394"
+        }
+      },
+      "EducationActivity:DegreeOrPostgraduateEducation": {
+        "Sex:Male": {
+          "Count": "Int:120745"
+        },
+        "Sex:Female": {
+          "Count": "Int:200244"
+        }
+      },
+      "EducationActivity:VocationalTrainingOrTechnicalEducation": {
+        "Sex:Male": {
+          "Count": "Int:70149"
+        },
+        "Sex:Female": {
+          "Count": "Int:52308"
+        }
+      },
+      "EducationActivity:OtherEducationalActivity": {
+        "Sex:Male": {
+          "Count": "Int:125671"
+        },
+        "Sex:Female": {
+          "Count": "Int:140742"
+        }
+      },
+      "EducationActivity:NotStudying": {
+        "Sex:Male": {
+          "Count": "Int:7469270"
+        },
+        "Sex:Female": {
+          "Count": "Int:8122199"
+        }
+      }
+    }
+  }
+}
