@@ -28,6 +28,8 @@ class FinalReportLankaDataMixin(FinalReportLankaMetaDataMixin):
             entity_class_name=self.entity_class_name,
             time_str=self.time_str,
             measurement_class_name=self.measurement_class_name,
+            value_label=self.value_label,
+            value_class_name=self.value_class_name,
         )
 
     def _get_datumset_with_dim1_etc_adapter(self):
