@@ -9,39 +9,39 @@
 
 ```json
 {
-    "_meta": {
-        "source_url": "https://www.statistics.gov.lk/Resource/en/Population/CPH_2024/CPH2024_Final_Eng.pdf#page=97",
-        "source_description": [
-            "Table 5.2.3, Final Report, 2024 Census of Population and Housing, Department of Census and Statistics, Sri Lanka"
-        ],
-        "what": {
-            "PopulationAbroadByReason": "Population Temporarily Living Abroad by District and Main Reason for Living in Abroad, 2024"
-        },
-        "when": "2024",
-        "where_who_types": [
-            "district",
-            "ed",
-            "province",
-            "country"
-        ]
-    },
-    "PopulationAbroadByReason": {
-        "2024": {
-            "LK-11": {
-                "region_id": "LK-11",
-                "region_name": "Colombo",
-                "region_ent_type": "district",
-                "values": {
-                    "Employment": 51449,
-                    "Education": 12339,
-                    "AccompanyingFamilyMemberInNeed": 7230,
-                    "Other": 421
+    "Person": {
+        "Time:2024": {
+            "District:LK-11": {
+                "EmmigrationReason:Employment": {
+                    "Count": "Int:51449"
                 },
-                "total_value": 71439,
+                "EmmigrationReason:Education": {
+                    "Count": "Int:12339"
+                },
+                "EmmigrationReason:AccompanyingFamilyMemberInNeed": {
+                    "Count": "Int:7230"
+                },
+                "EmmigrationReason:Other": {
+                    "Count": "Int:421"
+                }
+            },
+            "District:LK-12": {
+                "EmmigrationReason:Employment": {
+                    "Count": "Int:67844"
+                },
+                "EmmigrationReason:Education": {
+                    "Count": "Int:10894"
+                },
+                "EmmigrationReason:AccompanyingFamilyMemberInNeed": {
+                    "Count": "Int:7028"
+                },
+                "EmmigrationReason:Other": {
+                    "Count": "Int:311"
+                }
 ...
 ```
 
-- Source File: [lanka_data.json (28.1 KB)](../../../../data/final-report-tables/chapter-5/5.2.3-Population-Temporarily-Living-Abroad-by-District-and-Main-Reason-for-Living-in-Abroad,-2024/lanka_data.json)
+- Source File: [lanka_data.json (21.0 KB)](../../../../data/final-report-tables/chapter-5/5.2.3-Population-Temporarily-Living-Abroad-by-District-and-Main-Reason-for-Living-in-Abroad,-2024/lanka_data.json)
 
 ## Structured Data (similar to original layout)
 
