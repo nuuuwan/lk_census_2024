@@ -33,12 +33,6 @@ if __name__ == "__main__":
             lanka_data_metadata = {}
             if table.lanka_data_metadata_file.exists():
                 lanka_data_metadata = table.lanka_data_metadata_file.read()
-            if not lanka_data_metadata.get("entity_class_name"):
-                lanka_data_metadata |= {
-                    "entity_class_name": None,
-                    "year": 2024,
-                    "measurement_class_name": None,
-                }
             table.lanka_data_metadata_file.write(lanka_data_metadata)
 
         table.lanka_data_metadata_file.open("code")
