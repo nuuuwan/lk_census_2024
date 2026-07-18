@@ -9,39 +9,39 @@
 
 ```json
 {
-    "_meta": {
-        "source_url": "https://www.statistics.gov.lk/Resource/en/Population/CPH_2024/CPH2024_Final_Eng.pdf#page=95",
-        "source_description": [
-            "Table 5.2.1, Final Report, 2024 Census of Population and Housing, Department of Census and Statistics, Sri Lanka"
-        ],
-        "what": {
-            "PopulationAbroadBySex": "Population Temporarily Living Abroad by District and Sex, 2024"
-        },
-        "when": "2024",
-        "where_who_types": [
-            "district",
-            "country",
-            "province",
-            "ed"
-        ]
-    },
-    "PopulationAbroadBySex": {
-        "2024": {
-            "LK-11": {
-                "region_id": "LK-11",
-                "region_name": "Colombo",
-                "region_ent_type": "district",
-                "values": {
-                    "Male": 43531,
-                    "Female": 27908
+    "Person": {
+        "Time:2024": {
+            "District:LK-11": {
+                "Sex:Male": {
+                    "TemporarilyLivingAbroadCount": "Int:43531"
                 },
-                "total_value": 71439,
-                "pct_values": {
-                    "Male": 0.6093,
+                "Sex:Female": {
+                    "TemporarilyLivingAbroadCount": "Int:27908"
+                }
+            },
+            "District:LK-12": {
+                "Sex:Male": {
+                    "TemporarilyLivingAbroadCount": "Int:54734"
+                },
+                "Sex:Female": {
+                    "TemporarilyLivingAbroadCount": "Int:31343"
+                }
+            },
+            "District:LK-13": {
+                "Sex:Male": {
+                    "TemporarilyLivingAbroadCount": "Int:25238"
+                },
+                "Sex:Female": {
+                    "TemporarilyLivingAbroadCount": "Int:16114"
+                }
+            },
+            "District:LK-21": {
+                "Sex:Male": {
+                    "TemporarilyLivingAbroadCount": "Int:35518"
 ...
 ```
 
-- Source File: [lanka_data.json (18.7 KB)](../../../../data/final-report-tables/chapter-5/5.2.1-Population-Temporarily-Living-Abroad-by-District-and-Sex,-2024/lanka_data.json)
+- Source File: [lanka_data.json (11.5 KB)](../../../../data/final-report-tables/chapter-5/5.2.1-Population-Temporarily-Living-Abroad-by-District-and-Sex,-2024/lanka_data.json)
 
 ## Structured Data (similar to original layout)
 
