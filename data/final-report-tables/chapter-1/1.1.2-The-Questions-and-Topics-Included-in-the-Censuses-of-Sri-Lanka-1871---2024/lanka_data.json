@@ -1,5 +1,99 @@
 {
   "Census": {
+    "CensusTopic:Schedule": {
+      "Time:1871": {
+        "WasTopicIncluded": "Bool:False"
+      },
+      "Time:1881": {
+        "WasTopicIncluded": "Bool:False"
+      },
+      "Time:1891": {
+        "WasTopicIncluded": "Bool:False"
+      },
+      "Time:1901": {
+        "WasTopicIncluded": "Bool:False"
+      },
+      "Time:1911": {
+        "WasTopicIncluded": "Bool:False"
+      },
+      "Time:1921": {
+        "WasTopicIncluded": "Bool:False"
+      },
+      "Time:1931": {
+        "WasTopicIncluded": "Bool:False"
+      },
+      "Time:1946": {
+        "WasTopicIncluded": "Bool:False"
+      },
+      "Time:1953": {
+        "WasTopicIncluded": "Bool:False"
+      },
+      "Time:1963": {
+        "WasTopicIncluded": "Bool:False"
+      },
+      "Time:1971": {
+        "WasTopicIncluded": "Bool:False"
+      },
+      "Time:1981": {
+        "WasTopicIncluded": "Bool:False"
+      },
+      "Time:2001": {
+        "WasTopicIncluded": "Bool:False"
+      },
+      "Time:2012": {
+        "WasTopicIncluded": "Bool:False"
+      },
+      "Time:2024": {
+        "WasTopicIncluded": "Bool:False"
+      }
+    },
+    "CensusTopic:DemographicAndPersonalInformation": {
+      "Time:1871": {
+        "WasTopicIncluded": "Bool:False"
+      },
+      "Time:1881": {
+        "WasTopicIncluded": "Bool:False"
+      },
+      "Time:1891": {
+        "WasTopicIncluded": "Bool:False"
+      },
+      "Time:1901": {
+        "WasTopicIncluded": "Bool:False"
+      },
+      "Time:1911": {
+        "WasTopicIncluded": "Bool:False"
+      },
+      "Time:1921": {
+        "WasTopicIncluded": "Bool:False"
+      },
+      "Time:1931": {
+        "WasTopicIncluded": "Bool:False"
+      },
+      "Time:1946": {
+        "WasTopicIncluded": "Bool:False"
+      },
+      "Time:1953": {
+        "WasTopicIncluded": "Bool:False"
+      },
+      "Time:1963": {
+        "WasTopicIncluded": "Bool:False"
+      },
+      "Time:1971": {
+        "WasTopicIncluded": "Bool:False"
+      },
+      "Time:1981": {
+        "WasTopicIncluded": "Bool:False"
+      },
+      "Time:2001": {
+        "WasTopicIncluded": "Bool:False"
+      },
+      "Time:2012": {
+        "WasTopicIncluded": "Bool:False"
+      },
+      "Time:2024": {
+        "WasTopicIncluded": "Bool:False"
+      }
+    },
     "CensusTopic:Name": {
       "Time:1871": {
         "WasTopicIncluded": "Bool:True"
@@ -21,6 +115,53 @@
       },
       "Time:1931": {
         "WasTopicIncluded": "Bool:True"
+      },
+      "Time:1946": {
+        "WasTopicIncluded": "Bool:True"
+      },
+      "Time:1953": {
+        "WasTopicIncluded": "Bool:True"
+      },
+      "Time:1963": {
+        "WasTopicIncluded": "Bool:True"
+      },
+      "Time:1971": {
+        "WasTopicIncluded": "Bool:True"
+      },
+      "Time:1981": {
+        "WasTopicIncluded": "Bool:True"
+      },
+      "Time:2001": {
+        "WasTopicIncluded": "Bool:True"
+      },
+      "Time:2012": {
+        "WasTopicIncluded": "Bool:True"
+      },
+      "Time:2024": {
+        "WasTopicIncluded": "Bool:True"
+      }
+    },
+    "CensusTopic:RelationshipToHeadOfTheHousehold": {
+      "Time:1871": {
+        "WasTopicIncluded": "Bool:True"
+      },
+      "Time:1881": {
+        "WasTopicIncluded": "Bool:True"
+      },
+      "Time:1891": {
+        "WasTopicIncluded": "Bool:True"
+      },
+      "Time:1901": {
+        "WasTopicIncluded": "Bool:False"
+      },
+      "Time:1911": {
+        "WasTopicIncluded": "Bool:False"
+      },
+      "Time:1921": {
+        "WasTopicIncluded": "Bool:False"
+      },
+      "Time:1931": {
+        "WasTopicIncluded": "Bool:False"
       },
       "Time:1946": {
         "WasTopicIncluded": "Bool:True"
@@ -94,6 +235,53 @@
         "WasTopicIncluded": "Bool:True"
       }
     },
+    "CensusTopic:DateOfBirth": {
+      "Time:1871": {
+        "WasTopicIncluded": "Bool:False"
+      },
+      "Time:1881": {
+        "WasTopicIncluded": "Bool:False"
+      },
+      "Time:1891": {
+        "WasTopicIncluded": "Bool:False"
+      },
+      "Time:1901": {
+        "WasTopicIncluded": "Bool:False"
+      },
+      "Time:1911": {
+        "WasTopicIncluded": "Bool:False"
+      },
+      "Time:1921": {
+        "WasTopicIncluded": "Bool:False"
+      },
+      "Time:1931": {
+        "WasTopicIncluded": "Bool:False"
+      },
+      "Time:1946": {
+        "WasTopicIncluded": "Bool:False"
+      },
+      "Time:1953": {
+        "WasTopicIncluded": "Bool:False"
+      },
+      "Time:1963": {
+        "WasTopicIncluded": "Bool:True"
+      },
+      "Time:1971": {
+        "WasTopicIncluded": "Bool:True"
+      },
+      "Time:1981": {
+        "WasTopicIncluded": "Bool:True"
+      },
+      "Time:2001": {
+        "WasTopicIncluded": "Bool:True"
+      },
+      "Time:2012": {
+        "WasTopicIncluded": "Bool:True"
+      },
+      "Time:2024": {
+        "WasTopicIncluded": "Bool:True"
+      }
+    },
     "CensusTopic:Age": {
       "Time:1871": {
         "WasTopicIncluded": "Bool:True"
@@ -139,6 +327,100 @@
       },
       "Time:2024": {
         "WasTopicIncluded": "Bool:False"
+      }
+    },
+    "CensusTopic:MaritalStatus": {
+      "Time:1871": {
+        "WasTopicIncluded": "Bool:True"
+      },
+      "Time:1881": {
+        "WasTopicIncluded": "Bool:False"
+      },
+      "Time:1891": {
+        "WasTopicIncluded": "Bool:False"
+      },
+      "Time:1901": {
+        "WasTopicIncluded": "Bool:True"
+      },
+      "Time:1911": {
+        "WasTopicIncluded": "Bool:True"
+      },
+      "Time:1921": {
+        "WasTopicIncluded": "Bool:True"
+      },
+      "Time:1931": {
+        "WasTopicIncluded": "Bool:True"
+      },
+      "Time:1946": {
+        "WasTopicIncluded": "Bool:True"
+      },
+      "Time:1953": {
+        "WasTopicIncluded": "Bool:False"
+      },
+      "Time:1963": {
+        "WasTopicIncluded": "Bool:True"
+      },
+      "Time:1971": {
+        "WasTopicIncluded": "Bool:True"
+      },
+      "Time:1981": {
+        "WasTopicIncluded": "Bool:True"
+      },
+      "Time:2001": {
+        "WasTopicIncluded": "Bool:True"
+      },
+      "Time:2012": {
+        "WasTopicIncluded": "Bool:True"
+      },
+      "Time:2024": {
+        "WasTopicIncluded": "Bool:True"
+      }
+    },
+    "CensusTopic:EthnicGroup": {
+      "Time:1871": {
+        "WasTopicIncluded": "Bool:True"
+      },
+      "Time:1881": {
+        "WasTopicIncluded": "Bool:True"
+      },
+      "Time:1891": {
+        "WasTopicIncluded": "Bool:True"
+      },
+      "Time:1901": {
+        "WasTopicIncluded": "Bool:True"
+      },
+      "Time:1911": {
+        "WasTopicIncluded": "Bool:True"
+      },
+      "Time:1921": {
+        "WasTopicIncluded": "Bool:True"
+      },
+      "Time:1931": {
+        "WasTopicIncluded": "Bool:True"
+      },
+      "Time:1946": {
+        "WasTopicIncluded": "Bool:True"
+      },
+      "Time:1953": {
+        "WasTopicIncluded": "Bool:True"
+      },
+      "Time:1963": {
+        "WasTopicIncluded": "Bool:True"
+      },
+      "Time:1971": {
+        "WasTopicIncluded": "Bool:True"
+      },
+      "Time:1981": {
+        "WasTopicIncluded": "Bool:True"
+      },
+      "Time:2001": {
+        "WasTopicIncluded": "Bool:True"
+      },
+      "Time:2012": {
+        "WasTopicIncluded": "Bool:True"
+      },
+      "Time:2024": {
+        "WasTopicIncluded": "Bool:True"
       }
     },
     "CensusTopic:Religion": {
@@ -235,6 +517,288 @@
         "WasTopicIncluded": "Bool:True"
       }
     },
+    "CensusTopic:NICNo": {
+      "Time:1871": {
+        "WasTopicIncluded": "Bool:False"
+      },
+      "Time:1881": {
+        "WasTopicIncluded": "Bool:False"
+      },
+      "Time:1891": {
+        "WasTopicIncluded": "Bool:False"
+      },
+      "Time:1901": {
+        "WasTopicIncluded": "Bool:False"
+      },
+      "Time:1911": {
+        "WasTopicIncluded": "Bool:False"
+      },
+      "Time:1921": {
+        "WasTopicIncluded": "Bool:False"
+      },
+      "Time:1931": {
+        "WasTopicIncluded": "Bool:False"
+      },
+      "Time:1946": {
+        "WasTopicIncluded": "Bool:False"
+      },
+      "Time:1953": {
+        "WasTopicIncluded": "Bool:False"
+      },
+      "Time:1963": {
+        "WasTopicIncluded": "Bool:False"
+      },
+      "Time:1971": {
+        "WasTopicIncluded": "Bool:False"
+      },
+      "Time:1981": {
+        "WasTopicIncluded": "Bool:False"
+      },
+      "Time:2001": {
+        "WasTopicIncluded": "Bool:False"
+      },
+      "Time:2012": {
+        "WasTopicIncluded": "Bool:True"
+      },
+      "Time:2024": {
+        "WasTopicIncluded": "Bool:True"
+      }
+    },
+    "CensusTopic:StatusOfClergyOrPriest": {
+      "Time:1871": {
+        "WasTopicIncluded": "Bool:False"
+      },
+      "Time:1881": {
+        "WasTopicIncluded": "Bool:False"
+      },
+      "Time:1891": {
+        "WasTopicIncluded": "Bool:False"
+      },
+      "Time:1901": {
+        "WasTopicIncluded": "Bool:False"
+      },
+      "Time:1911": {
+        "WasTopicIncluded": "Bool:False"
+      },
+      "Time:1921": {
+        "WasTopicIncluded": "Bool:False"
+      },
+      "Time:1931": {
+        "WasTopicIncluded": "Bool:False"
+      },
+      "Time:1946": {
+        "WasTopicIncluded": "Bool:False"
+      },
+      "Time:1953": {
+        "WasTopicIncluded": "Bool:False"
+      },
+      "Time:1963": {
+        "WasTopicIncluded": "Bool:False"
+      },
+      "Time:1971": {
+        "WasTopicIncluded": "Bool:False"
+      },
+      "Time:1981": {
+        "WasTopicIncluded": "Bool:False"
+      },
+      "Time:2001": {
+        "WasTopicIncluded": "Bool:False"
+      },
+      "Time:2012": {
+        "WasTopicIncluded": "Bool:False"
+      },
+      "Time:2024": {
+        "WasTopicIncluded": "Bool:True"
+      }
+    },
+    "CensusTopic:EducationalCharacteristics": {
+      "Time:1871": {
+        "WasTopicIncluded": "Bool:False"
+      },
+      "Time:1881": {
+        "WasTopicIncluded": "Bool:False"
+      },
+      "Time:1891": {
+        "WasTopicIncluded": "Bool:False"
+      },
+      "Time:1901": {
+        "WasTopicIncluded": "Bool:False"
+      },
+      "Time:1911": {
+        "WasTopicIncluded": "Bool:False"
+      },
+      "Time:1921": {
+        "WasTopicIncluded": "Bool:False"
+      },
+      "Time:1931": {
+        "WasTopicIncluded": "Bool:False"
+      },
+      "Time:1946": {
+        "WasTopicIncluded": "Bool:False"
+      },
+      "Time:1953": {
+        "WasTopicIncluded": "Bool:False"
+      },
+      "Time:1963": {
+        "WasTopicIncluded": "Bool:False"
+      },
+      "Time:1971": {
+        "WasTopicIncluded": "Bool:False"
+      },
+      "Time:1981": {
+        "WasTopicIncluded": "Bool:False"
+      },
+      "Time:2001": {
+        "WasTopicIncluded": "Bool:False"
+      },
+      "Time:2012": {
+        "WasTopicIncluded": "Bool:False"
+      },
+      "Time:2024": {
+        "WasTopicIncluded": "Bool:False"
+      }
+    },
+    "CensusTopic:AbilityToSpeakSinhalaAndTamil": {
+      "Time:1871": {
+        "WasTopicIncluded": "Bool:False"
+      },
+      "Time:1881": {
+        "WasTopicIncluded": "Bool:False"
+      },
+      "Time:1891": {
+        "WasTopicIncluded": "Bool:False"
+      },
+      "Time:1901": {
+        "WasTopicIncluded": "Bool:False"
+      },
+      "Time:1911": {
+        "WasTopicIncluded": "Bool:False"
+      },
+      "Time:1921": {
+        "WasTopicIncluded": "Bool:False"
+      },
+      "Time:1931": {
+        "WasTopicIncluded": "Bool:False"
+      },
+      "Time:1946": {
+        "WasTopicIncluded": "Bool:True"
+      },
+      "Time:1953": {
+        "WasTopicIncluded": "Bool:True"
+      },
+      "Time:1963": {
+        "WasTopicIncluded": "Bool:True"
+      },
+      "Time:1971": {
+        "WasTopicIncluded": "Bool:False"
+      },
+      "Time:1981": {
+        "WasTopicIncluded": "Bool:False"
+      },
+      "Time:2001": {
+        "WasTopicIncluded": "Bool:False"
+      },
+      "Time:2012": {
+        "WasTopicIncluded": "Bool:False"
+      },
+      "Time:2024": {
+        "WasTopicIncluded": "Bool:False"
+      }
+    },
+    "CensusTopic:AbilityToSpeakEnglish": {
+      "Time:1871": {
+        "WasTopicIncluded": "Bool:False"
+      },
+      "Time:1881": {
+        "WasTopicIncluded": "Bool:False"
+      },
+      "Time:1891": {
+        "WasTopicIncluded": "Bool:False"
+      },
+      "Time:1901": {
+        "WasTopicIncluded": "Bool:False"
+      },
+      "Time:1911": {
+        "WasTopicIncluded": "Bool:True"
+      },
+      "Time:1921": {
+        "WasTopicIncluded": "Bool:True"
+      },
+      "Time:1931": {
+        "WasTopicIncluded": "Bool:True"
+      },
+      "Time:1946": {
+        "WasTopicIncluded": "Bool:True"
+      },
+      "Time:1953": {
+        "WasTopicIncluded": "Bool:True"
+      },
+      "Time:1963": {
+        "WasTopicIncluded": "Bool:True"
+      },
+      "Time:1971": {
+        "WasTopicIncluded": "Bool:False"
+      },
+      "Time:1981": {
+        "WasTopicIncluded": "Bool:False"
+      },
+      "Time:2001": {
+        "WasTopicIncluded": "Bool:False"
+      },
+      "Time:2012": {
+        "WasTopicIncluded": "Bool:False"
+      },
+      "Time:2024": {
+        "WasTopicIncluded": "Bool:False"
+      }
+    },
+    "CensusTopic:AbilityToSpeakSinhalaEnglishAndTamil": {
+      "Time:1871": {
+        "WasTopicIncluded": "Bool:False"
+      },
+      "Time:1881": {
+        "WasTopicIncluded": "Bool:False"
+      },
+      "Time:1891": {
+        "WasTopicIncluded": "Bool:False"
+      },
+      "Time:1901": {
+        "WasTopicIncluded": "Bool:False"
+      },
+      "Time:1911": {
+        "WasTopicIncluded": "Bool:False"
+      },
+      "Time:1921": {
+        "WasTopicIncluded": "Bool:False"
+      },
+      "Time:1931": {
+        "WasTopicIncluded": "Bool:False"
+      },
+      "Time:1946": {
+        "WasTopicIncluded": "Bool:False"
+      },
+      "Time:1953": {
+        "WasTopicIncluded": "Bool:False"
+      },
+      "Time:1963": {
+        "WasTopicIncluded": "Bool:False"
+      },
+      "Time:1971": {
+        "WasTopicIncluded": "Bool:False"
+      },
+      "Time:1981": {
+        "WasTopicIncluded": "Bool:False"
+      },
+      "Time:2001": {
+        "WasTopicIncluded": "Bool:True"
+      },
+      "Time:2012": {
+        "WasTopicIncluded": "Bool:True"
+      },
+      "Time:2024": {
+        "WasTopicIncluded": "Bool:True"
+      }
+    },
     "CensusTopic:Literacy": {
       "Time:1871": {
         "WasTopicIncluded": "Bool:False"
@@ -280,6 +844,335 @@
       },
       "Time:2024": {
         "WasTopicIncluded": "Bool:False"
+      }
+    },
+    "CensusTopic:EnglishLiteracy": {
+      "Time:1871": {
+        "WasTopicIncluded": "Bool:False"
+      },
+      "Time:1881": {
+        "WasTopicIncluded": "Bool:False"
+      },
+      "Time:1891": {
+        "WasTopicIncluded": "Bool:False"
+      },
+      "Time:1901": {
+        "WasTopicIncluded": "Bool:True"
+      },
+      "Time:1911": {
+        "WasTopicIncluded": "Bool:True"
+      },
+      "Time:1921": {
+        "WasTopicIncluded": "Bool:True"
+      },
+      "Time:1931": {
+        "WasTopicIncluded": "Bool:True"
+      },
+      "Time:1946": {
+        "WasTopicIncluded": "Bool:True"
+      },
+      "Time:1953": {
+        "WasTopicIncluded": "Bool:False"
+      },
+      "Time:1963": {
+        "WasTopicIncluded": "Bool:True"
+      },
+      "Time:1971": {
+        "WasTopicIncluded": "Bool:False"
+      },
+      "Time:1981": {
+        "WasTopicIncluded": "Bool:False"
+      },
+      "Time:2001": {
+        "WasTopicIncluded": "Bool:False"
+      },
+      "Time:2012": {
+        "WasTopicIncluded": "Bool:False"
+      },
+      "Time:2024": {
+        "WasTopicIncluded": "Bool:False"
+      }
+    },
+    "CensusTopic:SinhalaEnglishAndTamilLiteracy": {
+      "Time:1871": {
+        "WasTopicIncluded": "Bool:False"
+      },
+      "Time:1881": {
+        "WasTopicIncluded": "Bool:False"
+      },
+      "Time:1891": {
+        "WasTopicIncluded": "Bool:False"
+      },
+      "Time:1901": {
+        "WasTopicIncluded": "Bool:False"
+      },
+      "Time:1911": {
+        "WasTopicIncluded": "Bool:False"
+      },
+      "Time:1921": {
+        "WasTopicIncluded": "Bool:False"
+      },
+      "Time:1931": {
+        "WasTopicIncluded": "Bool:False"
+      },
+      "Time:1946": {
+        "WasTopicIncluded": "Bool:False"
+      },
+      "Time:1953": {
+        "WasTopicIncluded": "Bool:False"
+      },
+      "Time:1963": {
+        "WasTopicIncluded": "Bool:False"
+      },
+      "Time:1971": {
+        "WasTopicIncluded": "Bool:False"
+      },
+      "Time:1981": {
+        "WasTopicIncluded": "Bool:True"
+      },
+      "Time:2001": {
+        "WasTopicIncluded": "Bool:True"
+      },
+      "Time:2012": {
+        "WasTopicIncluded": "Bool:True"
+      },
+      "Time:2024": {
+        "WasTopicIncluded": "Bool:True"
+      }
+    },
+    "CensusTopic:ComputerLiteracy": {
+      "Time:1871": {
+        "WasTopicIncluded": "Bool:False"
+      },
+      "Time:1881": {
+        "WasTopicIncluded": "Bool:False"
+      },
+      "Time:1891": {
+        "WasTopicIncluded": "Bool:False"
+      },
+      "Time:1901": {
+        "WasTopicIncluded": "Bool:False"
+      },
+      "Time:1911": {
+        "WasTopicIncluded": "Bool:False"
+      },
+      "Time:1921": {
+        "WasTopicIncluded": "Bool:False"
+      },
+      "Time:1931": {
+        "WasTopicIncluded": "Bool:False"
+      },
+      "Time:1946": {
+        "WasTopicIncluded": "Bool:False"
+      },
+      "Time:1953": {
+        "WasTopicIncluded": "Bool:False"
+      },
+      "Time:1963": {
+        "WasTopicIncluded": "Bool:False"
+      },
+      "Time:1971": {
+        "WasTopicIncluded": "Bool:False"
+      },
+      "Time:1981": {
+        "WasTopicIncluded": "Bool:False"
+      },
+      "Time:2001": {
+        "WasTopicIncluded": "Bool:False"
+      },
+      "Time:2012": {
+        "WasTopicIncluded": "Bool:True"
+      },
+      "Time:2024": {
+        "WasTopicIncluded": "Bool:True"
+      }
+    },
+    "CensusTopic:DigitalLiteracy": {
+      "Time:1871": {
+        "WasTopicIncluded": "Bool:False"
+      },
+      "Time:1881": {
+        "WasTopicIncluded": "Bool:False"
+      },
+      "Time:1891": {
+        "WasTopicIncluded": "Bool:False"
+      },
+      "Time:1901": {
+        "WasTopicIncluded": "Bool:False"
+      },
+      "Time:1911": {
+        "WasTopicIncluded": "Bool:False"
+      },
+      "Time:1921": {
+        "WasTopicIncluded": "Bool:False"
+      },
+      "Time:1931": {
+        "WasTopicIncluded": "Bool:False"
+      },
+      "Time:1946": {
+        "WasTopicIncluded": "Bool:False"
+      },
+      "Time:1953": {
+        "WasTopicIncluded": "Bool:False"
+      },
+      "Time:1963": {
+        "WasTopicIncluded": "Bool:False"
+      },
+      "Time:1971": {
+        "WasTopicIncluded": "Bool:False"
+      },
+      "Time:1981": {
+        "WasTopicIncluded": "Bool:False"
+      },
+      "Time:2001": {
+        "WasTopicIncluded": "Bool:False"
+      },
+      "Time:2012": {
+        "WasTopicIncluded": "Bool:False"
+      },
+      "Time:2024": {
+        "WasTopicIncluded": "Bool:True"
+      }
+    },
+    "CensusTopic:EducationalAttainmentOrHighestLevelOf": {
+      "Time:1871": {
+        "WasTopicIncluded": "Bool:False"
+      },
+      "Time:1881": {
+        "WasTopicIncluded": "Bool:False"
+      },
+      "Time:1891": {
+        "WasTopicIncluded": "Bool:False"
+      },
+      "Time:1901": {
+        "WasTopicIncluded": "Bool:False"
+      },
+      "Time:1911": {
+        "WasTopicIncluded": "Bool:False"
+      },
+      "Time:1921": {
+        "WasTopicIncluded": "Bool:False"
+      },
+      "Time:1931": {
+        "WasTopicIncluded": "Bool:False"
+      },
+      "Time:1946": {
+        "WasTopicIncluded": "Bool:False"
+      },
+      "Time:1953": {
+        "WasTopicIncluded": "Bool:False"
+      },
+      "Time:1963": {
+        "WasTopicIncluded": "Bool:False"
+      },
+      "Time:1971": {
+        "WasTopicIncluded": "Bool:True"
+      },
+      "Time:1981": {
+        "WasTopicIncluded": "Bool:True"
+      },
+      "Time:2001": {
+        "WasTopicIncluded": "Bool:True"
+      },
+      "Time:2012": {
+        "WasTopicIncluded": "Bool:True"
+      },
+      "Time:2024": {
+        "WasTopicIncluded": "Bool:True"
+      }
+    },
+    "CensusTopic:SchoolAttendanceOrAttendInEducational": {
+      "Time:1871": {
+        "WasTopicIncluded": "Bool:False"
+      },
+      "Time:1881": {
+        "WasTopicIncluded": "Bool:False"
+      },
+      "Time:1891": {
+        "WasTopicIncluded": "Bool:False"
+      },
+      "Time:1901": {
+        "WasTopicIncluded": "Bool:False"
+      },
+      "Time:1911": {
+        "WasTopicIncluded": "Bool:False"
+      },
+      "Time:1921": {
+        "WasTopicIncluded": "Bool:False"
+      },
+      "Time:1931": {
+        "WasTopicIncluded": "Bool:False"
+      },
+      "Time:1946": {
+        "WasTopicIncluded": "Bool:False"
+      },
+      "Time:1953": {
+        "WasTopicIncluded": "Bool:False"
+      },
+      "Time:1963": {
+        "WasTopicIncluded": "Bool:False"
+      },
+      "Time:1971": {
+        "WasTopicIncluded": "Bool:False"
+      },
+      "Time:1981": {
+        "WasTopicIncluded": "Bool:True"
+      },
+      "Time:2001": {
+        "WasTopicIncluded": "Bool:True"
+      },
+      "Time:2012": {
+        "WasTopicIncluded": "Bool:True"
+      },
+      "Time:2024": {
+        "WasTopicIncluded": "Bool:True"
+      }
+    },
+    "CensusTopic:VocationalAndApprenticeshipQualification": {
+      "Time:1871": {
+        "WasTopicIncluded": "Bool:False"
+      },
+      "Time:1881": {
+        "WasTopicIncluded": "Bool:False"
+      },
+      "Time:1891": {
+        "WasTopicIncluded": "Bool:False"
+      },
+      "Time:1901": {
+        "WasTopicIncluded": "Bool:False"
+      },
+      "Time:1911": {
+        "WasTopicIncluded": "Bool:False"
+      },
+      "Time:1921": {
+        "WasTopicIncluded": "Bool:False"
+      },
+      "Time:1931": {
+        "WasTopicIncluded": "Bool:False"
+      },
+      "Time:1946": {
+        "WasTopicIncluded": "Bool:False"
+      },
+      "Time:1953": {
+        "WasTopicIncluded": "Bool:False"
+      },
+      "Time:1963": {
+        "WasTopicIncluded": "Bool:False"
+      },
+      "Time:1971": {
+        "WasTopicIncluded": "Bool:False"
+      },
+      "Time:1981": {
+        "WasTopicIncluded": "Bool:False"
+      },
+      "Time:2001": {
+        "WasTopicIncluded": "Bool:False"
+      },
+      "Time:2012": {
+        "WasTopicIncluded": "Bool:True"
+      },
+      "Time:2024": {
+        "WasTopicIncluded": "Bool:True"
       }
     }
   }
