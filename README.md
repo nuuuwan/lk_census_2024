@@ -1,7 +1,7 @@
 # 🇱🇰 Sri Lanka - Census of Population and Housing 2024
 
 ![CPH](https://img.shields.io/badge/CPH-2024-blue)
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--07--18_12:21:29-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--07--18_12:23:09-green)
 
 **154** Datasets on Population, Housing and more, by Country, Province, District, Divisional Secretariat Division (DSD), Grama Niladhari Division (GND), Electoral District (ED), Polling Division (PD), and Local Government Authority (LG) levels.
 
@@ -211,8 +211,8 @@
 | status | status_label | n | p |
 | :-- | :-- | --: | --: |
 | **2**/5 | 🔴 Raw data is difficult to parse | **21** | **14.8%** |
-| **4**/5 | 🟡 Lanka data is missing | **110** | **77.5%** |
-| **5**/5 | ✅ All Stages Complete | **11** | **7.7%** |
+| **4**/5 | 🟡 Lanka data is missing | **109** | **76.8%** |
+| **5**/5 | ✅ All Stages Complete | **12** | **8.5%** |
 
 ![Maintainer](https://img.shields.io/badge/maintainer-nuuuwan-red)
 ![MadeWith](https://img.shields.io/badge/made_with-python-blue)
