@@ -9,5 +9,13 @@
     "_ignore",
     "female_over_18_years",
     "female_under_18_years"
-  ]
+  ],
+  "entity_class_name": "Person",
+  "time_value": "2024",
+  "row_dim_class_name": "District",
+  "row_dim_key": "region_id",
+  "col_dim_class_name": null,
+  "cell_label": "Count",
+  "cell_class_name": "Int",
+  "lanka_data_pass": true
 }
