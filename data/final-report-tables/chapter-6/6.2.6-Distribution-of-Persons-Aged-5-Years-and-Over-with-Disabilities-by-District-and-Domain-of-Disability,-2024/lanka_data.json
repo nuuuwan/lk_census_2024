@@ -1,0 +1,506 @@
+{
+  "Person": {
+    "Time:2024": {
+      "District:LK-11": {
+        "DisabilityTypes:DifficultyInSeeing": {
+          "Count": "Int:14104"
+        },
+        "DisabilityTypes:DifficultyInHearing": {
+          "Count": "Int:9047"
+        },
+        "DisabilityTypes:DifficultyInWalkingOrClimbingSteps": {
+          "Count": "Int:36504"
+        },
+        "DisabilityTypes:DifficultyInRememberingOrConcentrating": {
+          "Count": "Int:14600"
+        },
+        "DisabilityTypes:DifficultyInSelfcareSuchAsWashingOrDressing": {
+          "Count": "Int:16175"
+        },
+        "DisabilityTypes:DifficultyInCommunicatingWithOthers": {
+          "Count": "Int:9811"
+        }
+      },
+      "District:LK-12": {
+        "DisabilityTypes:DifficultyInSeeing": {
+          "Count": "Int:18644"
+        },
+        "DisabilityTypes:DifficultyInHearing": {
+          "Count": "Int:13115"
+        },
+        "DisabilityTypes:DifficultyInWalkingOrClimbingSteps": {
+          "Count": "Int:47894"
+        },
+        "DisabilityTypes:DifficultyInRememberingOrConcentrating": {
+          "Count": "Int:18425"
+        },
+        "DisabilityTypes:DifficultyInSelfcareSuchAsWashingOrDressing": {
+          "Count": "Int:19647"
+        },
+        "DisabilityTypes:DifficultyInCommunicatingWithOthers": {
+          "Count": "Int:11712"
+        }
+      },
+      "District:LK-13": {
+        "DisabilityTypes:DifficultyInSeeing": {
+          "Count": "Int:9481"
+        },
+        "DisabilityTypes:DifficultyInHearing": {
+          "Count": "Int:6799"
+        },
+        "DisabilityTypes:DifficultyInWalkingOrClimbingSteps": {
+          "Count": "Int:23755"
+        },
+        "DisabilityTypes:DifficultyInRememberingOrConcentrating": {
+          "Count": "Int:10042"
+        },
+        "DisabilityTypes:DifficultyInSelfcareSuchAsWashingOrDressing": {
+          "Count": "Int:10463"
+        },
+        "DisabilityTypes:DifficultyInCommunicatingWithOthers": {
+          "Count": "Int:6722"
+        }
+      },
+      "District:LK-21": {
+        "DisabilityTypes:DifficultyInSeeing": {
+          "Count": "Int:13417"
+        },
+        "DisabilityTypes:DifficultyInHearing": {
+          "Count": "Int:9188"
+        },
+        "DisabilityTypes:DifficultyInWalkingOrClimbingSteps": {
+          "Count": "Int:31825"
+        },
+        "DisabilityTypes:DifficultyInRememberingOrConcentrating": {
+          "Count": "Int:11750"
+        },
+        "DisabilityTypes:DifficultyInSelfcareSuchAsWashingOrDressing": {
+          "Count": "Int:11875"
+        },
+        "DisabilityTypes:DifficultyInCommunicatingWithOthers": {
+          "Count": "Int:7553"
+        }
+      },
+      "District:LK-22": {
+        "DisabilityTypes:DifficultyInSeeing": {
+          "Count": "Int:5188"
+        },
+        "DisabilityTypes:DifficultyInHearing": {
+          "Count": "Int:3644"
+        },
+        "DisabilityTypes:DifficultyInWalkingOrClimbingSteps": {
+          "Count": "Int:12578"
+        },
+        "DisabilityTypes:DifficultyInRememberingOrConcentrating": {
+          "Count": "Int:4415"
+        },
+        "DisabilityTypes:DifficultyInSelfcareSuchAsWashingOrDressing": {
+          "Count": "Int:4266"
+        },
+        "DisabilityTypes:DifficultyInCommunicatingWithOthers": {
+          "Count": "Int:2744"
+        }
+      },
+      "District:LK-23": {
+        "DisabilityTypes:DifficultyInSeeing": {
+          "Count": "Int:8845"
+        },
+        "DisabilityTypes:DifficultyInHearing": {
+          "Count": "Int:4379"
+        },
+        "DisabilityTypes:DifficultyInWalkingOrClimbingSteps": {
+          "Count": "Int:15715"
+        },
+        "DisabilityTypes:DifficultyInRememberingOrConcentrating": {
+          "Count": "Int:5311"
+        },
+        "DisabilityTypes:DifficultyInSelfcareSuchAsWashingOrDressing": {
+          "Count": "Int:6415"
+        },
+        "DisabilityTypes:DifficultyInCommunicatingWithOthers": {
+          "Count": "Int:3401"
+        }
+      },
+      "District:LK-31": {
+        "DisabilityTypes:DifficultyInSeeing": {
+          "Count": "Int:9732"
+        },
+        "DisabilityTypes:DifficultyInHearing": {
+          "Count": "Int:7556"
+        },
+        "DisabilityTypes:DifficultyInWalkingOrClimbingSteps": {
+          "Count": "Int:22876"
+        },
+        "DisabilityTypes:DifficultyInRememberingOrConcentrating": {
+          "Count": "Int:9813"
+        },
+        "DisabilityTypes:DifficultyInSelfcareSuchAsWashingOrDressing": {
+          "Count": "Int:10001"
+        },
+        "DisabilityTypes:DifficultyInCommunicatingWithOthers": {
+          "Count": "Int:6727"
+        }
+      },
+      "District:LK-32": {
+        "DisabilityTypes:DifficultyInSeeing": {
+          "Count": "Int:8935"
+        },
+        "DisabilityTypes:DifficultyInHearing": {
+          "Count": "Int:6519"
+        },
+        "DisabilityTypes:DifficultyInWalkingOrClimbingSteps": {
+          "Count": "Int:20559"
+        },
+        "DisabilityTypes:DifficultyInRememberingOrConcentrating": {
+          "Count": "Int:8317"
+        },
+        "DisabilityTypes:DifficultyInSelfcareSuchAsWashingOrDressing": {
+          "Count": "Int:8065"
+        },
+        "DisabilityTypes:DifficultyInCommunicatingWithOthers": {
+          "Count": "Int:5307"
+        }
+      },
+      "District:LK-33": {
+        "DisabilityTypes:DifficultyInSeeing": {
+          "Count": "Int:7631"
+        },
+        "DisabilityTypes:DifficultyInHearing": {
+          "Count": "Int:4848"
+        },
+        "DisabilityTypes:DifficultyInWalkingOrClimbingSteps": {
+          "Count": "Int:16678"
+        },
+        "DisabilityTypes:DifficultyInRememberingOrConcentrating": {
+          "Count": "Int:6608"
+        },
+        "DisabilityTypes:DifficultyInSelfcareSuchAsWashingOrDressing": {
+          "Count": "Int:6351"
+        },
+        "DisabilityTypes:DifficultyInCommunicatingWithOthers": {
+          "Count": "Int:4326"
+        }
+      },
+      "District:LK-41": {
+        "DisabilityTypes:DifficultyInSeeing": {
+          "Count": "Int:4206"
+        },
+        "DisabilityTypes:DifficultyInHearing": {
+          "Count": "Int:3785"
+        },
+        "DisabilityTypes:DifficultyInWalkingOrClimbingSteps": {
+          "Count": "Int:10055"
+        },
+        "DisabilityTypes:DifficultyInRememberingOrConcentrating": {
+          "Count": "Int:4005"
+        },
+        "DisabilityTypes:DifficultyInSelfcareSuchAsWashingOrDressing": {
+          "Count": "Int:7357"
+        },
+        "DisabilityTypes:DifficultyInCommunicatingWithOthers": {
+          "Count": "Int:3406"
+        }
+      },
+      "District:LK-42": {
+        "DisabilityTypes:DifficultyInSeeing": {
+          "Count": "Int:1134"
+        },
+        "DisabilityTypes:DifficultyInHearing": {
+          "Count": "Int:582"
+        },
+        "DisabilityTypes:DifficultyInWalkingOrClimbingSteps": {
+          "Count": "Int:1756"
+        },
+        "DisabilityTypes:DifficultyInRememberingOrConcentrating": {
+          "Count": "Int:638"
+        },
+        "DisabilityTypes:DifficultyInSelfcareSuchAsWashingOrDressing": {
+          "Count": "Int:1353"
+        },
+        "DisabilityTypes:DifficultyInCommunicatingWithOthers": {
+          "Count": "Int:568"
+        }
+      },
+      "District:LK-43": {
+        "DisabilityTypes:DifficultyInSeeing": {
+          "Count": "Int:1766"
+        },
+        "DisabilityTypes:DifficultyInHearing": {
+          "Count": "Int:811"
+        },
+        "DisabilityTypes:DifficultyInWalkingOrClimbingSteps": {
+          "Count": "Int:2646"
+        },
+        "DisabilityTypes:DifficultyInRememberingOrConcentrating": {
+          "Count": "Int:1013"
+        },
+        "DisabilityTypes:DifficultyInSelfcareSuchAsWashingOrDressing": {
+          "Count": "Int:1843"
+        },
+        "DisabilityTypes:DifficultyInCommunicatingWithOthers": {
+          "Count": "Int:805"
+        }
+      },
+      "District:LK-44": {
+        "DisabilityTypes:DifficultyInSeeing": {
+          "Count": "Int:1194"
+        },
+        "DisabilityTypes:DifficultyInHearing": {
+          "Count": "Int:748"
+        },
+        "DisabilityTypes:DifficultyInWalkingOrClimbingSteps": {
+          "Count": "Int:2190"
+        },
+        "DisabilityTypes:DifficultyInRememberingOrConcentrating": {
+          "Count": "Int:736"
+        },
+        "DisabilityTypes:DifficultyInSelfcareSuchAsWashingOrDressing": {
+          "Count": "Int:1501"
+        },
+        "DisabilityTypes:DifficultyInCommunicatingWithOthers": {
+          "Count": "Int:649"
+        }
+      },
+      "District:LK-45": {
+        "DisabilityTypes:DifficultyInSeeing": {
+          "Count": "Int:1196"
+        },
+        "DisabilityTypes:DifficultyInHearing": {
+          "Count": "Int:800"
+        },
+        "DisabilityTypes:DifficultyInWalkingOrClimbingSteps": {
+          "Count": "Int:2257"
+        },
+        "DisabilityTypes:DifficultyInRememberingOrConcentrating": {
+          "Count": "Int:985"
+        },
+        "DisabilityTypes:DifficultyInSelfcareSuchAsWashingOrDressing": {
+          "Count": "Int:1511"
+        },
+        "DisabilityTypes:DifficultyInCommunicatingWithOthers": {
+          "Count": "Int:732"
+        }
+      },
+      "District:LK-51": {
+        "DisabilityTypes:DifficultyInSeeing": {
+          "Count": "Int:4467"
+        },
+        "DisabilityTypes:DifficultyInHearing": {
+          "Count": "Int:2646"
+        },
+        "DisabilityTypes:DifficultyInWalkingOrClimbingSteps": {
+          "Count": "Int:8332"
+        },
+        "DisabilityTypes:DifficultyInRememberingOrConcentrating": {
+          "Count": "Int:3316"
+        },
+        "DisabilityTypes:DifficultyInSelfcareSuchAsWashingOrDressing": {
+          "Count": "Int:6181"
+        },
+        "DisabilityTypes:DifficultyInCommunicatingWithOthers": {
+          "Count": "Int:3468"
+        }
+      },
+      "District:LK-52": {
+        "DisabilityTypes:DifficultyInSeeing": {
+          "Count": "Int:5959"
+        },
+        "DisabilityTypes:DifficultyInHearing": {
+          "Count": "Int:3539"
+        },
+        "DisabilityTypes:DifficultyInWalkingOrClimbingSteps": {
+          "Count": "Int:12570"
+        },
+        "DisabilityTypes:DifficultyInRememberingOrConcentrating": {
+          "Count": "Int:4744"
+        },
+        "DisabilityTypes:DifficultyInSelfcareSuchAsWashingOrDressing": {
+          "Count": "Int:8023"
+        },
+        "DisabilityTypes:DifficultyInCommunicatingWithOthers": {
+          "Count": "Int:3666"
+        }
+      },
+      "District:LK-53": {
+        "DisabilityTypes:DifficultyInSeeing": {
+          "Count": "Int:2904"
+        },
+        "DisabilityTypes:DifficultyInHearing": {
+          "Count": "Int:1732"
+        },
+        "DisabilityTypes:DifficultyInWalkingOrClimbingSteps": {
+          "Count": "Int:6030"
+        },
+        "DisabilityTypes:DifficultyInRememberingOrConcentrating": {
+          "Count": "Int:2313"
+        },
+        "DisabilityTypes:DifficultyInSelfcareSuchAsWashingOrDressing": {
+          "Count": "Int:4387"
+        },
+        "DisabilityTypes:DifficultyInCommunicatingWithOthers": {
+          "Count": "Int:1950"
+        }
+      },
+      "District:LK-61": {
+        "DisabilityTypes:DifficultyInSeeing": {
+          "Count": "Int:17982"
+        },
+        "DisabilityTypes:DifficultyInHearing": {
+          "Count": "Int:13182"
+        },
+        "DisabilityTypes:DifficultyInWalkingOrClimbingSteps": {
+          "Count": "Int:48325"
+        },
+        "DisabilityTypes:DifficultyInRememberingOrConcentrating": {
+          "Count": "Int:16091"
+        },
+        "DisabilityTypes:DifficultyInSelfcareSuchAsWashingOrDressing": {
+          "Count": "Int:16850"
+        },
+        "DisabilityTypes:DifficultyInCommunicatingWithOthers": {
+          "Count": "Int:9864"
+        }
+      },
+      "District:LK-62": {
+        "DisabilityTypes:DifficultyInSeeing": {
+          "Count": "Int:7953"
+        },
+        "DisabilityTypes:DifficultyInHearing": {
+          "Count": "Int:4573"
+        },
+        "DisabilityTypes:DifficultyInWalkingOrClimbingSteps": {
+          "Count": "Int:18808"
+        },
+        "DisabilityTypes:DifficultyInRememberingOrConcentrating": {
+          "Count": "Int:6690"
+        },
+        "DisabilityTypes:DifficultyInSelfcareSuchAsWashingOrDressing": {
+          "Count": "Int:7904"
+        },
+        "DisabilityTypes:DifficultyInCommunicatingWithOthers": {
+          "Count": "Int:4743"
+        }
+      },
+      "District:LK-71": {
+        "DisabilityTypes:DifficultyInSeeing": {
+          "Count": "Int:9573"
+        },
+        "DisabilityTypes:DifficultyInHearing": {
+          "Count": "Int:6330"
+        },
+        "DisabilityTypes:DifficultyInWalkingOrClimbingSteps": {
+          "Count": "Int:24714"
+        },
+        "DisabilityTypes:DifficultyInRememberingOrConcentrating": {
+          "Count": "Int:7720"
+        },
+        "DisabilityTypes:DifficultyInSelfcareSuchAsWashingOrDressing": {
+          "Count": "Int:7596"
+        },
+        "DisabilityTypes:DifficultyInCommunicatingWithOthers": {
+          "Count": "Int:4818"
+        }
+      },
+      "District:LK-72": {
+        "DisabilityTypes:DifficultyInSeeing": {
+          "Count": "Int:4496"
+        },
+        "DisabilityTypes:DifficultyInHearing": {
+          "Count": "Int:2720"
+        },
+        "DisabilityTypes:DifficultyInWalkingOrClimbingSteps": {
+          "Count": "Int:9548"
+        },
+        "DisabilityTypes:DifficultyInRememberingOrConcentrating": {
+          "Count": "Int:3152"
+        },
+        "DisabilityTypes:DifficultyInSelfcareSuchAsWashingOrDressing": {
+          "Count": "Int:3401"
+        },
+        "DisabilityTypes:DifficultyInCommunicatingWithOthers": {
+          "Count": "Int:2117"
+        }
+      },
+      "District:LK-81": {
+        "DisabilityTypes:DifficultyInSeeing": {
+          "Count": "Int:8924"
+        },
+        "DisabilityTypes:DifficultyInHearing": {
+          "Count": "Int:5340"
+        },
+        "DisabilityTypes:DifficultyInWalkingOrClimbingSteps": {
+          "Count": "Int:18273"
+        },
+        "DisabilityTypes:DifficultyInRememberingOrConcentrating": {
+          "Count": "Int:6200"
+        },
+        "DisabilityTypes:DifficultyInSelfcareSuchAsWashingOrDressing": {
+          "Count": "Int:6605"
+        },
+        "DisabilityTypes:DifficultyInCommunicatingWithOthers": {
+          "Count": "Int:4225"
+        }
+      },
+      "District:LK-82": {
+        "DisabilityTypes:DifficultyInSeeing": {
+          "Count": "Int:5289"
+        },
+        "DisabilityTypes:DifficultyInHearing": {
+          "Count": "Int:3165"
+        },
+        "DisabilityTypes:DifficultyInWalkingOrClimbingSteps": {
+          "Count": "Int:10486"
+        },
+        "DisabilityTypes:DifficultyInRememberingOrConcentrating": {
+          "Count": "Int:3907"
+        },
+        "DisabilityTypes:DifficultyInSelfcareSuchAsWashingOrDressing": {
+          "Count": "Int:4227"
+        },
+        "DisabilityTypes:DifficultyInCommunicatingWithOthers": {
+          "Count": "Int:2690"
+        }
+      },
+      "District:LK-91": {
+        "DisabilityTypes:DifficultyInSeeing": {
+          "Count": "Int:11383"
+        },
+        "DisabilityTypes:DifficultyInHearing": {
+          "Count": "Int:8269"
+        },
+        "DisabilityTypes:DifficultyInWalkingOrClimbingSteps": {
+          "Count": "Int:24282"
+        },
+        "DisabilityTypes:DifficultyInRememberingOrConcentrating": {
+          "Count": "Int:9445"
+        },
+        "DisabilityTypes:DifficultyInSelfcareSuchAsWashingOrDressing": {
+          "Count": "Int:9693"
+        },
+        "DisabilityTypes:DifficultyInCommunicatingWithOthers": {
+          "Count": "Int:6163"
+        }
+      },
+      "District:LK-92": {
+        "DisabilityTypes:DifficultyInSeeing": {
+          "Count": "Int:8175"
+        },
+        "DisabilityTypes:DifficultyInHearing": {
+          "Count": "Int:6780"
+        },
+        "DisabilityTypes:DifficultyInWalkingOrClimbingSteps": {
+          "Count": "Int:19313"
+        },
+        "DisabilityTypes:DifficultyInRememberingOrConcentrating": {
+          "Count": "Int:7590"
+        },
+        "DisabilityTypes:DifficultyInSelfcareSuchAsWashingOrDressing": {
+          "Count": "Int:7602"
+        },
+        "DisabilityTypes:DifficultyInCommunicatingWithOthers": {
+          "Count": "Int:4631"
+        }
+      }
+    }
+  }
+}
