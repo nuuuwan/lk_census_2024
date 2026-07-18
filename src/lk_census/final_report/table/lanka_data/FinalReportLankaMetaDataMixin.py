@@ -54,12 +54,12 @@ class FinalReportLankaMetaDataMixin:
     # A2) DimToTimeToValueAdapter
 
     @cached_property
-    def dim1_class_name(self):
-        return self.lanka_data_metadata.get("dim1_class_name")
+    def dim_class_name(self):
+        return self.lanka_data_metadata.get("dim_class_name")
 
     @cached_property
-    def dim1_class_key(self):
-        return self.lanka_data_metadata.get("dim1_class_key")
+    def dim_class_key(self):
+        return self.lanka_data_metadata.get("dim_class_key")
 
     @cached_property
     def value_label(self):
@@ -71,9 +71,27 @@ class FinalReportLankaMetaDataMixin:
     ):
         return (
             self.entity_class_name is not None
-            and self.dim1_class_name is not None
-            and self.dim1_class_key is not None
+            and self.dim_class_name is not None
+            and self.dim_class_key is not None
             and self.value_label is not None
+            and self.adapter_class_name is not None
+        )
+
+    # A3) DimToValue
+    @cached_property
+    def value_class_name(self):
+        return self.lanka_data_metadata.get("value_class_name")
+
+    @cached_property
+    def is_lanka_data_metadata_complete_for_dim_to_value(
+        self,
+    ):
+        return (
+            self.entity_class_name is not None
+            and self.dim_class_name is not None
+            and self.dim_class_key is not None
+            and self.value_label is not None
+            and self.value_class_name is not None
             and self.adapter_class_name is not None
         )
 
@@ -81,12 +99,16 @@ class FinalReportLankaMetaDataMixin:
 
     @cached_property
     def is_lanka_data_metadata_complete(self):
-        if self.adapter_class_name == "RegionValueAdapter":
-            return (
-                self.is_lanka_data_metadata_complete_for_region_value_adapter
-            )
-        if self.adapter_class_name == "DimToTimeToValueAdapter":
-            return self.is_lanka_data_metadata_complete_for_dim1_etc
+
+        _value = {
+            "RegionValueAdapter": self.is_lanka_data_metadata_complete_for_region_value_adapter,
+            "DimToTimeToValueAdapter": self.is_lanka_data_metadata_complete_for_dim1_etc,
+            "DimToValueAdapter": self.is_lanka_data_metadata_complete_for_dim_to_value,
+        }.get(self.adapter_class_name)
+
+        if _value is not None:
+            return _value
+
         raise ValueError(
             f"Unknown adapter_class_name: {self.adapter_class_name}"
         )

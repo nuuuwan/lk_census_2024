@@ -1,3 +1,8 @@
 {
-  "what_label": "PopulationByCensusDate"
+  "adapter_class_name": "DimToValueAdapter",
+  "entity_class_name": "Census",
+  "dim_class_name": "Census",
+  "dim_class_key": "census_date",
+  "value_class_name": "Int",
+  "value_label": "Population"
 }
