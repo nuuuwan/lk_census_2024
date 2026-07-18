@@ -9,39 +9,39 @@
 
 ```json
 {
-    "_meta": {
-        "source_url": "https://www.statistics.gov.lk/Resource/en/Population/CPH_2024/CPH2024_Final_Eng.pdf#page=98",
-        "source_description": [
-            "Table 5.2.4, Final Report, 2024 Census of Population and Housing, Department of Census and Statistics, Sri Lanka"
-        ],
-        "what": {
-            "PopulationAbroadByAgeGroup": "Population Temporarily Living Abroad by Main Reason for Living Abroad and Age Group, 2024"
+    "Person": {
+        "AgeGroupCustom:LessThan18": {
+            "EmmigrationReason:employment": {
+                "Count": "Int:0"
+            },
+            "EmmigrationReason:education": {
+                "Count": "Int:1486"
+            },
+            "EmmigrationReason:accompanying_family_member_in_need": {
+                "Count": "Int:17862"
+            },
+            "EmmigrationReason:other": {
+                "Count": "Int:35"
+            }
         },
-        "when": "2024",
-        "where_who_types": [
-            "age"
-        ]
-    },
-    "PopulationAbroadByAgeGroup": {
-        "2024": {
-            "Total": {
-                "age": "Total",
-                "values": {
-                    "Employment": 577919,
-                    "Education": 53621,
-                    "AccompanyingFamilyMemberInNeed": 38218,
-                    "Other": 2491
-                },
-                "total_value": 672249,
-                "pct_values": {
-                    "Employment": 0.8597,
-                    "Education": 0.0798,
-                    "AccompanyingFamilyMemberInNeed": 0.0569,
-                    "Other": 0.0037
+        "AgeGroupCustom:18To29": {
+            "EmmigrationReason:employment": {
+                "Count": "Int:142256"
+            },
+            "EmmigrationReason:education": {
+                "Count": "Int:38053"
+            },
+            "EmmigrationReason:accompanying_family_member_in_need": {
+                "Count": "Int:6348"
+            },
+            "EmmigrationReason:other": {
+                "Count": "Int:716"
+            }
+        },
 ...
 ```
 
-- Source File: [lanka_data.json (2.6 KB)](../../../../data/final-report-tables/chapter-5/5.2.4-Population-Temporarily-Living-Abroad-by-Main-Reason-for-Living-Abroad-and-Age-Group,-2024/lanka_data.json)
+- Source File: [lanka_data.json (1.4 KB)](../../../../data/final-report-tables/chapter-5/5.2.4-Population-Temporarily-Living-Abroad-by-Main-Reason-for-Living-Abroad-and-Age-Group,-2024/lanka_data.json)
 
 ## Structured Data (similar to original layout)
 
