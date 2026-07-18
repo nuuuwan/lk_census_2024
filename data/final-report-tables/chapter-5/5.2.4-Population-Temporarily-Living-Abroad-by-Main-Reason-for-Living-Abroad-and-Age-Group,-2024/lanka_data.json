@@ -1,0 +1,76 @@
+{
+  "Person": {
+    "Time:2024": {
+      "AgeGroup:0To125Years": {
+        "EmmigrationReason:Employment": {
+          "Count": "Int:577919"
+        },
+        "EmmigrationReason:Education": {
+          "Count": "Int:53621"
+        },
+        "EmmigrationReason:AccompanyingFamilyMemberInNeed": {
+          "Count": "Int:38218"
+        },
+        "EmmigrationReason:Other": {
+          "Count": "Int:2491"
+        }
+      },
+      "AgeGroup:0To18Years": {
+        "EmmigrationReason:Employment": {
+          "Count": "Int:0"
+        },
+        "EmmigrationReason:Education": {
+          "Count": "Int:1486"
+        },
+        "EmmigrationReason:AccompanyingFamilyMemberInNeed": {
+          "Count": "Int:17862"
+        },
+        "EmmigrationReason:Other": {
+          "Count": "Int:35"
+        }
+      },
+      "AgeGroup:18To29Years": {
+        "EmmigrationReason:Employment": {
+          "Count": "Int:142256"
+        },
+        "EmmigrationReason:Education": {
+          "Count": "Int:38053"
+        },
+        "EmmigrationReason:AccompanyingFamilyMemberInNeed": {
+          "Count": "Int:6348"
+        },
+        "EmmigrationReason:Other": {
+          "Count": "Int:716"
+        }
+      },
+      "AgeGroup:30To59Years": {
+        "EmmigrationReason:Employment": {
+          "Count": "Int:423249"
+        },
+        "EmmigrationReason:Education": {
+          "Count": "Int:14042"
+        },
+        "EmmigrationReason:AccompanyingFamilyMemberInNeed": {
+          "Count": "Int:10530"
+        },
+        "EmmigrationReason:Other": {
+          "Count": "Int:1548"
+        }
+      },
+      "AgeGroup:60To125Years": {
+        "EmmigrationReason:Employment": {
+          "Count": "Int:12414"
+        },
+        "EmmigrationReason:Education": {
+          "Count": "Int:40"
+        },
+        "EmmigrationReason:AccompanyingFamilyMemberInNeed": {
+          "Count": "Int:3478"
+        },
+        "EmmigrationReason:Other": {
+          "Count": "Int:192"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,356 @@
+{
+  "Person": {
+    "Time:2024": {
+      "District:LK-11": {
+        "EmmigrationReason:Employment": {
+          "Count": "Int:51449"
+        },
+        "EmmigrationReason:Education": {
+          "Count": "Int:12339"
+        },
+        "EmmigrationReason:AccompanyingFamilyMemberInNeed": {
+          "Count": "Int:7230"
+        },
+        "EmmigrationReason:Other": {
+          "Count": "Int:421"
+        }
+      },
+      "District:LK-12": {
+        "EmmigrationReason:Employment": {
+          "Count": "Int:67844"
+        },
+        "EmmigrationReason:Education": {
+          "Count": "Int:10894"
+        },
+        "EmmigrationReason:AccompanyingFamilyMemberInNeed": {
+          "Count": "Int:7028"
+        },
+        "EmmigrationReason:Other": {
+          "Count": "Int:311"
+        }
+      },
+      "District:LK-13": {
+        "EmmigrationReason:Employment": {
+          "Count": "Int:34819"
+        },
+        "EmmigrationReason:Education": {
+          "Count": "Int:3953"
+        },
+        "EmmigrationReason:AccompanyingFamilyMemberInNeed": {
+          "Count": "Int:2469"
+        },
+        "EmmigrationReason:Other": {
+          "Count": "Int:111"
+        }
+      },
+      "District:LK-21": {
+        "EmmigrationReason:Employment": {
+          "Count": "Int:48904"
+        },
+        "EmmigrationReason:Education": {
+          "Count": "Int:4242"
+        },
+        "EmmigrationReason:AccompanyingFamilyMemberInNeed": {
+          "Count": "Int:3891"
+        },
+        "EmmigrationReason:Other": {
+          "Count": "Int:193"
+        }
+      },
+      "District:LK-22": {
+        "EmmigrationReason:Employment": {
+          "Count": "Int:18526"
+        },
+        "EmmigrationReason:Education": {
+          "Count": "Int:755"
+        },
+        "EmmigrationReason:AccompanyingFamilyMemberInNeed": {
+          "Count": "Int:730"
+        },
+        "EmmigrationReason:Other": {
+          "Count": "Int:53"
+        }
+      },
+      "District:LK-23": {
+        "EmmigrationReason:Employment": {
+          "Count": "Int:15895"
+        },
+        "EmmigrationReason:Education": {
+          "Count": "Int:402"
+        },
+        "EmmigrationReason:AccompanyingFamilyMemberInNeed": {
+          "Count": "Int:572"
+        },
+        "EmmigrationReason:Other": {
+          "Count": "Int:44"
+        }
+      },
+      "District:LK-31": {
+        "EmmigrationReason:Employment": {
+          "Count": "Int:35722"
+        },
+        "EmmigrationReason:Education": {
+          "Count": "Int:2954"
+        },
+        "EmmigrationReason:AccompanyingFamilyMemberInNeed": {
+          "Count": "Int:1555"
+        },
+        "EmmigrationReason:Other": {
+          "Count": "Int:113"
+        }
+      },
+      "District:LK-32": {
+        "EmmigrationReason:Employment": {
+          "Count": "Int:18282"
+        },
+        "EmmigrationReason:Education": {
+          "Count": "Int:2145"
+        },
+        "EmmigrationReason:AccompanyingFamilyMemberInNeed": {
+          "Count": "Int:840"
+        },
+        "EmmigrationReason:Other": {
+          "Count": "Int:53"
+        }
+      },
+      "District:LK-33": {
+        "EmmigrationReason:Employment": {
+          "Count": "Int:12606"
+        },
+        "EmmigrationReason:Education": {
+          "Count": "Int:1184"
+        },
+        "EmmigrationReason:AccompanyingFamilyMemberInNeed": {
+          "Count": "Int:408"
+        },
+        "EmmigrationReason:Other": {
+          "Count": "Int:33"
+        }
+      },
+      "District:LK-41": {
+        "EmmigrationReason:Employment": {
+          "Count": "Int:7653"
+        },
+        "EmmigrationReason:Education": {
+          "Count": "Int:877"
+        },
+        "EmmigrationReason:AccompanyingFamilyMemberInNeed": {
+          "Count": "Int:589"
+        },
+        "EmmigrationReason:Other": {
+          "Count": "Int:306"
+        }
+      },
+      "District:LK-42": {
+        "EmmigrationReason:Employment": {
+          "Count": "Int:1506"
+        },
+        "EmmigrationReason:Education": {
+          "Count": "Int:78"
+        },
+        "EmmigrationReason:AccompanyingFamilyMemberInNeed": {
+          "Count": "Int:35"
+        },
+        "EmmigrationReason:Other": {
+          "Count": "Int:21"
+        }
+      },
+      "District:LK-43": {
+        "EmmigrationReason:Employment": {
+          "Count": "Int:2950"
+        },
+        "EmmigrationReason:Education": {
+          "Count": "Int:307"
+        },
+        "EmmigrationReason:AccompanyingFamilyMemberInNeed": {
+          "Count": "Int:265"
+        },
+        "EmmigrationReason:Other": {
+          "Count": "Int:99"
+        }
+      },
+      "District:LK-44": {
+        "EmmigrationReason:Employment": {
+          "Count": "Int:1215"
+        },
+        "EmmigrationReason:Education": {
+          "Count": "Int:68"
+        },
+        "EmmigrationReason:AccompanyingFamilyMemberInNeed": {
+          "Count": "Int:73"
+        },
+        "EmmigrationReason:Other": {
+          "Count": "Int:27"
+        }
+      },
+      "District:LK-45": {
+        "EmmigrationReason:Employment": {
+          "Count": "Int:1309"
+        },
+        "EmmigrationReason:Education": {
+          "Count": "Int:120"
+        },
+        "EmmigrationReason:AccompanyingFamilyMemberInNeed": {
+          "Count": "Int:138"
+        },
+        "EmmigrationReason:Other": {
+          "Count": "Int:58"
+        }
+      },
+      "District:LK-51": {
+        "EmmigrationReason:Employment": {
+          "Count": "Int:26980"
+        },
+        "EmmigrationReason:Education": {
+          "Count": "Int:490"
+        },
+        "EmmigrationReason:AccompanyingFamilyMemberInNeed": {
+          "Count": "Int:745"
+        },
+        "EmmigrationReason:Other": {
+          "Count": "Int:44"
+        }
+      },
+      "District:LK-52": {
+        "EmmigrationReason:Employment": {
+          "Count": "Int:29074"
+        },
+        "EmmigrationReason:Education": {
+          "Count": "Int:603"
+        },
+        "EmmigrationReason:AccompanyingFamilyMemberInNeed": {
+          "Count": "Int:1620"
+        },
+        "EmmigrationReason:Other": {
+          "Count": "Int:40"
+        }
+      },
+      "District:LK-53": {
+        "EmmigrationReason:Employment": {
+          "Count": "Int:10886"
+        },
+        "EmmigrationReason:Education": {
+          "Count": "Int:301"
+        },
+        "EmmigrationReason:AccompanyingFamilyMemberInNeed": {
+          "Count": "Int:388"
+        },
+        "EmmigrationReason:Other": {
+          "Count": "Int:47"
+        }
+      },
+      "District:LK-61": {
+        "EmmigrationReason:Employment": {
+          "Count": "Int:57039"
+        },
+        "EmmigrationReason:Education": {
+          "Count": "Int:4412"
+        },
+        "EmmigrationReason:AccompanyingFamilyMemberInNeed": {
+          "Count": "Int:2535"
+        },
+        "EmmigrationReason:Other": {
+          "Count": "Int:130"
+        }
+      },
+      "District:LK-62": {
+        "EmmigrationReason:Employment": {
+          "Count": "Int:40874"
+        },
+        "EmmigrationReason:Education": {
+          "Count": "Int:2373"
+        },
+        "EmmigrationReason:AccompanyingFamilyMemberInNeed": {
+          "Count": "Int:3841"
+        },
+        "EmmigrationReason:Other": {
+          "Count": "Int:135"
+        }
+      },
+      "District:LK-71": {
+        "EmmigrationReason:Employment": {
+          "Count": "Int:24102"
+        },
+        "EmmigrationReason:Education": {
+          "Count": "Int:966"
+        },
+        "EmmigrationReason:AccompanyingFamilyMemberInNeed": {
+          "Count": "Int:497"
+        },
+        "EmmigrationReason:Other": {
+          "Count": "Int:57"
+        }
+      },
+      "District:LK-72": {
+        "EmmigrationReason:Employment": {
+          "Count": "Int:12558"
+        },
+        "EmmigrationReason:Education": {
+          "Count": "Int:355"
+        },
+        "EmmigrationReason:AccompanyingFamilyMemberInNeed": {
+          "Count": "Int:281"
+        },
+        "EmmigrationReason:Other": {
+          "Count": "Int:22"
+        }
+      },
+      "District:LK-81": {
+        "EmmigrationReason:Employment": {
+          "Count": "Int:12233"
+        },
+        "EmmigrationReason:Education": {
+          "Count": "Int:633"
+        },
+        "EmmigrationReason:AccompanyingFamilyMemberInNeed": {
+          "Count": "Int:330"
+        },
+        "EmmigrationReason:Other": {
+          "Count": "Int:36"
+        }
+      },
+      "District:LK-82": {
+        "EmmigrationReason:Employment": {
+          "Count": "Int:4503"
+        },
+        "EmmigrationReason:Education": {
+          "Count": "Int:225"
+        },
+        "EmmigrationReason:AccompanyingFamilyMemberInNeed": {
+          "Count": "Int:91"
+        },
+        "EmmigrationReason:Other": {
+          "Count": "Int:9"
+        }
+      },
+      "District:LK-91": {
+        "EmmigrationReason:Employment": {
+          "Count": "Int:16927"
+        },
+        "EmmigrationReason:Education": {
+          "Count": "Int:1175"
+        },
+        "EmmigrationReason:AccompanyingFamilyMemberInNeed": {
+          "Count": "Int:555"
+        },
+        "EmmigrationReason:Other": {
+          "Count": "Int:39"
+        }
+      },
+      "District:LK-92": {
+        "EmmigrationReason:Employment": {
+          "Count": "Int:24063"
+        },
+        "EmmigrationReason:Education": {
+          "Count": "Int:1770"
+        },
+        "EmmigrationReason:AccompanyingFamilyMemberInNeed": {
+          "Count": "Int:1512"
+        },
+        "EmmigrationReason:Other": {
+          "Count": "Int:89"
+        }
+      }
+    }
+  }
+}
