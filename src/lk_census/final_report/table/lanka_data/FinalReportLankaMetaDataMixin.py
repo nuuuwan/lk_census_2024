@@ -99,6 +99,27 @@ class FinalReportLankaMetaDataMixin:
             and self.adapter_class_name is not None
         )
 
+    # A4) GenericValueAdapter
+
+    @cached_property
+    def dim_idx(self):
+        return self.lanka_data_metadata.get("dim_idx")
+
+    @cached_property
+    def cell_idx(self):
+        return self.lanka_data_metadata.get("cell_idx")
+
+    @cached_property
+    def is_lanka_data_metadata_complete_for_generic_value_adapter(
+        self,
+    ):
+        return (
+            self.entity_class_name is not None
+            and self.dim_idx is not None
+            and self.cell_idx is not None
+            and self.adapter_class_name is not None
+        )
+
     # ---
 
     @cached_property
@@ -108,6 +129,7 @@ class FinalReportLankaMetaDataMixin:
             "RegionValueAdapter": self.is_lanka_data_metadata_complete_for_region_value_adapter,
             "DimToTimeToValueAdapter": self.is_lanka_data_metadata_complete_for_dim1_etc,
             "DimToValueAdapter": self.is_lanka_data_metadata_complete_for_dim_to_value,
+            "GenericValueAdapter": self.is_lanka_data_metadata_complete_for_generic_value_adapter,
         }.get(self.adapter_class_name)
 
         if _value is not None:

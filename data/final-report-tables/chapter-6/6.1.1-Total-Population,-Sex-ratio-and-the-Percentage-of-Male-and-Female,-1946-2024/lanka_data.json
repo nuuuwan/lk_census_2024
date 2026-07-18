@@ -1,0 +1,52 @@
+{
+  "Person": {
+    "Time:1946": {
+      "Count": "Int:6657339",
+      "SexRatio": "Float:113.0",
+      "PercentageMale": "Percent:0.531",
+      "PercentageFemale": "Percent:0.469"
+    },
+    "Time:1953": {
+      "Count": "Int:8097895",
+      "SexRatio": "Float:115.5",
+      "PercentageMale": "Percent:0.527",
+      "PercentageFemale": "Percent:0.473"
+    },
+    "Time:1963": {
+      "Count": "Int:10582064",
+      "SexRatio": "Float:108.2",
+      "PercentageMale": "Percent:0.52",
+      "PercentageFemale": "Percent:0.48"
+    },
+    "Time:1971": {
+      "Count": "Int:12689897",
+      "SexRatio": "Float:106.1",
+      "PercentageMale": "Percent:0.515",
+      "PercentageFemale": "Percent:0.485"
+    },
+    "Time:1981": {
+      "Count": "Int:14846750",
+      "SexRatio": "Float:104.0",
+      "PercentageMale": "Percent:0.51",
+      "PercentageFemale": "Percent:0.49"
+    },
+    "Time:2001": {
+      "Count": "Int:16929689",
+      "SexRatio": "Float:99.1",
+      "PercentageMale": "Percent:0.498",
+      "PercentageFemale": "Percent:0.502"
+    },
+    "Time:2012": {
+      "Count": "Int:20359439",
+      "SexRatio": "Float:93.8",
+      "PercentageMale": "Percent:0.484",
+      "PercentageFemale": "Percent:0.516"
+    },
+    "Time:2024": {
+      "Count": "Int:21781800",
+      "SexRatio": "Float:93.3",
+      "PercentageMale": "Percent:0.483",
+      "PercentageFemale": "Percent:0.517"
+    }
+  }
+}
