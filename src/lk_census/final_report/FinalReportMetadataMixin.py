@@ -1,5 +1,6 @@
-from lk_census.final_report.FinalReportConstants import FinalReportConstants
 from utils_future import Log, Parse
+
+from lk_census.final_report.FinalReportConstants import FinalReportConstants
 
 log = Log("FinalReportMetadataMixin")
 
@@ -13,21 +14,21 @@ class FinalReportMetadataMixin:
 
     @staticmethod
     def extract_table_index(force=False):
-        if not FinalReportConstants.TABLE_INDEX_PDF_FILE.exists or force:
+        if not FinalReportConstants.TABLE_INDEX_PDF_FILE.exists() or force:
             FinalReportConstants.PDF_FILE.extract_subset(
                 FinalReportConstants.TABLE_INDEX_START_PAGE,
                 FinalReportConstants.TABLE_INDEX_END_PAGE,
                 FinalReportConstants.TABLE_INDEX_PDF_FILE,
             )
 
-        if not FinalReportConstants.TABLE_INDEX_TXT_FILE.exists or force:
+        if not FinalReportConstants.TABLE_INDEX_TXT_FILE.exists() or force:
             FinalReportConstants.TABLE_INDEX_PDF_FILE.to_text_file(
                 FinalReportConstants.TABLE_INDEX_TXT_FILE
             )
 
     @staticmethod
     def build_table_metadata(force=False):
-        if FinalReportConstants.TABLE_METADATA_FILE.exists and not force:
+        if FinalReportConstants.TABLE_METADATA_FILE.exists() and not force:
             return
         d_list = []
         lines = FinalReportConstants.TABLE_INDEX_TXT_FILE.read_lines()
@@ -80,8 +81,6 @@ class FinalReportMetadataMixin:
             d["has_page_multiple_tables"] = has_page_multiple_tables
 
         FinalReportConstants.TABLE_METADATA_FILE.write(d_list)
-        log.info(
-            f"Wrote {
+        log.info(f"Wrote {
                 len(d_list)} tables to {
-                FinalReportConstants.TABLE_METADATA_FILE}"
-        )
+                FinalReportConstants.TABLE_METADATA_FILE}")

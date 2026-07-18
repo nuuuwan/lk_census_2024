@@ -1,13 +1,3 @@
 {
-  "other_keys": [
-    "deputy_census_commissioners",
-    "assistant_census_commissioners",
-    "technical_staff_zonal_supervisors_and_district_statistical_branch_head",
-    "technical_staff_divisional_census_officer",
-    "technical_staff_area_supervisors",
-    "technical_staff_circle_officers",
-    "other_non_technical_staff",
-    "enumerators_who_used_tablet_computers_capi",
-    "enumerators_who_used_smart_phones_byoad"
-  ]
+  "dim_class_name": "CensusOfficer"
 }

@@ -45,9 +45,10 @@ class FinalReportTableDataMixin(
         )
 
     def build_data(self, force=False):
-
-        if self.data_file.exists and not force:
+        if self.data_file.exists() and not force:
             return
+        print(self)
+
         if not (bool(self.raw_data_list) and bool(self.has_complete_fields)):
             return
         if self.is_complicated:

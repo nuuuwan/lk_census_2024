@@ -4,15 +4,15 @@
     "region_name": "Colombo",
     "region_ent_type": "district",
     "values": {
-      "deputy_census_commissioners": 14,
-      "assistant_census_commissioners": 14,
-      "technical_staff_zonal_supervisors_and_district_statistical_branch_head": 18,
-      "technical_staff_divisional_census_officer": 13,
-      "technical_staff_area_supervisors": 53,
-      "technical_staff_circle_officers": 98,
-      "other_non_technical_staff": 70,
-      "enumerators_who_used_tablet_computers_capi": 1104,
-      "enumerators_who_used_smart_phones_byoad": 1986
+      "CensusOfficer:DeputyCensusCommissioners": 14,
+      "CensusOfficer:AssistantCensusCommissioners": 14,
+      "CensusOfficer:TechnicalStaffZonalSupervisorsAndDistrictStatisticalBranchHead": 18,
+      "CensusOfficer:TechnicalStaffDivisionalCensusOfficer": 13,
+      "CensusOfficer:TechnicalStaffAreaSupervisors": 53,
+      "CensusOfficer:TechnicalStaffCircleOfficers": 98,
+      "CensusOfficer:OtherNonTechnicalStaff": 70,
+      "CensusOfficer:EnumeratorsWhoUsedTabletComputersCapi": 1104,
+      "CensusOfficer:EnumeratorsWhoUsedSmartPhonesByoad": 1986
     },
     "total_value": 3370
   },
@@ -21,15 +21,15 @@
     "region_name": "Gampaha",
     "region_ent_type": "district",
     "values": {
-      "deputy_census_commissioners": 14,
-      "assistant_census_commissioners": 14,
-      "technical_staff_zonal_supervisors_and_district_statistical_branch_head": 13,
-      "technical_staff_divisional_census_officer": 13,
-      "technical_staff_area_supervisors": 48,
-      "technical_staff_circle_officers": 90,
-      "other_non_technical_staff": 70,
-      "enumerators_who_used_tablet_computers_capi": 1493,
-      "enumerators_who_used_smart_phones_byoad": 1572
+      "CensusOfficer:DeputyCensusCommissioners": 14,
+      "CensusOfficer:AssistantCensusCommissioners": 14,
+      "CensusOfficer:TechnicalStaffZonalSupervisorsAndDistrictStatisticalBranchHead": 13,
+      "CensusOfficer:TechnicalStaffDivisionalCensusOfficer": 13,
+      "CensusOfficer:TechnicalStaffAreaSupervisors": 48,
+      "CensusOfficer:TechnicalStaffCircleOfficers": 90,
+      "CensusOfficer:OtherNonTechnicalStaff": 70,
+      "CensusOfficer:EnumeratorsWhoUsedTabletComputersCapi": 1493,
+      "CensusOfficer:EnumeratorsWhoUsedSmartPhonesByoad": 1572
     },
     "total_value": 3327
   },
@@ -38,15 +38,15 @@
     "region_name": "Kalutara",
     "region_ent_type": "district",
     "values": {
-      "deputy_census_commissioners": 15,
-      "assistant_census_commissioners": 15,
-      "technical_staff_zonal_supervisors_and_district_statistical_branch_head": 5,
-      "technical_staff_divisional_census_officer": 14,
-      "technical_staff_area_supervisors": 29,
-      "technical_staff_circle_officers": 51,
-      "other_non_technical_staff": 75,
-      "enumerators_who_used_tablet_computers_capi": 792,
-      "enumerators_who_used_smart_phones_byoad": 836
+      "CensusOfficer:DeputyCensusCommissioners": 15,
+      "CensusOfficer:AssistantCensusCommissioners": 15,
+      "CensusOfficer:TechnicalStaffZonalSupervisorsAndDistrictStatisticalBranchHead": 5,
+      "CensusOfficer:TechnicalStaffDivisionalCensusOfficer": 14,
+      "CensusOfficer:TechnicalStaffAreaSupervisors": 29,
+      "CensusOfficer:TechnicalStaffCircleOfficers": 51,
+      "CensusOfficer:OtherNonTechnicalStaff": 75,
+      "CensusOfficer:EnumeratorsWhoUsedTabletComputersCapi": 792,
+      "CensusOfficer:EnumeratorsWhoUsedSmartPhonesByoad": 836
     },
     "total_value": 1832
   },
@@ -55,15 +55,15 @@
     "region_name": "Kandy",
     "region_ent_type": "district",
     "values": {
-      "deputy_census_commissioners": 21,
-      "assistant_census_commissioners": 21,
-      "technical_staff_zonal_supervisors_and_district_statistical_branch_head": 6,
-      "technical_staff_divisional_census_officer": 20,
-      "technical_staff_area_supervisors": 36,
-      "technical_staff_circle_officers": 63,
-      "other_non_technical_staff": 105,
-      "enumerators_who_used_tablet_computers_capi": 1056,
-      "enumerators_who_used_smart_phones_byoad": 779
+      "CensusOfficer:DeputyCensusCommissioners": 21,
+      "CensusOfficer:AssistantCensusCommissioners": 21,
+      "CensusOfficer:TechnicalStaffZonalSupervisorsAndDistrictStatisticalBranchHead": 6,
+      "CensusOfficer:TechnicalStaffDivisionalCensusOfficer": 20,
+      "CensusOfficer:TechnicalStaffAreaSupervisors": 36,
+      "CensusOfficer:TechnicalStaffCircleOfficers": 63,
+      "CensusOfficer:OtherNonTechnicalStaff": 105,
+      "CensusOfficer:EnumeratorsWhoUsedTabletComputersCapi": 1056,
+      "CensusOfficer:EnumeratorsWhoUsedSmartPhonesByoad": 779
     },
     "total_value": 2107
   },
@@ -72,15 +72,15 @@
     "region_name": "Matale",
     "region_ent_type": "district",
     "values": {
-      "deputy_census_commissioners": 12,
-      "assistant_census_commissioners": 12,
-      "technical_staff_zonal_supervisors_and_district_statistical_branch_head": 3,
-      "technical_staff_divisional_census_officer": 11,
-      "technical_staff_area_supervisors": 16,
-      "technical_staff_circle_officers": 27,
-      "other_non_technical_staff": 60,
-      "enumerators_who_used_tablet_computers_capi": 432,
-      "enumerators_who_used_smart_phones_byoad": 317
+      "CensusOfficer:DeputyCensusCommissioners": 12,
+      "CensusOfficer:AssistantCensusCommissioners": 12,
+      "CensusOfficer:TechnicalStaffZonalSupervisorsAndDistrictStatisticalBranchHead": 3,
+      "CensusOfficer:TechnicalStaffDivisionalCensusOfficer": 11,
+      "CensusOfficer:TechnicalStaffAreaSupervisors": 16,
+      "CensusOfficer:TechnicalStaffCircleOfficers": 27,
+      "CensusOfficer:OtherNonTechnicalStaff": 60,
+      "CensusOfficer:EnumeratorsWhoUsedTabletComputersCapi": 432,
+      "CensusOfficer:EnumeratorsWhoUsedSmartPhonesByoad": 317
     },
     "total_value": 890
   },
@@ -89,15 +89,15 @@
     "region_name": "Nuwara Eliya",
     "region_ent_type": "district",
     "values": {
-      "deputy_census_commissioners": 11,
-      "assistant_census_commissioners": 11,
-      "technical_staff_zonal_supervisors_and_district_statistical_branch_head": 4,
-      "technical_staff_divisional_census_officer": 10,
-      "technical_staff_area_supervisors": 19,
-      "technical_staff_circle_officers": 35,
-      "other_non_technical_staff": 55,
-      "enumerators_who_used_tablet_computers_capi": 557,
-      "enumerators_who_used_smart_phones_byoad": 431
+      "CensusOfficer:DeputyCensusCommissioners": 11,
+      "CensusOfficer:AssistantCensusCommissioners": 11,
+      "CensusOfficer:TechnicalStaffZonalSupervisorsAndDistrictStatisticalBranchHead": 4,
+      "CensusOfficer:TechnicalStaffDivisionalCensusOfficer": 10,
+      "CensusOfficer:TechnicalStaffAreaSupervisors": 19,
+      "CensusOfficer:TechnicalStaffCircleOfficers": 35,
+      "CensusOfficer:OtherNonTechnicalStaff": 55,
+      "CensusOfficer:EnumeratorsWhoUsedTabletComputersCapi": 557,
+      "CensusOfficer:EnumeratorsWhoUsedSmartPhonesByoad": 431
     },
     "total_value": 1133
   },
@@ -106,15 +106,15 @@
     "region_name": "Galle",
     "region_ent_type": "district",
     "values": {
-      "deputy_census_commissioners": 23,
-      "assistant_census_commissioners": 23,
-      "technical_staff_zonal_supervisors_and_district_statistical_branch_head": 5,
-      "technical_staff_divisional_census_officer": 22,
-      "technical_staff_area_supervisors": 32,
-      "technical_staff_circle_officers": 55,
-      "other_non_technical_staff": 115,
-      "enumerators_who_used_tablet_computers_capi": 836,
-      "enumerators_who_used_smart_phones_byoad": 642
+      "CensusOfficer:DeputyCensusCommissioners": 23,
+      "CensusOfficer:AssistantCensusCommissioners": 23,
+      "CensusOfficer:TechnicalStaffZonalSupervisorsAndDistrictStatisticalBranchHead": 5,
+      "CensusOfficer:TechnicalStaffDivisionalCensusOfficer": 22,
+      "CensusOfficer:TechnicalStaffAreaSupervisors": 32,
+      "CensusOfficer:TechnicalStaffCircleOfficers": 55,
+      "CensusOfficer:OtherNonTechnicalStaff": 115,
+      "CensusOfficer:EnumeratorsWhoUsedTabletComputersCapi": 836,
+      "CensusOfficer:EnumeratorsWhoUsedSmartPhonesByoad": 642
     },
     "total_value": 1753
   },
@@ -123,15 +123,15 @@
     "region_name": "Matara",
     "region_ent_type": "district",
     "values": {
-      "deputy_census_commissioners": 17,
-      "assistant_census_commissioners": 17,
-      "technical_staff_zonal_supervisors_and_district_statistical_branch_head": 4,
-      "technical_staff_divisional_census_officer": 16,
-      "technical_staff_area_supervisors": 23,
-      "technical_staff_circle_officers": 40,
-      "other_non_technical_staff": 85,
-      "enumerators_who_used_tablet_computers_capi": 626,
-      "enumerators_who_used_smart_phones_byoad": 497
+      "CensusOfficer:DeputyCensusCommissioners": 17,
+      "CensusOfficer:AssistantCensusCommissioners": 17,
+      "CensusOfficer:TechnicalStaffZonalSupervisorsAndDistrictStatisticalBranchHead": 4,
+      "CensusOfficer:TechnicalStaffDivisionalCensusOfficer": 16,
+      "CensusOfficer:TechnicalStaffAreaSupervisors": 23,
+      "CensusOfficer:TechnicalStaffCircleOfficers": 40,
+      "CensusOfficer:OtherNonTechnicalStaff": 85,
+      "CensusOfficer:EnumeratorsWhoUsedTabletComputersCapi": 626,
+      "CensusOfficer:EnumeratorsWhoUsedSmartPhonesByoad": 497
     },
     "total_value": 1325
   },
@@ -140,15 +140,15 @@
     "region_name": "Hambantota",
     "region_ent_type": "district",
     "values": {
-      "deputy_census_commissioners": 13,
-      "assistant_census_commissioners": 13,
-      "technical_staff_zonal_supervisors_and_district_statistical_branch_head": 3,
-      "technical_staff_divisional_census_officer": 12,
-      "technical_staff_area_supervisors": 19,
-      "technical_staff_circle_officers": 31,
-      "other_non_technical_staff": 65,
-      "enumerators_who_used_tablet_computers_capi": 488,
-      "enumerators_who_used_smart_phones_byoad": 435
+      "CensusOfficer:DeputyCensusCommissioners": 13,
+      "CensusOfficer:AssistantCensusCommissioners": 13,
+      "CensusOfficer:TechnicalStaffZonalSupervisorsAndDistrictStatisticalBranchHead": 3,
+      "CensusOfficer:TechnicalStaffDivisionalCensusOfficer": 12,
+      "CensusOfficer:TechnicalStaffAreaSupervisors": 19,
+      "CensusOfficer:TechnicalStaffCircleOfficers": 31,
+      "CensusOfficer:OtherNonTechnicalStaff": 65,
+      "CensusOfficer:EnumeratorsWhoUsedTabletComputersCapi": 488,
+      "CensusOfficer:EnumeratorsWhoUsedSmartPhonesByoad": 435
     },
     "total_value": 1079
   },
@@ -157,15 +157,15 @@
     "region_name": "Jaffna",
     "region_ent_type": "district",
     "values": {
-      "deputy_census_commissioners": 16,
-      "assistant_census_commissioners": 16,
-      "technical_staff_zonal_supervisors_and_district_statistical_branch_head": 3,
-      "technical_staff_divisional_census_officer": 15,
-      "technical_staff_area_supervisors": 18,
-      "technical_staff_circle_officers": 28,
-      "other_non_technical_staff": 80,
-      "enumerators_who_used_tablet_computers_capi": 431,
-      "enumerators_who_used_smart_phones_byoad": 375
+      "CensusOfficer:DeputyCensusCommissioners": 16,
+      "CensusOfficer:AssistantCensusCommissioners": 16,
+      "CensusOfficer:TechnicalStaffZonalSupervisorsAndDistrictStatisticalBranchHead": 3,
+      "CensusOfficer:TechnicalStaffDivisionalCensusOfficer": 15,
+      "CensusOfficer:TechnicalStaffAreaSupervisors": 18,
+      "CensusOfficer:TechnicalStaffCircleOfficers": 28,
+      "CensusOfficer:OtherNonTechnicalStaff": 80,
+      "CensusOfficer:EnumeratorsWhoUsedTabletComputersCapi": 431,
+      "CensusOfficer:EnumeratorsWhoUsedSmartPhonesByoad": 375
     },
     "total_value": 982
   },
@@ -174,15 +174,15 @@
     "region_name": "Mannar",
     "region_ent_type": "district",
     "values": {
-      "deputy_census_commissioners": 6,
-      "assistant_census_commissioners": 6,
-      "technical_staff_zonal_supervisors_and_district_statistical_branch_head": 2,
-      "technical_staff_divisional_census_officer": 5,
-      "technical_staff_area_supervisors": 5,
-      "technical_staff_circle_officers": 6,
-      "other_non_technical_staff": 30,
-      "enumerators_who_used_tablet_computers_capi": 103,
-      "enumerators_who_used_smart_phones_byoad": 87
+      "CensusOfficer:DeputyCensusCommissioners": 6,
+      "CensusOfficer:AssistantCensusCommissioners": 6,
+      "CensusOfficer:TechnicalStaffZonalSupervisorsAndDistrictStatisticalBranchHead": 2,
+      "CensusOfficer:TechnicalStaffDivisionalCensusOfficer": 5,
+      "CensusOfficer:TechnicalStaffAreaSupervisors": 5,
+      "CensusOfficer:TechnicalStaffCircleOfficers": 6,
+      "CensusOfficer:OtherNonTechnicalStaff": 30,
+      "CensusOfficer:EnumeratorsWhoUsedTabletComputersCapi": 103,
+      "CensusOfficer:EnumeratorsWhoUsedSmartPhonesByoad": 87
     },
     "total_value": 250
   },
@@ -191,15 +191,15 @@
     "region_name": "Vavuniya",
     "region_ent_type": "district",
     "values": {
-      "deputy_census_commissioners": 5,
-      "assistant_census_commissioners": 5,
-      "technical_staff_zonal_supervisors_and_district_statistical_branch_head": 2,
-      "technical_staff_divisional_census_officer": 4,
-      "technical_staff_area_supervisors": 6,
-      "technical_staff_circle_officers": 10,
-      "other_non_technical_staff": 25,
-      "enumerators_who_used_tablet_computers_capi": 117,
-      "enumerators_who_used_smart_phones_byoad": 152
+      "CensusOfficer:DeputyCensusCommissioners": 5,
+      "CensusOfficer:AssistantCensusCommissioners": 5,
+      "CensusOfficer:TechnicalStaffZonalSupervisorsAndDistrictStatisticalBranchHead": 2,
+      "CensusOfficer:TechnicalStaffDivisionalCensusOfficer": 4,
+      "CensusOfficer:TechnicalStaffAreaSupervisors": 6,
+      "CensusOfficer:TechnicalStaffCircleOfficers": 10,
+      "CensusOfficer:OtherNonTechnicalStaff": 25,
+      "CensusOfficer:EnumeratorsWhoUsedTabletComputersCapi": 117,
+      "CensusOfficer:EnumeratorsWhoUsedSmartPhonesByoad": 152
     },
     "total_value": 326
   },
@@ -208,15 +208,15 @@
     "region_name": "Mullaitivu",
     "region_ent_type": "district",
     "values": {
-      "deputy_census_commissioners": 7,
-      "assistant_census_commissioners": 7,
-      "technical_staff_zonal_supervisors_and_district_statistical_branch_head": 2,
-      "technical_staff_divisional_census_officer": 6,
-      "technical_staff_area_supervisors": 6,
-      "technical_staff_circle_officers": 8,
-      "other_non_technical_staff": 35,
-      "enumerators_who_used_tablet_computers_capi": 117,
-      "enumerators_who_used_smart_phones_byoad": 89
+      "CensusOfficer:DeputyCensusCommissioners": 7,
+      "CensusOfficer:AssistantCensusCommissioners": 7,
+      "CensusOfficer:TechnicalStaffZonalSupervisorsAndDistrictStatisticalBranchHead": 2,
+      "CensusOfficer:TechnicalStaffDivisionalCensusOfficer": 6,
+      "CensusOfficer:TechnicalStaffAreaSupervisors": 6,
+      "CensusOfficer:TechnicalStaffCircleOfficers": 8,
+      "CensusOfficer:OtherNonTechnicalStaff": 35,
+      "CensusOfficer:EnumeratorsWhoUsedTabletComputersCapi": 117,
+      "CensusOfficer:EnumeratorsWhoUsedSmartPhonesByoad": 89
     },
     "total_value": 277
   },
@@ -225,15 +225,15 @@
     "region_name": "Kilinochchi",
     "region_ent_type": "district",
     "values": {
-      "deputy_census_commissioners": 5,
-      "assistant_census_commissioners": 5,
-      "technical_staff_zonal_supervisors_and_district_statistical_branch_head": 2,
-      "technical_staff_divisional_census_officer": 4,
-      "technical_staff_area_supervisors": 5,
-      "technical_staff_circle_officers": 6,
-      "other_non_technical_staff": 25,
-      "enumerators_who_used_tablet_computers_capi": 97,
-      "enumerators_who_used_smart_phones_byoad": 103
+      "CensusOfficer:DeputyCensusCommissioners": 5,
+      "CensusOfficer:AssistantCensusCommissioners": 5,
+      "CensusOfficer:TechnicalStaffZonalSupervisorsAndDistrictStatisticalBranchHead": 2,
+      "CensusOfficer:TechnicalStaffDivisionalCensusOfficer": 4,
+      "CensusOfficer:TechnicalStaffAreaSupervisors": 5,
+      "CensusOfficer:TechnicalStaffCircleOfficers": 6,
+      "CensusOfficer:OtherNonTechnicalStaff": 25,
+      "CensusOfficer:EnumeratorsWhoUsedTabletComputersCapi": 97,
+      "CensusOfficer:EnumeratorsWhoUsedSmartPhonesByoad": 103
     },
     "total_value": 252
   },
@@ -242,15 +242,15 @@
     "region_name": "Batticaloa",
     "region_ent_type": "district",
     "values": {
-      "deputy_census_commissioners": 15,
-      "assistant_census_commissioners": 15,
-      "technical_staff_zonal_supervisors_and_district_statistical_branch_head": 3,
-      "technical_staff_divisional_census_officer": 14,
-      "technical_staff_area_supervisors": 18,
-      "technical_staff_circle_officers": 31,
-      "other_non_technical_staff": 75,
-      "enumerators_who_used_tablet_computers_capi": 445,
-      "enumerators_who_used_smart_phones_byoad": 391
+      "CensusOfficer:DeputyCensusCommissioners": 15,
+      "CensusOfficer:AssistantCensusCommissioners": 15,
+      "CensusOfficer:TechnicalStaffZonalSupervisorsAndDistrictStatisticalBranchHead": 3,
+      "CensusOfficer:TechnicalStaffDivisionalCensusOfficer": 14,
+      "CensusOfficer:TechnicalStaffAreaSupervisors": 18,
+      "CensusOfficer:TechnicalStaffCircleOfficers": 31,
+      "CensusOfficer:OtherNonTechnicalStaff": 75,
+      "CensusOfficer:EnumeratorsWhoUsedTabletComputersCapi": 445,
+      "CensusOfficer:EnumeratorsWhoUsedSmartPhonesByoad": 391
     },
     "total_value": 1007
   },
@@ -259,15 +259,15 @@
     "region_name": "Ampara",
     "region_ent_type": "district",
     "values": {
-      "deputy_census_commissioners": 21,
-      "assistant_census_commissioners": 21,
-      "technical_staff_zonal_supervisors_and_district_statistical_branch_head": 4,
-      "technical_staff_divisional_census_officer": 20,
-      "technical_staff_area_supervisors": 23,
-      "technical_staff_circle_officers": 34,
-      "other_non_technical_staff": 105,
-      "enumerators_who_used_tablet_computers_capi": 492,
-      "enumerators_who_used_smart_phones_byoad": 529
+      "CensusOfficer:DeputyCensusCommissioners": 21,
+      "CensusOfficer:AssistantCensusCommissioners": 21,
+      "CensusOfficer:TechnicalStaffZonalSupervisorsAndDistrictStatisticalBranchHead": 4,
+      "CensusOfficer:TechnicalStaffDivisionalCensusOfficer": 20,
+      "CensusOfficer:TechnicalStaffAreaSupervisors": 23,
+      "CensusOfficer:TechnicalStaffCircleOfficers": 34,
+      "CensusOfficer:OtherNonTechnicalStaff": 105,
+      "CensusOfficer:EnumeratorsWhoUsedTabletComputersCapi": 492,
+      "CensusOfficer:EnumeratorsWhoUsedSmartPhonesByoad": 529
     },
     "total_value": 1249
   },
@@ -276,15 +276,15 @@
     "region_name": "Trincomalee",
     "region_ent_type": "district",
     "values": {
-      "deputy_census_commissioners": 12,
-      "assistant_census_commissioners": 12,
-      "technical_staff_zonal_supervisors_and_district_statistical_branch_head": 3,
-      "technical_staff_divisional_census_officer": 11,
-      "technical_staff_area_supervisors": 15,
-      "technical_staff_circle_officers": 22,
-      "other_non_technical_staff": 60,
-      "enumerators_who_used_tablet_computers_capi": 288,
-      "enumerators_who_used_smart_phones_byoad": 329
+      "CensusOfficer:DeputyCensusCommissioners": 12,
+      "CensusOfficer:AssistantCensusCommissioners": 12,
+      "CensusOfficer:TechnicalStaffZonalSupervisorsAndDistrictStatisticalBranchHead": 3,
+      "CensusOfficer:TechnicalStaffDivisionalCensusOfficer": 11,
+      "CensusOfficer:TechnicalStaffAreaSupervisors": 15,
+      "CensusOfficer:TechnicalStaffCircleOfficers": 22,
+      "CensusOfficer:OtherNonTechnicalStaff": 60,
+      "CensusOfficer:EnumeratorsWhoUsedTabletComputersCapi": 288,
+      "CensusOfficer:EnumeratorsWhoUsedSmartPhonesByoad": 329
     },
     "total_value": 752
   },
@@ -293,15 +293,15 @@
     "region_name": "Kurunegala",
     "region_ent_type": "district",
     "values": {
-      "deputy_census_commissioners": 31,
-      "assistant_census_commissioners": 31,
-      "technical_staff_zonal_supervisors_and_district_statistical_branch_head": 8,
-      "technical_staff_divisional_census_officer": 30,
-      "technical_staff_area_supervisors": 54,
-      "technical_staff_circle_officers": 94,
-      "other_non_technical_staff": 155,
-      "enumerators_who_used_tablet_computers_capi": 1478,
-      "enumerators_who_used_smart_phones_byoad": 1052
+      "CensusOfficer:DeputyCensusCommissioners": 31,
+      "CensusOfficer:AssistantCensusCommissioners": 31,
+      "CensusOfficer:TechnicalStaffZonalSupervisorsAndDistrictStatisticalBranchHead": 8,
+      "CensusOfficer:TechnicalStaffDivisionalCensusOfficer": 30,
+      "CensusOfficer:TechnicalStaffAreaSupervisors": 54,
+      "CensusOfficer:TechnicalStaffCircleOfficers": 94,
+      "CensusOfficer:OtherNonTechnicalStaff": 155,
+      "CensusOfficer:EnumeratorsWhoUsedTabletComputersCapi": 1478,
+      "CensusOfficer:EnumeratorsWhoUsedSmartPhonesByoad": 1052
     },
     "total_value": 2933
   },
@@ -310,15 +310,15 @@
     "region_name": "Puttalam",
     "region_ent_type": "district",
     "values": {
-      "deputy_census_commissioners": 17,
-      "assistant_census_commissioners": 17,
-      "technical_staff_zonal_supervisors_and_district_statistical_branch_head": 4,
-      "technical_staff_divisional_census_officer": 16,
-      "technical_staff_area_supervisors": 24,
-      "technical_staff_circle_officers": 37,
-      "other_non_technical_staff": 85,
-      "enumerators_who_used_tablet_computers_capi": 589,
-      "enumerators_who_used_smart_phones_byoad": 581
+      "CensusOfficer:DeputyCensusCommissioners": 17,
+      "CensusOfficer:AssistantCensusCommissioners": 17,
+      "CensusOfficer:TechnicalStaffZonalSupervisorsAndDistrictStatisticalBranchHead": 4,
+      "CensusOfficer:TechnicalStaffDivisionalCensusOfficer": 16,
+      "CensusOfficer:TechnicalStaffAreaSupervisors": 24,
+      "CensusOfficer:TechnicalStaffCircleOfficers": 37,
+      "CensusOfficer:OtherNonTechnicalStaff": 85,
+      "CensusOfficer:EnumeratorsWhoUsedTabletComputersCapi": 589,
+      "CensusOfficer:EnumeratorsWhoUsedSmartPhonesByoad": 581
     },
     "total_value": 1370
   },
@@ -327,15 +327,15 @@
     "region_name": "Anuradhapura",
     "region_ent_type": "district",
     "values": {
-      "deputy_census_commissioners": 23,
-      "assistant_census_commissioners": 23,
-      "technical_staff_zonal_supervisors_and_district_statistical_branch_head": 5,
-      "technical_staff_divisional_census_officer": 22,
-      "technical_staff_area_supervisors": 33,
-      "technical_staff_circle_officers": 57,
-      "other_non_technical_staff": 115,
-      "enumerators_who_used_tablet_computers_capi": 812,
-      "enumerators_who_used_smart_phones_byoad": 655
+      "CensusOfficer:DeputyCensusCommissioners": 23,
+      "CensusOfficer:AssistantCensusCommissioners": 23,
+      "CensusOfficer:TechnicalStaffZonalSupervisorsAndDistrictStatisticalBranchHead": 5,
+      "CensusOfficer:TechnicalStaffDivisionalCensusOfficer": 22,
+      "CensusOfficer:TechnicalStaffAreaSupervisors": 33,
+      "CensusOfficer:TechnicalStaffCircleOfficers": 57,
+      "CensusOfficer:OtherNonTechnicalStaff": 115,
+      "CensusOfficer:EnumeratorsWhoUsedTabletComputersCapi": 812,
+      "CensusOfficer:EnumeratorsWhoUsedSmartPhonesByoad": 655
     },
     "total_value": 1745
   },
@@ -344,15 +344,15 @@
     "region_name": "Polonnaruwa",
     "region_ent_type": "district",
     "values": {
-      "deputy_census_commissioners": 8,
-      "assistant_census_commissioners": 8,
-      "technical_staff_zonal_supervisors_and_district_statistical_branch_head": 3,
-      "technical_staff_divisional_census_officer": 7,
-      "technical_staff_area_supervisors": 12,
-      "technical_staff_circle_officers": 22,
-      "other_non_technical_staff": 40,
-      "enumerators_who_used_tablet_computers_capi": 323,
-      "enumerators_who_used_smart_phones_byoad": 330
+      "CensusOfficer:DeputyCensusCommissioners": 8,
+      "CensusOfficer:AssistantCensusCommissioners": 8,
+      "CensusOfficer:TechnicalStaffZonalSupervisorsAndDistrictStatisticalBranchHead": 3,
+      "CensusOfficer:TechnicalStaffDivisionalCensusOfficer": 7,
+      "CensusOfficer:TechnicalStaffAreaSupervisors": 12,
+      "CensusOfficer:TechnicalStaffCircleOfficers": 22,
+      "CensusOfficer:OtherNonTechnicalStaff": 40,
+      "CensusOfficer:EnumeratorsWhoUsedTabletComputersCapi": 323,
+      "CensusOfficer:EnumeratorsWhoUsedSmartPhonesByoad": 330
     },
     "total_value": 753
   },
@@ -361,15 +361,15 @@
     "region_name": "Badulla",
     "region_ent_type": "district",
     "values": {
-      "deputy_census_commissioners": 16,
-      "assistant_census_commissioners": 16,
-      "technical_staff_zonal_supervisors_and_district_statistical_branch_head": 4,
-      "technical_staff_divisional_census_officer": 15,
-      "technical_staff_area_supervisors": 28,
-      "technical_staff_circle_officers": 46,
-      "other_non_technical_staff": 80,
-      "enumerators_who_used_tablet_computers_capi": 661,
-      "enumerators_who_used_smart_phones_byoad": 552
+      "CensusOfficer:DeputyCensusCommissioners": 16,
+      "CensusOfficer:AssistantCensusCommissioners": 16,
+      "CensusOfficer:TechnicalStaffZonalSupervisorsAndDistrictStatisticalBranchHead": 4,
+      "CensusOfficer:TechnicalStaffDivisionalCensusOfficer": 15,
+      "CensusOfficer:TechnicalStaffAreaSupervisors": 28,
+      "CensusOfficer:TechnicalStaffCircleOfficers": 46,
+      "CensusOfficer:OtherNonTechnicalStaff": 80,
+      "CensusOfficer:EnumeratorsWhoUsedTabletComputersCapi": 661,
+      "CensusOfficer:EnumeratorsWhoUsedSmartPhonesByoad": 552
     },
     "total_value": 1418
   },
@@ -378,15 +378,15 @@
     "region_name": "Monaragala",
     "region_ent_type": "district",
     "values": {
-      "deputy_census_commissioners": 12,
-      "assistant_census_commissioners": 12,
-      "technical_staff_zonal_supervisors_and_district_statistical_branch_head": 3,
-      "technical_staff_divisional_census_officer": 11,
-      "technical_staff_area_supervisors": 17,
-      "technical_staff_circle_officers": 27,
-      "other_non_technical_staff": 60,
-      "enumerators_who_used_tablet_computers_capi": 381,
-      "enumerators_who_used_smart_phones_byoad": 406
+      "CensusOfficer:DeputyCensusCommissioners": 12,
+      "CensusOfficer:AssistantCensusCommissioners": 12,
+      "CensusOfficer:TechnicalStaffZonalSupervisorsAndDistrictStatisticalBranchHead": 3,
+      "CensusOfficer:TechnicalStaffDivisionalCensusOfficer": 11,
+      "CensusOfficer:TechnicalStaffAreaSupervisors": 17,
+      "CensusOfficer:TechnicalStaffCircleOfficers": 27,
+      "CensusOfficer:OtherNonTechnicalStaff": 60,
+      "CensusOfficer:EnumeratorsWhoUsedTabletComputersCapi": 381,
+      "CensusOfficer:EnumeratorsWhoUsedSmartPhonesByoad": 406
     },
     "total_value": 929
   },
@@ -395,15 +395,15 @@
     "region_name": "Ratnapura",
     "region_ent_type": "district",
     "values": {
-      "deputy_census_commissioners": 19,
-      "assistant_census_commissioners": 19,
-      "technical_staff_zonal_supervisors_and_district_statistical_branch_head": 6,
-      "technical_staff_divisional_census_officer": 18,
-      "technical_staff_area_supervisors": 36,
-      "technical_staff_circle_officers": 62,
-      "other_non_technical_staff": 95,
-      "enumerators_who_used_tablet_computers_capi": 895,
-      "enumerators_who_used_smart_phones_byoad": 781
+      "CensusOfficer:DeputyCensusCommissioners": 19,
+      "CensusOfficer:AssistantCensusCommissioners": 19,
+      "CensusOfficer:TechnicalStaffZonalSupervisorsAndDistrictStatisticalBranchHead": 6,
+      "CensusOfficer:TechnicalStaffDivisionalCensusOfficer": 18,
+      "CensusOfficer:TechnicalStaffAreaSupervisors": 36,
+      "CensusOfficer:TechnicalStaffCircleOfficers": 62,
+      "CensusOfficer:OtherNonTechnicalStaff": 95,
+      "CensusOfficer:EnumeratorsWhoUsedTabletComputersCapi": 895,
+      "CensusOfficer:EnumeratorsWhoUsedSmartPhonesByoad": 781
     },
     "total_value": 1931
   },
@@ -412,15 +412,15 @@
     "region_name": "Kegalle",
     "region_ent_type": "district",
     "values": {
-      "deputy_census_commissioners": 12,
-      "assistant_census_commissioners": 12,
-      "technical_staff_zonal_supervisors_and_district_statistical_branch_head": 5,
-      "technical_staff_divisional_census_officer": 11,
-      "technical_staff_area_supervisors": 26,
-      "technical_staff_circle_officers": 46,
-      "other_non_technical_staff": 60,
-      "enumerators_who_used_tablet_computers_capi": 708,
-      "enumerators_who_used_smart_phones_byoad": 487
+      "CensusOfficer:DeputyCensusCommissioners": 12,
+      "CensusOfficer:AssistantCensusCommissioners": 12,
+      "CensusOfficer:TechnicalStaffZonalSupervisorsAndDistrictStatisticalBranchHead": 5,
+      "CensusOfficer:TechnicalStaffDivisionalCensusOfficer": 11,
+      "CensusOfficer:TechnicalStaffAreaSupervisors": 26,
+      "CensusOfficer:TechnicalStaffCircleOfficers": 46,
+      "CensusOfficer:OtherNonTechnicalStaff": 60,
+      "CensusOfficer:EnumeratorsWhoUsedTabletComputersCapi": 708,
+      "CensusOfficer:EnumeratorsWhoUsedSmartPhonesByoad": 487
     },
     "total_value": 1367
   },
@@ -429,15 +429,15 @@
     "region_name": "Sri Lanka",
     "region_ent_type": "country",
     "values": {
-      "deputy_census_commissioners": 365,
-      "assistant_census_commissioners": 365,
-      "technical_staff_zonal_supervisors_and_district_statistical_branch_head": 120,
-      "technical_staff_divisional_census_officer": 340,
-      "technical_staff_area_supervisors": 601,
-      "technical_staff_circle_officers": 1026,
-      "other_non_technical_staff": 1825,
-      "enumerators_who_used_tablet_computers_capi": 15321,
-      "enumerators_who_used_smart_phones_byoad": 14394
+      "CensusOfficer:DeputyCensusCommissioners": 365,
+      "CensusOfficer:AssistantCensusCommissioners": 365,
+      "CensusOfficer:TechnicalStaffZonalSupervisorsAndDistrictStatisticalBranchHead": 120,
+      "CensusOfficer:TechnicalStaffDivisionalCensusOfficer": 340,
+      "CensusOfficer:TechnicalStaffAreaSupervisors": 601,
+      "CensusOfficer:TechnicalStaffCircleOfficers": 1026,
+      "CensusOfficer:OtherNonTechnicalStaff": 1825,
+      "CensusOfficer:EnumeratorsWhoUsedTabletComputersCapi": 15321,
+      "CensusOfficer:EnumeratorsWhoUsedSmartPhonesByoad": 14394
     },
     "total_value": 34357
   },
@@ -446,15 +446,15 @@
     "region_name": "Western",
     "region_ent_type": "province",
     "values": {
-      "deputy_census_commissioners": 43,
-      "assistant_census_commissioners": 43,
-      "technical_staff_zonal_supervisors_and_district_statistical_branch_head": 36,
-      "technical_staff_divisional_census_officer": 40,
-      "technical_staff_area_supervisors": 130,
-      "technical_staff_circle_officers": 239,
-      "other_non_technical_staff": 215,
-      "enumerators_who_used_tablet_computers_capi": 3389,
-      "enumerators_who_used_smart_phones_byoad": 4394
+      "CensusOfficer:DeputyCensusCommissioners": 43,
+      "CensusOfficer:AssistantCensusCommissioners": 43,
+      "CensusOfficer:TechnicalStaffZonalSupervisorsAndDistrictStatisticalBranchHead": 36,
+      "CensusOfficer:TechnicalStaffDivisionalCensusOfficer": 40,
+      "CensusOfficer:TechnicalStaffAreaSupervisors": 130,
+      "CensusOfficer:TechnicalStaffCircleOfficers": 239,
+      "CensusOfficer:OtherNonTechnicalStaff": 215,
+      "CensusOfficer:EnumeratorsWhoUsedTabletComputersCapi": 3389,
+      "CensusOfficer:EnumeratorsWhoUsedSmartPhonesByoad": 4394
     },
     "total_value": 8529
   },
@@ -463,15 +463,15 @@
     "region_name": "Central",
     "region_ent_type": "province",
     "values": {
-      "deputy_census_commissioners": 44,
-      "assistant_census_commissioners": 44,
-      "technical_staff_zonal_supervisors_and_district_statistical_branch_head": 13,
-      "technical_staff_divisional_census_officer": 41,
-      "technical_staff_area_supervisors": 71,
-      "technical_staff_circle_officers": 125,
-      "other_non_technical_staff": 220,
-      "enumerators_who_used_tablet_computers_capi": 2045,
-      "enumerators_who_used_smart_phones_byoad": 1527
+      "CensusOfficer:DeputyCensusCommissioners": 44,
+      "CensusOfficer:AssistantCensusCommissioners": 44,
+      "CensusOfficer:TechnicalStaffZonalSupervisorsAndDistrictStatisticalBranchHead": 13,
+      "CensusOfficer:TechnicalStaffDivisionalCensusOfficer": 41,
+      "CensusOfficer:TechnicalStaffAreaSupervisors": 71,
+      "CensusOfficer:TechnicalStaffCircleOfficers": 125,
+      "CensusOfficer:OtherNonTechnicalStaff": 220,
+      "CensusOfficer:EnumeratorsWhoUsedTabletComputersCapi": 2045,
+      "CensusOfficer:EnumeratorsWhoUsedSmartPhonesByoad": 1527
     },
     "total_value": 4130
   },
@@ -480,15 +480,15 @@
     "region_name": "Southern",
     "region_ent_type": "province",
     "values": {
-      "deputy_census_commissioners": 53,
-      "assistant_census_commissioners": 53,
-      "technical_staff_zonal_supervisors_and_district_statistical_branch_head": 12,
-      "technical_staff_divisional_census_officer": 50,
-      "technical_staff_area_supervisors": 74,
-      "technical_staff_circle_officers": 126,
-      "other_non_technical_staff": 265,
-      "enumerators_who_used_tablet_computers_capi": 1950,
-      "enumerators_who_used_smart_phones_byoad": 1574
+      "CensusOfficer:DeputyCensusCommissioners": 53,
+      "CensusOfficer:AssistantCensusCommissioners": 53,
+      "CensusOfficer:TechnicalStaffZonalSupervisorsAndDistrictStatisticalBranchHead": 12,
+      "CensusOfficer:TechnicalStaffDivisionalCensusOfficer": 50,
+      "CensusOfficer:TechnicalStaffAreaSupervisors": 74,
+      "CensusOfficer:TechnicalStaffCircleOfficers": 126,
+      "CensusOfficer:OtherNonTechnicalStaff": 265,
+      "CensusOfficer:EnumeratorsWhoUsedTabletComputersCapi": 1950,
+      "CensusOfficer:EnumeratorsWhoUsedSmartPhonesByoad": 1574
     },
     "total_value": 4157
   },
@@ -497,15 +497,15 @@
     "region_name": "Northern",
     "region_ent_type": "province",
     "values": {
-      "deputy_census_commissioners": 39,
-      "assistant_census_commissioners": 39,
-      "technical_staff_zonal_supervisors_and_district_statistical_branch_head": 11,
-      "technical_staff_divisional_census_officer": 34,
-      "technical_staff_area_supervisors": 40,
-      "technical_staff_circle_officers": 58,
-      "other_non_technical_staff": 195,
-      "enumerators_who_used_tablet_computers_capi": 865,
-      "enumerators_who_used_smart_phones_byoad": 806
+      "CensusOfficer:DeputyCensusCommissioners": 39,
+      "CensusOfficer:AssistantCensusCommissioners": 39,
+      "CensusOfficer:TechnicalStaffZonalSupervisorsAndDistrictStatisticalBranchHead": 11,
+      "CensusOfficer:TechnicalStaffDivisionalCensusOfficer": 34,
+      "CensusOfficer:TechnicalStaffAreaSupervisors": 40,
+      "CensusOfficer:TechnicalStaffCircleOfficers": 58,
+      "CensusOfficer:OtherNonTechnicalStaff": 195,
+      "CensusOfficer:EnumeratorsWhoUsedTabletComputersCapi": 865,
+      "CensusOfficer:EnumeratorsWhoUsedSmartPhonesByoad": 806
     },
     "total_value": 2087
   },
@@ -514,15 +514,15 @@
     "region_name": "Eastern",
     "region_ent_type": "province",
     "values": {
-      "deputy_census_commissioners": 48,
-      "assistant_census_commissioners": 48,
-      "technical_staff_zonal_supervisors_and_district_statistical_branch_head": 10,
-      "technical_staff_divisional_census_officer": 45,
-      "technical_staff_area_supervisors": 56,
-      "technical_staff_circle_officers": 87,
-      "other_non_technical_staff": 240,
-      "enumerators_who_used_tablet_computers_capi": 1225,
-      "enumerators_who_used_smart_phones_byoad": 1249
+      "CensusOfficer:DeputyCensusCommissioners": 48,
+      "CensusOfficer:AssistantCensusCommissioners": 48,
+      "CensusOfficer:TechnicalStaffZonalSupervisorsAndDistrictStatisticalBranchHead": 10,
+      "CensusOfficer:TechnicalStaffDivisionalCensusOfficer": 45,
+      "CensusOfficer:TechnicalStaffAreaSupervisors": 56,
+      "CensusOfficer:TechnicalStaffCircleOfficers": 87,
+      "CensusOfficer:OtherNonTechnicalStaff": 240,
+      "CensusOfficer:EnumeratorsWhoUsedTabletComputersCapi": 1225,
+      "CensusOfficer:EnumeratorsWhoUsedSmartPhonesByoad": 1249
     },
     "total_value": 3008
   },
@@ -531,15 +531,15 @@
     "region_name": "North Western",
     "region_ent_type": "province",
     "values": {
-      "deputy_census_commissioners": 48,
-      "assistant_census_commissioners": 48,
-      "technical_staff_zonal_supervisors_and_district_statistical_branch_head": 12,
-      "technical_staff_divisional_census_officer": 46,
-      "technical_staff_area_supervisors": 78,
-      "technical_staff_circle_officers": 131,
-      "other_non_technical_staff": 240,
-      "enumerators_who_used_tablet_computers_capi": 2067,
-      "enumerators_who_used_smart_phones_byoad": 1633
+      "CensusOfficer:DeputyCensusCommissioners": 48,
+      "CensusOfficer:AssistantCensusCommissioners": 48,
+      "CensusOfficer:TechnicalStaffZonalSupervisorsAndDistrictStatisticalBranchHead": 12,
+      "CensusOfficer:TechnicalStaffDivisionalCensusOfficer": 46,
+      "CensusOfficer:TechnicalStaffAreaSupervisors": 78,
+      "CensusOfficer:TechnicalStaffCircleOfficers": 131,
+      "CensusOfficer:OtherNonTechnicalStaff": 240,
+      "CensusOfficer:EnumeratorsWhoUsedTabletComputersCapi": 2067,
+      "CensusOfficer:EnumeratorsWhoUsedSmartPhonesByoad": 1633
     },
     "total_value": 4303
   },
@@ -548,15 +548,15 @@
     "region_name": "North Central",
     "region_ent_type": "province",
     "values": {
-      "deputy_census_commissioners": 31,
-      "assistant_census_commissioners": 31,
-      "technical_staff_zonal_supervisors_and_district_statistical_branch_head": 8,
-      "technical_staff_divisional_census_officer": 29,
-      "technical_staff_area_supervisors": 45,
-      "technical_staff_circle_officers": 79,
-      "other_non_technical_staff": 155,
-      "enumerators_who_used_tablet_computers_capi": 1135,
-      "enumerators_who_used_smart_phones_byoad": 985
+      "CensusOfficer:DeputyCensusCommissioners": 31,
+      "CensusOfficer:AssistantCensusCommissioners": 31,
+      "CensusOfficer:TechnicalStaffZonalSupervisorsAndDistrictStatisticalBranchHead": 8,
+      "CensusOfficer:TechnicalStaffDivisionalCensusOfficer": 29,
+      "CensusOfficer:TechnicalStaffAreaSupervisors": 45,
+      "CensusOfficer:TechnicalStaffCircleOfficers": 79,
+      "CensusOfficer:OtherNonTechnicalStaff": 155,
+      "CensusOfficer:EnumeratorsWhoUsedTabletComputersCapi": 1135,
+      "CensusOfficer:EnumeratorsWhoUsedSmartPhonesByoad": 985
     },
     "total_value": 2498
   },
@@ -565,15 +565,15 @@
     "region_name": "Uva",
     "region_ent_type": "province",
     "values": {
-      "deputy_census_commissioners": 28,
-      "assistant_census_commissioners": 28,
-      "technical_staff_zonal_supervisors_and_district_statistical_branch_head": 7,
-      "technical_staff_divisional_census_officer": 26,
-      "technical_staff_area_supervisors": 45,
-      "technical_staff_circle_officers": 73,
-      "other_non_technical_staff": 140,
-      "enumerators_who_used_tablet_computers_capi": 1042,
-      "enumerators_who_used_smart_phones_byoad": 958
+      "CensusOfficer:DeputyCensusCommissioners": 28,
+      "CensusOfficer:AssistantCensusCommissioners": 28,
+      "CensusOfficer:TechnicalStaffZonalSupervisorsAndDistrictStatisticalBranchHead": 7,
+      "CensusOfficer:TechnicalStaffDivisionalCensusOfficer": 26,
+      "CensusOfficer:TechnicalStaffAreaSupervisors": 45,
+      "CensusOfficer:TechnicalStaffCircleOfficers": 73,
+      "CensusOfficer:OtherNonTechnicalStaff": 140,
+      "CensusOfficer:EnumeratorsWhoUsedTabletComputersCapi": 1042,
+      "CensusOfficer:EnumeratorsWhoUsedSmartPhonesByoad": 958
     },
     "total_value": 2347
   },
@@ -582,15 +582,15 @@
     "region_name": "Sabaragamuwa",
     "region_ent_type": "province",
     "values": {
-      "deputy_census_commissioners": 31,
-      "assistant_census_commissioners": 31,
-      "technical_staff_zonal_supervisors_and_district_statistical_branch_head": 11,
-      "technical_staff_divisional_census_officer": 29,
-      "technical_staff_area_supervisors": 62,
-      "technical_staff_circle_officers": 108,
-      "other_non_technical_staff": 155,
-      "enumerators_who_used_tablet_computers_capi": 1603,
-      "enumerators_who_used_smart_phones_byoad": 1268
+      "CensusOfficer:DeputyCensusCommissioners": 31,
+      "CensusOfficer:AssistantCensusCommissioners": 31,
+      "CensusOfficer:TechnicalStaffZonalSupervisorsAndDistrictStatisticalBranchHead": 11,
+      "CensusOfficer:TechnicalStaffDivisionalCensusOfficer": 29,
+      "CensusOfficer:TechnicalStaffAreaSupervisors": 62,
+      "CensusOfficer:TechnicalStaffCircleOfficers": 108,
+      "CensusOfficer:OtherNonTechnicalStaff": 155,
+      "CensusOfficer:EnumeratorsWhoUsedTabletComputersCapi": 1603,
+      "CensusOfficer:EnumeratorsWhoUsedSmartPhonesByoad": 1268
     },
     "total_value": 3298
   },
@@ -599,15 +599,15 @@
     "region_name": "Colombo",
     "region_ent_type": "ed",
     "values": {
-      "deputy_census_commissioners": 14,
-      "assistant_census_commissioners": 14,
-      "technical_staff_zonal_supervisors_and_district_statistical_branch_head": 18,
-      "technical_staff_divisional_census_officer": 13,
-      "technical_staff_area_supervisors": 53,
-      "technical_staff_circle_officers": 98,
-      "other_non_technical_staff": 70,
-      "enumerators_who_used_tablet_computers_capi": 1104,
-      "enumerators_who_used_smart_phones_byoad": 1986
+      "CensusOfficer:DeputyCensusCommissioners": 14,
+      "CensusOfficer:AssistantCensusCommissioners": 14,
+      "CensusOfficer:TechnicalStaffZonalSupervisorsAndDistrictStatisticalBranchHead": 18,
+      "CensusOfficer:TechnicalStaffDivisionalCensusOfficer": 13,
+      "CensusOfficer:TechnicalStaffAreaSupervisors": 53,
+      "CensusOfficer:TechnicalStaffCircleOfficers": 98,
+      "CensusOfficer:OtherNonTechnicalStaff": 70,
+      "CensusOfficer:EnumeratorsWhoUsedTabletComputersCapi": 1104,
+      "CensusOfficer:EnumeratorsWhoUsedSmartPhonesByoad": 1986
     },
     "total_value": 3370
   },
@@ -616,15 +616,15 @@
     "region_name": "Gampaha",
     "region_ent_type": "ed",
     "values": {
-      "deputy_census_commissioners": 14,
-      "assistant_census_commissioners": 14,
-      "technical_staff_zonal_supervisors_and_district_statistical_branch_head": 13,
-      "technical_staff_divisional_census_officer": 13,
-      "technical_staff_area_supervisors": 48,
-      "technical_staff_circle_officers": 90,
-      "other_non_technical_staff": 70,
-      "enumerators_who_used_tablet_computers_capi": 1493,
-      "enumerators_who_used_smart_phones_byoad": 1572
+      "CensusOfficer:DeputyCensusCommissioners": 14,
+      "CensusOfficer:AssistantCensusCommissioners": 14,
+      "CensusOfficer:TechnicalStaffZonalSupervisorsAndDistrictStatisticalBranchHead": 13,
+      "CensusOfficer:TechnicalStaffDivisionalCensusOfficer": 13,
+      "CensusOfficer:TechnicalStaffAreaSupervisors": 48,
+      "CensusOfficer:TechnicalStaffCircleOfficers": 90,
+      "CensusOfficer:OtherNonTechnicalStaff": 70,
+      "CensusOfficer:EnumeratorsWhoUsedTabletComputersCapi": 1493,
+      "CensusOfficer:EnumeratorsWhoUsedSmartPhonesByoad": 1572
     },
     "total_value": 3327
   },
@@ -633,15 +633,15 @@
     "region_name": "Kalutara",
     "region_ent_type": "ed",
     "values": {
-      "deputy_census_commissioners": 15,
-      "assistant_census_commissioners": 15,
-      "technical_staff_zonal_supervisors_and_district_statistical_branch_head": 5,
-      "technical_staff_divisional_census_officer": 14,
-      "technical_staff_area_supervisors": 29,
-      "technical_staff_circle_officers": 51,
-      "other_non_technical_staff": 75,
-      "enumerators_who_used_tablet_computers_capi": 792,
-      "enumerators_who_used_smart_phones_byoad": 836
+      "CensusOfficer:DeputyCensusCommissioners": 15,
+      "CensusOfficer:AssistantCensusCommissioners": 15,
+      "CensusOfficer:TechnicalStaffZonalSupervisorsAndDistrictStatisticalBranchHead": 5,
+      "CensusOfficer:TechnicalStaffDivisionalCensusOfficer": 14,
+      "CensusOfficer:TechnicalStaffAreaSupervisors": 29,
+      "CensusOfficer:TechnicalStaffCircleOfficers": 51,
+      "CensusOfficer:OtherNonTechnicalStaff": 75,
+      "CensusOfficer:EnumeratorsWhoUsedTabletComputersCapi": 792,
+      "CensusOfficer:EnumeratorsWhoUsedSmartPhonesByoad": 836
     },
     "total_value": 1832
   },
@@ -650,15 +650,15 @@
     "region_name": "Kandy",
     "region_ent_type": "ed",
     "values": {
-      "deputy_census_commissioners": 21,
-      "assistant_census_commissioners": 21,
-      "technical_staff_zonal_supervisors_and_district_statistical_branch_head": 6,
-      "technical_staff_divisional_census_officer": 20,
-      "technical_staff_area_supervisors": 36,
-      "technical_staff_circle_officers": 63,
-      "other_non_technical_staff": 105,
-      "enumerators_who_used_tablet_computers_capi": 1056,
-      "enumerators_who_used_smart_phones_byoad": 779
+      "CensusOfficer:DeputyCensusCommissioners": 21,
+      "CensusOfficer:AssistantCensusCommissioners": 21,
+      "CensusOfficer:TechnicalStaffZonalSupervisorsAndDistrictStatisticalBranchHead": 6,
+      "CensusOfficer:TechnicalStaffDivisionalCensusOfficer": 20,
+      "CensusOfficer:TechnicalStaffAreaSupervisors": 36,
+      "CensusOfficer:TechnicalStaffCircleOfficers": 63,
+      "CensusOfficer:OtherNonTechnicalStaff": 105,
+      "CensusOfficer:EnumeratorsWhoUsedTabletComputersCapi": 1056,
+      "CensusOfficer:EnumeratorsWhoUsedSmartPhonesByoad": 779
     },
     "total_value": 2107
   },
@@ -667,15 +667,15 @@
     "region_name": "Matale",
     "region_ent_type": "ed",
     "values": {
-      "deputy_census_commissioners": 12,
-      "assistant_census_commissioners": 12,
-      "technical_staff_zonal_supervisors_and_district_statistical_branch_head": 3,
-      "technical_staff_divisional_census_officer": 11,
-      "technical_staff_area_supervisors": 16,
-      "technical_staff_circle_officers": 27,
-      "other_non_technical_staff": 60,
-      "enumerators_who_used_tablet_computers_capi": 432,
-      "enumerators_who_used_smart_phones_byoad": 317
+      "CensusOfficer:DeputyCensusCommissioners": 12,
+      "CensusOfficer:AssistantCensusCommissioners": 12,
+      "CensusOfficer:TechnicalStaffZonalSupervisorsAndDistrictStatisticalBranchHead": 3,
+      "CensusOfficer:TechnicalStaffDivisionalCensusOfficer": 11,
+      "CensusOfficer:TechnicalStaffAreaSupervisors": 16,
+      "CensusOfficer:TechnicalStaffCircleOfficers": 27,
+      "CensusOfficer:OtherNonTechnicalStaff": 60,
+      "CensusOfficer:EnumeratorsWhoUsedTabletComputersCapi": 432,
+      "CensusOfficer:EnumeratorsWhoUsedSmartPhonesByoad": 317
     },
     "total_value": 890
   },
@@ -684,15 +684,15 @@
     "region_name": "Nuwara-Eliya",
     "region_ent_type": "ed",
     "values": {
-      "deputy_census_commissioners": 11,
-      "assistant_census_commissioners": 11,
-      "technical_staff_zonal_supervisors_and_district_statistical_branch_head": 4,
-      "technical_staff_divisional_census_officer": 10,
-      "technical_staff_area_supervisors": 19,
-      "technical_staff_circle_officers": 35,
-      "other_non_technical_staff": 55,
-      "enumerators_who_used_tablet_computers_capi": 557,
-      "enumerators_who_used_smart_phones_byoad": 431
+      "CensusOfficer:DeputyCensusCommissioners": 11,
+      "CensusOfficer:AssistantCensusCommissioners": 11,
+      "CensusOfficer:TechnicalStaffZonalSupervisorsAndDistrictStatisticalBranchHead": 4,
+      "CensusOfficer:TechnicalStaffDivisionalCensusOfficer": 10,
+      "CensusOfficer:TechnicalStaffAreaSupervisors": 19,
+      "CensusOfficer:TechnicalStaffCircleOfficers": 35,
+      "CensusOfficer:OtherNonTechnicalStaff": 55,
+      "CensusOfficer:EnumeratorsWhoUsedTabletComputersCapi": 557,
+      "CensusOfficer:EnumeratorsWhoUsedSmartPhonesByoad": 431
     },
     "total_value": 1133
   },
@@ -701,15 +701,15 @@
     "region_name": "Galle",
     "region_ent_type": "ed",
     "values": {
-      "deputy_census_commissioners": 23,
-      "assistant_census_commissioners": 23,
-      "technical_staff_zonal_supervisors_and_district_statistical_branch_head": 5,
-      "technical_staff_divisional_census_officer": 22,
-      "technical_staff_area_supervisors": 32,
-      "technical_staff_circle_officers": 55,
-      "other_non_technical_staff": 115,
-      "enumerators_who_used_tablet_computers_capi": 836,
-      "enumerators_who_used_smart_phones_byoad": 642
+      "CensusOfficer:DeputyCensusCommissioners": 23,
+      "CensusOfficer:AssistantCensusCommissioners": 23,
+      "CensusOfficer:TechnicalStaffZonalSupervisorsAndDistrictStatisticalBranchHead": 5,
+      "CensusOfficer:TechnicalStaffDivisionalCensusOfficer": 22,
+      "CensusOfficer:TechnicalStaffAreaSupervisors": 32,
+      "CensusOfficer:TechnicalStaffCircleOfficers": 55,
+      "CensusOfficer:OtherNonTechnicalStaff": 115,
+      "CensusOfficer:EnumeratorsWhoUsedTabletComputersCapi": 836,
+      "CensusOfficer:EnumeratorsWhoUsedSmartPhonesByoad": 642
     },
     "total_value": 1753
   },
@@ -718,15 +718,15 @@
     "region_name": "Matara",
     "region_ent_type": "ed",
     "values": {
-      "deputy_census_commissioners": 17,
-      "assistant_census_commissioners": 17,
-      "technical_staff_zonal_supervisors_and_district_statistical_branch_head": 4,
-      "technical_staff_divisional_census_officer": 16,
-      "technical_staff_area_supervisors": 23,
-      "technical_staff_circle_officers": 40,
-      "other_non_technical_staff": 85,
-      "enumerators_who_used_tablet_computers_capi": 626,
-      "enumerators_who_used_smart_phones_byoad": 497
+      "CensusOfficer:DeputyCensusCommissioners": 17,
+      "CensusOfficer:AssistantCensusCommissioners": 17,
+      "CensusOfficer:TechnicalStaffZonalSupervisorsAndDistrictStatisticalBranchHead": 4,
+      "CensusOfficer:TechnicalStaffDivisionalCensusOfficer": 16,
+      "CensusOfficer:TechnicalStaffAreaSupervisors": 23,
+      "CensusOfficer:TechnicalStaffCircleOfficers": 40,
+      "CensusOfficer:OtherNonTechnicalStaff": 85,
+      "CensusOfficer:EnumeratorsWhoUsedTabletComputersCapi": 626,
+      "CensusOfficer:EnumeratorsWhoUsedSmartPhonesByoad": 497
     },
     "total_value": 1325
   },
@@ -735,15 +735,15 @@
     "region_name": "Hambantota",
     "region_ent_type": "ed",
     "values": {
-      "deputy_census_commissioners": 13,
-      "assistant_census_commissioners": 13,
-      "technical_staff_zonal_supervisors_and_district_statistical_branch_head": 3,
-      "technical_staff_divisional_census_officer": 12,
-      "technical_staff_area_supervisors": 19,
-      "technical_staff_circle_officers": 31,
-      "other_non_technical_staff": 65,
-      "enumerators_who_used_tablet_computers_capi": 488,
-      "enumerators_who_used_smart_phones_byoad": 435
+      "CensusOfficer:DeputyCensusCommissioners": 13,
+      "CensusOfficer:AssistantCensusCommissioners": 13,
+      "CensusOfficer:TechnicalStaffZonalSupervisorsAndDistrictStatisticalBranchHead": 3,
+      "CensusOfficer:TechnicalStaffDivisionalCensusOfficer": 12,
+      "CensusOfficer:TechnicalStaffAreaSupervisors": 19,
+      "CensusOfficer:TechnicalStaffCircleOfficers": 31,
+      "CensusOfficer:OtherNonTechnicalStaff": 65,
+      "CensusOfficer:EnumeratorsWhoUsedTabletComputersCapi": 488,
+      "CensusOfficer:EnumeratorsWhoUsedSmartPhonesByoad": 435
     },
     "total_value": 1079
   },
@@ -752,15 +752,15 @@
     "region_name": "Jaffna",
     "region_ent_type": "ed",
     "values": {
-      "deputy_census_commissioners": 21,
-      "assistant_census_commissioners": 21,
-      "technical_staff_zonal_supervisors_and_district_statistical_branch_head": 5,
-      "technical_staff_divisional_census_officer": 19,
-      "technical_staff_area_supervisors": 23,
-      "technical_staff_circle_officers": 34,
-      "other_non_technical_staff": 105,
-      "enumerators_who_used_tablet_computers_capi": 528,
-      "enumerators_who_used_smart_phones_byoad": 478
+      "CensusOfficer:DeputyCensusCommissioners": 21,
+      "CensusOfficer:AssistantCensusCommissioners": 21,
+      "CensusOfficer:TechnicalStaffZonalSupervisorsAndDistrictStatisticalBranchHead": 5,
+      "CensusOfficer:TechnicalStaffDivisionalCensusOfficer": 19,
+      "CensusOfficer:TechnicalStaffAreaSupervisors": 23,
+      "CensusOfficer:TechnicalStaffCircleOfficers": 34,
+      "CensusOfficer:OtherNonTechnicalStaff": 105,
+      "CensusOfficer:EnumeratorsWhoUsedTabletComputersCapi": 528,
+      "CensusOfficer:EnumeratorsWhoUsedSmartPhonesByoad": 478
     },
     "total_value": 1234
   },
@@ -769,15 +769,15 @@
     "region_name": "Vanni",
     "region_ent_type": "ed",
     "values": {
-      "deputy_census_commissioners": 18,
-      "assistant_census_commissioners": 18,
-      "technical_staff_zonal_supervisors_and_district_statistical_branch_head": 6,
-      "technical_staff_divisional_census_officer": 15,
-      "technical_staff_area_supervisors": 17,
-      "technical_staff_circle_officers": 24,
-      "other_non_technical_staff": 90,
-      "enumerators_who_used_tablet_computers_capi": 337,
-      "enumerators_who_used_smart_phones_byoad": 328
+      "CensusOfficer:DeputyCensusCommissioners": 18,
+      "CensusOfficer:AssistantCensusCommissioners": 18,
+      "CensusOfficer:TechnicalStaffZonalSupervisorsAndDistrictStatisticalBranchHead": 6,
+      "CensusOfficer:TechnicalStaffDivisionalCensusOfficer": 15,
+      "CensusOfficer:TechnicalStaffAreaSupervisors": 17,
+      "CensusOfficer:TechnicalStaffCircleOfficers": 24,
+      "CensusOfficer:OtherNonTechnicalStaff": 90,
+      "CensusOfficer:EnumeratorsWhoUsedTabletComputersCapi": 337,
+      "CensusOfficer:EnumeratorsWhoUsedSmartPhonesByoad": 328
     },
     "total_value": 853
   },
@@ -786,15 +786,15 @@
     "region_name": "Batticaloa",
     "region_ent_type": "ed",
     "values": {
-      "deputy_census_commissioners": 15,
-      "assistant_census_commissioners": 15,
-      "technical_staff_zonal_supervisors_and_district_statistical_branch_head": 3,
-      "technical_staff_divisional_census_officer": 14,
-      "technical_staff_area_supervisors": 18,
-      "technical_staff_circle_officers": 31,
-      "other_non_technical_staff": 75,
-      "enumerators_who_used_tablet_computers_capi": 445,
-      "enumerators_who_used_smart_phones_byoad": 391
+      "CensusOfficer:DeputyCensusCommissioners": 15,
+      "CensusOfficer:AssistantCensusCommissioners": 15,
+      "CensusOfficer:TechnicalStaffZonalSupervisorsAndDistrictStatisticalBranchHead": 3,
+      "CensusOfficer:TechnicalStaffDivisionalCensusOfficer": 14,
+      "CensusOfficer:TechnicalStaffAreaSupervisors": 18,
+      "CensusOfficer:TechnicalStaffCircleOfficers": 31,
+      "CensusOfficer:OtherNonTechnicalStaff": 75,
+      "CensusOfficer:EnumeratorsWhoUsedTabletComputersCapi": 445,
+      "CensusOfficer:EnumeratorsWhoUsedSmartPhonesByoad": 391
     },
     "total_value": 1007
   },
@@ -803,15 +803,15 @@
     "region_name": "Digamadulla",
     "region_ent_type": "ed",
     "values": {
-      "deputy_census_commissioners": 21,
-      "assistant_census_commissioners": 21,
-      "technical_staff_zonal_supervisors_and_district_statistical_branch_head": 4,
-      "technical_staff_divisional_census_officer": 20,
-      "technical_staff_area_supervisors": 23,
-      "technical_staff_circle_officers": 34,
-      "other_non_technical_staff": 105,
-      "enumerators_who_used_tablet_computers_capi": 492,
-      "enumerators_who_used_smart_phones_byoad": 529
+      "CensusOfficer:DeputyCensusCommissioners": 21,
+      "CensusOfficer:AssistantCensusCommissioners": 21,
+      "CensusOfficer:TechnicalStaffZonalSupervisorsAndDistrictStatisticalBranchHead": 4,
+      "CensusOfficer:TechnicalStaffDivisionalCensusOfficer": 20,
+      "CensusOfficer:TechnicalStaffAreaSupervisors": 23,
+      "CensusOfficer:TechnicalStaffCircleOfficers": 34,
+      "CensusOfficer:OtherNonTechnicalStaff": 105,
+      "CensusOfficer:EnumeratorsWhoUsedTabletComputersCapi": 492,
+      "CensusOfficer:EnumeratorsWhoUsedSmartPhonesByoad": 529
     },
     "total_value": 1249
   },
@@ -820,15 +820,15 @@
     "region_name": "Trincomalee",
     "region_ent_type": "ed",
     "values": {
-      "deputy_census_commissioners": 12,
-      "assistant_census_commissioners": 12,
-      "technical_staff_zonal_supervisors_and_district_statistical_branch_head": 3,
-      "technical_staff_divisional_census_officer": 11,
-      "technical_staff_area_supervisors": 15,
-      "technical_staff_circle_officers": 22,
-      "other_non_technical_staff": 60,
-      "enumerators_who_used_tablet_computers_capi": 288,
-      "enumerators_who_used_smart_phones_byoad": 329
+      "CensusOfficer:DeputyCensusCommissioners": 12,
+      "CensusOfficer:AssistantCensusCommissioners": 12,
+      "CensusOfficer:TechnicalStaffZonalSupervisorsAndDistrictStatisticalBranchHead": 3,
+      "CensusOfficer:TechnicalStaffDivisionalCensusOfficer": 11,
+      "CensusOfficer:TechnicalStaffAreaSupervisors": 15,
+      "CensusOfficer:TechnicalStaffCircleOfficers": 22,
+      "CensusOfficer:OtherNonTechnicalStaff": 60,
+      "CensusOfficer:EnumeratorsWhoUsedTabletComputersCapi": 288,
+      "CensusOfficer:EnumeratorsWhoUsedSmartPhonesByoad": 329
     },
     "total_value": 752
   },
@@ -837,15 +837,15 @@
     "region_name": "Kurunegala",
     "region_ent_type": "ed",
     "values": {
-      "deputy_census_commissioners": 31,
-      "assistant_census_commissioners": 31,
-      "technical_staff_zonal_supervisors_and_district_statistical_branch_head": 8,
-      "technical_staff_divisional_census_officer": 30,
-      "technical_staff_area_supervisors": 54,
-      "technical_staff_circle_officers": 94,
-      "other_non_technical_staff": 155,
-      "enumerators_who_used_tablet_computers_capi": 1478,
-      "enumerators_who_used_smart_phones_byoad": 1052
+      "CensusOfficer:DeputyCensusCommissioners": 31,
+      "CensusOfficer:AssistantCensusCommissioners": 31,
+      "CensusOfficer:TechnicalStaffZonalSupervisorsAndDistrictStatisticalBranchHead": 8,
+      "CensusOfficer:TechnicalStaffDivisionalCensusOfficer": 30,
+      "CensusOfficer:TechnicalStaffAreaSupervisors": 54,
+      "CensusOfficer:TechnicalStaffCircleOfficers": 94,
+      "CensusOfficer:OtherNonTechnicalStaff": 155,
+      "CensusOfficer:EnumeratorsWhoUsedTabletComputersCapi": 1478,
+      "CensusOfficer:EnumeratorsWhoUsedSmartPhonesByoad": 1052
     },
     "total_value": 2933
   },
@@ -854,15 +854,15 @@
     "region_name": "Puttalam",
     "region_ent_type": "ed",
     "values": {
-      "deputy_census_commissioners": 17,
-      "assistant_census_commissioners": 17,
-      "technical_staff_zonal_supervisors_and_district_statistical_branch_head": 4,
-      "technical_staff_divisional_census_officer": 16,
-      "technical_staff_area_supervisors": 24,
-      "technical_staff_circle_officers": 37,
-      "other_non_technical_staff": 85,
-      "enumerators_who_used_tablet_computers_capi": 589,
-      "enumerators_who_used_smart_phones_byoad": 581
+      "CensusOfficer:DeputyCensusCommissioners": 17,
+      "CensusOfficer:AssistantCensusCommissioners": 17,
+      "CensusOfficer:TechnicalStaffZonalSupervisorsAndDistrictStatisticalBranchHead": 4,
+      "CensusOfficer:TechnicalStaffDivisionalCensusOfficer": 16,
+      "CensusOfficer:TechnicalStaffAreaSupervisors": 24,
+      "CensusOfficer:TechnicalStaffCircleOfficers": 37,
+      "CensusOfficer:OtherNonTechnicalStaff": 85,
+      "CensusOfficer:EnumeratorsWhoUsedTabletComputersCapi": 589,
+      "CensusOfficer:EnumeratorsWhoUsedSmartPhonesByoad": 581
     },
     "total_value": 1370
   },
@@ -871,15 +871,15 @@
     "region_name": "Anuradhapura",
     "region_ent_type": "ed",
     "values": {
-      "deputy_census_commissioners": 23,
-      "assistant_census_commissioners": 23,
-      "technical_staff_zonal_supervisors_and_district_statistical_branch_head": 5,
-      "technical_staff_divisional_census_officer": 22,
-      "technical_staff_area_supervisors": 33,
-      "technical_staff_circle_officers": 57,
-      "other_non_technical_staff": 115,
-      "enumerators_who_used_tablet_computers_capi": 812,
-      "enumerators_who_used_smart_phones_byoad": 655
+      "CensusOfficer:DeputyCensusCommissioners": 23,
+      "CensusOfficer:AssistantCensusCommissioners": 23,
+      "CensusOfficer:TechnicalStaffZonalSupervisorsAndDistrictStatisticalBranchHead": 5,
+      "CensusOfficer:TechnicalStaffDivisionalCensusOfficer": 22,
+      "CensusOfficer:TechnicalStaffAreaSupervisors": 33,
+      "CensusOfficer:TechnicalStaffCircleOfficers": 57,
+      "CensusOfficer:OtherNonTechnicalStaff": 115,
+      "CensusOfficer:EnumeratorsWhoUsedTabletComputersCapi": 812,
+      "CensusOfficer:EnumeratorsWhoUsedSmartPhonesByoad": 655
     },
     "total_value": 1745
   },
@@ -888,15 +888,15 @@
     "region_name": "Polonnaruwa",
     "region_ent_type": "ed",
     "values": {
-      "deputy_census_commissioners": 8,
-      "assistant_census_commissioners": 8,
-      "technical_staff_zonal_supervisors_and_district_statistical_branch_head": 3,
-      "technical_staff_divisional_census_officer": 7,
-      "technical_staff_area_supervisors": 12,
-      "technical_staff_circle_officers": 22,
-      "other_non_technical_staff": 40,
-      "enumerators_who_used_tablet_computers_capi": 323,
-      "enumerators_who_used_smart_phones_byoad": 330
+      "CensusOfficer:DeputyCensusCommissioners": 8,
+      "CensusOfficer:AssistantCensusCommissioners": 8,
+      "CensusOfficer:TechnicalStaffZonalSupervisorsAndDistrictStatisticalBranchHead": 3,
+      "CensusOfficer:TechnicalStaffDivisionalCensusOfficer": 7,
+      "CensusOfficer:TechnicalStaffAreaSupervisors": 12,
+      "CensusOfficer:TechnicalStaffCircleOfficers": 22,
+      "CensusOfficer:OtherNonTechnicalStaff": 40,
+      "CensusOfficer:EnumeratorsWhoUsedTabletComputersCapi": 323,
+      "CensusOfficer:EnumeratorsWhoUsedSmartPhonesByoad": 330
     },
     "total_value": 753
   },
@@ -905,15 +905,15 @@
     "region_name": "Badulla",
     "region_ent_type": "ed",
     "values": {
-      "deputy_census_commissioners": 16,
-      "assistant_census_commissioners": 16,
-      "technical_staff_zonal_supervisors_and_district_statistical_branch_head": 4,
-      "technical_staff_divisional_census_officer": 15,
-      "technical_staff_area_supervisors": 28,
-      "technical_staff_circle_officers": 46,
-      "other_non_technical_staff": 80,
-      "enumerators_who_used_tablet_computers_capi": 661,
-      "enumerators_who_used_smart_phones_byoad": 552
+      "CensusOfficer:DeputyCensusCommissioners": 16,
+      "CensusOfficer:AssistantCensusCommissioners": 16,
+      "CensusOfficer:TechnicalStaffZonalSupervisorsAndDistrictStatisticalBranchHead": 4,
+      "CensusOfficer:TechnicalStaffDivisionalCensusOfficer": 15,
+      "CensusOfficer:TechnicalStaffAreaSupervisors": 28,
+      "CensusOfficer:TechnicalStaffCircleOfficers": 46,
+      "CensusOfficer:OtherNonTechnicalStaff": 80,
+      "CensusOfficer:EnumeratorsWhoUsedTabletComputersCapi": 661,
+      "CensusOfficer:EnumeratorsWhoUsedSmartPhonesByoad": 552
     },
     "total_value": 1418
   },
@@ -922,15 +922,15 @@
     "region_name": "Moneragala",
     "region_ent_type": "ed",
     "values": {
-      "deputy_census_commissioners": 12,
-      "assistant_census_commissioners": 12,
-      "technical_staff_zonal_supervisors_and_district_statistical_branch_head": 3,
-      "technical_staff_divisional_census_officer": 11,
-      "technical_staff_area_supervisors": 17,
-      "technical_staff_circle_officers": 27,
-      "other_non_technical_staff": 60,
-      "enumerators_who_used_tablet_computers_capi": 381,
-      "enumerators_who_used_smart_phones_byoad": 406
+      "CensusOfficer:DeputyCensusCommissioners": 12,
+      "CensusOfficer:AssistantCensusCommissioners": 12,
+      "CensusOfficer:TechnicalStaffZonalSupervisorsAndDistrictStatisticalBranchHead": 3,
+      "CensusOfficer:TechnicalStaffDivisionalCensusOfficer": 11,
+      "CensusOfficer:TechnicalStaffAreaSupervisors": 17,
+      "CensusOfficer:TechnicalStaffCircleOfficers": 27,
+      "CensusOfficer:OtherNonTechnicalStaff": 60,
+      "CensusOfficer:EnumeratorsWhoUsedTabletComputersCapi": 381,
+      "CensusOfficer:EnumeratorsWhoUsedSmartPhonesByoad": 406
     },
     "total_value": 929
   },
@@ -939,15 +939,15 @@
     "region_name": "Ratnapura",
     "region_ent_type": "ed",
     "values": {
-      "deputy_census_commissioners": 19,
-      "assistant_census_commissioners": 19,
-      "technical_staff_zonal_supervisors_and_district_statistical_branch_head": 6,
-      "technical_staff_divisional_census_officer": 18,
-      "technical_staff_area_supervisors": 36,
-      "technical_staff_circle_officers": 62,
-      "other_non_technical_staff": 95,
-      "enumerators_who_used_tablet_computers_capi": 895,
-      "enumerators_who_used_smart_phones_byoad": 781
+      "CensusOfficer:DeputyCensusCommissioners": 19,
+      "CensusOfficer:AssistantCensusCommissioners": 19,
+      "CensusOfficer:TechnicalStaffZonalSupervisorsAndDistrictStatisticalBranchHead": 6,
+      "CensusOfficer:TechnicalStaffDivisionalCensusOfficer": 18,
+      "CensusOfficer:TechnicalStaffAreaSupervisors": 36,
+      "CensusOfficer:TechnicalStaffCircleOfficers": 62,
+      "CensusOfficer:OtherNonTechnicalStaff": 95,
+      "CensusOfficer:EnumeratorsWhoUsedTabletComputersCapi": 895,
+      "CensusOfficer:EnumeratorsWhoUsedSmartPhonesByoad": 781
     },
     "total_value": 1931
   },
@@ -956,15 +956,15 @@
     "region_name": "Kegalle",
     "region_ent_type": "ed",
     "values": {
-      "deputy_census_commissioners": 12,
-      "assistant_census_commissioners": 12,
-      "technical_staff_zonal_supervisors_and_district_statistical_branch_head": 5,
-      "technical_staff_divisional_census_officer": 11,
-      "technical_staff_area_supervisors": 26,
-      "technical_staff_circle_officers": 46,
-      "other_non_technical_staff": 60,
-      "enumerators_who_used_tablet_computers_capi": 708,
-      "enumerators_who_used_smart_phones_byoad": 487
+      "CensusOfficer:DeputyCensusCommissioners": 12,
+      "CensusOfficer:AssistantCensusCommissioners": 12,
+      "CensusOfficer:TechnicalStaffZonalSupervisorsAndDistrictStatisticalBranchHead": 5,
+      "CensusOfficer:TechnicalStaffDivisionalCensusOfficer": 11,
+      "CensusOfficer:TechnicalStaffAreaSupervisors": 26,
+      "CensusOfficer:TechnicalStaffCircleOfficers": 46,
+      "CensusOfficer:OtherNonTechnicalStaff": 60,
+      "CensusOfficer:EnumeratorsWhoUsedTabletComputersCapi": 708,
+      "CensusOfficer:EnumeratorsWhoUsedSmartPhonesByoad": 487
     },
     "total_value": 1367
   }

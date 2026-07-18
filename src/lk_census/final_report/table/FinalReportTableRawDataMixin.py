@@ -12,7 +12,7 @@ class FinalReportTableRawDataMixin:
 
     def build_raw_data(self, force=False):
 
-        if self.raw_data_file.exists and not force:
+        if self.raw_data_file.exists() and not force:
             return
 
         try:

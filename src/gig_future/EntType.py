@@ -72,8 +72,8 @@ class EntType:
     @cached_property
     def remote_data_list(self) -> list:
         if not os.path.exists(self.temp_data_path):
-            content = WWW(self.url_remote_data_path).read()
-            File(self.temp_data_path).write(content)
+            WWW(self.url_remote_data_path).download(File(self.temp_data_path))
+
             log.debug(
                 f"Downloaded {self.url_remote_data_path}"
                 + f" to {self.temp_data_path}"

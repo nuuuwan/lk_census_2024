@@ -1,6 +1,7 @@
 import os
 from functools import cached_property
 
+from ds import ThingFactory
 from utils_future import JSONFile
 
 
@@ -32,7 +33,16 @@ class FinalReportTableDataFieldsMixin:
 
     @cached_property
     def other_keys(self):
-        return self.fields.get("other_keys", [])
+        other_keys = self.fields.get("other_keys")
+        if other_keys:
+            return other_keys
+        dim_class_name = self.fields.get("dim_class_name")
+        if not dim_class_name:
+            return []
+
+        dim_class = ThingFactory[dim_class_name]
+        other_keys = dim_class.list()
+        return [t.to_kvpair() for t in other_keys]
 
     @cached_property
     def error_key(self):
@@ -68,3 +78,7 @@ class FinalReportTableDataFieldsMixin:
     @cached_property
     def raw_table_index_list(self):
         return self.fields.get("raw_table_index_list", [])
+
+    @cached_property
+    def dim_class_name(self):
+        return self.fields.get("dim_class_name")
