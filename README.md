@@ -211,8 +211,8 @@
 | status | status_label | n | p |
 | :-- | :-- | --: | --: |
 | **2**/5 | 🔴 Raw data is difficult to parse | **21** | **14.8%** |
-| **4**/5 | 🟡 Lanka data is missing | **110** | **77.5%** |
-| **5**/5 | ✅ All Stages Complete | **11** | **7.7%** |
+| **4**/5 | 🟡 Lanka data is missing | **108** | **76.1%** |
+| **5**/5 | ✅ All Stages Complete | **13** | **9.2%** |
 
 ![Maintainer](https://img.shields.io/badge/maintainer-nuuuwan-red)
 ![MadeWith](https://img.shields.io/badge/made_with-python-blue)

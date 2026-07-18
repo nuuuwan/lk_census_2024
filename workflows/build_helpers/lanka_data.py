@@ -37,6 +37,8 @@ if __name__ == "__main__":
 
         if table.is_lanka_data_fields_complete:
             table.build_lanka_data()
+            if table.lanka_data_file.exists():
+                table.lanka_data_file.open("code")
         else:
             fields = table.fields
             fields["entity_class_name"] = (
