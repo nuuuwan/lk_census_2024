@@ -5,44 +5,6 @@
 
 *Table 6.2.2, Final Report, 2024 Census of Population and Housing, Department of Census and Statistics, Sri Lanka*
 
-## Structured Data formatted for [Lanka Data API](https://github.com/nuuuwan/lanka_data)
-
-```json
-{
-    "_meta": {
-        "source_url": "https://www.statistics.gov.lk/Resource/en/Population/CPH_2024/CPH2024_Final_Eng.pdf#page=128",
-        "source_description": [
-            "Table 6.2.2, Final Report, 2024 Census of Population and Housing, Department of Census and Statistics, Sri Lanka"
-        ],
-        "what": {
-            "Disabilities": "Distribution of Persons Aged 5 Years and Over with Physical and Mental Difficulties by District and Difficulties,2024"
-        },
-        "when": "2024",
-        "where_who_types": [
-            "null"
-        ]
-    },
-    "Disabilities": {
-        "2024": {
-            "Sri Lanka": {
-                "null": "Sri Lanka",
-                "values": {
-                    "NoDisability": 14341480,
-                    "DifficultyInSeeing": 1939955,
-                    "DifficultyInWalkingOrClimbingSteps": 1704064,
-                    "DifficultyInRememberingOrConcentrating": 787612,
-                    "DifficultyInHearing": 732771,
-                    "DifficultyInSelfcareSuchAsWashingOrDressing": 639985,
-                    "DifficultyInCommunicatingWithOthers": 420813
-                },
-                "total_value": 20566680,
-                "pct_values": {
-                    "NoDisability": 0.6973,
-...
-```
-
-- Source File: [lanka_data.json (22.2 KB)](../../../../data/final-report-tables/chapter-6/6.2.2-Distribution-of-Persons-Aged-5-Years-and-Over-with-Physical-and-Mental-Difficulties-by-District-and-Difficulties,2024/lanka_data.json)
-
 ## Structured Data (similar to original layout)
 
 ```json

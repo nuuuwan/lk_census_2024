@@ -5,44 +5,6 @@
 
 *Table 9.7, Final Report, 2024 Census of Population and Housing, Department of Census and Statistics, Sri Lanka*
 
-## Structured Data formatted for [Lanka Data API](https://github.com/nuuuwan/lanka_data)
-
-```json
-{
-    "_meta": {
-        "source_url": "https://www.statistics.gov.lk/Resource/en/Population/CPH_2024/CPH2024_Final_Eng.pdf#page=181",
-        "source_description": "Table 9.7, Final Report, 2024 Census of Population and Housing, Department of Census and Statistics, Sri Lanka",
-        "what": {
-            "DivorceOrSeperationRateBySex": "Number of Divorced or Separated Persons per 10,000 Population Aged 15 Years and Over, 1981, 2012, and"
-        },
-        "when": [
-            "1981",
-            "2012",
-            "2024"
-        ],
-        "where_who_types": [
-            "marital_status"
-        ]
-    },
-    "DivorceOrSeperationRateBySex": {
-        "1981": {
-            "Divorced": {
-                "marital_status": "Divorced",
-                "values": {
-                    "FemalePer10K": 33,
-                    "MalePer10K": 23
-                }
-            },
-            "Not legal": {
-                "marital_status": "Not legal",
-                "values": {
-                    "FemalePer10K": 88,
-                    "MalePer10K": 0
-...
-```
-
-- Source File: [lanka_data.json (1.5 KB)](../../../../data/final-report-tables/chapter-9/9.7-Number-of-Divorced-or-Separated-Persons-per-10,000-Population-Aged-15-Years-and-Over,-1981,-2012,-and/lanka_data.json)
-
 ## Structured Data (similar to original layout)
 
 ```json

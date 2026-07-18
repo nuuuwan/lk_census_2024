@@ -5,44 +5,6 @@
 
 *Table 7.10, Final Report, 2024 Census of Population and Housing, Department of Census and Statistics, Sri Lanka*
 
-## Structured Data formatted for [Lanka Data API](https://github.com/nuuuwan/lanka_data)
-
-```json
-{
-    "_meta": {
-        "source_url": "https://www.statistics.gov.lk/Resource/en/Population/CPH_2024/CPH2024_Final_Eng.pdf#page=157",
-        "source_description": [
-            "Table 7.10, Final Report, 2024 Census of Population and Housing, Department of Census and Statistics, Sri Lanka"
-        ],
-        "what": {
-            "LanguageLiteracy": "Language Literacy Rate by Language and District, 2024"
-        },
-        "when": "2024",
-        "where_who_types": [
-            "district"
-        ]
-    },
-    "LanguageLiteracy": {
-        "2024": {
-            "LK-11": {
-                "region_id": "LK-11",
-                "region_name": "Colombo",
-                "region_ent_type": "district",
-                "values": {
-                    "LiteracyAtLeastOneLanguage": 2109420,
-                    "LiteracySinhala": 2013148,
-                    "LiteracyEnglish": 1587413,
-                    "LiteracyTamil": 887839
-                },
-                "total_value": 2139371,
-                "total_description": "Population aged 10 and over",
-                "pct_values": {
-                    "LiteracyAtLeastOneLanguage": 0.986,
-...
-```
-
-- Source File: [lanka_data.json (15.0 KB)](../../../../data/final-report-tables/chapter-7/7.10-Language-Literacy-Rate-by-Language-and-District,-2024/lanka_data.json)
-
 ## Structured Data (similar to original layout)
 
 ```json

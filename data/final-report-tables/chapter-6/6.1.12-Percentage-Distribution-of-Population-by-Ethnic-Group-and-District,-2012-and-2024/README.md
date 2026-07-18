@@ -5,44 +5,6 @@
 
 *Table 6.1.12, Final Report, 2024 Census of Population and Housing, Department of Census and Statistics, Sri Lanka*
 
-## Structured Data formatted for [Lanka Data API](https://github.com/nuuuwan/lanka_data)
-
-```json
-{
-    "_meta": {
-        "source_url": "https://www.statistics.gov.lk/Resource/en/Population/CPH_2024/CPH2024_Final_Eng.pdf#page=116",
-        "source_description": "Table 6.1.12, Final Report, 2024 Census of Population and Housing, Department of Census and Statistics, Sri Lanka",
-        "what": {
-            "EthnicityPercentage": "Percentage Distribution of Population by Ethnic Group and District, 2012 and 2024"
-        },
-        "when": [
-            "2012",
-            "2024"
-        ],
-        "where_who_types": [
-            "ed",
-            "country",
-            "province",
-            "district"
-        ]
-    },
-    "EthnicityPercentage": {
-        "2012": {
-            "LK-11": {
-                "region_id": "LK-11",
-                "region_name": "Colombo",
-                "region_ent_type": "district",
-                "pct_values": {
-                    "Burgher": 0.347,
-                    "Other": 0.338,
-                    "Malay": 0.327,
-                    "SlMoor": 0.132,
-                    "Sinhalese": 0.117,
-...
-```
-
-- Source File: [lanka_data.json (44.7 KB)](../../../../data/final-report-tables/chapter-6/6.1.12-Percentage-Distribution-of-Population-by-Ethnic-Group-and-District,-2012-and-2024/lanka_data.json)
-
 ## Structured Data (similar to original layout)
 
 ```json

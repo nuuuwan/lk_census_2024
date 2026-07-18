@@ -5,44 +5,6 @@
 
 *Table 9.13, Final Report, 2024 Census of Population and Housing, Department of Census and Statistics, Sri Lanka*
 
-## Structured Data formatted for [Lanka Data API](https://github.com/nuuuwan/lanka_data)
-
-```json
-{
-    "_meta": {
-        "source_url": "https://www.statistics.gov.lk/Resource/en/Population/CPH_2024/CPH2024_Final_Eng.pdf#page=185",
-        "source_description": "Table 9.13, Final Report, 2024 Census of Population and Housing, Department of Census and Statistics, Sri Lanka",
-        "what": {
-            "MarriedWomenByAgeGroup": "Number and Percentage Distribution of Married Women Aged 15\u201349 Years by Age Group, 2012 and 2024"
-        },
-        "when": [
-            "2012",
-            "2024"
-        ],
-        "where_who_types": [
-            "age_group"
-        ]
-    },
-    "MarriedWomenByAgeGroup": {
-        "2012": {
-            "15-19": {
-                "age_group": "15-19",
-                "values": {
-                    "Population": 85392
-                }
-            },
-            "20-24": {
-                "age_group": "20-24",
-                "values": {
-                    "Population": 335158
-                }
-            },
-            "25-29": {
-...
-```
-
-- Source File: [lanka_data.json (2.4 KB)](../../../../data/final-report-tables/chapter-9/9.13-Number-and-Percentage-Distribution-of-Married-Women-Aged-15–49-Years-by-Age-Group,-2012-and-2024/lanka_data.json)
-
 ## Structured Data (similar to original layout)
 
 ```json

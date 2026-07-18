@@ -5,44 +5,6 @@
 
 *Table 8.1, Final Report, 2024 Census of Population and Housing, Department of Census and Statistics, Sri Lanka*
 
-## Structured Data formatted for [Lanka Data API](https://github.com/nuuuwan/lanka_data)
-
-```json
-{
-    "_meta": {
-        "source_url": "https://www.statistics.gov.lk/Resource/en/Population/CPH_2024/CPH2024_Final_Eng.pdf#page=163",
-        "source_description": [
-            "Table 8.1, Final Report, 2024 Census of Population and Housing, Department of Census and Statistics, Sri Lanka"
-        ],
-        "what": {
-            "EconomicActivityBySex": "Economically Active and Inactive Population by Sex, 2024"
-        },
-        "when": "2024",
-        "where_who_types": [
-            "sex"
-        ]
-    },
-    "EconomicActivityBySex": {
-        "2024": {
-            "Male": {
-                "sex": "Male",
-                "values": {
-                    "EconomicallyActive": 5550374,
-                    "EconomicallyInactive": 2681440
-                },
-                "total_value": 8231814,
-                "pct_values": {
-                    "EconomicallyActive": 0.6743,
-                    "EconomicallyInactive": 0.3257
-                }
-            },
-            "Female": {
-                "sex": "Female",
-...
-```
-
-- Source File: [lanka_data.json (1.1 KB)](../../../../data/final-report-tables/chapter-8/8.1-Economically-Active-and-Inactive-Population-by-Sex,-2024/lanka_data.json)
-
 ## Structured Data (similar to original layout)
 
 ```json

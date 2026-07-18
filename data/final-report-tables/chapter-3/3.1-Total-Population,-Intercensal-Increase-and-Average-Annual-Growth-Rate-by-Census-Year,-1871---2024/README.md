@@ -5,44 +5,6 @@
 
 *Table 3.1, Final Report, 2024 Census of Population and Housing, Department of Census and Statistics, Sri Lanka*
 
-## Structured Data formatted for [Lanka Data API](https://github.com/nuuuwan/lanka_data)
-
-```json
-{
-    "_meta": {
-        "source_url": "https://www.statistics.gov.lk/Resource/en/Population/CPH_2024/CPH2024_Final_Eng.pdf#page=67",
-        "source_description": [
-            "Table 3.1, Final Report, 2024 Census of Population and Housing, Department of Census and Statistics, Sri Lanka"
-        ],
-        "what": {
-            "PopulationByCensusDate": "Total Population, Intercensal Increase and Average Annual Growth Rate by Census Year, 1871 - 2024"
-        },
-        "when": "2024",
-        "where_who_types": [
-            "census_date"
-        ]
-    },
-    "PopulationByCensusDate": {
-        "2024": {
-            "27 March 1871": {
-                "census_date": "27 March 1871",
-                "values": {
-                    "TotalPopulation": 2400380
-                },
-                "total_value": 2400380,
-                "pct_values": {
-                    "TotalPopulation": 1.0
-                }
-            },
-            "17 February 1881": {
-                "census_date": "17 February 1881",
-                "values": {
-                    "TotalPopulation": 2759738
-...
-```
-
-- Source File: [lanka_data.json (4.1 KB)](../../../../data/final-report-tables/chapter-3/3.1-Total-Population,-Intercensal-Increase-and-Average-Annual-Growth-Rate-by-Census-Year,-1871---2024/lanka_data.json)
-
 ## Structured Data (similar to original layout)
 
 ```json

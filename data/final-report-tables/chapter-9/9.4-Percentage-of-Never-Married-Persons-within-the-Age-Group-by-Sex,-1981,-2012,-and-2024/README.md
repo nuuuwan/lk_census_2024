@@ -5,44 +5,6 @@
 
 *Table 9.4, Final Report, 2024 Census of Population and Housing, Department of Census and Statistics, Sri Lanka*
 
-## Structured Data formatted for [Lanka Data API](https://github.com/nuuuwan/lanka_data)
-
-```json
-{
-    "_meta": {
-        "source_url": "https://www.statistics.gov.lk/Resource/en/Population/CPH_2024/CPH2024_Final_Eng.pdf#page=179",
-        "source_description": "Table 9.4, Final Report, 2024 Census of Population and Housing, Department of Census and Statistics, Sri Lanka",
-        "what": {
-            "NeverMarriedBySex": "Percentage of Never-Married Persons within the Age Group by Sex, 1981, 2012, and 2024"
-        },
-        "when": [
-            "1981",
-            "2012",
-            "2024"
-        ],
-        "where_who_types": [
-            "age_group"
-        ]
-    },
-    "NeverMarriedBySex": {
-        "1981": {
-            "Population 15 Years and Over": {
-                "age_group": "Population 15 Years and Over",
-                "pct_values": {
-                    "NeverMarriedMale": 0.425,
-                    "NeverMarriedFemale": 0.324
-                }
-            },
-            "15-19": {
-                "age_group": "15-19",
-                "pct_values": {
-                    "NeverMarriedMale": 0.99,
-                    "NeverMarriedFemale": 0.901
-...
-```
-
-- Source File: [lanka_data.json (6.6 KB)](../../../../data/final-report-tables/chapter-9/9.4-Percentage-of-Never-Married-Persons-within-the-Age-Group-by-Sex,-1981,-2012,-and-2024/lanka_data.json)
-
 ## Structured Data (similar to original layout)
 
 ```json

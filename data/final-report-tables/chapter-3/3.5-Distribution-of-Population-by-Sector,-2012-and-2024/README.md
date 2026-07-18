@@ -5,44 +5,6 @@
 
 *Table 3.5, Final Report, 2024 Census of Population and Housing, Department of Census and Statistics, Sri Lanka*
 
-## Structured Data formatted for [Lanka Data API](https://github.com/nuuuwan/lanka_data)
-
-```json
-{
-    "_meta": {
-        "source_url": "https://www.statistics.gov.lk/Resource/en/Population/CPH_2024/CPH2024_Final_Eng.pdf#page=71",
-        "source_description": "Table 3.5, Final Report, 2024 Census of Population and Housing, Department of Census and Statistics, Sri Lanka",
-        "what": {
-            "PopulationBySector": "Distribution of Population by Sector, 2012 and 2024"
-        },
-        "when": [
-            "2012",
-            "2024"
-        ],
-        "where_who_types": [
-            "sector"
-        ]
-    },
-    "PopulationBySector": {
-        "2012": {
-            "": {
-                "sector": "",
-                "values": {
-                    "Population2012": 2012
-                }
-            },
-            "Sri Lanka": {
-                "sector": "Sri Lanka",
-                "values": {
-                    "Population2012": 20359439
-                }
-            },
-            "Urban*": {
-...
-```
-
-- Source File: [lanka_data.json (1.7 KB)](../../../../data/final-report-tables/chapter-3/3.5-Distribution-of-Population-by-Sector,-2012-and-2024/lanka_data.json)
-
 ## Structured Data (similar to original layout)
 
 ```json

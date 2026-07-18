@@ -5,44 +5,6 @@
 
 *Table 12.2, Final Report, 2024 Census of Population and Housing, Department of Census and Statistics, Sri Lanka*
 
-## Structured Data formatted for [Lanka Data API](https://github.com/nuuuwan/lanka_data)
-
-```json
-{
-    "_meta": {
-        "source_url": "https://www.statistics.gov.lk/Resource/en/Population/CPH_2024/CPH2024_Final_Eng.pdf#page=219",
-        "source_description": "Table 12.2, Final Report, 2024 Census of Population and Housing, Department of Census and Statistics, Sri Lanka",
-        "what": {
-            "ReportedAgeTerminalDigitDeviation": "Deviations of Terminal Digits of Reported Age, 2012 and"
-        },
-        "when": [
-            "2012",
-            "2024"
-        ],
-        "where_who_types": [
-            "terminal_digit"
-        ]
-    },
-    "ReportedAgeTerminalDigitDeviation": {
-        "2012": {
-            "0": {
-                "terminal_digit": "0",
-                "values": {
-                    "DeviationBothSexes": 0.2,
-                    "DeviationMale": 0.2,
-                    "DeviationFemale": 0.1
-                }
-            },
-            "1": {
-                "terminal_digit": "1",
-                "values": {
-                    "DeviationMale": 0.2,
-                    "DeviationBothSexes": 0.1,
-...
-```
-
-- Source File: [lanka_data.json (4.6 KB)](../../../../data/final-report-tables/chapter-12/12.2-Deviations-of-Terminal-Digits-of-Reported-Age,-2012-and/lanka_data.json)
-
 ## Structured Data (similar to original layout)
 
 ```json

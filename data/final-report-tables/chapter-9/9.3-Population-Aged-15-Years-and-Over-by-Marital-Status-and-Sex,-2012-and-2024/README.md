@@ -5,44 +5,6 @@
 
 *Table 9.3, Final Report, 2024 Census of Population and Housing, Department of Census and Statistics, Sri Lanka*
 
-## Structured Data formatted for [Lanka Data API](https://github.com/nuuuwan/lanka_data)
-
-```json
-{
-    "_meta": {
-        "source_url": "https://www.statistics.gov.lk/Resource/en/Population/CPH_2024/CPH2024_Final_Eng.pdf#page=178",
-        "source_description": "Table 9.3, Final Report, 2024 Census of Population and Housing, Department of Census and Statistics, Sri Lanka",
-        "what": {
-            "MaritalStatusBySex": "Population Aged 15 Years and Over by Marital Status and Sex, 2012 and 2024"
-        },
-        "when": [
-            "2012",
-            "2024"
-        ],
-        "where_who_types": [
-            "marital_status"
-        ]
-    },
-    "MaritalStatusBySex": {
-        "2012": {
-            "Never married": {
-                "marital_status": "Never married",
-                "values": {
-                    "Male": 2179099,
-                    "Female": 1748503
-                },
-                "total_value": 3927602,
-                "pct_values": {
-                    "Male": 0.5548,
-                    "Female": 0.4452
-                }
-            },
-            "Married": {
-...
-```
-
-- Source File: [lanka_data.json (3.8 KB)](../../../../data/final-report-tables/chapter-9/9.3-Population-Aged-15-Years-and-Over-by-Marital-Status-and-Sex,-2012-and-2024/lanka_data.json)
-
 ## Structured Data (similar to original layout)
 
 ```json

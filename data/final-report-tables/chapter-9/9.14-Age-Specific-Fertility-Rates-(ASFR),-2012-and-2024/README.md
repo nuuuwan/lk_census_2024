@@ -5,44 +5,6 @@
 
 *Table 9.14, Final Report, 2024 Census of Population and Housing, Department of Census and Statistics, Sri Lanka*
 
-## Structured Data formatted for [Lanka Data API](https://github.com/nuuuwan/lanka_data)
-
-```json
-{
-    "_meta": {
-        "source_url": "https://www.statistics.gov.lk/Resource/en/Population/CPH_2024/CPH2024_Final_Eng.pdf#page=186",
-        "source_description": "Table 9.14, Final Report, 2024 Census of Population and Housing, Department of Census and Statistics, Sri Lanka",
-        "what": {
-            "AgeSpecificFertilityRate": "Age-Specific Fertility Rates (ASFR), 2012 and 2024"
-        },
-        "when": [
-            "1981",
-            "2012",
-            "2024"
-        ],
-        "where_who_types": [
-            "age_group"
-        ]
-    },
-    "AgeSpecificFertilityRate": {
-        "1981": {
-            "15-19": {
-                "age_group": "15-19",
-                "values": {
-                    "FertilityRatePerK": 38.0
-                }
-            },
-            "20-24": {
-                "age_group": "20-24",
-                "values": {
-                    "FertilityRatePerK": 177.0
-                }
-            },
-...
-```
-
-- Source File: [lanka_data.json (3.1 KB)](../../../../data/final-report-tables/chapter-9/9.14-Age-Specific-Fertility-Rates-(ASFR),-2012-and-2024/lanka_data.json)
-
 ## Structured Data (similar to original layout)
 
 ```json

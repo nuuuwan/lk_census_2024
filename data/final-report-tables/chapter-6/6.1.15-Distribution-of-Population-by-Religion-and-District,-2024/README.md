@@ -5,44 +5,6 @@
 
 *Table 6.1.15, Final Report, 2024 Census of Population and Housing, Department of Census and Statistics, Sri Lanka*
 
-## Structured Data formatted for [Lanka Data API](https://github.com/nuuuwan/lanka_data)
-
-```json
-{
-    "_meta": {
-        "source_url": "https://www.statistics.gov.lk/Resource/en/Population/CPH_2024/CPH2024_Final_Eng.pdf#page=124",
-        "source_description": [
-            "Table 6.1.15, Final Report, 2024 Census of Population and Housing, Department of Census and Statistics, Sri Lanka"
-        ],
-        "what": {
-            "Religion": "Distribution of Population by Religion and District, 2024"
-        },
-        "when": "2024",
-        "where_who_types": [
-            "ed",
-            "province",
-            "country",
-            "district"
-        ]
-    },
-    "Religion": {
-        "2024": {
-            "LK-11": {
-                "region_id": "LK-11",
-                "region_name": "Colombo",
-                "region_ent_type": "district",
-                "values": {
-                    "Buddhist": 1682524,
-                    "Islam": 298422,
-                    "Hindu": 197759,
-                    "RomanCatholic": 139882,
-                    "OtherChristian": 55624,
-                    "Other": 1204
-...
-```
-
-- Source File: [lanka_data.json (32.7 KB)](../../../../data/final-report-tables/chapter-6/6.1.15-Distribution-of-Population-by-Religion-and-District,-2024/lanka_data.json)
-
 ## Structured Data (similar to original layout)
 
 ```json

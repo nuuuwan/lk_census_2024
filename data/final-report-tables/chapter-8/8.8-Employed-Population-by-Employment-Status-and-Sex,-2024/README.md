@@ -5,44 +5,6 @@
 
 *Table 8.8, Final Report, 2024 Census of Population and Housing, Department of Census and Statistics, Sri Lanka*
 
-## Structured Data formatted for [Lanka Data API](https://github.com/nuuuwan/lanka_data)
-
-```json
-{
-    "_meta": {
-        "source_url": "https://www.statistics.gov.lk/Resource/en/Population/CPH_2024/CPH2024_Final_Eng.pdf#page=170",
-        "source_description": [
-            "Table 8.8, Final Report, 2024 Census of Population and Housing, Department of Census and Statistics, Sri Lanka"
-        ],
-        "what": {
-            "EmploymentByEmploymentStatusAndSex": "Employed Population by Employment Status and Sex, 2024"
-        },
-        "when": "2024",
-        "where_who_types": [
-            "employment_status"
-        ]
-    },
-    "EmploymentByEmploymentStatusAndSex": {
-        "2024": {
-            "Government/Semi-Government Paid Employee": {
-                "employment_status": "Government/Semi-Government Paid Employee",
-                "values": {
-                    "Male": 741649,
-                    "Female": 591757
-                },
-                "total_value": 1333406,
-                "pct_values": {
-                    "Male": 0.5562,
-                    "Female": 0.4438
-                }
-            },
-            "Private Sector Paid Employee": {
-                "employment_status": "Private Sector Paid Employee",
-...
-```
-
-- Source File: [lanka_data.json (2.0 KB)](../../../../data/final-report-tables/chapter-8/8.8-Employed-Population-by-Employment-Status-and-Sex,-2024/lanka_data.json)
-
 ## Structured Data (similar to original layout)
 
 ```json

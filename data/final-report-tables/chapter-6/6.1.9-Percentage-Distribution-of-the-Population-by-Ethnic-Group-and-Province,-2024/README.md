@@ -5,44 +5,6 @@
 
 *Table 6.1.9, Final Report, 2024 Census of Population and Housing, Department of Census and Statistics, Sri Lanka*
 
-## Structured Data formatted for [Lanka Data API](https://github.com/nuuuwan/lanka_data)
-
-```json
-{
-    "_meta": {
-        "source_url": "https://www.statistics.gov.lk/Resource/en/Population/CPH_2024/CPH2024_Final_Eng.pdf#page=112",
-        "source_description": "Table 6.1.9, Final Report, 2024 Census of Population and Housing, Department of Census and Statistics, Sri Lanka",
-        "what": {
-            "Ethnicity": "Percentage Distribution of the Population by Ethnic Group and Province, 2024"
-        },
-        "when": [
-            "2024"
-        ],
-        "where_who_types": [
-            "province"
-        ]
-    },
-    "Ethnicity": {
-        "2024": {
-            "LK-1": {
-                "region_id": "LK-1",
-                "region_name": "Western",
-                "region_ent_type": "province",
-                "pct_values": {
-                    "Sinhalese": 0.836,
-                    "SlMoor": 0.089,
-                    "SlTamil": 0.063,
-                    "IndAndMalaiyagaTamil": 0.005,
-                    "Malay": 0.003,
-                    "Burgher": 0.003,
-                    "Other": 0.001,
-                    "SlChetty": 0.0,
-                    "Bharatha": 0.0,
-...
-```
-
-- Source File: [lanka_data.json (4.4 KB)](../../../../data/final-report-tables/chapter-6/6.1.9-Percentage-Distribution-of-the-Population-by-Ethnic-Group-and-Province,-2024/lanka_data.json)
-
 ## Structured Data (similar to original layout)
 
 ```json

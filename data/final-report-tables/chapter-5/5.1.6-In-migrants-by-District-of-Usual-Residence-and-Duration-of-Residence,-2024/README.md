@@ -5,44 +5,6 @@
 
 *Table 5.1.6, Final Report, 2024 Census of Population and Housing, Department of Census and Statistics, Sri Lanka*
 
-## Structured Data formatted for [Lanka Data API](https://github.com/nuuuwan/lanka_data)
-
-```json
-{
-    "Person": {
-        "Time:2024": {
-            "District:LK-11": {
-                "TimeGroup0510More:00To04Years": {
-                    "Count": "Int:149236"
-                },
-                "TimeGroup0510More:05To09Years": {
-                    "Count": "Int:65105"
-                },
-                "TimeGroup0510More:10OrMoreYears": {
-                    "Count": "Int:305038"
-                }
-            },
-            "District:LK-12": {
-                "TimeGroup0510More:00To04Years": {
-                    "Count": "Int:139859"
-                },
-                "TimeGroup0510More:05To09Years": {
-                    "Count": "Int:71540"
-                },
-                "TimeGroup0510More:10OrMoreYears": {
-                    "Count": "Int:313338"
-                }
-            },
-            "District:LK-13": {
-                "TimeGroup0510More:00To04Years": {
-                    "Count": "Int:47096"
-                },
-                "TimeGroup0510More:05To09Years": {
-...
-```
-
-- Source File: [lanka_data.json (16.1 KB)](../../../../data/final-report-tables/chapter-5/5.1.6-In-migrants-by-District-of-Usual-Residence-and-Duration-of-Residence,-2024/lanka_data.json)
-
 ## Structured Data (similar to original layout)
 
 ```json

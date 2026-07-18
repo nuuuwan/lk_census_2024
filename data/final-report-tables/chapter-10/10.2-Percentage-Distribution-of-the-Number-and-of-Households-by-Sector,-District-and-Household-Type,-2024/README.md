@@ -5,44 +5,6 @@
 
 *Table 10.2, Final Report, 2024 Census of Population and Housing, Department of Census and Statistics, Sri Lanka*
 
-## Structured Data formatted for [Lanka Data API](https://github.com/nuuuwan/lanka_data)
-
-```json
-{
-    "_meta": {
-        "source_url": "https://www.statistics.gov.lk/Resource/en/Population/CPH_2024/CPH2024_Final_Eng.pdf#page=193",
-        "source_description": [
-            "Table 10.2, Final Report, 2024 Census of Population and Housing, Department of Census and Statistics, Sri Lanka"
-        ],
-        "what": {
-            "HouseholdType": "Percentage Distribution of the Number and of Households by Sector, District and Household Type, 2024"
-        },
-        "when": "2024",
-        "where_who_types": [
-            "province",
-            "ed",
-            "district",
-            "country"
-        ]
-    },
-    "HouseholdType": {
-        "2024": {
-            "LK-11": {
-                "region_id": "LK-11",
-                "region_name": "Colombo",
-                "region_ent_type": "district",
-                "values": {
-                    "Nuclear": 368810,
-                    "Extended": 204760,
-                    "OnePerson": 69392,
-                    "Composite": 18860
-                },
-                "total_value": 661822,
-...
-```
-
-- Source File: [lanka_data.json (26.1 KB)](../../../../data/final-report-tables/chapter-10/10.2-Percentage-Distribution-of-the-Number-and-of-Households-by-Sector,-District-and-Household-Type,-2024/lanka_data.json)
-
 ## Structured Data (similar to original layout)
 
 ```json

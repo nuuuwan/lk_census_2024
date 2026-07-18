@@ -5,44 +5,6 @@
 
 *Table 8.10, Final Report, 2024 Census of Population and Housing, Department of Census and Statistics, Sri Lanka*
 
-## Structured Data formatted for [Lanka Data API](https://github.com/nuuuwan/lanka_data)
-
-```json
-{
-    "_meta": {
-        "source_url": "https://www.statistics.gov.lk/Resource/en/Population/CPH_2024/CPH2024_Final_Eng.pdf#page=172",
-        "source_description": [
-            "Table 8.10, Final Report, 2024 Census of Population and Housing, Department of Census and Statistics, Sri Lanka"
-        ],
-        "what": {
-            "EmploymentRate": "Employment Rate and Unemployment Rate by District, 2024"
-        },
-        "when": "2024",
-        "where_who_types": [
-            "country",
-            "ed",
-            "province",
-            "district"
-        ]
-    },
-    "EmploymentRate": {
-        "2024": {
-            "LK-11": {
-                "region_id": "LK-11",
-                "region_name": "Colombo",
-                "region_ent_type": "district",
-                "values": {
-                    "Employed": 867111,
-                    "Unemployed": 53635
-                },
-                "total_value": 920746,
-                "pct_values": {
-                    "Employed": 0.9417,
-...
-```
-
-- Source File: [lanka_data.json (19.7 KB)](../../../../data/final-report-tables/chapter-8/8.10-Employment-Rate-and-Unemployment-Rate-by-District,-2024/lanka_data.json)
-
 ## Structured Data (similar to original layout)
 
 ```json

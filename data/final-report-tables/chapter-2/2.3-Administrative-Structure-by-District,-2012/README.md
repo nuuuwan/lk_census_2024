@@ -5,44 +5,6 @@
 
 *Table 2.3, Final Report, 2024 Census of Population and Housing, Department of Census and Statistics, Sri Lanka*
 
-## Structured Data formatted for [Lanka Data API](https://github.com/nuuuwan/lanka_data)
-
-```json
-{
-    "_meta": {
-        "source_url": "https://www.statistics.gov.lk/Resource/en/Population/CPH_2024/CPH2024_Final_Eng.pdf#page=63",
-        "source_description": [
-            "Table 2.3, Final Report, 2024 Census of Population and Housing, Department of Census and Statistics, Sri Lanka"
-        ],
-        "what": {
-            "AdministrativeStructure": "Administrative Structure by District, 2012"
-        },
-        "when": "2012",
-        "where_who_types": [
-            "ed",
-            "province",
-            "country",
-            "district"
-        ]
-    },
-    "AdministrativeStructure": {
-        "2012": {
-            "LK-11": {
-                "region_id": "LK-11",
-                "region_name": "Colombo",
-                "region_ent_type": "district",
-                "values": {
-                    "GramaSevakaDivisions": 557,
-                    "AssistantGovernmentAgendDivisions": 13,
-                    "MunicipalCouncils": 5,
-                    "UrbanCouncils": 5,
-                    "TownCouncils": 3
-                },
-...
-```
-
-- Source File: [lanka_data.json (34.2 KB)](../../../../data/final-report-tables/chapter-2/2.3-Administrative-Structure-by-District,-2012/lanka_data.json)
-
 ## Structured Data (similar to original layout)
 
 ```json

@@ -5,44 +5,6 @@
 
 *Table 5.2.4, Final Report, 2024 Census of Population and Housing, Department of Census and Statistics, Sri Lanka*
 
-## Structured Data formatted for [Lanka Data API](https://github.com/nuuuwan/lanka_data)
-
-```json
-{
-    "Person": {
-        "AgeGroupCustom:LessThan18": {
-            "EmmigrationReason:employment": {
-                "Count": "Int:0"
-            },
-            "EmmigrationReason:education": {
-                "Count": "Int:1486"
-            },
-            "EmmigrationReason:accompanying_family_member_in_need": {
-                "Count": "Int:17862"
-            },
-            "EmmigrationReason:other": {
-                "Count": "Int:35"
-            }
-        },
-        "AgeGroupCustom:18To29": {
-            "EmmigrationReason:employment": {
-                "Count": "Int:142256"
-            },
-            "EmmigrationReason:education": {
-                "Count": "Int:38053"
-            },
-            "EmmigrationReason:accompanying_family_member_in_need": {
-                "Count": "Int:6348"
-            },
-            "EmmigrationReason:other": {
-                "Count": "Int:716"
-            }
-        },
-...
-```
-
-- Source File: [lanka_data.json (1.4 KB)](../../../../data/final-report-tables/chapter-5/5.2.4-Population-Temporarily-Living-Abroad-by-Main-Reason-for-Living-Abroad-and-Age-Group,-2024/lanka_data.json)
-
 ## Structured Data (similar to original layout)
 
 ```json

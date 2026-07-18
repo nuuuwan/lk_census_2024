@@ -5,44 +5,6 @@
 
 *Table 3.4, Final Report, 2024 Census of Population and Housing, Department of Census and Statistics, Sri Lanka*
 
-## Structured Data formatted for [Lanka Data API](https://github.com/nuuuwan/lanka_data)
-
-```json
-{
-    "_meta": {
-        "source_url": "https://www.statistics.gov.lk/Resource/en/Population/CPH_2024/CPH2024_Final_Eng.pdf#page=70",
-        "source_description": "Table 3.4, Final Report, 2024 Census of Population and Housing, Department of Census and Statistics, Sri Lanka",
-        "what": {
-            "PopulationDensityByCensus": "Population Density by District, 1981, 2001, 2012 and 2024"
-        },
-        "when": [
-            "1981",
-            "2001",
-            "2012",
-            "2024"
-        ],
-        "where_who_types": [
-            "district"
-        ]
-    },
-    "PopulationDensityByCensus": {
-        "1981": {
-            "LK-11": {
-                "region_id": "LK-11",
-                "region_name": "Colombo",
-                "region_ent_type": "district",
-                "values": {
-                    "PopulationDensity1981": 2605
-                }
-            },
-            "LK-12": {
-                "region_id": "LK-12",
-                "region_name": "Gampaha",
-...
-```
-
-- Source File: [lanka_data.json (20.1 KB)](../../../../data/final-report-tables/chapter-3/3.4-Population-Density-by-District,-1981,-2001,-2012-and-2024/lanka_data.json)
-
 ## Structured Data (similar to original layout)
 
 ```json

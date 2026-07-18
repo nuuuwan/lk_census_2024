@@ -5,44 +5,6 @@
 
 *Table 5.2.1, Final Report, 2024 Census of Population and Housing, Department of Census and Statistics, Sri Lanka*
 
-## Structured Data formatted for [Lanka Data API](https://github.com/nuuuwan/lanka_data)
-
-```json
-{
-    "Person": {
-        "Time:2024": {
-            "District:LK-11": {
-                "Sex:Male": {
-                    "TemporarilyLivingAbroadCount": "Int:43531"
-                },
-                "Sex:Female": {
-                    "TemporarilyLivingAbroadCount": "Int:27908"
-                }
-            },
-            "District:LK-12": {
-                "Sex:Male": {
-                    "TemporarilyLivingAbroadCount": "Int:54734"
-                },
-                "Sex:Female": {
-                    "TemporarilyLivingAbroadCount": "Int:31343"
-                }
-            },
-            "District:LK-13": {
-                "Sex:Male": {
-                    "TemporarilyLivingAbroadCount": "Int:25238"
-                },
-                "Sex:Female": {
-                    "TemporarilyLivingAbroadCount": "Int:16114"
-                }
-            },
-            "District:LK-21": {
-                "Sex:Male": {
-                    "TemporarilyLivingAbroadCount": "Int:35518"
-...
-```
-
-- Source File: [lanka_data.json (11.5 KB)](../../../../data/final-report-tables/chapter-5/5.2.1-Population-Temporarily-Living-Abroad-by-District-and-Sex,-2024/lanka_data.json)
-
 ## Structured Data (similar to original layout)
 
 ```json

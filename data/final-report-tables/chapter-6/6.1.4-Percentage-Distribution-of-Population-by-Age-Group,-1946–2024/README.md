@@ -5,44 +5,6 @@
 
 *Table 6.1.4, Final Report, 2024 Census of Population and Housing, Department of Census and Statistics, Sri Lanka*
 
-## Structured Data formatted for [Lanka Data API](https://github.com/nuuuwan/lanka_data)
-
-```json
-{
-    "_meta": {
-        "source_url": "https://www.statistics.gov.lk/Resource/en/Population/CPH_2024/CPH2024_Final_Eng.pdf#page=105",
-        "source_description": "Table 6.1.4, Final Report, 2024 Census of Population and Housing, Department of Census and Statistics, Sri Lanka",
-        "what": {
-            "PercentagePopulationByCensus": "Percentage Distribution of Population by Age Group, 1946\u20132024"
-        },
-        "when": [
-            "1946",
-            "1953",
-            "1963",
-            "1971",
-            "1981",
-            "2001",
-            "2012",
-            "2024"
-        ],
-        "where_who_types": [
-            "age_group"
-        ]
-    },
-    "PercentagePopulationByCensus": {
-        "1946": {
-            "Sri Lanka": {
-                "age_group": "Sri Lanka",
-                "pct_values": {
-                    "Census1946": 1.0
-                }
-            },
-            "00-04": {
-...
-```
-
-- Source File: [lanka_data.json (14.0 KB)](../../../../data/final-report-tables/chapter-6/6.1.4-Percentage-Distribution-of-Population-by-Age-Group,-1946–2024/lanka_data.json)
-
 ## Structured Data (similar to original layout)
 
 ```json

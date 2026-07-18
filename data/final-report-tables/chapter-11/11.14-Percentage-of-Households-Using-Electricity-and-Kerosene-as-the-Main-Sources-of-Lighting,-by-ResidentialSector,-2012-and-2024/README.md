@@ -5,44 +5,6 @@
 
 *Table 11.14, Final Report, 2024 Census of Population and Housing, Department of Census and Statistics, Sri Lanka*
 
-## Structured Data formatted for [Lanka Data API](https://github.com/nuuuwan/lanka_data)
-
-```json
-{
-    "_meta": {
-        "source_url": "https://www.statistics.gov.lk/Resource/en/Population/CPH_2024/CPH2024_Final_Eng.pdf#page=212",
-        "source_description": "Table 11.14, Final Report, 2024 Census of Population and Housing, Department of Census and Statistics, Sri Lanka",
-        "what": {
-            "HouseholdEnergyElectricityAndKerosene": "Percentage of Households Using Electricity and Kerosene as the Main Sources of Lighting, by ResidentialSector, 2012 and 2024"
-        },
-        "when": [
-            "2012",
-            "2024"
-        ],
-        "where_who_types": [
-            "sector"
-        ]
-    },
-    "HouseholdEnergyElectricityAndKerosene": {
-        "2012": {
-            "Sri Lanka": {
-                "sector": "Sri Lanka",
-                "pct_values": {
-                    "Electricity": 0.87,
-                    "Kerosene": 0.122
-                }
-            },
-            "Urban*": {
-                "sector": "Urban*",
-                "pct_values": {
-                    "Electricity": 0.968,
-                    "Kerosene": 0.031
-                }
-...
-```
-
-- Source File: [lanka_data.json (1.8 KB)](../../../../data/final-report-tables/chapter-11/11.14-Percentage-of-Households-Using-Electricity-and-Kerosene-as-the-Main-Sources-of-Lighting,-by-ResidentialSector,-2012-and-2024/lanka_data.json)
-
 ## Structured Data (similar to original layout)
 
 ```json

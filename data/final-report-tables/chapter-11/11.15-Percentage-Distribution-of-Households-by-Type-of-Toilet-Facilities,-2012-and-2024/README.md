@@ -5,44 +5,6 @@
 
 *Table 11.15, Final Report, 2024 Census of Population and Housing, Department of Census and Statistics, Sri Lanka*
 
-## Structured Data formatted for [Lanka Data API](https://github.com/nuuuwan/lanka_data)
-
-```json
-{
-    "_meta": {
-        "source_url": "https://www.statistics.gov.lk/Resource/en/Population/CPH_2024/CPH2024_Final_Eng.pdf#page=213",
-        "source_description": "Table 11.15, Final Report, 2024 Census of Population and Housing, Department of Census and Statistics, Sri Lanka",
-        "what": {
-            "HouseholdToiletUnits": "Percentage Distribution of Households by Type of Toilet Facilities, 2012 and 2024"
-        },
-        "when": [
-            "2012",
-            "2024"
-        ],
-        "where_who_types": [
-            "toilet_facilities"
-        ]
-    },
-    "HouseholdToiletUnits": {
-        "2012": {
-            "Toilet facilities": {
-                "toilet_facilities": "Toilet facilities",
-                "values": {
-                    "Units": 2012
-                }
-            },
-            "Within the housing unit - Exclusively for the household": {
-                "toilet_facilities": "Within the housing unit - Exclusively for the household",
-                "values": {
-                    "Units": 1748249
-                }
-            },
-            "Within the housing unit - Sharing with another household": {
-...
-```
-
-- Source File: [lanka_data.json (3.7 KB)](../../../../data/final-report-tables/chapter-11/11.15-Percentage-Distribution-of-Households-by-Type-of-Toilet-Facilities,-2012-and-2024/lanka_data.json)
-
 ## Structured Data (similar to original layout)
 
 ```json

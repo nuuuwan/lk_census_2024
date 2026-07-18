@@ -5,44 +5,6 @@
 
 *Table 1.1.2, Final Report, 2024 Census of Population and Housing, Department of Census and Statistics, Sri Lanka*
 
-## Structured Data formatted for [Lanka Data API](https://github.com/nuuuwan/lanka_data)
-
-```json
-{
-    "_meta": {
-        "source_url": "https://www.statistics.gov.lk/Resource/en/Population/CPH_2024/CPH2024_Final_Eng.pdf#page=31",
-        "source_description": "Table 1.1.2, Final Report, 2024 Census of Population and Housing, Department of Census and Statistics, Sri Lanka",
-        "what": {
-            "CensusTopics": "The Questions and Topics Included in the Censuses of Sri Lanka 1871 - 2024"
-        },
-        "when": [
-            "1871",
-            "1881",
-            "1891",
-            "1901",
-            "1911",
-            "1921",
-            "1931",
-            "1946",
-            "1953",
-            "1963",
-            "1971",
-            "1981",
-            "2001",
-            "2012",
-            "2024"
-        ],
-        "where_who_types": [
-            "topic"
-        ]
-    },
-    "CensusTopics": {
-        "1871": {
-...
-```
-
-- Source File: [lanka_data.json (52.7 KB)](../../../../data/final-report-tables/chapter-1/1.1.2-The-Questions-and-Topics-Included-in-the-Censuses-of-Sri-Lanka-1871---2024/lanka_data.json)
-
 ## Structured Data (similar to original layout)
 
 ```json

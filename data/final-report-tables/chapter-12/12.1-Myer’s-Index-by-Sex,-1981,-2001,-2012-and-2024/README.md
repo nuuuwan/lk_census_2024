@@ -5,44 +5,6 @@
 
 *Table 12.1, Final Report, 2024 Census of Population and Housing, Department of Census and Statistics, Sri Lanka*
 
-## Structured Data formatted for [Lanka Data API](https://github.com/nuuuwan/lanka_data)
-
-```json
-{
-    "_meta": {
-        "source_url": "https://www.statistics.gov.lk/Resource/en/Population/CPH_2024/CPH2024_Final_Eng.pdf#page=218",
-        "source_description": "Table 12.1, Final Report, 2024 Census of Population and Housing, Department of Census and Statistics, Sri Lanka",
-        "what": {
-            "MyersIndexBySex": "Myer\u2019s Index by Sex, 1981, 2001, 2012 and 2024"
-        },
-        "when": [
-            "1981",
-            "2001",
-            "2012",
-            "2024"
-        ],
-        "where_who_types": [
-            "sex"
-        ]
-    },
-    "MyersIndexBySex": {
-        "1981": {
-            "Both sexes": {
-                "sex": "Both sexes",
-                "values": {
-                    "MyersIndex": 9.7
-                }
-            },
-            "Male": {
-                "sex": "Male",
-                "values": {
-                    "MyersIndex": 8.7
-                }
-...
-```
-
-- Source File: [lanka_data.json (1.9 KB)](../../../../data/final-report-tables/chapter-12/12.1-Myer’s-Index-by-Sex,-1981,-2001,-2012-and-2024/lanka_data.json)
-
 ## Structured Data (similar to original layout)
 
 ```json

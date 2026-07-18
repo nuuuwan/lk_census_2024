@@ -5,44 +5,6 @@
 
 *Table 11.12, Final Report, 2024 Census of Population and Housing, Department of Census and Statistics, Sri Lanka*
 
-## Structured Data formatted for [Lanka Data API](https://github.com/nuuuwan/lanka_data)
-
-```json
-{
-    "_meta": {
-        "source_url": "https://www.statistics.gov.lk/Resource/en/Population/CPH_2024/CPH2024_Final_Eng.pdf#page=211",
-        "source_description": "Table 11.12, Final Report, 2024 Census of Population and Housing, Department of Census and Statistics, Sri Lanka",
-        "what": {
-            "HouseholdEnergyFirewoodAndGas": "Percentage of households Using Firewood and gas, by Sector and District,"
-        },
-        "when": [
-            "2012",
-            "2024"
-        ],
-        "where_who_types": [
-            "district"
-        ]
-    },
-    "HouseholdEnergyFirewoodAndGas": {
-        "2012": {
-            "LK-11": {
-                "region_id": "LK-11",
-                "region_name": "Colombo",
-                "region_ent_type": "district",
-                "pct_values": {
-                    "Gas": 0.605,
-                    "Firewood": 0.288
-                }
-            },
-            "LK-12": {
-                "region_id": "LK-12",
-                "region_name": "Gampaha",
-                "region_ent_type": "district",
-...
-```
-
-- Source File: [lanka_data.json (11.1 KB)](../../../../data/final-report-tables/chapter-11/11.12-Percentage-of-households-Using-Firewood-and-gas,-by-Sector-and-District,/lanka_data.json)
-
 ## Structured Data (similar to original layout)
 
 ```json

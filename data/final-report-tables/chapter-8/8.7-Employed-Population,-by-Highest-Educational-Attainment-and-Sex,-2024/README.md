@@ -5,44 +5,6 @@
 
 *Table 8.7, Final Report, 2024 Census of Population and Housing, Department of Census and Statistics, Sri Lanka*
 
-## Structured Data formatted for [Lanka Data API](https://github.com/nuuuwan/lanka_data)
-
-```json
-{
-    "_meta": {
-        "source_url": "https://www.statistics.gov.lk/Resource/en/Population/CPH_2024/CPH2024_Final_Eng.pdf#page=169",
-        "source_description": [
-            "Table 8.7, Final Report, 2024 Census of Population and Housing, Department of Census and Statistics, Sri Lanka"
-        ],
-        "what": {
-            "EmploymentByEducationAndSex": "Employed Population, by Highest Educational Attainment and Sex, 2024"
-        },
-        "when": "2024",
-        "where_who_types": [
-            "educational_level"
-        ]
-    },
-    "EmploymentByEducationAndSex": {
-        "2024": {
-            "Never attended School": {
-                "educational_level": "Never attended School",
-                "values": {
-                    "Male": 67915,
-                    "Female": 49378
-                },
-                "total_value": 117293,
-                "pct_values": {
-                    "Male": 0.579,
-                    "Female": 0.421
-                }
-            },
-            "Studied in a special school / special unit": {
-                "educational_level": "Studied in a special school / special unit",
-...
-```
-
-- Source File: [lanka_data.json (2.8 KB)](../../../../data/final-report-tables/chapter-8/8.7-Employed-Population,-by-Highest-Educational-Attainment-and-Sex,-2024/lanka_data.json)
-
 ## Structured Data (similar to original layout)
 
 ```json

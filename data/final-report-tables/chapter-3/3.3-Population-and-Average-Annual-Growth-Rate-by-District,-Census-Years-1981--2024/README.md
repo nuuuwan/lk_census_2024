@@ -5,44 +5,6 @@
 
 *Table 3.3, Final Report, 2024 Census of Population and Housing, Department of Census and Statistics, Sri Lanka*
 
-## Structured Data formatted for [Lanka Data API](https://github.com/nuuuwan/lanka_data)
-
-```json
-{
-    "_meta": {
-        "source_url": "https://www.statistics.gov.lk/Resource/en/Population/CPH_2024/CPH2024_Final_Eng.pdf#page=69",
-        "source_description": "Table 3.3, Final Report, 2024 Census of Population and Housing, Department of Census and Statistics, Sri Lanka",
-        "what": {
-            "PopulationByCensus": "Population and Average Annual Growth Rate by District, Census Years 1981- 2024"
-        },
-        "when": [
-            "1981",
-            "2001",
-            "2012",
-            "2024"
-        ],
-        "where_who_types": [
-            "district",
-            "country",
-            "ed",
-            "province"
-        ]
-    },
-    "PopulationByCensus": {
-        "1981": {
-            "LK-11": {
-                "region_id": "LK-11",
-                "region_name": "Colombo",
-                "region_ent_type": "district",
-                "values": {
-                    "Population1981": 1675847
-                }
-            },
-...
-```
-
-- Source File: [lanka_data.json (43.6 KB)](../../../../data/final-report-tables/chapter-3/3.3-Population-and-Average-Annual-Growth-Rate-by-District,-Census-Years-1981--2024/lanka_data.json)
-
 ## Structured Data (similar to original layout)
 
 ```json

@@ -5,44 +5,6 @@
 
 *Table 7.7, Final Report, 2024 Census of Population and Housing, Department of Census and Statistics, Sri Lanka*
 
-## Structured Data formatted for [Lanka Data API](https://github.com/nuuuwan/lanka_data)
-
-```json
-{
-    "_meta": {
-        "source_url": "https://www.statistics.gov.lk/Resource/en/Population/CPH_2024/CPH2024_Final_Eng.pdf#page=154",
-        "source_description": "Table 7.7, Final Report, 2024 Census of Population and Housing, Department of Census and Statistics, Sri Lanka",
-        "what": {
-            "Education": "Percentage Distribution of Population Aged 25 and Over by Educational Level and District, 2012 and 2024"
-        },
-        "when": [
-            "2012",
-            "2024"
-        ],
-        "where_who_types": [
-            "district"
-        ]
-    },
-    "Education": {
-        "2012": {
-            "LK-11": {
-                "region_id": "LK-11",
-                "region_name": "Colombo",
-                "region_ent_type": "district",
-                "values": {
-                    "Passed610Years": 481591,
-                    "GceAl": 426469,
-                    "GceOl": 366995,
-                    "Passed15Years": 139255,
-                    "NoSchooling": 37715
-                },
-                "total_value": 1450574,
-                "pct_values": {
-...
-```
-
-- Source File: [lanka_data.json (26.5 KB)](../../../../data/final-report-tables/chapter-7/7.7-Percentage-Distribution-of-Population-Aged-25-and-Over-by-Educational-Level-and-District,-2012-and-2024/lanka_data.json)
-
 ## Structured Data (similar to original layout)
 
 ```json

@@ -5,44 +5,6 @@
 
 *Table 11.7, Final Report, 2024 Census of Population and Housing, Department of Census and Statistics, Sri Lanka*
 
-## Structured Data formatted for [Lanka Data API](https://github.com/nuuuwan/lanka_data)
-
-```json
-{
-    "_meta": {
-        "source_url": "https://www.statistics.gov.lk/Resource/en/Population/CPH_2024/CPH2024_Final_Eng.pdf#page=207",
-        "source_description": [
-            "Table 11.7, Final Report, 2024 Census of Population and Housing, Department of Census and Statistics, Sri Lanka"
-        ],
-        "what": {
-            "HouseholdStatus": "of Housing Units and Status of Housing Units, by Sector and District, 2024"
-        },
-        "when": "2024",
-        "where_who_types": [
-            "ed",
-            "country",
-            "district",
-            "province"
-        ]
-    },
-    "HouseholdStatus": {
-        "2024": {
-            "LK-11": {
-                "region_id": "LK-11",
-                "region_name": "Colombo",
-                "region_ent_type": "district",
-                "values": {
-                    "Permanent": 645260,
-                    "SemiPermanent": 8256,
-                    "NotPermanent": 340,
-                    "Improvised": 195
-                },
-                "total_value": 654051,
-...
-```
-
-- Source File: [lanka_data.json (27.1 KB)](../../../../data/final-report-tables/chapter-11/11.7-of-Housing-Units-and-Status-of-Housing-Units,-by-Sector-and-District,-2024/lanka_data.json)
-
 ## Structured Data (similar to original layout)
 
 ```json

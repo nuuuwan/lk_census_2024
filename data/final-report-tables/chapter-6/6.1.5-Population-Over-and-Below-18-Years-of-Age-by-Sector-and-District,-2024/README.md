@@ -5,44 +5,6 @@
 
 *Table 6.1.5, Final Report, 2024 Census of Population and Housing, Department of Census and Statistics, Sri Lanka*
 
-## Structured Data formatted for [Lanka Data API](https://github.com/nuuuwan/lanka_data)
-
-```json
-{
-    "_meta": {
-        "source_url": "https://www.statistics.gov.lk/Resource/en/Population/CPH_2024/CPH2024_Final_Eng.pdf#page=106",
-        "source_description": [
-            "Table 6.1.5, Final Report, 2024 Census of Population and Housing, Department of Census and Statistics, Sri Lanka"
-        ],
-        "what": {
-            "PopulationBySexAndAgeOverOrBelow18": "Population Over and Below 18 Years of Age by Sector and District, 2024"
-        },
-        "when": "2024",
-        "where_who_types": [
-            "country",
-            "district",
-            "province",
-            "ed"
-        ]
-    },
-    "PopulationBySexAndAgeOverOrBelow18": {
-        "2024": {
-            "LK-11": {
-                "region_id": "LK-11",
-                "region_name": "Colombo",
-                "region_ent_type": "district",
-                "values": {
-                    "FemaleUnder18Years": 975630,
-                    "MaleUnder18Years": 901956,
-                    "MaleOver18Years": 252843,
-                    "FemaleOver18Years": 244986
-                },
-                "total_value": 2375415,
-...
-```
-
-- Source File: [lanka_data.json (30.0 KB)](../../../../data/final-report-tables/chapter-6/6.1.5-Population-Over-and-Below-18-Years-of-Age-by-Sector-and-District,-2024/lanka_data.json)
-
 ## Structured Data (similar to original layout)
 
 ```json

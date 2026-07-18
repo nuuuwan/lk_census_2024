@@ -5,44 +5,6 @@
 
 *Table 7.1, Final Report, 2024 Census of Population and Housing, Department of Census and Statistics, Sri Lanka*
 
-## Structured Data formatted for [Lanka Data API](https://github.com/nuuuwan/lanka_data)
-
-```json
-{
-    "_meta": {
-        "source_url": "https://www.statistics.gov.lk/Resource/en/Population/CPH_2024/CPH2024_Final_Eng.pdf#page=149",
-        "source_description": [
-            "Table 7.1, Final Report, 2024 Census of Population and Housing, Department of Census and Statistics, Sri Lanka"
-        ],
-        "what": {
-            "EducationBySex": "Population Aged 3 Years and Over by Sex and Educational Activity During the Census Reference Period,"
-        },
-        "when": "2024",
-        "where_who_types": [
-            "educational_activity"
-        ]
-    },
-    "EducationBySex": {
-        "2024": {
-            "Preschool education": {
-                "educational_activity": "Preschool education",
-                "values": {
-                    "Male": 243648,
-                    "Female": 238458
-                },
-                "total_value": 482106,
-                "pct_values": {
-                    "Male": 0.5054,
-                    "Female": 0.4946
-                }
-            },
-            "School education": {
-                "educational_activity": "School education",
-...
-```
-
-- Source File: [lanka_data.json (2.3 KB)](../../../../data/final-report-tables/chapter-7/7.1-Population-Aged-3-Years-and-Over-by-Sex-and-Educational-Activity-During-the-Census-Reference-Period,/lanka_data.json)
-
 ## Structured Data (similar to original layout)
 
 ```json

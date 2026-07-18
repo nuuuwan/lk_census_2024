@@ -5,44 +5,6 @@
 
 *Table 10.8, Final Report, 2024 Census of Population and Housing, Department of Census and Statistics, Sri Lanka*
 
-## Structured Data formatted for [Lanka Data API](https://github.com/nuuuwan/lanka_data)
-
-```json
-{
-    "_meta": {
-        "source_url": "https://www.statistics.gov.lk/Resource/en/Population/CPH_2024/CPH2024_Final_Eng.pdf#page=198",
-        "source_description": [
-            "Table 10.8, Final Report, 2024 Census of Population and Housing, Department of Census and Statistics, Sri Lanka"
-        ],
-        "what": {
-            "HouseholdHeadBySector": "Percentage Distribution of Household Heads by Highest Educational Qualification Obtained and Sector, 2024"
-        },
-        "when": "2024",
-        "where_who_types": [
-            "sector"
-        ]
-    },
-    "HouseholdHeadBySector": {
-        "2024": {
-            "Sri Lanka": {
-                "sector": "Sri Lanka",
-                "values": {
-                    "Passed610Years": 2443894,
-                    "GceOl": 1310679,
-                    "GceAl": 1249160,
-                    "Passed15Years": 933438,
-                    "NoSchooling": 174144
-                },
-                "total_value": 6111315,
-                "pct_values": {
-                    "Passed610Years": 0.3999,
-                    "GceOl": 0.2145,
-                    "GceAl": 0.2044,
-...
-```
-
-- Source File: [lanka_data.json (2.8 KB)](../../../../data/final-report-tables/chapter-10/10.8-Percentage-Distribution-of-Household-Heads-by-Highest-Educational-Qualification-Obtained-and-Sector,-2024/lanka_data.json)
-
 ## Structured Data (similar to original layout)
 
 ```json

@@ -5,44 +5,6 @@
 
 *Table 6.2.8, Final Report, 2024 Census of Population and Housing, Department of Census and Statistics, Sri Lanka*
 
-## Structured Data formatted for [Lanka Data API](https://github.com/nuuuwan/lanka_data)
-
-```json
-{
-    "_meta": {
-        "source_url": "https://www.statistics.gov.lk/Resource/en/Population/CPH_2024/CPH2024_Final_Eng.pdf#page=134",
-        "source_description": [
-            "Table 6.2.8, Final Report, 2024 Census of Population and Housing, Department of Census and Statistics, Sri Lanka"
-        ],
-        "what": {
-            "DisabilitiesByAgeGroupSingleOrMultiple": "Distribution of Persons with a Single Disability and with Multiple Disabilities by Age Group, 2024"
-        },
-        "when": "2024",
-        "where_who_types": [
-            "age_group"
-        ]
-    },
-    "DisabilitiesByAgeGroupSingleOrMultiple": {
-        "2024": {
-            "Sri Lanka": {
-                "age_group": "Sri Lanka",
-                "values": {
-                    "NoDisability": 19839387,
-                    "WithSingleDisability": 452247,
-                    "WithMoreThanOneDisability": 275046
-                },
-                "total_value": 20566680,
-                "pct_values": {
-                    "NoDisability": 0.9646,
-                    "WithSingleDisability": 0.022,
-                    "WithMoreThanOneDisability": 0.0134
-                }
-            },
-...
-```
-
-- Source File: [lanka_data.json (7.2 KB)](../../../../data/final-report-tables/chapter-6/6.2.8-Distribution-of-Persons-with-a-Single-Disability-and-with-Multiple-Disabilities-by-Age-Group,-2024/lanka_data.json)
-
 ## Structured Data (similar to original layout)
 
 ```json

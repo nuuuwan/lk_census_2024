@@ -5,44 +5,6 @@
 
 *Table 6.1.1, Final Report, 2024 Census of Population and Housing, Department of Census and Statistics, Sri Lanka*
 
-## Structured Data formatted for [Lanka Data API](https://github.com/nuuuwan/lanka_data)
-
-```json
-{
-    "Person": {
-        "Time:1946": {
-            "Count": "Int:6657339",
-            "SexRatio": "Float:113.0",
-            "PercentageMale": "Percent:0.531",
-            "PercentageFemale": "Percent:0.469"
-        },
-        "Time:1953": {
-            "Count": "Int:8097895",
-            "SexRatio": "Float:115.5",
-            "PercentageMale": "Percent:0.527",
-            "PercentageFemale": "Percent:0.473"
-        },
-        "Time:1963": {
-            "Count": "Int:10582064",
-            "SexRatio": "Float:108.2",
-            "PercentageMale": "Percent:0.52",
-            "PercentageFemale": "Percent:0.48"
-        },
-        "Time:1971": {
-            "Count": "Int:12689897",
-            "SexRatio": "Float:106.1",
-            "PercentageMale": "Percent:0.515",
-            "PercentageFemale": "Percent:0.485"
-        },
-        "Time:1981": {
-            "Count": "Int:14846750",
-            "SexRatio": "Float:104.0",
-            "PercentageMale": "Percent:0.51",
-...
-```
-
-- Source File: [lanka_data.json (1.4 KB)](../../../../data/final-report-tables/chapter-6/6.1.1-Total-Population,-Sex-ratio-and-the-Percentage-of-Male-and-Female,-1946-2024/lanka_data.json)
-
 ## Structured Data (similar to original layout)
 
 ```json

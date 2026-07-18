@@ -5,44 +5,6 @@
 
 *Table 5.1.1, Final Report, 2024 Census of Population and Housing, Department of Census and Statistics, Sri Lanka*
 
-## Structured Data formatted for [Lanka Data API](https://github.com/nuuuwan/lanka_data)
-
-```json
-{
-    "_meta": {
-        "source_url": "https://www.statistics.gov.lk/Resource/en/Population/CPH_2024/CPH2024_Final_Eng.pdf#page=82",
-        "source_description": [
-            "Table 5.1.1, Final Report, 2024 Census of Population and Housing, Department of Census and Statistics, Sri Lanka"
-        ],
-        "what": {
-            "MigrantsLifetime": "Lifetime Migrants by District of Dirth and District of Usual Residence,"
-        },
-        "when": "2024",
-        "where_who_types": [
-            "district"
-        ]
-    },
-    "MigrantsLifetime": {
-        "2024": {
-            "LK-11": {
-                "region_id": "LK-11",
-                "region_name": "Colombo",
-                "region_ent_type": "district",
-                "values": {
-                    "PopulationLocal": 1876288,
-                    "PopulationMigrant": 491236,
-                    "PopulationForeign": 7345
-                },
-                "total_value": 2374869,
-                "pct_values": {
-                    "PopulationLocal": 0.7901,
-                    "PopulationMigrant": 0.2068,
-                    "PopulationForeign": 0.0031
-...
-```
-
-- Source File: [lanka_data.json (11.5 KB)](../../../../data/final-report-tables/chapter-5/5.1.1-Lifetime-Migrants-by-District-of-Dirth-and-District-of-Usual-Residence,/lanka_data.json)
-
 ## Structured Data (similar to original layout)
 
 ```json

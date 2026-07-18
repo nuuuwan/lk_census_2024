@@ -5,44 +5,6 @@
 
 *Table 12.4, Final Report, 2024 Census of Population and Housing, Department of Census and Statistics, Sri Lanka*
 
-## Structured Data formatted for [Lanka Data API](https://github.com/nuuuwan/lanka_data)
-
-```json
-{
-    "_meta": {
-        "source_url": "https://www.statistics.gov.lk/Resource/en/Population/CPH_2024/CPH2024_Final_Eng.pdf#page=221",
-        "source_description": "Table 12.4, Final Report, 2024 Census of Population and Housing, Department of Census and Statistics, Sri Lanka",
-        "what": {
-            "WhippleIndexBySex": "Whipple\u2019s Index by Sex, 1981, 2001, 2012 and 2024"
-        },
-        "when": [
-            "1981",
-            "2001",
-            "2012",
-            "2024"
-        ],
-        "where_who_types": [
-            "sex"
-        ]
-    },
-    "WhippleIndexBySex": {
-        "1981": {
-            "Both sexes": {
-                "sex": "Both sexes",
-                "values": {
-                    "WhippleIndex": 118.6
-                }
-            },
-            "Male": {
-                "sex": "Male",
-                "values": {
-                    "WhippleIndex": 116.7
-                }
-...
-```
-
-- Source File: [lanka_data.json (1.9 KB)](../../../../data/final-report-tables/chapter-12/12.4-Whipple’s-Index-by-Sex,-1981,-2001,-2012-and-2024/lanka_data.json)
-
 ## Structured Data (similar to original layout)
 
 ```json

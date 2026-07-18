@@ -5,44 +5,6 @@
 
 *Table 8.3, Final Report, 2024 Census of Population and Housing, Department of Census and Statistics, Sri Lanka*
 
-## Structured Data formatted for [Lanka Data API](https://github.com/nuuuwan/lanka_data)
-
-```json
-{
-    "_meta": {
-        "source_url": "https://www.statistics.gov.lk/Resource/en/Population/CPH_2024/CPH2024_Final_Eng.pdf#page=165",
-        "source_description": [
-            "Table 8.3, Final Report, 2024 Census of Population and Housing, Department of Census and Statistics, Sri Lanka"
-        ],
-        "what": {
-            "EconomicActivityByAgeGroupAndSex": "Economically Active Population by Sex and Age Group, 2024"
-        },
-        "when": "2024",
-        "where_who_types": [
-            "age_group"
-        ]
-    },
-    "EconomicActivityByAgeGroupAndSex": {
-        "2024": {
-            "Sri Lanka": {
-                "age_group": "Sri Lanka",
-                "values": {
-                    "MaleEconomicallyActive": 5550374,
-                    "FemaleEconomicallyActive": 2612567
-                },
-                "total_value": 8162941,
-                "pct_values": {
-                    "MaleEconomicallyActive": 0.6799,
-                    "FemaleEconomicallyActive": 0.3201
-                }
-            },
-            "15 - 19": {
-                "age_group": "15 - 19",
-...
-```
-
-- Source File: [lanka_data.json (5.1 KB)](../../../../data/final-report-tables/chapter-8/8.3-Economically-Active-Population-by-Sex-and-Age-Group,-2024/lanka_data.json)
-
 ## Structured Data (similar to original layout)
 
 ```json

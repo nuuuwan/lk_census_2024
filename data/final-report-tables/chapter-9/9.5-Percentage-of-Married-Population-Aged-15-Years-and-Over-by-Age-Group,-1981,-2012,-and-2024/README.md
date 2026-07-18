@@ -5,44 +5,6 @@
 
 *Table 9.5, Final Report, 2024 Census of Population and Housing, Department of Census and Statistics, Sri Lanka*
 
-## Structured Data formatted for [Lanka Data API](https://github.com/nuuuwan/lanka_data)
-
-```json
-{
-    "_meta": {
-        "source_url": "https://www.statistics.gov.lk/Resource/en/Population/CPH_2024/CPH2024_Final_Eng.pdf#page=179",
-        "source_description": "Table 9.5, Final Report, 2024 Census of Population and Housing, Department of Census and Statistics, Sri Lanka",
-        "what": {
-            "MarriedBySex": "Percentage of Married Population Aged 15 Years and Over by Age Group, 1981, 2012, and 2024"
-        },
-        "when": [
-            "1981",
-            "2012",
-            "2024"
-        ],
-        "where_who_types": [
-            "age_group"
-        ]
-    },
-    "MarriedBySex": {
-        "1981": {
-            "Population 15 Years and Over": {
-                "age_group": "Population 15 Years and Over",
-                "pct_values": {
-                    "MarriedFemale": 0.59,
-                    "MarriedMale": 0.552
-                }
-            },
-            "15-19": {
-                "age_group": "15-19",
-                "pct_values": {
-                    "MarriedFemale": 0.097,
-                    "MarriedMale": 0.009
-...
-```
-
-- Source File: [lanka_data.json (6.2 KB)](../../../../data/final-report-tables/chapter-9/9.5-Percentage-of-Married-Population-Aged-15-Years-and-Over-by-Age-Group,-1981,-2012,-and-2024/lanka_data.json)
-
 ## Structured Data (similar to original layout)
 
 ```json

@@ -5,44 +5,6 @@
 
 *Table 8.6, Final Report, 2024 Census of Population and Housing, Department of Census and Statistics, Sri Lanka*
 
-## Structured Data formatted for [Lanka Data API](https://github.com/nuuuwan/lanka_data)
-
-```json
-{
-    "_meta": {
-        "source_url": "https://www.statistics.gov.lk/Resource/en/Population/CPH_2024/CPH2024_Final_Eng.pdf#page=168",
-        "source_description": [
-            "Table 8.6, Final Report, 2024 Census of Population and Housing, Department of Census and Statistics, Sri Lanka"
-        ],
-        "what": {
-            "EmploymentBySectorAndSex": "Employed Population by Sector and Sex, 2024"
-        },
-        "when": "2024",
-        "where_who_types": [
-            "sector"
-        ]
-    },
-    "EmploymentBySectorAndSex": {
-        "2024": {
-            "Urban": {
-                "sector": "Urban",
-                "values": {
-                    "Male": 900141,
-                    "Female": 393746
-                },
-                "total_value": 1293887,
-                "pct_values": {
-                    "Male": 0.6957,
-                    "Female": 0.3043
-                }
-            },
-            "Estate - Urban": {
-                "sector": "Estate - Urban",
-...
-```
-
-- Source File: [lanka_data.json (1.5 KB)](../../../../data/final-report-tables/chapter-8/8.6-Employed-Population-by-Sector-and-Sex,-2024/lanka_data.json)
-
 ## Structured Data (similar to original layout)
 
 ```json

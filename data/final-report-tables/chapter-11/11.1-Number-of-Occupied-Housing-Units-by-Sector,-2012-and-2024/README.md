@@ -5,44 +5,6 @@
 
 *Table 11.1, Final Report, 2024 Census of Population and Housing, Department of Census and Statistics, Sri Lanka*
 
-## Structured Data formatted for [Lanka Data API](https://github.com/nuuuwan/lanka_data)
-
-```json
-{
-    "_meta": {
-        "source_url": "https://www.statistics.gov.lk/Resource/en/Population/CPH_2024/CPH2024_Final_Eng.pdf#page=201",
-        "source_description": "Table 11.1, Final Report, 2024 Census of Population and Housing, Department of Census and Statistics, Sri Lanka",
-        "what": {
-            "HouseholdsBySector": "Number of Occupied Housing Units by Sector, 2012 and 2024"
-        },
-        "when": [
-            "2012",
-            "2024"
-        ],
-        "where_who_types": [
-            "sector"
-        ]
-    },
-    "HouseholdsBySector": {
-        "2012": {
-            "Sri Lanka": {
-                "sector": "Sri Lanka",
-                "values": {
-                    "Households": 5207740
-                }
-            },
-            "Urban*": {
-                "sector": "Urban*",
-                "values": {
-                    "Households": 891103
-                }
-            },
-            "Rural": {
-...
-```
-
-- Source File: [lanka_data.json (1.5 KB)](../../../../data/final-report-tables/chapter-11/11.1-Number-of-Occupied-Housing-Units-by-Sector,-2012-and-2024/lanka_data.json)
-
 ## Structured Data (similar to original layout)
 
 ```json
