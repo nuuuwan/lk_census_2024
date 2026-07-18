@@ -5,6 +5,29 @@
 
 *Table 6.1.2, Final Report, 2024 Census of Population and Housing, Department of Census and Statistics, Sri Lanka*
 
+## Structured Data formatted for [Lanka Data API](https://github.com/nuuuwan/lanka_data)
+
+```json
+{
+    "Person": {
+        "Sector:Urban": {
+            "SexRatio": "Float:92.8"
+        },
+        "Sector:Rural": {
+            "SexRatio": "Float:93.3"
+        },
+        "Sector:EstateRural": {
+            "SexRatio": "Float:94.4"
+        },
+        "Sector:EstateUrban": {
+            "SexRatio": "Float:98.4"
+        }
+    }
+}
+```
+
+- Source File: [lanka_data.json (272.0 B)](../../../../data/final-report-tables/chapter-6/6.1.2-Sex-Ratio-by-Sector,-2024/lanka_data.json)
+
 ## Structured Data (similar to original layout)
 
 ```json
