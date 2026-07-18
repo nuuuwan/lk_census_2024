@@ -23,26 +23,21 @@ class FinalReportLankaMetaDataMixin:
         return self.lanka_data_metadata_file.read()
 
     @cached_property
-    def what_label(self):
-        what_label = self.lanka_data_metadata.get("what_label")
-        if not what_label or what_label.strip() == "":
-            return None
-        if " " in what_label or len(what_label) > 40:
-            return None
-        return what_label
+    def entity_class_name(self):
+        return self.lanka_data_metadata.get("entity_class_name")
 
     @cached_property
-    def when_labels(self):
-        if "when_labels" in self.lanka_data_metadata:
-            return self.lanka_data_metadata.get("when_labels")
-        if "when_label" in self.lanka_data_metadata:
-            return [self.lanka_data_metadata.get("when_label")]
-        return ["2024"]
+    def measurement_class_name(self):
+        return self.lanka_data_metadata.get("measurement_class_name")
 
-    @property
+    @cached_property
+    def time(self):
+        return self.lanka_data_metadata.get("time")
+
+    @cached_property
     def is_lanka_data_metadata_complete(self):
-        if not self.what_label:
-            log.warning("Missing or invalid what_label")
-            return False
-
-        return self.what_label is not None
+        return (
+            self.entity_class_name is not None
+            and self.measurement_class_name is not None
+            and self.time is not None
+        )

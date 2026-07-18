@@ -1,5 +1,6 @@
-from lk_census.final_report.table.FinalReportTable import FinalReportTable
 from utils_future import Markdown
+
+from lk_census.final_report.table.FinalReportTable import FinalReportTable
 
 
 class ReadMeFinalReportMixin:
@@ -31,15 +32,10 @@ class ReadMeFinalReportMixin:
         return lines
 
     def get_lines_for_final_report_table(self, final_report_table):
-        hashtag_list = []
-        if final_report_table.what_label:
-            hashtag_list.append(final_report_table.what_label)
-        hashtags = " ".join([f"`#{h}`" for h in hashtag_list])
         return [
             f"- Table {final_report_table.table_num}"
             + f" - [{final_report_table.table_name}]"
             + f"({final_report_table.dir_data})"
-            + f" {hashtags}"
         ]
 
     @staticmethod
