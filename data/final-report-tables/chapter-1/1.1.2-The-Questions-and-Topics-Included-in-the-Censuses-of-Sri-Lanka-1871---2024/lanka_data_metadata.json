@@ -3,6 +3,5 @@
   "entity_class_name": "Census",
   "dim1_class_name": "CensusTopic",
   "dim1_class_key": "topic",
-  "value_label": "IsTopicInCensus",
-  "year": 2024
+  "value_label": "IsTopicInCensus"
 }

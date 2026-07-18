@@ -1,3 +1,7 @@
 {
-  "what_label": "DistrictsEvolution"
+  "adapter_class_name": "DimToTimeToValueAdapter",
+  "entity_class_name": "Census",
+  "dim1_class_name": "District",
+  "dim1_class_key": "region_id",
+  "value_label": "IsDistrictInCensus"
 }
