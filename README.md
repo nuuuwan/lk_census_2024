@@ -69,7 +69,7 @@
 ### Chapter 6
 
 - 🟡 Table 6.1.1 - [Total Population, Sex ratio and the Percentage of Male and Female, 1946-2024](data/final-report-tables/chapter-6/6.1.1-Total-Population,-Sex-ratio-and-the-Percentage-of-Male-and-Female,-1946-2024)
-- 🟡 Table 6.1.2 - [Sex Ratio by Sector, 2024](data/final-report-tables/chapter-6/6.1.2-Sex-Ratio-by-Sector,-2024)
+- ✅ Table 6.1.2 - [Sex Ratio by Sector, 2024](data/final-report-tables/chapter-6/6.1.2-Sex-Ratio-by-Sector,-2024)
 - 🟡 Table 6.1.3 - [Population by Age Groups and Sex, 2012 and](data/final-report-tables/chapter-6/6.1.3-Population-by-Age-Groups-and-Sex,-2012-and)
 - 🟡 Table 6.1.4 - [Percentage Distribution of Population by Age Group, 1946–2024](data/final-report-tables/chapter-6/6.1.4-Percentage-Distribution-of-Population-by-Age-Group,-1946–2024)
 - 🟡 Table 6.1.5 - [Population Over and Below 18 Years of Age by Sector and District, 2024](data/final-report-tables/chapter-6/6.1.5-Population-Over-and-Below-18-Years-of-Age-by-Sector-and-District,-2024)
@@ -211,8 +211,8 @@
 | status | status_label | n | p |
 | :-- | :-- | --: | --: |
 | **2**/5 | 🔴 Raw data is difficult to parse | **21** | **14.8%** |
-| **4**/5 | 🟡 Lanka data is missing | **100** | **70.4%** |
-| **5**/5 | ✅ All Stages Complete | **21** | **14.8%** |
+| **4**/5 | 🟡 Lanka data is missing | **99** | **69.7%** |
+| **5**/5 | ✅ All Stages Complete | **22** | **15.5%** |
 
 ![Maintainer](https://img.shields.io/badge/maintainer-nuuuwan-red)
 ![MadeWith](https://img.shields.io/badge/made_with-python-blue)
