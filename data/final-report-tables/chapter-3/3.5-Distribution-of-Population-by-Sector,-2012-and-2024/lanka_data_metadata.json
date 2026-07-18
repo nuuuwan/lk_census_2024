@@ -1,8 +1,0 @@
-{
-  "adapter_class_name": "DimToValueAdapter",
-  "entity_class_name": "Person",
-  "dim_class_name": "Sector",
-  "dim_class_key": "sector",
-  "value_label": "Population",
-  "value_class_name": "Int"
-}
