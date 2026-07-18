@@ -13,7 +13,7 @@ class ReadMe(ReadMeDataTableMixin, ReadMeFinalReportMixin):
 
     def get_lines_for_header(self, n_xlsx, n_final) -> list[str]:
         time_updated_for_badge = Format.badge(
-            TimeFormat.TIME.format(Time.now())
+            TimeFormat.DATE.format(Time.now())
         )
         n = n_xlsx + n_final
         return [
