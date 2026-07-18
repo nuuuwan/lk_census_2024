@@ -1,0 +1,29 @@
+{
+  "Person": {
+    "Time:2024": {
+      "HighestEducationLevel:DegreeAndAbove": {
+        "DisabilityTypes:DifficultyInSeeing": {
+          "Count": "Int:2316"
+        },
+        "DisabilityTypes:DifficultyInHearing": {
+          "Count": "Int:1002"
+        },
+        "DisabilityTypes:DifficultyInWalkingOrClimbingSteps": {
+          "Count": "Int:5300"
+        },
+        "DisabilityTypes:DifficultyInRememberingOrConcentrating": {
+          "Count": "Int:1338"
+        },
+        "DisabilityTypes:DifficultyInSelfcareSuchAsWashingOrDressing": {
+          "Count": "Int:2206"
+        },
+        "DisabilityTypes:DifficultyInCommunicatingWithOthers": {
+          "Count": "Int:906"
+        },
+        "DisabilityTypes:NoDisability": {
+          "Count": "Int:1009520"
+        }
+      }
+    }
+  }
+}

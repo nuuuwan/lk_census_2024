@@ -1,0 +1,121 @@
+{
+  "Person": {
+    "Time:2024": {
+      "MaritalStatus:NeverMarried": {
+        "DisabilityTypes:DifficultyInSeeing": {
+          "Count": "Int:26799"
+        },
+        "DisabilityTypes:DifficultyInHearing": {
+          "Count": "Int:24124"
+        },
+        "DisabilityTypes:DifficultyInWalkingOrClimbingSteps": {
+          "Count": "Int:55653"
+        },
+        "DisabilityTypes:DifficultyInRememberingOrConcentrating": {
+          "Count": "Int:63731"
+        },
+        "DisabilityTypes:DifficultyInSelfcareSuchAsWashingOrDressing": {
+          "Count": "Int:47650"
+        },
+        "DisabilityTypes:DifficultyInCommunicatingWithOthers": {
+          "Count": "Int:53285"
+        },
+        "DisabilityTypes:NoDisability": {
+          "Count": "Int:7613788"
+        }
+      },
+      "MaritalStatus:Widowed": {
+        "DisabilityTypes:DifficultyInSeeing": {
+          "Count": "Int:54018"
+        },
+        "DisabilityTypes:DifficultyInHearing": {
+          "Count": "Int:39306"
+        },
+        "DisabilityTypes:DifficultyInWalkingOrClimbingSteps": {
+          "Count": "Int:137784"
+        },
+        "DisabilityTypes:DifficultyInRememberingOrConcentrating": {
+          "Count": "Int:42185"
+        },
+        "DisabilityTypes:DifficultyInSelfcareSuchAsWashingOrDressing": {
+          "Count": "Int:54247"
+        },
+        "DisabilityTypes:DifficultyInCommunicatingWithOthers": {
+          "Count": "Int:19327"
+        },
+        "DisabilityTypes:NoDisability": {
+          "Count": "Int:887551"
+        }
+      },
+      "MaritalStatus:Divorced": {
+        "DisabilityTypes:DifficultyInSeeing": {
+          "Count": "Int:712"
+        },
+        "DisabilityTypes:DifficultyInHearing": {
+          "Count": "Int:499"
+        },
+        "DisabilityTypes:DifficultyInWalkingOrClimbingSteps": {
+          "Count": "Int:1553"
+        },
+        "DisabilityTypes:DifficultyInRememberingOrConcentrating": {
+          "Count": "Int:840"
+        },
+        "DisabilityTypes:DifficultyInSelfcareSuchAsWashingOrDressing": {
+          "Count": "Int:633"
+        },
+        "DisabilityTypes:DifficultyInCommunicatingWithOthers": {
+          "Count": "Int:494"
+        },
+        "DisabilityTypes:NoDisability": {
+          "Count": "Int:69624"
+        }
+      },
+      "MaritalStatus:LegallySeparated": {
+        "DisabilityTypes:DifficultyInSeeing": {
+          "Count": "Int:430"
+        },
+        "DisabilityTypes:DifficultyInHearing": {
+          "Count": "Int:268"
+        },
+        "DisabilityTypes:DifficultyInWalkingOrClimbingSteps": {
+          "Count": "Int:981"
+        },
+        "DisabilityTypes:DifficultyInRememberingOrConcentrating": {
+          "Count": "Int:417"
+        },
+        "DisabilityTypes:DifficultyInSelfcareSuchAsWashingOrDressing": {
+          "Count": "Int:332"
+        },
+        "DisabilityTypes:DifficultyInCommunicatingWithOthers": {
+          "Count": "Int:245"
+        },
+        "DisabilityTypes:NoDisability": {
+          "Count": "Int:42231"
+        }
+      },
+      "MaritalStatus:SeparatedNotLegally": {
+        "DisabilityTypes:DifficultyInSeeing": {
+          "Count": "Int:2347"
+        },
+        "DisabilityTypes:DifficultyInHearing": {
+          "Count": "Int:1466"
+        },
+        "DisabilityTypes:DifficultyInWalkingOrClimbingSteps": {
+          "Count": "Int:4759"
+        },
+        "DisabilityTypes:DifficultyInRememberingOrConcentrating": {
+          "Count": "Int:2012"
+        },
+        "DisabilityTypes:DifficultyInSelfcareSuchAsWashingOrDressing": {
+          "Count": "Int:1543"
+        },
+        "DisabilityTypes:DifficultyInCommunicatingWithOthers": {
+          "Count": "Int:1210"
+        },
+        "DisabilityTypes:NoDisability": {
+          "Count": "Int:153558"
+        }
+      }
+    }
+  }
+}
