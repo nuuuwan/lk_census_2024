@@ -11,7 +11,7 @@ class FinalReportTableDataFieldsMixin:
 
     @cached_property
     def fields(self):
-        if not self.fields_file.exists:
+        if not self.fields_file.exists():
             return {}
         return self.fields_file.read()
 

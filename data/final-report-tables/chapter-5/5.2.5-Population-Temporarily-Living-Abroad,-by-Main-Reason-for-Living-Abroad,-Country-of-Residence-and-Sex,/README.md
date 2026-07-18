@@ -1,7 +1,7 @@
 # Population Temporarily Living Abroad, by Main Reason for Living Abroad, Country of Residence and Sex,
 
 ![CPH](https://img.shields.io/badge/CPH-2024-blue)
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--07--14-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--07--18-green)
 
 *Table 5.2.5, Final Report, 2024 Census of Population and Housing, Department of Census and Statistics, Sri Lanka*
 
@@ -40,13 +40,13 @@
         "Female",
 ...
 ```
-- Source File: [raw_data.json (4.1 kB)](../../../../data/final-report-tables/chapter-5/5.2.5-Population-Temporarily-Living-Abroad,-by-Main-Reason-for-Living-Abroad,-Country-of-Residence-and-Sex,/raw_data.json)
+- Source File: [raw_data.json (4.1 KB)](../../../../data/final-report-tables/chapter-5/5.2.5-Population-Temporarily-Living-Abroad,-by-Main-Reason-for-Living-Abroad,-Country-of-Residence-and-Sex,/raw_data.json)
 
 ## Original PDF Page
 
 ![Download the original PDF](../../../../data/final-report-tables/chapter-5/5.2.5-Population-Temporarily-Living-Abroad,-by-Main-Reason-for-Living-Abroad,-Country-of-Residence-and-Sex,/original.png)
 
-- Source File: [original.pdf (57.6 kB)](../../../../data/final-report-tables/chapter-5/5.2.5-Population-Temporarily-Living-Abroad,-by-Main-Reason-for-Living-Abroad,-Country-of-Residence-and-Sex,/original.pdf)
+- Source File: [original.pdf (56.3 KB)](../../../../data/final-report-tables/chapter-5/5.2.5-Population-Temporarily-Living-Abroad,-by-Main-Reason-for-Living-Abroad,-Country-of-Residence-and-Sex,/original.pdf)
 
 ## Source
 

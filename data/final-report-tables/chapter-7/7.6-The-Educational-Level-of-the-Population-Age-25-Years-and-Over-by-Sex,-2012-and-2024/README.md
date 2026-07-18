@@ -1,7 +1,7 @@
 # The Educational Level of the Population Age 25 Years and Over by Sex, 2012 and 2024
 
 ![CPH](https://img.shields.io/badge/CPH-2024-blue)
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--07--14-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--07--18-green)
 
 *Table 7.6, Final Report, 2024 Census of Population and Housing, Department of Census and Statistics, Sri Lanka*
 
@@ -40,13 +40,13 @@
         "(%)"
 ...
 ```
-- Source File: [raw_data.json (3.1 kB)](../../../../data/final-report-tables/chapter-7/7.6-The-Educational-Level-of-the-Population-Age-25-Years-and-Over-by-Sex,-2012-and-2024/raw_data.json)
+- Source File: [raw_data.json (3.1 KB)](../../../../data/final-report-tables/chapter-7/7.6-The-Educational-Level-of-the-Population-Age-25-Years-and-Over-by-Sex,-2012-and-2024/raw_data.json)
 
 ## Original PDF Page
 
 ![Download the original PDF](../../../../data/final-report-tables/chapter-7/7.6-The-Educational-Level-of-the-Population-Age-25-Years-and-Over-by-Sex,-2012-and-2024/original.png)
 
-- Source File: [original.pdf (64.5 kB)](../../../../data/final-report-tables/chapter-7/7.6-The-Educational-Level-of-the-Population-Age-25-Years-and-Over-by-Sex,-2012-and-2024/original.pdf)
+- Source File: [original.pdf (63.0 KB)](../../../../data/final-report-tables/chapter-7/7.6-The-Educational-Level-of-the-Population-Age-25-Years-and-Over-by-Sex,-2012-and-2024/original.pdf)
 
 ## Source
 

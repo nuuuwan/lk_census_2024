@@ -1,9 +1,47 @@
 # Population by Age Groups and Sex, 2012 and
 
 ![CPH](https://img.shields.io/badge/CPH-2024-blue)
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--07--14-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--07--18-green)
 
 *Table 6.1.3, Final Report, 2024 Census of Population and Housing, Department of Census and Statistics, Sri Lanka*
+
+## Structured Data formatted for [Lanka Data API](https://github.com/nuuuwan/lanka_data)
+
+```json
+{
+    "_meta": {
+        "source_url": "https://www.statistics.gov.lk/Resource/en/Population/CPH_2024/CPH2024_Final_Eng.pdf#page=104",
+        "source_description": "Table 6.1.3, Final Report, 2024 Census of Population and Housing, Department of Census and Statistics, Sri Lanka",
+        "what": {
+            "PopulationByAgeGroupsAndSex": "Population by Age Groups and Sex, 2012 and"
+        },
+        "when": [
+            "2012",
+            "2024"
+        ],
+        "where_who_types": [
+            "age_group"
+        ]
+    },
+    "PopulationByAgeGroupsAndSex": {
+        "2012": {
+            "Sri Lanka": {
+                "age_group": "Sri Lanka",
+                "values": {
+                    "Total2012": 20359439,
+                    "Female2012": 10502805,
+                    "Male2012": 9856634
+                },
+                "total_value": 40718878,
+                "pct_values": {
+                    "Total2012": 0.5,
+                    "Female2012": 0.2579,
+                    "Male2012": 0.2421
+                }
+...
+```
+
+- Source File: [lanka_data.json (14.3 KB)](../../../../data/final-report-tables/chapter-6/6.1.3-Population-by-Age-Groups-and-Sex,-2012-and/lanka_data.json)
 
 ## Structured Data (similar to original layout)
 
@@ -41,7 +79,7 @@
 ...
 ```
 
-- Source File: [data.json (4.7 kB)](../../../../data/final-report-tables/chapter-6/6.1.3-Population-by-Age-Groups-and-Sex,-2012-and/data.json)
+- Source File: [data.json (4.6 KB)](../../../../data/final-report-tables/chapter-6/6.1.3-Population-by-Age-Groups-and-Sex,-2012-and/data.json)
 
 ## Raw Data (directly scraped from PDF)
 
@@ -78,13 +116,13 @@
         ""
 ...
 ```
-- Source File: [raw_data.json (3.2 kB)](../../../../data/final-report-tables/chapter-6/6.1.3-Population-by-Age-Groups-and-Sex,-2012-and/raw_data.json)
+- Source File: [raw_data.json (3.1 KB)](../../../../data/final-report-tables/chapter-6/6.1.3-Population-by-Age-Groups-and-Sex,-2012-and/raw_data.json)
 
 ## Original PDF Page
 
 ![Download the original PDF](../../../../data/final-report-tables/chapter-6/6.1.3-Population-by-Age-Groups-and-Sex,-2012-and/original.png)
 
-- Source File: [original.pdf (48.6 kB)](../../../../data/final-report-tables/chapter-6/6.1.3-Population-by-Age-Groups-and-Sex,-2012-and/original.pdf)
+- Source File: [original.pdf (47.4 KB)](../../../../data/final-report-tables/chapter-6/6.1.3-Population-by-Age-Groups-and-Sex,-2012-and/original.pdf)
 
 ## Source
 

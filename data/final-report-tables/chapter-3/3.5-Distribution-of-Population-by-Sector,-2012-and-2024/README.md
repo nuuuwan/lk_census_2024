@@ -1,9 +1,47 @@
 # Distribution of Population by Sector, 2012 and 2024
 
 ![CPH](https://img.shields.io/badge/CPH-2024-blue)
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--07--14-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--07--18-green)
 
 *Table 3.5, Final Report, 2024 Census of Population and Housing, Department of Census and Statistics, Sri Lanka*
+
+## Structured Data formatted for [Lanka Data API](https://github.com/nuuuwan/lanka_data)
+
+```json
+{
+    "_meta": {
+        "source_url": "https://www.statistics.gov.lk/Resource/en/Population/CPH_2024/CPH2024_Final_Eng.pdf#page=71",
+        "source_description": "Table 3.5, Final Report, 2024 Census of Population and Housing, Department of Census and Statistics, Sri Lanka",
+        "what": {
+            "PopulationBySector": "Distribution of Population by Sector, 2012 and 2024"
+        },
+        "when": [
+            "2012",
+            "2024"
+        ],
+        "where_who_types": [
+            "sector"
+        ]
+    },
+    "PopulationBySector": {
+        "2012": {
+            "": {
+                "sector": "",
+                "values": {
+                    "Population2012": 2012
+                }
+            },
+            "Sri Lanka": {
+                "sector": "Sri Lanka",
+                "values": {
+                    "Population2012": 20359439
+                }
+            },
+            "Urban*": {
+...
+```
+
+- Source File: [lanka_data.json (1.7 KB)](../../../../data/final-report-tables/chapter-3/3.5-Distribution-of-Population-by-Sector,-2012-and-2024/lanka_data.json)
 
 ## Structured Data (similar to original layout)
 
@@ -41,7 +79,7 @@
 ...
 ```
 
-- Source File: [data.json (612 B)](../../../../data/final-report-tables/chapter-3/3.5-Distribution-of-Population-by-Sector,-2012-and-2024/data.json)
+- Source File: [data.json (612.0 B)](../../../../data/final-report-tables/chapter-3/3.5-Distribution-of-Population-by-Sector,-2012-and-2024/data.json)
 
 ## Raw Data (directly scraped from PDF)
 
@@ -78,13 +116,13 @@
     [
 ...
 ```
-- Source File: [raw_data.json (1.3 kB)](../../../../data/final-report-tables/chapter-3/3.5-Distribution-of-Population-by-Sector,-2012-and-2024/raw_data.json)
+- Source File: [raw_data.json (1.3 KB)](../../../../data/final-report-tables/chapter-3/3.5-Distribution-of-Population-by-Sector,-2012-and-2024/raw_data.json)
 
 ## Original PDF Page
 
 ![Download the original PDF](../../../../data/final-report-tables/chapter-3/3.5-Distribution-of-Population-by-Sector,-2012-and-2024/original.png)
 
-- Source File: [original.pdf (96.7 kB)](../../../../data/final-report-tables/chapter-3/3.5-Distribution-of-Population-by-Sector,-2012-and-2024/original.pdf)
+- Source File: [original.pdf (94.5 KB)](../../../../data/final-report-tables/chapter-3/3.5-Distribution-of-Population-by-Sector,-2012-and-2024/original.pdf)
 
 ## Source
 

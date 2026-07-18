@@ -37,7 +37,7 @@ if __name__ == "__main__":
 
         if not table.is_lanka_data_metadata_complete:
             lanka_data_metadata = {}
-            if table.lanka_data_metadata_file.exists:
+            if table.lanka_data_metadata_file.exists():
                 lanka_data_metadata = table.lanka_data_metadata_file.read()
             if "what_label" not in lanka_data_metadata:
                 lanka_data_metadata |= {

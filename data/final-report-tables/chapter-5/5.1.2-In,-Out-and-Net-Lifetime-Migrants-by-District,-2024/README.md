@@ -1,7 +1,7 @@
 # In, Out and Net Lifetime Migrants by District, 2024
 
 ![CPH](https://img.shields.io/badge/CPH-2024-blue)
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--07--14-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--07--18-green)
 
 *Table 5.1.2, Final Report, 2024 Census of Population and Housing, Department of Census and Statistics, Sri Lanka*
 
@@ -41,7 +41,7 @@
 ...
 ```
 
-- Source File: [data.json (4.5 kB)](../../../../data/final-report-tables/chapter-5/5.1.2-In,-Out-and-Net-Lifetime-Migrants-by-District,-2024/data.json)
+- Source File: [data.json (4.4 KB)](../../../../data/final-report-tables/chapter-5/5.1.2-In,-Out-and-Net-Lifetime-Migrants-by-District,-2024/data.json)
 
 ## Raw Data (directly scraped from PDF)
 
@@ -78,13 +78,13 @@
     [
 ...
 ```
-- Source File: [raw_data.json (2.6 kB)](../../../../data/final-report-tables/chapter-5/5.1.2-In,-Out-and-Net-Lifetime-Migrants-by-District,-2024/raw_data.json)
+- Source File: [raw_data.json (2.6 KB)](../../../../data/final-report-tables/chapter-5/5.1.2-In,-Out-and-Net-Lifetime-Migrants-by-District,-2024/raw_data.json)
 
 ## Original PDF Page
 
 ![Download the original PDF](../../../../data/final-report-tables/chapter-5/5.1.2-In,-Out-and-Net-Lifetime-Migrants-by-District,-2024/original.png)
 
-- Source File: [original.pdf (100.0 kB)](../../../../data/final-report-tables/chapter-5/5.1.2-In,-Out-and-Net-Lifetime-Migrants-by-District,-2024/original.pdf)
+- Source File: [original.pdf (97.7 KB)](../../../../data/final-report-tables/chapter-5/5.1.2-In,-Out-and-Net-Lifetime-Migrants-by-District,-2024/original.pdf)
 
 ## Source
 

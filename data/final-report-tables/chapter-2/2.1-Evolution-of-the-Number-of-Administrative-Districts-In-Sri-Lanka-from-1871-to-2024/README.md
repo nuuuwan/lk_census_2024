@@ -1,9 +1,47 @@
 # Evolution of the Number of Administrative Districts In Sri Lanka from 1871 to 2024
 
 ![CPH](https://img.shields.io/badge/CPH-2024-blue)
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--07--14-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--07--18-green)
 
 *Table 2.1, Final Report, 2024 Census of Population and Housing, Department of Census and Statistics, Sri Lanka*
+
+## Structured Data formatted for [Lanka Data API](https://github.com/nuuuwan/lanka_data)
+
+```json
+{
+    "_meta": {
+        "source_url": "https://www.statistics.gov.lk/Resource/en/Population/CPH_2024/CPH2024_Final_Eng.pdf#page=60",
+        "source_description": "Table 2.1, Final Report, 2024 Census of Population and Housing, Department of Census and Statistics, Sri Lanka",
+        "what": {
+            "DistrictsEvolution": "Evolution of the Number of Administrative Districts In Sri Lanka from 1871 to 2024"
+        },
+        "when": [
+            "1871",
+            "1881",
+            "1891",
+            "1901",
+            "1911",
+            "1921",
+            "1931",
+            "1946",
+            "1953",
+            "1963",
+            "1971",
+            "1981",
+            "2001",
+            "2012",
+            "2024"
+        ],
+        "where_who_types": [
+            "district"
+        ]
+    },
+    "DistrictsEvolution": {
+        "1871": {
+...
+```
+
+- Source File: [lanka_data.json (75.5 KB)](../../../../data/final-report-tables/chapter-2/2.1-Evolution-of-the-Number-of-Administrative-Districts-In-Sri-Lanka-from-1871-to-2024/lanka_data.json)
 
 ## Structured Data (similar to original layout)
 
@@ -41,7 +79,7 @@
 ...
 ```
 
-- Source File: [data.json (13.9 kB)](../../../../data/final-report-tables/chapter-2/2.1-Evolution-of-the-Number-of-Administrative-Districts-In-Sri-Lanka-from-1871-to-2024/data.json)
+- Source File: [data.json (13.6 KB)](../../../../data/final-report-tables/chapter-2/2.1-Evolution-of-the-Number-of-Administrative-Districts-In-Sri-Lanka-from-1871-to-2024/data.json)
 
 ## Raw Data (directly scraped from PDF)
 
@@ -78,13 +116,13 @@
         "1921",
 ...
 ```
-- Source File: [raw_data.json (6.9 kB)](../../../../data/final-report-tables/chapter-2/2.1-Evolution-of-the-Number-of-Administrative-Districts-In-Sri-Lanka-from-1871-to-2024/raw_data.json)
+- Source File: [raw_data.json (6.7 KB)](../../../../data/final-report-tables/chapter-2/2.1-Evolution-of-the-Number-of-Administrative-Districts-In-Sri-Lanka-from-1871-to-2024/raw_data.json)
 
 ## Original PDF Page
 
 ![Download the original PDF](../../../../data/final-report-tables/chapter-2/2.1-Evolution-of-the-Number-of-Administrative-Districts-In-Sri-Lanka-from-1871-to-2024/original.png)
 
-- Source File: [original.pdf (109.6 kB)](../../../../data/final-report-tables/chapter-2/2.1-Evolution-of-the-Number-of-Administrative-Districts-In-Sri-Lanka-from-1871-to-2024/original.pdf)
+- Source File: [original.pdf (107.0 KB)](../../../../data/final-report-tables/chapter-2/2.1-Evolution-of-the-Number-of-Administrative-Districts-In-Sri-Lanka-from-1871-to-2024/original.pdf)
 
 ## Source
 

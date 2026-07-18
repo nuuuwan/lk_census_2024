@@ -18,13 +18,13 @@ if __name__ == "__main__":
         print("")
 
         fields = {}
-        if table.fields_file.exists:
+        if table.fields_file.exists():
             fields = table.fields_file.read()
         if "raw_table_index_list" not in fields:
             fields["raw_table_index_list"] = []
         table.fields_file.write(fields)
 
-        if table.raw_data_file.exists:
+        if table.raw_data_file.exists():
             if "raw_table_index_list" in table.raw_data_file.read():
                 table.raw_data_file.delete()
 

@@ -1,7 +1,7 @@
 # Elderly Population and Sex Ratio by Age Groups, 2012 and 2024
 
 ![CPH](https://img.shields.io/badge/CPH-2024-blue)
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--07--14-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--07--18-green)
 
 *Table 6.1.6, Final Report, 2024 Census of Population and Housing, Department of Census and Statistics, Sri Lanka*
 
@@ -40,13 +40,13 @@
         "",
 ...
 ```
-- Source File: [raw_data.json (832 B)](../../../../data/final-report-tables/chapter-6/6.1.6-Elderly-Population-and-Sex-Ratio-by-Age-Groups,-2012-and-2024/raw_data.json)
+- Source File: [raw_data.json (832.0 B)](../../../../data/final-report-tables/chapter-6/6.1.6-Elderly-Population-and-Sex-Ratio-by-Age-Groups,-2012-and-2024/raw_data.json)
 
 ## Original PDF Page
 
 ![Download the original PDF](../../../../data/final-report-tables/chapter-6/6.1.6-Elderly-Population-and-Sex-Ratio-by-Age-Groups,-2012-and-2024/original.png)
 
-- Source File: [original.pdf (59.3 kB)](../../../../data/final-report-tables/chapter-6/6.1.6-Elderly-Population-and-Sex-Ratio-by-Age-Groups,-2012-and-2024/original.pdf)
+- Source File: [original.pdf (58.0 KB)](../../../../data/final-report-tables/chapter-6/6.1.6-Elderly-Population-and-Sex-Ratio-by-Age-Groups,-2012-and-2024/original.pdf)
 
 ## Source
 

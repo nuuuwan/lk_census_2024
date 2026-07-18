@@ -1,7 +1,7 @@
 # Gross Reproduction Rate Using TFR and TMFR
 
 ![CPH](https://img.shields.io/badge/CPH-2024-blue)
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--07--14-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--07--18-green)
 
 *Table 9.17, Final Report, 2024 Census of Population and Housing, Department of Census and Statistics, Sri Lanka*
 
@@ -40,13 +40,13 @@
         "",
 ...
 ```
-- Source File: [raw_data.json (2.5 kB)](../../../../data/final-report-tables/chapter-9/9.17-Gross-Reproduction-Rate-Using-TFR-and-TMFR/raw_data.json)
+- Source File: [raw_data.json (2.4 KB)](../../../../data/final-report-tables/chapter-9/9.17-Gross-Reproduction-Rate-Using-TFR-and-TMFR/raw_data.json)
 
 ## Original PDF Page
 
 ![Download the original PDF](../../../../data/final-report-tables/chapter-9/9.17-Gross-Reproduction-Rate-Using-TFR-and-TMFR/original.png)
 
-- Source File: [original.pdf (81.8 kB)](../../../../data/final-report-tables/chapter-9/9.17-Gross-Reproduction-Rate-Using-TFR-and-TMFR/original.pdf)
+- Source File: [original.pdf (79.9 KB)](../../../../data/final-report-tables/chapter-9/9.17-Gross-Reproduction-Rate-Using-TFR-and-TMFR/original.pdf)
 
 ## Source
 

@@ -1,8 +1,9 @@
+from utils_future import File, Format, Log, Time, TimeFormat
+
 from lk_census.final_report.table import FinalReportTable
 from lk_census.readme.ReadMeDataTableMixin import ReadMeDataTableMixin
 from lk_census.readme.ReadMeFinalReportMixin import ReadMeFinalReportMixin
 from lk_census.xlsx_data_table import XLSXDataTable
-from utils_future import File, Format, Log, Time, TimeFormat
 
 log = Log("ReadMe")
 
@@ -65,5 +66,5 @@ class ReadMe(ReadMeDataTableMixin, ReadMeFinalReportMixin):
 
     def build(self):
         readme_file = File(self.PATH)
-        readme_file.write_lines(self.get_lines())
+        readme_file.write("\n".join(self.get_lines()))
         log.info(f"Wrote {readme_file}")

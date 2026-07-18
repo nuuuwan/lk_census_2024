@@ -1,8 +1,15 @@
 import json
 import os
 
-from utils_future import (File, Format, JSONFile, Log, Markdown, Time,
-                          TimeFormat)
+from utils_future import (
+    File,
+    Format,
+    JSONFile,
+    Log,
+    Markdown,
+    Time,
+    TimeFormat,
+)
 
 log = Log("CommonTableReadMeMixin")
 
@@ -54,7 +61,7 @@ class CommonTableReadMeMixin:
         return ["```json", *lines, "```"]
 
     def get_lines_for_lanka_data(self):
-        if not self.lanka_data_file.exists:
+        if not self.lanka_data_file.exists():
             return []
 
         lines = [
@@ -70,7 +77,7 @@ class CommonTableReadMeMixin:
         return lines
 
     def get_lines_for_data(self):
-        if not self.data_file.exists:
+        if not self.data_file.exists():
             return []
 
         lines = [
@@ -85,7 +92,7 @@ class CommonTableReadMeMixin:
         return lines
 
     def get_lines_for_tsv(self):
-        if not self.tsv_file.exists:
+        if not self.tsv_file.exists():
             return []
 
         N_ROWS = 20
@@ -106,7 +113,7 @@ class CommonTableReadMeMixin:
         return lines
 
     def get_lines_for_raw_data(self):
-        if not self.raw_data_file.exists:
+        if not self.raw_data_file.exists():
             return []
 
         lines = [
@@ -120,7 +127,7 @@ class CommonTableReadMeMixin:
         return lines
 
     def get_lines_for_original_pdf(self):
-        if not self.original_pdf_image_file.exists:
+        if not self.original_pdf_image_file.exists():
             return []
 
         lines = [
@@ -166,7 +173,7 @@ class CommonTableReadMeMixin:
         )
 
     def build_readme(self, force=True):
-        if not force and self.readme_file.exists:
+        if not force and self.readme_file.exists():
             return self.readme_file.read()
 
         lines = self.get_lines()

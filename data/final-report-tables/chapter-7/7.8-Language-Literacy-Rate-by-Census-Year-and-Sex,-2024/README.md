@@ -1,7 +1,7 @@
 # Language Literacy Rate by Census Year and Sex, 2024
 
 ![CPH](https://img.shields.io/badge/CPH-2024-blue)
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--07--14-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--07--18-green)
 
 *Table 7.8, Final Report, 2024 Census of Population and Housing, Department of Census and Statistics, Sri Lanka*
 
@@ -41,7 +41,7 @@
 ...
 ```
 
-- Source File: [data.json (2.1 kB)](../../../../data/final-report-tables/chapter-7/7.8-Language-Literacy-Rate-by-Census-Year-and-Sex,-2024/data.json)
+- Source File: [data.json (2.1 KB)](../../../../data/final-report-tables/chapter-7/7.8-Language-Literacy-Rate-by-Census-Year-and-Sex,-2024/data.json)
 
 ## Raw Data (directly scraped from PDF)
 
@@ -78,13 +78,13 @@
         "proportion of the population with G.C.E. (O/L) and higher levels of education has increased, indicating an"
 ...
 ```
-- Source File: [raw_data.json (3.8 kB)](../../../../data/final-report-tables/chapter-7/7.8-Language-Literacy-Rate-by-Census-Year-and-Sex,-2024/raw_data.json)
+- Source File: [raw_data.json (3.7 KB)](../../../../data/final-report-tables/chapter-7/7.8-Language-Literacy-Rate-by-Census-Year-and-Sex,-2024/raw_data.json)
 
 ## Original PDF Page
 
 ![Download the original PDF](../../../../data/final-report-tables/chapter-7/7.8-Language-Literacy-Rate-by-Census-Year-and-Sex,-2024/original.png)
 
-- Source File: [original.pdf (59.3 kB)](../../../../data/final-report-tables/chapter-7/7.8-Language-Literacy-Rate-by-Census-Year-and-Sex,-2024/original.pdf)
+- Source File: [original.pdf (57.9 KB)](../../../../data/final-report-tables/chapter-7/7.8-Language-Literacy-Rate-by-Census-Year-and-Sex,-2024/original.pdf)
 
 ## Source
 

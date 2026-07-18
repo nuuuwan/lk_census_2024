@@ -1,7 +1,7 @@
 # Computer and Digital Literacy Rate by Age Group,
 
 ![CPH](https://img.shields.io/badge/CPH-2024-blue)
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--07--14-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--07--18-green)
 
 *Table 7.14, Final Report, 2024 Census of Population and Housing, Department of Census and Statistics, Sri Lanka*
 
@@ -41,7 +41,7 @@
 ...
 ```
 
-- Source File: [data.json (2.1 kB)](../../../../data/final-report-tables/chapter-7/7.14-Computer-and-Digital-Literacy-Rate-by-Age-Group,/data.json)
+- Source File: [data.json (2.1 KB)](../../../../data/final-report-tables/chapter-7/7.14-Computer-and-Digital-Literacy-Rate-by-Age-Group,/data.json)
 
 ## Raw Data (directly scraped from PDF)
 
@@ -78,13 +78,13 @@
         "88.1"
 ...
 ```
-- Source File: [raw_data.json (1.1 kB)](../../../../data/final-report-tables/chapter-7/7.14-Computer-and-Digital-Literacy-Rate-by-Age-Group,/raw_data.json)
+- Source File: [raw_data.json (1.0 KB)](../../../../data/final-report-tables/chapter-7/7.14-Computer-and-Digital-Literacy-Rate-by-Age-Group,/raw_data.json)
 
 ## Original PDF Page
 
 ![Download the original PDF](../../../../data/final-report-tables/chapter-7/7.14-Computer-and-Digital-Literacy-Rate-by-Age-Group,/original.png)
 
-- Source File: [original.pdf (67.1 kB)](../../../../data/final-report-tables/chapter-7/7.14-Computer-and-Digital-Literacy-Rate-by-Age-Group,/original.pdf)
+- Source File: [original.pdf (65.5 KB)](../../../../data/final-report-tables/chapter-7/7.14-Computer-and-Digital-Literacy-Rate-by-Age-Group,/original.pdf)
 
 ## Source
 

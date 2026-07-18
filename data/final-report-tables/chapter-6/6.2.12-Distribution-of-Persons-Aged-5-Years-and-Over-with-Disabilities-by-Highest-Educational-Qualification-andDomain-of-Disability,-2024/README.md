@@ -1,7 +1,7 @@
 # Distribution of Persons Aged 5 Years and Over with Disabilities by Highest Educational Qualification andDomain of Disability, 2024
 
 ![CPH](https://img.shields.io/badge/CPH-2024-blue)
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--07--14-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--07--18-green)
 
 *Table 6.2.12, Final Report, 2024 Census of Population and Housing, Department of Census and Statistics, Sri Lanka*
 
@@ -41,7 +41,7 @@
 ...
 ```
 
-- Source File: [lanka_data.json (8.8 kB)](../../../../data/final-report-tables/chapter-6/6.2.12-Distribution-of-Persons-Aged-5-Years-and-Over-with-Disabilities-by-Highest-Educational-Qualification-andDomain-of-Disability,-2024/lanka_data.json)
+- Source File: [lanka_data.json (8.6 KB)](../../../../data/final-report-tables/chapter-6/6.2.12-Distribution-of-Persons-Aged-5-Years-and-Over-with-Disabilities-by-Highest-Educational-Qualification-andDomain-of-Disability,-2024/lanka_data.json)
 
 ## Structured Data (similar to original layout)
 
@@ -79,7 +79,7 @@
 ...
 ```
 
-- Source File: [data.json (4.2 kB)](../../../../data/final-report-tables/chapter-6/6.2.12-Distribution-of-Persons-Aged-5-Years-and-Over-with-Disabilities-by-Highest-Educational-Qualification-andDomain-of-Disability,-2024/data.json)
+- Source File: [data.json (4.1 KB)](../../../../data/final-report-tables/chapter-6/6.2.12-Distribution-of-Persons-Aged-5-Years-and-Over-with-Disabilities-by-Highest-Educational-Qualification-andDomain-of-Disability,-2024/data.json)
 
 ## Raw Data (directly scraped from PDF)
 
@@ -116,13 +116,13 @@
         "Selfcare, such as \nwashing  or dressing",
 ...
 ```
-- Source File: [raw_data.json (2.6 kB)](../../../../data/final-report-tables/chapter-6/6.2.12-Distribution-of-Persons-Aged-5-Years-and-Over-with-Disabilities-by-Highest-Educational-Qualification-andDomain-of-Disability,-2024/raw_data.json)
+- Source File: [raw_data.json (2.6 KB)](../../../../data/final-report-tables/chapter-6/6.2.12-Distribution-of-Persons-Aged-5-Years-and-Over-with-Disabilities-by-Highest-Educational-Qualification-andDomain-of-Disability,-2024/raw_data.json)
 
 ## Original PDF Page
 
 ![Download the original PDF](../../../../data/final-report-tables/chapter-6/6.2.12-Distribution-of-Persons-Aged-5-Years-and-Over-with-Disabilities-by-Highest-Educational-Qualification-andDomain-of-Disability,-2024/original.png)
 
-- Source File: [original.pdf (72.6 kB)](../../../../data/final-report-tables/chapter-6/6.2.12-Distribution-of-Persons-Aged-5-Years-and-Over-with-Disabilities-by-Highest-Educational-Qualification-andDomain-of-Disability,-2024/original.pdf)
+- Source File: [original.pdf (70.9 KB)](../../../../data/final-report-tables/chapter-6/6.2.12-Distribution-of-Persons-Aged-5-Years-and-Over-with-Disabilities-by-Highest-Educational-Qualification-andDomain-of-Disability,-2024/original.pdf)
 
 (Table 1 on this page.)
 

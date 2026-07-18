@@ -1,7 +1,7 @@
 # Percentage Distribution of Household Heads by District and Highest Educational Qualification Obtained,
 
 ![CPH](https://img.shields.io/badge/CPH-2024-blue)
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--07--14-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--07--18-green)
 
 *Table 10.9, Final Report, 2024 Census of Population and Housing, Department of Census and Statistics, Sri Lanka*
 
@@ -41,7 +41,7 @@
 ...
 ```
 
-- Source File: [lanka_data.json (31.0 kB)](../../../../data/final-report-tables/chapter-10/10.9-Percentage-Distribution-of-Household-Heads-by-District-and-Highest-Educational-Qualification-Obtained,/lanka_data.json)
+- Source File: [lanka_data.json (30.2 KB)](../../../../data/final-report-tables/chapter-10/10.9-Percentage-Distribution-of-Household-Heads-by-District-and-Highest-Educational-Qualification-Obtained,/lanka_data.json)
 
 ## Structured Data (similar to original layout)
 
@@ -79,7 +79,7 @@
 ...
 ```
 
-- Source File: [data.json (16.5 kB)](../../../../data/final-report-tables/chapter-10/10.9-Percentage-Distribution-of-Household-Heads-by-District-and-Highest-Educational-Qualification-Obtained,/data.json)
+- Source File: [data.json (16.1 KB)](../../../../data/final-report-tables/chapter-10/10.9-Percentage-Distribution-of-Household-Heads-by-District-and-Highest-Educational-Qualification-Obtained,/data.json)
 
 ## Raw Data (directly scraped from PDF)
 
@@ -116,13 +116,13 @@
         ""
 ...
 ```
-- Source File: [raw_data.json (5.2 kB)](../../../../data/final-report-tables/chapter-10/10.9-Percentage-Distribution-of-Household-Heads-by-District-and-Highest-Educational-Qualification-Obtained,/raw_data.json)
+- Source File: [raw_data.json (5.1 KB)](../../../../data/final-report-tables/chapter-10/10.9-Percentage-Distribution-of-Household-Heads-by-District-and-Highest-Educational-Qualification-Obtained,/raw_data.json)
 
 ## Original PDF Page
 
 ![Download the original PDF](../../../../data/final-report-tables/chapter-10/10.9-Percentage-Distribution-of-Household-Heads-by-District-and-Highest-Educational-Qualification-Obtained,/original.png)
 
-- Source File: [original.pdf (69.5 kB)](../../../../data/final-report-tables/chapter-10/10.9-Percentage-Distribution-of-Household-Heads-by-District-and-Highest-Educational-Qualification-Obtained,/original.pdf)
+- Source File: [original.pdf (67.9 KB)](../../../../data/final-report-tables/chapter-10/10.9-Percentage-Distribution-of-Household-Heads-by-District-and-Highest-Educational-Qualification-Obtained,/original.pdf)
 
 ## Source
 

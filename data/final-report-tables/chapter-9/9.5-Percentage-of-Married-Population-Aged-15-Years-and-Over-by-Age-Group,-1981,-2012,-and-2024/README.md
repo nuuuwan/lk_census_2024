@@ -1,9 +1,47 @@
 # Percentage of Married Population Aged 15 Years and Over by Age Group, 1981, 2012, and 2024
 
 ![CPH](https://img.shields.io/badge/CPH-2024-blue)
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--07--14-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--07--18-green)
 
 *Table 9.5, Final Report, 2024 Census of Population and Housing, Department of Census and Statistics, Sri Lanka*
+
+## Structured Data formatted for [Lanka Data API](https://github.com/nuuuwan/lanka_data)
+
+```json
+{
+    "_meta": {
+        "source_url": "https://www.statistics.gov.lk/Resource/en/Population/CPH_2024/CPH2024_Final_Eng.pdf#page=179",
+        "source_description": "Table 9.5, Final Report, 2024 Census of Population and Housing, Department of Census and Statistics, Sri Lanka",
+        "what": {
+            "MarriedBySex": "Percentage of Married Population Aged 15 Years and Over by Age Group, 1981, 2012, and 2024"
+        },
+        "when": [
+            "1981",
+            "2012",
+            "2024"
+        ],
+        "where_who_types": [
+            "age_group"
+        ]
+    },
+    "MarriedBySex": {
+        "1981": {
+            "Population 15 Years and Over": {
+                "age_group": "Population 15 Years and Over",
+                "pct_values": {
+                    "MarriedFemale": 0.59,
+                    "MarriedMale": 0.552
+                }
+            },
+            "15-19": {
+                "age_group": "15-19",
+                "pct_values": {
+                    "MarriedFemale": 0.097,
+                    "MarriedMale": 0.009
+...
+```
+
+- Source File: [lanka_data.json (6.2 KB)](../../../../data/final-report-tables/chapter-9/9.5-Percentage-of-Married-Population-Aged-15-Years-and-Over-by-Age-Group,-1981,-2012,-and-2024/lanka_data.json)
 
 ## Structured Data (similar to original layout)
 
@@ -41,7 +79,7 @@
 ...
 ```
 
-- Source File: [data.json (3.4 kB)](../../../../data/final-report-tables/chapter-9/9.5-Percentage-of-Married-Population-Aged-15-Years-and-Over-by-Age-Group,-1981,-2012,-and-2024/data.json)
+- Source File: [data.json (3.3 KB)](../../../../data/final-report-tables/chapter-9/9.5-Percentage-of-Married-Population-Aged-15-Years-and-Over-by-Age-Group,-1981,-2012,-and-2024/data.json)
 
 ## Raw Data (directly scraped from PDF)
 
@@ -78,13 +116,13 @@
         "",
 ...
 ```
-- Source File: [raw_data.json (1.5 kB)](../../../../data/final-report-tables/chapter-9/9.5-Percentage-of-Married-Population-Aged-15-Years-and-Over-by-Age-Group,-1981,-2012,-and-2024/raw_data.json)
+- Source File: [raw_data.json (1.4 KB)](../../../../data/final-report-tables/chapter-9/9.5-Percentage-of-Married-Population-Aged-15-Years-and-Over-by-Age-Group,-1981,-2012,-and-2024/raw_data.json)
 
 ## Original PDF Page
 
 ![Download the original PDF](../../../../data/final-report-tables/chapter-9/9.5-Percentage-of-Married-Population-Aged-15-Years-and-Over-by-Age-Group,-1981,-2012,-and-2024/original.png)
 
-- Source File: [original.pdf (61.3 kB)](../../../../data/final-report-tables/chapter-9/9.5-Percentage-of-Married-Population-Aged-15-Years-and-Over-by-Age-Group,-1981,-2012,-and-2024/original.pdf)
+- Source File: [original.pdf (59.8 KB)](../../../../data/final-report-tables/chapter-9/9.5-Percentage-of-Married-Population-Aged-15-Years-and-Over-by-Age-Group,-1981,-2012,-and-2024/original.pdf)
 
 (Table 1 on this page.)
 

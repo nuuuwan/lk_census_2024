@@ -28,7 +28,7 @@ class FinalReportTableRawDataMixin:
 
     @property
     def raw_data_list(self):
-        if not self.raw_data_file.exists:
+        if not self.raw_data_file.exists():
             return None
 
         return self.raw_data_file.read()

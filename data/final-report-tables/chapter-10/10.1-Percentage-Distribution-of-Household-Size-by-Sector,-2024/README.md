@@ -1,7 +1,7 @@
 # Percentage Distribution of Household Size by Sector, 2024
 
 ![CPH](https://img.shields.io/badge/CPH-2024-blue)
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--07--14-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--07--18-green)
 
 *Table 10.1, Final Report, 2024 Census of Population and Housing, Department of Census and Statistics, Sri Lanka*
 
@@ -41,7 +41,7 @@
 ...
 ```
 
-- Source File: [data.json (699 B)](../../../../data/final-report-tables/chapter-10/10.1-Percentage-Distribution-of-Household-Size-by-Sector,-2024/data.json)
+- Source File: [data.json (699.0 B)](../../../../data/final-report-tables/chapter-10/10.1-Percentage-Distribution-of-Household-Size-by-Sector,-2024/data.json)
 
 ## Raw Data (directly scraped from PDF)
 
@@ -78,13 +78,13 @@
         "of \nHouseholds",
 ...
 ```
-- Source File: [raw_data.json (1.1 kB)](../../../../data/final-report-tables/chapter-10/10.1-Percentage-Distribution-of-Household-Size-by-Sector,-2024/raw_data.json)
+- Source File: [raw_data.json (1.1 KB)](../../../../data/final-report-tables/chapter-10/10.1-Percentage-Distribution-of-Household-Size-by-Sector,-2024/raw_data.json)
 
 ## Original PDF Page
 
 ![Download the original PDF](../../../../data/final-report-tables/chapter-10/10.1-Percentage-Distribution-of-Household-Size-by-Sector,-2024/original.png)
 
-- Source File: [original.pdf (80.5 kB)](../../../../data/final-report-tables/chapter-10/10.1-Percentage-Distribution-of-Household-Size-by-Sector,-2024/original.pdf)
+- Source File: [original.pdf (78.7 KB)](../../../../data/final-report-tables/chapter-10/10.1-Percentage-Distribution-of-Household-Size-by-Sector,-2024/original.pdf)
 
 ## Source
 

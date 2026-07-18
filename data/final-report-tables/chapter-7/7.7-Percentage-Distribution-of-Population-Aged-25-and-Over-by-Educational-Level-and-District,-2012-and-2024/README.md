@@ -1,9 +1,47 @@
 # Percentage Distribution of Population Aged 25 and Over by Educational Level and District, 2012 and 2024
 
 ![CPH](https://img.shields.io/badge/CPH-2024-blue)
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--07--14-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--07--18-green)
 
 *Table 7.7, Final Report, 2024 Census of Population and Housing, Department of Census and Statistics, Sri Lanka*
+
+## Structured Data formatted for [Lanka Data API](https://github.com/nuuuwan/lanka_data)
+
+```json
+{
+    "_meta": {
+        "source_url": "https://www.statistics.gov.lk/Resource/en/Population/CPH_2024/CPH2024_Final_Eng.pdf#page=154",
+        "source_description": "Table 7.7, Final Report, 2024 Census of Population and Housing, Department of Census and Statistics, Sri Lanka",
+        "what": {
+            "Education": "Percentage Distribution of Population Aged 25 and Over by Educational Level and District, 2012 and 2024"
+        },
+        "when": [
+            "2012",
+            "2024"
+        ],
+        "where_who_types": [
+            "district"
+        ]
+    },
+    "Education": {
+        "2012": {
+            "LK-11": {
+                "region_id": "LK-11",
+                "region_name": "Colombo",
+                "region_ent_type": "district",
+                "values": {
+                    "Passed610Years": 481591,
+                    "GceAl": 426469,
+                    "GceOl": 366995,
+                    "Passed15Years": 139255,
+                    "NoSchooling": 37715
+                },
+                "total_value": 1450574,
+                "pct_values": {
+...
+```
+
+- Source File: [lanka_data.json (26.5 KB)](../../../../data/final-report-tables/chapter-7/7.7-Percentage-Distribution-of-Population-Aged-25-and-Over-by-Educational-Level-and-District,-2012-and-2024/lanka_data.json)
 
 ## Structured Data (similar to original layout)
 
@@ -13,9 +51,9 @@
         "region_id": "LK-11",
         "region_name": "Colombo",
         "region_ent_type": "district",
+        "total_value_2012": 1450574,
+        "total_value_2024": 1601927,
         "values": {
-            "total_2012": 1450574,
-            "total_2024": 1601927,
             "p_no_schooling_2012": 0.026,
             "p_no_schooling_2024": 0.016,
             "p_passed_1_5_years_2012": 0.096,
@@ -32,16 +70,16 @@
         "region_id": "LK-12",
         "region_name": "Gampaha",
         "region_ent_type": "district",
+        "total_value_2012": 1419483,
+        "total_value_2024": 1620233,
         "values": {
-            "total_2012": 1419483,
-            "total_2024": 1620233,
             "p_no_schooling_2012": 0.018,
             "p_no_schooling_2024": 0.011,
             "p_passed_1_5_years_2012": 0.097,
 ...
 ```
 
-- Source File: [data.json (13.3 kB)](../../../../data/final-report-tables/chapter-7/7.7-Percentage-Distribution-of-Population-Aged-25-and-Over-by-Educational-Level-and-District,-2012-and-2024/data.json)
+- Source File: [data.json (13.2 KB)](../../../../data/final-report-tables/chapter-7/7.7-Percentage-Distribution-of-Population-Aged-25-and-Over-by-Educational-Level-and-District,-2012-and-2024/data.json)
 
 ## Raw Data (directly scraped from PDF)
 
@@ -78,13 +116,13 @@
         "6-10",
 ...
 ```
-- Source File: [raw_data.json (6.0 kB)](../../../../data/final-report-tables/chapter-7/7.7-Percentage-Distribution-of-Population-Aged-25-and-Over-by-Educational-Level-and-District,-2012-and-2024/raw_data.json)
+- Source File: [raw_data.json (5.9 KB)](../../../../data/final-report-tables/chapter-7/7.7-Percentage-Distribution-of-Population-Aged-25-and-Over-by-Educational-Level-and-District,-2012-and-2024/raw_data.json)
 
 ## Original PDF Page
 
 ![Download the original PDF](../../../../data/final-report-tables/chapter-7/7.7-Percentage-Distribution-of-Population-Aged-25-and-Over-by-Educational-Level-and-District,-2012-and-2024/original.png)
 
-- Source File: [original.pdf (78.0 kB)](../../../../data/final-report-tables/chapter-7/7.7-Percentage-Distribution-of-Population-Aged-25-and-Over-by-Educational-Level-and-District,-2012-and-2024/original.pdf)
+- Source File: [original.pdf (76.1 KB)](../../../../data/final-report-tables/chapter-7/7.7-Percentage-Distribution-of-Population-Aged-25-and-Over-by-Educational-Level-and-District,-2012-and-2024/original.pdf)
 
 ## Source
 

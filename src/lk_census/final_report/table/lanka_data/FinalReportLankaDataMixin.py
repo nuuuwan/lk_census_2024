@@ -1,9 +1,10 @@
 import os
 
+from utils_future import JSONFile, Log, Parse, String
+
 from lk_census.final_report.table.lanka_data.FinalReportLankaMetaDataMixin import (
     FinalReportLankaMetaDataMixin,
 )
-from utils_future import JSONFile, Log, Parse, String
 
 log = Log("FinalReportLankaDataMixin")
 
@@ -205,7 +206,7 @@ class FinalReportLankaDataMixin(FinalReportLankaMetaDataMixin):
         return lanka_data
 
     def build_lanka_data(self, force=False):
-        if not force and self.lanka_data_file.exists:
+        if not force and self.lanka_data_file.exists():
             return self.lanka_data_file.read()
 
         if not self.is_lanka_data_parser_implemented:
@@ -222,6 +223,6 @@ class FinalReportLankaDataMixin(FinalReportLankaMetaDataMixin):
 
     @property
     def lanka_data(self):
-        if not self.lanka_data_file.exists:
+        if not self.lanka_data_file.exists():
             return {}
         return self.lanka_data_file.read()

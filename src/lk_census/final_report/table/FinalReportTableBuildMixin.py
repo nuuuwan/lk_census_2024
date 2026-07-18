@@ -21,19 +21,19 @@ class FinalReportTableBuildMixin:
     # flake8: noqa: C901
     @cached_property
     def build_status(self):
-        if not self.original_pdf_file.exists:
+        if not self.original_pdf_file.exists():
             return 0
 
-        if not self.raw_data_file.exists:
+        if not self.raw_data_file.exists():
             return 1
 
         if self.is_complicated:
             return 2
 
-        if not self.data_file.exists:
+        if not self.data_file.exists():
             return 3
 
-        if not self.lanka_data_file.exists:
+        if not self.lanka_data_file.exists():
             return 4
 
         return 5

@@ -1,9 +1,47 @@
 # Deviations of Terminal Digits of Reported Age, 2012 and
 
 ![CPH](https://img.shields.io/badge/CPH-2024-blue)
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--07--14-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--07--18-green)
 
 *Table 12.2, Final Report, 2024 Census of Population and Housing, Department of Census and Statistics, Sri Lanka*
+
+## Structured Data formatted for [Lanka Data API](https://github.com/nuuuwan/lanka_data)
+
+```json
+{
+    "_meta": {
+        "source_url": "https://www.statistics.gov.lk/Resource/en/Population/CPH_2024/CPH2024_Final_Eng.pdf#page=219",
+        "source_description": "Table 12.2, Final Report, 2024 Census of Population and Housing, Department of Census and Statistics, Sri Lanka",
+        "what": {
+            "ReportedAgeTerminalDigitDeviation": "Deviations of Terminal Digits of Reported Age, 2012 and"
+        },
+        "when": [
+            "2012",
+            "2024"
+        ],
+        "where_who_types": [
+            "terminal_digit"
+        ]
+    },
+    "ReportedAgeTerminalDigitDeviation": {
+        "2012": {
+            "0": {
+                "terminal_digit": "0",
+                "values": {
+                    "DeviationBothSexes": 0.2,
+                    "DeviationMale": 0.2,
+                    "DeviationFemale": 0.1
+                }
+            },
+            "1": {
+                "terminal_digit": "1",
+                "values": {
+                    "DeviationMale": 0.2,
+                    "DeviationBothSexes": 0.1,
+...
+```
+
+- Source File: [lanka_data.json (4.6 KB)](../../../../data/final-report-tables/chapter-12/12.2-Deviations-of-Terminal-Digits-of-Reported-Age,-2012-and/lanka_data.json)
 
 ## Structured Data (similar to original layout)
 
@@ -12,36 +50,36 @@
     {
         "terminal_digit": "0",
         "values": {
-            "both_sexes_2012_myers_index": 0.2,
-            "male_2012_myers_index": 0.2,
-            "female_2012_myers_index": 0.1,
-            "both_sexes_2024_myers_index": -0.2,
-            "male_2024_myers_index": -0.2,
-            "female_2024_myers_index": -0.1
+            "deviation_both_sexes_2012": 0.2,
+            "deviation_male_2012": 0.2,
+            "deviation_female_2012": 0.1,
+            "deviation_both_sexes_2024": -0.2,
+            "deviation_male_2024": -0.2,
+            "deviation_female_2024": -0.1
         }
     },
     {
         "terminal_digit": "1",
         "values": {
-            "both_sexes_2012_myers_index": 0.1,
-            "male_2012_myers_index": 0.2,
-            "female_2012_myers_index": 0.1,
-            "both_sexes_2024_myers_index": -0.1,
-            "male_2024_myers_index": -0.1,
-            "female_2024_myers_index": -0.1
+            "deviation_both_sexes_2012": 0.1,
+            "deviation_male_2012": 0.2,
+            "deviation_female_2012": 0.1,
+            "deviation_both_sexes_2024": -0.1,
+            "deviation_male_2024": -0.1,
+            "deviation_female_2024": -0.1
         }
     },
     {
         "terminal_digit": "2",
         "values": {
-            "both_sexes_2012_myers_index": 0.2,
-            "male_2012_myers_index": 0.2,
-            "female_2012_myers_index": 0.1,
-            "both_sexes_2024_myers_index": 0.2,
+            "deviation_both_sexes_2012": 0.2,
+            "deviation_male_2012": 0.2,
+            "deviation_female_2012": 0.1,
+            "deviation_both_sexes_2024": 0.2,
 ...
 ```
 
-- Source File: [data.json (3.2 kB)](../../../../data/final-report-tables/chapter-12/12.2-Deviations-of-Terminal-Digits-of-Reported-Age,-2012-and/data.json)
+- Source File: [data.json (3.0 KB)](../../../../data/final-report-tables/chapter-12/12.2-Deviations-of-Terminal-Digits-of-Reported-Age,-2012-and/data.json)
 
 ## Raw Data (directly scraped from PDF)
 
@@ -78,13 +116,13 @@
         "",
 ...
 ```
-- Source File: [raw_data.json (2.1 kB)](../../../../data/final-report-tables/chapter-12/12.2-Deviations-of-Terminal-Digits-of-Reported-Age,-2012-and/raw_data.json)
+- Source File: [raw_data.json (2.1 KB)](../../../../data/final-report-tables/chapter-12/12.2-Deviations-of-Terminal-Digits-of-Reported-Age,-2012-and/raw_data.json)
 
 ## Original PDF Page
 
 ![Download the original PDF](../../../../data/final-report-tables/chapter-12/12.2-Deviations-of-Terminal-Digits-of-Reported-Age,-2012-and/original.png)
 
-- Source File: [original.pdf (63.2 kB)](../../../../data/final-report-tables/chapter-12/12.2-Deviations-of-Terminal-Digits-of-Reported-Age,-2012-and/original.pdf)
+- Source File: [original.pdf (61.7 KB)](../../../../data/final-report-tables/chapter-12/12.2-Deviations-of-Terminal-Digits-of-Reported-Age,-2012-and/original.pdf)
 
 ## Source
 

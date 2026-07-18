@@ -1,9 +1,47 @@
 # Language Literacy Rate by Language and Ethnic Group, 2012 and 2024
 
 ![CPH](https://img.shields.io/badge/CPH-2024-blue)
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--07--14-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--07--18-green)
 
 *Table 7.11, Final Report, 2024 Census of Population and Housing, Department of Census and Statistics, Sri Lanka*
+
+## Structured Data formatted for [Lanka Data API](https://github.com/nuuuwan/lanka_data)
+
+```json
+{
+    "_meta": {
+        "source_url": "https://www.statistics.gov.lk/Resource/en/Population/CPH_2024/CPH2024_Final_Eng.pdf#page=158",
+        "source_description": "Table 7.11, Final Report, 2024 Census of Population and Housing, Department of Census and Statistics, Sri Lanka",
+        "what": {
+            "LanguageLiteracyByEthnicity": "Language Literacy Rate by Language and Ethnic Group, 2012 and 2024"
+        },
+        "when": [
+            "2012",
+            "2024"
+        ],
+        "where_who_types": [
+            "ethnicity"
+        ]
+    },
+    "LanguageLiteracyByEthnicity": {
+        "2012": {
+            "Sri Lanka": {
+                "ethnicity": "Sri Lanka",
+                "pct_values": {
+                    "AtLeastOneLiteracyRate": 0.957,
+                    "SinhalaLiteracyRate": 0.797,
+                    "EnglishLiteracyRate": 0.308,
+                    "TamilLiteracyRate": 0.264
+                }
+            },
+            "Sinhala": {
+                "ethnicity": "Sinhala",
+                "pct_values": {
+                    "AtLeastOneLiteracyRate": 0.965,
+...
+```
+
+- Source File: [lanka_data.json (4.7 KB)](../../../../data/final-report-tables/chapter-7/7.11-Language-Literacy-Rate-by-Language-and-Ethnic-Group,-2012-and-2024/lanka_data.json)
 
 ## Structured Data (similar to original layout)
 
@@ -41,7 +79,7 @@
 ...
 ```
 
-- Source File: [data.json (3.4 kB)](../../../../data/final-report-tables/chapter-7/7.11-Language-Literacy-Rate-by-Language-and-Ethnic-Group,-2012-and-2024/data.json)
+- Source File: [data.json (3.4 KB)](../../../../data/final-report-tables/chapter-7/7.11-Language-Literacy-Rate-by-Language-and-Ethnic-Group,-2012-and-2024/data.json)
 
 ## Raw Data (directly scraped from PDF)
 
@@ -78,13 +116,13 @@
         ""
 ...
 ```
-- Source File: [raw_data.json (2.5 kB)](../../../../data/final-report-tables/chapter-7/7.11-Language-Literacy-Rate-by-Language-and-Ethnic-Group,-2012-and-2024/raw_data.json)
+- Source File: [raw_data.json (2.4 KB)](../../../../data/final-report-tables/chapter-7/7.11-Language-Literacy-Rate-by-Language-and-Ethnic-Group,-2012-and-2024/raw_data.json)
 
 ## Original PDF Page
 
 ![Download the original PDF](../../../../data/final-report-tables/chapter-7/7.11-Language-Literacy-Rate-by-Language-and-Ethnic-Group,-2012-and-2024/original.png)
 
-- Source File: [original.pdf (64.1 kB)](../../../../data/final-report-tables/chapter-7/7.11-Language-Literacy-Rate-by-Language-and-Ethnic-Group,-2012-and-2024/original.pdf)
+- Source File: [original.pdf (62.6 KB)](../../../../data/final-report-tables/chapter-7/7.11-Language-Literacy-Rate-by-Language-and-Ethnic-Group,-2012-and-2024/original.pdf)
 
 ## Source
 

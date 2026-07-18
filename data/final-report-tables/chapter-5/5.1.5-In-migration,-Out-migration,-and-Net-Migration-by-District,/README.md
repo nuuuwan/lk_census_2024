@@ -1,7 +1,7 @@
 # In-migration, Out-migration, and Net Migration by District,
 
 ![CPH](https://img.shields.io/badge/CPH-2024-blue)
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--07--14-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--07--18-green)
 
 *Table 5.1.5, Final Report, 2024 Census of Population and Housing, Department of Census and Statistics, Sri Lanka*
 
@@ -41,7 +41,7 @@
 ...
 ```
 
-- Source File: [data.json (4.5 kB)](../../../../data/final-report-tables/chapter-5/5.1.5-In-migration,-Out-migration,-and-Net-Migration-by-District,/data.json)
+- Source File: [data.json (4.4 KB)](../../../../data/final-report-tables/chapter-5/5.1.5-In-migration,-Out-migration,-and-Net-Migration-by-District,/data.json)
 
 ## Raw Data (directly scraped from PDF)
 
@@ -78,13 +78,13 @@
         "+66,267"
 ...
 ```
-- Source File: [raw_data.json (3.2 kB)](../../../../data/final-report-tables/chapter-5/5.1.5-In-migration,-Out-migration,-and-Net-Migration-by-District,/raw_data.json)
+- Source File: [raw_data.json (3.1 KB)](../../../../data/final-report-tables/chapter-5/5.1.5-In-migration,-Out-migration,-and-Net-Migration-by-District,/raw_data.json)
 
 ## Original PDF Page
 
 ![Download the original PDF](../../../../data/final-report-tables/chapter-5/5.1.5-In-migration,-Out-migration,-and-Net-Migration-by-District,/original.png)
 
-- Source File: [original.pdf (23.7 kB)](../../../../data/final-report-tables/chapter-5/5.1.5-In-migration,-Out-migration,-and-Net-Migration-by-District,/original.pdf)
+- Source File: [original.pdf (23.2 KB)](../../../../data/final-report-tables/chapter-5/5.1.5-In-migration,-Out-migration,-and-Net-Migration-by-District,/original.pdf)
 
 ## Source
 

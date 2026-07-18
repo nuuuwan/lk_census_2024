@@ -1,9 +1,47 @@
 # Percentage of households Using Firewood and gas, by Sector and District,
 
 ![CPH](https://img.shields.io/badge/CPH-2024-blue)
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--07--14-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--07--18-green)
 
 *Table 11.12, Final Report, 2024 Census of Population and Housing, Department of Census and Statistics, Sri Lanka*
+
+## Structured Data formatted for [Lanka Data API](https://github.com/nuuuwan/lanka_data)
+
+```json
+{
+    "_meta": {
+        "source_url": "https://www.statistics.gov.lk/Resource/en/Population/CPH_2024/CPH2024_Final_Eng.pdf#page=211",
+        "source_description": "Table 11.12, Final Report, 2024 Census of Population and Housing, Department of Census and Statistics, Sri Lanka",
+        "what": {
+            "HouseholdEnergyFirewoodAndGas": "Percentage of households Using Firewood and gas, by Sector and District,"
+        },
+        "when": [
+            "2012",
+            "2024"
+        ],
+        "where_who_types": [
+            "district"
+        ]
+    },
+    "HouseholdEnergyFirewoodAndGas": {
+        "2012": {
+            "LK-11": {
+                "region_id": "LK-11",
+                "region_name": "Colombo",
+                "region_ent_type": "district",
+                "pct_values": {
+                    "Gas": 0.605,
+                    "Firewood": 0.288
+                }
+            },
+            "LK-12": {
+                "region_id": "LK-12",
+                "region_name": "Gampaha",
+                "region_ent_type": "district",
+...
+```
+
+- Source File: [lanka_data.json (11.1 KB)](../../../../data/final-report-tables/chapter-11/11.12-Percentage-of-households-Using-Firewood-and-gas,-by-Sector-and-District,/lanka_data.json)
 
 ## Structured Data (similar to original layout)
 
@@ -41,7 +79,7 @@
 ...
 ```
 
-- Source File: [data.json (6.0 kB)](../../../../data/final-report-tables/chapter-11/11.12-Percentage-of-households-Using-Firewood-and-gas,-by-Sector-and-District,/data.json)
+- Source File: [data.json (5.9 KB)](../../../../data/final-report-tables/chapter-11/11.12-Percentage-of-households-Using-Firewood-and-gas,-by-Sector-and-District,/data.json)
 
 ## Raw Data (directly scraped from PDF)
 
@@ -78,13 +116,13 @@
     ],
 ...
 ```
-- Source File: [raw_data.json (2.9 kB)](../../../../data/final-report-tables/chapter-11/11.12-Percentage-of-households-Using-Firewood-and-gas,-by-Sector-and-District,/raw_data.json)
+- Source File: [raw_data.json (2.8 KB)](../../../../data/final-report-tables/chapter-11/11.12-Percentage-of-households-Using-Firewood-and-gas,-by-Sector-and-District,/raw_data.json)
 
 ## Original PDF Page
 
 ![Download the original PDF](../../../../data/final-report-tables/chapter-11/11.12-Percentage-of-households-Using-Firewood-and-gas,-by-Sector-and-District,/original.png)
 
-- Source File: [original.pdf (85.2 kB)](../../../../data/final-report-tables/chapter-11/11.12-Percentage-of-households-Using-Firewood-and-gas,-by-Sector-and-District,/original.pdf)
+- Source File: [original.pdf (83.2 KB)](../../../../data/final-report-tables/chapter-11/11.12-Percentage-of-households-Using-Firewood-and-gas,-by-Sector-and-District,/original.pdf)
 
 ## Source
 

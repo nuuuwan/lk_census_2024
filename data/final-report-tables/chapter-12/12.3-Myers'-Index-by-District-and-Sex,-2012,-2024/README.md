@@ -1,9 +1,47 @@
 # Myers' Index by District and Sex, 2012, 2024
 
 ![CPH](https://img.shields.io/badge/CPH-2024-blue)
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--07--14-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--07--18-green)
 
 *Table 12.3, Final Report, 2024 Census of Population and Housing, Department of Census and Statistics, Sri Lanka*
+
+## Structured Data formatted for [Lanka Data API](https://github.com/nuuuwan/lanka_data)
+
+```json
+{
+    "_meta": {
+        "source_url": "https://www.statistics.gov.lk/Resource/en/Population/CPH_2024/CPH2024_Final_Eng.pdf#page=220",
+        "source_description": "Table 12.3, Final Report, 2024 Census of Population and Housing, Department of Census and Statistics, Sri Lanka",
+        "what": {
+            "MyersIndexBySex": "Myers' Index by District and Sex, 2012, 2024"
+        },
+        "when": [
+            "2012",
+            "2024"
+        ],
+        "where_who_types": [
+            "district"
+        ]
+    },
+    "MyersIndexBySex": {
+        "2012": {
+            "LK-11": {
+                "region_id": "LK-11",
+                "region_name": "Colombo",
+                "region_ent_type": "district",
+                "values": {
+                    "IndexMale": 2.5,
+                    "IndexBothSexes": 2.2,
+                    "IndexFemale": 2.0
+                }
+            },
+            "LK-12": {
+                "region_id": "LK-12",
+                "region_name": "Gampaha",
+...
+```
+
+- Source File: [lanka_data.json (12.7 KB)](../../../../data/final-report-tables/chapter-12/12.3-Myers'-Index-by-District-and-Sex,-2012,-2024/lanka_data.json)
 
 ## Structured Data (similar to original layout)
 
@@ -19,8 +57,7 @@
             "index_female_2012": 2.0,
             "index_both_sexes_2024": 1.6,
             "index_male_2024": 1.9,
-            "index_female_2024": 1.5,
-            "p_change": -0.273
+            "index_female_2024": 1.5
         }
     },
     {
@@ -33,15 +70,16 @@
             "index_female_2012": 2.2,
             "index_both_sexes_2024": 1.3,
             "index_male_2024": 1.3,
-            "index_female_2024": 1.4,
-            "p_change": -0.409
+            "index_female_2024": 1.4
         }
     },
     {
+        "region_id": "LK-13",
+        "region_name": "Kalutara",
 ...
 ```
 
-- Source File: [data.json (8.6 kB)](../../../../data/final-report-tables/chapter-12/12.3-Myers'-Index-by-District-and-Sex,-2012,-2024/data.json)
+- Source File: [data.json (7.8 KB)](../../../../data/final-report-tables/chapter-12/12.3-Myers'-Index-by-District-and-Sex,-2012,-2024/data.json)
 
 ## Raw Data (directly scraped from PDF)
 
@@ -78,13 +116,13 @@
         ""
 ...
 ```
-- Source File: [raw_data.json (5.0 kB)](../../../../data/final-report-tables/chapter-12/12.3-Myers'-Index-by-District-and-Sex,-2012,-2024/raw_data.json)
+- Source File: [raw_data.json (4.9 KB)](../../../../data/final-report-tables/chapter-12/12.3-Myers'-Index-by-District-and-Sex,-2012,-2024/raw_data.json)
 
 ## Original PDF Page
 
 ![Download the original PDF](../../../../data/final-report-tables/chapter-12/12.3-Myers'-Index-by-District-and-Sex,-2012,-2024/original.png)
 
-- Source File: [original.pdf (52.0 kB)](../../../../data/final-report-tables/chapter-12/12.3-Myers'-Index-by-District-and-Sex,-2012,-2024/original.pdf)
+- Source File: [original.pdf (50.7 KB)](../../../../data/final-report-tables/chapter-12/12.3-Myers'-Index-by-District-and-Sex,-2012,-2024/original.pdf)
 
 ## Source
 

@@ -1,9 +1,47 @@
 # Number and Percentage Distribution of Married Women Aged 15–49 Years by Age Group, 2012 and 2024
 
 ![CPH](https://img.shields.io/badge/CPH-2024-blue)
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--07--14-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--07--18-green)
 
 *Table 9.13, Final Report, 2024 Census of Population and Housing, Department of Census and Statistics, Sri Lanka*
+
+## Structured Data formatted for [Lanka Data API](https://github.com/nuuuwan/lanka_data)
+
+```json
+{
+    "_meta": {
+        "source_url": "https://www.statistics.gov.lk/Resource/en/Population/CPH_2024/CPH2024_Final_Eng.pdf#page=185",
+        "source_description": "Table 9.13, Final Report, 2024 Census of Population and Housing, Department of Census and Statistics, Sri Lanka",
+        "what": {
+            "MarriedWomenByAgeGroup": "Number and Percentage Distribution of Married Women Aged 15\u201349 Years by Age Group, 2012 and 2024"
+        },
+        "when": [
+            "2012",
+            "2024"
+        ],
+        "where_who_types": [
+            "age_group"
+        ]
+    },
+    "MarriedWomenByAgeGroup": {
+        "2012": {
+            "15-19": {
+                "age_group": "15-19",
+                "values": {
+                    "Population": 85392
+                }
+            },
+            "20-24": {
+                "age_group": "20-24",
+                "values": {
+                    "Population": 335158
+                }
+            },
+            "25-29": {
+...
+```
+
+- Source File: [lanka_data.json (2.4 KB)](../../../../data/final-report-tables/chapter-9/9.13-Number-and-Percentage-Distribution-of-Married-Women-Aged-15–49-Years-by-Age-Group,-2012-and-2024/lanka_data.json)
 
 ## Structured Data (similar to original layout)
 
@@ -12,36 +50,36 @@
     {
         "age_group": "15-19",
         "values": {
-            "2012_population": 85392,
-            "2024_population": 30199
+            "population_2012": 85392,
+            "population_2024": 30199
         }
     },
     {
         "age_group": "20-24",
         "values": {
-            "2012_population": 335158,
-            "2024_population": 198888
+            "population_2012": 335158,
+            "population_2024": 198888
         }
     },
     {
         "age_group": "25-29",
         "values": {
-            "2012_population": 598450,
-            "2024_population": 438683
+            "population_2012": 598450,
+            "population_2024": 438683
         }
     },
     {
         "age_group": "30-34",
         "values": {
-            "2012_population": 734555,
-            "2024_population": 635307
+            "population_2012": 734555,
+            "population_2024": 635307
         }
     },
     {
 ...
 ```
 
-- Source File: [data.json (984 B)](../../../../data/final-report-tables/chapter-9/9.13-Number-and-Percentage-Distribution-of-Married-Women-Aged-15–49-Years-by-Age-Group,-2012-and-2024/data.json)
+- Source File: [data.json (984.0 B)](../../../../data/final-report-tables/chapter-9/9.13-Number-and-Percentage-Distribution-of-Married-Women-Aged-15–49-Years-by-Age-Group,-2012-and-2024/data.json)
 
 ## Raw Data (directly scraped from PDF)
 
@@ -78,13 +116,13 @@
         "",
 ...
 ```
-- Source File: [raw_data.json (3.2 kB)](../../../../data/final-report-tables/chapter-9/9.13-Number-and-Percentage-Distribution-of-Married-Women-Aged-15–49-Years-by-Age-Group,-2012-and-2024/raw_data.json)
+- Source File: [raw_data.json (3.1 KB)](../../../../data/final-report-tables/chapter-9/9.13-Number-and-Percentage-Distribution-of-Married-Women-Aged-15–49-Years-by-Age-Group,-2012-and-2024/raw_data.json)
 
 ## Original PDF Page
 
 ![Download the original PDF](../../../../data/final-report-tables/chapter-9/9.13-Number-and-Percentage-Distribution-of-Married-Women-Aged-15–49-Years-by-Age-Group,-2012-and-2024/original.png)
 
-- Source File: [original.pdf (53.7 kB)](../../../../data/final-report-tables/chapter-9/9.13-Number-and-Percentage-Distribution-of-Married-Women-Aged-15–49-Years-by-Age-Group,-2012-and-2024/original.pdf)
+- Source File: [original.pdf (52.4 KB)](../../../../data/final-report-tables/chapter-9/9.13-Number-and-Percentage-Distribution-of-Married-Women-Aged-15–49-Years-by-Age-Group,-2012-and-2024/original.pdf)
 
 ## Source
 

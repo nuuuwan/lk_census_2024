@@ -13,7 +13,7 @@ def get_years_in_keys(values):
     years = set()
     for key in keys:
         for i in range(len(key) - 3):
-            part = key[i: i + 4]
+            part = key[i : i + 4]
             if part.isdigit():
                 years.add(int(part))
     return sorted(years)
@@ -53,7 +53,7 @@ if __name__ == "__main__":
 
         if not table.is_lanka_data_metadata_complete:
             lanka_data_metadata = {}
-            if table.lanka_data_metadata_file.exists:
+            if table.lanka_data_metadata_file.exists():
                 lanka_data_metadata = table.lanka_data_metadata_file.read()
             if "what_label" not in lanka_data_metadata:
                 lanka_data_metadata |= {

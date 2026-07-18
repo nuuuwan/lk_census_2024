@@ -18,7 +18,7 @@ class FinalReportLankaMetaDataMixin:
 
     @cached_property
     def lanka_data_metadata(self):
-        if not self.lanka_data_metadata_file.exists:
+        if not self.lanka_data_metadata_file.exists():
             return {}
         return self.lanka_data_metadata_file.read()
 

@@ -1,9 +1,47 @@
 # Number of Occupied Housing Units by Sector, 2012 and 2024
 
 ![CPH](https://img.shields.io/badge/CPH-2024-blue)
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--07--14-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--07--18-green)
 
 *Table 11.1, Final Report, 2024 Census of Population and Housing, Department of Census and Statistics, Sri Lanka*
+
+## Structured Data formatted for [Lanka Data API](https://github.com/nuuuwan/lanka_data)
+
+```json
+{
+    "_meta": {
+        "source_url": "https://www.statistics.gov.lk/Resource/en/Population/CPH_2024/CPH2024_Final_Eng.pdf#page=201",
+        "source_description": "Table 11.1, Final Report, 2024 Census of Population and Housing, Department of Census and Statistics, Sri Lanka",
+        "what": {
+            "HouseholdsBySector": "Number of Occupied Housing Units by Sector, 2012 and 2024"
+        },
+        "when": [
+            "2012",
+            "2024"
+        ],
+        "where_who_types": [
+            "sector"
+        ]
+    },
+    "HouseholdsBySector": {
+        "2012": {
+            "Sri Lanka": {
+                "sector": "Sri Lanka",
+                "values": {
+                    "Households": 5207740
+                }
+            },
+            "Urban*": {
+                "sector": "Urban*",
+                "values": {
+                    "Households": 891103
+                }
+            },
+            "Rural": {
+...
+```
+
+- Source File: [lanka_data.json (1.5 KB)](../../../../data/final-report-tables/chapter-11/11.1-Number-of-Occupied-Housing-Units-by-Sector,-2012-and-2024/lanka_data.json)
 
 ## Structured Data (similar to original layout)
 
@@ -40,7 +78,7 @@
 ]
 ```
 
-- Source File: [data.json (497 B)](../../../../data/final-report-tables/chapter-11/11.1-Number-of-Occupied-Housing-Units-by-Sector,-2012-and-2024/data.json)
+- Source File: [data.json (497.0 B)](../../../../data/final-report-tables/chapter-11/11.1-Number-of-Occupied-Housing-Units-by-Sector,-2012-and-2024/data.json)
 
 ## Raw Data (directly scraped from PDF)
 
@@ -77,13 +115,13 @@
         "horizontally, are called 'single housing units\u2019."
 ...
 ```
-- Source File: [raw_data.json (3.2 kB)](../../../../data/final-report-tables/chapter-11/11.1-Number-of-Occupied-Housing-Units-by-Sector,-2012-and-2024/raw_data.json)
+- Source File: [raw_data.json (3.1 KB)](../../../../data/final-report-tables/chapter-11/11.1-Number-of-Occupied-Housing-Units-by-Sector,-2012-and-2024/raw_data.json)
 
 ## Original PDF Page
 
 ![Download the original PDF](../../../../data/final-report-tables/chapter-11/11.1-Number-of-Occupied-Housing-Units-by-Sector,-2012-and-2024/original.png)
 
-- Source File: [original.pdf (53.4 kB)](../../../../data/final-report-tables/chapter-11/11.1-Number-of-Occupied-Housing-Units-by-Sector,-2012-and-2024/original.pdf)
+- Source File: [original.pdf (52.1 KB)](../../../../data/final-report-tables/chapter-11/11.1-Number-of-Occupied-Housing-Units-by-Sector,-2012-and-2024/original.pdf)
 
 ## Source
 

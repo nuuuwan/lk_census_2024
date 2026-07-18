@@ -1,8 +1,8 @@
 import os
 
+from utils_future import JSONFile, Log, TSVFile
+
 from gig_future import Ent, EntType
-from utils_future import JSONFile, Log
-from utils_future.file import TSVFile
 
 log = Log("XLSXDataTableAllDataMixin")
 
@@ -14,7 +14,7 @@ class XLSXDataTableAllDataMixin:
 
     # flake8: noqa: CFQ001, C901
     def build_all_data_json(self):
-        if self.data_file.exists:
+        if self.data_file.exists():
             log.debug(f"{self.data_file} exists.")
             return self.data_file.read()
 
@@ -97,9 +97,7 @@ class XLSXDataTableAllDataMixin:
             )
 
         gnd_ids_in_data_table = set(d["region_id"] for d in gnd_data_list)
-        gnd_ids_not_in_data_table = (
-            set(gnd_idx.keys()) - gnd_ids_in_data_table
-        )
+        gnd_ids_not_in_data_table = set(gnd_idx.keys()) - gnd_ids_in_data_table
         if gnd_ids_not_in_data_table:
             log.warning(
                 f"{len(gnd_ids_not_in_data_table)}"
@@ -116,7 +114,7 @@ class XLSXDataTableAllDataMixin:
 
     def build_all_data_tsv(self):
         tsv_file = self.tsv_file
-        if tsv_file.exists:
+        if tsv_file.exists():
             log.debug(f"{tsv_file} exists.")
             return
 

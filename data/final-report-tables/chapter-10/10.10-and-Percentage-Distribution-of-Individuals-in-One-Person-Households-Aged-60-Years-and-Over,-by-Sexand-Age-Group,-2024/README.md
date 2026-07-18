@@ -1,7 +1,7 @@
 # and Percentage Distribution of Individuals in One Person Households Aged 60 Years and Over, by Sexand Age Group, 2024
 
 ![CPH](https://img.shields.io/badge/CPH-2024-blue)
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--07--14-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--07--18-green)
 
 *Table 10.10, Final Report, 2024 Census of Population and Housing, Department of Census and Statistics, Sri Lanka*
 
@@ -40,13 +40,13 @@
         ""
 ...
 ```
-- Source File: [raw_data.json (2.1 kB)](../../../../data/final-report-tables/chapter-10/10.10-and-Percentage-Distribution-of-Individuals-in-One-Person-Households-Aged-60-Years-and-Over,-by-Sexand-Age-Group,-2024/raw_data.json)
+- Source File: [raw_data.json (2.1 KB)](../../../../data/final-report-tables/chapter-10/10.10-and-Percentage-Distribution-of-Individuals-in-One-Person-Households-Aged-60-Years-and-Over,-by-Sexand-Age-Group,-2024/raw_data.json)
 
 ## Original PDF Page
 
 ![Download the original PDF](../../../../data/final-report-tables/chapter-10/10.10-and-Percentage-Distribution-of-Individuals-in-One-Person-Households-Aged-60-Years-and-Over,-by-Sexand-Age-Group,-2024/original.png)
 
-- Source File: [original.pdf (97.1 kB)](../../../../data/final-report-tables/chapter-10/10.10-and-Percentage-Distribution-of-Individuals-in-One-Person-Households-Aged-60-Years-and-Over,-by-Sexand-Age-Group,-2024/original.pdf)
+- Source File: [original.pdf (94.8 KB)](../../../../data/final-report-tables/chapter-10/10.10-and-Percentage-Distribution-of-Individuals-in-One-Person-Households-Aged-60-Years-and-Over,-by-Sexand-Age-Group,-2024/original.pdf)
 
 ## Source
 
