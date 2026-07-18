@@ -17,5 +17,12 @@
     "is_census_2012",
     "is_census_2024"
   ],
-  "is_summable": false
+  "is_summable": false,
+  "entity_class_name": "Census",
+  "time_value": "<FromKey>",
+  "row_dim_class_name": "CensusTopic",
+  "row_dim_key": "topic",
+  "col_dim_class_name": "Time",
+  "cell_label": "WasTopicIncluded",
+  "cell_class_name": "Bool"
 }
