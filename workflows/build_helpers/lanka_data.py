@@ -16,6 +16,9 @@ if __name__ == "__main__":
         if table.build_status != 4:
             continue
 
+        if table.lanka_data_pass:
+            continue
+
         print_line()
 
         print(table.table_num)

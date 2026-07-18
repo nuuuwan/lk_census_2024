@@ -22,6 +22,10 @@ class FinalReportLankaMetaDataMixin:
             return {}
         return self.lanka_data_metadata_file.read()
 
+    @cached_property
+    def lanka_data_pass(self):
+        return self.lanka_data_metadata.get("lanka_data_pass", False)
+
     # Common to all Adapters
     @cached_property
     def entity_class_name(self):
