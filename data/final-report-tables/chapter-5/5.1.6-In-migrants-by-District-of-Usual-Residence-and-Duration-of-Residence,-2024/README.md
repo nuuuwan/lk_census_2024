@@ -15,7 +15,7 @@
                 "TimeGroup0510More:00To04Years": {
                     "Count": "Int:149236"
                 },
-                "TimeGroup0510More:04To09Years": {
+                "TimeGroup0510More:05To09Years": {
                     "Count": "Int:65105"
                 },
                 "TimeGroup0510More:10OrMoreYears": {
@@ -26,7 +26,7 @@
                 "TimeGroup0510More:00To04Years": {
                     "Count": "Int:139859"
                 },
-                "TimeGroup0510More:04To09Years": {
+                "TimeGroup0510More:05To09Years": {
                     "Count": "Int:71540"
                 },
                 "TimeGroup0510More:10OrMoreYears": {
@@ -37,7 +37,7 @@
                 "TimeGroup0510More:00To04Years": {
                     "Count": "Int:47096"
                 },
-                "TimeGroup0510More:04To09Years": {
+                "TimeGroup0510More:05To09Years": {
 ...
 ```
 
