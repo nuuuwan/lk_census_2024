@@ -35,7 +35,10 @@ if __name__ == "__main__":
         print(json.dumps(table.data_list[0], indent=4))
         print_line()
 
-        table.fields_file.open("code")
+        if table.is_lanka_data_fields_complete:
+            table.build_lanka_data()
+        else:
+            table.fields_file.open("code")
 
         ReadMe().build()
         break

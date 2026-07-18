@@ -7,21 +7,48 @@ log = Log("FinalReportLankaMetaDataMixin")
 
 
 class FinalReportLankaMetaDataMixin:
-    @property
-    def lanka_data_metadata_file(self) -> JSONFile:
-        return JSONFile(
-            os.path.join(
-                self.dir_data,
-                "lanka_data_metadata.json",
-            )
-        )
-
-    @cached_property
-    def lanka_data_metadata(self):
-        if not self.lanka_data_metadata_file.exists():
-            return {}
-        return self.lanka_data_metadata_file.read()
-
     @cached_property
     def lanka_data_pass(self):
-        return self.lanka_data_metadata.get("lanka_data_pass", False)
+        return self.fields.get("lanka_data_pass", False)
+
+    # Fields
+
+    @cached_property
+    def entity_class_name(self):
+        return self.fields.get("entity_class_name", None)
+
+    @cached_property
+    def time_value(self):
+        return self.fields.get("time_value", None)
+
+    @cached_property
+    def row_dim_class_name(self):
+        return self.fields.get("row_dim_class_name", None)
+
+    @cached_property
+    def row_dim_key(self):
+        return self.fields.get("row_dim_key", None)
+
+    @cached_property
+    def col_dim_class_name(self):
+        return self.fields.get("col_dim_class_name", None)
+
+    @cached_property
+    def cell_class_name(self):
+        return self.fields.get("cell_class_name", None)
+
+    @cached_property
+    def cell_label(self):
+        return self.fields.get("cell_label", None)
+
+    @cached_property
+    def is_lanka_data_fields_complete(self):
+        return bool(
+            self.entity_class_name
+            and self.time_value
+            and self.row_dim_class_name
+            and self.row_dim_key
+            and self.col_dim_class_name
+            and self.cell_label
+            and self.cell_class_name
+        )

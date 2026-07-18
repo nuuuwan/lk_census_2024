@@ -1,11 +1,6 @@
 import os
 
-from ds import (
-    DimToTimeToValueAdapter,
-    DimToValueAdapter,
-    GenericValueAdapter,
-    RegionValueAdapter,
-)
+from ds import StandardTableAdapter
 from utils_future import JSONFile, Log
 
 from lk_census.final_report.table.lanka_data.FinalReportLankaMetaDataMixin import (
@@ -26,7 +21,24 @@ class FinalReportLankaDataMixin(FinalReportLankaMetaDataMixin):
         )
 
     def build_lanka_data(self, force=False):
-        pass
+        if self.lanka_data_pass and not force:
+            return
+        assert (
+            self.is_lanka_data_fields_complete
+        ), "Lanka data fields are not complete"
+
+        datumset = StandardTableAdapter.build_datumset(
+            d_list=self.data_list,
+            entity_class_name=self.entity_class_name,
+            time_value=self.time_value,
+            row_dim_class_name=self.row_dim_class_name,
+            row_dim_key=self.row_dim_key,
+            col_dim_class_name=self.col_dim_class_name,
+            cell_label=self.cell_label,
+            cell_class_name=self.cell_class_name,
+        )
+        self.lanka_data_file.write(datumset.to_data())
+        log.info(f"Wrote {self.lanka_data_file}")
 
     @property
     def lanka_data(self):
