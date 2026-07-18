@@ -33,12 +33,19 @@ if __name__ == "__main__":
             lanka_data_metadata = {}
             if table.lanka_data_metadata_file.exists():
                 lanka_data_metadata = table.lanka_data_metadata_file.read()
-            if "what_label" not in lanka_data_metadata:
+            if not lanka_data_metadata.get("entity_class_name"):
                 lanka_data_metadata |= {
-                    "what_label": table.table_name,
+                    "entity_class_name": None,
+                    "year": 2024,
+                    "measurement_class_name": None,
                 }
             table.lanka_data_metadata_file.write(lanka_data_metadata)
+
         table.lanka_data_metadata_file.open("code")
+
+        if table.is_lanka_data_metadata_complete:
+            table.build_lanka_data(force=True)
+            table.lanka_data_file.open("code")
 
         ReadMe().build()
         break

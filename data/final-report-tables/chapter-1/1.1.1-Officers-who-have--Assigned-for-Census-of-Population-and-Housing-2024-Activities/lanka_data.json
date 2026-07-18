@@ -1,0 +1,1659 @@
+{
+  "Census": {
+    "Time:2024": {
+      "District:LK-11": {
+        "CensusOfficer:DeputyCensusCommissioners": {
+          "Count": "Int:14"
+        },
+        "CensusOfficer:AssistantCensusCommissioners": {
+          "Count": "Int:14"
+        },
+        "CensusOfficer:TechnicalStaffZonalSupervisorsAndDistrictStatisticalBranchHead": {
+          "Count": "Int:18"
+        },
+        "CensusOfficer:TechnicalStaffDivisionalCensusOfficer": {
+          "Count": "Int:13"
+        },
+        "CensusOfficer:TechnicalStaffAreaSupervisors": {
+          "Count": "Int:53"
+        },
+        "CensusOfficer:TechnicalStaffCircleOfficers": {
+          "Count": "Int:98"
+        },
+        "CensusOfficer:OtherNonTechnicalStaff": {
+          "Count": "Int:70"
+        },
+        "CensusOfficer:EnumeratorsWhoUsedTabletComputersCapi": {
+          "Count": "Int:1104"
+        },
+        "CensusOfficer:EnumeratorsWhoUsedSmartPhonesByoad": {
+          "Count": "Int:1986"
+        }
+      },
+      "District:LK-12": {
+        "CensusOfficer:DeputyCensusCommissioners": {
+          "Count": "Int:14"
+        },
+        "CensusOfficer:AssistantCensusCommissioners": {
+          "Count": "Int:14"
+        },
+        "CensusOfficer:TechnicalStaffZonalSupervisorsAndDistrictStatisticalBranchHead": {
+          "Count": "Int:13"
+        },
+        "CensusOfficer:TechnicalStaffDivisionalCensusOfficer": {
+          "Count": "Int:13"
+        },
+        "CensusOfficer:TechnicalStaffAreaSupervisors": {
+          "Count": "Int:48"
+        },
+        "CensusOfficer:TechnicalStaffCircleOfficers": {
+          "Count": "Int:90"
+        },
+        "CensusOfficer:OtherNonTechnicalStaff": {
+          "Count": "Int:70"
+        },
+        "CensusOfficer:EnumeratorsWhoUsedTabletComputersCapi": {
+          "Count": "Int:1493"
+        },
+        "CensusOfficer:EnumeratorsWhoUsedSmartPhonesByoad": {
+          "Count": "Int:1572"
+        }
+      },
+      "District:LK-13": {
+        "CensusOfficer:DeputyCensusCommissioners": {
+          "Count": "Int:15"
+        },
+        "CensusOfficer:AssistantCensusCommissioners": {
+          "Count": "Int:15"
+        },
+        "CensusOfficer:TechnicalStaffZonalSupervisorsAndDistrictStatisticalBranchHead": {
+          "Count": "Int:5"
+        },
+        "CensusOfficer:TechnicalStaffDivisionalCensusOfficer": {
+          "Count": "Int:14"
+        },
+        "CensusOfficer:TechnicalStaffAreaSupervisors": {
+          "Count": "Int:29"
+        },
+        "CensusOfficer:TechnicalStaffCircleOfficers": {
+          "Count": "Int:51"
+        },
+        "CensusOfficer:OtherNonTechnicalStaff": {
+          "Count": "Int:75"
+        },
+        "CensusOfficer:EnumeratorsWhoUsedTabletComputersCapi": {
+          "Count": "Int:792"
+        },
+        "CensusOfficer:EnumeratorsWhoUsedSmartPhonesByoad": {
+          "Count": "Int:836"
+        }
+      },
+      "District:LK-21": {
+        "CensusOfficer:DeputyCensusCommissioners": {
+          "Count": "Int:21"
+        },
+        "CensusOfficer:AssistantCensusCommissioners": {
+          "Count": "Int:21"
+        },
+        "CensusOfficer:TechnicalStaffZonalSupervisorsAndDistrictStatisticalBranchHead": {
+          "Count": "Int:6"
+        },
+        "CensusOfficer:TechnicalStaffDivisionalCensusOfficer": {
+          "Count": "Int:20"
+        },
+        "CensusOfficer:TechnicalStaffAreaSupervisors": {
+          "Count": "Int:36"
+        },
+        "CensusOfficer:TechnicalStaffCircleOfficers": {
+          "Count": "Int:63"
+        },
+        "CensusOfficer:OtherNonTechnicalStaff": {
+          "Count": "Int:105"
+        },
+        "CensusOfficer:EnumeratorsWhoUsedTabletComputersCapi": {
+          "Count": "Int:1056"
+        },
+        "CensusOfficer:EnumeratorsWhoUsedSmartPhonesByoad": {
+          "Count": "Int:779"
+        }
+      },
+      "District:LK-22": {
+        "CensusOfficer:DeputyCensusCommissioners": {
+          "Count": "Int:12"
+        },
+        "CensusOfficer:AssistantCensusCommissioners": {
+          "Count": "Int:12"
+        },
+        "CensusOfficer:TechnicalStaffZonalSupervisorsAndDistrictStatisticalBranchHead": {
+          "Count": "Int:3"
+        },
+        "CensusOfficer:TechnicalStaffDivisionalCensusOfficer": {
+          "Count": "Int:11"
+        },
+        "CensusOfficer:TechnicalStaffAreaSupervisors": {
+          "Count": "Int:16"
+        },
+        "CensusOfficer:TechnicalStaffCircleOfficers": {
+          "Count": "Int:27"
+        },
+        "CensusOfficer:OtherNonTechnicalStaff": {
+          "Count": "Int:60"
+        },
+        "CensusOfficer:EnumeratorsWhoUsedTabletComputersCapi": {
+          "Count": "Int:432"
+        },
+        "CensusOfficer:EnumeratorsWhoUsedSmartPhonesByoad": {
+          "Count": "Int:317"
+        }
+      },
+      "District:LK-23": {
+        "CensusOfficer:DeputyCensusCommissioners": {
+          "Count": "Int:11"
+        },
+        "CensusOfficer:AssistantCensusCommissioners": {
+          "Count": "Int:11"
+        },
+        "CensusOfficer:TechnicalStaffZonalSupervisorsAndDistrictStatisticalBranchHead": {
+          "Count": "Int:4"
+        },
+        "CensusOfficer:TechnicalStaffDivisionalCensusOfficer": {
+          "Count": "Int:10"
+        },
+        "CensusOfficer:TechnicalStaffAreaSupervisors": {
+          "Count": "Int:19"
+        },
+        "CensusOfficer:TechnicalStaffCircleOfficers": {
+          "Count": "Int:35"
+        },
+        "CensusOfficer:OtherNonTechnicalStaff": {
+          "Count": "Int:55"
+        },
+        "CensusOfficer:EnumeratorsWhoUsedTabletComputersCapi": {
+          "Count": "Int:557"
+        },
+        "CensusOfficer:EnumeratorsWhoUsedSmartPhonesByoad": {
+          "Count": "Int:431"
+        }
+      },
+      "District:LK-31": {
+        "CensusOfficer:DeputyCensusCommissioners": {
+          "Count": "Int:23"
+        },
+        "CensusOfficer:AssistantCensusCommissioners": {
+          "Count": "Int:23"
+        },
+        "CensusOfficer:TechnicalStaffZonalSupervisorsAndDistrictStatisticalBranchHead": {
+          "Count": "Int:5"
+        },
+        "CensusOfficer:TechnicalStaffDivisionalCensusOfficer": {
+          "Count": "Int:22"
+        },
+        "CensusOfficer:TechnicalStaffAreaSupervisors": {
+          "Count": "Int:32"
+        },
+        "CensusOfficer:TechnicalStaffCircleOfficers": {
+          "Count": "Int:55"
+        },
+        "CensusOfficer:OtherNonTechnicalStaff": {
+          "Count": "Int:115"
+        },
+        "CensusOfficer:EnumeratorsWhoUsedTabletComputersCapi": {
+          "Count": "Int:836"
+        },
+        "CensusOfficer:EnumeratorsWhoUsedSmartPhonesByoad": {
+          "Count": "Int:642"
+        }
+      },
+      "District:LK-32": {
+        "CensusOfficer:DeputyCensusCommissioners": {
+          "Count": "Int:17"
+        },
+        "CensusOfficer:AssistantCensusCommissioners": {
+          "Count": "Int:17"
+        },
+        "CensusOfficer:TechnicalStaffZonalSupervisorsAndDistrictStatisticalBranchHead": {
+          "Count": "Int:4"
+        },
+        "CensusOfficer:TechnicalStaffDivisionalCensusOfficer": {
+          "Count": "Int:16"
+        },
+        "CensusOfficer:TechnicalStaffAreaSupervisors": {
+          "Count": "Int:23"
+        },
+        "CensusOfficer:TechnicalStaffCircleOfficers": {
+          "Count": "Int:40"
+        },
+        "CensusOfficer:OtherNonTechnicalStaff": {
+          "Count": "Int:85"
+        },
+        "CensusOfficer:EnumeratorsWhoUsedTabletComputersCapi": {
+          "Count": "Int:626"
+        },
+        "CensusOfficer:EnumeratorsWhoUsedSmartPhonesByoad": {
+          "Count": "Int:497"
+        }
+      },
+      "District:LK-33": {
+        "CensusOfficer:DeputyCensusCommissioners": {
+          "Count": "Int:13"
+        },
+        "CensusOfficer:AssistantCensusCommissioners": {
+          "Count": "Int:13"
+        },
+        "CensusOfficer:TechnicalStaffZonalSupervisorsAndDistrictStatisticalBranchHead": {
+          "Count": "Int:3"
+        },
+        "CensusOfficer:TechnicalStaffDivisionalCensusOfficer": {
+          "Count": "Int:12"
+        },
+        "CensusOfficer:TechnicalStaffAreaSupervisors": {
+          "Count": "Int:19"
+        },
+        "CensusOfficer:TechnicalStaffCircleOfficers": {
+          "Count": "Int:31"
+        },
+        "CensusOfficer:OtherNonTechnicalStaff": {
+          "Count": "Int:65"
+        },
+        "CensusOfficer:EnumeratorsWhoUsedTabletComputersCapi": {
+          "Count": "Int:488"
+        },
+        "CensusOfficer:EnumeratorsWhoUsedSmartPhonesByoad": {
+          "Count": "Int:435"
+        }
+      },
+      "District:LK-41": {
+        "CensusOfficer:DeputyCensusCommissioners": {
+          "Count": "Int:16"
+        },
+        "CensusOfficer:AssistantCensusCommissioners": {
+          "Count": "Int:16"
+        },
+        "CensusOfficer:TechnicalStaffZonalSupervisorsAndDistrictStatisticalBranchHead": {
+          "Count": "Int:3"
+        },
+        "CensusOfficer:TechnicalStaffDivisionalCensusOfficer": {
+          "Count": "Int:15"
+        },
+        "CensusOfficer:TechnicalStaffAreaSupervisors": {
+          "Count": "Int:18"
+        },
+        "CensusOfficer:TechnicalStaffCircleOfficers": {
+          "Count": "Int:28"
+        },
+        "CensusOfficer:OtherNonTechnicalStaff": {
+          "Count": "Int:80"
+        },
+        "CensusOfficer:EnumeratorsWhoUsedTabletComputersCapi": {
+          "Count": "Int:431"
+        },
+        "CensusOfficer:EnumeratorsWhoUsedSmartPhonesByoad": {
+          "Count": "Int:375"
+        }
+      },
+      "District:LK-42": {
+        "CensusOfficer:DeputyCensusCommissioners": {
+          "Count": "Int:6"
+        },
+        "CensusOfficer:AssistantCensusCommissioners": {
+          "Count": "Int:6"
+        },
+        "CensusOfficer:TechnicalStaffZonalSupervisorsAndDistrictStatisticalBranchHead": {
+          "Count": "Int:2"
+        },
+        "CensusOfficer:TechnicalStaffDivisionalCensusOfficer": {
+          "Count": "Int:5"
+        },
+        "CensusOfficer:TechnicalStaffAreaSupervisors": {
+          "Count": "Int:5"
+        },
+        "CensusOfficer:TechnicalStaffCircleOfficers": {
+          "Count": "Int:6"
+        },
+        "CensusOfficer:OtherNonTechnicalStaff": {
+          "Count": "Int:30"
+        },
+        "CensusOfficer:EnumeratorsWhoUsedTabletComputersCapi": {
+          "Count": "Int:103"
+        },
+        "CensusOfficer:EnumeratorsWhoUsedSmartPhonesByoad": {
+          "Count": "Int:87"
+        }
+      },
+      "District:LK-43": {
+        "CensusOfficer:DeputyCensusCommissioners": {
+          "Count": "Int:5"
+        },
+        "CensusOfficer:AssistantCensusCommissioners": {
+          "Count": "Int:5"
+        },
+        "CensusOfficer:TechnicalStaffZonalSupervisorsAndDistrictStatisticalBranchHead": {
+          "Count": "Int:2"
+        },
+        "CensusOfficer:TechnicalStaffDivisionalCensusOfficer": {
+          "Count": "Int:4"
+        },
+        "CensusOfficer:TechnicalStaffAreaSupervisors": {
+          "Count": "Int:6"
+        },
+        "CensusOfficer:TechnicalStaffCircleOfficers": {
+          "Count": "Int:10"
+        },
+        "CensusOfficer:OtherNonTechnicalStaff": {
+          "Count": "Int:25"
+        },
+        "CensusOfficer:EnumeratorsWhoUsedTabletComputersCapi": {
+          "Count": "Int:117"
+        },
+        "CensusOfficer:EnumeratorsWhoUsedSmartPhonesByoad": {
+          "Count": "Int:152"
+        }
+      },
+      "District:LK-44": {
+        "CensusOfficer:DeputyCensusCommissioners": {
+          "Count": "Int:7"
+        },
+        "CensusOfficer:AssistantCensusCommissioners": {
+          "Count": "Int:7"
+        },
+        "CensusOfficer:TechnicalStaffZonalSupervisorsAndDistrictStatisticalBranchHead": {
+          "Count": "Int:2"
+        },
+        "CensusOfficer:TechnicalStaffDivisionalCensusOfficer": {
+          "Count": "Int:6"
+        },
+        "CensusOfficer:TechnicalStaffAreaSupervisors": {
+          "Count": "Int:6"
+        },
+        "CensusOfficer:TechnicalStaffCircleOfficers": {
+          "Count": "Int:8"
+        },
+        "CensusOfficer:OtherNonTechnicalStaff": {
+          "Count": "Int:35"
+        },
+        "CensusOfficer:EnumeratorsWhoUsedTabletComputersCapi": {
+          "Count": "Int:117"
+        },
+        "CensusOfficer:EnumeratorsWhoUsedSmartPhonesByoad": {
+          "Count": "Int:89"
+        }
+      },
+      "District:LK-45": {
+        "CensusOfficer:DeputyCensusCommissioners": {
+          "Count": "Int:5"
+        },
+        "CensusOfficer:AssistantCensusCommissioners": {
+          "Count": "Int:5"
+        },
+        "CensusOfficer:TechnicalStaffZonalSupervisorsAndDistrictStatisticalBranchHead": {
+          "Count": "Int:2"
+        },
+        "CensusOfficer:TechnicalStaffDivisionalCensusOfficer": {
+          "Count": "Int:4"
+        },
+        "CensusOfficer:TechnicalStaffAreaSupervisors": {
+          "Count": "Int:5"
+        },
+        "CensusOfficer:TechnicalStaffCircleOfficers": {
+          "Count": "Int:6"
+        },
+        "CensusOfficer:OtherNonTechnicalStaff": {
+          "Count": "Int:25"
+        },
+        "CensusOfficer:EnumeratorsWhoUsedTabletComputersCapi": {
+          "Count": "Int:97"
+        },
+        "CensusOfficer:EnumeratorsWhoUsedSmartPhonesByoad": {
+          "Count": "Int:103"
+        }
+      },
+      "District:LK-51": {
+        "CensusOfficer:DeputyCensusCommissioners": {
+          "Count": "Int:15"
+        },
+        "CensusOfficer:AssistantCensusCommissioners": {
+          "Count": "Int:15"
+        },
+        "CensusOfficer:TechnicalStaffZonalSupervisorsAndDistrictStatisticalBranchHead": {
+          "Count": "Int:3"
+        },
+        "CensusOfficer:TechnicalStaffDivisionalCensusOfficer": {
+          "Count": "Int:14"
+        },
+        "CensusOfficer:TechnicalStaffAreaSupervisors": {
+          "Count": "Int:18"
+        },
+        "CensusOfficer:TechnicalStaffCircleOfficers": {
+          "Count": "Int:31"
+        },
+        "CensusOfficer:OtherNonTechnicalStaff": {
+          "Count": "Int:75"
+        },
+        "CensusOfficer:EnumeratorsWhoUsedTabletComputersCapi": {
+          "Count": "Int:445"
+        },
+        "CensusOfficer:EnumeratorsWhoUsedSmartPhonesByoad": {
+          "Count": "Int:391"
+        }
+      },
+      "District:LK-52": {
+        "CensusOfficer:DeputyCensusCommissioners": {
+          "Count": "Int:21"
+        },
+        "CensusOfficer:AssistantCensusCommissioners": {
+          "Count": "Int:21"
+        },
+        "CensusOfficer:TechnicalStaffZonalSupervisorsAndDistrictStatisticalBranchHead": {
+          "Count": "Int:4"
+        },
+        "CensusOfficer:TechnicalStaffDivisionalCensusOfficer": {
+          "Count": "Int:20"
+        },
+        "CensusOfficer:TechnicalStaffAreaSupervisors": {
+          "Count": "Int:23"
+        },
+        "CensusOfficer:TechnicalStaffCircleOfficers": {
+          "Count": "Int:34"
+        },
+        "CensusOfficer:OtherNonTechnicalStaff": {
+          "Count": "Int:105"
+        },
+        "CensusOfficer:EnumeratorsWhoUsedTabletComputersCapi": {
+          "Count": "Int:492"
+        },
+        "CensusOfficer:EnumeratorsWhoUsedSmartPhonesByoad": {
+          "Count": "Int:529"
+        }
+      },
+      "District:LK-53": {
+        "CensusOfficer:DeputyCensusCommissioners": {
+          "Count": "Int:12"
+        },
+        "CensusOfficer:AssistantCensusCommissioners": {
+          "Count": "Int:12"
+        },
+        "CensusOfficer:TechnicalStaffZonalSupervisorsAndDistrictStatisticalBranchHead": {
+          "Count": "Int:3"
+        },
+        "CensusOfficer:TechnicalStaffDivisionalCensusOfficer": {
+          "Count": "Int:11"
+        },
+        "CensusOfficer:TechnicalStaffAreaSupervisors": {
+          "Count": "Int:15"
+        },
+        "CensusOfficer:TechnicalStaffCircleOfficers": {
+          "Count": "Int:22"
+        },
+        "CensusOfficer:OtherNonTechnicalStaff": {
+          "Count": "Int:60"
+        },
+        "CensusOfficer:EnumeratorsWhoUsedTabletComputersCapi": {
+          "Count": "Int:288"
+        },
+        "CensusOfficer:EnumeratorsWhoUsedSmartPhonesByoad": {
+          "Count": "Int:329"
+        }
+      },
+      "District:LK-61": {
+        "CensusOfficer:DeputyCensusCommissioners": {
+          "Count": "Int:31"
+        },
+        "CensusOfficer:AssistantCensusCommissioners": {
+          "Count": "Int:31"
+        },
+        "CensusOfficer:TechnicalStaffZonalSupervisorsAndDistrictStatisticalBranchHead": {
+          "Count": "Int:8"
+        },
+        "CensusOfficer:TechnicalStaffDivisionalCensusOfficer": {
+          "Count": "Int:30"
+        },
+        "CensusOfficer:TechnicalStaffAreaSupervisors": {
+          "Count": "Int:54"
+        },
+        "CensusOfficer:TechnicalStaffCircleOfficers": {
+          "Count": "Int:94"
+        },
+        "CensusOfficer:OtherNonTechnicalStaff": {
+          "Count": "Int:155"
+        },
+        "CensusOfficer:EnumeratorsWhoUsedTabletComputersCapi": {
+          "Count": "Int:1478"
+        },
+        "CensusOfficer:EnumeratorsWhoUsedSmartPhonesByoad": {
+          "Count": "Int:1052"
+        }
+      },
+      "District:LK-62": {
+        "CensusOfficer:DeputyCensusCommissioners": {
+          "Count": "Int:17"
+        },
+        "CensusOfficer:AssistantCensusCommissioners": {
+          "Count": "Int:17"
+        },
+        "CensusOfficer:TechnicalStaffZonalSupervisorsAndDistrictStatisticalBranchHead": {
+          "Count": "Int:4"
+        },
+        "CensusOfficer:TechnicalStaffDivisionalCensusOfficer": {
+          "Count": "Int:16"
+        },
+        "CensusOfficer:TechnicalStaffAreaSupervisors": {
+          "Count": "Int:24"
+        },
+        "CensusOfficer:TechnicalStaffCircleOfficers": {
+          "Count": "Int:37"
+        },
+        "CensusOfficer:OtherNonTechnicalStaff": {
+          "Count": "Int:85"
+        },
+        "CensusOfficer:EnumeratorsWhoUsedTabletComputersCapi": {
+          "Count": "Int:589"
+        },
+        "CensusOfficer:EnumeratorsWhoUsedSmartPhonesByoad": {
+          "Count": "Int:581"
+        }
+      },
+      "District:LK-71": {
+        "CensusOfficer:DeputyCensusCommissioners": {
+          "Count": "Int:23"
+        },
+        "CensusOfficer:AssistantCensusCommissioners": {
+          "Count": "Int:23"
+        },
+        "CensusOfficer:TechnicalStaffZonalSupervisorsAndDistrictStatisticalBranchHead": {
+          "Count": "Int:5"
+        },
+        "CensusOfficer:TechnicalStaffDivisionalCensusOfficer": {
+          "Count": "Int:22"
+        },
+        "CensusOfficer:TechnicalStaffAreaSupervisors": {
+          "Count": "Int:33"
+        },
+        "CensusOfficer:TechnicalStaffCircleOfficers": {
+          "Count": "Int:57"
+        },
+        "CensusOfficer:OtherNonTechnicalStaff": {
+          "Count": "Int:115"
+        },
+        "CensusOfficer:EnumeratorsWhoUsedTabletComputersCapi": {
+          "Count": "Int:812"
+        },
+        "CensusOfficer:EnumeratorsWhoUsedSmartPhonesByoad": {
+          "Count": "Int:655"
+        }
+      },
+      "District:LK-72": {
+        "CensusOfficer:DeputyCensusCommissioners": {
+          "Count": "Int:8"
+        },
+        "CensusOfficer:AssistantCensusCommissioners": {
+          "Count": "Int:8"
+        },
+        "CensusOfficer:TechnicalStaffZonalSupervisorsAndDistrictStatisticalBranchHead": {
+          "Count": "Int:3"
+        },
+        "CensusOfficer:TechnicalStaffDivisionalCensusOfficer": {
+          "Count": "Int:7"
+        },
+        "CensusOfficer:TechnicalStaffAreaSupervisors": {
+          "Count": "Int:12"
+        },
+        "CensusOfficer:TechnicalStaffCircleOfficers": {
+          "Count": "Int:22"
+        },
+        "CensusOfficer:OtherNonTechnicalStaff": {
+          "Count": "Int:40"
+        },
+        "CensusOfficer:EnumeratorsWhoUsedTabletComputersCapi": {
+          "Count": "Int:323"
+        },
+        "CensusOfficer:EnumeratorsWhoUsedSmartPhonesByoad": {
+          "Count": "Int:330"
+        }
+      },
+      "District:LK-81": {
+        "CensusOfficer:DeputyCensusCommissioners": {
+          "Count": "Int:16"
+        },
+        "CensusOfficer:AssistantCensusCommissioners": {
+          "Count": "Int:16"
+        },
+        "CensusOfficer:TechnicalStaffZonalSupervisorsAndDistrictStatisticalBranchHead": {
+          "Count": "Int:4"
+        },
+        "CensusOfficer:TechnicalStaffDivisionalCensusOfficer": {
+          "Count": "Int:15"
+        },
+        "CensusOfficer:TechnicalStaffAreaSupervisors": {
+          "Count": "Int:28"
+        },
+        "CensusOfficer:TechnicalStaffCircleOfficers": {
+          "Count": "Int:46"
+        },
+        "CensusOfficer:OtherNonTechnicalStaff": {
+          "Count": "Int:80"
+        },
+        "CensusOfficer:EnumeratorsWhoUsedTabletComputersCapi": {
+          "Count": "Int:661"
+        },
+        "CensusOfficer:EnumeratorsWhoUsedSmartPhonesByoad": {
+          "Count": "Int:552"
+        }
+      },
+      "District:LK-82": {
+        "CensusOfficer:DeputyCensusCommissioners": {
+          "Count": "Int:12"
+        },
+        "CensusOfficer:AssistantCensusCommissioners": {
+          "Count": "Int:12"
+        },
+        "CensusOfficer:TechnicalStaffZonalSupervisorsAndDistrictStatisticalBranchHead": {
+          "Count": "Int:3"
+        },
+        "CensusOfficer:TechnicalStaffDivisionalCensusOfficer": {
+          "Count": "Int:11"
+        },
+        "CensusOfficer:TechnicalStaffAreaSupervisors": {
+          "Count": "Int:17"
+        },
+        "CensusOfficer:TechnicalStaffCircleOfficers": {
+          "Count": "Int:27"
+        },
+        "CensusOfficer:OtherNonTechnicalStaff": {
+          "Count": "Int:60"
+        },
+        "CensusOfficer:EnumeratorsWhoUsedTabletComputersCapi": {
+          "Count": "Int:381"
+        },
+        "CensusOfficer:EnumeratorsWhoUsedSmartPhonesByoad": {
+          "Count": "Int:406"
+        }
+      },
+      "District:LK-91": {
+        "CensusOfficer:DeputyCensusCommissioners": {
+          "Count": "Int:19"
+        },
+        "CensusOfficer:AssistantCensusCommissioners": {
+          "Count": "Int:19"
+        },
+        "CensusOfficer:TechnicalStaffZonalSupervisorsAndDistrictStatisticalBranchHead": {
+          "Count": "Int:6"
+        },
+        "CensusOfficer:TechnicalStaffDivisionalCensusOfficer": {
+          "Count": "Int:18"
+        },
+        "CensusOfficer:TechnicalStaffAreaSupervisors": {
+          "Count": "Int:36"
+        },
+        "CensusOfficer:TechnicalStaffCircleOfficers": {
+          "Count": "Int:62"
+        },
+        "CensusOfficer:OtherNonTechnicalStaff": {
+          "Count": "Int:95"
+        },
+        "CensusOfficer:EnumeratorsWhoUsedTabletComputersCapi": {
+          "Count": "Int:895"
+        },
+        "CensusOfficer:EnumeratorsWhoUsedSmartPhonesByoad": {
+          "Count": "Int:781"
+        }
+      },
+      "District:LK-92": {
+        "CensusOfficer:DeputyCensusCommissioners": {
+          "Count": "Int:12"
+        },
+        "CensusOfficer:AssistantCensusCommissioners": {
+          "Count": "Int:12"
+        },
+        "CensusOfficer:TechnicalStaffZonalSupervisorsAndDistrictStatisticalBranchHead": {
+          "Count": "Int:5"
+        },
+        "CensusOfficer:TechnicalStaffDivisionalCensusOfficer": {
+          "Count": "Int:11"
+        },
+        "CensusOfficer:TechnicalStaffAreaSupervisors": {
+          "Count": "Int:26"
+        },
+        "CensusOfficer:TechnicalStaffCircleOfficers": {
+          "Count": "Int:46"
+        },
+        "CensusOfficer:OtherNonTechnicalStaff": {
+          "Count": "Int:60"
+        },
+        "CensusOfficer:EnumeratorsWhoUsedTabletComputersCapi": {
+          "Count": "Int:708"
+        },
+        "CensusOfficer:EnumeratorsWhoUsedSmartPhonesByoad": {
+          "Count": "Int:487"
+        }
+      },
+      "Country:LK": {
+        "CensusOfficer:DeputyCensusCommissioners": {
+          "Count": "Int:365"
+        },
+        "CensusOfficer:AssistantCensusCommissioners": {
+          "Count": "Int:365"
+        },
+        "CensusOfficer:TechnicalStaffZonalSupervisorsAndDistrictStatisticalBranchHead": {
+          "Count": "Int:120"
+        },
+        "CensusOfficer:TechnicalStaffDivisionalCensusOfficer": {
+          "Count": "Int:340"
+        },
+        "CensusOfficer:TechnicalStaffAreaSupervisors": {
+          "Count": "Int:601"
+        },
+        "CensusOfficer:TechnicalStaffCircleOfficers": {
+          "Count": "Int:1026"
+        },
+        "CensusOfficer:OtherNonTechnicalStaff": {
+          "Count": "Int:1825"
+        },
+        "CensusOfficer:EnumeratorsWhoUsedTabletComputersCapi": {
+          "Count": "Int:15321"
+        },
+        "CensusOfficer:EnumeratorsWhoUsedSmartPhonesByoad": {
+          "Count": "Int:14394"
+        }
+      },
+      "Province:LK-1": {
+        "CensusOfficer:DeputyCensusCommissioners": {
+          "Count": "Int:43"
+        },
+        "CensusOfficer:AssistantCensusCommissioners": {
+          "Count": "Int:43"
+        },
+        "CensusOfficer:TechnicalStaffZonalSupervisorsAndDistrictStatisticalBranchHead": {
+          "Count": "Int:36"
+        },
+        "CensusOfficer:TechnicalStaffDivisionalCensusOfficer": {
+          "Count": "Int:40"
+        },
+        "CensusOfficer:TechnicalStaffAreaSupervisors": {
+          "Count": "Int:130"
+        },
+        "CensusOfficer:TechnicalStaffCircleOfficers": {
+          "Count": "Int:239"
+        },
+        "CensusOfficer:OtherNonTechnicalStaff": {
+          "Count": "Int:215"
+        },
+        "CensusOfficer:EnumeratorsWhoUsedTabletComputersCapi": {
+          "Count": "Int:3389"
+        },
+        "CensusOfficer:EnumeratorsWhoUsedSmartPhonesByoad": {
+          "Count": "Int:4394"
+        }
+      },
+      "Province:LK-2": {
+        "CensusOfficer:DeputyCensusCommissioners": {
+          "Count": "Int:44"
+        },
+        "CensusOfficer:AssistantCensusCommissioners": {
+          "Count": "Int:44"
+        },
+        "CensusOfficer:TechnicalStaffZonalSupervisorsAndDistrictStatisticalBranchHead": {
+          "Count": "Int:13"
+        },
+        "CensusOfficer:TechnicalStaffDivisionalCensusOfficer": {
+          "Count": "Int:41"
+        },
+        "CensusOfficer:TechnicalStaffAreaSupervisors": {
+          "Count": "Int:71"
+        },
+        "CensusOfficer:TechnicalStaffCircleOfficers": {
+          "Count": "Int:125"
+        },
+        "CensusOfficer:OtherNonTechnicalStaff": {
+          "Count": "Int:220"
+        },
+        "CensusOfficer:EnumeratorsWhoUsedTabletComputersCapi": {
+          "Count": "Int:2045"
+        },
+        "CensusOfficer:EnumeratorsWhoUsedSmartPhonesByoad": {
+          "Count": "Int:1527"
+        }
+      },
+      "Province:LK-3": {
+        "CensusOfficer:DeputyCensusCommissioners": {
+          "Count": "Int:53"
+        },
+        "CensusOfficer:AssistantCensusCommissioners": {
+          "Count": "Int:53"
+        },
+        "CensusOfficer:TechnicalStaffZonalSupervisorsAndDistrictStatisticalBranchHead": {
+          "Count": "Int:12"
+        },
+        "CensusOfficer:TechnicalStaffDivisionalCensusOfficer": {
+          "Count": "Int:50"
+        },
+        "CensusOfficer:TechnicalStaffAreaSupervisors": {
+          "Count": "Int:74"
+        },
+        "CensusOfficer:TechnicalStaffCircleOfficers": {
+          "Count": "Int:126"
+        },
+        "CensusOfficer:OtherNonTechnicalStaff": {
+          "Count": "Int:265"
+        },
+        "CensusOfficer:EnumeratorsWhoUsedTabletComputersCapi": {
+          "Count": "Int:1950"
+        },
+        "CensusOfficer:EnumeratorsWhoUsedSmartPhonesByoad": {
+          "Count": "Int:1574"
+        }
+      },
+      "Province:LK-4": {
+        "CensusOfficer:DeputyCensusCommissioners": {
+          "Count": "Int:39"
+        },
+        "CensusOfficer:AssistantCensusCommissioners": {
+          "Count": "Int:39"
+        },
+        "CensusOfficer:TechnicalStaffZonalSupervisorsAndDistrictStatisticalBranchHead": {
+          "Count": "Int:11"
+        },
+        "CensusOfficer:TechnicalStaffDivisionalCensusOfficer": {
+          "Count": "Int:34"
+        },
+        "CensusOfficer:TechnicalStaffAreaSupervisors": {
+          "Count": "Int:40"
+        },
+        "CensusOfficer:TechnicalStaffCircleOfficers": {
+          "Count": "Int:58"
+        },
+        "CensusOfficer:OtherNonTechnicalStaff": {
+          "Count": "Int:195"
+        },
+        "CensusOfficer:EnumeratorsWhoUsedTabletComputersCapi": {
+          "Count": "Int:865"
+        },
+        "CensusOfficer:EnumeratorsWhoUsedSmartPhonesByoad": {
+          "Count": "Int:806"
+        }
+      },
+      "Province:LK-5": {
+        "CensusOfficer:DeputyCensusCommissioners": {
+          "Count": "Int:48"
+        },
+        "CensusOfficer:AssistantCensusCommissioners": {
+          "Count": "Int:48"
+        },
+        "CensusOfficer:TechnicalStaffZonalSupervisorsAndDistrictStatisticalBranchHead": {
+          "Count": "Int:10"
+        },
+        "CensusOfficer:TechnicalStaffDivisionalCensusOfficer": {
+          "Count": "Int:45"
+        },
+        "CensusOfficer:TechnicalStaffAreaSupervisors": {
+          "Count": "Int:56"
+        },
+        "CensusOfficer:TechnicalStaffCircleOfficers": {
+          "Count": "Int:87"
+        },
+        "CensusOfficer:OtherNonTechnicalStaff": {
+          "Count": "Int:240"
+        },
+        "CensusOfficer:EnumeratorsWhoUsedTabletComputersCapi": {
+          "Count": "Int:1225"
+        },
+        "CensusOfficer:EnumeratorsWhoUsedSmartPhonesByoad": {
+          "Count": "Int:1249"
+        }
+      },
+      "Province:LK-6": {
+        "CensusOfficer:DeputyCensusCommissioners": {
+          "Count": "Int:48"
+        },
+        "CensusOfficer:AssistantCensusCommissioners": {
+          "Count": "Int:48"
+        },
+        "CensusOfficer:TechnicalStaffZonalSupervisorsAndDistrictStatisticalBranchHead": {
+          "Count": "Int:12"
+        },
+        "CensusOfficer:TechnicalStaffDivisionalCensusOfficer": {
+          "Count": "Int:46"
+        },
+        "CensusOfficer:TechnicalStaffAreaSupervisors": {
+          "Count": "Int:78"
+        },
+        "CensusOfficer:TechnicalStaffCircleOfficers": {
+          "Count": "Int:131"
+        },
+        "CensusOfficer:OtherNonTechnicalStaff": {
+          "Count": "Int:240"
+        },
+        "CensusOfficer:EnumeratorsWhoUsedTabletComputersCapi": {
+          "Count": "Int:2067"
+        },
+        "CensusOfficer:EnumeratorsWhoUsedSmartPhonesByoad": {
+          "Count": "Int:1633"
+        }
+      },
+      "Province:LK-7": {
+        "CensusOfficer:DeputyCensusCommissioners": {
+          "Count": "Int:31"
+        },
+        "CensusOfficer:AssistantCensusCommissioners": {
+          "Count": "Int:31"
+        },
+        "CensusOfficer:TechnicalStaffZonalSupervisorsAndDistrictStatisticalBranchHead": {
+          "Count": "Int:8"
+        },
+        "CensusOfficer:TechnicalStaffDivisionalCensusOfficer": {
+          "Count": "Int:29"
+        },
+        "CensusOfficer:TechnicalStaffAreaSupervisors": {
+          "Count": "Int:45"
+        },
+        "CensusOfficer:TechnicalStaffCircleOfficers": {
+          "Count": "Int:79"
+        },
+        "CensusOfficer:OtherNonTechnicalStaff": {
+          "Count": "Int:155"
+        },
+        "CensusOfficer:EnumeratorsWhoUsedTabletComputersCapi": {
+          "Count": "Int:1135"
+        },
+        "CensusOfficer:EnumeratorsWhoUsedSmartPhonesByoad": {
+          "Count": "Int:985"
+        }
+      },
+      "Province:LK-8": {
+        "CensusOfficer:DeputyCensusCommissioners": {
+          "Count": "Int:28"
+        },
+        "CensusOfficer:AssistantCensusCommissioners": {
+          "Count": "Int:28"
+        },
+        "CensusOfficer:TechnicalStaffZonalSupervisorsAndDistrictStatisticalBranchHead": {
+          "Count": "Int:7"
+        },
+        "CensusOfficer:TechnicalStaffDivisionalCensusOfficer": {
+          "Count": "Int:26"
+        },
+        "CensusOfficer:TechnicalStaffAreaSupervisors": {
+          "Count": "Int:45"
+        },
+        "CensusOfficer:TechnicalStaffCircleOfficers": {
+          "Count": "Int:73"
+        },
+        "CensusOfficer:OtherNonTechnicalStaff": {
+          "Count": "Int:140"
+        },
+        "CensusOfficer:EnumeratorsWhoUsedTabletComputersCapi": {
+          "Count": "Int:1042"
+        },
+        "CensusOfficer:EnumeratorsWhoUsedSmartPhonesByoad": {
+          "Count": "Int:958"
+        }
+      },
+      "Province:LK-9": {
+        "CensusOfficer:DeputyCensusCommissioners": {
+          "Count": "Int:31"
+        },
+        "CensusOfficer:AssistantCensusCommissioners": {
+          "Count": "Int:31"
+        },
+        "CensusOfficer:TechnicalStaffZonalSupervisorsAndDistrictStatisticalBranchHead": {
+          "Count": "Int:11"
+        },
+        "CensusOfficer:TechnicalStaffDivisionalCensusOfficer": {
+          "Count": "Int:29"
+        },
+        "CensusOfficer:TechnicalStaffAreaSupervisors": {
+          "Count": "Int:62"
+        },
+        "CensusOfficer:TechnicalStaffCircleOfficers": {
+          "Count": "Int:108"
+        },
+        "CensusOfficer:OtherNonTechnicalStaff": {
+          "Count": "Int:155"
+        },
+        "CensusOfficer:EnumeratorsWhoUsedTabletComputersCapi": {
+          "Count": "Int:1603"
+        },
+        "CensusOfficer:EnumeratorsWhoUsedSmartPhonesByoad": {
+          "Count": "Int:1268"
+        }
+      },
+      "ED:EC-01": {
+        "CensusOfficer:DeputyCensusCommissioners": {
+          "Count": "Int:14"
+        },
+        "CensusOfficer:AssistantCensusCommissioners": {
+          "Count": "Int:14"
+        },
+        "CensusOfficer:TechnicalStaffZonalSupervisorsAndDistrictStatisticalBranchHead": {
+          "Count": "Int:18"
+        },
+        "CensusOfficer:TechnicalStaffDivisionalCensusOfficer": {
+          "Count": "Int:13"
+        },
+        "CensusOfficer:TechnicalStaffAreaSupervisors": {
+          "Count": "Int:53"
+        },
+        "CensusOfficer:TechnicalStaffCircleOfficers": {
+          "Count": "Int:98"
+        },
+        "CensusOfficer:OtherNonTechnicalStaff": {
+          "Count": "Int:70"
+        },
+        "CensusOfficer:EnumeratorsWhoUsedTabletComputersCapi": {
+          "Count": "Int:1104"
+        },
+        "CensusOfficer:EnumeratorsWhoUsedSmartPhonesByoad": {
+          "Count": "Int:1986"
+        }
+      },
+      "ED:EC-02": {
+        "CensusOfficer:DeputyCensusCommissioners": {
+          "Count": "Int:14"
+        },
+        "CensusOfficer:AssistantCensusCommissioners": {
+          "Count": "Int:14"
+        },
+        "CensusOfficer:TechnicalStaffZonalSupervisorsAndDistrictStatisticalBranchHead": {
+          "Count": "Int:13"
+        },
+        "CensusOfficer:TechnicalStaffDivisionalCensusOfficer": {
+          "Count": "Int:13"
+        },
+        "CensusOfficer:TechnicalStaffAreaSupervisors": {
+          "Count": "Int:48"
+        },
+        "CensusOfficer:TechnicalStaffCircleOfficers": {
+          "Count": "Int:90"
+        },
+        "CensusOfficer:OtherNonTechnicalStaff": {
+          "Count": "Int:70"
+        },
+        "CensusOfficer:EnumeratorsWhoUsedTabletComputersCapi": {
+          "Count": "Int:1493"
+        },
+        "CensusOfficer:EnumeratorsWhoUsedSmartPhonesByoad": {
+          "Count": "Int:1572"
+        }
+      },
+      "ED:EC-03": {
+        "CensusOfficer:DeputyCensusCommissioners": {
+          "Count": "Int:15"
+        },
+        "CensusOfficer:AssistantCensusCommissioners": {
+          "Count": "Int:15"
+        },
+        "CensusOfficer:TechnicalStaffZonalSupervisorsAndDistrictStatisticalBranchHead": {
+          "Count": "Int:5"
+        },
+        "CensusOfficer:TechnicalStaffDivisionalCensusOfficer": {
+          "Count": "Int:14"
+        },
+        "CensusOfficer:TechnicalStaffAreaSupervisors": {
+          "Count": "Int:29"
+        },
+        "CensusOfficer:TechnicalStaffCircleOfficers": {
+          "Count": "Int:51"
+        },
+        "CensusOfficer:OtherNonTechnicalStaff": {
+          "Count": "Int:75"
+        },
+        "CensusOfficer:EnumeratorsWhoUsedTabletComputersCapi": {
+          "Count": "Int:792"
+        },
+        "CensusOfficer:EnumeratorsWhoUsedSmartPhonesByoad": {
+          "Count": "Int:836"
+        }
+      },
+      "ED:EC-04": {
+        "CensusOfficer:DeputyCensusCommissioners": {
+          "Count": "Int:21"
+        },
+        "CensusOfficer:AssistantCensusCommissioners": {
+          "Count": "Int:21"
+        },
+        "CensusOfficer:TechnicalStaffZonalSupervisorsAndDistrictStatisticalBranchHead": {
+          "Count": "Int:6"
+        },
+        "CensusOfficer:TechnicalStaffDivisionalCensusOfficer": {
+          "Count": "Int:20"
+        },
+        "CensusOfficer:TechnicalStaffAreaSupervisors": {
+          "Count": "Int:36"
+        },
+        "CensusOfficer:TechnicalStaffCircleOfficers": {
+          "Count": "Int:63"
+        },
+        "CensusOfficer:OtherNonTechnicalStaff": {
+          "Count": "Int:105"
+        },
+        "CensusOfficer:EnumeratorsWhoUsedTabletComputersCapi": {
+          "Count": "Int:1056"
+        },
+        "CensusOfficer:EnumeratorsWhoUsedSmartPhonesByoad": {
+          "Count": "Int:779"
+        }
+      },
+      "ED:EC-05": {
+        "CensusOfficer:DeputyCensusCommissioners": {
+          "Count": "Int:12"
+        },
+        "CensusOfficer:AssistantCensusCommissioners": {
+          "Count": "Int:12"
+        },
+        "CensusOfficer:TechnicalStaffZonalSupervisorsAndDistrictStatisticalBranchHead": {
+          "Count": "Int:3"
+        },
+        "CensusOfficer:TechnicalStaffDivisionalCensusOfficer": {
+          "Count": "Int:11"
+        },
+        "CensusOfficer:TechnicalStaffAreaSupervisors": {
+          "Count": "Int:16"
+        },
+        "CensusOfficer:TechnicalStaffCircleOfficers": {
+          "Count": "Int:27"
+        },
+        "CensusOfficer:OtherNonTechnicalStaff": {
+          "Count": "Int:60"
+        },
+        "CensusOfficer:EnumeratorsWhoUsedTabletComputersCapi": {
+          "Count": "Int:432"
+        },
+        "CensusOfficer:EnumeratorsWhoUsedSmartPhonesByoad": {
+          "Count": "Int:317"
+        }
+      },
+      "ED:EC-06": {
+        "CensusOfficer:DeputyCensusCommissioners": {
+          "Count": "Int:11"
+        },
+        "CensusOfficer:AssistantCensusCommissioners": {
+          "Count": "Int:11"
+        },
+        "CensusOfficer:TechnicalStaffZonalSupervisorsAndDistrictStatisticalBranchHead": {
+          "Count": "Int:4"
+        },
+        "CensusOfficer:TechnicalStaffDivisionalCensusOfficer": {
+          "Count": "Int:10"
+        },
+        "CensusOfficer:TechnicalStaffAreaSupervisors": {
+          "Count": "Int:19"
+        },
+        "CensusOfficer:TechnicalStaffCircleOfficers": {
+          "Count": "Int:35"
+        },
+        "CensusOfficer:OtherNonTechnicalStaff": {
+          "Count": "Int:55"
+        },
+        "CensusOfficer:EnumeratorsWhoUsedTabletComputersCapi": {
+          "Count": "Int:557"
+        },
+        "CensusOfficer:EnumeratorsWhoUsedSmartPhonesByoad": {
+          "Count": "Int:431"
+        }
+      },
+      "ED:EC-07": {
+        "CensusOfficer:DeputyCensusCommissioners": {
+          "Count": "Int:23"
+        },
+        "CensusOfficer:AssistantCensusCommissioners": {
+          "Count": "Int:23"
+        },
+        "CensusOfficer:TechnicalStaffZonalSupervisorsAndDistrictStatisticalBranchHead": {
+          "Count": "Int:5"
+        },
+        "CensusOfficer:TechnicalStaffDivisionalCensusOfficer": {
+          "Count": "Int:22"
+        },
+        "CensusOfficer:TechnicalStaffAreaSupervisors": {
+          "Count": "Int:32"
+        },
+        "CensusOfficer:TechnicalStaffCircleOfficers": {
+          "Count": "Int:55"
+        },
+        "CensusOfficer:OtherNonTechnicalStaff": {
+          "Count": "Int:115"
+        },
+        "CensusOfficer:EnumeratorsWhoUsedTabletComputersCapi": {
+          "Count": "Int:836"
+        },
+        "CensusOfficer:EnumeratorsWhoUsedSmartPhonesByoad": {
+          "Count": "Int:642"
+        }
+      },
+      "ED:EC-08": {
+        "CensusOfficer:DeputyCensusCommissioners": {
+          "Count": "Int:17"
+        },
+        "CensusOfficer:AssistantCensusCommissioners": {
+          "Count": "Int:17"
+        },
+        "CensusOfficer:TechnicalStaffZonalSupervisorsAndDistrictStatisticalBranchHead": {
+          "Count": "Int:4"
+        },
+        "CensusOfficer:TechnicalStaffDivisionalCensusOfficer": {
+          "Count": "Int:16"
+        },
+        "CensusOfficer:TechnicalStaffAreaSupervisors": {
+          "Count": "Int:23"
+        },
+        "CensusOfficer:TechnicalStaffCircleOfficers": {
+          "Count": "Int:40"
+        },
+        "CensusOfficer:OtherNonTechnicalStaff": {
+          "Count": "Int:85"
+        },
+        "CensusOfficer:EnumeratorsWhoUsedTabletComputersCapi": {
+          "Count": "Int:626"
+        },
+        "CensusOfficer:EnumeratorsWhoUsedSmartPhonesByoad": {
+          "Count": "Int:497"
+        }
+      },
+      "ED:EC-09": {
+        "CensusOfficer:DeputyCensusCommissioners": {
+          "Count": "Int:13"
+        },
+        "CensusOfficer:AssistantCensusCommissioners": {
+          "Count": "Int:13"
+        },
+        "CensusOfficer:TechnicalStaffZonalSupervisorsAndDistrictStatisticalBranchHead": {
+          "Count": "Int:3"
+        },
+        "CensusOfficer:TechnicalStaffDivisionalCensusOfficer": {
+          "Count": "Int:12"
+        },
+        "CensusOfficer:TechnicalStaffAreaSupervisors": {
+          "Count": "Int:19"
+        },
+        "CensusOfficer:TechnicalStaffCircleOfficers": {
+          "Count": "Int:31"
+        },
+        "CensusOfficer:OtherNonTechnicalStaff": {
+          "Count": "Int:65"
+        },
+        "CensusOfficer:EnumeratorsWhoUsedTabletComputersCapi": {
+          "Count": "Int:488"
+        },
+        "CensusOfficer:EnumeratorsWhoUsedSmartPhonesByoad": {
+          "Count": "Int:435"
+        }
+      },
+      "ED:EC-10": {
+        "CensusOfficer:DeputyCensusCommissioners": {
+          "Count": "Int:21"
+        },
+        "CensusOfficer:AssistantCensusCommissioners": {
+          "Count": "Int:21"
+        },
+        "CensusOfficer:TechnicalStaffZonalSupervisorsAndDistrictStatisticalBranchHead": {
+          "Count": "Int:5"
+        },
+        "CensusOfficer:TechnicalStaffDivisionalCensusOfficer": {
+          "Count": "Int:19"
+        },
+        "CensusOfficer:TechnicalStaffAreaSupervisors": {
+          "Count": "Int:23"
+        },
+        "CensusOfficer:TechnicalStaffCircleOfficers": {
+          "Count": "Int:34"
+        },
+        "CensusOfficer:OtherNonTechnicalStaff": {
+          "Count": "Int:105"
+        },
+        "CensusOfficer:EnumeratorsWhoUsedTabletComputersCapi": {
+          "Count": "Int:528"
+        },
+        "CensusOfficer:EnumeratorsWhoUsedSmartPhonesByoad": {
+          "Count": "Int:478"
+        }
+      },
+      "ED:EC-11": {
+        "CensusOfficer:DeputyCensusCommissioners": {
+          "Count": "Int:18"
+        },
+        "CensusOfficer:AssistantCensusCommissioners": {
+          "Count": "Int:18"
+        },
+        "CensusOfficer:TechnicalStaffZonalSupervisorsAndDistrictStatisticalBranchHead": {
+          "Count": "Int:6"
+        },
+        "CensusOfficer:TechnicalStaffDivisionalCensusOfficer": {
+          "Count": "Int:15"
+        },
+        "CensusOfficer:TechnicalStaffAreaSupervisors": {
+          "Count": "Int:17"
+        },
+        "CensusOfficer:TechnicalStaffCircleOfficers": {
+          "Count": "Int:24"
+        },
+        "CensusOfficer:OtherNonTechnicalStaff": {
+          "Count": "Int:90"
+        },
+        "CensusOfficer:EnumeratorsWhoUsedTabletComputersCapi": {
+          "Count": "Int:337"
+        },
+        "CensusOfficer:EnumeratorsWhoUsedSmartPhonesByoad": {
+          "Count": "Int:328"
+        }
+      },
+      "ED:EC-12": {
+        "CensusOfficer:DeputyCensusCommissioners": {
+          "Count": "Int:15"
+        },
+        "CensusOfficer:AssistantCensusCommissioners": {
+          "Count": "Int:15"
+        },
+        "CensusOfficer:TechnicalStaffZonalSupervisorsAndDistrictStatisticalBranchHead": {
+          "Count": "Int:3"
+        },
+        "CensusOfficer:TechnicalStaffDivisionalCensusOfficer": {
+          "Count": "Int:14"
+        },
+        "CensusOfficer:TechnicalStaffAreaSupervisors": {
+          "Count": "Int:18"
+        },
+        "CensusOfficer:TechnicalStaffCircleOfficers": {
+          "Count": "Int:31"
+        },
+        "CensusOfficer:OtherNonTechnicalStaff": {
+          "Count": "Int:75"
+        },
+        "CensusOfficer:EnumeratorsWhoUsedTabletComputersCapi": {
+          "Count": "Int:445"
+        },
+        "CensusOfficer:EnumeratorsWhoUsedSmartPhonesByoad": {
+          "Count": "Int:391"
+        }
+      },
+      "ED:EC-13": {
+        "CensusOfficer:DeputyCensusCommissioners": {
+          "Count": "Int:21"
+        },
+        "CensusOfficer:AssistantCensusCommissioners": {
+          "Count": "Int:21"
+        },
+        "CensusOfficer:TechnicalStaffZonalSupervisorsAndDistrictStatisticalBranchHead": {
+          "Count": "Int:4"
+        },
+        "CensusOfficer:TechnicalStaffDivisionalCensusOfficer": {
+          "Count": "Int:20"
+        },
+        "CensusOfficer:TechnicalStaffAreaSupervisors": {
+          "Count": "Int:23"
+        },
+        "CensusOfficer:TechnicalStaffCircleOfficers": {
+          "Count": "Int:34"
+        },
+        "CensusOfficer:OtherNonTechnicalStaff": {
+          "Count": "Int:105"
+        },
+        "CensusOfficer:EnumeratorsWhoUsedTabletComputersCapi": {
+          "Count": "Int:492"
+        },
+        "CensusOfficer:EnumeratorsWhoUsedSmartPhonesByoad": {
+          "Count": "Int:529"
+        }
+      },
+      "ED:EC-14": {
+        "CensusOfficer:DeputyCensusCommissioners": {
+          "Count": "Int:12"
+        },
+        "CensusOfficer:AssistantCensusCommissioners": {
+          "Count": "Int:12"
+        },
+        "CensusOfficer:TechnicalStaffZonalSupervisorsAndDistrictStatisticalBranchHead": {
+          "Count": "Int:3"
+        },
+        "CensusOfficer:TechnicalStaffDivisionalCensusOfficer": {
+          "Count": "Int:11"
+        },
+        "CensusOfficer:TechnicalStaffAreaSupervisors": {
+          "Count": "Int:15"
+        },
+        "CensusOfficer:TechnicalStaffCircleOfficers": {
+          "Count": "Int:22"
+        },
+        "CensusOfficer:OtherNonTechnicalStaff": {
+          "Count": "Int:60"
+        },
+        "CensusOfficer:EnumeratorsWhoUsedTabletComputersCapi": {
+          "Count": "Int:288"
+        },
+        "CensusOfficer:EnumeratorsWhoUsedSmartPhonesByoad": {
+          "Count": "Int:329"
+        }
+      },
+      "ED:EC-15": {
+        "CensusOfficer:DeputyCensusCommissioners": {
+          "Count": "Int:31"
+        },
+        "CensusOfficer:AssistantCensusCommissioners": {
+          "Count": "Int:31"
+        },
+        "CensusOfficer:TechnicalStaffZonalSupervisorsAndDistrictStatisticalBranchHead": {
+          "Count": "Int:8"
+        },
+        "CensusOfficer:TechnicalStaffDivisionalCensusOfficer": {
+          "Count": "Int:30"
+        },
+        "CensusOfficer:TechnicalStaffAreaSupervisors": {
+          "Count": "Int:54"
+        },
+        "CensusOfficer:TechnicalStaffCircleOfficers": {
+          "Count": "Int:94"
+        },
+        "CensusOfficer:OtherNonTechnicalStaff": {
+          "Count": "Int:155"
+        },
+        "CensusOfficer:EnumeratorsWhoUsedTabletComputersCapi": {
+          "Count": "Int:1478"
+        },
+        "CensusOfficer:EnumeratorsWhoUsedSmartPhonesByoad": {
+          "Count": "Int:1052"
+        }
+      },
+      "ED:EC-16": {
+        "CensusOfficer:DeputyCensusCommissioners": {
+          "Count": "Int:17"
+        },
+        "CensusOfficer:AssistantCensusCommissioners": {
+          "Count": "Int:17"
+        },
+        "CensusOfficer:TechnicalStaffZonalSupervisorsAndDistrictStatisticalBranchHead": {
+          "Count": "Int:4"
+        },
+        "CensusOfficer:TechnicalStaffDivisionalCensusOfficer": {
+          "Count": "Int:16"
+        },
+        "CensusOfficer:TechnicalStaffAreaSupervisors": {
+          "Count": "Int:24"
+        },
+        "CensusOfficer:TechnicalStaffCircleOfficers": {
+          "Count": "Int:37"
+        },
+        "CensusOfficer:OtherNonTechnicalStaff": {
+          "Count": "Int:85"
+        },
+        "CensusOfficer:EnumeratorsWhoUsedTabletComputersCapi": {
+          "Count": "Int:589"
+        },
+        "CensusOfficer:EnumeratorsWhoUsedSmartPhonesByoad": {
+          "Count": "Int:581"
+        }
+      },
+      "ED:EC-17": {
+        "CensusOfficer:DeputyCensusCommissioners": {
+          "Count": "Int:23"
+        },
+        "CensusOfficer:AssistantCensusCommissioners": {
+          "Count": "Int:23"
+        },
+        "CensusOfficer:TechnicalStaffZonalSupervisorsAndDistrictStatisticalBranchHead": {
+          "Count": "Int:5"
+        },
+        "CensusOfficer:TechnicalStaffDivisionalCensusOfficer": {
+          "Count": "Int:22"
+        },
+        "CensusOfficer:TechnicalStaffAreaSupervisors": {
+          "Count": "Int:33"
+        },
+        "CensusOfficer:TechnicalStaffCircleOfficers": {
+          "Count": "Int:57"
+        },
+        "CensusOfficer:OtherNonTechnicalStaff": {
+          "Count": "Int:115"
+        },
+        "CensusOfficer:EnumeratorsWhoUsedTabletComputersCapi": {
+          "Count": "Int:812"
+        },
+        "CensusOfficer:EnumeratorsWhoUsedSmartPhonesByoad": {
+          "Count": "Int:655"
+        }
+      },
+      "ED:EC-18": {
+        "CensusOfficer:DeputyCensusCommissioners": {
+          "Count": "Int:8"
+        },
+        "CensusOfficer:AssistantCensusCommissioners": {
+          "Count": "Int:8"
+        },
+        "CensusOfficer:TechnicalStaffZonalSupervisorsAndDistrictStatisticalBranchHead": {
+          "Count": "Int:3"
+        },
+        "CensusOfficer:TechnicalStaffDivisionalCensusOfficer": {
+          "Count": "Int:7"
+        },
+        "CensusOfficer:TechnicalStaffAreaSupervisors": {
+          "Count": "Int:12"
+        },
+        "CensusOfficer:TechnicalStaffCircleOfficers": {
+          "Count": "Int:22"
+        },
+        "CensusOfficer:OtherNonTechnicalStaff": {
+          "Count": "Int:40"
+        },
+        "CensusOfficer:EnumeratorsWhoUsedTabletComputersCapi": {
+          "Count": "Int:323"
+        },
+        "CensusOfficer:EnumeratorsWhoUsedSmartPhonesByoad": {
+          "Count": "Int:330"
+        }
+      },
+      "ED:EC-19": {
+        "CensusOfficer:DeputyCensusCommissioners": {
+          "Count": "Int:16"
+        },
+        "CensusOfficer:AssistantCensusCommissioners": {
+          "Count": "Int:16"
+        },
+        "CensusOfficer:TechnicalStaffZonalSupervisorsAndDistrictStatisticalBranchHead": {
+          "Count": "Int:4"
+        },
+        "CensusOfficer:TechnicalStaffDivisionalCensusOfficer": {
+          "Count": "Int:15"
+        },
+        "CensusOfficer:TechnicalStaffAreaSupervisors": {
+          "Count": "Int:28"
+        },
+        "CensusOfficer:TechnicalStaffCircleOfficers": {
+          "Count": "Int:46"
+        },
+        "CensusOfficer:OtherNonTechnicalStaff": {
+          "Count": "Int:80"
+        },
+        "CensusOfficer:EnumeratorsWhoUsedTabletComputersCapi": {
+          "Count": "Int:661"
+        },
+        "CensusOfficer:EnumeratorsWhoUsedSmartPhonesByoad": {
+          "Count": "Int:552"
+        }
+      },
+      "ED:EC-20": {
+        "CensusOfficer:DeputyCensusCommissioners": {
+          "Count": "Int:12"
+        },
+        "CensusOfficer:AssistantCensusCommissioners": {
+          "Count": "Int:12"
+        },
+        "CensusOfficer:TechnicalStaffZonalSupervisorsAndDistrictStatisticalBranchHead": {
+          "Count": "Int:3"
+        },
+        "CensusOfficer:TechnicalStaffDivisionalCensusOfficer": {
+          "Count": "Int:11"
+        },
+        "CensusOfficer:TechnicalStaffAreaSupervisors": {
+          "Count": "Int:17"
+        },
+        "CensusOfficer:TechnicalStaffCircleOfficers": {
+          "Count": "Int:27"
+        },
+        "CensusOfficer:OtherNonTechnicalStaff": {
+          "Count": "Int:60"
+        },
+        "CensusOfficer:EnumeratorsWhoUsedTabletComputersCapi": {
+          "Count": "Int:381"
+        },
+        "CensusOfficer:EnumeratorsWhoUsedSmartPhonesByoad": {
+          "Count": "Int:406"
+        }
+      },
+      "ED:EC-21": {
+        "CensusOfficer:DeputyCensusCommissioners": {
+          "Count": "Int:19"
+        },
+        "CensusOfficer:AssistantCensusCommissioners": {
+          "Count": "Int:19"
+        },
+        "CensusOfficer:TechnicalStaffZonalSupervisorsAndDistrictStatisticalBranchHead": {
+          "Count": "Int:6"
+        },
+        "CensusOfficer:TechnicalStaffDivisionalCensusOfficer": {
+          "Count": "Int:18"
+        },
+        "CensusOfficer:TechnicalStaffAreaSupervisors": {
+          "Count": "Int:36"
+        },
+        "CensusOfficer:TechnicalStaffCircleOfficers": {
+          "Count": "Int:62"
+        },
+        "CensusOfficer:OtherNonTechnicalStaff": {
+          "Count": "Int:95"
+        },
+        "CensusOfficer:EnumeratorsWhoUsedTabletComputersCapi": {
+          "Count": "Int:895"
+        },
+        "CensusOfficer:EnumeratorsWhoUsedSmartPhonesByoad": {
+          "Count": "Int:781"
+        }
+      },
+      "ED:EC-22": {
+        "CensusOfficer:DeputyCensusCommissioners": {
+          "Count": "Int:12"
+        },
+        "CensusOfficer:AssistantCensusCommissioners": {
+          "Count": "Int:12"
+        },
+        "CensusOfficer:TechnicalStaffZonalSupervisorsAndDistrictStatisticalBranchHead": {
+          "Count": "Int:5"
+        },
+        "CensusOfficer:TechnicalStaffDivisionalCensusOfficer": {
+          "Count": "Int:11"
+        },
+        "CensusOfficer:TechnicalStaffAreaSupervisors": {
+          "Count": "Int:26"
+        },
+        "CensusOfficer:TechnicalStaffCircleOfficers": {
+          "Count": "Int:46"
+        },
+        "CensusOfficer:OtherNonTechnicalStaff": {
+          "Count": "Int:60"
+        },
+        "CensusOfficer:EnumeratorsWhoUsedTabletComputersCapi": {
+          "Count": "Int:708"
+        },
+        "CensusOfficer:EnumeratorsWhoUsedSmartPhonesByoad": {
+          "Count": "Int:487"
+        }
+      }
+    }
+  }
+}

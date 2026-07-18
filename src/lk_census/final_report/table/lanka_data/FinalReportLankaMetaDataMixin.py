@@ -31,13 +31,13 @@ class FinalReportLankaMetaDataMixin:
         return self.lanka_data_metadata.get("measurement_class_name")
 
     @cached_property
-    def time(self):
-        return self.lanka_data_metadata.get("time")
+    def time_str(self):
+        return self.lanka_data_metadata.get("time_str")
 
     @cached_property
     def is_lanka_data_metadata_complete(self):
         return (
             self.entity_class_name is not None
             and self.measurement_class_name is not None
-            and self.time is not None
+            and self.time_str is not None
         )
