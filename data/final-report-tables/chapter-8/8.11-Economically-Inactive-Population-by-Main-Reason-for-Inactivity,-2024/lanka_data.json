@@ -1,0 +1,27 @@
+{
+  "Person": {
+    "Time:2024": {
+      "EconomicInactivityReason:EngagedInHouseholdWorkOrChildcareOrElderCare": {
+        "Count": "Int:3358527"
+      },
+      "EconomicInactivityReason:EngageInEducationalOrVocationalTraining": {
+        "Count": "Int:2365048"
+      },
+      "EconomicInactivityReason:UnableOrTooOldToWorkOrRetired": {
+        "Count": "Int:2190230"
+      },
+      "EconomicInactivityReason:LongTermIllnessOrDisabled": {
+        "Count": "Int:517647"
+      },
+      "EconomicInactivityReason:DoesNotWantOrInterestToDoAnyEconomicActivity": {
+        "Count": "Int:447121"
+      },
+      "EconomicInactivityReason:Other": {
+        "Count": "Int:173895"
+      },
+      "EconomicInactivityReason:IncomeRecipientSuchAsFromInvestmentRentalAndInterest": {
+        "Count": "Int:59552"
+      }
+    }
+  }
+}

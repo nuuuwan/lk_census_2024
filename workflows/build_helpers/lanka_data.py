@@ -13,7 +13,7 @@ if __name__ == "__main__":
     table_list = FinalReportTable.list()
 
     for table in table_list:
-        if table.build_status != 4:
+        if table.build_status not in [4]:
             continue
 
         if table.lanka_data_pass:
@@ -37,6 +37,7 @@ if __name__ == "__main__":
 
         if table.is_lanka_data_fields_complete:
             table.build_lanka_data()
+            table.fields_file.open("code")
             if table.lanka_data_file.exists():
                 table.lanka_data_file.open("code")
         else:

@@ -1,0 +1,356 @@
+{
+  "House": {
+    "Time:2024": {
+      "District:LK-11": {
+        "HouseholdType:OnePerson": {
+          "Count": "Int:69392"
+        },
+        "HouseholdType:Nuclear": {
+          "Count": "Int:368810"
+        },
+        "HouseholdType:Extended": {
+          "Count": "Int:204760"
+        },
+        "HouseholdType:Composite": {
+          "Count": "Int:18860"
+        }
+      },
+      "District:LK-12": {
+        "HouseholdType:OnePerson": {
+          "Count": "Int:79204"
+        },
+        "HouseholdType:Nuclear": {
+          "Count": "Int:378791"
+        },
+        "HouseholdType:Extended": {
+          "Count": "Int:220914"
+        },
+        "HouseholdType:Composite": {
+          "Count": "Int:9726"
+        }
+      },
+      "District:LK-13": {
+        "HouseholdType:OnePerson": {
+          "Count": "Int:30146"
+        },
+        "HouseholdType:Nuclear": {
+          "Count": "Int:200277"
+        },
+        "HouseholdType:Extended": {
+          "Count": "Int:119953"
+        },
+        "HouseholdType:Composite": {
+          "Count": "Int:2587"
+        }
+      },
+      "District:LK-21": {
+        "HouseholdType:OnePerson": {
+          "Count": "Int:37663"
+        },
+        "HouseholdType:Nuclear": {
+          "Count": "Int:227856"
+        },
+        "HouseholdType:Extended": {
+          "Count": "Int:128989"
+        },
+        "HouseholdType:Composite": {
+          "Count": "Int:3118"
+        }
+      },
+      "District:LK-22": {
+        "HouseholdType:OnePerson": {
+          "Count": "Int:16281"
+        },
+        "HouseholdType:Nuclear": {
+          "Count": "Int:88182"
+        },
+        "HouseholdType:Extended": {
+          "Count": "Int:45750"
+        },
+        "HouseholdType:Composite": {
+          "Count": "Int:919"
+        }
+      },
+      "District:LK-23": {
+        "HouseholdType:OnePerson": {
+          "Count": "Int:21435"
+        },
+        "HouseholdType:Nuclear": {
+          "Count": "Int:111832"
+        },
+        "HouseholdType:Extended": {
+          "Count": "Int:66308"
+        },
+        "HouseholdType:Composite": {
+          "Count": "Int:686"
+        }
+      },
+      "District:LK-31": {
+        "HouseholdType:OnePerson": {
+          "Count": "Int:31145"
+        },
+        "HouseholdType:Nuclear": {
+          "Count": "Int:179230"
+        },
+        "HouseholdType:Extended": {
+          "Count": "Int:95257"
+        },
+        "HouseholdType:Composite": {
+          "Count": "Int:2072"
+        }
+      },
+      "District:LK-32": {
+        "HouseholdType:OnePerson": {
+          "Count": "Int:21716"
+        },
+        "HouseholdType:Nuclear": {
+          "Count": "Int:137577"
+        },
+        "HouseholdType:Extended": {
+          "Count": "Int:71010"
+        },
+        "HouseholdType:Composite": {
+          "Count": "Int:1643"
+        }
+      },
+      "District:LK-33": {
+        "HouseholdType:OnePerson": {
+          "Count": "Int:19492"
+        },
+        "HouseholdType:Nuclear": {
+          "Count": "Int:120108"
+        },
+        "HouseholdType:Extended": {
+          "Count": "Int:48267"
+        },
+        "HouseholdType:Composite": {
+          "Count": "Int:771"
+        }
+      },
+      "District:LK-41": {
+        "HouseholdType:OnePerson": {
+          "Count": "Int:17874"
+        },
+        "HouseholdType:Nuclear": {
+          "Count": "Int:92908"
+        },
+        "HouseholdType:Extended": {
+          "Count": "Int:48086"
+        },
+        "HouseholdType:Composite": {
+          "Count": "Int:885"
+        }
+      },
+      "District:LK-42": {
+        "HouseholdType:OnePerson": {
+          "Count": "Int:3031"
+        },
+        "HouseholdType:Nuclear": {
+          "Count": "Int:21498"
+        },
+        "HouseholdType:Extended": {
+          "Count": "Int:7652"
+        },
+        "HouseholdType:Composite": {
+          "Count": "Int:149"
+        }
+      },
+      "District:LK-43": {
+        "HouseholdType:OnePerson": {
+          "Count": "Int:5449"
+        },
+        "HouseholdType:Nuclear": {
+          "Count": "Int:31406"
+        },
+        "HouseholdType:Extended": {
+          "Count": "Int:11308"
+        },
+        "HouseholdType:Composite": {
+          "Count": "Int:236"
+        }
+      },
+      "District:LK-44": {
+        "HouseholdType:OnePerson": {
+          "Count": "Int:4312"
+        },
+        "HouseholdType:Nuclear": {
+          "Count": "Int:22643"
+        },
+        "HouseholdType:Extended": {
+          "Count": "Int:7567"
+        },
+        "HouseholdType:Composite": {
+          "Count": "Int:264"
+        }
+      },
+      "District:LK-45": {
+        "HouseholdType:OnePerson": {
+          "Count": "Int:3841"
+        },
+        "HouseholdType:Nuclear": {
+          "Count": "Int:24569"
+        },
+        "HouseholdType:Extended": {
+          "Count": "Int:8159"
+        },
+        "HouseholdType:Composite": {
+          "Count": "Int:165"
+        }
+      },
+      "District:LK-51": {
+        "HouseholdType:OnePerson": {
+          "Count": "Int:16929"
+        },
+        "HouseholdType:Nuclear": {
+          "Count": "Int:114232"
+        },
+        "HouseholdType:Extended": {
+          "Count": "Int:38690"
+        },
+        "HouseholdType:Composite": {
+          "Count": "Int:411"
+        }
+      },
+      "District:LK-52": {
+        "HouseholdType:OnePerson": {
+          "Count": "Int:19615"
+        },
+        "HouseholdType:Nuclear": {
+          "Count": "Int:139315"
+        },
+        "HouseholdType:Extended": {
+          "Count": "Int:47608"
+        },
+        "HouseholdType:Composite": {
+          "Count": "Int:469"
+        }
+      },
+      "District:LK-53": {
+        "HouseholdType:OnePerson": {
+          "Count": "Int:12293"
+        },
+        "HouseholdType:Nuclear": {
+          "Count": "Int:83116"
+        },
+        "HouseholdType:Extended": {
+          "Count": "Int:26193"
+        },
+        "HouseholdType:Composite": {
+          "Count": "Int:346"
+        }
+      },
+      "District:LK-61": {
+        "HouseholdType:OnePerson": {
+          "Count": "Int:58765"
+        },
+        "HouseholdType:Nuclear": {
+          "Count": "Int:288531"
+        },
+        "HouseholdType:Extended": {
+          "Count": "Int:160165"
+        },
+        "HouseholdType:Composite": {
+          "Count": "Int:3705"
+        }
+      },
+      "District:LK-62": {
+        "HouseholdType:OnePerson": {
+          "Count": "Int:27324"
+        },
+        "HouseholdType:Nuclear": {
+          "Count": "Int:136416"
+        },
+        "HouseholdType:Extended": {
+          "Count": "Int:68445"
+        },
+        "HouseholdType:Composite": {
+          "Count": "Int:1842"
+        }
+      },
+      "District:LK-71": {
+        "HouseholdType:OnePerson": {
+          "Count": "Int:30309"
+        },
+        "HouseholdType:Nuclear": {
+          "Count": "Int:168779"
+        },
+        "HouseholdType:Extended": {
+          "Count": "Int:74575"
+        },
+        "HouseholdType:Composite": {
+          "Count": "Int:1421"
+        }
+      },
+      "District:LK-72": {
+        "HouseholdType:OnePerson": {
+          "Count": "Int:13006"
+        },
+        "HouseholdType:Nuclear": {
+          "Count": "Int:75208"
+        },
+        "HouseholdType:Extended": {
+          "Count": "Int:38588"
+        },
+        "HouseholdType:Composite": {
+          "Count": "Int:583"
+        }
+      },
+      "District:LK-81": {
+        "HouseholdType:OnePerson": {
+          "Count": "Int:26616"
+        },
+        "HouseholdType:Nuclear": {
+          "Count": "Int:152914"
+        },
+        "HouseholdType:Extended": {
+          "Count": "Int:67534"
+        },
+        "HouseholdType:Composite": {
+          "Count": "Int:1198"
+        }
+      },
+      "District:LK-82": {
+        "HouseholdType:OnePerson": {
+          "Count": "Int:15864"
+        },
+        "HouseholdType:Nuclear": {
+          "Count": "Int:102353"
+        },
+        "HouseholdType:Extended": {
+          "Count": "Int:32865"
+        },
+        "HouseholdType:Composite": {
+          "Count": "Int:681"
+        }
+      },
+      "District:LK-91": {
+        "HouseholdType:OnePerson": {
+          "Count": "Int:33705"
+        },
+        "HouseholdType:Nuclear": {
+          "Count": "Int:198226"
+        },
+        "HouseholdType:Extended": {
+          "Count": "Int:93718"
+        },
+        "HouseholdType:Composite": {
+          "Count": "Int:1996"
+        }
+      },
+      "District:LK-92": {
+        "HouseholdType:OnePerson": {
+          "Count": "Int:25297"
+        },
+        "HouseholdType:Nuclear": {
+          "Count": "Int:134199"
+        },
+        "HouseholdType:Extended": {
+          "Count": "Int:83161"
+        },
+        "HouseholdType:Composite": {
+          "Count": "Int:1380"
+        }
+      }
+    }
+  }
+}
