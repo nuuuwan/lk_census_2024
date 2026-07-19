@@ -1,0 +1,74 @@
+{
+  "Person": {
+    "Time:2024": {
+      "Sector:Urban": {
+        "HighestEducationLevel3:NoSchooling": {
+          "Count": "Int:16211"
+        },
+        "HighestEducationLevel3:Passed15Years": {
+          "Count": "Int:87831"
+        },
+        "HighestEducationLevel3:Passed610Years": {
+          "Count": "Int:313916"
+        },
+        "HighestEducationLevel3:GceOl": {
+          "Count": "Int:263964"
+        },
+        "HighestEducationLevel3:GceAl": {
+          "Count": "Int:360635"
+        }
+      },
+      "Sector:EstateUrban": {
+        "HighestEducationLevel3:NoSchooling": {
+          "Count": "Int:329"
+        },
+        "HighestEducationLevel3:Passed15Years": {
+          "Count": "Int:833"
+        },
+        "HighestEducationLevel3:Passed610Years": {
+          "Count": "Int:1353"
+        },
+        "HighestEducationLevel3:GceOl": {
+          "Count": "Int:317"
+        },
+        "HighestEducationLevel3:GceAl": {
+          "Count": "Int:276"
+        }
+      },
+      "Sector:Rural": {
+        "HighestEducationLevel3:NoSchooling": {
+          "Count": "Int:127933"
+        },
+        "HighestEducationLevel3:Passed15Years": {
+          "Count": "Int:761530"
+        },
+        "HighestEducationLevel3:Passed610Years": {
+          "Count": "Int:2037293"
+        },
+        "HighestEducationLevel3:GceOl": {
+          "Count": "Int:1023234"
+        },
+        "HighestEducationLevel3:GceAl": {
+          "Count": "Int:877065"
+        }
+      },
+      "Sector:EstateRural": {
+        "HighestEducationLevel3:NoSchooling": {
+          "Count": "Int:29671"
+        },
+        "HighestEducationLevel3:Passed15Years": {
+          "Count": "Int:83244"
+        },
+        "HighestEducationLevel3:Passed610Years": {
+          "Count": "Int:91332"
+        },
+        "HighestEducationLevel3:GceOl": {
+          "Count": "Int:23164"
+        },
+        "HighestEducationLevel3:GceAl": {
+          "Count": "Int:11184"
+        }
+      }
+    }
+  }
+}
