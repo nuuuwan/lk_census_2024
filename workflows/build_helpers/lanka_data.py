@@ -54,6 +54,9 @@ if __name__ == "__main__":
             )
             fields["cell_label"] = fields.get("cell_label") or "Count"
             fields["cell_class_name"] = fields.get("cell_class_name") or "Int"
+
+            fields["lanka_data_pass"] = True
+
             table.fields_file.write(fields)
 
             table.fields_file.open("code")
