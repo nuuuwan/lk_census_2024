@@ -38,7 +38,7 @@ class ReadMeFinalReportMixin:
         return [
             f"- {emoji} Table {final_report_table.table_num}"
             + f" - [{final_report_table.table_name}]"
-            + f"({final_report_table.dir_data})"
+            + f"({final_report_table.readme_file.path})"
         ]
 
     @staticmethod
