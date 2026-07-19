@@ -1,0 +1,38 @@
+{
+  "Person": {
+    "Time:2024": {
+      "Sector:Urban": {
+        "Sex:Male": {
+          "Count": "Int:943483"
+        },
+        "Sex:Female": {
+          "Count": "Int:438711"
+        }
+      },
+      "Sector:EstateUrban": {
+        "Sex:Male": {
+          "Count": "Int:3176"
+        },
+        "Sex:Female": {
+          "Count": "Int:1689"
+        }
+      },
+      "Sector:Rural": {
+        "Sex:Male": {
+          "Count": "Int:4395189"
+        },
+        "Sex:Female": {
+          "Count": "Int:2046141"
+        }
+      },
+      "Sector:EstateRural": {
+        "Sex:Male": {
+          "Count": "Int:208526"
+        },
+        "Sex:Female": {
+          "Count": "Int:126026"
+        }
+      }
+    }
+  }
+}
