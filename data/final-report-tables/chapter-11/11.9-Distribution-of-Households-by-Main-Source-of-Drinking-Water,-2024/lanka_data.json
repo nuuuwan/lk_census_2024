@@ -1,0 +1,21 @@
+{
+  "Person": {
+    "Time:2024": {
+      "SourceOfDrinkingWater:UnprotectedWell": {
+        "Count": "Int:77806"
+      },
+      "SourceOfDrinkingWater:TubeWell": {
+        "Count": "Int:270401"
+      },
+      "SourceOfDrinkingWater:BottledWater": {
+        "Count": "Int:63753"
+      },
+      "SourceOfDrinkingWater:Bowser": {
+        "Count": "Int:31208"
+      },
+      "SourceOfDrinkingWater:Other": {
+        "Count": "Int:761"
+      }
+    }
+  }
+}
