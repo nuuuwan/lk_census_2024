@@ -1,9 +1,47 @@
 # Officers who have  Assigned for Census of Population and Housing 2024 Activities
 
 ![CPH](https://img.shields.io/badge/CPH-2024-blue)
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--07--18-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--07--19-green)
 
 *Table 1.1.1, Final Report, 2024 Census of Population and Housing, Department of Census and Statistics, Sri Lanka*
+
+## Structured Data formatted for [Lanka Data API](https://github.com/nuuuwan/lanka_data)
+
+```json
+{
+    "Person": {
+        "Time:2024": {
+            "District:LK-11": {
+                "CensusOfficer:DeputyCensusCommissioners": {
+                    "Count": "Int:14"
+                },
+                "CensusOfficer:AssistantCensusCommissioners": {
+                    "Count": "Int:14"
+                },
+                "CensusOfficer:TechnicalStaffZonalSupervisorsAndDistrictStatisticalBranchHead": {
+                    "Count": "Int:18"
+                },
+                "CensusOfficer:TechnicalStaffDivisionalCensusOfficer": {
+                    "Count": "Int:13"
+                },
+                "CensusOfficer:TechnicalStaffAreaSupervisors": {
+                    "Count": "Int:53"
+                },
+                "CensusOfficer:TechnicalStaffCircleOfficers": {
+                    "Count": "Int:98"
+                },
+                "CensusOfficer:OtherNonTechnicalStaff": {
+                    "Count": "Int:70"
+                },
+                "CensusOfficer:EnumeratorsWhoUsedTabletComputersCapi": {
+                    "Count": "Int:1104"
+                },
+                "CensusOfficer:EnumeratorsWhoUsedSmartPhonesByoad": {
+                    "Count": "Int:1986"
+...
+```
+
+- Source File: [lanka_data.json (23.0 KB)](../../../../data/final-report-tables/chapter-1/1.1.1-Officers-who-have--Assigned-for-Census-of-Population-and-Housing-2024-Activities/lanka_data.json)
 
 ## Structured Data (similar to original layout)
 
@@ -14,15 +52,15 @@
         "region_name": "Colombo",
         "region_ent_type": "district",
         "values": {
-            "deputy_census_commissioners": 14,
-            "assistant_census_commissioners": 14,
-            "technical_staff_zonal_supervisors_and_district_statistical_branch_head": 18,
-            "technical_staff_divisional_census_officer": 13,
-            "technical_staff_area_supervisors": 53,
-            "technical_staff_circle_officers": 98,
-            "other_non_technical_staff": 70,
-            "enumerators_who_used_tablet_computers_capi": 1104,
-            "enumerators_who_used_smart_phones_byoad": 1986
+            "CensusOfficer:DeputyCensusCommissioners": 14,
+            "CensusOfficer:AssistantCensusCommissioners": 14,
+            "CensusOfficer:TechnicalStaffZonalSupervisorsAndDistrictStatisticalBranchHead": 18,
+            "CensusOfficer:TechnicalStaffDivisionalCensusOfficer": 13,
+            "CensusOfficer:TechnicalStaffAreaSupervisors": 53,
+            "CensusOfficer:TechnicalStaffCircleOfficers": 98,
+            "CensusOfficer:OtherNonTechnicalStaff": 70,
+            "CensusOfficer:EnumeratorsWhoUsedTabletComputersCapi": 1104,
+            "CensusOfficer:EnumeratorsWhoUsedSmartPhonesByoad": 1986
         },
         "total_value": 3370
     },
@@ -31,17 +69,17 @@
         "region_name": "Gampaha",
         "region_ent_type": "district",
         "values": {
-            "deputy_census_commissioners": 14,
-            "assistant_census_commissioners": 14,
-            "technical_staff_zonal_supervisors_and_district_statistical_branch_head": 13,
-            "technical_staff_divisional_census_officer": 13,
-            "technical_staff_area_supervisors": 48,
-            "technical_staff_circle_officers": 90,
-            "other_non_technical_staff": 70,
+            "CensusOfficer:DeputyCensusCommissioners": 14,
+            "CensusOfficer:AssistantCensusCommissioners": 14,
+            "CensusOfficer:TechnicalStaffZonalSupervisorsAndDistrictStatisticalBranchHead": 13,
+            "CensusOfficer:TechnicalStaffDivisionalCensusOfficer": 13,
+            "CensusOfficer:TechnicalStaffAreaSupervisors": 48,
+            "CensusOfficer:TechnicalStaffCircleOfficers": 90,
+            "CensusOfficer:OtherNonTechnicalStaff": 70,
 ...
 ```
 
-- Source File: [data.json (33.9 KB)](../../../../data/final-report-tables/chapter-1/1.1.1-Officers-who-have--Assigned-for-Census-of-Population-and-Housing-2024-Activities/data.json)
+- Source File: [data.json (39.0 KB)](../../../../data/final-report-tables/chapter-1/1.1.1-Officers-who-have--Assigned-for-Census-of-Population-and-Housing-2024-Activities/data.json)
 
 ## Raw Data (directly scraped from PDF)
 

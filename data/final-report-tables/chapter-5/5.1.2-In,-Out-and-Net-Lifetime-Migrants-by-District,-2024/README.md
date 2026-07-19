@@ -1,9 +1,47 @@
 # In, Out and Net Lifetime Migrants by District, 2024
 
 ![CPH](https://img.shields.io/badge/CPH-2024-blue)
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--07--18-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--07--19-green)
 
 *Table 5.1.2, Final Report, 2024 Census of Population and Housing, Department of Census and Statistics, Sri Lanka*
+
+## Structured Data formatted for [Lanka Data API](https://github.com/nuuuwan/lanka_data)
+
+```json
+{
+    "Person": {
+        "Time:2024": {
+            "District:LK-11": {
+                "MigrationDirection:InMigrants": {
+                    "Count": "Int:491236"
+                },
+                "MigrationDirection:OutMigrants": {
+                    "Count": "Int:299712"
+                }
+            },
+            "District:LK-12": {
+                "MigrationDirection:InMigrants": {
+                    "Count": "Int:490861"
+                },
+                "MigrationDirection:OutMigrants": {
+                    "Count": "Int:133333"
+                }
+            },
+            "District:LK-13": {
+                "MigrationDirection:InMigrants": {
+                    "Count": "Int:180877"
+                },
+                "MigrationDirection:OutMigrants": {
+                    "Count": "Int:118645"
+                }
+            },
+            "District:LK-21": {
+                "MigrationDirection:InMigrants": {
+                    "Count": "Int:157921"
+...
+```
+
+- Source File: [lanka_data.json (5.1 KB)](../../../../data/final-report-tables/chapter-5/5.1.2-In,-Out-and-Net-Lifetime-Migrants-by-District,-2024/lanka_data.json)
 
 ## Structured Data (similar to original layout)
 

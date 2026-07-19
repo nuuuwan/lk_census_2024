@@ -1,9 +1,44 @@
 # Distribution of Population by Sector, 2012 and 2024
 
 ![CPH](https://img.shields.io/badge/CPH-2024-blue)
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--07--18-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--07--19-green)
 
 *Table 3.5, Final Report, 2024 Census of Population and Housing, Department of Census and Statistics, Sri Lanka*
+
+## Structured Data formatted for [Lanka Data API](https://github.com/nuuuwan/lanka_data)
+
+```json
+{
+    "Person": {
+        "Sector:Urban": {
+            "Time:2012": {
+                "Count": "Int:3704470"
+            },
+            "Time:2024": {
+                "Count": "Int:3819203"
+            }
+        },
+        "Sector:Rural": {
+            "Time:2012": {
+                "Count": "Int:15753322"
+            },
+            "Time:2024": {
+                "Count": "Int:17096918"
+            }
+        },
+        "Sector:EstateRural": {
+            "Time:2012": {
+                "Count": "Int:901647"
+            },
+            "Time:2024": {
+                "Count": "Int:865679"
+            }
+        }
+    }
+}
+```
+
+- Source File: [lanka_data.json (476.0 B)](../../../../data/final-report-tables/chapter-3/3.5-Distribution-of-Population-by-Sector,-2012-and-2024/lanka_data.json)
 
 ## Structured Data (similar to original layout)
 

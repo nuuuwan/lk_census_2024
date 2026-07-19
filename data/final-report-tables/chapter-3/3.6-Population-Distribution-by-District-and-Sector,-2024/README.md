@@ -1,9 +1,47 @@
 # Population Distribution by District and Sector, 2024
 
 ![CPH](https://img.shields.io/badge/CPH-2024-blue)
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--07--18-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--07--19-green)
 
 *Table 3.6, Final Report, 2024 Census of Population and Housing, Department of Census and Statistics, Sri Lanka*
+
+## Structured Data formatted for [Lanka Data API](https://github.com/nuuuwan/lanka_data)
+
+```json
+{
+    "Person": {
+        "Time:2024": {
+            "District:LK-11": {
+                "Sector:Urban": {
+                    "Count": "Int:1773222"
+                },
+                "Sector:EstateUrban": {
+                    "Count": "Int:3874"
+                },
+                "Sector:Rural": {
+                    "Count": "Int:593669"
+                },
+                "Sector:EstateRural": {
+                    "Count": "Int:4650"
+                }
+            },
+            "District:LK-12": {
+                "Sector:Urban": {
+                    "Count": "Int:350441"
+                },
+                "Sector:EstateUrban": {
+                    "Count": "Int:0"
+                },
+                "Sector:Rural": {
+                    "Count": "Int:2085307"
+                },
+                "Sector:EstateRural": {
+                    "Count": "Int:394"
+                }
+...
+```
+
+- Source File: [lanka_data.json (7.7 KB)](../../../../data/final-report-tables/chapter-3/3.6-Population-Distribution-by-District-and-Sector,-2024/lanka_data.json)
 
 ## Structured Data (similar to original layout)
 

@@ -1,9 +1,17 @@
 # Total Population, Intercensal Increase and Average Annual Growth Rate by Census Year, 1871 - 2024
 
 ![CPH](https://img.shields.io/badge/CPH-2024-blue)
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--07--18-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--07--19-green)
 
 *Table 3.1, Final Report, 2024 Census of Population and Housing, Department of Census and Statistics, Sri Lanka*
+
+## Structured Data formatted for [Lanka Data API](https://github.com/nuuuwan/lanka_data)
+
+```json
+{}
+```
+
+- Source File: [lanka_data.json (2.0 B)](../../../../data/final-report-tables/chapter-3/3.1-Total-Population,-Intercensal-Increase-and-Average-Annual-Growth-Rate-by-Census-Year,-1871---2024/lanka_data.json)
 
 ## Structured Data (similar to original layout)
 

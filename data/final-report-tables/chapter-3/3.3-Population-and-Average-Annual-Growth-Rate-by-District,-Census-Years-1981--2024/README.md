@@ -1,9 +1,47 @@
 # Population and Average Annual Growth Rate by District, Census Years 1981- 2024
 
 ![CPH](https://img.shields.io/badge/CPH-2024-blue)
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--07--18-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--07--19-green)
 
 *Table 3.3, Final Report, 2024 Census of Population and Housing, Department of Census and Statistics, Sri Lanka*
+
+## Structured Data formatted for [Lanka Data API](https://github.com/nuuuwan/lanka_data)
+
+```json
+{
+    "Person": {
+        "Time:1981": {
+            "District:LK-11": {
+                "Count": "Int:1675847"
+            },
+            "District:LK-12": {
+                "Count": "Int:1367813"
+            },
+            "District:LK-13": {
+                "Count": "Int:823964"
+            },
+            "District:LK-21": {
+                "Count": "Int:1032335"
+            },
+            "District:LK-22": {
+                "Count": "Int:352860"
+            },
+            "District:LK-23": {
+                "Count": "Int:583716"
+            },
+            "District:LK-31": {
+                "Count": "Int:805403"
+            },
+            "District:LK-32": {
+                "Count": "Int:642235"
+            },
+            "District:LK-33": {
+                "Count": "Int:421277"
+            },
+...
+```
+
+- Source File: [lanka_data.json (6.4 KB)](../../../../data/final-report-tables/chapter-3/3.3-Population-and-Average-Annual-Growth-Rate-by-District,-Census-Years-1981--2024/lanka_data.json)
 
 ## Structured Data (similar to original layout)
 

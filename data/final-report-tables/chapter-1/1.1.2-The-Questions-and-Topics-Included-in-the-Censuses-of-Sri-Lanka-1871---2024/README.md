@@ -1,9 +1,47 @@
 # The Questions and Topics Included in the Censuses of Sri Lanka 1871 - 2024
 
 ![CPH](https://img.shields.io/badge/CPH-2024-blue)
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--07--18-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--07--19-green)
 
 *Table 1.1.2, Final Report, 2024 Census of Population and Housing, Department of Census and Statistics, Sri Lanka*
+
+## Structured Data formatted for [Lanka Data API](https://github.com/nuuuwan/lanka_data)
+
+```json
+{
+    "Census": {
+        "CensusTopic:Schedule": {
+            "Time:1871": {
+                "WasTopicIncluded": "Bool:False"
+            },
+            "Time:1881": {
+                "WasTopicIncluded": "Bool:False"
+            },
+            "Time:1891": {
+                "WasTopicIncluded": "Bool:False"
+            },
+            "Time:1901": {
+                "WasTopicIncluded": "Bool:False"
+            },
+            "Time:1911": {
+                "WasTopicIncluded": "Bool:False"
+            },
+            "Time:1921": {
+                "WasTopicIncluded": "Bool:False"
+            },
+            "Time:1931": {
+                "WasTopicIncluded": "Bool:False"
+            },
+            "Time:1946": {
+                "WasTopicIncluded": "Bool:False"
+            },
+            "Time:1953": {
+                "WasTopicIncluded": "Bool:False"
+            },
+...
+```
+
+- Source File: [lanka_data.json (27.0 KB)](../../../../data/final-report-tables/chapter-1/1.1.2-The-Questions-and-Topics-Included-in-the-Censuses-of-Sri-Lanka-1871---2024/lanka_data.json)
 
 ## Structured Data (similar to original layout)
 

@@ -1,9 +1,47 @@
 # In-migration, Out-migration, and Net Migration by District,
 
 ![CPH](https://img.shields.io/badge/CPH-2024-blue)
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--07--18-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--07--19-green)
 
 *Table 5.1.5, Final Report, 2024 Census of Population and Housing, Department of Census and Statistics, Sri Lanka*
+
+## Structured Data formatted for [Lanka Data API](https://github.com/nuuuwan/lanka_data)
+
+```json
+{
+    "Person": {
+        "Time:2024": {
+            "District:LK-11": {
+                "MigrationDirection:InMigrants": {
+                    "Count": "Int:519379"
+                },
+                "MigrationDirection:OutMigrants": {
+                    "Count": "Int:384245"
+                }
+            },
+            "District:LK-12": {
+                "MigrationDirection:InMigrants": {
+                    "Count": "Int:524737"
+                },
+                "MigrationDirection:OutMigrants": {
+                    "Count": "Int:155712"
+                }
+            },
+            "District:LK-13": {
+                "MigrationDirection:InMigrants": {
+                    "Count": "Int:192833"
+                },
+                "MigrationDirection:OutMigrants": {
+                    "Count": "Int:126566"
+                }
+            },
+            "District:LK-21": {
+                "MigrationDirection:InMigrants": {
+                    "Count": "Int:172489"
+...
+```
+
+- Source File: [lanka_data.json (5.1 KB)](../../../../data/final-report-tables/chapter-5/5.1.5-In-migration,-Out-migration,-and-Net-Migration-by-District,/lanka_data.json)
 
 ## Structured Data (similar to original layout)
 

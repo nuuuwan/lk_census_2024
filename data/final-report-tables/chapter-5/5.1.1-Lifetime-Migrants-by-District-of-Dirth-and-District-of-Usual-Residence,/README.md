@@ -1,9 +1,47 @@
 # Lifetime Migrants by District of Dirth and District of Usual Residence,
 
 ![CPH](https://img.shields.io/badge/CPH-2024-blue)
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--07--18-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--07--19-green)
 
 *Table 5.1.1, Final Report, 2024 Census of Population and Housing, Department of Census and Statistics, Sri Lanka*
+
+## Structured Data formatted for [Lanka Data API](https://github.com/nuuuwan/lanka_data)
+
+```json
+{
+    "Person": {
+        "Time:2024": {
+            "District:LK-11": {
+                "MigrationStatus:Local": {
+                    "Count": "Int:1876288"
+                },
+                "MigrationStatus:Foreign": {
+                    "Count": "Int:7345"
+                },
+                "MigrationStatus:Migrant": {
+                    "Count": "Int:491236"
+                }
+            },
+            "District:LK-12": {
+                "MigrationStatus:Local": {
+                    "Count": "Int:1941334"
+                },
+                "MigrationStatus:Foreign": {
+                    "Count": "Int:3718"
+                },
+                "MigrationStatus:Migrant": {
+                    "Count": "Int:490861"
+                }
+            },
+            "District:LK-13": {
+                "MigrationStatus:Local": {
+                    "Count": "Int:1123880"
+                },
+                "MigrationStatus:Foreign": {
+...
+```
+
+- Source File: [lanka_data.json (6.6 KB)](../../../../data/final-report-tables/chapter-5/5.1.1-Lifetime-Migrants-by-District-of-Dirth-and-District-of-Usual-Residence,/lanka_data.json)
 
 ## Structured Data (similar to original layout)
 

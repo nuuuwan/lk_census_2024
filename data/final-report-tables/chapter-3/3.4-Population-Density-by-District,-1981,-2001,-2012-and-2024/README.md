@@ -1,9 +1,47 @@
 # Population Density by District, 1981, 2001, 2012 and 2024
 
 ![CPH](https://img.shields.io/badge/CPH-2024-blue)
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--07--18-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--07--19-green)
 
 *Table 3.4, Final Report, 2024 Census of Population and Housing, Department of Census and Statistics, Sri Lanka*
+
+## Structured Data formatted for [Lanka Data API](https://github.com/nuuuwan/lanka_data)
+
+```json
+{
+    "Person": {
+        "Time:1981": {
+            "District:LK-11": {
+                "PopulationDensity": "Float:2605.0"
+            },
+            "District:LK-12": {
+                "PopulationDensity": "Float:994.0"
+            },
+            "District:LK-13": {
+                "PopulationDensity": "Float:516.0"
+            },
+            "District:LK-21": {
+                "PopulationDensity": "Float:554.0"
+            },
+            "District:LK-31": {
+                "PopulationDensity": "Float:487.0"
+            },
+            "District:LK-32": {
+                "PopulationDensity": "Float:516.0"
+            },
+            "District:LK-41": {
+                "PopulationDensity": "Float:401.0"
+            },
+            "District:LK-92": {
+                "PopulationDensity": "Float:412.0"
+            },
+            "District:LK-23": {
+                "PopulationDensity": "Float:354.0"
+            },
+...
+```
+
+- Source File: [lanka_data.json (7.7 KB)](../../../../data/final-report-tables/chapter-3/3.4-Population-Density-by-District,-1981,-2001,-2012-and-2024/lanka_data.json)
 
 ## Structured Data (similar to original layout)
 

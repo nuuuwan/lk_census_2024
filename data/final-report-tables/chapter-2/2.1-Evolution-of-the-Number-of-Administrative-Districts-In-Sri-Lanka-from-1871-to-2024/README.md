@@ -1,9 +1,47 @@
 # Evolution of the Number of Administrative Districts In Sri Lanka from 1871 to 2024
 
 ![CPH](https://img.shields.io/badge/CPH-2024-blue)
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--07--18-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--07--19-green)
 
 *Table 2.1, Final Report, 2024 Census of Population and Housing, Department of Census and Statistics, Sri Lanka*
+
+## Structured Data formatted for [Lanka Data API](https://github.com/nuuuwan/lanka_data)
+
+```json
+{
+    "District": {
+        "District:LK-11": {
+            "Time:1871": {
+                "IsExisting": "Bool:True"
+            },
+            "Time:1881": {
+                "IsExisting": "Bool:True"
+            },
+            "Time:1891": {
+                "IsExisting": "Bool:True"
+            },
+            "Time:1901": {
+                "IsExisting": "Bool:True"
+            },
+            "Time:1911": {
+                "IsExisting": "Bool:True"
+            },
+            "Time:1921": {
+                "IsExisting": "Bool:True"
+            },
+            "Time:1931": {
+                "IsExisting": "Bool:True"
+            },
+            "Time:1946": {
+                "IsExisting": "Bool:True"
+            },
+            "Time:1953": {
+                "IsExisting": "Bool:True"
+            },
+...
+```
+
+- Source File: [lanka_data.json (26.2 KB)](../../../../data/final-report-tables/chapter-2/2.1-Evolution-of-the-Number-of-Administrative-Districts-In-Sri-Lanka-from-1871-to-2024/lanka_data.json)
 
 ## Structured Data (similar to original layout)
 
