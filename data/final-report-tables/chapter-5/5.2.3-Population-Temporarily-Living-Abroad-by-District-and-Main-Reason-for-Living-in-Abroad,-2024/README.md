@@ -1,9 +1,47 @@
 # Population Temporarily Living Abroad by District and Main Reason for Living in Abroad, 2024
 
 ![CPH](https://img.shields.io/badge/CPH-2024-blue)
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--07--18-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--07--19-green)
 
 *Table 5.2.3, Final Report, 2024 Census of Population and Housing, Department of Census and Statistics, Sri Lanka*
+
+## Structured Data formatted for [Lanka Data API](https://github.com/nuuuwan/lanka_data)
+
+```json
+{
+    "Person": {
+        "Time:2024": {
+            "District:LK-11": {
+                "EmmigrationReason:Employment": {
+                    "Count": "Int:51449"
+                },
+                "EmmigrationReason:Education": {
+                    "Count": "Int:12339"
+                },
+                "EmmigrationReason:AccompanyingFamilyMemberInNeed": {
+                    "Count": "Int:7230"
+                },
+                "EmmigrationReason:Other": {
+                    "Count": "Int:421"
+                }
+            },
+            "District:LK-12": {
+                "EmmigrationReason:Employment": {
+                    "Count": "Int:67844"
+                },
+                "EmmigrationReason:Education": {
+                    "Count": "Int:10894"
+                },
+                "EmmigrationReason:AccompanyingFamilyMemberInNeed": {
+                    "Count": "Int:7028"
+                },
+                "EmmigrationReason:Other": {
+                    "Count": "Int:311"
+                }
+...
+```
+
+- Source File: [lanka_data.json (9.3 KB)](../../../../data/final-report-tables/chapter-5/5.2.3-Population-Temporarily-Living-Abroad-by-District-and-Main-Reason-for-Living-in-Abroad,-2024/lanka_data.json)
 
 ## Structured Data (similar to original layout)
 

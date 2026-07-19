@@ -1,9 +1,47 @@
 # Population Distribution by Ethnic Group, 2024
 
 ![CPH](https://img.shields.io/badge/CPH-2024-blue)
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--07--18-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--07--19-green)
 
 *Table 6.1.8, Final Report, 2024 Census of Population and Housing, Department of Census and Statistics, Sri Lanka*
+
+## Structured Data formatted for [Lanka Data API](https://github.com/nuuuwan/lanka_data)
+
+```json
+{
+    "Person": {
+        "Time:2024": {
+            "Ethnicity:Sinhalese": {
+                "Count": "Int:16144037"
+            },
+            "Ethnicity:SlTamil": {
+                "Count": "Int:2681627"
+            },
+            "Ethnicity:IndTamil": {
+                "Count": "Int:600360"
+            },
+            "Ethnicity:SlMoor": {
+                "Count": "Int:2283246"
+            },
+            "Ethnicity:Burgher": {
+                "Count": "Int:31721"
+            },
+            "Ethnicity:Malay": {
+                "Count": "Int:26650"
+            },
+            "Ethnicity:SlChetty": {
+                "Count": "Int:2443"
+            },
+            "Ethnicity:Bharatha": {
+                "Count": "Int:1183"
+            },
+            "Ethnicity:OtherEth": {
+                "Count": "Int:9160"
+            }
+...
+```
+
+- Source File: [lanka_data.json (656.0 B)](../../../../data/final-report-tables/chapter-6/6.1.8-Population-Distribution-by-Ethnic-Group,-2024/lanka_data.json)
 
 ## Structured Data (similar to original layout)
 

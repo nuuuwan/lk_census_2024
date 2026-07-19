@@ -1,9 +1,47 @@
 # Employed Population, by Highest Educational Attainment and Sex, 2024
 
 ![CPH](https://img.shields.io/badge/CPH-2024-blue)
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--07--18-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--07--19-green)
 
 *Table 8.7, Final Report, 2024 Census of Population and Housing, Department of Census and Statistics, Sri Lanka*
+
+## Structured Data formatted for [Lanka Data API](https://github.com/nuuuwan/lanka_data)
+
+```json
+{
+    "Person": {
+        "Time:2024": {
+            "HighestEducationLevel2:NeverAttendedSchool": {
+                "Sex:Male": {
+                    "EmployedCount": "Int:67915"
+                },
+                "Sex:Female": {
+                    "EmployedCount": "Int:49378"
+                }
+            },
+            "HighestEducationLevel2:StudiedInASpecialSchoolOrSpecialUnit": {
+                "Sex:Male": {
+                    "EmployedCount": "Int:3923"
+                },
+                "Sex:Female": {
+                    "EmployedCount": "Int:2719"
+                }
+            },
+            "HighestEducationLevel2:PassedGrade15": {
+                "Sex:Male": {
+                    "EmployedCount": "Int:493163"
+                },
+                "Sex:Female": {
+                    "EmployedCount": "Int:183967"
+                }
+            },
+            "HighestEducationLevel2:PassedGrade68": {
+                "Sex:Male": {
+                    "EmployedCount": "Int:618673"
+...
+```
+
+- Source File: [lanka_data.json (1.7 KB)](../../../../data/final-report-tables/chapter-8/8.7-Employed-Population,-by-Highest-Educational-Attainment-and-Sex,-2024/lanka_data.json)
 
 ## Structured Data (similar to original layout)
 

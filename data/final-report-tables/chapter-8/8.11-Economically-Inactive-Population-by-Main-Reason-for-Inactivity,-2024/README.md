@@ -1,9 +1,43 @@
 # Economically Inactive Population by Main Reason for Inactivity, 2024
 
 ![CPH](https://img.shields.io/badge/CPH-2024-blue)
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--07--18-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--07--19-green)
 
 *Table 8.11, Final Report, 2024 Census of Population and Housing, Department of Census and Statistics, Sri Lanka*
+
+## Structured Data formatted for [Lanka Data API](https://github.com/nuuuwan/lanka_data)
+
+```json
+{
+    "Person": {
+        "Time:2024": {
+            "EconomicInactivityReason:EngagedInHouseholdWorkOrChildcareOrElderCare": {
+                "Count": "Int:3358527"
+            },
+            "EconomicInactivityReason:EngageInEducationalOrVocationalTraining": {
+                "Count": "Int:2365048"
+            },
+            "EconomicInactivityReason:UnableOrTooOldToWorkOrRetired": {
+                "Count": "Int:2190230"
+            },
+            "EconomicInactivityReason:LongTermIllnessOrDisabled": {
+                "Count": "Int:517647"
+            },
+            "EconomicInactivityReason:DoesNotWantOrInterestToDoAnyEconomicActivity": {
+                "Count": "Int:447121"
+            },
+            "EconomicInactivityReason:Other": {
+                "Count": "Int:173895"
+            },
+            "EconomicInactivityReason:IncomeRecipientSuchAsFromInvestmentRentalAndInterest": {
+                "Count": "Int:59552"
+            }
+        }
+    }
+}
+```
+
+- Source File: [lanka_data.json (817.0 B)](../../../../data/final-report-tables/chapter-8/8.11-Economically-Inactive-Population-by-Main-Reason-for-Inactivity,-2024/lanka_data.json)
 
 ## Structured Data (similar to original layout)
 

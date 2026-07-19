@@ -1,7 +1,7 @@
 # Percentage Distribution of the Number of Household Heads by Ethnic group of the Head of Household and typeof Household, 2024
 
 ![CPH](https://img.shields.io/badge/CPH-2024-blue)
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--07--18-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--07--19-green)
 
 *Table 10.3, Final Report, 2024 Census of Population and Housing, Department of Census and Statistics, Sri Lanka*
 

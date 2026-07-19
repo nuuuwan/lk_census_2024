@@ -1,9 +1,37 @@
 # Distribution of Households by Main Source of Drinking Water, 2024
 
 ![CPH](https://img.shields.io/badge/CPH-2024-blue)
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--07--18-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--07--19-green)
 
 *Table 11.9, Final Report, 2024 Census of Population and Housing, Department of Census and Statistics, Sri Lanka*
+
+## Structured Data formatted for [Lanka Data API](https://github.com/nuuuwan/lanka_data)
+
+```json
+{
+    "Person": {
+        "Time:2024": {
+            "SourceOfDrinkingWater:UnprotectedWell": {
+                "Count": "Int:77806"
+            },
+            "SourceOfDrinkingWater:TubeWell": {
+                "Count": "Int:270401"
+            },
+            "SourceOfDrinkingWater:BottledWater": {
+                "Count": "Int:63753"
+            },
+            "SourceOfDrinkingWater:Bowser": {
+                "Count": "Int:31208"
+            },
+            "SourceOfDrinkingWater:Other": {
+                "Count": "Int:761"
+            }
+        }
+    }
+}
+```
+
+- Source File: [lanka_data.json (450.0 B)](../../../../data/final-report-tables/chapter-11/11.9-Distribution-of-Households-by-Main-Source-of-Drinking-Water,-2024/lanka_data.json)
 
 ## Structured Data (similar to original layout)
 

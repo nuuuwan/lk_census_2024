@@ -1,9 +1,47 @@
 # Population Temporarily Living Abroad by Main Reason for Living Abroad and Age Group, 2024
 
 ![CPH](https://img.shields.io/badge/CPH-2024-blue)
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--07--18-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--07--19-green)
 
 *Table 5.2.4, Final Report, 2024 Census of Population and Housing, Department of Census and Statistics, Sri Lanka*
+
+## Structured Data formatted for [Lanka Data API](https://github.com/nuuuwan/lanka_data)
+
+```json
+{
+    "Person": {
+        "Time:2024": {
+            "AgeGroup:0To125Years": {
+                "EmmigrationReason:Employment": {
+                    "Count": "Int:577919"
+                },
+                "EmmigrationReason:Education": {
+                    "Count": "Int:53621"
+                },
+                "EmmigrationReason:AccompanyingFamilyMemberInNeed": {
+                    "Count": "Int:38218"
+                },
+                "EmmigrationReason:Other": {
+                    "Count": "Int:2491"
+                }
+            },
+            "AgeGroup:0To18Years": {
+                "EmmigrationReason:Employment": {
+                    "Count": "Int:0"
+                },
+                "EmmigrationReason:Education": {
+                    "Count": "Int:1486"
+                },
+                "EmmigrationReason:AccompanyingFamilyMemberInNeed": {
+                    "Count": "Int:17862"
+                },
+                "EmmigrationReason:Other": {
+                    "Count": "Int:35"
+                }
+...
+```
+
+- Source File: [lanka_data.json (1.9 KB)](../../../../data/final-report-tables/chapter-5/5.2.4-Population-Temporarily-Living-Abroad-by-Main-Reason-for-Living-Abroad-and-Age-Group,-2024/lanka_data.json)
 
 ## Structured Data (similar to original layout)
 

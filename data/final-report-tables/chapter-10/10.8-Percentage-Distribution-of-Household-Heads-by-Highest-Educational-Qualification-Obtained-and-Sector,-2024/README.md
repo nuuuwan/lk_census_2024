@@ -1,9 +1,47 @@
 # Percentage Distribution of Household Heads by Highest Educational Qualification Obtained and Sector, 2024
 
 ![CPH](https://img.shields.io/badge/CPH-2024-blue)
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--07--18-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--07--19-green)
 
 *Table 10.8, Final Report, 2024 Census of Population and Housing, Department of Census and Statistics, Sri Lanka*
+
+## Structured Data formatted for [Lanka Data API](https://github.com/nuuuwan/lanka_data)
+
+```json
+{
+    "Person": {
+        "Time:2024": {
+            "Sector:Urban": {
+                "HighestEducationLevel3:NoSchooling": {
+                    "Count": "Int:16211"
+                },
+                "HighestEducationLevel3:Passed15Years": {
+                    "Count": "Int:87831"
+                },
+                "HighestEducationLevel3:Passed610Years": {
+                    "Count": "Int:313916"
+                },
+                "HighestEducationLevel3:GceOl": {
+                    "Count": "Int:263964"
+                },
+                "HighestEducationLevel3:GceAl": {
+                    "Count": "Int:360635"
+                }
+            },
+            "Sector:EstateUrban": {
+                "HighestEducationLevel3:NoSchooling": {
+                    "Count": "Int:329"
+                },
+                "HighestEducationLevel3:Passed15Years": {
+                    "Count": "Int:833"
+                },
+                "HighestEducationLevel3:Passed610Years": {
+                    "Count": "Int:1353"
+                },
+...
+```
+
+- Source File: [lanka_data.json (1.9 KB)](../../../../data/final-report-tables/chapter-10/10.8-Percentage-Distribution-of-Household-Heads-by-Highest-Educational-Qualification-Obtained-and-Sector,-2024/lanka_data.json)
 
 ## Structured Data (similar to original layout)
 

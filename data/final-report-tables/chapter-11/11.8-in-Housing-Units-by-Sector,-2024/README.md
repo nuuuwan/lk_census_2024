@@ -1,7 +1,7 @@
 # in Housing Units by Sector, 2024
 
 ![CPH](https://img.shields.io/badge/CPH-2024-blue)
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--07--18-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--07--19-green)
 
 *Table 11.8, Final Report, 2024 Census of Population and Housing, Department of Census and Statistics, Sri Lanka*
 

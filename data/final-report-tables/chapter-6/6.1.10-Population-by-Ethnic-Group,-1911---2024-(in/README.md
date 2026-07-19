@@ -1,9 +1,47 @@
 # Population by Ethnic Group, 1911 - 2024 (in
 
 ![CPH](https://img.shields.io/badge/CPH-2024-blue)
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--07--18-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--07--19-green)
 
 *Table 6.1.10, Final Report, 2024 Census of Population and Housing, Department of Census and Statistics, Sri Lanka*
+
+## Structured Data formatted for [Lanka Data API](https://github.com/nuuuwan/lanka_data)
+
+```json
+{
+    "Person": {
+        "Time:1911": {
+            "Ethnicity:LowCountrySinhalese": {
+                "Count": "Int:1716900"
+            },
+            "Ethnicity:UpCountryKandyanSinhalese": {
+                "Count": "Int:998600"
+            },
+            "Ethnicity:SlTamil": {
+                "Count": "Int:528000"
+            },
+            "Ethnicity:IndTamil": {
+                "Count": "Int:531000"
+            },
+            "Ethnicity:SlMoor": {
+                "Count": "Int:233900"
+            },
+            "Ethnicity:IndianMuslim": {
+                "Count": "Int:32700"
+            },
+            "Ethnicity:European": {
+                "Count": "Int:7600"
+            },
+            "Ethnicity:BurgherAndEurasian": {
+                "Count": "Int:26700"
+            },
+            "Ethnicity:Malay": {
+                "Count": "Int:13000"
+            }
+...
+```
+
+- Source File: [lanka_data.json (7.2 KB)](../../../../data/final-report-tables/chapter-6/6.1.10-Population-by-Ethnic-Group,-1911---2024-(in/lanka_data.json)
 
 ## Structured Data (similar to original layout)
 

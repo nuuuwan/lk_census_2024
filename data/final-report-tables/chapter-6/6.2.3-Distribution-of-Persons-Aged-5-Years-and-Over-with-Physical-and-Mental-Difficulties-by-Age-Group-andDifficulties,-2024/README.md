@@ -1,9 +1,47 @@
 # Distribution of Persons Aged 5 Years and Over with Physical and Mental Difficulties by Age Group andDifficulties, 2024
 
 ![CPH](https://img.shields.io/badge/CPH-2024-blue)
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--07--18-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--07--19-green)
 
 *Table 6.2.3, Final Report, 2024 Census of Population and Housing, Department of Census and Statistics, Sri Lanka*
+
+## Structured Data formatted for [Lanka Data API](https://github.com/nuuuwan/lanka_data)
+
+```json
+{
+    "Person": {
+        "Time:2024": {
+            "AgeGroup:5To9Years": {
+                "DisabilityTypes:DifficultyInSeeing": {
+                    "Count": "Int:11808"
+                },
+                "DisabilityTypes:DifficultyInHearing": {
+                    "Count": "Int:4493"
+                },
+                "DisabilityTypes:DifficultyInWalkingOrClimbingSteps": {
+                    "Count": "Int:11683"
+                },
+                "DisabilityTypes:DifficultyInRememberingOrConcentrating": {
+                    "Count": "Int:13430"
+                },
+                "DisabilityTypes:DifficultyInSelfcareSuchAsWashingOrDressing": {
+                    "Count": "Int:29556"
+                },
+                "DisabilityTypes:DifficultyInCommunicatingWithOthers": {
+                    "Count": "Int:17505"
+                },
+                "DisabilityTypes:NoDisability": {
+                    "Count": "Int:1468048"
+                }
+            },
+            "AgeGroup:10To14Years": {
+                "DisabilityTypes:DifficultyInSeeing": {
+                    "Count": "Int:21988"
+                },
+...
+```
+
+- Source File: [lanka_data.json (11.7 KB)](../../../../data/final-report-tables/chapter-6/6.2.3-Distribution-of-Persons-Aged-5-Years-and-Over-with-Physical-and-Mental-Difficulties-by-Age-Group-andDifficulties,-2024/lanka_data.json)
 
 ## Structured Data (similar to original layout)
 

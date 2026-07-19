@@ -1,9 +1,47 @@
 # In-migrants by District of Usual Residence and Duration of Residence, 2024
 
 ![CPH](https://img.shields.io/badge/CPH-2024-blue)
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--07--18-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--07--19-green)
 
 *Table 5.1.6, Final Report, 2024 Census of Population and Housing, Department of Census and Statistics, Sri Lanka*
+
+## Structured Data formatted for [Lanka Data API](https://github.com/nuuuwan/lanka_data)
+
+```json
+{
+    "Person": {
+        "Time:2024": {
+            "District:LK-11": {
+                "TimeDurationGroup:0To4Years": {
+                    "Count": "Int:149236"
+                },
+                "TimeDurationGroup:5To9Years": {
+                    "Count": "Int:65105"
+                },
+                "TimeDurationGroup:10ToinfYears": {
+                    "Count": "Int:305038"
+                }
+            },
+            "District:LK-12": {
+                "TimeDurationGroup:0To4Years": {
+                    "Count": "Int:139859"
+                },
+                "TimeDurationGroup:5To9Years": {
+                    "Count": "Int:71540"
+                },
+                "TimeDurationGroup:10ToinfYears": {
+                    "Count": "Int:313338"
+                }
+            },
+            "District:LK-13": {
+                "TimeDurationGroup:0To4Years": {
+                    "Count": "Int:47096"
+                },
+                "TimeDurationGroup:5To9Years": {
+...
+```
+
+- Source File: [lanka_data.json (7.0 KB)](../../../../data/final-report-tables/chapter-5/5.1.6-In-migrants-by-District-of-Usual-Residence-and-Duration-of-Residence,-2024/lanka_data.json)
 
 ## Structured Data (similar to original layout)
 

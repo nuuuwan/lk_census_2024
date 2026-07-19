@@ -1,9 +1,47 @@
 # Percentage Distribution of the Number and of Households by Sector, District and Household Type, 2024
 
 ![CPH](https://img.shields.io/badge/CPH-2024-blue)
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--07--18-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--07--19-green)
 
 *Table 10.2, Final Report, 2024 Census of Population and Housing, Department of Census and Statistics, Sri Lanka*
+
+## Structured Data formatted for [Lanka Data API](https://github.com/nuuuwan/lanka_data)
+
+```json
+{
+    "House": {
+        "Time:2024": {
+            "District:LK-11": {
+                "HouseholdType:OnePerson": {
+                    "Count": "Int:69392"
+                },
+                "HouseholdType:Nuclear": {
+                    "Count": "Int:368810"
+                },
+                "HouseholdType:Extended": {
+                    "Count": "Int:204760"
+                },
+                "HouseholdType:Composite": {
+                    "Count": "Int:18860"
+                }
+            },
+            "District:LK-12": {
+                "HouseholdType:OnePerson": {
+                    "Count": "Int:79204"
+                },
+                "HouseholdType:Nuclear": {
+                    "Count": "Int:378791"
+                },
+                "HouseholdType:Extended": {
+                    "Count": "Int:220914"
+                },
+                "HouseholdType:Composite": {
+                    "Count": "Int:9726"
+                }
+...
+```
+
+- Source File: [lanka_data.json (8.5 KB)](../../../../data/final-report-tables/chapter-10/10.2-Percentage-Distribution-of-the-Number-and-of-Households-by-Sector,-District-and-Household-Type,-2024/lanka_data.json)
 
 ## Structured Data (similar to original layout)
 

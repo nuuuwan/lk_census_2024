@@ -1,9 +1,45 @@
 # Distribution of Persons Aged 5 Years and Over with Disabilities by Highest Educational Qualification andDomain of Disability, 2024
 
 ![CPH](https://img.shields.io/badge/CPH-2024-blue)
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--07--18-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--07--19-green)
 
 *Table 6.2.12, Final Report, 2024 Census of Population and Housing, Department of Census and Statistics, Sri Lanka*
+
+## Structured Data formatted for [Lanka Data API](https://github.com/nuuuwan/lanka_data)
+
+```json
+{
+    "Person": {
+        "Time:2024": {
+            "HighestEducationLevel:DegreeAndAbove": {
+                "DisabilityTypes:DifficultyInSeeing": {
+                    "Count": "Int:2316"
+                },
+                "DisabilityTypes:DifficultyInHearing": {
+                    "Count": "Int:1002"
+                },
+                "DisabilityTypes:DifficultyInWalkingOrClimbingSteps": {
+                    "Count": "Int:5300"
+                },
+                "DisabilityTypes:DifficultyInRememberingOrConcentrating": {
+                    "Count": "Int:1338"
+                },
+                "DisabilityTypes:DifficultyInSelfcareSuchAsWashingOrDressing": {
+                    "Count": "Int:2206"
+                },
+                "DisabilityTypes:DifficultyInCommunicatingWithOthers": {
+                    "Count": "Int:906"
+                },
+                "DisabilityTypes:NoDisability": {
+                    "Count": "Int:1009520"
+                }
+            }
+        }
+    }
+}
+```
+
+- Source File: [lanka_data.json (799.0 B)](../../../../data/final-report-tables/chapter-6/6.2.12-Distribution-of-Persons-Aged-5-Years-and-Over-with-Disabilities-by-Highest-Educational-Qualification-andDomain-of-Disability,-2024/lanka_data.json)
 
 ## Structured Data (similar to original layout)
 

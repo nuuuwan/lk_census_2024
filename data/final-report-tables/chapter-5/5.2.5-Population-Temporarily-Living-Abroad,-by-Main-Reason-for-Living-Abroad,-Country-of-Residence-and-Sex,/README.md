@@ -1,7 +1,7 @@
 # Population Temporarily Living Abroad, by Main Reason for Living Abroad, Country of Residence and Sex,
 
 ![CPH](https://img.shields.io/badge/CPH-2024-blue)
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--07--18-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--07--19-green)
 
 *Table 5.2.5, Final Report, 2024 Census of Population and Housing, Department of Census and Statistics, Sri Lanka*
 

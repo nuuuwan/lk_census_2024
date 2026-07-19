@@ -1,9 +1,47 @@
 # Population Temporarily Living Abroad by District and Sex, 2024
 
 ![CPH](https://img.shields.io/badge/CPH-2024-blue)
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--07--18-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--07--19-green)
 
 *Table 5.2.1, Final Report, 2024 Census of Population and Housing, Department of Census and Statistics, Sri Lanka*
+
+## Structured Data formatted for [Lanka Data API](https://github.com/nuuuwan/lanka_data)
+
+```json
+{
+    "Person": {
+        "Time:2024": {
+            "District:LK-11": {
+                "Sex:Male": {
+                    "Count": "Int:43531"
+                },
+                "Sex:Female": {
+                    "Count": "Int:27908"
+                }
+            },
+            "District:LK-12": {
+                "Sex:Male": {
+                    "Count": "Int:54734"
+                },
+                "Sex:Female": {
+                    "Count": "Int:31343"
+                }
+            },
+            "District:LK-13": {
+                "Sex:Male": {
+                    "Count": "Int:25238"
+                },
+                "Sex:Female": {
+                    "Count": "Int:16114"
+                }
+            },
+            "District:LK-21": {
+                "Sex:Male": {
+                    "Count": "Int:35518"
+...
+```
+
+- Source File: [lanka_data.json (4.0 KB)](../../../../data/final-report-tables/chapter-5/5.2.1-Population-Temporarily-Living-Abroad-by-District-and-Sex,-2024/lanka_data.json)
 
 ## Structured Data (similar to original layout)
 

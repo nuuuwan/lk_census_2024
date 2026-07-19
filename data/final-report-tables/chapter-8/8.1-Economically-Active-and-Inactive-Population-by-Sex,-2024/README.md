@@ -1,9 +1,38 @@
 # Economically Active and Inactive Population by Sex, 2024
 
 ![CPH](https://img.shields.io/badge/CPH-2024-blue)
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--07--18-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--07--19-green)
 
 *Table 8.1, Final Report, 2024 Census of Population and Housing, Department of Census and Statistics, Sri Lanka*
+
+## Structured Data formatted for [Lanka Data API](https://github.com/nuuuwan/lanka_data)
+
+```json
+{
+    "Person": {
+        "Time:2024": {
+            "Sex:Male": {
+                "IsEconomicallyActive:EconomicallyActive": {
+                    "Count": "Int:5550374"
+                },
+                "IsEconomicallyActive:EconomicallyInactive": {
+                    "Count": "Int:2681440"
+                }
+            },
+            "Sex:Female": {
+                "IsEconomicallyActive:EconomicallyActive": {
+                    "Count": "Int:2612567"
+                },
+                "IsEconomicallyActive:EconomicallyInactive": {
+                    "Count": "Int:6430580"
+                }
+            }
+        }
+    }
+}
+```
+
+- Source File: [lanka_data.json (495.0 B)](../../../../data/final-report-tables/chapter-8/8.1-Economically-Active-and-Inactive-Population-by-Sex,-2024/lanka_data.json)
 
 ## Structured Data (similar to original layout)
 

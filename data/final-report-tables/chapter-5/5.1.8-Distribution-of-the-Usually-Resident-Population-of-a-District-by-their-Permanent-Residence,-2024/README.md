@@ -1,9 +1,47 @@
 # Distribution of the Usually Resident Population of a District by their Permanent Residence, 2024
 
 ![CPH](https://img.shields.io/badge/CPH-2024-blue)
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--07--18-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--07--19-green)
 
 *Table 5.1.8, Final Report, 2024 Census of Population and Housing, Department of Census and Statistics, Sri Lanka*
+
+## Structured Data formatted for [Lanka Data API](https://github.com/nuuuwan/lanka_data)
+
+```json
+{
+    "Person": {
+        "Time:2024": {
+            "District:LK-11": {
+                "ResidentRelativeToDistrict:InDistrict": {
+                    "Count": "Int:2244323"
+                },
+                "ResidentRelativeToDistrict:InOtherDistrict": {
+                    "Count": "Int:130546"
+                }
+            },
+            "District:LK-12": {
+                "ResidentRelativeToDistrict:InDistrict": {
+                    "Count": "Int:2340241"
+                },
+                "ResidentRelativeToDistrict:InOtherDistrict": {
+                    "Count": "Int:95672"
+                }
+            },
+            "District:LK-13": {
+                "ResidentRelativeToDistrict:InDistrict": {
+                    "Count": "Int:1287854"
+                },
+                "ResidentRelativeToDistrict:InOtherDistrict": {
+                    "Count": "Int:17854"
+                }
+            },
+            "District:LK-21": {
+                "ResidentRelativeToDistrict:InDistrict": {
+                    "Count": "Int:1434821"
+...
+```
+
+- Source File: [lanka_data.json (5.6 KB)](../../../../data/final-report-tables/chapter-5/5.1.8-Distribution-of-the-Usually-Resident-Population-of-a-District-by-their-Permanent-Residence,-2024/lanka_data.json)
 
 ## Structured Data (similar to original layout)
 

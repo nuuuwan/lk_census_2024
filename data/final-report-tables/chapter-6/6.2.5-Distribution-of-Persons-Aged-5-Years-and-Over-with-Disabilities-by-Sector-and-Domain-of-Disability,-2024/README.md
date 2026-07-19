@@ -1,7 +1,7 @@
 # Distribution of Persons Aged 5 Years and Over with Disabilities by Sector and Domain of Disability, 2024
 
 ![CPH](https://img.shields.io/badge/CPH-2024-blue)
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--07--18-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--07--19-green)
 
 *Table 6.2.5, Final Report, 2024 Census of Population and Housing, Department of Census and Statistics, Sri Lanka*
 

@@ -1,9 +1,47 @@
 # Employment Rate and Unemployment Rate by District, 2024
 
 ![CPH](https://img.shields.io/badge/CPH-2024-blue)
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--07--18-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--07--19-green)
 
 *Table 8.10, Final Report, 2024 Census of Population and Housing, Department of Census and Statistics, Sri Lanka*
+
+## Structured Data formatted for [Lanka Data API](https://github.com/nuuuwan/lanka_data)
+
+```json
+{
+    "Person": {
+        "Time:2024": {
+            "District:LK-11": {
+                "IsEconomicallyActive:Employed": {
+                    "Count": "Int:867111"
+                },
+                "IsEconomicallyActive:Unemployed": {
+                    "Count": "Int:53635"
+                }
+            },
+            "District:LK-12": {
+                "IsEconomicallyActive:Employed": {
+                    "Count": "Int:889380"
+                },
+                "IsEconomicallyActive:Unemployed": {
+                    "Count": "Int:52943"
+                }
+            },
+            "District:LK-13": {
+                "IsEconomicallyActive:Employed": {
+                    "Count": "Int:462465"
+                },
+                "IsEconomicallyActive:Unemployed": {
+                    "Count": "Int:26157"
+                }
+            },
+            "District:LK-21": {
+                "IsEconomicallyActive:Employed": {
+                    "Count": "Int:477418"
+...
+```
+
+- Source File: [lanka_data.json (5.1 KB)](../../../../data/final-report-tables/chapter-8/8.10-Employment-Rate-and-Unemployment-Rate-by-District,-2024/lanka_data.json)
 
 ## Structured Data (similar to original layout)
 

@@ -1,9 +1,47 @@
 # Employed Population by Sector and Sex, 2024
 
 ![CPH](https://img.shields.io/badge/CPH-2024-blue)
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--07--18-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--07--19-green)
 
 *Table 8.6, Final Report, 2024 Census of Population and Housing, Department of Census and Statistics, Sri Lanka*
+
+## Structured Data formatted for [Lanka Data API](https://github.com/nuuuwan/lanka_data)
+
+```json
+{
+    "Person": {
+        "Time:2024": {
+            "Sector:Urban": {
+                "Sex:Male": {
+                    "EconomicallyActive": "Int:900141"
+                },
+                "Sex:Female": {
+                    "EconomicallyActive": "Int:393746"
+                }
+            },
+            "Sector:EstateUrban": {
+                "Sex:Male": {
+                    "EconomicallyActive": "Int:3025"
+                },
+                "Sex:Female": {
+                    "EconomicallyActive": "Int:1577"
+                }
+            },
+            "Sector:Rural": {
+                "Sex:Male": {
+                    "EconomicallyActive": "Int:4220045"
+                },
+                "Sex:Female": {
+                    "EconomicallyActive": "Int:1847052"
+                }
+            },
+            "Sector:EstateRural": {
+                "Sex:Male": {
+                    "EconomicallyActive": "Int:194492"
+...
+```
+
+- Source File: [lanka_data.json (815.0 B)](../../../../data/final-report-tables/chapter-8/8.6-Employed-Population-by-Sector-and-Sex,-2024/lanka_data.json)
 
 ## Structured Data (similar to original layout)
 
