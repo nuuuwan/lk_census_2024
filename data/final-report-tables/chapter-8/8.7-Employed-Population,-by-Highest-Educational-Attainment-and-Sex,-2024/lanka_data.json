@@ -1,0 +1,70 @@
+{
+  "Person": {
+    "Time:2024": {
+      "HighestEducationLevel2:NeverAttendedSchool": {
+        "Sex:Male": {
+          "EmployedCount": "Int:67915"
+        },
+        "Sex:Female": {
+          "EmployedCount": "Int:49378"
+        }
+      },
+      "HighestEducationLevel2:StudiedInASpecialSchoolOrSpecialUnit": {
+        "Sex:Male": {
+          "EmployedCount": "Int:3923"
+        },
+        "Sex:Female": {
+          "EmployedCount": "Int:2719"
+        }
+      },
+      "HighestEducationLevel2:PassedGrade15": {
+        "Sex:Male": {
+          "EmployedCount": "Int:493163"
+        },
+        "Sex:Female": {
+          "EmployedCount": "Int:183967"
+        }
+      },
+      "HighestEducationLevel2:PassedGrade68": {
+        "Sex:Male": {
+          "EmployedCount": "Int:618673"
+        },
+        "Sex:Female": {
+          "EmployedCount": "Int:171412"
+        }
+      },
+      "HighestEducationLevel2:PassedGrade910": {
+        "Sex:Male": {
+          "EmployedCount": "Int:1536837"
+        },
+        "Sex:Female": {
+          "EmployedCount": "Int:486618"
+        }
+      },
+      "HighestEducationLevel2:PassedGceOOrL": {
+        "Sex:Male": {
+          "EmployedCount": "Int:1288859"
+        },
+        "Sex:Female": {
+          "EmployedCount": "Int:430468"
+        }
+      },
+      "HighestEducationLevel2:PassedGceAOrL": {
+        "Sex:Male": {
+          "EmployedCount": "Int:982912"
+        },
+        "Sex:Female": {
+          "EmployedCount": "Int:621725"
+        }
+      },
+      "HighestEducationLevel2:DegreeOrAbove": {
+        "Sex:Male": {
+          "EmployedCount": "Int:325421"
+        },
+        "Sex:Female": {
+          "EmployedCount": "Int:407242"
+        }
+      }
+    }
+  }
+}

@@ -135,10 +135,10 @@
 - 🟡 Table 8.4 - [Labour Force Participation Rate by Age Group and Sex, 2024](data/final-report-tables/chapter-8/8.4-Labour-Force-Participation-Rate-by-Age-Group-and-Sex,-2024)
 - 🟡 Table 8.5 - [Labour Force Participation Rate, by Highest Educational Qualification Attained and Sex, 2024](data/final-report-tables/chapter-8/8.5-Labour-Force-Participation-Rate,-by-Highest-Educational-Qualification-Attained-and-Sex,-2024)
 - ✅ Table 8.6 - [Employed Population by Sector and Sex, 2024](data/final-report-tables/chapter-8/8.6-Employed-Population-by-Sector-and-Sex,-2024)
-- 🟡 Table 8.7 - [Employed Population, by Highest Educational Attainment and Sex, 2024](data/final-report-tables/chapter-8/8.7-Employed-Population,-by-Highest-Educational-Attainment-and-Sex,-2024)
-- 🟡 Table 8.8 - [Employed Population by Employment Status and Sex, 2024](data/final-report-tables/chapter-8/8.8-Employed-Population-by-Employment-Status-and-Sex,-2024)
+- ✅ Table 8.7 - [Employed Population, by Highest Educational Attainment and Sex, 2024](data/final-report-tables/chapter-8/8.7-Employed-Population,-by-Highest-Educational-Attainment-and-Sex,-2024)
+- ✅ Table 8.8 - [Employed Population by Employment Status and Sex, 2024](data/final-report-tables/chapter-8/8.8-Employed-Population-by-Employment-Status-and-Sex,-2024)
 - 🟡 Table 8.9 - [Unemployed Population by Sector and Sex, 2024](data/final-report-tables/chapter-8/8.9-Unemployed-Population-by-Sector-and-Sex,-2024)
-- 🟡 Table 8.10 - [Employment Rate and Unemployment Rate by District, 2024](data/final-report-tables/chapter-8/8.10-Employment-Rate-and-Unemployment-Rate-by-District,-2024)
+- ✅ Table 8.10 - [Employment Rate and Unemployment Rate by District, 2024](data/final-report-tables/chapter-8/8.10-Employment-Rate-and-Unemployment-Rate-by-District,-2024)
 - 🟡 Table 8.11 - [Economically Inactive Population by Main Reason for Inactivity, 2024](data/final-report-tables/chapter-8/8.11-Economically-Inactive-Population-by-Main-Reason-for-Inactivity,-2024)
 
 ### Chapter 9
@@ -212,8 +212,8 @@
 | :-- | :-- | --: | --: |
 | **2**/5 | 🔴 Raw data is difficult to parse | **21** | **14.8%** |
 | **3**/5 | 🟠 Data is missing | **1** | **0.7%** |
-| **4**/5 | 🟡 Lanka data is missing | **85** | **59.9%** |
-| **5**/5 | ✅ All Stages Complete | **35** | **24.6%** |
+| **4**/5 | 🟡 Lanka data is missing | **82** | **57.7%** |
+| **5**/5 | ✅ All Stages Complete | **38** | **26.8%** |
 
 ![Maintainer](https://img.shields.io/badge/maintainer-nuuuwan-red)
 ![MadeWith](https://img.shields.io/badge/made_with-python-blue)

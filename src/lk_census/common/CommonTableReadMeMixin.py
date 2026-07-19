@@ -172,7 +172,7 @@ class CommonTableReadMeMixin:
             + self.get_lines_for_footer()
         )
 
-    def build_readme(self, force=False):
+    def build_readme(self, force=True):
         if not force and self.readme_file.exists():
             return self.readme_file.read()
 
