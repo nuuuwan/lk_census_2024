@@ -62,7 +62,7 @@ class FinalReportTableDataOtherValuesMixin:
             f = Parse.float(cell_value) or 0
             return int(f * 1000)
 
-        return Parse.int(cell_value)
+        return Parse.int(cell_value) or Parse.float(cell_value)
 
     def _build_sums(self, d):
         values = d["values"]

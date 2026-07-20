@@ -7,8 +7,8 @@ from lk_census import FinalReportTable
 
 def main(table_num):
     table = FinalReportTable.from_table_num(table_num)
-    Directory(table.dir_data).open("code")
-
+    # Directory(table.dir_data).open("code")
+    table.clean()
     table.build()
 
 
