@@ -2,49 +2,43 @@
   {
     "census_year": "1953",
     "values": {
-      "mean_age_of_marriage_male": 27.2,
-      "mean_age_of_marriage_female": 20.9,
-      "mean_diff": 6.3
+      "male": 27.2,
+      "female": 20.9
     }
   },
   {
     "census_year": "1963",
     "values": {
-      "mean_age_of_marriage_male": 27.9,
-      "mean_age_of_marriage_female": 22.1,
-      "mean_diff": 5.8
+      "male": 27.9,
+      "female": 22.1
     }
   },
   {
     "census_year": "1971",
     "values": {
-      "mean_age_of_marriage_male": 28.0,
-      "mean_age_of_marriage_female": 23.5,
-      "mean_diff": 4.5
+      "male": 28.0,
+      "female": 23.5
     }
   },
   {
     "census_year": "1981",
     "values": {
-      "mean_age_of_marriage_male": 27.9,
-      "mean_age_of_marriage_female": 24.4,
-      "mean_diff": 3.5
+      "male": 27.9,
+      "female": 24.4
     }
   },
   {
     "census_year": "2012",
     "values": {
-      "mean_age_of_marriage_male": 27.2,
-      "mean_age_of_marriage_female": 23.4,
-      "mean_diff": 3.8
+      "male": 27.2,
+      "female": 23.4
     }
   },
   {
     "census_year": "2024",
     "values": {
-      "mean_age_of_marriage_male": 29.2,
-      "mean_age_of_marriage_female": 25.6,
-      "mean_diff": 3.6
+      "male": 29.2,
+      "female": 25.6
     }
   }
 ]
