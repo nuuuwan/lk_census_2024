@@ -2,56 +2,61 @@
   {
     "age_group": "3 - 4",
     "values": {
-      "p_pre_school": 0.422,
-      "p_school_education": 0.0,
-      "p_undergraduate_or_postgraduate_education": 0.0,
-      "p_vocational_training_or_technical_education": 0.0,
-      "p_other_educational_activity": 0.001,
-      "p_not_studying": 0.577
-    }
+      "pre_school": 239687,
+      "school_education": 0,
+      "undergraduate_or_postgraduate_education": 0,
+      "vocational_training_or_technical_education": 0,
+      "other_educational_activity": 568,
+      "not_studying": 327724
+    },
+    "total_value": 567979
   },
   {
     "age_group": "5 -14",
     "values": {
-      "p_pre_school": 0.074,
-      "p_school_education": 0.884,
-      "p_undergraduate_or_postgraduate_education": 0.0,
-      "p_vocational_training_or_technical_education": 0.0,
-      "p_other_educational_activity": 0.007,
-      "p_not_studying": 0.035
-    }
+      "pre_school": 243587,
+      "school_education": 2909880,
+      "undergraduate_or_postgraduate_education": 0,
+      "vocational_training_or_technical_education": 0,
+      "other_educational_activity": 23042,
+      "not_studying": 115210
+    },
+    "total_value": 3291719
   },
   {
     "age_group": "15 -18",
     "values": {
-      "p_pre_school": 0.0,
-      "p_school_education": 0.794,
-      "p_undergraduate_or_postgraduate_education": 0.003,
-      "p_vocational_training_or_technical_education": 0.01,
-      "p_other_educational_activity": 0.023,
-      "p_not_studying": 0.17
-    }
+      "pre_school": 0,
+      "school_education": 1148649,
+      "undergraduate_or_postgraduate_education": 4340,
+      "vocational_training_or_technical_education": 14467,
+      "other_educational_activity": 33273,
+      "not_studying": 245932
+    },
+    "total_value": 1446661
   },
   {
     "age_group": "19 - 24",
     "values": {
-      "p_pre_school": 0.0,
-      "p_school_education": 0.151,
-      "p_undergraduate_or_postgraduate_education": 0.109,
-      "p_vocational_training_or_technical_education": 0.042,
-      "p_other_educational_activity": 0.059,
-      "p_not_studying": 0.639
-    }
+      "pre_school": 0,
+      "school_education": 295504,
+      "undergraduate_or_postgraduate_education": 213311,
+      "vocational_training_or_technical_education": 82193,
+      "other_educational_activity": 115462,
+      "not_studying": 1250512
+    },
+    "total_value": 1956983
   },
   {
     "age_group": "25 and over",
     "values": {
-      "p_pre_school": 0.0,
-      "p_school_education": 0.0,
-      "p_undergraduate_or_postgraduate_education": 0.008,
-      "p_vocational_training_or_technical_education": 0.002,
-      "p_other_educational_activity": 0.007,
-      "p_not_studying": 0.983
-    }
+      "pre_school": 0,
+      "school_education": 0,
+      "undergraduate_or_postgraduate_education": 110971,
+      "vocational_training_or_technical_education": 27743,
+      "other_educational_activity": 97099,
+      "not_studying": 13635505
+    },
+    "total_value": 13871317
   }
 ]
