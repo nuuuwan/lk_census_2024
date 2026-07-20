@@ -204,26 +204,29 @@
 - 🟡 Table 12.4 - [Whipple’s Index by Sex, 1981, 2001, 2012 and 2024](data/final-report-tables/chapter-12/12.4-Whipple’s-Index-by-Sex,-1981,-2001,-2012-and-2024/README.md)
 - 🟡 Table 12.5 - [Whipple's Index by District and Sex, 2012 and 2024](data/final-report-tables/chapter-12/12.5-Whipple's-Index-by-District-and-Sex,-2012-and-2024/README.md)
 
+
+
 ### Final Report Build Status
 
-| status | status_label | n | p | color |
-| :-- | :-- | --: | --: | :-- |
-| **1**/5 | 🟤 Raw data is missing | **6** | **4.2%** | #8B4513 |
-| **2**/5 | 🔴 Raw data is difficult to parse | **22** | **15.5%** | #FF0000 |
-| **3**/5 | 🟠 Data is missing | **1** | **0.7%** | #FFA500 |
-| **4**/5 | 🟡 Lanka data is missing | **68** | **47.9%** | #FFFF00 |
-| **5**/5 | ✅ All Stages Complete | **45** | **31.7%** | #00c000 |
+| status | status_label | n | n_raw | p | color |
+| :-- | :-- | --: | --: | --: | :-- |
+| **1**/5 | 🟤 Raw data is missing | **6** | 6 | **4.2%** | #8B4513 |
+| **2**/5 | 🔴 Raw data is difficult to parse | **22** | 22 | **15.5%** | #FF0000 |
+| **3**/5 | 🟠 Data is missing | **1** | 1 | **0.7%** | #FFA500 |
+| **4**/5 | 🟡 Lanka data is missing | **68** | 68 | **47.9%** | #FFFF00 |
+| **5**/5 | ✅ All Stages Complete | **45** | 45 | **31.7%** | #00c000 |
+
 
 ```mermaid
 %%{init: {"theme": "base", "themeVariables": {"pie1": "#8B4513", "pie2": "#FF0000", "pie3": "#FFA500", "pie4": "#FFFF00", "pie5": "#00c000"}}}%%
 pie title Final Report Build Status
-"🟤 Raw data is missing" : **6**
-    "🔴 Raw data is difficult to parse" : **22**
-    "🟠 Data is missing" : **1**
-    "🟡 Lanka data is missing" : **68**
-    "✅ All Stages Complete" : **45**
+"🟤 Raw data is missing" : 6
+    "🔴 Raw data is difficult to parse" : 22
+    "🟠 Data is missing" : 1
+    "🟡 Lanka data is missing" : 68
+    "✅ All Stages Complete" : 45
 ```
-
+    
 ![Maintainer](https://img.shields.io/badge/maintainer-nuuuwan-red)
 ![MadeWith](https://img.shields.io/badge/made_with-python-blue)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)

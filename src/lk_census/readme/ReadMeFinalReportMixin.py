@@ -26,6 +26,7 @@ class ReadMeFinalReportMixin:
                 + " "
                 + FinalReportTable.STATUS_LABELS[status],
                 n=f"**{n:,}**",
+                n_raw=n,
                 p=f"**{n / total:.1%}**",
                 color=FinalReportTable.STATUS_COLORS[status],
             )
@@ -37,7 +38,7 @@ class ReadMeFinalReportMixin:
                 "Final Report Build Status",
                 d_list,
                 "status_label",
-                "n",
+                "n_raw",
                 "color",
             )
         )
