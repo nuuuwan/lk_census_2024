@@ -65,12 +65,66 @@ class FinalReportTableDataOtherValuesMixin:
         return Parse.int(cell_value) or Parse.float(cell_value)
 
     def _build_sums(self, d):
-        values = d["values"]
-        total_value = sum(values.values())
-        if total_value <= 0:
-            raise ValueError(f"Total value is non-positive: {total_value}")
-        d["total_value"] = total_value
-        return d
+        if self.has_non_p_values(d) and not self.has_p_values(d):
+            values = d.get("values", {})
+            non_total_values = [
+                v for k, v in values.items() if k != "total_value"
+            ]
+            total_value = sum(non_total_values)
+            if self.has_total_value(d):
+                log.debug(
+                    "[_build_sums] Case 1.1: non_p values and total_value"
+                )
+                error = values["total_value"] - total_value
+                del d["values"]["total_value"]
+                error_key = self.error_key or "_error"
+                d["values"][error_key] = error
+                d["total_value"] = total_value
+            else:
+                log.debug(
+                    "[_build_sums] Case 1.2: non_p values and, NO total_value"
+                )
+                d["total_value"] = total_value
+
+        elif self.has_p_values(d) and not self.has_non_p_values(d):
+
+            values = d.get("values", {})
+            non_total_values = [
+                v for k, v in values.items() if k != "total_value"
+            ]
+            if self.has_total_value(d):
+                log.debug("[_build_sums] Case 2: p values and total_value")
+                total_value = d["values"]["total_value"]
+                new_values = {
+                    k[2:]: int(round(v * total_value, 0))
+                    for k, v in values.items()
+                    if k.startswith("p_")
+                }
+                d["values"] = new_values
+                d["total_value"] = total_value
+            else:
+                log.debug(
+                    "[_build_sums] Case 2.2: p values and, NO total_value"
+                )
+        else:
+            log.debug("[_build_sums] Case 3: mixed p and non_p values")
+
+    def has_non_p_values(self, d):
+        values = d.get("values", {})
+        for key in values.keys():
+            if not key.startswith("p_") and key != "total_value":
+                return True
+        return False
+
+    def has_p_values(self, d):
+        values = d.get("values", {})
+        for key in values.keys():
+            if key.startswith("p_"):
+                return True
+        return False
+
+    def has_total_value(self, d):
+        return "total_value" in d["values"]
 
     def _build_other_keys(self, other_cells):
         d = {}
@@ -82,15 +136,13 @@ class FinalReportTableDataOtherValuesMixin:
             if value is None:
                 log.warning(f'Null value for "{other_key}": "{other_value}"')
                 return None
-            if other_key.startswith("total_value_"):
-                d[other_key] = value
-            else:
-                values[other_key] = value
+            values[other_key] = value
 
         d["values"] = values
         if self.total_description:
             d["total_description"] = self.total_description
 
+        log.debug(f"self.is_summable={self.is_summable}")
         if self.is_summable:
             self._build_sums(d)
         return d
