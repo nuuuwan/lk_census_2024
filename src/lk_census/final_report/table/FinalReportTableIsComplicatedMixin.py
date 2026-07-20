@@ -1,6 +1,7 @@
 class FinalReportTableIsComplicatedMixin:
     COMPLICATED_TABLE_NUM_LIST = [
         # Chapter 5
+        "5.1.7",  # Triple Row
         "5.2.2",  # Triple Row
         "5.2.5",  # Col Sum
         # Chapter 6

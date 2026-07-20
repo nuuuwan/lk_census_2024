@@ -2,12 +2,17 @@ from functools import cached_property
 
 
 class FinalReportTableBuildMixin:
-    def build(self):
-        self.build_original_pdf()
-        self.build_raw_data()
-        self.build_data()
-        self.build_lanka_data()
-        self.build_readme()
+    def clean(self):
+        self.raw_data_file.delete()
+        self.data_file.delete()
+        self.lanka_data_file.delete()
+
+    def build(self, force=False):
+        self.build_original_pdf(force)
+        self.build_raw_data(force)
+        self.build_data(force)
+        self.build_lanka_data(force)
+        self.build_readme(force)
 
     STATUS_LABELS = {
         0: "Original PDF is missing",
