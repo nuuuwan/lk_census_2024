@@ -2,121 +2,129 @@
   {
     "education": "Population aged 25 and over*",
     "values": {
-      "p_diabetes": 0.133,
-      "p_high_cholesterol": 0.129,
-      "p_high_blood_pressure": 0.158,
-      "p_heart_disease": 0.037,
-      "p_kidney_disease": 0.012,
-      "p_thalassemia": 0.001,
-      "p_cancer": 0.006,
-      "p_stroke": 0.009,
-      "p_asthma": 0.024,
-      "p_epilepsy": 0.003
-    }
+      "diabetes": 1844590,
+      "high_cholesterol": 1789114,
+      "high_blood_pressure": 2191318,
+      "heart_disease": 513157,
+      "kidney_disease": 166429,
+      "thalassemia": 13869,
+      "cancer": 83215,
+      "stroke": 124822,
+      "asthma": 332858,
+      "epilepsy": 41607
+    },
+    "total_value": 13869099
   },
   {
     "education": "Never attended school",
     "values": {
-      "p_diabetes": 0.177,
-      "p_high_cholesterol": 0.178,
-      "p_high_blood_pressure": 0.275,
-      "p_heart_disease": 0.062,
-      "p_kidney_disease": 0.024,
-      "p_thalassemia": 0.002,
-      "p_cancer": 0.01,
-      "p_stroke": 0.031,
-      "p_asthma": 0.065,
-      "p_epilepsy": 0.015
-    }
+      "diabetes": 70779,
+      "high_cholesterol": 71178,
+      "high_blood_pressure": 109967,
+      "heart_disease": 24792,
+      "kidney_disease": 9597,
+      "thalassemia": 800,
+      "cancer": 3999,
+      "stroke": 12396,
+      "asthma": 25992,
+      "epilepsy": 5998
+    },
+    "total_value": 399879
   },
   {
     "education": "Passed grade 1 - 5",
     "values": {
-      "p_diabetes": 0.201,
-      "p_high_cholesterol": 0.209,
-      "p_high_blood_pressure": 0.287,
-      "p_heart_disease": 0.069,
-      "p_kidney_disease": 0.027,
-      "p_thalassemia": 0.001,
-      "p_cancer": 0.01,
-      "p_stroke": 0.022,
-      "p_asthma": 0.054,
-      "p_epilepsy": 0.006
-    }
+      "diabetes": 345942,
+      "high_cholesterol": 359711,
+      "high_blood_pressure": 493957,
+      "heart_disease": 118756,
+      "kidney_disease": 46470,
+      "thalassemia": 1721,
+      "cancer": 17211,
+      "stroke": 37864,
+      "asthma": 92940,
+      "epilepsy": 10327
+    },
+    "total_value": 1721103
   },
   {
     "education": "Passed grade 6 - 8",
     "values": {
-      "p_diabetes": 0.183,
-      "p_high_cholesterol": 0.183,
-      "p_high_blood_pressure": 0.231,
-      "p_heart_disease": 0.059,
-      "p_kidney_disease": 0.02,
-      "p_thalassemia": 0.001,
-      "p_cancer": 0.009,
-      "p_stroke": 0.015,
-      "p_asthma": 0.036,
-      "p_epilepsy": 0.005
-    }
+      "diabetes": 302929,
+      "high_cholesterol": 302929,
+      "high_blood_pressure": 382386,
+      "heart_disease": 97666,
+      "kidney_disease": 33107,
+      "thalassemia": 1655,
+      "cancer": 14898,
+      "stroke": 24830,
+      "asthma": 59593,
+      "epilepsy": 8277
+    },
+    "total_value": 1655351
   },
   {
     "education": "Passed grade 9 - 10",
     "values": {
-      "p_diabetes": 0.121,
-      "p_high_cholesterol": 0.117,
-      "p_high_blood_pressure": 0.137,
-      "p_heart_disease": 0.033,
-      "p_kidney_disease": 0.01,
-      "p_thalassemia": 0.001,
-      "p_cancer": 0.006,
-      "p_stroke": 0.007,
-      "p_asthma": 0.022,
-      "p_epilepsy": 0.003
-    }
+      "diabetes": 409644,
+      "high_cholesterol": 396102,
+      "high_blood_pressure": 463812,
+      "heart_disease": 111721,
+      "kidney_disease": 33855,
+      "thalassemia": 3385,
+      "cancer": 20313,
+      "stroke": 23698,
+      "asthma": 74481,
+      "epilepsy": 10156
+    },
+    "total_value": 3385486
   },
   {
     "education": "G.C.E. (O/L) or equal",
     "values": {
-      "p_diabetes": 0.124,
-      "p_high_cholesterol": 0.117,
-      "p_high_blood_pressure": 0.135,
-      "p_heart_disease": 0.031,
-      "p_kidney_disease": 0.008,
-      "p_thalassemia": 0.001,
-      "p_cancer": 0.005,
-      "p_stroke": 0.005,
-      "p_asthma": 0.016,
-      "p_epilepsy": 0.002
-    }
+      "diabetes": 378788,
+      "high_cholesterol": 357405,
+      "high_blood_pressure": 412390,
+      "heart_disease": 94697,
+      "kidney_disease": 24438,
+      "thalassemia": 3055,
+      "cancer": 15274,
+      "stroke": 15274,
+      "asthma": 48876,
+      "epilepsy": 6109
+    },
+    "total_value": 3054744
   },
   {
     "education": "G.C.E. (A/L) or equal",
     "values": {
-      "p_diabetes": 0.097,
-      "p_high_cholesterol": 0.089,
-      "p_high_blood_pressure": 0.1,
-      "p_heart_disease": 0.02,
-      "p_kidney_disease": 0.005,
-      "p_thalassemia": 0.001,
-      "p_cancer": 0.004,
-      "p_stroke": 0.003,
-      "p_asthma": 0.009,
-      "p_epilepsy": 0.001
-    }
+      "diabetes": 259669,
+      "high_cholesterol": 238253,
+      "high_blood_pressure": 267700,
+      "heart_disease": 53540,
+      "kidney_disease": 13385,
+      "thalassemia": 2677,
+      "cancer": 10708,
+      "stroke": 8031,
+      "asthma": 24093,
+      "epilepsy": 2677
+    },
+    "total_value": 2677005
   },
   {
     "education": "Degree & above",
     "values": {
-      "p_diabetes": 0.074,
-      "p_high_cholesterol": 0.065,
-      "p_high_blood_pressure": 0.07,
-      "p_heart_disease": 0.013,
-      "p_kidney_disease": 0.003,
-      "p_thalassemia": 0.0,
-      "p_cancer": 0.002,
-      "p_stroke": 0.002,
-      "p_asthma": 0.006,
-      "p_epilepsy": 0.001
-    }
+      "diabetes": 70924,
+      "high_cholesterol": 62298,
+      "high_blood_pressure": 67090,
+      "heart_disease": 12460,
+      "kidney_disease": 2875,
+      "thalassemia": 0,
+      "cancer": 1917,
+      "stroke": 1917,
+      "asthma": 5751,
+      "epilepsy": 958
+    },
+    "total_value": 958427
   }
 ]
