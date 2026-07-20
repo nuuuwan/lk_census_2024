@@ -7,9 +7,14 @@ from lk_census import FinalReportTable
 
 def main(table_num):
     table = FinalReportTable.from_table_num(table_num)
-    # Directory(table.dir_data).open("code")
+
     table.clean()
     table.build()
+
+    table.fields_file.open("code")
+    table.data_file.open("code")
+    table.lanka_data_file.open("code")
+    table.original_pdf_image_file.open("code")
 
 
 if __name__ == "__main__":
