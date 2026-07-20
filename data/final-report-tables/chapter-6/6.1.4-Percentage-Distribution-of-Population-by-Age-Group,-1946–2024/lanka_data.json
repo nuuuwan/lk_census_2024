@@ -1,0 +1,332 @@
+{
+  "Person": {
+    "Time:1946": {
+      "AgeGroup:0To4Years": {
+        "Percent": "Float:0.129"
+      },
+      "AgeGroup:5To9Years": {
+        "Percent": "Float:0.122"
+      },
+      "AgeGroup:10To14Years": {
+        "Percent": "Float:0.121"
+      },
+      "AgeGroup:15To19Years": {
+        "Percent": "Float:0.102"
+      },
+      "AgeGroup:20To24Years": {
+        "Percent": "Float:0.096"
+      },
+      "AgeGroup:25To29Years": {
+        "Percent": "Float:0.087"
+      },
+      "AgeGroup:30To34Years": {
+        "Percent": "Float:0.068"
+      },
+      "AgeGroup:35To39Years": {
+        "Percent": "Float:0.07"
+      },
+      "AgeGroup:40To44Years": {
+        "Percent": "Float:0.048"
+      },
+      "AgeGroup:45To49Years": {
+        "Percent": "Float:0.048"
+      },
+      "AgeGroup:50To54Years": {
+        "Percent": "Float:0.03"
+      },
+      "AgeGroup:55To59Years": {
+        "Percent": "Float:0.025"
+      },
+      "AgeGroup:60To125Years": {
+        "Percent": "Float:0.055"
+      }
+    },
+    "Time:1953": {
+      "AgeGroup:0To4Years": {
+        "Percent": "Float:0.149"
+      },
+      "AgeGroup:5To9Years": {
+        "Percent": "Float:0.134"
+      },
+      "AgeGroup:10To14Years": {
+        "Percent": "Float:0.114"
+      },
+      "AgeGroup:15To19Years": {
+        "Percent": "Float:0.087"
+      },
+      "AgeGroup:20To24Years": {
+        "Percent": "Float:0.095"
+      },
+      "AgeGroup:25To29Years": {
+        "Percent": "Float:0.088"
+      },
+      "AgeGroup:30To34Years": {
+        "Percent": "Float:0.064"
+      },
+      "AgeGroup:35To39Years": {
+        "Percent": "Float:0.066"
+      },
+      "AgeGroup:40To44Years": {
+        "Percent": "Float:0.046"
+      },
+      "AgeGroup:45To49Years": {
+        "Percent": "Float:0.046"
+      },
+      "AgeGroup:50To54Years": {
+        "Percent": "Float:0.034"
+      },
+      "AgeGroup:55To59Years": {
+        "Percent": "Float:0.023"
+      },
+      "AgeGroup:60To125Years": {
+        "Percent": "Float:0.054"
+      }
+    },
+    "Time:1963": {
+      "AgeGroup:0To4Years": {
+        "Percent": "Float:0.152"
+      },
+      "AgeGroup:5To9Years": {
+        "Percent": "Float:0.137"
+      },
+      "AgeGroup:10To14Years": {
+        "Percent": "Float:0.126"
+      },
+      "AgeGroup:15To19Years": {
+        "Percent": "Float:0.097"
+      },
+      "AgeGroup:20To24Years": {
+        "Percent": "Float:0.084"
+      },
+      "AgeGroup:25To29Years": {
+        "Percent": "Float:0.07"
+      },
+      "AgeGroup:30To34Years": {
+        "Percent": "Float:0.063"
+      },
+      "AgeGroup:35To39Years": {
+        "Percent": "Float:0.062"
+      },
+      "AgeGroup:40To44Years": {
+        "Percent": "Float:0.046"
+      },
+      "AgeGroup:45To49Years": {
+        "Percent": "Float:0.043"
+      },
+      "AgeGroup:50To54Years": {
+        "Percent": "Float:0.034"
+      },
+      "AgeGroup:55To59Years": {
+        "Percent": "Float:0.026"
+      },
+      "AgeGroup:60To125Years": {
+        "Percent": "Float:0.06"
+      }
+    },
+    "Time:1971": {
+      "AgeGroup:0To4Years": {
+        "Percent": "Float:0.131"
+      },
+      "AgeGroup:5To9Years": {
+        "Percent": "Float:0.132"
+      },
+      "AgeGroup:10To14Years": {
+        "Percent": "Float:0.127"
+      },
+      "AgeGroup:15To19Years": {
+        "Percent": "Float:0.107"
+      },
+      "AgeGroup:20To24Years": {
+        "Percent": "Float:0.1"
+      },
+      "AgeGroup:25To29Years": {
+        "Percent": "Float:0.075"
+      },
+      "AgeGroup:30To34Years": {
+        "Percent": "Float:0.058"
+      },
+      "AgeGroup:35To39Years": {
+        "Percent": "Float:0.057"
+      },
+      "AgeGroup:40To44Years": {
+        "Percent": "Float:0.046"
+      },
+      "AgeGroup:45To49Years": {
+        "Percent": "Float:0.043"
+      },
+      "AgeGroup:50To54Years": {
+        "Percent": "Float:0.033"
+      },
+      "AgeGroup:55To59Years": {
+        "Percent": "Float:0.028"
+      },
+      "AgeGroup:60To125Years": {
+        "Percent": "Float:0.063"
+      }
+    },
+    "Time:1981": {
+      "AgeGroup:0To4Years": {
+        "Percent": "Float:0.125"
+      },
+      "AgeGroup:5To9Years": {
+        "Percent": "Float:0.113"
+      },
+      "AgeGroup:10To14Years": {
+        "Percent": "Float:0.114"
+      },
+      "AgeGroup:15To19Years": {
+        "Percent": "Float:0.108"
+      },
+      "AgeGroup:20To24Years": {
+        "Percent": "Float:0.102"
+      },
+      "AgeGroup:25To29Years": {
+        "Percent": "Float:0.086"
+      },
+      "AgeGroup:30To34Years": {
+        "Percent": "Float:0.076"
+      },
+      "AgeGroup:35To39Years": {
+        "Percent": "Float:0.057"
+      },
+      "AgeGroup:40To44Years": {
+        "Percent": "Float:0.047"
+      },
+      "AgeGroup:45To49Years": {
+        "Percent": "Float:0.041"
+      },
+      "AgeGroup:50To54Years": {
+        "Percent": "Float:0.036"
+      },
+      "AgeGroup:55To59Years": {
+        "Percent": "Float:0.028"
+      },
+      "AgeGroup:60To125Years": {
+        "Percent": "Float:0.066"
+      }
+    },
+    "Time:2001": {
+      "AgeGroup:0To4Years": {
+        "Percent": "Float:0.085"
+      },
+      "AgeGroup:5To9Years": {
+        "Percent": "Float:0.088"
+      },
+      "AgeGroup:10To14Years": {
+        "Percent": "Float:0.09"
+      },
+      "AgeGroup:15To19Years": {
+        "Percent": "Float:0.097"
+      },
+      "AgeGroup:20To24Years": {
+        "Percent": "Float:0.094"
+      },
+      "AgeGroup:25To29Years": {
+        "Percent": "Float:0.079"
+      },
+      "AgeGroup:30To34Years": {
+        "Percent": "Float:0.076"
+      },
+      "AgeGroup:35To39Years": {
+        "Percent": "Float:0.074"
+      },
+      "AgeGroup:40To44Years": {
+        "Percent": "Float:0.069"
+      },
+      "AgeGroup:45To49Years": {
+        "Percent": "Float:0.061"
+      },
+      "AgeGroup:50To54Years": {
+        "Percent": "Float:0.054"
+      },
+      "AgeGroup:55To59Years": {
+        "Percent": "Float:0.04"
+      },
+      "AgeGroup:60To125Years": {
+        "Percent": "Float:0.092"
+      }
+    },
+    "Time:2012": {
+      "AgeGroup:0To4Years": {
+        "Percent": "Float:0.086"
+      },
+      "AgeGroup:5To9Years": {
+        "Percent": "Float:0.086"
+      },
+      "AgeGroup:10To14Years": {
+        "Percent": "Float:0.081"
+      },
+      "AgeGroup:15To19Years": {
+        "Percent": "Float:0.081"
+      },
+      "AgeGroup:20To24Years": {
+        "Percent": "Float:0.075"
+      },
+      "AgeGroup:25To29Years": {
+        "Percent": "Float:0.076"
+      },
+      "AgeGroup:30To34Years": {
+        "Percent": "Float:0.081"
+      },
+      "AgeGroup:35To39Years": {
+        "Percent": "Float:0.069"
+      },
+      "AgeGroup:40To44Years": {
+        "Percent": "Float:0.067"
+      },
+      "AgeGroup:45To49Years": {
+        "Percent": "Float:0.063"
+      },
+      "AgeGroup:50To54Years": {
+        "Percent": "Float:0.06"
+      },
+      "AgeGroup:55To59Years": {
+        "Percent": "Float:0.052"
+      },
+      "AgeGroup:60To125Years": {
+        "Percent": "Float:0.124"
+      }
+    },
+    "Time:2024": {
+      "AgeGroup:0To4Years": {
+        "Percent": "Float:0.056"
+      },
+      "AgeGroup:5To9Years": {
+        "Percent": "Float:0.071"
+      },
+      "AgeGroup:10To14Years": {
+        "Percent": "Float:0.08"
+      },
+      "AgeGroup:15To19Years": {
+        "Percent": "Float:0.081"
+      },
+      "AgeGroup:20To24Years": {
+        "Percent": "Float:0.074"
+      },
+      "AgeGroup:25To29Years": {
+        "Percent": "Float:0.063"
+      },
+      "AgeGroup:30To34Years": {
+        "Percent": "Float:0.065"
+      },
+      "AgeGroup:35To39Years": {
+        "Percent": "Float:0.067"
+      },
+      "AgeGroup:40To44Years": {
+        "Percent": "Float:0.074"
+      },
+      "AgeGroup:45To49Years": {
+        "Percent": "Float:0.068"
+      },
+      "AgeGroup:50To54Years": {
+        "Percent": "Float:0.062"
+      },
+      "AgeGroup:55To59Years": {
+        "Percent": "Float:0.059"
+      },
+      "AgeGroup:60To125Years": {
+        "Percent": "Float:0.18"
+      }
+    }
+  }
+}
