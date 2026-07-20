@@ -32,6 +32,15 @@ class FinalReportTableBuildMixin:
         5: "✅",
     }
 
+    STATUS_COLORS = {
+        0: "#000000",
+        1: "#8B4513",
+        2: "#FF0000",
+        3: "#FFA500",
+        4: "#FFFF00",
+        5: "#00c000",
+    }
+
     # flake8: noqa: C901
     @cached_property
     def build_status(self):

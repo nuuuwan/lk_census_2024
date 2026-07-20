@@ -27,10 +27,20 @@ class ReadMeFinalReportMixin:
                 + FinalReportTable.STATUS_LABELS[status],
                 n=f"**{n:,}**",
                 p=f"**{n / total:.1%}**",
+                color=FinalReportTable.STATUS_COLORS[status],
             )
             for status, n in status_to_n.items()
         ]
         lines.extend(Markdown.table(d_list))
+        lines.extend(
+            Markdown.pie_chart(
+                "Final Report Build Status",
+                d_list,
+                "status_label",
+                "n",
+                "color",
+            )
+        )
         return lines
 
     def get_lines_for_final_report_table(self, final_report_table):
