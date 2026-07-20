@@ -2,46 +2,49 @@
   {
     "sector": "Urban*",
     "values": {
-      "p_diabetes": 0.104,
-      "p_high_cholesterol": 0.089,
-      "p_high_blood_pressure": 0.103,
-      "p_heart_disease": 0.024,
-      "p_kidney_disease": 0.005,
-      "p_thalassemia": 0.001,
-      "p_cancer": 0.003,
-      "p_stroke": 0.004,
-      "p_asthma": 0.014,
-      "p_epilepsy": 0.002
-    }
+      "diabetes": 397050,
+      "high_cholesterol": 339783,
+      "high_blood_pressure": 393232,
+      "heart_disease": 91627,
+      "kidney_disease": 19089,
+      "thalassemia": 3818,
+      "cancer": 11453,
+      "stroke": 15271,
+      "asthma": 53449,
+      "epilepsy": 7636
+    },
+    "total_value": 3817786
   },
   {
     "sector": "Rural",
     "values": {
-      "p_diabetes": 0.083,
-      "p_high_cholesterol": 0.083,
-      "p_high_blood_pressure": 0.101,
-      "p_heart_disease": 0.025,
-      "p_kidney_disease": 0.009,
-      "p_thalassemia": 0.001,
-      "p_cancer": 0.004,
-      "p_stroke": 0.006,
-      "p_asthma": 0.019,
-      "p_epilepsy": 0.003
-    }
+      "diabetes": 1418971,
+      "high_cholesterol": 1418971,
+      "high_blood_pressure": 1726700,
+      "heart_disease": 427401,
+      "kidney_disease": 153864,
+      "thalassemia": 17096,
+      "cancer": 68384,
+      "stroke": 102576,
+      "asthma": 324825,
+      "epilepsy": 51288
+    },
+    "total_value": 17096040
   },
   {
     "sector": "Estate Rural**",
     "values": {
-      "p_diabetes": 0.044,
-      "p_high_cholesterol": 0.036,
-      "p_high_blood_pressure": 0.082,
-      "p_heart_disease": 0.024,
-      "p_kidney_disease": 0.005,
-      "p_thalassemia": 0.001,
-      "p_cancer": 0.003,
-      "p_stroke": 0.008,
-      "p_asthma": 0.025,
-      "p_epilepsy": 0.006
-    }
+      "diabetes": 38089,
+      "high_cholesterol": 31164,
+      "high_blood_pressure": 70984,
+      "heart_disease": 20776,
+      "kidney_disease": 4328,
+      "thalassemia": 866,
+      "cancer": 2597,
+      "stroke": 6925,
+      "asthma": 21641,
+      "epilepsy": 5194
+    },
+    "total_value": 865657
   }
 ]
