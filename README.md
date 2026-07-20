@@ -188,7 +188,7 @@
 - ✅ Table 11.10 - [Percentage Distribution of Households by Availability of Drinking Water Facility, by Sector and District,](data/final-report-tables/chapter-11/11.10-Percentage-Distribution-of-Households-by-Availability-of-Drinking-Water-Facility,-by-Sector-and-District,/README.md)
 - ✅ Table 11.11 - [Distribution of Households in Sri Lanka's ability to Obtain Drinking Water Throughout the Year, 2024](data/final-report-tables/chapter-11/11.11-Distribution-of-Households-in-Sri-Lanka's-ability-to-Obtain-Drinking-Water-Throughout-the-Year,-2024/README.md)
 - 🟡 Table 11.12 - [Percentage of households Using Firewood and gas, by Sector and District,](data/final-report-tables/chapter-11/11.12-Percentage-of-households-Using-Firewood-and-gas,-by-Sector-and-District,/README.md)
-- 🟤 Table 11.13 - [Household Numbers and Percentages by Main and Secondary Energy/Fuel Type for Lighting, 2024](data/final-report-tables/chapter-11/11.13-Household-Numbers-and-Percentages-by-Main-and-Secondary-Energy/Fuel-Type-for-Lighting,-2024/README.md)
+- 🟡 Table 11.13 - [Household Numbers and Percentages by Main and Secondary Energy/Fuel Type for Lighting, 2024](data/final-report-tables/chapter-11/11.13-Household-Numbers-and-Percentages-by-Main-and-Secondary-Energy/Fuel-Type-for-Lighting,-2024/README.md)
 - 🟡 Table 11.14 - [Percentage of Households Using Electricity and Kerosene as the Main Sources of Lighting, by ResidentialSector, 2012 and 2024](data/final-report-tables/chapter-11/11.14-Percentage-of-Households-Using-Electricity-and-Kerosene-as-the-Main-Sources-of-Lighting,-by-ResidentialSector,-2012-and-2024/README.md)
 - ✅ Table 11.15 - [Percentage Distribution of Households by Type of Toilet Facilities, 2012 and 2024](data/final-report-tables/chapter-11/11.15-Percentage-Distribution-of-Households-by-Type-of-Toilet-Facilities,-2012-and-2024/README.md)
 - 🟡 Table 11.16 - [Percentage Distribution of Type of Toilet Used by households by Sector and District, 2024](data/final-report-tables/chapter-11/11.16-Percentage-Distribution-of-Type-of-Toilet-Used-by-households-by-Sector-and-District,-2024/README.md)
@@ -210,20 +210,20 @@
 
 | status | status_label | n | n_raw | p | color |
 | :-- | :-- | --: | --: | --: | :-- |
-| **1**/5 | 🟤 Raw data is missing | **6** | 6 | **4.2%** | #8B4513 |
+| **1**/5 | 🟤 Raw data is missing | **5** | 5 | **3.5%** | #8B4513 |
 | **2**/5 | 🔴 Raw data is difficult to parse | **22** | 22 | **15.5%** | #FF0000 |
 | **3**/5 | 🟠 Data is missing | **1** | 1 | **0.7%** | #FFA500 |
-| **4**/5 | 🟡 Lanka data is missing | **40** | 40 | **28.2%** | #FFFF00 |
+| **4**/5 | 🟡 Lanka data is missing | **41** | 41 | **28.9%** | #FFFF00 |
 | **5**/5 | ✅ All Stages Complete | **73** | 73 | **51.4%** | #00c000 |
 
 
 ```mermaid
 %%{init: {"theme": "base", "themeVariables": {"pie1": "#8B4513", "pie2": "#FF0000", "pie3": "#FFA500", "pie4": "#FFFF00", "pie5": "#00c000"}}}%%
 pie title Final Report Build Status
-"🟤 Raw data is missing" : 6
+"🟤 Raw data is missing" : 5
     "🔴 Raw data is difficult to parse" : 22
     "🟠 Data is missing" : 1
-    "🟡 Lanka data is missing" : 40
+    "🟡 Lanka data is missing" : 41
     "✅ All Stages Complete" : 73
 ```
     
