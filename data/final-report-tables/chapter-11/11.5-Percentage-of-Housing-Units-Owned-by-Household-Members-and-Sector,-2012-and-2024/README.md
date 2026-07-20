@@ -1,0 +1,59 @@
+# Percentage of Housing Units Owned by Household Members and Sector, 2012 and 2024
+
+![CPH](https://img.shields.io/badge/CPH-2024-blue)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--07--20-green)
+
+*Table 11.5, Final Report, 2024 Census of Population and Housing, Department of Census and Statistics, Sri Lanka*
+
+## Raw Data (directly scraped from PDF)
+
+```json
+[
+    [
+        "",
+        "",
+        "Percentage of housing units owned by"
+    ],
+    [
+        "Sector",
+        "",
+        "household members"
+    ],
+    [
+        "",
+        "2012",
+        "2024"
+    ],
+    [
+        "Sri Lanka",
+        "82.9",
+        "84.6"
+    ],
+    [
+        "Urban*",
+        "75.0",
+        "76.9"
+    ],
+    [
+        "Rural",
+        "88.0",
+        "89.0"
+...
+```
+- Source File: [raw_data.json (360.0 B)](../../../../data/final-report-tables/chapter-11/11.5-Percentage-of-Housing-Units-Owned-by-Household-Members-and-Sector,-2012-and-2024/raw_data.json)
+
+## Original PDF Page
+
+![Download the original PDF](../../../../data/final-report-tables/chapter-11/11.5-Percentage-of-Housing-Units-Owned-by-Household-Members-and-Sector,-2012-and-2024/original.png)
+
+- Source File: [original.pdf (51.6 KB)](../../../../data/final-report-tables/chapter-11/11.5-Percentage-of-Housing-Units-Owned-by-Household-Members-and-Sector,-2012-and-2024/original.pdf)
+
+(Table 0 on this page.)
+
+## Source
+
+- <https://www.statistics.gov.lk/Resource/en/Population/CPH_2024/CPH2024_Final_Eng.pdf#page=205>
+
+![Maintainer](https://img.shields.io/badge/maintainer-nuuuwan-red)
+![MadeWith](https://img.shields.io/badge/made_with-python-blue)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)

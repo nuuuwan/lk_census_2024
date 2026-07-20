@@ -2,9 +2,10 @@ from lk_census import FinalReport, ReadMe, XLSXDataTable
 
 
 def not_running():
-    FinalReport.build()
+    XLSXDataTable.build_all()
 
 
 if __name__ == "__main__":
-    XLSXDataTable.build_all()
+
+    FinalReport.build()
     ReadMe().build()

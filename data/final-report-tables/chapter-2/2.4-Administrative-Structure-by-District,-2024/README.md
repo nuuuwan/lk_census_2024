@@ -1,0 +1,57 @@
+# Administrative Structure by District, 2024
+
+![CPH](https://img.shields.io/badge/CPH-2024-blue)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--07--20-green)
+
+*Table 2.4, Final Report, 2024 Census of Population and Housing, Department of Census and Statistics, Sri Lanka*
+
+## Raw Data (directly scraped from PDF)
+
+```json
+[
+    [
+        "",
+        "Divisional",
+        "Grama",
+        "Number of",
+        "Number of",
+        "Number of"
+    ],
+    [
+        "District",
+        "Secretariat",
+        "Niladhari",
+        "Municipal",
+        "Urban",
+        "Pradeshiya Sabha"
+    ],
+    [
+        "",
+        "Divisions",
+        "Divisions",
+        "Councils",
+        "Councils",
+        ""
+    ],
+    [
+        "Total",
+        "340",
+        "14,008",
+        "29",
+...
+```
+- Source File: [raw_data.json (4.1 KB)](../../../../data/final-report-tables/chapter-2/2.4-Administrative-Structure-by-District,-2024/raw_data.json)
+
+## Original PDF Page
+
+![Download the original PDF](../../../../data/final-report-tables/chapter-2/2.4-Administrative-Structure-by-District,-2024/original.png)
+
+- Source File: [original.pdf (54.3 KB)](../../../../data/final-report-tables/chapter-2/2.4-Administrative-Structure-by-District,-2024/original.pdf)
+
+## Source
+
+- <https://www.statistics.gov.lk/Resource/en/Population/CPH_2024/CPH2024_Final_Eng.pdf#page=64>
+
+![Maintainer](https://img.shields.io/badge/maintainer-nuuuwan-red)
+![MadeWith](https://img.shields.io/badge/made_with-python-blue)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
