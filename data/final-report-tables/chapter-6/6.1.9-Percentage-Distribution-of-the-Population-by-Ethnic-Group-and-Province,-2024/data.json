@@ -4,16 +4,16 @@
     "region_name": "Western",
     "region_ent_type": "province",
     "values": {
-      "p_sinhalese": 0.836,
-      "p_sl_tamil": 0.063,
-      "p_ind_and_malaiyaga_tamil": 0.005,
-      "p_sl_moor": 0.089,
-      "p_malay": 0.003,
-      "p_burgher": 0.003,
-      "p_sl_chetty": 0.0,
-      "p_bharatha": 0.0,
-      "p_veddahs": 0.0,
-      "p_other": 0.001
+      "sinhalese": 83.6,
+      "sl_tamil": 6.3,
+      "ind_and_malaiyaga_tamil": 0.5,
+      "sl_moor": 8.9,
+      "malay": 0.3,
+      "burgher": 0.3,
+      "sl_chetty": 0.0,
+      "bharatha": 0.0,
+      "veddahs": 0.0,
+      "other": 0.1
     }
   },
   {
@@ -21,16 +21,16 @@
     "region_name": "Central",
     "region_ent_type": "province",
     "values": {
-      "p_sinhalese": 0.658,
-      "p_sl_tamil": 0.083,
-      "p_ind_and_malaiyaga_tamil": 0.15,
-      "p_sl_moor": 0.107,
-      "p_malay": 0.001,
-      "p_burgher": 0.001,
-      "p_sl_chetty": 0.0,
-      "p_bharatha": 0.0,
-      "p_veddahs": 0.0,
-      "p_other": 0.0
+      "sinhalese": 65.8,
+      "sl_tamil": 8.3,
+      "ind_and_malaiyaga_tamil": 15.0,
+      "sl_moor": 10.7,
+      "malay": 0.1,
+      "burgher": 0.1,
+      "sl_chetty": 0.0,
+      "bharatha": 0.0,
+      "veddahs": 0.0,
+      "other": 0.0
     }
   },
   {
@@ -38,16 +38,16 @@
     "region_name": "Southern",
     "region_ent_type": "province",
     "values": {
-      "p_sinhalese": 0.948,
-      "p_sl_tamil": 0.012,
-      "p_ind_and_malaiyaga_tamil": 0.004,
-      "p_sl_moor": 0.034,
-      "p_malay": 0.0,
-      "p_burgher": 0.002,
-      "p_sl_chetty": 0.0,
-      "p_bharatha": 0.0,
-      "p_veddahs": 0.0,
-      "p_other": 0.0
+      "sinhalese": 94.8,
+      "sl_tamil": 1.2,
+      "ind_and_malaiyaga_tamil": 0.4,
+      "sl_moor": 3.4,
+      "malay": 0.0,
+      "burgher": 0.2,
+      "sl_chetty": 0.0,
+      "bharatha": 0.0,
+      "veddahs": 0.0,
+      "other": 0.0
     }
   },
   {
@@ -55,16 +55,16 @@
     "region_name": "Northern",
     "region_ent_type": "province",
     "values": {
-      "p_sinhalese": 0.032,
-      "p_sl_tamil": 0.915,
-      "p_ind_and_malaiyaga_tamil": 0.003,
-      "p_sl_moor": 0.05,
-      "p_malay": 0.0,
-      "p_burgher": 0.0,
-      "p_sl_chetty": 0.0,
-      "p_bharatha": 0.0,
-      "p_veddahs": 0.0,
-      "p_other": 0.0
+      "sinhalese": 3.2,
+      "sl_tamil": 91.5,
+      "ind_and_malaiyaga_tamil": 0.3,
+      "sl_moor": 5.0,
+      "malay": 0.0,
+      "burgher": 0.0,
+      "sl_chetty": 0.0,
+      "bharatha": 0.0,
+      "veddahs": 0.0,
+      "other": 0.0
     }
   },
   {
@@ -72,16 +72,16 @@
     "region_name": "Eastern",
     "region_ent_type": "province",
     "values": {
-      "p_sinhalese": 0.221,
-      "p_sl_tamil": 0.381,
-      "p_ind_and_malaiyaga_tamil": 0.001,
-      "p_sl_moor": 0.395,
-      "p_malay": 0.003,
-      "p_burgher": 0.0,
-      "p_sl_chetty": 0.0,
-      "p_bharatha": 0.0,
-      "p_veddahs": 0.001,
-      "p_other": 0.0
+      "sinhalese": 22.1,
+      "sl_tamil": 38.1,
+      "ind_and_malaiyaga_tamil": 0.1,
+      "sl_moor": 39.5,
+      "malay": 0.3,
+      "burgher": 0.0,
+      "sl_chetty": 0.0,
+      "bharatha": 0.0,
+      "veddahs": 0.1,
+      "other": 0.0
     }
   },
   {
@@ -89,16 +89,16 @@
     "region_name": "North Western",
     "region_ent_type": "province",
     "values": {
-      "p_sinhalese": 0.848,
-      "p_sl_tamil": 0.027,
-      "p_ind_and_malaiyaga_tamil": 0.001,
-      "p_sl_moor": 0.122,
-      "p_malay": 0.001,
-      "p_burgher": 0.001,
-      "p_sl_chetty": 0.0,
-      "p_bharatha": 0.0,
-      "p_veddahs": 0.0,
-      "p_other": 0.0
+      "sinhalese": 84.8,
+      "sl_tamil": 2.7,
+      "ind_and_malaiyaga_tamil": 0.1,
+      "sl_moor": 12.2,
+      "malay": 0.1,
+      "burgher": 0.1,
+      "sl_chetty": 0.0,
+      "bharatha": 0.0,
+      "veddahs": 0.0,
+      "other": 0.0
     }
   },
   {
@@ -106,16 +106,16 @@
     "region_name": "North Central",
     "region_ent_type": "province",
     "values": {
-      "p_sinhalese": 0.905,
-      "p_sl_tamil": 0.009,
-      "p_ind_and_malaiyaga_tamil": 0.0,
-      "p_sl_moor": 0.085,
-      "p_malay": 0.0,
-      "p_burgher": 0.0,
-      "p_sl_chetty": 0.0,
-      "p_bharatha": 0.0,
-      "p_veddahs": 0.0,
-      "p_other": 0.001
+      "sinhalese": 90.5,
+      "sl_tamil": 0.9,
+      "ind_and_malaiyaga_tamil": 0.0,
+      "sl_moor": 8.5,
+      "malay": 0.0,
+      "burgher": 0.0,
+      "sl_chetty": 0.0,
+      "bharatha": 0.0,
+      "veddahs": 0.0,
+      "other": 0.1
     }
   },
   {
@@ -123,16 +123,16 @@
     "region_name": "Uva",
     "region_ent_type": "province",
     "values": {
-      "p_sinhalese": 0.814,
-      "p_sl_tamil": 0.069,
-      "p_ind_and_malaiyaga_tamil": 0.069,
-      "p_sl_moor": 0.046,
-      "p_malay": 0.001,
-      "p_burgher": 0.001,
-      "p_sl_chetty": 0.0,
-      "p_bharatha": 0.0,
-      "p_veddahs": 0.0,
-      "p_other": 0.0
+      "sinhalese": 81.4,
+      "sl_tamil": 6.9,
+      "ind_and_malaiyaga_tamil": 6.9,
+      "sl_moor": 4.6,
+      "malay": 0.1,
+      "burgher": 0.1,
+      "sl_chetty": 0.0,
+      "bharatha": 0.0,
+      "veddahs": 0.0,
+      "other": 0.0
     }
   },
   {
@@ -140,16 +140,16 @@
     "region_name": "Sabaragamuwa",
     "region_ent_type": "province",
     "values": {
-      "p_sinhalese": 0.865,
-      "p_sl_tamil": 0.065,
-      "p_ind_and_malaiyaga_tamil": 0.022,
-      "p_sl_moor": 0.048,
-      "p_malay": 0.0,
-      "p_burgher": 0.0,
-      "p_sl_chetty": 0.0,
-      "p_bharatha": 0.0,
-      "p_veddahs": 0.0,
-      "p_other": 0.0
+      "sinhalese": 86.5,
+      "sl_tamil": 6.5,
+      "ind_and_malaiyaga_tamil": 2.2,
+      "sl_moor": 4.8,
+      "malay": 0.0,
+      "burgher": 0.0,
+      "sl_chetty": 0.0,
+      "bharatha": 0.0,
+      "veddahs": 0.0,
+      "other": 0.0
     }
   }
 ]

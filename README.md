@@ -74,9 +74,9 @@
 - ✅ Table 6.1.4 - [Percentage Distribution of Population by Age Group, 1946–2024](data/final-report-tables/chapter-6/6.1.4-Percentage-Distribution-of-Population-by-Age-Group,-1946–2024/README.md)
 - 🟡 Table 6.1.5 - [Population Over and Below 18 Years of Age by Sector and District, 2024](data/final-report-tables/chapter-6/6.1.5-Population-Over-and-Below-18-Years-of-Age-by-Sector-and-District,-2024/README.md)
 - 🔴 Table 6.1.6 - [Elderly Population and Sex Ratio by Age Groups, 2012 and 2024](data/final-report-tables/chapter-6/6.1.6-Elderly-Population-and-Sex-Ratio-by-Age-Groups,-2012-and-2024/README.md)
-- 🟡 Table 6.1.7 - [Median Age of the Population, 1946-2024](data/final-report-tables/chapter-6/6.1.7-Median-Age-of-the-Population,-1946-2024/README.md)
+- ✅ Table 6.1.7 - [Median Age of the Population, 1946-2024](data/final-report-tables/chapter-6/6.1.7-Median-Age-of-the-Population,-1946-2024/README.md)
 - ✅ Table 6.1.8 - [Population Distribution by Ethnic Group, 2024](data/final-report-tables/chapter-6/6.1.8-Population-Distribution-by-Ethnic-Group,-2024/README.md)
-- 🟡 Table 6.1.9 - [Percentage Distribution of the Population by Ethnic Group and Province, 2024](data/final-report-tables/chapter-6/6.1.9-Percentage-Distribution-of-the-Population-by-Ethnic-Group-and-Province,-2024/README.md)
+- ✅ Table 6.1.9 - [Percentage Distribution of the Population by Ethnic Group and Province, 2024](data/final-report-tables/chapter-6/6.1.9-Percentage-Distribution-of-the-Population-by-Ethnic-Group-and-Province,-2024/README.md)
 - ✅ Table 6.1.10 - [Population by Ethnic Group, 1911 - 2024 (in](data/final-report-tables/chapter-6/6.1.10-Population-by-Ethnic-Group,-1911---2024-(in/README.md)
 - 🟡 Table 6.1.11 - [Distribution of Population by Ethnic Group and District, 2012 and 2024](data/final-report-tables/chapter-6/6.1.11-Distribution-of-Population-by-Ethnic-Group-and-District,-2012-and-2024/README.md)
 - 🟡 Table 6.1.12 - [Percentage Distribution of Population by Ethnic Group and District, 2012 and 2024](data/final-report-tables/chapter-6/6.1.12-Percentage-Distribution-of-Population-by-Ethnic-Group-and-District,-2012-and-2024/README.md)
@@ -213,8 +213,8 @@
 | **1**/5 | 🟤 Raw data is missing | **6** | 6 | **4.2%** | #8B4513 |
 | **2**/5 | 🔴 Raw data is difficult to parse | **22** | 22 | **15.5%** | #FF0000 |
 | **3**/5 | 🟠 Data is missing | **1** | 1 | **0.7%** | #FFA500 |
-| **4**/5 | 🟡 Lanka data is missing | **67** | 67 | **47.2%** | #FFFF00 |
-| **5**/5 | ✅ All Stages Complete | **46** | 46 | **32.4%** | #00c000 |
+| **4**/5 | 🟡 Lanka data is missing | **65** | 65 | **45.8%** | #FFFF00 |
+| **5**/5 | ✅ All Stages Complete | **48** | 48 | **33.8%** | #00c000 |
 
 
 ```mermaid
@@ -223,8 +223,8 @@ pie title Final Report Build Status
 "🟤 Raw data is missing" : 6
     "🔴 Raw data is difficult to parse" : 22
     "🟠 Data is missing" : 1
-    "🟡 Lanka data is missing" : 67
-    "✅ All Stages Complete" : 46
+    "🟡 Lanka data is missing" : 65
+    "✅ All Stages Complete" : 48
 ```
     
 ![Maintainer](https://img.shields.io/badge/maintainer-nuuuwan-red)
