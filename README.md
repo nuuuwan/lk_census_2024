@@ -113,7 +113,7 @@
 ### Chapter 7
 
 - ✅ Table 7.1 - [Population Aged 3 Years and Over by Sex and Educational Activity During the Census Reference Period,](data/final-report-tables/chapter-7/7.1-Population-Aged-3-Years-and-Over-by-Sex-and-Educational-Activity-During-the-Census-Reference-Period,/README.md)
-- 🟡 Table 7.2 - [Percentage Pistribution of Population Aged 03 Years and Over by Educational Activity and Age Group, 2024](data/final-report-tables/chapter-7/7.2-Percentage-Pistribution-of-Population-Aged-03-Years-and-Over-by-Educational-Activity-and-Age-Group,-2024/README.md)
+- ✅ Table 7.2 - [Percentage Pistribution of Population Aged 03 Years and Over by Educational Activity and Age Group, 2024](data/final-report-tables/chapter-7/7.2-Percentage-Pistribution-of-Population-Aged-03-Years-and-Over-by-Educational-Activity-and-Age-Group,-2024/README.md)
 - 🟡 Table 7.3 - [Children Enrolled in Pre-school Education During the Reference Period by Age, 2024](data/final-report-tables/chapter-7/7.3-Children-Enrolled-in-Pre-school-Education-During-the-Reference-Period-by-Age,-2024/README.md)
 - 🟡 Table 7.4 - [Percentage of Children Receiving Preschool Education by Age Group and District, 2024](data/final-report-tables/chapter-7/7.4-Percentage-of-Children-Receiving-Preschool-Education-by-Age-Group-and-District,-2024/README.md)
 - 🟡 Table 7.5 - [Population Engaged in School Education During the Reference Period by Age Group and Sex,](data/final-report-tables/chapter-7/7.5-Population-Engaged-in-School-Education-During-the-Reference-Period-by-Age-Group-and-Sex,/README.md)
@@ -213,8 +213,8 @@
 | **1**/5 | 🟤 Raw data is missing | **6** | 6 | **4.2%** | #8B4513 |
 | **2**/5 | 🔴 Raw data is difficult to parse | **22** | 22 | **15.5%** | #FF0000 |
 | **3**/5 | 🟠 Data is missing | **1** | 1 | **0.7%** | #FFA500 |
-| **4**/5 | 🟡 Lanka data is missing | **58** | 58 | **40.8%** | #FFFF00 |
-| **5**/5 | ✅ All Stages Complete | **55** | 55 | **38.7%** | #00c000 |
+| **4**/5 | 🟡 Lanka data is missing | **57** | 57 | **40.1%** | #FFFF00 |
+| **5**/5 | ✅ All Stages Complete | **56** | 56 | **39.4%** | #00c000 |
 
 
 ```mermaid
@@ -223,8 +223,8 @@ pie title Final Report Build Status
 "🟤 Raw data is missing" : 6
     "🔴 Raw data is difficult to parse" : 22
     "🟠 Data is missing" : 1
-    "🟡 Lanka data is missing" : 58
-    "✅ All Stages Complete" : 55
+    "🟡 Lanka data is missing" : 57
+    "✅ All Stages Complete" : 56
 ```
     
 ![Maintainer](https://img.shields.io/badge/maintainer-nuuuwan-red)

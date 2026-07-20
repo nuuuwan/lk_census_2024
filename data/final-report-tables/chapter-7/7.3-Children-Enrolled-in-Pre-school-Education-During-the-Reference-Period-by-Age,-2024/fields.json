@@ -7,6 +7,7 @@
   "row_dim_class_name": "District",
   "row_dim_key": "region_id",
   "col_dim_class_name": null,
-  "cell_label": "Count",
-  "cell_class_name": "Int"
+  "cell_label": "Percent",
+  "cell_class_name": "Percent",
+  "lanka_data_pass": "MultiCell"
 }
