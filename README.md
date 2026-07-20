@@ -121,7 +121,7 @@
 - 🟡 Table 7.7 - [Percentage Distribution of Population Aged 25 and Over by Educational Level and District, 2012 and 2024](data/final-report-tables/chapter-7/7.7-Percentage-Distribution-of-Population-Aged-25-and-Over-by-Educational-Level-and-District,-2012-and-2024/README.md)
 - 🟡 Table 7.8 - [Language Literacy Rate by Census Year and Sex, 2024](data/final-report-tables/chapter-7/7.8-Language-Literacy-Rate-by-Census-Year-and-Sex,-2024/README.md)
 - 🟡 Table 7.9 - [Language Literacy Rate by Language and Age Group, 2024](data/final-report-tables/chapter-7/7.9-Language-Literacy-Rate-by-Language-and-Age-Group,-2024/README.md)
-- 🟡 Table 7.10 - [Language Literacy Rate by Language and District, 2024](data/final-report-tables/chapter-7/7.10-Language-Literacy-Rate-by-Language-and-District,-2024/README.md)
+- ✅ Table 7.10 - [Language Literacy Rate by Language and District, 2024](data/final-report-tables/chapter-7/7.10-Language-Literacy-Rate-by-Language-and-District,-2024/README.md)
 - 🟡 Table 7.11 - [Language Literacy Rate by Language and Ethnic Group, 2012 and 2024](data/final-report-tables/chapter-7/7.11-Language-Literacy-Rate-by-Language-and-Ethnic-Group,-2012-and-2024/README.md)
 - 🟡 Table 7.12 - [Computer and Digital Literacy Rate by Sector,2024](data/final-report-tables/chapter-7/7.12-Computer-and-Digital-Literacy-Rate-by-Sector,2024/README.md)
 - 🟡 Table 7.13 - [Computer and Digital Literacy Rate by District, 2024](data/final-report-tables/chapter-7/7.13-Computer-and-Digital-Literacy-Rate-by-District,-2024/README.md)
@@ -213,8 +213,8 @@
 | **1**/5 | 🟤 Raw data is missing | **6** | 6 | **4.2%** | #8B4513 |
 | **2**/5 | 🔴 Raw data is difficult to parse | **22** | 22 | **15.5%** | #FF0000 |
 | **3**/5 | 🟠 Data is missing | **1** | 1 | **0.7%** | #FFA500 |
-| **4**/5 | 🟡 Lanka data is missing | **56** | 56 | **39.4%** | #FFFF00 |
-| **5**/5 | ✅ All Stages Complete | **57** | 57 | **40.1%** | #00c000 |
+| **4**/5 | 🟡 Lanka data is missing | **55** | 55 | **38.7%** | #FFFF00 |
+| **5**/5 | ✅ All Stages Complete | **58** | 58 | **40.8%** | #00c000 |
 
 
 ```mermaid
@@ -223,8 +223,8 @@ pie title Final Report Build Status
 "🟤 Raw data is missing" : 6
     "🔴 Raw data is difficult to parse" : 22
     "🟠 Data is missing" : 1
-    "🟡 Lanka data is missing" : 56
-    "✅ All Stages Complete" : 57
+    "🟡 Lanka data is missing" : 55
+    "✅ All Stages Complete" : 58
 ```
     
 ![Maintainer](https://img.shields.io/badge/maintainer-nuuuwan-red)
