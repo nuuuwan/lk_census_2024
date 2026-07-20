@@ -4,27 +4,31 @@
     "values": {
       "households_2012": 5207740,
       "households_2024": 6030541
-    }
+    },
+    "total_value": 11238281
   },
   {
     "sector": "Urban*",
     "values": {
       "households_2012": 891103,
       "households_2024": 1028363
-    }
+    },
+    "total_value": 1919466
   },
   {
     "sector": "Rural",
     "values": {
       "households_2012": 4092252,
       "households_2024": 4773336
-    }
+    },
+    "total_value": 8865588
   },
   {
     "sector": "Estate-Rural**",
     "values": {
       "households_2012": 224385,
       "households_2024": 228842
-    }
+    },
+    "total_value": 453227
   }
 ]

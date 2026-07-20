@@ -163,7 +163,7 @@
 
 ### Chapter 10
 
-- 🟡 Table 10.1 - [Percentage Distribution of Household Size by Sector, 2024](data/final-report-tables/chapter-10/10.1-Percentage-Distribution-of-Household-Size-by-Sector,-2024/README.md)
+- ✅ Table 10.1 - [Percentage Distribution of Household Size by Sector, 2024](data/final-report-tables/chapter-10/10.1-Percentage-Distribution-of-Household-Size-by-Sector,-2024/README.md)
 - ✅ Table 10.2 - [Percentage Distribution of the Number and of Households by Sector, District and Household Type, 2024](data/final-report-tables/chapter-10/10.2-Percentage-Distribution-of-the-Number-and-of-Households-by-Sector,-District-and-Household-Type,-2024/README.md)
 - 🔴 Table 10.3 - [Percentage Distribution of the Number of Household Heads by Ethnic group of the Head of Household and typeof Household, 2024](data/final-report-tables/chapter-10/10.3-Percentage-Distribution-of-the-Number-of-Household-Heads-by-Ethnic-group-of-the-Head-of-Household-and-typeof-Household,-2024/README.md)
 - 🔴 Table 10.4 - [Percentage Distribution of the Number of Household Heads by Sex, Age Group, and Sector, 2024](data/final-report-tables/chapter-10/10.4-Percentage-Distribution-of-the-Number-of-Household-Heads-by-Sex,-Age-Group,-and-Sector,-2024/README.md)
@@ -213,8 +213,8 @@
 | **1**/5 | 🟤 Raw data is missing | **6** | 6 | **4.2%** | #8B4513 |
 | **2**/5 | 🔴 Raw data is difficult to parse | **22** | 22 | **15.5%** | #FF0000 |
 | **3**/5 | 🟠 Data is missing | **1** | 1 | **0.7%** | #FFA500 |
-| **4**/5 | 🟡 Lanka data is missing | **48** | 48 | **33.8%** | #FFFF00 |
-| **5**/5 | ✅ All Stages Complete | **65** | 65 | **45.8%** | #00c000 |
+| **4**/5 | 🟡 Lanka data is missing | **47** | 47 | **33.1%** | #FFFF00 |
+| **5**/5 | ✅ All Stages Complete | **66** | 66 | **46.5%** | #00c000 |
 
 
 ```mermaid
@@ -223,8 +223,8 @@ pie title Final Report Build Status
 "🟤 Raw data is missing" : 6
     "🔴 Raw data is difficult to parse" : 22
     "🟠 Data is missing" : 1
-    "🟡 Lanka data is missing" : 48
-    "✅ All Stages Complete" : 65
+    "🟡 Lanka data is missing" : 47
+    "✅ All Stages Complete" : 66
 ```
     
 ![Maintainer](https://img.shields.io/badge/maintainer-nuuuwan-red)
