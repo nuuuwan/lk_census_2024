@@ -8,6 +8,7 @@ class XLSXDataTableBuilderMixin:
         self.download_original_doc()
         self.build_gnd_data()
         self.build_all_data()
+        self.build_lanka_data()
         self.build_readme()
 
     @classmethod
