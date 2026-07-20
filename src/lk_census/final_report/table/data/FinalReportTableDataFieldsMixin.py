@@ -82,3 +82,7 @@ class FinalReportTableDataFieldsMixin:
     @cached_property
     def dim_class_name(self):
         return self.fields.get("dim_class_name")
+
+    @cached_property
+    def disabled_line_normalize(self):
+        return self.fields.get("disabled_line_normalize", False)

@@ -1,5 +1,6 @@
-from gig_future import Ent, EntType
 from utils_future import Log
+
+from gig_future import Ent, EntType
 
 log = Log("FinalReportTableDataRowMixin")
 
@@ -45,8 +46,11 @@ class FinalReportTableDataRowMixin:
             return None
 
         if "\n" in raw_data[0]:
-            parts = raw_data[0].split("\n", 1)
-            raw_data = [parts[0].strip(), parts[1].strip()] + raw_data[1:]
+            if self.disabled_line_normalize:
+                raw_data[0] = raw_data[0].replace("\n", " ")
+            else:
+                parts = raw_data[0].split("\n", 1)
+                raw_data = [parts[0].strip(), parts[1].strip()] + raw_data[1:]
 
         if " " * 4 in raw_data[0]:
             words = raw_data[0].strip().split(" ")
