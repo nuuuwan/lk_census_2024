@@ -12,4 +12,9 @@ class XLSXDataTableLankaDataMixin:
         if self.lanka_data_file.exists() and not force:
             return
 
-        return
+        # datumset = StanfardTableAdapter.build_datumset(
+        #     d_list=self.data_list,
+        #     entity_class_name="Person",
+        # )
+
+        pass

@@ -1,6 +1,6 @@
 [
   {
-    "data_table_id": "Population-Gender",
+    "data_table_id": "Person-Sex",
     "remote_file_name": "GN_population_excel",
     "total_col_index": 9,
     "fields_col_start_index": 10,
@@ -10,7 +10,7 @@
   },
 
   {
-    "data_table_id": "Population-Ethnicity",
+    "data_table_id": "Person-Ethnicity",
     "remote_file_name": "GNLevel/GN_Level_Population_by_Ethnic_Group",
     "total_col_index": 6,
     "fields_col_start_index": 7,
@@ -31,7 +31,7 @@
     "expected_row_count": 14003
   },
   {
-    "data_table_id": "Population-Religion",
+    "data_table_id": "Person-Religion",
     "remote_file_name": "GNLevel/GN_Level_Population_by_Religion",
     "total_col_index": 6,
     "fields_col_start_index": 7,
@@ -48,7 +48,7 @@
     "expected_row_count": 14003
   },
   {
-    "data_table_id": "Population-AgeGroup",
+    "data_table_id": "Person-AgeGroup",
     "remote_file_name": "GNLevel/GN_Level_Population_by_Five_Year_Age_Group",
     "total_col_index": 6,
     "fields_col_start_index": 7,
@@ -79,7 +79,7 @@
     "expected_row_count": 14003
   },
   {
-    "data_table_id": "Housing-Structure",
+    "data_table_id": "House-HouseholdStructure",
     "remote_file_name": "OHU_GN_excel",
     "total_col_index": 9,
     "fields_col_start_index": 10,
@@ -99,7 +99,7 @@
     "expected_row_count": 14008
   },
   {
-    "data_table_id": "Housing-Walls",
+    "data_table_id": "House-WallType",
     "remote_file_name": "OHU_GN_excel",
     "total_col_index": 9,
     "fields_col_start_index": 20,
@@ -120,7 +120,7 @@
     "expected_row_count": 14008
   },
   {
-    "data_table_id": "Housing-Floor",
+    "data_table_id": "House-FloorType",
     "remote_file_name": "OHU_GN_excel",
     "total_col_index": 9,
     "fields_col_start_index": 31,
@@ -138,7 +138,7 @@
     "expected_row_count": 14008
   },
   {
-    "data_table_id": "Housing-Roof",
+    "data_table_id": "House-RoofType",
     "remote_file_name": "OHU_GN_excel",
     "total_col_index": 9,
     "fields_col_start_index": 39,
@@ -156,7 +156,7 @@
     "expected_row_count": 14008
   },
   {
-    "data_table_id": "Housing-Water",
+    "data_table_id": "House-SourceOfDrinkingWater",
     "remote_file_name": "HH_GND_excel",
     "total_col_index": 9,
     "fields_col_start_index": 10,
@@ -181,7 +181,7 @@
     "expected_row_count": 14008
   },
   {
-    "data_table_id": "Housing-Cooking-Fuel",
+    "data_table_id": "House-CookingFuel",
     "remote_file_name": "HH_GND_excel",
     "total_col_index": 9,
     "fields_col_start_index": 25,
@@ -199,7 +199,7 @@
     "expected_row_count": 14008
   },
   {
-    "data_table_id": "Housing-Lighting",
+    "data_table_id": "House-Lighting",
     "remote_file_name": "HH_GND_excel",
     "total_col_index": 9,
     "fields_col_start_index": 33,
@@ -216,7 +216,7 @@
     "expected_row_count": 14008
   },
   {
-    "data_table_id": "Housing-Toilet",
+    "data_table_id": "House-ToiletFacilities",
     "remote_file_name": "HH_GND_excel",
     "total_col_index": 9,
     "fields_col_start_index": 40,
