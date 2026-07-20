@@ -1,43 +1,43 @@
 {
   "Person": {
     "Time:2024": {
-      "EmploymentStatus:GovernmentOrSemiGovernmentPaidEmployee": {
-        "Sex:Male": {
+      "EmploymentStatus:government_or_semi_government_paid_employee": {
+        "Sex:male": {
           "EmployedCount": "Int:741649"
         },
-        "Sex:Female": {
+        "Sex:female": {
           "EmployedCount": "Int:591757"
         }
       },
-      "EmploymentStatus:PrivateSectorPaidEmployee": {
-        "Sex:Male": {
+      "EmploymentStatus:private_sector_paid_employee": {
+        "Sex:male": {
           "EmployedCount": "Int:2248841"
         },
-        "Sex:Female": {
+        "Sex:female": {
           "EmployedCount": "Int:995932"
         }
       },
-      "EmploymentStatus:Employer": {
-        "Sex:Male": {
+      "EmploymentStatus:employer": {
+        "Sex:male": {
           "EmployedCount": "Int:242488"
         },
-        "Sex:Female": {
+        "Sex:female": {
           "EmployedCount": "Int:35380"
         }
       },
-      "EmploymentStatus:OwnAccountWorker": {
-        "Sex:Male": {
+      "EmploymentStatus:own_account_worker": {
+        "Sex:male": {
           "EmployedCount": "Int:1906739"
         },
-        "Sex:Female": {
+        "Sex:female": {
           "EmployedCount": "Int:500875"
         }
       },
-      "EmploymentStatus:ContributingToFamilyEnterprise": {
-        "Sex:Male": {
+      "EmploymentStatus:contributing_to_family_enterprise": {
+        "Sex:male": {
           "EmployedCount": "Int:177986"
         },
-        "Sex:Female": {
+        "Sex:female": {
           "EmployedCount": "Int:229585"
         }
       }

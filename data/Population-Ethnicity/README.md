@@ -1,7 +1,7 @@
 # Population-Ethnicity
 
 ![CPH](https://img.shields.io/badge/CPH-2024-blue)
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--07--14-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--07--20-green)
 
 *Population-Ethnicity, 2024 Census of Population and Housing, Department of Census and Statistics, Sri Lanka*
 
@@ -41,7 +41,7 @@
 ...
 ```
 
-- Source File: [data.json (6.4 MB)](../../data/Population-Ethnicity/data.json)
+- Source File: [Population-Ethnicity/data.json (6.1 MB)](../../data/Population-Ethnicity/data.json)
 
 ## Structured TSV Data (similar to original layout) - First 20 rows
 
@@ -68,7 +68,7 @@
 | EC-03 | Kalutara | ed | 1305784 | 1119086 | 40060 | 6467 | 135756 | 233 | 194 | 0 | 10 | 0 | 3978 |
 | LK-4 | Northern | province | 1150148 | 34023 | 1052660 | 2726 | 57151 | 25 | 0 | 0 | 0 | 0 | 3563 |
 
-- Source File: [data.tsv (863.4 kB)](../../data/Population-Ethnicity/data.tsv)
+- Source File: [Population-Ethnicity/data.tsv (843.1 KB)](../../data/Population-Ethnicity/data.tsv)
 
 ## Source
 

@@ -1,35 +1,35 @@
 {
   "Person": {
     "Time:2024": {
-      "Sector:Urban": {
-        "Sex:Male": {
+      "Sector:urban": {
+        "Sex:male": {
           "Count": "Int:943483"
         },
-        "Sex:Female": {
+        "Sex:female": {
           "Count": "Int:438711"
         }
       },
-      "Sector:EstateUrban": {
-        "Sex:Male": {
+      "Sector:estate_urban": {
+        "Sex:male": {
           "Count": "Int:3176"
         },
-        "Sex:Female": {
+        "Sex:female": {
           "Count": "Int:1689"
         }
       },
-      "Sector:Rural": {
-        "Sex:Male": {
+      "Sector:rural": {
+        "Sex:male": {
           "Count": "Int:4395189"
         },
-        "Sex:Female": {
+        "Sex:female": {
           "Count": "Int:2046141"
         }
       },
-      "Sector:EstateRural": {
-        "Sex:Male": {
+      "Sector:estate_rural": {
+        "Sex:male": {
           "Count": "Int:208526"
         },
-        "Sex:Female": {
+        "Sex:female": {
           "Count": "Int:126026"
         }
       }

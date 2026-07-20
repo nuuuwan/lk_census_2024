@@ -1,7 +1,7 @@
 # Housing-Lighting
 
 ![CPH](https://img.shields.io/badge/CPH-2024-blue)
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--07--14-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--07--20-green)
 
 *Housing-Lighting, 2024 Census of Population and Housing, Department of Census and Statistics, Sri Lanka*
 
@@ -41,7 +41,7 @@
 ...
 ```
 
-- Source File: [data.json (5.2 MB)](../../data/Housing-Lighting/data.json)
+- Source File: [Housing-Lighting/data.json (5.0 MB)](../../data/Housing-Lighting/data.json)
 
 ## Structured TSV Data (similar to original layout) - First 20 rows
 
@@ -68,7 +68,7 @@
 | EC-03 | Kalutara | ed | 352963 | 348801 | 2859 | 582 | 204 | 13 | 26 | 478 |
 | LK-91 | Ratnapura | district | 327645 | 319263 | 6656 | 135 | 368 | 5 | 165 | 1053 |
 
-- Source File: [data.tsv (740.1 kB)](../../data/Housing-Lighting/data.tsv)
+- Source File: [data/Housing-Lighting/data.tsv (722.8 KB)](../../data/Housing-Lighting/data.tsv)
 
 ## Source
 

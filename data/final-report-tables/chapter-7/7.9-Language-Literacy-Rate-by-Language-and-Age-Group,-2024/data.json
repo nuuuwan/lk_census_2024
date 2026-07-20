@@ -1,6 +1,6 @@
 [
   {
-    "null": "Sri Lanka",
+    "age_group": "Sri Lanka",
     "values": {
       "p_sinhala_literacy_rate": 0.852,
       "p_tamil_literacy_rate": 0.453,
@@ -8,7 +8,7 @@
     }
   },
   {
-    "null": "10-14",
+    "age_group": "10-14",
     "values": {
       "p_sinhala_literacy_rate": 0.859,
       "p_tamil_literacy_rate": 0.635,
@@ -16,7 +16,7 @@
     }
   },
   {
-    "null": "15-19",
+    "age_group": "15-19",
     "values": {
       "p_sinhala_literacy_rate": 0.872,
       "p_tamil_literacy_rate": 0.627,
@@ -24,7 +24,7 @@
     }
   },
   {
-    "null": "20-29",
+    "age_group": "20-29",
     "values": {
       "p_sinhala_literacy_rate": 0.861,
       "p_tamil_literacy_rate": 0.544,
@@ -32,7 +32,7 @@
     }
   },
   {
-    "null": "30-39",
+    "age_group": "30-39",
     "values": {
       "p_sinhala_literacy_rate": 0.861,
       "p_tamil_literacy_rate": 0.47,
@@ -40,7 +40,7 @@
     }
   },
   {
-    "null": "40-49",
+    "age_group": "40-49",
     "values": {
       "p_sinhala_literacy_rate": 0.86,
       "p_tamil_literacy_rate": 0.409,
@@ -48,7 +48,7 @@
     }
   },
   {
-    "null": "50-59",
+    "age_group": "50-59",
     "values": {
       "p_sinhala_literacy_rate": 0.848,
       "p_tamil_literacy_rate": 0.361,
@@ -56,7 +56,7 @@
     }
   },
   {
-    "null": "60 and above",
+    "age_group": "60 and above",
     "values": {
       "p_sinhala_literacy_rate": 0.823,
       "p_tamil_literacy_rate": 0.308,

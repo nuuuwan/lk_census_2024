@@ -45,13 +45,6 @@
 ```json
 [
     {
-        "sector": "",
-        "values": {
-            "population_2012": 2012,
-            "population_2024": 2024
-        }
-    },
-    {
         "sector": "Sri Lanka",
         "values": {
             "population_2012": 20359439,
@@ -73,10 +66,16 @@
         }
     },
     {
-...
+        "sector": "Estate Rural**",
+        "values": {
+            "population_2012": 901647,
+            "population_2024": 865679
+        }
+    }
+]
 ```
 
-- Source File: [data.json (612.0 B)](../../../../data/final-report-tables/chapter-3/3.5-Distribution-of-Population-by-Sector,-2012-and-2024/data.json)
+- Source File: [data.json (502.0 B)](../../../../data/final-report-tables/chapter-3/3.5-Distribution-of-Population-by-Sector,-2012-and-2024/data.json)
 
 ## Raw Data (directly scraped from PDF)
 

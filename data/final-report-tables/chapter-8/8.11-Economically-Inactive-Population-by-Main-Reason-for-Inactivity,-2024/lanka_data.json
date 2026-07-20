@@ -1,25 +1,25 @@
 {
   "Person": {
     "Time:2024": {
-      "EconomicInactivityReason:EngagedInHouseholdWorkOrChildcareOrElderCare": {
+      "EconomicInactivityReason:engaged_in_household_work_or_childcare_or_elder_care": {
         "Count": "Int:3358527"
       },
-      "EconomicInactivityReason:EngageInEducationalOrVocationalTraining": {
+      "EconomicInactivityReason:engage_in_educational_or_vocational_training": {
         "Count": "Int:2365048"
       },
-      "EconomicInactivityReason:UnableOrTooOldToWorkOrRetired": {
+      "EconomicInactivityReason:unable_or_too_old_to_work_or_retired": {
         "Count": "Int:2190230"
       },
-      "EconomicInactivityReason:LongTermIllnessOrDisabled": {
+      "EconomicInactivityReason:long_term_illness_or_disabled": {
         "Count": "Int:517647"
       },
-      "EconomicInactivityReason:DoesNotWantOrInterestToDoAnyEconomicActivity": {
+      "EconomicInactivityReason:does_not_want_or_interest_to_do_any_economic_activity": {
         "Count": "Int:447121"
       },
-      "EconomicInactivityReason:Other": {
+      "EconomicInactivityReason:other": {
         "Count": "Int:173895"
       },
-      "EconomicInactivityReason:IncomeRecipientSuchAsFromInvestmentRentalAndInterest": {
+      "EconomicInactivityReason:income_recipient_such_as_from_investment_rental_and_interest": {
         "Count": "Int:59552"
       }
     }

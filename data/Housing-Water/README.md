@@ -1,7 +1,7 @@
 # Housing-Water
 
 ![CPH](https://img.shields.io/badge/CPH-2024-blue)
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--07--14-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--07--20-green)
 
 *Housing-Water, 2024 Census of Population and Housing, Department of Census and Statistics, Sri Lanka*
 
@@ -41,7 +41,7 @@
 ...
 ```
 
-- Source File: [data.json (8.9 MB)](../../data/Housing-Water/data.json)
+- Source File: [data/Housing-Water/data.json (8.5 MB)](../../data/Housing-Water/data.json)
 
 ## Structured TSV Data (similar to original layout) - First 20 rows
 
@@ -68,7 +68,7 @@
 | EC-03 | Kalutara | ed | 352963 | 150632 | 17168 | 5010 | 6977 | 3024 | 143119 | 1509 | 17134 | 6467 | 1658 | 34 | 191 | 3 | 24 | 13 |
 | LK-91 | Ratnapura | district | 327645 | 81576 | 15256 | 5403 | 4393 | 31390 | 68401 | 6446 | 75318 | 26515 | 11637 | 76 | 724 | 448 | 27 | 35 |
 
-- Source File: [data.tsv (1.0 MB)](../../data/Housing-Water/data.tsv)
+- Source File: [data/Housing-Water/data.tsv (996.7 KB)](../../data/Housing-Water/data.tsv)
 
 ## Source
 

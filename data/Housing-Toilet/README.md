@@ -1,7 +1,7 @@
 # Housing-Toilet
 
 ![CPH](https://img.shields.io/badge/CPH-2024-blue)
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--07--14-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--07--20-green)
 
 *Housing-Toilet, 2024 Census of Population and Housing, Department of Census and Statistics, Sri Lanka*
 
@@ -41,7 +41,7 @@
 ...
 ```
 
-- Source File: [data.json (5.9 MB)](../../data/Housing-Toilet/data.json)
+- Source File: [data/Housing-Toilet/data.json (5.6 MB)](../../data/Housing-Toilet/data.json)
 
 ## Structured TSV Data (similar to original layout) - First 20 rows
 
@@ -68,7 +68,7 @@
 | EC-03 | Kalutara | ed | 352963 | 267977 | 7703 | 66998 | 6474 | 3362 | 223 | 226 |
 | LK-91 | Ratnapura | district | 327645 | 168014 | 8805 | 129647 | 12884 | 7643 | 320 | 332 |
 
-- Source File: [data.tsv (772.5 kB)](../../data/Housing-Toilet/data.tsv)
+- Source File: [data/Housing-Toilet/data.tsv (754.4 KB)](../../data/Housing-Toilet/data.tsv)
 
 ## Source
 

@@ -4,9 +4,9 @@
     "region_name": "Colombo",
     "region_ent_type": "district",
     "values": {
-      "population_local": 1876288,
-      "population_foreign": 7345,
-      "population_migrant": 491236
+      "local": 1876288,
+      "foreign": 7345,
+      "migrant": 491236
     },
     "total_value": 2374869
   },
@@ -15,9 +15,9 @@
     "region_name": "Gampaha",
     "region_ent_type": "district",
     "values": {
-      "population_local": 1941334,
-      "population_foreign": 3718,
-      "population_migrant": 490861
+      "local": 1941334,
+      "foreign": 3718,
+      "migrant": 490861
     },
     "total_value": 2435913
   },
@@ -26,9 +26,9 @@
     "region_name": "Kalutara",
     "region_ent_type": "district",
     "values": {
-      "population_local": 1123880,
-      "population_foreign": 951,
-      "population_migrant": 180877
+      "local": 1123880,
+      "foreign": 951,
+      "migrant": 180877
     },
     "total_value": 1305708
   },
@@ -37,9 +37,9 @@
     "region_name": "Kandy",
     "region_ent_type": "district",
     "values": {
-      "population_local": 1302243,
-      "population_foreign": 1591,
-      "population_migrant": 157921
+      "local": 1302243,
+      "foreign": 1591,
+      "migrant": 157921
     },
     "total_value": 1461755
   },
@@ -48,9 +48,9 @@
     "region_name": "Matale",
     "region_ent_type": "district",
     "values": {
-      "population_local": 448233,
-      "population_foreign": 354,
-      "population_migrant": 78262
+      "local": 448233,
+      "foreign": 354,
+      "migrant": 78262
     },
     "total_value": 526849
   },
@@ -59,9 +59,9 @@
     "region_name": "Nuwara Eliya",
     "region_ent_type": "district",
     "values": {
-      "population_local": 672433,
-      "population_foreign": 248,
-      "population_migrant": 52570
+      "local": 672433,
+      "foreign": 248,
+      "migrant": 52570
     },
     "total_value": 725251
   },
@@ -70,9 +70,9 @@
     "region_name": "Galle",
     "region_ent_type": "district",
     "values": {
-      "population_local": 1008225,
-      "population_foreign": 962,
-      "population_migrant": 88038
+      "local": 1008225,
+      "foreign": 962,
+      "migrant": 88038
     },
     "total_value": 1097225
   },
@@ -81,9 +81,9 @@
     "region_name": "Matara",
     "region_ent_type": "district",
     "values": {
-      "population_local": 754961,
-      "population_foreign": 338,
-      "population_migrant": 82457
+      "local": 754961,
+      "foreign": 338,
+      "migrant": 82457
     },
     "total_value": 837756
   },
@@ -92,9 +92,9 @@
     "region_name": "Hambantota",
     "region_ent_type": "district",
     "values": {
-      "population_local": 606207,
-      "population_foreign": 194,
-      "population_migrant": 64982
+      "local": 606207,
+      "foreign": 194,
+      "migrant": 64982
     },
     "total_value": 671383
   },
@@ -103,9 +103,9 @@
     "region_name": "Jaffna",
     "region_ent_type": "district",
     "values": {
-      "population_local": 567486,
-      "population_foreign": 1109,
-      "population_migrant": 26104
+      "local": 567486,
+      "foreign": 1109,
+      "migrant": 26104
     },
     "total_value": 594699
   },
@@ -114,9 +114,9 @@
     "region_name": "Mannar",
     "region_ent_type": "district",
     "values": {
-      "population_local": 107846,
-      "population_foreign": 539,
-      "population_migrant": 15367
+      "local": 107846,
+      "foreign": 539,
+      "migrant": 15367
     },
     "total_value": 123752
   },
@@ -125,9 +125,9 @@
     "region_name": "Vavuniya",
     "region_ent_type": "district",
     "values": {
-      "population_local": 121244,
-      "population_foreign": 1024,
-      "population_migrant": 50012
+      "local": 121244,
+      "foreign": 1024,
+      "migrant": 50012
     },
     "total_value": 172280
   },
@@ -136,9 +136,9 @@
     "region_name": "Mullaitivu",
     "region_ent_type": "district",
     "values": {
-      "population_local": 93185,
-      "population_foreign": 153,
-      "population_migrant": 29279
+      "local": 93185,
+      "foreign": 153,
+      "migrant": 29279
     },
     "total_value": 122617
   },
@@ -147,9 +147,9 @@
     "region_name": "Kilinochchi",
     "region_ent_type": "district",
     "values": {
-      "population_local": 103674,
-      "population_foreign": 313,
-      "population_migrant": 32723
+      "local": 103674,
+      "foreign": 313,
+      "migrant": 32723
     },
     "total_value": 136710
   },
@@ -158,9 +158,9 @@
     "region_name": "Batticaloa",
     "region_ent_type": "district",
     "values": {
-      "population_local": 576636,
-      "population_foreign": 217,
-      "population_migrant": 19036
+      "local": 576636,
+      "foreign": 217,
+      "migrant": 19036
     },
     "total_value": 595889
   },
@@ -169,9 +169,9 @@
     "region_name": "Ampara",
     "region_ent_type": "district",
     "values": {
-      "population_local": 672037,
-      "population_foreign": 227,
-      "population_migrant": 72267
+      "local": 672037,
+      "foreign": 227,
+      "migrant": 72267
     },
     "total_value": 744531
   },
@@ -180,9 +180,9 @@
     "region_name": "Trincomalee",
     "region_ent_type": "district",
     "values": {
-      "population_local": 408509,
-      "population_foreign": 579,
-      "population_migrant": 33634
+      "local": 408509,
+      "foreign": 579,
+      "migrant": 33634
     },
     "total_value": 442722
   },
@@ -191,9 +191,9 @@
     "region_name": "Kurunegala",
     "region_ent_type": "district",
     "values": {
-      "population_local": 1574556,
-      "population_foreign": 1058,
-      "population_migrant": 192409
+      "local": 1574556,
+      "foreign": 1058,
+      "migrant": 192409
     },
     "total_value": 1768023
   },
@@ -202,9 +202,9 @@
     "region_name": "Puttalam",
     "region_ent_type": "district",
     "values": {
-      "population_local": 717800,
-      "population_foreign": 1237,
-      "population_migrant": 99666
+      "local": 717800,
+      "foreign": 1237,
+      "migrant": 99666
     },
     "total_value": 818703
   },
@@ -213,9 +213,9 @@
     "region_name": "Anuradhapura",
     "region_ent_type": "district",
     "values": {
-      "population_local": 814641,
-      "population_foreign": 394,
-      "population_migrant": 144866
+      "local": 814641,
+      "foreign": 394,
+      "migrant": 144866
     },
     "total_value": 959901
   },
@@ -224,9 +224,9 @@
     "region_name": "Polonnaruwa",
     "region_ent_type": "district",
     "values": {
-      "population_local": 353730,
-      "population_foreign": 199,
-      "population_migrant": 93574
+      "local": 353730,
+      "foreign": 199,
+      "migrant": 93574
     },
     "total_value": 447503
   },
@@ -235,9 +235,9 @@
     "region_name": "Badulla",
     "region_ent_type": "district",
     "values": {
-      "population_local": 801537,
-      "population_foreign": 265,
-      "population_migrant": 70437
+      "local": 801537,
+      "foreign": 265,
+      "migrant": 70437
     },
     "total_value": 872239
   },
@@ -246,9 +246,9 @@
     "region_name": "Monaragala",
     "region_ent_type": "district",
     "values": {
-      "population_local": 446067,
-      "population_foreign": 73,
-      "population_migrant": 81392
+      "local": 446067,
+      "foreign": 73,
+      "migrant": 81392
     },
     "total_value": 527532
   },
@@ -257,9 +257,9 @@
     "region_name": "Ratnapura",
     "region_ent_type": "district",
     "values": {
-      "population_local": 1055938,
-      "population_foreign": 233,
-      "population_migrant": 89081
+      "local": 1055938,
+      "foreign": 233,
+      "migrant": 89081
     },
     "total_value": 1145252
   },
@@ -268,9 +268,9 @@
     "region_name": "Kegalle",
     "region_ent_type": "district",
     "values": {
-      "population_local": 774260,
-      "population_foreign": 388,
-      "population_migrant": 95773
+      "local": 774260,
+      "foreign": 388,
+      "migrant": 95773
     },
     "total_value": 870421
   }

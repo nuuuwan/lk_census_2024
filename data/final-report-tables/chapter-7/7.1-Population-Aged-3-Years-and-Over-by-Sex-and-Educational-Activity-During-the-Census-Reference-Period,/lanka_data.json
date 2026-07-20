@@ -1,51 +1,51 @@
 {
   "Person": {
     "Time:2024": {
-      "EducationActivity:PreschoolEducation": {
-        "Sex:Male": {
+      "EducationActivity:preschool_education": {
+        "Sex:male": {
           "Count": "Int:243648"
         },
-        "Sex:Female": {
+        "Sex:female": {
           "Count": "Int:238458"
         }
       },
-      "EducationActivity:SchoolEducation": {
-        "Sex:Male": {
+      "EducationActivity:school_education": {
+        "Sex:male": {
           "Count": "Int:2157831"
         },
-        "Sex:Female": {
+        "Sex:female": {
           "Count": "Int:2193394"
         }
       },
-      "EducationActivity:DegreeOrPostgraduateEducation": {
-        "Sex:Male": {
+      "EducationActivity:degree_or_postgraduate_education": {
+        "Sex:male": {
           "Count": "Int:120745"
         },
-        "Sex:Female": {
+        "Sex:female": {
           "Count": "Int:200244"
         }
       },
-      "EducationActivity:VocationalTrainingOrTechnicalEducation": {
-        "Sex:Male": {
+      "EducationActivity:vocational_training_or_technical_education": {
+        "Sex:male": {
           "Count": "Int:70149"
         },
-        "Sex:Female": {
+        "Sex:female": {
           "Count": "Int:52308"
         }
       },
-      "EducationActivity:OtherEducationalActivity": {
-        "Sex:Male": {
+      "EducationActivity:other_educational_activity": {
+        "Sex:male": {
           "Count": "Int:125671"
         },
-        "Sex:Female": {
+        "Sex:female": {
           "Count": "Int:140742"
         }
       },
-      "EducationActivity:NotStudying": {
-        "Sex:Male": {
+      "EducationActivity:not_studying": {
+        "Sex:male": {
           "Count": "Int:7469270"
         },
-        "Sex:Female": {
+        "Sex:female": {
           "Count": "Int:8122199"
         }
       }

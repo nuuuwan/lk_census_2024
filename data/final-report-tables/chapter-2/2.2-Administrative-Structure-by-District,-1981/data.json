@@ -4,11 +4,11 @@
     "region_name": "Colombo",
     "region_ent_type": "district",
     "values": {
-      "AdministrativeEntity:AssistantGovernmentAgendDivisions": 8,
-      "AdministrativeEntity:GramaSevakaDivisions": 121,
-      "AdministrativeEntity:MunicipalCouncils": 2,
-      "AdministrativeEntity:UrbanCouncils": 4,
-      "AdministrativeEntity:TownCouncils": 6
+      "AdministrativeEntity:assistant_government_agend_divisions": 8,
+      "AdministrativeEntity:grama_sevaka_divisions": 121,
+      "AdministrativeEntity:municipal_councils": 2,
+      "AdministrativeEntity:urban_councils": 4,
+      "AdministrativeEntity:town_councils": 6
     },
     "total_value": 141
   },
@@ -17,11 +17,11 @@
     "region_name": "Gampaha",
     "region_ent_type": "district",
     "values": {
-      "AdministrativeEntity:AssistantGovernmentAgendDivisions": 13,
-      "AdministrativeEntity:GramaSevakaDivisions": 389,
-      "AdministrativeEntity:MunicipalCouncils": 1,
-      "AdministrativeEntity:UrbanCouncils": 6,
-      "AdministrativeEntity:TownCouncils": 9
+      "AdministrativeEntity:assistant_government_agend_divisions": 13,
+      "AdministrativeEntity:grama_sevaka_divisions": 389,
+      "AdministrativeEntity:municipal_councils": 1,
+      "AdministrativeEntity:urban_councils": 6,
+      "AdministrativeEntity:town_councils": 9
     },
     "total_value": 418
   },
@@ -30,11 +30,11 @@
     "region_name": "Kalutara",
     "region_ent_type": "district",
     "values": {
-      "AdministrativeEntity:AssistantGovernmentAgendDivisions": 10,
-      "AdministrativeEntity:GramaSevakaDivisions": 230,
-      "AdministrativeEntity:MunicipalCouncils": 0,
-      "AdministrativeEntity:UrbanCouncils": 4,
-      "AdministrativeEntity:TownCouncils": 6
+      "AdministrativeEntity:assistant_government_agend_divisions": 10,
+      "AdministrativeEntity:grama_sevaka_divisions": 230,
+      "AdministrativeEntity:municipal_councils": 0,
+      "AdministrativeEntity:urban_councils": 4,
+      "AdministrativeEntity:town_councils": 6
     },
     "total_value": 250
   },
@@ -43,11 +43,11 @@
     "region_name": "Kandy",
     "region_ent_type": "district",
     "values": {
-      "AdministrativeEntity:AssistantGovernmentAgendDivisions": 16,
-      "AdministrativeEntity:GramaSevakaDivisions": 430,
-      "AdministrativeEntity:MunicipalCouncils": 1,
-      "AdministrativeEntity:UrbanCouncils": 4,
-      "AdministrativeEntity:TownCouncils": 2
+      "AdministrativeEntity:assistant_government_agend_divisions": 16,
+      "AdministrativeEntity:grama_sevaka_divisions": 430,
+      "AdministrativeEntity:municipal_councils": 1,
+      "AdministrativeEntity:urban_councils": 4,
+      "AdministrativeEntity:town_councils": 2
     },
     "total_value": 453
   },
@@ -56,11 +56,11 @@
     "region_name": "Matale",
     "region_ent_type": "district",
     "values": {
-      "AdministrativeEntity:AssistantGovernmentAgendDivisions": 10,
-      "AdministrativeEntity:GramaSevakaDivisions": 170,
-      "AdministrativeEntity:MunicipalCouncils": 1,
-      "AdministrativeEntity:UrbanCouncils": 0,
-      "AdministrativeEntity:TownCouncils": 3
+      "AdministrativeEntity:assistant_government_agend_divisions": 10,
+      "AdministrativeEntity:grama_sevaka_divisions": 170,
+      "AdministrativeEntity:municipal_councils": 1,
+      "AdministrativeEntity:urban_councils": 0,
+      "AdministrativeEntity:town_councils": 3
     },
     "total_value": 184
   },
@@ -69,11 +69,11 @@
     "region_name": "Nuwara Eliya",
     "region_ent_type": "district",
     "values": {
-      "AdministrativeEntity:AssistantGovernmentAgendDivisions": 4,
-      "AdministrativeEntity:GramaSevakaDivisions": 98,
-      "AdministrativeEntity:MunicipalCouncils": 1,
-      "AdministrativeEntity:UrbanCouncils": 2,
-      "AdministrativeEntity:TownCouncils": 1
+      "AdministrativeEntity:assistant_government_agend_divisions": 4,
+      "AdministrativeEntity:grama_sevaka_divisions": 98,
+      "AdministrativeEntity:municipal_councils": 1,
+      "AdministrativeEntity:urban_councils": 2,
+      "AdministrativeEntity:town_councils": 1
     },
     "total_value": 106
   },
@@ -82,11 +82,11 @@
     "region_name": "Galle",
     "region_ent_type": "district",
     "values": {
-      "AdministrativeEntity:AssistantGovernmentAgendDivisions": 16,
-      "AdministrativeEntity:GramaSevakaDivisions": 274,
-      "AdministrativeEntity:MunicipalCouncils": 1,
-      "AdministrativeEntity:UrbanCouncils": 1,
-      "AdministrativeEntity:TownCouncils": 7
+      "AdministrativeEntity:assistant_government_agend_divisions": 16,
+      "AdministrativeEntity:grama_sevaka_divisions": 274,
+      "AdministrativeEntity:municipal_councils": 1,
+      "AdministrativeEntity:urban_councils": 1,
+      "AdministrativeEntity:town_councils": 7
     },
     "total_value": 299
   },
@@ -95,11 +95,11 @@
     "region_name": "Matara",
     "region_ent_type": "district",
     "values": {
-      "AdministrativeEntity:AssistantGovernmentAgendDivisions": 11,
-      "AdministrativeEntity:GramaSevakaDivisions": 214,
-      "AdministrativeEntity:MunicipalCouncils": 0,
-      "AdministrativeEntity:UrbanCouncils": 2,
-      "AdministrativeEntity:TownCouncils": 2
+      "AdministrativeEntity:assistant_government_agend_divisions": 11,
+      "AdministrativeEntity:grama_sevaka_divisions": 214,
+      "AdministrativeEntity:municipal_councils": 0,
+      "AdministrativeEntity:urban_councils": 2,
+      "AdministrativeEntity:town_councils": 2
     },
     "total_value": 229
   },
@@ -108,11 +108,11 @@
     "region_name": "Hambantota",
     "region_ent_type": "district",
     "values": {
-      "AdministrativeEntity:AssistantGovernmentAgendDivisions": 8,
-      "AdministrativeEntity:GramaSevakaDivisions": 165,
-      "AdministrativeEntity:MunicipalCouncils": 0,
-      "AdministrativeEntity:UrbanCouncils": 2,
-      "AdministrativeEntity:TownCouncils": 4
+      "AdministrativeEntity:assistant_government_agend_divisions": 8,
+      "AdministrativeEntity:grama_sevaka_divisions": 165,
+      "AdministrativeEntity:municipal_councils": 0,
+      "AdministrativeEntity:urban_councils": 2,
+      "AdministrativeEntity:town_councils": 4
     },
     "total_value": 179
   },
@@ -121,11 +121,11 @@
     "region_name": "Jaffna",
     "region_ent_type": "district",
     "values": {
-      "AdministrativeEntity:AssistantGovernmentAgendDivisions": 16,
-      "AdministrativeEntity:GramaSevakaDivisions": 150,
-      "AdministrativeEntity:MunicipalCouncils": 1,
-      "AdministrativeEntity:UrbanCouncils": 3,
-      "AdministrativeEntity:TownCouncils": 9
+      "AdministrativeEntity:assistant_government_agend_divisions": 16,
+      "AdministrativeEntity:grama_sevaka_divisions": 150,
+      "AdministrativeEntity:municipal_councils": 1,
+      "AdministrativeEntity:urban_councils": 3,
+      "AdministrativeEntity:town_councils": 9
     },
     "total_value": 179
   },
@@ -134,11 +134,11 @@
     "region_name": "Mannar",
     "region_ent_type": "district",
     "values": {
-      "AdministrativeEntity:AssistantGovernmentAgendDivisions": 4,
-      "AdministrativeEntity:GramaSevakaDivisions": 33,
-      "AdministrativeEntity:MunicipalCouncils": 0,
-      "AdministrativeEntity:UrbanCouncils": 0,
-      "AdministrativeEntity:TownCouncils": 1
+      "AdministrativeEntity:assistant_government_agend_divisions": 4,
+      "AdministrativeEntity:grama_sevaka_divisions": 33,
+      "AdministrativeEntity:municipal_councils": 0,
+      "AdministrativeEntity:urban_councils": 0,
+      "AdministrativeEntity:town_councils": 1
     },
     "total_value": 38
   },
@@ -147,11 +147,11 @@
     "region_name": "Vavuniya",
     "region_ent_type": "district",
     "values": {
-      "AdministrativeEntity:AssistantGovernmentAgendDivisions": 4,
-      "AdministrativeEntity:GramaSevakaDivisions": 23,
-      "AdministrativeEntity:MunicipalCouncils": 0,
-      "AdministrativeEntity:UrbanCouncils": 1,
-      "AdministrativeEntity:TownCouncils": 0
+      "AdministrativeEntity:assistant_government_agend_divisions": 4,
+      "AdministrativeEntity:grama_sevaka_divisions": 23,
+      "AdministrativeEntity:municipal_councils": 0,
+      "AdministrativeEntity:urban_councils": 1,
+      "AdministrativeEntity:town_councils": 0
     },
     "total_value": 28
   },
@@ -160,11 +160,11 @@
     "region_name": "Mullaitivu",
     "region_ent_type": "district",
     "values": {
-      "AdministrativeEntity:AssistantGovernmentAgendDivisions": 4,
-      "AdministrativeEntity:GramaSevakaDivisions": 26,
-      "AdministrativeEntity:MunicipalCouncils": 0,
-      "AdministrativeEntity:UrbanCouncils": 0,
-      "AdministrativeEntity:TownCouncils": 1
+      "AdministrativeEntity:assistant_government_agend_divisions": 4,
+      "AdministrativeEntity:grama_sevaka_divisions": 26,
+      "AdministrativeEntity:municipal_councils": 0,
+      "AdministrativeEntity:urban_councils": 0,
+      "AdministrativeEntity:town_councils": 1
     },
     "total_value": 31
   },
@@ -173,11 +173,11 @@
     "region_name": "Batticaloa",
     "region_ent_type": "district",
     "values": {
-      "AdministrativeEntity:AssistantGovernmentAgendDivisions": 7,
-      "AdministrativeEntity:GramaSevakaDivisions": 87,
-      "AdministrativeEntity:MunicipalCouncils": 1,
-      "AdministrativeEntity:UrbanCouncils": 0,
-      "AdministrativeEntity:TownCouncils": 2
+      "AdministrativeEntity:assistant_government_agend_divisions": 7,
+      "AdministrativeEntity:grama_sevaka_divisions": 87,
+      "AdministrativeEntity:municipal_councils": 1,
+      "AdministrativeEntity:urban_councils": 0,
+      "AdministrativeEntity:town_councils": 2
     },
     "total_value": 97
   },
@@ -186,11 +186,11 @@
     "region_name": "Ampara",
     "region_ent_type": "district",
     "values": {
-      "AdministrativeEntity:AssistantGovernmentAgendDivisions": 12,
-      "AdministrativeEntity:GramaSevakaDivisions": 108,
-      "AdministrativeEntity:MunicipalCouncils": 0,
-      "AdministrativeEntity:UrbanCouncils": 1,
-      "AdministrativeEntity:TownCouncils": 2
+      "AdministrativeEntity:assistant_government_agend_divisions": 12,
+      "AdministrativeEntity:grama_sevaka_divisions": 108,
+      "AdministrativeEntity:municipal_councils": 0,
+      "AdministrativeEntity:urban_councils": 1,
+      "AdministrativeEntity:town_councils": 2
     },
     "total_value": 123
   },
@@ -199,11 +199,11 @@
     "region_name": "Trincomalee",
     "region_ent_type": "district",
     "values": {
-      "AdministrativeEntity:AssistantGovernmentAgendDivisions": 9,
-      "AdministrativeEntity:GramaSevakaDivisions": 48,
-      "AdministrativeEntity:MunicipalCouncils": 0,
-      "AdministrativeEntity:UrbanCouncils": 1,
-      "AdministrativeEntity:TownCouncils": 3
+      "AdministrativeEntity:assistant_government_agend_divisions": 9,
+      "AdministrativeEntity:grama_sevaka_divisions": 48,
+      "AdministrativeEntity:municipal_councils": 0,
+      "AdministrativeEntity:urban_councils": 1,
+      "AdministrativeEntity:town_councils": 3
     },
     "total_value": 61
   },
@@ -212,11 +212,11 @@
     "region_name": "Kurunegala",
     "region_ent_type": "district",
     "values": {
-      "AdministrativeEntity:AssistantGovernmentAgendDivisions": 17,
-      "AdministrativeEntity:GramaSevakaDivisions": 510,
-      "AdministrativeEntity:MunicipalCouncils": 1,
-      "AdministrativeEntity:UrbanCouncils": 1,
-      "AdministrativeEntity:TownCouncils": 3
+      "AdministrativeEntity:assistant_government_agend_divisions": 17,
+      "AdministrativeEntity:grama_sevaka_divisions": 510,
+      "AdministrativeEntity:municipal_councils": 1,
+      "AdministrativeEntity:urban_councils": 1,
+      "AdministrativeEntity:town_councils": 3
     },
     "total_value": 532
   },
@@ -225,11 +225,11 @@
     "region_name": "Puttalam",
     "region_ent_type": "district",
     "values": {
-      "AdministrativeEntity:AssistantGovernmentAgendDivisions": 10,
-      "AdministrativeEntity:GramaSevakaDivisions": 178,
-      "AdministrativeEntity:MunicipalCouncils": 0,
-      "AdministrativeEntity:UrbanCouncils": 2,
-      "AdministrativeEntity:TownCouncils": 5
+      "AdministrativeEntity:assistant_government_agend_divisions": 10,
+      "AdministrativeEntity:grama_sevaka_divisions": 178,
+      "AdministrativeEntity:municipal_councils": 0,
+      "AdministrativeEntity:urban_councils": 2,
+      "AdministrativeEntity:town_councils": 5
     },
     "total_value": 195
   },
@@ -238,11 +238,11 @@
     "region_name": "Anuradhapura",
     "region_ent_type": "district",
     "values": {
-      "AdministrativeEntity:AssistantGovernmentAgendDivisions": 16,
-      "AdministrativeEntity:GramaSevakaDivisions": 189,
-      "AdministrativeEntity:MunicipalCouncils": 0,
-      "AdministrativeEntity:UrbanCouncils": 1,
-      "AdministrativeEntity:TownCouncils": 1
+      "AdministrativeEntity:assistant_government_agend_divisions": 16,
+      "AdministrativeEntity:grama_sevaka_divisions": 189,
+      "AdministrativeEntity:municipal_councils": 0,
+      "AdministrativeEntity:urban_councils": 1,
+      "AdministrativeEntity:town_councils": 1
     },
     "total_value": 207
   },
@@ -251,11 +251,11 @@
     "region_name": "Polonnaruwa",
     "region_ent_type": "district",
     "values": {
-      "AdministrativeEntity:AssistantGovernmentAgendDivisions": 5,
-      "AdministrativeEntity:GramaSevakaDivisions": 60,
-      "AdministrativeEntity:MunicipalCouncils": 0,
-      "AdministrativeEntity:UrbanCouncils": 0,
-      "AdministrativeEntity:TownCouncils": 2
+      "AdministrativeEntity:assistant_government_agend_divisions": 5,
+      "AdministrativeEntity:grama_sevaka_divisions": 60,
+      "AdministrativeEntity:municipal_councils": 0,
+      "AdministrativeEntity:urban_councils": 0,
+      "AdministrativeEntity:town_councils": 2
     },
     "total_value": 67
   },
@@ -264,11 +264,11 @@
     "region_name": "Badulla",
     "region_ent_type": "district",
     "values": {
-      "AdministrativeEntity:AssistantGovernmentAgendDivisions": 14,
-      "AdministrativeEntity:GramaSevakaDivisions": 151,
-      "AdministrativeEntity:MunicipalCouncils": 1,
-      "AdministrativeEntity:UrbanCouncils": 2,
-      "AdministrativeEntity:TownCouncils": 4
+      "AdministrativeEntity:assistant_government_agend_divisions": 14,
+      "AdministrativeEntity:grama_sevaka_divisions": 151,
+      "AdministrativeEntity:municipal_councils": 1,
+      "AdministrativeEntity:urban_councils": 2,
+      "AdministrativeEntity:town_councils": 4
     },
     "total_value": 172
   },
@@ -277,11 +277,11 @@
     "region_name": "Monaragala",
     "region_ent_type": "district",
     "values": {
-      "AdministrativeEntity:AssistantGovernmentAgendDivisions": 8,
-      "AdministrativeEntity:GramaSevakaDivisions": 88,
-      "AdministrativeEntity:MunicipalCouncils": 0,
-      "AdministrativeEntity:UrbanCouncils": 0,
-      "AdministrativeEntity:TownCouncils": 1
+      "AdministrativeEntity:assistant_government_agend_divisions": 8,
+      "AdministrativeEntity:grama_sevaka_divisions": 88,
+      "AdministrativeEntity:municipal_councils": 0,
+      "AdministrativeEntity:urban_councils": 0,
+      "AdministrativeEntity:town_councils": 1
     },
     "total_value": 97
   },
@@ -290,11 +290,11 @@
     "region_name": "Ratnapura",
     "region_ent_type": "district",
     "values": {
-      "AdministrativeEntity:AssistantGovernmentAgendDivisions": 13,
-      "AdministrativeEntity:GramaSevakaDivisions": 175,
-      "AdministrativeEntity:MunicipalCouncils": 1,
-      "AdministrativeEntity:UrbanCouncils": 1,
-      "AdministrativeEntity:TownCouncils": 3
+      "AdministrativeEntity:assistant_government_agend_divisions": 13,
+      "AdministrativeEntity:grama_sevaka_divisions": 175,
+      "AdministrativeEntity:municipal_councils": 1,
+      "AdministrativeEntity:urban_councils": 1,
+      "AdministrativeEntity:town_councils": 3
     },
     "total_value": 193
   },
@@ -303,11 +303,11 @@
     "region_name": "Kegalle",
     "region_ent_type": "district",
     "values": {
-      "AdministrativeEntity:AssistantGovernmentAgendDivisions": 10,
-      "AdministrativeEntity:GramaSevakaDivisions": 196,
-      "AdministrativeEntity:MunicipalCouncils": 0,
-      "AdministrativeEntity:UrbanCouncils": 1,
-      "AdministrativeEntity:TownCouncils": 6
+      "AdministrativeEntity:assistant_government_agend_divisions": 10,
+      "AdministrativeEntity:grama_sevaka_divisions": 196,
+      "AdministrativeEntity:municipal_councils": 0,
+      "AdministrativeEntity:urban_councils": 1,
+      "AdministrativeEntity:town_councils": 6
     },
     "total_value": 213
   },
@@ -316,11 +316,11 @@
     "region_name": "Sri Lanka",
     "region_ent_type": "country",
     "values": {
-      "AdministrativeEntity:AssistantGovernmentAgendDivisions": 245,
-      "AdministrativeEntity:GramaSevakaDivisions": 4113,
-      "AdministrativeEntity:MunicipalCouncils": 12,
-      "AdministrativeEntity:UrbanCouncils": 39,
-      "AdministrativeEntity:TownCouncils": 83
+      "AdministrativeEntity:assistant_government_agend_divisions": 245,
+      "AdministrativeEntity:grama_sevaka_divisions": 4113,
+      "AdministrativeEntity:municipal_councils": 12,
+      "AdministrativeEntity:urban_councils": 39,
+      "AdministrativeEntity:town_councils": 83
     },
     "total_value": 4492
   },
@@ -329,11 +329,11 @@
     "region_name": "Western",
     "region_ent_type": "province",
     "values": {
-      "AdministrativeEntity:AssistantGovernmentAgendDivisions": 31,
-      "AdministrativeEntity:GramaSevakaDivisions": 740,
-      "AdministrativeEntity:MunicipalCouncils": 3,
-      "AdministrativeEntity:UrbanCouncils": 14,
-      "AdministrativeEntity:TownCouncils": 21
+      "AdministrativeEntity:assistant_government_agend_divisions": 31,
+      "AdministrativeEntity:grama_sevaka_divisions": 740,
+      "AdministrativeEntity:municipal_councils": 3,
+      "AdministrativeEntity:urban_councils": 14,
+      "AdministrativeEntity:town_councils": 21
     },
     "total_value": 809
   },
@@ -342,11 +342,11 @@
     "region_name": "Central",
     "region_ent_type": "province",
     "values": {
-      "AdministrativeEntity:AssistantGovernmentAgendDivisions": 30,
-      "AdministrativeEntity:GramaSevakaDivisions": 698,
-      "AdministrativeEntity:MunicipalCouncils": 3,
-      "AdministrativeEntity:UrbanCouncils": 6,
-      "AdministrativeEntity:TownCouncils": 6
+      "AdministrativeEntity:assistant_government_agend_divisions": 30,
+      "AdministrativeEntity:grama_sevaka_divisions": 698,
+      "AdministrativeEntity:municipal_councils": 3,
+      "AdministrativeEntity:urban_councils": 6,
+      "AdministrativeEntity:town_councils": 6
     },
     "total_value": 743
   },
@@ -355,11 +355,11 @@
     "region_name": "Southern",
     "region_ent_type": "province",
     "values": {
-      "AdministrativeEntity:AssistantGovernmentAgendDivisions": 35,
-      "AdministrativeEntity:GramaSevakaDivisions": 653,
-      "AdministrativeEntity:MunicipalCouncils": 1,
-      "AdministrativeEntity:UrbanCouncils": 5,
-      "AdministrativeEntity:TownCouncils": 13
+      "AdministrativeEntity:assistant_government_agend_divisions": 35,
+      "AdministrativeEntity:grama_sevaka_divisions": 653,
+      "AdministrativeEntity:municipal_councils": 1,
+      "AdministrativeEntity:urban_councils": 5,
+      "AdministrativeEntity:town_councils": 13
     },
     "total_value": 707
   },
@@ -368,11 +368,11 @@
     "region_name": "Northern",
     "region_ent_type": "province",
     "values": {
-      "AdministrativeEntity:AssistantGovernmentAgendDivisions": 28,
-      "AdministrativeEntity:GramaSevakaDivisions": 232,
-      "AdministrativeEntity:MunicipalCouncils": 1,
-      "AdministrativeEntity:UrbanCouncils": 4,
-      "AdministrativeEntity:TownCouncils": 11
+      "AdministrativeEntity:assistant_government_agend_divisions": 28,
+      "AdministrativeEntity:grama_sevaka_divisions": 232,
+      "AdministrativeEntity:municipal_councils": 1,
+      "AdministrativeEntity:urban_councils": 4,
+      "AdministrativeEntity:town_councils": 11
     },
     "total_value": 276
   },
@@ -381,11 +381,11 @@
     "region_name": "Eastern",
     "region_ent_type": "province",
     "values": {
-      "AdministrativeEntity:AssistantGovernmentAgendDivisions": 28,
-      "AdministrativeEntity:GramaSevakaDivisions": 243,
-      "AdministrativeEntity:MunicipalCouncils": 1,
-      "AdministrativeEntity:UrbanCouncils": 2,
-      "AdministrativeEntity:TownCouncils": 7
+      "AdministrativeEntity:assistant_government_agend_divisions": 28,
+      "AdministrativeEntity:grama_sevaka_divisions": 243,
+      "AdministrativeEntity:municipal_councils": 1,
+      "AdministrativeEntity:urban_councils": 2,
+      "AdministrativeEntity:town_councils": 7
     },
     "total_value": 281
   },
@@ -394,11 +394,11 @@
     "region_name": "North Western",
     "region_ent_type": "province",
     "values": {
-      "AdministrativeEntity:AssistantGovernmentAgendDivisions": 27,
-      "AdministrativeEntity:GramaSevakaDivisions": 688,
-      "AdministrativeEntity:MunicipalCouncils": 1,
-      "AdministrativeEntity:UrbanCouncils": 3,
-      "AdministrativeEntity:TownCouncils": 8
+      "AdministrativeEntity:assistant_government_agend_divisions": 27,
+      "AdministrativeEntity:grama_sevaka_divisions": 688,
+      "AdministrativeEntity:municipal_councils": 1,
+      "AdministrativeEntity:urban_councils": 3,
+      "AdministrativeEntity:town_councils": 8
     },
     "total_value": 727
   },
@@ -407,11 +407,11 @@
     "region_name": "North Central",
     "region_ent_type": "province",
     "values": {
-      "AdministrativeEntity:AssistantGovernmentAgendDivisions": 21,
-      "AdministrativeEntity:GramaSevakaDivisions": 249,
-      "AdministrativeEntity:MunicipalCouncils": 0,
-      "AdministrativeEntity:UrbanCouncils": 1,
-      "AdministrativeEntity:TownCouncils": 3
+      "AdministrativeEntity:assistant_government_agend_divisions": 21,
+      "AdministrativeEntity:grama_sevaka_divisions": 249,
+      "AdministrativeEntity:municipal_councils": 0,
+      "AdministrativeEntity:urban_councils": 1,
+      "AdministrativeEntity:town_councils": 3
     },
     "total_value": 274
   },
@@ -420,11 +420,11 @@
     "region_name": "Uva",
     "region_ent_type": "province",
     "values": {
-      "AdministrativeEntity:AssistantGovernmentAgendDivisions": 22,
-      "AdministrativeEntity:GramaSevakaDivisions": 239,
-      "AdministrativeEntity:MunicipalCouncils": 1,
-      "AdministrativeEntity:UrbanCouncils": 2,
-      "AdministrativeEntity:TownCouncils": 5
+      "AdministrativeEntity:assistant_government_agend_divisions": 22,
+      "AdministrativeEntity:grama_sevaka_divisions": 239,
+      "AdministrativeEntity:municipal_councils": 1,
+      "AdministrativeEntity:urban_councils": 2,
+      "AdministrativeEntity:town_councils": 5
     },
     "total_value": 269
   },
@@ -433,11 +433,11 @@
     "region_name": "Sabaragamuwa",
     "region_ent_type": "province",
     "values": {
-      "AdministrativeEntity:AssistantGovernmentAgendDivisions": 23,
-      "AdministrativeEntity:GramaSevakaDivisions": 371,
-      "AdministrativeEntity:MunicipalCouncils": 1,
-      "AdministrativeEntity:UrbanCouncils": 2,
-      "AdministrativeEntity:TownCouncils": 9
+      "AdministrativeEntity:assistant_government_agend_divisions": 23,
+      "AdministrativeEntity:grama_sevaka_divisions": 371,
+      "AdministrativeEntity:municipal_councils": 1,
+      "AdministrativeEntity:urban_councils": 2,
+      "AdministrativeEntity:town_councils": 9
     },
     "total_value": 406
   },
@@ -446,11 +446,11 @@
     "region_name": "Colombo",
     "region_ent_type": "ed",
     "values": {
-      "AdministrativeEntity:AssistantGovernmentAgendDivisions": 8,
-      "AdministrativeEntity:GramaSevakaDivisions": 121,
-      "AdministrativeEntity:MunicipalCouncils": 2,
-      "AdministrativeEntity:UrbanCouncils": 4,
-      "AdministrativeEntity:TownCouncils": 6
+      "AdministrativeEntity:assistant_government_agend_divisions": 8,
+      "AdministrativeEntity:grama_sevaka_divisions": 121,
+      "AdministrativeEntity:municipal_councils": 2,
+      "AdministrativeEntity:urban_councils": 4,
+      "AdministrativeEntity:town_councils": 6
     },
     "total_value": 141
   },
@@ -459,11 +459,11 @@
     "region_name": "Gampaha",
     "region_ent_type": "ed",
     "values": {
-      "AdministrativeEntity:AssistantGovernmentAgendDivisions": 13,
-      "AdministrativeEntity:GramaSevakaDivisions": 389,
-      "AdministrativeEntity:MunicipalCouncils": 1,
-      "AdministrativeEntity:UrbanCouncils": 6,
-      "AdministrativeEntity:TownCouncils": 9
+      "AdministrativeEntity:assistant_government_agend_divisions": 13,
+      "AdministrativeEntity:grama_sevaka_divisions": 389,
+      "AdministrativeEntity:municipal_councils": 1,
+      "AdministrativeEntity:urban_councils": 6,
+      "AdministrativeEntity:town_councils": 9
     },
     "total_value": 418
   },
@@ -472,11 +472,11 @@
     "region_name": "Kalutara",
     "region_ent_type": "ed",
     "values": {
-      "AdministrativeEntity:AssistantGovernmentAgendDivisions": 10,
-      "AdministrativeEntity:GramaSevakaDivisions": 230,
-      "AdministrativeEntity:MunicipalCouncils": 0,
-      "AdministrativeEntity:UrbanCouncils": 4,
-      "AdministrativeEntity:TownCouncils": 6
+      "AdministrativeEntity:assistant_government_agend_divisions": 10,
+      "AdministrativeEntity:grama_sevaka_divisions": 230,
+      "AdministrativeEntity:municipal_councils": 0,
+      "AdministrativeEntity:urban_councils": 4,
+      "AdministrativeEntity:town_councils": 6
     },
     "total_value": 250
   },
@@ -485,11 +485,11 @@
     "region_name": "Kandy",
     "region_ent_type": "ed",
     "values": {
-      "AdministrativeEntity:AssistantGovernmentAgendDivisions": 16,
-      "AdministrativeEntity:GramaSevakaDivisions": 430,
-      "AdministrativeEntity:MunicipalCouncils": 1,
-      "AdministrativeEntity:UrbanCouncils": 4,
-      "AdministrativeEntity:TownCouncils": 2
+      "AdministrativeEntity:assistant_government_agend_divisions": 16,
+      "AdministrativeEntity:grama_sevaka_divisions": 430,
+      "AdministrativeEntity:municipal_councils": 1,
+      "AdministrativeEntity:urban_councils": 4,
+      "AdministrativeEntity:town_councils": 2
     },
     "total_value": 453
   },
@@ -498,11 +498,11 @@
     "region_name": "Matale",
     "region_ent_type": "ed",
     "values": {
-      "AdministrativeEntity:AssistantGovernmentAgendDivisions": 10,
-      "AdministrativeEntity:GramaSevakaDivisions": 170,
-      "AdministrativeEntity:MunicipalCouncils": 1,
-      "AdministrativeEntity:UrbanCouncils": 0,
-      "AdministrativeEntity:TownCouncils": 3
+      "AdministrativeEntity:assistant_government_agend_divisions": 10,
+      "AdministrativeEntity:grama_sevaka_divisions": 170,
+      "AdministrativeEntity:municipal_councils": 1,
+      "AdministrativeEntity:urban_councils": 0,
+      "AdministrativeEntity:town_councils": 3
     },
     "total_value": 184
   },
@@ -511,11 +511,11 @@
     "region_name": "Nuwara-Eliya",
     "region_ent_type": "ed",
     "values": {
-      "AdministrativeEntity:AssistantGovernmentAgendDivisions": 4,
-      "AdministrativeEntity:GramaSevakaDivisions": 98,
-      "AdministrativeEntity:MunicipalCouncils": 1,
-      "AdministrativeEntity:UrbanCouncils": 2,
-      "AdministrativeEntity:TownCouncils": 1
+      "AdministrativeEntity:assistant_government_agend_divisions": 4,
+      "AdministrativeEntity:grama_sevaka_divisions": 98,
+      "AdministrativeEntity:municipal_councils": 1,
+      "AdministrativeEntity:urban_councils": 2,
+      "AdministrativeEntity:town_councils": 1
     },
     "total_value": 106
   },
@@ -524,11 +524,11 @@
     "region_name": "Galle",
     "region_ent_type": "ed",
     "values": {
-      "AdministrativeEntity:AssistantGovernmentAgendDivisions": 16,
-      "AdministrativeEntity:GramaSevakaDivisions": 274,
-      "AdministrativeEntity:MunicipalCouncils": 1,
-      "AdministrativeEntity:UrbanCouncils": 1,
-      "AdministrativeEntity:TownCouncils": 7
+      "AdministrativeEntity:assistant_government_agend_divisions": 16,
+      "AdministrativeEntity:grama_sevaka_divisions": 274,
+      "AdministrativeEntity:municipal_councils": 1,
+      "AdministrativeEntity:urban_councils": 1,
+      "AdministrativeEntity:town_councils": 7
     },
     "total_value": 299
   },
@@ -537,11 +537,11 @@
     "region_name": "Matara",
     "region_ent_type": "ed",
     "values": {
-      "AdministrativeEntity:AssistantGovernmentAgendDivisions": 11,
-      "AdministrativeEntity:GramaSevakaDivisions": 214,
-      "AdministrativeEntity:MunicipalCouncils": 0,
-      "AdministrativeEntity:UrbanCouncils": 2,
-      "AdministrativeEntity:TownCouncils": 2
+      "AdministrativeEntity:assistant_government_agend_divisions": 11,
+      "AdministrativeEntity:grama_sevaka_divisions": 214,
+      "AdministrativeEntity:municipal_councils": 0,
+      "AdministrativeEntity:urban_councils": 2,
+      "AdministrativeEntity:town_councils": 2
     },
     "total_value": 229
   },
@@ -550,11 +550,11 @@
     "region_name": "Hambantota",
     "region_ent_type": "ed",
     "values": {
-      "AdministrativeEntity:AssistantGovernmentAgendDivisions": 8,
-      "AdministrativeEntity:GramaSevakaDivisions": 165,
-      "AdministrativeEntity:MunicipalCouncils": 0,
-      "AdministrativeEntity:UrbanCouncils": 2,
-      "AdministrativeEntity:TownCouncils": 4
+      "AdministrativeEntity:assistant_government_agend_divisions": 8,
+      "AdministrativeEntity:grama_sevaka_divisions": 165,
+      "AdministrativeEntity:municipal_councils": 0,
+      "AdministrativeEntity:urban_councils": 2,
+      "AdministrativeEntity:town_councils": 4
     },
     "total_value": 179
   },
@@ -563,11 +563,11 @@
     "region_name": "Jaffna",
     "region_ent_type": "ed",
     "values": {
-      "AdministrativeEntity:AssistantGovernmentAgendDivisions": 16,
-      "AdministrativeEntity:GramaSevakaDivisions": 150,
-      "AdministrativeEntity:MunicipalCouncils": 1,
-      "AdministrativeEntity:UrbanCouncils": 3,
-      "AdministrativeEntity:TownCouncils": 9
+      "AdministrativeEntity:assistant_government_agend_divisions": 16,
+      "AdministrativeEntity:grama_sevaka_divisions": 150,
+      "AdministrativeEntity:municipal_councils": 1,
+      "AdministrativeEntity:urban_councils": 3,
+      "AdministrativeEntity:town_councils": 9
     },
     "total_value": 179
   },
@@ -576,11 +576,11 @@
     "region_name": "Vanni",
     "region_ent_type": "ed",
     "values": {
-      "AdministrativeEntity:AssistantGovernmentAgendDivisions": 12,
-      "AdministrativeEntity:GramaSevakaDivisions": 82,
-      "AdministrativeEntity:MunicipalCouncils": 0,
-      "AdministrativeEntity:UrbanCouncils": 1,
-      "AdministrativeEntity:TownCouncils": 2
+      "AdministrativeEntity:assistant_government_agend_divisions": 12,
+      "AdministrativeEntity:grama_sevaka_divisions": 82,
+      "AdministrativeEntity:municipal_councils": 0,
+      "AdministrativeEntity:urban_councils": 1,
+      "AdministrativeEntity:town_councils": 2
     },
     "total_value": 97
   },
@@ -589,11 +589,11 @@
     "region_name": "Batticaloa",
     "region_ent_type": "ed",
     "values": {
-      "AdministrativeEntity:AssistantGovernmentAgendDivisions": 7,
-      "AdministrativeEntity:GramaSevakaDivisions": 87,
-      "AdministrativeEntity:MunicipalCouncils": 1,
-      "AdministrativeEntity:UrbanCouncils": 0,
-      "AdministrativeEntity:TownCouncils": 2
+      "AdministrativeEntity:assistant_government_agend_divisions": 7,
+      "AdministrativeEntity:grama_sevaka_divisions": 87,
+      "AdministrativeEntity:municipal_councils": 1,
+      "AdministrativeEntity:urban_councils": 0,
+      "AdministrativeEntity:town_councils": 2
     },
     "total_value": 97
   },
@@ -602,11 +602,11 @@
     "region_name": "Digamadulla",
     "region_ent_type": "ed",
     "values": {
-      "AdministrativeEntity:AssistantGovernmentAgendDivisions": 12,
-      "AdministrativeEntity:GramaSevakaDivisions": 108,
-      "AdministrativeEntity:MunicipalCouncils": 0,
-      "AdministrativeEntity:UrbanCouncils": 1,
-      "AdministrativeEntity:TownCouncils": 2
+      "AdministrativeEntity:assistant_government_agend_divisions": 12,
+      "AdministrativeEntity:grama_sevaka_divisions": 108,
+      "AdministrativeEntity:municipal_councils": 0,
+      "AdministrativeEntity:urban_councils": 1,
+      "AdministrativeEntity:town_councils": 2
     },
     "total_value": 123
   },
@@ -615,11 +615,11 @@
     "region_name": "Trincomalee",
     "region_ent_type": "ed",
     "values": {
-      "AdministrativeEntity:AssistantGovernmentAgendDivisions": 9,
-      "AdministrativeEntity:GramaSevakaDivisions": 48,
-      "AdministrativeEntity:MunicipalCouncils": 0,
-      "AdministrativeEntity:UrbanCouncils": 1,
-      "AdministrativeEntity:TownCouncils": 3
+      "AdministrativeEntity:assistant_government_agend_divisions": 9,
+      "AdministrativeEntity:grama_sevaka_divisions": 48,
+      "AdministrativeEntity:municipal_councils": 0,
+      "AdministrativeEntity:urban_councils": 1,
+      "AdministrativeEntity:town_councils": 3
     },
     "total_value": 61
   },
@@ -628,11 +628,11 @@
     "region_name": "Kurunegala",
     "region_ent_type": "ed",
     "values": {
-      "AdministrativeEntity:AssistantGovernmentAgendDivisions": 17,
-      "AdministrativeEntity:GramaSevakaDivisions": 510,
-      "AdministrativeEntity:MunicipalCouncils": 1,
-      "AdministrativeEntity:UrbanCouncils": 1,
-      "AdministrativeEntity:TownCouncils": 3
+      "AdministrativeEntity:assistant_government_agend_divisions": 17,
+      "AdministrativeEntity:grama_sevaka_divisions": 510,
+      "AdministrativeEntity:municipal_councils": 1,
+      "AdministrativeEntity:urban_councils": 1,
+      "AdministrativeEntity:town_councils": 3
     },
     "total_value": 532
   },
@@ -641,11 +641,11 @@
     "region_name": "Puttalam",
     "region_ent_type": "ed",
     "values": {
-      "AdministrativeEntity:AssistantGovernmentAgendDivisions": 10,
-      "AdministrativeEntity:GramaSevakaDivisions": 178,
-      "AdministrativeEntity:MunicipalCouncils": 0,
-      "AdministrativeEntity:UrbanCouncils": 2,
-      "AdministrativeEntity:TownCouncils": 5
+      "AdministrativeEntity:assistant_government_agend_divisions": 10,
+      "AdministrativeEntity:grama_sevaka_divisions": 178,
+      "AdministrativeEntity:municipal_councils": 0,
+      "AdministrativeEntity:urban_councils": 2,
+      "AdministrativeEntity:town_councils": 5
     },
     "total_value": 195
   },
@@ -654,11 +654,11 @@
     "region_name": "Anuradhapura",
     "region_ent_type": "ed",
     "values": {
-      "AdministrativeEntity:AssistantGovernmentAgendDivisions": 16,
-      "AdministrativeEntity:GramaSevakaDivisions": 189,
-      "AdministrativeEntity:MunicipalCouncils": 0,
-      "AdministrativeEntity:UrbanCouncils": 1,
-      "AdministrativeEntity:TownCouncils": 1
+      "AdministrativeEntity:assistant_government_agend_divisions": 16,
+      "AdministrativeEntity:grama_sevaka_divisions": 189,
+      "AdministrativeEntity:municipal_councils": 0,
+      "AdministrativeEntity:urban_councils": 1,
+      "AdministrativeEntity:town_councils": 1
     },
     "total_value": 207
   },
@@ -667,11 +667,11 @@
     "region_name": "Polonnaruwa",
     "region_ent_type": "ed",
     "values": {
-      "AdministrativeEntity:AssistantGovernmentAgendDivisions": 5,
-      "AdministrativeEntity:GramaSevakaDivisions": 60,
-      "AdministrativeEntity:MunicipalCouncils": 0,
-      "AdministrativeEntity:UrbanCouncils": 0,
-      "AdministrativeEntity:TownCouncils": 2
+      "AdministrativeEntity:assistant_government_agend_divisions": 5,
+      "AdministrativeEntity:grama_sevaka_divisions": 60,
+      "AdministrativeEntity:municipal_councils": 0,
+      "AdministrativeEntity:urban_councils": 0,
+      "AdministrativeEntity:town_councils": 2
     },
     "total_value": 67
   },
@@ -680,11 +680,11 @@
     "region_name": "Badulla",
     "region_ent_type": "ed",
     "values": {
-      "AdministrativeEntity:AssistantGovernmentAgendDivisions": 14,
-      "AdministrativeEntity:GramaSevakaDivisions": 151,
-      "AdministrativeEntity:MunicipalCouncils": 1,
-      "AdministrativeEntity:UrbanCouncils": 2,
-      "AdministrativeEntity:TownCouncils": 4
+      "AdministrativeEntity:assistant_government_agend_divisions": 14,
+      "AdministrativeEntity:grama_sevaka_divisions": 151,
+      "AdministrativeEntity:municipal_councils": 1,
+      "AdministrativeEntity:urban_councils": 2,
+      "AdministrativeEntity:town_councils": 4
     },
     "total_value": 172
   },
@@ -693,11 +693,11 @@
     "region_name": "Moneragala",
     "region_ent_type": "ed",
     "values": {
-      "AdministrativeEntity:AssistantGovernmentAgendDivisions": 8,
-      "AdministrativeEntity:GramaSevakaDivisions": 88,
-      "AdministrativeEntity:MunicipalCouncils": 0,
-      "AdministrativeEntity:UrbanCouncils": 0,
-      "AdministrativeEntity:TownCouncils": 1
+      "AdministrativeEntity:assistant_government_agend_divisions": 8,
+      "AdministrativeEntity:grama_sevaka_divisions": 88,
+      "AdministrativeEntity:municipal_councils": 0,
+      "AdministrativeEntity:urban_councils": 0,
+      "AdministrativeEntity:town_councils": 1
     },
     "total_value": 97
   },
@@ -706,11 +706,11 @@
     "region_name": "Ratnapura",
     "region_ent_type": "ed",
     "values": {
-      "AdministrativeEntity:AssistantGovernmentAgendDivisions": 13,
-      "AdministrativeEntity:GramaSevakaDivisions": 175,
-      "AdministrativeEntity:MunicipalCouncils": 1,
-      "AdministrativeEntity:UrbanCouncils": 1,
-      "AdministrativeEntity:TownCouncils": 3
+      "AdministrativeEntity:assistant_government_agend_divisions": 13,
+      "AdministrativeEntity:grama_sevaka_divisions": 175,
+      "AdministrativeEntity:municipal_councils": 1,
+      "AdministrativeEntity:urban_councils": 1,
+      "AdministrativeEntity:town_councils": 3
     },
     "total_value": 193
   },
@@ -719,11 +719,11 @@
     "region_name": "Kegalle",
     "region_ent_type": "ed",
     "values": {
-      "AdministrativeEntity:AssistantGovernmentAgendDivisions": 10,
-      "AdministrativeEntity:GramaSevakaDivisions": 196,
-      "AdministrativeEntity:MunicipalCouncils": 0,
-      "AdministrativeEntity:UrbanCouncils": 1,
-      "AdministrativeEntity:TownCouncils": 6
+      "AdministrativeEntity:assistant_government_agend_divisions": 10,
+      "AdministrativeEntity:grama_sevaka_divisions": 196,
+      "AdministrativeEntity:municipal_councils": 0,
+      "AdministrativeEntity:urban_councils": 1,
+      "AdministrativeEntity:town_councils": 6
     },
     "total_value": 213
   }

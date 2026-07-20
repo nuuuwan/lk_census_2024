@@ -4,10 +4,10 @@
     "region_name": "Colombo",
     "region_ent_type": "district",
     "values": {
-      "population_urban": 1773222,
-      "population_estate_urban": 3874,
-      "population_rural": 593669,
-      "population_estate_rural": 4650
+      "urban": 1773222,
+      "estate_urban": 3874,
+      "rural": 593669,
+      "estate_rural": 4650
     },
     "total_value": 2375415
   },
@@ -16,10 +16,10 @@
     "region_name": "Gampaha",
     "region_ent_type": "district",
     "values": {
-      "population_urban": 350441,
-      "population_estate_urban": 0,
-      "population_rural": 2085307,
-      "population_estate_rural": 394
+      "urban": 350441,
+      "estate_urban": 0,
+      "rural": 2085307,
+      "estate_rural": 394
     },
     "total_value": 2436142
   },
@@ -28,10 +28,10 @@
     "region_name": "Kalutara",
     "region_ent_type": "district",
     "values": {
-      "population_urban": 149939,
-      "population_estate_urban": 864,
-      "population_rural": 1120942,
-      "population_estate_rural": 34039
+      "urban": 149939,
+      "estate_urban": 864,
+      "rural": 1120942,
+      "estate_rural": 34039
     },
     "total_value": 1305784
   },
@@ -40,10 +40,10 @@
     "region_name": "Kandy",
     "region_ent_type": "district",
     "values": {
-      "population_urban": 171416,
-      "population_estate_urban": 241,
-      "population_rural": 1208607,
-      "population_estate_rural": 81631
+      "urban": 171416,
+      "estate_urban": 241,
+      "rural": 1208607,
+      "estate_rural": 81631
     },
     "total_value": 1461895
   },
@@ -52,10 +52,10 @@
     "region_name": "Matale",
     "region_ent_type": "district",
     "values": {
-      "population_urban": 62848,
-      "population_estate_urban": 0,
-      "population_rural": 447122,
-      "population_estate_rural": 16900
+      "urban": 62848,
+      "estate_urban": 0,
+      "rural": 447122,
+      "estate_rural": 16900
     },
     "total_value": 526870
   },
@@ -64,10 +64,10 @@
     "region_name": "Nuwara Eliya",
     "region_ent_type": "district",
     "values": {
-      "population_urban": 36649,
-      "population_estate_urban": 5666,
-      "population_rural": 308357,
-      "population_estate_rural": 374608
+      "urban": 36649,
+      "estate_urban": 5666,
+      "rural": 308357,
+      "estate_rural": 374608
     },
     "total_value": 725280
   },
@@ -76,10 +76,10 @@
     "region_name": "Galle",
     "region_ent_type": "district",
     "values": {
-      "population_urban": 135514,
-      "population_estate_urban": 0,
-      "population_rural": 944811,
-      "population_estate_rural": 17047
+      "urban": 135514,
+      "estate_urban": 0,
+      "rural": 944811,
+      "estate_rural": 17047
     },
     "total_value": 1097372
   },
@@ -88,10 +88,10 @@
     "region_name": "Matara",
     "region_ent_type": "district",
     "values": {
-      "population_urban": 98886,
-      "population_estate_urban": 0,
-      "population_rural": 721903,
-      "population_estate_rural": 17100
+      "urban": 98886,
+      "estate_urban": 0,
+      "rural": 721903,
+      "estate_rural": 17100
     },
     "total_value": 837889
   },
@@ -100,10 +100,10 @@
     "region_name": "Hambantota",
     "region_ent_type": "district",
     "values": {
-      "population_urban": 33918,
-      "population_estate_urban": 0,
-      "population_rural": 637442,
-      "population_estate_rural": 58
+      "urban": 33918,
+      "estate_urban": 0,
+      "rural": 637442,
+      "estate_rural": 58
     },
     "total_value": 671418
   },
@@ -112,10 +112,10 @@
     "region_name": "Jaffna",
     "region_ent_type": "district",
     "values": {
-      "population_urban": 113821,
-      "population_estate_urban": 0,
-      "population_rural": 480930,
-      "population_estate_rural": 0
+      "urban": 113821,
+      "estate_urban": 0,
+      "rural": 480930,
+      "estate_rural": 0
     },
     "total_value": 594751
   },
@@ -124,10 +124,10 @@
     "region_name": "Mannar",
     "region_ent_type": "district",
     "values": {
-      "population_urban": 24120,
-      "population_estate_urban": 0,
-      "population_rural": 99636,
-      "population_estate_rural": 0
+      "urban": 24120,
+      "estate_urban": 0,
+      "rural": 99636,
+      "estate_rural": 0
     },
     "total_value": 123756
   },
@@ -136,10 +136,10 @@
     "region_name": "Vavuniya",
     "region_ent_type": "district",
     "values": {
-      "population_urban": 28681,
-      "population_estate_urban": 0,
-      "population_rural": 143631,
-      "population_estate_rural": 0
+      "urban": 28681,
+      "estate_urban": 0,
+      "rural": 143631,
+      "estate_rural": 0
     },
     "total_value": 172312
   },
@@ -148,10 +148,10 @@
     "region_name": "Mullaitivu",
     "region_ent_type": "district",
     "values": {
-      "population_urban": 0,
-      "population_estate_urban": 0,
-      "population_rural": 122619,
-      "population_estate_rural": 0
+      "urban": 0,
+      "estate_urban": 0,
+      "rural": 122619,
+      "estate_rural": 0
     },
     "total_value": 122619
   },
@@ -160,10 +160,10 @@
     "region_name": "Kilinochchi",
     "region_ent_type": "district",
     "values": {
-      "population_urban": 0,
-      "population_estate_urban": 0,
-      "population_rural": 136710,
-      "population_estate_rural": 0
+      "urban": 0,
+      "estate_urban": 0,
+      "rural": 136710,
+      "estate_rural": 0
     },
     "total_value": 136710
   },
@@ -172,10 +172,10 @@
     "region_name": "Batticaloa",
     "region_ent_type": "district",
     "values": {
-      "population_urban": 166369,
-      "population_estate_urban": 0,
-      "population_rural": 429549,
-      "population_estate_rural": 0
+      "urban": 166369,
+      "estate_urban": 0,
+      "rural": 429549,
+      "estate_rural": 0
     },
     "total_value": 595918
   },
@@ -184,10 +184,10 @@
     "region_name": "Ampara",
     "region_ent_type": "district",
     "values": {
-      "population_urban": 175516,
-      "population_estate_urban": 0,
-      "population_rural": 569035,
-      "population_estate_rural": 0
+      "urban": 175516,
+      "estate_urban": 0,
+      "rural": 569035,
+      "estate_rural": 0
     },
     "total_value": 744551
   },
@@ -196,10 +196,10 @@
     "region_name": "Trincomalee",
     "region_ent_type": "district",
     "values": {
-      "population_urban": 95599,
-      "population_estate_urban": 0,
-      "population_rural": 347146,
-      "population_estate_rural": 0
+      "urban": 95599,
+      "estate_urban": 0,
+      "rural": 347146,
+      "estate_rural": 0
     },
     "total_value": 442745
   },
@@ -208,10 +208,10 @@
     "region_name": "Kurunegala",
     "region_ent_type": "district",
     "values": {
-      "population_urban": 31023,
-      "population_estate_urban": 0,
-      "population_rural": 1731422,
-      "population_estate_rural": 5711
+      "urban": 31023,
+      "estate_urban": 0,
+      "rural": 1731422,
+      "estate_rural": 5711
     },
     "total_value": 1768156
   },
@@ -220,10 +220,10 @@
     "region_name": "Puttalam",
     "region_ent_type": "district",
     "values": {
-      "population_urban": 70747,
-      "population_estate_urban": 0,
-      "population_rural": 747062,
-      "population_estate_rural": 1007
+      "urban": 70747,
+      "estate_urban": 0,
+      "rural": 747062,
+      "estate_rural": 1007
     },
     "total_value": 818816
   },
@@ -232,10 +232,10 @@
     "region_name": "Anuradhapura",
     "region_ent_type": "district",
     "values": {
-      "population_urban": 52737,
-      "population_estate_urban": 0,
-      "population_rural": 906885,
-      "population_estate_rural": 458
+      "urban": 52737,
+      "estate_urban": 0,
+      "rural": 906885,
+      "estate_rural": 458
     },
     "total_value": 960080
   },
@@ -244,10 +244,10 @@
     "region_name": "Polonnaruwa",
     "region_ent_type": "district",
     "values": {
-      "population_urban": 37320,
-      "population_estate_urban": 0,
-      "population_rural": 410210,
-      "population_estate_rural": 0
+      "urban": 37320,
+      "estate_urban": 0,
+      "rural": 410210,
+      "estate_rural": 0
     },
     "total_value": 447530
   },
@@ -256,10 +256,10 @@
     "region_name": "Badulla",
     "region_ent_type": "district",
     "values": {
-      "population_urban": 72155,
-      "population_estate_urban": 175,
-      "population_rural": 645548,
-      "population_estate_rural": 154429
+      "urban": 72155,
+      "estate_urban": 175,
+      "rural": 645548,
+      "estate_rural": 154429
     },
     "total_value": 872307
   },
@@ -268,10 +268,10 @@
     "region_name": "Monaragala",
     "region_ent_type": "district",
     "values": {
-      "population_urban": 0,
-      "population_estate_urban": 0,
-      "population_rural": 518967,
-      "population_estate_rural": 8618
+      "urban": 0,
+      "estate_urban": 0,
+      "rural": 518967,
+      "estate_rural": 8618
     },
     "total_value": 527585
   },
@@ -280,10 +280,10 @@
     "region_name": "Ratnapura",
     "region_ent_type": "district",
     "values": {
-      "population_urban": 109964,
-      "population_estate_urban": 1248,
-      "population_rural": 938488,
-      "population_estate_rural": 95723
+      "urban": 109964,
+      "estate_urban": 1248,
+      "rural": 938488,
+      "estate_rural": 95723
     },
     "total_value": 1145423
   },
@@ -292,10 +292,10 @@
     "region_name": "Kegalle",
     "region_ent_type": "district",
     "values": {
-      "population_urban": 16250,
-      "population_estate_urban": 0,
-      "population_rural": 800920,
-      "population_estate_rural": 53306
+      "urban": 16250,
+      "estate_urban": 0,
+      "rural": 800920,
+      "estate_rural": 53306
     },
     "total_value": 870476
   },
@@ -304,10 +304,10 @@
     "region_name": "Sri Lanka",
     "region_ent_type": "country",
     "values": {
-      "population_urban": 3807135,
-      "population_estate_urban": 12068,
-      "population_rural": 17096918,
-      "population_estate_rural": 865679
+      "urban": 3807135,
+      "estate_urban": 12068,
+      "rural": 17096918,
+      "estate_rural": 865679
     },
     "total_value": 21781800
   },
@@ -316,10 +316,10 @@
     "region_name": "Western",
     "region_ent_type": "province",
     "values": {
-      "population_urban": 2273602,
-      "population_estate_urban": 4738,
-      "population_rural": 3799918,
-      "population_estate_rural": 39083
+      "urban": 2273602,
+      "estate_urban": 4738,
+      "rural": 3799918,
+      "estate_rural": 39083
     },
     "total_value": 6117341
   },
@@ -328,10 +328,10 @@
     "region_name": "Central",
     "region_ent_type": "province",
     "values": {
-      "population_urban": 270913,
-      "population_estate_urban": 5907,
-      "population_rural": 1964086,
-      "population_estate_rural": 473139
+      "urban": 270913,
+      "estate_urban": 5907,
+      "rural": 1964086,
+      "estate_rural": 473139
     },
     "total_value": 2714045
   },
@@ -340,10 +340,10 @@
     "region_name": "Southern",
     "region_ent_type": "province",
     "values": {
-      "population_urban": 268318,
-      "population_estate_urban": 0,
-      "population_rural": 2304156,
-      "population_estate_rural": 34205
+      "urban": 268318,
+      "estate_urban": 0,
+      "rural": 2304156,
+      "estate_rural": 34205
     },
     "total_value": 2606679
   },
@@ -352,10 +352,10 @@
     "region_name": "Northern",
     "region_ent_type": "province",
     "values": {
-      "population_urban": 166622,
-      "population_estate_urban": 0,
-      "population_rural": 983526,
-      "population_estate_rural": 0
+      "urban": 166622,
+      "estate_urban": 0,
+      "rural": 983526,
+      "estate_rural": 0
     },
     "total_value": 1150148
   },
@@ -364,10 +364,10 @@
     "region_name": "Eastern",
     "region_ent_type": "province",
     "values": {
-      "population_urban": 437484,
-      "population_estate_urban": 0,
-      "population_rural": 1345730,
-      "population_estate_rural": 0
+      "urban": 437484,
+      "estate_urban": 0,
+      "rural": 1345730,
+      "estate_rural": 0
     },
     "total_value": 1783214
   },
@@ -376,10 +376,10 @@
     "region_name": "North Western",
     "region_ent_type": "province",
     "values": {
-      "population_urban": 101770,
-      "population_estate_urban": 0,
-      "population_rural": 2478484,
-      "population_estate_rural": 6718
+      "urban": 101770,
+      "estate_urban": 0,
+      "rural": 2478484,
+      "estate_rural": 6718
     },
     "total_value": 2586972
   },
@@ -388,10 +388,10 @@
     "region_name": "North Central",
     "region_ent_type": "province",
     "values": {
-      "population_urban": 90057,
-      "population_estate_urban": 0,
-      "population_rural": 1317095,
-      "population_estate_rural": 458
+      "urban": 90057,
+      "estate_urban": 0,
+      "rural": 1317095,
+      "estate_rural": 458
     },
     "total_value": 1407610
   },
@@ -400,10 +400,10 @@
     "region_name": "Uva",
     "region_ent_type": "province",
     "values": {
-      "population_urban": 72155,
-      "population_estate_urban": 175,
-      "population_rural": 1164515,
-      "population_estate_rural": 163047
+      "urban": 72155,
+      "estate_urban": 175,
+      "rural": 1164515,
+      "estate_rural": 163047
     },
     "total_value": 1399892
   },
@@ -412,10 +412,10 @@
     "region_name": "Sabaragamuwa",
     "region_ent_type": "province",
     "values": {
-      "population_urban": 126214,
-      "population_estate_urban": 1248,
-      "population_rural": 1739408,
-      "population_estate_rural": 149029
+      "urban": 126214,
+      "estate_urban": 1248,
+      "rural": 1739408,
+      "estate_rural": 149029
     },
     "total_value": 2015899
   },
@@ -424,10 +424,10 @@
     "region_name": "Colombo",
     "region_ent_type": "ed",
     "values": {
-      "population_urban": 1773222,
-      "population_estate_urban": 3874,
-      "population_rural": 593669,
-      "population_estate_rural": 4650
+      "urban": 1773222,
+      "estate_urban": 3874,
+      "rural": 593669,
+      "estate_rural": 4650
     },
     "total_value": 2375415
   },
@@ -436,10 +436,10 @@
     "region_name": "Gampaha",
     "region_ent_type": "ed",
     "values": {
-      "population_urban": 350441,
-      "population_estate_urban": 0,
-      "population_rural": 2085307,
-      "population_estate_rural": 394
+      "urban": 350441,
+      "estate_urban": 0,
+      "rural": 2085307,
+      "estate_rural": 394
     },
     "total_value": 2436142
   },
@@ -448,10 +448,10 @@
     "region_name": "Kalutara",
     "region_ent_type": "ed",
     "values": {
-      "population_urban": 149939,
-      "population_estate_urban": 864,
-      "population_rural": 1120942,
-      "population_estate_rural": 34039
+      "urban": 149939,
+      "estate_urban": 864,
+      "rural": 1120942,
+      "estate_rural": 34039
     },
     "total_value": 1305784
   },
@@ -460,10 +460,10 @@
     "region_name": "Kandy",
     "region_ent_type": "ed",
     "values": {
-      "population_urban": 171416,
-      "population_estate_urban": 241,
-      "population_rural": 1208607,
-      "population_estate_rural": 81631
+      "urban": 171416,
+      "estate_urban": 241,
+      "rural": 1208607,
+      "estate_rural": 81631
     },
     "total_value": 1461895
   },
@@ -472,10 +472,10 @@
     "region_name": "Matale",
     "region_ent_type": "ed",
     "values": {
-      "population_urban": 62848,
-      "population_estate_urban": 0,
-      "population_rural": 447122,
-      "population_estate_rural": 16900
+      "urban": 62848,
+      "estate_urban": 0,
+      "rural": 447122,
+      "estate_rural": 16900
     },
     "total_value": 526870
   },
@@ -484,10 +484,10 @@
     "region_name": "Nuwara-Eliya",
     "region_ent_type": "ed",
     "values": {
-      "population_urban": 36649,
-      "population_estate_urban": 5666,
-      "population_rural": 308357,
-      "population_estate_rural": 374608
+      "urban": 36649,
+      "estate_urban": 5666,
+      "rural": 308357,
+      "estate_rural": 374608
     },
     "total_value": 725280
   },
@@ -496,10 +496,10 @@
     "region_name": "Galle",
     "region_ent_type": "ed",
     "values": {
-      "population_urban": 135514,
-      "population_estate_urban": 0,
-      "population_rural": 944811,
-      "population_estate_rural": 17047
+      "urban": 135514,
+      "estate_urban": 0,
+      "rural": 944811,
+      "estate_rural": 17047
     },
     "total_value": 1097372
   },
@@ -508,10 +508,10 @@
     "region_name": "Matara",
     "region_ent_type": "ed",
     "values": {
-      "population_urban": 98886,
-      "population_estate_urban": 0,
-      "population_rural": 721903,
-      "population_estate_rural": 17100
+      "urban": 98886,
+      "estate_urban": 0,
+      "rural": 721903,
+      "estate_rural": 17100
     },
     "total_value": 837889
   },
@@ -520,10 +520,10 @@
     "region_name": "Hambantota",
     "region_ent_type": "ed",
     "values": {
-      "population_urban": 33918,
-      "population_estate_urban": 0,
-      "population_rural": 637442,
-      "population_estate_rural": 58
+      "urban": 33918,
+      "estate_urban": 0,
+      "rural": 637442,
+      "estate_rural": 58
     },
     "total_value": 671418
   },
@@ -532,10 +532,10 @@
     "region_name": "Jaffna",
     "region_ent_type": "ed",
     "values": {
-      "population_urban": 113821,
-      "population_estate_urban": 0,
-      "population_rural": 617640,
-      "population_estate_rural": 0
+      "urban": 113821,
+      "estate_urban": 0,
+      "rural": 617640,
+      "estate_rural": 0
     },
     "total_value": 731461
   },
@@ -544,10 +544,10 @@
     "region_name": "Vanni",
     "region_ent_type": "ed",
     "values": {
-      "population_urban": 52801,
-      "population_estate_urban": 0,
-      "population_rural": 365886,
-      "population_estate_rural": 0
+      "urban": 52801,
+      "estate_urban": 0,
+      "rural": 365886,
+      "estate_rural": 0
     },
     "total_value": 418687
   },
@@ -556,10 +556,10 @@
     "region_name": "Batticaloa",
     "region_ent_type": "ed",
     "values": {
-      "population_urban": 166369,
-      "population_estate_urban": 0,
-      "population_rural": 429549,
-      "population_estate_rural": 0
+      "urban": 166369,
+      "estate_urban": 0,
+      "rural": 429549,
+      "estate_rural": 0
     },
     "total_value": 595918
   },
@@ -568,10 +568,10 @@
     "region_name": "Digamadulla",
     "region_ent_type": "ed",
     "values": {
-      "population_urban": 175516,
-      "population_estate_urban": 0,
-      "population_rural": 569035,
-      "population_estate_rural": 0
+      "urban": 175516,
+      "estate_urban": 0,
+      "rural": 569035,
+      "estate_rural": 0
     },
     "total_value": 744551
   },
@@ -580,10 +580,10 @@
     "region_name": "Trincomalee",
     "region_ent_type": "ed",
     "values": {
-      "population_urban": 95599,
-      "population_estate_urban": 0,
-      "population_rural": 347146,
-      "population_estate_rural": 0
+      "urban": 95599,
+      "estate_urban": 0,
+      "rural": 347146,
+      "estate_rural": 0
     },
     "total_value": 442745
   },
@@ -592,10 +592,10 @@
     "region_name": "Kurunegala",
     "region_ent_type": "ed",
     "values": {
-      "population_urban": 31023,
-      "population_estate_urban": 0,
-      "population_rural": 1731422,
-      "population_estate_rural": 5711
+      "urban": 31023,
+      "estate_urban": 0,
+      "rural": 1731422,
+      "estate_rural": 5711
     },
     "total_value": 1768156
   },
@@ -604,10 +604,10 @@
     "region_name": "Puttalam",
     "region_ent_type": "ed",
     "values": {
-      "population_urban": 70747,
-      "population_estate_urban": 0,
-      "population_rural": 747062,
-      "population_estate_rural": 1007
+      "urban": 70747,
+      "estate_urban": 0,
+      "rural": 747062,
+      "estate_rural": 1007
     },
     "total_value": 818816
   },
@@ -616,10 +616,10 @@
     "region_name": "Anuradhapura",
     "region_ent_type": "ed",
     "values": {
-      "population_urban": 52737,
-      "population_estate_urban": 0,
-      "population_rural": 906885,
-      "population_estate_rural": 458
+      "urban": 52737,
+      "estate_urban": 0,
+      "rural": 906885,
+      "estate_rural": 458
     },
     "total_value": 960080
   },
@@ -628,10 +628,10 @@
     "region_name": "Polonnaruwa",
     "region_ent_type": "ed",
     "values": {
-      "population_urban": 37320,
-      "population_estate_urban": 0,
-      "population_rural": 410210,
-      "population_estate_rural": 0
+      "urban": 37320,
+      "estate_urban": 0,
+      "rural": 410210,
+      "estate_rural": 0
     },
     "total_value": 447530
   },
@@ -640,10 +640,10 @@
     "region_name": "Badulla",
     "region_ent_type": "ed",
     "values": {
-      "population_urban": 72155,
-      "population_estate_urban": 175,
-      "population_rural": 645548,
-      "population_estate_rural": 154429
+      "urban": 72155,
+      "estate_urban": 175,
+      "rural": 645548,
+      "estate_rural": 154429
     },
     "total_value": 872307
   },
@@ -652,10 +652,10 @@
     "region_name": "Moneragala",
     "region_ent_type": "ed",
     "values": {
-      "population_urban": 0,
-      "population_estate_urban": 0,
-      "population_rural": 518967,
-      "population_estate_rural": 8618
+      "urban": 0,
+      "estate_urban": 0,
+      "rural": 518967,
+      "estate_rural": 8618
     },
     "total_value": 527585
   },
@@ -664,10 +664,10 @@
     "region_name": "Ratnapura",
     "region_ent_type": "ed",
     "values": {
-      "population_urban": 109964,
-      "population_estate_urban": 1248,
-      "population_rural": 938488,
-      "population_estate_rural": 95723
+      "urban": 109964,
+      "estate_urban": 1248,
+      "rural": 938488,
+      "estate_rural": 95723
     },
     "total_value": 1145423
   },
@@ -676,10 +676,10 @@
     "region_name": "Kegalle",
     "region_ent_type": "ed",
     "values": {
-      "population_urban": 16250,
-      "population_estate_urban": 0,
-      "population_rural": 800920,
-      "population_estate_rural": 53306
+      "urban": 16250,
+      "estate_urban": 0,
+      "rural": 800920,
+      "estate_rural": 53306
     },
     "total_value": 870476
   }

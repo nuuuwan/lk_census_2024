@@ -1,6 +1,6 @@
 [
   {
-    "null": "05 - 10",
+    "age_group": "05 - 10",
     "values": {
       "total": 1893872,
       "total_in_school": 1578999,
@@ -11,7 +11,7 @@
     }
   },
   {
-    "null": "11 - 14",
+    "age_group": "11 - 14",
     "values": {
       "total": 1397847,
       "total_in_school": 1329915,
@@ -22,7 +22,7 @@
     }
   },
   {
-    "null": "15 - 16",
+    "age_group": "15 - 16",
     "values": {
       "total": 720137,
       "total_in_school": 658982,
@@ -33,7 +33,7 @@
     }
   },
   {
-    "null": "17 - 18",
+    "age_group": "17 - 18",
     "values": {
       "total": 726524,
       "total_in_school": 488622,
@@ -44,7 +44,7 @@
     }
   },
   {
-    "null": "19 - 24",
+    "age_group": "19 - 24",
     "values": {
       "total": 1956983,
       "total_in_school": 294707,

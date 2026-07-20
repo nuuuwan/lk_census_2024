@@ -30,21 +30,6 @@
     }
   },
   {
-    "education": "Studied/ Studying at the special  school/special educational unit",
-    "values": {
-      "p_diabetes": 0.08,
-      "p_high_cholesterol": 0.06,
-      "p_high_blood_pressure": 0.068,
-      "p_heart_disease": 0.019,
-      "p_kidney_disease": 0.006,
-      "p_thalassemia": 0.002,
-      "p_cancer": 0.002,
-      "p_stroke": 0.011,
-      "p_asthma": 0.016,
-      "p_epilepsy": 0.036
-    }
-  },
-  {
     "education": "Passed grade 1 - 5",
     "values": {
       "p_diabetes": 0.201,

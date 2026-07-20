@@ -79,7 +79,7 @@
 ...
 ```
 
-- Source File: [data.json (7.0 KB)](../../../../data/final-report-tables/chapter-3/3.4-Population-Density-by-District,-1981,-2001,-2012-and-2024/data.json)
+- Source File: [data.json (6.7 KB)](../../../../data/final-report-tables/chapter-3/3.4-Population-Density-by-District,-1981,-2001,-2012-and-2024/data.json)
 
 ## Raw Data (directly scraped from PDF)
 

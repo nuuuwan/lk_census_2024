@@ -1,7 +1,7 @@
 # Housing-Floor
 
 ![CPH](https://img.shields.io/badge/CPH-2024-blue)
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--07--14-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--07--20-green)
 
 *Housing-Floor, 2024 Census of Population and Housing, Department of Census and Statistics, Sri Lanka*
 
@@ -41,7 +41,7 @@
 ...
 ```
 
-- Source File: [data.json (5.5 MB)](../../data/Housing-Floor/data.json)
+- Source File: [data/Housing-Floor/data.json (5.2 MB)](../../data/Housing-Floor/data.json)
 
 ## Structured TSV Data (similar to original layout) - First 20 rows
 
@@ -68,7 +68,7 @@
 | EC-03 | Kalutara | ed | 349430 | 195577 | 129607 | 21626 | 2334 | 109 | 105 | 27 | 45 |
 | LK-91 | Ratnapura | district | 324853 | 214822 | 69734 | 28715 | 11298 | 101 | 105 | 62 | 16 |
 
-- Source File: [data.tsv (802.5 kB)](../../data/Housing-Floor/data.tsv)
+- Source File: [data/Housing-Floor/data.tsv (783.7 KB)](../../data/Housing-Floor/data.tsv)
 
 ## Source
 

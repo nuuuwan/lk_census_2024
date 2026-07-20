@@ -1,67 +1,67 @@
 {
   "Person": {
     "Time:2024": {
-      "HighestEducationLevel2:NeverAttendedSchool": {
-        "Sex:Male": {
+      "HighestEducationLevel2:never_attended_school": {
+        "Sex:male": {
           "EmployedCount": "Int:67915"
         },
-        "Sex:Female": {
+        "Sex:female": {
           "EmployedCount": "Int:49378"
         }
       },
-      "HighestEducationLevel2:StudiedInASpecialSchoolOrSpecialUnit": {
-        "Sex:Male": {
+      "HighestEducationLevel2:studied_in_a_special_school_or_special_unit": {
+        "Sex:male": {
           "EmployedCount": "Int:3923"
         },
-        "Sex:Female": {
+        "Sex:female": {
           "EmployedCount": "Int:2719"
         }
       },
-      "HighestEducationLevel2:PassedGrade15": {
-        "Sex:Male": {
+      "HighestEducationLevel2:passed_grade_1_5": {
+        "Sex:male": {
           "EmployedCount": "Int:493163"
         },
-        "Sex:Female": {
+        "Sex:female": {
           "EmployedCount": "Int:183967"
         }
       },
-      "HighestEducationLevel2:PassedGrade68": {
-        "Sex:Male": {
+      "HighestEducationLevel2:passed_grade_6_8": {
+        "Sex:male": {
           "EmployedCount": "Int:618673"
         },
-        "Sex:Female": {
+        "Sex:female": {
           "EmployedCount": "Int:171412"
         }
       },
-      "HighestEducationLevel2:PassedGrade910": {
-        "Sex:Male": {
+      "HighestEducationLevel2:passed_grade_9_10": {
+        "Sex:male": {
           "EmployedCount": "Int:1536837"
         },
-        "Sex:Female": {
+        "Sex:female": {
           "EmployedCount": "Int:486618"
         }
       },
-      "HighestEducationLevel2:PassedGceOOrL": {
-        "Sex:Male": {
+      "HighestEducationLevel2:passed_gce_o_or_l": {
+        "Sex:male": {
           "EmployedCount": "Int:1288859"
         },
-        "Sex:Female": {
+        "Sex:female": {
           "EmployedCount": "Int:430468"
         }
       },
-      "HighestEducationLevel2:PassedGceAOrL": {
-        "Sex:Male": {
+      "HighestEducationLevel2:passed_gce_a_or_l": {
+        "Sex:male": {
           "EmployedCount": "Int:982912"
         },
-        "Sex:Female": {
+        "Sex:female": {
           "EmployedCount": "Int:621725"
         }
       },
-      "HighestEducationLevel2:DegreeOrAbove": {
-        "Sex:Male": {
+      "HighestEducationLevel2:degree_or_above": {
+        "Sex:male": {
           "EmployedCount": "Int:325421"
         },
-        "Sex:Female": {
+        "Sex:female": {
           "EmployedCount": "Int:407242"
         }
       }

@@ -72,7 +72,7 @@
     {
         "region_id": "LK-12-Negombo",
         "region_name": "Negombo",
-        "region_ent_type": "district",
+        "region_ent_type": "unknown",
         "values": {
             "is_in_1871": false,
             "is_in_1881": true,
@@ -116,7 +116,7 @@
         "1921",
 ...
 ```
-- Source File: [raw_data.json (6.7 KB)](../../../../data/final-report-tables/chapter-2/2.1-Evolution-of-the-Number-of-Administrative-Districts-In-Sri-Lanka-from-1871-to-2024/raw_data.json)
+- Source File: [raw_data.json (5.4 KB)](../../../../data/final-report-tables/chapter-2/2.1-Evolution-of-the-Number-of-Administrative-Districts-In-Sri-Lanka-from-1871-to-2024/raw_data.json)
 
 ## Original PDF Page
 

@@ -1,19 +1,19 @@
 {
   "Person": {
     "Time:2024": {
-      "Sex:Male": {
-        "IsEconomicallyActive:EconomicallyActive": {
+      "Sex:male": {
+        "IsEconomicallyActive:economically_active": {
           "Count": "Int:5550374"
         },
-        "IsEconomicallyActive:EconomicallyInactive": {
+        "IsEconomicallyActive:economically_inactive": {
           "Count": "Int:2681440"
         }
       },
-      "Sex:Female": {
-        "IsEconomicallyActive:EconomicallyActive": {
+      "Sex:female": {
+        "IsEconomicallyActive:economically_active": {
           "Count": "Int:2612567"
         },
-        "IsEconomicallyActive:EconomicallyInactive": {
+        "IsEconomicallyActive:economically_inactive": {
           "Count": "Int:6430580"
         }
       }

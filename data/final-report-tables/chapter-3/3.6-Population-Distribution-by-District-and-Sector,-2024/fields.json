@@ -2,14 +2,14 @@
   "other_keys": [
     "_total_population",
     "_p_total_population",
-    "population_urban",
-    "_p_population_urban",
-    "population_estate_urban",
-    "_p_population_estate_urban",
-    "population_rural",
-    "_p_population_rural",
-    "population_estate_rural",
-    "_p_population_estate_rural"
+    "urban",
+    "_p_urban",
+    "estate_urban",
+    "_p_estate_urban",
+    "rural",
+    "_p_rural",
+    "estate_rural",
+    "_p_estate_rural"
   ],
   "entity_class_name": "Person",
   "time_value": "2024",

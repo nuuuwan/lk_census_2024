@@ -1,19 +1,19 @@
 {
   "Person": {
     "Time:2024": {
-      "SourceOfDrinkingWater:UnprotectedWell": {
+      "SourceOfDrinkingWater:unprotected_well": {
         "Count": "Int:77806"
       },
-      "SourceOfDrinkingWater:TubeWell": {
+      "SourceOfDrinkingWater:tube_well": {
         "Count": "Int:270401"
       },
-      "SourceOfDrinkingWater:BottledWater": {
+      "SourceOfDrinkingWater:bottled_water": {
         "Count": "Int:63753"
       },
-      "SourceOfDrinkingWater:Bowser": {
+      "SourceOfDrinkingWater:bowser": {
         "Count": "Int:31208"
       },
-      "SourceOfDrinkingWater:Other": {
+      "SourceOfDrinkingWater:other": {
         "Count": "Int:761"
       }
     }

@@ -1,7 +1,7 @@
 # Population-Religion
 
 ![CPH](https://img.shields.io/badge/CPH-2024-blue)
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--07--14-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--07--20-green)
 
 *Population-Religion, 2024 Census of Population and Housing, Department of Census and Statistics, Sri Lanka*
 
@@ -41,7 +41,7 @@
 ...
 ```
 
-- Source File: [data.json (4.7 MB)](../../data/Population-Religion/data.json)
+- Source File: [Population-Religion/data.json (4.5 MB)](../../data/Population-Religion/data.json)
 
 ## Structured TSV Data (similar to original layout) - First 20 rows
 
@@ -68,7 +68,7 @@
 | EC-03 | Kalutara | ed | 1305784 | 1080602 | 41110 | 137464 | 35550 | 6599 | 4459 |
 | LK-4 | Northern | province | 1150148 | 32374 | 829092 | 59860 | 175462 | 49827 | 3533 |
 
-- Source File: [data.tsv (753.6 kB)](../../data/Population-Religion/data.tsv)
+- Source File: [Population-Religion/data.tsv (736.0 KB)](../../data/Population-Religion/data.tsv)
 
 ## Source
 

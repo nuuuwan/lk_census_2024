@@ -1,27 +1,24 @@
 {
   "Person": {
     "Time:2024": {
-      "HighestEducationLevel:DegreeAndAbove": {
-        "DisabilityTypes:DifficultyInSeeing": {
+      "HighestEducationLevel:degree_and_above": {
+        "DisabilityTypes:difficulty_in_seeing": {
           "Count": "Int:2316"
         },
-        "DisabilityTypes:DifficultyInHearing": {
+        "DisabilityTypes:difficulty_in_hearing": {
           "Count": "Int:1002"
         },
-        "DisabilityTypes:DifficultyInWalkingOrClimbingSteps": {
+        "DisabilityTypes:difficulty_in_walking_or_climbing_steps": {
           "Count": "Int:5300"
         },
-        "DisabilityTypes:DifficultyInRememberingOrConcentrating": {
+        "DisabilityTypes:difficulty_in_remembering_or_concentrating": {
           "Count": "Int:1338"
         },
-        "DisabilityTypes:DifficultyInSelfcareSuchAsWashingOrDressing": {
+        "DisabilityTypes:difficulty_in_selfcare_such_as_washing_or_dressing": {
           "Count": "Int:2206"
         },
-        "DisabilityTypes:DifficultyInCommunicatingWithOthers": {
+        "DisabilityTypes:difficulty_in_communicating_with_others": {
           "Count": "Int:906"
-        },
-        "DisabilityTypes:NoDisability": {
-          "Count": "Int:1009520"
         }
       }
     }

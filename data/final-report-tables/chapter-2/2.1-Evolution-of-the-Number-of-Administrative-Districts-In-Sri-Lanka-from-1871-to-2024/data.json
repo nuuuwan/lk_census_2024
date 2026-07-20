@@ -24,7 +24,7 @@
   {
     "region_id": "LK-12-Negombo",
     "region_name": "Negombo",
-    "region_ent_type": "district",
+    "region_ent_type": "unknown",
     "values": {
       "is_in_1871": false,
       "is_in_1881": true,
@@ -464,7 +464,7 @@
   {
     "region_id": "LK-62-Chilaw",
     "region_name": "Chilaw",
-    "region_ent_type": "district",
+    "region_ent_type": "unknown",
     "values": {
       "is_in_1871": false,
       "is_in_1881": false,

@@ -45,21 +45,6 @@
     }
   },
   {
-    "ethnicity": "Indian Tamil/Malaiyaga  Thamilar",
-    "values": {
-      "p_diabetes": 0.046,
-      "p_high_cholesterol": 0.035,
-      "p_high_blood_pressure": 0.085,
-      "p_heart_disease": 0.024,
-      "p_kidney_disease": 0.005,
-      "p_thalassemia": 0.001,
-      "p_cancer": 0.003,
-      "p_stroke": 0.009,
-      "p_asthma": 0.024,
-      "p_epilepsy": 0.006
-    }
-  },
-  {
     "ethnicity": "Sri Lanka Moor/ Muslim",
     "values": {
       "p_diabetes": 0.092,

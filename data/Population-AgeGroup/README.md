@@ -1,7 +1,7 @@
 # Population-AgeGroup
 
 ![CPH](https://img.shields.io/badge/CPH-2024-blue)
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--07--14-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--07--20-green)
 
 *Population-AgeGroup, 2024 Census of Population and Housing, Department of Census and Statistics, Sri Lanka*
 
@@ -41,7 +41,7 @@
 ...
 ```
 
-- Source File: [data.json (8.5 MB)](../../data/Population-AgeGroup/data.json)
+- Source File: [Population-AgeGroup/data.json (8.1 MB)](../../data/Population-AgeGroup/data.json)
 
 ## Structured TSV Data (similar to original layout) - First 20 rows
 
@@ -68,7 +68,7 @@
 | EC-03 | Kalutara | ed | 1305784 | 66039 | 88094 | 99974 | 106859 | 97086 | 81499 | 80115 | 84583 | 97951 | 94357 | 85676 | 78676 | 70067 | 59043 | 49527 | 34952 | 19303 | 8352 | 2950 | 681 |
 | LK-4 | Northern | province | 1150148 | 73293 | 79675 | 90800 | 96680 | 98803 | 88553 | 83444 | 77294 | 81599 | 73899 | 60386 | 54470 | 54236 | 47215 | 41357 | 27932 | 13342 | 5195 | 1675 | 300 |
 
-- Source File: [data.tsv (1.5 MB)](../../data/Population-AgeGroup/data.tsv)
+- Source File: [Population-AgeGroup/data.tsv (1.4 MB)](../../data/Population-AgeGroup/data.tsv)
 
 ## Source
 

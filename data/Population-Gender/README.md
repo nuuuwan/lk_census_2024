@@ -1,7 +1,7 @@
 # Population-Gender
 
 ![CPH](https://img.shields.io/badge/CPH-2024-blue)
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--07--14-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--07--20-green)
 
 *Population-Gender, 2024 Census of Population and Housing, Department of Census and Statistics, Sri Lanka*
 
@@ -41,7 +41,7 @@
 ...
 ```
 
-- Source File: [data.json (3.3 MB)](../../data/Population-Gender/data.json)
+- Source File: [Population-Gender/data.json (3.2 MB)](../../data/Population-Gender/data.json)
 
 ## Structured TSV Data (similar to original layout) - First 20 rows
 
@@ -68,7 +68,7 @@
 | EC-03 | Kalutara | ed | 1305784 | 631106 | 674678 |
 | LK-4 | Northern | province | 1150148 | 551273 | 598875 |
 
-- Source File: [data.tsv (629.5 kB)](../../data/Population-Gender/data.tsv)
+- Source File: [Population-Gender/data.tsv (614.7 KB)](../../data/Population-Gender/data.tsv)
 
 ## Source
 

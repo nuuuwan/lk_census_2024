@@ -1,20 +1,5 @@
 [
   {
-    "employment_status": "Employed population aged 15  and over",
-    "values": {
-      "p_diabetes": 0.078,
-      "p_high_cholesterol": 0.071,
-      "p_high_blood_pressure": 0.079,
-      "p_heart_disease": 0.021,
-      "p_kidney_disease": 0.006,
-      "p_thalassemia": 0.001,
-      "p_cancer": 0.002,
-      "p_stroke": 0.002,
-      "p_asthma": 0.015,
-      "p_epilepsy": 0.002
-    }
-  },
-  {
     "employment_status": "Government paid employee",
     "values": {
       "p_diabetes": 0.061,
@@ -26,21 +11,6 @@
       "p_cancer": 0.002,
       "p_stroke": 0.001,
       "p_asthma": 0.007,
-      "p_epilepsy": 0.001
-    }
-  },
-  {
-    "employment_status": "Semi government paid  employee",
-    "values": {
-      "p_diabetes": 0.076,
-      "p_high_cholesterol": 0.069,
-      "p_high_blood_pressure": 0.065,
-      "p_heart_disease": 0.015,
-      "p_kidney_disease": 0.003,
-      "p_thalassemia": 0.0,
-      "p_cancer": 0.002,
-      "p_stroke": 0.001,
-      "p_asthma": 0.009,
       "p_epilepsy": 0.001
     }
   },
@@ -72,36 +42,6 @@
       "p_stroke": 0.002,
       "p_asthma": 0.009,
       "p_epilepsy": 0.001
-    }
-  },
-  {
-    "employment_status": "Own account worker   (don't have employees)",
-    "values": {
-      "p_diabetes": 0.104,
-      "p_high_cholesterol": 0.096,
-      "p_high_blood_pressure": 0.11,
-      "p_heart_disease": 0.032,
-      "p_kidney_disease": 0.011,
-      "p_thalassemia": 0.001,
-      "p_cancer": 0.003,
-      "p_stroke": 0.003,
-      "p_asthma": 0.02,
-      "p_epilepsy": 0.003
-    }
-  },
-  {
-    "employment_status": "Contributing to family enterprise  (unpaid family worker)",
-    "values": {
-      "p_diabetes": 0.096,
-      "p_high_cholesterol": 0.107,
-      "p_high_blood_pressure": 0.134,
-      "p_heart_disease": 0.028,
-      "p_kidney_disease": 0.011,
-      "p_thalassemia": 0.001,
-      "p_cancer": 0.004,
-      "p_stroke": 0.002,
-      "p_asthma": 0.025,
-      "p_epilepsy": 0.003
     }
   }
 ]

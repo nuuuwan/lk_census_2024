@@ -1,7 +1,7 @@
 # Housing-Cooking-Fuel
 
 ![CPH](https://img.shields.io/badge/CPH-2024-blue)
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--07--14-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--07--20-green)
 
 *Housing-Cooking-Fuel, 2024 Census of Population and Housing, Department of Census and Statistics, Sri Lanka*
 
@@ -41,7 +41,7 @@
 ...
 ```
 
-- Source File: [data.json (5.4 MB)](../../data/Housing-Cooking-Fuel/data.json)
+- Source File: [Housing-Cooking-Fuel/data.json (5.1 MB)](../../data/Housing-Cooking-Fuel/data.json)
 
 ## Structured TSV Data (similar to original layout) - First 20 rows
 
@@ -68,7 +68,7 @@
 | EC-03 | Kalutara | ed | 352963 | 149395 | 1394 | 197313 | 1015 | 43 | 68 | 139 | 3596 |
 | LK-91 | Ratnapura | district | 327645 | 255732 | 687 | 68039 | 493 | 19 | 11 | 67 | 2597 |
 
-- Source File: [data.tsv (789.0 kB)](../../data/Housing-Cooking-Fuel/data.tsv)
+- Source File: [Housing-Cooking-Fuel/data.tsv (770.5 KB)](../../data/Housing-Cooking-Fuel/data.tsv)
 
 ## Source
 

@@ -41,7 +41,7 @@
 ...
 ```
 
-- Source File: [lanka_data.json (27.0 KB)](../../../../data/final-report-tables/chapter-1/1.1.2-The-Questions-and-Topics-Included-in-the-Censuses-of-Sri-Lanka-1871---2024/lanka_data.json)
+- Source File: [lanka_data.json (23.8 KB)](../../../../data/final-report-tables/chapter-1/1.1.2-The-Questions-and-Topics-Included-in-the-Censuses-of-Sri-Lanka-1871---2024/lanka_data.json)
 
 ## Structured Data (similar to original layout)
 
@@ -79,7 +79,7 @@
 ...
 ```
 
-- Source File: [data.json (12.9 KB)](../../../../data/final-report-tables/chapter-1/1.1.2-The-Questions-and-Topics-Included-in-the-Censuses-of-Sri-Lanka-1871---2024/data.json)
+- Source File: [data.json (11.3 KB)](../../../../data/final-report-tables/chapter-1/1.1.2-The-Questions-and-Topics-Included-in-the-Censuses-of-Sri-Lanka-1871---2024/data.json)
 
 ## Raw Data (directly scraped from PDF)
 

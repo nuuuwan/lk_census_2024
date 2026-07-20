@@ -1,7 +1,7 @@
 # Housing-Walls
 
 ![CPH](https://img.shields.io/badge/CPH-2024-blue)
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--07--14-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--07--20-green)
 
 *Housing-Walls, 2024 Census of Population and Housing, Department of Census and Statistics, Sri Lanka*
 
@@ -41,7 +41,7 @@
 ...
 ```
 
-- Source File: [data.json (7.2 MB)](../../data/Housing-Walls/data.json)
+- Source File: [data/Housing-Walls/data.json (6.9 MB)](../../data/Housing-Walls/data.json)
 
 ## Structured TSV Data (similar to original layout) - First 20 rows
 
@@ -68,7 +68,7 @@
 | EC-03 | Kalutara | ed | 349430 | 41484 | 270654 | 3929 | 23160 | 5216 | 2258 | 18 | 2497 | 77 | 92 | 45 |
 | LK-91 | Ratnapura | district | 324853 | 76597 | 212648 | 11625 | 2766 | 7159 | 12429 | 24 | 1440 | 47 | 102 | 16 |
 
-- Source File: [data.tsv (885.4 kB)](../../data/Housing-Walls/data.tsv)
+- Source File: [data/Housing-Walls/data.tsv (864.7 KB)](../../data/Housing-Walls/data.tsv)
 
 ## Source
 

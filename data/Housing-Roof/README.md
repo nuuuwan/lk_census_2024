@@ -1,7 +1,7 @@
 # Housing-Roof
 
 ![CPH](https://img.shields.io/badge/CPH-2024-blue)
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--07--14-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--07--20-green)
 
 *Housing-Roof, 2024 Census of Population and Housing, Department of Census and Statistics, Sri Lanka*
 
@@ -41,7 +41,7 @@
 ...
 ```
 
-- Source File: [data.json (5.7 MB)](../../data/Housing-Roof/data.json)
+- Source File: [data/Housing-Roof/data.json (5.4 MB)](../../data/Housing-Roof/data.json)
 
 ## Structured TSV Data (similar to original layout) - First 20 rows
 
@@ -68,7 +68,7 @@
 | EC-03 | Kalutara | ed | 349430 | 78027 | 242605 | 19009 | 1990 | 4085 | 3602 | 67 | 45 |
 | LK-91 | Ratnapura | district | 324853 | 72797 | 213350 | 12116 | 2200 | 12752 | 11529 | 93 | 16 |
 
-- Source File: [data.tsv (805.1 kB)](../../data/Housing-Roof/data.tsv)
+- Source File: [data/Housing-Roof/data.tsv (786.2 KB)](../../data/Housing-Roof/data.tsv)
 
 ## Source
 

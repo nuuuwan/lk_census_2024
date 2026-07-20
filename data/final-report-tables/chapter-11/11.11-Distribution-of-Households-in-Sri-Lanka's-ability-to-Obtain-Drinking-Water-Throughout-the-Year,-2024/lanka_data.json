@@ -1,27 +1,27 @@
 {
   "Person": {
     "Time:2024": {
-      "SourceOfDrinkingWater:GroundWater": {
-        "WaterSupplyAvailability:HouseholdsWithWaterSupplyThroughoutTheYear": {
+      "SourceOfDrinkingWater:ground_water": {
+        "WaterSupplyAvailability:households_with_water_supply_throughout_the_year": {
           "Count": "Int:2361822"
         },
-        "WaterSupplyAvailability:HouseholdsWithNoWaterSuppplyForAtLeastOneMonth": {
+        "WaterSupplyAvailability:households_with_no_water_suppply_for_at_least_one_month": {
           "Count": "Int:108486"
         }
       },
-      "SourceOfDrinkingWater:PipeBorneWater": {
-        "WaterSupplyAvailability:HouseholdsWithWaterSupplyThroughoutTheYear": {
+      "SourceOfDrinkingWater:pipe_borne_water": {
+        "WaterSupplyAvailability:households_with_water_supply_throughout_the_year": {
           "Count": "Int:2959509"
         },
-        "WaterSupplyAvailability:HouseholdsWithNoWaterSuppplyForAtLeastOneMonth": {
+        "WaterSupplyAvailability:households_with_no_water_suppply_for_at_least_one_month": {
           "Count": "Int:65245"
         }
       },
-      "SourceOfDrinkingWater:Other": {
-        "WaterSupplyAvailability:HouseholdsWithWaterSupplyThroughoutTheYear": {
+      "SourceOfDrinkingWater:other": {
+        "WaterSupplyAvailability:households_with_water_supply_throughout_the_year": {
           "Count": "Int:53210"
         },
-        "WaterSupplyAvailability:HouseholdsWithNoWaterSuppplyForAtLeastOneMonth": {
+        "WaterSupplyAvailability:households_with_no_water_suppply_for_at_least_one_month": {
           "Count": "Int:11233"
         }
       }

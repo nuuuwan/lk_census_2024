@@ -1,6 +1,6 @@
 {
   "Census": {
-    "CensusTopic:Schedule": {
+    "CensusTopic:schedule": {
       "Time:1871": {
         "WasTopicIncluded": "Bool:False"
       },
@@ -47,7 +47,7 @@
         "WasTopicIncluded": "Bool:False"
       }
     },
-    "CensusTopic:DemographicAndPersonalInformation": {
+    "CensusTopic:demographic_and_personal_information": {
       "Time:1871": {
         "WasTopicIncluded": "Bool:False"
       },
@@ -94,7 +94,7 @@
         "WasTopicIncluded": "Bool:False"
       }
     },
-    "CensusTopic:Name": {
+    "CensusTopic:name": {
       "Time:1871": {
         "WasTopicIncluded": "Bool:True"
       },
@@ -141,7 +141,7 @@
         "WasTopicIncluded": "Bool:True"
       }
     },
-    "CensusTopic:RelationshipToHeadOfTheHousehold": {
+    "CensusTopic:relationship_to_head_of_the_household": {
       "Time:1871": {
         "WasTopicIncluded": "Bool:True"
       },
@@ -188,7 +188,7 @@
         "WasTopicIncluded": "Bool:True"
       }
     },
-    "CensusTopic:Sex": {
+    "CensusTopic:sex": {
       "Time:1871": {
         "WasTopicIncluded": "Bool:True"
       },
@@ -235,7 +235,7 @@
         "WasTopicIncluded": "Bool:True"
       }
     },
-    "CensusTopic:DateOfBirth": {
+    "CensusTopic:date_of_birth": {
       "Time:1871": {
         "WasTopicIncluded": "Bool:False"
       },
@@ -282,7 +282,7 @@
         "WasTopicIncluded": "Bool:True"
       }
     },
-    "CensusTopic:Age": {
+    "CensusTopic:age": {
       "Time:1871": {
         "WasTopicIncluded": "Bool:True"
       },
@@ -329,7 +329,7 @@
         "WasTopicIncluded": "Bool:False"
       }
     },
-    "CensusTopic:MaritalStatus": {
+    "CensusTopic:marital_status": {
       "Time:1871": {
         "WasTopicIncluded": "Bool:True"
       },
@@ -376,7 +376,7 @@
         "WasTopicIncluded": "Bool:True"
       }
     },
-    "CensusTopic:EthnicGroup": {
+    "CensusTopic:religion": {
       "Time:1871": {
         "WasTopicIncluded": "Bool:True"
       },
@@ -423,54 +423,7 @@
         "WasTopicIncluded": "Bool:True"
       }
     },
-    "CensusTopic:Religion": {
-      "Time:1871": {
-        "WasTopicIncluded": "Bool:True"
-      },
-      "Time:1881": {
-        "WasTopicIncluded": "Bool:True"
-      },
-      "Time:1891": {
-        "WasTopicIncluded": "Bool:True"
-      },
-      "Time:1901": {
-        "WasTopicIncluded": "Bool:True"
-      },
-      "Time:1911": {
-        "WasTopicIncluded": "Bool:True"
-      },
-      "Time:1921": {
-        "WasTopicIncluded": "Bool:True"
-      },
-      "Time:1931": {
-        "WasTopicIncluded": "Bool:True"
-      },
-      "Time:1946": {
-        "WasTopicIncluded": "Bool:True"
-      },
-      "Time:1953": {
-        "WasTopicIncluded": "Bool:True"
-      },
-      "Time:1963": {
-        "WasTopicIncluded": "Bool:True"
-      },
-      "Time:1971": {
-        "WasTopicIncluded": "Bool:True"
-      },
-      "Time:1981": {
-        "WasTopicIncluded": "Bool:True"
-      },
-      "Time:2001": {
-        "WasTopicIncluded": "Bool:True"
-      },
-      "Time:2012": {
-        "WasTopicIncluded": "Bool:True"
-      },
-      "Time:2024": {
-        "WasTopicIncluded": "Bool:True"
-      }
-    },
-    "CensusTopic:Citizenship": {
+    "CensusTopic:citizenship": {
       "Time:1871": {
         "WasTopicIncluded": "Bool:False"
       },
@@ -517,54 +470,7 @@
         "WasTopicIncluded": "Bool:True"
       }
     },
-    "CensusTopic:NICNo": {
-      "Time:1871": {
-        "WasTopicIncluded": "Bool:False"
-      },
-      "Time:1881": {
-        "WasTopicIncluded": "Bool:False"
-      },
-      "Time:1891": {
-        "WasTopicIncluded": "Bool:False"
-      },
-      "Time:1901": {
-        "WasTopicIncluded": "Bool:False"
-      },
-      "Time:1911": {
-        "WasTopicIncluded": "Bool:False"
-      },
-      "Time:1921": {
-        "WasTopicIncluded": "Bool:False"
-      },
-      "Time:1931": {
-        "WasTopicIncluded": "Bool:False"
-      },
-      "Time:1946": {
-        "WasTopicIncluded": "Bool:False"
-      },
-      "Time:1953": {
-        "WasTopicIncluded": "Bool:False"
-      },
-      "Time:1963": {
-        "WasTopicIncluded": "Bool:False"
-      },
-      "Time:1971": {
-        "WasTopicIncluded": "Bool:False"
-      },
-      "Time:1981": {
-        "WasTopicIncluded": "Bool:False"
-      },
-      "Time:2001": {
-        "WasTopicIncluded": "Bool:False"
-      },
-      "Time:2012": {
-        "WasTopicIncluded": "Bool:True"
-      },
-      "Time:2024": {
-        "WasTopicIncluded": "Bool:True"
-      }
-    },
-    "CensusTopic:StatusOfClergyOrPriest": {
+    "CensusTopic:status_of_clergy_or_priest": {
       "Time:1871": {
         "WasTopicIncluded": "Bool:False"
       },
@@ -611,7 +517,7 @@
         "WasTopicIncluded": "Bool:True"
       }
     },
-    "CensusTopic:EducationalCharacteristics": {
+    "CensusTopic:educational_characteristics": {
       "Time:1871": {
         "WasTopicIncluded": "Bool:False"
       },
@@ -658,7 +564,7 @@
         "WasTopicIncluded": "Bool:False"
       }
     },
-    "CensusTopic:AbilityToSpeakSinhalaAndTamil": {
+    "CensusTopic:ability_to_speak_sinhala_and_tamil": {
       "Time:1871": {
         "WasTopicIncluded": "Bool:False"
       },
@@ -705,7 +611,7 @@
         "WasTopicIncluded": "Bool:False"
       }
     },
-    "CensusTopic:AbilityToSpeakEnglish": {
+    "CensusTopic:ability_to_speak_english": {
       "Time:1871": {
         "WasTopicIncluded": "Bool:False"
       },
@@ -752,7 +658,7 @@
         "WasTopicIncluded": "Bool:False"
       }
     },
-    "CensusTopic:AbilityToSpeakSinhalaEnglishAndTamil": {
+    "CensusTopic:ability_to_speak_sinhala_english_and_tamil": {
       "Time:1871": {
         "WasTopicIncluded": "Bool:False"
       },
@@ -799,7 +705,7 @@
         "WasTopicIncluded": "Bool:True"
       }
     },
-    "CensusTopic:Literacy": {
+    "CensusTopic:literacy": {
       "Time:1871": {
         "WasTopicIncluded": "Bool:False"
       },
@@ -846,7 +752,7 @@
         "WasTopicIncluded": "Bool:False"
       }
     },
-    "CensusTopic:EnglishLiteracy": {
+    "CensusTopic:english_literacy": {
       "Time:1871": {
         "WasTopicIncluded": "Bool:False"
       },
@@ -893,7 +799,7 @@
         "WasTopicIncluded": "Bool:False"
       }
     },
-    "CensusTopic:SinhalaEnglishAndTamilLiteracy": {
+    "CensusTopic:sinhala_english_and_tamil_literacy": {
       "Time:1871": {
         "WasTopicIncluded": "Bool:False"
       },
@@ -940,7 +846,7 @@
         "WasTopicIncluded": "Bool:True"
       }
     },
-    "CensusTopic:ComputerLiteracy": {
+    "CensusTopic:computer_literacy": {
       "Time:1871": {
         "WasTopicIncluded": "Bool:False"
       },
@@ -987,7 +893,7 @@
         "WasTopicIncluded": "Bool:True"
       }
     },
-    "CensusTopic:DigitalLiteracy": {
+    "CensusTopic:digital_literacy": {
       "Time:1871": {
         "WasTopicIncluded": "Bool:False"
       },
@@ -1034,101 +940,7 @@
         "WasTopicIncluded": "Bool:True"
       }
     },
-    "CensusTopic:EducationalAttainmentOrHighestLevelOf": {
-      "Time:1871": {
-        "WasTopicIncluded": "Bool:False"
-      },
-      "Time:1881": {
-        "WasTopicIncluded": "Bool:False"
-      },
-      "Time:1891": {
-        "WasTopicIncluded": "Bool:False"
-      },
-      "Time:1901": {
-        "WasTopicIncluded": "Bool:False"
-      },
-      "Time:1911": {
-        "WasTopicIncluded": "Bool:False"
-      },
-      "Time:1921": {
-        "WasTopicIncluded": "Bool:False"
-      },
-      "Time:1931": {
-        "WasTopicIncluded": "Bool:False"
-      },
-      "Time:1946": {
-        "WasTopicIncluded": "Bool:False"
-      },
-      "Time:1953": {
-        "WasTopicIncluded": "Bool:False"
-      },
-      "Time:1963": {
-        "WasTopicIncluded": "Bool:False"
-      },
-      "Time:1971": {
-        "WasTopicIncluded": "Bool:True"
-      },
-      "Time:1981": {
-        "WasTopicIncluded": "Bool:True"
-      },
-      "Time:2001": {
-        "WasTopicIncluded": "Bool:True"
-      },
-      "Time:2012": {
-        "WasTopicIncluded": "Bool:True"
-      },
-      "Time:2024": {
-        "WasTopicIncluded": "Bool:True"
-      }
-    },
-    "CensusTopic:SchoolAttendanceOrAttendInEducational": {
-      "Time:1871": {
-        "WasTopicIncluded": "Bool:False"
-      },
-      "Time:1881": {
-        "WasTopicIncluded": "Bool:False"
-      },
-      "Time:1891": {
-        "WasTopicIncluded": "Bool:False"
-      },
-      "Time:1901": {
-        "WasTopicIncluded": "Bool:False"
-      },
-      "Time:1911": {
-        "WasTopicIncluded": "Bool:False"
-      },
-      "Time:1921": {
-        "WasTopicIncluded": "Bool:False"
-      },
-      "Time:1931": {
-        "WasTopicIncluded": "Bool:False"
-      },
-      "Time:1946": {
-        "WasTopicIncluded": "Bool:False"
-      },
-      "Time:1953": {
-        "WasTopicIncluded": "Bool:False"
-      },
-      "Time:1963": {
-        "WasTopicIncluded": "Bool:False"
-      },
-      "Time:1971": {
-        "WasTopicIncluded": "Bool:False"
-      },
-      "Time:1981": {
-        "WasTopicIncluded": "Bool:True"
-      },
-      "Time:2001": {
-        "WasTopicIncluded": "Bool:True"
-      },
-      "Time:2012": {
-        "WasTopicIncluded": "Bool:True"
-      },
-      "Time:2024": {
-        "WasTopicIncluded": "Bool:True"
-      }
-    },
-    "CensusTopic:VocationalAndApprenticeshipQualification": {
+    "CensusTopic:vocational_and_apprenticeship_qualification": {
       "Time:1871": {
         "WasTopicIncluded": "Bool:False"
       },

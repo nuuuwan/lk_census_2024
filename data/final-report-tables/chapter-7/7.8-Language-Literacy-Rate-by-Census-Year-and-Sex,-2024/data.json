@@ -1,6 +1,6 @@
 [
   {
-    "null": "1881",
+    "census_year": "1881",
     "values": {
       "p_total_literacy_rate": 0.174,
       "p_male_literacy_rate": 0.298,
@@ -8,7 +8,7 @@
     }
   },
   {
-    "null": "1891",
+    "census_year": "1891",
     "values": {
       "p_total_literacy_rate": 0.217,
       "p_male_literacy_rate": 0.361,
@@ -16,7 +16,7 @@
     }
   },
   {
-    "null": "1901",
+    "census_year": "1901",
     "values": {
       "p_total_literacy_rate": 0.264,
       "p_male_literacy_rate": 0.42,
@@ -24,7 +24,7 @@
     }
   },
   {
-    "null": "1911",
+    "census_year": "1911",
     "values": {
       "p_total_literacy_rate": 0.31,
       "p_male_literacy_rate": 0.472,
@@ -32,7 +32,7 @@
     }
   },
   {
-    "null": "1921",
+    "census_year": "1921",
     "values": {
       "p_total_literacy_rate": 0.399,
       "p_male_literacy_rate": 0.563,
@@ -40,7 +40,7 @@
     }
   },
   {
-    "null": "1946",
+    "census_year": "1946",
     "values": {
       "p_total_literacy_rate": 0.578,
       "p_male_literacy_rate": 0.701,
@@ -48,7 +48,7 @@
     }
   },
   {
-    "null": "1953",
+    "census_year": "1953",
     "values": {
       "p_total_literacy_rate": 0.654,
       "p_male_literacy_rate": 0.759,
@@ -56,7 +56,7 @@
     }
   },
   {
-    "null": "1963",
+    "census_year": "1963",
     "values": {
       "p_total_literacy_rate": 0.771,
       "p_male_literacy_rate": 0.858,
@@ -64,7 +64,7 @@
     }
   },
   {
-    "null": "1971",
+    "census_year": "1971",
     "values": {
       "p_total_literacy_rate": 0.785,
       "p_male_literacy_rate": 0.856,
@@ -72,7 +72,7 @@
     }
   },
   {
-    "null": "1981",
+    "census_year": "1981",
     "values": {
       "p_total_literacy_rate": 0.872,
       "p_male_literacy_rate": 0.911,
@@ -80,7 +80,7 @@
     }
   },
   {
-    "null": "2001",
+    "census_year": "2001",
     "values": {
       "p_total_literacy_rate": 0.911,
       "p_male_literacy_rate": 0.926,
@@ -88,7 +88,7 @@
     }
   },
   {
-    "null": "2012",
+    "census_year": "2012",
     "values": {
       "p_total_literacy_rate": 0.957,
       "p_male_literacy_rate": 0.969,
@@ -96,7 +96,7 @@
     }
   },
   {
-    "null": "2024",
+    "census_year": "2024",
     "values": {
       "p_total_literacy_rate": 0.974,
       "p_male_literacy_rate": 0.979,
