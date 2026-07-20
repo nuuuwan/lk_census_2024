@@ -2,106 +2,113 @@
   {
     "marital_status": "Sri Lanka*",
     "values": {
-      "p_diabetes": 0.085,
-      "p_high_cholesterol": 0.082,
-      "p_high_blood_pressure": 0.101,
-      "p_heart_disease": 0.025,
-      "p_kidney_disease": 0.008,
-      "p_thalassemia": 0.001,
-      "p_cancer": 0.004,
-      "p_stroke": 0.006,
-      "p_asthma": 0.018,
-      "p_epilepsy": 0.003
-    }
+      "diabetes": 1851256,
+      "high_cholesterol": 1785918,
+      "high_blood_pressure": 2199728,
+      "heart_disease": 544487,
+      "kidney_disease": 174236,
+      "thalassemia": 21779,
+      "cancer": 87118,
+      "stroke": 130677,
+      "asthma": 392031,
+      "epilepsy": 65338
+    },
+    "total_value": 21779483
   },
   {
     "marital_status": "Never Married",
     "values": {
-      "p_diabetes": 0.008,
-      "p_high_cholesterol": 0.007,
-      "p_high_blood_pressure": 0.009,
-      "p_heart_disease": 0.004,
-      "p_kidney_disease": 0.002,
-      "p_thalassemia": 0.001,
-      "p_cancer": 0.001,
-      "p_stroke": 0.001,
-      "p_asthma": 0.009,
-      "p_epilepsy": 0.004
-    }
+      "diabetes": 72793,
+      "high_cholesterol": 63694,
+      "high_blood_pressure": 81892,
+      "heart_disease": 36397,
+      "kidney_disease": 18198,
+      "thalassemia": 9099,
+      "cancer": 9099,
+      "stroke": 9099,
+      "asthma": 81892,
+      "epilepsy": 36397
+    },
+    "total_value": 9099161
   },
   {
     "marital_status": "Married",
     "values": {
-      "p_diabetes": 0.127,
-      "p_high_cholesterol": 0.12,
-      "p_high_blood_pressure": 0.142,
-      "p_heart_disease": 0.035,
-      "p_kidney_disease": 0.011,
-      "p_thalassemia": 0.001,
-      "p_cancer": 0.005,
-      "p_stroke": 0.008,
-      "p_asthma": 0.022,
-      "p_epilepsy": 0.002
-    }
+      "diabetes": 1417365,
+      "high_cholesterol": 1339243,
+      "high_blood_pressure": 1584771,
+      "heart_disease": 390613,
+      "kidney_disease": 122764,
+      "thalassemia": 11160,
+      "cancer": 55802,
+      "stroke": 89283,
+      "asthma": 245528,
+      "epilepsy": 22321
+    },
+    "total_value": 11160358
   },
   {
     "marital_status": "Widowed",
     "values": {
-      "p_diabetes": 0.27,
-      "p_high_cholesterol": 0.295,
-      "p_high_blood_pressure": 0.404,
-      "p_heart_disease": 0.075,
-      "p_kidney_disease": 0.022,
-      "p_thalassemia": 0.001,
-      "p_cancer": 0.012,
-      "p_stroke": 0.021,
-      "p_asthma": 0.048,
-      "p_epilepsy": 0.003
-    }
+      "diabetes": 333213,
+      "high_cholesterol": 364066,
+      "high_blood_pressure": 498585,
+      "heart_disease": 92559,
+      "kidney_disease": 27151,
+      "thalassemia": 1234,
+      "cancer": 14809,
+      "stroke": 25917,
+      "asthma": 59238,
+      "epilepsy": 3702
+    },
+    "total_value": 1234122
   },
   {
     "marital_status": "Divorced",
     "values": {
-      "p_diabetes": 0.106,
-      "p_high_cholesterol": 0.108,
-      "p_high_blood_pressure": 0.119,
-      "p_heart_disease": 0.028,
-      "p_kidney_disease": 0.009,
-      "p_thalassemia": 0.001,
-      "p_cancer": 0.007,
-      "p_stroke": 0.007,
-      "p_asthma": 0.026,
-      "p_epilepsy": 0.006
-    }
+      "diabetes": 7876,
+      "high_cholesterol": 8025,
+      "high_blood_pressure": 8842,
+      "heart_disease": 2080,
+      "kidney_disease": 669,
+      "thalassemia": 74,
+      "cancer": 520,
+      "stroke": 520,
+      "asthma": 1932,
+      "epilepsy": 446
+    },
+    "total_value": 74303
   },
   {
     "marital_status": "Legally Separated",
     "values": {
-      "p_diabetes": 0.101,
-      "p_high_cholesterol": 0.108,
-      "p_high_blood_pressure": 0.116,
-      "p_heart_disease": 0.028,
-      "p_kidney_disease": 0.009,
-      "p_thalassemia": 0.001,
-      "p_cancer": 0.008,
-      "p_stroke": 0.007,
-      "p_asthma": 0.028,
-      "p_epilepsy": 0.006
-    }
+      "diabetes": 4534,
+      "high_cholesterol": 4848,
+      "high_blood_pressure": 5207,
+      "heart_disease": 1257,
+      "kidney_disease": 404,
+      "thalassemia": 45,
+      "cancer": 359,
+      "stroke": 314,
+      "asthma": 1257,
+      "epilepsy": 269
+    },
+    "total_value": 44887
   },
   {
     "marital_status": "Separated (Not legally)",
     "values": {
-      "p_diabetes": 0.102,
-      "p_high_cholesterol": 0.107,
-      "p_high_blood_pressure": 0.124,
-      "p_heart_disease": 0.033,
-      "p_kidney_disease": 0.012,
-      "p_thalassemia": 0.001,
-      "p_cancer": 0.008,
-      "p_stroke": 0.008,
-      "p_asthma": 0.036,
-      "p_epilepsy": 0.007
-    }
+      "diabetes": 16999,
+      "high_cholesterol": 17832,
+      "high_blood_pressure": 20665,
+      "heart_disease": 5500,
+      "kidney_disease": 2000,
+      "thalassemia": 167,
+      "cancer": 1333,
+      "stroke": 1333,
+      "asthma": 5999,
+      "epilepsy": 1167
+    },
+    "total_value": 166652
   }
 ]
