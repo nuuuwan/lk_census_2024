@@ -1,7 +1,7 @@
 {
   "primary_key": "sector",
   "other_keys": [
-    "population_of_ever_married_women_aged_15_and_over",
+    "total_value",
     "_ignore",
     "p_0",
     "p_1",
@@ -12,12 +12,11 @@
     "p_6",
     "p_7_plus"
   ],
-  "is_summable": false,
   "entity_class_name": "Person",
   "time_value": "2024",
-  "row_dim_class_name": "District",
-  "row_dim_key": "region_id",
-  "col_dim_class_name": null,
-  "cell_label": "Count",
+  "row_dim_class_name": "Sector",
+  "row_dim_key": "sector",
+  "col_dim_class_name": "LiveBirths",
+  "cell_label": "FemalePopulationCount",
   "cell_class_name": "Int"
 }
