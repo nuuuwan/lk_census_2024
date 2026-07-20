@@ -10,7 +10,7 @@
   "time_value": "2024",
   "row_dim_class_name": "District",
   "row_dim_key": "region_id",
-  "col_dim_class_name": null,
+  "col_dim_class_name": "SourceOfDrinkingWater",
   "cell_label": "Count",
   "cell_class_name": "Int"
 }
