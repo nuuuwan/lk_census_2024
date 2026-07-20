@@ -1,0 +1,26 @@
+{
+  "Person": {
+    "Time:2024": {
+      "AgeGroup:80To125Years": {
+        "DisabilityTypes:difficulty_in_seeing": {
+          "Count": "Int:42705"
+        },
+        "DisabilityTypes:difficulty_in_hearing": {
+          "Count": "Int:42650"
+        },
+        "DisabilityTypes:difficulty_in_walking_or_climbing_steps": {
+          "Count": "Int:111103"
+        },
+        "DisabilityTypes:difficulty_in_remembering_or_concentrating": {
+          "Count": "Int:44617"
+        },
+        "DisabilityTypes:difficulty_in_selfcare_such_as_washing_or_dressing": {
+          "Count": "Int:56731"
+        },
+        "DisabilityTypes:difficulty_in_communicating_with_others": {
+          "Count": "Int:21293"
+        }
+      }
+    }
+  }
+}
