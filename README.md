@@ -176,7 +176,7 @@
 
 ### Chapter 11
 
-- 🟡 Table 11.1 - [Number of Occupied Housing Units by Sector, 2012 and 2024](data/final-report-tables/chapter-11/11.1-Number-of-Occupied-Housing-Units-by-Sector,-2012-and-2024/README.md)
+- ✅ Table 11.1 - [Number of Occupied Housing Units by Sector, 2012 and 2024](data/final-report-tables/chapter-11/11.1-Number-of-Occupied-Housing-Units-by-Sector,-2012-and-2024/README.md)
 - 🟡 Table 11.2 - [Number of Occupied Housing Units & Permanently Closed/Vacant Housing Units by District, 2012 and 2024](data/final-report-tables/chapter-11/11.2-Number-of-Occupied-Housing-Units-&-Permanently-Closed/Vacant-Housing-Units-by-District,-2012-and-2024/README.md)
 - ✅ Table 11.3 - [Number of Housing Units by the Year of Construction, 2024](data/final-report-tables/chapter-11/11.3-Number-of-Housing-Units-by-the-Year-of-Construction,-2024/README.md)
 - 🟡 Table 11.4 - [Tenure of Housing Units by Sector and District, 2024](data/final-report-tables/chapter-11/11.4-Tenure-of-Housing-Units-by-Sector-and-District,-2024/README.md)
@@ -213,8 +213,8 @@
 | **1**/5 | 🟤 Raw data is missing | **6** | 6 | **4.2%** | #8B4513 |
 | **2**/5 | 🔴 Raw data is difficult to parse | **22** | 22 | **15.5%** | #FF0000 |
 | **3**/5 | 🟠 Data is missing | **1** | 1 | **0.7%** | #FFA500 |
-| **4**/5 | 🟡 Lanka data is missing | **47** | 47 | **33.1%** | #FFFF00 |
-| **5**/5 | ✅ All Stages Complete | **66** | 66 | **46.5%** | #00c000 |
+| **4**/5 | 🟡 Lanka data is missing | **46** | 46 | **32.4%** | #FFFF00 |
+| **5**/5 | ✅ All Stages Complete | **67** | 67 | **47.2%** | #00c000 |
 
 
 ```mermaid
@@ -223,8 +223,8 @@ pie title Final Report Build Status
 "🟤 Raw data is missing" : 6
     "🔴 Raw data is difficult to parse" : 22
     "🟠 Data is missing" : 1
-    "🟡 Lanka data is missing" : 47
-    "✅ All Stages Complete" : 66
+    "🟡 Lanka data is missing" : 46
+    "✅ All Stages Complete" : 67
 ```
     
 ![Maintainer](https://img.shields.io/badge/maintainer-nuuuwan-red)

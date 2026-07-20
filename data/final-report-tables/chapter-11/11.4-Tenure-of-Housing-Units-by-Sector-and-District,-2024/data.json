@@ -323,5 +323,453 @@
       "p_encroached": 0.003,
       "p_other": 0.017
     }
+  },
+  {
+    "region_id": "LK",
+    "region_name": "Sri Lanka",
+    "region_ent_type": "country",
+    "values": {
+      "p_owned_by_a_household_member": 21.377,
+      "p_rent_or_lease_government_owned": 0.46600000000000014,
+      "p_rent_or_lease_privately_owned": 1.2199999999999998,
+      "p_rent_or_lease_free_of_rent": 1.555,
+      "p_encroached": 0.16400000000000003,
+      "p_other": 0.21800000000000008
+    },
+    "total_value": 25.0
+  },
+  {
+    "region_id": "LK-1",
+    "region_name": "Western",
+    "region_ent_type": "province",
+    "values": {
+      "p_owned_by_a_household_member": 2.444,
+      "p_rent_or_lease_government_owned": 0.076,
+      "p_rent_or_lease_privately_owned": 0.35000000000000003,
+      "p_rent_or_lease_free_of_rent": 0.087,
+      "p_encroached": 0.023000000000000003,
+      "p_other": 0.02
+    },
+    "total_value": 3.0
+  },
+  {
+    "region_id": "LK-2",
+    "region_name": "Central",
+    "region_ent_type": "province",
+    "values": {
+      "p_owned_by_a_household_member": 2.2350000000000003,
+      "p_rent_or_lease_government_owned": 0.068,
+      "p_rent_or_lease_privately_owned": 0.135,
+      "p_rent_or_lease_free_of_rent": 0.507,
+      "p_encroached": 0.021,
+      "p_other": 0.034
+    },
+    "total_value": 3.0000000000000004
+  },
+  {
+    "region_id": "LK-3",
+    "region_name": "Southern",
+    "region_ent_type": "province",
+    "values": {
+      "p_owned_by_a_household_member": 2.716,
+      "p_rent_or_lease_government_owned": 0.041999999999999996,
+      "p_rent_or_lease_privately_owned": 0.1,
+      "p_rent_or_lease_free_of_rent": 0.08700000000000001,
+      "p_encroached": 0.017,
+      "p_other": 0.038
+    },
+    "total_value": 3.0
+  },
+  {
+    "region_id": "LK-4",
+    "region_name": "Northern",
+    "region_ent_type": "province",
+    "values": {
+      "p_owned_by_a_household_member": 4.233,
+      "p_rent_or_lease_government_owned": 0.08900000000000001,
+      "p_rent_or_lease_privately_owned": 0.272,
+      "p_rent_or_lease_free_of_rent": 0.367,
+      "p_encroached": 0.015,
+      "p_other": 0.024
+    },
+    "total_value": 5.0
+  },
+  {
+    "region_id": "LK-5",
+    "region_name": "Eastern",
+    "region_ent_type": "province",
+    "values": {
+      "p_owned_by_a_household_member": 2.673,
+      "p_rent_or_lease_government_owned": 0.049,
+      "p_rent_or_lease_privately_owned": 0.099,
+      "p_rent_or_lease_free_of_rent": 0.154,
+      "p_encroached": 0.011,
+      "p_other": 0.014000000000000002
+    },
+    "total_value": 3.0
+  },
+  {
+    "region_id": "LK-6",
+    "region_name": "North Western",
+    "region_ent_type": "province",
+    "values": {
+      "p_owned_by_a_household_member": 1.784,
+      "p_rent_or_lease_government_owned": 0.025,
+      "p_rent_or_lease_privately_owned": 0.08299999999999999,
+      "p_rent_or_lease_free_of_rent": 0.073,
+      "p_encroached": 0.013000000000000001,
+      "p_other": 0.022
+    },
+    "total_value": 2.0
+  },
+  {
+    "region_id": "LK-7",
+    "region_name": "North Central",
+    "region_ent_type": "province",
+    "values": {
+      "p_owned_by_a_household_member": 1.848,
+      "p_rent_or_lease_government_owned": 0.035,
+      "p_rent_or_lease_privately_owned": 0.044,
+      "p_rent_or_lease_free_of_rent": 0.037000000000000005,
+      "p_encroached": 0.022,
+      "p_other": 0.014
+    },
+    "total_value": 2.0
+  },
+  {
+    "region_id": "LK-8",
+    "region_name": "Uva",
+    "region_ent_type": "province",
+    "values": {
+      "p_owned_by_a_household_member": 1.7200000000000002,
+      "p_rent_or_lease_government_owned": 0.038,
+      "p_rent_or_lease_privately_owned": 0.057999999999999996,
+      "p_rent_or_lease_free_of_rent": 0.135,
+      "p_encroached": 0.026000000000000002,
+      "p_other": 0.023
+    },
+    "total_value": 2.0
+  },
+  {
+    "region_id": "LK-9",
+    "region_name": "Sabaragamuwa",
+    "region_ent_type": "province",
+    "values": {
+      "p_owned_by_a_household_member": 1.724,
+      "p_rent_or_lease_government_owned": 0.044,
+      "p_rent_or_lease_privately_owned": 0.079,
+      "p_rent_or_lease_free_of_rent": 0.108,
+      "p_encroached": 0.016,
+      "p_other": 0.029
+    },
+    "total_value": 2.0
+  },
+  {
+    "region_id": "EC-01",
+    "region_name": "Colombo",
+    "region_ent_type": "ed",
+    "values": {
+      "p_owned_by_a_household_member": 0.76,
+      "p_rent_or_lease_government_owned": 0.035,
+      "p_rent_or_lease_privately_owned": 0.166,
+      "p_rent_or_lease_free_of_rent": 0.024,
+      "p_encroached": 0.01,
+      "p_other": 0.005
+    },
+    "total_value": 1.0
+  },
+  {
+    "region_id": "EC-02",
+    "region_name": "Gampaha",
+    "region_ent_type": "ed",
+    "values": {
+      "p_owned_by_a_household_member": 0.816,
+      "p_rent_or_lease_government_owned": 0.022,
+      "p_rent_or_lease_privately_owned": 0.125,
+      "p_rent_or_lease_free_of_rent": 0.022,
+      "p_encroached": 0.008,
+      "p_other": 0.007
+    },
+    "total_value": 1.0
+  },
+  {
+    "region_id": "EC-03",
+    "region_name": "Kalutara",
+    "region_ent_type": "ed",
+    "values": {
+      "p_owned_by_a_household_member": 0.868,
+      "p_rent_or_lease_government_owned": 0.019,
+      "p_rent_or_lease_privately_owned": 0.059,
+      "p_rent_or_lease_free_of_rent": 0.041,
+      "p_encroached": 0.005,
+      "p_other": 0.008
+    },
+    "total_value": 1.0
+  },
+  {
+    "region_id": "EC-04",
+    "region_name": "Kandy",
+    "region_ent_type": "ed",
+    "values": {
+      "p_owned_by_a_household_member": 0.846,
+      "p_rent_or_lease_government_owned": 0.03,
+      "p_rent_or_lease_privately_owned": 0.053,
+      "p_rent_or_lease_free_of_rent": 0.05,
+      "p_encroached": 0.007,
+      "p_other": 0.014
+    },
+    "total_value": 1.0
+  },
+  {
+    "region_id": "EC-05",
+    "region_name": "Matale",
+    "region_ent_type": "ed",
+    "values": {
+      "p_owned_by_a_household_member": 0.867,
+      "p_rent_or_lease_government_owned": 0.017,
+      "p_rent_or_lease_privately_owned": 0.038,
+      "p_rent_or_lease_free_of_rent": 0.059,
+      "p_encroached": 0.007,
+      "p_other": 0.012
+    },
+    "total_value": 1.0
+  },
+  {
+    "region_id": "EC-06",
+    "region_name": "Nuwara-Eliya",
+    "region_ent_type": "ed",
+    "values": {
+      "p_owned_by_a_household_member": 0.522,
+      "p_rent_or_lease_government_owned": 0.021,
+      "p_rent_or_lease_privately_owned": 0.044,
+      "p_rent_or_lease_free_of_rent": 0.398,
+      "p_encroached": 0.007,
+      "p_other": 0.008
+    },
+    "total_value": 1.0
+  },
+  {
+    "region_id": "EC-07",
+    "region_name": "Galle",
+    "region_ent_type": "ed",
+    "values": {
+      "p_owned_by_a_household_member": 0.895,
+      "p_rent_or_lease_government_owned": 0.014,
+      "p_rent_or_lease_privately_owned": 0.041,
+      "p_rent_or_lease_free_of_rent": 0.032,
+      "p_encroached": 0.005,
+      "p_other": 0.013
+    },
+    "total_value": 1.0
+  },
+  {
+    "region_id": "EC-08",
+    "region_name": "Matara",
+    "region_ent_type": "ed",
+    "values": {
+      "p_owned_by_a_household_member": 0.888,
+      "p_rent_or_lease_government_owned": 0.015,
+      "p_rent_or_lease_privately_owned": 0.037,
+      "p_rent_or_lease_free_of_rent": 0.04,
+      "p_encroached": 0.004,
+      "p_other": 0.016
+    },
+    "total_value": 1.0
+  },
+  {
+    "region_id": "EC-09",
+    "region_name": "Hambantota",
+    "region_ent_type": "ed",
+    "values": {
+      "p_owned_by_a_household_member": 0.933,
+      "p_rent_or_lease_government_owned": 0.013,
+      "p_rent_or_lease_privately_owned": 0.022,
+      "p_rent_or_lease_free_of_rent": 0.015,
+      "p_encroached": 0.008,
+      "p_other": 0.009
+    },
+    "total_value": 1.0
+  },
+  {
+    "region_id": "EC-10",
+    "region_name": "Jaffna",
+    "region_ent_type": "ed",
+    "values": {
+      "p_owned_by_a_household_member": 1.634,
+      "p_rent_or_lease_government_owned": 0.033,
+      "p_rent_or_lease_privately_owned": 0.123,
+      "p_rent_or_lease_free_of_rent": 0.192,
+      "p_encroached": 0.006,
+      "p_other": 0.012
+    },
+    "total_value": 2.0
+  },
+  {
+    "region_id": "EC-11",
+    "region_name": "Vanni",
+    "region_ent_type": "ed",
+    "values": {
+      "p_owned_by_a_household_member": 2.599,
+      "p_rent_or_lease_government_owned": 0.056,
+      "p_rent_or_lease_privately_owned": 0.149,
+      "p_rent_or_lease_free_of_rent": 0.175,
+      "p_encroached": 0.009000000000000001,
+      "p_other": 0.012
+    },
+    "total_value": 3.0
+  },
+  {
+    "region_id": "EC-12",
+    "region_name": "Batticaloa",
+    "region_ent_type": "ed",
+    "values": {
+      "p_owned_by_a_household_member": 0.877,
+      "p_rent_or_lease_government_owned": 0.015,
+      "p_rent_or_lease_privately_owned": 0.035,
+      "p_rent_or_lease_free_of_rent": 0.066,
+      "p_encroached": 0.001,
+      "p_other": 0.006
+    },
+    "total_value": 1.0
+  },
+  {
+    "region_id": "EC-13",
+    "region_name": "Digamadulla",
+    "region_ent_type": "ed",
+    "values": {
+      "p_owned_by_a_household_member": 0.909,
+      "p_rent_or_lease_government_owned": 0.012,
+      "p_rent_or_lease_privately_owned": 0.027,
+      "p_rent_or_lease_free_of_rent": 0.043,
+      "p_encroached": 0.006,
+      "p_other": 0.003
+    },
+    "total_value": 1.0
+  },
+  {
+    "region_id": "EC-14",
+    "region_name": "Trincomalee",
+    "region_ent_type": "ed",
+    "values": {
+      "p_owned_by_a_household_member": 0.887,
+      "p_rent_or_lease_government_owned": 0.022,
+      "p_rent_or_lease_privately_owned": 0.037,
+      "p_rent_or_lease_free_of_rent": 0.045,
+      "p_encroached": 0.004,
+      "p_other": 0.005
+    },
+    "total_value": 1.0
+  },
+  {
+    "region_id": "EC-15",
+    "region_name": "Kurunegala",
+    "region_ent_type": "ed",
+    "values": {
+      "p_owned_by_a_household_member": 0.912,
+      "p_rent_or_lease_government_owned": 0.011,
+      "p_rent_or_lease_privately_owned": 0.031,
+      "p_rent_or_lease_free_of_rent": 0.027,
+      "p_encroached": 0.006,
+      "p_other": 0.013
+    },
+    "total_value": 1.0
+  },
+  {
+    "region_id": "EC-16",
+    "region_name": "Puttalam",
+    "region_ent_type": "ed",
+    "values": {
+      "p_owned_by_a_household_member": 0.872,
+      "p_rent_or_lease_government_owned": 0.014,
+      "p_rent_or_lease_privately_owned": 0.052,
+      "p_rent_or_lease_free_of_rent": 0.046,
+      "p_encroached": 0.007,
+      "p_other": 0.009
+    },
+    "total_value": 1.0
+  },
+  {
+    "region_id": "EC-17",
+    "region_name": "Anuradhapura",
+    "region_ent_type": "ed",
+    "values": {
+      "p_owned_by_a_household_member": 0.915,
+      "p_rent_or_lease_government_owned": 0.019,
+      "p_rent_or_lease_privately_owned": 0.025,
+      "p_rent_or_lease_free_of_rent": 0.025,
+      "p_encroached": 0.009,
+      "p_other": 0.007
+    },
+    "total_value": 1.0
+  },
+  {
+    "region_id": "EC-18",
+    "region_name": "Polonnaruwa",
+    "region_ent_type": "ed",
+    "values": {
+      "p_owned_by_a_household_member": 0.933,
+      "p_rent_or_lease_government_owned": 0.016,
+      "p_rent_or_lease_privately_owned": 0.019,
+      "p_rent_or_lease_free_of_rent": 0.012,
+      "p_encroached": 0.013,
+      "p_other": 0.007
+    },
+    "total_value": 1.0
+  },
+  {
+    "region_id": "EC-19",
+    "region_name": "Badulla",
+    "region_ent_type": "ed",
+    "values": {
+      "p_owned_by_a_household_member": 0.805,
+      "p_rent_or_lease_government_owned": 0.024,
+      "p_rent_or_lease_privately_owned": 0.039,
+      "p_rent_or_lease_free_of_rent": 0.108,
+      "p_encroached": 0.01,
+      "p_other": 0.014
+    },
+    "total_value": 1.0
+  },
+  {
+    "region_id": "EC-20",
+    "region_name": "Moneragala",
+    "region_ent_type": "ed",
+    "values": {
+      "p_owned_by_a_household_member": 0.915,
+      "p_rent_or_lease_government_owned": 0.014,
+      "p_rent_or_lease_privately_owned": 0.019,
+      "p_rent_or_lease_free_of_rent": 0.027,
+      "p_encroached": 0.016,
+      "p_other": 0.009
+    },
+    "total_value": 1.0
+  },
+  {
+    "region_id": "EC-21",
+    "region_name": "Ratnapura",
+    "region_ent_type": "ed",
+    "values": {
+      "p_owned_by_a_household_member": 0.855,
+      "p_rent_or_lease_government_owned": 0.023,
+      "p_rent_or_lease_privately_owned": 0.04,
+      "p_rent_or_lease_free_of_rent": 0.057,
+      "p_encroached": 0.013,
+      "p_other": 0.012
+    },
+    "total_value": 1.0
+  },
+  {
+    "region_id": "EC-22",
+    "region_name": "Kegalle",
+    "region_ent_type": "ed",
+    "values": {
+      "p_owned_by_a_household_member": 0.869,
+      "p_rent_or_lease_government_owned": 0.021,
+      "p_rent_or_lease_privately_owned": 0.039,
+      "p_rent_or_lease_free_of_rent": 0.051,
+      "p_encroached": 0.003,
+      "p_other": 0.017
+    },
+    "total_value": 1.0
   }
 ]
