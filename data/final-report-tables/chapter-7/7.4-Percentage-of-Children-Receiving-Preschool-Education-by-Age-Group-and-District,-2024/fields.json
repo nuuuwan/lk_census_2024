@@ -7,6 +7,6 @@
   "row_dim_class_name": "District",
   "row_dim_key": "region_id",
   "col_dim_class_name": "AgeGroup",
-  "cell_label": "Percent",
+  "cell_label": "PercentInPreschool",
   "cell_class_name": "Percent"
 }
