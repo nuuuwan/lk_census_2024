@@ -105,7 +105,7 @@
 - 🟤 Table 6.3.6 - [Prevalence Rates of Non-Communicable Diseases by Sex, 2024](data/final-report-tables/chapter-6/6.3.6-Prevalence-Rates-of-Non-Communicable-Diseases-by-Sex,-2024/README.md)
 - 🟡 Table 6.3.7 - [Prevalence Rates of Non-Communicable Diseases by Age Group, 2024](data/final-report-tables/chapter-6/6.3.7-Prevalence-Rates-of-Non-Communicable-Diseases-by-Age-Group,-2024/README.md)
 - 🟤 Table 6.3.8 - [Prevalence Rates of Non-Communicable Diseases by Broad Age Groups, 2024](data/final-report-tables/chapter-6/6.3.8-Prevalence-Rates-of-Non-Communicable-Diseases-by-Broad-Age-Groups,-2024/README.md)
-- 🟡 Table 6.3.9 - [Prevalence Rates of Non-Communicable Diseases by Marital Status, 2024](data/final-report-tables/chapter-6/6.3.9-Prevalence-Rates-of-Non-Communicable-Diseases-by-Marital-Status,-2024/README.md)
+- ✅ Table 6.3.9 - [Prevalence Rates of Non-Communicable Diseases by Marital Status, 2024](data/final-report-tables/chapter-6/6.3.9-Prevalence-Rates-of-Non-Communicable-Diseases-by-Marital-Status,-2024/README.md)
 - 🟡 Table 6.3.10 - [Prevalence Rates of Non-Communicable Diseases by Ethnic Group, 2024](data/final-report-tables/chapter-6/6.3.10-Prevalence-Rates-of-Non-Communicable-Diseases-by-Ethnic-Group,-2024/README.md)
 - 🟡 Table 6.3.11 - [Prevalence Rates for the Population Aged 25 and Over by Highest Educational Qualification, 2024](data/final-report-tables/chapter-6/6.3.11-Prevalence-Rates-for-the-Population-Aged-25-and-Over-by-Highest-Educational-Qualification,-2024/README.md)
 - 🟡 Table 6.3.12 - [Prevalence Rates of NCDs by Employment Status, 2024](data/final-report-tables/chapter-6/6.3.12-Prevalence-Rates-of-NCDs-by-Employment-Status,-2024/README.md)
@@ -213,8 +213,8 @@
 | **1**/5 | 🟤 Raw data is missing | **6** | 6 | **4.2%** | #8B4513 |
 | **2**/5 | 🔴 Raw data is difficult to parse | **22** | 22 | **15.5%** | #FF0000 |
 | **3**/5 | 🟠 Data is missing | **1** | 1 | **0.7%** | #FFA500 |
-| **4**/5 | 🟡 Lanka data is missing | **62** | 62 | **43.7%** | #FFFF00 |
-| **5**/5 | ✅ All Stages Complete | **51** | 51 | **35.9%** | #00c000 |
+| **4**/5 | 🟡 Lanka data is missing | **61** | 61 | **43.0%** | #FFFF00 |
+| **5**/5 | ✅ All Stages Complete | **52** | 52 | **36.6%** | #00c000 |
 
 
 ```mermaid
@@ -223,8 +223,8 @@ pie title Final Report Build Status
 "🟤 Raw data is missing" : 6
     "🔴 Raw data is difficult to parse" : 22
     "🟠 Data is missing" : 1
-    "🟡 Lanka data is missing" : 62
-    "✅ All Stages Complete" : 51
+    "🟡 Lanka data is missing" : 61
+    "✅ All Stages Complete" : 52
 ```
     
 ![Maintainer](https://img.shields.io/badge/maintainer-nuuuwan-red)
