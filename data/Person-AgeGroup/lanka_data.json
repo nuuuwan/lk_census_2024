@@ -1,0 +1,564 @@
+{
+  "Person": {
+    "Time:2024": {
+      "Province:LK-1": {
+        "AgeGroup:0To4Years": {
+          "Count": "Int:287116"
+        },
+        "AgeGroup:5To9Years": {
+          "Count": "Int:369976"
+        },
+        "AgeGroup:10To14Years": {
+          "Count": "Int:428367"
+        },
+        "AgeGroup:15To19Years": {
+          "Count": "Int:475748"
+        },
+        "AgeGroup:20To24Years": {
+          "Count": "Int:486242"
+        },
+        "AgeGroup:25To29Years": {
+          "Count": "Int:411892"
+        },
+        "AgeGroup:30To34Years": {
+          "Count": "Int:396532"
+        },
+        "AgeGroup:35To39Years": {
+          "Count": "Int:403369"
+        },
+        "AgeGroup:40To44Years": {
+          "Count": "Int:458173"
+        },
+        "AgeGroup:45To49Years": {
+          "Count": "Int:445763"
+        },
+        "AgeGroup:50To54Years": {
+          "Count": "Int:412374"
+        },
+        "AgeGroup:55To59Years": {
+          "Count": "Int:380280"
+        },
+        "AgeGroup:60To64Years": {
+          "Count": "Int:343391"
+        },
+        "AgeGroup:65To69Years": {
+          "Count": "Int:285239"
+        },
+        "AgeGroup:70To74Years": {
+          "Count": "Int:231712"
+        },
+        "AgeGroup:75To79Years": {
+          "Count": "Int:162489"
+        },
+        "AgeGroup:80To84Years": {
+          "Count": "Int:85998"
+        },
+        "AgeGroup:85To89Years": {
+          "Count": "Int:36613"
+        },
+        "AgeGroup:90To94Years": {
+          "Count": "Int:13076"
+        },
+        "AgeGroup:95To95Years": {
+          "Count": "Int:2991"
+        }
+      },
+      "Province:LK-2": {
+        "AgeGroup:0To4Years": {
+          "Count": "Int:154205"
+        },
+        "AgeGroup:5To9Years": {
+          "Count": "Int:204497"
+        },
+        "AgeGroup:10To14Years": {
+          "Count": "Int:235152"
+        },
+        "AgeGroup:15To19Years": {
+          "Count": "Int:229457"
+        },
+        "AgeGroup:20To24Years": {
+          "Count": "Int:192660"
+        },
+        "AgeGroup:25To29Years": {
+          "Count": "Int:154026"
+        },
+        "AgeGroup:30To34Years": {
+          "Count": "Int:162232"
+        },
+        "AgeGroup:35To39Years": {
+          "Count": "Int:173222"
+        },
+        "AgeGroup:40To44Years": {
+          "Count": "Int:192876"
+        },
+        "AgeGroup:45To49Years": {
+          "Count": "Int:179495"
+        },
+        "AgeGroup:50To54Years": {
+          "Count": "Int:161999"
+        },
+        "AgeGroup:55To59Years": {
+          "Count": "Int:163045"
+        },
+        "AgeGroup:60To64Years": {
+          "Count": "Int:155726"
+        },
+        "AgeGroup:65To69Years": {
+          "Count": "Int:130207"
+        },
+        "AgeGroup:70To74Years": {
+          "Count": "Int:102224"
+        },
+        "AgeGroup:75To79Years": {
+          "Count": "Int:68790"
+        },
+        "AgeGroup:80To84Years": {
+          "Count": "Int:34734"
+        },
+        "AgeGroup:85To89Years": {
+          "Count": "Int:13854"
+        },
+        "AgeGroup:90To94Years": {
+          "Count": "Int:4609"
+        },
+        "AgeGroup:95To95Years": {
+          "Count": "Int:1035"
+        }
+      },
+      "Province:LK-3": {
+        "AgeGroup:0To4Years": {
+          "Count": "Int:142793"
+        },
+        "AgeGroup:5To9Years": {
+          "Count": "Int:190768"
+        },
+        "AgeGroup:10To14Years": {
+          "Count": "Int:209476"
+        },
+        "AgeGroup:15To19Years": {
+          "Count": "Int:215333"
+        },
+        "AgeGroup:20To24Years": {
+          "Count": "Int:178596"
+        },
+        "AgeGroup:25To29Years": {
+          "Count": "Int:152631"
+        },
+        "AgeGroup:30To34Years": {
+          "Count": "Int:164052"
+        },
+        "AgeGroup:35To39Years": {
+          "Count": "Int:174519"
+        },
+        "AgeGroup:40To44Years": {
+          "Count": "Int:187572"
+        },
+        "AgeGroup:45To49Years": {
+          "Count": "Int:170305"
+        },
+        "AgeGroup:50To54Years": {
+          "Count": "Int:158824"
+        },
+        "AgeGroup:55To59Years": {
+          "Count": "Int:151599"
+        },
+        "AgeGroup:60To64Years": {
+          "Count": "Int:143734"
+        },
+        "AgeGroup:65To69Years": {
+          "Count": "Int:127415"
+        },
+        "AgeGroup:70To74Years": {
+          "Count": "Int:103385"
+        },
+        "AgeGroup:75To79Years": {
+          "Count": "Int:70188"
+        },
+        "AgeGroup:80To84Years": {
+          "Count": "Int:38224"
+        },
+        "AgeGroup:85To89Years": {
+          "Count": "Int:18201"
+        },
+        "AgeGroup:90To94Years": {
+          "Count": "Int:7295"
+        },
+        "AgeGroup:95To95Years": {
+          "Count": "Int:1769"
+        }
+      },
+      "Province:LK-6": {
+        "AgeGroup:0To4Years": {
+          "Count": "Int:148254"
+        },
+        "AgeGroup:5To9Years": {
+          "Count": "Int:191642"
+        },
+        "AgeGroup:10To14Years": {
+          "Count": "Int:210926"
+        },
+        "AgeGroup:15To19Years": {
+          "Count": "Int:214171"
+        },
+        "AgeGroup:20To24Years": {
+          "Count": "Int:176527"
+        },
+        "AgeGroup:25To29Years": {
+          "Count": "Int:152409"
+        },
+        "AgeGroup:30To34Years": {
+          "Count": "Int:161533"
+        },
+        "AgeGroup:35To39Years": {
+          "Count": "Int:173373"
+        },
+        "AgeGroup:40To44Years": {
+          "Count": "Int:192544"
+        },
+        "AgeGroup:45To49Years": {
+          "Count": "Int:179687"
+        },
+        "AgeGroup:50To54Years": {
+          "Count": "Int:158485"
+        },
+        "AgeGroup:55To59Years": {
+          "Count": "Int:153502"
+        },
+        "AgeGroup:60To64Years": {
+          "Count": "Int:144739"
+        },
+        "AgeGroup:65To69Years": {
+          "Count": "Int:122896"
+        },
+        "AgeGroup:70To74Years": {
+          "Count": "Int:99957"
+        },
+        "AgeGroup:75To79Years": {
+          "Count": "Int:60025"
+        },
+        "AgeGroup:80To84Years": {
+          "Count": "Int:30313"
+        },
+        "AgeGroup:85To89Years": {
+          "Count": "Int:11271"
+        },
+        "AgeGroup:90To94Years": {
+          "Count": "Int:3866"
+        },
+        "AgeGroup:95To95Years": {
+          "Count": "Int:852"
+        }
+      },
+      "Province:LK-9": {
+        "AgeGroup:0To4Years": {
+          "Count": "Int:105383"
+        },
+        "AgeGroup:5To9Years": {
+          "Count": "Int:140492"
+        },
+        "AgeGroup:10To14Years": {
+          "Count": "Int:158280"
+        },
+        "AgeGroup:15To19Years": {
+          "Count": "Int:161676"
+        },
+        "AgeGroup:20To24Years": {
+          "Count": "Int:134734"
+        },
+        "AgeGroup:25To29Years": {
+          "Count": "Int:117043"
+        },
+        "AgeGroup:30To34Years": {
+          "Count": "Int:129196"
+        },
+        "AgeGroup:35To39Years": {
+          "Count": "Int:137420"
+        },
+        "AgeGroup:40To44Years": {
+          "Count": "Int:154283"
+        },
+        "AgeGroup:45To49Years": {
+          "Count": "Int:137233"
+        },
+        "AgeGroup:50To54Years": {
+          "Count": "Int:122921"
+        },
+        "AgeGroup:55To59Years": {
+          "Count": "Int:121887"
+        },
+        "AgeGroup:60To64Years": {
+          "Count": "Int:113179"
+        },
+        "AgeGroup:65To69Years": {
+          "Count": "Int:98726"
+        },
+        "AgeGroup:70To74Years": {
+          "Count": "Int:82976"
+        },
+        "AgeGroup:75To79Years": {
+          "Count": "Int:55780"
+        },
+        "AgeGroup:80To84Years": {
+          "Count": "Int:28648"
+        },
+        "AgeGroup:85To89Years": {
+          "Count": "Int:11236"
+        },
+        "AgeGroup:90To94Years": {
+          "Count": "Int:3970"
+        },
+        "AgeGroup:95To95Years": {
+          "Count": "Int:836"
+        }
+      },
+      "Province:LK-5": {
+        "AgeGroup:0To4Years": {
+          "Count": "Int:137014"
+        },
+        "AgeGroup:5To9Years": {
+          "Count": "Int:157548"
+        },
+        "AgeGroup:10To14Years": {
+          "Count": "Int:157400"
+        },
+        "AgeGroup:15To19Years": {
+          "Count": "Int:169326"
+        },
+        "AgeGroup:20To24Years": {
+          "Count": "Int:146886"
+        },
+        "AgeGroup:25To29Years": {
+          "Count": "Int:126629"
+        },
+        "AgeGroup:30To34Years": {
+          "Count": "Int:127105"
+        },
+        "AgeGroup:35To39Years": {
+          "Count": "Int:116811"
+        },
+        "AgeGroup:40To44Years": {
+          "Count": "Int:124535"
+        },
+        "AgeGroup:45To49Years": {
+          "Count": "Int:110400"
+        },
+        "AgeGroup:50To54Years": {
+          "Count": "Int:95671"
+        },
+        "AgeGroup:55To59Years": {
+          "Count": "Int:89532"
+        },
+        "AgeGroup:60To64Years": {
+          "Count": "Int:79012"
+        },
+        "AgeGroup:65To69Years": {
+          "Count": "Int:59664"
+        },
+        "AgeGroup:70To74Years": {
+          "Count": "Int:43627"
+        },
+        "AgeGroup:75To79Years": {
+          "Count": "Int:24716"
+        },
+        "AgeGroup:80To84Years": {
+          "Count": "Int:11701"
+        },
+        "AgeGroup:85To89Years": {
+          "Count": "Int:4151"
+        },
+        "AgeGroup:90To94Years": {
+          "Count": "Int:1227"
+        },
+        "AgeGroup:95To95Years": {
+          "Count": "Int:259"
+        }
+      },
+      "Province:LK-7": {
+        "AgeGroup:0To4Years": {
+          "Count": "Int:83713"
+        },
+        "AgeGroup:5To9Years": {
+          "Count": "Int:112655"
+        },
+        "AgeGroup:10To14Years": {
+          "Count": "Int:125152"
+        },
+        "AgeGroup:15To19Years": {
+          "Count": "Int:117867"
+        },
+        "AgeGroup:20To24Years": {
+          "Count": "Int:97492"
+        },
+        "AgeGroup:25To29Years": {
+          "Count": "Int:82682"
+        },
+        "AgeGroup:30To34Years": {
+          "Count": "Int:93829"
+        },
+        "AgeGroup:35To39Years": {
+          "Count": "Int:97166"
+        },
+        "AgeGroup:40To44Years": {
+          "Count": "Int:108645"
+        },
+        "AgeGroup:45To49Years": {
+          "Count": "Int:101145"
+        },
+        "AgeGroup:50To54Years": {
+          "Count": "Int:88419"
+        },
+        "AgeGroup:55To59Years": {
+          "Count": "Int:79891"
+        },
+        "AgeGroup:60To64Years": {
+          "Count": "Int:72924"
+        },
+        "AgeGroup:65To69Years": {
+          "Count": "Int:58945"
+        },
+        "AgeGroup:70To74Years": {
+          "Count": "Int:44684"
+        },
+        "AgeGroup:75To79Years": {
+          "Count": "Int:24831"
+        },
+        "AgeGroup:80To84Years": {
+          "Count": "Int:11129"
+        },
+        "AgeGroup:85To89Years": {
+          "Count": "Int:4626"
+        },
+        "AgeGroup:90To94Years": {
+          "Count": "Int:1503"
+        },
+        "AgeGroup:95To95Years": {
+          "Count": "Int:312"
+        }
+      },
+      "Province:LK-8": {
+        "AgeGroup:0To4Years": {
+          "Count": "Int:83349"
+        },
+        "AgeGroup:5To9Years": {
+          "Count": "Int:109270"
+        },
+        "AgeGroup:10To14Years": {
+          "Count": "Int:119643"
+        },
+        "AgeGroup:15To19Years": {
+          "Count": "Int:114780"
+        },
+        "AgeGroup:20To24Years": {
+          "Count": "Int:96666"
+        },
+        "AgeGroup:25To29Years": {
+          "Count": "Int:86593"
+        },
+        "AgeGroup:30To34Years": {
+          "Count": "Int:96137"
+        },
+        "AgeGroup:35To39Years": {
+          "Count": "Int:99529"
+        },
+        "AgeGroup:40To44Years": {
+          "Count": "Int:102117"
+        },
+        "AgeGroup:45To49Years": {
+          "Count": "Int:92838"
+        },
+        "AgeGroup:50To54Years": {
+          "Count": "Int:82728"
+        },
+        "AgeGroup:55To59Years": {
+          "Count": "Int:81850"
+        },
+        "AgeGroup:60To64Years": {
+          "Count": "Int:76369"
+        },
+        "AgeGroup:65To69Years": {
+          "Count": "Int:61507"
+        },
+        "AgeGroup:70To74Years": {
+          "Count": "Int:45617"
+        },
+        "AgeGroup:75To79Years": {
+          "Count": "Int:28239"
+        },
+        "AgeGroup:80To84Years": {
+          "Count": "Int:14326"
+        },
+        "AgeGroup:85To89Years": {
+          "Count": "Int:5882"
+        },
+        "AgeGroup:90To94Years": {
+          "Count": "Int:2014"
+        },
+        "AgeGroup:95To95Years": {
+          "Count": "Int:438"
+        }
+      },
+      "Province:LK-4": {
+        "AgeGroup:0To4Years": {
+          "Count": "Int:73293"
+        },
+        "AgeGroup:5To9Years": {
+          "Count": "Int:79675"
+        },
+        "AgeGroup:10To14Years": {
+          "Count": "Int:90800"
+        },
+        "AgeGroup:15To19Years": {
+          "Count": "Int:96680"
+        },
+        "AgeGroup:20To24Years": {
+          "Count": "Int:98803"
+        },
+        "AgeGroup:25To29Years": {
+          "Count": "Int:88553"
+        },
+        "AgeGroup:30To34Years": {
+          "Count": "Int:83444"
+        },
+        "AgeGroup:35To39Years": {
+          "Count": "Int:77294"
+        },
+        "AgeGroup:40To44Years": {
+          "Count": "Int:81599"
+        },
+        "AgeGroup:45To49Years": {
+          "Count": "Int:73899"
+        },
+        "AgeGroup:50To54Years": {
+          "Count": "Int:60386"
+        },
+        "AgeGroup:55To59Years": {
+          "Count": "Int:54470"
+        },
+        "AgeGroup:60To64Years": {
+          "Count": "Int:54236"
+        },
+        "AgeGroup:65To69Years": {
+          "Count": "Int:47215"
+        },
+        "AgeGroup:70To74Years": {
+          "Count": "Int:41357"
+        },
+        "AgeGroup:75To79Years": {
+          "Count": "Int:27932"
+        },
+        "AgeGroup:80To84Years": {
+          "Count": "Int:13342"
+        },
+        "AgeGroup:85To89Years": {
+          "Count": "Int:5195"
+        },
+        "AgeGroup:90To94Years": {
+          "Count": "Int:1675"
+        },
+        "AgeGroup:95To95Years": {
+          "Count": "Int:300"
+        }
+      }
+    }
+  }
+}

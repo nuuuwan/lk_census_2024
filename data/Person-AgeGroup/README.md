@@ -5,6 +5,44 @@
 
 *Person-AgeGroup, 2024 Census of Population and Housing, Department of Census and Statistics, Sri Lanka*
 
+## Structured Data formatted for [Lanka Data API](https://github.com/nuuuwan/lanka_data)
+
+```json
+{
+    "Person": {
+        "Time:2024": {
+            "Province:LK-1": {
+                "AgeGroup:0To4Years": {
+                    "Count": "Int:287116"
+                },
+                "AgeGroup:5To9Years": {
+                    "Count": "Int:369976"
+                },
+                "AgeGroup:10To14Years": {
+                    "Count": "Int:428367"
+                },
+                "AgeGroup:15To19Years": {
+                    "Count": "Int:475748"
+                },
+                "AgeGroup:20To24Years": {
+                    "Count": "Int:486242"
+                },
+                "AgeGroup:25To29Years": {
+                    "Count": "Int:411892"
+                },
+                "AgeGroup:30To34Years": {
+                    "Count": "Int:396532"
+                },
+                "AgeGroup:35To39Years": {
+                    "Count": "Int:403369"
+                },
+                "AgeGroup:40To44Years": {
+                    "Count": "Int:458173"
+...
+```
+
+- Source File: [lanka_data.json (13.7 KB)](../../data/Person-AgeGroup/lanka_data.json)
+
 ## Structured Data (similar to original layout)
 
 ```json

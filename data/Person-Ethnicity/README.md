@@ -5,6 +5,44 @@
 
 *Person-Ethnicity, 2024 Census of Population and Housing, Department of Census and Statistics, Sri Lanka*
 
+## Structured Data formatted for [Lanka Data API](https://github.com/nuuuwan/lanka_data)
+
+```json
+{
+    "Person": {
+        "Time:2024": {
+            "Province:LK-1": {
+                "Ethnicity:sinhala": {
+                    "Count": "Int:5115543"
+                },
+                "Ethnicity:sri_lanka_tamil": {
+                    "Count": "Int:379680"
+                },
+                "Ethnicity:ind_and_malaiyaga_tamil": {
+                    "Count": "Int:26271"
+                },
+                "Ethnicity:sri_lanka_moor_or_muslim": {
+                    "Count": "Int:542333"
+                },
+                "Ethnicity:burgher": {
+                    "Count": "Int:15725"
+                },
+                "Ethnicity:malay": {
+                    "Count": "Int:16126"
+                },
+                "Ethnicity:sri_lanka_chetty": {
+                    "Count": "Int:1753"
+                },
+                "Ethnicity:bharatha": {
+                    "Count": "Int:553"
+                },
+                "Ethnicity:veddahs": {
+                    "Count": "Int:0"
+...
+```
+
+- Source File: [lanka_data.json (7.0 KB)](../../data/Person-Ethnicity/lanka_data.json)
+
 ## Structured Data (similar to original layout)
 
 ```json

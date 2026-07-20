@@ -1,0 +1,186 @@
+{
+  "Person": {
+    "Time:2024": {
+      "Province:LK-1": {
+        "Religion:buddhist": {
+          "Count": "Int:4507601"
+        },
+        "Religion:hindu": {
+          "Count": "Int:305971"
+        },
+        "Religion:islam": {
+          "Count": "Int:568301"
+        },
+        "Religion:roman_catholic": {
+          "Count": "Int:616413"
+        },
+        "Religion:other_christian": {
+          "Count": "Int:104869"
+        },
+        "Religion:other": {
+          "Count": "Int:14186"
+        }
+      },
+      "Province:LK-2": {
+        "Religion:buddhist": {
+          "Count": "Int:1760853"
+        },
+        "Religion:hindu": {
+          "Count": "Int:565722"
+        },
+        "Religion:islam": {
+          "Count": "Int:296754"
+        },
+        "Religion:roman_catholic": {
+          "Count": "Int:55680"
+        },
+        "Religion:other_christian": {
+          "Count": "Int:26421"
+        },
+        "Religion:other": {
+          "Count": "Int:8615"
+        }
+      },
+      "Province:LK-3": {
+        "Religion:buddhist": {
+          "Count": "Int:2463066"
+        },
+        "Religion:hindu": {
+          "Count": "Int:28775"
+        },
+        "Religion:islam": {
+          "Count": "Int:92985"
+        },
+        "Religion:roman_catholic": {
+          "Count": "Int:5093"
+        },
+        "Religion:other_christian": {
+          "Count": "Int:7568"
+        },
+        "Religion:other": {
+          "Count": "Int:9192"
+        }
+      },
+      "Province:LK-6": {
+        "Religion:buddhist": {
+          "Count": "Int:1918652"
+        },
+        "Religion:hindu": {
+          "Count": "Int:43060"
+        },
+        "Religion:islam": {
+          "Count": "Int:318870"
+        },
+        "Religion:roman_catholic": {
+          "Count": "Int:278850"
+        },
+        "Religion:other_christian": {
+          "Count": "Int:17211"
+        },
+        "Religion:other": {
+          "Count": "Int:10329"
+        }
+      },
+      "Province:LK-9": {
+        "Religion:buddhist": {
+          "Count": "Int:1728595"
+        },
+        "Religion:hindu": {
+          "Count": "Int:158799"
+        },
+        "Religion:islam": {
+          "Count": "Int:98549"
+        },
+        "Religion:roman_catholic": {
+          "Count": "Int:14257"
+        },
+        "Religion:other_christian": {
+          "Count": "Int:10416"
+        },
+        "Religion:other": {
+          "Count": "Int:5283"
+        }
+      },
+      "Province:LK-5": {
+        "Religion:buddhist": {
+          "Count": "Int:388164"
+        },
+        "Religion:hindu": {
+          "Count": "Int:596842"
+        },
+        "Religion:islam": {
+          "Count": "Int:706572"
+        },
+        "Religion:roman_catholic": {
+          "Count": "Int:46596"
+        },
+        "Religion:other_christian": {
+          "Count": "Int:41109"
+        },
+        "Religion:other": {
+          "Count": "Int:3931"
+        }
+      },
+      "Province:LK-7": {
+        "Religion:buddhist": {
+          "Count": "Int:1262247"
+        },
+        "Religion:hindu": {
+          "Count": "Int:9588"
+        },
+        "Religion:islam": {
+          "Count": "Int:120511"
+        },
+        "Religion:roman_catholic": {
+          "Count": "Int:6869"
+        },
+        "Religion:other_christian": {
+          "Count": "Int:3663"
+        },
+        "Religion:other": {
+          "Count": "Int:4732"
+        }
+      },
+      "Province:LK-8": {
+        "Religion:buddhist": {
+          "Count": "Int:1135408"
+        },
+        "Religion:hindu": {
+          "Count": "Int:180305"
+        },
+        "Religion:islam": {
+          "Count": "Int:65203"
+        },
+        "Religion:roman_catholic": {
+          "Count": "Int:9852"
+        },
+        "Religion:other_christian": {
+          "Count": "Int:5431"
+        },
+        "Religion:other": {
+          "Count": "Int:3693"
+        }
+      },
+      "Province:LK-4": {
+        "Religion:buddhist": {
+          "Count": "Int:32374"
+        },
+        "Religion:hindu": {
+          "Count": "Int:829092"
+        },
+        "Religion:islam": {
+          "Count": "Int:59860"
+        },
+        "Religion:roman_catholic": {
+          "Count": "Int:175462"
+        },
+        "Religion:other_christian": {
+          "Count": "Int:49827"
+        },
+        "Religion:other": {
+          "Count": "Int:3533"
+        }
+      }
+    }
+  }
+}

@@ -5,6 +5,44 @@
 
 *House-WallType, 2024 Census of Population and Housing, Department of Census and Statistics, Sri Lanka*
 
+## Structured Data formatted for [Lanka Data API](https://github.com/nuuuwan/lanka_data)
+
+```json
+{
+    "House": {
+        "Time:2024": {
+            "Province:LK-1": {
+                "WallType:bricks": {
+                    "Count": "Int:444198"
+                },
+                "WallType:cement_block": {
+                    "Count": "Int:1147193"
+                },
+                "WallType:granite_cube_stones": {
+                    "Count": "Int:8468"
+                },
+                "WallType:cabook": {
+                    "Count": "Int:48401"
+                },
+                "WallType:pressed_soil_bricks": {
+                    "Count": "Int:15695"
+                },
+                "WallType:warichchi_mud": {
+                    "Count": "Int:9478"
+                },
+                "WallType:cadjan_palmyrah": {
+                    "Count": "Int:122"
+                },
+                "WallType:planks_metal_sheets_asbestos": {
+                    "Count": "Int:12045"
+                },
+                "WallType:zink_aluminium_sheets": {
+                    "Count": "Int:407"
+...
+```
+
+- Source File: [House-WallType/lanka_data.json (7.9 KB)](../../data/House-WallType/lanka_data.json)
+
 ## Structured Data (similar to original layout)
 
 ```json

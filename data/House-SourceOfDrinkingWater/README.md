@@ -5,6 +5,44 @@
 
 *House-SourceOfDrinkingWater, 2024 Census of Population and Housing, Department of Census and Statistics, Sri Lanka*
 
+## Structured Data formatted for [Lanka Data API](https://github.com/nuuuwan/lanka_data)
+
+```json
+{
+    "House": {
+        "Time:2024": {
+            "Province:LK-1": {
+                "SourceOfDrinkingWater:protected_well": {
+                    "Count": "Int:547468"
+                },
+                "SourceOfDrinkingWater:semi_protected_well": {
+                    "Count": "Int:47227"
+                },
+                "SourceOfDrinkingWater:unprotected_well": {
+                    "Count": "Int:9979"
+                },
+                "SourceOfDrinkingWater:tube_well": {
+                    "Count": "Int:45657"
+                },
+                "SourceOfDrinkingWater:spring_fountain": {
+                    "Count": "Int:5123"
+                },
+                "SourceOfDrinkingWater:pipe_borne_nwsdb": {
+                    "Count": "Int:983503"
+                },
+                "SourceOfDrinkingWater:pipe_borne_local_authority": {
+                    "Count": "Int:9099"
+                },
+                "SourceOfDrinkingWater:pipe_borne_community": {
+                    "Count": "Int:39974"
+                },
+                "SourceOfDrinkingWater:pipe_borne_private": {
+                    "Count": "Int:9811"
+...
+```
+
+- Source File: [lanka_data.json (12.4 KB)](../../data/House-SourceOfDrinkingWater/lanka_data.json)
+
 ## Structured Data (similar to original layout)
 
 ```json

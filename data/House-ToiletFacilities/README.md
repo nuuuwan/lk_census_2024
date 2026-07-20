@@ -5,6 +5,44 @@
 
 *House-ToiletFacilities, 2024 Census of Population and Housing, Department of Census and Statistics, Sri Lanka*
 
+## Structured Data formatted for [Lanka Data API](https://github.com/nuuuwan/lanka_data)
+
+```json
+{
+    "House": {
+        "Time:2024": {
+            "Province:LK-1": {
+                "ToiletFacilities:within_unit_exclusive": {
+                    "Count": "Int:1402581"
+                },
+                "ToiletFacilities:within_unit_shared": {
+                    "Count": "Int:39527"
+                },
+                "ToiletFacilities:within_premises_exclusive": {
+                    "Count": "Int:206499"
+                },
+                "ToiletFacilities:within_premises_shared": {
+                    "Count": "Int:37544"
+                },
+                "ToiletFacilities:no_toilet_sharing": {
+                    "Count": "Int:11147"
+                },
+                "ToiletFacilities:common_public": {
+                    "Count": "Int:5440"
+                },
+                "ToiletFacilities:none": {
+                    "Count": "Int:682"
+                }
+            },
+            "Province:LK-2": {
+                "ToiletFacilities:within_unit_exclusive": {
+                    "Count": "Int:458565"
+                },
+...
+```
+
+- Source File: [lanka_data.json (5.9 KB)](../../data/House-ToiletFacilities/lanka_data.json)
+
 ## Structured Data (similar to original layout)
 
 ```json

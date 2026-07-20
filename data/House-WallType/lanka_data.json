@@ -1,0 +1,321 @@
+{
+  "House": {
+    "Time:2024": {
+      "Province:LK-1": {
+        "WallType:bricks": {
+          "Count": "Int:444198"
+        },
+        "WallType:cement_block": {
+          "Count": "Int:1147193"
+        },
+        "WallType:granite_cube_stones": {
+          "Count": "Int:8468"
+        },
+        "WallType:cabook": {
+          "Count": "Int:48401"
+        },
+        "WallType:pressed_soil_bricks": {
+          "Count": "Int:15695"
+        },
+        "WallType:warichchi_mud": {
+          "Count": "Int:9478"
+        },
+        "WallType:cadjan_palmyrah": {
+          "Count": "Int:122"
+        },
+        "WallType:planks_metal_sheets_asbestos": {
+          "Count": "Int:12045"
+        },
+        "WallType:zink_aluminium_sheets": {
+          "Count": "Int:407"
+        },
+        "WallType:other": {
+          "Count": "Int:229"
+        },
+        "WallType:not_relevant": {
+          "Count": "Int:270"
+        }
+      },
+      "Province:LK-6": {
+        "WallType:bricks": {
+          "Count": "Int:595052"
+        },
+        "WallType:cement_block": {
+          "Count": "Int:118669"
+        },
+        "WallType:granite_cube_stones": {
+          "Count": "Int:725"
+        },
+        "WallType:cabook": {
+          "Count": "Int:365"
+        },
+        "WallType:pressed_soil_bricks": {
+          "Count": "Int:5526"
+        },
+        "WallType:warichchi_mud": {
+          "Count": "Int:7102"
+        },
+        "WallType:cadjan_palmyrah": {
+          "Count": "Int:3440"
+        },
+        "WallType:planks_metal_sheets_asbestos": {
+          "Count": "Int:6863"
+        },
+        "WallType:zink_aluminium_sheets": {
+          "Count": "Int:437"
+        },
+        "WallType:other": {
+          "Count": "Int:114"
+        },
+        "WallType:not_relevant": {
+          "Count": "Int:110"
+        }
+      },
+      "Province:LK-2": {
+        "WallType:bricks": {
+          "Count": "Int:282854"
+        },
+        "WallType:cement_block": {
+          "Count": "Int:363613"
+        },
+        "WallType:granite_cube_stones": {
+          "Count": "Int:49021"
+        },
+        "WallType:cabook": {
+          "Count": "Int:1925"
+        },
+        "WallType:pressed_soil_bricks": {
+          "Count": "Int:21108"
+        },
+        "WallType:warichchi_mud": {
+          "Count": "Int:8484"
+        },
+        "WallType:cadjan_palmyrah": {
+          "Count": "Int:35"
+        },
+        "WallType:planks_metal_sheets_asbestos": {
+          "Count": "Int:3318"
+        },
+        "WallType:zink_aluminium_sheets": {
+          "Count": "Int:332"
+        },
+        "WallType:other": {
+          "Count": "Int:145"
+        },
+        "WallType:not_relevant": {
+          "Count": "Int:90"
+        }
+      },
+      "Province:LK-3": {
+        "WallType:bricks": {
+          "Count": "Int:365930"
+        },
+        "WallType:cement_block": {
+          "Count": "Int:313267"
+        },
+        "WallType:granite_cube_stones": {
+          "Count": "Int:4658"
+        },
+        "WallType:cabook": {
+          "Count": "Int:10786"
+        },
+        "WallType:pressed_soil_bricks": {
+          "Count": "Int:14814"
+        },
+        "WallType:warichchi_mud": {
+          "Count": "Int:9670"
+        },
+        "WallType:cadjan_palmyrah": {
+          "Count": "Int:41"
+        },
+        "WallType:planks_metal_sheets_asbestos": {
+          "Count": "Int:3546"
+        },
+        "WallType:zink_aluminium_sheets": {
+          "Count": "Int:111"
+        },
+        "WallType:other": {
+          "Count": "Int:106"
+        },
+        "WallType:not_relevant": {
+          "Count": "Int:42"
+        }
+      },
+      "Province:LK-9": {
+        "WallType:bricks": {
+          "Count": "Int:181919"
+        },
+        "WallType:cement_block": {
+          "Count": "Int:329020"
+        },
+        "WallType:granite_cube_stones": {
+          "Count": "Int:20115"
+        },
+        "WallType:cabook": {
+          "Count": "Int:4235"
+        },
+        "WallType:pressed_soil_bricks": {
+          "Count": "Int:12675"
+        },
+        "WallType:warichchi_mud": {
+          "Count": "Int:15673"
+        },
+        "WallType:cadjan_palmyrah": {
+          "Count": "Int:42"
+        },
+        "WallType:planks_metal_sheets_asbestos": {
+          "Count": "Int:2909"
+        },
+        "WallType:zink_aluminium_sheets": {
+          "Count": "Int:84"
+        },
+        "WallType:other": {
+          "Count": "Int:166"
+        },
+        "WallType:not_relevant": {
+          "Count": "Int:42"
+        }
+      },
+      "Province:LK-5": {
+        "WallType:bricks": {
+          "Count": "Int:361634"
+        },
+        "WallType:cement_block": {
+          "Count": "Int:108255"
+        },
+        "WallType:granite_cube_stones": {
+          "Count": "Int:482"
+        },
+        "WallType:cabook": {
+          "Count": "Int:217"
+        },
+        "WallType:pressed_soil_bricks": {
+          "Count": "Int:1475"
+        },
+        "WallType:warichchi_mud": {
+          "Count": "Int:4504"
+        },
+        "WallType:cadjan_palmyrah": {
+          "Count": "Int:2306"
+        },
+        "WallType:planks_metal_sheets_asbestos": {
+          "Count": "Int:8428"
+        },
+        "WallType:zink_aluminium_sheets": {
+          "Count": "Int:1599"
+        },
+        "WallType:other": {
+          "Count": "Int:44"
+        },
+        "WallType:not_relevant": {
+          "Count": "Int:418"
+        }
+      },
+      "Province:LK-7": {
+        "WallType:bricks": {
+          "Count": "Int:335859"
+        },
+        "WallType:cement_block": {
+          "Count": "Int:53722"
+        },
+        "WallType:granite_cube_stones": {
+          "Count": "Int:238"
+        },
+        "WallType:cabook": {
+          "Count": "Int:108"
+        },
+        "WallType:pressed_soil_bricks": {
+          "Count": "Int:1936"
+        },
+        "WallType:warichchi_mud": {
+          "Count": "Int:5107"
+        },
+        "WallType:cadjan_palmyrah": {
+          "Count": "Int:57"
+        },
+        "WallType:planks_metal_sheets_asbestos": {
+          "Count": "Int:667"
+        },
+        "WallType:zink_aluminium_sheets": {
+          "Count": "Int:123"
+        },
+        "WallType:other": {
+          "Count": "Int:48"
+        },
+        "WallType:not_relevant": {
+          "Count": "Int:25"
+        }
+      },
+      "Province:LK-8": {
+        "WallType:bricks": {
+          "Count": "Int:215064"
+        },
+        "WallType:cement_block": {
+          "Count": "Int:114216"
+        },
+        "WallType:granite_cube_stones": {
+          "Count": "Int:11494"
+        },
+        "WallType:cabook": {
+          "Count": "Int:2313"
+        },
+        "WallType:pressed_soil_bricks": {
+          "Count": "Int:36894"
+        },
+        "WallType:warichchi_mud": {
+          "Count": "Int:8617"
+        },
+        "WallType:cadjan_palmyrah": {
+          "Count": "Int:38"
+        },
+        "WallType:planks_metal_sheets_asbestos": {
+          "Count": "Int:1089"
+        },
+        "WallType:zink_aluminium_sheets": {
+          "Count": "Int:135"
+        },
+        "WallType:other": {
+          "Count": "Int:254"
+        },
+        "WallType:not_relevant": {
+          "Count": "Int:31"
+        }
+      },
+      "Province:LK-4": {
+        "WallType:bricks": {
+          "Count": "Int:17403"
+        },
+        "WallType:cement_block": {
+          "Count": "Int:280072"
+        },
+        "WallType:granite_cube_stones": {
+          "Count": "Int:516"
+        },
+        "WallType:cabook": {
+          "Count": "Int:147"
+        },
+        "WallType:pressed_soil_bricks": {
+          "Count": "Int:1122"
+        },
+        "WallType:warichchi_mud": {
+          "Count": "Int:1376"
+        },
+        "WallType:cadjan_palmyrah": {
+          "Count": "Int:1569"
+        },
+        "WallType:planks_metal_sheets_asbestos": {
+          "Count": "Int:4395"
+        },
+        "WallType:zink_aluminium_sheets": {
+          "Count": "Int:642"
+        },
+        "WallType:other": {
+          "Count": "Int:34"
+        },
+        "WallType:not_relevant": {
+          "Count": "Int:183"
+        }
+      }
+    }
+  }
+}

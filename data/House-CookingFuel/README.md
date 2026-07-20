@@ -5,6 +5,44 @@
 
 *House-CookingFuel, 2024 Census of Population and Housing, Department of Census and Statistics, Sri Lanka*
 
+## Structured Data formatted for [Lanka Data API](https://github.com/nuuuwan/lanka_data)
+
+```json
+{
+    "House": {
+        "Time:2024": {
+            "Province:LK-1": {
+                "CookingFuel:fire_wood": {
+                    "Count": "Int:433777"
+                },
+                "CookingFuel:kerosene": {
+                    "Count": "Int:15637"
+                },
+                "CookingFuel:gas": {
+                    "Count": "Int:1203412"
+                },
+                "CookingFuel:electricity": {
+                    "Count": "Int:10508"
+                },
+                "CookingFuel:saw_dust_or_paddy_husk": {
+                    "Count": "Int:303"
+                },
+                "CookingFuel:bio_gas": {
+                    "Count": "Int:356"
+                },
+                "CookingFuel:other": {
+                    "Count": "Int:1152"
+                },
+                "CookingFuel:not_relevant": {
+                    "Count": "Int:38275"
+                }
+            },
+            "Province:LK-2": {
+...
+```
+
+- Source File: [lanka_data.json (5.7 KB)](../../data/House-CookingFuel/lanka_data.json)
+
 ## Structured Data (similar to original layout)
 
 ```json

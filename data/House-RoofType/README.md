@@ -5,6 +5,44 @@
 
 *House-RoofType, 2024 Census of Population and Housing, Department of Census and Statistics, Sri Lanka*
 
+## Structured Data formatted for [Lanka Data API](https://github.com/nuuuwan/lanka_data)
+
+```json
+{
+    "House": {
+        "Time:2024": {
+            "Province:LK-1": {
+                "RoofType:tile": {
+                    "Count": "Int:363704"
+                },
+                "RoofType:asbestos": {
+                    "Count": "Int:1098621"
+                },
+                "RoofType:concrete": {
+                    "Count": "Int:190819"
+                },
+                "RoofType:zink_aluminium_sheet": {
+                    "Count": "Int:10224"
+                },
+                "RoofType:metal_sheet": {
+                    "Count": "Int:12480"
+                },
+                "RoofType:cadjan_palmyrah_straw": {
+                    "Count": "Int:10085"
+                },
+                "RoofType:other": {
+                    "Count": "Int:303"
+                },
+                "RoofType:not_relevant": {
+                    "Count": "Int:270"
+                }
+            },
+            "Province:LK-6": {
+...
+```
+
+- Source File: [House-RoofType/lanka_data.json (5.6 KB)](../../data/House-RoofType/lanka_data.json)
+
 ## Structured Data (similar to original layout)
 
 ```json

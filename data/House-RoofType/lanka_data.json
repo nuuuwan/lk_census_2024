@@ -1,0 +1,240 @@
+{
+  "House": {
+    "Time:2024": {
+      "Province:LK-1": {
+        "RoofType:tile": {
+          "Count": "Int:363704"
+        },
+        "RoofType:asbestos": {
+          "Count": "Int:1098621"
+        },
+        "RoofType:concrete": {
+          "Count": "Int:190819"
+        },
+        "RoofType:zink_aluminium_sheet": {
+          "Count": "Int:10224"
+        },
+        "RoofType:metal_sheet": {
+          "Count": "Int:12480"
+        },
+        "RoofType:cadjan_palmyrah_straw": {
+          "Count": "Int:10085"
+        },
+        "RoofType:other": {
+          "Count": "Int:303"
+        },
+        "RoofType:not_relevant": {
+          "Count": "Int:270"
+        }
+      },
+      "Province:LK-6": {
+        "RoofType:tile": {
+          "Count": "Int:487945"
+        },
+        "RoofType:asbestos": {
+          "Count": "Int:192946"
+        },
+        "RoofType:concrete": {
+          "Count": "Int:18700"
+        },
+        "RoofType:zink_aluminium_sheet": {
+          "Count": "Int:9457"
+        },
+        "RoofType:metal_sheet": {
+          "Count": "Int:14211"
+        },
+        "RoofType:cadjan_palmyrah_straw": {
+          "Count": "Int:12523"
+        },
+        "RoofType:other": {
+          "Count": "Int:2511"
+        },
+        "RoofType:not_relevant": {
+          "Count": "Int:110"
+        }
+      },
+      "Province:LK-2": {
+        "RoofType:tile": {
+          "Count": "Int:66210"
+        },
+        "RoofType:asbestos": {
+          "Count": "Int:471886"
+        },
+        "RoofType:concrete": {
+          "Count": "Int:83423"
+        },
+        "RoofType:zink_aluminium_sheet": {
+          "Count": "Int:34464"
+        },
+        "RoofType:metal_sheet": {
+          "Count": "Int:53758"
+        },
+        "RoofType:cadjan_palmyrah_straw": {
+          "Count": "Int:20521"
+        },
+        "RoofType:other": {
+          "Count": "Int:573"
+        },
+        "RoofType:not_relevant": {
+          "Count": "Int:90"
+        }
+      },
+      "Province:LK-3": {
+        "RoofType:tile": {
+          "Count": "Int:311194"
+        },
+        "RoofType:asbestos": {
+          "Count": "Int:365468"
+        },
+        "RoofType:concrete": {
+          "Count": "Int:31230"
+        },
+        "RoofType:zink_aluminium_sheet": {
+          "Count": "Int:2162"
+        },
+        "RoofType:metal_sheet": {
+          "Count": "Int:7330"
+        },
+        "RoofType:cadjan_palmyrah_straw": {
+          "Count": "Int:5322"
+        },
+        "RoofType:other": {
+          "Count": "Int:223"
+        },
+        "RoofType:not_relevant": {
+          "Count": "Int:42"
+        }
+      },
+      "Province:LK-9": {
+        "RoofType:tile": {
+          "Count": "Int:149072"
+        },
+        "RoofType:asbestos": {
+          "Count": "Int:344798"
+        },
+        "RoofType:concrete": {
+          "Count": "Int:26348"
+        },
+        "RoofType:zink_aluminium_sheet": {
+          "Count": "Int:5632"
+        },
+        "RoofType:metal_sheet": {
+          "Count": "Int:21011"
+        },
+        "RoofType:cadjan_palmyrah_straw": {
+          "Count": "Int:19831"
+        },
+        "RoofType:other": {
+          "Count": "Int:146"
+        },
+        "RoofType:not_relevant": {
+          "Count": "Int:42"
+        }
+      },
+      "Province:LK-5": {
+        "RoofType:tile": {
+          "Count": "Int:285586"
+        },
+        "RoofType:asbestos": {
+          "Count": "Int:121898"
+        },
+        "RoofType:concrete": {
+          "Count": "Int:54518"
+        },
+        "RoofType:zink_aluminium_sheet": {
+          "Count": "Int:7358"
+        },
+        "RoofType:metal_sheet": {
+          "Count": "Int:7875"
+        },
+        "RoofType:cadjan_palmyrah_straw": {
+          "Count": "Int:8896"
+        },
+        "RoofType:other": {
+          "Count": "Int:2813"
+        },
+        "RoofType:not_relevant": {
+          "Count": "Int:418"
+        }
+      },
+      "Province:LK-7": {
+        "RoofType:tile": {
+          "Count": "Int:96127"
+        },
+        "RoofType:asbestos": {
+          "Count": "Int:280591"
+        },
+        "RoofType:concrete": {
+          "Count": "Int:9748"
+        },
+        "RoofType:zink_aluminium_sheet": {
+          "Count": "Int:2902"
+        },
+        "RoofType:metal_sheet": {
+          "Count": "Int:4495"
+        },
+        "RoofType:cadjan_palmyrah_straw": {
+          "Count": "Int:3826"
+        },
+        "RoofType:other": {
+          "Count": "Int:176"
+        },
+        "RoofType:not_relevant": {
+          "Count": "Int:25"
+        }
+      },
+      "Province:LK-8": {
+        "RoofType:tile": {
+          "Count": "Int:90405"
+        },
+        "RoofType:asbestos": {
+          "Count": "Int:232820"
+        },
+        "RoofType:concrete": {
+          "Count": "Int:18874"
+        },
+        "RoofType:zink_aluminium_sheet": {
+          "Count": "Int:7033"
+        },
+        "RoofType:metal_sheet": {
+          "Count": "Int:36734"
+        },
+        "RoofType:cadjan_palmyrah_straw": {
+          "Count": "Int:4085"
+        },
+        "RoofType:other": {
+          "Count": "Int:163"
+        },
+        "RoofType:not_relevant": {
+          "Count": "Int:31"
+        }
+      },
+      "Province:LK-4": {
+        "RoofType:tile": {
+          "Count": "Int:182198"
+        },
+        "RoofType:asbestos": {
+          "Count": "Int:100468"
+        },
+        "RoofType:concrete": {
+          "Count": "Int:7101"
+        },
+        "RoofType:zink_aluminium_sheet": {
+          "Count": "Int:6190"
+        },
+        "RoofType:metal_sheet": {
+          "Count": "Int:5841"
+        },
+        "RoofType:cadjan_palmyrah_straw": {
+          "Count": "Int:3731"
+        },
+        "RoofType:other": {
+          "Count": "Int:1747"
+        },
+        "RoofType:not_relevant": {
+          "Count": "Int:183"
+        }
+      }
+    }
+  }
+}

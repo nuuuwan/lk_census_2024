@@ -5,6 +5,44 @@
 
 *Person-Sex, 2024 Census of Population and Housing, Department of Census and Statistics, Sri Lanka*
 
+## Structured Data formatted for [Lanka Data API](https://github.com/nuuuwan/lanka_data)
+
+```json
+{
+    "Person": {
+        "Time:2024": {
+            "GND:LK-1103015": {
+                "Sex:male": {
+                    "Count": "Int:15579"
+                },
+                "Sex:female": {
+                    "Count": "Int:16149"
+                }
+            },
+            "GND:LK-1103010": {
+                "Sex:male": {
+                    "Count": "Int:13749"
+                },
+                "Sex:female": {
+                    "Count": "Int:14386"
+                }
+            },
+            "GND:LK-1127030": {
+                "Sex:male": {
+                    "Count": "Int:10522"
+                },
+                "Sex:female": {
+                    "Count": "Int:10731"
+                }
+            },
+            "GND:LK-1127085": {
+                "Sex:male": {
+                    "Count": "Int:8558"
+...
+```
+
+- Source File: [Person-Sex/lanka_data.json (2.1 MB)](../../data/Person-Sex/lanka_data.json)
+
 ## Structured Data (similar to original layout)
 
 ```json

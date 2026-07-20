@@ -5,6 +5,44 @@
 
 *House-Lighting, 2024 Census of Population and Housing, Department of Census and Statistics, Sri Lanka*
 
+## Structured Data formatted for [Lanka Data API](https://github.com/nuuuwan/lanka_data)
+
+```json
+{
+    "House": {
+        "Time:2024": {
+            "Province:LK-1": {
+                "Lighting:electricity_grid": {
+                    "Count": "Int:1682433"
+                },
+                "Lighting:kerosene": {
+                    "Count": "Int:10565"
+                },
+                "Lighting:solar_grid": {
+                    "Count": "Int:5206"
+                },
+                "Lighting:solar_standalone": {
+                    "Count": "Int:1514"
+                },
+                "Lighting:bio_gas": {
+                    "Count": "Int:121"
+                },
+                "Lighting:generator": {
+                    "Count": "Int:288"
+                },
+                "Lighting:other": {
+                    "Count": "Int:3293"
+                }
+            },
+            "Province:LK-2": {
+                "Lighting:electricity_grid": {
+                    "Count": "Int:736755"
+                },
+...
+```
+
+- Source File: [House-Lighting/lanka_data.json (4.9 KB)](../../data/House-Lighting/lanka_data.json)
+
 ## Structured Data (similar to original layout)
 
 ```json

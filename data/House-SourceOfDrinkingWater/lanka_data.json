@@ -1,0 +1,429 @@
+{
+  "House": {
+    "Time:2024": {
+      "Province:LK-1": {
+        "SourceOfDrinkingWater:protected_well": {
+          "Count": "Int:547468"
+        },
+        "SourceOfDrinkingWater:semi_protected_well": {
+          "Count": "Int:47227"
+        },
+        "SourceOfDrinkingWater:unprotected_well": {
+          "Count": "Int:9979"
+        },
+        "SourceOfDrinkingWater:tube_well": {
+          "Count": "Int:45657"
+        },
+        "SourceOfDrinkingWater:spring_fountain": {
+          "Count": "Int:5123"
+        },
+        "SourceOfDrinkingWater:pipe_borne_nwsdb": {
+          "Count": "Int:983503"
+        },
+        "SourceOfDrinkingWater:pipe_borne_local_authority": {
+          "Count": "Int:9099"
+        },
+        "SourceOfDrinkingWater:pipe_borne_community": {
+          "Count": "Int:39974"
+        },
+        "SourceOfDrinkingWater:pipe_borne_private": {
+          "Count": "Int:9811"
+        },
+        "SourceOfDrinkingWater:tank_river_stream": {
+          "Count": "Int:1849"
+        },
+        "SourceOfDrinkingWater:rain_water": {
+          "Count": "Int:114"
+        },
+        "SourceOfDrinkingWater:bottled_water": {
+          "Count": "Int:3140"
+        },
+        "SourceOfDrinkingWater:filter_ro": {
+          "Count": "Int:128"
+        },
+        "SourceOfDrinkingWater:bowser": {
+          "Count": "Int:95"
+        },
+        "SourceOfDrinkingWater:other": {
+          "Count": "Int:253"
+        }
+      },
+      "Province:LK-2": {
+        "SourceOfDrinkingWater:protected_well": {
+          "Count": "Int:91497"
+        },
+        "SourceOfDrinkingWater:semi_protected_well": {
+          "Count": "Int:21372"
+        },
+        "SourceOfDrinkingWater:unprotected_well": {
+          "Count": "Int:9024"
+        },
+        "SourceOfDrinkingWater:tube_well": {
+          "Count": "Int:16174"
+        },
+        "SourceOfDrinkingWater:spring_fountain": {
+          "Count": "Int:96127"
+        },
+        "SourceOfDrinkingWater:pipe_borne_nwsdb": {
+          "Count": "Int:299310"
+        },
+        "SourceOfDrinkingWater:pipe_borne_local_authority": {
+          "Count": "Int:44481"
+        },
+        "SourceOfDrinkingWater:pipe_borne_community": {
+          "Count": "Int:92552"
+        },
+        "SourceOfDrinkingWater:pipe_borne_private": {
+          "Count": "Int:39614"
+        },
+        "SourceOfDrinkingWater:tank_river_stream": {
+          "Count": "Int:24126"
+        },
+        "SourceOfDrinkingWater:rain_water": {
+          "Count": "Int:382"
+        },
+        "SourceOfDrinkingWater:bottled_water": {
+          "Count": "Int:1576"
+        },
+        "SourceOfDrinkingWater:filter_ro": {
+          "Count": "Int:11453"
+        },
+        "SourceOfDrinkingWater:bowser": {
+          "Count": "Int:1199"
+        },
+        "SourceOfDrinkingWater:other": {
+          "Count": "Int:132"
+        }
+      },
+      "Province:LK-6": {
+        "SourceOfDrinkingWater:protected_well": {
+          "Count": "Int:281852"
+        },
+        "SourceOfDrinkingWater:semi_protected_well": {
+          "Count": "Int:58067"
+        },
+        "SourceOfDrinkingWater:unprotected_well": {
+          "Count": "Int:12442"
+        },
+        "SourceOfDrinkingWater:tube_well": {
+          "Count": "Int:53483"
+        },
+        "SourceOfDrinkingWater:spring_fountain": {
+          "Count": "Int:4291"
+        },
+        "SourceOfDrinkingWater:pipe_borne_nwsdb": {
+          "Count": "Int:63057"
+        },
+        "SourceOfDrinkingWater:pipe_borne_local_authority": {
+          "Count": "Int:5932"
+        },
+        "SourceOfDrinkingWater:pipe_borne_community": {
+          "Count": "Int:37229"
+        },
+        "SourceOfDrinkingWater:pipe_borne_private": {
+          "Count": "Int:11245"
+        },
+        "SourceOfDrinkingWater:tank_river_stream": {
+          "Count": "Int:954"
+        },
+        "SourceOfDrinkingWater:rain_water": {
+          "Count": "Int:1816"
+        },
+        "SourceOfDrinkingWater:bottled_water": {
+          "Count": "Int:38618"
+        },
+        "SourceOfDrinkingWater:filter_ro": {
+          "Count": "Int:157245"
+        },
+        "SourceOfDrinkingWater:bowser": {
+          "Count": "Int:18926"
+        },
+        "SourceOfDrinkingWater:other": {
+          "Count": "Int:36"
+        }
+      },
+      "Province:LK-3": {
+        "SourceOfDrinkingWater:protected_well": {
+          "Count": "Int:239865"
+        },
+        "SourceOfDrinkingWater:semi_protected_well": {
+          "Count": "Int:47351"
+        },
+        "SourceOfDrinkingWater:unprotected_well": {
+          "Count": "Int:15823"
+        },
+        "SourceOfDrinkingWater:tube_well": {
+          "Count": "Int:6870"
+        },
+        "SourceOfDrinkingWater:spring_fountain": {
+          "Count": "Int:12729"
+        },
+        "SourceOfDrinkingWater:pipe_borne_nwsdb": {
+          "Count": "Int:315660"
+        },
+        "SourceOfDrinkingWater:pipe_borne_local_authority": {
+          "Count": "Int:6322"
+        },
+        "SourceOfDrinkingWater:pipe_borne_community": {
+          "Count": "Int:48336"
+        },
+        "SourceOfDrinkingWater:pipe_borne_private": {
+          "Count": "Int:15673"
+        },
+        "SourceOfDrinkingWater:tank_river_stream": {
+          "Count": "Int:6369"
+        },
+        "SourceOfDrinkingWater:rain_water": {
+          "Count": "Int:134"
+        },
+        "SourceOfDrinkingWater:bottled_water": {
+          "Count": "Int:4677"
+        },
+        "SourceOfDrinkingWater:filter_ro": {
+          "Count": "Int:7877"
+        },
+        "SourceOfDrinkingWater:bowser": {
+          "Count": "Int:545"
+        },
+        "SourceOfDrinkingWater:other": {
+          "Count": "Int:57"
+        }
+      },
+      "Province:LK-9": {
+        "SourceOfDrinkingWater:protected_well": {
+          "Count": "Int:181561"
+        },
+        "SourceOfDrinkingWater:semi_protected_well": {
+          "Count": "Int:30748"
+        },
+        "SourceOfDrinkingWater:unprotected_well": {
+          "Count": "Int:10767"
+        },
+        "SourceOfDrinkingWater:tube_well": {
+          "Count": "Int:6083"
+        },
+        "SourceOfDrinkingWater:spring_fountain": {
+          "Count": "Int:65092"
+        },
+        "SourceOfDrinkingWater:pipe_borne_nwsdb": {
+          "Count": "Int:125630"
+        },
+        "SourceOfDrinkingWater:pipe_borne_local_authority": {
+          "Count": "Int:8699"
+        },
+        "SourceOfDrinkingWater:pipe_borne_community": {
+          "Count": "Int:92907"
+        },
+        "SourceOfDrinkingWater:pipe_borne_private": {
+          "Count": "Int:34084"
+        },
+        "SourceOfDrinkingWater:tank_river_stream": {
+          "Count": "Int:14417"
+        },
+        "SourceOfDrinkingWater:rain_water": {
+          "Count": "Int:144"
+        },
+        "SourceOfDrinkingWater:bottled_water": {
+          "Count": "Int:969"
+        },
+        "SourceOfDrinkingWater:filter_ro": {
+          "Count": "Int:463"
+        },
+        "SourceOfDrinkingWater:bowser": {
+          "Count": "Int:33"
+        },
+        "SourceOfDrinkingWater:other": {
+          "Count": "Int:85"
+        }
+      },
+      "Province:LK-5": {
+        "SourceOfDrinkingWater:protected_well": {
+          "Count": "Int:83224"
+        },
+        "SourceOfDrinkingWater:semi_protected_well": {
+          "Count": "Int:14057"
+        },
+        "SourceOfDrinkingWater:unprotected_well": {
+          "Count": "Int:4964"
+        },
+        "SourceOfDrinkingWater:tube_well": {
+          "Count": "Int:50650"
+        },
+        "SourceOfDrinkingWater:spring_fountain": {
+          "Count": "Int:734"
+        },
+        "SourceOfDrinkingWater:pipe_borne_nwsdb": {
+          "Count": "Int:319708"
+        },
+        "SourceOfDrinkingWater:pipe_borne_local_authority": {
+          "Count": "Int:2697"
+        },
+        "SourceOfDrinkingWater:pipe_borne_community": {
+          "Count": "Int:9774"
+        },
+        "SourceOfDrinkingWater:pipe_borne_private": {
+          "Count": "Int:771"
+        },
+        "SourceOfDrinkingWater:tank_river_stream": {
+          "Count": "Int:585"
+        },
+        "SourceOfDrinkingWater:rain_water": {
+          "Count": "Int:80"
+        },
+        "SourceOfDrinkingWater:bottled_water": {
+          "Count": "Int:736"
+        },
+        "SourceOfDrinkingWater:filter_ro": {
+          "Count": "Int:9859"
+        },
+        "SourceOfDrinkingWater:bowser": {
+          "Count": "Int:1278"
+        },
+        "SourceOfDrinkingWater:other": {
+          "Count": "Int:100"
+        }
+      },
+      "Province:LK-7": {
+        "SourceOfDrinkingWater:protected_well": {
+          "Count": "Int:27167"
+        },
+        "SourceOfDrinkingWater:semi_protected_well": {
+          "Count": "Int:3488"
+        },
+        "SourceOfDrinkingWater:unprotected_well": {
+          "Count": "Int:1125"
+        },
+        "SourceOfDrinkingWater:tube_well": {
+          "Count": "Int:3067"
+        },
+        "SourceOfDrinkingWater:spring_fountain": {
+          "Count": "Int:5351"
+        },
+        "SourceOfDrinkingWater:pipe_borne_nwsdb": {
+          "Count": "Int:91184"
+        },
+        "SourceOfDrinkingWater:pipe_borne_local_authority": {
+          "Count": "Int:7187"
+        },
+        "SourceOfDrinkingWater:pipe_borne_community": {
+          "Count": "Int:24505"
+        },
+        "SourceOfDrinkingWater:pipe_borne_private": {
+          "Count": "Int:3245"
+        },
+        "SourceOfDrinkingWater:tank_river_stream": {
+          "Count": "Int:532"
+        },
+        "SourceOfDrinkingWater:rain_water": {
+          "Count": "Int:745"
+        },
+        "SourceOfDrinkingWater:bottled_water": {
+          "Count": "Int:7785"
+        },
+        "SourceOfDrinkingWater:filter_ro": {
+          "Count": "Int:226167"
+        },
+        "SourceOfDrinkingWater:bowser": {
+          "Count": "Int:906"
+        },
+        "SourceOfDrinkingWater:other": {
+          "Count": "Int:15"
+        }
+      },
+      "Province:LK-8": {
+        "SourceOfDrinkingWater:protected_well": {
+          "Count": "Int:68602"
+        },
+        "SourceOfDrinkingWater:semi_protected_well": {
+          "Count": "Int:14099"
+        },
+        "SourceOfDrinkingWater:unprotected_well": {
+          "Count": "Int:5774"
+        },
+        "SourceOfDrinkingWater:tube_well": {
+          "Count": "Int:6877"
+        },
+        "SourceOfDrinkingWater:spring_fountain": {
+          "Count": "Int:40628"
+        },
+        "SourceOfDrinkingWater:pipe_borne_nwsdb": {
+          "Count": "Int:140265"
+        },
+        "SourceOfDrinkingWater:pipe_borne_local_authority": {
+          "Count": "Int:10265"
+        },
+        "SourceOfDrinkingWater:pipe_borne_community": {
+          "Count": "Int:70074"
+        },
+        "SourceOfDrinkingWater:pipe_borne_private": {
+          "Count": "Int:14065"
+        },
+        "SourceOfDrinkingWater:tank_river_stream": {
+          "Count": "Int:9990"
+        },
+        "SourceOfDrinkingWater:rain_water": {
+          "Count": "Int:492"
+        },
+        "SourceOfDrinkingWater:bottled_water": {
+          "Count": "Int:865"
+        },
+        "SourceOfDrinkingWater:filter_ro": {
+          "Count": "Int:17645"
+        },
+        "SourceOfDrinkingWater:bowser": {
+          "Count": "Int:364"
+        },
+        "SourceOfDrinkingWater:other": {
+          "Count": "Int:20"
+        }
+      },
+      "Province:LK-4": {
+        "SourceOfDrinkingWater:protected_well": {
+          "Count": "Int:103270"
+        },
+        "SourceOfDrinkingWater:semi_protected_well": {
+          "Count": "Int:30918"
+        },
+        "SourceOfDrinkingWater:unprotected_well": {
+          "Count": "Int:7908"
+        },
+        "SourceOfDrinkingWater:tube_well": {
+          "Count": "Int:81540"
+        },
+        "SourceOfDrinkingWater:spring_fountain": {
+          "Count": "Int:193"
+        },
+        "SourceOfDrinkingWater:pipe_borne_nwsdb": {
+          "Count": "Int:36032"
+        },
+        "SourceOfDrinkingWater:pipe_borne_local_authority": {
+          "Count": "Int:6082"
+        },
+        "SourceOfDrinkingWater:pipe_borne_community": {
+          "Count": "Int:3896"
+        },
+        "SourceOfDrinkingWater:pipe_borne_private": {
+          "Count": "Int:1886"
+        },
+        "SourceOfDrinkingWater:tank_river_stream": {
+          "Count": "Int:514"
+        },
+        "SourceOfDrinkingWater:rain_water": {
+          "Count": "Int:439"
+        },
+        "SourceOfDrinkingWater:bottled_water": {
+          "Count": "Int:5387"
+        },
+        "SourceOfDrinkingWater:filter_ro": {
+          "Count": "Int:26012"
+        },
+        "SourceOfDrinkingWater:bowser": {
+          "Count": "Int:7862"
+        },
+        "SourceOfDrinkingWater:other": {
+          "Count": "Int:63"
+        }
+      }
+    }
+  }
+}

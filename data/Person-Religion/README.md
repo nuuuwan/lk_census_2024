@@ -5,6 +5,44 @@
 
 *Person-Religion, 2024 Census of Population and Housing, Department of Census and Statistics, Sri Lanka*
 
+## Structured Data formatted for [Lanka Data API](https://github.com/nuuuwan/lanka_data)
+
+```json
+{
+    "Person": {
+        "Time:2024": {
+            "Province:LK-1": {
+                "Religion:buddhist": {
+                    "Count": "Int:4507601"
+                },
+                "Religion:hindu": {
+                    "Count": "Int:305971"
+                },
+                "Religion:islam": {
+                    "Count": "Int:568301"
+                },
+                "Religion:roman_catholic": {
+                    "Count": "Int:616413"
+                },
+                "Religion:other_christian": {
+                    "Count": "Int:104869"
+                },
+                "Religion:other": {
+                    "Count": "Int:14186"
+                }
+            },
+            "Province:LK-2": {
+                "Religion:buddhist": {
+                    "Count": "Int:1760853"
+                },
+                "Religion:hindu": {
+                    "Count": "Int:565722"
+                },
+...
+```
+
+- Source File: [lanka_data.json (4.2 KB)](../../data/Person-Religion/lanka_data.json)
+
 ## Structured Data (similar to original layout)
 
 ```json

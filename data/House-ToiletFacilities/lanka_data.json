@@ -1,0 +1,213 @@
+{
+  "House": {
+    "Time:2024": {
+      "Province:LK-1": {
+        "ToiletFacilities:within_unit_exclusive": {
+          "Count": "Int:1402581"
+        },
+        "ToiletFacilities:within_unit_shared": {
+          "Count": "Int:39527"
+        },
+        "ToiletFacilities:within_premises_exclusive": {
+          "Count": "Int:206499"
+        },
+        "ToiletFacilities:within_premises_shared": {
+          "Count": "Int:37544"
+        },
+        "ToiletFacilities:no_toilet_sharing": {
+          "Count": "Int:11147"
+        },
+        "ToiletFacilities:common_public": {
+          "Count": "Int:5440"
+        },
+        "ToiletFacilities:none": {
+          "Count": "Int:682"
+        }
+      },
+      "Province:LK-2": {
+        "ToiletFacilities:within_unit_exclusive": {
+          "Count": "Int:458565"
+        },
+        "ToiletFacilities:within_unit_shared": {
+          "Count": "Int:26474"
+        },
+        "ToiletFacilities:within_premises_exclusive": {
+          "Count": "Int:219652"
+        },
+        "ToiletFacilities:within_premises_shared": {
+          "Count": "Int:28760"
+        },
+        "ToiletFacilities:no_toilet_sharing": {
+          "Count": "Int:12295"
+        },
+        "ToiletFacilities:common_public": {
+          "Count": "Int:1882"
+        },
+        "ToiletFacilities:none": {
+          "Count": "Int:1391"
+        }
+      },
+      "Province:LK-6": {
+        "ToiletFacilities:within_unit_exclusive": {
+          "Count": "Int:407961"
+        },
+        "ToiletFacilities:within_unit_shared": {
+          "Count": "Int:17499"
+        },
+        "ToiletFacilities:within_premises_exclusive": {
+          "Count": "Int:277976"
+        },
+        "ToiletFacilities:within_premises_shared": {
+          "Count": "Int:27876"
+        },
+        "ToiletFacilities:no_toilet_sharing": {
+          "Count": "Int:11301"
+        },
+        "ToiletFacilities:common_public": {
+          "Count": "Int:624"
+        },
+        "ToiletFacilities:none": {
+          "Count": "Int:1956"
+        }
+      },
+      "Province:LK-3": {
+        "ToiletFacilities:within_unit_exclusive": {
+          "Count": "Int:415171"
+        },
+        "ToiletFacilities:within_unit_shared": {
+          "Count": "Int:13432"
+        },
+        "ToiletFacilities:within_premises_exclusive": {
+          "Count": "Int:265541"
+        },
+        "ToiletFacilities:within_premises_shared": {
+          "Count": "Int:21117"
+        },
+        "ToiletFacilities:no_toilet_sharing": {
+          "Count": "Int:12060"
+        },
+        "ToiletFacilities:common_public": {
+          "Count": "Int:375"
+        },
+        "ToiletFacilities:none": {
+          "Count": "Int:592"
+        }
+      },
+      "Province:LK-9": {
+        "ToiletFacilities:within_unit_exclusive": {
+          "Count": "Int:324428"
+        },
+        "ToiletFacilities:within_unit_shared": {
+          "Count": "Int:14234"
+        },
+        "ToiletFacilities:within_premises_exclusive": {
+          "Count": "Int:202930"
+        },
+        "ToiletFacilities:within_premises_shared": {
+          "Count": "Int:18605"
+        },
+        "ToiletFacilities:no_toilet_sharing": {
+          "Count": "Int:10520"
+        },
+        "ToiletFacilities:common_public": {
+          "Count": "Int:394"
+        },
+        "ToiletFacilities:none": {
+          "Count": "Int:571"
+        }
+      },
+      "Province:LK-5": {
+        "ToiletFacilities:within_unit_exclusive": {
+          "Count": "Int:286398"
+        },
+        "ToiletFacilities:within_unit_shared": {
+          "Count": "Int:14745"
+        },
+        "ToiletFacilities:within_premises_exclusive": {
+          "Count": "Int:156914"
+        },
+        "ToiletFacilities:within_premises_shared": {
+          "Count": "Int:16916"
+        },
+        "ToiletFacilities:no_toilet_sharing": {
+          "Count": "Int:19498"
+        },
+        "ToiletFacilities:common_public": {
+          "Count": "Int:258"
+        },
+        "ToiletFacilities:none": {
+          "Count": "Int:4488"
+        }
+      },
+      "Province:LK-7": {
+        "ToiletFacilities:within_unit_exclusive": {
+          "Count": "Int:193979"
+        },
+        "ToiletFacilities:within_unit_shared": {
+          "Count": "Int:10318"
+        },
+        "ToiletFacilities:within_premises_exclusive": {
+          "Count": "Int:170120"
+        },
+        "ToiletFacilities:within_premises_shared": {
+          "Count": "Int:18899"
+        },
+        "ToiletFacilities:no_toilet_sharing": {
+          "Count": "Int:7869"
+        },
+        "ToiletFacilities:common_public": {
+          "Count": "Int:135"
+        },
+        "ToiletFacilities:none": {
+          "Count": "Int:1149"
+        }
+      },
+      "Province:LK-8": {
+        "ToiletFacilities:within_unit_exclusive": {
+          "Count": "Int:177500"
+        },
+        "ToiletFacilities:within_unit_shared": {
+          "Count": "Int:14094"
+        },
+        "ToiletFacilities:within_premises_exclusive": {
+          "Count": "Int:177759"
+        },
+        "ToiletFacilities:within_premises_shared": {
+          "Count": "Int:20475"
+        },
+        "ToiletFacilities:no_toilet_sharing": {
+          "Count": "Int:9071"
+        },
+        "ToiletFacilities:common_public": {
+          "Count": "Int:245"
+        },
+        "ToiletFacilities:none": {
+          "Count": "Int:881"
+        }
+      },
+      "Province:LK-4": {
+        "ToiletFacilities:within_unit_exclusive": {
+          "Count": "Int:132194"
+        },
+        "ToiletFacilities:within_unit_shared": {
+          "Count": "Int:7133"
+        },
+        "ToiletFacilities:within_premises_exclusive": {
+          "Count": "Int:155196"
+        },
+        "ToiletFacilities:within_premises_shared": {
+          "Count": "Int:7486"
+        },
+        "ToiletFacilities:no_toilet_sharing": {
+          "Count": "Int:8163"
+        },
+        "ToiletFacilities:common_public": {
+          "Count": "Int:214"
+        },
+        "ToiletFacilities:none": {
+          "Count": "Int:1616"
+        }
+      }
+    }
+  }
+}

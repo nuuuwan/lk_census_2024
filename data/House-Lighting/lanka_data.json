@@ -1,0 +1,213 @@
+{
+  "House": {
+    "Time:2024": {
+      "Province:LK-1": {
+        "Lighting:electricity_grid": {
+          "Count": "Int:1682433"
+        },
+        "Lighting:kerosene": {
+          "Count": "Int:10565"
+        },
+        "Lighting:solar_grid": {
+          "Count": "Int:5206"
+        },
+        "Lighting:solar_standalone": {
+          "Count": "Int:1514"
+        },
+        "Lighting:bio_gas": {
+          "Count": "Int:121"
+        },
+        "Lighting:generator": {
+          "Count": "Int:288"
+        },
+        "Lighting:other": {
+          "Count": "Int:3293"
+        }
+      },
+      "Province:LK-2": {
+        "Lighting:electricity_grid": {
+          "Count": "Int:736755"
+        },
+        "Lighting:kerosene": {
+          "Count": "Int:9880"
+        },
+        "Lighting:solar_grid": {
+          "Count": "Int:360"
+        },
+        "Lighting:solar_standalone": {
+          "Count": "Int:495"
+        },
+        "Lighting:bio_gas": {
+          "Count": "Int:27"
+        },
+        "Lighting:generator": {
+          "Count": "Int:127"
+        },
+        "Lighting:other": {
+          "Count": "Int:1375"
+        }
+      },
+      "Province:LK-6": {
+        "Lighting:electricity_grid": {
+          "Count": "Int:729060"
+        },
+        "Lighting:kerosene": {
+          "Count": "Int:13132"
+        },
+        "Lighting:solar_grid": {
+          "Count": "Int:553"
+        },
+        "Lighting:solar_standalone": {
+          "Count": "Int:1252"
+        },
+        "Lighting:bio_gas": {
+          "Count": "Int:28"
+        },
+        "Lighting:generator": {
+          "Count": "Int:164"
+        },
+        "Lighting:other": {
+          "Count": "Int:1004"
+        }
+      },
+      "Province:LK-3": {
+        "Lighting:electricity_grid": {
+          "Count": "Int:717303"
+        },
+        "Lighting:kerosene": {
+          "Count": "Int:7272"
+        },
+        "Lighting:solar_grid": {
+          "Count": "Int:705"
+        },
+        "Lighting:solar_standalone": {
+          "Count": "Int:496"
+        },
+        "Lighting:bio_gas": {
+          "Count": "Int:11"
+        },
+        "Lighting:generator": {
+          "Count": "Int:76"
+        },
+        "Lighting:other": {
+          "Count": "Int:2425"
+        }
+      },
+      "Province:LK-9": {
+        "Lighting:electricity_grid": {
+          "Count": "Int:558898"
+        },
+        "Lighting:kerosene": {
+          "Count": "Int:10307"
+        },
+        "Lighting:solar_grid": {
+          "Count": "Int:203"
+        },
+        "Lighting:solar_standalone": {
+          "Count": "Int:542"
+        },
+        "Lighting:bio_gas": {
+          "Count": "Int:8"
+        },
+        "Lighting:generator": {
+          "Count": "Int:193"
+        },
+        "Lighting:other": {
+          "Count": "Int:1531"
+        }
+      },
+      "Province:LK-5": {
+        "Lighting:electricity_grid": {
+          "Count": "Int:479020"
+        },
+        "Lighting:kerosene": {
+          "Count": "Int:18042"
+        },
+        "Lighting:solar_grid": {
+          "Count": "Int:393"
+        },
+        "Lighting:solar_standalone": {
+          "Count": "Int:213"
+        },
+        "Lighting:bio_gas": {
+          "Count": "Int:17"
+        },
+        "Lighting:generator": {
+          "Count": "Int:102"
+        },
+        "Lighting:other": {
+          "Count": "Int:1430"
+        }
+      },
+      "Province:LK-7": {
+        "Lighting:electricity_grid": {
+          "Count": "Int:392571"
+        },
+        "Lighting:kerosene": {
+          "Count": "Int:8494"
+        },
+        "Lighting:solar_grid": {
+          "Count": "Int:206"
+        },
+        "Lighting:solar_standalone": {
+          "Count": "Int:440"
+        },
+        "Lighting:bio_gas": {
+          "Count": "Int:12"
+        },
+        "Lighting:generator": {
+          "Count": "Int:31"
+        },
+        "Lighting:other": {
+          "Count": "Int:715"
+        }
+      },
+      "Province:LK-8": {
+        "Lighting:electricity_grid": {
+          "Count": "Int:389582"
+        },
+        "Lighting:kerosene": {
+          "Count": "Int:8556"
+        },
+        "Lighting:solar_grid": {
+          "Count": "Int:183"
+        },
+        "Lighting:solar_standalone": {
+          "Count": "Int:571"
+        },
+        "Lighting:bio_gas": {
+          "Count": "Int:8"
+        },
+        "Lighting:generator": {
+          "Count": "Int:93"
+        },
+        "Lighting:other": {
+          "Count": "Int:1032"
+        }
+      },
+      "Province:LK-4": {
+        "Lighting:electricity_grid": {
+          "Count": "Int:301963"
+        },
+        "Lighting:kerosene": {
+          "Count": "Int:8902"
+        },
+        "Lighting:solar_grid": {
+          "Count": "Int:284"
+        },
+        "Lighting:solar_standalone": {
+          "Count": "Int:294"
+        },
+        "Lighting:bio_gas": {
+          "Count": "Int:12"
+        },
+        "Lighting:generator": {
+          "Count": "Int:156"
+        },
+        "Lighting:other": {
+          "Count": "Int:391"
+        }
+      }
+    }
+  }
+}

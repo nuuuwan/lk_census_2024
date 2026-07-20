@@ -5,6 +5,44 @@
 
 *House-HouseholdStructure, 2024 Census of Population and Housing, Department of Census and Statistics, Sri Lanka*
 
+## Structured Data formatted for [Lanka Data API](https://github.com/nuuuwan/lanka_data)
+
+```json
+{
+    "House": {
+        "Time:2024": {
+            "Province:LK-1": {
+                "HouseholdStructure:single_house_single_floor": {
+                    "Count": "Int:1177294"
+                },
+                "HouseholdStructure:single_house_double_floor": {
+                    "Count": "Int:360332"
+                },
+                "HouseholdStructure:single_house_more_than_2_floors": {
+                    "Count": "Int:32722"
+                },
+                "HouseholdStructure:attached_house_1st_floor": {
+                    "Count": "Int:44627"
+                },
+                "HouseholdStructure:attached_house_2nd_floor": {
+                    "Count": "Int:32464"
+                },
+                "HouseholdStructure:attached_house_from_3_to_4_floors": {
+                    "Count": "Int:18775"
+                },
+                "HouseholdStructure:attached_house_from_5_to_10_floors": {
+                    "Count": "Int:12272"
+                },
+                "HouseholdStructure:attached_house_from_11_to_19_floors": {
+                    "Count": "Int:5994"
+                },
+                "HouseholdStructure:attached_house_from_20_floors_or_more": {
+                    "Count": "Int:1756"
+...
+```
+
+- Source File: [lanka_data.json (9.2 KB)](../../data/House-HouseholdStructure/lanka_data.json)
+
 ## Structured Data (similar to original layout)
 
 ```json

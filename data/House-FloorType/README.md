@@ -5,6 +5,44 @@
 
 *House-FloorType, 2024 Census of Population and Housing, Department of Census and Statistics, Sri Lanka*
 
+## Structured Data formatted for [Lanka Data API](https://github.com/nuuuwan/lanka_data)
+
+```json
+{
+    "House": {
+        "Time:2024": {
+            "Province:LK-1": {
+                "FloorType:cement": {
+                    "Count": "Int:836713"
+                },
+                "FloorType:terrazzo_tile_granite_wood_finished": {
+                    "Count": "Int:754097"
+                },
+                "FloorType:concrete": {
+                    "Count": "Int:87793"
+                },
+                "FloorType:mud": {
+                    "Count": "Int:5688"
+                },
+                "FloorType:wood": {
+                    "Count": "Int:1159"
+                },
+                "FloorType:sand": {
+                    "Count": "Int:578"
+                },
+                "FloorType:other": {
+                    "Count": "Int:208"
+                },
+                "FloorType:not_relevant": {
+                    "Count": "Int:270"
+                }
+            },
+            "Province:LK-6": {
+...
+```
+
+- Source File: [lanka_data.json (5.6 KB)](../../data/House-FloorType/lanka_data.json)
+
 ## Structured Data (similar to original layout)
 
 ```json
