@@ -1,0 +1,28 @@
+{
+  "House": {
+    "Sector:urban": {
+      "Time:2012": {
+        "OwnedByMembersPercent": "Percent:0.75"
+      },
+      "Time:2024": {
+        "OwnedByMembersPercent": "Percent:0.769"
+      }
+    },
+    "Sector:rural": {
+      "Time:2012": {
+        "OwnedByMembersPercent": "Percent:0.88"
+      },
+      "Time:2024": {
+        "OwnedByMembersPercent": "Percent:0.89"
+      }
+    },
+    "Sector:estate_rural": {
+      "Time:2012": {
+        "OwnedByMembersPercent": "Percent:0.222"
+      },
+      "Time:2024": {
+        "OwnedByMembersPercent": "Percent:0.295"
+      }
+    }
+  }
+}
