@@ -1,0 +1,27 @@
+{
+  "primary_key": "sector",
+  "other_keys": [
+    "p_radio",
+    "p_television",
+    "p_fixed_line_telephone",
+    "p_smart_mobile_phone",
+    "p_normal_mobile_phone",
+    "p_desktop_computer",
+    "p_laptop_computer",
+    "p_tablet_computer",
+    "p_internet_facilities",
+    "p_bicycle",
+    "p_motorcycle_or_scooter",
+    "p_three_wheeler",
+    "p_other"
+  ],
+  "is_summable": false,
+  "raw_table_index_list": [2],
+  "entity_class_name": "Person",
+  "time_value": "2024",
+  "row_dim_class_name": "Sector",
+  "row_dim_key": "sector",
+  "col_dim_class_name": "HouseholdAppliances",
+  "cell_label": "Percent",
+  "cell_class_name": "Percent"
+}

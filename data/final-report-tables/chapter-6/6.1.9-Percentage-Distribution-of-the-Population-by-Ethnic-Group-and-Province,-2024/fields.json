@@ -1,0 +1,24 @@
+{
+  "primary_key": "province_name",
+  "other_keys": [
+    "_ignore",
+    "sinhalese",
+    "sl_tamil",
+    "ind_and_malaiyaga_tamil",
+    "sl_moor",
+    "malay",
+    "burgher",
+    "sl_chetty",
+    "bharatha",
+    "veddahs",
+    "other"
+  ],
+  "is_summable": false,
+  "entity_class_name": "Person",
+  "time_value": "2024",
+  "row_dim_class_name": "Province",
+  "row_dim_key": "region_id",
+  "col_dim_class_name": "Ethnicity",
+  "cell_label": "Percentage",
+  "cell_class_name": "Percent"
+}

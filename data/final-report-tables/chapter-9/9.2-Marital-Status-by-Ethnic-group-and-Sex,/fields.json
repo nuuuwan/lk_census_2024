@@ -1,0 +1,26 @@
+{
+  "primary_key": "highest_educational_qualification",
+
+  "other_keys": [
+    "total_value",
+
+    "difficulty_in_seeing",
+    "_difficulty_in_seeing_rate_per_1000_persons",
+
+    "difficulty_in_hearing",
+    "_difficulty_in_hearing_rate_per_1000_persons",
+
+    "difficulty_in_walking_or_climbing_steps",
+    "_difficulty_in_walking_or_climbing_steps_rate_per_1000_persons",
+
+    "difficulty_in_remembering_or_concentrating",
+    "_difficulty_in_remembering_or_concentrating_rate_per_1000_persons",
+
+    "difficulty_in_selfcare_such_as_washing_or_dressing",
+    "_difficulty_in_selfcare_such_as_washing_or_dressing_rate_per_1000_persons",
+
+    "difficulty_in_communicating_with_others",
+    "_difficulty_in_communicating_with_others_rate_per_1000_persons"
+  ],
+  "error_key": "no_disability"
+}

@@ -1,0 +1,18 @@
+{
+  "other_keys": [
+    "total_value",
+    "p_at_least_one_language",
+    "p_sinhala",
+    "p_tamil",
+    "p_english"
+  ],
+  "is_expandable": false,
+  "total_description": "Population aged 10 and over",
+  "entity_class_name": "Person",
+  "time_value": "2024",
+  "row_dim_class_name": "District",
+  "row_dim_key": "region_id",
+  "col_dim_class_name": "LanguageLiteracy",
+  "cell_label": "CountLiterate",
+  "cell_class_name": "Int"
+}

@@ -1,0 +1,12 @@
+{
+  "primary_key": "sector",
+  "other_keys": ["_ignore", "sex_ratio"],
+  "is_summable": false,
+  "entity_class_name": "Person",
+  "time_value": "2024",
+  "row_dim_class_name": "Sector",
+  "row_dim_key": "sector",
+  "col_dim_class_name": "<null>",
+  "cell_label": "SexRatio",
+  "cell_class_name": "Float"
+}

@@ -1,0 +1,11 @@
+{
+  "primary_key": "age_group",
+  "other_keys": ["_", "male", "female", "_", "_", "_"],
+  "entity_class_name": "Person",
+  "time_value": "2024",
+  "row_dim_class_name": "AgeGroup",
+  "row_dim_key": "age_group",
+  "col_dim_class_name": "Sex",
+  "cell_label": "CountEconomicallyActive",
+  "cell_class_name": "Int"
+}

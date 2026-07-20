@@ -1,0 +1,15 @@
+{
+  "primary_key": "sector",
+  "other_keys": [
+    "p_households_owned_by_members_2012",
+    "p_households_owned_by_members_2024"
+  ],
+  "is_summable": false,
+  "entity_class_name": "House",
+  "time_value": "<Time>",
+  "row_dim_class_name": "Sector",
+  "row_dim_key": "sector",
+  "col_dim_class_name": "Time",
+  "cell_label": "OwnedByMembersPercent",
+  "cell_class_name": "Percent"
+}
