@@ -19,6 +19,9 @@
         },
         "DisabilityTypes:difficulty_in_communicating_with_others": {
           "Count": "Int:53285"
+        },
+        "DisabilityTypes:no_disability": {
+          "Count": "Int:7613788"
         }
       },
       "MaritalStatus:married": {
@@ -39,6 +42,9 @@
         },
         "DisabilityTypes:difficulty_in_communicating_with_others": {
           "Count": "Int:38237"
+        },
+        "DisabilityTypes:no_disability": {
+          "Count": "Int:10559368"
         }
       },
       "MaritalStatus:widowed": {
@@ -59,6 +65,9 @@
         },
         "DisabilityTypes:difficulty_in_communicating_with_others": {
           "Count": "Int:19327"
+        },
+        "DisabilityTypes:no_disability": {
+          "Count": "Int:887551"
         }
       },
       "MaritalStatus:divorced": {
@@ -79,6 +88,9 @@
         },
         "DisabilityTypes:difficulty_in_communicating_with_others": {
           "Count": "Int:494"
+        },
+        "DisabilityTypes:no_disability": {
+          "Count": "Int:69624"
         }
       },
       "MaritalStatus:legally_separated": {
@@ -99,6 +111,9 @@
         },
         "DisabilityTypes:difficulty_in_communicating_with_others": {
           "Count": "Int:245"
+        },
+        "DisabilityTypes:no_disability": {
+          "Count": "Int:42231"
         }
       },
       "MaritalStatus:separated_not_legally": {
@@ -119,6 +134,9 @@
         },
         "DisabilityTypes:difficulty_in_communicating_with_others": {
           "Count": "Int:1210"
+        },
+        "DisabilityTypes:no_disability": {
+          "Count": "Int:153558"
         }
       }
     }

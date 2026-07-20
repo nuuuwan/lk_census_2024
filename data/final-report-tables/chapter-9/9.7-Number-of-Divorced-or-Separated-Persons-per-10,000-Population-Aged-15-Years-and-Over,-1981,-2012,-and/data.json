@@ -11,14 +11,14 @@
     }
   },
   {
-    "marital_status": "Not legal",
+    "marital_status": "Legal  Separated",
     "values": {
-      "male_per_10k_1981": 0,
-      "male_per_10k_2012": 0,
-      "male_per_10k_2024": 59,
-      "female_per_10k_1981": 88,
-      "female_per_10k_2012": 79,
-      "female_per_10k_2024": 112
+      "male_per_10k_1981": 19,
+      "male_per_10k_2012": 26,
+      "male_per_10k_2024": 15,
+      "female_per_10k_1981": 25,
+      "female_per_10k_2012": 21,
+      "female_per_10k_2024": 31
     }
   }
 ]

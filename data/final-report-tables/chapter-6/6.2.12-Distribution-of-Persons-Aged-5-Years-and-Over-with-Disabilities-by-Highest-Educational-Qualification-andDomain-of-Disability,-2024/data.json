@@ -2,105 +2,105 @@
   {
     "highest_educational_qualification": "Sri Lanka",
     "values": {
-      "total_value": 20566680,
       "difficulty_in_seeing": 192578,
       "difficulty_in_hearing": 130097,
       "difficulty_in_walking_or_climbing_steps": 447969,
       "difficulty_in_remembering_or_concentrating": 167826,
       "difficulty_in_selfcare_such_as_washing_or_dressing": 189292,
-      "difficulty_in_communicating_with_others": 112798
+      "difficulty_in_communicating_with_others": 112798,
+      "no_disability": 19326120
     },
-    "total_value": 21807240
+    "total_value": 1240560
   },
   {
     "highest_educational_qualification": "Never attended School",
     "values": {
-      "total_value": 686465,
       "difficulty_in_seeing": 30146,
       "difficulty_in_hearing": 27485,
       "difficulty_in_walking_or_climbing_steps": 61681,
       "difficulty_in_remembering_or_concentrating": 46627,
       "difficulty_in_selfcare_such_as_washing_or_dressing": 43022,
-      "difficulty_in_communicating_with_others": 39767
+      "difficulty_in_communicating_with_others": 39767,
+      "no_disability": 437737
     },
-    "total_value": 935193
+    "total_value": 248728
   },
   {
     "highest_educational_qualification": "Passed Grade 1-5*",
     "values": {
-      "total_value": 3601416,
       "difficulty_in_seeing": 66400,
       "difficulty_in_hearing": 45542,
       "difficulty_in_walking_or_climbing_steps": 144615,
       "difficulty_in_remembering_or_concentrating": 51177,
       "difficulty_in_selfcare_such_as_washing_or_dressing": 60164,
-      "difficulty_in_communicating_with_others": 28445
+      "difficulty_in_communicating_with_others": 28445,
+      "no_disability": 3205073
     },
-    "total_value": 3997759
+    "total_value": 396343
   },
   {
     "highest_educational_qualification": "Passed Grade 6-8",
     "values": {
-      "total_value": 2766674,
       "difficulty_in_seeing": 33325,
       "difficulty_in_hearing": 21432,
       "difficulty_in_walking_or_climbing_steps": 82747,
       "difficulty_in_remembering_or_concentrating": 23477,
       "difficulty_in_selfcare_such_as_washing_or_dressing": 29113,
-      "difficulty_in_communicating_with_others": 12753
+      "difficulty_in_communicating_with_others": 12753,
+      "no_disability": 2563827
     },
-    "total_value": 2969521
+    "total_value": 202847
   },
   {
     "highest_educational_qualification": "Passed Grade 9-10",
     "values": {
-      "total_value": 4623851,
       "difficulty_in_seeing": 29431,
       "difficulty_in_hearing": 16295,
       "difficulty_in_walking_or_climbing_steps": 71595,
       "difficulty_in_remembering_or_concentrating": 19057,
       "difficulty_in_selfcare_such_as_washing_or_dressing": 23440,
-      "difficulty_in_communicating_with_others": 11283
+      "difficulty_in_communicating_with_others": 11283,
+      "no_disability": 4452750
     },
-    "total_value": 4794952
+    "total_value": 171101
   },
   {
     "highest_educational_qualification": "G.C.E. (O/L) or equivalent",
     "values": {
-      "total_value": 4266317,
       "difficulty_in_seeing": 20120,
       "difficulty_in_hearing": 10246,
       "difficulty_in_walking_or_climbing_steps": 53684,
       "difficulty_in_remembering_or_concentrating": 11951,
       "difficulty_in_selfcare_such_as_washing_or_dressing": 17462,
-      "difficulty_in_communicating_with_others": 6739
+      "difficulty_in_communicating_with_others": 6739,
+      "no_disability": 4146115
     },
-    "total_value": 4386519
+    "total_value": 120202
   },
   {
     "highest_educational_qualification": "G.C.E. (A/L) or equivalent",
     "values": {
-      "total_value": 3557265,
       "difficulty_in_seeing": 9754,
       "difficulty_in_hearing": 4577,
       "difficulty_in_walking_or_climbing_steps": 25683,
       "difficulty_in_remembering_or_concentrating": 6207,
       "difficulty_in_selfcare_such_as_washing_or_dressing": 9369,
-      "difficulty_in_communicating_with_others": 3538
+      "difficulty_in_communicating_with_others": 3538,
+      "no_disability": 3498137
     },
-    "total_value": 3616393
+    "total_value": 59128
   },
   {
     "highest_educational_qualification": "Degree & above",
     "values": {
-      "total_value": 1022588,
       "difficulty_in_seeing": 2316,
       "difficulty_in_hearing": 1002,
       "difficulty_in_walking_or_climbing_steps": 5300,
       "difficulty_in_remembering_or_concentrating": 1338,
       "difficulty_in_selfcare_such_as_washing_or_dressing": 2206,
-      "difficulty_in_communicating_with_others": 906
+      "difficulty_in_communicating_with_others": 906,
+      "no_disability": 1009520
     },
-    "total_value": 1035656
+    "total_value": 13068
   }
 ]

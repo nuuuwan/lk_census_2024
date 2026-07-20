@@ -8,6 +8,7 @@
     "female_per_10k_2012",
     "female_per_10k_2024"
   ],
+  "disabled_line_normalize": true,
   "is_summable": false,
   "entity_class_name": "Person",
   "time_value": "2024",
