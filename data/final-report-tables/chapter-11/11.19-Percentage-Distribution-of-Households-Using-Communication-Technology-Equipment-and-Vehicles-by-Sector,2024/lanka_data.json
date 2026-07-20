@@ -1,0 +1,170 @@
+{
+  "Person": {
+    "Time:2024": {
+      "Sector:urban": {
+        "HouseholdAppliances:radio": {
+          "Percent": "Percent:0.485"
+        },
+        "HouseholdAppliances:television": {
+          "Percent": "Percent:0.821"
+        },
+        "HouseholdAppliances:fixed_line_telephone": {
+          "Percent": "Percent:0.257"
+        },
+        "HouseholdAppliances:smart_mobile_phone": {
+          "Percent": "Percent:0.86"
+        },
+        "HouseholdAppliances:normal_mobile_phone": {
+          "Percent": "Percent:0.55"
+        },
+        "HouseholdAppliances:desktop_computer": {
+          "Percent": "Percent:0.116"
+        },
+        "HouseholdAppliances:laptop_computer": {
+          "Percent": "Percent:0.33"
+        },
+        "HouseholdAppliances:tablet_computer": {
+          "Percent": "Percent:0.107"
+        },
+        "HouseholdAppliances:internet_facilities": {
+          "Percent": "Percent:0.492"
+        },
+        "HouseholdAppliances:bicycle": {
+          "Percent": "Percent:0.232"
+        },
+        "HouseholdAppliances:motorcycle_or_scooter": {
+          "Percent": "Percent:0.386"
+        },
+        "HouseholdAppliances:three_wheeler": {
+          "Percent": "Percent:0.119"
+        },
+        "HouseholdAppliances:other": {
+          "Percent": "Percent:0.242"
+        }
+      },
+      "Sector:estate_urban": {
+        "HouseholdAppliances:radio": {
+          "Percent": "Percent:0.495"
+        },
+        "HouseholdAppliances:television": {
+          "Percent": "Percent:0.78"
+        },
+        "HouseholdAppliances:fixed_line_telephone": {
+          "Percent": "Percent:0.054"
+        },
+        "HouseholdAppliances:smart_mobile_phone": {
+          "Percent": "Percent:0.782"
+        },
+        "HouseholdAppliances:normal_mobile_phone": {
+          "Percent": "Percent:0.638"
+        },
+        "HouseholdAppliances:desktop_computer": {
+          "Percent": "Percent:0.048"
+        },
+        "HouseholdAppliances:laptop_computer": {
+          "Percent": "Percent:0.106"
+        },
+        "HouseholdAppliances:tablet_computer": {
+          "Percent": "Percent:0.032"
+        },
+        "HouseholdAppliances:internet_facilities": {
+          "Percent": "Percent:0.21"
+        },
+        "HouseholdAppliances:bicycle": {
+          "Percent": "Percent:0.076"
+        },
+        "HouseholdAppliances:motorcycle_or_scooter": {
+          "Percent": "Percent:0.169"
+        },
+        "HouseholdAppliances:three_wheeler": {
+          "Percent": "Percent:0.153"
+        },
+        "HouseholdAppliances:other": {
+          "Percent": "Percent:0.074"
+        }
+      },
+      "Sector:rural": {
+        "HouseholdAppliances:radio": {
+          "Percent": "Percent:0.529"
+        },
+        "HouseholdAppliances:television": {
+          "Percent": "Percent:0.792"
+        },
+        "HouseholdAppliances:fixed_line_telephone": {
+          "Percent": "Percent:0.106"
+        },
+        "HouseholdAppliances:smart_mobile_phone": {
+          "Percent": "Percent:0.782"
+        },
+        "HouseholdAppliances:normal_mobile_phone": {
+          "Percent": "Percent:0.697"
+        },
+        "HouseholdAppliances:desktop_computer": {
+          "Percent": "Percent:0.067"
+        },
+        "HouseholdAppliances:laptop_computer": {
+          "Percent": "Percent:0.175"
+        },
+        "HouseholdAppliances:tablet_computer": {
+          "Percent": "Percent:0.04"
+        },
+        "HouseholdAppliances:internet_facilities": {
+          "Percent": "Percent:0.401"
+        },
+        "HouseholdAppliances:bicycle": {
+          "Percent": "Percent:0.265"
+        },
+        "HouseholdAppliances:motorcycle_or_scooter": {
+          "Percent": "Percent:0.497"
+        },
+        "HouseholdAppliances:three_wheeler": {
+          "Percent": "Percent:0.149"
+        },
+        "HouseholdAppliances:other": {
+          "Percent": "Percent:0.147"
+        }
+      },
+      "Sector:estate_rural": {
+        "HouseholdAppliances:radio": {
+          "Percent": "Percent:0.497"
+        },
+        "HouseholdAppliances:television": {
+          "Percent": "Percent:0.762"
+        },
+        "HouseholdAppliances:fixed_line_telephone": {
+          "Percent": "Percent:0.033"
+        },
+        "HouseholdAppliances:smart_mobile_phone": {
+          "Percent": "Percent:0.645"
+        },
+        "HouseholdAppliances:normal_mobile_phone": {
+          "Percent": "Percent:0.68"
+        },
+        "HouseholdAppliances:desktop_computer": {
+          "Percent": "Percent:0.023"
+        },
+        "HouseholdAppliances:laptop_computer": {
+          "Percent": "Percent:0.047"
+        },
+        "HouseholdAppliances:tablet_computer": {
+          "Percent": "Percent:0.013"
+        },
+        "HouseholdAppliances:internet_facilities": {
+          "Percent": "Percent:0.208"
+        },
+        "HouseholdAppliances:bicycle": {
+          "Percent": "Percent:0.033"
+        },
+        "HouseholdAppliances:motorcycle_or_scooter": {
+          "Percent": "Percent:0.115"
+        },
+        "HouseholdAppliances:three_wheeler": {
+          "Percent": "Percent:0.115"
+        },
+        "HouseholdAppliances:other": {
+          "Percent": "Percent:0.035"
+        }
+      }
+    }
+  }
+}

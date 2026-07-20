@@ -193,7 +193,7 @@
 - ✅ Table 11.15 - [Percentage Distribution of Households by Type of Toilet Facilities, 2012 and 2024](data/final-report-tables/chapter-11/11.15-Percentage-Distribution-of-Households-by-Type-of-Toilet-Facilities,-2012-and-2024/README.md)
 - 🟡 Table 11.16 - [Percentage Distribution of Type of Toilet Used by households by Sector and District, 2024](data/final-report-tables/chapter-11/11.16-Percentage-Distribution-of-Type-of-Toilet-Used-by-households-by-Sector-and-District,-2024/README.md)
 - 🔴 Table 11.17 - [Distribution of Households by the Main Method of Disposing Solid Waste, 2024](data/final-report-tables/chapter-11/11.17-Distribution-of-Households-by-the-Main-Method-of-Disposing-Solid-Waste,-2024/README.md)
-- 🟡 Table 11.18 - [Percentage Distribution of Households by the Main Method of Disposing Liquid Waste, 2024](data/final-report-tables/chapter-11/11.18-Percentage-Distribution-of-Households-by-the-Main-Method-of-Disposing-Liquid-Waste,-2024/README.md)
+- ✅ Table 11.18 - [Percentage Distribution of Households by the Main Method of Disposing Liquid Waste, 2024](data/final-report-tables/chapter-11/11.18-Percentage-Distribution-of-Households-by-the-Main-Method-of-Disposing-Liquid-Waste,-2024/README.md)
 - 🟡 Table 11.19 - [Percentage Distribution of Households Using Communication Technology Equipment and Vehicles by Sector,2024](data/final-report-tables/chapter-11/11.19-Percentage-Distribution-of-Households-Using-Communication-Technology-Equipment-and-Vehicles-by-Sector,2024/README.md)
 
 ### Chapter 12
@@ -213,8 +213,8 @@
 | **1**/5 | 🟤 Raw data is missing | **6** | 6 | **4.2%** | #8B4513 |
 | **2**/5 | 🔴 Raw data is difficult to parse | **22** | 22 | **15.5%** | #FF0000 |
 | **3**/5 | 🟠 Data is missing | **1** | 1 | **0.7%** | #FFA500 |
-| **4**/5 | 🟡 Lanka data is missing | **41** | 41 | **28.9%** | #FFFF00 |
-| **5**/5 | ✅ All Stages Complete | **72** | 72 | **50.7%** | #00c000 |
+| **4**/5 | 🟡 Lanka data is missing | **40** | 40 | **28.2%** | #FFFF00 |
+| **5**/5 | ✅ All Stages Complete | **73** | 73 | **51.4%** | #00c000 |
 
 
 ```mermaid
@@ -223,8 +223,8 @@ pie title Final Report Build Status
 "🟤 Raw data is missing" : 6
     "🔴 Raw data is difficult to parse" : 22
     "🟠 Data is missing" : 1
-    "🟡 Lanka data is missing" : 41
-    "✅ All Stages Complete" : 72
+    "🟡 Lanka data is missing" : 40
+    "✅ All Stages Complete" : 73
 ```
     
 ![Maintainer](https://img.shields.io/badge/maintainer-nuuuwan-red)

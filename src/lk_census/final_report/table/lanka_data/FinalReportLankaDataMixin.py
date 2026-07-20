@@ -40,8 +40,12 @@ class FinalReportLankaDataMixin(FinalReportLankaMetaDataMixin):
             cell_label=self.cell_label,
             cell_class_name=self.cell_class_name,
         )
-        self.lanka_data_file.write(datumset.to_data())
-        log.info(f"Wrote {self.lanka_data_file}")
+        lanka_data = datumset.to_data()
+        if lanka_data != {}:
+            self.lanka_data_file.write(lanka_data)
+            log.info(f"Wrote {self.lanka_data_file}")
+        else:
+            log.error(f"Empty Lankadata for {self}")
 
     @property
     def lanka_data(self):

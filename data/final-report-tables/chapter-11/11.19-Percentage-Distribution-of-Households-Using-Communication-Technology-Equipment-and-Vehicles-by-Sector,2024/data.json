@@ -1,6 +1,6 @@
 [
   {
-    "": "Urban",
+    "sector": "Urban",
     "values": {
       "p_radio": 0.485,
       "p_television": 0.821,
@@ -18,7 +18,7 @@
     }
   },
   {
-    "": "Estate- Urban",
+    "sector": "Estate- Urban",
     "values": {
       "p_radio": 0.495,
       "p_television": 0.78,
@@ -36,7 +36,7 @@
     }
   },
   {
-    "": "Rural",
+    "sector": "Rural",
     "values": {
       "p_radio": 0.529,
       "p_television": 0.792,
@@ -54,7 +54,7 @@
     }
   },
   {
-    "": "Estate- Rural",
+    "sector": "Estate- Rural",
     "values": {
       "p_radio": 0.497,
       "p_television": 0.762,
