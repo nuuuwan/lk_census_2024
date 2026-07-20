@@ -1,0 +1,123 @@
+[
+  {
+    "terminal_digit": "0",
+    "values": {
+      "deviation_both_sexes_2012": 0.2,
+      "deviation_male_2012": 0.2,
+      "deviation_female_2012": 0.1,
+      "deviation_both_sexes_2024": -0.2,
+      "deviation_male_2024": -0.2,
+      "deviation_female_2024": -0.1
+    }
+  },
+  {
+    "terminal_digit": "1",
+    "values": {
+      "deviation_both_sexes_2012": 0.1,
+      "deviation_male_2012": 0.2,
+      "deviation_female_2012": 0.1,
+      "deviation_both_sexes_2024": -0.1,
+      "deviation_male_2024": -0.1,
+      "deviation_female_2024": -0.1
+    }
+  },
+  {
+    "terminal_digit": "2",
+    "values": {
+      "deviation_both_sexes_2012": 0.2,
+      "deviation_male_2012": 0.2,
+      "deviation_female_2012": 0.1,
+      "deviation_both_sexes_2024": 0.2,
+      "deviation_male_2024": 0.2,
+      "deviation_female_2024": 0.3
+    }
+  },
+  {
+    "terminal_digit": "3",
+    "values": {
+      "deviation_both_sexes_2012": -0.1,
+      "deviation_male_2012": -0.1,
+      "deviation_female_2012": -0.1,
+      "deviation_both_sexes_2024": 0.1,
+      "deviation_male_2024": 0.1,
+      "deviation_female_2024": 0.0
+    }
+  },
+  {
+    "terminal_digit": "4",
+    "values": {
+      "deviation_both_sexes_2012": 0.0,
+      "deviation_male_2012": 0.0,
+      "deviation_female_2012": 0.0,
+      "deviation_both_sexes_2024": 0.2,
+      "deviation_male_2024": 0.2,
+      "deviation_female_2024": 0.2
+    }
+  },
+  {
+    "terminal_digit": "5",
+    "values": {
+      "deviation_both_sexes_2012": -0.1,
+      "deviation_male_2012": -0.1,
+      "deviation_female_2012": -0.1,
+      "deviation_both_sexes_2024": 0.0,
+      "deviation_male_2024": 0.0,
+      "deviation_female_2024": 0.0
+    }
+  },
+  {
+    "terminal_digit": "6",
+    "values": {
+      "deviation_both_sexes_2012": -0.3,
+      "deviation_male_2012": -0.3,
+      "deviation_female_2012": -0.3,
+      "deviation_both_sexes_2024": 0.1,
+      "deviation_male_2024": 0.1,
+      "deviation_female_2024": 0.1
+    }
+  },
+  {
+    "terminal_digit": "7",
+    "values": {
+      "deviation_both_sexes_2012": 0.0,
+      "deviation_male_2012": -0.1,
+      "deviation_female_2012": 0.0,
+      "deviation_both_sexes_2024": -0.1,
+      "deviation_male_2024": -0.1,
+      "deviation_female_2024": -0.1
+    }
+  },
+  {
+    "terminal_digit": "8",
+    "values": {
+      "deviation_both_sexes_2012": -0.2,
+      "deviation_male_2012": -0.2,
+      "deviation_female_2012": -0.2,
+      "deviation_both_sexes_2024": -0.2,
+      "deviation_male_2024": -0.2,
+      "deviation_female_2024": -0.2
+    }
+  },
+  {
+    "terminal_digit": "9",
+    "values": {
+      "deviation_both_sexes_2012": 0.4,
+      "deviation_male_2012": 0.3,
+      "deviation_female_2012": 0.4,
+      "deviation_both_sexes_2024": 0.0,
+      "deviation_male_2024": 0.0,
+      "deviation_female_2024": -0.1
+    }
+  },
+  {
+    "terminal_digit": "Myer's Index",
+    "values": {
+      "deviation_both_sexes_2012": 1.7,
+      "deviation_male_2012": 1.8,
+      "deviation_female_2012": 1.7,
+      "deviation_both_sexes_2024": 1.2,
+      "deviation_male_2024": 1.2,
+      "deviation_female_2024": 1.1
+    }
+  }
+]

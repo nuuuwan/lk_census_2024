@@ -1,0 +1,198 @@
+{
+  "Person": {
+    "Time:2024": {
+      "EmploymentStatus:government_paid_employee": {
+        "NonCommunicableDisease:diabetes": {
+          "Count": "Int:70924"
+        },
+        "NonCommunicableDisease:high_cholesterol": {
+          "Count": "Int:63948"
+        },
+        "NonCommunicableDisease:high_blood_pressure": {
+          "Count": "Int:61623"
+        },
+        "NonCommunicableDisease:heart_disease": {
+          "Count": "Int:12790"
+        },
+        "NonCommunicableDisease:kidney_disease": {
+          "Count": "Int:3488"
+        },
+        "NonCommunicableDisease:thalassemia": {
+          "Count": "Int:0"
+        },
+        "NonCommunicableDisease:cancer": {
+          "Count": "Int:2325"
+        },
+        "NonCommunicableDisease:stroke": {
+          "Count": "Int:1163"
+        },
+        "NonCommunicableDisease:asthma": {
+          "Count": "Int:8139"
+        },
+        "NonCommunicableDisease:epilepsy": {
+          "Count": "Int:1163"
+        }
+      },
+      "EmploymentStatus:semi_government_paid_employee": {
+        "NonCommunicableDisease:diabetes": {
+          "Count": "Int:12974"
+        },
+        "NonCommunicableDisease:high_cholesterol": {
+          "Count": "Int:11779"
+        },
+        "NonCommunicableDisease:high_blood_pressure": {
+          "Count": "Int:11096"
+        },
+        "NonCommunicableDisease:heart_disease": {
+          "Count": "Int:2561"
+        },
+        "NonCommunicableDisease:kidney_disease": {
+          "Count": "Int:512"
+        },
+        "NonCommunicableDisease:thalassemia": {
+          "Count": "Int:0"
+        },
+        "NonCommunicableDisease:cancer": {
+          "Count": "Int:341"
+        },
+        "NonCommunicableDisease:stroke": {
+          "Count": "Int:171"
+        },
+        "NonCommunicableDisease:asthma": {
+          "Count": "Int:1536"
+        },
+        "NonCommunicableDisease:epilepsy": {
+          "Count": "Int:171"
+        }
+      },
+      "EmploymentStatus:paid_employee_private_sector": {
+        "NonCommunicableDisease:diabetes": {
+          "Count": "Int:188169"
+        },
+        "NonCommunicableDisease:high_cholesterol": {
+          "Count": "Int:168703"
+        },
+        "NonCommunicableDisease:high_blood_pressure": {
+          "Count": "Int:188169"
+        },
+        "NonCommunicableDisease:heart_disease": {
+          "Count": "Int:51909"
+        },
+        "NonCommunicableDisease:kidney_disease": {
+          "Count": "Int:12977"
+        },
+        "NonCommunicableDisease:thalassemia": {
+          "Count": "Int:3244"
+        },
+        "NonCommunicableDisease:cancer": {
+          "Count": "Int:6489"
+        },
+        "NonCommunicableDisease:stroke": {
+          "Count": "Int:3244"
+        },
+        "NonCommunicableDisease:asthma": {
+          "Count": "Int:48664"
+        },
+        "NonCommunicableDisease:epilepsy": {
+          "Count": "Int:9733"
+        }
+      },
+      "EmploymentStatus:employer_have_employees": {
+        "NonCommunicableDisease:diabetes": {
+          "Count": "Int:38346"
+        },
+        "NonCommunicableDisease:high_cholesterol": {
+          "Count": "Int:30565"
+        },
+        "NonCommunicableDisease:high_blood_pressure": {
+          "Count": "Int:29176"
+        },
+        "NonCommunicableDisease:heart_disease": {
+          "Count": "Int:7780"
+        },
+        "NonCommunicableDisease:kidney_disease": {
+          "Count": "Int:1389"
+        },
+        "NonCommunicableDisease:thalassemia": {
+          "Count": "Int:0"
+        },
+        "NonCommunicableDisease:cancer": {
+          "Count": "Int:556"
+        },
+        "NonCommunicableDisease:stroke": {
+          "Count": "Int:556"
+        },
+        "NonCommunicableDisease:asthma": {
+          "Count": "Int:2501"
+        },
+        "NonCommunicableDisease:epilepsy": {
+          "Count": "Int:278"
+        }
+      },
+      "EmploymentStatus:own_account_worker_don't_have_employees": {
+        "NonCommunicableDisease:diabetes": {
+          "Count": "Int:250392"
+        },
+        "NonCommunicableDisease:high_cholesterol": {
+          "Count": "Int:231131"
+        },
+        "NonCommunicableDisease:high_blood_pressure": {
+          "Count": "Int:264838"
+        },
+        "NonCommunicableDisease:heart_disease": {
+          "Count": "Int:77044"
+        },
+        "NonCommunicableDisease:kidney_disease": {
+          "Count": "Int:26484"
+        },
+        "NonCommunicableDisease:thalassemia": {
+          "Count": "Int:2408"
+        },
+        "NonCommunicableDisease:cancer": {
+          "Count": "Int:7223"
+        },
+        "NonCommunicableDisease:stroke": {
+          "Count": "Int:7223"
+        },
+        "NonCommunicableDisease:asthma": {
+          "Count": "Int:48152"
+        },
+        "NonCommunicableDisease:epilepsy": {
+          "Count": "Int:7223"
+        }
+      },
+      "EmploymentStatus:contributing_to_family_enterprise_unpaid_family_worker": {
+        "NonCommunicableDisease:diabetes": {
+          "Count": "Int:39127"
+        },
+        "NonCommunicableDisease:high_cholesterol": {
+          "Count": "Int:43610"
+        },
+        "NonCommunicableDisease:high_blood_pressure": {
+          "Count": "Int:54615"
+        },
+        "NonCommunicableDisease:heart_disease": {
+          "Count": "Int:11412"
+        },
+        "NonCommunicableDisease:kidney_disease": {
+          "Count": "Int:4483"
+        },
+        "NonCommunicableDisease:thalassemia": {
+          "Count": "Int:408"
+        },
+        "NonCommunicableDisease:cancer": {
+          "Count": "Int:1630"
+        },
+        "NonCommunicableDisease:stroke": {
+          "Count": "Int:815"
+        },
+        "NonCommunicableDisease:asthma": {
+          "Count": "Int:10189"
+        },
+        "NonCommunicableDisease:epilepsy": {
+          "Count": "Int:1223"
+        }
+      }
+    }
+  }
+}

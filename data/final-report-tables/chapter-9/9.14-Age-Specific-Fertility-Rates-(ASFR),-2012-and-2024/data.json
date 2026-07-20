@@ -1,0 +1,58 @@
+[
+  {
+    "age_group": "15-19",
+    "values": {
+      "fertility_rate_per_k_1981": 38.0,
+      "fertility_rate_per_k_2012": 36.0,
+      "fertility_rate_per_k_2024": 7.0
+    }
+  },
+  {
+    "age_group": "20-24",
+    "values": {
+      "fertility_rate_per_k_1981": 177.0,
+      "fertility_rate_per_k_2012": 107.0,
+      "fertility_rate_per_k_2024": 41.0
+    }
+  },
+  {
+    "age_group": "25-29",
+    "values": {
+      "fertility_rate_per_k_1981": 226.0,
+      "fertility_rate_per_k_2012": 147.0,
+      "fertility_rate_per_k_2024": 86.0
+    }
+  },
+  {
+    "age_group": "30-34",
+    "values": {
+      "fertility_rate_per_k_1981": 204.0,
+      "fertility_rate_per_k_2012": 118.0,
+      "fertility_rate_per_k_2024": 83.0
+    }
+  },
+  {
+    "age_group": "35-39",
+    "values": {
+      "fertility_rate_per_k_1981": 90.0,
+      "fertility_rate_per_k_2012": 58.0,
+      "fertility_rate_per_k_2024": 38.0
+    }
+  },
+  {
+    "age_group": "40-44",
+    "values": {
+      "fertility_rate_per_k_1981": 28.0,
+      "fertility_rate_per_k_2012": 16.0,
+      "fertility_rate_per_k_2024": 9.0
+    }
+  },
+  {
+    "age_group": "45-49",
+    "values": {
+      "fertility_rate_per_k_1981": 4.0,
+      "fertility_rate_per_k_2012": 2.0,
+      "fertility_rate_per_k_2024": 1.0
+    }
+  }
+]

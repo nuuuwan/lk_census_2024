@@ -1,0 +1,162 @@
+[
+  {
+    "ethnicity": "Sri Lanka*",
+    "values": {
+      "diabetes": 1851256,
+      "high_cholesterol": 1785918,
+      "high_blood_pressure": 2199728,
+      "heart_disease": 544487,
+      "kidney_disease": 174236,
+      "thalassemia": 21779,
+      "cancer": 87118,
+      "stroke": 130677,
+      "asthma": 392031,
+      "epilepsy": 65338
+    },
+    "total_value": 21779483
+  },
+  {
+    "ethnicity": "Sinhala",
+    "values": {
+      "diabetes": 1388253,
+      "high_cholesterol": 1404396,
+      "high_blood_pressure": 1694960,
+      "heart_disease": 419704,
+      "kidney_disease": 129140,
+      "thalassemia": 16142,
+      "cancer": 64570,
+      "stroke": 96855,
+      "asthma": 274422,
+      "epilepsy": 48427
+    },
+    "total_value": 16142478
+  },
+  {
+    "ethnicity": "Sri Lanka Tamil",
+    "values": {
+      "diabetes": 214501,
+      "high_cholesterol": 193051,
+      "high_blood_pressure": 235951,
+      "heart_disease": 56307,
+      "kidney_disease": 18769,
+      "thalassemia": 2681,
+      "cancer": 8044,
+      "stroke": 16088,
+      "asthma": 80438,
+      "epilepsy": 10725
+    },
+    "total_value": 2681263
+  },
+  {
+    "ethnicity": "Sri Lanka Moor/ Muslim",
+    "values": {
+      "diabetes": 210041,
+      "high_cholesterol": 175795,
+      "high_blood_pressure": 212324,
+      "heart_disease": 47944,
+      "kidney_disease": 11415,
+      "thalassemia": 2283,
+      "cancer": 4566,
+      "stroke": 9132,
+      "asthma": 38812,
+      "epilepsy": 6849
+    },
+    "total_value": 2283055
+  },
+  {
+    "ethnicity": "Burgher",
+    "values": {
+      "diabetes": 3394,
+      "high_cholesterol": 3172,
+      "high_blood_pressure": 3869,
+      "heart_disease": 983,
+      "kidney_disease": 190,
+      "thalassemia": 32,
+      "cancer": 159,
+      "stroke": 190,
+      "asthma": 603,
+      "epilepsy": 63
+    },
+    "total_value": 31717
+  },
+  {
+    "ethnicity": "Malay",
+    "values": {
+      "diabetes": 3065,
+      "high_cholesterol": 2771,
+      "high_blood_pressure": 3678,
+      "heart_disease": 799,
+      "kidney_disease": 187,
+      "thalassemia": 27,
+      "cancer": 107,
+      "stroke": 133,
+      "asthma": 453,
+      "epilepsy": 80
+    },
+    "total_value": 26649
+  },
+  {
+    "ethnicity": "Sri Lanka Chetty",
+    "values": {
+      "diabetes": 190,
+      "high_cholesterol": 232,
+      "high_blood_pressure": 256,
+      "heart_disease": 51,
+      "kidney_disease": 15,
+      "thalassemia": 2,
+      "cancer": 7,
+      "stroke": 17,
+      "asthma": 37,
+      "epilepsy": 7
+    },
+    "total_value": 2441
+  },
+  {
+    "ethnicity": "Bharatha",
+    "values": {
+      "diabetes": 113,
+      "high_cholesterol": 105,
+      "high_blood_pressure": 123,
+      "heart_disease": 28,
+      "kidney_disease": 5,
+      "thalassemia": 0,
+      "cancer": 2,
+      "stroke": 8,
+      "asthma": 14,
+      "epilepsy": 1
+    },
+    "total_value": 1178
+  },
+  {
+    "ethnicity": "Veddas",
+    "values": {
+      "diabetes": 86,
+      "high_cholesterol": 56,
+      "high_blood_pressure": 73,
+      "heart_disease": 19,
+      "kidney_disease": 27,
+      "thalassemia": 10,
+      "cancer": 4,
+      "stroke": 16,
+      "asthma": 36,
+      "epilepsy": 7
+    },
+    "total_value": 1372
+  },
+  {
+    "ethnicity": "Other",
+    "values": {
+      "diabetes": 518,
+      "high_cholesterol": 418,
+      "high_blood_pressure": 563,
+      "heart_disease": 154,
+      "kidney_disease": 36,
+      "thalassemia": 0,
+      "cancer": 27,
+      "stroke": 27,
+      "asthma": 82,
+      "epilepsy": 9
+    },
+    "total_value": 9085
+  }
+]

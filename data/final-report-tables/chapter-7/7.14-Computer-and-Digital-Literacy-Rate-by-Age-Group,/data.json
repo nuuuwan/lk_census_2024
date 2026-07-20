@@ -1,0 +1,98 @@
+[
+  {
+    "age_group": "Sri Lanka",
+    "values": {
+      "population_aged_5_or_over": 20566680,
+      "p_computer_literacy_rate": 0.347,
+      "p_digital_literacy_rate": 0.676
+    }
+  },
+  {
+    "age_group": "5-9",
+    "values": {
+      "population_aged_5_or_over": 1556523,
+      "p_computer_literacy_rate": 0.119,
+      "p_digital_literacy_rate": 0.399
+    }
+  },
+  {
+    "age_group": "10-14",
+    "values": {
+      "population_aged_5_or_over": 1735196,
+      "p_computer_literacy_rate": 0.412,
+      "p_digital_literacy_rate": 0.881
+    }
+  },
+  {
+    "age_group": "15-19",
+    "values": {
+      "population_aged_5_or_over": 1795038,
+      "p_computer_literacy_rate": 0.643,
+      "p_digital_literacy_rate": 0.97
+    }
+  },
+  {
+    "age_group": "20-24",
+    "values": {
+      "population_aged_5_or_over": 1608606,
+      "p_computer_literacy_rate": 0.655,
+      "p_digital_literacy_rate": 0.948
+    }
+  },
+  {
+    "age_group": "25-29",
+    "values": {
+      "population_aged_5_or_over": 1372458,
+      "p_computer_literacy_rate": 0.577,
+      "p_digital_literacy_rate": 0.93
+    }
+  },
+  {
+    "age_group": "30-34",
+    "values": {
+      "population_aged_5_or_over": 1414060,
+      "p_computer_literacy_rate": 0.482,
+      "p_digital_literacy_rate": 0.902
+    }
+  },
+  {
+    "age_group": "35-39",
+    "values": {
+      "population_aged_5_or_over": 1452703,
+      "p_computer_literacy_rate": 0.418,
+      "p_digital_literacy_rate": 0.86
+    }
+  },
+  {
+    "age_group": "40-49",
+    "values": {
+      "population_aged_5_or_over": 1602344,
+      "p_computer_literacy_rate": 0.338,
+      "p_digital_literacy_rate": 0.75
+    }
+  },
+  {
+    "age_group": "50-59",
+    "values": {
+      "population_aged_5_or_over": 1490765,
+      "p_computer_literacy_rate": 0.25,
+      "p_digital_literacy_rate": 0.544
+    }
+  },
+  {
+    "age_group": "60-69",
+    "values": {
+      "population_aged_5_or_over": 1341807,
+      "p_computer_literacy_rate": 0.085,
+      "p_digital_literacy_rate": 0.307
+    }
+  },
+  {
+    "age_group": "70 & over",
+    "values": {
+      "population_aged_5_or_over": 1276056,
+      "p_computer_literacy_rate": 0.037,
+      "p_digital_literacy_rate": 0.155
+    }
+  }
+]

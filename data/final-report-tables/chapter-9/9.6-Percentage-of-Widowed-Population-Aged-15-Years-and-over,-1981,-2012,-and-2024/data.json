@@ -1,0 +1,134 @@
+[
+  {
+    "age_group": "Population 15 years and over",
+    "values": {
+      "p_widowed_male_1981": 0.012,
+      "p_widowed_male_2012": 0.013,
+      "p_widowed_male_2024": 0.021,
+      "p_widowed_female_1981": 0.052,
+      "p_widowed_female_2012": 0.087,
+      "p_widowed_female_2024": 0.117
+    }
+  },
+  {
+    "age_group": "15-19",
+    "values": {
+      "p_widowed_male_1981": 0.0,
+      "p_widowed_male_2012": 0.0,
+      "p_widowed_male_2024": 0.0,
+      "p_widowed_female_1981": 0.001,
+      "p_widowed_female_2012": 0.001,
+      "p_widowed_female_2024": 0.0
+    }
+  },
+  {
+    "age_group": "20-24",
+    "values": {
+      "p_widowed_male_1981": 0.001,
+      "p_widowed_male_2012": 0.0,
+      "p_widowed_male_2024": 0.0,
+      "p_widowed_female_1981": 0.005,
+      "p_widowed_female_2012": 0.002,
+      "p_widowed_female_2024": 0.001
+    }
+  },
+  {
+    "age_group": "25-29",
+    "values": {
+      "p_widowed_male_1981": 0.002,
+      "p_widowed_male_2012": 0.001,
+      "p_widowed_male_2024": 0.001,
+      "p_widowed_female_1981": 0.011,
+      "p_widowed_female_2012": 0.005,
+      "p_widowed_female_2024": 0.003
+    }
+  },
+  {
+    "age_group": "30-34",
+    "values": {
+      "p_widowed_male_1981": 0.003,
+      "p_widowed_male_2012": 0.001,
+      "p_widowed_male_2024": 0.002,
+      "p_widowed_female_1981": 0.02,
+      "p_widowed_female_2012": 0.01,
+      "p_widowed_female_2024": 0.007
+    }
+  },
+  {
+    "age_group": "35-39",
+    "values": {
+      "p_widowed_male_1981": 0.006,
+      "p_widowed_male_2012": 0.002,
+      "p_widowed_male_2024": 0.003,
+      "p_widowed_female_1981": 0.039,
+      "p_widowed_female_2012": 0.019,
+      "p_widowed_female_2024": 0.013
+    }
+  },
+  {
+    "age_group": "40-44",
+    "values": {
+      "p_widowed_male_1981": 0.01,
+      "p_widowed_male_2012": 0.004,
+      "p_widowed_male_2024": 0.004,
+      "p_widowed_female_1981": 0.07,
+      "p_widowed_female_2012": 0.035,
+      "p_widowed_female_2024": 0.025
+    }
+  },
+  {
+    "age_group": "45-49",
+    "values": {
+      "p_widowed_male_1981": 0.018,
+      "p_widowed_male_2012": 0.006,
+      "p_widowed_male_2024": 0.007,
+      "p_widowed_female_1981": 0.111,
+      "p_widowed_female_2012": 0.062,
+      "p_widowed_female_2024": 0.047
+    }
+  },
+  {
+    "age_group": "50-54",
+    "values": {
+      "p_widowed_male_1981": 0.029,
+      "p_widowed_male_2012": 0.011,
+      "p_widowed_male_2024": 0.012,
+      "p_widowed_female_1981": 0.164,
+      "p_widowed_female_2012": 0.1,
+      "p_widowed_female_2024": 0.083
+    }
+  },
+  {
+    "age_group": "55-59",
+    "values": {
+      "p_widowed_male_1981": 0.042,
+      "p_widowed_male_2012": 0.018,
+      "p_widowed_male_2024": 0.021,
+      "p_widowed_female_1981": 0.228,
+      "p_widowed_female_2012": 0.148,
+      "p_widowed_female_2024": 0.142
+    }
+  },
+  {
+    "age_group": "60-64",
+    "values": {
+      "p_widowed_male_1981": 0.065,
+      "p_widowed_male_2012": 0.03,
+      "p_widowed_male_2024": 0.036,
+      "p_widowed_female_1981": 0.314,
+      "p_widowed_female_2012": 0.212,
+      "p_widowed_female_2024": 0.217
+    }
+  },
+  {
+    "age_group": "65 and over",
+    "values": {
+      "p_widowed_male_1981": 0.133,
+      "p_widowed_male_2012": 0.086,
+      "p_widowed_male_2024": 0.105,
+      "p_widowed_female_1981": 0.477,
+      "p_widowed_female_2012": 0.384,
+      "p_widowed_female_2024": 0.442
+    }
+  }
+]

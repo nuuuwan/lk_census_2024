@@ -1,0 +1,72 @@
+[
+  {
+    "disease": "High Blood Pressure",
+    "values": {
+      "population": 2200179,
+      "prevelence_rate": 10.1
+    }
+  },
+  {
+    "disease": "Diabetes",
+    "values": {
+      "population": 1850857,
+      "prevelence_rate": 8.5
+    }
+  },
+  {
+    "disease": "High Cholesterol",
+    "values": {
+      "population": 1795939,
+      "prevelence_rate": 8.2
+    }
+  },
+  {
+    "disease": "Heart Disease",
+    "values": {
+      "population": 534480,
+      "prevelence_rate": 2.5
+    }
+  },
+  {
+    "disease": "Asthma",
+    "values": {
+      "population": 401406,
+      "prevelence_rate": 1.8
+    }
+  },
+  {
+    "disease": "Kidney Disease",
+    "values": {
+      "population": 171348,
+      "prevelence_rate": 0.8
+    }
+  },
+  {
+    "disease": "Stroke/Paralysis",
+    "values": {
+      "population": 128396,
+      "prevelence_rate": 0.6
+    }
+  },
+  {
+    "disease": "Cancer",
+    "values": {
+      "population": 85787,
+      "prevelence_rate": 0.4
+    }
+  },
+  {
+    "disease": "Epilepsy",
+    "values": {
+      "population": 65008,
+      "prevelence_rate": 0.3
+    }
+  },
+  {
+    "disease": "Thalassemia",
+    "values": {
+      "population": 18645,
+      "prevelence_rate": 0.1
+    }
+  }
+]

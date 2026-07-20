@@ -1,0 +1,414 @@
+{
+  "District": {
+    "Time:1981": {
+      "District:LK-11": {
+        "AdministrativeEntity:assistant_government_agend_divisions": {
+          "Count": "Int:8"
+        },
+        "AdministrativeEntity:grama_sevaka_divisions": {
+          "Count": "Int:121"
+        },
+        "AdministrativeEntity:municipal_councils": {
+          "Count": "Int:2"
+        },
+        "AdministrativeEntity:urban_councils": {
+          "Count": "Int:4"
+        },
+        "AdministrativeEntity:town_councils": {
+          "Count": "Int:6"
+        }
+      },
+      "District:LK-12": {
+        "AdministrativeEntity:assistant_government_agend_divisions": {
+          "Count": "Int:13"
+        },
+        "AdministrativeEntity:grama_sevaka_divisions": {
+          "Count": "Int:389"
+        },
+        "AdministrativeEntity:municipal_councils": {
+          "Count": "Int:1"
+        },
+        "AdministrativeEntity:urban_councils": {
+          "Count": "Int:6"
+        },
+        "AdministrativeEntity:town_councils": {
+          "Count": "Int:9"
+        }
+      },
+      "District:LK-13": {
+        "AdministrativeEntity:assistant_government_agend_divisions": {
+          "Count": "Int:10"
+        },
+        "AdministrativeEntity:grama_sevaka_divisions": {
+          "Count": "Int:230"
+        },
+        "AdministrativeEntity:municipal_councils": {
+          "Count": "Int:0"
+        },
+        "AdministrativeEntity:urban_councils": {
+          "Count": "Int:4"
+        },
+        "AdministrativeEntity:town_councils": {
+          "Count": "Int:6"
+        }
+      },
+      "District:LK-21": {
+        "AdministrativeEntity:assistant_government_agend_divisions": {
+          "Count": "Int:16"
+        },
+        "AdministrativeEntity:grama_sevaka_divisions": {
+          "Count": "Int:430"
+        },
+        "AdministrativeEntity:municipal_councils": {
+          "Count": "Int:1"
+        },
+        "AdministrativeEntity:urban_councils": {
+          "Count": "Int:4"
+        },
+        "AdministrativeEntity:town_councils": {
+          "Count": "Int:2"
+        }
+      },
+      "District:LK-22": {
+        "AdministrativeEntity:assistant_government_agend_divisions": {
+          "Count": "Int:10"
+        },
+        "AdministrativeEntity:grama_sevaka_divisions": {
+          "Count": "Int:170"
+        },
+        "AdministrativeEntity:municipal_councils": {
+          "Count": "Int:1"
+        },
+        "AdministrativeEntity:urban_councils": {
+          "Count": "Int:0"
+        },
+        "AdministrativeEntity:town_councils": {
+          "Count": "Int:3"
+        }
+      },
+      "District:LK-23": {
+        "AdministrativeEntity:assistant_government_agend_divisions": {
+          "Count": "Int:4"
+        },
+        "AdministrativeEntity:grama_sevaka_divisions": {
+          "Count": "Int:98"
+        },
+        "AdministrativeEntity:municipal_councils": {
+          "Count": "Int:1"
+        },
+        "AdministrativeEntity:urban_councils": {
+          "Count": "Int:2"
+        },
+        "AdministrativeEntity:town_councils": {
+          "Count": "Int:1"
+        }
+      },
+      "District:LK-31": {
+        "AdministrativeEntity:assistant_government_agend_divisions": {
+          "Count": "Int:16"
+        },
+        "AdministrativeEntity:grama_sevaka_divisions": {
+          "Count": "Int:274"
+        },
+        "AdministrativeEntity:municipal_councils": {
+          "Count": "Int:1"
+        },
+        "AdministrativeEntity:urban_councils": {
+          "Count": "Int:1"
+        },
+        "AdministrativeEntity:town_councils": {
+          "Count": "Int:7"
+        }
+      },
+      "District:LK-32": {
+        "AdministrativeEntity:assistant_government_agend_divisions": {
+          "Count": "Int:11"
+        },
+        "AdministrativeEntity:grama_sevaka_divisions": {
+          "Count": "Int:214"
+        },
+        "AdministrativeEntity:municipal_councils": {
+          "Count": "Int:0"
+        },
+        "AdministrativeEntity:urban_councils": {
+          "Count": "Int:2"
+        },
+        "AdministrativeEntity:town_councils": {
+          "Count": "Int:2"
+        }
+      },
+      "District:LK-33": {
+        "AdministrativeEntity:assistant_government_agend_divisions": {
+          "Count": "Int:8"
+        },
+        "AdministrativeEntity:grama_sevaka_divisions": {
+          "Count": "Int:165"
+        },
+        "AdministrativeEntity:municipal_councils": {
+          "Count": "Int:0"
+        },
+        "AdministrativeEntity:urban_councils": {
+          "Count": "Int:2"
+        },
+        "AdministrativeEntity:town_councils": {
+          "Count": "Int:4"
+        }
+      },
+      "District:LK-41": {
+        "AdministrativeEntity:assistant_government_agend_divisions": {
+          "Count": "Int:16"
+        },
+        "AdministrativeEntity:grama_sevaka_divisions": {
+          "Count": "Int:150"
+        },
+        "AdministrativeEntity:municipal_councils": {
+          "Count": "Int:1"
+        },
+        "AdministrativeEntity:urban_councils": {
+          "Count": "Int:3"
+        },
+        "AdministrativeEntity:town_councils": {
+          "Count": "Int:9"
+        }
+      },
+      "District:LK-42": {
+        "AdministrativeEntity:assistant_government_agend_divisions": {
+          "Count": "Int:4"
+        },
+        "AdministrativeEntity:grama_sevaka_divisions": {
+          "Count": "Int:33"
+        },
+        "AdministrativeEntity:municipal_councils": {
+          "Count": "Int:0"
+        },
+        "AdministrativeEntity:urban_councils": {
+          "Count": "Int:0"
+        },
+        "AdministrativeEntity:town_councils": {
+          "Count": "Int:1"
+        }
+      },
+      "District:LK-43": {
+        "AdministrativeEntity:assistant_government_agend_divisions": {
+          "Count": "Int:4"
+        },
+        "AdministrativeEntity:grama_sevaka_divisions": {
+          "Count": "Int:23"
+        },
+        "AdministrativeEntity:municipal_councils": {
+          "Count": "Int:0"
+        },
+        "AdministrativeEntity:urban_councils": {
+          "Count": "Int:1"
+        },
+        "AdministrativeEntity:town_councils": {
+          "Count": "Int:0"
+        }
+      },
+      "District:LK-44": {
+        "AdministrativeEntity:assistant_government_agend_divisions": {
+          "Count": "Int:4"
+        },
+        "AdministrativeEntity:grama_sevaka_divisions": {
+          "Count": "Int:26"
+        },
+        "AdministrativeEntity:municipal_councils": {
+          "Count": "Int:0"
+        },
+        "AdministrativeEntity:urban_councils": {
+          "Count": "Int:0"
+        },
+        "AdministrativeEntity:town_councils": {
+          "Count": "Int:1"
+        }
+      },
+      "District:LK-51": {
+        "AdministrativeEntity:assistant_government_agend_divisions": {
+          "Count": "Int:7"
+        },
+        "AdministrativeEntity:grama_sevaka_divisions": {
+          "Count": "Int:87"
+        },
+        "AdministrativeEntity:municipal_councils": {
+          "Count": "Int:1"
+        },
+        "AdministrativeEntity:urban_councils": {
+          "Count": "Int:0"
+        },
+        "AdministrativeEntity:town_councils": {
+          "Count": "Int:2"
+        }
+      },
+      "District:LK-52": {
+        "AdministrativeEntity:assistant_government_agend_divisions": {
+          "Count": "Int:12"
+        },
+        "AdministrativeEntity:grama_sevaka_divisions": {
+          "Count": "Int:108"
+        },
+        "AdministrativeEntity:municipal_councils": {
+          "Count": "Int:0"
+        },
+        "AdministrativeEntity:urban_councils": {
+          "Count": "Int:1"
+        },
+        "AdministrativeEntity:town_councils": {
+          "Count": "Int:2"
+        }
+      },
+      "District:LK-53": {
+        "AdministrativeEntity:assistant_government_agend_divisions": {
+          "Count": "Int:9"
+        },
+        "AdministrativeEntity:grama_sevaka_divisions": {
+          "Count": "Int:48"
+        },
+        "AdministrativeEntity:municipal_councils": {
+          "Count": "Int:0"
+        },
+        "AdministrativeEntity:urban_councils": {
+          "Count": "Int:1"
+        },
+        "AdministrativeEntity:town_councils": {
+          "Count": "Int:3"
+        }
+      },
+      "District:LK-61": {
+        "AdministrativeEntity:assistant_government_agend_divisions": {
+          "Count": "Int:17"
+        },
+        "AdministrativeEntity:grama_sevaka_divisions": {
+          "Count": "Int:510"
+        },
+        "AdministrativeEntity:municipal_councils": {
+          "Count": "Int:1"
+        },
+        "AdministrativeEntity:urban_councils": {
+          "Count": "Int:1"
+        },
+        "AdministrativeEntity:town_councils": {
+          "Count": "Int:3"
+        }
+      },
+      "District:LK-62": {
+        "AdministrativeEntity:assistant_government_agend_divisions": {
+          "Count": "Int:10"
+        },
+        "AdministrativeEntity:grama_sevaka_divisions": {
+          "Count": "Int:178"
+        },
+        "AdministrativeEntity:municipal_councils": {
+          "Count": "Int:0"
+        },
+        "AdministrativeEntity:urban_councils": {
+          "Count": "Int:2"
+        },
+        "AdministrativeEntity:town_councils": {
+          "Count": "Int:5"
+        }
+      },
+      "District:LK-71": {
+        "AdministrativeEntity:assistant_government_agend_divisions": {
+          "Count": "Int:16"
+        },
+        "AdministrativeEntity:grama_sevaka_divisions": {
+          "Count": "Int:189"
+        },
+        "AdministrativeEntity:municipal_councils": {
+          "Count": "Int:0"
+        },
+        "AdministrativeEntity:urban_councils": {
+          "Count": "Int:1"
+        },
+        "AdministrativeEntity:town_councils": {
+          "Count": "Int:1"
+        }
+      },
+      "District:LK-72": {
+        "AdministrativeEntity:assistant_government_agend_divisions": {
+          "Count": "Int:5"
+        },
+        "AdministrativeEntity:grama_sevaka_divisions": {
+          "Count": "Int:60"
+        },
+        "AdministrativeEntity:municipal_councils": {
+          "Count": "Int:0"
+        },
+        "AdministrativeEntity:urban_councils": {
+          "Count": "Int:0"
+        },
+        "AdministrativeEntity:town_councils": {
+          "Count": "Int:2"
+        }
+      },
+      "District:LK-81": {
+        "AdministrativeEntity:assistant_government_agend_divisions": {
+          "Count": "Int:14"
+        },
+        "AdministrativeEntity:grama_sevaka_divisions": {
+          "Count": "Int:151"
+        },
+        "AdministrativeEntity:municipal_councils": {
+          "Count": "Int:1"
+        },
+        "AdministrativeEntity:urban_councils": {
+          "Count": "Int:2"
+        },
+        "AdministrativeEntity:town_councils": {
+          "Count": "Int:4"
+        }
+      },
+      "District:LK-82": {
+        "AdministrativeEntity:assistant_government_agend_divisions": {
+          "Count": "Int:8"
+        },
+        "AdministrativeEntity:grama_sevaka_divisions": {
+          "Count": "Int:88"
+        },
+        "AdministrativeEntity:municipal_councils": {
+          "Count": "Int:0"
+        },
+        "AdministrativeEntity:urban_councils": {
+          "Count": "Int:0"
+        },
+        "AdministrativeEntity:town_councils": {
+          "Count": "Int:1"
+        }
+      },
+      "District:LK-91": {
+        "AdministrativeEntity:assistant_government_agend_divisions": {
+          "Count": "Int:13"
+        },
+        "AdministrativeEntity:grama_sevaka_divisions": {
+          "Count": "Int:175"
+        },
+        "AdministrativeEntity:municipal_councils": {
+          "Count": "Int:1"
+        },
+        "AdministrativeEntity:urban_councils": {
+          "Count": "Int:1"
+        },
+        "AdministrativeEntity:town_councils": {
+          "Count": "Int:3"
+        }
+      },
+      "District:LK-92": {
+        "AdministrativeEntity:assistant_government_agend_divisions": {
+          "Count": "Int:10"
+        },
+        "AdministrativeEntity:grama_sevaka_divisions": {
+          "Count": "Int:196"
+        },
+        "AdministrativeEntity:municipal_councils": {
+          "Count": "Int:0"
+        },
+        "AdministrativeEntity:urban_councils": {
+          "Count": "Int:1"
+        },
+        "AdministrativeEntity:town_councils": {
+          "Count": "Int:6"
+        }
+      }
+    }
+  }
+}

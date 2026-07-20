@@ -1,0 +1,62 @@
+[
+  {
+    "sector": "Sri Lanka",
+    "values": {
+      "p_to_a_properly_closed_pit": 0.267,
+      "p_open_pit": 0.071,
+      "p_within_the_premises": 0.573,
+      "p_connected_to_a_piped_sewer": 0.015,
+      "p_to_a_stream_or_spring_or_river_or_sea": 0.011,
+      "p_to_a_drain_on_road": 0.061,
+      "p_other": 0.002
+    }
+  },
+  {
+    "sector": "Urban",
+    "values": {
+      "p_to_a_properly_closed_pit": 0.462,
+      "p_open_pit": 0.025,
+      "p_within_the_premises": 0.237,
+      "p_connected_to_a_piped_sewer": 0.085,
+      "p_to_a_stream_or_spring_or_river_or_sea": 0.015,
+      "p_to_a_drain_on_road": 0.173,
+      "p_other": 0.003
+    }
+  },
+  {
+    "sector": "Estate- Urban",
+    "values": {
+      "p_to_a_properly_closed_pit": 0.11,
+      "p_open_pit": 0.059,
+      "p_within_the_premises": 0.413,
+      "p_connected_to_a_piped_sewer": 0.0,
+      "p_to_a_stream_or_spring_or_river_or_sea": 0.025,
+      "p_to_a_drain_on_road": 0.393,
+      "p_other": 0.0
+    }
+  },
+  {
+    "sector": "Rural",
+    "values": {
+      "p_to_a_properly_closed_pit": 0.234,
+      "p_open_pit": 0.08,
+      "p_within_the_premises": 0.646,
+      "p_connected_to_a_piped_sewer": 0.001,
+      "p_to_a_stream_or_spring_or_river_or_sea": 0.007,
+      "p_to_a_drain_on_road": 0.03,
+      "p_other": 0.002
+    }
+  },
+  {
+    "sector": "Estate- Rural",
+    "values": {
+      "p_to_a_properly_closed_pit": 0.094,
+      "p_open_pit": 0.09,
+      "p_within_the_premises": 0.555,
+      "p_connected_to_a_piped_sewer": 0.0,
+      "p_to_a_stream_or_spring_or_river_or_sea": 0.073,
+      "p_to_a_drain_on_road": 0.181,
+      "p_other": 0.007
+    }
+  }
+]

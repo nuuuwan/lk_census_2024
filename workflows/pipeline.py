@@ -8,6 +8,6 @@ def not_running():
 
 
 if __name__ == "__main__":
-    # FinalReport.build()
-    XLSXDataTable.build_all()
+    FinalReport.build()
+    # XLSXDataTable.build_all()
     ReadMe().build()

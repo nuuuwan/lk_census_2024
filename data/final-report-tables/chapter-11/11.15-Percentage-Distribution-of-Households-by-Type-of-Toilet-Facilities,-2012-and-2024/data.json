@@ -1,0 +1,58 @@
+[
+  {
+    "toilet_facilities": "Toilet facilities",
+    "values": {
+      "units_2012": 2012,
+      "units_2024": 2024
+    }
+  },
+  {
+    "toilet_facilities": "Within the housing unit - Exclusively for the household",
+    "values": {
+      "units_2012": 1748249,
+      "units_2024": 3798777
+    }
+  },
+  {
+    "toilet_facilities": "Within the housing unit - Sharing with another household",
+    "values": {
+      "units_2012": 82078,
+      "units_2024": 157456
+    }
+  },
+  {
+    "toilet_facilities": "Within Premises - Exclusively for the household",
+    "values": {
+      "units_2012": 2817362,
+      "units_2024": 1832587
+    }
+  },
+  {
+    "toilet_facilities": "Within Premises - Sharing with another household",
+    "values": {
+      "units_2012": 358453,
+      "units_2024": 197678
+    }
+  },
+  {
+    "toilet_facilities": "No toilet but sharing with another housing unit/units",
+    "values": {
+      "units_2012": 133772,
+      "units_2024": 101924
+    }
+  },
+  {
+    "toilet_facilities": "Common/ Public toilet",
+    "values": {
+      "units_2012": 36088,
+      "units_2024": 9567
+    }
+  },
+  {
+    "toilet_facilities": "Not using a toilet (use jungle, beach and open ground)",
+    "values": {
+      "units_2012": 88280,
+      "units_2024": 13326
+    }
+  }
+]

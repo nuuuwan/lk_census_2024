@@ -1,0 +1,74 @@
+{
+  "Person": {
+    "Time:2024": {
+      "Sector:urban": {
+        "HighestEducationLevel3:no_schooling": {
+          "Count": "Int:16211"
+        },
+        "HighestEducationLevel3:passed_1_5_years": {
+          "Count": "Int:87831"
+        },
+        "HighestEducationLevel3:passed_6_10_years": {
+          "Count": "Int:313916"
+        },
+        "HighestEducationLevel3:gce_ol": {
+          "Count": "Int:263964"
+        },
+        "HighestEducationLevel3:gce_al": {
+          "Count": "Int:360635"
+        }
+      },
+      "Sector:estate_urban": {
+        "HighestEducationLevel3:no_schooling": {
+          "Count": "Int:329"
+        },
+        "HighestEducationLevel3:passed_1_5_years": {
+          "Count": "Int:833"
+        },
+        "HighestEducationLevel3:passed_6_10_years": {
+          "Count": "Int:1353"
+        },
+        "HighestEducationLevel3:gce_ol": {
+          "Count": "Int:317"
+        },
+        "HighestEducationLevel3:gce_al": {
+          "Count": "Int:276"
+        }
+      },
+      "Sector:rural": {
+        "HighestEducationLevel3:no_schooling": {
+          "Count": "Int:127933"
+        },
+        "HighestEducationLevel3:passed_1_5_years": {
+          "Count": "Int:761530"
+        },
+        "HighestEducationLevel3:passed_6_10_years": {
+          "Count": "Int:2037293"
+        },
+        "HighestEducationLevel3:gce_ol": {
+          "Count": "Int:1023234"
+        },
+        "HighestEducationLevel3:gce_al": {
+          "Count": "Int:877065"
+        }
+      },
+      "Sector:estate_rural": {
+        "HighestEducationLevel3:no_schooling": {
+          "Count": "Int:29671"
+        },
+        "HighestEducationLevel3:passed_1_5_years": {
+          "Count": "Int:83244"
+        },
+        "HighestEducationLevel3:passed_6_10_years": {
+          "Count": "Int:91332"
+        },
+        "HighestEducationLevel3:gce_ol": {
+          "Count": "Int:23164"
+        },
+        "HighestEducationLevel3:gce_al": {
+          "Count": "Int:11184"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,442 @@
+[
+  {
+    "topic": "schedule",
+    "values": {
+      "is_census_1871": false,
+      "is_census_1881": false,
+      "is_census_1891": false,
+      "is_census_1901": false,
+      "is_census_1911": false,
+      "is_census_1921": false,
+      "is_census_1931": false,
+      "is_census_1946": false,
+      "is_census_1953": false,
+      "is_census_1963": false,
+      "is_census_1971": false,
+      "is_census_1981": false,
+      "is_census_2001": false,
+      "is_census_2012": false,
+      "is_census_2024": false
+    }
+  },
+  {
+    "topic": "Demographic and Personal Information",
+    "values": {
+      "is_census_1871": false,
+      "is_census_1881": false,
+      "is_census_1891": false,
+      "is_census_1901": false,
+      "is_census_1911": false,
+      "is_census_1921": false,
+      "is_census_1931": false,
+      "is_census_1946": false,
+      "is_census_1953": false,
+      "is_census_1963": false,
+      "is_census_1971": false,
+      "is_census_1981": false,
+      "is_census_2001": false,
+      "is_census_2012": false,
+      "is_census_2024": false
+    }
+  },
+  {
+    "topic": "Name",
+    "values": {
+      "is_census_1871": true,
+      "is_census_1881": true,
+      "is_census_1891": true,
+      "is_census_1901": true,
+      "is_census_1911": true,
+      "is_census_1921": true,
+      "is_census_1931": true,
+      "is_census_1946": true,
+      "is_census_1953": true,
+      "is_census_1963": true,
+      "is_census_1971": true,
+      "is_census_1981": true,
+      "is_census_2001": true,
+      "is_census_2012": true,
+      "is_census_2024": true
+    }
+  },
+  {
+    "topic": "Relationship to head of the household",
+    "values": {
+      "is_census_1871": true,
+      "is_census_1881": true,
+      "is_census_1891": true,
+      "is_census_1901": false,
+      "is_census_1911": false,
+      "is_census_1921": false,
+      "is_census_1931": false,
+      "is_census_1946": true,
+      "is_census_1953": true,
+      "is_census_1963": true,
+      "is_census_1971": true,
+      "is_census_1981": true,
+      "is_census_2001": true,
+      "is_census_2012": true,
+      "is_census_2024": true
+    }
+  },
+  {
+    "topic": "Sex",
+    "values": {
+      "is_census_1871": true,
+      "is_census_1881": true,
+      "is_census_1891": true,
+      "is_census_1901": true,
+      "is_census_1911": true,
+      "is_census_1921": true,
+      "is_census_1931": true,
+      "is_census_1946": true,
+      "is_census_1953": true,
+      "is_census_1963": true,
+      "is_census_1971": true,
+      "is_census_1981": true,
+      "is_census_2001": true,
+      "is_census_2012": true,
+      "is_census_2024": true
+    }
+  },
+  {
+    "topic": "Date of birth",
+    "values": {
+      "is_census_1871": false,
+      "is_census_1881": false,
+      "is_census_1891": false,
+      "is_census_1901": false,
+      "is_census_1911": false,
+      "is_census_1921": false,
+      "is_census_1931": false,
+      "is_census_1946": false,
+      "is_census_1953": false,
+      "is_census_1963": true,
+      "is_census_1971": true,
+      "is_census_1981": true,
+      "is_census_2001": true,
+      "is_census_2012": true,
+      "is_census_2024": true
+    }
+  },
+  {
+    "topic": "Age",
+    "values": {
+      "is_census_1871": true,
+      "is_census_1881": true,
+      "is_census_1891": true,
+      "is_census_1901": true,
+      "is_census_1911": true,
+      "is_census_1921": true,
+      "is_census_1931": true,
+      "is_census_1946": true,
+      "is_census_1953": true,
+      "is_census_1963": true,
+      "is_census_1971": true,
+      "is_census_1981": true,
+      "is_census_2001": false,
+      "is_census_2012": false,
+      "is_census_2024": false
+    }
+  },
+  {
+    "topic": "Marital Status",
+    "values": {
+      "is_census_1871": true,
+      "is_census_1881": false,
+      "is_census_1891": false,
+      "is_census_1901": true,
+      "is_census_1911": true,
+      "is_census_1921": true,
+      "is_census_1931": true,
+      "is_census_1946": true,
+      "is_census_1953": false,
+      "is_census_1963": true,
+      "is_census_1971": true,
+      "is_census_1981": true,
+      "is_census_2001": true,
+      "is_census_2012": true,
+      "is_census_2024": true
+    }
+  },
+  {
+    "topic": "Religion",
+    "values": {
+      "is_census_1871": true,
+      "is_census_1881": true,
+      "is_census_1891": true,
+      "is_census_1901": true,
+      "is_census_1911": true,
+      "is_census_1921": true,
+      "is_census_1931": true,
+      "is_census_1946": true,
+      "is_census_1953": true,
+      "is_census_1963": true,
+      "is_census_1971": true,
+      "is_census_1981": true,
+      "is_census_2001": true,
+      "is_census_2012": true,
+      "is_census_2024": true
+    }
+  },
+  {
+    "topic": "Citizenship",
+    "values": {
+      "is_census_1871": false,
+      "is_census_1881": false,
+      "is_census_1891": false,
+      "is_census_1901": false,
+      "is_census_1911": false,
+      "is_census_1921": false,
+      "is_census_1931": false,
+      "is_census_1946": false,
+      "is_census_1953": true,
+      "is_census_1963": true,
+      "is_census_1971": true,
+      "is_census_1981": true,
+      "is_census_2001": true,
+      "is_census_2012": true,
+      "is_census_2024": true
+    }
+  },
+  {
+    "topic": "N.I.C. No.",
+    "values": {
+      "is_census_1871": false,
+      "is_census_1881": false,
+      "is_census_1891": false,
+      "is_census_1901": false,
+      "is_census_1911": false,
+      "is_census_1921": false,
+      "is_census_1931": false,
+      "is_census_1946": false,
+      "is_census_1953": false,
+      "is_census_1963": false,
+      "is_census_1971": false,
+      "is_census_1981": false,
+      "is_census_2001": false,
+      "is_census_2012": true,
+      "is_census_2024": true
+    }
+  },
+  {
+    "topic": "Status of clergy/priest",
+    "values": {
+      "is_census_1871": false,
+      "is_census_1881": false,
+      "is_census_1891": false,
+      "is_census_1901": false,
+      "is_census_1911": false,
+      "is_census_1921": false,
+      "is_census_1931": false,
+      "is_census_1946": false,
+      "is_census_1953": false,
+      "is_census_1963": false,
+      "is_census_1971": false,
+      "is_census_1981": false,
+      "is_census_2001": false,
+      "is_census_2012": false,
+      "is_census_2024": true
+    }
+  },
+  {
+    "topic": "Educational Characteristics",
+    "values": {
+      "is_census_1871": false,
+      "is_census_1881": false,
+      "is_census_1891": false,
+      "is_census_1901": false,
+      "is_census_1911": false,
+      "is_census_1921": false,
+      "is_census_1931": false,
+      "is_census_1946": false,
+      "is_census_1953": false,
+      "is_census_1963": false,
+      "is_census_1971": false,
+      "is_census_1981": false,
+      "is_census_2001": false,
+      "is_census_2012": false,
+      "is_census_2024": false
+    }
+  },
+  {
+    "topic": "Ability to speak Sinhala & Tamil",
+    "values": {
+      "is_census_1871": false,
+      "is_census_1881": false,
+      "is_census_1891": false,
+      "is_census_1901": false,
+      "is_census_1911": false,
+      "is_census_1921": false,
+      "is_census_1931": false,
+      "is_census_1946": true,
+      "is_census_1953": true,
+      "is_census_1963": true,
+      "is_census_1971": false,
+      "is_census_1981": false,
+      "is_census_2001": false,
+      "is_census_2012": false,
+      "is_census_2024": false
+    }
+  },
+  {
+    "topic": "Ability to speak English",
+    "values": {
+      "is_census_1871": false,
+      "is_census_1881": false,
+      "is_census_1891": false,
+      "is_census_1901": false,
+      "is_census_1911": true,
+      "is_census_1921": true,
+      "is_census_1931": true,
+      "is_census_1946": true,
+      "is_census_1953": true,
+      "is_census_1963": true,
+      "is_census_1971": false,
+      "is_census_1981": false,
+      "is_census_2001": false,
+      "is_census_2012": false,
+      "is_census_2024": false
+    }
+  },
+  {
+    "topic": "Ability to speak Sinhala, English & Tamil",
+    "values": {
+      "is_census_1871": false,
+      "is_census_1881": false,
+      "is_census_1891": false,
+      "is_census_1901": false,
+      "is_census_1911": false,
+      "is_census_1921": false,
+      "is_census_1931": false,
+      "is_census_1946": false,
+      "is_census_1953": false,
+      "is_census_1963": false,
+      "is_census_1971": false,
+      "is_census_1981": false,
+      "is_census_2001": true,
+      "is_census_2012": true,
+      "is_census_2024": true
+    }
+  },
+  {
+    "topic": "Literacy",
+    "values": {
+      "is_census_1871": false,
+      "is_census_1881": true,
+      "is_census_1891": true,
+      "is_census_1901": true,
+      "is_census_1911": true,
+      "is_census_1921": true,
+      "is_census_1931": true,
+      "is_census_1946": true,
+      "is_census_1953": true,
+      "is_census_1963": true,
+      "is_census_1971": true,
+      "is_census_1981": false,
+      "is_census_2001": false,
+      "is_census_2012": false,
+      "is_census_2024": false
+    }
+  },
+  {
+    "topic": "English Literacy",
+    "values": {
+      "is_census_1871": false,
+      "is_census_1881": false,
+      "is_census_1891": false,
+      "is_census_1901": true,
+      "is_census_1911": true,
+      "is_census_1921": true,
+      "is_census_1931": true,
+      "is_census_1946": true,
+      "is_census_1953": false,
+      "is_census_1963": true,
+      "is_census_1971": false,
+      "is_census_1981": false,
+      "is_census_2001": false,
+      "is_census_2012": false,
+      "is_census_2024": false
+    }
+  },
+  {
+    "topic": "Sinhala, English & Tamil Literacy",
+    "values": {
+      "is_census_1871": false,
+      "is_census_1881": false,
+      "is_census_1891": false,
+      "is_census_1901": false,
+      "is_census_1911": false,
+      "is_census_1921": false,
+      "is_census_1931": false,
+      "is_census_1946": false,
+      "is_census_1953": false,
+      "is_census_1963": false,
+      "is_census_1971": false,
+      "is_census_1981": true,
+      "is_census_2001": true,
+      "is_census_2012": true,
+      "is_census_2024": true
+    }
+  },
+  {
+    "topic": "Computer Literacy",
+    "values": {
+      "is_census_1871": false,
+      "is_census_1881": false,
+      "is_census_1891": false,
+      "is_census_1901": false,
+      "is_census_1911": false,
+      "is_census_1921": false,
+      "is_census_1931": false,
+      "is_census_1946": false,
+      "is_census_1953": false,
+      "is_census_1963": false,
+      "is_census_1971": false,
+      "is_census_1981": false,
+      "is_census_2001": false,
+      "is_census_2012": true,
+      "is_census_2024": true
+    }
+  },
+  {
+    "topic": "Digital Literacy",
+    "values": {
+      "is_census_1871": false,
+      "is_census_1881": false,
+      "is_census_1891": false,
+      "is_census_1901": false,
+      "is_census_1911": false,
+      "is_census_1921": false,
+      "is_census_1931": false,
+      "is_census_1946": false,
+      "is_census_1953": false,
+      "is_census_1963": false,
+      "is_census_1971": false,
+      "is_census_1981": false,
+      "is_census_2001": false,
+      "is_census_2012": false,
+      "is_census_2024": true
+    }
+  },
+  {
+    "topic": "Vocational & Apprenticeship qualification",
+    "values": {
+      "is_census_1871": false,
+      "is_census_1881": false,
+      "is_census_1891": false,
+      "is_census_1901": false,
+      "is_census_1911": false,
+      "is_census_1921": false,
+      "is_census_1931": false,
+      "is_census_1946": false,
+      "is_census_1953": false,
+      "is_census_1963": false,
+      "is_census_1971": false,
+      "is_census_1981": false,
+      "is_census_2001": false,
+      "is_census_2012": true,
+      "is_census_2024": true
+    }
+  }
+]

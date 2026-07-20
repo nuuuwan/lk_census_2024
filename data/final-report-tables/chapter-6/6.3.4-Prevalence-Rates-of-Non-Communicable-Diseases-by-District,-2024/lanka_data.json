@@ -1,0 +1,806 @@
+{
+  "Person": {
+    "Time:2024": {
+      "District:LK-11": {
+        "NonCommunicableDisease:diabetes": {
+          "Count": "Int:254111"
+        },
+        "NonCommunicableDisease:high_cholesterol": {
+          "Count": "Int:216113"
+        },
+        "NonCommunicableDisease:high_blood_pressure": {
+          "Count": "Int:249361"
+        },
+        "NonCommunicableDisease:heart_disease": {
+          "Count": "Int:59372"
+        },
+        "NonCommunicableDisease:kidney_disease": {
+          "Count": "Int:11874"
+        },
+        "NonCommunicableDisease:thalassemia": {
+          "Count": "Int:2375"
+        },
+        "NonCommunicableDisease:cancer": {
+          "Count": "Int:7125"
+        },
+        "NonCommunicableDisease:stroke": {
+          "Count": "Int:9499"
+        },
+        "NonCommunicableDisease:asthma": {
+          "Count": "Int:28498"
+        },
+        "NonCommunicableDisease:epilepsy": {
+          "Count": "Int:4750"
+        }
+      },
+      "District:LK-12": {
+        "NonCommunicableDisease:diabetes": {
+          "Count": "Int:255771"
+        },
+        "NonCommunicableDisease:high_cholesterol": {
+          "Count": "Int:233848"
+        },
+        "NonCommunicableDisease:high_blood_pressure": {
+          "Count": "Int:260643"
+        },
+        "NonCommunicableDisease:heart_disease": {
+          "Count": "Int:60898"
+        },
+        "NonCommunicableDisease:kidney_disease": {
+          "Count": "Int:14615"
+        },
+        "NonCommunicableDisease:thalassemia": {
+          "Count": "Int:2436"
+        },
+        "NonCommunicableDisease:cancer": {
+          "Count": "Int:9744"
+        },
+        "NonCommunicableDisease:stroke": {
+          "Count": "Int:12180"
+        },
+        "NonCommunicableDisease:asthma": {
+          "Count": "Int:29231"
+        },
+        "NonCommunicableDisease:epilepsy": {
+          "Count": "Int:4872"
+        }
+      },
+      "District:LK-13": {
+        "NonCommunicableDisease:diabetes": {
+          "Count": "Int:120125"
+        },
+        "NonCommunicableDisease:high_cholesterol": {
+          "Count": "Int:116208"
+        },
+        "NonCommunicableDisease:high_blood_pressure": {
+          "Count": "Int:133182"
+        },
+        "NonCommunicableDisease:heart_disease": {
+          "Count": "Int:31337"
+        },
+        "NonCommunicableDisease:kidney_disease": {
+          "Count": "Int:7834"
+        },
+        "NonCommunicableDisease:thalassemia": {
+          "Count": "Int:1306"
+        },
+        "NonCommunicableDisease:cancer": {
+          "Count": "Int:5223"
+        },
+        "NonCommunicableDisease:stroke": {
+          "Count": "Int:7834"
+        },
+        "NonCommunicableDisease:asthma": {
+          "Count": "Int:15668"
+        },
+        "NonCommunicableDisease:epilepsy": {
+          "Count": "Int:3917"
+        }
+      },
+      "District:LK-21": {
+        "NonCommunicableDisease:diabetes": {
+          "Count": "Int:128634"
+        },
+        "NonCommunicableDisease:high_cholesterol": {
+          "Count": "Int:119864"
+        },
+        "NonCommunicableDisease:high_blood_pressure": {
+          "Count": "Int:169564"
+        },
+        "NonCommunicableDisease:heart_disease": {
+          "Count": "Int:39467"
+        },
+        "NonCommunicableDisease:kidney_disease": {
+          "Count": "Int:8771"
+        },
+        "NonCommunicableDisease:thalassemia": {
+          "Count": "Int:1462"
+        },
+        "NonCommunicableDisease:cancer": {
+          "Count": "Int:5847"
+        },
+        "NonCommunicableDisease:stroke": {
+          "Count": "Int:8771"
+        },
+        "NonCommunicableDisease:asthma": {
+          "Count": "Int:27773"
+        },
+        "NonCommunicableDisease:epilepsy": {
+          "Count": "Int:4385"
+        }
+      },
+      "District:LK-22": {
+        "NonCommunicableDisease:diabetes": {
+          "Count": "Int:41094"
+        },
+        "NonCommunicableDisease:high_cholesterol": {
+          "Count": "Int:41621"
+        },
+        "NonCommunicableDisease:high_blood_pressure": {
+          "Count": "Int:59534"
+        },
+        "NonCommunicableDisease:heart_disease": {
+          "Count": "Int:13171"
+        },
+        "NonCommunicableDisease:kidney_disease": {
+          "Count": "Int:5795"
+        },
+        "NonCommunicableDisease:thalassemia": {
+          "Count": "Int:527"
+        },
+        "NonCommunicableDisease:cancer": {
+          "Count": "Int:2107"
+        },
+        "NonCommunicableDisease:stroke": {
+          "Count": "Int:3161"
+        },
+        "NonCommunicableDisease:asthma": {
+          "Count": "Int:10537"
+        },
+        "NonCommunicableDisease:epilepsy": {
+          "Count": "Int:1581"
+        }
+      },
+      "District:LK-23": {
+        "NonCommunicableDisease:diabetes": {
+          "Count": "Int:39164"
+        },
+        "NonCommunicableDisease:high_cholesterol": {
+          "Count": "Int:35537"
+        },
+        "NonCommunicableDisease:high_blood_pressure": {
+          "Count": "Int:73976"
+        },
+        "NonCommunicableDisease:heart_disease": {
+          "Count": "Int:19582"
+        },
+        "NonCommunicableDisease:kidney_disease": {
+          "Count": "Int:4352"
+        },
+        "NonCommunicableDisease:thalassemia": {
+          "Count": "Int:725"
+        },
+        "NonCommunicableDisease:cancer": {
+          "Count": "Int:2901"
+        },
+        "NonCommunicableDisease:stroke": {
+          "Count": "Int:6527"
+        },
+        "NonCommunicableDisease:asthma": {
+          "Count": "Int:15956"
+        },
+        "NonCommunicableDisease:epilepsy": {
+          "Count": "Int:3626"
+        }
+      },
+      "District:LK-31": {
+        "NonCommunicableDisease:diabetes": {
+          "Count": "Int:87778"
+        },
+        "NonCommunicableDisease:high_cholesterol": {
+          "Count": "Int:98750"
+        },
+        "NonCommunicableDisease:high_blood_pressure": {
+          "Count": "Int:107528"
+        },
+        "NonCommunicableDisease:heart_disease": {
+          "Count": "Int:29625"
+        },
+        "NonCommunicableDisease:kidney_disease": {
+          "Count": "Int:6583"
+        },
+        "NonCommunicableDisease:thalassemia": {
+          "Count": "Int:1097"
+        },
+        "NonCommunicableDisease:cancer": {
+          "Count": "Int:4389"
+        },
+        "NonCommunicableDisease:stroke": {
+          "Count": "Int:6583"
+        },
+        "NonCommunicableDisease:asthma": {
+          "Count": "Int:20847"
+        },
+        "NonCommunicableDisease:epilepsy": {
+          "Count": "Int:3292"
+        }
+      },
+      "District:LK-32": {
+        "NonCommunicableDisease:diabetes": {
+          "Count": "Int:70372"
+        },
+        "NonCommunicableDisease:high_cholesterol": {
+          "Count": "Int:80425"
+        },
+        "NonCommunicableDisease:high_blood_pressure": {
+          "Count": "Int:86289"
+        },
+        "NonCommunicableDisease:heart_disease": {
+          "Count": "Int:25133"
+        },
+        "NonCommunicableDisease:kidney_disease": {
+          "Count": "Int:5864"
+        },
+        "NonCommunicableDisease:thalassemia": {
+          "Count": "Int:838"
+        },
+        "NonCommunicableDisease:cancer": {
+          "Count": "Int:3351"
+        },
+        "NonCommunicableDisease:stroke": {
+          "Count": "Int:4189"
+        },
+        "NonCommunicableDisease:asthma": {
+          "Count": "Int:20944"
+        },
+        "NonCommunicableDisease:epilepsy": {
+          "Count": "Int:3351"
+        }
+      },
+      "District:LK-33": {
+        "NonCommunicableDisease:diabetes": {
+          "Count": "Int:53711"
+        },
+        "NonCommunicableDisease:high_cholesterol": {
+          "Count": "Int:63781"
+        },
+        "NonCommunicableDisease:high_blood_pressure": {
+          "Count": "Int:60424"
+        },
+        "NonCommunicableDisease:heart_disease": {
+          "Count": "Int:16785"
+        },
+        "NonCommunicableDisease:kidney_disease": {
+          "Count": "Int:4700"
+        },
+        "NonCommunicableDisease:thalassemia": {
+          "Count": "Int:671"
+        },
+        "NonCommunicableDisease:cancer": {
+          "Count": "Int:2686"
+        },
+        "NonCommunicableDisease:stroke": {
+          "Count": "Int:4028"
+        },
+        "NonCommunicableDisease:asthma": {
+          "Count": "Int:14770"
+        },
+        "NonCommunicableDisease:epilepsy": {
+          "Count": "Int:2014"
+        }
+      },
+      "District:LK-41": {
+        "NonCommunicableDisease:diabetes": {
+          "Count": "Int:61849"
+        },
+        "NonCommunicableDisease:high_cholesterol": {
+          "Count": "Int:58875"
+        },
+        "NonCommunicableDisease:high_blood_pressure": {
+          "Count": "Int:62443"
+        },
+        "NonCommunicableDisease:heart_disease": {
+          "Count": "Int:12489"
+        },
+        "NonCommunicableDisease:kidney_disease": {
+          "Count": "Int:3568"
+        },
+        "NonCommunicableDisease:thalassemia": {
+          "Count": "Int:595"
+        },
+        "NonCommunicableDisease:cancer": {
+          "Count": "Int:2379"
+        },
+        "NonCommunicableDisease:stroke": {
+          "Count": "Int:3568"
+        },
+        "NonCommunicableDisease:asthma": {
+          "Count": "Int:14273"
+        },
+        "NonCommunicableDisease:epilepsy": {
+          "Count": "Int:2973"
+        }
+      },
+      "District:LK-42": {
+        "NonCommunicableDisease:diabetes": {
+          "Count": "Int:9529"
+        },
+        "NonCommunicableDisease:high_cholesterol": {
+          "Count": "Int:8168"
+        },
+        "NonCommunicableDisease:high_blood_pressure": {
+          "Count": "Int:11014"
+        },
+        "NonCommunicableDisease:heart_disease": {
+          "Count": "Int:2599"
+        },
+        "NonCommunicableDisease:kidney_disease": {
+          "Count": "Int:990"
+        },
+        "NonCommunicableDisease:thalassemia": {
+          "Count": "Int:124"
+        },
+        "NonCommunicableDisease:cancer": {
+          "Count": "Int:371"
+        },
+        "NonCommunicableDisease:stroke": {
+          "Count": "Int:619"
+        },
+        "NonCommunicableDisease:asthma": {
+          "Count": "Int:2475"
+        },
+        "NonCommunicableDisease:epilepsy": {
+          "Count": "Int:495"
+        }
+      },
+      "District:LK-43": {
+        "NonCommunicableDisease:diabetes": {
+          "Count": "Int:12921"
+        },
+        "NonCommunicableDisease:high_cholesterol": {
+          "Count": "Int:14127"
+        },
+        "NonCommunicableDisease:high_blood_pressure": {
+          "Count": "Int:15333"
+        },
+        "NonCommunicableDisease:heart_disease": {
+          "Count": "Int:4307"
+        },
+        "NonCommunicableDisease:kidney_disease": {
+          "Count": "Int:4135"
+        },
+        "NonCommunicableDisease:thalassemia": {
+          "Count": "Int:172"
+        },
+        "NonCommunicableDisease:cancer": {
+          "Count": "Int:517"
+        },
+        "NonCommunicableDisease:stroke": {
+          "Count": "Int:1206"
+        },
+        "NonCommunicableDisease:asthma": {
+          "Count": "Int:5513"
+        },
+        "NonCommunicableDisease:epilepsy": {
+          "Count": "Int:861"
+        }
+      },
+      "District:LK-44": {
+        "NonCommunicableDisease:diabetes": {
+          "Count": "Int:8461"
+        },
+        "NonCommunicableDisease:high_cholesterol": {
+          "Count": "Int:8706"
+        },
+        "NonCommunicableDisease:high_blood_pressure": {
+          "Count": "Int:9809"
+        },
+        "NonCommunicableDisease:heart_disease": {
+          "Count": "Int:2452"
+        },
+        "NonCommunicableDisease:kidney_disease": {
+          "Count": "Int:2084"
+        },
+        "NonCommunicableDisease:thalassemia": {
+          "Count": "Int:123"
+        },
+        "NonCommunicableDisease:cancer": {
+          "Count": "Int:490"
+        },
+        "NonCommunicableDisease:stroke": {
+          "Count": "Int:858"
+        },
+        "NonCommunicableDisease:asthma": {
+          "Count": "Int:5150"
+        },
+        "NonCommunicableDisease:epilepsy": {
+          "Count": "Int:858"
+        }
+      },
+      "District:LK-45": {
+        "NonCommunicableDisease:diabetes": {
+          "Count": "Int:8886"
+        },
+        "NonCommunicableDisease:high_cholesterol": {
+          "Count": "Int:9980"
+        },
+        "NonCommunicableDisease:high_blood_pressure": {
+          "Count": "Int:10117"
+        },
+        "NonCommunicableDisease:heart_disease": {
+          "Count": "Int:2597"
+        },
+        "NonCommunicableDisease:kidney_disease": {
+          "Count": "Int:1367"
+        },
+        "NonCommunicableDisease:thalassemia": {
+          "Count": "Int:137"
+        },
+        "NonCommunicableDisease:cancer": {
+          "Count": "Int:410"
+        },
+        "NonCommunicableDisease:stroke": {
+          "Count": "Int:684"
+        },
+        "NonCommunicableDisease:asthma": {
+          "Count": "Int:5058"
+        },
+        "NonCommunicableDisease:epilepsy": {
+          "Count": "Int:820"
+        }
+      },
+      "District:LK-51": {
+        "NonCommunicableDisease:diabetes": {
+          "Count": "Int:42308"
+        },
+        "NonCommunicableDisease:high_cholesterol": {
+          "Count": "Int:37541"
+        },
+        "NonCommunicableDisease:high_blood_pressure": {
+          "Count": "Int:47075"
+        },
+        "NonCommunicableDisease:heart_disease": {
+          "Count": "Int:10726"
+        },
+        "NonCommunicableDisease:kidney_disease": {
+          "Count": "Int:2979"
+        },
+        "NonCommunicableDisease:thalassemia": {
+          "Count": "Int:596"
+        },
+        "NonCommunicableDisease:cancer": {
+          "Count": "Int:1192"
+        },
+        "NonCommunicableDisease:stroke": {
+          "Count": "Int:3575"
+        },
+        "NonCommunicableDisease:asthma": {
+          "Count": "Int:26219"
+        },
+        "NonCommunicableDisease:epilepsy": {
+          "Count": "Int:2384"
+        }
+      },
+      "District:LK-52": {
+        "NonCommunicableDisease:diabetes": {
+          "Count": "Int:61796"
+        },
+        "NonCommunicableDisease:high_cholesterol": {
+          "Count": "Int:58073"
+        },
+        "NonCommunicableDisease:high_blood_pressure": {
+          "Count": "Int:67008"
+        },
+        "NonCommunicableDisease:heart_disease": {
+          "Count": "Int:16380"
+        },
+        "NonCommunicableDisease:kidney_disease": {
+          "Count": "Int:5956"
+        },
+        "NonCommunicableDisease:thalassemia": {
+          "Count": "Int:745"
+        },
+        "NonCommunicableDisease:cancer": {
+          "Count": "Int:2234"
+        },
+        "NonCommunicableDisease:stroke": {
+          "Count": "Int:4467"
+        },
+        "NonCommunicableDisease:asthma": {
+          "Count": "Int:17869"
+        },
+        "NonCommunicableDisease:epilepsy": {
+          "Count": "Int:2234"
+        }
+      },
+      "District:LK-53": {
+        "NonCommunicableDisease:diabetes": {
+          "Count": "Int:29662"
+        },
+        "NonCommunicableDisease:high_cholesterol": {
+          "Count": "Int:27006"
+        },
+        "NonCommunicableDisease:high_blood_pressure": {
+          "Count": "Int:30991"
+        },
+        "NonCommunicableDisease:heart_disease": {
+          "Count": "Int:7084"
+        },
+        "NonCommunicableDisease:kidney_disease": {
+          "Count": "Int:3099"
+        },
+        "NonCommunicableDisease:thalassemia": {
+          "Count": "Int:443"
+        },
+        "NonCommunicableDisease:cancer": {
+          "Count": "Int:885"
+        },
+        "NonCommunicableDisease:stroke": {
+          "Count": "Int:2214"
+        },
+        "NonCommunicableDisease:asthma": {
+          "Count": "Int:7084"
+        },
+        "NonCommunicableDisease:epilepsy": {
+          "Count": "Int:1328"
+        }
+      },
+      "District:LK-61": {
+        "NonCommunicableDisease:diabetes": {
+          "Count": "Int:139674"
+        },
+        "NonCommunicableDisease:high_cholesterol": {
+          "Count": "Int:136138"
+        },
+        "NonCommunicableDisease:high_blood_pressure": {
+          "Count": "Int:180338"
+        },
+        "NonCommunicableDisease:heart_disease": {
+          "Count": "Int:42433"
+        },
+        "NonCommunicableDisease:kidney_disease": {
+          "Count": "Int:19448"
+        },
+        "NonCommunicableDisease:thalassemia": {
+          "Count": "Int:1768"
+        },
+        "NonCommunicableDisease:cancer": {
+          "Count": "Int:8840"
+        },
+        "NonCommunicableDisease:stroke": {
+          "Count": "Int:12376"
+        },
+        "NonCommunicableDisease:asthma": {
+          "Count": "Int:22984"
+        },
+        "NonCommunicableDisease:epilepsy": {
+          "Count": "Int:3536"
+        }
+      },
+      "District:LK-62": {
+        "NonCommunicableDisease:diabetes": {
+          "Count": "Int:67134"
+        },
+        "NonCommunicableDisease:high_cholesterol": {
+          "Count": "Int:67952"
+        },
+        "NonCommunicableDisease:high_blood_pressure": {
+          "Count": "Int:76958"
+        },
+        "NonCommunicableDisease:heart_disease": {
+          "Count": "Int:18830"
+        },
+        "NonCommunicableDisease:kidney_disease": {
+          "Count": "Int:6550"
+        },
+        "NonCommunicableDisease:thalassemia": {
+          "Count": "Int:819"
+        },
+        "NonCommunicableDisease:cancer": {
+          "Count": "Int:3275"
+        },
+        "NonCommunicableDisease:stroke": {
+          "Count": "Int:4912"
+        },
+        "NonCommunicableDisease:asthma": {
+          "Count": "Int:13099"
+        },
+        "NonCommunicableDisease:epilepsy": {
+          "Count": "Int:1637"
+        }
+      },
+      "District:LK-71": {
+        "NonCommunicableDisease:diabetes": {
+          "Count": "Int:69113"
+        },
+        "NonCommunicableDisease:high_cholesterol": {
+          "Count": "Int:71993"
+        },
+        "NonCommunicableDisease:high_blood_pressure": {
+          "Count": "Int:93110"
+        },
+        "NonCommunicableDisease:heart_disease": {
+          "Count": "Int:23998"
+        },
+        "NonCommunicableDisease:kidney_disease": {
+          "Count": "Int:14399"
+        },
+        "NonCommunicableDisease:thalassemia": {
+          "Count": "Int:1920"
+        },
+        "NonCommunicableDisease:cancer": {
+          "Count": "Int:3840"
+        },
+        "NonCommunicableDisease:stroke": {
+          "Count": "Int:5759"
+        },
+        "NonCommunicableDisease:asthma": {
+          "Count": "Int:14399"
+        },
+        "NonCommunicableDisease:epilepsy": {
+          "Count": "Int:1920"
+        }
+      },
+      "District:LK-72": {
+        "NonCommunicableDisease:diabetes": {
+          "Count": "Int:34905"
+        },
+        "NonCommunicableDisease:high_cholesterol": {
+          "Count": "Int:38485"
+        },
+        "NonCommunicableDisease:high_blood_pressure": {
+          "Count": "Int:44750"
+        },
+        "NonCommunicableDisease:heart_disease": {
+          "Count": "Int:12530"
+        },
+        "NonCommunicableDisease:kidney_disease": {
+          "Count": "Int:8503"
+        },
+        "NonCommunicableDisease:thalassemia": {
+          "Count": "Int:448"
+        },
+        "NonCommunicableDisease:cancer": {
+          "Count": "Int:1790"
+        },
+        "NonCommunicableDisease:stroke": {
+          "Count": "Int:2685"
+        },
+        "NonCommunicableDisease:asthma": {
+          "Count": "Int:10293"
+        },
+        "NonCommunicableDisease:epilepsy": {
+          "Count": "Int:895"
+        }
+      },
+      "District:LK-81": {
+        "NonCommunicableDisease:diabetes": {
+          "Count": "Int:60184"
+        },
+        "NonCommunicableDisease:high_cholesterol": {
+          "Count": "Int:54951"
+        },
+        "NonCommunicableDisease:high_blood_pressure": {
+          "Count": "Int:89841"
+        },
+        "NonCommunicableDisease:heart_disease": {
+          "Count": "Int:21806"
+        },
+        "NonCommunicableDisease:kidney_disease": {
+          "Count": "Int:9595"
+        },
+        "NonCommunicableDisease:thalassemia": {
+          "Count": "Int:872"
+        },
+        "NonCommunicableDisease:cancer": {
+          "Count": "Int:3489"
+        },
+        "NonCommunicableDisease:stroke": {
+          "Count": "Int:5233"
+        },
+        "NonCommunicableDisease:asthma": {
+          "Count": "Int:21806"
+        },
+        "NonCommunicableDisease:epilepsy": {
+          "Count": "Int:3489"
+        }
+      },
+      "District:LK-82": {
+        "NonCommunicableDisease:diabetes": {
+          "Count": "Int:34817"
+        },
+        "NonCommunicableDisease:high_cholesterol": {
+          "Count": "Int:35345"
+        },
+        "NonCommunicableDisease:high_blood_pressure": {
+          "Count": "Int:45895"
+        },
+        "NonCommunicableDisease:heart_disease": {
+          "Count": "Int:12661"
+        },
+        "NonCommunicableDisease:kidney_disease": {
+          "Count": "Int:5803"
+        },
+        "NonCommunicableDisease:thalassemia": {
+          "Count": "Int:528"
+        },
+        "NonCommunicableDisease:cancer": {
+          "Count": "Int:2638"
+        },
+        "NonCommunicableDisease:stroke": {
+          "Count": "Int:3165"
+        },
+        "NonCommunicableDisease:asthma": {
+          "Count": "Int:12133"
+        },
+        "NonCommunicableDisease:epilepsy": {
+          "Count": "Int:1583"
+        }
+      },
+      "District:LK-91": {
+        "NonCommunicableDisease:diabetes": {
+          "Count": "Int:85894"
+        },
+        "NonCommunicableDisease:high_cholesterol": {
+          "Count": "Int:85894"
+        },
+        "NonCommunicableDisease:high_blood_pressure": {
+          "Count": "Int:111089"
+        },
+        "NonCommunicableDisease:heart_disease": {
+          "Count": "Int:26341"
+        },
+        "NonCommunicableDisease:kidney_disease": {
+          "Count": "Int:9162"
+        },
+        "NonCommunicableDisease:thalassemia": {
+          "Count": "Int:1145"
+        },
+        "NonCommunicableDisease:cancer": {
+          "Count": "Int:4581"
+        },
+        "NonCommunicableDisease:stroke": {
+          "Count": "Int:8017"
+        },
+        "NonCommunicableDisease:asthma": {
+          "Count": "Int:24050"
+        },
+        "NonCommunicableDisease:epilepsy": {
+          "Count": "Int:4581"
+        }
+      },
+      "District:LK-92": {
+        "NonCommunicableDisease:diabetes": {
+          "Count": "Int:74856"
+        },
+        "NonCommunicableDisease:high_cholesterol": {
+          "Count": "Int:77467"
+        },
+        "NonCommunicableDisease:high_blood_pressure": {
+          "Count": "Int:101839"
+        },
+        "NonCommunicableDisease:heart_disease": {
+          "Count": "Int:20890"
+        },
+        "NonCommunicableDisease:kidney_disease": {
+          "Count": "Int:4352"
+        },
+        "NonCommunicableDisease:thalassemia": {
+          "Count": "Int:870"
+        },
+        "NonCommunicableDisease:cancer": {
+          "Count": "Int:3482"
+        },
+        "NonCommunicableDisease:stroke": {
+          "Count": "Int:6093"
+        },
+        "NonCommunicableDisease:asthma": {
+          "Count": "Int:14797"
+        },
+        "NonCommunicableDisease:epilepsy": {
+          "Count": "Int:2611"
+        }
+      }
+    }
+  }
+}

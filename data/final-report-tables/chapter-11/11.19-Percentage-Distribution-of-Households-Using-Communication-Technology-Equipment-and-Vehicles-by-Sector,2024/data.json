@@ -1,0 +1,74 @@
+[
+  {
+    "sector": "Urban",
+    "values": {
+      "p_radio": 0.485,
+      "p_television": 0.821,
+      "p_fixed_line_telephone": 0.257,
+      "p_smart_mobile_phone": 0.86,
+      "p_normal_mobile_phone": 0.55,
+      "p_desktop_computer": 0.116,
+      "p_laptop_computer": 0.33,
+      "p_tablet_computer": 0.107,
+      "p_internet_facilities": 0.492,
+      "p_bicycle": 0.232,
+      "p_motorcycle_or_scooter": 0.386,
+      "p_three_wheeler": 0.119,
+      "p_other": 0.242
+    }
+  },
+  {
+    "sector": "Estate- Urban",
+    "values": {
+      "p_radio": 0.495,
+      "p_television": 0.78,
+      "p_fixed_line_telephone": 0.054,
+      "p_smart_mobile_phone": 0.782,
+      "p_normal_mobile_phone": 0.638,
+      "p_desktop_computer": 0.048,
+      "p_laptop_computer": 0.106,
+      "p_tablet_computer": 0.032,
+      "p_internet_facilities": 0.21,
+      "p_bicycle": 0.076,
+      "p_motorcycle_or_scooter": 0.169,
+      "p_three_wheeler": 0.153,
+      "p_other": 0.074
+    }
+  },
+  {
+    "sector": "Rural",
+    "values": {
+      "p_radio": 0.529,
+      "p_television": 0.792,
+      "p_fixed_line_telephone": 0.106,
+      "p_smart_mobile_phone": 0.782,
+      "p_normal_mobile_phone": 0.697,
+      "p_desktop_computer": 0.067,
+      "p_laptop_computer": 0.175,
+      "p_tablet_computer": 0.04,
+      "p_internet_facilities": 0.401,
+      "p_bicycle": 0.265,
+      "p_motorcycle_or_scooter": 0.497,
+      "p_three_wheeler": 0.149,
+      "p_other": 0.147
+    }
+  },
+  {
+    "sector": "Estate- Rural",
+    "values": {
+      "p_radio": 0.497,
+      "p_television": 0.762,
+      "p_fixed_line_telephone": 0.033,
+      "p_smart_mobile_phone": 0.645,
+      "p_normal_mobile_phone": 0.68,
+      "p_desktop_computer": 0.023,
+      "p_laptop_computer": 0.047,
+      "p_tablet_computer": 0.013,
+      "p_internet_facilities": 0.208,
+      "p_bicycle": 0.033,
+      "p_motorcycle_or_scooter": 0.115,
+      "p_three_wheeler": 0.115,
+      "p_other": 0.035
+    }
+  }
+]

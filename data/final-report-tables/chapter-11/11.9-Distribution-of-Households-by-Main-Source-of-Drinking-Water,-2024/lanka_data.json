@@ -1,0 +1,27 @@
+{
+  "Person": {
+    "Time:2024": {
+      "SourceOfDrinkingWater:protected_well": {
+        "Count": "Int:1624506"
+      },
+      "SourceOfDrinkingWater:semi_protected_well": {
+        "Count": "Int:267327"
+      },
+      "SourceOfDrinkingWater:unprotected_well": {
+        "Count": "Int:77806"
+      },
+      "SourceOfDrinkingWater:tube_well": {
+        "Count": "Int:270401"
+      },
+      "SourceOfDrinkingWater:bottled_water": {
+        "Count": "Int:63753"
+      },
+      "SourceOfDrinkingWater:bowser": {
+        "Count": "Int:31208"
+      },
+      "SourceOfDrinkingWater:other": {
+        "Count": "Int:761"
+      }
+    }
+  }
+}

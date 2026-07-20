@@ -1,0 +1,38 @@
+{
+  "Person": {
+    "Time:2024": {
+      "Sector:urban": {
+        "Sex:male": {
+          "EconomicallyActive": "Int:900141"
+        },
+        "Sex:female": {
+          "EconomicallyActive": "Int:393746"
+        }
+      },
+      "Sector:estate_urban": {
+        "Sex:male": {
+          "EconomicallyActive": "Int:3025"
+        },
+        "Sex:female": {
+          "EconomicallyActive": "Int:1577"
+        }
+      },
+      "Sector:rural": {
+        "Sex:male": {
+          "EconomicallyActive": "Int:4220045"
+        },
+        "Sex:female": {
+          "EconomicallyActive": "Int:1847052"
+        }
+      },
+      "Sector:estate_rural": {
+        "Sex:male": {
+          "EconomicallyActive": "Int:194492"
+        },
+        "Sex:female": {
+          "EconomicallyActive": "Int:111154"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "Person": {
+    "Time:2024": {
+      "AgeGroup:18To125Years": {
+        "EmmigrationReason:employment": {
+          "Count": "Int:0"
+        },
+        "EmmigrationReason:education": {
+          "Count": "Int:1486"
+        },
+        "EmmigrationReason:accompanying_family_member_in_need": {
+          "Count": "Int:17862"
+        },
+        "EmmigrationReason:other": {
+          "Count": "Int:35"
+        }
+      },
+      "AgeGroup:18To29Years": {
+        "EmmigrationReason:employment": {
+          "Count": "Int:142256"
+        },
+        "EmmigrationReason:education": {
+          "Count": "Int:38053"
+        },
+        "EmmigrationReason:accompanying_family_member_in_need": {
+          "Count": "Int:6348"
+        },
+        "EmmigrationReason:other": {
+          "Count": "Int:716"
+        }
+      },
+      "AgeGroup:30To59Years": {
+        "EmmigrationReason:employment": {
+          "Count": "Int:423249"
+        },
+        "EmmigrationReason:education": {
+          "Count": "Int:14042"
+        },
+        "EmmigrationReason:accompanying_family_member_in_need": {
+          "Count": "Int:10530"
+        },
+        "EmmigrationReason:other": {
+          "Count": "Int:1548"
+        }
+      },
+      "AgeGroup:60To125Years": {
+        "EmmigrationReason:employment": {
+          "Count": "Int:12414"
+        },
+        "EmmigrationReason:education": {
+          "Count": "Int:40"
+        },
+        "EmmigrationReason:accompanying_family_member_in_need": {
+          "Count": "Int:3478"
+        },
+        "EmmigrationReason:other": {
+          "Count": "Int:192"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,281 @@
+{
+  "Person": {
+    "Time:2024": {
+      "District:LK-11": {
+        "TimeDurationGroup:0To4Years": {
+          "Count": "Int:149236"
+        },
+        "TimeDurationGroup:5To9Years": {
+          "Count": "Int:65105"
+        },
+        "TimeDurationGroup:10To125Years": {
+          "Count": "Int:305038"
+        }
+      },
+      "District:LK-12": {
+        "TimeDurationGroup:0To4Years": {
+          "Count": "Int:139859"
+        },
+        "TimeDurationGroup:5To9Years": {
+          "Count": "Int:71540"
+        },
+        "TimeDurationGroup:10To125Years": {
+          "Count": "Int:313338"
+        }
+      },
+      "District:LK-13": {
+        "TimeDurationGroup:0To4Years": {
+          "Count": "Int:47096"
+        },
+        "TimeDurationGroup:5To9Years": {
+          "Count": "Int:28994"
+        },
+        "TimeDurationGroup:10To125Years": {
+          "Count": "Int:116743"
+        }
+      },
+      "District:LK-21": {
+        "TimeDurationGroup:0To4Years": {
+          "Count": "Int:44174"
+        },
+        "TimeDurationGroup:5To9Years": {
+          "Count": "Int:22248"
+        },
+        "TimeDurationGroup:10To125Years": {
+          "Count": "Int:106067"
+        }
+      },
+      "District:LK-22": {
+        "TimeDurationGroup:0To4Years": {
+          "Count": "Int:17519"
+        },
+        "TimeDurationGroup:5To9Years": {
+          "Count": "Int:10310"
+        },
+        "TimeDurationGroup:10To125Years": {
+          "Count": "Int:54976"
+        }
+      },
+      "District:LK-23": {
+        "TimeDurationGroup:0To4Years": {
+          "Count": "Int:13415"
+        },
+        "TimeDurationGroup:5To9Years": {
+          "Count": "Int:7253"
+        },
+        "TimeDurationGroup:10To125Years": {
+          "Count": "Int:40266"
+        }
+      },
+      "District:LK-31": {
+        "TimeDurationGroup:0To4Years": {
+          "Count": "Int:24208"
+        },
+        "TimeDurationGroup:5To9Years": {
+          "Count": "Int:12492"
+        },
+        "TimeDurationGroup:10To125Years": {
+          "Count": "Int:58454"
+        }
+      },
+      "District:LK-32": {
+        "TimeDurationGroup:0To4Years": {
+          "Count": "Int:24796"
+        },
+        "TimeDurationGroup:5To9Years": {
+          "Count": "Int:12589"
+        },
+        "TimeDurationGroup:10To125Years": {
+          "Count": "Int:58573"
+        }
+      },
+      "District:LK-33": {
+        "TimeDurationGroup:0To4Years": {
+          "Count": "Int:15048"
+        },
+        "TimeDurationGroup:5To9Years": {
+          "Count": "Int:9723"
+        },
+        "TimeDurationGroup:10To125Years": {
+          "Count": "Int:44796"
+        }
+      },
+      "District:LK-41": {
+        "TimeDurationGroup:0To4Years": {
+          "Count": "Int:10935"
+        },
+        "TimeDurationGroup:5To9Years": {
+          "Count": "Int:3688"
+        },
+        "TimeDurationGroup:10To125Years": {
+          "Count": "Int:14630"
+        }
+      },
+      "District:LK-42": {
+        "TimeDurationGroup:0To4Years": {
+          "Count": "Int:3292"
+        },
+        "TimeDurationGroup:5To9Years": {
+          "Count": "Int:2220"
+        },
+        "TimeDurationGroup:10To125Years": {
+          "Count": "Int:17060"
+        }
+      },
+      "District:LK-43": {
+        "TimeDurationGroup:0To4Years": {
+          "Count": "Int:9395"
+        },
+        "TimeDurationGroup:5To9Years": {
+          "Count": "Int:4099"
+        },
+        "TimeDurationGroup:10To125Years": {
+          "Count": "Int:29552"
+        }
+      },
+      "District:LK-44": {
+        "TimeDurationGroup:0To4Years": {
+          "Count": "Int:5132"
+        },
+        "TimeDurationGroup:5To9Years": {
+          "Count": "Int:2692"
+        },
+        "TimeDurationGroup:10To125Years": {
+          "Count": "Int:19749"
+        }
+      },
+      "District:LK-45": {
+        "TimeDurationGroup:0To4Years": {
+          "Count": "Int:6423"
+        },
+        "TimeDurationGroup:5To9Years": {
+          "Count": "Int:2953"
+        },
+        "TimeDurationGroup:10To125Years": {
+          "Count": "Int:41168"
+        }
+      },
+      "District:LK-51": {
+        "TimeDurationGroup:0To4Years": {
+          "Count": "Int:9791"
+        },
+        "TimeDurationGroup:5To9Years": {
+          "Count": "Int:2368"
+        },
+        "TimeDurationGroup:10To125Years": {
+          "Count": "Int:8236"
+        }
+      },
+      "District:LK-52": {
+        "TimeDurationGroup:0To4Years": {
+          "Count": "Int:15547"
+        },
+        "TimeDurationGroup:5To9Years": {
+          "Count": "Int:6795"
+        },
+        "TimeDurationGroup:10To125Years": {
+          "Count": "Int:54115"
+        }
+      },
+      "District:LK-53": {
+        "TimeDurationGroup:0To4Years": {
+          "Count": "Int:8426"
+        },
+        "TimeDurationGroup:5To9Years": {
+          "Count": "Int:4603"
+        },
+        "TimeDurationGroup:10To125Years": {
+          "Count": "Int:22224"
+        }
+      },
+      "District:LK-61": {
+        "TimeDurationGroup:0To4Years": {
+          "Count": "Int:53587"
+        },
+        "TimeDurationGroup:5To9Years": {
+          "Count": "Int:26516"
+        },
+        "TimeDurationGroup:10To125Years": {
+          "Count": "Int:125269"
+        }
+      },
+      "District:LK-62": {
+        "TimeDurationGroup:0To4Years": {
+          "Count": "Int:24566"
+        },
+        "TimeDurationGroup:5To9Years": {
+          "Count": "Int:11316"
+        },
+        "TimeDurationGroup:10To125Years": {
+          "Count": "Int:68381"
+        }
+      },
+      "District:LK-71": {
+        "TimeDurationGroup:0To4Years": {
+          "Count": "Int:32249"
+        },
+        "TimeDurationGroup:5To9Years": {
+          "Count": "Int:16636"
+        },
+        "TimeDurationGroup:10To125Years": {
+          "Count": "Int:104547"
+        }
+      },
+      "District:LK-72": {
+        "TimeDurationGroup:0To4Years": {
+          "Count": "Int:12868"
+        },
+        "TimeDurationGroup:5To9Years": {
+          "Count": "Int:7976"
+        },
+        "TimeDurationGroup:10To125Years": {
+          "Count": "Int:75393"
+        }
+      },
+      "District:LK-81": {
+        "TimeDurationGroup:0To4Years": {
+          "Count": "Int:20503"
+        },
+        "TimeDurationGroup:5To9Years": {
+          "Count": "Int:9582"
+        },
+        "TimeDurationGroup:10To125Years": {
+          "Count": "Int:44860"
+        }
+      },
+      "District:LK-82": {
+        "TimeDurationGroup:0To4Years": {
+          "Count": "Int:15604"
+        },
+        "TimeDurationGroup:5To9Years": {
+          "Count": "Int:9808"
+        },
+        "TimeDurationGroup:10To125Years": {
+          "Count": "Int:59771"
+        }
+      },
+      "District:LK-91": {
+        "TimeDurationGroup:0To4Years": {
+          "Count": "Int:23481"
+        },
+        "TimeDurationGroup:5To9Years": {
+          "Count": "Int:12010"
+        },
+        "TimeDurationGroup:10To125Years": {
+          "Count": "Int:60260"
+        }
+      },
+      "District:LK-92": {
+        "TimeDurationGroup:0To4Years": {
+          "Count": "Int:22537"
+        },
+        "TimeDurationGroup:5To9Years": {
+          "Count": "Int:13198"
+        },
+        "TimeDurationGroup:10To125Years": {
+          "Count": "Int:66331"
+        }
+      }
+    }
+  }
+}

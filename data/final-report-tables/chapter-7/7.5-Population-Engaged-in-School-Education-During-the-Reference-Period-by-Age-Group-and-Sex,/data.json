@@ -1,0 +1,57 @@
+[
+  {
+    "age_group": "05 - 10",
+    "values": {
+      "total": 1893872,
+      "total_in_school": 1578999,
+      "male": 959815,
+      "male_in_school": 799153,
+      "female": 934057,
+      "female_in_school": 779846
+    }
+  },
+  {
+    "age_group": "11 - 14",
+    "values": {
+      "total": 1397847,
+      "total_in_school": 1329915,
+      "male": 709634,
+      "male_in_school": 672962,
+      "female": 688213,
+      "female_in_school": 656953
+    }
+  },
+  {
+    "age_group": "15 - 16",
+    "values": {
+      "total": 720137,
+      "total_in_school": 658982,
+      "male": 365655,
+      "male_in_school": 331356,
+      "female": 354482,
+      "female_in_school": 327626
+    }
+  },
+  {
+    "age_group": "17 - 18",
+    "values": {
+      "total": 726524,
+      "total_in_school": 488622,
+      "male": 367328,
+      "male_in_school": 225986,
+      "female": 359196,
+      "female_in_school": 262636
+    }
+  },
+  {
+    "age_group": "19 - 24",
+    "values": {
+      "total": 1956983,
+      "total_in_school": 294707,
+      "male": 964971,
+      "male_in_school": 128374,
+      "female": 992012,
+      "female_in_school": 166333
+    }
+  }
+]

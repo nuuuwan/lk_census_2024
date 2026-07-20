@@ -1,0 +1,506 @@
+{
+  "Person": {
+    "Time:2024": {
+      "District:LK-11": {
+        "Religion:buddhist": {
+          "Count": "Int:1682524"
+        },
+        "Religion:hindu": {
+          "Count": "Int:197759"
+        },
+        "Religion:islam": {
+          "Count": "Int:298422"
+        },
+        "Religion:roman_catholic": {
+          "Count": "Int:139882"
+        },
+        "Religion:other_christian": {
+          "Count": "Int:55624"
+        },
+        "Religion:other": {
+          "Count": "Int:1204"
+        }
+      },
+      "District:LK-12": {
+        "Religion:buddhist": {
+          "Count": "Int:1744475"
+        },
+        "Religion:hindu": {
+          "Count": "Int:69429"
+        },
+        "Religion:islam": {
+          "Count": "Int:134422"
+        },
+        "Religion:roman_catholic": {
+          "Count": "Int:442291"
+        },
+        "Religion:other_christian": {
+          "Count": "Int:44540"
+        },
+        "Religion:other": {
+          "Count": "Int:985"
+        }
+      },
+      "District:LK-13": {
+        "Religion:buddhist": {
+          "Count": "Int:1080638"
+        },
+        "Religion:hindu": {
+          "Count": "Int:42528"
+        },
+        "Religion:islam": {
+          "Count": "Int:138230"
+        },
+        "Religion:roman_catholic": {
+          "Count": "Int:36510"
+        },
+        "Religion:other_christian": {
+          "Count": "Int:7733"
+        },
+        "Religion:other": {
+          "Count": "Int:145"
+        }
+      },
+      "District:LK-21": {
+        "Religion:buddhist": {
+          "Count": "Int:1063511"
+        },
+        "Religion:hindu": {
+          "Count": "Int:144618"
+        },
+        "Religion:islam": {
+          "Count": "Int:223997"
+        },
+        "Religion:roman_catholic": {
+          "Count": "Int:18623"
+        },
+        "Religion:other_christian": {
+          "Count": "Int:10919"
+        },
+        "Religion:other": {
+          "Count": "Int:227"
+        }
+      },
+      "District:LK-22": {
+        "Religion:buddhist": {
+          "Count": "Int:418608"
+        },
+        "Religion:hindu": {
+          "Count": "Int:46181"
+        },
+        "Religion:islam": {
+          "Count": "Int:52224"
+        },
+        "Religion:roman_catholic": {
+          "Count": "Int:7797"
+        },
+        "Religion:other_christian": {
+          "Count": "Int:2026"
+        },
+        "Religion:other": {
+          "Count": "Int:34"
+        }
+      },
+      "District:LK-23": {
+        "Religion:buddhist": {
+          "Count": "Int:278828"
+        },
+        "Religion:hindu": {
+          "Count": "Int:377266"
+        },
+        "Religion:islam": {
+          "Count": "Int:21929"
+        },
+        "Religion:roman_catholic": {
+          "Count": "Int:31705"
+        },
+        "Religion:other_christian": {
+          "Count": "Int:15474"
+        },
+        "Religion:other": {
+          "Count": "Int:78"
+        }
+      },
+      "District:LK-31": {
+        "Religion:buddhist": {
+          "Count": "Int:1026031"
+        },
+        "Religion:hindu": {
+          "Count": "Int:15600"
+        },
+        "Religion:islam": {
+          "Count": "Int:46038"
+        },
+        "Religion:roman_catholic": {
+          "Count": "Int:4207"
+        },
+        "Religion:other_christian": {
+          "Count": "Int:5377"
+        },
+        "Religion:other": {
+          "Count": "Int:119"
+        }
+      },
+      "District:LK-32": {
+        "Religion:buddhist": {
+          "Count": "Int:787303"
+        },
+        "Religion:hindu": {
+          "Count": "Int:14625"
+        },
+        "Religion:islam": {
+          "Count": "Int:29858"
+        },
+        "Religion:roman_catholic": {
+          "Count": "Int:2445"
+        },
+        "Religion:other_christian": {
+          "Count": "Int:3619"
+        },
+        "Religion:other": {
+          "Count": "Int:39"
+        }
+      },
+      "District:LK-33": {
+        "Religion:buddhist": {
+          "Count": "Int:649736"
+        },
+        "Religion:hindu": {
+          "Count": "Int:1401"
+        },
+        "Religion:islam": {
+          "Count": "Int:17947"
+        },
+        "Religion:roman_catholic": {
+          "Count": "Int:1017"
+        },
+        "Religion:other_christian": {
+          "Count": "Int:1247"
+        },
+        "Religion:other": {
+          "Count": "Int:70"
+        }
+      },
+      "District:LK-41": {
+        "Religion:buddhist": {
+          "Count": "Int:2788"
+        },
+        "Religion:hindu": {
+          "Count": "Int:489521"
+        },
+        "Religion:islam": {
+          "Count": "Int:4352"
+        },
+        "Religion:roman_catholic": {
+          "Count": "Int:77197"
+        },
+        "Religion:other_christian": {
+          "Count": "Int:20857"
+        },
+        "Religion:other": {
+          "Count": "Int:36"
+        }
+      },
+      "District:LK-42": {
+        "Religion:buddhist": {
+          "Count": "Int:382"
+        },
+        "Religion:hindu": {
+          "Count": "Int:26214"
+        },
+        "Religion:islam": {
+          "Count": "Int:33883"
+        },
+        "Religion:roman_catholic": {
+          "Count": "Int:57713"
+        },
+        "Religion:other_christian": {
+          "Count": "Int:5560"
+        },
+        "Religion:other": {
+          "Count": "Int:4"
+        }
+      },
+      "District:LK-43": {
+        "Religion:buddhist": {
+          "Count": "Int:18292"
+        },
+        "Religion:hindu": {
+          "Count": "Int:114504"
+        },
+        "Religion:islam": {
+          "Count": "Int:17775"
+        },
+        "Religion:roman_catholic": {
+          "Count": "Int:12785"
+        },
+        "Religion:other_christian": {
+          "Count": "Int:8895"
+        },
+        "Religion:other": {
+          "Count": "Int:61"
+        }
+      },
+      "District:LK-44": {
+        "Religion:buddhist": {
+          "Count": "Int:10293"
+        },
+        "Religion:hindu": {
+          "Count": "Int:88738"
+        },
+        "Religion:islam": {
+          "Count": "Int:3279"
+        },
+        "Religion:roman_catholic": {
+          "Count": "Int:13982"
+        },
+        "Religion:other_christian": {
+          "Count": "Int:6315"
+        },
+        "Religion:other": {
+          "Count": "Int:12"
+        }
+      },
+      "District:LK-45": {
+        "Religion:buddhist": {
+          "Count": "Int:1533"
+        },
+        "Religion:hindu": {
+          "Count": "Int:110258"
+        },
+        "Religion:islam": {
+          "Count": "Int:1394"
+        },
+        "Religion:roman_catholic": {
+          "Count": "Int:14446"
+        },
+        "Religion:other_christian": {
+          "Count": "Int:9074"
+        },
+        "Religion:other": {
+          "Count": "Int:5"
+        }
+      },
+      "District:LK-51": {
+        "Religion:buddhist": {
+          "Count": "Int:6024"
+        },
+        "Religion:hindu": {
+          "Count": "Int:374836"
+        },
+        "Religion:islam": {
+          "Count": "Int:161494"
+        },
+        "Religion:roman_catholic": {
+          "Count": "Int:25803"
+        },
+        "Religion:other_christian": {
+          "Count": "Int:27728"
+        },
+        "Religion:other": {
+          "Count": "Int:33"
+        }
+      },
+      "District:LK-52": {
+        "Religion:buddhist": {
+          "Count": "Int:276176"
+        },
+        "Religion:hindu": {
+          "Count": "Int:114586"
+        },
+        "Religion:islam": {
+          "Count": "Int:339896"
+        },
+        "Religion:roman_catholic": {
+          "Count": "Int:7351"
+        },
+        "Religion:other_christian": {
+          "Count": "Int:6486"
+        },
+        "Religion:other": {
+          "Count": "Int:56"
+        }
+      },
+      "District:LK-53": {
+        "Religion:buddhist": {
+          "Count": "Int:106919"
+        },
+        "Religion:hindu": {
+          "Count": "Int:108050"
+        },
+        "Religion:islam": {
+          "Count": "Int:205664"
+        },
+        "Religion:roman_catholic": {
+          "Count": "Int:14353"
+        },
+        "Religion:other_christian": {
+          "Count": "Int:7714"
+        },
+        "Religion:other": {
+          "Count": "Int:45"
+        }
+      },
+      "District:LK-61": {
+        "Religion:buddhist": {
+          "Count": "Int:1557554"
+        },
+        "Religion:hindu": {
+          "Count": "Int:17487"
+        },
+        "Religion:islam": {
+          "Count": "Int:143299"
+        },
+        "Religion:roman_catholic": {
+          "Count": "Int:40273"
+        },
+        "Religion:other_christian": {
+          "Count": "Int:9413"
+        },
+        "Religion:other": {
+          "Count": "Int:130"
+        }
+      },
+      "District:LK-62": {
+        "Religion:buddhist": {
+          "Count": "Int:361148"
+        },
+        "Religion:hindu": {
+          "Count": "Int:28832"
+        },
+        "Religion:islam": {
+          "Count": "Int:176963"
+        },
+        "Religion:roman_catholic": {
+          "Count": "Int:240975"
+        },
+        "Religion:other_christian": {
+          "Count": "Int:10619"
+        },
+        "Religion:other": {
+          "Count": "Int:279"
+        }
+      },
+      "District:LK-71": {
+        "Religion:buddhist": {
+          "Count": "Int:862807"
+        },
+        "Religion:hindu": {
+          "Count": "Int:3755"
+        },
+        "Religion:islam": {
+          "Count": "Int:83979"
+        },
+        "Religion:roman_catholic": {
+          "Count": "Int:5760"
+        },
+        "Religion:other_christian": {
+          "Count": "Int:3656"
+        },
+        "Religion:other": {
+          "Count": "Int:123"
+        }
+      },
+      "District:LK-72": {
+        "Religion:buddhist": {
+          "Count": "Int:399488"
+        },
+        "Religion:hindu": {
+          "Count": "Int:7215"
+        },
+        "Religion:islam": {
+          "Count": "Int:37097"
+        },
+        "Religion:roman_catholic": {
+          "Count": "Int:2560"
+        },
+        "Religion:other_christian": {
+          "Count": "Int:1086"
+        },
+        "Religion:other": {
+          "Count": "Int:84"
+        }
+      },
+      "District:LK-81": {
+        "Religion:buddhist": {
+          "Count": "Int:636988"
+        },
+        "Religion:hindu": {
+          "Count": "Int:166380"
+        },
+        "Religion:islam": {
+          "Count": "Int:53563"
+        },
+        "Religion:roman_catholic": {
+          "Count": "Int:9593"
+        },
+        "Religion:other_christian": {
+          "Count": "Int:5729"
+        },
+        "Religion:other": {
+          "Count": "Int:54"
+        }
+      },
+      "District:LK-82": {
+        "Religion:buddhist": {
+          "Count": "Int:498436"
+        },
+        "Religion:hindu": {
+          "Count": "Int:14974"
+        },
+        "Religion:islam": {
+          "Count": "Int:12262"
+        },
+        "Religion:roman_catholic": {
+          "Count": "Int:1181"
+        },
+        "Religion:other_christian": {
+          "Count": "Int:713"
+        },
+        "Religion:other": {
+          "Count": "Int:19"
+        }
+      },
+      "District:LK-91": {
+        "Religion:buddhist": {
+          "Count": "Int:999682"
+        },
+        "Religion:hindu": {
+          "Count": "Int:103883"
+        },
+        "Religion:islam": {
+          "Count": "Int:26796"
+        },
+        "Religion:roman_catholic": {
+          "Count": "Int:8607"
+        },
+        "Religion:other_christian": {
+          "Count": "Int:6394"
+        },
+        "Religion:other": {
+          "Count": "Int:61"
+        }
+      },
+      "District:LK-92": {
+        "Religion:buddhist": {
+          "Count": "Int:728929"
+        },
+        "Religion:hindu": {
+          "Count": "Int:56199"
+        },
+        "Religion:islam": {
+          "Count": "Int:72616"
+        },
+        "Religion:roman_catholic": {
+          "Count": "Int:7292"
+        },
+        "Religion:other_christian": {
+          "Count": "Int:5387"
+        },
+        "Religion:other": {
+          "Count": "Int:53"
+        }
+      }
+    }
+  }
+}

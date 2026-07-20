@@ -1,0 +1,37 @@
+[
+  {
+    "ethnicity": "Sinhalese",
+    "values": {
+      "mean_age_of_marriage_male": 29.5,
+      "mean_age_of_marriage_female": 26.1
+    }
+  },
+  {
+    "ethnicity": "Sri Lanka Tamil",
+    "values": {
+      "mean_age_of_marriage_male": 29.0,
+      "mean_age_of_marriage_female": 25.1
+    }
+  },
+  {
+    "ethnicity": "Indian Tamil/Malaiyaga Thamilar",
+    "values": {
+      "mean_age_of_marriage_male": 28.5,
+      "mean_age_of_marriage_female": 24.7
+    }
+  },
+  {
+    "ethnicity": "Sri Lanka Moor/Muslim",
+    "values": {
+      "mean_age_of_marriage_male": 27.2,
+      "mean_age_of_marriage_female": 23.4
+    }
+  },
+  {
+    "ethnicity": "Other*",
+    "values": {
+      "mean_age_of_marriage_male": 29.5,
+      "mean_age_of_marriage_female": 25.9
+    }
+  }
+]

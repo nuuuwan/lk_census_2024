@@ -1,0 +1,52 @@
+{
+  "Person": {
+    "Time:1953": {
+      "Sex:male": {
+        "MedianAge": "Float:27.2"
+      },
+      "Sex:female": {
+        "MedianAge": "Float:20.9"
+      }
+    },
+    "Time:1963": {
+      "Sex:male": {
+        "MedianAge": "Float:27.9"
+      },
+      "Sex:female": {
+        "MedianAge": "Float:22.1"
+      }
+    },
+    "Time:1971": {
+      "Sex:male": {
+        "MedianAge": "Float:28.0"
+      },
+      "Sex:female": {
+        "MedianAge": "Float:23.5"
+      }
+    },
+    "Time:1981": {
+      "Sex:male": {
+        "MedianAge": "Float:27.9"
+      },
+      "Sex:female": {
+        "MedianAge": "Float:24.4"
+      }
+    },
+    "Time:2012": {
+      "Sex:male": {
+        "MedianAge": "Float:27.2"
+      },
+      "Sex:female": {
+        "MedianAge": "Float:23.4"
+      }
+    },
+    "Time:2024": {
+      "Sex:male": {
+        "MedianAge": "Float:29.2"
+      },
+      "Sex:female": {
+        "MedianAge": "Float:25.6"
+      }
+    }
+  }
+}

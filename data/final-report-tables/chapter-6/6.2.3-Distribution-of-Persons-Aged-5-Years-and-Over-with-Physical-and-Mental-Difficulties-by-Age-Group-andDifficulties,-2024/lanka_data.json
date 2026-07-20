@@ -1,0 +1,397 @@
+{
+  "Person": {
+    "Time:2024": {
+      "AgeGroup:0To125Years": {
+        "DisabilityTypes:difficulty_in_seeing": {
+          "Count": "Int:1939955"
+        },
+        "DisabilityTypes:difficulty_in_hearing": {
+          "Count": "Int:732771"
+        },
+        "DisabilityTypes:difficulty_in_walking_or_climbing_steps": {
+          "Count": "Int:1704064"
+        },
+        "DisabilityTypes:difficulty_in_remembering_or_concentrating": {
+          "Count": "Int:787612"
+        },
+        "DisabilityTypes:difficulty_in_selfcare_such_as_washing_or_dressing": {
+          "Count": "Int:639985"
+        },
+        "DisabilityTypes:difficulty_in_communicating_with_others": {
+          "Count": "Int:420813"
+        },
+        "DisabilityTypes:no_disability": {
+          "Count": "Int:14341480"
+        }
+      },
+      "AgeGroup:5To9Years": {
+        "DisabilityTypes:difficulty_in_seeing": {
+          "Count": "Int:11808"
+        },
+        "DisabilityTypes:difficulty_in_hearing": {
+          "Count": "Int:4493"
+        },
+        "DisabilityTypes:difficulty_in_walking_or_climbing_steps": {
+          "Count": "Int:11683"
+        },
+        "DisabilityTypes:difficulty_in_remembering_or_concentrating": {
+          "Count": "Int:13430"
+        },
+        "DisabilityTypes:difficulty_in_selfcare_such_as_washing_or_dressing": {
+          "Count": "Int:29556"
+        },
+        "DisabilityTypes:difficulty_in_communicating_with_others": {
+          "Count": "Int:17505"
+        },
+        "DisabilityTypes:no_disability": {
+          "Count": "Int:1468048"
+        }
+      },
+      "AgeGroup:10To14Years": {
+        "DisabilityTypes:difficulty_in_seeing": {
+          "Count": "Int:21988"
+        },
+        "DisabilityTypes:difficulty_in_hearing": {
+          "Count": "Int:6004"
+        },
+        "DisabilityTypes:difficulty_in_walking_or_climbing_steps": {
+          "Count": "Int:12967"
+        },
+        "DisabilityTypes:difficulty_in_remembering_or_concentrating": {
+          "Count": "Int:12676"
+        },
+        "DisabilityTypes:difficulty_in_selfcare_such_as_washing_or_dressing": {
+          "Count": "Int:11908"
+        },
+        "DisabilityTypes:difficulty_in_communicating_with_others": {
+          "Count": "Int:14088"
+        },
+        "DisabilityTypes:no_disability": {
+          "Count": "Int:1655565"
+        }
+      },
+      "AgeGroup:15To19Years": {
+        "DisabilityTypes:difficulty_in_seeing": {
+          "Count": "Int:30524"
+        },
+        "DisabilityTypes:difficulty_in_hearing": {
+          "Count": "Int:6589"
+        },
+        "DisabilityTypes:difficulty_in_walking_or_climbing_steps": {
+          "Count": "Int:14523"
+        },
+        "DisabilityTypes:difficulty_in_remembering_or_concentrating": {
+          "Count": "Int:13647"
+        },
+        "DisabilityTypes:difficulty_in_selfcare_such_as_washing_or_dressing": {
+          "Count": "Int:10169"
+        },
+        "DisabilityTypes:difficulty_in_communicating_with_others": {
+          "Count": "Int:14490"
+        },
+        "DisabilityTypes:no_disability": {
+          "Count": "Int:1705096"
+        }
+      },
+      "AgeGroup:20To24Years": {
+        "DisabilityTypes:difficulty_in_seeing": {
+          "Count": "Int:27860"
+        },
+        "DisabilityTypes:difficulty_in_hearing": {
+          "Count": "Int:6274"
+        },
+        "DisabilityTypes:difficulty_in_walking_or_climbing_steps": {
+          "Count": "Int:14656"
+        },
+        "DisabilityTypes:difficulty_in_remembering_or_concentrating": {
+          "Count": "Int:12703"
+        },
+        "DisabilityTypes:difficulty_in_selfcare_such_as_washing_or_dressing": {
+          "Count": "Int:9315"
+        },
+        "DisabilityTypes:difficulty_in_communicating_with_others": {
+          "Count": "Int:13383"
+        },
+        "DisabilityTypes:no_disability": {
+          "Count": "Int:1524415"
+        }
+      },
+      "AgeGroup:25To29Years": {
+        "DisabilityTypes:difficulty_in_seeing": {
+          "Count": "Int:24105"
+        },
+        "DisabilityTypes:difficulty_in_hearing": {
+          "Count": "Int:6590"
+        },
+        "DisabilityTypes:difficulty_in_walking_or_climbing_steps": {
+          "Count": "Int:15010"
+        },
+        "DisabilityTypes:difficulty_in_remembering_or_concentrating": {
+          "Count": "Int:12176"
+        },
+        "DisabilityTypes:difficulty_in_selfcare_such_as_washing_or_dressing": {
+          "Count": "Int:8836"
+        },
+        "DisabilityTypes:difficulty_in_communicating_with_others": {
+          "Count": "Int:12367"
+        },
+        "DisabilityTypes:no_disability": {
+          "Count": "Int:1293374"
+        }
+      },
+      "AgeGroup:30To34Years": {
+        "DisabilityTypes:difficulty_in_seeing": {
+          "Count": "Int:26681"
+        },
+        "DisabilityTypes:difficulty_in_hearing": {
+          "Count": "Int:7805"
+        },
+        "DisabilityTypes:difficulty_in_walking_or_climbing_steps": {
+          "Count": "Int:19457"
+        },
+        "DisabilityTypes:difficulty_in_remembering_or_concentrating": {
+          "Count": "Int:13634"
+        },
+        "DisabilityTypes:difficulty_in_selfcare_such_as_washing_or_dressing": {
+          "Count": "Int:9723"
+        },
+        "DisabilityTypes:difficulty_in_communicating_with_others": {
+          "Count": "Int:13393"
+        },
+        "DisabilityTypes:no_disability": {
+          "Count": "Int:1323367"
+        }
+      },
+      "AgeGroup:35To39Years": {
+        "DisabilityTypes:difficulty_in_seeing": {
+          "Count": "Int:38818"
+        },
+        "DisabilityTypes:difficulty_in_hearing": {
+          "Count": "Int:8894"
+        },
+        "DisabilityTypes:difficulty_in_walking_or_climbing_steps": {
+          "Count": "Int:27929"
+        },
+        "DisabilityTypes:difficulty_in_remembering_or_concentrating": {
+          "Count": "Int:15406"
+        },
+        "DisabilityTypes:difficulty_in_selfcare_such_as_washing_or_dressing": {
+          "Count": "Int:11353"
+        },
+        "DisabilityTypes:difficulty_in_communicating_with_others": {
+          "Count": "Int:13775"
+        },
+        "DisabilityTypes:no_disability": {
+          "Count": "Int:1336528"
+        }
+      },
+      "AgeGroup:40To44Years": {
+        "DisabilityTypes:difficulty_in_seeing": {
+          "Count": "Int:106436"
+        },
+        "DisabilityTypes:difficulty_in_hearing": {
+          "Count": "Int:13057"
+        },
+        "DisabilityTypes:difficulty_in_walking_or_climbing_steps": {
+          "Count": "Int:45340"
+        },
+        "DisabilityTypes:difficulty_in_remembering_or_concentrating": {
+          "Count": "Int:19938"
+        },
+        "DisabilityTypes:difficulty_in_selfcare_such_as_washing_or_dressing": {
+          "Count": "Int:14847"
+        },
+        "DisabilityTypes:difficulty_in_communicating_with_others": {
+          "Count": "Int:15870"
+        },
+        "DisabilityTypes:no_disability": {
+          "Count": "Int:1386856"
+        }
+      },
+      "AgeGroup:45To49Years": {
+        "DisabilityTypes:difficulty_in_seeing": {
+          "Count": "Int:163791"
+        },
+        "DisabilityTypes:difficulty_in_hearing": {
+          "Count": "Int:18517"
+        },
+        "DisabilityTypes:difficulty_in_walking_or_climbing_steps": {
+          "Count": "Int:68656"
+        },
+        "DisabilityTypes:difficulty_in_remembering_or_concentrating": {
+          "Count": "Int:23994"
+        },
+        "DisabilityTypes:difficulty_in_selfcare_such_as_washing_or_dressing": {
+          "Count": "Int:18532"
+        },
+        "DisabilityTypes:difficulty_in_communicating_with_others": {
+          "Count": "Int:17318"
+        },
+        "DisabilityTypes:no_disability": {
+          "Count": "Int:1179957"
+        }
+      },
+      "AgeGroup:50To54Years": {
+        "DisabilityTypes:difficulty_in_seeing": {
+          "Count": "Int:178696"
+        },
+        "DisabilityTypes:difficulty_in_hearing": {
+          "Count": "Int:22982"
+        },
+        "DisabilityTypes:difficulty_in_walking_or_climbing_steps": {
+          "Count": "Int:97564"
+        },
+        "DisabilityTypes:difficulty_in_remembering_or_concentrating": {
+          "Count": "Int:29548"
+        },
+        "DisabilityTypes:difficulty_in_selfcare_such_as_washing_or_dressing": {
+          "Count": "Int:23073"
+        },
+        "DisabilityTypes:difficulty_in_communicating_with_others": {
+          "Count": "Int:17514"
+        },
+        "DisabilityTypes:no_disability": {
+          "Count": "Int:972430"
+        }
+      },
+      "AgeGroup:55To59Years": {
+        "DisabilityTypes:difficulty_in_seeing": {
+          "Count": "Int:206186"
+        },
+        "DisabilityTypes:difficulty_in_hearing": {
+          "Count": "Int:37497"
+        },
+        "DisabilityTypes:difficulty_in_walking_or_climbing_steps": {
+          "Count": "Int:144965"
+        },
+        "DisabilityTypes:difficulty_in_remembering_or_concentrating": {
+          "Count": "Int:43400"
+        },
+        "DisabilityTypes:difficulty_in_selfcare_such_as_washing_or_dressing": {
+          "Count": "Int:34004"
+        },
+        "DisabilityTypes:difficulty_in_communicating_with_others": {
+          "Count": "Int:22172"
+        },
+        "DisabilityTypes:no_disability": {
+          "Count": "Int:787832"
+        }
+      },
+      "AgeGroup:60To64Years": {
+        "DisabilityTypes:difficulty_in_seeing": {
+          "Count": "Int:235785"
+        },
+        "DisabilityTypes:difficulty_in_hearing": {
+          "Count": "Int:59812"
+        },
+        "DisabilityTypes:difficulty_in_walking_or_climbing_steps": {
+          "Count": "Int:201601"
+        },
+        "DisabilityTypes:difficulty_in_remembering_or_concentrating": {
+          "Count": "Int:63641"
+        },
+        "DisabilityTypes:difficulty_in_selfcare_such_as_washing_or_dressing": {
+          "Count": "Int:49559"
+        },
+        "DisabilityTypes:difficulty_in_communicating_with_others": {
+          "Count": "Int:28085"
+        },
+        "DisabilityTypes:no_disability": {
+          "Count": "Int:544827"
+        }
+      },
+      "AgeGroup:65To69Years": {
+        "DisabilityTypes:difficulty_in_seeing": {
+          "Count": "Int:242174"
+        },
+        "DisabilityTypes:difficulty_in_hearing": {
+          "Count": "Int:88344"
+        },
+        "DisabilityTypes:difficulty_in_walking_or_climbing_steps": {
+          "Count": "Int:242584"
+        },
+        "DisabilityTypes:difficulty_in_remembering_or_concentrating": {
+          "Count": "Int:86685"
+        },
+        "DisabilityTypes:difficulty_in_selfcare_such_as_washing_or_dressing": {
+          "Count": "Int:66083"
+        },
+        "DisabilityTypes:difficulty_in_communicating_with_others": {
+          "Count": "Int:34314"
+        },
+        "DisabilityTypes:no_disability": {
+          "Count": "Int:231630"
+        }
+      },
+      "AgeGroup:70To74Years": {
+        "DisabilityTypes:difficulty_in_seeing": {
+          "Count": "Int:240740"
+        },
+        "DisabilityTypes:difficulty_in_hearing": {
+          "Count": "Int:125102"
+        },
+        "DisabilityTypes:difficulty_in_walking_or_climbing_steps": {
+          "Count": "Int:274919"
+        },
+        "DisabilityTypes:difficulty_in_remembering_or_concentrating": {
+          "Count": "Int:118070"
+        },
+        "DisabilityTypes:difficulty_in_selfcare_such_as_washing_or_dressing": {
+          "Count": "Int:89346"
+        },
+        "DisabilityTypes:difficulty_in_communicating_with_others": {
+          "Count": "Int:45423"
+        },
+        "DisabilityTypes:no_disability": {
+          "Count": "Int:-98061"
+        }
+      },
+      "AgeGroup:75To79Years": {
+        "DisabilityTypes:difficulty_in_seeing": {
+          "Count": "Int:188727"
+        },
+        "DisabilityTypes:difficulty_in_hearing": {
+          "Count": "Int:133163"
+        },
+        "DisabilityTypes:difficulty_in_walking_or_climbing_steps": {
+          "Count": "Int:240740"
+        },
+        "DisabilityTypes:difficulty_in_remembering_or_concentrating": {
+          "Count": "Int:125749"
+        },
+        "DisabilityTypes:difficulty_in_selfcare_such_as_washing_or_dressing": {
+          "Count": "Int:97010"
+        },
+        "DisabilityTypes:difficulty_in_communicating_with_others": {
+          "Count": "Int:50605"
+        },
+        "DisabilityTypes:no_disability": {
+          "Count": "Int:-313004"
+        }
+      },
+      "AgeGroup:80To125Years": {
+        "DisabilityTypes:difficulty_in_seeing": {
+          "Count": "Int:195636"
+        },
+        "DisabilityTypes:difficulty_in_hearing": {
+          "Count": "Int:187648"
+        },
+        "DisabilityTypes:difficulty_in_walking_or_climbing_steps": {
+          "Count": "Int:271470"
+        },
+        "DisabilityTypes:difficulty_in_remembering_or_concentrating": {
+          "Count": "Int:182915"
+        },
+        "DisabilityTypes:difficulty_in_selfcare_such_as_washing_or_dressing": {
+          "Count": "Int:156671"
+        },
+        "DisabilityTypes:difficulty_in_communicating_with_others": {
+          "Count": "Int:90511"
+        },
+        "DisabilityTypes:no_disability": {
+          "Count": "Int:-657380"
+        }
+      }
+    }
+  }
+}

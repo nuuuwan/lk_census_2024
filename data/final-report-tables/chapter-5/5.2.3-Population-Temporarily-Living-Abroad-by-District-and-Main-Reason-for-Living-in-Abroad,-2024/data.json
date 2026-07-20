@@ -1,0 +1,686 @@
+[
+  {
+    "region_id": "LK-11",
+    "region_name": "Colombo",
+    "region_ent_type": "district",
+    "values": {
+      "employment": 51449,
+      "education": 12339,
+      "accompanying_family_member_in_need": 7230,
+      "other": 421
+    },
+    "total_value": 71439
+  },
+  {
+    "region_id": "LK-12",
+    "region_name": "Gampaha",
+    "region_ent_type": "district",
+    "values": {
+      "employment": 67844,
+      "education": 10894,
+      "accompanying_family_member_in_need": 7028,
+      "other": 311
+    },
+    "total_value": 86077
+  },
+  {
+    "region_id": "LK-13",
+    "region_name": "Kalutara",
+    "region_ent_type": "district",
+    "values": {
+      "employment": 34819,
+      "education": 3953,
+      "accompanying_family_member_in_need": 2469,
+      "other": 111
+    },
+    "total_value": 41352
+  },
+  {
+    "region_id": "LK-21",
+    "region_name": "Kandy",
+    "region_ent_type": "district",
+    "values": {
+      "employment": 48904,
+      "education": 4242,
+      "accompanying_family_member_in_need": 3891,
+      "other": 193
+    },
+    "total_value": 57230
+  },
+  {
+    "region_id": "LK-22",
+    "region_name": "Matale",
+    "region_ent_type": "district",
+    "values": {
+      "employment": 18526,
+      "education": 755,
+      "accompanying_family_member_in_need": 730,
+      "other": 53
+    },
+    "total_value": 20064
+  },
+  {
+    "region_id": "LK-23",
+    "region_name": "Nuwara Eliya",
+    "region_ent_type": "district",
+    "values": {
+      "employment": 15895,
+      "education": 402,
+      "accompanying_family_member_in_need": 572,
+      "other": 44
+    },
+    "total_value": 16913
+  },
+  {
+    "region_id": "LK-31",
+    "region_name": "Galle",
+    "region_ent_type": "district",
+    "values": {
+      "employment": 35722,
+      "education": 2954,
+      "accompanying_family_member_in_need": 1555,
+      "other": 113
+    },
+    "total_value": 40344
+  },
+  {
+    "region_id": "LK-32",
+    "region_name": "Matara",
+    "region_ent_type": "district",
+    "values": {
+      "employment": 18282,
+      "education": 2145,
+      "accompanying_family_member_in_need": 840,
+      "other": 53
+    },
+    "total_value": 21320
+  },
+  {
+    "region_id": "LK-33",
+    "region_name": "Hambantota",
+    "region_ent_type": "district",
+    "values": {
+      "employment": 12606,
+      "education": 1184,
+      "accompanying_family_member_in_need": 408,
+      "other": 33
+    },
+    "total_value": 14231
+  },
+  {
+    "region_id": "LK-41",
+    "region_name": "Jaffna",
+    "region_ent_type": "district",
+    "values": {
+      "employment": 7653,
+      "education": 877,
+      "accompanying_family_member_in_need": 589,
+      "other": 306
+    },
+    "total_value": 9425
+  },
+  {
+    "region_id": "LK-42",
+    "region_name": "Mannar",
+    "region_ent_type": "district",
+    "values": {
+      "employment": 1506,
+      "education": 78,
+      "accompanying_family_member_in_need": 35,
+      "other": 21
+    },
+    "total_value": 1640
+  },
+  {
+    "region_id": "LK-43",
+    "region_name": "Vavuniya",
+    "region_ent_type": "district",
+    "values": {
+      "employment": 2950,
+      "education": 307,
+      "accompanying_family_member_in_need": 265,
+      "other": 99
+    },
+    "total_value": 3621
+  },
+  {
+    "region_id": "LK-44",
+    "region_name": "Mullaitivu",
+    "region_ent_type": "district",
+    "values": {
+      "employment": 1215,
+      "education": 68,
+      "accompanying_family_member_in_need": 73,
+      "other": 27
+    },
+    "total_value": 1383
+  },
+  {
+    "region_id": "LK-45",
+    "region_name": "Kilinochchi",
+    "region_ent_type": "district",
+    "values": {
+      "employment": 1309,
+      "education": 120,
+      "accompanying_family_member_in_need": 138,
+      "other": 58
+    },
+    "total_value": 1625
+  },
+  {
+    "region_id": "LK-51",
+    "region_name": "Batticaloa",
+    "region_ent_type": "district",
+    "values": {
+      "employment": 26980,
+      "education": 490,
+      "accompanying_family_member_in_need": 745,
+      "other": 44
+    },
+    "total_value": 28259
+  },
+  {
+    "region_id": "LK-52",
+    "region_name": "Ampara",
+    "region_ent_type": "district",
+    "values": {
+      "employment": 29074,
+      "education": 603,
+      "accompanying_family_member_in_need": 1620,
+      "other": 40
+    },
+    "total_value": 31337
+  },
+  {
+    "region_id": "LK-53",
+    "region_name": "Trincomalee",
+    "region_ent_type": "district",
+    "values": {
+      "employment": 10886,
+      "education": 301,
+      "accompanying_family_member_in_need": 388,
+      "other": 47
+    },
+    "total_value": 11622
+  },
+  {
+    "region_id": "LK-61",
+    "region_name": "Kurunegala",
+    "region_ent_type": "district",
+    "values": {
+      "employment": 57039,
+      "education": 4412,
+      "accompanying_family_member_in_need": 2535,
+      "other": 130
+    },
+    "total_value": 64116
+  },
+  {
+    "region_id": "LK-62",
+    "region_name": "Puttalam",
+    "region_ent_type": "district",
+    "values": {
+      "employment": 40874,
+      "education": 2373,
+      "accompanying_family_member_in_need": 3841,
+      "other": 135
+    },
+    "total_value": 47223
+  },
+  {
+    "region_id": "LK-71",
+    "region_name": "Anuradhapura",
+    "region_ent_type": "district",
+    "values": {
+      "employment": 24102,
+      "education": 966,
+      "accompanying_family_member_in_need": 497,
+      "other": 57
+    },
+    "total_value": 25622
+  },
+  {
+    "region_id": "LK-72",
+    "region_name": "Polonnaruwa",
+    "region_ent_type": "district",
+    "values": {
+      "employment": 12558,
+      "education": 355,
+      "accompanying_family_member_in_need": 281,
+      "other": 22
+    },
+    "total_value": 13216
+  },
+  {
+    "region_id": "LK-81",
+    "region_name": "Badulla",
+    "region_ent_type": "district",
+    "values": {
+      "employment": 12233,
+      "education": 633,
+      "accompanying_family_member_in_need": 330,
+      "other": 36
+    },
+    "total_value": 13232
+  },
+  {
+    "region_id": "LK-82",
+    "region_name": "Monaragala",
+    "region_ent_type": "district",
+    "values": {
+      "employment": 4503,
+      "education": 225,
+      "accompanying_family_member_in_need": 91,
+      "other": 9
+    },
+    "total_value": 4828
+  },
+  {
+    "region_id": "LK-91",
+    "region_name": "Ratnapura",
+    "region_ent_type": "district",
+    "values": {
+      "employment": 16927,
+      "education": 1175,
+      "accompanying_family_member_in_need": 555,
+      "other": 39
+    },
+    "total_value": 18696
+  },
+  {
+    "region_id": "LK-92",
+    "region_name": "Kegalle",
+    "region_ent_type": "district",
+    "values": {
+      "employment": 24063,
+      "education": 1770,
+      "accompanying_family_member_in_need": 1512,
+      "other": 89
+    },
+    "total_value": 27434
+  },
+  {
+    "region_id": "LK",
+    "region_name": "Sri Lanka",
+    "region_ent_type": "country",
+    "values": {
+      "employment": 577919,
+      "education": 53621,
+      "accompanying_family_member_in_need": 38218,
+      "other": 2491
+    },
+    "total_value": 672249
+  },
+  {
+    "region_id": "LK-1",
+    "region_name": "Western",
+    "region_ent_type": "province",
+    "values": {
+      "employment": 154112,
+      "education": 27186,
+      "accompanying_family_member_in_need": 16727,
+      "other": 843
+    },
+    "total_value": 198868
+  },
+  {
+    "region_id": "LK-2",
+    "region_name": "Central",
+    "region_ent_type": "province",
+    "values": {
+      "employment": 83325,
+      "education": 5399,
+      "accompanying_family_member_in_need": 5193,
+      "other": 290
+    },
+    "total_value": 94207
+  },
+  {
+    "region_id": "LK-3",
+    "region_name": "Southern",
+    "region_ent_type": "province",
+    "values": {
+      "employment": 66610,
+      "education": 6283,
+      "accompanying_family_member_in_need": 2803,
+      "other": 199
+    },
+    "total_value": 75895
+  },
+  {
+    "region_id": "LK-4",
+    "region_name": "Northern",
+    "region_ent_type": "province",
+    "values": {
+      "employment": 14633,
+      "education": 1450,
+      "accompanying_family_member_in_need": 1100,
+      "other": 511
+    },
+    "total_value": 17694
+  },
+  {
+    "region_id": "LK-5",
+    "region_name": "Eastern",
+    "region_ent_type": "province",
+    "values": {
+      "employment": 66940,
+      "education": 1394,
+      "accompanying_family_member_in_need": 2753,
+      "other": 131
+    },
+    "total_value": 71218
+  },
+  {
+    "region_id": "LK-6",
+    "region_name": "North Western",
+    "region_ent_type": "province",
+    "values": {
+      "employment": 97913,
+      "education": 6785,
+      "accompanying_family_member_in_need": 6376,
+      "other": 265
+    },
+    "total_value": 111339
+  },
+  {
+    "region_id": "LK-7",
+    "region_name": "North Central",
+    "region_ent_type": "province",
+    "values": {
+      "employment": 36660,
+      "education": 1321,
+      "accompanying_family_member_in_need": 778,
+      "other": 79
+    },
+    "total_value": 38838
+  },
+  {
+    "region_id": "LK-8",
+    "region_name": "Uva",
+    "region_ent_type": "province",
+    "values": {
+      "employment": 16736,
+      "education": 858,
+      "accompanying_family_member_in_need": 421,
+      "other": 45
+    },
+    "total_value": 18060
+  },
+  {
+    "region_id": "LK-9",
+    "region_name": "Sabaragamuwa",
+    "region_ent_type": "province",
+    "values": {
+      "employment": 40990,
+      "education": 2945,
+      "accompanying_family_member_in_need": 2067,
+      "other": 128
+    },
+    "total_value": 46130
+  },
+  {
+    "region_id": "EC-01",
+    "region_name": "Colombo",
+    "region_ent_type": "ed",
+    "values": {
+      "employment": 51449,
+      "education": 12339,
+      "accompanying_family_member_in_need": 7230,
+      "other": 421
+    },
+    "total_value": 71439
+  },
+  {
+    "region_id": "EC-02",
+    "region_name": "Gampaha",
+    "region_ent_type": "ed",
+    "values": {
+      "employment": 67844,
+      "education": 10894,
+      "accompanying_family_member_in_need": 7028,
+      "other": 311
+    },
+    "total_value": 86077
+  },
+  {
+    "region_id": "EC-03",
+    "region_name": "Kalutara",
+    "region_ent_type": "ed",
+    "values": {
+      "employment": 34819,
+      "education": 3953,
+      "accompanying_family_member_in_need": 2469,
+      "other": 111
+    },
+    "total_value": 41352
+  },
+  {
+    "region_id": "EC-04",
+    "region_name": "Kandy",
+    "region_ent_type": "ed",
+    "values": {
+      "employment": 48904,
+      "education": 4242,
+      "accompanying_family_member_in_need": 3891,
+      "other": 193
+    },
+    "total_value": 57230
+  },
+  {
+    "region_id": "EC-05",
+    "region_name": "Matale",
+    "region_ent_type": "ed",
+    "values": {
+      "employment": 18526,
+      "education": 755,
+      "accompanying_family_member_in_need": 730,
+      "other": 53
+    },
+    "total_value": 20064
+  },
+  {
+    "region_id": "EC-06",
+    "region_name": "Nuwara-Eliya",
+    "region_ent_type": "ed",
+    "values": {
+      "employment": 15895,
+      "education": 402,
+      "accompanying_family_member_in_need": 572,
+      "other": 44
+    },
+    "total_value": 16913
+  },
+  {
+    "region_id": "EC-07",
+    "region_name": "Galle",
+    "region_ent_type": "ed",
+    "values": {
+      "employment": 35722,
+      "education": 2954,
+      "accompanying_family_member_in_need": 1555,
+      "other": 113
+    },
+    "total_value": 40344
+  },
+  {
+    "region_id": "EC-08",
+    "region_name": "Matara",
+    "region_ent_type": "ed",
+    "values": {
+      "employment": 18282,
+      "education": 2145,
+      "accompanying_family_member_in_need": 840,
+      "other": 53
+    },
+    "total_value": 21320
+  },
+  {
+    "region_id": "EC-09",
+    "region_name": "Hambantota",
+    "region_ent_type": "ed",
+    "values": {
+      "employment": 12606,
+      "education": 1184,
+      "accompanying_family_member_in_need": 408,
+      "other": 33
+    },
+    "total_value": 14231
+  },
+  {
+    "region_id": "EC-10",
+    "region_name": "Jaffna",
+    "region_ent_type": "ed",
+    "values": {
+      "employment": 8962,
+      "education": 997,
+      "accompanying_family_member_in_need": 727,
+      "other": 364
+    },
+    "total_value": 11050
+  },
+  {
+    "region_id": "EC-11",
+    "region_name": "Vanni",
+    "region_ent_type": "ed",
+    "values": {
+      "employment": 5671,
+      "education": 453,
+      "accompanying_family_member_in_need": 373,
+      "other": 147
+    },
+    "total_value": 6644
+  },
+  {
+    "region_id": "EC-12",
+    "region_name": "Batticaloa",
+    "region_ent_type": "ed",
+    "values": {
+      "employment": 26980,
+      "education": 490,
+      "accompanying_family_member_in_need": 745,
+      "other": 44
+    },
+    "total_value": 28259
+  },
+  {
+    "region_id": "EC-13",
+    "region_name": "Digamadulla",
+    "region_ent_type": "ed",
+    "values": {
+      "employment": 29074,
+      "education": 603,
+      "accompanying_family_member_in_need": 1620,
+      "other": 40
+    },
+    "total_value": 31337
+  },
+  {
+    "region_id": "EC-14",
+    "region_name": "Trincomalee",
+    "region_ent_type": "ed",
+    "values": {
+      "employment": 10886,
+      "education": 301,
+      "accompanying_family_member_in_need": 388,
+      "other": 47
+    },
+    "total_value": 11622
+  },
+  {
+    "region_id": "EC-15",
+    "region_name": "Kurunegala",
+    "region_ent_type": "ed",
+    "values": {
+      "employment": 57039,
+      "education": 4412,
+      "accompanying_family_member_in_need": 2535,
+      "other": 130
+    },
+    "total_value": 64116
+  },
+  {
+    "region_id": "EC-16",
+    "region_name": "Puttalam",
+    "region_ent_type": "ed",
+    "values": {
+      "employment": 40874,
+      "education": 2373,
+      "accompanying_family_member_in_need": 3841,
+      "other": 135
+    },
+    "total_value": 47223
+  },
+  {
+    "region_id": "EC-17",
+    "region_name": "Anuradhapura",
+    "region_ent_type": "ed",
+    "values": {
+      "employment": 24102,
+      "education": 966,
+      "accompanying_family_member_in_need": 497,
+      "other": 57
+    },
+    "total_value": 25622
+  },
+  {
+    "region_id": "EC-18",
+    "region_name": "Polonnaruwa",
+    "region_ent_type": "ed",
+    "values": {
+      "employment": 12558,
+      "education": 355,
+      "accompanying_family_member_in_need": 281,
+      "other": 22
+    },
+    "total_value": 13216
+  },
+  {
+    "region_id": "EC-19",
+    "region_name": "Badulla",
+    "region_ent_type": "ed",
+    "values": {
+      "employment": 12233,
+      "education": 633,
+      "accompanying_family_member_in_need": 330,
+      "other": 36
+    },
+    "total_value": 13232
+  },
+  {
+    "region_id": "EC-20",
+    "region_name": "Moneragala",
+    "region_ent_type": "ed",
+    "values": {
+      "employment": 4503,
+      "education": 225,
+      "accompanying_family_member_in_need": 91,
+      "other": 9
+    },
+    "total_value": 4828
+  },
+  {
+    "region_id": "EC-21",
+    "region_name": "Ratnapura",
+    "region_ent_type": "ed",
+    "values": {
+      "employment": 16927,
+      "education": 1175,
+      "accompanying_family_member_in_need": 555,
+      "other": 39
+    },
+    "total_value": 18696
+  },
+  {
+    "region_id": "EC-22",
+    "region_name": "Kegalle",
+    "region_ent_type": "ed",
+    "values": {
+      "employment": 24063,
+      "education": 1770,
+      "accompanying_family_member_in_need": 1512,
+      "other": 89
+    },
+    "total_value": 27434
+  }
+]

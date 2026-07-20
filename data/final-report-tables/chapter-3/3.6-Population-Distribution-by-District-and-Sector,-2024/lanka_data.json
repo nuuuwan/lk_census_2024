@@ -1,0 +1,356 @@
+{
+  "Person": {
+    "Time:2024": {
+      "District:LK-11": {
+        "Sector:urban": {
+          "Count": "Int:1773222"
+        },
+        "Sector:estate_urban": {
+          "Count": "Int:3874"
+        },
+        "Sector:rural": {
+          "Count": "Int:593669"
+        },
+        "Sector:estate_rural": {
+          "Count": "Int:4650"
+        }
+      },
+      "District:LK-12": {
+        "Sector:urban": {
+          "Count": "Int:350441"
+        },
+        "Sector:estate_urban": {
+          "Count": "Int:0"
+        },
+        "Sector:rural": {
+          "Count": "Int:2085307"
+        },
+        "Sector:estate_rural": {
+          "Count": "Int:394"
+        }
+      },
+      "District:LK-13": {
+        "Sector:urban": {
+          "Count": "Int:149939"
+        },
+        "Sector:estate_urban": {
+          "Count": "Int:864"
+        },
+        "Sector:rural": {
+          "Count": "Int:1120942"
+        },
+        "Sector:estate_rural": {
+          "Count": "Int:34039"
+        }
+      },
+      "District:LK-21": {
+        "Sector:urban": {
+          "Count": "Int:171416"
+        },
+        "Sector:estate_urban": {
+          "Count": "Int:241"
+        },
+        "Sector:rural": {
+          "Count": "Int:1208607"
+        },
+        "Sector:estate_rural": {
+          "Count": "Int:81631"
+        }
+      },
+      "District:LK-22": {
+        "Sector:urban": {
+          "Count": "Int:62848"
+        },
+        "Sector:estate_urban": {
+          "Count": "Int:0"
+        },
+        "Sector:rural": {
+          "Count": "Int:447122"
+        },
+        "Sector:estate_rural": {
+          "Count": "Int:16900"
+        }
+      },
+      "District:LK-23": {
+        "Sector:urban": {
+          "Count": "Int:36649"
+        },
+        "Sector:estate_urban": {
+          "Count": "Int:5666"
+        },
+        "Sector:rural": {
+          "Count": "Int:308357"
+        },
+        "Sector:estate_rural": {
+          "Count": "Int:374608"
+        }
+      },
+      "District:LK-31": {
+        "Sector:urban": {
+          "Count": "Int:135514"
+        },
+        "Sector:estate_urban": {
+          "Count": "Int:0"
+        },
+        "Sector:rural": {
+          "Count": "Int:944811"
+        },
+        "Sector:estate_rural": {
+          "Count": "Int:17047"
+        }
+      },
+      "District:LK-32": {
+        "Sector:urban": {
+          "Count": "Int:98886"
+        },
+        "Sector:estate_urban": {
+          "Count": "Int:0"
+        },
+        "Sector:rural": {
+          "Count": "Int:721903"
+        },
+        "Sector:estate_rural": {
+          "Count": "Int:17100"
+        }
+      },
+      "District:LK-33": {
+        "Sector:urban": {
+          "Count": "Int:33918"
+        },
+        "Sector:estate_urban": {
+          "Count": "Int:0"
+        },
+        "Sector:rural": {
+          "Count": "Int:637442"
+        },
+        "Sector:estate_rural": {
+          "Count": "Int:58"
+        }
+      },
+      "District:LK-41": {
+        "Sector:urban": {
+          "Count": "Int:113821"
+        },
+        "Sector:estate_urban": {
+          "Count": "Int:0"
+        },
+        "Sector:rural": {
+          "Count": "Int:480930"
+        },
+        "Sector:estate_rural": {
+          "Count": "Int:0"
+        }
+      },
+      "District:LK-42": {
+        "Sector:urban": {
+          "Count": "Int:24120"
+        },
+        "Sector:estate_urban": {
+          "Count": "Int:0"
+        },
+        "Sector:rural": {
+          "Count": "Int:99636"
+        },
+        "Sector:estate_rural": {
+          "Count": "Int:0"
+        }
+      },
+      "District:LK-43": {
+        "Sector:urban": {
+          "Count": "Int:28681"
+        },
+        "Sector:estate_urban": {
+          "Count": "Int:0"
+        },
+        "Sector:rural": {
+          "Count": "Int:143631"
+        },
+        "Sector:estate_rural": {
+          "Count": "Int:0"
+        }
+      },
+      "District:LK-44": {
+        "Sector:urban": {
+          "Count": "Int:0"
+        },
+        "Sector:estate_urban": {
+          "Count": "Int:0"
+        },
+        "Sector:rural": {
+          "Count": "Int:122619"
+        },
+        "Sector:estate_rural": {
+          "Count": "Int:0"
+        }
+      },
+      "District:LK-45": {
+        "Sector:urban": {
+          "Count": "Int:0"
+        },
+        "Sector:estate_urban": {
+          "Count": "Int:0"
+        },
+        "Sector:rural": {
+          "Count": "Int:136710"
+        },
+        "Sector:estate_rural": {
+          "Count": "Int:0"
+        }
+      },
+      "District:LK-51": {
+        "Sector:urban": {
+          "Count": "Int:166369"
+        },
+        "Sector:estate_urban": {
+          "Count": "Int:0"
+        },
+        "Sector:rural": {
+          "Count": "Int:429549"
+        },
+        "Sector:estate_rural": {
+          "Count": "Int:0"
+        }
+      },
+      "District:LK-52": {
+        "Sector:urban": {
+          "Count": "Int:175516"
+        },
+        "Sector:estate_urban": {
+          "Count": "Int:0"
+        },
+        "Sector:rural": {
+          "Count": "Int:569035"
+        },
+        "Sector:estate_rural": {
+          "Count": "Int:0"
+        }
+      },
+      "District:LK-53": {
+        "Sector:urban": {
+          "Count": "Int:95599"
+        },
+        "Sector:estate_urban": {
+          "Count": "Int:0"
+        },
+        "Sector:rural": {
+          "Count": "Int:347146"
+        },
+        "Sector:estate_rural": {
+          "Count": "Int:0"
+        }
+      },
+      "District:LK-61": {
+        "Sector:urban": {
+          "Count": "Int:31023"
+        },
+        "Sector:estate_urban": {
+          "Count": "Int:0"
+        },
+        "Sector:rural": {
+          "Count": "Int:1731422"
+        },
+        "Sector:estate_rural": {
+          "Count": "Int:5711"
+        }
+      },
+      "District:LK-62": {
+        "Sector:urban": {
+          "Count": "Int:70747"
+        },
+        "Sector:estate_urban": {
+          "Count": "Int:0"
+        },
+        "Sector:rural": {
+          "Count": "Int:747062"
+        },
+        "Sector:estate_rural": {
+          "Count": "Int:1007"
+        }
+      },
+      "District:LK-71": {
+        "Sector:urban": {
+          "Count": "Int:52737"
+        },
+        "Sector:estate_urban": {
+          "Count": "Int:0"
+        },
+        "Sector:rural": {
+          "Count": "Int:906885"
+        },
+        "Sector:estate_rural": {
+          "Count": "Int:458"
+        }
+      },
+      "District:LK-72": {
+        "Sector:urban": {
+          "Count": "Int:37320"
+        },
+        "Sector:estate_urban": {
+          "Count": "Int:0"
+        },
+        "Sector:rural": {
+          "Count": "Int:410210"
+        },
+        "Sector:estate_rural": {
+          "Count": "Int:0"
+        }
+      },
+      "District:LK-81": {
+        "Sector:urban": {
+          "Count": "Int:72155"
+        },
+        "Sector:estate_urban": {
+          "Count": "Int:175"
+        },
+        "Sector:rural": {
+          "Count": "Int:645548"
+        },
+        "Sector:estate_rural": {
+          "Count": "Int:154429"
+        }
+      },
+      "District:LK-82": {
+        "Sector:urban": {
+          "Count": "Int:0"
+        },
+        "Sector:estate_urban": {
+          "Count": "Int:0"
+        },
+        "Sector:rural": {
+          "Count": "Int:518967"
+        },
+        "Sector:estate_rural": {
+          "Count": "Int:8618"
+        }
+      },
+      "District:LK-91": {
+        "Sector:urban": {
+          "Count": "Int:109964"
+        },
+        "Sector:estate_urban": {
+          "Count": "Int:1248"
+        },
+        "Sector:rural": {
+          "Count": "Int:938488"
+        },
+        "Sector:estate_rural": {
+          "Count": "Int:95723"
+        }
+      },
+      "District:LK-92": {
+        "Sector:urban": {
+          "Count": "Int:16250"
+        },
+        "Sector:estate_urban": {
+          "Count": "Int:0"
+        },
+        "Sector:rural": {
+          "Count": "Int:800920"
+        },
+        "Sector:estate_rural": {
+          "Count": "Int:53306"
+        }
+      }
+    }
+  }
+}

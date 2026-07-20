@@ -1,0 +1,294 @@
+{
+  "Person": {
+    "Time:2024": {
+      "Ethnicity:sinhala": {
+        "NonCommunicableDisease:diabetes": {
+          "Count": "Int:1388253"
+        },
+        "NonCommunicableDisease:high_cholesterol": {
+          "Count": "Int:1404396"
+        },
+        "NonCommunicableDisease:high_blood_pressure": {
+          "Count": "Int:1694960"
+        },
+        "NonCommunicableDisease:heart_disease": {
+          "Count": "Int:419704"
+        },
+        "NonCommunicableDisease:kidney_disease": {
+          "Count": "Int:129140"
+        },
+        "NonCommunicableDisease:thalassemia": {
+          "Count": "Int:16142"
+        },
+        "NonCommunicableDisease:cancer": {
+          "Count": "Int:64570"
+        },
+        "NonCommunicableDisease:stroke": {
+          "Count": "Int:96855"
+        },
+        "NonCommunicableDisease:asthma": {
+          "Count": "Int:274422"
+        },
+        "NonCommunicableDisease:epilepsy": {
+          "Count": "Int:48427"
+        }
+      },
+      "Ethnicity:sri_lanka_tamil": {
+        "NonCommunicableDisease:diabetes": {
+          "Count": "Int:214501"
+        },
+        "NonCommunicableDisease:high_cholesterol": {
+          "Count": "Int:193051"
+        },
+        "NonCommunicableDisease:high_blood_pressure": {
+          "Count": "Int:235951"
+        },
+        "NonCommunicableDisease:heart_disease": {
+          "Count": "Int:56307"
+        },
+        "NonCommunicableDisease:kidney_disease": {
+          "Count": "Int:18769"
+        },
+        "NonCommunicableDisease:thalassemia": {
+          "Count": "Int:2681"
+        },
+        "NonCommunicableDisease:cancer": {
+          "Count": "Int:8044"
+        },
+        "NonCommunicableDisease:stroke": {
+          "Count": "Int:16088"
+        },
+        "NonCommunicableDisease:asthma": {
+          "Count": "Int:80438"
+        },
+        "NonCommunicableDisease:epilepsy": {
+          "Count": "Int:10725"
+        }
+      },
+      "Ethnicity:sri_lanka_moor_or_muslim": {
+        "NonCommunicableDisease:diabetes": {
+          "Count": "Int:210041"
+        },
+        "NonCommunicableDisease:high_cholesterol": {
+          "Count": "Int:175795"
+        },
+        "NonCommunicableDisease:high_blood_pressure": {
+          "Count": "Int:212324"
+        },
+        "NonCommunicableDisease:heart_disease": {
+          "Count": "Int:47944"
+        },
+        "NonCommunicableDisease:kidney_disease": {
+          "Count": "Int:11415"
+        },
+        "NonCommunicableDisease:thalassemia": {
+          "Count": "Int:2283"
+        },
+        "NonCommunicableDisease:cancer": {
+          "Count": "Int:4566"
+        },
+        "NonCommunicableDisease:stroke": {
+          "Count": "Int:9132"
+        },
+        "NonCommunicableDisease:asthma": {
+          "Count": "Int:38812"
+        },
+        "NonCommunicableDisease:epilepsy": {
+          "Count": "Int:6849"
+        }
+      },
+      "Ethnicity:burgher": {
+        "NonCommunicableDisease:diabetes": {
+          "Count": "Int:3394"
+        },
+        "NonCommunicableDisease:high_cholesterol": {
+          "Count": "Int:3172"
+        },
+        "NonCommunicableDisease:high_blood_pressure": {
+          "Count": "Int:3869"
+        },
+        "NonCommunicableDisease:heart_disease": {
+          "Count": "Int:983"
+        },
+        "NonCommunicableDisease:kidney_disease": {
+          "Count": "Int:190"
+        },
+        "NonCommunicableDisease:thalassemia": {
+          "Count": "Int:32"
+        },
+        "NonCommunicableDisease:cancer": {
+          "Count": "Int:159"
+        },
+        "NonCommunicableDisease:stroke": {
+          "Count": "Int:190"
+        },
+        "NonCommunicableDisease:asthma": {
+          "Count": "Int:603"
+        },
+        "NonCommunicableDisease:epilepsy": {
+          "Count": "Int:63"
+        }
+      },
+      "Ethnicity:malay": {
+        "NonCommunicableDisease:diabetes": {
+          "Count": "Int:3065"
+        },
+        "NonCommunicableDisease:high_cholesterol": {
+          "Count": "Int:2771"
+        },
+        "NonCommunicableDisease:high_blood_pressure": {
+          "Count": "Int:3678"
+        },
+        "NonCommunicableDisease:heart_disease": {
+          "Count": "Int:799"
+        },
+        "NonCommunicableDisease:kidney_disease": {
+          "Count": "Int:187"
+        },
+        "NonCommunicableDisease:thalassemia": {
+          "Count": "Int:27"
+        },
+        "NonCommunicableDisease:cancer": {
+          "Count": "Int:107"
+        },
+        "NonCommunicableDisease:stroke": {
+          "Count": "Int:133"
+        },
+        "NonCommunicableDisease:asthma": {
+          "Count": "Int:453"
+        },
+        "NonCommunicableDisease:epilepsy": {
+          "Count": "Int:80"
+        }
+      },
+      "Ethnicity:sri_lanka_chetty": {
+        "NonCommunicableDisease:diabetes": {
+          "Count": "Int:190"
+        },
+        "NonCommunicableDisease:high_cholesterol": {
+          "Count": "Int:232"
+        },
+        "NonCommunicableDisease:high_blood_pressure": {
+          "Count": "Int:256"
+        },
+        "NonCommunicableDisease:heart_disease": {
+          "Count": "Int:51"
+        },
+        "NonCommunicableDisease:kidney_disease": {
+          "Count": "Int:15"
+        },
+        "NonCommunicableDisease:thalassemia": {
+          "Count": "Int:2"
+        },
+        "NonCommunicableDisease:cancer": {
+          "Count": "Int:7"
+        },
+        "NonCommunicableDisease:stroke": {
+          "Count": "Int:17"
+        },
+        "NonCommunicableDisease:asthma": {
+          "Count": "Int:37"
+        },
+        "NonCommunicableDisease:epilepsy": {
+          "Count": "Int:7"
+        }
+      },
+      "Ethnicity:bharatha": {
+        "NonCommunicableDisease:diabetes": {
+          "Count": "Int:113"
+        },
+        "NonCommunicableDisease:high_cholesterol": {
+          "Count": "Int:105"
+        },
+        "NonCommunicableDisease:high_blood_pressure": {
+          "Count": "Int:123"
+        },
+        "NonCommunicableDisease:heart_disease": {
+          "Count": "Int:28"
+        },
+        "NonCommunicableDisease:kidney_disease": {
+          "Count": "Int:5"
+        },
+        "NonCommunicableDisease:thalassemia": {
+          "Count": "Int:0"
+        },
+        "NonCommunicableDisease:cancer": {
+          "Count": "Int:2"
+        },
+        "NonCommunicableDisease:stroke": {
+          "Count": "Int:8"
+        },
+        "NonCommunicableDisease:asthma": {
+          "Count": "Int:14"
+        },
+        "NonCommunicableDisease:epilepsy": {
+          "Count": "Int:1"
+        }
+      },
+      "Ethnicity:veddahs": {
+        "NonCommunicableDisease:diabetes": {
+          "Count": "Int:86"
+        },
+        "NonCommunicableDisease:high_cholesterol": {
+          "Count": "Int:56"
+        },
+        "NonCommunicableDisease:high_blood_pressure": {
+          "Count": "Int:73"
+        },
+        "NonCommunicableDisease:heart_disease": {
+          "Count": "Int:19"
+        },
+        "NonCommunicableDisease:kidney_disease": {
+          "Count": "Int:27"
+        },
+        "NonCommunicableDisease:thalassemia": {
+          "Count": "Int:10"
+        },
+        "NonCommunicableDisease:cancer": {
+          "Count": "Int:4"
+        },
+        "NonCommunicableDisease:stroke": {
+          "Count": "Int:16"
+        },
+        "NonCommunicableDisease:asthma": {
+          "Count": "Int:36"
+        },
+        "NonCommunicableDisease:epilepsy": {
+          "Count": "Int:7"
+        }
+      },
+      "Ethnicity:other": {
+        "NonCommunicableDisease:diabetes": {
+          "Count": "Int:518"
+        },
+        "NonCommunicableDisease:high_cholesterol": {
+          "Count": "Int:418"
+        },
+        "NonCommunicableDisease:high_blood_pressure": {
+          "Count": "Int:563"
+        },
+        "NonCommunicableDisease:heart_disease": {
+          "Count": "Int:154"
+        },
+        "NonCommunicableDisease:kidney_disease": {
+          "Count": "Int:36"
+        },
+        "NonCommunicableDisease:thalassemia": {
+          "Count": "Int:0"
+        },
+        "NonCommunicableDisease:cancer": {
+          "Count": "Int:27"
+        },
+        "NonCommunicableDisease:stroke": {
+          "Count": "Int:27"
+        },
+        "NonCommunicableDisease:asthma": {
+          "Count": "Int:82"
+        },
+        "NonCommunicableDisease:epilepsy": {
+          "Count": "Int:9"
+        }
+      }
+    }
+  }
+}

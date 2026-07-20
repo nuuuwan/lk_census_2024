@@ -1,0 +1,30 @@
+{
+  "Person": {
+    "Time:2024": {
+      "Sector:urban": {
+        "Sex:male": {
+          "MeanAgeAtMarriage": "Float:29.8"
+        },
+        "Sex:female": {
+          "MeanAgeAtMarriage": "Float:26.6"
+        }
+      },
+      "Sector:rural": {
+        "Sex:male": {
+          "MeanAgeAtMarriage": "Float:29.0"
+        },
+        "Sex:female": {
+          "MeanAgeAtMarriage": "Float:25.4"
+        }
+      },
+      "Sector:estate_rural": {
+        "Sex:male": {
+          "MeanAgeAtMarriage": "Float:28.4"
+        },
+        "Sex:female": {
+          "MeanAgeAtMarriage": "Float:24.5"
+        }
+      }
+    }
+  }
+}

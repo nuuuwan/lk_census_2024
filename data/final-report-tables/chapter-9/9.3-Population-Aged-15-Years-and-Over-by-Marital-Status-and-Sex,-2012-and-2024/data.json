@@ -1,0 +1,56 @@
+[
+  {
+    "marital_status": "Never married",
+    "values": {
+      "male_2012": 2179099,
+      "female_2012": 1748503,
+      "male_2024": 2527794,
+      "female_2024": 2065535
+    }
+  },
+  {
+    "marital_status": "Married",
+    "values": {
+      "male_2012": 4921044,
+      "female_2012": 5401061,
+      "male_2024": 5417431,
+      "female_2024": 5743629
+    }
+  },
+  {
+    "marital_status": "Widow",
+    "values": {
+      "male_2012": 97532,
+      "female_2012": 695415,
+      "male_2024": 175421,
+      "female_2024": 1058997
+    }
+  },
+  {
+    "marital_status": "Divorced",
+    "values": {
+      "male_2012": 14847,
+      "female_2012": 26328,
+      "male_2024": 28952,
+      "female_2024": 45403
+    }
+  },
+  {
+    "marital_status": "Legal separated",
+    "values": {
+      "male_2012": 11135,
+      "female_2012": 19778,
+      "male_2024": 17047,
+      "female_2024": 27857
+    }
+  },
+  {
+    "marital_status": "Separated (not legally)",
+    "values": {
+      "male_2012": 42577,
+      "female_2012": 70454,
+      "male_2024": 65169,
+      "female_2024": 101726
+    }
+  }
+]

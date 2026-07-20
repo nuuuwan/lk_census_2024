@@ -1,0 +1,686 @@
+[
+  {
+    "region_id": "LK-11",
+    "region_name": "Colombo",
+    "region_ent_type": "district",
+    "values": {
+      "permanent": 645260,
+      "semi_permanent": 8256,
+      "improvised": 195,
+      "not_permanent": 340
+    },
+    "total_value": 654051
+  },
+  {
+    "region_id": "LK-12",
+    "region_name": "Gampaha",
+    "region_ent_type": "district",
+    "values": {
+      "permanent": 673967,
+      "semi_permanent": 8381,
+      "improvised": 404,
+      "not_permanent": 273
+    },
+    "total_value": 683025
+  },
+  {
+    "region_id": "LK-13",
+    "region_name": "Kalutara",
+    "region_ent_type": "district",
+    "values": {
+      "permanent": 341868,
+      "semi_permanent": 7237,
+      "improvised": 156,
+      "not_permanent": 169
+    },
+    "total_value": 349430
+  },
+  {
+    "region_id": "LK-21",
+    "region_name": "Kandy",
+    "region_ent_type": "district",
+    "values": {
+      "permanent": 369080,
+      "semi_permanent": 20395,
+      "improvised": 216,
+      "not_permanent": 135
+    },
+    "total_value": 389826
+  },
+  {
+    "region_id": "LK-22",
+    "region_name": "Matale",
+    "region_ent_type": "district",
+    "values": {
+      "permanent": 139556,
+      "semi_permanent": 8492,
+      "improvised": 75,
+      "not_permanent": 61
+    },
+    "total_value": 148184
+  },
+  {
+    "region_id": "LK-23",
+    "region_name": "Nuwara Eliya",
+    "region_ent_type": "district",
+    "values": {
+      "permanent": 179664,
+      "semi_permanent": 12472,
+      "improvised": 344,
+      "not_permanent": 435
+    },
+    "total_value": 192915
+  },
+  {
+    "region_id": "LK-31",
+    "region_name": "Galle",
+    "region_ent_type": "district",
+    "values": {
+      "permanent": 298982,
+      "semi_permanent": 6129,
+      "improvised": 138,
+      "not_permanent": 130
+    },
+    "total_value": 305379
+  },
+  {
+    "region_id": "LK-32",
+    "region_name": "Matara",
+    "region_ent_type": "district",
+    "values": {
+      "permanent": 223653,
+      "semi_permanent": 6193,
+      "improvised": 113,
+      "not_permanent": 75
+    },
+    "total_value": 230034
+  },
+  {
+    "region_id": "LK-33",
+    "region_name": "Hambantota",
+    "region_ent_type": "district",
+    "values": {
+      "permanent": 183050,
+      "semi_permanent": 4364,
+      "improvised": 84,
+      "not_permanent": 60
+    },
+    "total_value": 187558
+  },
+  {
+    "region_id": "LK-41",
+    "region_name": "Jaffna",
+    "region_ent_type": "district",
+    "values": {
+      "permanent": 151345,
+      "semi_permanent": 4360,
+      "improvised": 681,
+      "not_permanent": 411
+    },
+    "total_value": 156797
+  },
+  {
+    "region_id": "LK-42",
+    "region_name": "Mannar",
+    "region_ent_type": "district",
+    "values": {
+      "permanent": 30767,
+      "semi_permanent": 721,
+      "improvised": 448,
+      "not_permanent": 69
+    },
+    "total_value": 32005
+  },
+  {
+    "region_id": "LK-43",
+    "region_name": "Vavuniya",
+    "region_ent_type": "district",
+    "values": {
+      "permanent": 45540,
+      "semi_permanent": 2118,
+      "improvised": 109,
+      "not_permanent": 58
+    },
+    "total_value": 47825
+  },
+  {
+    "region_id": "LK-44",
+    "region_name": "Mullaitivu",
+    "region_ent_type": "district",
+    "values": {
+      "permanent": 32391,
+      "semi_permanent": 1636,
+      "improvised": 247,
+      "not_permanent": 74
+    },
+    "total_value": 34348
+  },
+  {
+    "region_id": "LK-45",
+    "region_name": "Kilinochchi",
+    "region_ent_type": "district",
+    "values": {
+      "permanent": 34320,
+      "semi_permanent": 1684,
+      "improvised": 315,
+      "not_permanent": 165
+    },
+    "total_value": 36484
+  },
+  {
+    "region_id": "LK-51",
+    "region_name": "Batticaloa",
+    "region_ent_type": "district",
+    "values": {
+      "permanent": 155172,
+      "semi_permanent": 9628,
+      "improvised": 1967,
+      "not_permanent": 383
+    },
+    "total_value": 167150
+  },
+  {
+    "region_id": "LK-52",
+    "region_name": "Ampara",
+    "region_ent_type": "district",
+    "values": {
+      "permanent": 194136,
+      "semi_permanent": 8112,
+      "improvised": 417,
+      "not_permanent": 196
+    },
+    "total_value": 202861
+  },
+  {
+    "region_id": "LK-53",
+    "region_name": "Trincomalee",
+    "region_ent_type": "district",
+    "values": {
+      "permanent": 113999,
+      "semi_permanent": 4580,
+      "improvised": 537,
+      "not_permanent": 235
+    },
+    "total_value": 119351
+  },
+  {
+    "region_id": "LK-61",
+    "region_name": "Kurunegala",
+    "region_ent_type": "district",
+    "values": {
+      "permanent": 490386,
+      "semi_permanent": 15815,
+      "improvised": 468,
+      "not_permanent": 240
+    },
+    "total_value": 506909
+  },
+  {
+    "region_id": "LK-62",
+    "region_name": "Puttalam",
+    "region_ent_type": "district",
+    "values": {
+      "permanent": 219032,
+      "semi_permanent": 8778,
+      "improvised": 3485,
+      "not_permanent": 199
+    },
+    "total_value": 231494
+  },
+  {
+    "region_id": "LK-71",
+    "region_name": "Anuradhapura",
+    "region_ent_type": "district",
+    "values": {
+      "permanent": 261751,
+      "semi_permanent": 9432,
+      "improvised": 138,
+      "not_permanent": 87
+    },
+    "total_value": 271408
+  },
+  {
+    "region_id": "LK-72",
+    "region_name": "Polonnaruwa",
+    "region_ent_type": "district",
+    "values": {
+      "permanent": 122315,
+      "semi_permanent": 4071,
+      "improvised": 54,
+      "not_permanent": 42
+    },
+    "total_value": 126482
+  },
+  {
+    "region_id": "LK-81",
+    "region_name": "Badulla",
+    "region_ent_type": "district",
+    "values": {
+      "permanent": 223698,
+      "semi_permanent": 15445,
+      "improvised": 36,
+      "not_permanent": 238
+    },
+    "total_value": 239417
+  },
+  {
+    "region_id": "LK-82",
+    "region_name": "Monaragala",
+    "region_ent_type": "district",
+    "values": {
+      "permanent": 139342,
+      "semi_permanent": 11152,
+      "improvised": 106,
+      "not_permanent": 128
+    },
+    "total_value": 150728
+  },
+  {
+    "region_id": "LK-91",
+    "region_name": "Ratnapura",
+    "region_ent_type": "district",
+    "values": {
+      "permanent": 303654,
+      "semi_permanent": 20802,
+      "improvised": 218,
+      "not_permanent": 179
+    },
+    "total_value": 324853
+  },
+  {
+    "region_id": "LK-92",
+    "region_name": "Kegalle",
+    "region_ent_type": "district",
+    "values": {
+      "permanent": 229171,
+      "semi_permanent": 12505,
+      "improvised": 195,
+      "not_permanent": 156
+    },
+    "total_value": 242027
+  },
+  {
+    "region_id": "LK",
+    "region_name": "Sri Lanka",
+    "region_ent_type": "country",
+    "values": {
+      "permanent": 5802099,
+      "semi_permanent": 212758,
+      "improvised": 11146,
+      "not_permanent": 4538
+    },
+    "total_value": 6030541
+  },
+  {
+    "region_id": "LK-1",
+    "region_name": "Western",
+    "region_ent_type": "province",
+    "values": {
+      "permanent": 1661095,
+      "semi_permanent": 23874,
+      "improvised": 755,
+      "not_permanent": 782
+    },
+    "total_value": 1686506
+  },
+  {
+    "region_id": "LK-2",
+    "region_name": "Central",
+    "region_ent_type": "province",
+    "values": {
+      "permanent": 688300,
+      "semi_permanent": 41359,
+      "improvised": 635,
+      "not_permanent": 631
+    },
+    "total_value": 730925
+  },
+  {
+    "region_id": "LK-3",
+    "region_name": "Southern",
+    "region_ent_type": "province",
+    "values": {
+      "permanent": 705685,
+      "semi_permanent": 16686,
+      "improvised": 335,
+      "not_permanent": 265
+    },
+    "total_value": 722971
+  },
+  {
+    "region_id": "LK-4",
+    "region_name": "Northern",
+    "region_ent_type": "province",
+    "values": {
+      "permanent": 294363,
+      "semi_permanent": 10519,
+      "improvised": 1800,
+      "not_permanent": 777
+    },
+    "total_value": 307459
+  },
+  {
+    "region_id": "LK-5",
+    "region_name": "Eastern",
+    "region_ent_type": "province",
+    "values": {
+      "permanent": 463307,
+      "semi_permanent": 22320,
+      "improvised": 2921,
+      "not_permanent": 814
+    },
+    "total_value": 489362
+  },
+  {
+    "region_id": "LK-6",
+    "region_name": "North Western",
+    "region_ent_type": "province",
+    "values": {
+      "permanent": 709418,
+      "semi_permanent": 24593,
+      "improvised": 3953,
+      "not_permanent": 439
+    },
+    "total_value": 738403
+  },
+  {
+    "region_id": "LK-7",
+    "region_name": "North Central",
+    "region_ent_type": "province",
+    "values": {
+      "permanent": 384066,
+      "semi_permanent": 13503,
+      "improvised": 192,
+      "not_permanent": 129
+    },
+    "total_value": 397890
+  },
+  {
+    "region_id": "LK-8",
+    "region_name": "Uva",
+    "region_ent_type": "province",
+    "values": {
+      "permanent": 363040,
+      "semi_permanent": 26597,
+      "improvised": 142,
+      "not_permanent": 366
+    },
+    "total_value": 390145
+  },
+  {
+    "region_id": "LK-9",
+    "region_name": "Sabaragamuwa",
+    "region_ent_type": "province",
+    "values": {
+      "permanent": 532825,
+      "semi_permanent": 33307,
+      "improvised": 413,
+      "not_permanent": 335
+    },
+    "total_value": 566880
+  },
+  {
+    "region_id": "EC-01",
+    "region_name": "Colombo",
+    "region_ent_type": "ed",
+    "values": {
+      "permanent": 645260,
+      "semi_permanent": 8256,
+      "improvised": 195,
+      "not_permanent": 340
+    },
+    "total_value": 654051
+  },
+  {
+    "region_id": "EC-02",
+    "region_name": "Gampaha",
+    "region_ent_type": "ed",
+    "values": {
+      "permanent": 673967,
+      "semi_permanent": 8381,
+      "improvised": 404,
+      "not_permanent": 273
+    },
+    "total_value": 683025
+  },
+  {
+    "region_id": "EC-03",
+    "region_name": "Kalutara",
+    "region_ent_type": "ed",
+    "values": {
+      "permanent": 341868,
+      "semi_permanent": 7237,
+      "improvised": 156,
+      "not_permanent": 169
+    },
+    "total_value": 349430
+  },
+  {
+    "region_id": "EC-04",
+    "region_name": "Kandy",
+    "region_ent_type": "ed",
+    "values": {
+      "permanent": 369080,
+      "semi_permanent": 20395,
+      "improvised": 216,
+      "not_permanent": 135
+    },
+    "total_value": 389826
+  },
+  {
+    "region_id": "EC-05",
+    "region_name": "Matale",
+    "region_ent_type": "ed",
+    "values": {
+      "permanent": 139556,
+      "semi_permanent": 8492,
+      "improvised": 75,
+      "not_permanent": 61
+    },
+    "total_value": 148184
+  },
+  {
+    "region_id": "EC-06",
+    "region_name": "Nuwara-Eliya",
+    "region_ent_type": "ed",
+    "values": {
+      "permanent": 179664,
+      "semi_permanent": 12472,
+      "improvised": 344,
+      "not_permanent": 435
+    },
+    "total_value": 192915
+  },
+  {
+    "region_id": "EC-07",
+    "region_name": "Galle",
+    "region_ent_type": "ed",
+    "values": {
+      "permanent": 298982,
+      "semi_permanent": 6129,
+      "improvised": 138,
+      "not_permanent": 130
+    },
+    "total_value": 305379
+  },
+  {
+    "region_id": "EC-08",
+    "region_name": "Matara",
+    "region_ent_type": "ed",
+    "values": {
+      "permanent": 223653,
+      "semi_permanent": 6193,
+      "improvised": 113,
+      "not_permanent": 75
+    },
+    "total_value": 230034
+  },
+  {
+    "region_id": "EC-09",
+    "region_name": "Hambantota",
+    "region_ent_type": "ed",
+    "values": {
+      "permanent": 183050,
+      "semi_permanent": 4364,
+      "improvised": 84,
+      "not_permanent": 60
+    },
+    "total_value": 187558
+  },
+  {
+    "region_id": "EC-10",
+    "region_name": "Jaffna",
+    "region_ent_type": "ed",
+    "values": {
+      "permanent": 185665,
+      "semi_permanent": 6044,
+      "improvised": 996,
+      "not_permanent": 576
+    },
+    "total_value": 193281
+  },
+  {
+    "region_id": "EC-11",
+    "region_name": "Vanni",
+    "region_ent_type": "ed",
+    "values": {
+      "permanent": 108698,
+      "semi_permanent": 4475,
+      "improvised": 804,
+      "not_permanent": 201
+    },
+    "total_value": 114178
+  },
+  {
+    "region_id": "EC-12",
+    "region_name": "Batticaloa",
+    "region_ent_type": "ed",
+    "values": {
+      "permanent": 155172,
+      "semi_permanent": 9628,
+      "improvised": 1967,
+      "not_permanent": 383
+    },
+    "total_value": 167150
+  },
+  {
+    "region_id": "EC-13",
+    "region_name": "Digamadulla",
+    "region_ent_type": "ed",
+    "values": {
+      "permanent": 194136,
+      "semi_permanent": 8112,
+      "improvised": 417,
+      "not_permanent": 196
+    },
+    "total_value": 202861
+  },
+  {
+    "region_id": "EC-14",
+    "region_name": "Trincomalee",
+    "region_ent_type": "ed",
+    "values": {
+      "permanent": 113999,
+      "semi_permanent": 4580,
+      "improvised": 537,
+      "not_permanent": 235
+    },
+    "total_value": 119351
+  },
+  {
+    "region_id": "EC-15",
+    "region_name": "Kurunegala",
+    "region_ent_type": "ed",
+    "values": {
+      "permanent": 490386,
+      "semi_permanent": 15815,
+      "improvised": 468,
+      "not_permanent": 240
+    },
+    "total_value": 506909
+  },
+  {
+    "region_id": "EC-16",
+    "region_name": "Puttalam",
+    "region_ent_type": "ed",
+    "values": {
+      "permanent": 219032,
+      "semi_permanent": 8778,
+      "improvised": 3485,
+      "not_permanent": 199
+    },
+    "total_value": 231494
+  },
+  {
+    "region_id": "EC-17",
+    "region_name": "Anuradhapura",
+    "region_ent_type": "ed",
+    "values": {
+      "permanent": 261751,
+      "semi_permanent": 9432,
+      "improvised": 138,
+      "not_permanent": 87
+    },
+    "total_value": 271408
+  },
+  {
+    "region_id": "EC-18",
+    "region_name": "Polonnaruwa",
+    "region_ent_type": "ed",
+    "values": {
+      "permanent": 122315,
+      "semi_permanent": 4071,
+      "improvised": 54,
+      "not_permanent": 42
+    },
+    "total_value": 126482
+  },
+  {
+    "region_id": "EC-19",
+    "region_name": "Badulla",
+    "region_ent_type": "ed",
+    "values": {
+      "permanent": 223698,
+      "semi_permanent": 15445,
+      "improvised": 36,
+      "not_permanent": 238
+    },
+    "total_value": 239417
+  },
+  {
+    "region_id": "EC-20",
+    "region_name": "Moneragala",
+    "region_ent_type": "ed",
+    "values": {
+      "permanent": 139342,
+      "semi_permanent": 11152,
+      "improvised": 106,
+      "not_permanent": 128
+    },
+    "total_value": 150728
+  },
+  {
+    "region_id": "EC-21",
+    "region_name": "Ratnapura",
+    "region_ent_type": "ed",
+    "values": {
+      "permanent": 303654,
+      "semi_permanent": 20802,
+      "improvised": 218,
+      "not_permanent": 179
+    },
+    "total_value": 324853
+  },
+  {
+    "region_id": "EC-22",
+    "region_name": "Kegalle",
+    "region_ent_type": "ed",
+    "values": {
+      "permanent": 229171,
+      "semi_permanent": 12505,
+      "improvised": 195,
+      "not_permanent": 156
+    },
+    "total_value": 242027
+  }
+]

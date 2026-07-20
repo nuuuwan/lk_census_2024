@@ -1,0 +1,277 @@
+[
+  {
+    "region_id": "LK-11",
+    "region_name": "Colombo",
+    "region_ent_type": "district",
+    "values": {
+      "p_firewood_2012": 0.288,
+      "p_firewood_2024": 0.099,
+      "p_gas_2012": 0.605,
+      "p_gas_2024": 0.855
+    }
+  },
+  {
+    "region_id": "LK-12",
+    "region_name": "Gampaha",
+    "region_ent_type": "district",
+    "values": {
+      "p_firewood_2012": 0.625,
+      "p_firewood_2024": 0.318,
+      "p_gas_2012": 0.31,
+      "p_gas_2024": 0.639
+    }
+  },
+  {
+    "region_id": "LK-13",
+    "region_name": "Kalutara",
+    "region_ent_type": "district",
+    "values": {
+      "p_firewood_2012": 0.771,
+      "p_firewood_2024": 0.424,
+      "p_gas_2012": 0.212,
+      "p_gas_2024": 0.559
+    }
+  },
+  {
+    "region_id": "LK-21",
+    "region_name": "Kandy",
+    "region_ent_type": "district",
+    "values": {
+      "p_firewood_2012": 0.808,
+      "p_firewood_2024": 0.583,
+      "p_gas_2012": 0.178,
+      "p_gas_2024": 0.403
+    }
+  },
+  {
+    "region_id": "LK-22",
+    "region_name": "Matale",
+    "region_ent_type": "district",
+    "values": {
+      "p_firewood_2012": 0.909,
+      "p_firewood_2024": 0.755,
+      "p_gas_2012": 0.084,
+      "p_gas_2024": 0.235
+    }
+  },
+  {
+    "region_id": "LK-23",
+    "region_name": "Nuwara Eliya",
+    "region_ent_type": "district",
+    "values": {
+      "p_firewood_2012": 0.865,
+      "p_firewood_2024": 0.719,
+      "p_gas_2012": 0.112,
+      "p_gas_2024": 0.266
+    }
+  },
+  {
+    "region_id": "LK-31",
+    "region_name": "Galle",
+    "region_ent_type": "district",
+    "values": {
+      "p_firewood_2012": 0.836,
+      "p_firewood_2024": 0.521,
+      "p_gas_2012": 0.154,
+      "p_gas_2024": 0.461
+    }
+  },
+  {
+    "region_id": "LK-32",
+    "region_name": "Matara",
+    "region_ent_type": "district",
+    "values": {
+      "p_firewood_2012": 0.867,
+      "p_firewood_2024": 0.61,
+      "p_gas_2012": 0.126,
+      "p_gas_2024": 0.374
+    }
+  },
+  {
+    "region_id": "LK-33",
+    "region_name": "Hambantota",
+    "region_ent_type": "district",
+    "values": {
+      "p_firewood_2012": 0.93,
+      "p_firewood_2024": 0.724,
+      "p_gas_2012": 0.065,
+      "p_gas_2024": 0.263
+    }
+  },
+  {
+    "region_id": "LK-41",
+    "region_name": "Jaffna",
+    "region_ent_type": "district",
+    "values": {
+      "p_firewood_2012": 0.907,
+      "p_firewood_2024": 0.547,
+      "p_gas_2012": 0.052,
+      "p_gas_2024": 0.423
+    }
+  },
+  {
+    "region_id": "LK-42",
+    "region_name": "Mannar",
+    "region_ent_type": "district",
+    "values": {
+      "p_firewood_2012": 0.885,
+      "p_firewood_2024": 0.559,
+      "p_gas_2012": 0.085,
+      "p_gas_2024": 0.411
+    }
+  },
+  {
+    "region_id": "LK-43",
+    "region_name": "Vavuniya",
+    "region_ent_type": "district",
+    "values": {
+      "p_firewood_2012": 0.83,
+      "p_firewood_2024": 0.565,
+      "p_gas_2012": 0.127,
+      "p_gas_2024": 0.419
+    }
+  },
+  {
+    "region_id": "LK-44",
+    "region_name": "Mullaitivu",
+    "region_ent_type": "district",
+    "values": {
+      "p_firewood_2012": 0.975,
+      "p_firewood_2024": 0.738,
+      "p_gas_2012": 0.006,
+      "p_gas_2024": 0.245
+    }
+  },
+  {
+    "region_id": "LK-45",
+    "region_name": "Kilinochchi",
+    "region_ent_type": "district",
+    "values": {
+      "p_firewood_2012": 0.968,
+      "p_firewood_2024": 0.773,
+      "p_gas_2012": 0.007,
+      "p_gas_2024": 0.212
+    }
+  },
+  {
+    "region_id": "LK-51",
+    "region_name": "Batticaloa",
+    "region_ent_type": "district",
+    "values": {
+      "p_firewood_2012": 0.746,
+      "p_firewood_2024": 0.428,
+      "p_gas_2012": 0.203,
+      "p_gas_2024": 0.545
+    }
+  },
+  {
+    "region_id": "LK-52",
+    "region_name": "Ampara",
+    "region_ent_type": "district",
+    "values": {
+      "p_firewood_2012": 0.774,
+      "p_firewood_2024": 0.483,
+      "p_gas_2012": 0.165,
+      "p_gas_2024": 0.487
+    }
+  },
+  {
+    "region_id": "LK-53",
+    "region_name": "Trincomalee",
+    "region_ent_type": "district",
+    "values": {
+      "p_firewood_2012": 0.824,
+      "p_firewood_2024": 0.489,
+      "p_gas_2012": 0.138,
+      "p_gas_2024": 0.479
+    }
+  },
+  {
+    "region_id": "LK-61",
+    "region_name": "Kurunegala",
+    "region_ent_type": "district",
+    "values": {
+      "p_firewood_2012": 0.944,
+      "p_firewood_2024": 0.772,
+      "p_gas_2012": 0.052,
+      "p_gas_2024": 0.213
+    }
+  },
+  {
+    "region_id": "LK-62",
+    "region_name": "Puttalam",
+    "region_ent_type": "district",
+    "values": {
+      "p_firewood_2012": 0.874,
+      "p_firewood_2024": 0.6,
+      "p_gas_2012": 0.106,
+      "p_gas_2024": 0.373
+    }
+  },
+  {
+    "region_id": "LK-71",
+    "region_name": "Anuradhapura",
+    "region_ent_type": "district",
+    "values": {
+      "p_firewood_2012": 0.919,
+      "p_firewood_2024": 0.749,
+      "p_gas_2012": 0.076,
+      "p_gas_2024": 0.24
+    }
+  },
+  {
+    "region_id": "LK-72",
+    "region_name": "Polonnaruwa",
+    "region_ent_type": "district",
+    "values": {
+      "p_firewood_2012": 0.937,
+      "p_firewood_2024": 0.776,
+      "p_gas_2012": 0.057,
+      "p_gas_2024": 0.212
+    }
+  },
+  {
+    "region_id": "LK-81",
+    "region_name": "Badulla",
+    "region_ent_type": "district",
+    "values": {
+      "p_firewood_2012": 0.915,
+      "p_firewood_2024": 0.806,
+      "p_gas_2012": 0.077,
+      "p_gas_2024": 0.184
+    }
+  },
+  {
+    "region_id": "LK-82",
+    "region_name": "Monaragala",
+    "region_ent_type": "district",
+    "values": {
+      "p_firewood_2012": 0.962,
+      "p_firewood_2024": 0.836,
+      "p_gas_2012": 0.032,
+      "p_gas_2024": 0.153
+    }
+  },
+  {
+    "region_id": "LK-91",
+    "region_name": "Ratnapura",
+    "region_ent_type": "district",
+    "values": {
+      "p_firewood_2012": 0.927,
+      "p_firewood_2024": 0.781,
+      "p_gas_2012": 0.067,
+      "p_gas_2024": 0.208
+    }
+  },
+  {
+    "region_id": "LK-92",
+    "region_name": "Kegalle",
+    "region_ent_type": "district",
+    "values": {
+      "p_firewood_2012": 0.927,
+      "p_firewood_2024": 0.729,
+      "p_gas_2012": 0.068,
+      "p_gas_2024": 0.26
+    }
+  }
+]

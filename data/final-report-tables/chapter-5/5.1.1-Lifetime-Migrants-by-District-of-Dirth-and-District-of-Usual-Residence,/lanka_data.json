@@ -1,0 +1,281 @@
+{
+  "Person": {
+    "Time:2024": {
+      "District:LK-11": {
+        "MigrationStatus:local": {
+          "Count": "Int:1876288"
+        },
+        "MigrationStatus:foreign": {
+          "Count": "Int:7345"
+        },
+        "MigrationStatus:migrant": {
+          "Count": "Int:491236"
+        }
+      },
+      "District:LK-12": {
+        "MigrationStatus:local": {
+          "Count": "Int:1941334"
+        },
+        "MigrationStatus:foreign": {
+          "Count": "Int:3718"
+        },
+        "MigrationStatus:migrant": {
+          "Count": "Int:490861"
+        }
+      },
+      "District:LK-13": {
+        "MigrationStatus:local": {
+          "Count": "Int:1123880"
+        },
+        "MigrationStatus:foreign": {
+          "Count": "Int:951"
+        },
+        "MigrationStatus:migrant": {
+          "Count": "Int:180877"
+        }
+      },
+      "District:LK-21": {
+        "MigrationStatus:local": {
+          "Count": "Int:1302243"
+        },
+        "MigrationStatus:foreign": {
+          "Count": "Int:1591"
+        },
+        "MigrationStatus:migrant": {
+          "Count": "Int:157921"
+        }
+      },
+      "District:LK-22": {
+        "MigrationStatus:local": {
+          "Count": "Int:448233"
+        },
+        "MigrationStatus:foreign": {
+          "Count": "Int:354"
+        },
+        "MigrationStatus:migrant": {
+          "Count": "Int:78262"
+        }
+      },
+      "District:LK-23": {
+        "MigrationStatus:local": {
+          "Count": "Int:672433"
+        },
+        "MigrationStatus:foreign": {
+          "Count": "Int:248"
+        },
+        "MigrationStatus:migrant": {
+          "Count": "Int:52570"
+        }
+      },
+      "District:LK-31": {
+        "MigrationStatus:local": {
+          "Count": "Int:1008225"
+        },
+        "MigrationStatus:foreign": {
+          "Count": "Int:962"
+        },
+        "MigrationStatus:migrant": {
+          "Count": "Int:88038"
+        }
+      },
+      "District:LK-32": {
+        "MigrationStatus:local": {
+          "Count": "Int:754961"
+        },
+        "MigrationStatus:foreign": {
+          "Count": "Int:338"
+        },
+        "MigrationStatus:migrant": {
+          "Count": "Int:82457"
+        }
+      },
+      "District:LK-33": {
+        "MigrationStatus:local": {
+          "Count": "Int:606207"
+        },
+        "MigrationStatus:foreign": {
+          "Count": "Int:194"
+        },
+        "MigrationStatus:migrant": {
+          "Count": "Int:64982"
+        }
+      },
+      "District:LK-41": {
+        "MigrationStatus:local": {
+          "Count": "Int:567486"
+        },
+        "MigrationStatus:foreign": {
+          "Count": "Int:1109"
+        },
+        "MigrationStatus:migrant": {
+          "Count": "Int:26104"
+        }
+      },
+      "District:LK-42": {
+        "MigrationStatus:local": {
+          "Count": "Int:107846"
+        },
+        "MigrationStatus:foreign": {
+          "Count": "Int:539"
+        },
+        "MigrationStatus:migrant": {
+          "Count": "Int:15367"
+        }
+      },
+      "District:LK-43": {
+        "MigrationStatus:local": {
+          "Count": "Int:121244"
+        },
+        "MigrationStatus:foreign": {
+          "Count": "Int:1024"
+        },
+        "MigrationStatus:migrant": {
+          "Count": "Int:50012"
+        }
+      },
+      "District:LK-44": {
+        "MigrationStatus:local": {
+          "Count": "Int:93185"
+        },
+        "MigrationStatus:foreign": {
+          "Count": "Int:153"
+        },
+        "MigrationStatus:migrant": {
+          "Count": "Int:29279"
+        }
+      },
+      "District:LK-45": {
+        "MigrationStatus:local": {
+          "Count": "Int:103674"
+        },
+        "MigrationStatus:foreign": {
+          "Count": "Int:313"
+        },
+        "MigrationStatus:migrant": {
+          "Count": "Int:32723"
+        }
+      },
+      "District:LK-51": {
+        "MigrationStatus:local": {
+          "Count": "Int:576636"
+        },
+        "MigrationStatus:foreign": {
+          "Count": "Int:217"
+        },
+        "MigrationStatus:migrant": {
+          "Count": "Int:19036"
+        }
+      },
+      "District:LK-52": {
+        "MigrationStatus:local": {
+          "Count": "Int:672037"
+        },
+        "MigrationStatus:foreign": {
+          "Count": "Int:227"
+        },
+        "MigrationStatus:migrant": {
+          "Count": "Int:72267"
+        }
+      },
+      "District:LK-53": {
+        "MigrationStatus:local": {
+          "Count": "Int:408509"
+        },
+        "MigrationStatus:foreign": {
+          "Count": "Int:579"
+        },
+        "MigrationStatus:migrant": {
+          "Count": "Int:33634"
+        }
+      },
+      "District:LK-61": {
+        "MigrationStatus:local": {
+          "Count": "Int:1574556"
+        },
+        "MigrationStatus:foreign": {
+          "Count": "Int:1058"
+        },
+        "MigrationStatus:migrant": {
+          "Count": "Int:192409"
+        }
+      },
+      "District:LK-62": {
+        "MigrationStatus:local": {
+          "Count": "Int:717800"
+        },
+        "MigrationStatus:foreign": {
+          "Count": "Int:1237"
+        },
+        "MigrationStatus:migrant": {
+          "Count": "Int:99666"
+        }
+      },
+      "District:LK-71": {
+        "MigrationStatus:local": {
+          "Count": "Int:814641"
+        },
+        "MigrationStatus:foreign": {
+          "Count": "Int:394"
+        },
+        "MigrationStatus:migrant": {
+          "Count": "Int:144866"
+        }
+      },
+      "District:LK-72": {
+        "MigrationStatus:local": {
+          "Count": "Int:353730"
+        },
+        "MigrationStatus:foreign": {
+          "Count": "Int:199"
+        },
+        "MigrationStatus:migrant": {
+          "Count": "Int:93574"
+        }
+      },
+      "District:LK-81": {
+        "MigrationStatus:local": {
+          "Count": "Int:801537"
+        },
+        "MigrationStatus:foreign": {
+          "Count": "Int:265"
+        },
+        "MigrationStatus:migrant": {
+          "Count": "Int:70437"
+        }
+      },
+      "District:LK-82": {
+        "MigrationStatus:local": {
+          "Count": "Int:446067"
+        },
+        "MigrationStatus:foreign": {
+          "Count": "Int:73"
+        },
+        "MigrationStatus:migrant": {
+          "Count": "Int:81392"
+        }
+      },
+      "District:LK-91": {
+        "MigrationStatus:local": {
+          "Count": "Int:1055938"
+        },
+        "MigrationStatus:foreign": {
+          "Count": "Int:233"
+        },
+        "MigrationStatus:migrant": {
+          "Count": "Int:89081"
+        }
+      },
+      "District:LK-92": {
+        "MigrationStatus:local": {
+          "Count": "Int:774260"
+        },
+        "MigrationStatus:foreign": {
+          "Count": "Int:388"
+        },
+        "MigrationStatus:migrant": {
+          "Count": "Int:95773"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,506 @@
+{
+  "House": {
+    "Time:2024": {
+      "District:LK-11": {
+        "OwnershipStatus:owned_by_a_household_member": {
+          "Percent": "Percent:0.76"
+        },
+        "OwnershipStatus:rent_or_lease_government_owned": {
+          "Percent": "Percent:0.035"
+        },
+        "OwnershipStatus:rent_or_lease_privately_owned": {
+          "Percent": "Percent:0.166"
+        },
+        "OwnershipStatus:rent_or_lease_free_of_rent": {
+          "Percent": "Percent:0.024"
+        },
+        "OwnershipStatus:encroached": {
+          "Percent": "Percent:0.01"
+        },
+        "OwnershipStatus:other": {
+          "Percent": "Percent:0.005"
+        }
+      },
+      "District:LK-12": {
+        "OwnershipStatus:owned_by_a_household_member": {
+          "Percent": "Percent:0.816"
+        },
+        "OwnershipStatus:rent_or_lease_government_owned": {
+          "Percent": "Percent:0.022"
+        },
+        "OwnershipStatus:rent_or_lease_privately_owned": {
+          "Percent": "Percent:0.125"
+        },
+        "OwnershipStatus:rent_or_lease_free_of_rent": {
+          "Percent": "Percent:0.022"
+        },
+        "OwnershipStatus:encroached": {
+          "Percent": "Percent:0.008"
+        },
+        "OwnershipStatus:other": {
+          "Percent": "Percent:0.007"
+        }
+      },
+      "District:LK-13": {
+        "OwnershipStatus:owned_by_a_household_member": {
+          "Percent": "Percent:0.868"
+        },
+        "OwnershipStatus:rent_or_lease_government_owned": {
+          "Percent": "Percent:0.019"
+        },
+        "OwnershipStatus:rent_or_lease_privately_owned": {
+          "Percent": "Percent:0.059"
+        },
+        "OwnershipStatus:rent_or_lease_free_of_rent": {
+          "Percent": "Percent:0.041"
+        },
+        "OwnershipStatus:encroached": {
+          "Percent": "Percent:0.005"
+        },
+        "OwnershipStatus:other": {
+          "Percent": "Percent:0.008"
+        }
+      },
+      "District:LK-21": {
+        "OwnershipStatus:owned_by_a_household_member": {
+          "Percent": "Percent:0.846"
+        },
+        "OwnershipStatus:rent_or_lease_government_owned": {
+          "Percent": "Percent:0.03"
+        },
+        "OwnershipStatus:rent_or_lease_privately_owned": {
+          "Percent": "Percent:0.053"
+        },
+        "OwnershipStatus:rent_or_lease_free_of_rent": {
+          "Percent": "Percent:0.05"
+        },
+        "OwnershipStatus:encroached": {
+          "Percent": "Percent:0.007"
+        },
+        "OwnershipStatus:other": {
+          "Percent": "Percent:0.014"
+        }
+      },
+      "District:LK-22": {
+        "OwnershipStatus:owned_by_a_household_member": {
+          "Percent": "Percent:0.867"
+        },
+        "OwnershipStatus:rent_or_lease_government_owned": {
+          "Percent": "Percent:0.017"
+        },
+        "OwnershipStatus:rent_or_lease_privately_owned": {
+          "Percent": "Percent:0.038"
+        },
+        "OwnershipStatus:rent_or_lease_free_of_rent": {
+          "Percent": "Percent:0.059"
+        },
+        "OwnershipStatus:encroached": {
+          "Percent": "Percent:0.007"
+        },
+        "OwnershipStatus:other": {
+          "Percent": "Percent:0.012"
+        }
+      },
+      "District:LK-23": {
+        "OwnershipStatus:owned_by_a_household_member": {
+          "Percent": "Percent:0.522"
+        },
+        "OwnershipStatus:rent_or_lease_government_owned": {
+          "Percent": "Percent:0.021"
+        },
+        "OwnershipStatus:rent_or_lease_privately_owned": {
+          "Percent": "Percent:0.044"
+        },
+        "OwnershipStatus:rent_or_lease_free_of_rent": {
+          "Percent": "Percent:0.398"
+        },
+        "OwnershipStatus:encroached": {
+          "Percent": "Percent:0.007"
+        },
+        "OwnershipStatus:other": {
+          "Percent": "Percent:0.008"
+        }
+      },
+      "District:LK-31": {
+        "OwnershipStatus:owned_by_a_household_member": {
+          "Percent": "Percent:0.895"
+        },
+        "OwnershipStatus:rent_or_lease_government_owned": {
+          "Percent": "Percent:0.014"
+        },
+        "OwnershipStatus:rent_or_lease_privately_owned": {
+          "Percent": "Percent:0.041"
+        },
+        "OwnershipStatus:rent_or_lease_free_of_rent": {
+          "Percent": "Percent:0.032"
+        },
+        "OwnershipStatus:encroached": {
+          "Percent": "Percent:0.005"
+        },
+        "OwnershipStatus:other": {
+          "Percent": "Percent:0.013"
+        }
+      },
+      "District:LK-32": {
+        "OwnershipStatus:owned_by_a_household_member": {
+          "Percent": "Percent:0.888"
+        },
+        "OwnershipStatus:rent_or_lease_government_owned": {
+          "Percent": "Percent:0.015"
+        },
+        "OwnershipStatus:rent_or_lease_privately_owned": {
+          "Percent": "Percent:0.037"
+        },
+        "OwnershipStatus:rent_or_lease_free_of_rent": {
+          "Percent": "Percent:0.04"
+        },
+        "OwnershipStatus:encroached": {
+          "Percent": "Percent:0.004"
+        },
+        "OwnershipStatus:other": {
+          "Percent": "Percent:0.016"
+        }
+      },
+      "District:LK-33": {
+        "OwnershipStatus:owned_by_a_household_member": {
+          "Percent": "Percent:0.933"
+        },
+        "OwnershipStatus:rent_or_lease_government_owned": {
+          "Percent": "Percent:0.013"
+        },
+        "OwnershipStatus:rent_or_lease_privately_owned": {
+          "Percent": "Percent:0.022"
+        },
+        "OwnershipStatus:rent_or_lease_free_of_rent": {
+          "Percent": "Percent:0.015"
+        },
+        "OwnershipStatus:encroached": {
+          "Percent": "Percent:0.008"
+        },
+        "OwnershipStatus:other": {
+          "Percent": "Percent:0.009"
+        }
+      },
+      "District:LK-41": {
+        "OwnershipStatus:owned_by_a_household_member": {
+          "Percent": "Percent:0.744"
+        },
+        "OwnershipStatus:rent_or_lease_government_owned": {
+          "Percent": "Percent:0.021"
+        },
+        "OwnershipStatus:rent_or_lease_privately_owned": {
+          "Percent": "Percent:0.087"
+        },
+        "OwnershipStatus:rent_or_lease_free_of_rent": {
+          "Percent": "Percent:0.138"
+        },
+        "OwnershipStatus:encroached": {
+          "Percent": "Percent:0.003"
+        },
+        "OwnershipStatus:other": {
+          "Percent": "Percent:0.007"
+        }
+      },
+      "District:LK-42": {
+        "OwnershipStatus:owned_by_a_household_member": {
+          "Percent": "Percent:0.87"
+        },
+        "OwnershipStatus:rent_or_lease_government_owned": {
+          "Percent": "Percent:0.016"
+        },
+        "OwnershipStatus:rent_or_lease_privately_owned": {
+          "Percent": "Percent:0.047"
+        },
+        "OwnershipStatus:rent_or_lease_free_of_rent": {
+          "Percent": "Percent:0.061"
+        },
+        "OwnershipStatus:encroached": {
+          "Percent": "Percent:0.001"
+        },
+        "OwnershipStatus:other": {
+          "Percent": "Percent:0.005"
+        }
+      },
+      "District:LK-43": {
+        "OwnershipStatus:owned_by_a_household_member": {
+          "Percent": "Percent:0.835"
+        },
+        "OwnershipStatus:rent_or_lease_government_owned": {
+          "Percent": "Percent:0.025"
+        },
+        "OwnershipStatus:rent_or_lease_privately_owned": {
+          "Percent": "Percent:0.072"
+        },
+        "OwnershipStatus:rent_or_lease_free_of_rent": {
+          "Percent": "Percent:0.06"
+        },
+        "OwnershipStatus:encroached": {
+          "Percent": "Percent:0.004"
+        },
+        "OwnershipStatus:other": {
+          "Percent": "Percent:0.004"
+        }
+      },
+      "District:LK-44": {
+        "OwnershipStatus:owned_by_a_household_member": {
+          "Percent": "Percent:0.894"
+        },
+        "OwnershipStatus:rent_or_lease_government_owned": {
+          "Percent": "Percent:0.015"
+        },
+        "OwnershipStatus:rent_or_lease_privately_owned": {
+          "Percent": "Percent:0.03"
+        },
+        "OwnershipStatus:rent_or_lease_free_of_rent": {
+          "Percent": "Percent:0.054"
+        },
+        "OwnershipStatus:encroached": {
+          "Percent": "Percent:0.004"
+        },
+        "OwnershipStatus:other": {
+          "Percent": "Percent:0.003"
+        }
+      },
+      "District:LK-45": {
+        "OwnershipStatus:owned_by_a_household_member": {
+          "Percent": "Percent:0.89"
+        },
+        "OwnershipStatus:rent_or_lease_government_owned": {
+          "Percent": "Percent:0.012"
+        },
+        "OwnershipStatus:rent_or_lease_privately_owned": {
+          "Percent": "Percent:0.036"
+        },
+        "OwnershipStatus:rent_or_lease_free_of_rent": {
+          "Percent": "Percent:0.054"
+        },
+        "OwnershipStatus:encroached": {
+          "Percent": "Percent:0.003"
+        },
+        "OwnershipStatus:other": {
+          "Percent": "Percent:0.005"
+        }
+      },
+      "District:LK-51": {
+        "OwnershipStatus:owned_by_a_household_member": {
+          "Percent": "Percent:0.877"
+        },
+        "OwnershipStatus:rent_or_lease_government_owned": {
+          "Percent": "Percent:0.015"
+        },
+        "OwnershipStatus:rent_or_lease_privately_owned": {
+          "Percent": "Percent:0.035"
+        },
+        "OwnershipStatus:rent_or_lease_free_of_rent": {
+          "Percent": "Percent:0.066"
+        },
+        "OwnershipStatus:encroached": {
+          "Percent": "Percent:0.001"
+        },
+        "OwnershipStatus:other": {
+          "Percent": "Percent:0.006"
+        }
+      },
+      "District:LK-52": {
+        "OwnershipStatus:owned_by_a_household_member": {
+          "Percent": "Percent:0.909"
+        },
+        "OwnershipStatus:rent_or_lease_government_owned": {
+          "Percent": "Percent:0.012"
+        },
+        "OwnershipStatus:rent_or_lease_privately_owned": {
+          "Percent": "Percent:0.027"
+        },
+        "OwnershipStatus:rent_or_lease_free_of_rent": {
+          "Percent": "Percent:0.043"
+        },
+        "OwnershipStatus:encroached": {
+          "Percent": "Percent:0.006"
+        },
+        "OwnershipStatus:other": {
+          "Percent": "Percent:0.003"
+        }
+      },
+      "District:LK-53": {
+        "OwnershipStatus:owned_by_a_household_member": {
+          "Percent": "Percent:0.887"
+        },
+        "OwnershipStatus:rent_or_lease_government_owned": {
+          "Percent": "Percent:0.022"
+        },
+        "OwnershipStatus:rent_or_lease_privately_owned": {
+          "Percent": "Percent:0.037"
+        },
+        "OwnershipStatus:rent_or_lease_free_of_rent": {
+          "Percent": "Percent:0.045"
+        },
+        "OwnershipStatus:encroached": {
+          "Percent": "Percent:0.004"
+        },
+        "OwnershipStatus:other": {
+          "Percent": "Percent:0.005"
+        }
+      },
+      "District:LK-61": {
+        "OwnershipStatus:owned_by_a_household_member": {
+          "Percent": "Percent:0.912"
+        },
+        "OwnershipStatus:rent_or_lease_government_owned": {
+          "Percent": "Percent:0.011"
+        },
+        "OwnershipStatus:rent_or_lease_privately_owned": {
+          "Percent": "Percent:0.031"
+        },
+        "OwnershipStatus:rent_or_lease_free_of_rent": {
+          "Percent": "Percent:0.027"
+        },
+        "OwnershipStatus:encroached": {
+          "Percent": "Percent:0.006"
+        },
+        "OwnershipStatus:other": {
+          "Percent": "Percent:0.013"
+        }
+      },
+      "District:LK-62": {
+        "OwnershipStatus:owned_by_a_household_member": {
+          "Percent": "Percent:0.872"
+        },
+        "OwnershipStatus:rent_or_lease_government_owned": {
+          "Percent": "Percent:0.014"
+        },
+        "OwnershipStatus:rent_or_lease_privately_owned": {
+          "Percent": "Percent:0.052"
+        },
+        "OwnershipStatus:rent_or_lease_free_of_rent": {
+          "Percent": "Percent:0.046"
+        },
+        "OwnershipStatus:encroached": {
+          "Percent": "Percent:0.007"
+        },
+        "OwnershipStatus:other": {
+          "Percent": "Percent:0.009"
+        }
+      },
+      "District:LK-71": {
+        "OwnershipStatus:owned_by_a_household_member": {
+          "Percent": "Percent:0.915"
+        },
+        "OwnershipStatus:rent_or_lease_government_owned": {
+          "Percent": "Percent:0.019"
+        },
+        "OwnershipStatus:rent_or_lease_privately_owned": {
+          "Percent": "Percent:0.025"
+        },
+        "OwnershipStatus:rent_or_lease_free_of_rent": {
+          "Percent": "Percent:0.025"
+        },
+        "OwnershipStatus:encroached": {
+          "Percent": "Percent:0.009"
+        },
+        "OwnershipStatus:other": {
+          "Percent": "Percent:0.007"
+        }
+      },
+      "District:LK-72": {
+        "OwnershipStatus:owned_by_a_household_member": {
+          "Percent": "Percent:0.933"
+        },
+        "OwnershipStatus:rent_or_lease_government_owned": {
+          "Percent": "Percent:0.016"
+        },
+        "OwnershipStatus:rent_or_lease_privately_owned": {
+          "Percent": "Percent:0.019"
+        },
+        "OwnershipStatus:rent_or_lease_free_of_rent": {
+          "Percent": "Percent:0.012"
+        },
+        "OwnershipStatus:encroached": {
+          "Percent": "Percent:0.013"
+        },
+        "OwnershipStatus:other": {
+          "Percent": "Percent:0.007"
+        }
+      },
+      "District:LK-81": {
+        "OwnershipStatus:owned_by_a_household_member": {
+          "Percent": "Percent:0.805"
+        },
+        "OwnershipStatus:rent_or_lease_government_owned": {
+          "Percent": "Percent:0.024"
+        },
+        "OwnershipStatus:rent_or_lease_privately_owned": {
+          "Percent": "Percent:0.039"
+        },
+        "OwnershipStatus:rent_or_lease_free_of_rent": {
+          "Percent": "Percent:0.108"
+        },
+        "OwnershipStatus:encroached": {
+          "Percent": "Percent:0.01"
+        },
+        "OwnershipStatus:other": {
+          "Percent": "Percent:0.014"
+        }
+      },
+      "District:LK-82": {
+        "OwnershipStatus:owned_by_a_household_member": {
+          "Percent": "Percent:0.915"
+        },
+        "OwnershipStatus:rent_or_lease_government_owned": {
+          "Percent": "Percent:0.014"
+        },
+        "OwnershipStatus:rent_or_lease_privately_owned": {
+          "Percent": "Percent:0.019"
+        },
+        "OwnershipStatus:rent_or_lease_free_of_rent": {
+          "Percent": "Percent:0.027"
+        },
+        "OwnershipStatus:encroached": {
+          "Percent": "Percent:0.016"
+        },
+        "OwnershipStatus:other": {
+          "Percent": "Percent:0.009"
+        }
+      },
+      "District:LK-91": {
+        "OwnershipStatus:owned_by_a_household_member": {
+          "Percent": "Percent:0.855"
+        },
+        "OwnershipStatus:rent_or_lease_government_owned": {
+          "Percent": "Percent:0.023"
+        },
+        "OwnershipStatus:rent_or_lease_privately_owned": {
+          "Percent": "Percent:0.04"
+        },
+        "OwnershipStatus:rent_or_lease_free_of_rent": {
+          "Percent": "Percent:0.057"
+        },
+        "OwnershipStatus:encroached": {
+          "Percent": "Percent:0.013"
+        },
+        "OwnershipStatus:other": {
+          "Percent": "Percent:0.012"
+        }
+      },
+      "District:LK-92": {
+        "OwnershipStatus:owned_by_a_household_member": {
+          "Percent": "Percent:0.869"
+        },
+        "OwnershipStatus:rent_or_lease_government_owned": {
+          "Percent": "Percent:0.021"
+        },
+        "OwnershipStatus:rent_or_lease_privately_owned": {
+          "Percent": "Percent:0.039"
+        },
+        "OwnershipStatus:rent_or_lease_free_of_rent": {
+          "Percent": "Percent:0.051"
+        },
+        "OwnershipStatus:encroached": {
+          "Percent": "Percent:0.003"
+        },
+        "OwnershipStatus:other": {
+          "Percent": "Percent:0.017"
+        }
+      }
+    }
+  }
+}
