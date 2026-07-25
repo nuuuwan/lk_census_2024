@@ -1,59 +1,27 @@
 {
   "House": {
     "Time:2024": {
-      "Province:LK-1": {
-        "HouseholdStructure:single_house_single_floor": {
-          "Count": "Int:1177294"
+      "PD:EC-06A": {
+        "HouseholdStructure:single_house_single_storeyed": {
+          "Count": "Int:54740"
         },
-        "HouseholdStructure:single_house_double_floor": {
-          "Count": "Int:360332"
+        "HouseholdStructure:single_house_two_storeyed": {
+          "Count": "Int:7136"
         },
-        "HouseholdStructure:single_house_more_than_2_floors": {
-          "Count": "Int:32722"
-        },
-        "HouseholdStructure:attached_house_1st_floor": {
-          "Count": "Int:44627"
-        },
-        "HouseholdStructure:attached_house_2nd_floor": {
-          "Count": "Int:32464"
-        },
-        "HouseholdStructure:attached_house_from_3_to_4_floors": {
-          "Count": "Int:18775"
-        },
-        "HouseholdStructure:attached_house_from_5_to_10_floors": {
-          "Count": "Int:12272"
-        },
-        "HouseholdStructure:attached_house_from_11_to_19_floors": {
-          "Count": "Int:5994"
-        },
-        "HouseholdStructure:attached_house_from_20_floors_or_more": {
-          "Count": "Int:1756"
-        },
-        "HouseholdStructure:other": {
-          "Count": "Int:270"
-        }
-      },
-      "Province:LK-6": {
-        "HouseholdStructure:single_house_single_floor": {
-          "Count": "Int:681543"
-        },
-        "HouseholdStructure:single_house_double_floor": {
-          "Count": "Int:52350"
-        },
-        "HouseholdStructure:single_house_more_than_2_floors": {
-          "Count": "Int:1295"
+        "HouseholdStructure:single_house_more_than_two_storeyed": {
+          "Count": "Int:1633"
         },
         "HouseholdStructure:attached_house_1st_floor": {
-          "Count": "Int:2143"
+          "Count": "Int:39969"
         },
         "HouseholdStructure:attached_house_2nd_floor": {
-          "Count": "Int:785"
+          "Count": "Int:3279"
         },
         "HouseholdStructure:attached_house_from_3_to_4_floors": {
-          "Count": "Int:139"
+          "Count": "Int:2284"
         },
         "HouseholdStructure:attached_house_from_5_to_10_floors": {
-          "Count": "Int:38"
+          "Count": "Int:6"
         },
         "HouseholdStructure:attached_house_from_11_to_19_floors": {
           "Count": "Int:0"
@@ -62,91 +30,91 @@
           "Count": "Int:0"
         },
         "HouseholdStructure:other": {
-          "Count": "Int:110"
+          "Count": "Int:35"
         }
       },
-      "Province:LK-2": {
-        "HouseholdStructure:single_house_single_floor": {
-          "Count": "Int:539831"
+      "PD:EC-01J": {
+        "HouseholdStructure:single_house_single_storeyed": {
+          "Count": "Int:47189"
         },
-        "HouseholdStructure:single_house_double_floor": {
-          "Count": "Int:95235"
+        "HouseholdStructure:single_house_two_storeyed": {
+          "Count": "Int:25773"
         },
-        "HouseholdStructure:single_house_more_than_2_floors": {
-          "Count": "Int:11754"
+        "HouseholdStructure:single_house_more_than_two_storeyed": {
+          "Count": "Int:2334"
         },
         "HouseholdStructure:attached_house_1st_floor": {
-          "Count": "Int:70508"
+          "Count": "Int:1963"
         },
         "HouseholdStructure:attached_house_2nd_floor": {
-          "Count": "Int:9149"
+          "Count": "Int:1474"
         },
         "HouseholdStructure:attached_house_from_3_to_4_floors": {
-          "Count": "Int:3866"
+          "Count": "Int:461"
         },
         "HouseholdStructure:attached_house_from_5_to_10_floors": {
-          "Count": "Int:469"
+          "Count": "Int:217"
         },
         "HouseholdStructure:attached_house_from_11_to_19_floors": {
-          "Count": "Int:23"
+          "Count": "Int:125"
         },
         "HouseholdStructure:attached_house_from_20_floors_or_more": {
-          "Count": "Int:0"
+          "Count": "Int:203"
         },
         "HouseholdStructure:other": {
-          "Count": "Int:90"
+          "Count": "Int:3"
         }
       },
-      "Province:LK-3": {
-        "HouseholdStructure:single_house_single_floor": {
-          "Count": "Int:615514"
+      "PD:EC-01L": {
+        "HouseholdStructure:single_house_single_storeyed": {
+          "Count": "Int:55581"
         },
-        "HouseholdStructure:single_house_double_floor": {
-          "Count": "Int:91046"
+        "HouseholdStructure:single_house_two_storeyed": {
+          "Count": "Int:19739"
         },
-        "HouseholdStructure:single_house_more_than_2_floors": {
-          "Count": "Int:5317"
+        "HouseholdStructure:single_house_more_than_two_storeyed": {
+          "Count": "Int:1089"
         },
         "HouseholdStructure:attached_house_1st_floor": {
-          "Count": "Int:6959"
+          "Count": "Int:1327"
         },
         "HouseholdStructure:attached_house_2nd_floor": {
-          "Count": "Int:3271"
+          "Count": "Int:1342"
         },
         "HouseholdStructure:attached_house_from_3_to_4_floors": {
-          "Count": "Int:748"
+          "Count": "Int:611"
         },
         "HouseholdStructure:attached_house_from_5_to_10_floors": {
-          "Count": "Int:60"
-        },
-        "HouseholdStructure:attached_house_from_11_to_19_floors": {
           "Count": "Int:14"
         },
+        "HouseholdStructure:attached_house_from_11_to_19_floors": {
+          "Count": "Int:2"
+        },
         "HouseholdStructure:attached_house_from_20_floors_or_more": {
-          "Count": "Int:0"
+          "Count": "Int:3"
         },
         "HouseholdStructure:other": {
-          "Count": "Int:42"
+          "Count": "Int:29"
         }
       },
-      "Province:LK-9": {
-        "HouseholdStructure:single_house_single_floor": {
-          "Count": "Int:487757"
+      "PD:EC-12B": {
+        "HouseholdStructure:single_house_single_storeyed": {
+          "Count": "Int:71224"
         },
-        "HouseholdStructure:single_house_double_floor": {
-          "Count": "Int:56665"
+        "HouseholdStructure:single_house_two_storeyed": {
+          "Count": "Int:7647"
         },
-        "HouseholdStructure:single_house_more_than_2_floors": {
-          "Count": "Int:3513"
+        "HouseholdStructure:single_house_more_than_two_storeyed": {
+          "Count": "Int:351"
         },
         "HouseholdStructure:attached_house_1st_floor": {
-          "Count": "Int:17071"
+          "Count": "Int:167"
         },
         "HouseholdStructure:attached_house_2nd_floor": {
-          "Count": "Int:1485"
+          "Count": "Int:91"
         },
         "HouseholdStructure:attached_house_from_3_to_4_floors": {
-          "Count": "Int:347"
+          "Count": "Int:4"
         },
         "HouseholdStructure:attached_house_from_5_to_10_floors": {
           "Count": "Int:0"
@@ -158,27 +126,59 @@
           "Count": "Int:0"
         },
         "HouseholdStructure:other": {
-          "Count": "Int:42"
+          "Count": "Int:64"
         }
       },
-      "Province:LK-5": {
-        "HouseholdStructure:single_house_single_floor": {
-          "Count": "Int:452172"
+      "PD:EC-01N": {
+        "HouseholdStructure:single_house_single_storeyed": {
+          "Count": "Int:44894"
         },
-        "HouseholdStructure:single_house_double_floor": {
-          "Count": "Int:32702"
+        "HouseholdStructure:single_house_two_storeyed": {
+          "Count": "Int:22310"
         },
-        "HouseholdStructure:single_house_more_than_2_floors": {
-          "Count": "Int:1365"
+        "HouseholdStructure:single_house_more_than_two_storeyed": {
+          "Count": "Int:1863"
         },
         "HouseholdStructure:attached_house_1st_floor": {
-          "Count": "Int:1432"
+          "Count": "Int:3028"
         },
         "HouseholdStructure:attached_house_2nd_floor": {
-          "Count": "Int:774"
+          "Count": "Int:2722"
         },
         "HouseholdStructure:attached_house_from_3_to_4_floors": {
-          "Count": "Int:491"
+          "Count": "Int:460"
+        },
+        "HouseholdStructure:attached_house_from_5_to_10_floors": {
+          "Count": "Int:72"
+        },
+        "HouseholdStructure:attached_house_from_11_to_19_floors": {
+          "Count": "Int:2"
+        },
+        "HouseholdStructure:attached_house_from_20_floors_or_more": {
+          "Count": "Int:10"
+        },
+        "HouseholdStructure:other": {
+          "Count": "Int:7"
+        }
+      },
+      "PD:EC-02C": {
+        "HouseholdStructure:single_house_single_storeyed": {
+          "Count": "Int:57804"
+        },
+        "HouseholdStructure:single_house_two_storeyed": {
+          "Count": "Int:10850"
+        },
+        "HouseholdStructure:single_house_more_than_two_storeyed": {
+          "Count": "Int:435"
+        },
+        "HouseholdStructure:attached_house_1st_floor": {
+          "Count": "Int:4100"
+        },
+        "HouseholdStructure:attached_house_2nd_floor": {
+          "Count": "Int:1421"
+        },
+        "HouseholdStructure:attached_house_from_3_to_4_floors": {
+          "Count": "Int:249"
         },
         "HouseholdStructure:attached_house_from_5_to_10_floors": {
           "Count": "Int:8"
@@ -190,27 +190,251 @@
           "Count": "Int:0"
         },
         "HouseholdStructure:other": {
-          "Count": "Int:418"
+          "Count": "Int:3"
         }
       },
-      "Province:LK-7": {
-        "HouseholdStructure:single_house_single_floor": {
-          "Count": "Int:373745"
+      "PD:EC-09D": {
+        "HouseholdStructure:single_house_single_storeyed": {
+          "Count": "Int:63877"
         },
-        "HouseholdStructure:single_house_double_floor": {
-          "Count": "Int:22469"
+        "HouseholdStructure:single_house_two_storeyed": {
+          "Count": "Int:4810"
         },
-        "HouseholdStructure:single_house_more_than_2_floors": {
-          "Count": "Int:559"
+        "HouseholdStructure:single_house_more_than_two_storeyed": {
+          "Count": "Int:182"
         },
         "HouseholdStructure:attached_house_1st_floor": {
-          "Count": "Int:581"
+          "Count": "Int:63"
         },
         "HouseholdStructure:attached_house_2nd_floor": {
-          "Count": "Int:393"
+          "Count": "Int:59"
         },
         "HouseholdStructure:attached_house_from_3_to_4_floors": {
+          "Count": "Int:12"
+        },
+        "HouseholdStructure:attached_house_from_5_to_10_floors": {
+          "Count": "Int:0"
+        },
+        "HouseholdStructure:attached_house_from_11_to_19_floors": {
+          "Count": "Int:0"
+        },
+        "HouseholdStructure:attached_house_from_20_floors_or_more": {
+          "Count": "Int:0"
+        },
+        "HouseholdStructure:other": {
+          "Count": "Int:2"
+        }
+      },
+      "PD:EC-13A": {
+        "HouseholdStructure:single_house_single_storeyed": {
+          "Count": "Int:65111"
+        },
+        "HouseholdStructure:single_house_two_storeyed": {
+          "Count": "Int:2879"
+        },
+        "HouseholdStructure:single_house_more_than_two_storeyed": {
+          "Count": "Int:99"
+        },
+        "HouseholdStructure:attached_house_1st_floor": {
+          "Count": "Int:143"
+        },
+        "HouseholdStructure:attached_house_2nd_floor": {
+          "Count": "Int:33"
+        },
+        "HouseholdStructure:attached_house_from_3_to_4_floors": {
+          "Count": "Int:1"
+        },
+        "HouseholdStructure:attached_house_from_5_to_10_floors": {
+          "Count": "Int:0"
+        },
+        "HouseholdStructure:attached_house_from_11_to_19_floors": {
+          "Count": "Int:0"
+        },
+        "HouseholdStructure:attached_house_from_20_floors_or_more": {
+          "Count": "Int:0"
+        },
+        "HouseholdStructure:other": {
+          "Count": "Int:4"
+        }
+      },
+      "PD:EC-13D": {
+        "HouseholdStructure:single_house_single_storeyed": {
+          "Count": "Int:63249"
+        },
+        "HouseholdStructure:single_house_two_storeyed": {
+          "Count": "Int:3994"
+        },
+        "HouseholdStructure:single_house_more_than_two_storeyed": {
+          "Count": "Int:99"
+        },
+        "HouseholdStructure:attached_house_1st_floor": {
+          "Count": "Int:189"
+        },
+        "HouseholdStructure:attached_house_2nd_floor": {
+          "Count": "Int:28"
+        },
+        "HouseholdStructure:attached_house_from_3_to_4_floors": {
+          "Count": "Int:2"
+        },
+        "HouseholdStructure:attached_house_from_5_to_10_floors": {
+          "Count": "Int:0"
+        },
+        "HouseholdStructure:attached_house_from_11_to_19_floors": {
+          "Count": "Int:0"
+        },
+        "HouseholdStructure:attached_house_from_20_floors_or_more": {
+          "Count": "Int:0"
+        },
+        "HouseholdStructure:other": {
+          "Count": "Int:72"
+        }
+      },
+      "PD:EC-20C": {
+        "HouseholdStructure:single_house_single_storeyed": {
+          "Count": "Int:63969"
+        },
+        "HouseholdStructure:single_house_two_storeyed": {
+          "Count": "Int:3331"
+        },
+        "HouseholdStructure:single_house_more_than_two_storeyed": {
+          "Count": "Int:98"
+        },
+        "HouseholdStructure:attached_house_1st_floor": {
+          "Count": "Int:88"
+        },
+        "HouseholdStructure:attached_house_2nd_floor": {
+          "Count": "Int:55"
+        },
+        "HouseholdStructure:attached_house_from_3_to_4_floors": {
+          "Count": "Int:18"
+        },
+        "HouseholdStructure:attached_house_from_5_to_10_floors": {
+          "Count": "Int:0"
+        },
+        "HouseholdStructure:attached_house_from_11_to_19_floors": {
+          "Count": "Int:0"
+        },
+        "HouseholdStructure:attached_house_from_20_floors_or_more": {
+          "Count": "Int:0"
+        },
+        "HouseholdStructure:other": {
+          "Count": "Int:8"
+        }
+      },
+      "PD:EC-16A": {
+        "HouseholdStructure:single_house_single_storeyed": {
+          "Count": "Int:62509"
+        },
+        "HouseholdStructure:single_house_two_storeyed": {
+          "Count": "Int:2575"
+        },
+        "HouseholdStructure:single_house_more_than_two_storeyed": {
+          "Count": "Int:53"
+        },
+        "HouseholdStructure:attached_house_1st_floor": {
+          "Count": "Int:554"
+        },
+        "HouseholdStructure:attached_house_2nd_floor": {
+          "Count": "Int:114"
+        },
+        "HouseholdStructure:attached_house_from_3_to_4_floors": {
+          "Count": "Int:3"
+        },
+        "HouseholdStructure:attached_house_from_5_to_10_floors": {
+          "Count": "Int:0"
+        },
+        "HouseholdStructure:attached_house_from_11_to_19_floors": {
+          "Count": "Int:0"
+        },
+        "HouseholdStructure:attached_house_from_20_floors_or_more": {
+          "Count": "Int:0"
+        },
+        "HouseholdStructure:other": {
+          "Count": "Int:26"
+        }
+      },
+      "PD:EC-02J": {
+        "HouseholdStructure:single_house_single_storeyed": {
+          "Count": "Int:45637"
+        },
+        "HouseholdStructure:single_house_two_storeyed": {
+          "Count": "Int:13798"
+        },
+        "HouseholdStructure:single_house_more_than_two_storeyed": {
+          "Count": "Int:775"
+        },
+        "HouseholdStructure:attached_house_1st_floor": {
+          "Count": "Int:515"
+        },
+        "HouseholdStructure:attached_house_2nd_floor": {
+          "Count": "Int:519"
+        },
+        "HouseholdStructure:attached_house_from_3_to_4_floors": {
+          "Count": "Int:119"
+        },
+        "HouseholdStructure:attached_house_from_5_to_10_floors": {
+          "Count": "Int:9"
+        },
+        "HouseholdStructure:attached_house_from_11_to_19_floors": {
+          "Count": "Int:0"
+        },
+        "HouseholdStructure:attached_house_from_20_floors_or_more": {
+          "Count": "Int:0"
+        },
+        "HouseholdStructure:other": {
+          "Count": "Int:4"
+        }
+      },
+      "PD:EC-21H": {
+        "HouseholdStructure:single_house_single_storeyed": {
+          "Count": "Int:55010"
+        },
+        "HouseholdStructure:single_house_two_storeyed": {
+          "Count": "Int:4475"
+        },
+        "HouseholdStructure:single_house_more_than_two_storeyed": {
+          "Count": "Int:167"
+        },
+        "HouseholdStructure:attached_house_1st_floor": {
+          "Count": "Int:802"
+        },
+        "HouseholdStructure:attached_house_2nd_floor": {
+          "Count": "Int:65"
+        },
+        "HouseholdStructure:attached_house_from_3_to_4_floors": {
+          "Count": "Int:6"
+        },
+        "HouseholdStructure:attached_house_from_5_to_10_floors": {
+          "Count": "Int:0"
+        },
+        "HouseholdStructure:attached_house_from_11_to_19_floors": {
+          "Count": "Int:0"
+        },
+        "HouseholdStructure:attached_house_from_20_floors_or_more": {
+          "Count": "Int:0"
+        },
+        "HouseholdStructure:other": {
+          "Count": "Int:0"
+        }
+      },
+      "PD:EC-18C": {
+        "HouseholdStructure:single_house_single_storeyed": {
+          "Count": "Int:56813"
+        },
+        "HouseholdStructure:single_house_two_storeyed": {
+          "Count": "Int:3251"
+        },
+        "HouseholdStructure:single_house_more_than_two_storeyed": {
+          "Count": "Int:122"
+        },
+        "HouseholdStructure:attached_house_1st_floor": {
           "Count": "Int:117"
+        },
+        "HouseholdStructure:attached_house_2nd_floor": {
+          "Count": "Int:38"
+        },
+        "HouseholdStructure:attached_house_from_3_to_4_floors": {
+          "Count": "Int:73"
         },
         "HouseholdStructure:attached_house_from_5_to_10_floors": {
           "Count": "Int:1"
@@ -222,30 +446,30 @@
           "Count": "Int:0"
         },
         "HouseholdStructure:other": {
-          "Count": "Int:25"
+          "Count": "Int:5"
         }
       },
-      "Province:LK-8": {
-        "HouseholdStructure:single_house_single_floor": {
-          "Count": "Int:337782"
+      "PD:EC-02L": {
+        "HouseholdStructure:single_house_single_storeyed": {
+          "Count": "Int:40924"
         },
-        "HouseholdStructure:single_house_double_floor": {
-          "Count": "Int:27180"
+        "HouseholdStructure:single_house_two_storeyed": {
+          "Count": "Int:13971"
         },
-        "HouseholdStructure:single_house_more_than_2_floors": {
-          "Count": "Int:2355"
+        "HouseholdStructure:single_house_more_than_two_storeyed": {
+          "Count": "Int:919"
         },
         "HouseholdStructure:attached_house_1st_floor": {
-          "Count": "Int:20632"
+          "Count": "Int:1627"
         },
         "HouseholdStructure:attached_house_2nd_floor": {
-          "Count": "Int:1384"
+          "Count": "Int:1019"
         },
         "HouseholdStructure:attached_house_from_3_to_4_floors": {
-          "Count": "Int:781"
+          "Count": "Int:213"
         },
         "HouseholdStructure:attached_house_from_5_to_10_floors": {
-          "Count": "Int:0"
+          "Count": "Int:8"
         },
         "HouseholdStructure:attached_house_from_11_to_19_floors": {
           "Count": "Int:0"
@@ -254,31 +478,159 @@
           "Count": "Int:0"
         },
         "HouseholdStructure:other": {
-          "Count": "Int:31"
+          "Count": "Int:4"
         }
       },
-      "Province:LK-4": {
-        "HouseholdStructure:single_house_single_floor": {
-          "Count": "Int:292371"
+      "PD:EC-02H": {
+        "HouseholdStructure:single_house_single_storeyed": {
+          "Count": "Int:42694"
         },
-        "HouseholdStructure:single_house_double_floor": {
-          "Count": "Int:13396"
+        "HouseholdStructure:single_house_two_storeyed": {
+          "Count": "Int:12933"
         },
-        "HouseholdStructure:single_house_more_than_2_floors": {
-          "Count": "Int:604"
+        "HouseholdStructure:single_house_more_than_two_storeyed": {
+          "Count": "Int:580"
         },
         "HouseholdStructure:attached_house_1st_floor": {
-          "Count": "Int:466"
+          "Count": "Int:797"
         },
         "HouseholdStructure:attached_house_2nd_floor": {
-          "Count": "Int:325"
+          "Count": "Int:336"
         },
         "HouseholdStructure:attached_house_from_3_to_4_floors": {
-          "Count": "Int:109"
+          "Count": "Int:123"
         },
         "HouseholdStructure:attached_house_from_5_to_10_floors": {
+          "Count": "Int:102"
+        },
+        "HouseholdStructure:attached_house_from_11_to_19_floors": {
+          "Count": "Int:0"
+        },
+        "HouseholdStructure:attached_house_from_20_floors_or_more": {
+          "Count": "Int:0"
+        },
+        "HouseholdStructure:other": {
+          "Count": "Int:3"
+        }
+      },
+      "PD:EC-02I": {
+        "HouseholdStructure:single_house_single_storeyed": {
+          "Count": "Int:43283"
+        },
+        "HouseholdStructure:single_house_two_storeyed": {
+          "Count": "Int:12275"
+        },
+        "HouseholdStructure:single_house_more_than_two_storeyed": {
+          "Count": "Int:564"
+        },
+        "HouseholdStructure:attached_house_1st_floor": {
+          "Count": "Int:510"
+        },
+        "HouseholdStructure:attached_house_2nd_floor": {
+          "Count": "Int:372"
+        },
+        "HouseholdStructure:attached_house_from_3_to_4_floors": {
+          "Count": "Int:130"
+        },
+        "HouseholdStructure:attached_house_from_5_to_10_floors": {
+          "Count": "Int:22"
+        },
+        "HouseholdStructure:attached_house_from_11_to_19_floors": {
+          "Count": "Int:0"
+        },
+        "HouseholdStructure:attached_house_from_20_floors_or_more": {
+          "Count": "Int:0"
+        },
+        "HouseholdStructure:other": {
+          "Count": "Int:3"
+        }
+      },
+      "PD:EC-04B": {
+        "HouseholdStructure:single_house_single_storeyed": {
+          "Count": "Int:40829"
+        },
+        "HouseholdStructure:single_house_two_storeyed": {
+          "Count": "Int:12061"
+        },
+        "HouseholdStructure:single_house_more_than_two_storeyed": {
+          "Count": "Int:1666"
+        },
+        "HouseholdStructure:attached_house_1st_floor": {
+          "Count": "Int:1305"
+        },
+        "HouseholdStructure:attached_house_2nd_floor": {
+          "Count": "Int:943"
+        },
+        "HouseholdStructure:attached_house_from_3_to_4_floors": {
+          "Count": "Int:212"
+        },
+        "HouseholdStructure:attached_house_from_5_to_10_floors": {
+          "Count": "Int:18"
+        },
+        "HouseholdStructure:attached_house_from_11_to_19_floors": {
+          "Count": "Int:0"
+        },
+        "HouseholdStructure:attached_house_from_20_floors_or_more": {
+          "Count": "Int:0"
+        },
+        "HouseholdStructure:other": {
+          "Count": "Int:9"
+        }
+      },
+      "PD:EC-01M": {
+        "HouseholdStructure:single_house_single_storeyed": {
+          "Count": "Int:27298"
+        },
+        "HouseholdStructure:single_house_two_storeyed": {
+          "Count": "Int:21445"
+        },
+        "HouseholdStructure:single_house_more_than_two_storeyed": {
+          "Count": "Int:2617"
+        },
+        "HouseholdStructure:attached_house_1st_floor": {
+          "Count": "Int:2283"
+        },
+        "HouseholdStructure:attached_house_2nd_floor": {
+          "Count": "Int:2131"
+        },
+        "HouseholdStructure:attached_house_from_3_to_4_floors": {
+          "Count": "Int:573"
+        },
+        "HouseholdStructure:attached_house_from_5_to_10_floors": {
+          "Count": "Int:185"
+        },
+        "HouseholdStructure:attached_house_from_11_to_19_floors": {
+          "Count": "Int:4"
+        },
+        "HouseholdStructure:attached_house_from_20_floors_or_more": {
           "Count": "Int:5"
         },
+        "HouseholdStructure:other": {
+          "Count": "Int:9"
+        }
+      },
+      "PD:EC-02F": {
+        "HouseholdStructure:single_house_single_storeyed": {
+          "Count": "Int:47809"
+        },
+        "HouseholdStructure:single_house_two_storeyed": {
+          "Count": "Int:7688"
+        },
+        "HouseholdStructure:single_house_more_than_two_storeyed": {
+          "Count": "Int:150"
+        },
+        "HouseholdStructure:attached_house_1st_floor": {
+          "Count": "Int:421"
+        },
+        "HouseholdStructure:attached_house_2nd_floor": {
+          "Count": "Int:155"
+        },
+        "HouseholdStructure:attached_house_from_3_to_4_floors": {
+          "Count": "Int:56"
+        },
+        "HouseholdStructure:attached_house_from_5_to_10_floors": {
+          "Count": "Int:4"
+        },
         "HouseholdStructure:attached_house_from_11_to_19_floors": {
           "Count": "Int:0"
         },
@@ -286,7 +638,4487 @@
           "Count": "Int:0"
         },
         "HouseholdStructure:other": {
+          "Count": "Int:4"
+        }
+      },
+      "PD:EC-01H": {
+        "HouseholdStructure:single_house_single_storeyed": {
+          "Count": "Int:28973"
+        },
+        "HouseholdStructure:single_house_two_storeyed": {
+          "Count": "Int:18317"
+        },
+        "HouseholdStructure:single_house_more_than_two_storeyed": {
+          "Count": "Int:2107"
+        },
+        "HouseholdStructure:attached_house_1st_floor": {
+          "Count": "Int:2548"
+        },
+        "HouseholdStructure:attached_house_2nd_floor": {
+          "Count": "Int:2190"
+        },
+        "HouseholdStructure:attached_house_from_3_to_4_floors": {
+          "Count": "Int:804"
+        },
+        "HouseholdStructure:attached_house_from_5_to_10_floors": {
+          "Count": "Int:483"
+        },
+        "HouseholdStructure:attached_house_from_11_to_19_floors": {
+          "Count": "Int:612"
+        },
+        "HouseholdStructure:attached_house_from_20_floors_or_more": {
+          "Count": "Int:2"
+        },
+        "HouseholdStructure:other": {
+          "Count": "Int:64"
+        }
+      },
+      "PD:EC-03B": {
+        "HouseholdStructure:single_house_single_storeyed": {
+          "Count": "Int:46281"
+        },
+        "HouseholdStructure:single_house_two_storeyed": {
+          "Count": "Int:8549"
+        },
+        "HouseholdStructure:single_house_more_than_two_storeyed": {
+          "Count": "Int:273"
+        },
+        "HouseholdStructure:attached_house_1st_floor": {
+          "Count": "Int:392"
+        },
+        "HouseholdStructure:attached_house_2nd_floor": {
+          "Count": "Int:350"
+        },
+        "HouseholdStructure:attached_house_from_3_to_4_floors": {
+          "Count": "Int:25"
+        },
+        "HouseholdStructure:attached_house_from_5_to_10_floors": {
+          "Count": "Int:1"
+        },
+        "HouseholdStructure:attached_house_from_11_to_19_floors": {
+          "Count": "Int:0"
+        },
+        "HouseholdStructure:attached_house_from_20_floors_or_more": {
+          "Count": "Int:0"
+        },
+        "HouseholdStructure:other": {
+          "Count": "Int:7"
+        }
+      },
+      "PD:EC-01K": {
+        "HouseholdStructure:single_house_single_storeyed": {
+          "Count": "Int:45210"
+        },
+        "HouseholdStructure:single_house_two_storeyed": {
+          "Count": "Int:7902"
+        },
+        "HouseholdStructure:single_house_more_than_two_storeyed": {
+          "Count": "Int:402"
+        },
+        "HouseholdStructure:attached_house_1st_floor": {
+          "Count": "Int:1209"
+        },
+        "HouseholdStructure:attached_house_2nd_floor": {
+          "Count": "Int:324"
+        },
+        "HouseholdStructure:attached_house_from_3_to_4_floors": {
+          "Count": "Int:44"
+        },
+        "HouseholdStructure:attached_house_from_5_to_10_floors": {
+          "Count": "Int:3"
+        },
+        "HouseholdStructure:attached_house_from_11_to_19_floors": {
+          "Count": "Int:1"
+        },
+        "HouseholdStructure:attached_house_from_20_floors_or_more": {
+          "Count": "Int:4"
+        },
+        "HouseholdStructure:other": {
+          "Count": "Int:6"
+        }
+      },
+      "PD:EC-05A": {
+        "HouseholdStructure:single_house_single_storeyed": {
+          "Count": "Int:49847"
+        },
+        "HouseholdStructure:single_house_two_storeyed": {
+          "Count": "Int:3872"
+        },
+        "HouseholdStructure:single_house_more_than_two_storeyed": {
+          "Count": "Int:74"
+        },
+        "HouseholdStructure:attached_house_1st_floor": {
+          "Count": "Int:262"
+        },
+        "HouseholdStructure:attached_house_2nd_floor": {
+          "Count": "Int:48"
+        },
+        "HouseholdStructure:attached_house_from_3_to_4_floors": {
+          "Count": "Int:11"
+        },
+        "HouseholdStructure:attached_house_from_5_to_10_floors": {
+          "Count": "Int:1"
+        },
+        "HouseholdStructure:attached_house_from_11_to_19_floors": {
+          "Count": "Int:0"
+        },
+        "HouseholdStructure:attached_house_from_20_floors_or_more": {
+          "Count": "Int:0"
+        },
+        "HouseholdStructure:other": {
+          "Count": "Int:2"
+        }
+      },
+      "PD:EC-02G": {
+        "HouseholdStructure:single_house_single_storeyed": {
+          "Count": "Int:44352"
+        },
+        "HouseholdStructure:single_house_two_storeyed": {
+          "Count": "Int:8797"
+        },
+        "HouseholdStructure:single_house_more_than_two_storeyed": {
+          "Count": "Int:275"
+        },
+        "HouseholdStructure:attached_house_1st_floor": {
+          "Count": "Int:265"
+        },
+        "HouseholdStructure:attached_house_2nd_floor": {
+          "Count": "Int:287"
+        },
+        "HouseholdStructure:attached_house_from_3_to_4_floors": {
+          "Count": "Int:58"
+        },
+        "HouseholdStructure:attached_house_from_5_to_10_floors": {
+          "Count": "Int:1"
+        },
+        "HouseholdStructure:attached_house_from_11_to_19_floors": {
+          "Count": "Int:0"
+        },
+        "HouseholdStructure:attached_house_from_20_floors_or_more": {
+          "Count": "Int:0"
+        },
+        "HouseholdStructure:other": {
+          "Count": "Int:2"
+        }
+      },
+      "PD:EC-03C": {
+        "HouseholdStructure:single_house_single_storeyed": {
+          "Count": "Int:45158"
+        },
+        "HouseholdStructure:single_house_two_storeyed": {
+          "Count": "Int:7446"
+        },
+        "HouseholdStructure:single_house_more_than_two_storeyed": {
+          "Count": "Int:351"
+        },
+        "HouseholdStructure:attached_house_1st_floor": {
+          "Count": "Int:636"
+        },
+        "HouseholdStructure:attached_house_2nd_floor": {
+          "Count": "Int:199"
+        },
+        "HouseholdStructure:attached_house_from_3_to_4_floors": {
+          "Count": "Int:56"
+        },
+        "HouseholdStructure:attached_house_from_5_to_10_floors": {
+          "Count": "Int:20"
+        },
+        "HouseholdStructure:attached_house_from_11_to_19_floors": {
+          "Count": "Int:0"
+        },
+        "HouseholdStructure:attached_house_from_20_floors_or_more": {
+          "Count": "Int:0"
+        },
+        "HouseholdStructure:other": {
+          "Count": "Int:5"
+        }
+      },
+      "PD:EC-12A": {
+        "HouseholdStructure:single_house_single_storeyed": {
+          "Count": "Int:48653"
+        },
+        "HouseholdStructure:single_house_two_storeyed": {
+          "Count": "Int:1911"
+        },
+        "HouseholdStructure:single_house_more_than_two_storeyed": {
+          "Count": "Int:234"
+        },
+        "HouseholdStructure:attached_house_1st_floor": {
+          "Count": "Int:20"
+        },
+        "HouseholdStructure:attached_house_2nd_floor": {
+          "Count": "Int:20"
+        },
+        "HouseholdStructure:attached_house_from_3_to_4_floors": {
+          "Count": "Int:1"
+        },
+        "HouseholdStructure:attached_house_from_5_to_10_floors": {
+          "Count": "Int:0"
+        },
+        "HouseholdStructure:attached_house_from_11_to_19_floors": {
+          "Count": "Int:0"
+        },
+        "HouseholdStructure:attached_house_from_20_floors_or_more": {
+          "Count": "Int:0"
+        },
+        "HouseholdStructure:other": {
+          "Count": "Int:119"
+        }
+      },
+      "PD:EC-17E": {
+        "HouseholdStructure:single_house_single_storeyed": {
+          "Count": "Int:47392"
+        },
+        "HouseholdStructure:single_house_two_storeyed": {
+          "Count": "Int:2704"
+        },
+        "HouseholdStructure:single_house_more_than_two_storeyed": {
+          "Count": "Int:36"
+        },
+        "HouseholdStructure:attached_house_1st_floor": {
+          "Count": "Int:52"
+        },
+        "HouseholdStructure:attached_house_2nd_floor": {
+          "Count": "Int:59"
+        },
+        "HouseholdStructure:attached_house_from_3_to_4_floors": {
+          "Count": "Int:1"
+        },
+        "HouseholdStructure:attached_house_from_5_to_10_floors": {
+          "Count": "Int:0"
+        },
+        "HouseholdStructure:attached_house_from_11_to_19_floors": {
+          "Count": "Int:0"
+        },
+        "HouseholdStructure:attached_house_from_20_floors_or_more": {
+          "Count": "Int:0"
+        },
+        "HouseholdStructure:other": {
+          "Count": "Int:4"
+        }
+      },
+      "PD:EC-02E": {
+        "HouseholdStructure:single_house_single_storeyed": {
+          "Count": "Int:43440"
+        },
+        "HouseholdStructure:single_house_two_storeyed": {
+          "Count": "Int:5786"
+        },
+        "HouseholdStructure:single_house_more_than_two_storeyed": {
+          "Count": "Int:160"
+        },
+        "HouseholdStructure:attached_house_1st_floor": {
+          "Count": "Int:90"
+        },
+        "HouseholdStructure:attached_house_2nd_floor": {
+          "Count": "Int:53"
+        },
+        "HouseholdStructure:attached_house_from_3_to_4_floors": {
+          "Count": "Int:7"
+        },
+        "HouseholdStructure:attached_house_from_5_to_10_floors": {
+          "Count": "Int:1"
+        },
+        "HouseholdStructure:attached_house_from_11_to_19_floors": {
+          "Count": "Int:0"
+        },
+        "HouseholdStructure:attached_house_from_20_floors_or_more": {
+          "Count": "Int:0"
+        },
+        "HouseholdStructure:other": {
+          "Count": "Int:3"
+        }
+      },
+      "PD:EC-02A": {
+        "HouseholdStructure:single_house_single_storeyed": {
+          "Count": "Int:34583"
+        },
+        "HouseholdStructure:single_house_two_storeyed": {
+          "Count": "Int:11523"
+        },
+        "HouseholdStructure:single_house_more_than_two_storeyed": {
+          "Count": "Int:977"
+        },
+        "HouseholdStructure:attached_house_1st_floor": {
+          "Count": "Int:705"
+        },
+        "HouseholdStructure:attached_house_2nd_floor": {
+          "Count": "Int:566"
+        },
+        "HouseholdStructure:attached_house_from_3_to_4_floors": {
+          "Count": "Int:325"
+        },
+        "HouseholdStructure:attached_house_from_5_to_10_floors": {
+          "Count": "Int:96"
+        },
+        "HouseholdStructure:attached_house_from_11_to_19_floors": {
+          "Count": "Int:0"
+        },
+        "HouseholdStructure:attached_house_from_20_floors_or_more": {
+          "Count": "Int:0"
+        },
+        "HouseholdStructure:other": {
+          "Count": "Int:12"
+        }
+      },
+      "PD:EC-09C": {
+        "HouseholdStructure:single_house_single_storeyed": {
+          "Count": "Int:43981"
+        },
+        "HouseholdStructure:single_house_two_storeyed": {
+          "Count": "Int:4397"
+        },
+        "HouseholdStructure:single_house_more_than_two_storeyed": {
+          "Count": "Int:165"
+        },
+        "HouseholdStructure:attached_house_1st_floor": {
+          "Count": "Int:35"
+        },
+        "HouseholdStructure:attached_house_2nd_floor": {
+          "Count": "Int:20"
+        },
+        "HouseholdStructure:attached_house_from_3_to_4_floors": {
+          "Count": "Int:6"
+        },
+        "HouseholdStructure:attached_house_from_5_to_10_floors": {
+          "Count": "Int:0"
+        },
+        "HouseholdStructure:attached_house_from_11_to_19_floors": {
+          "Count": "Int:0"
+        },
+        "HouseholdStructure:attached_house_from_20_floors_or_more": {
+          "Count": "Int:0"
+        },
+        "HouseholdStructure:other": {
+          "Count": "Int:3"
+        }
+      },
+      "PD:EC-14C": {
+        "HouseholdStructure:single_house_single_storeyed": {
+          "Count": "Int:46600"
+        },
+        "HouseholdStructure:single_house_two_storeyed": {
+          "Count": "Int:1760"
+        },
+        "HouseholdStructure:single_house_more_than_two_storeyed": {
+          "Count": "Int:39"
+        },
+        "HouseholdStructure:attached_house_1st_floor": {
+          "Count": "Int:25"
+        },
+        "HouseholdStructure:attached_house_2nd_floor": {
+          "Count": "Int:3"
+        },
+        "HouseholdStructure:attached_house_from_3_to_4_floors": {
+          "Count": "Int:2"
+        },
+        "HouseholdStructure:attached_house_from_5_to_10_floors": {
+          "Count": "Int:0"
+        },
+        "HouseholdStructure:attached_house_from_11_to_19_floors": {
+          "Count": "Int:0"
+        },
+        "HouseholdStructure:attached_house_from_20_floors_or_more": {
+          "Count": "Int:0"
+        },
+        "HouseholdStructure:other": {
+          "Count": "Int:67"
+        }
+      },
+      "PD:EC-11B": {
+        "HouseholdStructure:single_house_single_storeyed": {
+          "Count": "Int:45145"
+        },
+        "HouseholdStructure:single_house_two_storeyed": {
+          "Count": "Int:2219"
+        },
+        "HouseholdStructure:single_house_more_than_two_storeyed": {
+          "Count": "Int:113"
+        },
+        "HouseholdStructure:attached_house_1st_floor": {
+          "Count": "Int:218"
+        },
+        "HouseholdStructure:attached_house_2nd_floor": {
+          "Count": "Int:117"
+        },
+        "HouseholdStructure:attached_house_from_3_to_4_floors": {
+          "Count": "Int:9"
+        },
+        "HouseholdStructure:attached_house_from_5_to_10_floors": {
+          "Count": "Int:0"
+        },
+        "HouseholdStructure:attached_house_from_11_to_19_floors": {
+          "Count": "Int:0"
+        },
+        "HouseholdStructure:attached_house_from_20_floors_or_more": {
+          "Count": "Int:0"
+        },
+        "HouseholdStructure:other": {
+          "Count": "Int:4"
+        }
+      },
+      "PD:EC-16B": {
+        "HouseholdStructure:single_house_single_storeyed": {
+          "Count": "Int:46476"
+        },
+        "HouseholdStructure:single_house_two_storeyed": {
+          "Count": "Int:1019"
+        },
+        "HouseholdStructure:single_house_more_than_two_storeyed": {
+          "Count": "Int:16"
+        },
+        "HouseholdStructure:attached_house_1st_floor": {
+          "Count": "Int:12"
+        },
+        "HouseholdStructure:attached_house_2nd_floor": {
+          "Count": "Int:5"
+        },
+        "HouseholdStructure:attached_house_from_3_to_4_floors": {
+          "Count": "Int:3"
+        },
+        "HouseholdStructure:attached_house_from_5_to_10_floors": {
+          "Count": "Int:0"
+        },
+        "HouseholdStructure:attached_house_from_11_to_19_floors": {
+          "Count": "Int:0"
+        },
+        "HouseholdStructure:attached_house_from_20_floors_or_more": {
+          "Count": "Int:0"
+        },
+        "HouseholdStructure:other": {
+          "Count": "Int:10"
+        }
+      },
+      "PD:EC-02K": {
+        "HouseholdStructure:single_house_single_storeyed": {
+          "Count": "Int:41593"
+        },
+        "HouseholdStructure:single_house_two_storeyed": {
+          "Count": "Int:5263"
+        },
+        "HouseholdStructure:single_house_more_than_two_storeyed": {
+          "Count": "Int:152"
+        },
+        "HouseholdStructure:attached_house_1st_floor": {
+          "Count": "Int:162"
+        },
+        "HouseholdStructure:attached_house_2nd_floor": {
+          "Count": "Int:98"
+        },
+        "HouseholdStructure:attached_house_from_3_to_4_floors": {
+          "Count": "Int:25"
+        },
+        "HouseholdStructure:attached_house_from_5_to_10_floors": {
+          "Count": "Int:2"
+        },
+        "HouseholdStructure:attached_house_from_11_to_19_floors": {
+          "Count": "Int:0"
+        },
+        "HouseholdStructure:attached_house_from_20_floors_or_more": {
+          "Count": "Int:0"
+        },
+        "HouseholdStructure:other": {
+          "Count": "Int:2"
+        }
+      },
+      "PD:EC-20B": {
+        "HouseholdStructure:single_house_single_storeyed": {
+          "Count": "Int:44135"
+        },
+        "HouseholdStructure:single_house_two_storeyed": {
+          "Count": "Int:2211"
+        },
+        "HouseholdStructure:single_house_more_than_two_storeyed": {
+          "Count": "Int:77"
+        },
+        "HouseholdStructure:attached_house_1st_floor": {
+          "Count": "Int:418"
+        },
+        "HouseholdStructure:attached_house_2nd_floor": {
+          "Count": "Int:27"
+        },
+        "HouseholdStructure:attached_house_from_3_to_4_floors": {
+          "Count": "Int:18"
+        },
+        "HouseholdStructure:attached_house_from_5_to_10_floors": {
+          "Count": "Int:0"
+        },
+        "HouseholdStructure:attached_house_from_11_to_19_floors": {
+          "Count": "Int:0"
+        },
+        "HouseholdStructure:attached_house_from_20_floors_or_more": {
+          "Count": "Int:0"
+        },
+        "HouseholdStructure:other": {
+          "Count": "Int:5"
+        }
+      },
+      "PD:EC-21B": {
+        "HouseholdStructure:single_house_single_storeyed": {
+          "Count": "Int:38810"
+        },
+        "HouseholdStructure:single_house_two_storeyed": {
+          "Count": "Int:5886"
+        },
+        "HouseholdStructure:single_house_more_than_two_storeyed": {
+          "Count": "Int:473"
+        },
+        "HouseholdStructure:attached_house_1st_floor": {
+          "Count": "Int:1094"
+        },
+        "HouseholdStructure:attached_house_2nd_floor": {
+          "Count": "Int:212"
+        },
+        "HouseholdStructure:attached_house_from_3_to_4_floors": {
+          "Count": "Int:54"
+        },
+        "HouseholdStructure:attached_house_from_5_to_10_floors": {
+          "Count": "Int:0"
+        },
+        "HouseholdStructure:attached_house_from_11_to_19_floors": {
+          "Count": "Int:0"
+        },
+        "HouseholdStructure:attached_house_from_20_floors_or_more": {
+          "Count": "Int:0"
+        },
+        "HouseholdStructure:other": {
+          "Count": "Int:0"
+        }
+      },
+      "PD:EC-15C": {
+        "HouseholdStructure:single_house_single_storeyed": {
+          "Count": "Int:44119"
+        },
+        "HouseholdStructure:single_house_two_storeyed": {
+          "Count": "Int:2196"
+        },
+        "HouseholdStructure:single_house_more_than_two_storeyed": {
+          "Count": "Int:32"
+        },
+        "HouseholdStructure:attached_house_1st_floor": {
+          "Count": "Int:33"
+        },
+        "HouseholdStructure:attached_house_2nd_floor": {
+          "Count": "Int:15"
+        },
+        "HouseholdStructure:attached_house_from_3_to_4_floors": {
+          "Count": "Int:0"
+        },
+        "HouseholdStructure:attached_house_from_5_to_10_floors": {
+          "Count": "Int:0"
+        },
+        "HouseholdStructure:attached_house_from_11_to_19_floors": {
+          "Count": "Int:0"
+        },
+        "HouseholdStructure:attached_house_from_20_floors_or_more": {
+          "Count": "Int:0"
+        },
+        "HouseholdStructure:other": {
+          "Count": "Int:4"
+        }
+      },
+      "PD:EC-16C": {
+        "HouseholdStructure:single_house_single_storeyed": {
+          "Count": "Int:42596"
+        },
+        "HouseholdStructure:single_house_two_storeyed": {
+          "Count": "Int:2816"
+        },
+        "HouseholdStructure:single_house_more_than_two_storeyed": {
+          "Count": "Int:97"
+        },
+        "HouseholdStructure:attached_house_1st_floor": {
+          "Count": "Int:160"
+        },
+        "HouseholdStructure:attached_house_2nd_floor": {
+          "Count": "Int:82"
+        },
+        "HouseholdStructure:attached_house_from_3_to_4_floors": {
+          "Count": "Int:15"
+        },
+        "HouseholdStructure:attached_house_from_5_to_10_floors": {
+          "Count": "Int:8"
+        },
+        "HouseholdStructure:attached_house_from_11_to_19_floors": {
+          "Count": "Int:0"
+        },
+        "HouseholdStructure:attached_house_from_20_floors_or_more": {
+          "Count": "Int:0"
+        },
+        "HouseholdStructure:other": {
+          "Count": "Int:7"
+        }
+      },
+      "PD:EC-02D": {
+        "HouseholdStructure:single_house_single_storeyed": {
+          "Count": "Int:41263"
+        },
+        "HouseholdStructure:single_house_two_storeyed": {
+          "Count": "Int:3266"
+        },
+        "HouseholdStructure:single_house_more_than_two_storeyed": {
+          "Count": "Int:53"
+        },
+        "HouseholdStructure:attached_house_1st_floor": {
+          "Count": "Int:167"
+        },
+        "HouseholdStructure:attached_house_2nd_floor": {
+          "Count": "Int:60"
+        },
+        "HouseholdStructure:attached_house_from_3_to_4_floors": {
+          "Count": "Int:13"
+        },
+        "HouseholdStructure:attached_house_from_5_to_10_floors": {
+          "Count": "Int:0"
+        },
+        "HouseholdStructure:attached_house_from_11_to_19_floors": {
+          "Count": "Int:0"
+        },
+        "HouseholdStructure:attached_house_from_20_floors_or_more": {
+          "Count": "Int:0"
+        },
+        "HouseholdStructure:other": {
+          "Count": "Int:8"
+        }
+      },
+      "PD:EC-17D": {
+        "HouseholdStructure:single_house_single_storeyed": {
+          "Count": "Int:42256"
+        },
+        "HouseholdStructure:single_house_two_storeyed": {
+          "Count": "Int:2082"
+        },
+        "HouseholdStructure:single_house_more_than_two_storeyed": {
+          "Count": "Int:33"
+        },
+        "HouseholdStructure:attached_house_1st_floor": {
+          "Count": "Int:33"
+        },
+        "HouseholdStructure:attached_house_2nd_floor": {
+          "Count": "Int:39"
+        },
+        "HouseholdStructure:attached_house_from_3_to_4_floors": {
+          "Count": "Int:1"
+        },
+        "HouseholdStructure:attached_house_from_5_to_10_floors": {
+          "Count": "Int:0"
+        },
+        "HouseholdStructure:attached_house_from_11_to_19_floors": {
+          "Count": "Int:0"
+        },
+        "HouseholdStructure:attached_house_from_20_floors_or_more": {
+          "Count": "Int:0"
+        },
+        "HouseholdStructure:other": {
+          "Count": "Int:2"
+        }
+      },
+      "PD:EC-17C": {
+        "HouseholdStructure:single_house_single_storeyed": {
+          "Count": "Int:38285"
+        },
+        "HouseholdStructure:single_house_two_storeyed": {
+          "Count": "Int:5411"
+        },
+        "HouseholdStructure:single_house_more_than_two_storeyed": {
+          "Count": "Int:160"
+        },
+        "HouseholdStructure:attached_house_1st_floor": {
+          "Count": "Int:243"
+        },
+        "HouseholdStructure:attached_house_2nd_floor": {
+          "Count": "Int:160"
+        },
+        "HouseholdStructure:attached_house_from_3_to_4_floors": {
+          "Count": "Int:21"
+        },
+        "HouseholdStructure:attached_house_from_5_to_10_floors": {
+          "Count": "Int:0"
+        },
+        "HouseholdStructure:attached_house_from_11_to_19_floors": {
+          "Count": "Int:0"
+        },
+        "HouseholdStructure:attached_house_from_20_floors_or_more": {
+          "Count": "Int:0"
+        },
+        "HouseholdStructure:other": {
+          "Count": "Int:5"
+        }
+      },
+      "PD:EC-01O": {
+        "HouseholdStructure:single_house_single_storeyed": {
+          "Count": "Int:26783"
+        },
+        "HouseholdStructure:single_house_two_storeyed": {
+          "Count": "Int:11491"
+        },
+        "HouseholdStructure:single_house_more_than_two_storeyed": {
+          "Count": "Int:1016"
+        },
+        "HouseholdStructure:attached_house_1st_floor": {
+          "Count": "Int:1481"
+        },
+        "HouseholdStructure:attached_house_2nd_floor": {
+          "Count": "Int:1251"
+        },
+        "HouseholdStructure:attached_house_from_3_to_4_floors": {
+          "Count": "Int:1577"
+        },
+        "HouseholdStructure:attached_house_from_5_to_10_floors": {
+          "Count": "Int:351"
+        },
+        "HouseholdStructure:attached_house_from_11_to_19_floors": {
+          "Count": "Int:26"
+        },
+        "HouseholdStructure:attached_house_from_20_floors_or_more": {
+          "Count": "Int:4"
+        },
+        "HouseholdStructure:other": {
+          "Count": "Int:5"
+        }
+      },
+      "PD:EC-03F": {
+        "HouseholdStructure:single_house_single_storeyed": {
+          "Count": "Int:34561"
+        },
+        "HouseholdStructure:single_house_two_storeyed": {
+          "Count": "Int:7722"
+        },
+        "HouseholdStructure:single_house_more_than_two_storeyed": {
+          "Count": "Int:372"
+        },
+        "HouseholdStructure:attached_house_1st_floor": {
+          "Count": "Int:403"
+        },
+        "HouseholdStructure:attached_house_2nd_floor": {
+          "Count": "Int:502"
+        },
+        "HouseholdStructure:attached_house_from_3_to_4_floors": {
+          "Count": "Int:128"
+        },
+        "HouseholdStructure:attached_house_from_5_to_10_floors": {
+          "Count": "Int:28"
+        },
+        "HouseholdStructure:attached_house_from_11_to_19_floors": {
+          "Count": "Int:0"
+        },
+        "HouseholdStructure:attached_house_from_20_floors_or_more": {
+          "Count": "Int:0"
+        },
+        "HouseholdStructure:other": {
+          "Count": "Int:6"
+        }
+      },
+      "PD:EC-21D": {
+        "HouseholdStructure:single_house_single_storeyed": {
+          "Count": "Int:37980"
+        },
+        "HouseholdStructure:single_house_two_storeyed": {
+          "Count": "Int:3383"
+        },
+        "HouseholdStructure:single_house_more_than_two_storeyed": {
+          "Count": "Int:284"
+        },
+        "HouseholdStructure:attached_house_1st_floor": {
+          "Count": "Int:1426"
+        },
+        "HouseholdStructure:attached_house_2nd_floor": {
+          "Count": "Int:101"
+        },
+        "HouseholdStructure:attached_house_from_3_to_4_floors": {
+          "Count": "Int:18"
+        },
+        "HouseholdStructure:attached_house_from_5_to_10_floors": {
+          "Count": "Int:0"
+        },
+        "HouseholdStructure:attached_house_from_11_to_19_floors": {
+          "Count": "Int:0"
+        },
+        "HouseholdStructure:attached_house_from_20_floors_or_more": {
+          "Count": "Int:0"
+        },
+        "HouseholdStructure:other": {
+          "Count": "Int:4"
+        }
+      },
+      "PD:EC-19A": {
+        "HouseholdStructure:single_house_single_storeyed": {
+          "Count": "Int:40618"
+        },
+        "HouseholdStructure:single_house_two_storeyed": {
+          "Count": "Int:1727"
+        },
+        "HouseholdStructure:single_house_more_than_two_storeyed": {
+          "Count": "Int:51"
+        },
+        "HouseholdStructure:attached_house_1st_floor": {
+          "Count": "Int:18"
+        },
+        "HouseholdStructure:attached_house_2nd_floor": {
+          "Count": "Int:4"
+        },
+        "HouseholdStructure:attached_house_from_3_to_4_floors": {
+          "Count": "Int:2"
+        },
+        "HouseholdStructure:attached_house_from_5_to_10_floors": {
+          "Count": "Int:0"
+        },
+        "HouseholdStructure:attached_house_from_11_to_19_floors": {
+          "Count": "Int:0"
+        },
+        "HouseholdStructure:attached_house_from_20_floors_or_more": {
+          "Count": "Int:0"
+        },
+        "HouseholdStructure:other": {
+          "Count": "Int:4"
+        }
+      },
+      "PD:EC-03A": {
+        "HouseholdStructure:single_house_single_storeyed": {
+          "Count": "Int:29799"
+        },
+        "HouseholdStructure:single_house_two_storeyed": {
+          "Count": "Int:10345"
+        },
+        "HouseholdStructure:single_house_more_than_two_storeyed": {
+          "Count": "Int:482"
+        },
+        "HouseholdStructure:attached_house_1st_floor": {
+          "Count": "Int:664"
+        },
+        "HouseholdStructure:attached_house_2nd_floor": {
+          "Count": "Int:646"
+        },
+        "HouseholdStructure:attached_house_from_3_to_4_floors": {
+          "Count": "Int:156"
+        },
+        "HouseholdStructure:attached_house_from_5_to_10_floors": {
+          "Count": "Int:6"
+        },
+        "HouseholdStructure:attached_house_from_11_to_19_floors": {
+          "Count": "Int:0"
+        },
+        "HouseholdStructure:attached_house_from_20_floors_or_more": {
+          "Count": "Int:0"
+        },
+        "HouseholdStructure:other": {
+          "Count": "Int:8"
+        }
+      },
+      "PD:EC-15A": {
+        "HouseholdStructure:single_house_single_storeyed": {
+          "Count": "Int:40264"
+        },
+        "HouseholdStructure:single_house_two_storeyed": {
+          "Count": "Int:1649"
+        },
+        "HouseholdStructure:single_house_more_than_two_storeyed": {
+          "Count": "Int:24"
+        },
+        "HouseholdStructure:attached_house_1st_floor": {
+          "Count": "Int:13"
+        },
+        "HouseholdStructure:attached_house_2nd_floor": {
+          "Count": "Int:7"
+        },
+        "HouseholdStructure:attached_house_from_3_to_4_floors": {
+          "Count": "Int:2"
+        },
+        "HouseholdStructure:attached_house_from_5_to_10_floors": {
+          "Count": "Int:0"
+        },
+        "HouseholdStructure:attached_house_from_11_to_19_floors": {
+          "Count": "Int:0"
+        },
+        "HouseholdStructure:attached_house_from_20_floors_or_more": {
+          "Count": "Int:0"
+        },
+        "HouseholdStructure:other": {
+          "Count": "Int:3"
+        }
+      },
+      "PD:EC-03E": {
+        "HouseholdStructure:single_house_single_storeyed": {
+          "Count": "Int:34296"
+        },
+        "HouseholdStructure:single_house_two_storeyed": {
+          "Count": "Int:5453"
+        },
+        "HouseholdStructure:single_house_more_than_two_storeyed": {
+          "Count": "Int:155"
+        },
+        "HouseholdStructure:attached_house_1st_floor": {
+          "Count": "Int:1824"
+        },
+        "HouseholdStructure:attached_house_2nd_floor": {
+          "Count": "Int:94"
+        },
+        "HouseholdStructure:attached_house_from_3_to_4_floors": {
+          "Count": "Int:13"
+        },
+        "HouseholdStructure:attached_house_from_5_to_10_floors": {
+          "Count": "Int:8"
+        },
+        "HouseholdStructure:attached_house_from_11_to_19_floors": {
+          "Count": "Int:0"
+        },
+        "HouseholdStructure:attached_house_from_20_floors_or_more": {
+          "Count": "Int:0"
+        },
+        "HouseholdStructure:other": {
+          "Count": "Int:8"
+        }
+      },
+      "PD:EC-03G": {
+        "HouseholdStructure:single_house_single_storeyed": {
+          "Count": "Int:34520"
+        },
+        "HouseholdStructure:single_house_two_storeyed": {
+          "Count": "Int:5901"
+        },
+        "HouseholdStructure:single_house_more_than_two_storeyed": {
+          "Count": "Int:275"
+        },
+        "HouseholdStructure:attached_house_1st_floor": {
+          "Count": "Int:651"
+        },
+        "HouseholdStructure:attached_house_2nd_floor": {
+          "Count": "Int:423"
+        },
+        "HouseholdStructure:attached_house_from_3_to_4_floors": {
+          "Count": "Int:42"
+        },
+        "HouseholdStructure:attached_house_from_5_to_10_floors": {
+          "Count": "Int:2"
+        },
+        "HouseholdStructure:attached_house_from_11_to_19_floors": {
+          "Count": "Int:0"
+        },
+        "HouseholdStructure:attached_house_from_20_floors_or_more": {
+          "Count": "Int:0"
+        },
+        "HouseholdStructure:other": {
+          "Count": "Int:5"
+        }
+      },
+      "PD:EC-21E": {
+        "HouseholdStructure:single_house_single_storeyed": {
+          "Count": "Int:37228"
+        },
+        "HouseholdStructure:single_house_two_storeyed": {
+          "Count": "Int:2412"
+        },
+        "HouseholdStructure:single_house_more_than_two_storeyed": {
+          "Count": "Int:134"
+        },
+        "HouseholdStructure:attached_house_1st_floor": {
+          "Count": "Int:1385"
+        },
+        "HouseholdStructure:attached_house_2nd_floor": {
+          "Count": "Int:85"
+        },
+        "HouseholdStructure:attached_house_from_3_to_4_floors": {
+          "Count": "Int:41"
+        },
+        "HouseholdStructure:attached_house_from_5_to_10_floors": {
+          "Count": "Int:0"
+        },
+        "HouseholdStructure:attached_house_from_11_to_19_floors": {
+          "Count": "Int:0"
+        },
+        "HouseholdStructure:attached_house_from_20_floors_or_more": {
+          "Count": "Int:0"
+        },
+        "HouseholdStructure:other": {
+          "Count": "Int:1"
+        }
+      },
+      "PD:EC-09A": {
+        "HouseholdStructure:single_house_single_storeyed": {
+          "Count": "Int:36901"
+        },
+        "HouseholdStructure:single_house_two_storeyed": {
+          "Count": "Int:3614"
+        },
+        "HouseholdStructure:single_house_more_than_two_storeyed": {
+          "Count": "Int:137"
+        },
+        "HouseholdStructure:attached_house_1st_floor": {
+          "Count": "Int:27"
+        },
+        "HouseholdStructure:attached_house_2nd_floor": {
+          "Count": "Int:32"
+        },
+        "HouseholdStructure:attached_house_from_3_to_4_floors": {
+          "Count": "Int:10"
+        },
+        "HouseholdStructure:attached_house_from_5_to_10_floors": {
+          "Count": "Int:0"
+        },
+        "HouseholdStructure:attached_house_from_11_to_19_floors": {
+          "Count": "Int:0"
+        },
+        "HouseholdStructure:attached_house_from_20_floors_or_more": {
+          "Count": "Int:0"
+        },
+        "HouseholdStructure:other": {
+          "Count": "Int:2"
+        }
+      },
+      "PD:EC-15I": {
+        "HouseholdStructure:single_house_single_storeyed": {
+          "Count": "Int:37150"
+        },
+        "HouseholdStructure:single_house_two_storeyed": {
+          "Count": "Int:3030"
+        },
+        "HouseholdStructure:single_house_more_than_two_storeyed": {
+          "Count": "Int:74"
+        },
+        "HouseholdStructure:attached_house_1st_floor": {
+          "Count": "Int:143"
+        },
+        "HouseholdStructure:attached_house_2nd_floor": {
+          "Count": "Int:66"
+        },
+        "HouseholdStructure:attached_house_from_3_to_4_floors": {
+          "Count": "Int:12"
+        },
+        "HouseholdStructure:attached_house_from_5_to_10_floors": {
+          "Count": "Int:0"
+        },
+        "HouseholdStructure:attached_house_from_11_to_19_floors": {
+          "Count": "Int:0"
+        },
+        "HouseholdStructure:attached_house_from_20_floors_or_more": {
+          "Count": "Int:0"
+        },
+        "HouseholdStructure:other": {
+          "Count": "Int:1"
+        }
+      },
+      "PD:EC-15D": {
+        "HouseholdStructure:single_house_single_storeyed": {
+          "Count": "Int:36398"
+        },
+        "HouseholdStructure:single_house_two_storeyed": {
+          "Count": "Int:3121"
+        },
+        "HouseholdStructure:single_house_more_than_two_storeyed": {
+          "Count": "Int:58"
+        },
+        "HouseholdStructure:attached_house_1st_floor": {
+          "Count": "Int:52"
+        },
+        "HouseholdStructure:attached_house_2nd_floor": {
+          "Count": "Int:21"
+        },
+        "HouseholdStructure:attached_house_from_3_to_4_floors": {
+          "Count": "Int:4"
+        },
+        "HouseholdStructure:attached_house_from_5_to_10_floors": {
+          "Count": "Int:0"
+        },
+        "HouseholdStructure:attached_house_from_11_to_19_floors": {
+          "Count": "Int:0"
+        },
+        "HouseholdStructure:attached_house_from_20_floors_or_more": {
+          "Count": "Int:0"
+        },
+        "HouseholdStructure:other": {
+          "Count": "Int:5"
+        }
+      },
+      "PD:EC-04F": {
+        "HouseholdStructure:single_house_single_storeyed": {
+          "Count": "Int:29511"
+        },
+        "HouseholdStructure:single_house_two_storeyed": {
+          "Count": "Int:8118"
+        },
+        "HouseholdStructure:single_house_more_than_two_storeyed": {
+          "Count": "Int:708"
+        },
+        "HouseholdStructure:attached_house_1st_floor": {
+          "Count": "Int:533"
+        },
+        "HouseholdStructure:attached_house_2nd_floor": {
+          "Count": "Int:332"
+        },
+        "HouseholdStructure:attached_house_from_3_to_4_floors": {
+          "Count": "Int:44"
+        },
+        "HouseholdStructure:attached_house_from_5_to_10_floors": {
+          "Count": "Int:46"
+        },
+        "HouseholdStructure:attached_house_from_11_to_19_floors": {
+          "Count": "Int:0"
+        },
+        "HouseholdStructure:attached_house_from_20_floors_or_more": {
+          "Count": "Int:0"
+        },
+        "HouseholdStructure:other": {
+          "Count": "Int:5"
+        }
+      },
+      "PD:EC-14B": {
+        "HouseholdStructure:single_house_single_storeyed": {
+          "Count": "Int:35684"
+        },
+        "HouseholdStructure:single_house_two_storeyed": {
+          "Count": "Int:2543"
+        },
+        "HouseholdStructure:single_house_more_than_two_storeyed": {
+          "Count": "Int:203"
+        },
+        "HouseholdStructure:attached_house_1st_floor": {
+          "Count": "Int:263"
+        },
+        "HouseholdStructure:attached_house_2nd_floor": {
+          "Count": "Int:70"
+        },
+        "HouseholdStructure:attached_house_from_3_to_4_floors": {
+          "Count": "Int:60"
+        },
+        "HouseholdStructure:attached_house_from_5_to_10_floors": {
+          "Count": "Int:8"
+        },
+        "HouseholdStructure:attached_house_from_11_to_19_floors": {
+          "Count": "Int:0"
+        },
+        "HouseholdStructure:attached_house_from_20_floors_or_more": {
+          "Count": "Int:0"
+        },
+        "HouseholdStructure:other": {
+          "Count": "Int:34"
+        }
+      },
+      "PD:EC-15H": {
+        "HouseholdStructure:single_house_single_storeyed": {
+          "Count": "Int:36512"
+        },
+        "HouseholdStructure:single_house_two_storeyed": {
+          "Count": "Int:2123"
+        },
+        "HouseholdStructure:single_house_more_than_two_storeyed": {
+          "Count": "Int:58"
+        },
+        "HouseholdStructure:attached_house_1st_floor": {
+          "Count": "Int:117"
+        },
+        "HouseholdStructure:attached_house_2nd_floor": {
+          "Count": "Int:34"
+        },
+        "HouseholdStructure:attached_house_from_3_to_4_floors": {
+          "Count": "Int:4"
+        },
+        "HouseholdStructure:attached_house_from_5_to_10_floors": {
+          "Count": "Int:0"
+        },
+        "HouseholdStructure:attached_house_from_11_to_19_floors": {
+          "Count": "Int:0"
+        },
+        "HouseholdStructure:attached_house_from_20_floors_or_more": {
+          "Count": "Int:0"
+        },
+        "HouseholdStructure:other": {
+          "Count": "Int:5"
+        }
+      },
+      "PD:EC-07I": {
+        "HouseholdStructure:single_house_single_storeyed": {
+          "Count": "Int:29301"
+        },
+        "HouseholdStructure:single_house_two_storeyed": {
+          "Count": "Int:8212"
+        },
+        "HouseholdStructure:single_house_more_than_two_storeyed": {
+          "Count": "Int:651"
+        },
+        "HouseholdStructure:attached_house_1st_floor": {
+          "Count": "Int:321"
+        },
+        "HouseholdStructure:attached_house_2nd_floor": {
+          "Count": "Int:256"
+        },
+        "HouseholdStructure:attached_house_from_3_to_4_floors": {
+          "Count": "Int:63"
+        },
+        "HouseholdStructure:attached_house_from_5_to_10_floors": {
+          "Count": "Int:3"
+        },
+        "HouseholdStructure:attached_house_from_11_to_19_floors": {
+          "Count": "Int:14"
+        },
+        "HouseholdStructure:attached_house_from_20_floors_or_more": {
+          "Count": "Int:0"
+        },
+        "HouseholdStructure:other": {
+          "Count": "Int:4"
+        }
+      },
+      "PD:EC-01B": {
+        "HouseholdStructure:single_house_single_storeyed": {
+          "Count": "Int:12507"
+        },
+        "HouseholdStructure:single_house_two_storeyed": {
+          "Count": "Int:10621"
+        },
+        "HouseholdStructure:single_house_more_than_two_storeyed": {
+          "Count": "Int:2682"
+        },
+        "HouseholdStructure:attached_house_1st_floor": {
+          "Count": "Int:3925"
+        },
+        "HouseholdStructure:attached_house_2nd_floor": {
+          "Count": "Int:3187"
+        },
+        "HouseholdStructure:attached_house_from_3_to_4_floors": {
+          "Count": "Int:3025"
+        },
+        "HouseholdStructure:attached_house_from_5_to_10_floors": {
+          "Count": "Int:1471"
+        },
+        "HouseholdStructure:attached_house_from_11_to_19_floors": {
+          "Count": "Int:529"
+        },
+        "HouseholdStructure:attached_house_from_20_floors_or_more": {
+          "Count": "Int:649"
+        },
+        "HouseholdStructure:other": {
+          "Count": "Int:21"
+        }
+      },
+      "PD:EC-15B": {
+        "HouseholdStructure:single_house_single_storeyed": {
+          "Count": "Int:37035"
+        },
+        "HouseholdStructure:single_house_two_storeyed": {
+          "Count": "Int:1465"
+        },
+        "HouseholdStructure:single_house_more_than_two_storeyed": {
+          "Count": "Int:16"
+        },
+        "HouseholdStructure:attached_house_1st_floor": {
+          "Count": "Int:22"
+        },
+        "HouseholdStructure:attached_house_2nd_floor": {
+          "Count": "Int:17"
+        },
+        "HouseholdStructure:attached_house_from_3_to_4_floors": {
+          "Count": "Int:1"
+        },
+        "HouseholdStructure:attached_house_from_5_to_10_floors": {
+          "Count": "Int:0"
+        },
+        "HouseholdStructure:attached_house_from_11_to_19_floors": {
+          "Count": "Int:0"
+        },
+        "HouseholdStructure:attached_house_from_20_floors_or_more": {
+          "Count": "Int:0"
+        },
+        "HouseholdStructure:other": {
+          "Count": "Int:0"
+        }
+      },
+      "PD:EC-16E": {
+        "HouseholdStructure:single_house_single_storeyed": {
+          "Count": "Int:35141"
+        },
+        "HouseholdStructure:single_house_two_storeyed": {
+          "Count": "Int:3050"
+        },
+        "HouseholdStructure:single_house_more_than_two_storeyed": {
+          "Count": "Int:53"
+        },
+        "HouseholdStructure:attached_house_1st_floor": {
+          "Count": "Int:114"
+        },
+        "HouseholdStructure:attached_house_2nd_floor": {
+          "Count": "Int:57"
+        },
+        "HouseholdStructure:attached_house_from_3_to_4_floors": {
+          "Count": "Int:17"
+        },
+        "HouseholdStructure:attached_house_from_5_to_10_floors": {
+          "Count": "Int:1"
+        },
+        "HouseholdStructure:attached_house_from_11_to_19_floors": {
+          "Count": "Int:0"
+        },
+        "HouseholdStructure:attached_house_from_20_floors_or_more": {
+          "Count": "Int:0"
+        },
+        "HouseholdStructure:other": {
+          "Count": "Int:23"
+        }
+      },
+      "PD:EC-04L": {
+        "HouseholdStructure:single_house_single_storeyed": {
+          "Count": "Int:29401"
+        },
+        "HouseholdStructure:single_house_two_storeyed": {
+          "Count": "Int:6125"
+        },
+        "HouseholdStructure:single_house_more_than_two_storeyed": {
+          "Count": "Int:643"
+        },
+        "HouseholdStructure:attached_house_1st_floor": {
+          "Count": "Int:1613"
+        },
+        "HouseholdStructure:attached_house_2nd_floor": {
+          "Count": "Int:261"
+        },
+        "HouseholdStructure:attached_house_from_3_to_4_floors": {
+          "Count": "Int:116"
+        },
+        "HouseholdStructure:attached_house_from_5_to_10_floors": {
+          "Count": "Int:220"
+        },
+        "HouseholdStructure:attached_house_from_11_to_19_floors": {
+          "Count": "Int:0"
+        },
+        "HouseholdStructure:attached_house_from_20_floors_or_more": {
+          "Count": "Int:0"
+        },
+        "HouseholdStructure:other": {
+          "Count": "Int:5"
+        }
+      },
+      "PD:EC-07E": {
+        "HouseholdStructure:single_house_single_storeyed": {
+          "Count": "Int:34132"
+        },
+        "HouseholdStructure:single_house_two_storeyed": {
+          "Count": "Int:3146"
+        },
+        "HouseholdStructure:single_house_more_than_two_storeyed": {
+          "Count": "Int:170"
+        },
+        "HouseholdStructure:attached_house_1st_floor": {
+          "Count": "Int:422"
+        },
+        "HouseholdStructure:attached_house_2nd_floor": {
+          "Count": "Int:42"
+        },
+        "HouseholdStructure:attached_house_from_3_to_4_floors": {
+          "Count": "Int:8"
+        },
+        "HouseholdStructure:attached_house_from_5_to_10_floors": {
+          "Count": "Int:0"
+        },
+        "HouseholdStructure:attached_house_from_11_to_19_floors": {
+          "Count": "Int:0"
+        },
+        "HouseholdStructure:attached_house_from_20_floors_or_more": {
+          "Count": "Int:0"
+        },
+        "HouseholdStructure:other": {
+          "Count": "Int:1"
+        }
+      },
+      "PD:EC-08A": {
+        "HouseholdStructure:single_house_single_storeyed": {
+          "Count": "Int:31858"
+        },
+        "HouseholdStructure:single_house_two_storeyed": {
+          "Count": "Int:3512"
+        },
+        "HouseholdStructure:single_house_more_than_two_storeyed": {
+          "Count": "Int:268"
+        },
+        "HouseholdStructure:attached_house_1st_floor": {
+          "Count": "Int:1825"
+        },
+        "HouseholdStructure:attached_house_2nd_floor": {
+          "Count": "Int:155"
+        },
+        "HouseholdStructure:attached_house_from_3_to_4_floors": {
+          "Count": "Int:28"
+        },
+        "HouseholdStructure:attached_house_from_5_to_10_floors": {
+          "Count": "Int:0"
+        },
+        "HouseholdStructure:attached_house_from_11_to_19_floors": {
+          "Count": "Int:0"
+        },
+        "HouseholdStructure:attached_house_from_20_floors_or_more": {
+          "Count": "Int:0"
+        },
+        "HouseholdStructure:other": {
+          "Count": "Int:0"
+        }
+      },
+      "PD:EC-03H": {
+        "HouseholdStructure:single_house_single_storeyed": {
+          "Count": "Int:33958"
+        },
+        "HouseholdStructure:single_house_two_storeyed": {
+          "Count": "Int:2992"
+        },
+        "HouseholdStructure:single_house_more_than_two_storeyed": {
+          "Count": "Int:59"
+        },
+        "HouseholdStructure:attached_house_1st_floor": {
+          "Count": "Int:530"
+        },
+        "HouseholdStructure:attached_house_2nd_floor": {
+          "Count": "Int:73"
+        },
+        "HouseholdStructure:attached_house_from_3_to_4_floors": {
+          "Count": "Int:8"
+        },
+        "HouseholdStructure:attached_house_from_5_to_10_floors": {
+          "Count": "Int:4"
+        },
+        "HouseholdStructure:attached_house_from_11_to_19_floors": {
+          "Count": "Int:0"
+        },
+        "HouseholdStructure:attached_house_from_20_floors_or_more": {
+          "Count": "Int:0"
+        },
+        "HouseholdStructure:other": {
+          "Count": "Int:2"
+        }
+      },
+      "PD:EC-17A": {
+        "HouseholdStructure:single_house_single_storeyed": {
+          "Count": "Int:36179"
+        },
+        "HouseholdStructure:single_house_two_storeyed": {
+          "Count": "Int:1049"
+        },
+        "HouseholdStructure:single_house_more_than_two_storeyed": {
+          "Count": "Int:12"
+        },
+        "HouseholdStructure:attached_house_1st_floor": {
+          "Count": "Int:13"
+        },
+        "HouseholdStructure:attached_house_2nd_floor": {
+          "Count": "Int:10"
+        },
+        "HouseholdStructure:attached_house_from_3_to_4_floors": {
+          "Count": "Int:1"
+        },
+        "HouseholdStructure:attached_house_from_5_to_10_floors": {
+          "Count": "Int:0"
+        },
+        "HouseholdStructure:attached_house_from_11_to_19_floors": {
+          "Count": "Int:0"
+        },
+        "HouseholdStructure:attached_house_from_20_floors_or_more": {
+          "Count": "Int:0"
+        },
+        "HouseholdStructure:other": {
+          "Count": "Int:1"
+        }
+      },
+      "PD:EC-13B": {
+        "HouseholdStructure:single_house_single_storeyed": {
+          "Count": "Int:33494"
+        },
+        "HouseholdStructure:single_house_two_storeyed": {
+          "Count": "Int:3343"
+        },
+        "HouseholdStructure:single_house_more_than_two_storeyed": {
+          "Count": "Int:80"
+        },
+        "HouseholdStructure:attached_house_1st_floor": {
+          "Count": "Int:57"
+        },
+        "HouseholdStructure:attached_house_2nd_floor": {
+          "Count": "Int:21"
+        },
+        "HouseholdStructure:attached_house_from_3_to_4_floors": {
+          "Count": "Int:0"
+        },
+        "HouseholdStructure:attached_house_from_5_to_10_floors": {
+          "Count": "Int:0"
+        },
+        "HouseholdStructure:attached_house_from_11_to_19_floors": {
+          "Count": "Int:0"
+        },
+        "HouseholdStructure:attached_house_from_20_floors_or_more": {
+          "Count": "Int:0"
+        },
+        "HouseholdStructure:other": {
+          "Count": "Int:3"
+        }
+      },
+      "PD:EC-02M": {
+        "HouseholdStructure:single_house_single_storeyed": {
+          "Count": "Int:22918"
+        },
+        "HouseholdStructure:single_house_two_storeyed": {
+          "Count": "Int:10515"
+        },
+        "HouseholdStructure:single_house_more_than_two_storeyed": {
+          "Count": "Int:1157"
+        },
+        "HouseholdStructure:attached_house_1st_floor": {
+          "Count": "Int:1148"
+        },
+        "HouseholdStructure:attached_house_2nd_floor": {
+          "Count": "Int:739"
+        },
+        "HouseholdStructure:attached_house_from_3_to_4_floors": {
+          "Count": "Int:162"
+        },
+        "HouseholdStructure:attached_house_from_5_to_10_floors": {
+          "Count": "Int:43"
+        },
+        "HouseholdStructure:attached_house_from_11_to_19_floors": {
+          "Count": "Int:0"
+        },
+        "HouseholdStructure:attached_house_from_20_floors_or_more": {
+          "Count": "Int:0"
+        },
+        "HouseholdStructure:other": {
+          "Count": "Int:10"
+        }
+      },
+      "PD:EC-21A": {
+        "HouseholdStructure:single_house_single_storeyed": {
+          "Count": "Int:32666"
+        },
+        "HouseholdStructure:single_house_two_storeyed": {
+          "Count": "Int:3319"
+        },
+        "HouseholdStructure:single_house_more_than_two_storeyed": {
+          "Count": "Int:134"
+        },
+        "HouseholdStructure:attached_house_1st_floor": {
+          "Count": "Int:336"
+        },
+        "HouseholdStructure:attached_house_2nd_floor": {
+          "Count": "Int:61"
+        },
+        "HouseholdStructure:attached_house_from_3_to_4_floors": {
+          "Count": "Int:23"
+        },
+        "HouseholdStructure:attached_house_from_5_to_10_floors": {
+          "Count": "Int:0"
+        },
+        "HouseholdStructure:attached_house_from_11_to_19_floors": {
+          "Count": "Int:0"
+        },
+        "HouseholdStructure:attached_house_from_20_floors_or_more": {
+          "Count": "Int:0"
+        },
+        "HouseholdStructure:other": {
+          "Count": "Int:1"
+        }
+      },
+      "PD:EC-10K": {
+        "HouseholdStructure:single_house_single_storeyed": {
+          "Count": "Int:35770"
+        },
+        "HouseholdStructure:single_house_two_storeyed": {
+          "Count": "Int:672"
+        },
+        "HouseholdStructure:single_house_more_than_two_storeyed": {
+          "Count": "Int:23"
+        },
+        "HouseholdStructure:attached_house_1st_floor": {
+          "Count": "Int:7"
+        },
+        "HouseholdStructure:attached_house_2nd_floor": {
+          "Count": "Int:1"
+        },
+        "HouseholdStructure:attached_house_from_3_to_4_floors": {
+          "Count": "Int:0"
+        },
+        "HouseholdStructure:attached_house_from_5_to_10_floors": {
+          "Count": "Int:0"
+        },
+        "HouseholdStructure:attached_house_from_11_to_19_floors": {
+          "Count": "Int:0"
+        },
+        "HouseholdStructure:attached_house_from_20_floors_or_more": {
+          "Count": "Int:0"
+        },
+        "HouseholdStructure:other": {
+          "Count": "Int:11"
+        }
+      },
+      "PD:EC-07F": {
+        "HouseholdStructure:single_house_single_storeyed": {
+          "Count": "Int:32221"
+        },
+        "HouseholdStructure:single_house_two_storeyed": {
+          "Count": "Int:3704"
+        },
+        "HouseholdStructure:single_house_more_than_two_storeyed": {
+          "Count": "Int:170"
+        },
+        "HouseholdStructure:attached_house_1st_floor": {
+          "Count": "Int:336"
+        },
+        "HouseholdStructure:attached_house_2nd_floor": {
+          "Count": "Int:34"
+        },
+        "HouseholdStructure:attached_house_from_3_to_4_floors": {
+          "Count": "Int:9"
+        },
+        "HouseholdStructure:attached_house_from_5_to_10_floors": {
+          "Count": "Int:1"
+        },
+        "HouseholdStructure:attached_house_from_11_to_19_floors": {
+          "Count": "Int:0"
+        },
+        "HouseholdStructure:attached_house_from_20_floors_or_more": {
+          "Count": "Int:0"
+        },
+        "HouseholdStructure:other": {
+          "Count": "Int:2"
+        }
+      },
+      "PD:EC-20A": {
+        "HouseholdStructure:single_house_single_storeyed": {
+          "Count": "Int:34482"
+        },
+        "HouseholdStructure:single_house_two_storeyed": {
+          "Count": "Int:1526"
+        },
+        "HouseholdStructure:single_house_more_than_two_storeyed": {
+          "Count": "Int:42"
+        },
+        "HouseholdStructure:attached_house_1st_floor": {
+          "Count": "Int:176"
+        },
+        "HouseholdStructure:attached_house_2nd_floor": {
+          "Count": "Int:34"
+        },
+        "HouseholdStructure:attached_house_from_3_to_4_floors": {
+          "Count": "Int:9"
+        },
+        "HouseholdStructure:attached_house_from_5_to_10_floors": {
+          "Count": "Int:0"
+        },
+        "HouseholdStructure:attached_house_from_11_to_19_floors": {
+          "Count": "Int:0"
+        },
+        "HouseholdStructure:attached_house_from_20_floors_or_more": {
+          "Count": "Int:0"
+        },
+        "HouseholdStructure:other": {
+          "Count": "Int:1"
+        }
+      },
+      "PD:EC-15M": {
+        "HouseholdStructure:single_house_single_storeyed": {
+          "Count": "Int:30095"
+        },
+        "HouseholdStructure:single_house_two_storeyed": {
+          "Count": "Int:5565"
+        },
+        "HouseholdStructure:single_house_more_than_two_storeyed": {
+          "Count": "Int:154"
+        },
+        "HouseholdStructure:attached_house_1st_floor": {
+          "Count": "Int:272"
+        },
+        "HouseholdStructure:attached_house_2nd_floor": {
+          "Count": "Int:92"
+        },
+        "HouseholdStructure:attached_house_from_3_to_4_floors": {
+          "Count": "Int:14"
+        },
+        "HouseholdStructure:attached_house_from_5_to_10_floors": {
+          "Count": "Int:0"
+        },
+        "HouseholdStructure:attached_house_from_11_to_19_floors": {
+          "Count": "Int:0"
+        },
+        "HouseholdStructure:attached_house_from_20_floors_or_more": {
+          "Count": "Int:0"
+        },
+        "HouseholdStructure:other": {
+          "Count": "Int:4"
+        }
+      },
+      "PD:EC-15J": {
+        "HouseholdStructure:single_house_single_storeyed": {
+          "Count": "Int:32740"
+        },
+        "HouseholdStructure:single_house_two_storeyed": {
+          "Count": "Int:3215"
+        },
+        "HouseholdStructure:single_house_more_than_two_storeyed": {
+          "Count": "Int:59"
+        },
+        "HouseholdStructure:attached_house_1st_floor": {
+          "Count": "Int:20"
+        },
+        "HouseholdStructure:attached_house_2nd_floor": {
+          "Count": "Int:8"
+        },
+        "HouseholdStructure:attached_house_from_3_to_4_floors": {
+          "Count": "Int:3"
+        },
+        "HouseholdStructure:attached_house_from_5_to_10_floors": {
+          "Count": "Int:0"
+        },
+        "HouseholdStructure:attached_house_from_11_to_19_floors": {
+          "Count": "Int:0"
+        },
+        "HouseholdStructure:attached_house_from_20_floors_or_more": {
+          "Count": "Int:0"
+        },
+        "HouseholdStructure:other": {
+          "Count": "Int:1"
+        }
+      },
+      "PD:EC-02B": {
+        "HouseholdStructure:single_house_single_storeyed": {
+          "Count": "Int:28345"
+        },
+        "HouseholdStructure:single_house_two_storeyed": {
+          "Count": "Int:6369"
+        },
+        "HouseholdStructure:single_house_more_than_two_storeyed": {
+          "Count": "Int:285"
+        },
+        "HouseholdStructure:attached_house_1st_floor": {
+          "Count": "Int:353"
+        },
+        "HouseholdStructure:attached_house_2nd_floor": {
+          "Count": "Int:223"
+        },
+        "HouseholdStructure:attached_house_from_3_to_4_floors": {
+          "Count": "Int:322"
+        },
+        "HouseholdStructure:attached_house_from_5_to_10_floors": {
+          "Count": "Int:0"
+        },
+        "HouseholdStructure:attached_house_from_11_to_19_floors": {
+          "Count": "Int:0"
+        },
+        "HouseholdStructure:attached_house_from_20_floors_or_more": {
+          "Count": "Int:0"
+        },
+        "HouseholdStructure:other": {
+          "Count": "Int:0"
+        }
+      },
+      "PD:EC-15L": {
+        "HouseholdStructure:single_house_single_storeyed": {
+          "Count": "Int:28351"
+        },
+        "HouseholdStructure:single_house_two_storeyed": {
+          "Count": "Int:6740"
+        },
+        "HouseholdStructure:single_house_more_than_two_storeyed": {
+          "Count": "Int:352"
+        },
+        "HouseholdStructure:attached_house_1st_floor": {
+          "Count": "Int:252"
+        },
+        "HouseholdStructure:attached_house_2nd_floor": {
+          "Count": "Int:141"
+        },
+        "HouseholdStructure:attached_house_from_3_to_4_floors": {
+          "Count": "Int:42"
+        },
+        "HouseholdStructure:attached_house_from_5_to_10_floors": {
+          "Count": "Int:14"
+        },
+        "HouseholdStructure:attached_house_from_11_to_19_floors": {
+          "Count": "Int:0"
+        },
+        "HouseholdStructure:attached_house_from_20_floors_or_more": {
+          "Count": "Int:0"
+        },
+        "HouseholdStructure:other": {
+          "Count": "Int:4"
+        }
+      },
+      "PD:EC-12C": {
+        "HouseholdStructure:single_house_single_storeyed": {
+          "Count": "Int:33753"
+        },
+        "HouseholdStructure:single_house_two_storeyed": {
+          "Count": "Int:1866"
+        },
+        "HouseholdStructure:single_house_more_than_two_storeyed": {
+          "Count": "Int:23"
+        },
+        "HouseholdStructure:attached_house_1st_floor": {
+          "Count": "Int:9"
+        },
+        "HouseholdStructure:attached_house_2nd_floor": {
+          "Count": "Int:4"
+        },
+        "HouseholdStructure:attached_house_from_3_to_4_floors": {
+          "Count": "Int:0"
+        },
+        "HouseholdStructure:attached_house_from_5_to_10_floors": {
+          "Count": "Int:0"
+        },
+        "HouseholdStructure:attached_house_from_11_to_19_floors": {
+          "Count": "Int:0"
+        },
+        "HouseholdStructure:attached_house_from_20_floors_or_more": {
+          "Count": "Int:0"
+        },
+        "HouseholdStructure:other": {
+          "Count": "Int:40"
+        }
+      },
+      "PD:EC-04M": {
+        "HouseholdStructure:single_house_single_storeyed": {
+          "Count": "Int:28231"
+        },
+        "HouseholdStructure:single_house_two_storeyed": {
+          "Count": "Int:3564"
+        },
+        "HouseholdStructure:single_house_more_than_two_storeyed": {
+          "Count": "Int:260"
+        },
+        "HouseholdStructure:attached_house_1st_floor": {
+          "Count": "Int:3060"
+        },
+        "HouseholdStructure:attached_house_2nd_floor": {
+          "Count": "Int:273"
+        },
+        "HouseholdStructure:attached_house_from_3_to_4_floors": {
+          "Count": "Int:107"
+        },
+        "HouseholdStructure:attached_house_from_5_to_10_floors": {
+          "Count": "Int:33"
+        },
+        "HouseholdStructure:attached_house_from_11_to_19_floors": {
+          "Count": "Int:0"
+        },
+        "HouseholdStructure:attached_house_from_20_floors_or_more": {
+          "Count": "Int:0"
+        },
+        "HouseholdStructure:other": {
+          "Count": "Int:0"
+        }
+      },
+      "PD:EC-15G": {
+        "HouseholdStructure:single_house_single_storeyed": {
+          "Count": "Int:34077"
+        },
+        "HouseholdStructure:single_house_two_storeyed": {
+          "Count": "Int:1341"
+        },
+        "HouseholdStructure:single_house_more_than_two_storeyed": {
+          "Count": "Int:21"
+        },
+        "HouseholdStructure:attached_house_1st_floor": {
+          "Count": "Int:27"
+        },
+        "HouseholdStructure:attached_house_2nd_floor": {
+          "Count": "Int:19"
+        },
+        "HouseholdStructure:attached_house_from_3_to_4_floors": {
+          "Count": "Int:1"
+        },
+        "HouseholdStructure:attached_house_from_5_to_10_floors": {
+          "Count": "Int:0"
+        },
+        "HouseholdStructure:attached_house_from_11_to_19_floors": {
+          "Count": "Int:0"
+        },
+        "HouseholdStructure:attached_house_from_20_floors_or_more": {
+          "Count": "Int:0"
+        },
+        "HouseholdStructure:other": {
+          "Count": "Int:2"
+        }
+      },
+      "PD:EC-08B": {
+        "HouseholdStructure:single_house_single_storeyed": {
+          "Count": "Int:30126"
+        },
+        "HouseholdStructure:single_house_two_storeyed": {
+          "Count": "Int:3559"
+        },
+        "HouseholdStructure:single_house_more_than_two_storeyed": {
+          "Count": "Int:275"
+        },
+        "HouseholdStructure:attached_house_1st_floor": {
+          "Count": "Int:357"
+        },
+        "HouseholdStructure:attached_house_2nd_floor": {
+          "Count": "Int:101"
+        },
+        "HouseholdStructure:attached_house_from_3_to_4_floors": {
+          "Count": "Int:19"
+        },
+        "HouseholdStructure:attached_house_from_5_to_10_floors": {
+          "Count": "Int:0"
+        },
+        "HouseholdStructure:attached_house_from_11_to_19_floors": {
+          "Count": "Int:0"
+        },
+        "HouseholdStructure:attached_house_from_20_floors_or_more": {
+          "Count": "Int:0"
+        },
+        "HouseholdStructure:other": {
+          "Count": "Int:2"
+        }
+      },
+      "PD:EC-05D": {
+        "HouseholdStructure:single_house_single_storeyed": {
+          "Count": "Int:27327"
+        },
+        "HouseholdStructure:single_house_two_storeyed": {
+          "Count": "Int:3702"
+        },
+        "HouseholdStructure:single_house_more_than_two_storeyed": {
+          "Count": "Int:184"
+        },
+        "HouseholdStructure:attached_house_1st_floor": {
+          "Count": "Int:2941"
+        },
+        "HouseholdStructure:attached_house_2nd_floor": {
+          "Count": "Int:257"
+        },
+        "HouseholdStructure:attached_house_from_3_to_4_floors": {
+          "Count": "Int:15"
+        },
+        "HouseholdStructure:attached_house_from_5_to_10_floors": {
+          "Count": "Int:0"
+        },
+        "HouseholdStructure:attached_house_from_11_to_19_floors": {
+          "Count": "Int:0"
+        },
+        "HouseholdStructure:attached_house_from_20_floors_or_more": {
+          "Count": "Int:0"
+        },
+        "HouseholdStructure:other": {
+          "Count": "Int:6"
+        }
+      },
+      "PD:EC-17G": {
+        "HouseholdStructure:single_house_single_storeyed": {
+          "Count": "Int:32605"
+        },
+        "HouseholdStructure:single_house_two_storeyed": {
+          "Count": "Int:1713"
+        },
+        "HouseholdStructure:single_house_more_than_two_storeyed": {
+          "Count": "Int:37"
+        },
+        "HouseholdStructure:attached_house_1st_floor": {
+          "Count": "Int:19"
+        },
+        "HouseholdStructure:attached_house_2nd_floor": {
+          "Count": "Int:26"
+        },
+        "HouseholdStructure:attached_house_from_3_to_4_floors": {
+          "Count": "Int:2"
+        },
+        "HouseholdStructure:attached_house_from_5_to_10_floors": {
+          "Count": "Int:0"
+        },
+        "HouseholdStructure:attached_house_from_11_to_19_floors": {
+          "Count": "Int:0"
+        },
+        "HouseholdStructure:attached_house_from_20_floors_or_more": {
+          "Count": "Int:0"
+        },
+        "HouseholdStructure:other": {
+          "Count": "Int:1"
+        }
+      },
+      "PD:EC-08C": {
+        "HouseholdStructure:single_house_single_storeyed": {
+          "Count": "Int:29969"
+        },
+        "HouseholdStructure:single_house_two_storeyed": {
+          "Count": "Int:3688"
+        },
+        "HouseholdStructure:single_house_more_than_two_storeyed": {
+          "Count": "Int:204"
+        },
+        "HouseholdStructure:attached_house_1st_floor": {
+          "Count": "Int:278"
+        },
+        "HouseholdStructure:attached_house_2nd_floor": {
+          "Count": "Int:120"
+        },
+        "HouseholdStructure:attached_house_from_3_to_4_floors": {
+          "Count": "Int:30"
+        },
+        "HouseholdStructure:attached_house_from_5_to_10_floors": {
+          "Count": "Int:0"
+        },
+        "HouseholdStructure:attached_house_from_11_to_19_floors": {
+          "Count": "Int:0"
+        },
+        "HouseholdStructure:attached_house_from_20_floors_or_more": {
+          "Count": "Int:0"
+        },
+        "HouseholdStructure:other": {
+          "Count": "Int:2"
+        }
+      },
+      "PD:EC-11C": {
+        "HouseholdStructure:single_house_single_storeyed": {
+          "Count": "Int:33670"
+        },
+        "HouseholdStructure:single_house_two_storeyed": {
+          "Count": "Int:559"
+        },
+        "HouseholdStructure:single_house_more_than_two_storeyed": {
+          "Count": "Int:11"
+        },
+        "HouseholdStructure:attached_house_1st_floor": {
+          "Count": "Int:5"
+        },
+        "HouseholdStructure:attached_house_2nd_floor": {
+          "Count": "Int:4"
+        },
+        "HouseholdStructure:attached_house_from_3_to_4_floors": {
+          "Count": "Int:0"
+        },
+        "HouseholdStructure:attached_house_from_5_to_10_floors": {
+          "Count": "Int:0"
+        },
+        "HouseholdStructure:attached_house_from_11_to_19_floors": {
+          "Count": "Int:0"
+        },
+        "HouseholdStructure:attached_house_from_20_floors_or_more": {
+          "Count": "Int:0"
+        },
+        "HouseholdStructure:other": {
+          "Count": "Int:40"
+        }
+      },
+      "PD:EC-18A": {
+        "HouseholdStructure:single_house_single_storeyed": {
+          "Count": "Int:31986"
+        },
+        "HouseholdStructure:single_house_two_storeyed": {
+          "Count": "Int:2117"
+        },
+        "HouseholdStructure:single_house_more_than_two_storeyed": {
+          "Count": "Int:54"
+        },
+        "HouseholdStructure:attached_house_1st_floor": {
+          "Count": "Int:16"
+        },
+        "HouseholdStructure:attached_house_2nd_floor": {
+          "Count": "Int:11"
+        },
+        "HouseholdStructure:attached_house_from_3_to_4_floors": {
+          "Count": "Int:1"
+        },
+        "HouseholdStructure:attached_house_from_5_to_10_floors": {
+          "Count": "Int:0"
+        },
+        "HouseholdStructure:attached_house_from_11_to_19_floors": {
+          "Count": "Int:0"
+        },
+        "HouseholdStructure:attached_house_from_20_floors_or_more": {
+          "Count": "Int:0"
+        },
+        "HouseholdStructure:other": {
+          "Count": "Int:3"
+        }
+      },
+      "PD:EC-08G": {
+        "HouseholdStructure:single_house_single_storeyed": {
+          "Count": "Int:28853"
+        },
+        "HouseholdStructure:single_house_two_storeyed": {
+          "Count": "Int:4328"
+        },
+        "HouseholdStructure:single_house_more_than_two_storeyed": {
+          "Count": "Int:205"
+        },
+        "HouseholdStructure:attached_house_1st_floor": {
+          "Count": "Int:413"
+        },
+        "HouseholdStructure:attached_house_2nd_floor": {
+          "Count": "Int:245"
+        },
+        "HouseholdStructure:attached_house_from_3_to_4_floors": {
+          "Count": "Int:17"
+        },
+        "HouseholdStructure:attached_house_from_5_to_10_floors": {
+          "Count": "Int:0"
+        },
+        "HouseholdStructure:attached_house_from_11_to_19_floors": {
+          "Count": "Int:0"
+        },
+        "HouseholdStructure:attached_house_from_20_floors_or_more": {
+          "Count": "Int:0"
+        },
+        "HouseholdStructure:other": {
+          "Count": "Int:2"
+        }
+      },
+      "PD:EC-16D": {
+        "HouseholdStructure:single_house_single_storeyed": {
+          "Count": "Int:31409"
+        },
+        "HouseholdStructure:single_house_two_storeyed": {
+          "Count": "Int:2360"
+        },
+        "HouseholdStructure:single_house_more_than_two_storeyed": {
+          "Count": "Int:43"
+        },
+        "HouseholdStructure:attached_house_1st_floor": {
+          "Count": "Int:29"
+        },
+        "HouseholdStructure:attached_house_2nd_floor": {
+          "Count": "Int:15"
+        },
+        "HouseholdStructure:attached_house_from_3_to_4_floors": {
+          "Count": "Int:5"
+        },
+        "HouseholdStructure:attached_house_from_5_to_10_floors": {
+          "Count": "Int:15"
+        },
+        "HouseholdStructure:attached_house_from_11_to_19_floors": {
+          "Count": "Int:0"
+        },
+        "HouseholdStructure:attached_house_from_20_floors_or_more": {
+          "Count": "Int:0"
+        },
+        "HouseholdStructure:other": {
+          "Count": "Int:6"
+        }
+      },
+      "PD:EC-17B": {
+        "HouseholdStructure:single_house_single_storeyed": {
+          "Count": "Int:32564"
+        },
+        "HouseholdStructure:single_house_two_storeyed": {
+          "Count": "Int:1134"
+        },
+        "HouseholdStructure:single_house_more_than_two_storeyed": {
+          "Count": "Int:27"
+        },
+        "HouseholdStructure:attached_house_1st_floor": {
+          "Count": "Int:19"
+        },
+        "HouseholdStructure:attached_house_2nd_floor": {
+          "Count": "Int:15"
+        },
+        "HouseholdStructure:attached_house_from_3_to_4_floors": {
+          "Count": "Int:1"
+        },
+        "HouseholdStructure:attached_house_from_5_to_10_floors": {
+          "Count": "Int:0"
+        },
+        "HouseholdStructure:attached_house_from_11_to_19_floors": {
+          "Count": "Int:0"
+        },
+        "HouseholdStructure:attached_house_from_20_floors_or_more": {
+          "Count": "Int:0"
+        },
+        "HouseholdStructure:other": {
+          "Count": "Int:4"
+        }
+      },
+      "PD:EC-21F": {
+        "HouseholdStructure:single_house_single_storeyed": {
+          "Count": "Int:29666"
+        },
+        "HouseholdStructure:single_house_two_storeyed": {
+          "Count": "Int:2486"
+        },
+        "HouseholdStructure:single_house_more_than_two_storeyed": {
+          "Count": "Int:170"
+        },
+        "HouseholdStructure:attached_house_1st_floor": {
+          "Count": "Int:1399"
+        },
+        "HouseholdStructure:attached_house_2nd_floor": {
+          "Count": "Int:36"
+        },
+        "HouseholdStructure:attached_house_from_3_to_4_floors": {
+          "Count": "Int:3"
+        },
+        "HouseholdStructure:attached_house_from_5_to_10_floors": {
+          "Count": "Int:0"
+        },
+        "HouseholdStructure:attached_house_from_11_to_19_floors": {
+          "Count": "Int:0"
+        },
+        "HouseholdStructure:attached_house_from_20_floors_or_more": {
+          "Count": "Int:0"
+        },
+        "HouseholdStructure:other": {
+          "Count": "Int:0"
+        }
+      },
+      "PD:EC-01A": {
+        "HouseholdStructure:single_house_single_storeyed": {
+          "Count": "Int:12821"
+        },
+        "HouseholdStructure:single_house_two_storeyed": {
+          "Count": "Int:6434"
+        },
+        "HouseholdStructure:single_house_more_than_two_storeyed": {
+          "Count": "Int:1447"
+        },
+        "HouseholdStructure:attached_house_1st_floor": {
+          "Count": "Int:3116"
+        },
+        "HouseholdStructure:attached_house_2nd_floor": {
+          "Count": "Int:2644"
+        },
+        "HouseholdStructure:attached_house_from_3_to_4_floors": {
+          "Count": "Int:1752"
+        },
+        "HouseholdStructure:attached_house_from_5_to_10_floors": {
+          "Count": "Int:2533"
+        },
+        "HouseholdStructure:attached_house_from_11_to_19_floors": {
+          "Count": "Int:2560"
+        },
+        "HouseholdStructure:attached_house_from_20_floors_or_more": {
+          "Count": "Int:12"
+        },
+        "HouseholdStructure:other": {
+          "Count": "Int:4"
+        }
+      },
+      "PD:EC-21C": {
+        "HouseholdStructure:single_house_single_storeyed": {
+          "Count": "Int:28261"
+        },
+        "HouseholdStructure:single_house_two_storeyed": {
+          "Count": "Int:2318"
+        },
+        "HouseholdStructure:single_house_more_than_two_storeyed": {
+          "Count": "Int:170"
+        },
+        "HouseholdStructure:attached_house_1st_floor": {
+          "Count": "Int:2210"
+        },
+        "HouseholdStructure:attached_house_2nd_floor": {
+          "Count": "Int:53"
+        },
+        "HouseholdStructure:attached_house_from_3_to_4_floors": {
+          "Count": "Int:26"
+        },
+        "HouseholdStructure:attached_house_from_5_to_10_floors": {
+          "Count": "Int:0"
+        },
+        "HouseholdStructure:attached_house_from_11_to_19_floors": {
+          "Count": "Int:0"
+        },
+        "HouseholdStructure:attached_house_from_20_floors_or_more": {
+          "Count": "Int:0"
+        },
+        "HouseholdStructure:other": {
+          "Count": "Int:9"
+        }
+      },
+      "PD:EC-22E": {
+        "HouseholdStructure:single_house_single_storeyed": {
+          "Count": "Int:25984"
+        },
+        "HouseholdStructure:single_house_two_storeyed": {
+          "Count": "Int:5789"
+        },
+        "HouseholdStructure:single_house_more_than_two_storeyed": {
+          "Count": "Int:416"
+        },
+        "HouseholdStructure:attached_house_1st_floor": {
+          "Count": "Int:426"
+        },
+        "HouseholdStructure:attached_house_2nd_floor": {
+          "Count": "Int:337"
+        },
+        "HouseholdStructure:attached_house_from_3_to_4_floors": {
+          "Count": "Int:52"
+        },
+        "HouseholdStructure:attached_house_from_5_to_10_floors": {
+          "Count": "Int:0"
+        },
+        "HouseholdStructure:attached_house_from_11_to_19_floors": {
+          "Count": "Int:0"
+        },
+        "HouseholdStructure:attached_house_from_20_floors_or_more": {
+          "Count": "Int:0"
+        },
+        "HouseholdStructure:other": {
+          "Count": "Int:5"
+        }
+      },
+      "PD:EC-07D": {
+        "HouseholdStructure:single_house_single_storeyed": {
+          "Count": "Int:28849"
+        },
+        "HouseholdStructure:single_house_two_storeyed": {
+          "Count": "Int:3704"
+        },
+        "HouseholdStructure:single_house_more_than_two_storeyed": {
+          "Count": "Int:145"
+        },
+        "HouseholdStructure:attached_house_1st_floor": {
+          "Count": "Int:241"
+        },
+        "HouseholdStructure:attached_house_2nd_floor": {
+          "Count": "Int:28"
+        },
+        "HouseholdStructure:attached_house_from_3_to_4_floors": {
+          "Count": "Int:4"
+        },
+        "HouseholdStructure:attached_house_from_5_to_10_floors": {
+          "Count": "Int:0"
+        },
+        "HouseholdStructure:attached_house_from_11_to_19_floors": {
+          "Count": "Int:0"
+        },
+        "HouseholdStructure:attached_house_from_20_floors_or_more": {
+          "Count": "Int:0"
+        },
+        "HouseholdStructure:other": {
+          "Count": "Int:0"
+        }
+      },
+      "PD:EC-03D": {
+        "HouseholdStructure:single_house_single_storeyed": {
+          "Count": "Int:28094"
+        },
+        "HouseholdStructure:single_house_two_storeyed": {
+          "Count": "Int:3062"
+        },
+        "HouseholdStructure:single_house_more_than_two_storeyed": {
+          "Count": "Int:66"
+        },
+        "HouseholdStructure:attached_house_1st_floor": {
+          "Count": "Int:1261"
+        },
+        "HouseholdStructure:attached_house_2nd_floor": {
+          "Count": "Int:54"
+        },
+        "HouseholdStructure:attached_house_from_3_to_4_floors": {
+          "Count": "Int:16"
+        },
+        "HouseholdStructure:attached_house_from_5_to_10_floors": {
+          "Count": "Int:0"
+        },
+        "HouseholdStructure:attached_house_from_11_to_19_floors": {
+          "Count": "Int:0"
+        },
+        "HouseholdStructure:attached_house_from_20_floors_or_more": {
+          "Count": "Int:0"
+        },
+        "HouseholdStructure:other": {
+          "Count": "Int:4"
+        }
+      },
+      "PD:EC-22A": {
+        "HouseholdStructure:single_house_single_storeyed": {
+          "Count": "Int:27881"
+        },
+        "HouseholdStructure:single_house_two_storeyed": {
+          "Count": "Int:3822"
+        },
+        "HouseholdStructure:single_house_more_than_two_storeyed": {
+          "Count": "Int:213"
+        },
+        "HouseholdStructure:attached_house_1st_floor": {
+          "Count": "Int:222"
+        },
+        "HouseholdStructure:attached_house_2nd_floor": {
+          "Count": "Int:42"
+        },
+        "HouseholdStructure:attached_house_from_3_to_4_floors": {
+          "Count": "Int:6"
+        },
+        "HouseholdStructure:attached_house_from_5_to_10_floors": {
+          "Count": "Int:0"
+        },
+        "HouseholdStructure:attached_house_from_11_to_19_floors": {
+          "Count": "Int:0"
+        },
+        "HouseholdStructure:attached_house_from_20_floors_or_more": {
+          "Count": "Int:0"
+        },
+        "HouseholdStructure:other": {
+          "Count": "Int:5"
+        }
+      },
+      "PD:EC-08F": {
+        "HouseholdStructure:single_house_single_storeyed": {
+          "Count": "Int:20326"
+        },
+        "HouseholdStructure:single_house_two_storeyed": {
+          "Count": "Int:9203"
+        },
+        "HouseholdStructure:single_house_more_than_two_storeyed": {
+          "Count": "Int:879"
+        },
+        "HouseholdStructure:attached_house_1st_floor": {
+          "Count": "Int:732"
+        },
+        "HouseholdStructure:attached_house_2nd_floor": {
+          "Count": "Int:721"
+        },
+        "HouseholdStructure:attached_house_from_3_to_4_floors": {
+          "Count": "Int:217"
+        },
+        "HouseholdStructure:attached_house_from_5_to_10_floors": {
+          "Count": "Int:0"
+        },
+        "HouseholdStructure:attached_house_from_11_to_19_floors": {
+          "Count": "Int:0"
+        },
+        "HouseholdStructure:attached_house_from_20_floors_or_more": {
+          "Count": "Int:0"
+        },
+        "HouseholdStructure:other": {
+          "Count": "Int:2"
+        }
+      },
+      "PD:EC-11A": {
+        "HouseholdStructure:single_house_single_storeyed": {
+          "Count": "Int:30553"
+        },
+        "HouseholdStructure:single_house_two_storeyed": {
+          "Count": "Int:1309"
+        },
+        "HouseholdStructure:single_house_more_than_two_storeyed": {
+          "Count": "Int:51"
+        },
+        "HouseholdStructure:attached_house_1st_floor": {
+          "Count": "Int:21"
+        },
+        "HouseholdStructure:attached_house_2nd_floor": {
+          "Count": "Int:28"
+        },
+        "HouseholdStructure:attached_house_from_3_to_4_floors": {
+          "Count": "Int:24"
+        },
+        "HouseholdStructure:attached_house_from_5_to_10_floors": {
+          "Count": "Int:0"
+        },
+        "HouseholdStructure:attached_house_from_11_to_19_floors": {
+          "Count": "Int:0"
+        },
+        "HouseholdStructure:attached_house_from_20_floors_or_more": {
+          "Count": "Int:0"
+        },
+        "HouseholdStructure:other": {
+          "Count": "Int:19"
+        }
+      },
+      "PD:EC-14A": {
+        "HouseholdStructure:single_house_single_storeyed": {
+          "Count": "Int:30983"
+        },
+        "HouseholdStructure:single_house_two_storeyed": {
+          "Count": "Int:961"
+        },
+        "HouseholdStructure:single_house_more_than_two_storeyed": {
+          "Count": "Int:23"
+        },
+        "HouseholdStructure:attached_house_1st_floor": {
+          "Count": "Int:8"
+        },
+        "HouseholdStructure:attached_house_2nd_floor": {
+          "Count": "Int:4"
+        },
+        "HouseholdStructure:attached_house_from_3_to_4_floors": {
+          "Count": "Int:0"
+        },
+        "HouseholdStructure:attached_house_from_5_to_10_floors": {
+          "Count": "Int:0"
+        },
+        "HouseholdStructure:attached_house_from_11_to_19_floors": {
+          "Count": "Int:0"
+        },
+        "HouseholdStructure:attached_house_from_20_floors_or_more": {
+          "Count": "Int:0"
+        },
+        "HouseholdStructure:other": {
+          "Count": "Int:11"
+        }
+      },
+      "PD:EC-04C": {
+        "HouseholdStructure:single_house_single_storeyed": {
+          "Count": "Int:23248"
+        },
+        "HouseholdStructure:single_house_two_storeyed": {
+          "Count": "Int:4822"
+        },
+        "HouseholdStructure:single_house_more_than_two_storeyed": {
+          "Count": "Int:539"
+        },
+        "HouseholdStructure:attached_house_1st_floor": {
+          "Count": "Int:2570"
+        },
+        "HouseholdStructure:attached_house_2nd_floor": {
+          "Count": "Int:633"
+        },
+        "HouseholdStructure:attached_house_from_3_to_4_floors": {
+          "Count": "Int:163"
+        },
+        "HouseholdStructure:attached_house_from_5_to_10_floors": {
+          "Count": "Int:2"
+        },
+        "HouseholdStructure:attached_house_from_11_to_19_floors": {
+          "Count": "Int:0"
+        },
+        "HouseholdStructure:attached_house_from_20_floors_or_more": {
+          "Count": "Int:0"
+        },
+        "HouseholdStructure:other": {
+          "Count": "Int:1"
+        }
+      },
+      "PD:EC-18B": {
+        "HouseholdStructure:single_house_single_storeyed": {
+          "Count": "Int:30182"
+        },
+        "HouseholdStructure:single_house_two_storeyed": {
+          "Count": "Int:1590"
+        },
+        "HouseholdStructure:single_house_more_than_two_storeyed": {
+          "Count": "Int:53"
+        },
+        "HouseholdStructure:attached_house_1st_floor": {
+          "Count": "Int:22"
+        },
+        "HouseholdStructure:attached_house_2nd_floor": {
+          "Count": "Int:14"
+        },
+        "HouseholdStructure:attached_house_from_3_to_4_floors": {
+          "Count": "Int:13"
+        },
+        "HouseholdStructure:attached_house_from_5_to_10_floors": {
+          "Count": "Int:0"
+        },
+        "HouseholdStructure:attached_house_from_11_to_19_floors": {
+          "Count": "Int:0"
+        },
+        "HouseholdStructure:attached_house_from_20_floors_or_more": {
+          "Count": "Int:0"
+        },
+        "HouseholdStructure:other": {
+          "Count": "Int:0"
+        }
+      },
+      "PD:EC-05C": {
+        "HouseholdStructure:single_house_single_storeyed": {
+          "Count": "Int:24464"
+        },
+        "HouseholdStructure:single_house_two_storeyed": {
+          "Count": "Int:4887"
+        },
+        "HouseholdStructure:single_house_more_than_two_storeyed": {
+          "Count": "Int:312"
+        },
+        "HouseholdStructure:attached_house_1st_floor": {
+          "Count": "Int:1083"
+        },
+        "HouseholdStructure:attached_house_2nd_floor": {
+          "Count": "Int:589"
+        },
+        "HouseholdStructure:attached_house_from_3_to_4_floors": {
+          "Count": "Int:88"
+        },
+        "HouseholdStructure:attached_house_from_5_to_10_floors": {
+          "Count": "Int:4"
+        },
+        "HouseholdStructure:attached_house_from_11_to_19_floors": {
+          "Count": "Int:0"
+        },
+        "HouseholdStructure:attached_house_from_20_floors_or_more": {
+          "Count": "Int:0"
+        },
+        "HouseholdStructure:other": {
+          "Count": "Int:3"
+        }
+      },
+      "PD:EC-04K": {
+        "HouseholdStructure:single_house_single_storeyed": {
+          "Count": "Int:23391"
+        },
+        "HouseholdStructure:single_house_two_storeyed": {
+          "Count": "Int:6628"
+        },
+        "HouseholdStructure:single_house_more_than_two_storeyed": {
+          "Count": "Int:654"
+        },
+        "HouseholdStructure:attached_house_1st_floor": {
+          "Count": "Int:324"
+        },
+        "HouseholdStructure:attached_house_2nd_floor": {
+          "Count": "Int:226"
+        },
+        "HouseholdStructure:attached_house_from_3_to_4_floors": {
+          "Count": "Int:38"
+        },
+        "HouseholdStructure:attached_house_from_5_to_10_floors": {
+          "Count": "Int:22"
+        },
+        "HouseholdStructure:attached_house_from_11_to_19_floors": {
+          "Count": "Int:0"
+        },
+        "HouseholdStructure:attached_house_from_20_floors_or_more": {
+          "Count": "Int:0"
+        },
+        "HouseholdStructure:other": {
+          "Count": "Int:1"
+        }
+      },
+      "PD:EC-15E": {
+        "HouseholdStructure:single_house_single_storeyed": {
+          "Count": "Int:28606"
+        },
+        "HouseholdStructure:single_house_two_storeyed": {
+          "Count": "Int:2551"
+        },
+        "HouseholdStructure:single_house_more_than_two_storeyed": {
+          "Count": "Int:30"
+        },
+        "HouseholdStructure:attached_house_1st_floor": {
+          "Count": "Int:38"
+        },
+        "HouseholdStructure:attached_house_2nd_floor": {
+          "Count": "Int:15"
+        },
+        "HouseholdStructure:attached_house_from_3_to_4_floors": {
+          "Count": "Int:3"
+        },
+        "HouseholdStructure:attached_house_from_5_to_10_floors": {
+          "Count": "Int:0"
+        },
+        "HouseholdStructure:attached_house_from_11_to_19_floors": {
+          "Count": "Int:0"
+        },
+        "HouseholdStructure:attached_house_from_20_floors_or_more": {
+          "Count": "Int:0"
+        },
+        "HouseholdStructure:other": {
+          "Count": "Int:2"
+        }
+      },
+      "PD:EC-19H": {
+        "HouseholdStructure:single_house_single_storeyed": {
+          "Count": "Int:22919"
+        },
+        "HouseholdStructure:single_house_two_storeyed": {
+          "Count": "Int:3919"
+        },
+        "HouseholdStructure:single_house_more_than_two_storeyed": {
+          "Count": "Int:635"
+        },
+        "HouseholdStructure:attached_house_1st_floor": {
+          "Count": "Int:3043"
+        },
+        "HouseholdStructure:attached_house_2nd_floor": {
+          "Count": "Int:219"
+        },
+        "HouseholdStructure:attached_house_from_3_to_4_floors": {
+          "Count": "Int:289"
+        },
+        "HouseholdStructure:attached_house_from_5_to_10_floors": {
+          "Count": "Int:0"
+        },
+        "HouseholdStructure:attached_house_from_11_to_19_floors": {
+          "Count": "Int:0"
+        },
+        "HouseholdStructure:attached_house_from_20_floors_or_more": {
+          "Count": "Int:0"
+        },
+        "HouseholdStructure:other": {
+          "Count": "Int:1"
+        }
+      },
+      "PD:EC-04J": {
+        "HouseholdStructure:single_house_single_storeyed": {
+          "Count": "Int:22086"
+        },
+        "HouseholdStructure:single_house_two_storeyed": {
+          "Count": "Int:7320"
+        },
+        "HouseholdStructure:single_house_more_than_two_storeyed": {
+          "Count": "Int:911"
+        },
+        "HouseholdStructure:attached_house_1st_floor": {
+          "Count": "Int:179"
+        },
+        "HouseholdStructure:attached_house_2nd_floor": {
+          "Count": "Int:125"
+        },
+        "HouseholdStructure:attached_house_from_3_to_4_floors": {
+          "Count": "Int:27"
+        },
+        "HouseholdStructure:attached_house_from_5_to_10_floors": {
+          "Count": "Int:9"
+        },
+        "HouseholdStructure:attached_house_from_11_to_19_floors": {
+          "Count": "Int:0"
+        },
+        "HouseholdStructure:attached_house_from_20_floors_or_more": {
+          "Count": "Int:0"
+        },
+        "HouseholdStructure:other": {
+          "Count": "Int:2"
+        }
+      },
+      "PD:EC-07J": {
+        "HouseholdStructure:single_house_single_storeyed": {
+          "Count": "Int:26542"
+        },
+        "HouseholdStructure:single_house_two_storeyed": {
+          "Count": "Int:3500"
+        },
+        "HouseholdStructure:single_house_more_than_two_storeyed": {
+          "Count": "Int:176"
+        },
+        "HouseholdStructure:attached_house_1st_floor": {
+          "Count": "Int:63"
+        },
+        "HouseholdStructure:attached_house_2nd_floor": {
+          "Count": "Int:38"
+        },
+        "HouseholdStructure:attached_house_from_3_to_4_floors": {
+          "Count": "Int:17"
+        },
+        "HouseholdStructure:attached_house_from_5_to_10_floors": {
+          "Count": "Int:0"
+        },
+        "HouseholdStructure:attached_house_from_11_to_19_floors": {
+          "Count": "Int:0"
+        },
+        "HouseholdStructure:attached_house_from_20_floors_or_more": {
+          "Count": "Int:0"
+        },
+        "HouseholdStructure:other": {
+          "Count": "Int:4"
+        }
+      },
+      "PD:EC-21G": {
+        "HouseholdStructure:single_house_single_storeyed": {
+          "Count": "Int:26352"
+        },
+        "HouseholdStructure:single_house_two_storeyed": {
+          "Count": "Int:1935"
+        },
+        "HouseholdStructure:single_house_more_than_two_storeyed": {
+          "Count": "Int:77"
+        },
+        "HouseholdStructure:attached_house_1st_floor": {
+          "Count": "Int:1524"
+        },
+        "HouseholdStructure:attached_house_2nd_floor": {
+          "Count": "Int:61"
+        },
+        "HouseholdStructure:attached_house_from_3_to_4_floors": {
+          "Count": "Int:20"
+        },
+        "HouseholdStructure:attached_house_from_5_to_10_floors": {
+          "Count": "Int:0"
+        },
+        "HouseholdStructure:attached_house_from_11_to_19_floors": {
+          "Count": "Int:0"
+        },
+        "HouseholdStructure:attached_house_from_20_floors_or_more": {
+          "Count": "Int:0"
+        },
+        "HouseholdStructure:other": {
+          "Count": "Int:1"
+        }
+      },
+      "PD:EC-13C": {
+        "HouseholdStructure:single_house_single_storeyed": {
+          "Count": "Int:22564"
+        },
+        "HouseholdStructure:single_house_two_storeyed": {
+          "Count": "Int:5719"
+        },
+        "HouseholdStructure:single_house_more_than_two_storeyed": {
+          "Count": "Int:208"
+        },
+        "HouseholdStructure:attached_house_1st_floor": {
+          "Count": "Int:544"
+        },
+        "HouseholdStructure:attached_house_2nd_floor": {
+          "Count": "Int:500"
+        },
+        "HouseholdStructure:attached_house_from_3_to_4_floors": {
+          "Count": "Int:421"
+        },
+        "HouseholdStructure:attached_house_from_5_to_10_floors": {
+          "Count": "Int:0"
+        },
+        "HouseholdStructure:attached_house_from_11_to_19_floors": {
+          "Count": "Int:0"
+        },
+        "HouseholdStructure:attached_house_from_20_floors_or_more": {
+          "Count": "Int:0"
+        },
+        "HouseholdStructure:other": {
+          "Count": "Int:4"
+        }
+      },
+      "PD:EC-06D": {
+        "HouseholdStructure:single_house_single_storeyed": {
+          "Count": "Int:23500"
+        },
+        "HouseholdStructure:single_house_two_storeyed": {
+          "Count": "Int:1751"
+        },
+        "HouseholdStructure:single_house_more_than_two_storeyed": {
+          "Count": "Int:236"
+        },
+        "HouseholdStructure:attached_house_1st_floor": {
+          "Count": "Int:4167"
+        },
+        "HouseholdStructure:attached_house_2nd_floor": {
           "Count": "Int:183"
+        },
+        "HouseholdStructure:attached_house_from_3_to_4_floors": {
+          "Count": "Int:88"
+        },
+        "HouseholdStructure:attached_house_from_5_to_10_floors": {
+          "Count": "Int:0"
+        },
+        "HouseholdStructure:attached_house_from_11_to_19_floors": {
+          "Count": "Int:0"
+        },
+        "HouseholdStructure:attached_house_from_20_floors_or_more": {
+          "Count": "Int:0"
+        },
+        "HouseholdStructure:other": {
+          "Count": "Int:4"
+        }
+      },
+      "PD:EC-15K": {
+        "HouseholdStructure:single_house_single_storeyed": {
+          "Count": "Int:26020"
+        },
+        "HouseholdStructure:single_house_two_storeyed": {
+          "Count": "Int:3448"
+        },
+        "HouseholdStructure:single_house_more_than_two_storeyed": {
+          "Count": "Int:76"
+        },
+        "HouseholdStructure:attached_house_1st_floor": {
+          "Count": "Int:79"
+        },
+        "HouseholdStructure:attached_house_2nd_floor": {
+          "Count": "Int:41"
+        },
+        "HouseholdStructure:attached_house_from_3_to_4_floors": {
+          "Count": "Int:8"
+        },
+        "HouseholdStructure:attached_house_from_5_to_10_floors": {
+          "Count": "Int:0"
+        },
+        "HouseholdStructure:attached_house_from_11_to_19_floors": {
+          "Count": "Int:0"
+        },
+        "HouseholdStructure:attached_house_from_20_floors_or_more": {
+          "Count": "Int:0"
+        },
+        "HouseholdStructure:other": {
+          "Count": "Int:2"
+        }
+      },
+      "PD:EC-15F": {
+        "HouseholdStructure:single_house_single_storeyed": {
+          "Count": "Int:28038"
+        },
+        "HouseholdStructure:single_house_two_storeyed": {
+          "Count": "Int:1511"
+        },
+        "HouseholdStructure:single_house_more_than_two_storeyed": {
+          "Count": "Int:19"
+        },
+        "HouseholdStructure:attached_house_1st_floor": {
+          "Count": "Int:25"
+        },
+        "HouseholdStructure:attached_house_2nd_floor": {
+          "Count": "Int:15"
+        },
+        "HouseholdStructure:attached_house_from_3_to_4_floors": {
+          "Count": "Int:1"
+        },
+        "HouseholdStructure:attached_house_from_5_to_10_floors": {
+          "Count": "Int:0"
+        },
+        "HouseholdStructure:attached_house_from_11_to_19_floors": {
+          "Count": "Int:0"
+        },
+        "HouseholdStructure:attached_house_from_20_floors_or_more": {
+          "Count": "Int:0"
+        },
+        "HouseholdStructure:other": {
+          "Count": "Int:2"
+        }
+      },
+      "PD:EC-08D": {
+        "HouseholdStructure:single_house_single_storeyed": {
+          "Count": "Int:25071"
+        },
+        "HouseholdStructure:single_house_two_storeyed": {
+          "Count": "Int:3803"
+        },
+        "HouseholdStructure:single_house_more_than_two_storeyed": {
+          "Count": "Int:168"
+        },
+        "HouseholdStructure:attached_house_1st_floor": {
+          "Count": "Int:135"
+        },
+        "HouseholdStructure:attached_house_2nd_floor": {
+          "Count": "Int:129"
+        },
+        "HouseholdStructure:attached_house_from_3_to_4_floors": {
+          "Count": "Int:33"
+        },
+        "HouseholdStructure:attached_house_from_5_to_10_floors": {
+          "Count": "Int:0"
+        },
+        "HouseholdStructure:attached_house_from_11_to_19_floors": {
+          "Count": "Int:0"
+        },
+        "HouseholdStructure:attached_house_from_20_floors_or_more": {
+          "Count": "Int:0"
+        },
+        "HouseholdStructure:other": {
+          "Count": "Int:5"
+        }
+      },
+      "PD:EC-09B": {
+        "HouseholdStructure:single_house_single_storeyed": {
+          "Count": "Int:25421"
+        },
+        "HouseholdStructure:single_house_two_storeyed": {
+          "Count": "Int:3652"
+        },
+        "HouseholdStructure:single_house_more_than_two_storeyed": {
+          "Count": "Int:116"
+        },
+        "HouseholdStructure:attached_house_1st_floor": {
+          "Count": "Int:14"
+        },
+        "HouseholdStructure:attached_house_2nd_floor": {
+          "Count": "Int:18"
+        },
+        "HouseholdStructure:attached_house_from_3_to_4_floors": {
+          "Count": "Int:2"
+        },
+        "HouseholdStructure:attached_house_from_5_to_10_floors": {
+          "Count": "Int:0"
+        },
+        "HouseholdStructure:attached_house_from_11_to_19_floors": {
+          "Count": "Int:0"
+        },
+        "HouseholdStructure:attached_house_from_20_floors_or_more": {
+          "Count": "Int:0"
+        },
+        "HouseholdStructure:other": {
+          "Count": "Int:0"
+        }
+      },
+      "PD:EC-19G": {
+        "HouseholdStructure:single_house_single_storeyed": {
+          "Count": "Int:24927"
+        },
+        "HouseholdStructure:single_house_two_storeyed": {
+          "Count": "Int:2378"
+        },
+        "HouseholdStructure:single_house_more_than_two_storeyed": {
+          "Count": "Int:237"
+        },
+        "HouseholdStructure:attached_house_1st_floor": {
+          "Count": "Int:1023"
+        },
+        "HouseholdStructure:attached_house_2nd_floor": {
+          "Count": "Int:56"
+        },
+        "HouseholdStructure:attached_house_from_3_to_4_floors": {
+          "Count": "Int:43"
+        },
+        "HouseholdStructure:attached_house_from_5_to_10_floors": {
+          "Count": "Int:0"
+        },
+        "HouseholdStructure:attached_house_from_11_to_19_floors": {
+          "Count": "Int:0"
+        },
+        "HouseholdStructure:attached_house_from_20_floors_or_more": {
+          "Count": "Int:0"
+        },
+        "HouseholdStructure:other": {
+          "Count": "Int:4"
+        }
+      },
+      "PD:EC-22H": {
+        "HouseholdStructure:single_house_single_storeyed": {
+          "Count": "Int:24162"
+        },
+        "HouseholdStructure:single_house_two_storeyed": {
+          "Count": "Int:3422"
+        },
+        "HouseholdStructure:single_house_more_than_two_storeyed": {
+          "Count": "Int:178"
+        },
+        "HouseholdStructure:attached_house_1st_floor": {
+          "Count": "Int:568"
+        },
+        "HouseholdStructure:attached_house_2nd_floor": {
+          "Count": "Int:93"
+        },
+        "HouseholdStructure:attached_house_from_3_to_4_floors": {
+          "Count": "Int:18"
+        },
+        "HouseholdStructure:attached_house_from_5_to_10_floors": {
+          "Count": "Int:0"
+        },
+        "HouseholdStructure:attached_house_from_11_to_19_floors": {
+          "Count": "Int:0"
+        },
+        "HouseholdStructure:attached_house_from_20_floors_or_more": {
+          "Count": "Int:0"
+        },
+        "HouseholdStructure:other": {
+          "Count": "Int:5"
+        }
+      },
+      "PD:EC-07C": {
+        "HouseholdStructure:single_house_single_storeyed": {
+          "Count": "Int:24798"
+        },
+        "HouseholdStructure:single_house_two_storeyed": {
+          "Count": "Int:3330"
+        },
+        "HouseholdStructure:single_house_more_than_two_storeyed": {
+          "Count": "Int:96"
+        },
+        "HouseholdStructure:attached_house_1st_floor": {
+          "Count": "Int:177"
+        },
+        "HouseholdStructure:attached_house_2nd_floor": {
+          "Count": "Int:14"
+        },
+        "HouseholdStructure:attached_house_from_3_to_4_floors": {
+          "Count": "Int:1"
+        },
+        "HouseholdStructure:attached_house_from_5_to_10_floors": {
+          "Count": "Int:1"
+        },
+        "HouseholdStructure:attached_house_from_11_to_19_floors": {
+          "Count": "Int:0"
+        },
+        "HouseholdStructure:attached_house_from_20_floors_or_more": {
+          "Count": "Int:0"
+        },
+        "HouseholdStructure:other": {
+          "Count": "Int:3"
+        }
+      },
+      "PD:EC-04H": {
+        "HouseholdStructure:single_house_single_storeyed": {
+          "Count": "Int:16758"
+        },
+        "HouseholdStructure:single_house_two_storeyed": {
+          "Count": "Int:8082"
+        },
+        "HouseholdStructure:single_house_more_than_two_storeyed": {
+          "Count": "Int:1606"
+        },
+        "HouseholdStructure:attached_house_1st_floor": {
+          "Count": "Int:835"
+        },
+        "HouseholdStructure:attached_house_2nd_floor": {
+          "Count": "Int:781"
+        },
+        "HouseholdStructure:attached_house_from_3_to_4_floors": {
+          "Count": "Int:218"
+        },
+        "HouseholdStructure:attached_house_from_5_to_10_floors": {
+          "Count": "Int:73"
+        },
+        "HouseholdStructure:attached_house_from_11_to_19_floors": {
+          "Count": "Int:23"
+        },
+        "HouseholdStructure:attached_house_from_20_floors_or_more": {
+          "Count": "Int:0"
+        },
+        "HouseholdStructure:other": {
+          "Count": "Int:3"
+        }
+      },
+      "PD:EC-07B": {
+        "HouseholdStructure:single_house_single_storeyed": {
+          "Count": "Int:22764"
+        },
+        "HouseholdStructure:single_house_two_storeyed": {
+          "Count": "Int:5058"
+        },
+        "HouseholdStructure:single_house_more_than_two_storeyed": {
+          "Count": "Int:280"
+        },
+        "HouseholdStructure:attached_house_1st_floor": {
+          "Count": "Int:79"
+        },
+        "HouseholdStructure:attached_house_2nd_floor": {
+          "Count": "Int:86"
+        },
+        "HouseholdStructure:attached_house_from_3_to_4_floors": {
+          "Count": "Int:13"
+        },
+        "HouseholdStructure:attached_house_from_5_to_10_floors": {
+          "Count": "Int:0"
+        },
+        "HouseholdStructure:attached_house_from_11_to_19_floors": {
+          "Count": "Int:0"
+        },
+        "HouseholdStructure:attached_house_from_20_floors_or_more": {
+          "Count": "Int:0"
+        },
+        "HouseholdStructure:other": {
+          "Count": "Int:0"
+        }
+      },
+      "PD:EC-05B": {
+        "HouseholdStructure:single_house_single_storeyed": {
+          "Count": "Int:26470"
+        },
+        "HouseholdStructure:single_house_two_storeyed": {
+          "Count": "Int:1350"
+        },
+        "HouseholdStructure:single_house_more_than_two_storeyed": {
+          "Count": "Int:24"
+        },
+        "HouseholdStructure:attached_house_1st_floor": {
+          "Count": "Int:343"
+        },
+        "HouseholdStructure:attached_house_2nd_floor": {
+          "Count": "Int:15"
+        },
+        "HouseholdStructure:attached_house_from_3_to_4_floors": {
+          "Count": "Int:2"
+        },
+        "HouseholdStructure:attached_house_from_5_to_10_floors": {
+          "Count": "Int:0"
+        },
+        "HouseholdStructure:attached_house_from_11_to_19_floors": {
+          "Count": "Int:0"
+        },
+        "HouseholdStructure:attached_house_from_20_floors_or_more": {
+          "Count": "Int:0"
+        },
+        "HouseholdStructure:other": {
+          "Count": "Int:1"
+        }
+      },
+      "PD:EC-08E": {
+        "HouseholdStructure:single_house_single_storeyed": {
+          "Count": "Int:24557"
+        },
+        "HouseholdStructure:single_house_two_storeyed": {
+          "Count": "Int:3141"
+        },
+        "HouseholdStructure:single_house_more_than_two_storeyed": {
+          "Count": "Int:173"
+        },
+        "HouseholdStructure:attached_house_1st_floor": {
+          "Count": "Int:164"
+        },
+        "HouseholdStructure:attached_house_2nd_floor": {
+          "Count": "Int:126"
+        },
+        "HouseholdStructure:attached_house_from_3_to_4_floors": {
+          "Count": "Int:8"
+        },
+        "HouseholdStructure:attached_house_from_5_to_10_floors": {
+          "Count": "Int:0"
+        },
+        "HouseholdStructure:attached_house_from_11_to_19_floors": {
+          "Count": "Int:0"
+        },
+        "HouseholdStructure:attached_house_from_20_floors_or_more": {
+          "Count": "Int:0"
+        },
+        "HouseholdStructure:other": {
+          "Count": "Int:2"
+        }
+      },
+      "PD:EC-06B": {
+        "HouseholdStructure:single_house_single_storeyed": {
+          "Count": "Int:19934"
+        },
+        "HouseholdStructure:single_house_two_storeyed": {
+          "Count": "Int:1787"
+        },
+        "HouseholdStructure:single_house_more_than_two_storeyed": {
+          "Count": "Int:259"
+        },
+        "HouseholdStructure:attached_house_1st_floor": {
+          "Count": "Int:5673"
+        },
+        "HouseholdStructure:attached_house_2nd_floor": {
+          "Count": "Int:193"
+        },
+        "HouseholdStructure:attached_house_from_3_to_4_floors": {
+          "Count": "Int:120"
+        },
+        "HouseholdStructure:attached_house_from_5_to_10_floors": {
+          "Count": "Int:0"
+        },
+        "HouseholdStructure:attached_house_from_11_to_19_floors": {
+          "Count": "Int:0"
+        },
+        "HouseholdStructure:attached_house_from_20_floors_or_more": {
+          "Count": "Int:0"
+        },
+        "HouseholdStructure:other": {
+          "Count": "Int:6"
+        }
+      },
+      "PD:EC-01I": {
+        "HouseholdStructure:single_house_single_storeyed": {
+          "Count": "Int:11585"
+        },
+        "HouseholdStructure:single_house_two_storeyed": {
+          "Count": "Int:11878"
+        },
+        "HouseholdStructure:single_house_more_than_two_storeyed": {
+          "Count": "Int:2078"
+        },
+        "HouseholdStructure:attached_house_1st_floor": {
+          "Count": "Int:568"
+        },
+        "HouseholdStructure:attached_house_2nd_floor": {
+          "Count": "Int:685"
+        },
+        "HouseholdStructure:attached_house_from_3_to_4_floors": {
+          "Count": "Int:357"
+        },
+        "HouseholdStructure:attached_house_from_5_to_10_floors": {
+          "Count": "Int:346"
+        },
+        "HouseholdStructure:attached_house_from_11_to_19_floors": {
+          "Count": "Int:148"
+        },
+        "HouseholdStructure:attached_house_from_20_floors_or_more": {
+          "Count": "Int:185"
+        },
+        "HouseholdStructure:other": {
+          "Count": "Int:3"
+        }
+      },
+      "PD:EC-22G": {
+        "HouseholdStructure:single_house_single_storeyed": {
+          "Count": "Int:22487"
+        },
+        "HouseholdStructure:single_house_two_storeyed": {
+          "Count": "Int:2224"
+        },
+        "HouseholdStructure:single_house_more_than_two_storeyed": {
+          "Count": "Int:152"
+        },
+        "HouseholdStructure:attached_house_1st_floor": {
+          "Count": "Int:2408"
+        },
+        "HouseholdStructure:attached_house_2nd_floor": {
+          "Count": "Int:64"
+        },
+        "HouseholdStructure:attached_house_from_3_to_4_floors": {
+          "Count": "Int:14"
+        },
+        "HouseholdStructure:attached_house_from_5_to_10_floors": {
+          "Count": "Int:0"
+        },
+        "HouseholdStructure:attached_house_from_11_to_19_floors": {
+          "Count": "Int:0"
+        },
+        "HouseholdStructure:attached_house_from_20_floors_or_more": {
+          "Count": "Int:0"
+        },
+        "HouseholdStructure:other": {
+          "Count": "Int:2"
+        }
+      },
+      "PD:EC-07G": {
+        "HouseholdStructure:single_house_single_storeyed": {
+          "Count": "Int:23227"
+        },
+        "HouseholdStructure:single_house_two_storeyed": {
+          "Count": "Int:3626"
+        },
+        "HouseholdStructure:single_house_more_than_two_storeyed": {
+          "Count": "Int:161"
+        },
+        "HouseholdStructure:attached_house_1st_floor": {
+          "Count": "Int:93"
+        },
+        "HouseholdStructure:attached_house_2nd_floor": {
+          "Count": "Int:117"
+        },
+        "HouseholdStructure:attached_house_from_3_to_4_floors": {
+          "Count": "Int:56"
+        },
+        "HouseholdStructure:attached_house_from_5_to_10_floors": {
+          "Count": "Int:0"
+        },
+        "HouseholdStructure:attached_house_from_11_to_19_floors": {
+          "Count": "Int:0"
+        },
+        "HouseholdStructure:attached_house_from_20_floors_or_more": {
+          "Count": "Int:0"
+        },
+        "HouseholdStructure:other": {
+          "Count": "Int:0"
+        }
+      },
+      "PD:EC-17F": {
+        "HouseholdStructure:single_house_single_storeyed": {
+          "Count": "Int:25483"
+        },
+        "HouseholdStructure:single_house_two_storeyed": {
+          "Count": "Int:1418"
+        },
+        "HouseholdStructure:single_house_more_than_two_storeyed": {
+          "Count": "Int:25"
+        },
+        "HouseholdStructure:attached_house_1st_floor": {
+          "Count": "Int:47"
+        },
+        "HouseholdStructure:attached_house_2nd_floor": {
+          "Count": "Int:21"
+        },
+        "HouseholdStructure:attached_house_from_3_to_4_floors": {
+          "Count": "Int:3"
+        },
+        "HouseholdStructure:attached_house_from_5_to_10_floors": {
+          "Count": "Int:0"
+        },
+        "HouseholdStructure:attached_house_from_11_to_19_floors": {
+          "Count": "Int:0"
+        },
+        "HouseholdStructure:attached_house_from_20_floors_or_more": {
+          "Count": "Int:0"
+        },
+        "HouseholdStructure:other": {
+          "Count": "Int:0"
+        }
+      },
+      "PD:EC-15N": {
+        "HouseholdStructure:single_house_single_storeyed": {
+          "Count": "Int:24007"
+        },
+        "HouseholdStructure:single_house_two_storeyed": {
+          "Count": "Int:2575"
+        },
+        "HouseholdStructure:single_house_more_than_two_storeyed": {
+          "Count": "Int:60"
+        },
+        "HouseholdStructure:attached_house_1st_floor": {
+          "Count": "Int:181"
+        },
+        "HouseholdStructure:attached_house_2nd_floor": {
+          "Count": "Int:21"
+        },
+        "HouseholdStructure:attached_house_from_3_to_4_floors": {
+          "Count": "Int:1"
+        },
+        "HouseholdStructure:attached_house_from_5_to_10_floors": {
+          "Count": "Int:0"
+        },
+        "HouseholdStructure:attached_house_from_11_to_19_floors": {
+          "Count": "Int:0"
+        },
+        "HouseholdStructure:attached_house_from_20_floors_or_more": {
+          "Count": "Int:0"
+        },
+        "HouseholdStructure:other": {
+          "Count": "Int:3"
+        }
+      },
+      "PD:EC-22C": {
+        "HouseholdStructure:single_house_single_storeyed": {
+          "Count": "Int:20990"
+        },
+        "HouseholdStructure:single_house_two_storeyed": {
+          "Count": "Int:4686"
+        },
+        "HouseholdStructure:single_house_more_than_two_storeyed": {
+          "Count": "Int:463"
+        },
+        "HouseholdStructure:attached_house_1st_floor": {
+          "Count": "Int:217"
+        },
+        "HouseholdStructure:attached_house_2nd_floor": {
+          "Count": "Int:135"
+        },
+        "HouseholdStructure:attached_house_from_3_to_4_floors": {
+          "Count": "Int:37"
+        },
+        "HouseholdStructure:attached_house_from_5_to_10_floors": {
+          "Count": "Int:0"
+        },
+        "HouseholdStructure:attached_house_from_11_to_19_floors": {
+          "Count": "Int:0"
+        },
+        "HouseholdStructure:attached_house_from_20_floors_or_more": {
+          "Count": "Int:0"
+        },
+        "HouseholdStructure:other": {
+          "Count": "Int:4"
+        }
+      },
+      "PD:EC-07H": {
+        "HouseholdStructure:single_house_single_storeyed": {
+          "Count": "Int:16620"
+        },
+        "HouseholdStructure:single_house_two_storeyed": {
+          "Count": "Int:6628"
+        },
+        "HouseholdStructure:single_house_more_than_two_storeyed": {
+          "Count": "Int:618"
+        },
+        "HouseholdStructure:attached_house_1st_floor": {
+          "Count": "Int:1147"
+        },
+        "HouseholdStructure:attached_house_2nd_floor": {
+          "Count": "Int:908"
+        },
+        "HouseholdStructure:attached_house_from_3_to_4_floors": {
+          "Count": "Int:192"
+        },
+        "HouseholdStructure:attached_house_from_5_to_10_floors": {
+          "Count": "Int:54"
+        },
+        "HouseholdStructure:attached_house_from_11_to_19_floors": {
+          "Count": "Int:0"
+        },
+        "HouseholdStructure:attached_house_from_20_floors_or_more": {
+          "Count": "Int:0"
+        },
+        "HouseholdStructure:other": {
+          "Count": "Int:6"
+        }
+      },
+      "PD:EC-22I": {
+        "HouseholdStructure:single_house_single_storeyed": {
+          "Count": "Int:21516"
+        },
+        "HouseholdStructure:single_house_two_storeyed": {
+          "Count": "Int:1896"
+        },
+        "HouseholdStructure:single_house_more_than_two_storeyed": {
+          "Count": "Int:112"
+        },
+        "HouseholdStructure:attached_house_1st_floor": {
+          "Count": "Int:2495"
+        },
+        "HouseholdStructure:attached_house_2nd_floor": {
+          "Count": "Int:18"
+        },
+        "HouseholdStructure:attached_house_from_3_to_4_floors": {
+          "Count": "Int:14"
+        },
+        "HouseholdStructure:attached_house_from_5_to_10_floors": {
+          "Count": "Int:0"
+        },
+        "HouseholdStructure:attached_house_from_11_to_19_floors": {
+          "Count": "Int:0"
+        },
+        "HouseholdStructure:attached_house_from_20_floors_or_more": {
+          "Count": "Int:0"
+        },
+        "HouseholdStructure:other": {
+          "Count": "Int:3"
+        }
+      },
+      "PD:EC-19E": {
+        "HouseholdStructure:single_house_single_storeyed": {
+          "Count": "Int:18834"
+        },
+        "HouseholdStructure:single_house_two_storeyed": {
+          "Count": "Int:2316"
+        },
+        "HouseholdStructure:single_house_more_than_two_storeyed": {
+          "Count": "Int:188"
+        },
+        "HouseholdStructure:attached_house_1st_floor": {
+          "Count": "Int:4220"
+        },
+        "HouseholdStructure:attached_house_2nd_floor": {
+          "Count": "Int:269"
+        },
+        "HouseholdStructure:attached_house_from_3_to_4_floors": {
+          "Count": "Int:118"
+        },
+        "HouseholdStructure:attached_house_from_5_to_10_floors": {
+          "Count": "Int:0"
+        },
+        "HouseholdStructure:attached_house_from_11_to_19_floors": {
+          "Count": "Int:0"
+        },
+        "HouseholdStructure:attached_house_from_20_floors_or_more": {
+          "Count": "Int:0"
+        },
+        "HouseholdStructure:other": {
+          "Count": "Int:0"
+        }
+      },
+      "PD:EC-06C": {
+        "HouseholdStructure:single_house_single_storeyed": {
+          "Count": "Int:21730"
+        },
+        "HouseholdStructure:single_house_two_storeyed": {
+          "Count": "Int:2307"
+        },
+        "HouseholdStructure:single_house_more_than_two_storeyed": {
+          "Count": "Int:271"
+        },
+        "HouseholdStructure:attached_house_1st_floor": {
+          "Count": "Int:1536"
+        },
+        "HouseholdStructure:attached_house_2nd_floor": {
+          "Count": "Int:65"
+        },
+        "HouseholdStructure:attached_house_from_3_to_4_floors": {
+          "Count": "Int:21"
+        },
+        "HouseholdStructure:attached_house_from_5_to_10_floors": {
+          "Count": "Int:0"
+        },
+        "HouseholdStructure:attached_house_from_11_to_19_floors": {
+          "Count": "Int:0"
+        },
+        "HouseholdStructure:attached_house_from_20_floors_or_more": {
+          "Count": "Int:0"
+        },
+        "HouseholdStructure:other": {
+          "Count": "Int:2"
+        }
+      },
+      "PD:EC-01F": {
+        "HouseholdStructure:single_house_single_storeyed": {
+          "Count": "Int:9014"
+        },
+        "HouseholdStructure:single_house_two_storeyed": {
+          "Count": "Int:8660"
+        },
+        "HouseholdStructure:single_house_more_than_two_storeyed": {
+          "Count": "Int:1968"
+        },
+        "HouseholdStructure:attached_house_1st_floor": {
+          "Count": "Int:1665"
+        },
+        "HouseholdStructure:attached_house_2nd_floor": {
+          "Count": "Int:1711"
+        },
+        "HouseholdStructure:attached_house_from_3_to_4_floors": {
+          "Count": "Int:1372"
+        },
+        "HouseholdStructure:attached_house_from_5_to_10_floors": {
+          "Count": "Int:930"
+        },
+        "HouseholdStructure:attached_house_from_11_to_19_floors": {
+          "Count": "Int:57"
+        },
+        "HouseholdStructure:attached_house_from_20_floors_or_more": {
+          "Count": "Int:1"
+        },
+        "HouseholdStructure:other": {
+          "Count": "Int:4"
+        }
+      },
+      "PD:EC-04G": {
+        "HouseholdStructure:single_house_single_storeyed": {
+          "Count": "Int:20959"
+        },
+        "HouseholdStructure:single_house_two_storeyed": {
+          "Count": "Int:2797"
+        },
+        "HouseholdStructure:single_house_more_than_two_storeyed": {
+          "Count": "Int:266"
+        },
+        "HouseholdStructure:attached_house_1st_floor": {
+          "Count": "Int:1209"
+        },
+        "HouseholdStructure:attached_house_2nd_floor": {
+          "Count": "Int:83"
+        },
+        "HouseholdStructure:attached_house_from_3_to_4_floors": {
+          "Count": "Int:26"
+        },
+        "HouseholdStructure:attached_house_from_5_to_10_floors": {
+          "Count": "Int:0"
+        },
+        "HouseholdStructure:attached_house_from_11_to_19_floors": {
+          "Count": "Int:0"
+        },
+        "HouseholdStructure:attached_house_from_20_floors_or_more": {
+          "Count": "Int:0"
+        },
+        "HouseholdStructure:other": {
+          "Count": "Int:3"
+        }
+      },
+      "PD:EC-01G": {
+        "HouseholdStructure:single_house_single_storeyed": {
+          "Count": "Int:12272"
+        },
+        "HouseholdStructure:single_house_two_storeyed": {
+          "Count": "Int:8066"
+        },
+        "HouseholdStructure:single_house_more_than_two_storeyed": {
+          "Count": "Int:1427"
+        },
+        "HouseholdStructure:attached_house_1st_floor": {
+          "Count": "Int:1160"
+        },
+        "HouseholdStructure:attached_house_2nd_floor": {
+          "Count": "Int:1295"
+        },
+        "HouseholdStructure:attached_house_from_3_to_4_floors": {
+          "Count": "Int:662"
+        },
+        "HouseholdStructure:attached_house_from_5_to_10_floors": {
+          "Count": "Int:119"
+        },
+        "HouseholdStructure:attached_house_from_11_to_19_floors": {
+          "Count": "Int:4"
+        },
+        "HouseholdStructure:attached_house_from_20_floors_or_more": {
+          "Count": "Int:0"
+        },
+        "HouseholdStructure:other": {
+          "Count": "Int:0"
+        }
+      },
+      "PD:EC-22D": {
+        "HouseholdStructure:single_house_single_storeyed": {
+          "Count": "Int:20770"
+        },
+        "HouseholdStructure:single_house_two_storeyed": {
+          "Count": "Int:3611"
+        },
+        "HouseholdStructure:single_house_more_than_two_storeyed": {
+          "Count": "Int:139"
+        },
+        "HouseholdStructure:attached_house_1st_floor": {
+          "Count": "Int:56"
+        },
+        "HouseholdStructure:attached_house_2nd_floor": {
+          "Count": "Int:23"
+        },
+        "HouseholdStructure:attached_house_from_3_to_4_floors": {
+          "Count": "Int:2"
+        },
+        "HouseholdStructure:attached_house_from_5_to_10_floors": {
+          "Count": "Int:0"
+        },
+        "HouseholdStructure:attached_house_from_11_to_19_floors": {
+          "Count": "Int:0"
+        },
+        "HouseholdStructure:attached_house_from_20_floors_or_more": {
+          "Count": "Int:0"
+        },
+        "HouseholdStructure:other": {
+          "Count": "Int:0"
+        }
+      },
+      "PD:EC-19I": {
+        "HouseholdStructure:single_house_single_storeyed": {
+          "Count": "Int:18348"
+        },
+        "HouseholdStructure:single_house_two_storeyed": {
+          "Count": "Int:1918"
+        },
+        "HouseholdStructure:single_house_more_than_two_storeyed": {
+          "Count": "Int:209"
+        },
+        "HouseholdStructure:attached_house_1st_floor": {
+          "Count": "Int:3613"
+        },
+        "HouseholdStructure:attached_house_2nd_floor": {
+          "Count": "Int:99"
+        },
+        "HouseholdStructure:attached_house_from_3_to_4_floors": {
+          "Count": "Int:60"
+        },
+        "HouseholdStructure:attached_house_from_5_to_10_floors": {
+          "Count": "Int:0"
+        },
+        "HouseholdStructure:attached_house_from_11_to_19_floors": {
+          "Count": "Int:0"
+        },
+        "HouseholdStructure:attached_house_from_20_floors_or_more": {
+          "Count": "Int:0"
+        },
+        "HouseholdStructure:other": {
+          "Count": "Int:3"
+        }
+      },
+      "PD:EC-22B": {
+        "HouseholdStructure:single_house_single_storeyed": {
+          "Count": "Int:20791"
+        },
+        "HouseholdStructure:single_house_two_storeyed": {
+          "Count": "Int:2735"
+        },
+        "HouseholdStructure:single_house_more_than_two_storeyed": {
+          "Count": "Int:108"
+        },
+        "HouseholdStructure:attached_house_1st_floor": {
+          "Count": "Int:357"
+        },
+        "HouseholdStructure:attached_house_2nd_floor": {
+          "Count": "Int:33"
+        },
+        "HouseholdStructure:attached_house_from_3_to_4_floors": {
+          "Count": "Int:7"
+        },
+        "HouseholdStructure:attached_house_from_5_to_10_floors": {
+          "Count": "Int:0"
+        },
+        "HouseholdStructure:attached_house_from_11_to_19_floors": {
+          "Count": "Int:0"
+        },
+        "HouseholdStructure:attached_house_from_20_floors_or_more": {
+          "Count": "Int:0"
+        },
+        "HouseholdStructure:other": {
+          "Count": "Int:1"
+        }
+      },
+      "PD:EC-01D": {
+        "HouseholdStructure:single_house_single_storeyed": {
+          "Count": "Int:8939"
+        },
+        "HouseholdStructure:single_house_two_storeyed": {
+          "Count": "Int:5868"
+        },
+        "HouseholdStructure:single_house_more_than_two_storeyed": {
+          "Count": "Int:1290"
+        },
+        "HouseholdStructure:attached_house_1st_floor": {
+          "Count": "Int:1220"
+        },
+        "HouseholdStructure:attached_house_2nd_floor": {
+          "Count": "Int:1344"
+        },
+        "HouseholdStructure:attached_house_from_3_to_4_floors": {
+          "Count": "Int:2129"
+        },
+        "HouseholdStructure:attached_house_from_5_to_10_floors": {
+          "Count": "Int:1748"
+        },
+        "HouseholdStructure:attached_house_from_11_to_19_floors": {
+          "Count": "Int:531"
+        },
+        "HouseholdStructure:attached_house_from_20_floors_or_more": {
+          "Count": "Int:212"
+        },
+        "HouseholdStructure:other": {
+          "Count": "Int:2"
+        }
+      },
+      "PD:EC-04D": {
+        "HouseholdStructure:single_house_single_storeyed": {
+          "Count": "Int:21492"
+        },
+        "HouseholdStructure:single_house_two_storeyed": {
+          "Count": "Int:873"
+        },
+        "HouseholdStructure:single_house_more_than_two_storeyed": {
+          "Count": "Int:47"
+        },
+        "HouseholdStructure:attached_house_1st_floor": {
+          "Count": "Int:224"
+        },
+        "HouseholdStructure:attached_house_2nd_floor": {
+          "Count": "Int:30"
+        },
+        "HouseholdStructure:attached_house_from_3_to_4_floors": {
+          "Count": "Int:6"
+        },
+        "HouseholdStructure:attached_house_from_5_to_10_floors": {
+          "Count": "Int:0"
+        },
+        "HouseholdStructure:attached_house_from_11_to_19_floors": {
+          "Count": "Int:0"
+        },
+        "HouseholdStructure:attached_house_from_20_floors_or_more": {
+          "Count": "Int:0"
+        },
+        "HouseholdStructure:other": {
+          "Count": "Int:0"
+        }
+      },
+      "PD:EC-19F": {
+        "HouseholdStructure:single_house_single_storeyed": {
+          "Count": "Int:20344"
+        },
+        "HouseholdStructure:single_house_two_storeyed": {
+          "Count": "Int:1236"
+        },
+        "HouseholdStructure:single_house_more_than_two_storeyed": {
+          "Count": "Int:79"
+        },
+        "HouseholdStructure:attached_house_1st_floor": {
+          "Count": "Int:902"
+        },
+        "HouseholdStructure:attached_house_2nd_floor": {
+          "Count": "Int:27"
+        },
+        "HouseholdStructure:attached_house_from_3_to_4_floors": {
+          "Count": "Int:16"
+        },
+        "HouseholdStructure:attached_house_from_5_to_10_floors": {
+          "Count": "Int:0"
+        },
+        "HouseholdStructure:attached_house_from_11_to_19_floors": {
+          "Count": "Int:0"
+        },
+        "HouseholdStructure:attached_house_from_20_floors_or_more": {
+          "Count": "Int:0"
+        },
+        "HouseholdStructure:other": {
+          "Count": "Int:1"
+        }
+      },
+      "PD:EC-19C": {
+        "HouseholdStructure:single_house_single_storeyed": {
+          "Count": "Int:15762"
+        },
+        "HouseholdStructure:single_house_two_storeyed": {
+          "Count": "Int:1190"
+        },
+        "HouseholdStructure:single_house_more_than_two_storeyed": {
+          "Count": "Int:149"
+        },
+        "HouseholdStructure:attached_house_1st_floor": {
+          "Count": "Int:5000"
+        },
+        "HouseholdStructure:attached_house_2nd_floor": {
+          "Count": "Int:147"
+        },
+        "HouseholdStructure:attached_house_from_3_to_4_floors": {
+          "Count": "Int:134"
+        },
+        "HouseholdStructure:attached_house_from_5_to_10_floors": {
+          "Count": "Int:0"
+        },
+        "HouseholdStructure:attached_house_from_11_to_19_floors": {
+          "Count": "Int:0"
+        },
+        "HouseholdStructure:attached_house_from_20_floors_or_more": {
+          "Count": "Int:0"
+        },
+        "HouseholdStructure:other": {
+          "Count": "Int:3"
+        }
+      },
+      "PD:EC-19D": {
+        "HouseholdStructure:single_house_single_storeyed": {
+          "Count": "Int:14684"
+        },
+        "HouseholdStructure:single_house_two_storeyed": {
+          "Count": "Int:4421"
+        },
+        "HouseholdStructure:single_house_more_than_two_storeyed": {
+          "Count": "Int:540"
+        },
+        "HouseholdStructure:attached_house_1st_floor": {
+          "Count": "Int:1373"
+        },
+        "HouseholdStructure:attached_house_2nd_floor": {
+          "Count": "Int:438"
+        },
+        "HouseholdStructure:attached_house_from_3_to_4_floors": {
+          "Count": "Int:71"
+        },
+        "HouseholdStructure:attached_house_from_5_to_10_floors": {
+          "Count": "Int:0"
+        },
+        "HouseholdStructure:attached_house_from_11_to_19_floors": {
+          "Count": "Int:0"
+        },
+        "HouseholdStructure:attached_house_from_20_floors_or_more": {
+          "Count": "Int:0"
+        },
+        "HouseholdStructure:other": {
+          "Count": "Int:1"
+        }
+      },
+      "PD:EC-10D": {
+        "HouseholdStructure:single_house_single_storeyed": {
+          "Count": "Int:19413"
+        },
+        "HouseholdStructure:single_house_two_storeyed": {
+          "Count": "Int:1178"
+        },
+        "HouseholdStructure:single_house_more_than_two_storeyed": {
+          "Count": "Int:28"
+        },
+        "HouseholdStructure:attached_house_1st_floor": {
+          "Count": "Int:21"
+        },
+        "HouseholdStructure:attached_house_2nd_floor": {
+          "Count": "Int:11"
+        },
+        "HouseholdStructure:attached_house_from_3_to_4_floors": {
+          "Count": "Int:3"
+        },
+        "HouseholdStructure:attached_house_from_5_to_10_floors": {
+          "Count": "Int:0"
+        },
+        "HouseholdStructure:attached_house_from_11_to_19_floors": {
+          "Count": "Int:0"
+        },
+        "HouseholdStructure:attached_house_from_20_floors_or_more": {
+          "Count": "Int:0"
+        },
+        "HouseholdStructure:other": {
+          "Count": "Int:6"
+        }
+      },
+      "PD:EC-19B": {
+        "HouseholdStructure:single_house_single_storeyed": {
+          "Count": "Int:18760"
+        },
+        "HouseholdStructure:single_house_two_storeyed": {
+          "Count": "Int:1007"
+        },
+        "HouseholdStructure:single_house_more_than_two_storeyed": {
+          "Count": "Int:50"
+        },
+        "HouseholdStructure:attached_house_1st_floor": {
+          "Count": "Int:758"
+        },
+        "HouseholdStructure:attached_house_2nd_floor": {
+          "Count": "Int:9"
+        },
+        "HouseholdStructure:attached_house_from_3_to_4_floors": {
+          "Count": "Int:3"
+        },
+        "HouseholdStructure:attached_house_from_5_to_10_floors": {
+          "Count": "Int:0"
+        },
+        "HouseholdStructure:attached_house_from_11_to_19_floors": {
+          "Count": "Int:0"
+        },
+        "HouseholdStructure:attached_house_from_20_floors_or_more": {
+          "Count": "Int:0"
+        },
+        "HouseholdStructure:other": {
+          "Count": "Int:0"
+        }
+      },
+      "PD:EC-10E": {
+        "HouseholdStructure:single_house_single_storeyed": {
+          "Count": "Int:19736"
+        },
+        "HouseholdStructure:single_house_two_storeyed": {
+          "Count": "Int:775"
+        },
+        "HouseholdStructure:single_house_more_than_two_storeyed": {
+          "Count": "Int:20"
+        },
+        "HouseholdStructure:attached_house_1st_floor": {
+          "Count": "Int:9"
+        },
+        "HouseholdStructure:attached_house_2nd_floor": {
+          "Count": "Int:5"
+        },
+        "HouseholdStructure:attached_house_from_3_to_4_floors": {
+          "Count": "Int:1"
+        },
+        "HouseholdStructure:attached_house_from_5_to_10_floors": {
+          "Count": "Int:0"
+        },
+        "HouseholdStructure:attached_house_from_11_to_19_floors": {
+          "Count": "Int:0"
+        },
+        "HouseholdStructure:attached_house_from_20_floors_or_more": {
+          "Count": "Int:0"
+        },
+        "HouseholdStructure:other": {
+          "Count": "Int:37"
+        }
+      },
+      "PD:EC-22F": {
+        "HouseholdStructure:single_house_single_storeyed": {
+          "Count": "Int:17203"
+        },
+        "HouseholdStructure:single_house_two_storeyed": {
+          "Count": "Int:2266"
+        },
+        "HouseholdStructure:single_house_more_than_two_storeyed": {
+          "Count": "Int:123"
+        },
+        "HouseholdStructure:attached_house_1st_floor": {
+          "Count": "Int:146"
+        },
+        "HouseholdStructure:attached_house_2nd_floor": {
+          "Count": "Int:66"
+        },
+        "HouseholdStructure:attached_house_from_3_to_4_floors": {
+          "Count": "Int:6"
+        },
+        "HouseholdStructure:attached_house_from_5_to_10_floors": {
+          "Count": "Int:0"
+        },
+        "HouseholdStructure:attached_house_from_11_to_19_floors": {
+          "Count": "Int:0"
+        },
+        "HouseholdStructure:attached_house_from_20_floors_or_more": {
+          "Count": "Int:0"
+        },
+        "HouseholdStructure:other": {
+          "Count": "Int:1"
+        }
+      },
+      "PD:EC-04A": {
+        "HouseholdStructure:single_house_single_storeyed": {
+          "Count": "Int:16594"
+        },
+        "HouseholdStructure:single_house_two_storeyed": {
+          "Count": "Int:2465"
+        },
+        "HouseholdStructure:single_house_more_than_two_storeyed": {
+          "Count": "Int:157"
+        },
+        "HouseholdStructure:attached_house_1st_floor": {
+          "Count": "Int:133"
+        },
+        "HouseholdStructure:attached_house_2nd_floor": {
+          "Count": "Int:48"
+        },
+        "HouseholdStructure:attached_house_from_3_to_4_floors": {
+          "Count": "Int:11"
+        },
+        "HouseholdStructure:attached_house_from_5_to_10_floors": {
+          "Count": "Int:0"
+        },
+        "HouseholdStructure:attached_house_from_11_to_19_floors": {
+          "Count": "Int:0"
+        },
+        "HouseholdStructure:attached_house_from_20_floors_or_more": {
+          "Count": "Int:0"
+        },
+        "HouseholdStructure:other": {
+          "Count": "Int:2"
+        }
+      },
+      "PD:EC-10H": {
+        "HouseholdStructure:single_house_single_storeyed": {
+          "Count": "Int:18308"
+        },
+        "HouseholdStructure:single_house_two_storeyed": {
+          "Count": "Int:556"
+        },
+        "HouseholdStructure:single_house_more_than_two_storeyed": {
+          "Count": "Int:19"
+        },
+        "HouseholdStructure:attached_house_1st_floor": {
+          "Count": "Int:7"
+        },
+        "HouseholdStructure:attached_house_2nd_floor": {
+          "Count": "Int:3"
+        },
+        "HouseholdStructure:attached_house_from_3_to_4_floors": {
+          "Count": "Int:1"
+        },
+        "HouseholdStructure:attached_house_from_5_to_10_floors": {
+          "Count": "Int:0"
+        },
+        "HouseholdStructure:attached_house_from_11_to_19_floors": {
+          "Count": "Int:0"
+        },
+        "HouseholdStructure:attached_house_from_20_floors_or_more": {
+          "Count": "Int:0"
+        },
+        "HouseholdStructure:other": {
+          "Count": "Int:3"
+        }
+      },
+      "PD:EC-07A": {
+        "HouseholdStructure:single_house_single_storeyed": {
+          "Count": "Int:16120"
+        },
+        "HouseholdStructure:single_house_two_storeyed": {
+          "Count": "Int:2431"
+        },
+        "HouseholdStructure:single_house_more_than_two_storeyed": {
+          "Count": "Int:78"
+        },
+        "HouseholdStructure:attached_house_1st_floor": {
+          "Count": "Int:37"
+        },
+        "HouseholdStructure:attached_house_2nd_floor": {
+          "Count": "Int:22"
+        },
+        "HouseholdStructure:attached_house_from_3_to_4_floors": {
+          "Count": "Int:3"
+        },
+        "HouseholdStructure:attached_house_from_5_to_10_floors": {
+          "Count": "Int:1"
+        },
+        "HouseholdStructure:attached_house_from_11_to_19_floors": {
+          "Count": "Int:0"
+        },
+        "HouseholdStructure:attached_house_from_20_floors_or_more": {
+          "Count": "Int:0"
+        },
+        "HouseholdStructure:other": {
+          "Count": "Int:0"
+        }
+      },
+      "PD:EC-10I": {
+        "HouseholdStructure:single_house_single_storeyed": {
+          "Count": "Int:15788"
+        },
+        "HouseholdStructure:single_house_two_storeyed": {
+          "Count": "Int:2673"
+        },
+        "HouseholdStructure:single_house_more_than_two_storeyed": {
+          "Count": "Int:101"
+        },
+        "HouseholdStructure:attached_house_1st_floor": {
+          "Count": "Int:19"
+        },
+        "HouseholdStructure:attached_house_2nd_floor": {
+          "Count": "Int:21"
+        },
+        "HouseholdStructure:attached_house_from_3_to_4_floors": {
+          "Count": "Int:3"
+        },
+        "HouseholdStructure:attached_house_from_5_to_10_floors": {
+          "Count": "Int:1"
+        },
+        "HouseholdStructure:attached_house_from_11_to_19_floors": {
+          "Count": "Int:0"
+        },
+        "HouseholdStructure:attached_house_from_20_floors_or_more": {
+          "Count": "Int:0"
+        },
+        "HouseholdStructure:other": {
+          "Count": "Int:8"
+        }
+      },
+      "PD:EC-04E": {
+        "HouseholdStructure:single_house_single_storeyed": {
+          "Count": "Int:14267"
+        },
+        "HouseholdStructure:single_house_two_storeyed": {
+          "Count": "Int:1948"
+        },
+        "HouseholdStructure:single_house_more_than_two_storeyed": {
+          "Count": "Int:184"
+        },
+        "HouseholdStructure:attached_house_1st_floor": {
+          "Count": "Int:1416"
+        },
+        "HouseholdStructure:attached_house_2nd_floor": {
+          "Count": "Int:74"
+        },
+        "HouseholdStructure:attached_house_from_3_to_4_floors": {
+          "Count": "Int:22"
+        },
+        "HouseholdStructure:attached_house_from_5_to_10_floors": {
+          "Count": "Int:6"
+        },
+        "HouseholdStructure:attached_house_from_11_to_19_floors": {
+          "Count": "Int:0"
+        },
+        "HouseholdStructure:attached_house_from_20_floors_or_more": {
+          "Count": "Int:0"
+        },
+        "HouseholdStructure:other": {
+          "Count": "Int:0"
+        }
+      },
+      "PD:EC-01C": {
+        "HouseholdStructure:single_house_single_storeyed": {
+          "Count": "Int:8160"
+        },
+        "HouseholdStructure:single_house_two_storeyed": {
+          "Count": "Int:3515"
+        },
+        "HouseholdStructure:single_house_more_than_two_storeyed": {
+          "Count": "Int:813"
+        },
+        "HouseholdStructure:attached_house_1st_floor": {
+          "Count": "Int:931"
+        },
+        "HouseholdStructure:attached_house_2nd_floor": {
+          "Count": "Int:906"
+        },
+        "HouseholdStructure:attached_house_from_3_to_4_floors": {
+          "Count": "Int:1047"
+        },
+        "HouseholdStructure:attached_house_from_5_to_10_floors": {
+          "Count": "Int:1227"
+        },
+        "HouseholdStructure:attached_house_from_11_to_19_floors": {
+          "Count": "Int:1004"
+        },
+        "HouseholdStructure:attached_house_from_20_floors_or_more": {
+          "Count": "Int:259"
+        },
+        "HouseholdStructure:other": {
+          "Count": "Int:4"
+        }
+      },
+      "PD:EC-10B": {
+        "HouseholdStructure:single_house_single_storeyed": {
+          "Count": "Int:16245"
+        },
+        "HouseholdStructure:single_house_two_storeyed": {
+          "Count": "Int:353"
+        },
+        "HouseholdStructure:single_house_more_than_two_storeyed": {
+          "Count": "Int:9"
+        },
+        "HouseholdStructure:attached_house_1st_floor": {
+          "Count": "Int:3"
+        },
+        "HouseholdStructure:attached_house_2nd_floor": {
+          "Count": "Int:3"
+        },
+        "HouseholdStructure:attached_house_from_3_to_4_floors": {
+          "Count": "Int:2"
+        },
+        "HouseholdStructure:attached_house_from_5_to_10_floors": {
+          "Count": "Int:1"
+        },
+        "HouseholdStructure:attached_house_from_11_to_19_floors": {
+          "Count": "Int:0"
+        },
+        "HouseholdStructure:attached_house_from_20_floors_or_more": {
+          "Count": "Int:0"
+        },
+        "HouseholdStructure:other": {
+          "Count": "Int:17"
+        }
+      },
+      "PD:EC-01E": {
+        "HouseholdStructure:single_house_single_storeyed": {
+          "Count": "Int:4756"
+        },
+        "HouseholdStructure:single_house_two_storeyed": {
+          "Count": "Int:3809"
+        },
+        "HouseholdStructure:single_house_more_than_two_storeyed": {
+          "Count": "Int:1074"
+        },
+        "HouseholdStructure:attached_house_1st_floor": {
+          "Count": "Int:982"
+        },
+        "HouseholdStructure:attached_house_2nd_floor": {
+          "Count": "Int:1069"
+        },
+        "HouseholdStructure:attached_house_from_3_to_4_floors": {
+          "Count": "Int:1655"
+        },
+        "HouseholdStructure:attached_house_from_5_to_10_floors": {
+          "Count": "Int:2208"
+        },
+        "HouseholdStructure:attached_house_from_11_to_19_floors": {
+          "Count": "Int:389"
+        },
+        "HouseholdStructure:attached_house_from_20_floors_or_more": {
+          "Count": "Int:207"
+        },
+        "HouseholdStructure:other": {
+          "Count": "Int:6"
+        }
+      },
+      "PD:EC-10C": {
+        "HouseholdStructure:single_house_single_storeyed": {
+          "Count": "Int:14118"
+        },
+        "HouseholdStructure:single_house_two_storeyed": {
+          "Count": "Int:442"
+        },
+        "HouseholdStructure:single_house_more_than_two_storeyed": {
+          "Count": "Int:9"
+        },
+        "HouseholdStructure:attached_house_1st_floor": {
+          "Count": "Int:1"
+        },
+        "HouseholdStructure:attached_house_2nd_floor": {
+          "Count": "Int:1"
+        },
+        "HouseholdStructure:attached_house_from_3_to_4_floors": {
+          "Count": "Int:1"
+        },
+        "HouseholdStructure:attached_house_from_5_to_10_floors": {
+          "Count": "Int:0"
+        },
+        "HouseholdStructure:attached_house_from_11_to_19_floors": {
+          "Count": "Int:0"
+        },
+        "HouseholdStructure:attached_house_from_20_floors_or_more": {
+          "Count": "Int:0"
+        },
+        "HouseholdStructure:other": {
+          "Count": "Int:13"
+        }
+      },
+      "PD:EC-10G": {
+        "HouseholdStructure:single_house_single_storeyed": {
+          "Count": "Int:13506"
+        },
+        "HouseholdStructure:single_house_two_storeyed": {
+          "Count": "Int:444"
+        },
+        "HouseholdStructure:single_house_more_than_two_storeyed": {
+          "Count": "Int:3"
+        },
+        "HouseholdStructure:attached_house_1st_floor": {
+          "Count": "Int:17"
+        },
+        "HouseholdStructure:attached_house_2nd_floor": {
+          "Count": "Int:3"
+        },
+        "HouseholdStructure:attached_house_from_3_to_4_floors": {
+          "Count": "Int:2"
+        },
+        "HouseholdStructure:attached_house_from_5_to_10_floors": {
+          "Count": "Int:0"
+        },
+        "HouseholdStructure:attached_house_from_11_to_19_floors": {
+          "Count": "Int:0"
+        },
+        "HouseholdStructure:attached_house_from_20_floors_or_more": {
+          "Count": "Int:0"
+        },
+        "HouseholdStructure:other": {
+          "Count": "Int:16"
+        }
+      },
+      "PD:EC-10F": {
+        "HouseholdStructure:single_house_single_storeyed": {
+          "Count": "Int:12658"
+        },
+        "HouseholdStructure:single_house_two_storeyed": {
+          "Count": "Int:604"
+        },
+        "HouseholdStructure:single_house_more_than_two_storeyed": {
+          "Count": "Int:129"
+        },
+        "HouseholdStructure:attached_house_1st_floor": {
+          "Count": "Int:4"
+        },
+        "HouseholdStructure:attached_house_2nd_floor": {
+          "Count": "Int:6"
+        },
+        "HouseholdStructure:attached_house_from_3_to_4_floors": {
+          "Count": "Int:2"
+        },
+        "HouseholdStructure:attached_house_from_5_to_10_floors": {
+          "Count": "Int:1"
+        },
+        "HouseholdStructure:attached_house_from_11_to_19_floors": {
+          "Count": "Int:0"
+        },
+        "HouseholdStructure:attached_house_from_20_floors_or_more": {
+          "Count": "Int:0"
+        },
+        "HouseholdStructure:other": {
+          "Count": "Int:3"
+        }
+      },
+      "PD:EC-04I": {
+        "HouseholdStructure:single_house_single_storeyed": {
+          "Count": "Int:5052"
+        },
+        "HouseholdStructure:single_house_two_storeyed": {
+          "Count": "Int:3640"
+        },
+        "HouseholdStructure:single_house_more_than_two_storeyed": {
+          "Count": "Int:1120"
+        },
+        "HouseholdStructure:attached_house_1st_floor": {
+          "Count": "Int:1133"
+        },
+        "HouseholdStructure:attached_house_2nd_floor": {
+          "Count": "Int:711"
+        },
+        "HouseholdStructure:attached_house_from_3_to_4_floors": {
+          "Count": "Int:247"
+        },
+        "HouseholdStructure:attached_house_from_5_to_10_floors": {
+          "Count": "Int:29"
+        },
+        "HouseholdStructure:attached_house_from_11_to_19_floors": {
+          "Count": "Int:0"
+        },
+        "HouseholdStructure:attached_house_from_20_floors_or_more": {
+          "Count": "Int:0"
+        },
+        "HouseholdStructure:other": {
+          "Count": "Int:0"
+        }
+      },
+      "PD:EC-10J": {
+        "HouseholdStructure:single_house_single_storeyed": {
+          "Count": "Int:9588"
+        },
+        "HouseholdStructure:single_house_two_storeyed": {
+          "Count": "Int:1525"
+        },
+        "HouseholdStructure:single_house_more_than_two_storeyed": {
+          "Count": "Int:85"
+        },
+        "HouseholdStructure:attached_house_1st_floor": {
+          "Count": "Int:133"
+        },
+        "HouseholdStructure:attached_house_2nd_floor": {
+          "Count": "Int:122"
+        },
+        "HouseholdStructure:attached_house_from_3_to_4_floors": {
+          "Count": "Int:61"
+        },
+        "HouseholdStructure:attached_house_from_5_to_10_floors": {
+          "Count": "Int:2"
+        },
+        "HouseholdStructure:attached_house_from_11_to_19_floors": {
+          "Count": "Int:0"
+        },
+        "HouseholdStructure:attached_house_from_20_floors_or_more": {
+          "Count": "Int:0"
+        },
+        "HouseholdStructure:other": {
+          "Count": "Int:6"
+        }
+      },
+      "PD:EC-10A": {
+        "HouseholdStructure:single_house_single_storeyed": {
+          "Count": "Int:7814"
+        },
+        "HouseholdStructure:single_house_two_storeyed": {
+          "Count": "Int:87"
+        },
+        "HouseholdStructure:single_house_more_than_two_storeyed": {
+          "Count": "Int:3"
+        },
+        "HouseholdStructure:attached_house_1st_floor": {
+          "Count": "Int:1"
+        },
+        "HouseholdStructure:attached_house_2nd_floor": {
+          "Count": "Int:0"
+        },
+        "HouseholdStructure:attached_house_from_3_to_4_floors": {
+          "Count": "Int:0"
+        },
+        "HouseholdStructure:attached_house_from_5_to_10_floors": {
+          "Count": "Int:0"
+        },
+        "HouseholdStructure:attached_house_from_11_to_19_floors": {
+          "Count": "Int:0"
+        },
+        "HouseholdStructure:attached_house_from_20_floors_or_more": {
+          "Count": "Int:0"
+        },
+        "HouseholdStructure:other": {
+          "Count": "Int:0"
         }
       }
     }

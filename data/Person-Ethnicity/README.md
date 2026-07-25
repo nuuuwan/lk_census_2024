@@ -1,7 +1,7 @@
 # Person-Ethnicity
 
 ![CPH](https://img.shields.io/badge/CPH-2024-blue)
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--07--20-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--07--25-green)
 
 *Person-Ethnicity, 2024 Census of Population and Housing, Department of Census and Statistics, Sri Lanka*
 
@@ -11,37 +11,37 @@
 {
     "Person": {
         "Time:2024": {
-            "Province:LK-1": {
+            "PD:EC-06A": {
                 "Ethnicity:sinhala": {
-                    "Count": "Int:5115543"
+                    "Count": "Int:80582"
                 },
                 "Ethnicity:sri_lanka_tamil": {
-                    "Count": "Int:379680"
+                    "Count": "Int:31086"
                 },
                 "Ethnicity:ind_and_malaiyaga_tamil": {
-                    "Count": "Int:26271"
+                    "Count": "Int:298050"
                 },
                 "Ethnicity:sri_lanka_moor_or_muslim": {
-                    "Count": "Int:542333"
+                    "Count": "Int:10365"
                 },
                 "Ethnicity:burgher": {
-                    "Count": "Int:15725"
+                    "Count": "Int:1011"
                 },
                 "Ethnicity:malay": {
-                    "Count": "Int:16126"
+                    "Count": "Int:157"
                 },
                 "Ethnicity:sri_lanka_chetty": {
-                    "Count": "Int:1753"
+                    "Count": "Int:0"
                 },
                 "Ethnicity:bharatha": {
-                    "Count": "Int:553"
+                    "Count": "Int:0"
                 },
                 "Ethnicity:veddahs": {
                     "Count": "Int:0"
 ...
 ```
 
-- Source File: [lanka_data.json (7.0 KB)](../../data/Person-Ethnicity/lanka_data.json)
+- Source File: [lanka_data.json (122.2 KB)](../../data/Person-Ethnicity/lanka_data.json)
 
 ## Structured Data (similar to original layout)
 

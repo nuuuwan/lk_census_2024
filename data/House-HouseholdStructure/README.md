@@ -1,7 +1,7 @@
 # House-HouseholdStructure
 
 ![CPH](https://img.shields.io/badge/CPH-2024-blue)
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--07--20-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--07--25-green)
 
 *House-HouseholdStructure, 2024 Census of Population and Housing, Department of Census and Statistics, Sri Lanka*
 
@@ -11,37 +11,37 @@
 {
     "House": {
         "Time:2024": {
-            "Province:LK-1": {
-                "HouseholdStructure:single_house_single_floor": {
-                    "Count": "Int:1177294"
+            "PD:EC-06A": {
+                "HouseholdStructure:single_house_single_storeyed": {
+                    "Count": "Int:54740"
                 },
-                "HouseholdStructure:single_house_double_floor": {
-                    "Count": "Int:360332"
+                "HouseholdStructure:single_house_two_storeyed": {
+                    "Count": "Int:7136"
                 },
-                "HouseholdStructure:single_house_more_than_2_floors": {
-                    "Count": "Int:32722"
+                "HouseholdStructure:single_house_more_than_two_storeyed": {
+                    "Count": "Int:1633"
                 },
                 "HouseholdStructure:attached_house_1st_floor": {
-                    "Count": "Int:44627"
+                    "Count": "Int:39969"
                 },
                 "HouseholdStructure:attached_house_2nd_floor": {
-                    "Count": "Int:32464"
+                    "Count": "Int:3279"
                 },
                 "HouseholdStructure:attached_house_from_3_to_4_floors": {
-                    "Count": "Int:18775"
+                    "Count": "Int:2284"
                 },
                 "HouseholdStructure:attached_house_from_5_to_10_floors": {
-                    "Count": "Int:12272"
+                    "Count": "Int:6"
                 },
                 "HouseholdStructure:attached_house_from_11_to_19_floors": {
-                    "Count": "Int:5994"
+                    "Count": "Int:0"
                 },
                 "HouseholdStructure:attached_house_from_20_floors_or_more": {
-                    "Count": "Int:1756"
+                    "Count": "Int:0"
 ...
 ```
 
-- Source File: [lanka_data.json (9.2 KB)](../../data/House-HouseholdStructure/lanka_data.json)
+- Source File: [lanka_data.json (161.4 KB)](../../data/House-HouseholdStructure/lanka_data.json)
 
 ## Structured Data (similar to original layout)
 

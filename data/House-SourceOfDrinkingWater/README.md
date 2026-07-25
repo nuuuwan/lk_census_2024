@@ -1,7 +1,7 @@
 # House-SourceOfDrinkingWater
 
 ![CPH](https://img.shields.io/badge/CPH-2024-blue)
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--07--20-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--07--25-green)
 
 *House-SourceOfDrinkingWater, 2024 Census of Population and Housing, Department of Census and Statistics, Sri Lanka*
 
@@ -11,37 +11,37 @@
 {
     "House": {
         "Time:2024": {
-            "Province:LK-1": {
+            "PD:EC-06A": {
                 "SourceOfDrinkingWater:protected_well": {
-                    "Count": "Int:547468"
+                    "Count": "Int:6990"
                 },
                 "SourceOfDrinkingWater:semi_protected_well": {
-                    "Count": "Int:47227"
+                    "Count": "Int:2750"
                 },
                 "SourceOfDrinkingWater:unprotected_well": {
-                    "Count": "Int:9979"
+                    "Count": "Int:1867"
                 },
                 "SourceOfDrinkingWater:tube_well": {
-                    "Count": "Int:45657"
+                    "Count": "Int:3503"
                 },
                 "SourceOfDrinkingWater:spring_fountain": {
-                    "Count": "Int:5123"
+                    "Count": "Int:28468"
                 },
                 "SourceOfDrinkingWater:pipe_borne_nwsdb": {
-                    "Count": "Int:983503"
+                    "Count": "Int:10739"
                 },
                 "SourceOfDrinkingWater:pipe_borne_local_authority": {
-                    "Count": "Int:9099"
+                    "Count": "Int:7463"
                 },
                 "SourceOfDrinkingWater:pipe_borne_community": {
-                    "Count": "Int:39974"
+                    "Count": "Int:23587"
                 },
                 "SourceOfDrinkingWater:pipe_borne_private": {
-                    "Count": "Int:9811"
+                    "Count": "Int:15280"
 ...
 ```
 
-- Source File: [lanka_data.json (12.4 KB)](../../data/House-SourceOfDrinkingWater/lanka_data.json)
+- Source File: [lanka_data.json (215.3 KB)](../../data/House-SourceOfDrinkingWater/lanka_data.json)
 
 ## Structured Data (similar to original layout)
 

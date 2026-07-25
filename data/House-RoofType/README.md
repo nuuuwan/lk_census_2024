@@ -1,7 +1,7 @@
 # House-RoofType
 
 ![CPH](https://img.shields.io/badge/CPH-2024-blue)
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--07--20-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--07--25-green)
 
 *House-RoofType, 2024 Census of Population and Housing, Department of Census and Statistics, Sri Lanka*
 
@@ -11,37 +11,37 @@
 {
     "House": {
         "Time:2024": {
-            "Province:LK-1": {
+            "PD:EC-06A": {
                 "RoofType:tile": {
-                    "Count": "Int:363704"
+                    "Count": "Int:8420"
                 },
                 "RoofType:asbestos": {
-                    "Count": "Int:1098621"
+                    "Count": "Int:57072"
                 },
                 "RoofType:concrete": {
-                    "Count": "Int:190819"
+                    "Count": "Int:7542"
                 },
                 "RoofType:zink_aluminium_sheet": {
-                    "Count": "Int:10224"
+                    "Count": "Int:15683"
                 },
                 "RoofType:metal_sheet": {
-                    "Count": "Int:12480"
+                    "Count": "Int:17677"
                 },
                 "RoofType:cadjan_palmyrah_straw": {
-                    "Count": "Int:10085"
+                    "Count": "Int:2264"
                 },
                 "RoofType:other": {
-                    "Count": "Int:303"
+                    "Count": "Int:389"
                 },
                 "RoofType:not_relevant": {
-                    "Count": "Int:270"
+                    "Count": "Int:35"
                 }
             },
-            "Province:LK-6": {
+            "PD:EC-01J": {
 ...
 ```
 
-- Source File: [House-RoofType/lanka_data.json (5.6 KB)](../../data/House-RoofType/lanka_data.json)
+- Source File: [House-RoofType/lanka_data.json (97.4 KB)](../../data/House-RoofType/lanka_data.json)
 
 ## Structured Data (similar to original layout)
 

@@ -11,6 +11,10 @@ class XLSXDataTableBuilderMixin:
         self.build_lanka_data()
         self.build_readme()
 
+    def clean(self):
+        self.data_file.delete()
+        self.lanka_data_file.delete()
+
     @classmethod
     def build_all(cls):
         n = len(cls.list_all())
@@ -20,3 +24,8 @@ class XLSXDataTableBuilderMixin:
             log.info(f"{i_data_table}/{n}: {data_table.data_table_id}")
             log.debug("-" * 20)
             data_table.build()
+
+    @classmethod
+    def clean_all(cls):
+        for data_table in cls.list_all():
+            data_table.clean()

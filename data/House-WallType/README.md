@@ -1,7 +1,7 @@
 # House-WallType
 
 ![CPH](https://img.shields.io/badge/CPH-2024-blue)
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--07--20-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--07--25-green)
 
 *House-WallType, 2024 Census of Population and Housing, Department of Census and Statistics, Sri Lanka*
 
@@ -11,37 +11,37 @@
 {
     "House": {
         "Time:2024": {
-            "Province:LK-1": {
+            "PD:EC-06A": {
                 "WallType:bricks": {
-                    "Count": "Int:444198"
+                    "Count": "Int:6793"
                 },
                 "WallType:cement_block": {
-                    "Count": "Int:1147193"
+                    "Count": "Int:82787"
                 },
                 "WallType:granite_cube_stones": {
-                    "Count": "Int:8468"
+                    "Count": "Int:14476"
                 },
                 "WallType:cabook": {
-                    "Count": "Int:48401"
+                    "Count": "Int:885"
                 },
                 "WallType:pressed_soil_bricks": {
-                    "Count": "Int:15695"
+                    "Count": "Int:1584"
                 },
                 "WallType:warichchi_mud": {
-                    "Count": "Int:9478"
+                    "Count": "Int:860"
                 },
                 "WallType:cadjan_palmyrah": {
-                    "Count": "Int:122"
+                    "Count": "Int:12"
                 },
                 "WallType:planks_metal_sheets_asbestos": {
-                    "Count": "Int:12045"
+                    "Count": "Int:1480"
                 },
                 "WallType:zink_aluminium_sheets": {
-                    "Count": "Int:407"
+                    "Count": "Int:138"
 ...
 ```
 
-- Source File: [House-WallType/lanka_data.json (7.9 KB)](../../data/House-WallType/lanka_data.json)
+- Source File: [House-WallType/lanka_data.json (136.5 KB)](../../data/House-WallType/lanka_data.json)
 
 ## Structured Data (similar to original layout)
 

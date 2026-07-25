@@ -1,238 +1,4164 @@
 {
   "House": {
     "Time:2024": {
-      "Province:LK-1": {
+      "PD:EC-06A": {
         "CookingFuel:fire_wood": {
-          "Count": "Int:433777"
+          "Count": "Int:70809"
         },
         "CookingFuel:kerosene": {
-          "Count": "Int:15637"
+          "Count": "Int:1029"
         },
         "CookingFuel:gas": {
-          "Count": "Int:1203412"
+          "Count": "Int:40530"
         },
         "CookingFuel:electricity": {
-          "Count": "Int:10508"
+          "Count": "Int:373"
         },
         "CookingFuel:saw_dust_or_paddy_husk": {
-          "Count": "Int:303"
+          "Count": "Int:26"
         },
         "CookingFuel:bio_gas": {
-          "Count": "Int:356"
+          "Count": "Int:443"
         },
         "CookingFuel:other": {
-          "Count": "Int:1152"
+          "Count": "Int:8"
         },
         "CookingFuel:not_relevant": {
-          "Count": "Int:38275"
+          "Count": "Int:392"
         }
       },
-      "Province:LK-2": {
+      "PD:EC-12B": {
         "CookingFuel:fire_wood": {
-          "Count": "Int:489749"
+          "Count": "Int:26201"
         },
         "CookingFuel:kerosene": {
-          "Count": "Int:2717"
+          "Count": "Int:1061"
         },
         "CookingFuel:gas": {
-          "Count": "Int:249179"
+          "Count": "Int:52820"
         },
         "CookingFuel:electricity": {
-          "Count": "Int:2191"
+          "Count": "Int:217"
         },
         "CookingFuel:saw_dust_or_paddy_husk": {
-          "Count": "Int:84"
+          "Count": "Int:110"
         },
         "CookingFuel:bio_gas": {
-          "Count": "Int:559"
+          "Count": "Int:223"
         },
         "CookingFuel:other": {
-          "Count": "Int:175"
+          "Count": "Int:25"
         },
         "CookingFuel:not_relevant": {
-          "Count": "Int:4365"
+          "Count": "Int:662"
         }
       },
-      "Province:LK-6": {
+      "PD:EC-01J": {
         "CookingFuel:fire_wood": {
-          "Count": "Int:534964"
+          "Count": "Int:6820"
         },
         "CookingFuel:kerosene": {
-          "Count": "Int:2782"
+          "Count": "Int:342"
         },
         "CookingFuel:gas": {
-          "Count": "Int:195933"
+          "Count": "Int:70857"
         },
         "CookingFuel:electricity": {
-          "Count": "Int:1394"
+          "Count": "Int:750"
         },
         "CookingFuel:saw_dust_or_paddy_husk": {
-          "Count": "Int:35"
+          "Count": "Int:8"
         },
         "CookingFuel:bio_gas": {
-          "Count": "Int:570"
+          "Count": "Int:5"
         },
         "CookingFuel:other": {
-          "Count": "Int:272"
+          "Count": "Int:52"
         },
         "CookingFuel:not_relevant": {
-          "Count": "Int:9243"
+          "Count": "Int:1539"
         }
       },
-      "Province:LK-3": {
+      "PD:EC-01L": {
         "CookingFuel:fire_wood": {
-          "Count": "Int:438164"
+          "Count": "Int:11640"
         },
         "CookingFuel:kerosene": {
-          "Count": "Int:1173"
+          "Count": "Int:344"
         },
         "CookingFuel:gas": {
-          "Count": "Int:277959"
+          "Count": "Int:66037"
         },
         "CookingFuel:electricity": {
-          "Count": "Int:1226"
+          "Count": "Int:611"
         },
         "CookingFuel:saw_dust_or_paddy_husk": {
-          "Count": "Int:89"
+          "Count": "Int:10"
         },
         "CookingFuel:bio_gas": {
-          "Count": "Int:82"
+          "Count": "Int:5"
         },
         "CookingFuel:other": {
-          "Count": "Int:304"
+          "Count": "Int:42"
         },
         "CookingFuel:not_relevant": {
-          "Count": "Int:9291"
+          "Count": "Int:1609"
         }
       },
-      "Province:LK-9": {
+      "PD:EC-01N": {
         "CookingFuel:fire_wood": {
-          "Count": "Int:433669"
+          "Count": "Int:5617"
         },
         "CookingFuel:kerosene": {
-          "Count": "Int:1060"
+          "Count": "Int:331"
         },
         "CookingFuel:gas": {
-          "Count": "Int:131384"
+          "Count": "Int:68023"
         },
         "CookingFuel:electricity": {
-          "Count": "Int:960"
+          "Count": "Int:566"
         },
         "CookingFuel:saw_dust_or_paddy_husk": {
-          "Count": "Int:32"
+          "Count": "Int:11"
         },
         "CookingFuel:bio_gas": {
-          "Count": "Int:23"
+          "Count": "Int:4"
         },
         "CookingFuel:other": {
-          "Count": "Int:154"
+          "Count": "Int:33"
         },
         "CookingFuel:not_relevant": {
-          "Count": "Int:4400"
+          "Count": "Int:1820"
         }
       },
-      "Province:LK-5": {
+      "PD:EC-02C": {
         "CookingFuel:fire_wood": {
-          "Count": "Int:232633"
+          "Count": "Int:19528"
         },
         "CookingFuel:kerosene": {
-          "Count": "Int:5032"
+          "Count": "Int:834"
         },
         "CookingFuel:gas": {
-          "Count": "Int:251630"
+          "Count": "Int:48968"
         },
         "CookingFuel:electricity": {
-          "Count": "Int:1291"
-        },
-        "CookingFuel:saw_dust_or_paddy_husk": {
-          "Count": "Int:1007"
-        },
-        "CookingFuel:bio_gas": {
-          "Count": "Int:3557"
-        },
-        "CookingFuel:other": {
-          "Count": "Int:111"
-        },
-        "CookingFuel:not_relevant": {
-          "Count": "Int:3956"
-        }
-      },
-      "Province:LK-7": {
-        "CookingFuel:fire_wood": {
-          "Count": "Int:304792"
-        },
-        "CookingFuel:kerosene": {
-          "Count": "Int:737"
-        },
-        "CookingFuel:gas": {
-          "Count": "Int:92753"
-        },
-        "CookingFuel:electricity": {
-          "Count": "Int:560"
+          "Count": "Int:296"
         },
         "CookingFuel:saw_dust_or_paddy_husk": {
           "Count": "Int:12"
         },
         "CookingFuel:bio_gas": {
-          "Count": "Int:186"
+          "Count": "Int:3"
         },
         "CookingFuel:other": {
-          "Count": "Int:103"
+          "Count": "Int:117"
         },
         "CookingFuel:not_relevant": {
-          "Count": "Int:3326"
+          "Count": "Int:5756"
         }
       },
-      "Province:LK-8": {
+      "PD:EC-09D": {
         "CookingFuel:fire_wood": {
-          "Count": "Int:327040"
+          "Count": "Int:49911"
         },
         "CookingFuel:kerosene": {
-          "Count": "Int:957"
+          "Count": "Int:225"
         },
         "CookingFuel:gas": {
-          "Count": "Int:68808"
+          "Count": "Int:18351"
         },
         "CookingFuel:electricity": {
-          "Count": "Int:988"
+          "Count": "Int:87"
         },
         "CookingFuel:saw_dust_or_paddy_husk": {
-          "Count": "Int:82"
+          "Count": "Int:2"
         },
         "CookingFuel:bio_gas": {
-          "Count": "Int:32"
+          "Count": "Int:7"
+        },
+        "CookingFuel:other": {
+          "Count": "Int:22"
+        },
+        "CookingFuel:not_relevant": {
+          "Count": "Int:709"
+        }
+      },
+      "PD:EC-13D": {
+        "CookingFuel:fire_wood": {
+          "Count": "Int:26090"
+        },
+        "CookingFuel:kerosene": {
+          "Count": "Int:580"
+        },
+        "CookingFuel:gas": {
+          "Count": "Int:40612"
+        },
+        "CookingFuel:electricity": {
+          "Count": "Int:222"
+        },
+        "CookingFuel:saw_dust_or_paddy_husk": {
+          "Count": "Int:320"
+        },
+        "CookingFuel:bio_gas": {
+          "Count": "Int:328"
+        },
+        "CookingFuel:other": {
+          "Count": "Int:5"
+        },
+        "CookingFuel:not_relevant": {
+          "Count": "Int:619"
+        }
+      },
+      "PD:EC-13A": {
+        "CookingFuel:fire_wood": {
+          "Count": "Int:56421"
+        },
+        "CookingFuel:kerosene": {
+          "Count": "Int:99"
+        },
+        "CookingFuel:gas": {
+          "Count": "Int:11534"
+        },
+        "CookingFuel:electricity": {
+          "Count": "Int:90"
+        },
+        "CookingFuel:saw_dust_or_paddy_husk": {
+          "Count": "Int:3"
+        },
+        "CookingFuel:bio_gas": {
+          "Count": "Int:5"
+        },
+        "CookingFuel:other": {
+          "Count": "Int:19"
+        },
+        "CookingFuel:not_relevant": {
+          "Count": "Int:466"
+        }
+      },
+      "PD:EC-20C": {
+        "CookingFuel:fire_wood": {
+          "Count": "Int:56142"
+        },
+        "CookingFuel:kerosene": {
+          "Count": "Int:69"
+        },
+        "CookingFuel:gas": {
+          "Count": "Int:11142"
+        },
+        "CookingFuel:electricity": {
+          "Count": "Int:243"
+        },
+        "CookingFuel:saw_dust_or_paddy_husk": {
+          "Count": "Int:0"
+        },
+        "CookingFuel:bio_gas": {
+          "Count": "Int:11"
+        },
+        "CookingFuel:other": {
+          "Count": "Int:18"
+        },
+        "CookingFuel:not_relevant": {
+          "Count": "Int:519"
+        }
+      },
+      "PD:EC-16A": {
+        "CookingFuel:fire_wood": {
+          "Count": "Int:31619"
+        },
+        "CookingFuel:kerosene": {
+          "Count": "Int:1156"
+        },
+        "CookingFuel:gas": {
+          "Count": "Int:33063"
+        },
+        "CookingFuel:electricity": {
+          "Count": "Int:152"
+        },
+        "CookingFuel:saw_dust_or_paddy_husk": {
+          "Count": "Int:10"
+        },
+        "CookingFuel:bio_gas": {
+          "Count": "Int:512"
+        },
+        "CookingFuel:other": {
+          "Count": "Int:36"
+        },
+        "CookingFuel:not_relevant": {
+          "Count": "Int:589"
+        }
+      },
+      "PD:EC-02J": {
+        "CookingFuel:fire_wood": {
+          "Count": "Int:15428"
+        },
+        "CookingFuel:kerosene": {
+          "Count": "Int:400"
+        },
+        "CookingFuel:gas": {
+          "Count": "Int:44513"
+        },
+        "CookingFuel:electricity": {
+          "Count": "Int:332"
+        },
+        "CookingFuel:saw_dust_or_paddy_husk": {
+          "Count": "Int:16"
+        },
+        "CookingFuel:bio_gas": {
+          "Count": "Int:16"
+        },
+        "CookingFuel:other": {
+          "Count": "Int:42"
+        },
+        "CookingFuel:not_relevant": {
+          "Count": "Int:1020"
+        }
+      },
+      "PD:EC-21H": {
+        "CookingFuel:fire_wood": {
+          "Count": "Int:47373"
+        },
+        "CookingFuel:kerosene": {
+          "Count": "Int:150"
+        },
+        "CookingFuel:gas": {
+          "Count": "Int:12620"
+        },
+        "CookingFuel:electricity": {
+          "Count": "Int:74"
+        },
+        "CookingFuel:saw_dust_or_paddy_husk": {
+          "Count": "Int:4"
+        },
+        "CookingFuel:bio_gas": {
+          "Count": "Int:0"
+        },
+        "CookingFuel:other": {
+          "Count": "Int:11"
+        },
+        "CookingFuel:not_relevant": {
+          "Count": "Int:587"
+        }
+      },
+      "PD:EC-18C": {
+        "CookingFuel:fire_wood": {
+          "Count": "Int:45079"
+        },
+        "CookingFuel:kerosene": {
+          "Count": "Int:117"
+        },
+        "CookingFuel:gas": {
+          "Count": "Int:14878"
+        },
+        "CookingFuel:electricity": {
+          "Count": "Int:97"
+        },
+        "CookingFuel:saw_dust_or_paddy_husk": {
+          "Count": "Int:6"
+        },
+        "CookingFuel:bio_gas": {
+          "Count": "Int:1"
+        },
+        "CookingFuel:other": {
+          "Count": "Int:27"
+        },
+        "CookingFuel:not_relevant": {
+          "Count": "Int:591"
+        }
+      },
+      "PD:EC-02L": {
+        "CookingFuel:fire_wood": {
+          "Count": "Int:8730"
+        },
+        "CookingFuel:kerosene": {
+          "Count": "Int:539"
+        },
+        "CookingFuel:gas": {
+          "Count": "Int:46285"
+        },
+        "CookingFuel:electricity": {
+          "Count": "Int:371"
+        },
+        "CookingFuel:saw_dust_or_paddy_husk": {
+          "Count": "Int:7"
+        },
+        "CookingFuel:bio_gas": {
+          "Count": "Int:8"
+        },
+        "CookingFuel:other": {
+          "Count": "Int:151"
+        },
+        "CookingFuel:not_relevant": {
+          "Count": "Int:3219"
+        }
+      },
+      "PD:EC-04B": {
+        "CookingFuel:fire_wood": {
+          "Count": "Int:30247"
+        },
+        "CookingFuel:kerosene": {
+          "Count": "Int:115"
+        },
+        "CookingFuel:gas": {
+          "Count": "Int:27402"
+        },
+        "CookingFuel:electricity": {
+          "Count": "Int:165"
+        },
+        "CookingFuel:saw_dust_or_paddy_husk": {
+          "Count": "Int:14"
+        },
+        "CookingFuel:bio_gas": {
+          "Count": "Int:5"
+        },
+        "CookingFuel:other": {
+          "Count": "Int:11"
+        },
+        "CookingFuel:not_relevant": {
+          "Count": "Int:399"
+        }
+      },
+      "PD:EC-02H": {
+        "CookingFuel:fire_wood": {
+          "Count": "Int:16063"
+        },
+        "CookingFuel:kerosene": {
+          "Count": "Int:80"
+        },
+        "CookingFuel:gas": {
+          "Count": "Int:40370"
+        },
+        "CookingFuel:electricity": {
+          "Count": "Int:333"
+        },
+        "CookingFuel:saw_dust_or_paddy_husk": {
+          "Count": "Int:14"
+        },
+        "CookingFuel:bio_gas": {
+          "Count": "Int:4"
+        },
+        "CookingFuel:other": {
+          "Count": "Int:62"
+        },
+        "CookingFuel:not_relevant": {
+          "Count": "Int:933"
+        }
+      },
+      "PD:EC-02I": {
+        "CookingFuel:fire_wood": {
+          "Count": "Int:9794"
+        },
+        "CookingFuel:kerosene": {
+          "Count": "Int:576"
+        },
+        "CookingFuel:gas": {
+          "Count": "Int:45389"
+        },
+        "CookingFuel:electricity": {
+          "Count": "Int:407"
+        },
+        "CookingFuel:saw_dust_or_paddy_husk": {
+          "Count": "Int:19"
+        },
+        "CookingFuel:bio_gas": {
+          "Count": "Int:3"
+        },
+        "CookingFuel:other": {
+          "Count": "Int:33"
+        },
+        "CookingFuel:not_relevant": {
+          "Count": "Int:1468"
+        }
+      },
+      "PD:EC-01M": {
+        "CookingFuel:fire_wood": {
+          "Count": "Int:1821"
+        },
+        "CookingFuel:kerosene": {
+          "Count": "Int:245"
+        },
+        "CookingFuel:gas": {
+          "Count": "Int:53011"
+        },
+        "CookingFuel:electricity": {
+          "Count": "Int:740"
+        },
+        "CookingFuel:saw_dust_or_paddy_husk": {
+          "Count": "Int:8"
+        },
+        "CookingFuel:bio_gas": {
+          "Count": "Int:3"
         },
         "CookingFuel:other": {
           "Count": "Int:50"
         },
         "CookingFuel:not_relevant": {
-          "Count": "Int:2068"
+          "Count": "Int:1236"
         }
       },
-      "Province:LK-4": {
+      "PD:EC-02F": {
         "CookingFuel:fire_wood": {
-          "Count": "Int:186993"
+          "Count": "Int:23831"
         },
         "CookingFuel:kerosene": {
-          "Count": "Int:2879"
+          "Count": "Int:100"
         },
         "CookingFuel:gas": {
-          "Count": "Int:117444"
+          "Count": "Int:31087"
         },
         "CookingFuel:electricity": {
-          "Count": "Int:422"
+          "Count": "Int:163"
         },
         "CookingFuel:saw_dust_or_paddy_husk": {
-          "Count": "Int:95"
+          "Count": "Int:13"
         },
         "CookingFuel:bio_gas": {
-          "Count": "Int:1814"
+          "Count": "Int:9"
         },
         "CookingFuel:other": {
-          "Count": "Int:40"
+          "Count": "Int:73"
         },
         "CookingFuel:not_relevant": {
-          "Count": "Int:2315"
+          "Count": "Int:1494"
+        }
+      },
+      "PD:EC-01H": {
+        "CookingFuel:fire_wood": {
+          "Count": "Int:2648"
+        },
+        "CookingFuel:kerosene": {
+          "Count": "Int:1324"
+        },
+        "CookingFuel:gas": {
+          "Count": "Int:50976"
+        },
+        "CookingFuel:electricity": {
+          "Count": "Int:658"
+        },
+        "CookingFuel:saw_dust_or_paddy_husk": {
+          "Count": "Int:4"
+        },
+        "CookingFuel:bio_gas": {
+          "Count": "Int:17"
+        },
+        "CookingFuel:other": {
+          "Count": "Int:25"
+        },
+        "CookingFuel:not_relevant": {
+          "Count": "Int:1104"
+        }
+      },
+      "PD:EC-03B": {
+        "CookingFuel:fire_wood": {
+          "Count": "Int:20670"
+        },
+        "CookingFuel:kerosene": {
+          "Count": "Int:252"
+        },
+        "CookingFuel:gas": {
+          "Count": "Int:34657"
+        },
+        "CookingFuel:electricity": {
+          "Count": "Int:162"
+        },
+        "CookingFuel:saw_dust_or_paddy_husk": {
+          "Count": "Int:12"
+        },
+        "CookingFuel:bio_gas": {
+          "Count": "Int:3"
+        },
+        "CookingFuel:other": {
+          "Count": "Int:20"
+        },
+        "CookingFuel:not_relevant": {
+          "Count": "Int:712"
+        }
+      },
+      "PD:EC-01K": {
+        "CookingFuel:fire_wood": {
+          "Count": "Int:25236"
+        },
+        "CookingFuel:kerosene": {
+          "Count": "Int:160"
+        },
+        "CookingFuel:gas": {
+          "Count": "Int:28615"
+        },
+        "CookingFuel:electricity": {
+          "Count": "Int:176"
+        },
+        "CookingFuel:saw_dust_or_paddy_husk": {
+          "Count": "Int:8"
+        },
+        "CookingFuel:bio_gas": {
+          "Count": "Int:6"
+        },
+        "CookingFuel:other": {
+          "Count": "Int:35"
+        },
+        "CookingFuel:not_relevant": {
+          "Count": "Int:1442"
+        }
+      },
+      "PD:EC-05A": {
+        "CookingFuel:fire_wood": {
+          "Count": "Int:44493"
+        },
+        "CookingFuel:kerosene": {
+          "Count": "Int:68"
+        },
+        "CookingFuel:gas": {
+          "Count": "Int:9822"
+        },
+        "CookingFuel:electricity": {
+          "Count": "Int:82"
+        },
+        "CookingFuel:saw_dust_or_paddy_husk": {
+          "Count": "Int:0"
+        },
+        "CookingFuel:bio_gas": {
+          "Count": "Int:3"
+        },
+        "CookingFuel:other": {
+          "Count": "Int:18"
+        },
+        "CookingFuel:not_relevant": {
+          "Count": "Int:479"
+        }
+      },
+      "PD:EC-02G": {
+        "CookingFuel:fire_wood": {
+          "Count": "Int:23722"
+        },
+        "CookingFuel:kerosene": {
+          "Count": "Int:190"
+        },
+        "CookingFuel:gas": {
+          "Count": "Int:29368"
+        },
+        "CookingFuel:electricity": {
+          "Count": "Int:133"
+        },
+        "CookingFuel:saw_dust_or_paddy_husk": {
+          "Count": "Int:7"
+        },
+        "CookingFuel:bio_gas": {
+          "Count": "Int:15"
+        },
+        "CookingFuel:other": {
+          "Count": "Int:22"
+        },
+        "CookingFuel:not_relevant": {
+          "Count": "Int:992"
+        }
+      },
+      "PD:EC-03C": {
+        "CookingFuel:fire_wood": {
+          "Count": "Int:23605"
+        },
+        "CookingFuel:kerosene": {
+          "Count": "Int:230"
+        },
+        "CookingFuel:gas": {
+          "Count": "Int:29571"
+        },
+        "CookingFuel:electricity": {
+          "Count": "Int:142"
+        },
+        "CookingFuel:saw_dust_or_paddy_husk": {
+          "Count": "Int:4"
+        },
+        "CookingFuel:bio_gas": {
+          "Count": "Int:0"
+        },
+        "CookingFuel:other": {
+          "Count": "Int:20"
+        },
+        "CookingFuel:not_relevant": {
+          "Count": "Int:719"
+        }
+      },
+      "PD:EC-12A": {
+        "CookingFuel:fire_wood": {
+          "Count": "Int:28563"
+        },
+        "CookingFuel:kerosene": {
+          "Count": "Int:745"
+        },
+        "CookingFuel:gas": {
+          "Count": "Int:21396"
+        },
+        "CookingFuel:electricity": {
+          "Count": "Int:123"
+        },
+        "CookingFuel:saw_dust_or_paddy_husk": {
+          "Count": "Int:91"
+        },
+        "CookingFuel:bio_gas": {
+          "Count": "Int:267"
+        },
+        "CookingFuel:other": {
+          "Count": "Int:13"
+        },
+        "CookingFuel:not_relevant": {
+          "Count": "Int:242"
+        }
+      },
+      "PD:EC-17E": {
+        "CookingFuel:fire_wood": {
+          "Count": "Int:41344"
+        },
+        "CookingFuel:kerosene": {
+          "Count": "Int:50"
+        },
+        "CookingFuel:gas": {
+          "Count": "Int:8959"
+        },
+        "CookingFuel:electricity": {
+          "Count": "Int:44"
+        },
+        "CookingFuel:saw_dust_or_paddy_husk": {
+          "Count": "Int:0"
+        },
+        "CookingFuel:bio_gas": {
+          "Count": "Int:7"
+        },
+        "CookingFuel:other": {
+          "Count": "Int:14"
+        },
+        "CookingFuel:not_relevant": {
+          "Count": "Int:427"
+        }
+      },
+      "PD:EC-02E": {
+        "CookingFuel:fire_wood": {
+          "Count": "Int:32603"
+        },
+        "CookingFuel:kerosene": {
+          "Count": "Int:148"
+        },
+        "CookingFuel:gas": {
+          "Count": "Int:16286"
+        },
+        "CookingFuel:electricity": {
+          "Count": "Int:96"
+        },
+        "CookingFuel:saw_dust_or_paddy_husk": {
+          "Count": "Int:5"
+        },
+        "CookingFuel:bio_gas": {
+          "Count": "Int:2"
+        },
+        "CookingFuel:other": {
+          "Count": "Int:26"
+        },
+        "CookingFuel:not_relevant": {
+          "Count": "Int:657"
+        }
+      },
+      "PD:EC-02A": {
+        "CookingFuel:fire_wood": {
+          "Count": "Int:5234"
+        },
+        "CookingFuel:kerosene": {
+          "Count": "Int:811"
+        },
+        "CookingFuel:gas": {
+          "Count": "Int:42086"
+        },
+        "CookingFuel:electricity": {
+          "Count": "Int:277"
+        },
+        "CookingFuel:saw_dust_or_paddy_husk": {
+          "Count": "Int:7"
+        },
+        "CookingFuel:bio_gas": {
+          "Count": "Int:5"
+        },
+        "CookingFuel:other": {
+          "Count": "Int:43"
+        },
+        "CookingFuel:not_relevant": {
+          "Count": "Int:837"
+        }
+      },
+      "PD:EC-14C": {
+        "CookingFuel:fire_wood": {
+          "Count": "Int:23237"
+        },
+        "CookingFuel:kerosene": {
+          "Count": "Int:431"
+        },
+        "CookingFuel:gas": {
+          "Count": "Int:24238"
+        },
+        "CookingFuel:electricity": {
+          "Count": "Int:143"
+        },
+        "CookingFuel:saw_dust_or_paddy_husk": {
+          "Count": "Int:9"
+        },
+        "CookingFuel:bio_gas": {
+          "Count": "Int:677"
+        },
+        "CookingFuel:other": {
+          "Count": "Int:5"
+        },
+        "CookingFuel:not_relevant": {
+          "Count": "Int:392"
+        }
+      },
+      "PD:EC-09C": {
+        "CookingFuel:fire_wood": {
+          "Count": "Int:34120"
+        },
+        "CookingFuel:kerosene": {
+          "Count": "Int:79"
+        },
+        "CookingFuel:gas": {
+          "Count": "Int:14116"
+        },
+        "CookingFuel:electricity": {
+          "Count": "Int:71"
+        },
+        "CookingFuel:saw_dust_or_paddy_husk": {
+          "Count": "Int:2"
+        },
+        "CookingFuel:bio_gas": {
+          "Count": "Int:1"
+        },
+        "CookingFuel:other": {
+          "Count": "Int:13"
+        },
+        "CookingFuel:not_relevant": {
+          "Count": "Int:541"
+        }
+      },
+      "PD:EC-11B": {
+        "CookingFuel:fire_wood": {
+          "Count": "Int:27330"
+        },
+        "CookingFuel:kerosene": {
+          "Count": "Int:459"
+        },
+        "CookingFuel:gas": {
+          "Count": "Int:20251"
+        },
+        "CookingFuel:electricity": {
+          "Count": "Int:50"
+        },
+        "CookingFuel:saw_dust_or_paddy_husk": {
+          "Count": "Int:3"
+        },
+        "CookingFuel:bio_gas": {
+          "Count": "Int:83"
+        },
+        "CookingFuel:other": {
+          "Count": "Int:12"
+        },
+        "CookingFuel:not_relevant": {
+          "Count": "Int:211"
+        }
+      },
+      "PD:EC-16B": {
+        "CookingFuel:fire_wood": {
+          "Count": "Int:40712"
+        },
+        "CookingFuel:kerosene": {
+          "Count": "Int:274"
+        },
+        "CookingFuel:gas": {
+          "Count": "Int:6459"
+        },
+        "CookingFuel:electricity": {
+          "Count": "Int:21"
+        },
+        "CookingFuel:saw_dust_or_paddy_husk": {
+          "Count": "Int:2"
+        },
+        "CookingFuel:bio_gas": {
+          "Count": "Int:0"
+        },
+        "CookingFuel:other": {
+          "Count": "Int:5"
+        },
+        "CookingFuel:not_relevant": {
+          "Count": "Int:445"
+        }
+      },
+      "PD:EC-02K": {
+        "CookingFuel:fire_wood": {
+          "Count": "Int:26694"
+        },
+        "CookingFuel:kerosene": {
+          "Count": "Int:125"
+        },
+        "CookingFuel:gas": {
+          "Count": "Int:19776"
+        },
+        "CookingFuel:electricity": {
+          "Count": "Int:82"
+        },
+        "CookingFuel:saw_dust_or_paddy_husk": {
+          "Count": "Int:4"
+        },
+        "CookingFuel:bio_gas": {
+          "Count": "Int:7"
+        },
+        "CookingFuel:other": {
+          "Count": "Int:9"
+        },
+        "CookingFuel:not_relevant": {
+          "Count": "Int:854"
+        }
+      },
+      "PD:EC-15C": {
+        "CookingFuel:fire_wood": {
+          "Count": "Int:41100"
+        },
+        "CookingFuel:kerosene": {
+          "Count": "Int:95"
+        },
+        "CookingFuel:gas": {
+          "Count": "Int:5183"
+        },
+        "CookingFuel:electricity": {
+          "Count": "Int:277"
+        },
+        "CookingFuel:saw_dust_or_paddy_husk": {
+          "Count": "Int:0"
+        },
+        "CookingFuel:bio_gas": {
+          "Count": "Int:2"
+        },
+        "CookingFuel:other": {
+          "Count": "Int:11"
+        },
+        "CookingFuel:not_relevant": {
+          "Count": "Int:454"
+        }
+      },
+      "PD:EC-20B": {
+        "CookingFuel:fire_wood": {
+          "Count": "Int:39009"
+        },
+        "CookingFuel:kerosene": {
+          "Count": "Int:153"
+        },
+        "CookingFuel:gas": {
+          "Count": "Int:7610"
+        },
+        "CookingFuel:electricity": {
+          "Count": "Int:108"
+        },
+        "CookingFuel:saw_dust_or_paddy_husk": {
+          "Count": "Int:0"
+        },
+        "CookingFuel:bio_gas": {
+          "Count": "Int:1"
+        },
+        "CookingFuel:other": {
+          "Count": "Int:6"
+        },
+        "CookingFuel:not_relevant": {
+          "Count": "Int:221"
+        }
+      },
+      "PD:EC-21B": {
+        "CookingFuel:fire_wood": {
+          "Count": "Int:30081"
+        },
+        "CookingFuel:kerosene": {
+          "Count": "Int:156"
+        },
+        "CookingFuel:gas": {
+          "Count": "Int:16113"
+        },
+        "CookingFuel:electricity": {
+          "Count": "Int:106"
+        },
+        "CookingFuel:saw_dust_or_paddy_husk": {
+          "Count": "Int:1"
+        },
+        "CookingFuel:bio_gas": {
+          "Count": "Int:1"
+        },
+        "CookingFuel:other": {
+          "Count": "Int:12"
+        },
+        "CookingFuel:not_relevant": {
+          "Count": "Int:313"
+        }
+      },
+      "PD:EC-16C": {
+        "CookingFuel:fire_wood": {
+          "Count": "Int:27144"
+        },
+        "CookingFuel:kerosene": {
+          "Count": "Int:495"
+        },
+        "CookingFuel:gas": {
+          "Count": "Int:17458"
+        },
+        "CookingFuel:electricity": {
+          "Count": "Int:39"
+        },
+        "CookingFuel:saw_dust_or_paddy_husk": {
+          "Count": "Int:1"
+        },
+        "CookingFuel:bio_gas": {
+          "Count": "Int:2"
+        },
+        "CookingFuel:other": {
+          "Count": "Int:19"
+        },
+        "CookingFuel:not_relevant": {
+          "Count": "Int:999"
+        }
+      },
+      "PD:EC-02D": {
+        "CookingFuel:fire_wood": {
+          "Count": "Int:30748"
+        },
+        "CookingFuel:kerosene": {
+          "Count": "Int:107"
+        },
+        "CookingFuel:gas": {
+          "Count": "Int:13165"
+        },
+        "CookingFuel:electricity": {
+          "Count": "Int:96"
+        },
+        "CookingFuel:saw_dust_or_paddy_husk": {
+          "Count": "Int:2"
+        },
+        "CookingFuel:bio_gas": {
+          "Count": "Int:5"
+        },
+        "CookingFuel:other": {
+          "Count": "Int:41"
+        },
+        "CookingFuel:not_relevant": {
+          "Count": "Int:908"
+        }
+      },
+      "PD:EC-17C": {
+        "CookingFuel:fire_wood": {
+          "Count": "Int:23658"
+        },
+        "CookingFuel:kerosene": {
+          "Count": "Int:95"
+        },
+        "CookingFuel:gas": {
+          "Count": "Int:20543"
+        },
+        "CookingFuel:electricity": {
+          "Count": "Int:175"
+        },
+        "CookingFuel:saw_dust_or_paddy_husk": {
+          "Count": "Int:2"
+        },
+        "CookingFuel:bio_gas": {
+          "Count": "Int:38"
+        },
+        "CookingFuel:other": {
+          "Count": "Int:7"
+        },
+        "CookingFuel:not_relevant": {
+          "Count": "Int:473"
+        }
+      },
+      "PD:EC-17D": {
+        "CookingFuel:fire_wood": {
+          "Count": "Int:33712"
+        },
+        "CookingFuel:kerosene": {
+          "Count": "Int:107"
+        },
+        "CookingFuel:gas": {
+          "Count": "Int:10754"
+        },
+        "CookingFuel:electricity": {
+          "Count": "Int:29"
+        },
+        "CookingFuel:saw_dust_or_paddy_husk": {
+          "Count": "Int:0"
+        },
+        "CookingFuel:bio_gas": {
+          "Count": "Int:0"
+        },
+        "CookingFuel:other": {
+          "Count": "Int:18"
+        },
+        "CookingFuel:not_relevant": {
+          "Count": "Int:324"
+        }
+      },
+      "PD:EC-01O": {
+        "CookingFuel:fire_wood": {
+          "Count": "Int:8496"
+        },
+        "CookingFuel:kerosene": {
+          "Count": "Int:497"
+        },
+        "CookingFuel:gas": {
+          "Count": "Int:34094"
+        },
+        "CookingFuel:electricity": {
+          "Count": "Int:292"
+        },
+        "CookingFuel:saw_dust_or_paddy_husk": {
+          "Count": "Int:64"
+        },
+        "CookingFuel:bio_gas": {
+          "Count": "Int:1"
+        },
+        "CookingFuel:other": {
+          "Count": "Int:48"
+        },
+        "CookingFuel:not_relevant": {
+          "Count": "Int:1380"
+        }
+      },
+      "PD:EC-03F": {
+        "CookingFuel:fire_wood": {
+          "Count": "Int:13981"
+        },
+        "CookingFuel:kerosene": {
+          "Count": "Int:166"
+        },
+        "CookingFuel:gas": {
+          "Count": "Int:29525"
+        },
+        "CookingFuel:electricity": {
+          "Count": "Int:131"
+        },
+        "CookingFuel:saw_dust_or_paddy_husk": {
+          "Count": "Int:6"
+        },
+        "CookingFuel:bio_gas": {
+          "Count": "Int:17"
+        },
+        "CookingFuel:other": {
+          "Count": "Int:53"
+        },
+        "CookingFuel:not_relevant": {
+          "Count": "Int:453"
+        }
+      },
+      "PD:EC-21D": {
+        "CookingFuel:fire_wood": {
+          "Count": "Int:35030"
+        },
+        "CookingFuel:kerosene": {
+          "Count": "Int:87"
+        },
+        "CookingFuel:gas": {
+          "Count": "Int:8346"
+        },
+        "CookingFuel:electricity": {
+          "Count": "Int:148"
+        },
+        "CookingFuel:saw_dust_or_paddy_husk": {
+          "Count": "Int:4"
+        },
+        "CookingFuel:bio_gas": {
+          "Count": "Int:0"
+        },
+        "CookingFuel:other": {
+          "Count": "Int:3"
+        },
+        "CookingFuel:not_relevant": {
+          "Count": "Int:374"
+        }
+      },
+      "PD:EC-19A": {
+        "CookingFuel:fire_wood": {
+          "Count": "Int:38587"
+        },
+        "CookingFuel:kerosene": {
+          "Count": "Int:104"
+        },
+        "CookingFuel:gas": {
+          "Count": "Int:3903"
+        },
+        "CookingFuel:electricity": {
+          "Count": "Int:141"
+        },
+        "CookingFuel:saw_dust_or_paddy_husk": {
+          "Count": "Int:1"
+        },
+        "CookingFuel:bio_gas": {
+          "Count": "Int:0"
+        },
+        "CookingFuel:other": {
+          "Count": "Int:3"
+        },
+        "CookingFuel:not_relevant": {
+          "Count": "Int:196"
+        }
+      },
+      "PD:EC-03A": {
+        "CookingFuel:fire_wood": {
+          "Count": "Int:7351"
+        },
+        "CookingFuel:kerosene": {
+          "Count": "Int:346"
+        },
+        "CookingFuel:gas": {
+          "Count": "Int:34028"
+        },
+        "CookingFuel:electricity": {
+          "Count": "Int:243"
+        },
+        "CookingFuel:saw_dust_or_paddy_husk": {
+          "Count": "Int:9"
+        },
+        "CookingFuel:bio_gas": {
+          "Count": "Int:37"
+        },
+        "CookingFuel:other": {
+          "Count": "Int:14"
+        },
+        "CookingFuel:not_relevant": {
+          "Count": "Int:596"
+        }
+      },
+      "PD:EC-03G": {
+        "CookingFuel:fire_wood": {
+          "Count": "Int:13392"
+        },
+        "CookingFuel:kerosene": {
+          "Count": "Int:148"
+        },
+        "CookingFuel:gas": {
+          "Count": "Int:28436"
+        },
+        "CookingFuel:electricity": {
+          "Count": "Int:185"
+        },
+        "CookingFuel:saw_dust_or_paddy_husk": {
+          "Count": "Int:7"
+        },
+        "CookingFuel:bio_gas": {
+          "Count": "Int:5"
+        },
+        "CookingFuel:other": {
+          "Count": "Int:11"
+        },
+        "CookingFuel:not_relevant": {
+          "Count": "Int:287"
+        }
+      },
+      "PD:EC-15A": {
+        "CookingFuel:fire_wood": {
+          "Count": "Int:37674"
+        },
+        "CookingFuel:kerosene": {
+          "Count": "Int:51"
+        },
+        "CookingFuel:gas": {
+          "Count": "Int:4103"
+        },
+        "CookingFuel:electricity": {
+          "Count": "Int:38"
+        },
+        "CookingFuel:saw_dust_or_paddy_husk": {
+          "Count": "Int:3"
+        },
+        "CookingFuel:bio_gas": {
+          "Count": "Int:3"
+        },
+        "CookingFuel:other": {
+          "Count": "Int:5"
+        },
+        "CookingFuel:not_relevant": {
+          "Count": "Int:432"
+        }
+      },
+      "PD:EC-03E": {
+        "CookingFuel:fire_wood": {
+          "Count": "Int:21556"
+        },
+        "CookingFuel:kerosene": {
+          "Count": "Int:71"
+        },
+        "CookingFuel:gas": {
+          "Count": "Int:20136"
+        },
+        "CookingFuel:electricity": {
+          "Count": "Int:80"
+        },
+        "CookingFuel:saw_dust_or_paddy_husk": {
+          "Count": "Int:2"
+        },
+        "CookingFuel:bio_gas": {
+          "Count": "Int:3"
+        },
+        "CookingFuel:other": {
+          "Count": "Int:14"
+        },
+        "CookingFuel:not_relevant": {
+          "Count": "Int:308"
+        }
+      },
+      "PD:EC-21E": {
+        "CookingFuel:fire_wood": {
+          "Count": "Int:35472"
+        },
+        "CookingFuel:kerosene": {
+          "Count": "Int:50"
+        },
+        "CookingFuel:gas": {
+          "Count": "Int:5782"
+        },
+        "CookingFuel:electricity": {
+          "Count": "Int:30"
+        },
+        "CookingFuel:saw_dust_or_paddy_husk": {
+          "Count": "Int:3"
+        },
+        "CookingFuel:bio_gas": {
+          "Count": "Int:3"
+        },
+        "CookingFuel:other": {
+          "Count": "Int:9"
+        },
+        "CookingFuel:not_relevant": {
+          "Count": "Int:375"
+        }
+      },
+      "PD:EC-09A": {
+        "CookingFuel:fire_wood": {
+          "Count": "Int:33426"
+        },
+        "CookingFuel:kerosene": {
+          "Count": "Int:47"
+        },
+        "CookingFuel:gas": {
+          "Count": "Int:7004"
+        },
+        "CookingFuel:electricity": {
+          "Count": "Int:30"
+        },
+        "CookingFuel:saw_dust_or_paddy_husk": {
+          "Count": "Int:2"
+        },
+        "CookingFuel:bio_gas": {
+          "Count": "Int:6"
+        },
+        "CookingFuel:other": {
+          "Count": "Int:16"
+        },
+        "CookingFuel:not_relevant": {
+          "Count": "Int:369"
+        }
+      },
+      "PD:EC-15I": {
+        "CookingFuel:fire_wood": {
+          "Count": "Int:30208"
+        },
+        "CookingFuel:kerosene": {
+          "Count": "Int:57"
+        },
+        "CookingFuel:gas": {
+          "Count": "Int:9774"
+        },
+        "CookingFuel:electricity": {
+          "Count": "Int:46"
+        },
+        "CookingFuel:saw_dust_or_paddy_husk": {
+          "Count": "Int:2"
+        },
+        "CookingFuel:bio_gas": {
+          "Count": "Int:5"
+        },
+        "CookingFuel:other": {
+          "Count": "Int:21"
+        },
+        "CookingFuel:not_relevant": {
+          "Count": "Int:622"
+        }
+      },
+      "PD:EC-14B": {
+        "CookingFuel:fire_wood": {
+          "Count": "Int:11207"
+        },
+        "CookingFuel:kerosene": {
+          "Count": "Int:877"
+        },
+        "CookingFuel:gas": {
+          "Count": "Int:27216"
+        },
+        "CookingFuel:electricity": {
+          "Count": "Int:115"
+        },
+        "CookingFuel:saw_dust_or_paddy_husk": {
+          "Count": "Int:10"
+        },
+        "CookingFuel:bio_gas": {
+          "Count": "Int:268"
+        },
+        "CookingFuel:other": {
+          "Count": "Int:8"
+        },
+        "CookingFuel:not_relevant": {
+          "Count": "Int:591"
+        }
+      },
+      "PD:EC-04F": {
+        "CookingFuel:fire_wood": {
+          "Count": "Int:20413"
+        },
+        "CookingFuel:kerosene": {
+          "Count": "Int:92"
+        },
+        "CookingFuel:gas": {
+          "Count": "Int:19203"
+        },
+        "CookingFuel:electricity": {
+          "Count": "Int:107"
+        },
+        "CookingFuel:saw_dust_or_paddy_husk": {
+          "Count": "Int:6"
+        },
+        "CookingFuel:bio_gas": {
+          "Count": "Int:3"
+        },
+        "CookingFuel:other": {
+          "Count": "Int:14"
+        },
+        "CookingFuel:not_relevant": {
+          "Count": "Int:289"
+        }
+      },
+      "PD:EC-15D": {
+        "CookingFuel:fire_wood": {
+          "Count": "Int:32945"
+        },
+        "CookingFuel:kerosene": {
+          "Count": "Int:34"
+        },
+        "CookingFuel:gas": {
+          "Count": "Int:6570"
+        },
+        "CookingFuel:electricity": {
+          "Count": "Int:46"
+        },
+        "CookingFuel:saw_dust_or_paddy_husk": {
+          "Count": "Int:1"
+        },
+        "CookingFuel:bio_gas": {
+          "Count": "Int:4"
+        },
+        "CookingFuel:other": {
+          "Count": "Int:5"
+        },
+        "CookingFuel:not_relevant": {
+          "Count": "Int:347"
+        }
+      },
+      "PD:EC-04L": {
+        "CookingFuel:fire_wood": {
+          "Count": "Int:23878"
+        },
+        "CookingFuel:kerosene": {
+          "Count": "Int:262"
+        },
+        "CookingFuel:gas": {
+          "Count": "Int:14987"
+        },
+        "CookingFuel:electricity": {
+          "Count": "Int:150"
+        },
+        "CookingFuel:saw_dust_or_paddy_husk": {
+          "Count": "Int:5"
+        },
+        "CookingFuel:bio_gas": {
+          "Count": "Int:4"
+        },
+        "CookingFuel:other": {
+          "Count": "Int:5"
+        },
+        "CookingFuel:not_relevant": {
+          "Count": "Int:201"
+        }
+      },
+      "PD:EC-01B": {
+        "CookingFuel:fire_wood": {
+          "Count": "Int:172"
+        },
+        "CookingFuel:kerosene": {
+          "Count": "Int:1521"
+        },
+        "CookingFuel:gas": {
+          "Count": "Int:36266"
+        },
+        "CookingFuel:electricity": {
+          "Count": "Int:346"
+        },
+        "CookingFuel:saw_dust_or_paddy_husk": {
+          "Count": "Int:6"
+        },
+        "CookingFuel:bio_gas": {
+          "Count": "Int:15"
+        },
+        "CookingFuel:other": {
+          "Count": "Int:55"
+        },
+        "CookingFuel:not_relevant": {
+          "Count": "Int:1044"
+        }
+      },
+      "PD:EC-07I": {
+        "CookingFuel:fire_wood": {
+          "Count": "Int:13932"
+        },
+        "CookingFuel:kerosene": {
+          "Count": "Int:58"
+        },
+        "CookingFuel:gas": {
+          "Count": "Int:24401"
+        },
+        "CookingFuel:electricity": {
+          "Count": "Int:96"
+        },
+        "CookingFuel:saw_dust_or_paddy_husk": {
+          "Count": "Int:14"
+        },
+        "CookingFuel:bio_gas": {
+          "Count": "Int:8"
+        },
+        "CookingFuel:other": {
+          "Count": "Int:16"
+        },
+        "CookingFuel:not_relevant": {
+          "Count": "Int:606"
+        }
+      },
+      "PD:EC-15H": {
+        "CookingFuel:fire_wood": {
+          "Count": "Int:28692"
+        },
+        "CookingFuel:kerosene": {
+          "Count": "Int:63"
+        },
+        "CookingFuel:gas": {
+          "Count": "Int:9396"
+        },
+        "CookingFuel:electricity": {
+          "Count": "Int:37"
+        },
+        "CookingFuel:saw_dust_or_paddy_husk": {
+          "Count": "Int:2"
+        },
+        "CookingFuel:bio_gas": {
+          "Count": "Int:5"
+        },
+        "CookingFuel:other": {
+          "Count": "Int:38"
+        },
+        "CookingFuel:not_relevant": {
+          "Count": "Int:801"
+        }
+      },
+      "PD:EC-15B": {
+        "CookingFuel:fire_wood": {
+          "Count": "Int:33527"
+        },
+        "CookingFuel:kerosene": {
+          "Count": "Int:31"
+        },
+        "CookingFuel:gas": {
+          "Count": "Int:4950"
+        },
+        "CookingFuel:electricity": {
+          "Count": "Int:18"
+        },
+        "CookingFuel:saw_dust_or_paddy_husk": {
+          "Count": "Int:0"
+        },
+        "CookingFuel:bio_gas": {
+          "Count": "Int:1"
+        },
+        "CookingFuel:other": {
+          "Count": "Int:16"
+        },
+        "CookingFuel:not_relevant": {
+          "Count": "Int:443"
+        }
+      },
+      "PD:EC-16E": {
+        "CookingFuel:fire_wood": {
+          "Count": "Int:21477"
+        },
+        "CookingFuel:kerosene": {
+          "Count": "Int:80"
+        },
+        "CookingFuel:gas": {
+          "Count": "Int:16232"
+        },
+        "CookingFuel:electricity": {
+          "Count": "Int:73"
+        },
+        "CookingFuel:saw_dust_or_paddy_husk": {
+          "Count": "Int:6"
+        },
+        "CookingFuel:bio_gas": {
+          "Count": "Int:7"
+        },
+        "CookingFuel:other": {
+          "Count": "Int:37"
+        },
+        "CookingFuel:not_relevant": {
+          "Count": "Int:850"
+        }
+      },
+      "PD:EC-07E": {
+        "CookingFuel:fire_wood": {
+          "Count": "Int:27796"
+        },
+        "CookingFuel:kerosene": {
+          "Count": "Int:37"
+        },
+        "CookingFuel:gas": {
+          "Count": "Int:9823"
+        },
+        "CookingFuel:electricity": {
+          "Count": "Int:23"
+        },
+        "CookingFuel:saw_dust_or_paddy_husk": {
+          "Count": "Int:0"
+        },
+        "CookingFuel:bio_gas": {
+          "Count": "Int:2"
+        },
+        "CookingFuel:other": {
+          "Count": "Int:7"
+        },
+        "CookingFuel:not_relevant": {
+          "Count": "Int:381"
+        }
+      },
+      "PD:EC-08A": {
+        "CookingFuel:fire_wood": {
+          "Count": "Int:30267"
+        },
+        "CookingFuel:kerosene": {
+          "Count": "Int:71"
+        },
+        "CookingFuel:gas": {
+          "Count": "Int:7223"
+        },
+        "CookingFuel:electricity": {
+          "Count": "Int:34"
+        },
+        "CookingFuel:saw_dust_or_paddy_husk": {
+          "Count": "Int:0"
+        },
+        "CookingFuel:bio_gas": {
+          "Count": "Int:0"
+        },
+        "CookingFuel:other": {
+          "Count": "Int:9"
+        },
+        "CookingFuel:not_relevant": {
+          "Count": "Int:308"
+        }
+      },
+      "PD:EC-03H": {
+        "CookingFuel:fire_wood": {
+          "Count": "Int:27017"
+        },
+        "CookingFuel:kerosene": {
+          "Count": "Int:101"
+        },
+        "CookingFuel:gas": {
+          "Count": "Int:10483"
+        },
+        "CookingFuel:electricity": {
+          "Count": "Int:27"
+        },
+        "CookingFuel:saw_dust_or_paddy_husk": {
+          "Count": "Int:1"
+        },
+        "CookingFuel:bio_gas": {
+          "Count": "Int:3"
+        },
+        "CookingFuel:other": {
+          "Count": "Int:5"
+        },
+        "CookingFuel:not_relevant": {
+          "Count": "Int:240"
+        }
+      },
+      "PD:EC-17A": {
+        "CookingFuel:fire_wood": {
+          "Count": "Int:30928"
+        },
+        "CookingFuel:kerosene": {
+          "Count": "Int:75"
+        },
+        "CookingFuel:gas": {
+          "Count": "Int:6520"
+        },
+        "CookingFuel:electricity": {
+          "Count": "Int:31"
+        },
+        "CookingFuel:saw_dust_or_paddy_husk": {
+          "Count": "Int:0"
+        },
+        "CookingFuel:bio_gas": {
+          "Count": "Int:1"
+        },
+        "CookingFuel:other": {
+          "Count": "Int:6"
+        },
+        "CookingFuel:not_relevant": {
+          "Count": "Int:267"
+        }
+      },
+      "PD:EC-13B": {
+        "CookingFuel:fire_wood": {
+          "Count": "Int:14113"
+        },
+        "CookingFuel:kerosene": {
+          "Count": "Int:155"
+        },
+        "CookingFuel:gas": {
+          "Count": "Int:21794"
+        },
+        "CookingFuel:electricity": {
+          "Count": "Int:106"
+        },
+        "CookingFuel:saw_dust_or_paddy_husk": {
+          "Count": "Int:235"
+        },
+        "CookingFuel:bio_gas": {
+          "Count": "Int:963"
+        },
+        "CookingFuel:other": {
+          "Count": "Int:24"
+        },
+        "CookingFuel:not_relevant": {
+          "Count": "Int:259"
+        }
+      },
+      "PD:EC-02M": {
+        "CookingFuel:fire_wood": {
+          "Count": "Int:2408"
+        },
+        "CookingFuel:kerosene": {
+          "Count": "Int:598"
+        },
+        "CookingFuel:gas": {
+          "Count": "Int:31882"
+        },
+        "CookingFuel:electricity": {
+          "Count": "Int:281"
+        },
+        "CookingFuel:saw_dust_or_paddy_husk": {
+          "Count": "Int:7"
+        },
+        "CookingFuel:bio_gas": {
+          "Count": "Int:2"
+        },
+        "CookingFuel:other": {
+          "Count": "Int:9"
+        },
+        "CookingFuel:not_relevant": {
+          "Count": "Int:2044"
+        }
+      },
+      "PD:EC-21A": {
+        "CookingFuel:fire_wood": {
+          "Count": "Int:26195"
+        },
+        "CookingFuel:kerosene": {
+          "Count": "Int:77"
+        },
+        "CookingFuel:gas": {
+          "Count": "Int:10055"
+        },
+        "CookingFuel:electricity": {
+          "Count": "Int:73"
+        },
+        "CookingFuel:saw_dust_or_paddy_husk": {
+          "Count": "Int:4"
+        },
+        "CookingFuel:bio_gas": {
+          "Count": "Int:7"
+        },
+        "CookingFuel:other": {
+          "Count": "Int:12"
+        },
+        "CookingFuel:not_relevant": {
+          "Count": "Int:363"
+        }
+      },
+      "PD:EC-07F": {
+        "CookingFuel:fire_wood": {
+          "Count": "Int:24042"
+        },
+        "CookingFuel:kerosene": {
+          "Count": "Int:82"
+        },
+        "CookingFuel:gas": {
+          "Count": "Int:12134"
+        },
+        "CookingFuel:electricity": {
+          "Count": "Int:39"
+        },
+        "CookingFuel:saw_dust_or_paddy_husk": {
+          "Count": "Int:0"
+        },
+        "CookingFuel:bio_gas": {
+          "Count": "Int:8"
+        },
+        "CookingFuel:other": {
+          "Count": "Int:12"
+        },
+        "CookingFuel:not_relevant": {
+          "Count": "Int:432"
+        }
+      },
+      "PD:EC-10K": {
+        "CookingFuel:fire_wood": {
+          "Count": "Int:28403"
+        },
+        "CookingFuel:kerosene": {
+          "Count": "Int:179"
+        },
+        "CookingFuel:gas": {
+          "Count": "Int:7781"
+        },
+        "CookingFuel:electricity": {
+          "Count": "Int:19"
+        },
+        "CookingFuel:saw_dust_or_paddy_husk": {
+          "Count": "Int:2"
+        },
+        "CookingFuel:bio_gas": {
+          "Count": "Int:201"
+        },
+        "CookingFuel:other": {
+          "Count": "Int:3"
+        },
+        "CookingFuel:not_relevant": {
+          "Count": "Int:146"
+        }
+      },
+      "PD:EC-15M": {
+        "CookingFuel:fire_wood": {
+          "Count": "Int:23246"
+        },
+        "CookingFuel:kerosene": {
+          "Count": "Int:71"
+        },
+        "CookingFuel:gas": {
+          "Count": "Int:12904"
+        },
+        "CookingFuel:electricity": {
+          "Count": "Int:80"
+        },
+        "CookingFuel:saw_dust_or_paddy_husk": {
+          "Count": "Int:2"
+        },
+        "CookingFuel:bio_gas": {
+          "Count": "Int:3"
+        },
+        "CookingFuel:other": {
+          "Count": "Int:10"
+        },
+        "CookingFuel:not_relevant": {
+          "Count": "Int:324"
+        }
+      },
+      "PD:EC-12C": {
+        "CookingFuel:fire_wood": {
+          "Count": "Int:17885"
+        },
+        "CookingFuel:kerosene": {
+          "Count": "Int:235"
+        },
+        "CookingFuel:gas": {
+          "Count": "Int:17874"
+        },
+        "CookingFuel:electricity": {
+          "Count": "Int:96"
+        },
+        "CookingFuel:saw_dust_or_paddy_husk": {
+          "Count": "Int:87"
+        },
+        "CookingFuel:bio_gas": {
+          "Count": "Int:254"
+        },
+        "CookingFuel:other": {
+          "Count": "Int:6"
+        },
+        "CookingFuel:not_relevant": {
+          "Count": "Int:112"
+        }
+      },
+      "PD:EC-20A": {
+        "CookingFuel:fire_wood": {
+          "Count": "Int:31730"
+        },
+        "CookingFuel:kerosene": {
+          "Count": "Int:84"
+        },
+        "CookingFuel:gas": {
+          "Count": "Int:4450"
+        },
+        "CookingFuel:electricity": {
+          "Count": "Int:54"
+        },
+        "CookingFuel:saw_dust_or_paddy_husk": {
+          "Count": "Int:1"
+        },
+        "CookingFuel:bio_gas": {
+          "Count": "Int:0"
+        },
+        "CookingFuel:other": {
+          "Count": "Int:8"
+        },
+        "CookingFuel:not_relevant": {
+          "Count": "Int:184"
+        }
+      },
+      "PD:EC-02B": {
+        "CookingFuel:fire_wood": {
+          "Count": "Int:4015"
+        },
+        "CookingFuel:kerosene": {
+          "Count": "Int:629"
+        },
+        "CookingFuel:gas": {
+          "Count": "Int:30741"
+        },
+        "CookingFuel:electricity": {
+          "Count": "Int:201"
+        },
+        "CookingFuel:saw_dust_or_paddy_husk": {
+          "Count": "Int:13"
+        },
+        "CookingFuel:bio_gas": {
+          "Count": "Int:52"
+        },
+        "CookingFuel:other": {
+          "Count": "Int:5"
+        },
+        "CookingFuel:not_relevant": {
+          "Count": "Int:644"
+        }
+      },
+      "PD:EC-15L": {
+        "CookingFuel:fire_wood": {
+          "Count": "Int:16939"
+        },
+        "CookingFuel:kerosene": {
+          "Count": "Int:73"
+        },
+        "CookingFuel:gas": {
+          "Count": "Int:18575"
+        },
+        "CookingFuel:electricity": {
+          "Count": "Int:199"
+        },
+        "CookingFuel:saw_dust_or_paddy_husk": {
+          "Count": "Int:0"
+        },
+        "CookingFuel:bio_gas": {
+          "Count": "Int:6"
+        },
+        "CookingFuel:other": {
+          "Count": "Int:15"
+        },
+        "CookingFuel:not_relevant": {
+          "Count": "Int:394"
+        }
+      },
+      "PD:EC-15J": {
+        "CookingFuel:fire_wood": {
+          "Count": "Int:28101"
+        },
+        "CookingFuel:kerosene": {
+          "Count": "Int:26"
+        },
+        "CookingFuel:gas": {
+          "Count": "Int:7547"
+        },
+        "CookingFuel:electricity": {
+          "Count": "Int:62"
+        },
+        "CookingFuel:saw_dust_or_paddy_husk": {
+          "Count": "Int:0"
+        },
+        "CookingFuel:bio_gas": {
+          "Count": "Int:0"
+        },
+        "CookingFuel:other": {
+          "Count": "Int:8"
+        },
+        "CookingFuel:not_relevant": {
+          "Count": "Int:439"
+        }
+      },
+      "PD:EC-04M": {
+        "CookingFuel:fire_wood": {
+          "Count": "Int:24404"
+        },
+        "CookingFuel:kerosene": {
+          "Count": "Int:105"
+        },
+        "CookingFuel:gas": {
+          "Count": "Int:11337"
+        },
+        "CookingFuel:electricity": {
+          "Count": "Int:95"
+        },
+        "CookingFuel:saw_dust_or_paddy_husk": {
+          "Count": "Int:2"
+        },
+        "CookingFuel:bio_gas": {
+          "Count": "Int:1"
+        },
+        "CookingFuel:other": {
+          "Count": "Int:6"
+        },
+        "CookingFuel:not_relevant": {
+          "Count": "Int:155"
+        }
+      },
+      "PD:EC-15G": {
+        "CookingFuel:fire_wood": {
+          "Count": "Int:28238"
+        },
+        "CookingFuel:kerosene": {
+          "Count": "Int:62"
+        },
+        "CookingFuel:gas": {
+          "Count": "Int:6768"
+        },
+        "CookingFuel:electricity": {
+          "Count": "Int:35"
+        },
+        "CookingFuel:saw_dust_or_paddy_husk": {
+          "Count": "Int:0"
+        },
+        "CookingFuel:bio_gas": {
+          "Count": "Int:6"
+        },
+        "CookingFuel:other": {
+          "Count": "Int:8"
+        },
+        "CookingFuel:not_relevant": {
+          "Count": "Int:487"
+        }
+      },
+      "PD:EC-05D": {
+        "CookingFuel:fire_wood": {
+          "Count": "Int:25776"
+        },
+        "CookingFuel:kerosene": {
+          "Count": "Int:41"
+        },
+        "CookingFuel:gas": {
+          "Count": "Int:9244"
+        },
+        "CookingFuel:electricity": {
+          "Count": "Int:32"
+        },
+        "CookingFuel:saw_dust_or_paddy_husk": {
+          "Count": "Int:2"
+        },
+        "CookingFuel:bio_gas": {
+          "Count": "Int:1"
+        },
+        "CookingFuel:other": {
+          "Count": "Int:14"
+        },
+        "CookingFuel:not_relevant": {
+          "Count": "Int:193"
+        }
+      },
+      "PD:EC-17G": {
+        "CookingFuel:fire_wood": {
+          "Count": "Int:27556"
+        },
+        "CookingFuel:kerosene": {
+          "Count": "Int:59"
+        },
+        "CookingFuel:gas": {
+          "Count": "Int:6866"
+        },
+        "CookingFuel:electricity": {
+          "Count": "Int:48"
+        },
+        "CookingFuel:saw_dust_or_paddy_husk": {
+          "Count": "Int:3"
+        },
+        "CookingFuel:bio_gas": {
+          "Count": "Int:1"
+        },
+        "CookingFuel:other": {
+          "Count": "Int:9"
+        },
+        "CookingFuel:not_relevant": {
+          "Count": "Int:281"
+        }
+      },
+      "PD:EC-11C": {
+        "CookingFuel:fire_wood": {
+          "Count": "Int:25583"
+        },
+        "CookingFuel:kerosene": {
+          "Count": "Int:225"
+        },
+        "CookingFuel:gas": {
+          "Count": "Int:8516"
+        },
+        "CookingFuel:electricity": {
+          "Count": "Int:42"
+        },
+        "CookingFuel:saw_dust_or_paddy_husk": {
+          "Count": "Int:1"
+        },
+        "CookingFuel:bio_gas": {
+          "Count": "Int:141"
+        },
+        "CookingFuel:other": {
+          "Count": "Int:5"
+        },
+        "CookingFuel:not_relevant": {
+          "Count": "Int:214"
+        }
+      },
+      "PD:EC-08B": {
+        "CookingFuel:fire_wood": {
+          "Count": "Int:28293"
+        },
+        "CookingFuel:kerosene": {
+          "Count": "Int:27"
+        },
+        "CookingFuel:gas": {
+          "Count": "Int:5864"
+        },
+        "CookingFuel:electricity": {
+          "Count": "Int:18"
+        },
+        "CookingFuel:saw_dust_or_paddy_husk": {
+          "Count": "Int:1"
+        },
+        "CookingFuel:bio_gas": {
+          "Count": "Int:1"
+        },
+        "CookingFuel:other": {
+          "Count": "Int:5"
+        },
+        "CookingFuel:not_relevant": {
+          "Count": "Int:419"
+        }
+      },
+      "PD:EC-18A": {
+        "CookingFuel:fire_wood": {
+          "Count": "Int:27664"
+        },
+        "CookingFuel:kerosene": {
+          "Count": "Int:49"
+        },
+        "CookingFuel:gas": {
+          "Count": "Int:6573"
+        },
+        "CookingFuel:electricity": {
+          "Count": "Int:27"
+        },
+        "CookingFuel:saw_dust_or_paddy_husk": {
+          "Count": "Int:0"
+        },
+        "CookingFuel:bio_gas": {
+          "Count": "Int:3"
+        },
+        "CookingFuel:other": {
+          "Count": "Int:6"
+        },
+        "CookingFuel:not_relevant": {
+          "Count": "Int:219"
+        }
+      },
+      "PD:EC-08G": {
+        "CookingFuel:fire_wood": {
+          "Count": "Int:16773"
+        },
+        "CookingFuel:kerosene": {
+          "Count": "Int:49"
+        },
+        "CookingFuel:gas": {
+          "Count": "Int:17103"
+        },
+        "CookingFuel:electricity": {
+          "Count": "Int:53"
+        },
+        "CookingFuel:saw_dust_or_paddy_husk": {
+          "Count": "Int:11"
+        },
+        "CookingFuel:bio_gas": {
+          "Count": "Int:2"
+        },
+        "CookingFuel:other": {
+          "Count": "Int:19"
+        },
+        "CookingFuel:not_relevant": {
+          "Count": "Int:505"
+        }
+      },
+      "PD:EC-08C": {
+        "CookingFuel:fire_wood": {
+          "Count": "Int:25115"
+        },
+        "CookingFuel:kerosene": {
+          "Count": "Int:21"
+        },
+        "CookingFuel:gas": {
+          "Count": "Int:8919"
+        },
+        "CookingFuel:electricity": {
+          "Count": "Int:24"
+        },
+        "CookingFuel:saw_dust_or_paddy_husk": {
+          "Count": "Int:3"
+        },
+        "CookingFuel:bio_gas": {
+          "Count": "Int:2"
+        },
+        "CookingFuel:other": {
+          "Count": "Int:9"
+        },
+        "CookingFuel:not_relevant": {
+          "Count": "Int:382"
+        }
+      },
+      "PD:EC-17B": {
+        "CookingFuel:fire_wood": {
+          "Count": "Int:27860"
+        },
+        "CookingFuel:kerosene": {
+          "Count": "Int:99"
+        },
+        "CookingFuel:gas": {
+          "Count": "Int:6083"
+        },
+        "CookingFuel:electricity": {
+          "Count": "Int:23"
+        },
+        "CookingFuel:saw_dust_or_paddy_husk": {
+          "Count": "Int:1"
+        },
+        "CookingFuel:bio_gas": {
+          "Count": "Int:8"
+        },
+        "CookingFuel:other": {
+          "Count": "Int:6"
+        },
+        "CookingFuel:not_relevant": {
+          "Count": "Int:199"
+        }
+      },
+      "PD:EC-21F": {
+        "CookingFuel:fire_wood": {
+          "Count": "Int:27768"
+        },
+        "CookingFuel:kerosene": {
+          "Count": "Int:57"
+        },
+        "CookingFuel:gas": {
+          "Count": "Int:5967"
+        },
+        "CookingFuel:electricity": {
+          "Count": "Int:25"
+        },
+        "CookingFuel:saw_dust_or_paddy_husk": {
+          "Count": "Int:2"
+        },
+        "CookingFuel:bio_gas": {
+          "Count": "Int:0"
+        },
+        "CookingFuel:other": {
+          "Count": "Int:10"
+        },
+        "CookingFuel:not_relevant": {
+          "Count": "Int:259"
+        }
+      },
+      "PD:EC-16D": {
+        "CookingFuel:fire_wood": {
+          "Count": "Int:19330"
+        },
+        "CookingFuel:kerosene": {
+          "Count": "Int:100"
+        },
+        "CookingFuel:gas": {
+          "Count": "Int:14056"
+        },
+        "CookingFuel:electricity": {
+          "Count": "Int:94"
+        },
+        "CookingFuel:saw_dust_or_paddy_husk": {
+          "Count": "Int:3"
+        },
+        "CookingFuel:bio_gas": {
+          "Count": "Int:4"
+        },
+        "CookingFuel:other": {
+          "Count": "Int:17"
+        },
+        "CookingFuel:not_relevant": {
+          "Count": "Int:449"
+        }
+      },
+      "PD:EC-01A": {
+        "CookingFuel:fire_wood": {
+          "Count": "Int:722"
+        },
+        "CookingFuel:kerosene": {
+          "Count": "Int:1835"
+        },
+        "CookingFuel:gas": {
+          "Count": "Int:30245"
+        },
+        "CookingFuel:electricity": {
+          "Count": "Int:167"
+        },
+        "CookingFuel:saw_dust_or_paddy_husk": {
+          "Count": "Int:1"
+        },
+        "CookingFuel:bio_gas": {
+          "Count": "Int:32"
+        },
+        "CookingFuel:other": {
+          "Count": "Int:8"
+        },
+        "CookingFuel:not_relevant": {
+          "Count": "Int:815"
+        }
+      },
+      "PD:EC-22E": {
+        "CookingFuel:fire_wood": {
+          "Count": "Int:19936"
+        },
+        "CookingFuel:kerosene": {
+          "Count": "Int:40"
+        },
+        "CookingFuel:gas": {
+          "Count": "Int:13054"
+        },
+        "CookingFuel:electricity": {
+          "Count": "Int:68"
+        },
+        "CookingFuel:saw_dust_or_paddy_husk": {
+          "Count": "Int:0"
+        },
+        "CookingFuel:bio_gas": {
+          "Count": "Int:2"
+        },
+        "CookingFuel:other": {
+          "Count": "Int:13"
+        },
+        "CookingFuel:not_relevant": {
+          "Count": "Int:220"
+        }
+      },
+      "PD:EC-21C": {
+        "CookingFuel:fire_wood": {
+          "Count": "Int:27651"
+        },
+        "CookingFuel:kerosene": {
+          "Count": "Int:74"
+        },
+        "CookingFuel:gas": {
+          "Count": "Int:5373"
+        },
+        "CookingFuel:electricity": {
+          "Count": "Int:24"
+        },
+        "CookingFuel:saw_dust_or_paddy_husk": {
+          "Count": "Int:1"
+        },
+        "CookingFuel:bio_gas": {
+          "Count": "Int:0"
+        },
+        "CookingFuel:other": {
+          "Count": "Int:8"
+        },
+        "CookingFuel:not_relevant": {
+          "Count": "Int:165"
+        }
+      },
+      "PD:EC-07D": {
+        "CookingFuel:fire_wood": {
+          "Count": "Int:19200"
+        },
+        "CookingFuel:kerosene": {
+          "Count": "Int:59"
+        },
+        "CookingFuel:gas": {
+          "Count": "Int:13450"
+        },
+        "CookingFuel:electricity": {
+          "Count": "Int:49"
+        },
+        "CookingFuel:saw_dust_or_paddy_husk": {
+          "Count": "Int:2"
+        },
+        "CookingFuel:bio_gas": {
+          "Count": "Int:1"
+        },
+        "CookingFuel:other": {
+          "Count": "Int:16"
+        },
+        "CookingFuel:not_relevant": {
+          "Count": "Int:364"
+        }
+      },
+      "PD:EC-03D": {
+        "CookingFuel:fire_wood": {
+          "Count": "Int:21823"
+        },
+        "CookingFuel:kerosene": {
+          "Count": "Int:80"
+        },
+        "CookingFuel:gas": {
+          "Count": "Int:10477"
+        },
+        "CookingFuel:electricity": {
+          "Count": "Int:45"
+        },
+        "CookingFuel:saw_dust_or_paddy_husk": {
+          "Count": "Int:2"
+        },
+        "CookingFuel:bio_gas": {
+          "Count": "Int:0"
+        },
+        "CookingFuel:other": {
+          "Count": "Int:2"
+        },
+        "CookingFuel:not_relevant": {
+          "Count": "Int:281"
+        }
+      },
+      "PD:EC-04C": {
+        "CookingFuel:fire_wood": {
+          "Count": "Int:18938"
+        },
+        "CookingFuel:kerosene": {
+          "Count": "Int:132"
+        },
+        "CookingFuel:gas": {
+          "Count": "Int:13237"
+        },
+        "CookingFuel:electricity": {
+          "Count": "Int:139"
+        },
+        "CookingFuel:saw_dust_or_paddy_husk": {
+          "Count": "Int:3"
+        },
+        "CookingFuel:bio_gas": {
+          "Count": "Int:0"
+        },
+        "CookingFuel:other": {
+          "Count": "Int:14"
+        },
+        "CookingFuel:not_relevant": {
+          "Count": "Int:219"
+        }
+      },
+      "PD:EC-14A": {
+        "CookingFuel:fire_wood": {
+          "Count": "Int:25207"
+        },
+        "CookingFuel:kerosene": {
+          "Count": "Int:199"
+        },
+        "CookingFuel:gas": {
+          "Count": "Int:6808"
+        },
+        "CookingFuel:electricity": {
+          "Count": "Int:43"
+        },
+        "CookingFuel:saw_dust_or_paddy_husk": {
+          "Count": "Int:6"
+        },
+        "CookingFuel:bio_gas": {
+          "Count": "Int:14"
+        },
+        "CookingFuel:other": {
+          "Count": "Int:5"
+        },
+        "CookingFuel:not_relevant": {
+          "Count": "Int:242"
+        }
+      },
+      "PD:EC-22A": {
+        "CookingFuel:fire_wood": {
+          "Count": "Int:24161"
+        },
+        "CookingFuel:kerosene": {
+          "Count": "Int:54"
+        },
+        "CookingFuel:gas": {
+          "Count": "Int:7819"
+        },
+        "CookingFuel:electricity": {
+          "Count": "Int:55"
+        },
+        "CookingFuel:saw_dust_or_paddy_husk": {
+          "Count": "Int:3"
+        },
+        "CookingFuel:bio_gas": {
+          "Count": "Int:1"
+        },
+        "CookingFuel:other": {
+          "Count": "Int:12"
+        },
+        "CookingFuel:not_relevant": {
+          "Count": "Int:274"
+        }
+      },
+      "PD:EC-19H": {
+        "CookingFuel:fire_wood": {
+          "Count": "Int:23399"
+        },
+        "CookingFuel:kerosene": {
+          "Count": "Int:92"
+        },
+        "CookingFuel:gas": {
+          "Count": "Int:8624"
+        },
+        "CookingFuel:electricity": {
+          "Count": "Int:81"
+        },
+        "CookingFuel:saw_dust_or_paddy_husk": {
+          "Count": "Int:6"
+        },
+        "CookingFuel:bio_gas": {
+          "Count": "Int:2"
+        },
+        "CookingFuel:other": {
+          "Count": "Int:4"
+        },
+        "CookingFuel:not_relevant": {
+          "Count": "Int:135"
+        }
+      },
+      "PD:EC-11A": {
+        "CookingFuel:fire_wood": {
+          "Count": "Int:18102"
+        },
+        "CookingFuel:kerosene": {
+          "Count": "Int:410"
+        },
+        "CookingFuel:gas": {
+          "Count": "Int:13274"
+        },
+        "CookingFuel:electricity": {
+          "Count": "Int:40"
+        },
+        "CookingFuel:saw_dust_or_paddy_husk": {
+          "Count": "Int:1"
+        },
+        "CookingFuel:bio_gas": {
+          "Count": "Int:290"
+        },
+        "CookingFuel:other": {
+          "Count": "Int:2"
+        },
+        "CookingFuel:not_relevant": {
+          "Count": "Int:211"
+        }
+      },
+      "PD:EC-08F": {
+        "CookingFuel:fire_wood": {
+          "Count": "Int:8146"
+        },
+        "CookingFuel:kerosene": {
+          "Count": "Int:55"
+        },
+        "CookingFuel:gas": {
+          "Count": "Int:23422"
+        },
+        "CookingFuel:electricity": {
+          "Count": "Int:147"
+        },
+        "CookingFuel:saw_dust_or_paddy_husk": {
+          "Count": "Int:7"
+        },
+        "CookingFuel:bio_gas": {
+          "Count": "Int:4"
+        },
+        "CookingFuel:other": {
+          "Count": "Int:10"
+        },
+        "CookingFuel:not_relevant": {
+          "Count": "Int:492"
+        }
+      },
+      "PD:EC-18B": {
+        "CookingFuel:fire_wood": {
+          "Count": "Int:26085"
+        },
+        "CookingFuel:kerosene": {
+          "Count": "Int:40"
+        },
+        "CookingFuel:gas": {
+          "Count": "Int:5492"
+        },
+        "CookingFuel:electricity": {
+          "Count": "Int:50"
+        },
+        "CookingFuel:saw_dust_or_paddy_husk": {
+          "Count": "Int:0"
+        },
+        "CookingFuel:bio_gas": {
+          "Count": "Int:124"
+        },
+        "CookingFuel:other": {
+          "Count": "Int:6"
+        },
+        "CookingFuel:not_relevant": {
+          "Count": "Int:251"
+        }
+      },
+      "PD:EC-05C": {
+        "CookingFuel:fire_wood": {
+          "Count": "Int:17445"
+        },
+        "CookingFuel:kerosene": {
+          "Count": "Int:51"
+        },
+        "CookingFuel:gas": {
+          "Count": "Int:14145"
+        },
+        "CookingFuel:electricity": {
+          "Count": "Int:103"
+        },
+        "CookingFuel:saw_dust_or_paddy_husk": {
+          "Count": "Int:1"
+        },
+        "CookingFuel:bio_gas": {
+          "Count": "Int:4"
+        },
+        "CookingFuel:other": {
+          "Count": "Int:20"
+        },
+        "CookingFuel:not_relevant": {
+          "Count": "Int:248"
+        }
+      },
+      "PD:EC-13C": {
+        "CookingFuel:fire_wood": {
+          "Count": "Int:3431"
+        },
+        "CookingFuel:kerosene": {
+          "Count": "Int:640"
+        },
+        "CookingFuel:gas": {
+          "Count": "Int:26682"
+        },
+        "CookingFuel:electricity": {
+          "Count": "Int:132"
+        },
+        "CookingFuel:saw_dust_or_paddy_husk": {
+          "Count": "Int:135"
+        },
+        "CookingFuel:bio_gas": {
+          "Count": "Int:557"
+        },
+        "CookingFuel:other": {
+          "Count": "Int:1"
+        },
+        "CookingFuel:not_relevant": {
+          "Count": "Int:367"
+        }
+      },
+      "PD:EC-04K": {
+        "CookingFuel:fire_wood": {
+          "Count": "Int:16970"
+        },
+        "CookingFuel:kerosene": {
+          "Count": "Int:47"
+        },
+        "CookingFuel:gas": {
+          "Count": "Int:14485"
+        },
+        "CookingFuel:electricity": {
+          "Count": "Int:107"
+        },
+        "CookingFuel:saw_dust_or_paddy_husk": {
+          "Count": "Int:5"
+        },
+        "CookingFuel:bio_gas": {
+          "Count": "Int:1"
+        },
+        "CookingFuel:other": {
+          "Count": "Int:12"
+        },
+        "CookingFuel:not_relevant": {
+          "Count": "Int:251"
+        }
+      },
+      "PD:EC-15E": {
+        "CookingFuel:fire_wood": {
+          "Count": "Int:25450"
+        },
+        "CookingFuel:kerosene": {
+          "Count": "Int:25"
+        },
+        "CookingFuel:gas": {
+          "Count": "Int:5498"
+        },
+        "CookingFuel:electricity": {
+          "Count": "Int:68"
+        },
+        "CookingFuel:saw_dust_or_paddy_husk": {
+          "Count": "Int:0"
+        },
+        "CookingFuel:bio_gas": {
+          "Count": "Int:3"
+        },
+        "CookingFuel:other": {
+          "Count": "Int:6"
+        },
+        "CookingFuel:not_relevant": {
+          "Count": "Int:388"
+        }
+      },
+      "PD:EC-04J": {
+        "CookingFuel:fire_wood": {
+          "Count": "Int:16398"
+        },
+        "CookingFuel:kerosene": {
+          "Count": "Int:58"
+        },
+        "CookingFuel:gas": {
+          "Count": "Int:14188"
+        },
+        "CookingFuel:electricity": {
+          "Count": "Int:137"
+        },
+        "CookingFuel:saw_dust_or_paddy_husk": {
+          "Count": "Int:2"
+        },
+        "CookingFuel:bio_gas": {
+          "Count": "Int:3"
+        },
+        "CookingFuel:other": {
+          "Count": "Int:15"
+        },
+        "CookingFuel:not_relevant": {
+          "Count": "Int:286"
+        }
+      },
+      "PD:EC-06D": {
+        "CookingFuel:fire_wood": {
+          "Count": "Int:26516"
+        },
+        "CookingFuel:kerosene": {
+          "Count": "Int:74"
+        },
+        "CookingFuel:gas": {
+          "Count": "Int:4050"
+        },
+        "CookingFuel:electricity": {
+          "Count": "Int:45"
+        },
+        "CookingFuel:saw_dust_or_paddy_husk": {
+          "Count": "Int:1"
+        },
+        "CookingFuel:bio_gas": {
+          "Count": "Int:16"
+        },
+        "CookingFuel:other": {
+          "Count": "Int:0"
+        },
+        "CookingFuel:not_relevant": {
+          "Count": "Int:126"
+        }
+      },
+      "PD:EC-07J": {
+        "CookingFuel:fire_wood": {
+          "Count": "Int:14712"
+        },
+        "CookingFuel:kerosene": {
+          "Count": "Int:32"
+        },
+        "CookingFuel:gas": {
+          "Count": "Int:15323"
+        },
+        "CookingFuel:electricity": {
+          "Count": "Int:49"
+        },
+        "CookingFuel:saw_dust_or_paddy_husk": {
+          "Count": "Int:5"
+        },
+        "CookingFuel:bio_gas": {
+          "Count": "Int:2"
+        },
+        "CookingFuel:other": {
+          "Count": "Int:22"
+        },
+        "CookingFuel:not_relevant": {
+          "Count": "Int:508"
+        }
+      },
+      "PD:EC-21G": {
+        "CookingFuel:fire_wood": {
+          "Count": "Int:26162"
+        },
+        "CookingFuel:kerosene": {
+          "Count": "Int:36"
+        },
+        "CookingFuel:gas": {
+          "Count": "Int:3783"
+        },
+        "CookingFuel:electricity": {
+          "Count": "Int:13"
+        },
+        "CookingFuel:saw_dust_or_paddy_husk": {
+          "Count": "Int:0"
+        },
+        "CookingFuel:bio_gas": {
+          "Count": "Int:0"
+        },
+        "CookingFuel:other": {
+          "Count": "Int:2"
+        },
+        "CookingFuel:not_relevant": {
+          "Count": "Int:161"
+        }
+      },
+      "PD:EC-15K": {
+        "CookingFuel:fire_wood": {
+          "Count": "Int:20371"
+        },
+        "CookingFuel:kerosene": {
+          "Count": "Int:29"
+        },
+        "CookingFuel:gas": {
+          "Count": "Int:9271"
+        },
+        "CookingFuel:electricity": {
+          "Count": "Int:51"
+        },
+        "CookingFuel:saw_dust_or_paddy_husk": {
+          "Count": "Int:0"
+        },
+        "CookingFuel:bio_gas": {
+          "Count": "Int:7"
+        },
+        "CookingFuel:other": {
+          "Count": "Int:4"
+        },
+        "CookingFuel:not_relevant": {
+          "Count": "Int:267"
+        }
+      },
+      "PD:EC-15F": {
+        "CookingFuel:fire_wood": {
+          "Count": "Int:24602"
+        },
+        "CookingFuel:kerosene": {
+          "Count": "Int:37"
+        },
+        "CookingFuel:gas": {
+          "Count": "Int:4700"
+        },
+        "CookingFuel:electricity": {
+          "Count": "Int:17"
+        },
+        "CookingFuel:saw_dust_or_paddy_husk": {
+          "Count": "Int:1"
+        },
+        "CookingFuel:bio_gas": {
+          "Count": "Int:0"
+        },
+        "CookingFuel:other": {
+          "Count": "Int:7"
+        },
+        "CookingFuel:not_relevant": {
+          "Count": "Int:368"
+        }
+      },
+      "PD:EC-19G": {
+        "CookingFuel:fire_wood": {
+          "Count": "Int:24041"
+        },
+        "CookingFuel:kerosene": {
+          "Count": "Int:71"
+        },
+        "CookingFuel:gas": {
+          "Count": "Int:5328"
+        },
+        "CookingFuel:electricity": {
+          "Count": "Int:27"
+        },
+        "CookingFuel:saw_dust_or_paddy_husk": {
+          "Count": "Int:44"
+        },
+        "CookingFuel:bio_gas": {
+          "Count": "Int:3"
+        },
+        "CookingFuel:other": {
+          "Count": "Int:2"
+        },
+        "CookingFuel:not_relevant": {
+          "Count": "Int:104"
+        }
+      },
+      "PD:EC-08D": {
+        "CookingFuel:fire_wood": {
+          "Count": "Int:19505"
+        },
+        "CookingFuel:kerosene": {
+          "Count": "Int:13"
+        },
+        "CookingFuel:gas": {
+          "Count": "Int:9513"
+        },
+        "CookingFuel:electricity": {
+          "Count": "Int:55"
+        },
+        "CookingFuel:saw_dust_or_paddy_husk": {
+          "Count": "Int:2"
+        },
+        "CookingFuel:bio_gas": {
+          "Count": "Int:1"
+        },
+        "CookingFuel:other": {
+          "Count": "Int:9"
+        },
+        "CookingFuel:not_relevant": {
+          "Count": "Int:502"
+        }
+      },
+      "PD:EC-09B": {
+        "CookingFuel:fire_wood": {
+          "Count": "Int:18998"
+        },
+        "CookingFuel:kerosene": {
+          "Count": "Int:29"
+        },
+        "CookingFuel:gas": {
+          "Count": "Int:10062"
+        },
+        "CookingFuel:electricity": {
+          "Count": "Int:54"
+        },
+        "CookingFuel:saw_dust_or_paddy_husk": {
+          "Count": "Int:1"
+        },
+        "CookingFuel:bio_gas": {
+          "Count": "Int:10"
+        },
+        "CookingFuel:other": {
+          "Count": "Int:7"
+        },
+        "CookingFuel:not_relevant": {
+          "Count": "Int:320"
+        }
+      },
+      "PD:EC-06B": {
+        "CookingFuel:fire_wood": {
+          "Count": "Int:23004"
+        },
+        "CookingFuel:kerosene": {
+          "Count": "Int:94"
+        },
+        "CookingFuel:gas": {
+          "Count": "Int:5810"
+        },
+        "CookingFuel:electricity": {
+          "Count": "Int:48"
+        },
+        "CookingFuel:saw_dust_or_paddy_husk": {
+          "Count": "Int:3"
+        },
+        "CookingFuel:bio_gas": {
+          "Count": "Int:68"
+        },
+        "CookingFuel:other": {
+          "Count": "Int:3"
+        },
+        "CookingFuel:not_relevant": {
+          "Count": "Int:75"
+        }
+      },
+      "PD:EC-05B": {
+        "CookingFuel:fire_wood": {
+          "Count": "Int:26301"
+        },
+        "CookingFuel:kerosene": {
+          "Count": "Int:14"
+        },
+        "CookingFuel:gas": {
+          "Count": "Int:2355"
+        },
+        "CookingFuel:electricity": {
+          "Count": "Int:24"
+        },
+        "CookingFuel:saw_dust_or_paddy_husk": {
+          "Count": "Int:0"
+        },
+        "CookingFuel:bio_gas": {
+          "Count": "Int:0"
+        },
+        "CookingFuel:other": {
+          "Count": "Int:1"
+        },
+        "CookingFuel:not_relevant": {
+          "Count": "Int:152"
+        }
+      },
+      "PD:EC-04H": {
+        "CookingFuel:fire_wood": {
+          "Count": "Int:7194"
+        },
+        "CookingFuel:kerosene": {
+          "Count": "Int:176"
+        },
+        "CookingFuel:gas": {
+          "Count": "Int:20959"
+        },
+        "CookingFuel:electricity": {
+          "Count": "Int:207"
+        },
+        "CookingFuel:saw_dust_or_paddy_husk": {
+          "Count": "Int:6"
+        },
+        "CookingFuel:bio_gas": {
+          "Count": "Int:3"
+        },
+        "CookingFuel:other": {
+          "Count": "Int:21"
+        },
+        "CookingFuel:not_relevant": {
+          "Count": "Int:217"
+        }
+      },
+      "PD:EC-22H": {
+        "CookingFuel:fire_wood": {
+          "Count": "Int:20061"
+        },
+        "CookingFuel:kerosene": {
+          "Count": "Int:38"
+        },
+        "CookingFuel:gas": {
+          "Count": "Int:8189"
+        },
+        "CookingFuel:electricity": {
+          "Count": "Int:33"
+        },
+        "CookingFuel:saw_dust_or_paddy_husk": {
+          "Count": "Int:2"
+        },
+        "CookingFuel:bio_gas": {
+          "Count": "Int:1"
+        },
+        "CookingFuel:other": {
+          "Count": "Int:21"
+        },
+        "CookingFuel:not_relevant": {
+          "Count": "Int:249"
+        }
+      },
+      "PD:EC-08E": {
+        "CookingFuel:fire_wood": {
+          "Count": "Int:13222"
+        },
+        "CookingFuel:kerosene": {
+          "Count": "Int:35"
+        },
+        "CookingFuel:gas": {
+          "Count": "Int:14702"
+        },
+        "CookingFuel:electricity": {
+          "Count": "Int:149"
+        },
+        "CookingFuel:saw_dust_or_paddy_husk": {
+          "Count": "Int:4"
+        },
+        "CookingFuel:bio_gas": {
+          "Count": "Int:2"
+        },
+        "CookingFuel:other": {
+          "Count": "Int:32"
+        },
+        "CookingFuel:not_relevant": {
+          "Count": "Int:387"
+        }
+      },
+      "PD:EC-07B": {
+        "CookingFuel:fire_wood": {
+          "Count": "Int:13638"
+        },
+        "CookingFuel:kerosene": {
+          "Count": "Int:26"
+        },
+        "CookingFuel:gas": {
+          "Count": "Int:14299"
+        },
+        "CookingFuel:electricity": {
+          "Count": "Int:64"
+        },
+        "CookingFuel:saw_dust_or_paddy_husk": {
+          "Count": "Int:2"
+        },
+        "CookingFuel:bio_gas": {
+          "Count": "Int:6"
+        },
+        "CookingFuel:other": {
+          "Count": "Int:10"
+        },
+        "CookingFuel:not_relevant": {
+          "Count": "Int:476"
+        }
+      },
+      "PD:EC-07C": {
+        "CookingFuel:fire_wood": {
+          "Count": "Int:22803"
+        },
+        "CookingFuel:kerosene": {
+          "Count": "Int:22"
+        },
+        "CookingFuel:gas": {
+          "Count": "Int:5390"
+        },
+        "CookingFuel:electricity": {
+          "Count": "Int:16"
+        },
+        "CookingFuel:saw_dust_or_paddy_husk": {
+          "Count": "Int:0"
+        },
+        "CookingFuel:bio_gas": {
+          "Count": "Int:4"
+        },
+        "CookingFuel:other": {
+          "Count": "Int:31"
+        },
+        "CookingFuel:not_relevant": {
+          "Count": "Int:236"
+        }
+      },
+      "PD:EC-01I": {
+        "CookingFuel:fire_wood": {
+          "Count": "Int:518"
+        },
+        "CookingFuel:kerosene": {
+          "Count": "Int:291"
+        },
+        "CookingFuel:gas": {
+          "Count": "Int:26457"
+        },
+        "CookingFuel:electricity": {
+          "Count": "Int:575"
+        },
+        "CookingFuel:saw_dust_or_paddy_husk": {
+          "Count": "Int:4"
+        },
+        "CookingFuel:bio_gas": {
+          "Count": "Int:3"
+        },
+        "CookingFuel:other": {
+          "Count": "Int:10"
+        },
+        "CookingFuel:not_relevant": {
+          "Count": "Int:385"
+        }
+      },
+      "PD:EC-07G": {
+        "CookingFuel:fire_wood": {
+          "Count": "Int:11571"
+        },
+        "CookingFuel:kerosene": {
+          "Count": "Int:38"
+        },
+        "CookingFuel:gas": {
+          "Count": "Int:15210"
+        },
+        "CookingFuel:electricity": {
+          "Count": "Int:50"
+        },
+        "CookingFuel:saw_dust_or_paddy_husk": {
+          "Count": "Int:10"
+        },
+        "CookingFuel:bio_gas": {
+          "Count": "Int:7"
+        },
+        "CookingFuel:other": {
+          "Count": "Int:11"
+        },
+        "CookingFuel:not_relevant": {
+          "Count": "Int:680"
+        }
+      },
+      "PD:EC-22G": {
+        "CookingFuel:fire_wood": {
+          "Count": "Int:22485"
+        },
+        "CookingFuel:kerosene": {
+          "Count": "Int:23"
+        },
+        "CookingFuel:gas": {
+          "Count": "Int:4892"
+        },
+        "CookingFuel:electricity": {
+          "Count": "Int:22"
+        },
+        "CookingFuel:saw_dust_or_paddy_husk": {
+          "Count": "Int:1"
+        },
+        "CookingFuel:bio_gas": {
+          "Count": "Int:0"
+        },
+        "CookingFuel:other": {
+          "Count": "Int:5"
+        },
+        "CookingFuel:not_relevant": {
+          "Count": "Int:144"
+        }
+      },
+      "PD:EC-19E": {
+        "CookingFuel:fire_wood": {
+          "Count": "Int:22388"
+        },
+        "CookingFuel:kerosene": {
+          "Count": "Int:60"
+        },
+        "CookingFuel:gas": {
+          "Count": "Int:4758"
+        },
+        "CookingFuel:electricity": {
+          "Count": "Int:58"
+        },
+        "CookingFuel:saw_dust_or_paddy_husk": {
+          "Count": "Int:19"
+        },
+        "CookingFuel:bio_gas": {
+          "Count": "Int:3"
+        },
+        "CookingFuel:other": {
+          "Count": "Int:2"
+        },
+        "CookingFuel:not_relevant": {
+          "Count": "Int:109"
+        }
+      },
+      "PD:EC-17F": {
+        "CookingFuel:fire_wood": {
+          "Count": "Int:20906"
+        },
+        "CookingFuel:kerosene": {
+          "Count": "Int:46"
+        },
+        "CookingFuel:gas": {
+          "Count": "Int:6085"
+        },
+        "CookingFuel:electricity": {
+          "Count": "Int:36"
+        },
+        "CookingFuel:saw_dust_or_paddy_husk": {
+          "Count": "Int:0"
+        },
+        "CookingFuel:bio_gas": {
+          "Count": "Int:3"
+        },
+        "CookingFuel:other": {
+          "Count": "Int:4"
+        },
+        "CookingFuel:not_relevant": {
+          "Count": "Int:294"
+        }
+      },
+      "PD:EC-15N": {
+        "CookingFuel:fire_wood": {
+          "Count": "Int:23589"
+        },
+        "CookingFuel:kerosene": {
+          "Count": "Int:23"
+        },
+        "CookingFuel:gas": {
+          "Count": "Int:3426"
+        },
+        "CookingFuel:electricity": {
+          "Count": "Int:41"
+        },
+        "CookingFuel:saw_dust_or_paddy_husk": {
+          "Count": "Int:2"
+        },
+        "CookingFuel:bio_gas": {
+          "Count": "Int:0"
+        },
+        "CookingFuel:other": {
+          "Count": "Int:4"
+        },
+        "CookingFuel:not_relevant": {
+          "Count": "Int:145"
+        }
+      },
+      "PD:EC-22C": {
+        "CookingFuel:fire_wood": {
+          "Count": "Int:16900"
+        },
+        "CookingFuel:kerosene": {
+          "Count": "Int:41"
+        },
+        "CookingFuel:gas": {
+          "Count": "Int:9542"
+        },
+        "CookingFuel:electricity": {
+          "Count": "Int:66"
+        },
+        "CookingFuel:saw_dust_or_paddy_husk": {
+          "Count": "Int:3"
+        },
+        "CookingFuel:bio_gas": {
+          "Count": "Int:1"
+        },
+        "CookingFuel:other": {
+          "Count": "Int:6"
+        },
+        "CookingFuel:not_relevant": {
+          "Count": "Int:266"
+        }
+      },
+      "PD:EC-06C": {
+        "CookingFuel:fire_wood": {
+          "Count": "Int:23618"
+        },
+        "CookingFuel:kerosene": {
+          "Count": "Int:25"
+        },
+        "CookingFuel:gas": {
+          "Count": "Int:2946"
+        },
+        "CookingFuel:electricity": {
+          "Count": "Int:37"
+        },
+        "CookingFuel:saw_dust_or_paddy_husk": {
+          "Count": "Int:0"
+        },
+        "CookingFuel:bio_gas": {
+          "Count": "Int:0"
+        },
+        "CookingFuel:other": {
+          "Count": "Int:1"
+        },
+        "CookingFuel:not_relevant": {
+          "Count": "Int:91"
+        }
+      },
+      "PD:EC-07H": {
+        "CookingFuel:fire_wood": {
+          "Count": "Int:4348"
+        },
+        "CookingFuel:kerosene": {
+          "Count": "Int:139"
+        },
+        "CookingFuel:gas": {
+          "Count": "Int:21480"
+        },
+        "CookingFuel:electricity": {
+          "Count": "Int:96"
+        },
+        "CookingFuel:saw_dust_or_paddy_husk": {
+          "Count": "Int:17"
+        },
+        "CookingFuel:bio_gas": {
+          "Count": "Int:8"
+        },
+        "CookingFuel:other": {
+          "Count": "Int:13"
+        },
+        "CookingFuel:not_relevant": {
+          "Count": "Int:374"
+        }
+      },
+      "PD:EC-22I": {
+        "CookingFuel:fire_wood": {
+          "Count": "Int:21392"
+        },
+        "CookingFuel:kerosene": {
+          "Count": "Int:98"
+        },
+        "CookingFuel:gas": {
+          "Count": "Int:4473"
+        },
+        "CookingFuel:electricity": {
+          "Count": "Int:142"
+        },
+        "CookingFuel:saw_dust_or_paddy_husk": {
+          "Count": "Int:2"
+        },
+        "CookingFuel:bio_gas": {
+          "Count": "Int:5"
+        },
+        "CookingFuel:other": {
+          "Count": "Int:12"
+        },
+        "CookingFuel:not_relevant": {
+          "Count": "Int:135"
+        }
+      },
+      "PD:EC-04G": {
+        "CookingFuel:fire_wood": {
+          "Count": "Int:20862"
+        },
+        "CookingFuel:kerosene": {
+          "Count": "Int:72"
+        },
+        "CookingFuel:gas": {
+          "Count": "Int:4674"
+        },
+        "CookingFuel:electricity": {
+          "Count": "Int:175"
+        },
+        "CookingFuel:saw_dust_or_paddy_husk": {
+          "Count": "Int:6"
+        },
+        "CookingFuel:bio_gas": {
+          "Count": "Int:1"
+        },
+        "CookingFuel:other": {
+          "Count": "Int:3"
+        },
+        "CookingFuel:not_relevant": {
+          "Count": "Int:146"
+        }
+      },
+      "PD:EC-01F": {
+        "CookingFuel:fire_wood": {
+          "Count": "Int:209"
+        },
+        "CookingFuel:kerosene": {
+          "Count": "Int:245"
+        },
+        "CookingFuel:gas": {
+          "Count": "Int:24547"
+        },
+        "CookingFuel:electricity": {
+          "Count": "Int:257"
+        },
+        "CookingFuel:saw_dust_or_paddy_husk": {
+          "Count": "Int:1"
+        },
+        "CookingFuel:bio_gas": {
+          "Count": "Int:8"
+        },
+        "CookingFuel:other": {
+          "Count": "Int:5"
+        },
+        "CookingFuel:not_relevant": {
+          "Count": "Int:293"
+        }
+      },
+      "PD:EC-01G": {
+        "CookingFuel:fire_wood": {
+          "Count": "Int:747"
+        },
+        "CookingFuel:kerosene": {
+          "Count": "Int:459"
+        },
+        "CookingFuel:gas": {
+          "Count": "Int:23415"
+        },
+        "CookingFuel:electricity": {
+          "Count": "Int:273"
+        },
+        "CookingFuel:saw_dust_or_paddy_husk": {
+          "Count": "Int:6"
+        },
+        "CookingFuel:bio_gas": {
+          "Count": "Int:1"
+        },
+        "CookingFuel:other": {
+          "Count": "Int:6"
+        },
+        "CookingFuel:not_relevant": {
+          "Count": "Int:451"
+        }
+      },
+      "PD:EC-19I": {
+        "CookingFuel:fire_wood": {
+          "Count": "Int:19391"
+        },
+        "CookingFuel:kerosene": {
+          "Count": "Int:96"
+        },
+        "CookingFuel:gas": {
+          "Count": "Int:5565"
+        },
+        "CookingFuel:electricity": {
+          "Count": "Int:112"
+        },
+        "CookingFuel:saw_dust_or_paddy_husk": {
+          "Count": "Int:2"
+        },
+        "CookingFuel:bio_gas": {
+          "Count": "Int:1"
+        },
+        "CookingFuel:other": {
+          "Count": "Int:1"
+        },
+        "CookingFuel:not_relevant": {
+          "Count": "Int:89"
+        }
+      },
+      "PD:EC-22D": {
+        "CookingFuel:fire_wood": {
+          "Count": "Int:18152"
+        },
+        "CookingFuel:kerosene": {
+          "Count": "Int:34"
+        },
+        "CookingFuel:gas": {
+          "Count": "Int:6416"
+        },
+        "CookingFuel:electricity": {
+          "Count": "Int:33"
+        },
+        "CookingFuel:saw_dust_or_paddy_husk": {
+          "Count": "Int:1"
+        },
+        "CookingFuel:bio_gas": {
+          "Count": "Int:0"
+        },
+        "CookingFuel:other": {
+          "Count": "Int:6"
+        },
+        "CookingFuel:not_relevant": {
+          "Count": "Int:200"
+        }
+      },
+      "PD:EC-22B": {
+        "CookingFuel:fire_wood": {
+          "Count": "Int:18733"
+        },
+        "CookingFuel:kerosene": {
+          "Count": "Int:24"
+        },
+        "CookingFuel:gas": {
+          "Count": "Int:5223"
+        },
+        "CookingFuel:electricity": {
+          "Count": "Int:19"
+        },
+        "CookingFuel:saw_dust_or_paddy_husk": {
+          "Count": "Int:0"
+        },
+        "CookingFuel:bio_gas": {
+          "Count": "Int:2"
+        },
+        "CookingFuel:other": {
+          "Count": "Int:5"
+        },
+        "CookingFuel:not_relevant": {
+          "Count": "Int:165"
+        }
+      },
+      "PD:EC-19C": {
+        "CookingFuel:fire_wood": {
+          "Count": "Int:20598"
+        },
+        "CookingFuel:kerosene": {
+          "Count": "Int:49"
+        },
+        "CookingFuel:gas": {
+          "Count": "Int:2926"
+        },
+        "CookingFuel:electricity": {
+          "Count": "Int:23"
+        },
+        "CookingFuel:saw_dust_or_paddy_husk": {
+          "Count": "Int:1"
+        },
+        "CookingFuel:bio_gas": {
+          "Count": "Int:6"
+        },
+        "CookingFuel:other": {
+          "Count": "Int:1"
+        },
+        "CookingFuel:not_relevant": {
+          "Count": "Int:45"
+        }
+      },
+      "PD:EC-01D": {
+        "CookingFuel:fire_wood": {
+          "Count": "Int:330"
+        },
+        "CookingFuel:kerosene": {
+          "Count": "Int:383"
+        },
+        "CookingFuel:gas": {
+          "Count": "Int:21982"
+        },
+        "CookingFuel:electricity": {
+          "Count": "Int:453"
+        },
+        "CookingFuel:saw_dust_or_paddy_husk": {
+          "Count": "Int:2"
+        },
+        "CookingFuel:bio_gas": {
+          "Count": "Int:21"
+        },
+        "CookingFuel:other": {
+          "Count": "Int:5"
+        },
+        "CookingFuel:not_relevant": {
+          "Count": "Int:363"
+        }
+      },
+      "PD:EC-19F": {
+        "CookingFuel:fire_wood": {
+          "Count": "Int:21781"
+        },
+        "CookingFuel:kerosene": {
+          "Count": "Int:50"
+        },
+        "CookingFuel:gas": {
+          "Count": "Int:1393"
+        },
+        "CookingFuel:electricity": {
+          "Count": "Int:18"
+        },
+        "CookingFuel:saw_dust_or_paddy_husk": {
+          "Count": "Int:3"
+        },
+        "CookingFuel:bio_gas": {
+          "Count": "Int:2"
+        },
+        "CookingFuel:other": {
+          "Count": "Int:1"
+        },
+        "CookingFuel:not_relevant": {
+          "Count": "Int:51"
+        }
+      },
+      "PD:EC-04D": {
+        "CookingFuel:fire_wood": {
+          "Count": "Int:21440"
+        },
+        "CookingFuel:kerosene": {
+          "Count": "Int:14"
+        },
+        "CookingFuel:gas": {
+          "Count": "Int:1485"
+        },
+        "CookingFuel:electricity": {
+          "Count": "Int:24"
+        },
+        "CookingFuel:saw_dust_or_paddy_husk": {
+          "Count": "Int:0"
+        },
+        "CookingFuel:bio_gas": {
+          "Count": "Int:2"
+        },
+        "CookingFuel:other": {
+          "Count": "Int:2"
+        },
+        "CookingFuel:not_relevant": {
+          "Count": "Int:94"
+        }
+      },
+      "PD:EC-19D": {
+        "CookingFuel:fire_wood": {
+          "Count": "Int:10017"
+        },
+        "CookingFuel:kerosene": {
+          "Count": "Int:109"
+        },
+        "CookingFuel:gas": {
+          "Count": "Int:11645"
+        },
+        "CookingFuel:electricity": {
+          "Count": "Int:63"
+        },
+        "CookingFuel:saw_dust_or_paddy_husk": {
+          "Count": "Int:5"
+        },
+        "CookingFuel:bio_gas": {
+          "Count": "Int:3"
+        },
+        "CookingFuel:other": {
+          "Count": "Int:4"
+        },
+        "CookingFuel:not_relevant": {
+          "Count": "Int:314"
+        }
+      },
+      "PD:EC-19B": {
+        "CookingFuel:fire_wood": {
+          "Count": "Int:19957"
+        },
+        "CookingFuel:kerosene": {
+          "Count": "Int:20"
+        },
+        "CookingFuel:gas": {
+          "Count": "Int:1464"
+        },
+        "CookingFuel:electricity": {
+          "Count": "Int:60"
+        },
+        "CookingFuel:saw_dust_or_paddy_husk": {
+          "Count": "Int:0"
+        },
+        "CookingFuel:bio_gas": {
+          "Count": "Int:0"
+        },
+        "CookingFuel:other": {
+          "Count": "Int:0"
+        },
+        "CookingFuel:not_relevant": {
+          "Count": "Int:101"
+        }
+      },
+      "PD:EC-10D": {
+        "CookingFuel:fire_wood": {
+          "Count": "Int:11131"
+        },
+        "CookingFuel:kerosene": {
+          "Count": "Int:192"
+        },
+        "CookingFuel:gas": {
+          "Count": "Int:9436"
+        },
+        "CookingFuel:electricity": {
+          "Count": "Int:20"
+        },
+        "CookingFuel:saw_dust_or_paddy_husk": {
+          "Count": "Int:16"
+        },
+        "CookingFuel:bio_gas": {
+          "Count": "Int:37"
+        },
+        "CookingFuel:other": {
+          "Count": "Int:0"
+        },
+        "CookingFuel:not_relevant": {
+          "Count": "Int:207"
+        }
+      },
+      "PD:EC-10E": {
+        "CookingFuel:fire_wood": {
+          "Count": "Int:13300"
+        },
+        "CookingFuel:kerosene": {
+          "Count": "Int:186"
+        },
+        "CookingFuel:gas": {
+          "Count": "Int:7337"
+        },
+        "CookingFuel:electricity": {
+          "Count": "Int:39"
+        },
+        "CookingFuel:saw_dust_or_paddy_husk": {
+          "Count": "Int:3"
+        },
+        "CookingFuel:bio_gas": {
+          "Count": "Int:36"
+        },
+        "CookingFuel:other": {
+          "Count": "Int:2"
+        },
+        "CookingFuel:not_relevant": {
+          "Count": "Int:126"
+        }
+      },
+      "PD:EC-22F": {
+        "CookingFuel:fire_wood": {
+          "Count": "Int:16117"
+        },
+        "CookingFuel:kerosene": {
+          "Count": "Int:21"
+        },
+        "CookingFuel:gas": {
+          "Count": "Int:3737"
+        },
+        "CookingFuel:electricity": {
+          "Count": "Int:29"
+        },
+        "CookingFuel:saw_dust_or_paddy_husk": {
+          "Count": "Int:1"
+        },
+        "CookingFuel:bio_gas": {
+          "Count": "Int:0"
+        },
+        "CookingFuel:other": {
+          "Count": "Int:7"
+        },
+        "CookingFuel:not_relevant": {
+          "Count": "Int:150"
+        }
+      },
+      "PD:EC-04A": {
+        "CookingFuel:fire_wood": {
+          "Count": "Int:15477"
+        },
+        "CookingFuel:kerosene": {
+          "Count": "Int:28"
+        },
+        "CookingFuel:gas": {
+          "Count": "Int:3940"
+        },
+        "CookingFuel:electricity": {
+          "Count": "Int:26"
+        },
+        "CookingFuel:saw_dust_or_paddy_husk": {
+          "Count": "Int:0"
+        },
+        "CookingFuel:bio_gas": {
+          "Count": "Int:0"
+        },
+        "CookingFuel:other": {
+          "Count": "Int:6"
+        },
+        "CookingFuel:not_relevant": {
+          "Count": "Int:137"
+        }
+      },
+      "PD:EC-10H": {
+        "CookingFuel:fire_wood": {
+          "Count": "Int:13129"
+        },
+        "CookingFuel:kerosene": {
+          "Count": "Int:128"
+        },
+        "CookingFuel:gas": {
+          "Count": "Int:5498"
+        },
+        "CookingFuel:electricity": {
+          "Count": "Int:22"
+        },
+        "CookingFuel:saw_dust_or_paddy_husk": {
+          "Count": "Int:2"
+        },
+        "CookingFuel:bio_gas": {
+          "Count": "Int:256"
+        },
+        "CookingFuel:other": {
+          "Count": "Int:3"
+        },
+        "CookingFuel:not_relevant": {
+          "Count": "Int:58"
+        }
+      },
+      "PD:EC-10I": {
+        "CookingFuel:fire_wood": {
+          "Count": "Int:4411"
+        },
+        "CookingFuel:kerosene": {
+          "Count": "Int:236"
+        },
+        "CookingFuel:gas": {
+          "Count": "Int:13784"
+        },
+        "CookingFuel:electricity": {
+          "Count": "Int:58"
+        },
+        "CookingFuel:saw_dust_or_paddy_husk": {
+          "Count": "Int:20"
+        },
+        "CookingFuel:bio_gas": {
+          "Count": "Int:326"
+        },
+        "CookingFuel:other": {
+          "Count": "Int:9"
+        },
+        "CookingFuel:not_relevant": {
+          "Count": "Int:219"
+        }
+      },
+      "PD:EC-07A": {
+        "CookingFuel:fire_wood": {
+          "Count": "Int:8346"
+        },
+        "CookingFuel:kerosene": {
+          "Count": "Int:29"
+        },
+        "CookingFuel:gas": {
+          "Count": "Int:10170"
+        },
+        "CookingFuel:electricity": {
+          "Count": "Int:22"
+        },
+        "CookingFuel:saw_dust_or_paddy_husk": {
+          "Count": "Int:4"
+        },
+        "CookingFuel:bio_gas": {
+          "Count": "Int:0"
+        },
+        "CookingFuel:other": {
+          "Count": "Int:15"
+        },
+        "CookingFuel:not_relevant": {
+          "Count": "Int:300"
+        }
+      },
+      "PD:EC-04E": {
+        "CookingFuel:fire_wood": {
+          "Count": "Int:14561"
+        },
+        "CookingFuel:kerosene": {
+          "Count": "Int:52"
+        },
+        "CookingFuel:gas": {
+          "Count": "Int:3745"
+        },
+        "CookingFuel:electricity": {
+          "Count": "Int:23"
+        },
+        "CookingFuel:saw_dust_or_paddy_husk": {
+          "Count": "Int:0"
+        },
+        "CookingFuel:bio_gas": {
+          "Count": "Int:0"
+        },
+        "CookingFuel:other": {
+          "Count": "Int:1"
+        },
+        "CookingFuel:not_relevant": {
+          "Count": "Int:67"
+        }
+      },
+      "PD:EC-01C": {
+        "CookingFuel:fire_wood": {
+          "Count": "Int:444"
+        },
+        "CookingFuel:kerosene": {
+          "Count": "Int:943"
+        },
+        "CookingFuel:gas": {
+          "Count": "Int:16198"
+        },
+        "CookingFuel:electricity": {
+          "Count": "Int:335"
+        },
+        "CookingFuel:saw_dust_or_paddy_husk": {
+          "Count": "Int:1"
+        },
+        "CookingFuel:bio_gas": {
+          "Count": "Int:2"
+        },
+        "CookingFuel:other": {
+          "Count": "Int:1"
+        },
+        "CookingFuel:not_relevant": {
+          "Count": "Int:177"
+        }
+      },
+      "PD:EC-10B": {
+        "CookingFuel:fire_wood": {
+          "Count": "Int:12640"
+        },
+        "CookingFuel:kerosene": {
+          "Count": "Int:77"
+        },
+        "CookingFuel:gas": {
+          "Count": "Int:3901"
+        },
+        "CookingFuel:electricity": {
+          "Count": "Int:21"
+        },
+        "CookingFuel:saw_dust_or_paddy_husk": {
+          "Count": "Int:16"
+        },
+        "CookingFuel:bio_gas": {
+          "Count": "Int:32"
+        },
+        "CookingFuel:other": {
+          "Count": "Int:0"
+        },
+        "CookingFuel:not_relevant": {
+          "Count": "Int:134"
+        }
+      },
+      "PD:EC-01E": {
+        "CookingFuel:fire_wood": {
+          "Count": "Int:164"
+        },
+        "CookingFuel:kerosene": {
+          "Count": "Int:186"
+        },
+        "CookingFuel:gas": {
+          "Count": "Int:15460"
+        },
+        "CookingFuel:electricity": {
+          "Count": "Int:226"
+        },
+        "CookingFuel:saw_dust_or_paddy_husk": {
+          "Count": "Int:0"
+        },
+        "CookingFuel:bio_gas": {
+          "Count": "Int:34"
+        },
+        "CookingFuel:other": {
+          "Count": "Int:5"
+        },
+        "CookingFuel:not_relevant": {
+          "Count": "Int:195"
+        }
+      },
+      "PD:EC-10C": {
+        "CookingFuel:fire_wood": {
+          "Count": "Int:10142"
+        },
+        "CookingFuel:kerosene": {
+          "Count": "Int:93"
+        },
+        "CookingFuel:gas": {
+          "Count": "Int:4206"
+        },
+        "CookingFuel:electricity": {
+          "Count": "Int:20"
+        },
+        "CookingFuel:saw_dust_or_paddy_husk": {
+          "Count": "Int:13"
+        },
+        "CookingFuel:bio_gas": {
+          "Count": "Int:136"
+        },
+        "CookingFuel:other": {
+          "Count": "Int:0"
+        },
+        "CookingFuel:not_relevant": {
+          "Count": "Int:181"
+        }
+      },
+      "PD:EC-10G": {
+        "CookingFuel:fire_wood": {
+          "Count": "Int:7182"
+        },
+        "CookingFuel:kerosene": {
+          "Count": "Int:98"
+        },
+        "CookingFuel:gas": {
+          "Count": "Int:6592"
+        },
+        "CookingFuel:electricity": {
+          "Count": "Int:21"
+        },
+        "CookingFuel:saw_dust_or_paddy_husk": {
+          "Count": "Int:2"
+        },
+        "CookingFuel:bio_gas": {
+          "Count": "Int:83"
+        },
+        "CookingFuel:other": {
+          "Count": "Int:1"
+        },
+        "CookingFuel:not_relevant": {
+          "Count": "Int:191"
+        }
+      },
+      "PD:EC-10F": {
+        "CookingFuel:fire_wood": {
+          "Count": "Int:6463"
+        },
+        "CookingFuel:kerosene": {
+          "Count": "Int:135"
+        },
+        "CookingFuel:gas": {
+          "Count": "Int:6650"
+        },
+        "CookingFuel:electricity": {
+          "Count": "Int:18"
+        },
+        "CookingFuel:saw_dust_or_paddy_husk": {
+          "Count": "Int:6"
+        },
+        "CookingFuel:bio_gas": {
+          "Count": "Int:152"
+        },
+        "CookingFuel:other": {
+          "Count": "Int:1"
+        },
+        "CookingFuel:not_relevant": {
+          "Count": "Int:194"
+        }
+      },
+      "PD:EC-10J": {
+        "CookingFuel:fire_wood": {
+          "Count": "Int:2838"
+        },
+        "CookingFuel:kerosene": {
+          "Count": "Int:420"
+        },
+        "CookingFuel:gas": {
+          "Count": "Int:8623"
+        },
+        "CookingFuel:electricity": {
+          "Count": "Int:47"
+        },
+        "CookingFuel:saw_dust_or_paddy_husk": {
+          "Count": "Int:10"
+        },
+        "CookingFuel:bio_gas": {
+          "Count": "Int:28"
+        },
+        "CookingFuel:other": {
+          "Count": "Int:0"
+        },
+        "CookingFuel:not_relevant": {
+          "Count": "Int:182"
+        }
+      },
+      "PD:EC-04I": {
+        "CookingFuel:fire_wood": {
+          "Count": "Int:1005"
+        },
+        "CookingFuel:kerosene": {
+          "Count": "Int:168"
+        },
+        "CookingFuel:gas": {
+          "Count": "Int:10635"
+        },
+        "CookingFuel:electricity": {
+          "Count": "Int:92"
+        },
+        "CookingFuel:saw_dust_or_paddy_husk": {
+          "Count": "Int:2"
+        },
+        "CookingFuel:bio_gas": {
+          "Count": "Int:1"
+        },
+        "CookingFuel:other": {
+          "Count": "Int:0"
+        },
+        "CookingFuel:not_relevant": {
+          "Count": "Int:148"
+        }
+      },
+      "PD:EC-10A": {
+        "CookingFuel:fire_wood": {
+          "Count": "Int:6282"
+        },
+        "CookingFuel:kerosene": {
+          "Count": "Int:41"
+        },
+        "CookingFuel:gas": {
+          "Count": "Int:1593"
+        },
+        "CookingFuel:electricity": {
+          "Count": "Int:5"
+        },
+        "CookingFuel:saw_dust_or_paddy_husk": {
+          "Count": "Int:0"
+        },
+        "CookingFuel:bio_gas": {
+          "Count": "Int:13"
+        },
+        "CookingFuel:other": {
+          "Count": "Int:2"
+        },
+        "CookingFuel:not_relevant": {
+          "Count": "Int:41"
         }
       }
     }

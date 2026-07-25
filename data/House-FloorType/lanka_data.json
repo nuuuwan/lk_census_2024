@@ -1,238 +1,4164 @@
 {
   "House": {
     "Time:2024": {
-      "Province:LK-1": {
+      "PD:EC-06A": {
         "FloorType:cement": {
-          "Count": "Int:836713"
+          "Count": "Int:94833"
         },
         "FloorType:terrazzo_tile_granite_wood_finished": {
-          "Count": "Int:754097"
+          "Count": "Int:6531"
         },
         "FloorType:concrete": {
-          "Count": "Int:87793"
+          "Count": "Int:4544"
         },
         "FloorType:mud": {
-          "Count": "Int:5688"
+          "Count": "Int:2586"
         },
         "FloorType:wood": {
-          "Count": "Int:1159"
+          "Count": "Int:121"
         },
         "FloorType:sand": {
-          "Count": "Int:578"
+          "Count": "Int:173"
         },
         "FloorType:other": {
+          "Count": "Int:259"
+        },
+        "FloorType:not_relevant": {
+          "Count": "Int:35"
+        }
+      },
+      "PD:EC-01J": {
+        "FloorType:cement": {
+          "Count": "Int:27697"
+        },
+        "FloorType:terrazzo_tile_granite_wood_finished": {
+          "Count": "Int:49621"
+        },
+        "FloorType:concrete": {
+          "Count": "Int:2247"
+        },
+        "FloorType:mud": {
+          "Count": "Int:95"
+        },
+        "FloorType:wood": {
+          "Count": "Int:54"
+        },
+        "FloorType:sand": {
+          "Count": "Int:19"
+        },
+        "FloorType:other": {
+          "Count": "Int:6"
+        },
+        "FloorType:not_relevant": {
+          "Count": "Int:3"
+        }
+      },
+      "PD:EC-01L": {
+        "FloorType:cement": {
+          "Count": "Int:31639"
+        },
+        "FloorType:terrazzo_tile_granite_wood_finished": {
+          "Count": "Int:44789"
+        },
+        "FloorType:concrete": {
+          "Count": "Int:3117"
+        },
+        "FloorType:mud": {
+          "Count": "Int:121"
+        },
+        "FloorType:wood": {
+          "Count": "Int:26"
+        },
+        "FloorType:sand": {
+          "Count": "Int:10"
+        },
+        "FloorType:other": {
+          "Count": "Int:6"
+        },
+        "FloorType:not_relevant": {
+          "Count": "Int:29"
+        }
+      },
+      "PD:EC-12B": {
+        "FloorType:cement": {
+          "Count": "Int:63994"
+        },
+        "FloorType:terrazzo_tile_granite_wood_finished": {
+          "Count": "Int:10653"
+        },
+        "FloorType:concrete": {
+          "Count": "Int:3587"
+        },
+        "FloorType:mud": {
+          "Count": "Int:345"
+        },
+        "FloorType:wood": {
+          "Count": "Int:13"
+        },
+        "FloorType:sand": {
+          "Count": "Int:829"
+        },
+        "FloorType:other": {
+          "Count": "Int:63"
+        },
+        "FloorType:not_relevant": {
+          "Count": "Int:64"
+        }
+      },
+      "PD:EC-01N": {
+        "FloorType:cement": {
+          "Count": "Int:27779"
+        },
+        "FloorType:terrazzo_tile_granite_wood_finished": {
+          "Count": "Int:45214"
+        },
+        "FloorType:concrete": {
+          "Count": "Int:2251"
+        },
+        "FloorType:mud": {
+          "Count": "Int:67"
+        },
+        "FloorType:wood": {
+          "Count": "Int:33"
+        },
+        "FloorType:sand": {
+          "Count": "Int:12"
+        },
+        "FloorType:other": {
+          "Count": "Int:5"
+        },
+        "FloorType:not_relevant": {
+          "Count": "Int:7"
+        }
+      },
+      "PD:EC-02C": {
+        "FloorType:cement": {
+          "Count": "Int:42772"
+        },
+        "FloorType:terrazzo_tile_granite_wood_finished": {
+          "Count": "Int:27194"
+        },
+        "FloorType:concrete": {
+          "Count": "Int:4741"
+        },
+        "FloorType:mud": {
+          "Count": "Int:106"
+        },
+        "FloorType:wood": {
+          "Count": "Int:15"
+        },
+        "FloorType:sand": {
+          "Count": "Int:26"
+        },
+        "FloorType:other": {
+          "Count": "Int:13"
+        },
+        "FloorType:not_relevant": {
+          "Count": "Int:3"
+        }
+      },
+      "PD:EC-09D": {
+        "FloorType:cement": {
+          "Count": "Int:42587"
+        },
+        "FloorType:terrazzo_tile_granite_wood_finished": {
+          "Count": "Int:15257"
+        },
+        "FloorType:concrete": {
+          "Count": "Int:9896"
+        },
+        "FloorType:mud": {
+          "Count": "Int:1210"
+        },
+        "FloorType:wood": {
+          "Count": "Int:21"
+        },
+        "FloorType:sand": {
+          "Count": "Int:18"
+        },
+        "FloorType:other": {
+          "Count": "Int:14"
+        },
+        "FloorType:not_relevant": {
+          "Count": "Int:2"
+        }
+      },
+      "PD:EC-13A": {
+        "FloorType:cement": {
+          "Count": "Int:42363"
+        },
+        "FloorType:terrazzo_tile_granite_wood_finished": {
+          "Count": "Int:11064"
+        },
+        "FloorType:concrete": {
+          "Count": "Int:10861"
+        },
+        "FloorType:mud": {
+          "Count": "Int:3945"
+        },
+        "FloorType:wood": {
+          "Count": "Int:4"
+        },
+        "FloorType:sand": {
+          "Count": "Int:24"
+        },
+        "FloorType:other": {
+          "Count": "Int:5"
+        },
+        "FloorType:not_relevant": {
+          "Count": "Int:4"
+        }
+      },
+      "PD:EC-13D": {
+        "FloorType:cement": {
+          "Count": "Int:56125"
+        },
+        "FloorType:terrazzo_tile_granite_wood_finished": {
+          "Count": "Int:7256"
+        },
+        "FloorType:concrete": {
+          "Count": "Int:3356"
+        },
+        "FloorType:mud": {
+          "Count": "Int:503"
+        },
+        "FloorType:wood": {
+          "Count": "Int:12"
+        },
+        "FloorType:sand": {
+          "Count": "Int:250"
+        },
+        "FloorType:other": {
+          "Count": "Int:59"
+        },
+        "FloorType:not_relevant": {
+          "Count": "Int:72"
+        }
+      },
+      "PD:EC-20C": {
+        "FloorType:cement": {
+          "Count": "Int:40364"
+        },
+        "FloorType:terrazzo_tile_granite_wood_finished": {
+          "Count": "Int:11907"
+        },
+        "FloorType:concrete": {
+          "Count": "Int:11493"
+        },
+        "FloorType:mud": {
+          "Count": "Int:3738"
+        },
+        "FloorType:wood": {
+          "Count": "Int:18"
+        },
+        "FloorType:sand": {
+          "Count": "Int:27"
+        },
+        "FloorType:other": {
+          "Count": "Int:12"
+        },
+        "FloorType:not_relevant": {
+          "Count": "Int:8"
+        }
+      },
+      "PD:EC-16A": {
+        "FloorType:cement": {
+          "Count": "Int:50678"
+        },
+        "FloorType:terrazzo_tile_granite_wood_finished": {
+          "Count": "Int:7171"
+        },
+        "FloorType:concrete": {
+          "Count": "Int:6726"
+        },
+        "FloorType:mud": {
+          "Count": "Int:534"
+        },
+        "FloorType:wood": {
+          "Count": "Int:60"
+        },
+        "FloorType:sand": {
+          "Count": "Int:573"
+        },
+        "FloorType:other": {
+          "Count": "Int:66"
+        },
+        "FloorType:not_relevant": {
+          "Count": "Int:26"
+        }
+      },
+      "PD:EC-02J": {
+        "FloorType:cement": {
+          "Count": "Int:28781"
+        },
+        "FloorType:terrazzo_tile_granite_wood_finished": {
+          "Count": "Int:28919"
+        },
+        "FloorType:concrete": {
+          "Count": "Int:3402"
+        },
+        "FloorType:mud": {
+          "Count": "Int:213"
+        },
+        "FloorType:wood": {
+          "Count": "Int:26"
+        },
+        "FloorType:sand": {
+          "Count": "Int:23"
+        },
+        "FloorType:other": {
+          "Count": "Int:8"
+        },
+        "FloorType:not_relevant": {
+          "Count": "Int:4"
+        }
+      },
+      "PD:EC-21H": {
+        "FloorType:cement": {
+          "Count": "Int:36121"
+        },
+        "FloorType:terrazzo_tile_granite_wood_finished": {
+          "Count": "Int:14256"
+        },
+        "FloorType:concrete": {
+          "Count": "Int:8045"
+        },
+        "FloorType:mud": {
+          "Count": "Int:2063"
+        },
+        "FloorType:wood": {
+          "Count": "Int:5"
+        },
+        "FloorType:sand": {
+          "Count": "Int:11"
+        },
+        "FloorType:other": {
+          "Count": "Int:24"
+        },
+        "FloorType:not_relevant": {
+          "Count": "Int:0"
+        }
+      },
+      "PD:EC-18C": {
+        "FloorType:cement": {
+          "Count": "Int:41136"
+        },
+        "FloorType:terrazzo_tile_granite_wood_finished": {
+          "Count": "Int:8796"
+        },
+        "FloorType:concrete": {
+          "Count": "Int:9042"
+        },
+        "FloorType:mud": {
+          "Count": "Int:1383"
+        },
+        "FloorType:wood": {
+          "Count": "Int:14"
+        },
+        "FloorType:sand": {
+          "Count": "Int:31"
+        },
+        "FloorType:other": {
+          "Count": "Int:13"
+        },
+        "FloorType:not_relevant": {
+          "Count": "Int:5"
+        }
+      },
+      "PD:EC-02L": {
+        "FloorType:cement": {
+          "Count": "Int:29448"
+        },
+        "FloorType:terrazzo_tile_granite_wood_finished": {
+          "Count": "Int:26628"
+        },
+        "FloorType:concrete": {
+          "Count": "Int:2497"
+        },
+        "FloorType:mud": {
+          "Count": "Int:74"
+        },
+        "FloorType:wood": {
+          "Count": "Int:13"
+        },
+        "FloorType:sand": {
+          "Count": "Int:15"
+        },
+        "FloorType:other": {
+          "Count": "Int:6"
+        },
+        "FloorType:not_relevant": {
+          "Count": "Int:4"
+        }
+      },
+      "PD:EC-02H": {
+        "FloorType:cement": {
+          "Count": "Int:26381"
+        },
+        "FloorType:terrazzo_tile_granite_wood_finished": {
+          "Count": "Int:28032"
+        },
+        "FloorType:concrete": {
+          "Count": "Int:2984"
+        },
+        "FloorType:mud": {
+          "Count": "Int:141"
+        },
+        "FloorType:wood": {
+          "Count": "Int:14"
+        },
+        "FloorType:sand": {
+          "Count": "Int:10"
+        },
+        "FloorType:other": {
+          "Count": "Int:3"
+        },
+        "FloorType:not_relevant": {
+          "Count": "Int:3"
+        }
+      },
+      "PD:EC-02I": {
+        "FloorType:cement": {
+          "Count": "Int:27125"
+        },
+        "FloorType:terrazzo_tile_granite_wood_finished": {
+          "Count": "Int:26929"
+        },
+        "FloorType:concrete": {
+          "Count": "Int:2936"
+        },
+        "FloorType:mud": {
+          "Count": "Int:106"
+        },
+        "FloorType:wood": {
+          "Count": "Int:32"
+        },
+        "FloorType:sand": {
+          "Count": "Int:21"
+        },
+        "FloorType:other": {
+          "Count": "Int:7"
+        },
+        "FloorType:not_relevant": {
+          "Count": "Int:3"
+        }
+      },
+      "PD:EC-04B": {
+        "FloorType:cement": {
+          "Count": "Int:31763"
+        },
+        "FloorType:terrazzo_tile_granite_wood_finished": {
+          "Count": "Int:19482"
+        },
+        "FloorType:concrete": {
+          "Count": "Int:4829"
+        },
+        "FloorType:mud": {
+          "Count": "Int:924"
+        },
+        "FloorType:wood": {
+          "Count": "Int:16"
+        },
+        "FloorType:sand": {
+          "Count": "Int:8"
+        },
+        "FloorType:other": {
+          "Count": "Int:12"
+        },
+        "FloorType:not_relevant": {
+          "Count": "Int:9"
+        }
+      },
+      "PD:EC-01M": {
+        "FloorType:cement": {
+          "Count": "Int:19243"
+        },
+        "FloorType:terrazzo_tile_granite_wood_finished": {
+          "Count": "Int:36009"
+        },
+        "FloorType:concrete": {
+          "Count": "Int:1193"
+        },
+        "FloorType:mud": {
+          "Count": "Int:47"
+        },
+        "FloorType:wood": {
+          "Count": "Int:39"
+        },
+        "FloorType:sand": {
+          "Count": "Int:7"
+        },
+        "FloorType:other": {
+          "Count": "Int:3"
+        },
+        "FloorType:not_relevant": {
+          "Count": "Int:9"
+        }
+      },
+      "PD:EC-02F": {
+        "FloorType:cement": {
+          "Count": "Int:28708"
+        },
+        "FloorType:terrazzo_tile_granite_wood_finished": {
+          "Count": "Int:22487"
+        },
+        "FloorType:concrete": {
+          "Count": "Int:4851"
+        },
+        "FloorType:mud": {
+          "Count": "Int:201"
+        },
+        "FloorType:wood": {
+          "Count": "Int:9"
+        },
+        "FloorType:sand": {
+          "Count": "Int:20"
+        },
+        "FloorType:other": {
+          "Count": "Int:7"
+        },
+        "FloorType:not_relevant": {
+          "Count": "Int:4"
+        }
+      },
+      "PD:EC-01H": {
+        "FloorType:cement": {
+          "Count": "Int:26372"
+        },
+        "FloorType:terrazzo_tile_granite_wood_finished": {
+          "Count": "Int:27438"
+        },
+        "FloorType:concrete": {
+          "Count": "Int:2008"
+        },
+        "FloorType:mud": {
+          "Count": "Int:91"
+        },
+        "FloorType:wood": {
+          "Count": "Int:108"
+        },
+        "FloorType:sand": {
+          "Count": "Int:18"
+        },
+        "FloorType:other": {
+          "Count": "Int:1"
+        },
+        "FloorType:not_relevant": {
+          "Count": "Int:64"
+        }
+      },
+      "PD:EC-03B": {
+        "FloorType:cement": {
+          "Count": "Int:29788"
+        },
+        "FloorType:terrazzo_tile_granite_wood_finished": {
+          "Count": "Int:22370"
+        },
+        "FloorType:concrete": {
+          "Count": "Int:3487"
+        },
+        "FloorType:mud": {
+          "Count": "Int:170"
+        },
+        "FloorType:wood": {
+          "Count": "Int:15"
+        },
+        "FloorType:sand": {
+          "Count": "Int:33"
+        },
+        "FloorType:other": {
+          "Count": "Int:8"
+        },
+        "FloorType:not_relevant": {
+          "Count": "Int:7"
+        }
+      },
+      "PD:EC-01K": {
+        "FloorType:cement": {
+          "Count": "Int:31685"
+        },
+        "FloorType:terrazzo_tile_granite_wood_finished": {
+          "Count": "Int:19295"
+        },
+        "FloorType:concrete": {
+          "Count": "Int:3865"
+        },
+        "FloorType:mud": {
           "Count": "Int:208"
         },
-        "FloorType:not_relevant": {
-          "Count": "Int:270"
-        }
-      },
-      "Province:LK-6": {
-        "FloorType:cement": {
-          "Count": "Int:466494"
-        },
-        "FloorType:terrazzo_tile_granite_wood_finished": {
-          "Count": "Int:173106"
-        },
-        "FloorType:concrete": {
-          "Count": "Int:85119"
-        },
-        "FloorType:mud": {
-          "Count": "Int:11929"
-        },
         "FloorType:wood": {
-          "Count": "Int:304"
+          "Count": "Int:15"
         },
         "FloorType:sand": {
-          "Count": "Int:1117"
+          "Count": "Int:25"
         },
         "FloorType:other": {
-          "Count": "Int:224"
+          "Count": "Int:6"
         },
         "FloorType:not_relevant": {
-          "Count": "Int:110"
+          "Count": "Int:6"
         }
       },
-      "Province:LK-2": {
+      "PD:EC-05A": {
         "FloorType:cement": {
-          "Count": "Int:486204"
+          "Count": "Int:31781"
         },
         "FloorType:terrazzo_tile_granite_wood_finished": {
-          "Count": "Int:160536"
+          "Count": "Int:11098"
         },
         "FloorType:concrete": {
-          "Count": "Int:58877"
+          "Count": "Int:9307"
         },
         "FloorType:mud": {
-          "Count": "Int:24089"
+          "Count": "Int:1891"
         },
         "FloorType:wood": {
-          "Count": "Int:361"
+          "Count": "Int:4"
         },
         "FloorType:sand": {
-          "Count": "Int:385"
+          "Count": "Int:20"
         },
         "FloorType:other": {
-          "Count": "Int:383"
+          "Count": "Int:14"
         },
         "FloorType:not_relevant": {
-          "Count": "Int:90"
+          "Count": "Int:2"
         }
       },
-      "Province:LK-3": {
+      "PD:EC-02G": {
         "FloorType:cement": {
-          "Count": "Int:408910"
+          "Count": "Int:27751"
         },
         "FloorType:terrazzo_tile_granite_wood_finished": {
-          "Count": "Int:236461"
+          "Count": "Int:22409"
         },
         "FloorType:concrete": {
-          "Count": "Int:66411"
+          "Count": "Int:3573"
         },
         "FloorType:mud": {
-          "Count": "Int:10752"
+          "Count": "Int:264"
         },
         "FloorType:wood": {
-          "Count": "Int:190"
+          "Count": "Int:15"
         },
         "FloorType:sand": {
-          "Count": "Int:109"
+          "Count": "Int:17"
         },
         "FloorType:other": {
-          "Count": "Int:96"
+          "Count": "Int:6"
         },
         "FloorType:not_relevant": {
-          "Count": "Int:42"
+          "Count": "Int:2"
         }
       },
-      "Province:LK-9": {
+      "PD:EC-03C": {
         "FloorType:cement": {
-          "Count": "Int:369945"
+          "Count": "Int:29293"
         },
         "FloorType:terrazzo_tile_granite_wood_finished": {
-          "Count": "Int:132390"
+          "Count": "Int:20726"
         },
         "FloorType:concrete": {
-          "Count": "Int:47738"
+          "Count": "Int:3498"
         },
         "FloorType:mud": {
-          "Count": "Int:16283"
+          "Count": "Int:290"
         },
         "FloorType:wood": {
-          "Count": "Int:180"
+          "Count": "Int:20"
         },
         "FloorType:sand": {
-          "Count": "Int:176"
+          "Count": "Int:32"
         },
         "FloorType:other": {
-          "Count": "Int:126"
+          "Count": "Int:7"
         },
         "FloorType:not_relevant": {
-          "Count": "Int:42"
+          "Count": "Int:5"
         }
       },
-      "Province:LK-5": {
+      "PD:EC-12A": {
         "FloorType:cement": {
-          "Count": "Int:392963"
+          "Count": "Int:44764"
         },
         "FloorType:terrazzo_tile_granite_wood_finished": {
-          "Count": "Int:54405"
+          "Count": "Int:1913"
         },
         "FloorType:concrete": {
-          "Count": "Int:30161"
+          "Count": "Int:1945"
         },
         "FloorType:mud": {
-          "Count": "Int:7006"
+          "Count": "Int:230"
         },
         "FloorType:wood": {
-          "Count": "Int:93"
+          "Count": "Int:19"
         },
         "FloorType:sand": {
-          "Count": "Int:3989"
+          "Count": "Int:1914"
         },
         "FloorType:other": {
-          "Count": "Int:327"
+          "Count": "Int:54"
         },
         "FloorType:not_relevant": {
-          "Count": "Int:418"
+          "Count": "Int:119"
         }
       },
-      "Province:LK-7": {
+      "PD:EC-17E": {
         "FloorType:cement": {
-          "Count": "Int:249106"
+          "Count": "Int:30768"
         },
         "FloorType:terrazzo_tile_granite_wood_finished": {
-          "Count": "Int:69140"
+          "Count": "Int:8340"
         },
         "FloorType:concrete": {
-          "Count": "Int:68233"
+          "Count": "Int:9480"
         },
         "FloorType:mud": {
-          "Count": "Int:11145"
+          "Count": "Int:1630"
+        },
+        "FloorType:wood": {
+          "Count": "Int:2"
+        },
+        "FloorType:sand": {
+          "Count": "Int:17"
+        },
+        "FloorType:other": {
+          "Count": "Int:7"
+        },
+        "FloorType:not_relevant": {
+          "Count": "Int:4"
+        }
+      },
+      "PD:EC-02E": {
+        "FloorType:cement": {
+          "Count": "Int:28357"
+        },
+        "FloorType:terrazzo_tile_granite_wood_finished": {
+          "Count": "Int:16321"
+        },
+        "FloorType:concrete": {
+          "Count": "Int:4328"
+        },
+        "FloorType:mud": {
+          "Count": "Int:487"
+        },
+        "FloorType:wood": {
+          "Count": "Int:15"
+        },
+        "FloorType:sand": {
+          "Count": "Int:25"
+        },
+        "FloorType:other": {
+          "Count": "Int:4"
+        },
+        "FloorType:not_relevant": {
+          "Count": "Int:3"
+        }
+      },
+      "PD:EC-02A": {
+        "FloorType:cement": {
+          "Count": "Int:24703"
+        },
+        "FloorType:terrazzo_tile_granite_wood_finished": {
+          "Count": "Int:21143"
+        },
+        "FloorType:concrete": {
+          "Count": "Int:2311"
+        },
+        "FloorType:mud": {
+          "Count": "Int:394"
+        },
+        "FloorType:wood": {
+          "Count": "Int:102"
+        },
+        "FloorType:sand": {
+          "Count": "Int:84"
+        },
+        "FloorType:other": {
+          "Count": "Int:38"
+        },
+        "FloorType:not_relevant": {
+          "Count": "Int:12"
+        }
+      },
+      "PD:EC-09C": {
+        "FloorType:cement": {
+          "Count": "Int:28684"
+        },
+        "FloorType:terrazzo_tile_granite_wood_finished": {
+          "Count": "Int:12773"
+        },
+        "FloorType:concrete": {
+          "Count": "Int:6315"
+        },
+        "FloorType:mud": {
+          "Count": "Int:816"
+        },
+        "FloorType:wood": {
+          "Count": "Int:4"
+        },
+        "FloorType:sand": {
+          "Count": "Int:6"
+        },
+        "FloorType:other": {
+          "Count": "Int:6"
+        },
+        "FloorType:not_relevant": {
+          "Count": "Int:3"
+        }
+      },
+      "PD:EC-14C": {
+        "FloorType:cement": {
+          "Count": "Int:44430"
+        },
+        "FloorType:terrazzo_tile_granite_wood_finished": {
+          "Count": "Int:1659"
+        },
+        "FloorType:concrete": {
+          "Count": "Int:1055"
+        },
+        "FloorType:mud": {
+          "Count": "Int:1033"
+        },
+        "FloorType:wood": {
+          "Count": "Int:13"
+        },
+        "FloorType:sand": {
+          "Count": "Int:223"
+        },
+        "FloorType:other": {
+          "Count": "Int:16"
+        },
+        "FloorType:not_relevant": {
+          "Count": "Int:67"
+        }
+      },
+      "PD:EC-11B": {
+        "FloorType:cement": {
+          "Count": "Int:40058"
+        },
+        "FloorType:terrazzo_tile_granite_wood_finished": {
+          "Count": "Int:5070"
+        },
+        "FloorType:concrete": {
+          "Count": "Int:1412"
+        },
+        "FloorType:mud": {
+          "Count": "Int:1053"
+        },
+        "FloorType:wood": {
+          "Count": "Int:14"
+        },
+        "FloorType:sand": {
+          "Count": "Int:162"
+        },
+        "FloorType:other": {
+          "Count": "Int:52"
+        },
+        "FloorType:not_relevant": {
+          "Count": "Int:4"
+        }
+      },
+      "PD:EC-16B": {
+        "FloorType:cement": {
+          "Count": "Int:32705"
+        },
+        "FloorType:terrazzo_tile_granite_wood_finished": {
+          "Count": "Int:6437"
+        },
+        "FloorType:concrete": {
+          "Count": "Int:6835"
+        },
+        "FloorType:mud": {
+          "Count": "Int:1413"
+        },
+        "FloorType:wood": {
+          "Count": "Int:31"
+        },
+        "FloorType:sand": {
+          "Count": "Int:86"
+        },
+        "FloorType:other": {
+          "Count": "Int:24"
+        },
+        "FloorType:not_relevant": {
+          "Count": "Int:10"
+        }
+      },
+      "PD:EC-02K": {
+        "FloorType:cement": {
+          "Count": "Int:28178"
+        },
+        "FloorType:terrazzo_tile_granite_wood_finished": {
+          "Count": "Int:15749"
+        },
+        "FloorType:concrete": {
+          "Count": "Int:3109"
+        },
+        "FloorType:mud": {
+          "Count": "Int:219"
+        },
+        "FloorType:wood": {
+          "Count": "Int:6"
+        },
+        "FloorType:sand": {
+          "Count": "Int:27"
+        },
+        "FloorType:other": {
+          "Count": "Int:7"
+        },
+        "FloorType:not_relevant": {
+          "Count": "Int:2"
+        }
+      },
+      "PD:EC-20B": {
+        "FloorType:cement": {
+          "Count": "Int:27593"
+        },
+        "FloorType:terrazzo_tile_granite_wood_finished": {
+          "Count": "Int:8818"
+        },
+        "FloorType:concrete": {
+          "Count": "Int:7162"
+        },
+        "FloorType:mud": {
+          "Count": "Int:3276"
+        },
+        "FloorType:wood": {
+          "Count": "Int:14"
+        },
+        "FloorType:sand": {
+          "Count": "Int:15"
+        },
+        "FloorType:other": {
+          "Count": "Int:8"
+        },
+        "FloorType:not_relevant": {
+          "Count": "Int:5"
+        }
+      },
+      "PD:EC-21B": {
+        "FloorType:cement": {
+          "Count": "Int:30513"
+        },
+        "FloorType:terrazzo_tile_granite_wood_finished": {
+          "Count": "Int:12517"
+        },
+        "FloorType:concrete": {
+          "Count": "Int:2673"
+        },
+        "FloorType:mud": {
+          "Count": "Int:789"
+        },
+        "FloorType:wood": {
+          "Count": "Int:20"
+        },
+        "FloorType:sand": {
+          "Count": "Int:13"
+        },
+        "FloorType:other": {
+          "Count": "Int:4"
+        },
+        "FloorType:not_relevant": {
+          "Count": "Int:0"
+        }
+      },
+      "PD:EC-15C": {
+        "FloorType:cement": {
+          "Count": "Int:30238"
+        },
+        "FloorType:terrazzo_tile_granite_wood_finished": {
+          "Count": "Int:8112"
+        },
+        "FloorType:concrete": {
+          "Count": "Int:6275"
+        },
+        "FloorType:mud": {
+          "Count": "Int:1737"
+        },
+        "FloorType:wood": {
+          "Count": "Int:4"
+        },
+        "FloorType:sand": {
+          "Count": "Int:15"
+        },
+        "FloorType:other": {
+          "Count": "Int:14"
+        },
+        "FloorType:not_relevant": {
+          "Count": "Int:4"
+        }
+      },
+      "PD:EC-16C": {
+        "FloorType:cement": {
+          "Count": "Int:27310"
+        },
+        "FloorType:terrazzo_tile_granite_wood_finished": {
+          "Count": "Int:12884"
+        },
+        "FloorType:concrete": {
+          "Count": "Int:5261"
+        },
+        "FloorType:mud": {
+          "Count": "Int:194"
+        },
+        "FloorType:wood": {
+          "Count": "Int:49"
+        },
+        "FloorType:sand": {
+          "Count": "Int:67"
+        },
+        "FloorType:other": {
+          "Count": "Int:9"
+        },
+        "FloorType:not_relevant": {
+          "Count": "Int:7"
+        }
+      },
+      "PD:EC-02D": {
+        "FloorType:cement": {
+          "Count": "Int:26067"
+        },
+        "FloorType:terrazzo_tile_granite_wood_finished": {
+          "Count": "Int:14039"
+        },
+        "FloorType:concrete": {
+          "Count": "Int:4488"
+        },
+        "FloorType:mud": {
+          "Count": "Int:184"
+        },
+        "FloorType:wood": {
+          "Count": "Int:13"
+        },
+        "FloorType:sand": {
+          "Count": "Int:23"
+        },
+        "FloorType:other": {
+          "Count": "Int:8"
+        },
+        "FloorType:not_relevant": {
+          "Count": "Int:8"
+        }
+      },
+      "PD:EC-17D": {
+        "FloorType:cement": {
+          "Count": "Int:27509"
+        },
+        "FloorType:terrazzo_tile_granite_wood_finished": {
+          "Count": "Int:7892"
+        },
+        "FloorType:concrete": {
+          "Count": "Int:7471"
+        },
+        "FloorType:mud": {
+          "Count": "Int:1560"
+        },
+        "FloorType:wood": {
+          "Count": "Int:7"
+        },
+        "FloorType:sand": {
+          "Count": "Int:3"
+        },
+        "FloorType:other": {
+          "Count": "Int:2"
+        },
+        "FloorType:not_relevant": {
+          "Count": "Int:2"
+        }
+      },
+      "PD:EC-17C": {
+        "FloorType:cement": {
+          "Count": "Int:23569"
+        },
+        "FloorType:terrazzo_tile_granite_wood_finished": {
+          "Count": "Int:13519"
+        },
+        "FloorType:concrete": {
+          "Count": "Int:6447"
+        },
+        "FloorType:mud": {
+          "Count": "Int:721"
+        },
+        "FloorType:wood": {
+          "Count": "Int:6"
+        },
+        "FloorType:sand": {
+          "Count": "Int:10"
+        },
+        "FloorType:other": {
+          "Count": "Int:8"
+        },
+        "FloorType:not_relevant": {
+          "Count": "Int:5"
+        }
+      },
+      "PD:EC-01O": {
+        "FloorType:cement": {
+          "Count": "Int:23648"
+        },
+        "FloorType:terrazzo_tile_granite_wood_finished": {
+          "Count": "Int:19088"
+        },
+        "FloorType:concrete": {
+          "Count": "Int:1063"
+        },
+        "FloorType:mud": {
+          "Count": "Int:58"
+        },
+        "FloorType:wood": {
+          "Count": "Int:54"
+        },
+        "FloorType:sand": {
+          "Count": "Int:36"
+        },
+        "FloorType:other": {
+          "Count": "Int:33"
+        },
+        "FloorType:not_relevant": {
+          "Count": "Int:5"
+        }
+      },
+      "PD:EC-03F": {
+        "FloorType:cement": {
+          "Count": "Int:23070"
+        },
+        "FloorType:terrazzo_tile_granite_wood_finished": {
+          "Count": "Int:18197"
+        },
+        "FloorType:concrete": {
+          "Count": "Int:2270"
+        },
+        "FloorType:mud": {
+          "Count": "Int:149"
+        },
+        "FloorType:wood": {
+          "Count": "Int:18"
+        },
+        "FloorType:sand": {
+          "Count": "Int:8"
+        },
+        "FloorType:other": {
+          "Count": "Int:4"
+        },
+        "FloorType:not_relevant": {
+          "Count": "Int:6"
+        }
+      },
+      "PD:EC-21D": {
+        "FloorType:cement": {
+          "Count": "Int:29107"
+        },
+        "FloorType:terrazzo_tile_granite_wood_finished": {
+          "Count": "Int:8331"
+        },
+        "FloorType:concrete": {
+          "Count": "Int:3764"
+        },
+        "FloorType:mud": {
+          "Count": "Int:1962"
+        },
+        "FloorType:wood": {
+          "Count": "Int:10"
+        },
+        "FloorType:sand": {
+          "Count": "Int:12"
+        },
+        "FloorType:other": {
+          "Count": "Int:6"
+        },
+        "FloorType:not_relevant": {
+          "Count": "Int:4"
+        }
+      },
+      "PD:EC-19A": {
+        "FloorType:cement": {
+          "Count": "Int:25207"
+        },
+        "FloorType:terrazzo_tile_granite_wood_finished": {
+          "Count": "Int:5070"
+        },
+        "FloorType:concrete": {
+          "Count": "Int:8757"
+        },
+        "FloorType:mud": {
+          "Count": "Int:3366"
+        },
+        "FloorType:wood": {
+          "Count": "Int:3"
+        },
+        "FloorType:sand": {
+          "Count": "Int:13"
+        },
+        "FloorType:other": {
+          "Count": "Int:4"
+        },
+        "FloorType:not_relevant": {
+          "Count": "Int:4"
+        }
+      },
+      "PD:EC-03A": {
+        "FloorType:cement": {
+          "Count": "Int:20827"
+        },
+        "FloorType:terrazzo_tile_granite_wood_finished": {
+          "Count": "Int:19663"
+        },
+        "FloorType:concrete": {
+          "Count": "Int:1520"
+        },
+        "FloorType:mud": {
+          "Count": "Int:54"
+        },
+        "FloorType:wood": {
+          "Count": "Int:23"
+        },
+        "FloorType:sand": {
+          "Count": "Int:9"
+        },
+        "FloorType:other": {
+          "Count": "Int:2"
+        },
+        "FloorType:not_relevant": {
+          "Count": "Int:8"
+        }
+      },
+      "PD:EC-15A": {
+        "FloorType:cement": {
+          "Count": "Int:27229"
+        },
+        "FloorType:terrazzo_tile_granite_wood_finished": {
+          "Count": "Int:6456"
+        },
+        "FloorType:concrete": {
+          "Count": "Int:6719"
+        },
+        "FloorType:mud": {
+          "Count": "Int:1525"
+        },
+        "FloorType:wood": {
+          "Count": "Int:10"
+        },
+        "FloorType:sand": {
+          "Count": "Int:12"
+        },
+        "FloorType:other": {
+          "Count": "Int:8"
+        },
+        "FloorType:not_relevant": {
+          "Count": "Int:3"
+        }
+      },
+      "PD:EC-03E": {
+        "FloorType:cement": {
+          "Count": "Int:23667"
+        },
+        "FloorType:terrazzo_tile_granite_wood_finished": {
+          "Count": "Int:14650"
+        },
+        "FloorType:concrete": {
+          "Count": "Int:3103"
+        },
+        "FloorType:mud": {
+          "Count": "Int:409"
+        },
+        "FloorType:wood": {
+          "Count": "Int:10"
+        },
+        "FloorType:sand": {
+          "Count": "Int:2"
+        },
+        "FloorType:other": {
+          "Count": "Int:2"
+        },
+        "FloorType:not_relevant": {
+          "Count": "Int:8"
+        }
+      },
+      "PD:EC-03G": {
+        "FloorType:cement": {
+          "Count": "Int:23695"
+        },
+        "FloorType:terrazzo_tile_granite_wood_finished": {
+          "Count": "Int:15066"
+        },
+        "FloorType:concrete": {
+          "Count": "Int:2714"
+        },
+        "FloorType:mud": {
+          "Count": "Int:320"
+        },
+        "FloorType:wood": {
+          "Count": "Int:10"
+        },
+        "FloorType:sand": {
+          "Count": "Int:8"
+        },
+        "FloorType:other": {
+          "Count": "Int:1"
+        },
+        "FloorType:not_relevant": {
+          "Count": "Int:5"
+        }
+      },
+      "PD:EC-21E": {
+        "FloorType:cement": {
+          "Count": "Int:27763"
+        },
+        "FloorType:terrazzo_tile_granite_wood_finished": {
+          "Count": "Int:7603"
+        },
+        "FloorType:concrete": {
+          "Count": "Int:3809"
+        },
+        "FloorType:mud": {
+          "Count": "Int:2059"
+        },
+        "FloorType:wood": {
+          "Count": "Int:21"
+        },
+        "FloorType:sand": {
+          "Count": "Int:19"
+        },
+        "FloorType:other": {
+          "Count": "Int:11"
+        },
+        "FloorType:not_relevant": {
+          "Count": "Int:1"
+        }
+      },
+      "PD:EC-09A": {
+        "FloorType:cement": {
+          "Count": "Int:24154"
+        },
+        "FloorType:terrazzo_tile_granite_wood_finished": {
+          "Count": "Int:10320"
+        },
+        "FloorType:concrete": {
+          "Count": "Int:5151"
+        },
+        "FloorType:mud": {
+          "Count": "Int:1088"
+        },
+        "FloorType:wood": {
+          "Count": "Int:5"
+        },
+        "FloorType:sand": {
+          "Count": "Int:2"
+        },
+        "FloorType:other": {
+          "Count": "Int:1"
+        },
+        "FloorType:not_relevant": {
+          "Count": "Int:2"
+        }
+      },
+      "PD:EC-15I": {
+        "FloorType:cement": {
+          "Count": "Int:24921"
+        },
+        "FloorType:terrazzo_tile_granite_wood_finished": {
+          "Count": "Int:10578"
+        },
+        "FloorType:concrete": {
+          "Count": "Int:4649"
+        },
+        "FloorType:mud": {
+          "Count": "Int:279"
+        },
+        "FloorType:wood": {
+          "Count": "Int:6"
+        },
+        "FloorType:sand": {
+          "Count": "Int:34"
+        },
+        "FloorType:other": {
+          "Count": "Int:8"
+        },
+        "FloorType:not_relevant": {
+          "Count": "Int:1"
+        }
+      },
+      "PD:EC-15D": {
+        "FloorType:cement": {
+          "Count": "Int:23788"
+        },
+        "FloorType:terrazzo_tile_granite_wood_finished": {
+          "Count": "Int:9323"
+        },
+        "FloorType:concrete": {
+          "Count": "Int:5410"
+        },
+        "FloorType:mud": {
+          "Count": "Int:1095"
+        },
+        "FloorType:wood": {
+          "Count": "Int:6"
+        },
+        "FloorType:sand": {
+          "Count": "Int:24"
+        },
+        "FloorType:other": {
+          "Count": "Int:8"
+        },
+        "FloorType:not_relevant": {
+          "Count": "Int:5"
+        }
+      },
+      "PD:EC-04F": {
+        "FloorType:cement": {
+          "Count": "Int:20964"
+        },
+        "FloorType:terrazzo_tile_granite_wood_finished": {
+          "Count": "Int:14257"
+        },
+        "FloorType:concrete": {
+          "Count": "Int:3528"
+        },
+        "FloorType:mud": {
+          "Count": "Int:498"
+        },
+        "FloorType:wood": {
+          "Count": "Int:13"
+        },
+        "FloorType:sand": {
+          "Count": "Int:25"
+        },
+        "FloorType:other": {
+          "Count": "Int:7"
+        },
+        "FloorType:not_relevant": {
+          "Count": "Int:5"
+        }
+      },
+      "PD:EC-14B": {
+        "FloorType:cement": {
+          "Count": "Int:32319"
+        },
+        "FloorType:terrazzo_tile_granite_wood_finished": {
+          "Count": "Int:5246"
+        },
+        "FloorType:concrete": {
+          "Count": "Int:974"
+        },
+        "FloorType:mud": {
+          "Count": "Int:121"
+        },
+        "FloorType:wood": {
+          "Count": "Int:10"
+        },
+        "FloorType:sand": {
+          "Count": "Int:81"
+        },
+        "FloorType:other": {
+          "Count": "Int:80"
+        },
+        "FloorType:not_relevant": {
+          "Count": "Int:34"
+        }
+      },
+      "PD:EC-15H": {
+        "FloorType:cement": {
+          "Count": "Int:24385"
+        },
+        "FloorType:terrazzo_tile_granite_wood_finished": {
+          "Count": "Int:10360"
+        },
+        "FloorType:concrete": {
+          "Count": "Int:3852"
+        },
+        "FloorType:mud": {
+          "Count": "Int:208"
+        },
+        "FloorType:wood": {
+          "Count": "Int:12"
+        },
+        "FloorType:sand": {
+          "Count": "Int:24"
+        },
+        "FloorType:other": {
+          "Count": "Int:7"
+        },
+        "FloorType:not_relevant": {
+          "Count": "Int:5"
+        }
+      },
+      "PD:EC-07I": {
+        "FloorType:cement": {
+          "Count": "Int:18074"
+        },
+        "FloorType:terrazzo_tile_granite_wood_finished": {
+          "Count": "Int:17795"
+        },
+        "FloorType:concrete": {
+          "Count": "Int:2425"
+        },
+        "FloorType:mud": {
+          "Count": "Int:498"
+        },
+        "FloorType:wood": {
+          "Count": "Int:11"
+        },
+        "FloorType:sand": {
+          "Count": "Int:9"
+        },
+        "FloorType:other": {
+          "Count": "Int:9"
+        },
+        "FloorType:not_relevant": {
+          "Count": "Int:4"
+        }
+      },
+      "PD:EC-01B": {
+        "FloorType:cement": {
+          "Count": "Int:22098"
+        },
+        "FloorType:terrazzo_tile_granite_wood_finished": {
+          "Count": "Int:13679"
+        },
+        "FloorType:concrete": {
+          "Count": "Int:2655"
+        },
+        "FloorType:mud": {
+          "Count": "Int:17"
+        },
+        "FloorType:wood": {
+          "Count": "Int:140"
+        },
+        "FloorType:sand": {
+          "Count": "Int:6"
+        },
+        "FloorType:other": {
+          "Count": "Int:1"
+        },
+        "FloorType:not_relevant": {
+          "Count": "Int:21"
+        }
+      },
+      "PD:EC-15B": {
+        "FloorType:cement": {
+          "Count": "Int:25789"
+        },
+        "FloorType:terrazzo_tile_granite_wood_finished": {
+          "Count": "Int:6584"
+        },
+        "FloorType:concrete": {
+          "Count": "Int:5260"
+        },
+        "FloorType:mud": {
+          "Count": "Int:869"
+        },
+        "FloorType:wood": {
+          "Count": "Int:6"
+        },
+        "FloorType:sand": {
+          "Count": "Int:35"
+        },
+        "FloorType:other": {
+          "Count": "Int:13"
+        },
+        "FloorType:not_relevant": {
+          "Count": "Int:0"
+        }
+      },
+      "PD:EC-16E": {
+        "FloorType:cement": {
+          "Count": "Int:22248"
+        },
+        "FloorType:terrazzo_tile_granite_wood_finished": {
+          "Count": "Int:13273"
+        },
+        "FloorType:concrete": {
+          "Count": "Int:2745"
+        },
+        "FloorType:mud": {
+          "Count": "Int:99"
+        },
+        "FloorType:wood": {
+          "Count": "Int:27"
+        },
+        "FloorType:sand": {
+          "Count": "Int:25"
+        },
+        "FloorType:other": {
+          "Count": "Int:16"
+        },
+        "FloorType:not_relevant": {
+          "Count": "Int:23"
+        }
+      },
+      "PD:EC-04L": {
+        "FloorType:cement": {
+          "Count": "Int:25425"
+        },
+        "FloorType:terrazzo_tile_granite_wood_finished": {
+          "Count": "Int:9465"
+        },
+        "FloorType:concrete": {
+          "Count": "Int:2409"
+        },
+        "FloorType:mud": {
+          "Count": "Int:1044"
+        },
+        "FloorType:wood": {
+          "Count": "Int:22"
+        },
+        "FloorType:sand": {
+          "Count": "Int:12"
+        },
+        "FloorType:other": {
+          "Count": "Int:2"
+        },
+        "FloorType:not_relevant": {
+          "Count": "Int:5"
+        }
+      },
+      "PD:EC-07E": {
+        "FloorType:cement": {
+          "Count": "Int:23880"
+        },
+        "FloorType:terrazzo_tile_granite_wood_finished": {
+          "Count": "Int:10342"
+        },
+        "FloorType:concrete": {
+          "Count": "Int:2993"
+        },
+        "FloorType:mud": {
+          "Count": "Int:683"
+        },
+        "FloorType:wood": {
+          "Count": "Int:14"
+        },
+        "FloorType:sand": {
+          "Count": "Int:3"
+        },
+        "FloorType:other": {
+          "Count": "Int:5"
+        },
+        "FloorType:not_relevant": {
+          "Count": "Int:1"
+        }
+      },
+      "PD:EC-08A": {
+        "FloorType:cement": {
+          "Count": "Int:26088"
+        },
+        "FloorType:terrazzo_tile_granite_wood_finished": {
+          "Count": "Int:7502"
+        },
+        "FloorType:concrete": {
+          "Count": "Int:2912"
+        },
+        "FloorType:mud": {
+          "Count": "Int:1121"
+        },
+        "FloorType:wood": {
+          "Count": "Int:21"
+        },
+        "FloorType:sand": {
+          "Count": "Int:1"
+        },
+        "FloorType:other": {
+          "Count": "Int:1"
+        },
+        "FloorType:not_relevant": {
+          "Count": "Int:0"
+        }
+      },
+      "PD:EC-03H": {
+        "FloorType:cement": {
+          "Count": "Int:23521"
+        },
+        "FloorType:terrazzo_tile_granite_wood_finished": {
+          "Count": "Int:10389"
+        },
+        "FloorType:concrete": {
+          "Count": "Int:3138"
+        },
+        "FloorType:mud": {
+          "Count": "Int:560"
+        },
+        "FloorType:wood": {
+          "Count": "Int:10"
+        },
+        "FloorType:sand": {
+          "Count": "Int:5"
+        },
+        "FloorType:other": {
+          "Count": "Int:1"
+        },
+        "FloorType:not_relevant": {
+          "Count": "Int:2"
+        }
+      },
+      "PD:EC-17A": {
+        "FloorType:cement": {
+          "Count": "Int:23149"
+        },
+        "FloorType:terrazzo_tile_granite_wood_finished": {
+          "Count": "Int:5641"
+        },
+        "FloorType:concrete": {
+          "Count": "Int:7041"
+        },
+        "FloorType:mud": {
+          "Count": "Int:1415"
+        },
+        "FloorType:wood": {
+          "Count": "Int:4"
+        },
+        "FloorType:sand": {
+          "Count": "Int:11"
+        },
+        "FloorType:other": {
+          "Count": "Int:3"
+        },
+        "FloorType:not_relevant": {
+          "Count": "Int:1"
+        }
+      },
+      "PD:EC-13B": {
+        "FloorType:cement": {
+          "Count": "Int:30765"
+        },
+        "FloorType:terrazzo_tile_granite_wood_finished": {
+          "Count": "Int:4738"
+        },
+        "FloorType:concrete": {
+          "Count": "Int:1260"
+        },
+        "FloorType:mud": {
+          "Count": "Int:95"
+        },
+        "FloorType:wood": {
+          "Count": "Int:4"
+        },
+        "FloorType:sand": {
+          "Count": "Int:125"
+        },
+        "FloorType:other": {
+          "Count": "Int:8"
+        },
+        "FloorType:not_relevant": {
+          "Count": "Int:3"
+        }
+      },
+      "PD:EC-02M": {
+        "FloorType:cement": {
+          "Count": "Int:19583"
+        },
+        "FloorType:terrazzo_tile_granite_wood_finished": {
+          "Count": "Int:16255"
+        },
+        "FloorType:concrete": {
+          "Count": "Int:686"
+        },
+        "FloorType:mud": {
+          "Count": "Int:114"
+        },
+        "FloorType:wood": {
+          "Count": "Int:30"
+        },
+        "FloorType:sand": {
+          "Count": "Int:11"
+        },
+        "FloorType:other": {
+          "Count": "Int:3"
+        },
+        "FloorType:not_relevant": {
+          "Count": "Int:10"
+        }
+      },
+      "PD:EC-21A": {
+        "FloorType:cement": {
+          "Count": "Int:23758"
+        },
+        "FloorType:terrazzo_tile_granite_wood_finished": {
+          "Count": "Int:9028"
+        },
+        "FloorType:concrete": {
+          "Count": "Int:3022"
+        },
+        "FloorType:mud": {
+          "Count": "Int:707"
+        },
+        "FloorType:wood": {
+          "Count": "Int:11"
+        },
+        "FloorType:sand": {
+          "Count": "Int:8"
+        },
+        "FloorType:other": {
+          "Count": "Int:5"
+        },
+        "FloorType:not_relevant": {
+          "Count": "Int:1"
+        }
+      },
+      "PD:EC-10K": {
+        "FloorType:cement": {
+          "Count": "Int:31681"
+        },
+        "FloorType:terrazzo_tile_granite_wood_finished": {
+          "Count": "Int:3149"
+        },
+        "FloorType:concrete": {
+          "Count": "Int:702"
+        },
+        "FloorType:mud": {
+          "Count": "Int:604"
+        },
+        "FloorType:wood": {
+          "Count": "Int:9"
+        },
+        "FloorType:sand": {
+          "Count": "Int:177"
+        },
+        "FloorType:other": {
+          "Count": "Int:151"
+        },
+        "FloorType:not_relevant": {
+          "Count": "Int:11"
+        }
+      },
+      "PD:EC-07F": {
+        "FloorType:cement": {
+          "Count": "Int:22184"
+        },
+        "FloorType:terrazzo_tile_granite_wood_finished": {
+          "Count": "Int:10364"
+        },
+        "FloorType:concrete": {
+          "Count": "Int:3149"
+        },
+        "FloorType:mud": {
+          "Count": "Int:749"
+        },
+        "FloorType:wood": {
+          "Count": "Int:17"
+        },
+        "FloorType:sand": {
+          "Count": "Int:4"
+        },
+        "FloorType:other": {
+          "Count": "Int:8"
+        },
+        "FloorType:not_relevant": {
+          "Count": "Int:2"
+        }
+      },
+      "PD:EC-20A": {
+        "FloorType:cement": {
+          "Count": "Int:22650"
+        },
+        "FloorType:terrazzo_tile_granite_wood_finished": {
+          "Count": "Int:6344"
+        },
+        "FloorType:concrete": {
+          "Count": "Int:4899"
+        },
+        "FloorType:mud": {
+          "Count": "Int:2351"
+        },
+        "FloorType:wood": {
+          "Count": "Int:5"
+        },
+        "FloorType:sand": {
+          "Count": "Int:15"
+        },
+        "FloorType:other": {
+          "Count": "Int:5"
+        },
+        "FloorType:not_relevant": {
+          "Count": "Int:1"
+        }
+      },
+      "PD:EC-15M": {
+        "FloorType:cement": {
+          "Count": "Int:20567"
+        },
+        "FloorType:terrazzo_tile_granite_wood_finished": {
+          "Count": "Int:11144"
+        },
+        "FloorType:concrete": {
+          "Count": "Int:3803"
+        },
+        "FloorType:mud": {
+          "Count": "Int:631"
+        },
+        "FloorType:wood": {
+          "Count": "Int:6"
+        },
+        "FloorType:sand": {
+          "Count": "Int:34"
+        },
+        "FloorType:other": {
+          "Count": "Int:7"
+        },
+        "FloorType:not_relevant": {
+          "Count": "Int:4"
+        }
+      },
+      "PD:EC-15J": {
+        "FloorType:cement": {
+          "Count": "Int:23134"
+        },
+        "FloorType:terrazzo_tile_granite_wood_finished": {
+          "Count": "Int:8658"
+        },
+        "FloorType:concrete": {
+          "Count": "Int:3595"
+        },
+        "FloorType:mud": {
+          "Count": "Int:618"
+        },
+        "FloorType:wood": {
+          "Count": "Int:14"
+        },
+        "FloorType:sand": {
+          "Count": "Int:22"
+        },
+        "FloorType:other": {
+          "Count": "Int:4"
+        },
+        "FloorType:not_relevant": {
+          "Count": "Int:1"
+        }
+      },
+      "PD:EC-02B": {
+        "FloorType:cement": {
+          "Count": "Int:18927"
+        },
+        "FloorType:terrazzo_tile_granite_wood_finished": {
+          "Count": "Int:15104"
+        },
+        "FloorType:concrete": {
+          "Count": "Int:1820"
+        },
+        "FloorType:mud": {
+          "Count": "Int:12"
+        },
+        "FloorType:wood": {
+          "Count": "Int:17"
+        },
+        "FloorType:sand": {
+          "Count": "Int:16"
+        },
+        "FloorType:other": {
+          "Count": "Int:1"
+        },
+        "FloorType:not_relevant": {
+          "Count": "Int:0"
+        }
+      },
+      "PD:EC-15L": {
+        "FloorType:cement": {
+          "Count": "Int:17974"
+        },
+        "FloorType:terrazzo_tile_granite_wood_finished": {
+          "Count": "Int:14221"
+        },
+        "FloorType:concrete": {
+          "Count": "Int:3265"
+        },
+        "FloorType:mud": {
+          "Count": "Int:406"
+        },
+        "FloorType:wood": {
+          "Count": "Int:3"
+        },
+        "FloorType:sand": {
+          "Count": "Int:21"
+        },
+        "FloorType:other": {
+          "Count": "Int:2"
+        },
+        "FloorType:not_relevant": {
+          "Count": "Int:4"
+        }
+      },
+      "PD:EC-12C": {
+        "FloorType:cement": {
+          "Count": "Int:31287"
+        },
+        "FloorType:terrazzo_tile_granite_wood_finished": {
+          "Count": "Int:1939"
+        },
+        "FloorType:concrete": {
+          "Count": "Int:1905"
+        },
+        "FloorType:mud": {
+          "Count": "Int:152"
+        },
+        "FloorType:wood": {
+          "Count": "Int:15"
+        },
+        "FloorType:sand": {
+          "Count": "Int:326"
+        },
+        "FloorType:other": {
+          "Count": "Int:31"
+        },
+        "FloorType:not_relevant": {
+          "Count": "Int:40"
+        }
+      },
+      "PD:EC-04M": {
+        "FloorType:cement": {
+          "Count": "Int:24880"
+        },
+        "FloorType:terrazzo_tile_granite_wood_finished": {
+          "Count": "Int:7591"
+        },
+        "FloorType:concrete": {
+          "Count": "Int:2183"
+        },
+        "FloorType:mud": {
+          "Count": "Int:854"
+        },
+        "FloorType:wood": {
+          "Count": "Int:8"
+        },
+        "FloorType:sand": {
+          "Count": "Int:8"
+        },
+        "FloorType:other": {
+          "Count": "Int:4"
+        },
+        "FloorType:not_relevant": {
+          "Count": "Int:0"
+        }
+      },
+      "PD:EC-15G": {
+        "FloorType:cement": {
+          "Count": "Int:22760"
+        },
+        "FloorType:terrazzo_tile_granite_wood_finished": {
+          "Count": "Int:7959"
+        },
+        "FloorType:concrete": {
+          "Count": "Int:4459"
+        },
+        "FloorType:mud": {
+          "Count": "Int:242"
+        },
+        "FloorType:wood": {
+          "Count": "Int:16"
+        },
+        "FloorType:sand": {
+          "Count": "Int:43"
+        },
+        "FloorType:other": {
+          "Count": "Int:7"
+        },
+        "FloorType:not_relevant": {
+          "Count": "Int:2"
+        }
+      },
+      "PD:EC-08B": {
+        "FloorType:cement": {
+          "Count": "Int:20212"
+        },
+        "FloorType:terrazzo_tile_granite_wood_finished": {
+          "Count": "Int:9727"
+        },
+        "FloorType:concrete": {
+          "Count": "Int:3728"
+        },
+        "FloorType:mud": {
+          "Count": "Int:758"
+        },
+        "FloorType:wood": {
+          "Count": "Int:7"
+        },
+        "FloorType:sand": {
+          "Count": "Int:1"
+        },
+        "FloorType:other": {
+          "Count": "Int:4"
+        },
+        "FloorType:not_relevant": {
+          "Count": "Int:2"
+        }
+      },
+      "PD:EC-05D": {
+        "FloorType:cement": {
+          "Count": "Int:22213"
+        },
+        "FloorType:terrazzo_tile_granite_wood_finished": {
+          "Count": "Int:7250"
+        },
+        "FloorType:concrete": {
+          "Count": "Int:3354"
+        },
+        "FloorType:mud": {
+          "Count": "Int:1597"
+        },
+        "FloorType:wood": {
+          "Count": "Int:2"
+        },
+        "FloorType:sand": {
+          "Count": "Int:7"
+        },
+        "FloorType:other": {
+          "Count": "Int:3"
+        },
+        "FloorType:not_relevant": {
+          "Count": "Int:6"
+        }
+      },
+      "PD:EC-17G": {
+        "FloorType:cement": {
+          "Count": "Int:20967"
+        },
+        "FloorType:terrazzo_tile_granite_wood_finished": {
+          "Count": "Int:5643"
+        },
+        "FloorType:concrete": {
+          "Count": "Int:6593"
+        },
+        "FloorType:mud": {
+          "Count": "Int:1173"
+        },
+        "FloorType:wood": {
+          "Count": "Int:3"
+        },
+        "FloorType:sand": {
+          "Count": "Int:18"
+        },
+        "FloorType:other": {
+          "Count": "Int:5"
+        },
+        "FloorType:not_relevant": {
+          "Count": "Int:1"
+        }
+      },
+      "PD:EC-08C": {
+        "FloorType:cement": {
+          "Count": "Int:20418"
+        },
+        "FloorType:terrazzo_tile_granite_wood_finished": {
+          "Count": "Int:10200"
+        },
+        "FloorType:concrete": {
+          "Count": "Int:3022"
+        },
+        "FloorType:mud": {
+          "Count": "Int:641"
+        },
+        "FloorType:wood": {
+          "Count": "Int:4"
+        },
+        "FloorType:sand": {
+          "Count": "Int:3"
+        },
+        "FloorType:other": {
+          "Count": "Int:1"
+        },
+        "FloorType:not_relevant": {
+          "Count": "Int:2"
+        }
+      },
+      "PD:EC-11C": {
+        "FloorType:cement": {
+          "Count": "Int:29210"
+        },
+        "FloorType:terrazzo_tile_granite_wood_finished": {
+          "Count": "Int:2970"
+        },
+        "FloorType:concrete": {
+          "Count": "Int:1250"
+        },
+        "FloorType:mud": {
+          "Count": "Int:638"
+        },
+        "FloorType:wood": {
+          "Count": "Int:16"
+        },
+        "FloorType:sand": {
+          "Count": "Int:133"
+        },
+        "FloorType:other": {
+          "Count": "Int:32"
+        },
+        "FloorType:not_relevant": {
+          "Count": "Int:40"
+        }
+      },
+      "PD:EC-18A": {
+        "FloorType:cement": {
+          "Count": "Int:21972"
+        },
+        "FloorType:terrazzo_tile_granite_wood_finished": {
+          "Count": "Int:5863"
+        },
+        "FloorType:concrete": {
+          "Count": "Int:5394"
+        },
+        "FloorType:mud": {
+          "Count": "Int:940"
+        },
+        "FloorType:wood": {
+          "Count": "Int:2"
+        },
+        "FloorType:sand": {
+          "Count": "Int:9"
+        },
+        "FloorType:other": {
+          "Count": "Int:5"
+        },
+        "FloorType:not_relevant": {
+          "Count": "Int:3"
+        }
+      },
+      "PD:EC-08G": {
+        "FloorType:cement": {
+          "Count": "Int:18408"
+        },
+        "FloorType:terrazzo_tile_granite_wood_finished": {
+          "Count": "Int:12123"
+        },
+        "FloorType:concrete": {
+          "Count": "Int:3082"
+        },
+        "FloorType:mud": {
+          "Count": "Int:427"
+        },
+        "FloorType:wood": {
+          "Count": "Int:12"
+        },
+        "FloorType:sand": {
+          "Count": "Int:5"
+        },
+        "FloorType:other": {
+          "Count": "Int:4"
+        },
+        "FloorType:not_relevant": {
+          "Count": "Int:2"
+        }
+      },
+      "PD:EC-16D": {
+        "FloorType:cement": {
+          "Count": "Int:19947"
+        },
+        "FloorType:terrazzo_tile_granite_wood_finished": {
+          "Count": "Int:11195"
+        },
+        "FloorType:concrete": {
+          "Count": "Int:2579"
+        },
+        "FloorType:mud": {
+          "Count": "Int:79"
+        },
+        "FloorType:wood": {
+          "Count": "Int:32"
+        },
+        "FloorType:sand": {
+          "Count": "Int:35"
+        },
+        "FloorType:other": {
+          "Count": "Int:9"
+        },
+        "FloorType:not_relevant": {
+          "Count": "Int:6"
+        }
+      },
+      "PD:EC-17B": {
+        "FloorType:cement": {
+          "Count": "Int:22384"
+        },
+        "FloorType:terrazzo_tile_granite_wood_finished": {
+          "Count": "Int:4524"
+        },
+        "FloorType:concrete": {
+          "Count": "Int:5951"
+        },
+        "FloorType:mud": {
+          "Count": "Int:886"
+        },
+        "FloorType:wood": {
+          "Count": "Int:1"
+        },
+        "FloorType:sand": {
+          "Count": "Int:14"
+        },
+        "FloorType:other": {
+          "Count": "Int:0"
+        },
+        "FloorType:not_relevant": {
+          "Count": "Int:4"
+        }
+      },
+      "PD:EC-21F": {
+        "FloorType:cement": {
+          "Count": "Int:23220"
+        },
+        "FloorType:terrazzo_tile_granite_wood_finished": {
+          "Count": "Int:6376"
+        },
+        "FloorType:concrete": {
+          "Count": "Int:2627"
+        },
+        "FloorType:mud": {
+          "Count": "Int:1516"
+        },
+        "FloorType:wood": {
+          "Count": "Int:12"
+        },
+        "FloorType:sand": {
+          "Count": "Int:5"
+        },
+        "FloorType:other": {
+          "Count": "Int:4"
+        },
+        "FloorType:not_relevant": {
+          "Count": "Int:0"
+        }
+      },
+      "PD:EC-01A": {
+        "FloorType:cement": {
+          "Count": "Int:18887"
+        },
+        "FloorType:terrazzo_tile_granite_wood_finished": {
+          "Count": "Int:12278"
+        },
+        "FloorType:concrete": {
+          "Count": "Int:2057"
+        },
+        "FloorType:mud": {
+          "Count": "Int:29"
+        },
+        "FloorType:wood": {
+          "Count": "Int:64"
+        },
+        "FloorType:sand": {
+          "Count": "Int:3"
+        },
+        "FloorType:other": {
+          "Count": "Int:1"
+        },
+        "FloorType:not_relevant": {
+          "Count": "Int:4"
+        }
+      },
+      "PD:EC-21C": {
+        "FloorType:cement": {
+          "Count": "Int:23153"
+        },
+        "FloorType:terrazzo_tile_granite_wood_finished": {
+          "Count": "Int:6342"
+        },
+        "FloorType:concrete": {
+          "Count": "Int:2208"
+        },
+        "FloorType:mud": {
+          "Count": "Int:1284"
+        },
+        "FloorType:wood": {
+          "Count": "Int:17"
+        },
+        "FloorType:sand": {
+          "Count": "Int:31"
+        },
+        "FloorType:other": {
+          "Count": "Int:3"
+        },
+        "FloorType:not_relevant": {
+          "Count": "Int:9"
+        }
+      },
+      "PD:EC-22E": {
+        "FloorType:cement": {
+          "Count": "Int:19111"
+        },
+        "FloorType:terrazzo_tile_granite_wood_finished": {
+          "Count": "Int:10448"
+        },
+        "FloorType:concrete": {
+          "Count": "Int:2799"
+        },
+        "FloorType:mud": {
+          "Count": "Int:625"
+        },
+        "FloorType:wood": {
+          "Count": "Int:3"
+        },
+        "FloorType:sand": {
+          "Count": "Int:10"
+        },
+        "FloorType:other": {
+          "Count": "Int:8"
+        },
+        "FloorType:not_relevant": {
+          "Count": "Int:5"
+        }
+      },
+      "PD:EC-07D": {
+        "FloorType:cement": {
+          "Count": "Int:18735"
+        },
+        "FloorType:terrazzo_tile_granite_wood_finished": {
+          "Count": "Int:11508"
+        },
+        "FloorType:concrete": {
+          "Count": "Int:2385"
+        },
+        "FloorType:mud": {
+          "Count": "Int:330"
+        },
+        "FloorType:wood": {
+          "Count": "Int:5"
+        },
+        "FloorType:sand": {
+          "Count": "Int:5"
+        },
+        "FloorType:other": {
+          "Count": "Int:3"
+        },
+        "FloorType:not_relevant": {
+          "Count": "Int:0"
+        }
+      },
+      "PD:EC-03D": {
+        "FloorType:cement": {
+          "Count": "Int:21716"
+        },
+        "FloorType:terrazzo_tile_granite_wood_finished": {
+          "Count": "Int:8546"
+        },
+        "FloorType:concrete": {
+          "Count": "Int:1896"
+        },
+        "FloorType:mud": {
+          "Count": "Int:382"
+        },
+        "FloorType:wood": {
+          "Count": "Int:3"
+        },
+        "FloorType:sand": {
+          "Count": "Int:8"
+        },
+        "FloorType:other": {
+          "Count": "Int:2"
+        },
+        "FloorType:not_relevant": {
+          "Count": "Int:4"
+        }
+      },
+      "PD:EC-22A": {
+        "FloorType:cement": {
+          "Count": "Int:19839"
+        },
+        "FloorType:terrazzo_tile_granite_wood_finished": {
+          "Count": "Int:8990"
+        },
+        "FloorType:concrete": {
+          "Count": "Int:2756"
+        },
+        "FloorType:mud": {
+          "Count": "Int:577"
+        },
+        "FloorType:wood": {
+          "Count": "Int:10"
+        },
+        "FloorType:sand": {
+          "Count": "Int:5"
+        },
+        "FloorType:other": {
+          "Count": "Int:9"
+        },
+        "FloorType:not_relevant": {
+          "Count": "Int:5"
+        }
+      },
+      "PD:EC-08F": {
+        "FloorType:cement": {
+          "Count": "Int:13770"
+        },
+        "FloorType:terrazzo_tile_granite_wood_finished": {
+          "Count": "Int:16356"
+        },
+        "FloorType:concrete": {
+          "Count": "Int:1759"
+        },
+        "FloorType:mud": {
+          "Count": "Int:172"
+        },
+        "FloorType:wood": {
+          "Count": "Int:6"
+        },
+        "FloorType:sand": {
+          "Count": "Int:12"
+        },
+        "FloorType:other": {
+          "Count": "Int:3"
+        },
+        "FloorType:not_relevant": {
+          "Count": "Int:2"
+        }
+      },
+      "PD:EC-11A": {
+        "FloorType:cement": {
+          "Count": "Int:29198"
+        },
+        "FloorType:terrazzo_tile_granite_wood_finished": {
+          "Count": "Int:2045"
+        },
+        "FloorType:concrete": {
+          "Count": "Int:364"
+        },
+        "FloorType:mud": {
+          "Count": "Int:204"
         },
         "FloorType:wood": {
           "Count": "Int:46"
         },
         "FloorType:sand": {
-          "Count": "Int:138"
+          "Count": "Int:81"
         },
         "FloorType:other": {
-          "Count": "Int:57"
+          "Count": "Int:48"
         },
         "FloorType:not_relevant": {
-          "Count": "Int:25"
+          "Count": "Int:19"
         }
       },
-      "Province:LK-8": {
+      "PD:EC-14A": {
         "FloorType:cement": {
-          "Count": "Int:249488"
+          "Count": "Int:24932"
         },
         "FloorType:terrazzo_tile_granite_wood_finished": {
-          "Count": "Int:68548"
+          "Count": "Int:3059"
         },
         "FloorType:concrete": {
-          "Count": "Int:47422"
+          "Count": "Int:3247"
         },
         "FloorType:mud": {
-          "Count": "Int:24260"
+          "Count": "Int:575"
         },
         "FloorType:wood": {
-          "Count": "Int:132"
+          "Count": "Int:0"
         },
         "FloorType:sand": {
-          "Count": "Int:176"
+          "Count": "Int:159"
         },
         "FloorType:other": {
+          "Count": "Int:7"
+        },
+        "FloorType:not_relevant": {
+          "Count": "Int:11"
+        }
+      },
+      "PD:EC-04C": {
+        "FloorType:cement": {
+          "Count": "Int:19818"
+        },
+        "FloorType:terrazzo_tile_granite_wood_finished": {
+          "Count": "Int:8734"
+        },
+        "FloorType:concrete": {
+          "Count": "Int:2543"
+        },
+        "FloorType:mud": {
+          "Count": "Int:839"
+        },
+        "FloorType:wood": {
+          "Count": "Int:13"
+        },
+        "FloorType:sand": {
+          "Count": "Int:22"
+        },
+        "FloorType:other": {
+          "Count": "Int:8"
+        },
+        "FloorType:not_relevant": {
+          "Count": "Int:1"
+        }
+      },
+      "PD:EC-18B": {
+        "FloorType:cement": {
+          "Count": "Int:21274"
+        },
+        "FloorType:terrazzo_tile_granite_wood_finished": {
+          "Count": "Int:4425"
+        },
+        "FloorType:concrete": {
+          "Count": "Int:5470"
+        },
+        "FloorType:mud": {
+          "Count": "Int:674"
+        },
+        "FloorType:wood": {
+          "Count": "Int:3"
+        },
+        "FloorType:sand": {
+          "Count": "Int:18"
+        },
+        "FloorType:other": {
+          "Count": "Int:10"
+        },
+        "FloorType:not_relevant": {
+          "Count": "Int:0"
+        }
+      },
+      "PD:EC-05C": {
+        "FloorType:cement": {
+          "Count": "Int:18494"
+        },
+        "FloorType:terrazzo_tile_granite_wood_finished": {
+          "Count": "Int:9787"
+        },
+        "FloorType:concrete": {
+          "Count": "Int:2429"
+        },
+        "FloorType:mud": {
+          "Count": "Int:704"
+        },
+        "FloorType:wood": {
+          "Count": "Int:3"
+        },
+        "FloorType:sand": {
+          "Count": "Int:5"
+        },
+        "FloorType:other": {
+          "Count": "Int:5"
+        },
+        "FloorType:not_relevant": {
+          "Count": "Int:3"
+        }
+      },
+      "PD:EC-04K": {
+        "FloorType:cement": {
+          "Count": "Int:18492"
+        },
+        "FloorType:terrazzo_tile_granite_wood_finished": {
+          "Count": "Int:10034"
+        },
+        "FloorType:concrete": {
+          "Count": "Int:2250"
+        },
+        "FloorType:mud": {
+          "Count": "Int:489"
+        },
+        "FloorType:wood": {
+          "Count": "Int:12"
+        },
+        "FloorType:sand": {
+          "Count": "Int:3"
+        },
+        "FloorType:other": {
+          "Count": "Int:3"
+        },
+        "FloorType:not_relevant": {
+          "Count": "Int:1"
+        }
+      },
+      "PD:EC-15E": {
+        "FloorType:cement": {
+          "Count": "Int:19441"
+        },
+        "FloorType:terrazzo_tile_granite_wood_finished": {
+          "Count": "Int:7483"
+        },
+        "FloorType:concrete": {
+          "Count": "Int:3755"
+        },
+        "FloorType:mud": {
+          "Count": "Int:536"
+        },
+        "FloorType:wood": {
+          "Count": "Int:5"
+        },
+        "FloorType:sand": {
+          "Count": "Int:13"
+        },
+        "FloorType:other": {
+          "Count": "Int:10"
+        },
+        "FloorType:not_relevant": {
+          "Count": "Int:2"
+        }
+      },
+      "PD:EC-19H": {
+        "FloorType:cement": {
+          "Count": "Int:20767"
+        },
+        "FloorType:terrazzo_tile_granite_wood_finished": {
+          "Count": "Int:6958"
+        },
+        "FloorType:concrete": {
+          "Count": "Int:2121"
+        },
+        "FloorType:mud": {
+          "Count": "Int:1110"
+        },
+        "FloorType:wood": {
+          "Count": "Int:18"
+        },
+        "FloorType:sand": {
+          "Count": "Int:44"
+        },
+        "FloorType:other": {
+          "Count": "Int:6"
+        },
+        "FloorType:not_relevant": {
+          "Count": "Int:1"
+        }
+      },
+      "PD:EC-04J": {
+        "FloorType:cement": {
+          "Count": "Int:16910"
+        },
+        "FloorType:terrazzo_tile_granite_wood_finished": {
+          "Count": "Int:11043"
+        },
+        "FloorType:concrete": {
+          "Count": "Int:2193"
+        },
+        "FloorType:mud": {
+          "Count": "Int:487"
+        },
+        "FloorType:wood": {
+          "Count": "Int:17"
+        },
+        "FloorType:sand": {
+          "Count": "Int:4"
+        },
+        "FloorType:other": {
+          "Count": "Int:3"
+        },
+        "FloorType:not_relevant": {
+          "Count": "Int:2"
+        }
+      },
+      "PD:EC-07J": {
+        "FloorType:cement": {
+          "Count": "Int:16055"
+        },
+        "FloorType:terrazzo_tile_granite_wood_finished": {
+          "Count": "Int:11411"
+        },
+        "FloorType:concrete": {
+          "Count": "Int:2405"
+        },
+        "FloorType:mud": {
+          "Count": "Int:457"
+        },
+        "FloorType:wood": {
+          "Count": "Int:4"
+        },
+        "FloorType:sand": {
+          "Count": "Int:4"
+        },
+        "FloorType:other": {
+          "Count": "Int:0"
+        },
+        "FloorType:not_relevant": {
+          "Count": "Int:4"
+        }
+      },
+      "PD:EC-21G": {
+        "FloorType:cement": {
+          "Count": "Int:21187"
+        },
+        "FloorType:terrazzo_tile_granite_wood_finished": {
+          "Count": "Int:5281"
+        },
+        "FloorType:concrete": {
+          "Count": "Int:2567"
+        },
+        "FloorType:mud": {
+          "Count": "Int:918"
+        },
+        "FloorType:wood": {
+          "Count": "Int:5"
+        },
+        "FloorType:sand": {
+          "Count": "Int:6"
+        },
+        "FloorType:other": {
+          "Count": "Int:5"
+        },
+        "FloorType:not_relevant": {
+          "Count": "Int:1"
+        }
+      },
+      "PD:EC-13C": {
+        "FloorType:cement": {
+          "Count": "Int:21259"
+        },
+        "FloorType:terrazzo_tile_granite_wood_finished": {
+          "Count": "Int:6757"
+        },
+        "FloorType:concrete": {
+          "Count": "Int:1870"
+        },
+        "FloorType:mud": {
+          "Count": "Int:7"
+        },
+        "FloorType:wood": {
+          "Count": "Int:3"
+        },
+        "FloorType:sand": {
+          "Count": "Int:56"
+        },
+        "FloorType:other": {
+          "Count": "Int:4"
+        },
+        "FloorType:not_relevant": {
+          "Count": "Int:4"
+        }
+      },
+      "PD:EC-06D": {
+        "FloorType:cement": {
+          "Count": "Int:22759"
+        },
+        "FloorType:terrazzo_tile_granite_wood_finished": {
+          "Count": "Int:2225"
+        },
+        "FloorType:concrete": {
+          "Count": "Int:2016"
+        },
+        "FloorType:mud": {
+          "Count": "Int:2876"
+        },
+        "FloorType:wood": {
+          "Count": "Int:15"
+        },
+        "FloorType:sand": {
+          "Count": "Int:22"
+        },
+        "FloorType:other": {
+          "Count": "Int:12"
+        },
+        "FloorType:not_relevant": {
+          "Count": "Int:4"
+        }
+      },
+      "PD:EC-15K": {
+        "FloorType:cement": {
+          "Count": "Int:17635"
+        },
+        "FloorType:terrazzo_tile_granite_wood_finished": {
+          "Count": "Int:8837"
+        },
+        "FloorType:concrete": {
+          "Count": "Int:2821"
+        },
+        "FloorType:mud": {
+          "Count": "Int:355"
+        },
+        "FloorType:wood": {
+          "Count": "Int:6"
+        },
+        "FloorType:sand": {
+          "Count": "Int:15"
+        },
+        "FloorType:other": {
+          "Count": "Int:3"
+        },
+        "FloorType:not_relevant": {
+          "Count": "Int:2"
+        }
+      },
+      "PD:EC-15F": {
+        "FloorType:cement": {
+          "Count": "Int:18392"
+        },
+        "FloorType:terrazzo_tile_granite_wood_finished": {
+          "Count": "Int:6872"
+        },
+        "FloorType:concrete": {
+          "Count": "Int:3958"
+        },
+        "FloorType:mud": {
+          "Count": "Int:346"
+        },
+        "FloorType:wood": {
+          "Count": "Int:9"
+        },
+        "FloorType:sand": {
+          "Count": "Int:26"
+        },
+        "FloorType:other": {
+          "Count": "Int:6"
+        },
+        "FloorType:not_relevant": {
+          "Count": "Int:2"
+        }
+      },
+      "PD:EC-08D": {
+        "FloorType:cement": {
+          "Count": "Int:15984"
+        },
+        "FloorType:terrazzo_tile_granite_wood_finished": {
+          "Count": "Int:10096"
+        },
+        "FloorType:concrete": {
+          "Count": "Int:2835"
+        },
+        "FloorType:mud": {
+          "Count": "Int:414"
+        },
+        "FloorType:wood": {
+          "Count": "Int:4"
+        },
+        "FloorType:sand": {
+          "Count": "Int:1"
+        },
+        "FloorType:other": {
+          "Count": "Int:5"
+        },
+        "FloorType:not_relevant": {
+          "Count": "Int:5"
+        }
+      },
+      "PD:EC-09B": {
+        "FloorType:cement": {
+          "Count": "Int:15718"
+        },
+        "FloorType:terrazzo_tile_granite_wood_finished": {
+          "Count": "Int:9793"
+        },
+        "FloorType:concrete": {
+          "Count": "Int:3272"
+        },
+        "FloorType:mud": {
+          "Count": "Int:429"
+        },
+        "FloorType:wood": {
+          "Count": "Int:6"
+        },
+        "FloorType:sand": {
+          "Count": "Int:3"
+        },
+        "FloorType:other": {
+          "Count": "Int:2"
+        },
+        "FloorType:not_relevant": {
+          "Count": "Int:0"
+        }
+      },
+      "PD:EC-19G": {
+        "FloorType:cement": {
+          "Count": "Int:18638"
+        },
+        "FloorType:terrazzo_tile_granite_wood_finished": {
+          "Count": "Int:5539"
+        },
+        "FloorType:concrete": {
+          "Count": "Int:2769"
+        },
+        "FloorType:mud": {
+          "Count": "Int:1687"
+        },
+        "FloorType:wood": {
+          "Count": "Int:16"
+        },
+        "FloorType:sand": {
+          "Count": "Int:6"
+        },
+        "FloorType:other": {
+          "Count": "Int:9"
+        },
+        "FloorType:not_relevant": {
+          "Count": "Int:4"
+        }
+      },
+      "PD:EC-22H": {
+        "FloorType:cement": {
+          "Count": "Int:17974"
+        },
+        "FloorType:terrazzo_tile_granite_wood_finished": {
+          "Count": "Int:7880"
+        },
+        "FloorType:concrete": {
+          "Count": "Int:2186"
+        },
+        "FloorType:mud": {
+          "Count": "Int:380"
+        },
+        "FloorType:wood": {
+          "Count": "Int:8"
+        },
+        "FloorType:sand": {
+          "Count": "Int:7"
+        },
+        "FloorType:other": {
+          "Count": "Int:6"
+        },
+        "FloorType:not_relevant": {
+          "Count": "Int:5"
+        }
+      },
+      "PD:EC-07C": {
+        "FloorType:cement": {
+          "Count": "Int:15622"
+        },
+        "FloorType:terrazzo_tile_granite_wood_finished": {
+          "Count": "Int:9716"
+        },
+        "FloorType:concrete": {
+          "Count": "Int:2821"
+        },
+        "FloorType:mud": {
+          "Count": "Int:241"
+        },
+        "FloorType:wood": {
+          "Count": "Int:5"
+        },
+        "FloorType:sand": {
+          "Count": "Int:7"
+        },
+        "FloorType:other": {
+          "Count": "Int:5"
+        },
+        "FloorType:not_relevant": {
+          "Count": "Int:3"
+        }
+      },
+      "PD:EC-04H": {
+        "FloorType:cement": {
+          "Count": "Int:14435"
+        },
+        "FloorType:terrazzo_tile_granite_wood_finished": {
+          "Count": "Int:12698"
+        },
+        "FloorType:concrete": {
+          "Count": "Int:995"
+        },
+        "FloorType:mud": {
+          "Count": "Int:199"
+        },
+        "FloorType:wood": {
+          "Count": "Int:35"
+        },
+        "FloorType:sand": {
+          "Count": "Int:5"
+        },
+        "FloorType:other": {
+          "Count": "Int:9"
+        },
+        "FloorType:not_relevant": {
+          "Count": "Int:3"
+        }
+      },
+      "PD:EC-07B": {
+        "FloorType:cement": {
+          "Count": "Int:14509"
+        },
+        "FloorType:terrazzo_tile_granite_wood_finished": {
+          "Count": "Int:11602"
+        },
+        "FloorType:concrete": {
+          "Count": "Int:1970"
+        },
+        "FloorType:mud": {
+          "Count": "Int:179"
+        },
+        "FloorType:wood": {
+          "Count": "Int:13"
+        },
+        "FloorType:sand": {
+          "Count": "Int:2"
+        },
+        "FloorType:other": {
+          "Count": "Int:5"
+        },
+        "FloorType:not_relevant": {
+          "Count": "Int:0"
+        }
+      },
+      "PD:EC-05B": {
+        "FloorType:cement": {
+          "Count": "Int:18754"
+        },
+        "FloorType:terrazzo_tile_granite_wood_finished": {
+          "Count": "Int:3851"
+        },
+        "FloorType:concrete": {
+          "Count": "Int:3894"
+        },
+        "FloorType:mud": {
+          "Count": "Int:1696"
+        },
+        "FloorType:wood": {
+          "Count": "Int:2"
+        },
+        "FloorType:sand": {
+          "Count": "Int:5"
+        },
+        "FloorType:other": {
+          "Count": "Int:2"
+        },
+        "FloorType:not_relevant": {
+          "Count": "Int:1"
+        }
+      },
+      "PD:EC-08E": {
+        "FloorType:cement": {
+          "Count": "Int:15080"
+        },
+        "FloorType:terrazzo_tile_granite_wood_finished": {
+          "Count": "Int:9833"
+        },
+        "FloorType:concrete": {
+          "Count": "Int:2973"
+        },
+        "FloorType:mud": {
+          "Count": "Int:262"
+        },
+        "FloorType:wood": {
+          "Count": "Int:3"
+        },
+        "FloorType:sand": {
+          "Count": "Int:6"
+        },
+        "FloorType:other": {
+          "Count": "Int:12"
+        },
+        "FloorType:not_relevant": {
+          "Count": "Int:2"
+        }
+      },
+      "PD:EC-06B": {
+        "FloorType:cement": {
+          "Count": "Int:21945"
+        },
+        "FloorType:terrazzo_tile_granite_wood_finished": {
+          "Count": "Int:2973"
+        },
+        "FloorType:concrete": {
+          "Count": "Int:1669"
+        },
+        "FloorType:mud": {
+          "Count": "Int:1301"
+        },
+        "FloorType:wood": {
+          "Count": "Int:16"
+        },
+        "FloorType:sand": {
+          "Count": "Int:39"
+        },
+        "FloorType:other": {
+          "Count": "Int:23"
+        },
+        "FloorType:not_relevant": {
+          "Count": "Int:6"
+        }
+      },
+      "PD:EC-01I": {
+        "FloorType:cement": {
+          "Count": "Int:10538"
+        },
+        "FloorType:terrazzo_tile_granite_wood_finished": {
+          "Count": "Int:16596"
+        },
+        "FloorType:concrete": {
+          "Count": "Int:556"
+        },
+        "FloorType:mud": {
+          "Count": "Int:44"
+        },
+        "FloorType:wood": {
           "Count": "Int:88"
         },
-        "FloorType:not_relevant": {
-          "Count": "Int:31"
-        }
-      },
-      "Province:LK-4": {
-        "FloorType:cement": {
-          "Count": "Int:250340"
-        },
-        "FloorType:terrazzo_tile_granite_wood_finished": {
-          "Count": "Int:43976"
-        },
-        "FloorType:concrete": {
-          "Count": "Int:7171"
-        },
-        "FloorType:mud": {
-          "Count": "Int:4107"
-        },
-        "FloorType:wood": {
-          "Count": "Int:114"
-        },
         "FloorType:sand": {
-          "Count": "Int:1039"
+          "Count": "Int:5"
         },
         "FloorType:other": {
-          "Count": "Int:529"
+          "Count": "Int:3"
         },
         "FloorType:not_relevant": {
-          "Count": "Int:183"
+          "Count": "Int:3"
+        }
+      },
+      "PD:EC-22G": {
+        "FloorType:cement": {
+          "Count": "Int:20438"
+        },
+        "FloorType:terrazzo_tile_granite_wood_finished": {
+          "Count": "Int:4702"
+        },
+        "FloorType:concrete": {
+          "Count": "Int:1628"
+        },
+        "FloorType:mud": {
+          "Count": "Int:550"
+        },
+        "FloorType:wood": {
+          "Count": "Int:20"
+        },
+        "FloorType:sand": {
+          "Count": "Int:4"
+        },
+        "FloorType:other": {
+          "Count": "Int:7"
+        },
+        "FloorType:not_relevant": {
+          "Count": "Int:2"
+        }
+      },
+      "PD:EC-07G": {
+        "FloorType:cement": {
+          "Count": "Int:15522"
+        },
+        "FloorType:terrazzo_tile_granite_wood_finished": {
+          "Count": "Int:10226"
+        },
+        "FloorType:concrete": {
+          "Count": "Int:1400"
+        },
+        "FloorType:mud": {
+          "Count": "Int:118"
+        },
+        "FloorType:wood": {
+          "Count": "Int:7"
+        },
+        "FloorType:sand": {
+          "Count": "Int:5"
+        },
+        "FloorType:other": {
+          "Count": "Int:2"
+        },
+        "FloorType:not_relevant": {
+          "Count": "Int:0"
+        }
+      },
+      "PD:EC-17F": {
+        "FloorType:cement": {
+          "Count": "Int:16378"
+        },
+        "FloorType:terrazzo_tile_granite_wood_finished": {
+          "Count": "Int:4497"
+        },
+        "FloorType:concrete": {
+          "Count": "Int:5344"
+        },
+        "FloorType:mud": {
+          "Count": "Int:763"
+        },
+        "FloorType:wood": {
+          "Count": "Int:4"
+        },
+        "FloorType:sand": {
+          "Count": "Int:7"
+        },
+        "FloorType:other": {
+          "Count": "Int:4"
+        },
+        "FloorType:not_relevant": {
+          "Count": "Int:0"
+        }
+      },
+      "PD:EC-15N": {
+        "FloorType:cement": {
+          "Count": "Int:17353"
+        },
+        "FloorType:terrazzo_tile_granite_wood_finished": {
+          "Count": "Int:5559"
+        },
+        "FloorType:concrete": {
+          "Count": "Int:3152"
+        },
+        "FloorType:mud": {
+          "Count": "Int:763"
+        },
+        "FloorType:wood": {
+          "Count": "Int:2"
+        },
+        "FloorType:sand": {
+          "Count": "Int:13"
+        },
+        "FloorType:other": {
+          "Count": "Int:3"
+        },
+        "FloorType:not_relevant": {
+          "Count": "Int:3"
+        }
+      },
+      "PD:EC-22C": {
+        "FloorType:cement": {
+          "Count": "Int:14847"
+        },
+        "FloorType:terrazzo_tile_granite_wood_finished": {
+          "Count": "Int:8769"
+        },
+        "FloorType:concrete": {
+          "Count": "Int:2305"
+        },
+        "FloorType:mud": {
+          "Count": "Int:583"
+        },
+        "FloorType:wood": {
+          "Count": "Int:6"
+        },
+        "FloorType:sand": {
+          "Count": "Int:13"
+        },
+        "FloorType:other": {
+          "Count": "Int:5"
+        },
+        "FloorType:not_relevant": {
+          "Count": "Int:4"
+        }
+      },
+      "PD:EC-07H": {
+        "FloorType:cement": {
+          "Count": "Int:13314"
+        },
+        "FloorType:terrazzo_tile_granite_wood_finished": {
+          "Count": "Int:11973"
+        },
+        "FloorType:concrete": {
+          "Count": "Int:782"
+        },
+        "FloorType:mud": {
+          "Count": "Int:74"
+        },
+        "FloorType:wood": {
+          "Count": "Int:16"
+        },
+        "FloorType:sand": {
+          "Count": "Int:3"
+        },
+        "FloorType:other": {
+          "Count": "Int:5"
+        },
+        "FloorType:not_relevant": {
+          "Count": "Int:6"
+        }
+      },
+      "PD:EC-22I": {
+        "FloorType:cement": {
+          "Count": "Int:19275"
+        },
+        "FloorType:terrazzo_tile_granite_wood_finished": {
+          "Count": "Int:4650"
+        },
+        "FloorType:concrete": {
+          "Count": "Int:1559"
+        },
+        "FloorType:mud": {
+          "Count": "Int:542"
+        },
+        "FloorType:wood": {
+          "Count": "Int:17"
+        },
+        "FloorType:sand": {
+          "Count": "Int:4"
+        },
+        "FloorType:other": {
+          "Count": "Int:4"
+        },
+        "FloorType:not_relevant": {
+          "Count": "Int:3"
+        }
+      },
+      "PD:EC-19E": {
+        "FloorType:cement": {
+          "Count": "Int:18024"
+        },
+        "FloorType:terrazzo_tile_granite_wood_finished": {
+          "Count": "Int:4749"
+        },
+        "FloorType:concrete": {
+          "Count": "Int:1989"
+        },
+        "FloorType:mud": {
+          "Count": "Int:1142"
+        },
+        "FloorType:wood": {
+          "Count": "Int:13"
+        },
+        "FloorType:sand": {
+          "Count": "Int:9"
+        },
+        "FloorType:other": {
+          "Count": "Int:19"
+        },
+        "FloorType:not_relevant": {
+          "Count": "Int:0"
+        }
+      },
+      "PD:EC-06C": {
+        "FloorType:cement": {
+          "Count": "Int:17928"
+        },
+        "FloorType:terrazzo_tile_granite_wood_finished": {
+          "Count": "Int:3671"
+        },
+        "FloorType:concrete": {
+          "Count": "Int:2312"
+        },
+        "FloorType:mud": {
+          "Count": "Int:1988"
+        },
+        "FloorType:wood": {
+          "Count": "Int:15"
+        },
+        "FloorType:sand": {
+          "Count": "Int:8"
+        },
+        "FloorType:other": {
+          "Count": "Int:8"
+        },
+        "FloorType:not_relevant": {
+          "Count": "Int:2"
+        }
+      },
+      "PD:EC-01F": {
+        "FloorType:cement": {
+          "Count": "Int:7388"
+        },
+        "FloorType:terrazzo_tile_granite_wood_finished": {
+          "Count": "Int:17478"
+        },
+        "FloorType:concrete": {
+          "Count": "Int:474"
+        },
+        "FloorType:mud": {
+          "Count": "Int:19"
+        },
+        "FloorType:wood": {
+          "Count": "Int:14"
+        },
+        "FloorType:sand": {
+          "Count": "Int:2"
+        },
+        "FloorType:other": {
+          "Count": "Int:3"
+        },
+        "FloorType:not_relevant": {
+          "Count": "Int:4"
+        }
+      },
+      "PD:EC-04G": {
+        "FloorType:cement": {
+          "Count": "Int:17880"
+        },
+        "FloorType:terrazzo_tile_granite_wood_finished": {
+          "Count": "Int:4376"
+        },
+        "FloorType:concrete": {
+          "Count": "Int:2079"
+        },
+        "FloorType:mud": {
+          "Count": "Int:986"
+        },
+        "FloorType:wood": {
+          "Count": "Int:9"
+        },
+        "FloorType:sand": {
+          "Count": "Int:5"
+        },
+        "FloorType:other": {
+          "Count": "Int:5"
+        },
+        "FloorType:not_relevant": {
+          "Count": "Int:3"
+        }
+      },
+      "PD:EC-01G": {
+        "FloorType:cement": {
+          "Count": "Int:10709"
+        },
+        "FloorType:terrazzo_tile_granite_wood_finished": {
+          "Count": "Int:13950"
+        },
+        "FloorType:concrete": {
+          "Count": "Int:275"
+        },
+        "FloorType:mud": {
+          "Count": "Int:21"
+        },
+        "FloorType:wood": {
+          "Count": "Int:41"
+        },
+        "FloorType:sand": {
+          "Count": "Int:8"
+        },
+        "FloorType:other": {
+          "Count": "Int:1"
+        },
+        "FloorType:not_relevant": {
+          "Count": "Int:0"
+        }
+      },
+      "PD:EC-22D": {
+        "FloorType:cement": {
+          "Count": "Int:15283"
+        },
+        "FloorType:terrazzo_tile_granite_wood_finished": {
+          "Count": "Int:6796"
+        },
+        "FloorType:concrete": {
+          "Count": "Int:1959"
+        },
+        "FloorType:mud": {
+          "Count": "Int:532"
+        },
+        "FloorType:wood": {
+          "Count": "Int:5"
+        },
+        "FloorType:sand": {
+          "Count": "Int:18"
+        },
+        "FloorType:other": {
+          "Count": "Int:8"
+        },
+        "FloorType:not_relevant": {
+          "Count": "Int:0"
+        }
+      },
+      "PD:EC-19I": {
+        "FloorType:cement": {
+          "Count": "Int:17331"
+        },
+        "FloorType:terrazzo_tile_granite_wood_finished": {
+          "Count": "Int:3960"
+        },
+        "FloorType:concrete": {
+          "Count": "Int:1470"
+        },
+        "FloorType:mud": {
+          "Count": "Int:1459"
+        },
+        "FloorType:wood": {
+          "Count": "Int:19"
+        },
+        "FloorType:sand": {
+          "Count": "Int:4"
+        },
+        "FloorType:other": {
+          "Count": "Int:4"
+        },
+        "FloorType:not_relevant": {
+          "Count": "Int:3"
+        }
+      },
+      "PD:EC-22B": {
+        "FloorType:cement": {
+          "Count": "Int:15452"
+        },
+        "FloorType:terrazzo_tile_granite_wood_finished": {
+          "Count": "Int:6180"
+        },
+        "FloorType:concrete": {
+          "Count": "Int:1849"
+        },
+        "FloorType:mud": {
+          "Count": "Int:533"
+        },
+        "FloorType:wood": {
+          "Count": "Int:6"
+        },
+        "FloorType:sand": {
+          "Count": "Int:4"
+        },
+        "FloorType:other": {
+          "Count": "Int:7"
+        },
+        "FloorType:not_relevant": {
+          "Count": "Int:1"
+        }
+      },
+      "PD:EC-01D": {
+        "FloorType:cement": {
+          "Count": "Int:10466"
+        },
+        "FloorType:terrazzo_tile_granite_wood_finished": {
+          "Count": "Int:12034"
+        },
+        "FloorType:concrete": {
+          "Count": "Int:745"
+        },
+        "FloorType:mud": {
+          "Count": "Int:10"
+        },
+        "FloorType:wood": {
+          "Count": "Int:23"
+        },
+        "FloorType:sand": {
+          "Count": "Int:2"
+        },
+        "FloorType:other": {
+          "Count": "Int:1"
+        },
+        "FloorType:not_relevant": {
+          "Count": "Int:2"
+        }
+      },
+      "PD:EC-04D": {
+        "FloorType:cement": {
+          "Count": "Int:16140"
+        },
+        "FloorType:terrazzo_tile_granite_wood_finished": {
+          "Count": "Int:2187"
+        },
+        "FloorType:concrete": {
+          "Count": "Int:2668"
+        },
+        "FloorType:mud": {
+          "Count": "Int:1667"
+        },
+        "FloorType:wood": {
+          "Count": "Int:3"
+        },
+        "FloorType:sand": {
+          "Count": "Int:5"
+        },
+        "FloorType:other": {
+          "Count": "Int:2"
+        },
+        "FloorType:not_relevant": {
+          "Count": "Int:0"
+        }
+      },
+      "PD:EC-19F": {
+        "FloorType:cement": {
+          "Count": "Int:15407"
+        },
+        "FloorType:terrazzo_tile_granite_wood_finished": {
+          "Count": "Int:2769"
+        },
+        "FloorType:concrete": {
+          "Count": "Int:2192"
+        },
+        "FloorType:mud": {
+          "Count": "Int:2218"
+        },
+        "FloorType:wood": {
+          "Count": "Int:8"
+        },
+        "FloorType:sand": {
+          "Count": "Int:7"
+        },
+        "FloorType:other": {
+          "Count": "Int:3"
+        },
+        "FloorType:not_relevant": {
+          "Count": "Int:1"
+        }
+      },
+      "PD:EC-19C": {
+        "FloorType:cement": {
+          "Count": "Int:17030"
+        },
+        "FloorType:terrazzo_tile_granite_wood_finished": {
+          "Count": "Int:2731"
+        },
+        "FloorType:concrete": {
+          "Count": "Int:1303"
+        },
+        "FloorType:mud": {
+          "Count": "Int:1295"
+        },
+        "FloorType:wood": {
+          "Count": "Int:8"
+        },
+        "FloorType:sand": {
+          "Count": "Int:8"
+        },
+        "FloorType:other": {
+          "Count": "Int:7"
+        },
+        "FloorType:not_relevant": {
+          "Count": "Int:3"
+        }
+      },
+      "PD:EC-19D": {
+        "FloorType:cement": {
+          "Count": "Int:13157"
+        },
+        "FloorType:terrazzo_tile_granite_wood_finished": {
+          "Count": "Int:7089"
+        },
+        "FloorType:concrete": {
+          "Count": "Int:883"
+        },
+        "FloorType:mud": {
+          "Count": "Int:384"
+        },
+        "FloorType:wood": {
+          "Count": "Int:3"
+        },
+        "FloorType:sand": {
+          "Count": "Int:7"
+        },
+        "FloorType:other": {
+          "Count": "Int:4"
+        },
+        "FloorType:not_relevant": {
+          "Count": "Int:1"
+        }
+      },
+      "PD:EC-10D": {
+        "FloorType:cement": {
+          "Count": "Int:15420"
+        },
+        "FloorType:terrazzo_tile_granite_wood_finished": {
+          "Count": "Int:4415"
+        },
+        "FloorType:concrete": {
+          "Count": "Int:540"
+        },
+        "FloorType:mud": {
+          "Count": "Int:162"
+        },
+        "FloorType:wood": {
+          "Count": "Int:4"
+        },
+        "FloorType:sand": {
+          "Count": "Int:65"
+        },
+        "FloorType:other": {
+          "Count": "Int:48"
+        },
+        "FloorType:not_relevant": {
+          "Count": "Int:6"
+        }
+      },
+      "PD:EC-19B": {
+        "FloorType:cement": {
+          "Count": "Int:13320"
+        },
+        "FloorType:terrazzo_tile_granite_wood_finished": {
+          "Count": "Int:2614"
+        },
+        "FloorType:concrete": {
+          "Count": "Int:2384"
+        },
+        "FloorType:mud": {
+          "Count": "Int:2234"
+        },
+        "FloorType:wood": {
+          "Count": "Int:7"
+        },
+        "FloorType:sand": {
+          "Count": "Int:21"
+        },
+        "FloorType:other": {
+          "Count": "Int:7"
+        },
+        "FloorType:not_relevant": {
+          "Count": "Int:0"
+        }
+      },
+      "PD:EC-10E": {
+        "FloorType:cement": {
+          "Count": "Int:15697"
+        },
+        "FloorType:terrazzo_tile_granite_wood_finished": {
+          "Count": "Int:3520"
+        },
+        "FloorType:concrete": {
+          "Count": "Int:830"
+        },
+        "FloorType:mud": {
+          "Count": "Int:337"
+        },
+        "FloorType:wood": {
+          "Count": "Int:8"
+        },
+        "FloorType:sand": {
+          "Count": "Int:69"
+        },
+        "FloorType:other": {
+          "Count": "Int:85"
+        },
+        "FloorType:not_relevant": {
+          "Count": "Int:37"
+        }
+      },
+      "PD:EC-22F": {
+        "FloorType:cement": {
+          "Count": "Int:12904"
+        },
+        "FloorType:terrazzo_tile_granite_wood_finished": {
+          "Count": "Int:4241"
+        },
+        "FloorType:concrete": {
+          "Count": "Int:1982"
+        },
+        "FloorType:mud": {
+          "Count": "Int:663"
+        },
+        "FloorType:wood": {
+          "Count": "Int:4"
+        },
+        "FloorType:sand": {
+          "Count": "Int:6"
+        },
+        "FloorType:other": {
+          "Count": "Int:10"
+        },
+        "FloorType:not_relevant": {
+          "Count": "Int:1"
+        }
+      },
+      "PD:EC-04A": {
+        "FloorType:cement": {
+          "Count": "Int:12493"
+        },
+        "FloorType:terrazzo_tile_granite_wood_finished": {
+          "Count": "Int:4819"
+        },
+        "FloorType:concrete": {
+          "Count": "Int:1665"
+        },
+        "FloorType:mud": {
+          "Count": "Int:423"
+        },
+        "FloorType:wood": {
+          "Count": "Int:4"
+        },
+        "FloorType:sand": {
+          "Count": "Int:3"
+        },
+        "FloorType:other": {
+          "Count": "Int:1"
+        },
+        "FloorType:not_relevant": {
+          "Count": "Int:2"
+        }
+      },
+      "PD:EC-10H": {
+        "FloorType:cement": {
+          "Count": "Int:15102"
+        },
+        "FloorType:terrazzo_tile_granite_wood_finished": {
+          "Count": "Int:3110"
+        },
+        "FloorType:concrete": {
+          "Count": "Int:422"
+        },
+        "FloorType:mud": {
+          "Count": "Int:151"
+        },
+        "FloorType:wood": {
+          "Count": "Int:3"
+        },
+        "FloorType:sand": {
+          "Count": "Int:81"
+        },
+        "FloorType:other": {
+          "Count": "Int:25"
+        },
+        "FloorType:not_relevant": {
+          "Count": "Int:3"
+        }
+      },
+      "PD:EC-07A": {
+        "FloorType:cement": {
+          "Count": "Int:9912"
+        },
+        "FloorType:terrazzo_tile_granite_wood_finished": {
+          "Count": "Int:7544"
+        },
+        "FloorType:concrete": {
+          "Count": "Int:1136"
+        },
+        "FloorType:mud": {
+          "Count": "Int:85"
+        },
+        "FloorType:wood": {
+          "Count": "Int:5"
+        },
+        "FloorType:sand": {
+          "Count": "Int:9"
+        },
+        "FloorType:other": {
+          "Count": "Int:1"
+        },
+        "FloorType:not_relevant": {
+          "Count": "Int:0"
+        }
+      },
+      "PD:EC-10I": {
+        "FloorType:cement": {
+          "Count": "Int:11880"
+        },
+        "FloorType:terrazzo_tile_granite_wood_finished": {
+          "Count": "Int:6545"
+        },
+        "FloorType:concrete": {
+          "Count": "Int:112"
+        },
+        "FloorType:mud": {
+          "Count": "Int:41"
+        },
+        "FloorType:wood": {
+          "Count": "Int:2"
+        },
+        "FloorType:sand": {
+          "Count": "Int:17"
+        },
+        "FloorType:other": {
+          "Count": "Int:9"
+        },
+        "FloorType:not_relevant": {
+          "Count": "Int:8"
+        }
+      },
+      "PD:EC-04E": {
+        "FloorType:cement": {
+          "Count": "Int:11915"
+        },
+        "FloorType:terrazzo_tile_granite_wood_finished": {
+          "Count": "Int:3169"
+        },
+        "FloorType:concrete": {
+          "Count": "Int:1798"
+        },
+        "FloorType:mud": {
+          "Count": "Int:1023"
+        },
+        "FloorType:wood": {
+          "Count": "Int:8"
+        },
+        "FloorType:sand": {
+          "Count": "Int:3"
+        },
+        "FloorType:other": {
+          "Count": "Int:1"
+        },
+        "FloorType:not_relevant": {
+          "Count": "Int:0"
+        }
+      },
+      "PD:EC-01C": {
+        "FloorType:cement": {
+          "Count": "Int:10614"
+        },
+        "FloorType:terrazzo_tile_granite_wood_finished": {
+          "Count": "Int:5913"
+        },
+        "FloorType:concrete": {
+          "Count": "Int:1298"
+        },
+        "FloorType:mud": {
+          "Count": "Int:8"
+        },
+        "FloorType:wood": {
+          "Count": "Int:29"
+        },
+        "FloorType:sand": {
+          "Count": "Int:0"
+        },
+        "FloorType:other": {
+          "Count": "Int:0"
+        },
+        "FloorType:not_relevant": {
+          "Count": "Int:4"
+        }
+      },
+      "PD:EC-10B": {
+        "FloorType:cement": {
+          "Count": "Int:13020"
+        },
+        "FloorType:terrazzo_tile_granite_wood_finished": {
+          "Count": "Int:2467"
+        },
+        "FloorType:concrete": {
+          "Count": "Int:648"
+        },
+        "FloorType:mud": {
+          "Count": "Int:406"
+        },
+        "FloorType:wood": {
+          "Count": "Int:0"
+        },
+        "FloorType:sand": {
+          "Count": "Int:73"
+        },
+        "FloorType:other": {
+          "Count": "Int:2"
+        },
+        "FloorType:not_relevant": {
+          "Count": "Int:17"
+        }
+      },
+      "PD:EC-01E": {
+        "FloorType:cement": {
+          "Count": "Int:5592"
+        },
+        "FloorType:terrazzo_tile_granite_wood_finished": {
+          "Count": "Int:9899"
+        },
+        "FloorType:concrete": {
+          "Count": "Int:637"
+        },
+        "FloorType:mud": {
+          "Count": "Int:4"
+        },
+        "FloorType:wood": {
+          "Count": "Int:15"
+        },
+        "FloorType:sand": {
+          "Count": "Int:2"
+        },
+        "FloorType:other": {
+          "Count": "Int:0"
+        },
+        "FloorType:not_relevant": {
+          "Count": "Int:6"
+        }
+      },
+      "PD:EC-10C": {
+        "FloorType:cement": {
+          "Count": "Int:11459"
+        },
+        "FloorType:terrazzo_tile_granite_wood_finished": {
+          "Count": "Int:2642"
+        },
+        "FloorType:concrete": {
+          "Count": "Int:256"
+        },
+        "FloorType:mud": {
+          "Count": "Int:181"
+        },
+        "FloorType:wood": {
+          "Count": "Int:1"
+        },
+        "FloorType:sand": {
+          "Count": "Int:27"
+        },
+        "FloorType:other": {
+          "Count": "Int:6"
+        },
+        "FloorType:not_relevant": {
+          "Count": "Int:13"
+        }
+      },
+      "PD:EC-10G": {
+        "FloorType:cement": {
+          "Count": "Int:11882"
+        },
+        "FloorType:terrazzo_tile_granite_wood_finished": {
+          "Count": "Int:1722"
+        },
+        "FloorType:concrete": {
+          "Count": "Int:175"
+        },
+        "FloorType:mud": {
+          "Count": "Int:79"
+        },
+        "FloorType:wood": {
+          "Count": "Int:2"
+        },
+        "FloorType:sand": {
+          "Count": "Int:73"
+        },
+        "FloorType:other": {
+          "Count": "Int:42"
+        },
+        "FloorType:not_relevant": {
+          "Count": "Int:16"
+        }
+      },
+      "PD:EC-10F": {
+        "FloorType:cement": {
+          "Count": "Int:11325"
+        },
+        "FloorType:terrazzo_tile_granite_wood_finished": {
+          "Count": "Int:1848"
+        },
+        "FloorType:concrete": {
+          "Count": "Int:82"
+        },
+        "FloorType:mud": {
+          "Count": "Int:88"
+        },
+        "FloorType:wood": {
+          "Count": "Int:7"
+        },
+        "FloorType:sand": {
+          "Count": "Int:32"
+        },
+        "FloorType:other": {
+          "Count": "Int:22"
+        },
+        "FloorType:not_relevant": {
+          "Count": "Int:3"
+        }
+      },
+      "PD:EC-04I": {
+        "FloorType:cement": {
+          "Count": "Int:6382"
+        },
+        "FloorType:terrazzo_tile_granite_wood_finished": {
+          "Count": "Int:5295"
+        },
+        "FloorType:concrete": {
+          "Count": "Int:212"
+        },
+        "FloorType:mud": {
+          "Count": "Int:17"
+        },
+        "FloorType:wood": {
+          "Count": "Int:23"
+        },
+        "FloorType:sand": {
+          "Count": "Int:3"
+        },
+        "FloorType:other": {
+          "Count": "Int:0"
+        },
+        "FloorType:not_relevant": {
+          "Count": "Int:0"
+        }
+      },
+      "PD:EC-10J": {
+        "FloorType:cement": {
+          "Count": "Int:7841"
+        },
+        "FloorType:terrazzo_tile_granite_wood_finished": {
+          "Count": "Int:3565"
+        },
+        "FloorType:concrete": {
+          "Count": "Int:41"
+        },
+        "FloorType:mud": {
+          "Count": "Int:46"
+        },
+        "FloorType:wood": {
+          "Count": "Int:2"
+        },
+        "FloorType:sand": {
+          "Count": "Int:17"
+        },
+        "FloorType:other": {
+          "Count": "Int:4"
+        },
+        "FloorType:not_relevant": {
+          "Count": "Int:6"
+        }
+      },
+      "PD:EC-10A": {
+        "FloorType:cement": {
+          "Count": "Int:6509"
+        },
+        "FloorType:terrazzo_tile_granite_wood_finished": {
+          "Count": "Int:907"
+        },
+        "FloorType:concrete": {
+          "Count": "Int:337"
+        },
+        "FloorType:mud": {
+          "Count": "Int:117"
+        },
+        "FloorType:wood": {
+          "Count": "Int:0"
+        },
+        "FloorType:sand": {
+          "Count": "Int:32"
+        },
+        "FloorType:other": {
+          "Count": "Int:3"
+        },
+        "FloorType:not_relevant": {
+          "Count": "Int:0"
         }
       }
     }

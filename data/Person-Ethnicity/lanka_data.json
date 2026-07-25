@@ -1,56 +1,24 @@
 {
   "Person": {
     "Time:2024": {
-      "Province:LK-1": {
+      "PD:EC-06A": {
         "Ethnicity:sinhala": {
-          "Count": "Int:5115543"
+          "Count": "Int:80582"
         },
         "Ethnicity:sri_lanka_tamil": {
-          "Count": "Int:379680"
+          "Count": "Int:31086"
         },
         "Ethnicity:ind_and_malaiyaga_tamil": {
-          "Count": "Int:26271"
+          "Count": "Int:298050"
         },
         "Ethnicity:sri_lanka_moor_or_muslim": {
-          "Count": "Int:542333"
+          "Count": "Int:10365"
         },
         "Ethnicity:burgher": {
-          "Count": "Int:15725"
+          "Count": "Int:1011"
         },
         "Ethnicity:malay": {
-          "Count": "Int:16126"
-        },
-        "Ethnicity:sri_lanka_chetty": {
-          "Count": "Int:1753"
-        },
-        "Ethnicity:bharatha": {
-          "Count": "Int:553"
-        },
-        "Ethnicity:veddahs": {
-          "Count": "Int:0"
-        },
-        "Ethnicity:other": {
-          "Count": "Int:19357"
-        }
-      },
-      "Province:LK-2": {
-        "Ethnicity:sinhala": {
-          "Count": "Int:1783899"
-        },
-        "Ethnicity:sri_lanka_tamil": {
-          "Count": "Int:222924"
-        },
-        "Ethnicity:ind_and_malaiyaga_tamil": {
-          "Count": "Int:406956"
-        },
-        "Ethnicity:sri_lanka_moor_or_muslim": {
-          "Count": "Int:289281"
-        },
-        "Ethnicity:burgher": {
-          "Count": "Int:2395"
-        },
-        "Ethnicity:malay": {
-          "Count": "Int:952"
+          "Count": "Int:157"
         },
         "Ethnicity:sri_lanka_chetty": {
           "Count": "Int:0"
@@ -62,27 +30,59 @@
           "Count": "Int:0"
         },
         "Ethnicity:other": {
-          "Count": "Int:7638"
+          "Count": "Int:517"
         }
       },
-      "Province:LK-3": {
+      "PD:EC-12B": {
         "Ethnicity:sinhala": {
-          "Count": "Int:2470423"
+          "Count": "Int:2782"
         },
         "Ethnicity:sri_lanka_tamil": {
-          "Count": "Int:27994"
+          "Count": "Int:176344"
         },
         "Ethnicity:ind_and_malaiyaga_tamil": {
-          "Count": "Int:10187"
+          "Count": "Int:318"
         },
         "Ethnicity:sri_lanka_moor_or_muslim": {
-          "Count": "Int:88145"
+          "Count": "Int:103074"
         },
         "Ethnicity:burgher": {
-          "Count": "Int:127"
+          "Count": "Int:2373"
         },
         "Ethnicity:malay": {
-          "Count": "Int:3882"
+          "Count": "Int:0"
+        },
+        "Ethnicity:sri_lanka_chetty": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:bharatha": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:veddahs": {
+          "Count": "Int:38"
+        },
+        "Ethnicity:other": {
+          "Count": "Int:896"
+        }
+      },
+      "PD:EC-01L": {
+        "Ethnicity:sinhala": {
+          "Count": "Int:275057"
+        },
+        "Ethnicity:sri_lanka_tamil": {
+          "Count": "Int:3001"
+        },
+        "Ethnicity:ind_and_malaiyaga_tamil": {
+          "Count": "Int:126"
+        },
+        "Ethnicity:sri_lanka_moor_or_muslim": {
+          "Count": "Int:919"
+        },
+        "Ethnicity:burgher": {
+          "Count": "Int:310"
+        },
+        "Ethnicity:malay": {
+          "Count": "Int:368"
         },
         "Ethnicity:sri_lanka_chetty": {
           "Count": "Int:0"
@@ -94,27 +94,59 @@
           "Count": "Int:0"
         },
         "Ethnicity:other": {
-          "Count": "Int:5921"
+          "Count": "Int:990"
         }
       },
-      "Province:LK-6": {
+      "PD:EC-01J": {
         "Ethnicity:sinhala": {
-          "Count": "Int:2193622"
+          "Count": "Int:267158"
         },
         "Ethnicity:sri_lanka_tamil": {
-          "Count": "Int:67272"
+          "Count": "Int:5248"
         },
         "Ethnicity:ind_and_malaiyaga_tamil": {
-          "Count": "Int:1689"
+          "Count": "Int:188"
         },
         "Ethnicity:sri_lanka_moor_or_muslim": {
-          "Count": "Int:314035"
+          "Count": "Int:2572"
         },
         "Ethnicity:burgher": {
-          "Count": "Int:1519"
+          "Count": "Int:1108"
         },
         "Ethnicity:malay": {
-          "Count": "Int:931"
+          "Count": "Int:970"
+        },
+        "Ethnicity:sri_lanka_chetty": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:bharatha": {
+          "Count": "Int:18"
+        },
+        "Ethnicity:veddahs": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:other": {
+          "Count": "Int:656"
+        }
+      },
+      "PD:EC-01N": {
+        "Ethnicity:sinhala": {
+          "Count": "Int:255180"
+        },
+        "Ethnicity:sri_lanka_tamil": {
+          "Count": "Int:3869"
+        },
+        "Ethnicity:ind_and_malaiyaga_tamil": {
+          "Count": "Int:175"
+        },
+        "Ethnicity:sri_lanka_moor_or_muslim": {
+          "Count": "Int:1955"
+        },
+        "Ethnicity:burgher": {
+          "Count": "Int:1198"
+        },
+        "Ethnicity:malay": {
+          "Count": "Int:356"
         },
         "Ethnicity:sri_lanka_chetty": {
           "Count": "Int:0"
@@ -126,27 +158,27 @@
           "Count": "Int:0"
         },
         "Ethnicity:other": {
-          "Count": "Int:7904"
+          "Count": "Int:808"
         }
       },
-      "Province:LK-9": {
+      "PD:EC-16A": {
         "Ethnicity:sinhala": {
-          "Count": "Int:1739900"
+          "Count": "Int:78204"
         },
         "Ethnicity:sri_lanka_tamil": {
-          "Count": "Int:130472"
+          "Count": "Int:31475"
         },
         "Ethnicity:ind_and_malaiyaga_tamil": {
-          "Count": "Int:44395"
+          "Count": "Int:341"
         },
         "Ethnicity:sri_lanka_moor_or_muslim": {
-          "Count": "Int:96930"
+          "Count": "Int:148771"
         },
         "Ethnicity:burgher": {
-          "Count": "Int:260"
+          "Count": "Int:1344"
         },
         "Ethnicity:malay": {
-          "Count": "Int:25"
+          "Count": "Int:372"
         },
         "Ethnicity:sri_lanka_chetty": {
           "Count": "Int:0"
@@ -158,27 +190,27 @@
           "Count": "Int:0"
         },
         "Ethnicity:other": {
-          "Count": "Int:3917"
+          "Count": "Int:737"
         }
       },
-      "Province:LK-5": {
+      "PD:EC-13D": {
         "Ethnicity:sinhala": {
-          "Count": "Int:390538"
+          "Count": "Int:33042"
         },
         "Ethnicity:sri_lanka_tamil": {
-          "Count": "Int:677890"
+          "Count": "Int:74398"
         },
         "Ethnicity:ind_and_malaiyaga_tamil": {
-          "Count": "Int:1221"
+          "Count": "Int:201"
         },
         "Ethnicity:sri_lanka_moor_or_muslim": {
-          "Count": "Int:703155"
+          "Count": "Int:141690"
         },
         "Ethnicity:burgher": {
-          "Count": "Int:4503"
+          "Count": "Int:278"
         },
         "Ethnicity:malay": {
-          "Count": "Int:367"
+          "Count": "Int:0"
         },
         "Ethnicity:sri_lanka_chetty": {
           "Count": "Int:0"
@@ -187,30 +219,222 @@
           "Count": "Int:0"
         },
         "Ethnicity:veddahs": {
-          "Count": "Int:898"
+          "Count": "Int:0"
         },
         "Ethnicity:other": {
-          "Count": "Int:4642"
+          "Count": "Int:724"
         }
       },
-      "Province:LK-7": {
+      "PD:EC-09D": {
         "Ethnicity:sinhala": {
-          "Count": "Int:1272757"
+          "Count": "Int:232546"
         },
         "Ethnicity:sri_lanka_tamil": {
-          "Count": "Int:11147"
+          "Count": "Int:1290"
         },
         "Ethnicity:ind_and_malaiyaga_tamil": {
-          "Count": "Int:173"
+          "Count": "Int:31"
         },
         "Ethnicity:sri_lanka_moor_or_muslim": {
-          "Count": "Int:119657"
+          "Count": "Int:11571"
         },
         "Ethnicity:burgher": {
-          "Count": "Int:57"
+          "Count": "Int:13"
         },
         "Ethnicity:malay": {
-          "Count": "Int:56"
+          "Count": "Int:3871"
+        },
+        "Ethnicity:sri_lanka_chetty": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:bharatha": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:veddahs": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:other": {
+          "Count": "Int:491"
+        }
+      },
+      "PD:EC-13A": {
+        "Ethnicity:sinhala": {
+          "Count": "Int:241287"
+        },
+        "Ethnicity:sri_lanka_tamil": {
+          "Count": "Int:262"
+        },
+        "Ethnicity:ind_and_malaiyaga_tamil": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:sri_lanka_moor_or_muslim": {
+          "Count": "Int:248"
+        },
+        "Ethnicity:burgher": {
+          "Count": "Int:12"
+        },
+        "Ethnicity:malay": {
+          "Count": "Int:100"
+        },
+        "Ethnicity:sri_lanka_chetty": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:bharatha": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:veddahs": {
+          "Count": "Int:830"
+        },
+        "Ethnicity:other": {
+          "Count": "Int:410"
+        }
+      },
+      "PD:EC-02C": {
+        "Ethnicity:sinhala": {
+          "Count": "Int:218375"
+        },
+        "Ethnicity:sri_lanka_tamil": {
+          "Count": "Int:13305"
+        },
+        "Ethnicity:ind_and_malaiyaga_tamil": {
+          "Count": "Int:986"
+        },
+        "Ethnicity:sri_lanka_moor_or_muslim": {
+          "Count": "Int:5201"
+        },
+        "Ethnicity:burgher": {
+          "Count": "Int:281"
+        },
+        "Ethnicity:malay": {
+          "Count": "Int:698"
+        },
+        "Ethnicity:sri_lanka_chetty": {
+          "Count": "Int:1610"
+        },
+        "Ethnicity:bharatha": {
+          "Count": "Int:12"
+        },
+        "Ethnicity:veddahs": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:other": {
+          "Count": "Int:751"
+        }
+      },
+      "PD:EC-20C": {
+        "Ethnicity:sinhala": {
+          "Count": "Int:228951"
+        },
+        "Ethnicity:sri_lanka_tamil": {
+          "Count": "Int:1800"
+        },
+        "Ethnicity:ind_and_malaiyaga_tamil": {
+          "Count": "Int:26"
+        },
+        "Ethnicity:sri_lanka_moor_or_muslim": {
+          "Count": "Int:1517"
+        },
+        "Ethnicity:burgher": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:malay": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:sri_lanka_chetty": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:bharatha": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:veddahs": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:other": {
+          "Count": "Int:364"
+        }
+      },
+      "PD:EC-04B": {
+        "Ethnicity:sinhala": {
+          "Count": "Int:148522"
+        },
+        "Ethnicity:sri_lanka_tamil": {
+          "Count": "Int:6530"
+        },
+        "Ethnicity:ind_and_malaiyaga_tamil": {
+          "Count": "Int:811"
+        },
+        "Ethnicity:sri_lanka_moor_or_muslim": {
+          "Count": "Int:68707"
+        },
+        "Ethnicity:burgher": {
+          "Count": "Int:88"
+        },
+        "Ethnicity:malay": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:sri_lanka_chetty": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:bharatha": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:veddahs": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:other": {
+          "Count": "Int:689"
+        }
+      },
+      "PD:EC-02J": {
+        "Ethnicity:sinhala": {
+          "Count": "Int:209413"
+        },
+        "Ethnicity:sri_lanka_tamil": {
+          "Count": "Int:2447"
+        },
+        "Ethnicity:ind_and_malaiyaga_tamil": {
+          "Count": "Int:177"
+        },
+        "Ethnicity:sri_lanka_moor_or_muslim": {
+          "Count": "Int:6732"
+        },
+        "Ethnicity:burgher": {
+          "Count": "Int:430"
+        },
+        "Ethnicity:malay": {
+          "Count": "Int:3183"
+        },
+        "Ethnicity:sri_lanka_chetty": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:bharatha": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:veddahs": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:other": {
+          "Count": "Int:678"
+        }
+      },
+      "PD:EC-18C": {
+        "Ethnicity:sinhala": {
+          "Count": "Int:186553"
+        },
+        "Ethnicity:sri_lanka_tamil": {
+          "Count": "Int:6822"
+        },
+        "Ethnicity:ind_and_malaiyaga_tamil": {
+          "Count": "Int:13"
+        },
+        "Ethnicity:sri_lanka_moor_or_muslim": {
+          "Count": "Int:22138"
+        },
+        "Ethnicity:burgher": {
+          "Count": "Int:12"
+        },
+        "Ethnicity:malay": {
+          "Count": "Int:0"
         },
         "Ethnicity:sri_lanka_chetty": {
           "Count": "Int:0"
@@ -222,27 +446,1147 @@
           "Count": "Int:221"
         },
         "Ethnicity:other": {
-          "Count": "Int:3542"
+          "Count": "Int:400"
         }
       },
-      "Province:LK-8": {
+      "PD:EC-01H": {
         "Ethnicity:sinhala": {
-          "Count": "Int:1139983"
+          "Count": "Int:127854"
         },
         "Ethnicity:sri_lanka_tamil": {
-          "Count": "Int:95535"
+          "Count": "Int:18285"
         },
         "Ethnicity:ind_and_malaiyaga_tamil": {
-          "Count": "Int:96469"
+          "Count": "Int:543"
         },
         "Ethnicity:sri_lanka_moor_or_muslim": {
-          "Count": "Int:63685"
+          "Count": "Int:64699"
         },
         "Ethnicity:burgher": {
-          "Count": "Int:548"
+          "Count": "Int:787"
         },
         "Ethnicity:malay": {
+          "Count": "Int:1466"
+        },
+        "Ethnicity:sri_lanka_chetty": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:bharatha": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:veddahs": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:other": {
+          "Count": "Int:436"
+        }
+      },
+      "PD:EC-21H": {
+        "Ethnicity:sinhala": {
+          "Count": "Int:205121"
+        },
+        "Ethnicity:sri_lanka_tamil": {
+          "Count": "Int:4447"
+        },
+        "Ethnicity:ind_and_malaiyaga_tamil": {
+          "Count": "Int:272"
+        },
+        "Ethnicity:sri_lanka_moor_or_muslim": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:burgher": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:malay": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:sri_lanka_chetty": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:bharatha": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:veddahs": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:other": {
+          "Count": "Int:236"
+        }
+      },
+      "PD:EC-02L": {
+        "Ethnicity:sinhala": {
+          "Count": "Int:186859"
+        },
+        "Ethnicity:sri_lanka_tamil": {
+          "Count": "Int:3182"
+        },
+        "Ethnicity:ind_and_malaiyaga_tamil": {
+          "Count": "Int:289"
+        },
+        "Ethnicity:sri_lanka_moor_or_muslim": {
+          "Count": "Int:15748"
+        },
+        "Ethnicity:burgher": {
+          "Count": "Int:206"
+        },
+        "Ethnicity:malay": {
+          "Count": "Int:469"
+        },
+        "Ethnicity:sri_lanka_chetty": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:bharatha": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:veddahs": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:other": {
+          "Count": "Int:402"
+        }
+      },
+      "PD:EC-02H": {
+        "Ethnicity:sinhala": {
+          "Count": "Int:203639"
+        },
+        "Ethnicity:sri_lanka_tamil": {
+          "Count": "Int:879"
+        },
+        "Ethnicity:ind_and_malaiyaga_tamil": {
+          "Count": "Int:71"
+        },
+        "Ethnicity:sri_lanka_moor_or_muslim": {
+          "Count": "Int:90"
+        },
+        "Ethnicity:burgher": {
+          "Count": "Int:91"
+        },
+        "Ethnicity:malay": {
+          "Count": "Int:73"
+        },
+        "Ethnicity:sri_lanka_chetty": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:bharatha": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:veddahs": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:other": {
+          "Count": "Int:767"
+        }
+      },
+      "PD:EC-03B": {
+        "Ethnicity:sinhala": {
+          "Count": "Int:187618"
+        },
+        "Ethnicity:sri_lanka_tamil": {
+          "Count": "Int:1713"
+        },
+        "Ethnicity:ind_and_malaiyaga_tamil": {
+          "Count": "Int:224"
+        },
+        "Ethnicity:sri_lanka_moor_or_muslim": {
+          "Count": "Int:14909"
+        },
+        "Ethnicity:burgher": {
+          "Count": "Int:39"
+        },
+        "Ethnicity:malay": {
+          "Count": "Int:37"
+        },
+        "Ethnicity:sri_lanka_chetty": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:bharatha": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:veddahs": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:other": {
+          "Count": "Int:817"
+        }
+      },
+      "PD:EC-02I": {
+        "Ethnicity:sinhala": {
+          "Count": "Int:191159"
+        },
+        "Ethnicity:sri_lanka_tamil": {
+          "Count": "Int:8687"
+        },
+        "Ethnicity:ind_and_malaiyaga_tamil": {
+          "Count": "Int:583"
+        },
+        "Ethnicity:sri_lanka_moor_or_muslim": {
+          "Count": "Int:813"
+        },
+        "Ethnicity:burgher": {
+          "Count": "Int:2110"
+        },
+        "Ethnicity:malay": {
+          "Count": "Int:881"
+        },
+        "Ethnicity:sri_lanka_chetty": {
+          "Count": "Int:23"
+        },
+        "Ethnicity:bharatha": {
+          "Count": "Int:22"
+        },
+        "Ethnicity:veddahs": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:other": {
+          "Count": "Int:528"
+        }
+      },
+      "PD:EC-02F": {
+        "Ethnicity:sinhala": {
+          "Count": "Int:190169"
+        },
+        "Ethnicity:sri_lanka_tamil": {
+          "Count": "Int:873"
+        },
+        "Ethnicity:ind_and_malaiyaga_tamil": {
+          "Count": "Int:67"
+        },
+        "Ethnicity:sri_lanka_moor_or_muslim": {
+          "Count": "Int:6664"
+        },
+        "Ethnicity:burgher": {
+          "Count": "Int:70"
+        },
+        "Ethnicity:malay": {
+          "Count": "Int:75"
+        },
+        "Ethnicity:sri_lanka_chetty": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:bharatha": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:veddahs": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:other": {
+          "Count": "Int:856"
+        }
+      },
+      "PD:EC-02G": {
+        "Ethnicity:sinhala": {
+          "Count": "Int:167492"
+        },
+        "Ethnicity:sri_lanka_tamil": {
+          "Count": "Int:1103"
+        },
+        "Ethnicity:ind_and_malaiyaga_tamil": {
+          "Count": "Int:168"
+        },
+        "Ethnicity:sri_lanka_moor_or_muslim": {
+          "Count": "Int:27478"
+        },
+        "Ethnicity:burgher": {
+          "Count": "Int:58"
+        },
+        "Ethnicity:malay": {
+          "Count": "Int:445"
+        },
+        "Ethnicity:sri_lanka_chetty": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:bharatha": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:veddahs": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:other": {
+          "Count": "Int:981"
+        }
+      },
+      "PD:EC-01M": {
+        "Ethnicity:sinhala": {
+          "Count": "Int:188590"
+        },
+        "Ethnicity:sri_lanka_tamil": {
+          "Count": "Int:3760"
+        },
+        "Ethnicity:ind_and_malaiyaga_tamil": {
+          "Count": "Int:357"
+        },
+        "Ethnicity:sri_lanka_moor_or_muslim": {
+          "Count": "Int:1721"
+        },
+        "Ethnicity:burgher": {
+          "Count": "Int:1075"
+        },
+        "Ethnicity:malay": {
+          "Count": "Int:655"
+        },
+        "Ethnicity:sri_lanka_chetty": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:bharatha": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:veddahs": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:other": {
+          "Count": "Int:342"
+        }
+      },
+      "PD:EC-01K": {
+        "Ethnicity:sinhala": {
+          "Count": "Int:176076"
+        },
+        "Ethnicity:sri_lanka_tamil": {
+          "Count": "Int:12655"
+        },
+        "Ethnicity:ind_and_malaiyaga_tamil": {
+          "Count": "Int:3817"
+        },
+        "Ethnicity:sri_lanka_moor_or_muslim": {
+          "Count": "Int:1840"
+        },
+        "Ethnicity:burgher": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:malay": {
+          "Count": "Int:13"
+        },
+        "Ethnicity:sri_lanka_chetty": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:bharatha": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:veddahs": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:other": {
+          "Count": "Int:741"
+        }
+      },
+      "PD:EC-03C": {
+        "Ethnicity:sinhala": {
+          "Count": "Int:182999"
+        },
+        "Ethnicity:sri_lanka_tamil": {
+          "Count": "Int:7767"
+        },
+        "Ethnicity:ind_and_malaiyaga_tamil": {
+          "Count": "Int:548"
+        },
+        "Ethnicity:sri_lanka_moor_or_muslim": {
+          "Count": "Int:40"
+        },
+        "Ethnicity:burgher": {
+          "Count": "Int:46"
+        },
+        "Ethnicity:malay": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:sri_lanka_chetty": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:bharatha": {
+          "Count": "Int:10"
+        },
+        "Ethnicity:veddahs": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:other": {
+          "Count": "Int:636"
+        }
+      },
+      "PD:EC-05A": {
+        "Ethnicity:sinhala": {
+          "Count": "Int:173482"
+        },
+        "Ethnicity:sri_lanka_tamil": {
+          "Count": "Int:2755"
+        },
+        "Ethnicity:ind_and_malaiyaga_tamil": {
+          "Count": "Int:68"
+        },
+        "Ethnicity:sri_lanka_moor_or_muslim": {
+          "Count": "Int:14624"
+        },
+        "Ethnicity:burgher": {
+          "Count": "Int:24"
+        },
+        "Ethnicity:malay": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:sri_lanka_chetty": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:bharatha": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:veddahs": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:other": {
+          "Count": "Int:554"
+        }
+      },
+      "PD:EC-14C": {
+        "Ethnicity:sinhala": {
+          "Count": "Int:5770"
+        },
+        "Ethnicity:sri_lanka_tamil": {
+          "Count": "Int:30236"
+        },
+        "Ethnicity:ind_and_malaiyaga_tamil": {
+          "Count": "Int:23"
+        },
+        "Ethnicity:sri_lanka_moor_or_muslim": {
+          "Count": "Int:148623"
+        },
+        "Ethnicity:burgher": {
+          "Count": "Int:156"
+        },
+        "Ethnicity:malay": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:sri_lanka_chetty": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:bharatha": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:veddahs": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:other": {
+          "Count": "Int:422"
+        }
+      },
+      "PD:EC-02A": {
+        "Ethnicity:sinhala": {
+          "Count": "Int:124365"
+        },
+        "Ethnicity:sri_lanka_tamil": {
+          "Count": "Int:40981"
+        },
+        "Ethnicity:ind_and_malaiyaga_tamil": {
+          "Count": "Int:1671"
+        },
+        "Ethnicity:sri_lanka_moor_or_muslim": {
+          "Count": "Int:12830"
+        },
+        "Ethnicity:burgher": {
+          "Count": "Int:1400"
+        },
+        "Ethnicity:malay": {
+          "Count": "Int:726"
+        },
+        "Ethnicity:sri_lanka_chetty": {
+          "Count": "Int:33"
+        },
+        "Ethnicity:bharatha": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:veddahs": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:other": {
           "Count": "Int:499"
+        }
+      },
+      "PD:EC-03G": {
+        "Ethnicity:sinhala": {
+          "Count": "Int:109942"
+        },
+        "Ethnicity:sri_lanka_tamil": {
+          "Count": "Int:1782"
+        },
+        "Ethnicity:ind_and_malaiyaga_tamil": {
+          "Count": "Int:195"
+        },
+        "Ethnicity:sri_lanka_moor_or_muslim": {
+          "Count": "Int:68423"
+        },
+        "Ethnicity:burgher": {
+          "Count": "Int:13"
+        },
+        "Ethnicity:malay": {
+          "Count": "Int:16"
+        },
+        "Ethnicity:sri_lanka_chetty": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:bharatha": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:veddahs": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:other": {
+          "Count": "Int:449"
+        }
+      },
+      "PD:EC-12A": {
+        "Ethnicity:sinhala": {
+          "Count": "Int:1633"
+        },
+        "Ethnicity:sri_lanka_tamil": {
+          "Count": "Int:118918"
+        },
+        "Ethnicity:ind_and_malaiyaga_tamil": {
+          "Count": "Int:201"
+        },
+        "Ethnicity:sri_lanka_moor_or_muslim": {
+          "Count": "Int:56796"
+        },
+        "Ethnicity:burgher": {
+          "Count": "Int:257"
+        },
+        "Ethnicity:malay": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:sri_lanka_chetty": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:bharatha": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:veddahs": {
+          "Count": "Int:30"
+        },
+        "Ethnicity:other": {
+          "Count": "Int:488"
+        }
+      },
+      "PD:EC-02E": {
+        "Ethnicity:sinhala": {
+          "Count": "Int:166648"
+        },
+        "Ethnicity:sri_lanka_tamil": {
+          "Count": "Int:730"
+        },
+        "Ethnicity:ind_and_malaiyaga_tamil": {
+          "Count": "Int:12"
+        },
+        "Ethnicity:sri_lanka_moor_or_muslim": {
+          "Count": "Int:8507"
+        },
+        "Ethnicity:burgher": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:malay": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:sri_lanka_chetty": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:bharatha": {
+          "Count": "Int:135"
+        },
+        "Ethnicity:veddahs": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:other": {
+          "Count": "Int:715"
+        }
+      },
+      "PD:EC-17E": {
+        "Ethnicity:sinhala": {
+          "Count": "Int:164909"
+        },
+        "Ethnicity:sri_lanka_tamil": {
+          "Count": "Int:155"
+        },
+        "Ethnicity:ind_and_malaiyaga_tamil": {
+          "Count": "Int:19"
+        },
+        "Ethnicity:sri_lanka_moor_or_muslim": {
+          "Count": "Int:8078"
+        },
+        "Ethnicity:burgher": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:malay": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:sri_lanka_chetty": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:bharatha": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:veddahs": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:other": {
+          "Count": "Int:1061"
+        }
+      },
+      "PD:EC-09C": {
+        "Ethnicity:sinhala": {
+          "Count": "Int:171939"
+        },
+        "Ethnicity:sri_lanka_tamil": {
+          "Count": "Int:182"
+        },
+        "Ethnicity:ind_and_malaiyaga_tamil": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:sri_lanka_moor_or_muslim": {
+          "Count": "Int:807"
+        },
+        "Ethnicity:burgher": {
+          "Count": "Int:10"
+        },
+        "Ethnicity:malay": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:sri_lanka_chetty": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:bharatha": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:veddahs": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:other": {
+          "Count": "Int:302"
+        }
+      },
+      "PD:EC-11B": {
+        "Ethnicity:sinhala": {
+          "Count": "Int:18431"
+        },
+        "Ethnicity:sri_lanka_tamil": {
+          "Count": "Int:135108"
+        },
+        "Ethnicity:ind_and_malaiyaga_tamil": {
+          "Count": "Int:1539"
+        },
+        "Ethnicity:sri_lanka_moor_or_muslim": {
+          "Count": "Int:16566"
+        },
+        "Ethnicity:burgher": {
+          "Count": "Int:11"
+        },
+        "Ethnicity:malay": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:sri_lanka_chetty": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:bharatha": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:veddahs": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:other": {
+          "Count": "Int:657"
+        }
+      },
+      "PD:EC-02K": {
+        "Ethnicity:sinhala": {
+          "Count": "Int:166320"
+        },
+        "Ethnicity:sri_lanka_tamil": {
+          "Count": "Int:447"
+        },
+        "Ethnicity:ind_and_malaiyaga_tamil": {
+          "Count": "Int:13"
+        },
+        "Ethnicity:sri_lanka_moor_or_muslim": {
+          "Count": "Int:2377"
+        },
+        "Ethnicity:burgher": {
+          "Count": "Int:10"
+        },
+        "Ethnicity:malay": {
+          "Count": "Int:23"
+        },
+        "Ethnicity:sri_lanka_chetty": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:bharatha": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:veddahs": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:other": {
+          "Count": "Int:687"
+        }
+      },
+      "PD:EC-21B": {
+        "Ethnicity:sinhala": {
+          "Count": "Int:148510"
+        },
+        "Ethnicity:sri_lanka_tamil": {
+          "Count": "Int:12286"
+        },
+        "Ethnicity:ind_and_malaiyaga_tamil": {
+          "Count": "Int:874"
+        },
+        "Ethnicity:sri_lanka_moor_or_muslim": {
+          "Count": "Int:7748"
+        },
+        "Ethnicity:burgher": {
+          "Count": "Int:72"
+        },
+        "Ethnicity:malay": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:sri_lanka_chetty": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:bharatha": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:veddahs": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:other": {
+          "Count": "Int:289"
+        }
+      },
+      "PD:EC-03F": {
+        "Ethnicity:sinhala": {
+          "Count": "Int:149874"
+        },
+        "Ethnicity:sri_lanka_tamil": {
+          "Count": "Int:1814"
+        },
+        "Ethnicity:ind_and_malaiyaga_tamil": {
+          "Count": "Int:189"
+        },
+        "Ethnicity:sri_lanka_moor_or_muslim": {
+          "Count": "Int:14170"
+        },
+        "Ethnicity:burgher": {
+          "Count": "Int:50"
+        },
+        "Ethnicity:malay": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:sri_lanka_chetty": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:bharatha": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:veddahs": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:other": {
+          "Count": "Int:527"
+        }
+      },
+      "PD:EC-20B": {
+        "Ethnicity:sinhala": {
+          "Count": "Int:151314"
+        },
+        "Ethnicity:sri_lanka_tamil": {
+          "Count": "Int:11464"
+        },
+        "Ethnicity:ind_and_malaiyaga_tamil": {
+          "Count": "Int:1088"
+        },
+        "Ethnicity:sri_lanka_moor_or_muslim": {
+          "Count": "Int:2440"
+        },
+        "Ethnicity:burgher": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:malay": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:sri_lanka_chetty": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:bharatha": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:veddahs": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:other": {
+          "Count": "Int:295"
+        }
+      },
+      "PD:EC-01B": {
+        "Ethnicity:sinhala": {
+          "Count": "Int:32574"
+        },
+        "Ethnicity:sri_lanka_tamil": {
+          "Count": "Int:35133"
+        },
+        "Ethnicity:ind_and_malaiyaga_tamil": {
+          "Count": "Int:1210"
+        },
+        "Ethnicity:sri_lanka_moor_or_muslim": {
+          "Count": "Int:92813"
+        },
+        "Ethnicity:burgher": {
+          "Count": "Int:822"
+        },
+        "Ethnicity:malay": {
+          "Count": "Int:1323"
+        },
+        "Ethnicity:sri_lanka_chetty": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:bharatha": {
+          "Count": "Int:158"
+        },
+        "Ethnicity:veddahs": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:other": {
+          "Count": "Int:709"
+        }
+      },
+      "PD:EC-03A": {
+        "Ethnicity:sinhala": {
+          "Count": "Int:128909"
+        },
+        "Ethnicity:sri_lanka_tamil": {
+          "Count": "Int:1037"
+        },
+        "Ethnicity:ind_and_malaiyaga_tamil": {
+          "Count": "Int:71"
+        },
+        "Ethnicity:sri_lanka_moor_or_muslim": {
+          "Count": "Int:31690"
+        },
+        "Ethnicity:burgher": {
+          "Count": "Int:60"
+        },
+        "Ethnicity:malay": {
+          "Count": "Int:141"
+        },
+        "Ethnicity:sri_lanka_chetty": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:bharatha": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:veddahs": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:other": {
+          "Count": "Int:509"
+        }
+      },
+      "PD:EC-16B": {
+        "Ethnicity:sinhala": {
+          "Count": "Int:147976"
+        },
+        "Ethnicity:sri_lanka_tamil": {
+          "Count": "Int:2794"
+        },
+        "Ethnicity:ind_and_malaiyaga_tamil": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:sri_lanka_moor_or_muslim": {
+          "Count": "Int:8883"
+        },
+        "Ethnicity:burgher": {
+          "Count": "Int:62"
+        },
+        "Ethnicity:malay": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:sri_lanka_chetty": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:bharatha": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:veddahs": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:other": {
+          "Count": "Int:501"
+        }
+      },
+      "PD:EC-01O": {
+        "Ethnicity:sinhala": {
+          "Count": "Int:149858"
+        },
+        "Ethnicity:sri_lanka_tamil": {
+          "Count": "Int:5837"
+        },
+        "Ethnicity:ind_and_malaiyaga_tamil": {
+          "Count": "Int:242"
+        },
+        "Ethnicity:sri_lanka_moor_or_muslim": {
+          "Count": "Int:3375"
+        },
+        "Ethnicity:burgher": {
+          "Count": "Int:360"
+        },
+        "Ethnicity:malay": {
+          "Count": "Int:147"
+        },
+        "Ethnicity:sri_lanka_chetty": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:bharatha": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:veddahs": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:other": {
+          "Count": "Int:380"
+        }
+      },
+      "PD:EC-15C": {
+        "Ethnicity:sinhala": {
+          "Count": "Int:152807"
+        },
+        "Ethnicity:sri_lanka_tamil": {
+          "Count": "Int:318"
+        },
+        "Ethnicity:ind_and_malaiyaga_tamil": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:sri_lanka_moor_or_muslim": {
+          "Count": "Int:3987"
+        },
+        "Ethnicity:burgher": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:malay": {
+          "Count": "Int:62"
+        },
+        "Ethnicity:sri_lanka_chetty": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:bharatha": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:veddahs": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:other": {
+          "Count": "Int:348"
+        }
+      },
+      "PD:EC-17C": {
+        "Ethnicity:sinhala": {
+          "Count": "Int:150801"
+        },
+        "Ethnicity:sri_lanka_tamil": {
+          "Count": "Int:396"
+        },
+        "Ethnicity:ind_and_malaiyaga_tamil": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:sri_lanka_moor_or_muslim": {
+          "Count": "Int:5732"
+        },
+        "Ethnicity:burgher": {
+          "Count": "Int:10"
+        },
+        "Ethnicity:malay": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:sri_lanka_chetty": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:bharatha": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:veddahs": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:other": {
+          "Count": "Int:320"
+        }
+      },
+      "PD:EC-02D": {
+        "Ethnicity:sinhala": {
+          "Count": "Int:155173"
+        },
+        "Ethnicity:sri_lanka_tamil": {
+          "Count": "Int:1005"
+        },
+        "Ethnicity:ind_and_malaiyaga_tamil": {
+          "Count": "Int:61"
+        },
+        "Ethnicity:sri_lanka_moor_or_muslim": {
+          "Count": "Int:41"
+        },
+        "Ethnicity:burgher": {
+          "Count": "Int:52"
+        },
+        "Ethnicity:malay": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:sri_lanka_chetty": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:bharatha": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:veddahs": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:other": {
+          "Count": "Int:625"
+        }
+      },
+      "PD:EC-17D": {
+        "Ethnicity:sinhala": {
+          "Count": "Int:144770"
+        },
+        "Ethnicity:sri_lanka_tamil": {
+          "Count": "Int:1194"
+        },
+        "Ethnicity:ind_and_malaiyaga_tamil": {
+          "Count": "Int:79"
+        },
+        "Ethnicity:sri_lanka_moor_or_muslim": {
+          "Count": "Int:9669"
+        },
+        "Ethnicity:burgher": {
+          "Count": "Int:16"
+        },
+        "Ethnicity:malay": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:sri_lanka_chetty": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:bharatha": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:veddahs": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:other": {
+          "Count": "Int:311"
+        }
+      },
+      "PD:EC-16C": {
+        "Ethnicity:sinhala": {
+          "Count": "Int:138481"
+        },
+        "Ethnicity:sri_lanka_tamil": {
+          "Count": "Int:7977"
+        },
+        "Ethnicity:ind_and_malaiyaga_tamil": {
+          "Count": "Int:171"
+        },
+        "Ethnicity:sri_lanka_moor_or_muslim": {
+          "Count": "Int:8158"
+        },
+        "Ethnicity:burgher": {
+          "Count": "Int:16"
+        },
+        "Ethnicity:malay": {
+          "Count": "Int:52"
+        },
+        "Ethnicity:sri_lanka_chetty": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:bharatha": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:veddahs": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:other": {
+          "Count": "Int:527"
+        }
+      },
+      "PD:EC-03E": {
+        "Ethnicity:sinhala": {
+          "Count": "Int:134967"
+        },
+        "Ethnicity:sri_lanka_tamil": {
+          "Count": "Int:12853"
+        },
+        "Ethnicity:ind_and_malaiyaga_tamil": {
+          "Count": "Int:1545"
+        },
+        "Ethnicity:sri_lanka_moor_or_muslim": {
+          "Count": "Int:3418"
+        },
+        "Ethnicity:burgher": {
+          "Count": "Int:14"
+        },
+        "Ethnicity:malay": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:sri_lanka_chetty": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:bharatha": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:veddahs": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:other": {
+          "Count": "Int:357"
+        }
+      },
+      "PD:EC-21D": {
+        "Ethnicity:sinhala": {
+          "Count": "Int:124152"
+        },
+        "Ethnicity:sri_lanka_tamil": {
+          "Count": "Int:16262"
+        },
+        "Ethnicity:ind_and_malaiyaga_tamil": {
+          "Count": "Int:4615"
+        },
+        "Ethnicity:sri_lanka_moor_or_muslim": {
+          "Count": "Int:7021"
+        },
+        "Ethnicity:burgher": {
+          "Count": "Int:82"
+        },
+        "Ethnicity:malay": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:sri_lanka_chetty": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:bharatha": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:veddahs": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:other": {
+          "Count": "Int:334"
+        }
+      },
+      "PD:EC-19A": {
+        "Ethnicity:sinhala": {
+          "Count": "Int:147123"
+        },
+        "Ethnicity:sri_lanka_tamil": {
+          "Count": "Int:107"
+        },
+        "Ethnicity:ind_and_malaiyaga_tamil": {
+          "Count": "Int:31"
+        },
+        "Ethnicity:sri_lanka_moor_or_muslim": {
+          "Count": "Int:2317"
+        },
+        "Ethnicity:burgher": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:malay": {
+          "Count": "Int:0"
         },
         "Ethnicity:sri_lanka_chetty": {
           "Count": "Int:0"
@@ -254,24 +1598,120 @@
           "Count": "Int:168"
         },
         "Ethnicity:other": {
-          "Count": "Int:3005"
+          "Count": "Int:218"
         }
       },
-      "Province:LK-4": {
+      "PD:EC-04L": {
         "Ethnicity:sinhala": {
-          "Count": "Int:34023"
+          "Count": "Int:88245"
         },
         "Ethnicity:sri_lanka_tamil": {
-          "Count": "Int:1052660"
+          "Count": "Int:19463"
         },
         "Ethnicity:ind_and_malaiyaga_tamil": {
-          "Count": "Int:2726"
+          "Count": "Int:9739"
         },
         "Ethnicity:sri_lanka_moor_or_muslim": {
-          "Count": "Int:57151"
+          "Count": "Int:27321"
         },
         "Ethnicity:burgher": {
-          "Count": "Int:25"
+          "Count": "Int:68"
+        },
+        "Ethnicity:malay": {
+          "Count": "Int:179"
+        },
+        "Ethnicity:sri_lanka_chetty": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:bharatha": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:veddahs": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:other": {
+          "Count": "Int:415"
+        }
+      },
+      "PD:EC-14B": {
+        "Ethnicity:sinhala": {
+          "Count": "Int:24065"
+        },
+        "Ethnicity:sri_lanka_tamil": {
+          "Count": "Int:77904"
+        },
+        "Ethnicity:ind_and_malaiyaga_tamil": {
+          "Count": "Int:415"
+        },
+        "Ethnicity:sri_lanka_moor_or_muslim": {
+          "Count": "Int:40909"
+        },
+        "Ethnicity:burgher": {
+          "Count": "Int:565"
+        },
+        "Ethnicity:malay": {
+          "Count": "Int:267"
+        },
+        "Ethnicity:sri_lanka_chetty": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:bharatha": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:veddahs": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:other": {
+          "Count": "Int:334"
+        }
+      },
+      "PD:EC-04F": {
+        "Ethnicity:sinhala": {
+          "Count": "Int:117091"
+        },
+        "Ethnicity:sri_lanka_tamil": {
+          "Count": "Int:15987"
+        },
+        "Ethnicity:ind_and_malaiyaga_tamil": {
+          "Count": "Int:2055"
+        },
+        "Ethnicity:sri_lanka_moor_or_muslim": {
+          "Count": "Int:8560"
+        },
+        "Ethnicity:burgher": {
+          "Count": "Int:169"
+        },
+        "Ethnicity:malay": {
+          "Count": "Int:60"
+        },
+        "Ethnicity:sri_lanka_chetty": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:bharatha": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:veddahs": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:other": {
+          "Count": "Int:461"
+        }
+      },
+      "PD:EC-07I": {
+        "Ethnicity:sinhala": {
+          "Count": "Int:138042"
+        },
+        "Ethnicity:sri_lanka_tamil": {
+          "Count": "Int:1332"
+        },
+        "Ethnicity:ind_and_malaiyaga_tamil": {
+          "Count": "Int:280"
+        },
+        "Ethnicity:sri_lanka_moor_or_muslim": {
+          "Count": "Int:3869"
+        },
+        "Ethnicity:burgher": {
+          "Count": "Int:0"
         },
         "Ethnicity:malay": {
           "Count": "Int:0"
@@ -286,7 +1726,3399 @@
           "Count": "Int:0"
         },
         "Ethnicity:other": {
-          "Count": "Int:3563"
+          "Count": "Int:503"
+        }
+      },
+      "PD:EC-15I": {
+        "Ethnicity:sinhala": {
+          "Count": "Int:118895"
+        },
+        "Ethnicity:sri_lanka_tamil": {
+          "Count": "Int:1200"
+        },
+        "Ethnicity:ind_and_malaiyaga_tamil": {
+          "Count": "Int:51"
+        },
+        "Ethnicity:sri_lanka_moor_or_muslim": {
+          "Count": "Int:23204"
+        },
+        "Ethnicity:burgher": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:malay": {
+          "Count": "Int:30"
+        },
+        "Ethnicity:sri_lanka_chetty": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:bharatha": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:veddahs": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:other": {
+          "Count": "Int:430"
+        }
+      },
+      "PD:EC-15A": {
+        "Ethnicity:sinhala": {
+          "Count": "Int:134587"
+        },
+        "Ethnicity:sri_lanka_tamil": {
+          "Count": "Int:583"
+        },
+        "Ethnicity:ind_and_malaiyaga_tamil": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:sri_lanka_moor_or_muslim": {
+          "Count": "Int:7871"
+        },
+        "Ethnicity:burgher": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:malay": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:sri_lanka_chetty": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:bharatha": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:veddahs": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:other": {
+          "Count": "Int:490"
+        }
+      },
+      "PD:EC-09A": {
+        "Ethnicity:sinhala": {
+          "Count": "Int:142183"
+        },
+        "Ethnicity:sri_lanka_tamil": {
+          "Count": "Int:12"
+        },
+        "Ethnicity:ind_and_malaiyaga_tamil": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:sri_lanka_moor_or_muslim": {
+          "Count": "Int:971"
+        },
+        "Ethnicity:burgher": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:malay": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:sri_lanka_chetty": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:bharatha": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:veddahs": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:other": {
+          "Count": "Int:162"
+        }
+      },
+      "PD:EC-21E": {
+        "Ethnicity:sinhala": {
+          "Count": "Int:119710"
+        },
+        "Ethnicity:sri_lanka_tamil": {
+          "Count": "Int:13529"
+        },
+        "Ethnicity:ind_and_malaiyaga_tamil": {
+          "Count": "Int:3513"
+        },
+        "Ethnicity:sri_lanka_moor_or_muslim": {
+          "Count": "Int:2894"
+        },
+        "Ethnicity:burgher": {
+          "Count": "Int:55"
+        },
+        "Ethnicity:malay": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:sri_lanka_chetty": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:bharatha": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:veddahs": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:other": {
+          "Count": "Int:252"
+        }
+      },
+      "PD:EC-02B": {
+        "Ethnicity:sinhala": {
+          "Count": "Int:101250"
+        },
+        "Ethnicity:sri_lanka_tamil": {
+          "Count": "Int:11799"
+        },
+        "Ethnicity:ind_and_malaiyaga_tamil": {
+          "Count": "Int:791"
+        },
+        "Ethnicity:sri_lanka_moor_or_muslim": {
+          "Count": "Int:23203"
+        },
+        "Ethnicity:burgher": {
+          "Count": "Int:366"
+        },
+        "Ethnicity:malay": {
+          "Count": "Int:86"
+        },
+        "Ethnicity:sri_lanka_chetty": {
+          "Count": "Int:26"
+        },
+        "Ethnicity:bharatha": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:veddahs": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:other": {
+          "Count": "Int:431"
+        }
+      },
+      "PD:EC-15D": {
+        "Ethnicity:sinhala": {
+          "Count": "Int:125791"
+        },
+        "Ethnicity:sri_lanka_tamil": {
+          "Count": "Int:1048"
+        },
+        "Ethnicity:ind_and_malaiyaga_tamil": {
+          "Count": "Int:12"
+        },
+        "Ethnicity:sri_lanka_moor_or_muslim": {
+          "Count": "Int:10418"
+        },
+        "Ethnicity:burgher": {
+          "Count": "Int:12"
+        },
+        "Ethnicity:malay": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:sri_lanka_chetty": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:bharatha": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:veddahs": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:other": {
+          "Count": "Int:317"
+        }
+      },
+      "PD:EC-13B": {
+        "Ethnicity:sinhala": {
+          "Count": "Int:1602"
+        },
+        "Ethnicity:sri_lanka_tamil": {
+          "Count": "Int:23125"
+        },
+        "Ethnicity:ind_and_malaiyaga_tamil": {
+          "Count": "Int:20"
+        },
+        "Ethnicity:sri_lanka_moor_or_muslim": {
+          "Count": "Int:111566"
+        },
+        "Ethnicity:burgher": {
+          "Count": "Int:216"
+        },
+        "Ethnicity:malay": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:sri_lanka_chetty": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:bharatha": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:veddahs": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:other": {
+          "Count": "Int:313"
+        }
+      },
+      "PD:EC-10K": {
+        "Ethnicity:sinhala": {
+          "Count": "Int:1515"
+        },
+        "Ethnicity:sri_lanka_tamil": {
+          "Count": "Int:133023"
+        },
+        "Ethnicity:ind_and_malaiyaga_tamil": {
+          "Count": "Int:583"
+        },
+        "Ethnicity:sri_lanka_moor_or_muslim": {
+          "Count": "Int:1191"
+        },
+        "Ethnicity:burgher": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:malay": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:sri_lanka_chetty": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:bharatha": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:veddahs": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:other": {
+          "Count": "Int:398"
+        }
+      },
+      "PD:EC-15H": {
+        "Ethnicity:sinhala": {
+          "Count": "Int:124730"
+        },
+        "Ethnicity:sri_lanka_tamil": {
+          "Count": "Int:1402"
+        },
+        "Ethnicity:ind_and_malaiyaga_tamil": {
+          "Count": "Int:22"
+        },
+        "Ethnicity:sri_lanka_moor_or_muslim": {
+          "Count": "Int:9228"
+        },
+        "Ethnicity:burgher": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:malay": {
+          "Count": "Int:13"
+        },
+        "Ethnicity:sri_lanka_chetty": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:bharatha": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:veddahs": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:other": {
+          "Count": "Int:450"
+        }
+      },
+      "PD:EC-04M": {
+        "Ethnicity:sinhala": {
+          "Count": "Int:86235"
+        },
+        "Ethnicity:sri_lanka_tamil": {
+          "Count": "Int:22341"
+        },
+        "Ethnicity:ind_and_malaiyaga_tamil": {
+          "Count": "Int:11163"
+        },
+        "Ethnicity:sri_lanka_moor_or_muslim": {
+          "Count": "Int:14800"
+        },
+        "Ethnicity:burgher": {
+          "Count": "Int:103"
+        },
+        "Ethnicity:malay": {
+          "Count": "Int:131"
+        },
+        "Ethnicity:sri_lanka_chetty": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:bharatha": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:veddahs": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:other": {
+          "Count": "Int:460"
+        }
+      },
+      "PD:EC-02M": {
+        "Ethnicity:sinhala": {
+          "Count": "Int:107650"
+        },
+        "Ethnicity:sri_lanka_tamil": {
+          "Count": "Int:10569"
+        },
+        "Ethnicity:ind_and_malaiyaga_tamil": {
+          "Count": "Int:503"
+        },
+        "Ethnicity:sri_lanka_moor_or_muslim": {
+          "Count": "Int:12226"
+        },
+        "Ethnicity:burgher": {
+          "Count": "Int:533"
+        },
+        "Ethnicity:malay": {
+          "Count": "Int:1817"
+        },
+        "Ethnicity:sri_lanka_chetty": {
+          "Count": "Int:12"
+        },
+        "Ethnicity:bharatha": {
+          "Count": "Int:36"
+        },
+        "Ethnicity:veddahs": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:other": {
+          "Count": "Int:409"
+        }
+      },
+      "PD:EC-15B": {
+        "Ethnicity:sinhala": {
+          "Count": "Int:120597"
+        },
+        "Ethnicity:sri_lanka_tamil": {
+          "Count": "Int:350"
+        },
+        "Ethnicity:ind_and_malaiyaga_tamil": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:sri_lanka_moor_or_muslim": {
+          "Count": "Int:11723"
+        },
+        "Ethnicity:burgher": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:malay": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:sri_lanka_chetty": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:bharatha": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:veddahs": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:other": {
+          "Count": "Int:344"
+        }
+      },
+      "PD:EC-08G": {
+        "Ethnicity:sinhala": {
+          "Count": "Int:114812"
+        },
+        "Ethnicity:sri_lanka_tamil": {
+          "Count": "Int:209"
+        },
+        "Ethnicity:ind_and_malaiyaga_tamil": {
+          "Count": "Int:36"
+        },
+        "Ethnicity:sri_lanka_moor_or_muslim": {
+          "Count": "Int:16702"
+        },
+        "Ethnicity:burgher": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:malay": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:sri_lanka_chetty": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:bharatha": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:veddahs": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:other": {
+          "Count": "Int:337"
+        }
+      },
+      "PD:EC-21A": {
+        "Ethnicity:sinhala": {
+          "Count": "Int:119946"
+        },
+        "Ethnicity:sri_lanka_tamil": {
+          "Count": "Int:4772"
+        },
+        "Ethnicity:ind_and_malaiyaga_tamil": {
+          "Count": "Int:1898"
+        },
+        "Ethnicity:sri_lanka_moor_or_muslim": {
+          "Count": "Int:5087"
+        },
+        "Ethnicity:burgher": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:malay": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:sri_lanka_chetty": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:bharatha": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:veddahs": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:other": {
+          "Count": "Int:320"
+        }
+      },
+      "PD:EC-01A": {
+        "Ethnicity:sinhala": {
+          "Count": "Int:36228"
+        },
+        "Ethnicity:sri_lanka_tamil": {
+          "Count": "Int:62057"
+        },
+        "Ethnicity:ind_and_malaiyaga_tamil": {
+          "Count": "Int:3294"
+        },
+        "Ethnicity:sri_lanka_moor_or_muslim": {
+          "Count": "Int:28204"
+        },
+        "Ethnicity:burgher": {
+          "Count": "Int:571"
+        },
+        "Ethnicity:malay": {
+          "Count": "Int:315"
+        },
+        "Ethnicity:sri_lanka_chetty": {
+          "Count": "Int:13"
+        },
+        "Ethnicity:bharatha": {
+          "Count": "Int:141"
+        },
+        "Ethnicity:veddahs": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:other": {
+          "Count": "Int:173"
+        }
+      },
+      "PD:EC-15L": {
+        "Ethnicity:sinhala": {
+          "Count": "Int:115011"
+        },
+        "Ethnicity:sri_lanka_tamil": {
+          "Count": "Int:3705"
+        },
+        "Ethnicity:ind_and_malaiyaga_tamil": {
+          "Count": "Int:68"
+        },
+        "Ethnicity:sri_lanka_moor_or_muslim": {
+          "Count": "Int:11302"
+        },
+        "Ethnicity:burgher": {
+          "Count": "Int:28"
+        },
+        "Ethnicity:malay": {
+          "Count": "Int:276"
+        },
+        "Ethnicity:sri_lanka_chetty": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:bharatha": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:veddahs": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:other": {
+          "Count": "Int:482"
+        }
+      },
+      "PD:EC-03H": {
+        "Ethnicity:sinhala": {
+          "Count": "Int:123902"
+        },
+        "Ethnicity:sri_lanka_tamil": {
+          "Count": "Int:4656"
+        },
+        "Ethnicity:ind_and_malaiyaga_tamil": {
+          "Count": "Int:1137"
+        },
+        "Ethnicity:sri_lanka_moor_or_muslim": {
+          "Count": "Int:634"
+        },
+        "Ethnicity:burgher": {
+          "Count": "Int:11"
+        },
+        "Ethnicity:malay": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:sri_lanka_chetty": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:bharatha": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:veddahs": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:other": {
+          "Count": "Int:367"
+        }
+      },
+      "PD:EC-15M": {
+        "Ethnicity:sinhala": {
+          "Count": "Int:106629"
+        },
+        "Ethnicity:sri_lanka_tamil": {
+          "Count": "Int:4120"
+        },
+        "Ethnicity:ind_and_malaiyaga_tamil": {
+          "Count": "Int:601"
+        },
+        "Ethnicity:sri_lanka_moor_or_muslim": {
+          "Count": "Int:18494"
+        },
+        "Ethnicity:burgher": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:malay": {
+          "Count": "Int:82"
+        },
+        "Ethnicity:sri_lanka_chetty": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:bharatha": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:veddahs": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:other": {
+          "Count": "Int:432"
+        }
+      },
+      "PD:EC-17A": {
+        "Ethnicity:sinhala": {
+          "Count": "Int:118990"
+        },
+        "Ethnicity:sri_lanka_tamil": {
+          "Count": "Int:189"
+        },
+        "Ethnicity:ind_and_malaiyaga_tamil": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:sri_lanka_moor_or_muslim": {
+          "Count": "Int:10082"
+        },
+        "Ethnicity:burgher": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:malay": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:sri_lanka_chetty": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:bharatha": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:veddahs": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:other": {
+          "Count": "Int:225"
+        }
+      },
+      "PD:EC-20A": {
+        "Ethnicity:sinhala": {
+          "Count": "Int:119101"
+        },
+        "Ethnicity:sri_lanka_tamil": {
+          "Count": "Int:1022"
+        },
+        "Ethnicity:ind_and_malaiyaga_tamil": {
+          "Count": "Int:11"
+        },
+        "Ethnicity:sri_lanka_moor_or_muslim": {
+          "Count": "Int:7964"
+        },
+        "Ethnicity:burgher": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:malay": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:sri_lanka_chetty": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:bharatha": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:veddahs": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:other": {
+          "Count": "Int:228"
+        }
+      },
+      "PD:EC-12C": {
+        "Ethnicity:sinhala": {
+          "Count": "Int:1607"
+        },
+        "Ethnicity:sri_lanka_tamil": {
+          "Count": "Int:126186"
+        },
+        "Ethnicity:ind_and_malaiyaga_tamil": {
+          "Count": "Int:10"
+        },
+        "Ethnicity:sri_lanka_moor_or_muslim": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:burgher": {
+          "Count": "Int:41"
+        },
+        "Ethnicity:malay": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:sri_lanka_chetty": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:bharatha": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:veddahs": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:other": {
+          "Count": "Int:379"
+        }
+      },
+      "PD:EC-07F": {
+        "Ethnicity:sinhala": {
+          "Count": "Int:120444"
+        },
+        "Ethnicity:sri_lanka_tamil": {
+          "Count": "Int:5959"
+        },
+        "Ethnicity:ind_and_malaiyaga_tamil": {
+          "Count": "Int:1234"
+        },
+        "Ethnicity:sri_lanka_moor_or_muslim": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:burgher": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:malay": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:sri_lanka_chetty": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:bharatha": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:veddahs": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:other": {
+          "Count": "Int:259"
+        }
+      },
+      "PD:EC-16E": {
+        "Ethnicity:sinhala": {
+          "Count": "Int:123595"
+        },
+        "Ethnicity:sri_lanka_tamil": {
+          "Count": "Int:3045"
+        },
+        "Ethnicity:ind_and_malaiyaga_tamil": {
+          "Count": "Int:97"
+        },
+        "Ethnicity:sri_lanka_moor_or_muslim": {
+          "Count": "Int:415"
+        },
+        "Ethnicity:burgher": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:malay": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:sri_lanka_chetty": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:bharatha": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:veddahs": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:other": {
+          "Count": "Int:489"
+        }
+      },
+      "PD:EC-08A": {
+        "Ethnicity:sinhala": {
+          "Count": "Int:114253"
+        },
+        "Ethnicity:sri_lanka_tamil": {
+          "Count": "Int:5630"
+        },
+        "Ethnicity:ind_and_malaiyaga_tamil": {
+          "Count": "Int:7338"
+        },
+        "Ethnicity:sri_lanka_moor_or_muslim": {
+          "Count": "Int:37"
+        },
+        "Ethnicity:burgher": {
+          "Count": "Int:32"
+        },
+        "Ethnicity:malay": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:sri_lanka_chetty": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:bharatha": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:veddahs": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:other": {
+          "Count": "Int:234"
+        }
+      },
+      "PD:EC-07E": {
+        "Ethnicity:sinhala": {
+          "Count": "Int:121006"
+        },
+        "Ethnicity:sri_lanka_tamil": {
+          "Count": "Int:5053"
+        },
+        "Ethnicity:ind_and_malaiyaga_tamil": {
+          "Count": "Int:470"
+        },
+        "Ethnicity:sri_lanka_moor_or_muslim": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:burgher": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:malay": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:sri_lanka_chetty": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:bharatha": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:veddahs": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:other": {
+          "Count": "Int:210"
+        }
+      },
+      "PD:EC-22E": {
+        "Ethnicity:sinhala": {
+          "Count": "Int:82919"
+        },
+        "Ethnicity:sri_lanka_tamil": {
+          "Count": "Int:1180"
+        },
+        "Ethnicity:ind_and_malaiyaga_tamil": {
+          "Count": "Int:109"
+        },
+        "Ethnicity:sri_lanka_moor_or_muslim": {
+          "Count": "Int:41553"
+        },
+        "Ethnicity:burgher": {
+          "Count": "Int:12"
+        },
+        "Ethnicity:malay": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:sri_lanka_chetty": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:bharatha": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:veddahs": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:other": {
+          "Count": "Int:253"
+        }
+      },
+      "PD:EC-15J": {
+        "Ethnicity:sinhala": {
+          "Count": "Int:120979"
+        },
+        "Ethnicity:sri_lanka_tamil": {
+          "Count": "Int:348"
+        },
+        "Ethnicity:ind_and_malaiyaga_tamil": {
+          "Count": "Int:48"
+        },
+        "Ethnicity:sri_lanka_moor_or_muslim": {
+          "Count": "Int:3785"
+        },
+        "Ethnicity:burgher": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:malay": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:sri_lanka_chetty": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:bharatha": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:veddahs": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:other": {
+          "Count": "Int:335"
+        }
+      },
+      "PD:EC-08F": {
+        "Ethnicity:sinhala": {
+          "Count": "Int:118659"
+        },
+        "Ethnicity:sri_lanka_tamil": {
+          "Count": "Int:251"
+        },
+        "Ethnicity:ind_and_malaiyaga_tamil": {
+          "Count": "Int:20"
+        },
+        "Ethnicity:sri_lanka_moor_or_muslim": {
+          "Count": "Int:4586"
+        },
+        "Ethnicity:burgher": {
+          "Count": "Int:32"
+        },
+        "Ethnicity:malay": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:sri_lanka_chetty": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:bharatha": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:veddahs": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:other": {
+          "Count": "Int:320"
+        }
+      },
+      "PD:EC-11A": {
+        "Ethnicity:sinhala": {
+          "Count": "Int:501"
+        },
+        "Ethnicity:sri_lanka_tamil": {
+          "Count": "Int:89975"
+        },
+        "Ethnicity:ind_and_malaiyaga_tamil": {
+          "Count": "Int:150"
+        },
+        "Ethnicity:sri_lanka_moor_or_muslim": {
+          "Count": "Int:32681"
+        },
+        "Ethnicity:burgher": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:malay": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:sri_lanka_chetty": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:bharatha": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:veddahs": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:other": {
+          "Count": "Int:449"
+        }
+      },
+      "PD:EC-05D": {
+        "Ethnicity:sinhala": {
+          "Count": "Int:82015"
+        },
+        "Ethnicity:sri_lanka_tamil": {
+          "Count": "Int:17878"
+        },
+        "Ethnicity:ind_and_malaiyaga_tamil": {
+          "Count": "Int:4540"
+        },
+        "Ethnicity:sri_lanka_moor_or_muslim": {
+          "Count": "Int:18321"
+        },
+        "Ethnicity:burgher": {
+          "Count": "Int:104"
+        },
+        "Ethnicity:malay": {
+          "Count": "Int:95"
+        },
+        "Ethnicity:sri_lanka_chetty": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:bharatha": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:veddahs": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:other": {
+          "Count": "Int:367"
+        }
+      },
+      "PD:EC-17B": {
+        "Ethnicity:sinhala": {
+          "Count": "Int:98462"
+        },
+        "Ethnicity:sri_lanka_tamil": {
+          "Count": "Int:250"
+        },
+        "Ethnicity:ind_and_malaiyaga_tamil": {
+          "Count": "Int:10"
+        },
+        "Ethnicity:sri_lanka_moor_or_muslim": {
+          "Count": "Int:23876"
+        },
+        "Ethnicity:burgher": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:malay": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:sri_lanka_chetty": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:bharatha": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:veddahs": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:other": {
+          "Count": "Int:209"
+        }
+      },
+      "PD:EC-08C": {
+        "Ethnicity:sinhala": {
+          "Count": "Int:117543"
+        },
+        "Ethnicity:sri_lanka_tamil": {
+          "Count": "Int:2238"
+        },
+        "Ethnicity:ind_and_malaiyaga_tamil": {
+          "Count": "Int:143"
+        },
+        "Ethnicity:sri_lanka_moor_or_muslim": {
+          "Count": "Int:2399"
+        },
+        "Ethnicity:burgher": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:malay": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:sri_lanka_chetty": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:bharatha": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:veddahs": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:other": {
+          "Count": "Int:254"
+        }
+      },
+      "PD:EC-11C": {
+        "Ethnicity:sinhala": {
+          "Count": "Int:10970"
+        },
+        "Ethnicity:sri_lanka_tamil": {
+          "Count": "Int:107870"
+        },
+        "Ethnicity:ind_and_malaiyaga_tamil": {
+          "Count": "Int:137"
+        },
+        "Ethnicity:sri_lanka_moor_or_muslim": {
+          "Count": "Int:3024"
+        },
+        "Ethnicity:burgher": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:malay": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:sri_lanka_chetty": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:bharatha": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:veddahs": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:other": {
+          "Count": "Int:422"
+        }
+      },
+      "PD:EC-17G": {
+        "Ethnicity:sinhala": {
+          "Count": "Int:106318"
+        },
+        "Ethnicity:sri_lanka_tamil": {
+          "Count": "Int:1575"
+        },
+        "Ethnicity:ind_and_malaiyaga_tamil": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:sri_lanka_moor_or_muslim": {
+          "Count": "Int:13201"
+        },
+        "Ethnicity:burgher": {
+          "Count": "Int:19"
+        },
+        "Ethnicity:malay": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:sri_lanka_chetty": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:bharatha": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:veddahs": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:other": {
+          "Count": "Int:371"
+        }
+      },
+      "PD:EC-15G": {
+        "Ethnicity:sinhala": {
+          "Count": "Int:111311"
+        },
+        "Ethnicity:sri_lanka_tamil": {
+          "Count": "Int:919"
+        },
+        "Ethnicity:ind_and_malaiyaga_tamil": {
+          "Count": "Int:111"
+        },
+        "Ethnicity:sri_lanka_moor_or_muslim": {
+          "Count": "Int:8458"
+        },
+        "Ethnicity:burgher": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:malay": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:sri_lanka_chetty": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:bharatha": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:veddahs": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:other": {
+          "Count": "Int:391"
+        }
+      },
+      "PD:EC-04K": {
+        "Ethnicity:sinhala": {
+          "Count": "Int:86641"
+        },
+        "Ethnicity:sri_lanka_tamil": {
+          "Count": "Int:2121"
+        },
+        "Ethnicity:ind_and_malaiyaga_tamil": {
+          "Count": "Int:599"
+        },
+        "Ethnicity:sri_lanka_moor_or_muslim": {
+          "Count": "Int:31058"
+        },
+        "Ethnicity:burgher": {
+          "Count": "Int:60"
+        },
+        "Ethnicity:malay": {
+          "Count": "Int:27"
+        },
+        "Ethnicity:sri_lanka_chetty": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:bharatha": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:veddahs": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:other": {
+          "Count": "Int:512"
+        }
+      },
+      "PD:EC-08B": {
+        "Ethnicity:sinhala": {
+          "Count": "Int:117776"
+        },
+        "Ethnicity:sri_lanka_tamil": {
+          "Count": "Int:1738"
+        },
+        "Ethnicity:ind_and_malaiyaga_tamil": {
+          "Count": "Int:225"
+        },
+        "Ethnicity:sri_lanka_moor_or_muslim": {
+          "Count": "Int:1006"
+        },
+        "Ethnicity:burgher": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:malay": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:sri_lanka_chetty": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:bharatha": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:veddahs": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:other": {
+          "Count": "Int:208"
+        }
+      },
+      "PD:EC-21F": {
+        "Ethnicity:sinhala": {
+          "Count": "Int:101676"
+        },
+        "Ethnicity:sri_lanka_tamil": {
+          "Count": "Int:12032"
+        },
+        "Ethnicity:ind_and_malaiyaga_tamil": {
+          "Count": "Int:4157"
+        },
+        "Ethnicity:sri_lanka_moor_or_muslim": {
+          "Count": "Int:1957"
+        },
+        "Ethnicity:burgher": {
+          "Count": "Int:10"
+        },
+        "Ethnicity:malay": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:sri_lanka_chetty": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:bharatha": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:veddahs": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:other": {
+          "Count": "Int:198"
+        }
+      },
+      "PD:EC-18A": {
+        "Ethnicity:sinhala": {
+          "Count": "Int:118214"
+        },
+        "Ethnicity:sri_lanka_tamil": {
+          "Count": "Int:181"
+        },
+        "Ethnicity:ind_and_malaiyaga_tamil": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:sri_lanka_moor_or_muslim": {
+          "Count": "Int:550"
+        },
+        "Ethnicity:burgher": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:malay": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:sri_lanka_chetty": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:bharatha": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:veddahs": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:other": {
+          "Count": "Int:271"
+        }
+      },
+      "PD:EC-21C": {
+        "Ethnicity:sinhala": {
+          "Count": "Int:95984"
+        },
+        "Ethnicity:sri_lanka_tamil": {
+          "Count": "Int:17264"
+        },
+        "Ethnicity:ind_and_malaiyaga_tamil": {
+          "Count": "Int:4765"
+        },
+        "Ethnicity:sri_lanka_moor_or_muslim": {
+          "Count": "Int:653"
+        },
+        "Ethnicity:burgher": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:malay": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:sri_lanka_chetty": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:bharatha": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:veddahs": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:other": {
+          "Count": "Int:184"
+        }
+      },
+      "PD:EC-22A": {
+        "Ethnicity:sinhala": {
+          "Count": "Int:106360"
+        },
+        "Ethnicity:sri_lanka_tamil": {
+          "Count": "Int:3576"
+        },
+        "Ethnicity:ind_and_malaiyaga_tamil": {
+          "Count": "Int:79"
+        },
+        "Ethnicity:sri_lanka_moor_or_muslim": {
+          "Count": "Int:7647"
+        },
+        "Ethnicity:burgher": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:malay": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:sri_lanka_chetty": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:bharatha": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:veddahs": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:other": {
+          "Count": "Int:305"
+        }
+      },
+      "PD:EC-04C": {
+        "Ethnicity:sinhala": {
+          "Count": "Int:76284"
+        },
+        "Ethnicity:sri_lanka_tamil": {
+          "Count": "Int:11195"
+        },
+        "Ethnicity:ind_and_malaiyaga_tamil": {
+          "Count": "Int:6286"
+        },
+        "Ethnicity:sri_lanka_moor_or_muslim": {
+          "Count": "Int:23017"
+        },
+        "Ethnicity:burgher": {
+          "Count": "Int:38"
+        },
+        "Ethnicity:malay": {
+          "Count": "Int:64"
+        },
+        "Ethnicity:sri_lanka_chetty": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:bharatha": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:veddahs": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:other": {
+          "Count": "Int:362"
+        }
+      },
+      "PD:EC-07D": {
+        "Ethnicity:sinhala": {
+          "Count": "Int:113325"
+        },
+        "Ethnicity:sri_lanka_tamil": {
+          "Count": "Int:1346"
+        },
+        "Ethnicity:ind_and_malaiyaga_tamil": {
+          "Count": "Int:265"
+        },
+        "Ethnicity:sri_lanka_moor_or_muslim": {
+          "Count": "Int:1026"
+        },
+        "Ethnicity:burgher": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:malay": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:sri_lanka_chetty": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:bharatha": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:veddahs": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:other": {
+          "Count": "Int:359"
+        }
+      },
+      "PD:EC-05C": {
+        "Ethnicity:sinhala": {
+          "Count": "Int:78893"
+        },
+        "Ethnicity:sri_lanka_tamil": {
+          "Count": "Int:16096"
+        },
+        "Ethnicity:ind_and_malaiyaga_tamil": {
+          "Count": "Int:2158"
+        },
+        "Ethnicity:sri_lanka_moor_or_muslim": {
+          "Count": "Int:17726"
+        },
+        "Ethnicity:burgher": {
+          "Count": "Int:79"
+        },
+        "Ethnicity:malay": {
+          "Count": "Int:63"
+        },
+        "Ethnicity:sri_lanka_chetty": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:bharatha": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:veddahs": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:other": {
+          "Count": "Int:419"
+        }
+      },
+      "PD:EC-19H": {
+        "Ethnicity:sinhala": {
+          "Count": "Int:80338"
+        },
+        "Ethnicity:sri_lanka_tamil": {
+          "Count": "Int:12686"
+        },
+        "Ethnicity:ind_and_malaiyaga_tamil": {
+          "Count": "Int:15621"
+        },
+        "Ethnicity:sri_lanka_moor_or_muslim": {
+          "Count": "Int:5805"
+        },
+        "Ethnicity:burgher": {
+          "Count": "Int:77"
+        },
+        "Ethnicity:malay": {
+          "Count": "Int:76"
+        },
+        "Ethnicity:sri_lanka_chetty": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:bharatha": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:veddahs": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:other": {
+          "Count": "Int:324"
+        }
+      },
+      "PD:EC-03D": {
+        "Ethnicity:sinhala": {
+          "Count": "Int:100875"
+        },
+        "Ethnicity:sri_lanka_tamil": {
+          "Count": "Int:8438"
+        },
+        "Ethnicity:ind_and_malaiyaga_tamil": {
+          "Count": "Int:2558"
+        },
+        "Ethnicity:sri_lanka_moor_or_muslim": {
+          "Count": "Int:2472"
+        },
+        "Ethnicity:burgher": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:malay": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:sri_lanka_chetty": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:bharatha": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:veddahs": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:other": {
+          "Count": "Int:316"
+        }
+      },
+      "PD:EC-16D": {
+        "Ethnicity:sinhala": {
+          "Count": "Int:103480"
+        },
+        "Ethnicity:sri_lanka_tamil": {
+          "Count": "Int:2506"
+        },
+        "Ethnicity:ind_and_malaiyaga_tamil": {
+          "Count": "Int:52"
+        },
+        "Ethnicity:sri_lanka_moor_or_muslim": {
+          "Count": "Int:7820"
+        },
+        "Ethnicity:burgher": {
+          "Count": "Int:57"
+        },
+        "Ethnicity:malay": {
+          "Count": "Int:10"
+        },
+        "Ethnicity:sri_lanka_chetty": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:bharatha": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:veddahs": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:other": {
+          "Count": "Int:408"
+        }
+      },
+      "PD:EC-13C": {
+        "Ethnicity:sinhala": {
+          "Count": "Int:145"
+        },
+        "Ethnicity:sri_lanka_tamil": {
+          "Count": "Int:27545"
+        },
+        "Ethnicity:ind_and_malaiyaga_tamil": {
+          "Count": "Int:33"
+        },
+        "Ethnicity:sri_lanka_moor_or_muslim": {
+          "Count": "Int:85633"
+        },
+        "Ethnicity:burgher": {
+          "Count": "Int:486"
+        },
+        "Ethnicity:malay": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:sri_lanka_chetty": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:bharatha": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:veddahs": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:other": {
+          "Count": "Int:385"
+        }
+      },
+      "PD:EC-14A": {
+        "Ethnicity:sinhala": {
+          "Count": "Int:78593"
+        },
+        "Ethnicity:sri_lanka_tamil": {
+          "Count": "Int:19785"
+        },
+        "Ethnicity:ind_and_malaiyaga_tamil": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:sri_lanka_moor_or_muslim": {
+          "Count": "Int:14351"
+        },
+        "Ethnicity:burgher": {
+          "Count": "Int:51"
+        },
+        "Ethnicity:malay": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:sri_lanka_chetty": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:bharatha": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:veddahs": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:other": {
+          "Count": "Int:276"
+        }
+      },
+      "PD:EC-04J": {
+        "Ethnicity:sinhala": {
+          "Count": "Int:101638"
+        },
+        "Ethnicity:sri_lanka_tamil": {
+          "Count": "Int:2352"
+        },
+        "Ethnicity:ind_and_malaiyaga_tamil": {
+          "Count": "Int:234"
+        },
+        "Ethnicity:sri_lanka_moor_or_muslim": {
+          "Count": "Int:7987"
+        },
+        "Ethnicity:burgher": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:malay": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:sri_lanka_chetty": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:bharatha": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:veddahs": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:other": {
+          "Count": "Int:431"
+        }
+      },
+      "PD:EC-18B": {
+        "Ethnicity:sinhala": {
+          "Count": "Int:98008"
+        },
+        "Ethnicity:sri_lanka_tamil": {
+          "Count": "Int:11"
+        },
+        "Ethnicity:ind_and_malaiyaga_tamil": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:sri_lanka_moor_or_muslim": {
+          "Count": "Int:13996"
+        },
+        "Ethnicity:burgher": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:malay": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:sri_lanka_chetty": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:bharatha": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:veddahs": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:other": {
+          "Count": "Int:140"
+        }
+      },
+      "PD:EC-07J": {
+        "Ethnicity:sinhala": {
+          "Count": "Int:111026"
+        },
+        "Ethnicity:sri_lanka_tamil": {
+          "Count": "Int:76"
+        },
+        "Ethnicity:ind_and_malaiyaga_tamil": {
+          "Count": "Int:33"
+        },
+        "Ethnicity:sri_lanka_moor_or_muslim": {
+          "Count": "Int:10"
+        },
+        "Ethnicity:burgher": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:malay": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:sri_lanka_chetty": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:bharatha": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:veddahs": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:other": {
+          "Count": "Int:361"
+        }
+      },
+      "PD:EC-04H": {
+        "Ethnicity:sinhala": {
+          "Count": "Int:85979"
+        },
+        "Ethnicity:sri_lanka_tamil": {
+          "Count": "Int:9644"
+        },
+        "Ethnicity:ind_and_malaiyaga_tamil": {
+          "Count": "Int:1200"
+        },
+        "Ethnicity:sri_lanka_moor_or_muslim": {
+          "Count": "Int:11467"
+        },
+        "Ethnicity:burgher": {
+          "Count": "Int:234"
+        },
+        "Ethnicity:malay": {
+          "Count": "Int:88"
+        },
+        "Ethnicity:sri_lanka_chetty": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:bharatha": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:veddahs": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:other": {
+          "Count": "Int:444"
+        }
+      },
+      "PD:EC-07H": {
+        "Ethnicity:sinhala": {
+          "Count": "Int:68564"
+        },
+        "Ethnicity:sri_lanka_tamil": {
+          "Count": "Int:598"
+        },
+        "Ethnicity:ind_and_malaiyaga_tamil": {
+          "Count": "Int:37"
+        },
+        "Ethnicity:sri_lanka_moor_or_muslim": {
+          "Count": "Int:38746"
+        },
+        "Ethnicity:burgher": {
+          "Count": "Int:14"
+        },
+        "Ethnicity:malay": {
+          "Count": "Int:11"
+        },
+        "Ethnicity:sri_lanka_chetty": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:bharatha": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:veddahs": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:other": {
+          "Count": "Int:351"
+        }
+      },
+      "PD:EC-06D": {
+        "Ethnicity:sinhala": {
+          "Count": "Int:66728"
+        },
+        "Ethnicity:sri_lanka_tamil": {
+          "Count": "Int:6966"
+        },
+        "Ethnicity:ind_and_malaiyaga_tamil": {
+          "Count": "Int:33032"
+        },
+        "Ethnicity:sri_lanka_moor_or_muslim": {
+          "Count": "Int:762"
+        },
+        "Ethnicity:burgher": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:malay": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:sri_lanka_chetty": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:bharatha": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:veddahs": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:other": {
+          "Count": "Int:221"
+        }
+      },
+      "PD:EC-15E": {
+        "Ethnicity:sinhala": {
+          "Count": "Int:103500"
+        },
+        "Ethnicity:sri_lanka_tamil": {
+          "Count": "Int:247"
+        },
+        "Ethnicity:ind_and_malaiyaga_tamil": {
+          "Count": "Int:22"
+        },
+        "Ethnicity:sri_lanka_moor_or_muslim": {
+          "Count": "Int:1863"
+        },
+        "Ethnicity:burgher": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:malay": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:sri_lanka_chetty": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:bharatha": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:veddahs": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:other": {
+          "Count": "Int:298"
+        }
+      },
+      "PD:EC-08E": {
+        "Ethnicity:sinhala": {
+          "Count": "Int:101617"
+        },
+        "Ethnicity:sri_lanka_tamil": {
+          "Count": "Int:95"
+        },
+        "Ethnicity:ind_and_malaiyaga_tamil": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:sri_lanka_moor_or_muslim": {
+          "Count": "Int:3813"
+        },
+        "Ethnicity:burgher": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:malay": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:sri_lanka_chetty": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:bharatha": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:veddahs": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:other": {
+          "Count": "Int:217"
+        }
+      },
+      "PD:EC-19G": {
+        "Ethnicity:sinhala": {
+          "Count": "Int:73138"
+        },
+        "Ethnicity:sri_lanka_tamil": {
+          "Count": "Int:8495"
+        },
+        "Ethnicity:ind_and_malaiyaga_tamil": {
+          "Count": "Int:4026"
+        },
+        "Ethnicity:sri_lanka_moor_or_muslim": {
+          "Count": "Int:19485"
+        },
+        "Ethnicity:burgher": {
+          "Count": "Int:35"
+        },
+        "Ethnicity:malay": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:sri_lanka_chetty": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:bharatha": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:veddahs": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:other": {
+          "Count": "Int:331"
+        }
+      },
+      "PD:EC-08D": {
+        "Ethnicity:sinhala": {
+          "Count": "Int:104135"
+        },
+        "Ethnicity:sri_lanka_tamil": {
+          "Count": "Int:70"
+        },
+        "Ethnicity:ind_and_malaiyaga_tamil": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:sri_lanka_moor_or_muslim": {
+          "Count": "Int:671"
+        },
+        "Ethnicity:burgher": {
+          "Count": "Int:26"
+        },
+        "Ethnicity:malay": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:sri_lanka_chetty": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:bharatha": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:veddahs": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:other": {
+          "Count": "Int:227"
+        }
+      },
+      "PD:EC-09B": {
+        "Ethnicity:sinhala": {
+          "Count": "Int:104606"
+        },
+        "Ethnicity:sri_lanka_tamil": {
+          "Count": "Int:34"
+        },
+        "Ethnicity:ind_and_malaiyaga_tamil": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:sri_lanka_moor_or_muslim": {
+          "Count": "Int:266"
+        },
+        "Ethnicity:burgher": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:malay": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:sri_lanka_chetty": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:bharatha": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:veddahs": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:other": {
+          "Count": "Int:131"
+        }
+      },
+      "PD:EC-15K": {
+        "Ethnicity:sinhala": {
+          "Count": "Int:95312"
+        },
+        "Ethnicity:sri_lanka_tamil": {
+          "Count": "Int:1663"
+        },
+        "Ethnicity:ind_and_malaiyaga_tamil": {
+          "Count": "Int:27"
+        },
+        "Ethnicity:sri_lanka_moor_or_muslim": {
+          "Count": "Int:6609"
+        },
+        "Ethnicity:burgher": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:malay": {
+          "Count": "Int:34"
+        },
+        "Ethnicity:sri_lanka_chetty": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:bharatha": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:veddahs": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:other": {
+          "Count": "Int:410"
+        }
+      },
+      "PD:EC-06B": {
+        "Ethnicity:sinhala": {
+          "Count": "Int:54470"
+        },
+        "Ethnicity:sri_lanka_tamil": {
+          "Count": "Int:17975"
+        },
+        "Ethnicity:ind_and_malaiyaga_tamil": {
+          "Count": "Int:23199"
+        },
+        "Ethnicity:sri_lanka_moor_or_muslim": {
+          "Count": "Int:7785"
+        },
+        "Ethnicity:burgher": {
+          "Count": "Int:53"
+        },
+        "Ethnicity:malay": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:sri_lanka_chetty": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:bharatha": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:veddahs": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:other": {
+          "Count": "Int:215"
+        }
+      },
+      "PD:EC-22H": {
+        "Ethnicity:sinhala": {
+          "Count": "Int:86142"
+        },
+        "Ethnicity:sri_lanka_tamil": {
+          "Count": "Int:6576"
+        },
+        "Ethnicity:ind_and_malaiyaga_tamil": {
+          "Count": "Int:2089"
+        },
+        "Ethnicity:sri_lanka_moor_or_muslim": {
+          "Count": "Int:7990"
+        },
+        "Ethnicity:burgher": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:malay": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:sri_lanka_chetty": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:bharatha": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:veddahs": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:other": {
+          "Count": "Int:363"
+        }
+      },
+      "PD:EC-15F": {
+        "Ethnicity:sinhala": {
+          "Count": "Int:91169"
+        },
+        "Ethnicity:sri_lanka_tamil": {
+          "Count": "Int:659"
+        },
+        "Ethnicity:ind_and_malaiyaga_tamil": {
+          "Count": "Int:55"
+        },
+        "Ethnicity:sri_lanka_moor_or_muslim": {
+          "Count": "Int:10781"
+        },
+        "Ethnicity:burgher": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:malay": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:sri_lanka_chetty": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:bharatha": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:veddahs": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:other": {
+          "Count": "Int:312"
+        }
+      },
+      "PD:EC-21G": {
+        "Ethnicity:sinhala": {
+          "Count": "Int:88416"
+        },
+        "Ethnicity:sri_lanka_tamil": {
+          "Count": "Int:10156"
+        },
+        "Ethnicity:ind_and_malaiyaga_tamil": {
+          "Count": "Int:3472"
+        },
+        "Ethnicity:sri_lanka_moor_or_muslim": {
+          "Count": "Int:60"
+        },
+        "Ethnicity:burgher": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:malay": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:sri_lanka_chetty": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:bharatha": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:veddahs": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:other": {
+          "Count": "Int:142"
+        }
+      },
+      "PD:EC-07G": {
+        "Ethnicity:sinhala": {
+          "Count": "Int:100513"
+        },
+        "Ethnicity:sri_lanka_tamil": {
+          "Count": "Int:204"
+        },
+        "Ethnicity:ind_and_malaiyaga_tamil": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:sri_lanka_moor_or_muslim": {
+          "Count": "Int:20"
+        },
+        "Ethnicity:burgher": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:malay": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:sri_lanka_chetty": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:bharatha": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:veddahs": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:other": {
+          "Count": "Int:343"
+        }
+      },
+      "PD:EC-07B": {
+        "Ethnicity:sinhala": {
+          "Count": "Int:99685"
+        },
+        "Ethnicity:sri_lanka_tamil": {
+          "Count": "Int:107"
+        },
+        "Ethnicity:ind_and_malaiyaga_tamil": {
+          "Count": "Int:34"
+        },
+        "Ethnicity:sri_lanka_moor_or_muslim": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:burgher": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:malay": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:sri_lanka_chetty": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:bharatha": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:veddahs": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:other": {
+          "Count": "Int:289"
+        }
+      },
+      "PD:EC-17F": {
+        "Ethnicity:sinhala": {
+          "Count": "Int:85732"
+        },
+        "Ethnicity:sri_lanka_tamil": {
+          "Count": "Int:374"
+        },
+        "Ethnicity:ind_and_malaiyaga_tamil": {
+          "Count": "Int:52"
+        },
+        "Ethnicity:sri_lanka_moor_or_muslim": {
+          "Count": "Int:12335"
+        },
+        "Ethnicity:burgher": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:malay": {
+          "Count": "Int:56"
+        },
+        "Ethnicity:sri_lanka_chetty": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:bharatha": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:veddahs": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:other": {
+          "Count": "Int:234"
+        }
+      },
+      "PD:EC-22G": {
+        "Ethnicity:sinhala": {
+          "Count": "Int:73390"
+        },
+        "Ethnicity:sri_lanka_tamil": {
+          "Count": "Int:10050"
+        },
+        "Ethnicity:ind_and_malaiyaga_tamil": {
+          "Count": "Int:10381"
+        },
+        "Ethnicity:sri_lanka_moor_or_muslim": {
+          "Count": "Int:3100"
+        },
+        "Ethnicity:burgher": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:malay": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:sri_lanka_chetty": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:bharatha": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:veddahs": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:other": {
+          "Count": "Int:136"
+        }
+      },
+      "PD:EC-05B": {
+        "Ethnicity:sinhala": {
+          "Count": "Int:90386"
+        },
+        "Ethnicity:sri_lanka_tamil": {
+          "Count": "Int:4843"
+        },
+        "Ethnicity:ind_and_malaiyaga_tamil": {
+          "Count": "Int:665"
+        },
+        "Ethnicity:sri_lanka_moor_or_muslim": {
+          "Count": "Int:487"
+        },
+        "Ethnicity:burgher": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:malay": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:sri_lanka_chetty": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:bharatha": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:veddahs": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:other": {
+          "Count": "Int:228"
+        }
+      },
+      "PD:EC-01I": {
+        "Ethnicity:sinhala": {
+          "Count": "Int:81556"
+        },
+        "Ethnicity:sri_lanka_tamil": {
+          "Count": "Int:6689"
+        },
+        "Ethnicity:ind_and_malaiyaga_tamil": {
+          "Count": "Int:454"
+        },
+        "Ethnicity:sri_lanka_moor_or_muslim": {
+          "Count": "Int:6012"
+        },
+        "Ethnicity:burgher": {
+          "Count": "Int:744"
+        },
+        "Ethnicity:malay": {
+          "Count": "Int:319"
+        },
+        "Ethnicity:sri_lanka_chetty": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:bharatha": {
+          "Count": "Int:10"
+        },
+        "Ethnicity:veddahs": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:other": {
+          "Count": "Int:405"
+        }
+      },
+      "PD:EC-15N": {
+        "Ethnicity:sinhala": {
+          "Count": "Int:80568"
+        },
+        "Ethnicity:sri_lanka_tamil": {
+          "Count": "Int:2913"
+        },
+        "Ethnicity:ind_and_malaiyaga_tamil": {
+          "Count": "Int:11"
+        },
+        "Ethnicity:sri_lanka_moor_or_muslim": {
+          "Count": "Int:12265"
+        },
+        "Ethnicity:burgher": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:malay": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:sri_lanka_chetty": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:bharatha": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:veddahs": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:other": {
+          "Count": "Int:203"
+        }
+      },
+      "PD:EC-22C": {
+        "Ethnicity:sinhala": {
+          "Count": "Int:90458"
+        },
+        "Ethnicity:sri_lanka_tamil": {
+          "Count": "Int:2255"
+        },
+        "Ethnicity:ind_and_malaiyaga_tamil": {
+          "Count": "Int:128"
+        },
+        "Ethnicity:sri_lanka_moor_or_muslim": {
+          "Count": "Int:1193"
+        },
+        "Ethnicity:burgher": {
+          "Count": "Int:10"
+        },
+        "Ethnicity:malay": {
+          "Count": "Int:25"
+        },
+        "Ethnicity:sri_lanka_chetty": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:bharatha": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:veddahs": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:other": {
+          "Count": "Int:245"
+        }
+      },
+      "PD:EC-19E": {
+        "Ethnicity:sinhala": {
+          "Count": "Int:60374"
+        },
+        "Ethnicity:sri_lanka_tamil": {
+          "Count": "Int:17744"
+        },
+        "Ethnicity:ind_and_malaiyaga_tamil": {
+          "Count": "Int:11394"
+        },
+        "Ethnicity:sri_lanka_moor_or_muslim": {
+          "Count": "Int:4283"
+        },
+        "Ethnicity:burgher": {
+          "Count": "Int:105"
+        },
+        "Ethnicity:malay": {
+          "Count": "Int:95"
+        },
+        "Ethnicity:sri_lanka_chetty": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:bharatha": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:veddahs": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:other": {
+          "Count": "Int:231"
+        }
+      },
+      "PD:EC-01F": {
+        "Ethnicity:sinhala": {
+          "Count": "Int:47752"
+        },
+        "Ethnicity:sri_lanka_tamil": {
+          "Count": "Int:15859"
+        },
+        "Ethnicity:ind_and_malaiyaga_tamil": {
+          "Count": "Int:1019"
+        },
+        "Ethnicity:sri_lanka_moor_or_muslim": {
+          "Count": "Int:27538"
+        },
+        "Ethnicity:burgher": {
+          "Count": "Int:891"
+        },
+        "Ethnicity:malay": {
+          "Count": "Int:290"
+        },
+        "Ethnicity:sri_lanka_chetty": {
+          "Count": "Int:26"
+        },
+        "Ethnicity:bharatha": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:veddahs": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:other": {
+          "Count": "Int:440"
+        }
+      },
+      "PD:EC-07C": {
+        "Ethnicity:sinhala": {
+          "Count": "Int:90886"
+        },
+        "Ethnicity:sri_lanka_tamil": {
+          "Count": "Int:1520"
+        },
+        "Ethnicity:ind_and_malaiyaga_tamil": {
+          "Count": "Int:41"
+        },
+        "Ethnicity:sri_lanka_moor_or_muslim": {
+          "Count": "Int:577"
+        },
+        "Ethnicity:burgher": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:malay": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:sri_lanka_chetty": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:bharatha": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:veddahs": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:other": {
+          "Count": "Int:194"
+        }
+      },
+      "PD:EC-04G": {
+        "Ethnicity:sinhala": {
+          "Count": "Int:67517"
+        },
+        "Ethnicity:sri_lanka_tamil": {
+          "Count": "Int:12328"
+        },
+        "Ethnicity:ind_and_malaiyaga_tamil": {
+          "Count": "Int:3157"
+        },
+        "Ethnicity:sri_lanka_moor_or_muslim": {
+          "Count": "Int:9207"
+        },
+        "Ethnicity:burgher": {
+          "Count": "Int:32"
+        },
+        "Ethnicity:malay": {
+          "Count": "Int:20"
+        },
+        "Ethnicity:sri_lanka_chetty": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:bharatha": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:veddahs": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:other": {
+          "Count": "Int:282"
+        }
+      },
+      "PD:EC-06C": {
+        "Ethnicity:sinhala": {
+          "Count": "Int:80124"
+        },
+        "Ethnicity:sri_lanka_tamil": {
+          "Count": "Int:3873"
+        },
+        "Ethnicity:ind_and_malaiyaga_tamil": {
+          "Count": "Int:7871"
+        },
+        "Ethnicity:sri_lanka_moor_or_muslim": {
+          "Count": "Int:36"
+        },
+        "Ethnicity:burgher": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:malay": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:sri_lanka_chetty": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:bharatha": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:veddahs": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:other": {
+          "Count": "Int:202"
+        }
+      },
+      "PD:EC-22I": {
+        "Ethnicity:sinhala": {
+          "Count": "Int:73066"
+        },
+        "Ethnicity:sri_lanka_tamil": {
+          "Count": "Int:10902"
+        },
+        "Ethnicity:ind_and_malaiyaga_tamil": {
+          "Count": "Int:7425"
+        },
+        "Ethnicity:sri_lanka_moor_or_muslim": {
+          "Count": "Int:64"
+        },
+        "Ethnicity:burgher": {
+          "Count": "Int:19"
+        },
+        "Ethnicity:malay": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:sri_lanka_chetty": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:bharatha": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:veddahs": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:other": {
+          "Count": "Int:133"
+        }
+      },
+      "PD:EC-01G": {
+        "Ethnicity:sinhala": {
+          "Count": "Int:64024"
+        },
+        "Ethnicity:sri_lanka_tamil": {
+          "Count": "Int:9006"
+        },
+        "Ethnicity:ind_and_malaiyaga_tamil": {
+          "Count": "Int:798"
+        },
+        "Ethnicity:sri_lanka_moor_or_muslim": {
+          "Count": "Int:13283"
+        },
+        "Ethnicity:burgher": {
+          "Count": "Int:523"
+        },
+        "Ethnicity:malay": {
+          "Count": "Int:252"
+        },
+        "Ethnicity:sri_lanka_chetty": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:bharatha": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:veddahs": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:other": {
+          "Count": "Int:177"
+        }
+      },
+      "PD:EC-19I": {
+        "Ethnicity:sinhala": {
+          "Count": "Int:46479"
+        },
+        "Ethnicity:sri_lanka_tamil": {
+          "Count": "Int:14310"
+        },
+        "Ethnicity:ind_and_malaiyaga_tamil": {
+          "Count": "Int:21444"
+        },
+        "Ethnicity:sri_lanka_moor_or_muslim": {
+          "Count": "Int:4523"
+        },
+        "Ethnicity:burgher": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:malay": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:sri_lanka_chetty": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:bharatha": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:veddahs": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:other": {
+          "Count": "Int:302"
+        }
+      },
+      "PD:EC-22D": {
+        "Ethnicity:sinhala": {
+          "Count": "Int:82564"
+        },
+        "Ethnicity:sri_lanka_tamil": {
+          "Count": "Int:846"
+        },
+        "Ethnicity:ind_and_malaiyaga_tamil": {
+          "Count": "Int:14"
+        },
+        "Ethnicity:sri_lanka_moor_or_muslim": {
+          "Count": "Int:3389"
+        },
+        "Ethnicity:burgher": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:malay": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:sri_lanka_chetty": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:bharatha": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:veddahs": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:other": {
+          "Count": "Int:242"
+        }
+      },
+      "PD:EC-01D": {
+        "Ethnicity:sinhala": {
+          "Count": "Int:46815"
+        },
+        "Ethnicity:sri_lanka_tamil": {
+          "Count": "Int:26187"
+        },
+        "Ethnicity:ind_and_malaiyaga_tamil": {
+          "Count": "Int:752"
+        },
+        "Ethnicity:sri_lanka_moor_or_muslim": {
+          "Count": "Int:9631"
+        },
+        "Ethnicity:burgher": {
+          "Count": "Int:607"
+        },
+        "Ethnicity:malay": {
+          "Count": "Int:385"
+        },
+        "Ethnicity:sri_lanka_chetty": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:bharatha": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:veddahs": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:other": {
+          "Count": "Int:300"
+        }
+      },
+      "PD:EC-22B": {
+        "Ethnicity:sinhala": {
+          "Count": "Int:79394"
+        },
+        "Ethnicity:sri_lanka_tamil": {
+          "Count": "Int:3020"
+        },
+        "Ethnicity:ind_and_malaiyaga_tamil": {
+          "Count": "Int:528"
+        },
+        "Ethnicity:sri_lanka_moor_or_muslim": {
+          "Count": "Int:1121"
+        },
+        "Ethnicity:burgher": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:malay": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:sri_lanka_chetty": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:bharatha": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:veddahs": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:other": {
+          "Count": "Int:150"
+        }
+      },
+      "PD:EC-19D": {
+        "Ethnicity:sinhala": {
+          "Count": "Int:57434"
+        },
+        "Ethnicity:sri_lanka_tamil": {
+          "Count": "Int:5653"
+        },
+        "Ethnicity:ind_and_malaiyaga_tamil": {
+          "Count": "Int:10962"
+        },
+        "Ethnicity:sri_lanka_moor_or_muslim": {
+          "Count": "Int:8404"
+        },
+        "Ethnicity:burgher": {
+          "Count": "Int:132"
+        },
+        "Ethnicity:malay": {
+          "Count": "Int:293"
+        },
+        "Ethnicity:sri_lanka_chetty": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:bharatha": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:veddahs": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:other": {
+          "Count": "Int:155"
+        }
+      },
+      "PD:EC-19F": {
+        "Ethnicity:sinhala": {
+          "Count": "Int:69488"
+        },
+        "Ethnicity:sri_lanka_tamil": {
+          "Count": "Int:5796"
+        },
+        "Ethnicity:ind_and_malaiyaga_tamil": {
+          "Count": "Int:4068"
+        },
+        "Ethnicity:sri_lanka_moor_or_muslim": {
+          "Count": "Int:2438"
+        },
+        "Ethnicity:burgher": {
+          "Count": "Int:122"
+        },
+        "Ethnicity:malay": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:sri_lanka_chetty": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:bharatha": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:veddahs": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:other": {
+          "Count": "Int:157"
+        }
+      },
+      "PD:EC-19C": {
+        "Ethnicity:sinhala": {
+          "Count": "Int:40158"
+        },
+        "Ethnicity:sri_lanka_tamil": {
+          "Count": "Int:15381"
+        },
+        "Ethnicity:ind_and_malaiyaga_tamil": {
+          "Count": "Int:21974"
+        },
+        "Ethnicity:sri_lanka_moor_or_muslim": {
+          "Count": "Int:3684"
+        },
+        "Ethnicity:burgher": {
+          "Count": "Int:77"
+        },
+        "Ethnicity:malay": {
+          "Count": "Int:35"
+        },
+        "Ethnicity:sri_lanka_chetty": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:bharatha": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:veddahs": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:other": {
+          "Count": "Int:208"
+        }
+      },
+      "PD:EC-10E": {
+        "Ethnicity:sinhala": {
+          "Count": "Int:10"
+        },
+        "Ethnicity:sri_lanka_tamil": {
+          "Count": "Int:80312"
+        },
+        "Ethnicity:ind_and_malaiyaga_tamil": {
+          "Count": "Int:52"
+        },
+        "Ethnicity:sri_lanka_moor_or_muslim": {
+          "Count": "Int:108"
+        },
+        "Ethnicity:burgher": {
+          "Count": "Int:14"
+        },
+        "Ethnicity:malay": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:sri_lanka_chetty": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:bharatha": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:veddahs": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:other": {
+          "Count": "Int:200"
+        }
+      },
+      "PD:EC-10D": {
+        "Ethnicity:sinhala": {
+          "Count": "Int:11"
+        },
+        "Ethnicity:sri_lanka_tamil": {
+          "Count": "Int:78605"
+        },
+        "Ethnicity:ind_and_malaiyaga_tamil": {
+          "Count": "Int:11"
+        },
+        "Ethnicity:sri_lanka_moor_or_muslim": {
+          "Count": "Int:107"
+        },
+        "Ethnicity:burgher": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:malay": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:sri_lanka_chetty": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:bharatha": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:veddahs": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:other": {
+          "Count": "Int:203"
+        }
+      },
+      "PD:EC-04D": {
+        "Ethnicity:sinhala": {
+          "Count": "Int:76169"
+        },
+        "Ethnicity:sri_lanka_tamil": {
+          "Count": "Int:1013"
+        },
+        "Ethnicity:ind_and_malaiyaga_tamil": {
+          "Count": "Int:722"
+        },
+        "Ethnicity:sri_lanka_moor_or_muslim": {
+          "Count": "Int:315"
+        },
+        "Ethnicity:burgher": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:malay": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:sri_lanka_chetty": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:bharatha": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:veddahs": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:other": {
+          "Count": "Int:169"
+        }
+      },
+      "PD:EC-19B": {
+        "Ethnicity:sinhala": {
+          "Count": "Int:66085"
+        },
+        "Ethnicity:sri_lanka_tamil": {
+          "Count": "Int:1077"
+        },
+        "Ethnicity:ind_and_malaiyaga_tamil": {
+          "Count": "Int:5824"
+        },
+        "Ethnicity:sri_lanka_moor_or_muslim": {
+          "Count": "Int:825"
+        },
+        "Ethnicity:burgher": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:malay": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:sri_lanka_chetty": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:bharatha": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:veddahs": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:other": {
+          "Count": "Int:192"
+        }
+      },
+      "PD:EC-10I": {
+        "Ethnicity:sinhala": {
+          "Count": "Int:1737"
+        },
+        "Ethnicity:sri_lanka_tamil": {
+          "Count": "Int:70328"
+        },
+        "Ethnicity:ind_and_malaiyaga_tamil": {
+          "Count": "Int:105"
+        },
+        "Ethnicity:sri_lanka_moor_or_muslim": {
+          "Count": "Int:472"
+        },
+        "Ethnicity:burgher": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:malay": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:sri_lanka_chetty": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:bharatha": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:veddahs": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:other": {
+          "Count": "Int:242"
+        }
+      },
+      "PD:EC-01C": {
+        "Ethnicity:sinhala": {
+          "Count": "Int:38800"
+        },
+        "Ethnicity:sri_lanka_tamil": {
+          "Count": "Int:14637"
+        },
+        "Ethnicity:ind_and_malaiyaga_tamil": {
+          "Count": "Int:454"
+        },
+        "Ethnicity:sri_lanka_moor_or_muslim": {
+          "Count": "Int:17263"
+        },
+        "Ethnicity:burgher": {
+          "Count": "Int:499"
+        },
+        "Ethnicity:malay": {
+          "Count": "Int:318"
+        },
+        "Ethnicity:sri_lanka_chetty": {
+          "Count": "Int:10"
+        },
+        "Ethnicity:bharatha": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:veddahs": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:other": {
+          "Count": "Int:108"
+        }
+      },
+      "PD:EC-04A": {
+        "Ethnicity:sinhala": {
+          "Count": "Int:64499"
+        },
+        "Ethnicity:sri_lanka_tamil": {
+          "Count": "Int:674"
+        },
+        "Ethnicity:ind_and_malaiyaga_tamil": {
+          "Count": "Int:37"
+        },
+        "Ethnicity:sri_lanka_moor_or_muslim": {
+          "Count": "Int:4416"
+        },
+        "Ethnicity:burgher": {
+          "Count": "Int:10"
+        },
+        "Ethnicity:malay": {
+          "Count": "Int:16"
+        },
+        "Ethnicity:sri_lanka_chetty": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:bharatha": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:veddahs": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:other": {
+          "Count": "Int:265"
+        }
+      },
+      "PD:EC-22F": {
+        "Ethnicity:sinhala": {
+          "Count": "Int:62092"
+        },
+        "Ethnicity:sri_lanka_tamil": {
+          "Count": "Int:1319"
+        },
+        "Ethnicity:ind_and_malaiyaga_tamil": {
+          "Count": "Int:76"
+        },
+        "Ethnicity:sri_lanka_moor_or_muslim": {
+          "Count": "Int:5453"
+        },
+        "Ethnicity:burgher": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:malay": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:sri_lanka_chetty": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:bharatha": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:veddahs": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:other": {
+          "Count": "Int:135"
+        }
+      },
+      "PD:EC-07A": {
+        "Ethnicity:sinhala": {
+          "Count": "Int:66863"
+        },
+        "Ethnicity:sri_lanka_tamil": {
+          "Count": "Int:50"
+        },
+        "Ethnicity:ind_and_malaiyaga_tamil": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:sri_lanka_moor_or_muslim": {
+          "Count": "Int:1068"
+        },
+        "Ethnicity:burgher": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:malay": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:sri_lanka_chetty": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:bharatha": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:veddahs": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:other": {
+          "Count": "Int:169"
+        }
+      },
+      "PD:EC-10H": {
+        "Ethnicity:sinhala": {
+          "Count": "Int:131"
+        },
+        "Ethnicity:sri_lanka_tamil": {
+          "Count": "Int:67328"
+        },
+        "Ethnicity:ind_and_malaiyaga_tamil": {
+          "Count": "Int:65"
+        },
+        "Ethnicity:sri_lanka_moor_or_muslim": {
+          "Count": "Int:79"
+        },
+        "Ethnicity:burgher": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:malay": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:sri_lanka_chetty": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:bharatha": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:veddahs": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:other": {
+          "Count": "Int:179"
+        }
+      },
+      "PD:EC-04E": {
+        "Ethnicity:sinhala": {
+          "Count": "Int:48059"
+        },
+        "Ethnicity:sri_lanka_tamil": {
+          "Count": "Int:10527"
+        },
+        "Ethnicity:ind_and_malaiyaga_tamil": {
+          "Count": "Int:900"
+        },
+        "Ethnicity:sri_lanka_moor_or_muslim": {
+          "Count": "Int:4796"
+        },
+        "Ethnicity:burgher": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:malay": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:sri_lanka_chetty": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:bharatha": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:veddahs": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:other": {
+          "Count": "Int:257"
+        }
+      },
+      "PD:EC-10B": {
+        "Ethnicity:sinhala": {
+          "Count": "Int:10"
+        },
+        "Ethnicity:sri_lanka_tamil": {
+          "Count": "Int:63329"
+        },
+        "Ethnicity:ind_and_malaiyaga_tamil": {
+          "Count": "Int:10"
+        },
+        "Ethnicity:sri_lanka_moor_or_muslim": {
+          "Count": "Int:14"
+        },
+        "Ethnicity:burgher": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:malay": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:sri_lanka_chetty": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:bharatha": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:veddahs": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:other": {
+          "Count": "Int:133"
+        }
+      },
+      "PD:EC-01E": {
+        "Ethnicity:sinhala": {
+          "Count": "Int:20423"
+        },
+        "Ethnicity:sri_lanka_tamil": {
+          "Count": "Int:21390"
+        },
+        "Ethnicity:ind_and_malaiyaga_tamil": {
+          "Count": "Int:983"
+        },
+        "Ethnicity:sri_lanka_moor_or_muslim": {
+          "Count": "Int:12842"
+        },
+        "Ethnicity:burgher": {
+          "Count": "Int:390"
+        },
+        "Ethnicity:malay": {
+          "Count": "Int:279"
+        },
+        "Ethnicity:sri_lanka_chetty": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:bharatha": {
+          "Count": "Int:11"
+        },
+        "Ethnicity:veddahs": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:other": {
+          "Count": "Int:385"
+        }
+      },
+      "PD:EC-10C": {
+        "Ethnicity:sinhala": {
+          "Count": "Int:51"
+        },
+        "Ethnicity:sri_lanka_tamil": {
+          "Count": "Int:54491"
+        },
+        "Ethnicity:ind_and_malaiyaga_tamil": {
+          "Count": "Int:16"
+        },
+        "Ethnicity:sri_lanka_moor_or_muslim": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:burgher": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:malay": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:sri_lanka_chetty": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:bharatha": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:veddahs": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:other": {
+          "Count": "Int:158"
+        }
+      },
+      "PD:EC-10G": {
+        "Ethnicity:sinhala": {
+          "Count": "Int:41"
+        },
+        "Ethnicity:sri_lanka_tamil": {
+          "Count": "Int:49227"
+        },
+        "Ethnicity:ind_and_malaiyaga_tamil": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:sri_lanka_moor_or_muslim": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:burgher": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:malay": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:sri_lanka_chetty": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:bharatha": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:veddahs": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:other": {
+          "Count": "Int:131"
+        }
+      },
+      "PD:EC-10F": {
+        "Ethnicity:sinhala": {
+          "Count": "Int:13"
+        },
+        "Ethnicity:sri_lanka_tamil": {
+          "Count": "Int:48481"
+        },
+        "Ethnicity:ind_and_malaiyaga_tamil": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:sri_lanka_moor_or_muslim": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:burgher": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:malay": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:sri_lanka_chetty": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:bharatha": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:veddahs": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:other": {
+          "Count": "Int:115"
+        }
+      },
+      "PD:EC-10J": {
+        "Ethnicity:sinhala": {
+          "Count": "Int:588"
+        },
+        "Ethnicity:sri_lanka_tamil": {
+          "Count": "Int:45049"
+        },
+        "Ethnicity:ind_and_malaiyaga_tamil": {
+          "Count": "Int:58"
+        },
+        "Ethnicity:sri_lanka_moor_or_muslim": {
+          "Count": "Int:2672"
+        },
+        "Ethnicity:burgher": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:malay": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:sri_lanka_chetty": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:bharatha": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:veddahs": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:other": {
+          "Count": "Int:176"
+        }
+      },
+      "PD:EC-04I": {
+        "Ethnicity:sinhala": {
+          "Count": "Int:30340"
+        },
+        "Ethnicity:sri_lanka_tamil": {
+          "Count": "Int:7277"
+        },
+        "Ethnicity:ind_and_malaiyaga_tamil": {
+          "Count": "Int:470"
+        },
+        "Ethnicity:sri_lanka_moor_or_muslim": {
+          "Count": "Int:7524"
+        },
+        "Ethnicity:burgher": {
+          "Count": "Int:322"
+        },
+        "Ethnicity:malay": {
+          "Count": "Int:52"
+        },
+        "Ethnicity:sri_lanka_chetty": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:bharatha": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:veddahs": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:other": {
+          "Count": "Int:168"
+        }
+      },
+      "PD:EC-10A": {
+        "Ethnicity:sinhala": {
+          "Count": "Int:14"
+        },
+        "Ethnicity:sri_lanka_tamil": {
+          "Count": "Int:29338"
+        },
+        "Ethnicity:ind_and_malaiyaga_tamil": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:sri_lanka_moor_or_muslim": {
+          "Count": "Int:237"
+        },
+        "Ethnicity:burgher": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:malay": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:sri_lanka_chetty": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:bharatha": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:veddahs": {
+          "Count": "Int:0"
+        },
+        "Ethnicity:other": {
+          "Count": "Int:100"
         }
       }
     }

@@ -1,7 +1,7 @@
 # House-ToiletFacilities
 
 ![CPH](https://img.shields.io/badge/CPH-2024-blue)
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--07--20-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--07--25-green)
 
 *House-ToiletFacilities, 2024 Census of Population and Housing, Department of Census and Statistics, Sri Lanka*
 
@@ -11,37 +11,37 @@
 {
     "House": {
         "Time:2024": {
-            "Province:LK-1": {
+            "PD:EC-06A": {
                 "ToiletFacilities:within_unit_exclusive": {
-                    "Count": "Int:1402581"
+                    "Count": "Int:65404"
                 },
                 "ToiletFacilities:within_unit_shared": {
-                    "Count": "Int:39527"
+                    "Count": "Int:6626"
                 },
                 "ToiletFacilities:within_premises_exclusive": {
-                    "Count": "Int:206499"
+                    "Count": "Int:32237"
                 },
                 "ToiletFacilities:within_premises_shared": {
-                    "Count": "Int:37544"
+                    "Count": "Int:5530"
                 },
                 "ToiletFacilities:no_toilet_sharing": {
-                    "Count": "Int:11147"
+                    "Count": "Int:2735"
                 },
                 "ToiletFacilities:common_public": {
-                    "Count": "Int:5440"
+                    "Count": "Int:413"
                 },
                 "ToiletFacilities:none": {
-                    "Count": "Int:682"
+                    "Count": "Int:665"
                 }
             },
-            "Province:LK-2": {
+            "PD:EC-12B": {
                 "ToiletFacilities:within_unit_exclusive": {
-                    "Count": "Int:458565"
+                    "Count": "Int:50913"
                 },
 ...
 ```
 
-- Source File: [lanka_data.json (5.9 KB)](../../data/House-ToiletFacilities/lanka_data.json)
+- Source File: [lanka_data.json (101.3 KB)](../../data/House-ToiletFacilities/lanka_data.json)
 
 ## Structured Data (similar to original layout)
 
