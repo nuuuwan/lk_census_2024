@@ -1,6 +1,3 @@
-
-
-
 class ReadMeDataTableMixin:
 
     def get_lines_for_data_table(self, data_table) -> list[str]:

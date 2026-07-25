@@ -13,7 +13,7 @@ def get_years_in_keys(values):
     years = set()
     for key in keys:
         for i in range(len(key) - 3):
-            part = key[i : i + 4]
+            part = key[i: i + 4]
             if part.isdigit():
                 years.add(int(part))
     return sorted(years)

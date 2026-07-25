@@ -1,13 +1,12 @@
-from lk_census import FinalReport, ReadMe, XLSXDataTable
+from lk_census import FinalReport, LankaDataMetadata, ReadMe, XLSXDataTable
 
 
-def not_running():
+def main():
     FinalReport.build()
     XLSXDataTable.build_all()
+    LankaDataMetadata.build()
     ReadMe().build()
 
 
 if __name__ == "__main__":
-    FinalReport.build()
-    # XLSXDataTable.build_all()
-    ReadMe().build()
+    main()

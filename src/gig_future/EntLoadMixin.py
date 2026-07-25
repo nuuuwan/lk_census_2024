@@ -1,7 +1,7 @@
 from rapidfuzz import fuzz
+from utils_future import String
 
 from gig_future.EntType import EntType
-from utils_future import String
 
 
 class EntLoadMixin:

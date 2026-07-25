@@ -1,7 +1,6 @@
-import os
 from functools import cached_property
 
-from utils_future import JSONFile, Log
+from utils_future import Log
 
 log = Log("FinalReportLankaMetaDataMixin")
 

@@ -45,7 +45,9 @@ class ReadMeFinalReportMixin:
         return lines
 
     def get_lines_for_final_report_table(self, final_report_table):
-        emoji = FinalReportTable.STATUS_EMOJIS[final_report_table.build_status]
+        emoji = FinalReportTable.STATUS_EMOJIS[
+            final_report_table.build_status
+        ]
         return [
             f"- {emoji} Table {final_report_table.table_num}"
             + f" - [{final_report_table.table_name}]"

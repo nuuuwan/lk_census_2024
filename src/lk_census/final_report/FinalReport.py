@@ -1,8 +1,7 @@
 from utils_future import Log
 
-from lk_census.final_report.FinalReportMetadataMixin import (
-    FinalReportMetadataMixin,
-)
+from lk_census.final_report.FinalReportMetadataMixin import \
+    FinalReportMetadataMixin
 from lk_census.final_report.table import FinalReportTable
 
 log = Log("FinalReport")

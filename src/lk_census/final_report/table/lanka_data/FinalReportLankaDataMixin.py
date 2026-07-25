@@ -3,9 +3,8 @@ import os
 from ds import StandardTableAdapter
 from utils_future import JSONFile, Log
 
-from lk_census.final_report.table.lanka_data.FinalReportLankaMetaDataMixin import (
-    FinalReportLankaMetaDataMixin,
-)
+from lk_census.final_report.table.lanka_data.FinalReportLankaMetaDataMixin import \
+    FinalReportLankaMetaDataMixin
 
 log = Log("FinalReportLankaDataMixin")
 
