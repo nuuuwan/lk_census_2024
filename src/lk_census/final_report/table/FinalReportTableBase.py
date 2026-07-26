@@ -27,10 +27,6 @@ class FinalReportTableBase:
 
     @property
     def table_id(self):
-        return f"{self.table_num}-{self.table_name.replace(' ', '-')}"
-
-    @property
-    def table_id2(self):
         return f"{self.table_num}-{self.table_name_cleaned}"
 
     def __str__(self):

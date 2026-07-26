@@ -16,17 +16,6 @@ class FinalReportTableLoadMixin:
         os.makedirs(dir_data, exist_ok=True)
         return dir_data
 
-    @property
-    def dir_data2(self):
-        dir_data2 = os.path.join(
-            "data",
-            "final-report-tables",
-            f"chapter-{self.chapter_num}",
-            self.table_id2,
-        )
-        os.makedirs(dir_data2, exist_ok=True)
-        return dir_data2
-
     @classmethod
     def from_dict(cls, d):
         return cls(
