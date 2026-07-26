@@ -48,10 +48,13 @@ class LankaDataMetadata:
                     idx[query_str].append(lanka_data_file.path)
 
         for query_str, files in idx.items():
-            if len(files) > 1:
-                log.warning(
-                    f"Query '{query_str}' is present in multiple files: {files}"
-                )
+            n_files = len(files)
+            if n_files > 1:
+                log.warning(f"Query '{query_str}' is in {n_files} files")
+                for i, file in enumerate(files, start=1):
+                    log.warning(f"  {i}/{n_files}. {file}")
+                log.warning("")
+
         return idx
 
     @classmethod

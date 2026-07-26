@@ -1,4 +1,3 @@
-
 from utils_future import Log
 
 from lk_census.common.CommonTableReadMeMixin import CommonTableReadMeMixin
