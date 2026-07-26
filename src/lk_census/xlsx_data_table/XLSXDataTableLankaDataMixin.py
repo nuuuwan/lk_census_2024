@@ -1,7 +1,7 @@
 import os
 from functools import cached_property
 
-from ds import RegionFactory, StandardTableAdapter
+from ds import Datumset, RegionFactory, StandardTableAdapter
 from utils_future import JSONFile, Log
 
 log = Log("XLSXDataTableLankaDataMixin")
@@ -24,7 +24,7 @@ class XLSXDataTableLankaDataMixin:
         if self.lanka_data_file.exists() and not force:
             return
 
-        all_data = {}
+        all_datumset = Datumset.empty()
         for RegionChild in [
             RegionFactory["Country"],
             RegionFactory["Province"],
@@ -34,7 +34,7 @@ class XLSXDataTableLankaDataMixin:
             RegionFactory["ED"],
             RegionFactory["PD"],
         ]:
-            datumset = StandardTableAdapter.build_datumset(
+            all_datumset += StandardTableAdapter.build_datumset(
                 d_list=self.data_list,
                 entity_class_name=self.entity_class_name,
                 time_value="2024",
@@ -44,9 +44,8 @@ class XLSXDataTableLankaDataMixin:
                 cell_label="Count",
                 cell_class_name="Int",
             )
-            all_data |= datumset.to_data()
 
-        self.lanka_data_file.write(all_data)
+        self.lanka_data_file.write(all_datumset.to_data())
         log.info(f"Wrote {self.lanka_data_file}")
 
     @property
