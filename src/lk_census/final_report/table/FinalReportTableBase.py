@@ -1,3 +1,4 @@
+import re
 from dataclasses import dataclass
 
 from lk_census.final_report.FinalReportConstants import FinalReportConstants
@@ -17,8 +18,20 @@ class FinalReportTableBase:
         return int(self.table_num.split(".")[0])
 
     @property
+    def table_name_cleaned(self):
+        x = self.table_name
+        for c in [".", " ", "_", ","]:
+            x = x.replace(c, "-")
+        x = re.sub(r"-+", "-", x)
+        return x
+
+    @property
     def table_id(self):
         return f"{self.table_num}-{self.table_name.replace(' ', '-')}"
+
+    @property
+    def table_id2(self):
+        return f"{self.table_num}-{self.table_name_cleaned}"
 
     def __str__(self):
         return f"FinalReportTable({self.table_id})"
