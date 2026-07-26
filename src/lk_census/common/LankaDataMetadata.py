@@ -1,5 +1,5 @@
 from ds import Datumset
-from utils_future import Directory, File, JSONFile, Log
+from utils_future import Directory, JSONFile, Log
 
 log = Log("LankaDataMetadata")
 

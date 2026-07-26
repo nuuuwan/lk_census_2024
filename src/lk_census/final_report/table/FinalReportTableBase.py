@@ -20,8 +20,8 @@ class FinalReportTableBase:
     @property
     def table_name_cleaned(self):
         x = self.table_name
-        for c in [".", " ", "_", ","]:
-            x = x.replace(c, "-")
+        # replace all non alpha numeric or '-' with '-'
+        x = re.sub(r"[^a-zA-Z0-9-]", "-", x)
         x = re.sub(r"-+", "-", x)
         return x
 
