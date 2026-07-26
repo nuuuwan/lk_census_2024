@@ -1,7 +1,7 @@
 # House-WallType
 
 ![CPH](https://img.shields.io/badge/CPH-2024-blue)
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--07--25-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--07--26-green)
 
 *House-WallType, 2024 Census of Population and Housing, Department of Census and Statistics, Sri Lanka*
 
@@ -11,37 +11,37 @@
 {
     "House": {
         "Time:2024": {
-            "PD:EC-06A": {
+            "Country:LK": {
                 "WallType:bricks": {
-                    "Count": "Int:6793"
+                    "Count": "Int:2799913"
                 },
                 "WallType:cement_block": {
-                    "Count": "Int:82787"
+                    "Count": "Int:2828027"
                 },
                 "WallType:granite_cube_stones": {
-                    "Count": "Int:14476"
+                    "Count": "Int:95717"
                 },
                 "WallType:cabook": {
-                    "Count": "Int:885"
+                    "Count": "Int:68497"
                 },
                 "WallType:pressed_soil_bricks": {
-                    "Count": "Int:1584"
+                    "Count": "Int:111245"
                 },
                 "WallType:warichchi_mud": {
-                    "Count": "Int:860"
+                    "Count": "Int:70011"
                 },
                 "WallType:cadjan_palmyrah": {
-                    "Count": "Int:12"
+                    "Count": "Int:7650"
                 },
                 "WallType:planks_metal_sheets_asbestos": {
-                    "Count": "Int:1480"
+                    "Count": "Int:43260"
                 },
                 "WallType:zink_aluminium_sheets": {
-                    "Count": "Int:138"
+                    "Count": "Int:3870"
 ...
 ```
 
-- Source File: [House-WallType/lanka_data.json (136.5 KB)](../../data/House-WallType/lanka_data.json)
+- Source File: [House-WallType/lanka_data.json (475.1 KB)](../../data/House-WallType/lanka_data.json)
 
 ## Structured Data (similar to original layout)
 

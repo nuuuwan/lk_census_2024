@@ -1,7 +1,7 @@
 # Person-Religion
 
 ![CPH](https://img.shields.io/badge/CPH-2024-blue)
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--07--25-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--07--26-green)
 
 *Person-Religion, 2024 Census of Population and Housing, Department of Census and Statistics, Sri Lanka*
 
@@ -11,37 +11,37 @@
 {
     "Person": {
         "Time:2024": {
-            "PD:EC-06A": {
+            "Country:LK": {
                 "Religion:buddhist": {
-                    "Count": "Int:78248"
+                    "Count": "Int:15196960"
                 },
                 "Religion:hindu": {
-                    "Count": "Int:290770"
+                    "Count": "Int:2718154"
                 },
                 "Religion:islam": {
-                    "Count": "Int:12775"
+                    "Count": "Int:2327605"
                 },
                 "Religion:roman_catholic": {
-                    "Count": "Int:27541"
+                    "Count": "Int:1209072"
                 },
                 "Religion:other_christian": {
-                    "Count": "Int:12128"
+                    "Count": "Int:266515"
                 },
                 "Religion:other": {
-                    "Count": "Int:306"
+                    "Count": "Int:63494"
                 }
             },
-            "PD:EC-12B": {
+            "Province:LK-1": {
                 "Religion:buddhist": {
-                    "Count": "Int:2532"
+                    "Count": "Int:4507601"
                 },
                 "Religion:hindu": {
-                    "Count": "Int:143890"
+                    "Count": "Int:305971"
                 },
 ...
 ```
 
-- Source File: [lanka_data.json (72.6 KB)](../../data/Person-Religion/lanka_data.json)
+- Source File: [lanka_data.json (252.5 KB)](../../data/Person-Religion/lanka_data.json)
 
 ## Structured Data (similar to original layout)
 

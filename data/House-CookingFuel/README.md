@@ -1,7 +1,7 @@
 # House-CookingFuel
 
 ![CPH](https://img.shields.io/badge/CPH-2024-blue)
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--07--25-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--07--26-green)
 
 *House-CookingFuel, 2024 Census of Population and Housing, Department of Census and Statistics, Sri Lanka*
 
@@ -11,37 +11,37 @@
 {
     "House": {
         "Time:2024": {
-            "PD:EC-06A": {
+            "Country:LK": {
                 "CookingFuel:fire_wood": {
-                    "Count": "Int:70809"
+                    "Count": "Int:3381781"
                 },
                 "CookingFuel:kerosene": {
-                    "Count": "Int:1029"
+                    "Count": "Int:32974"
                 },
                 "CookingFuel:gas": {
-                    "Count": "Int:40530"
+                    "Count": "Int:2588502"
                 },
                 "CookingFuel:electricity": {
-                    "Count": "Int:373"
+                    "Count": "Int:19540"
                 },
                 "CookingFuel:saw_dust_or_paddy_husk": {
-                    "Count": "Int:26"
+                    "Count": "Int:1739"
                 },
                 "CookingFuel:bio_gas": {
-                    "Count": "Int:443"
+                    "Count": "Int:7179"
                 },
                 "CookingFuel:other": {
-                    "Count": "Int:8"
+                    "Count": "Int:2361"
                 },
                 "CookingFuel:not_relevant": {
-                    "Count": "Int:392"
+                    "Count": "Int:77239"
                 }
             },
-            "PD:EC-12B": {
+            "Province:LK-1": {
 ...
 ```
 
-- Source File: [lanka_data.json (98.7 KB)](../../data/House-CookingFuel/lanka_data.json)
+- Source File: [lanka_data.json (343.7 KB)](../../data/House-CookingFuel/lanka_data.json)
 
 ## Structured Data (similar to original layout)
 

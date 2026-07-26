@@ -1,7 +1,7 @@
 # House-Lighting
 
 ![CPH](https://img.shields.io/badge/CPH-2024-blue)
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--07--25-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--07--26-green)
 
 *House-Lighting, 2024 Census of Population and Housing, Department of Census and Statistics, Sri Lanka*
 
@@ -11,37 +11,37 @@
 {
     "House": {
         "Time:2024": {
-            "PD:EC-06A": {
+            "Country:LK": {
                 "Lighting:electricity_grid": {
-                    "Count": "Int:111311"
+                    "Count": "Int:5987585"
                 },
                 "Lighting:kerosene": {
-                    "Count": "Int:1910"
+                    "Count": "Int:95150"
                 },
                 "Lighting:solar_grid": {
-                    "Count": "Int:38"
+                    "Count": "Int:8093"
                 },
                 "Lighting:solar_standalone": {
-                    "Count": "Int:37"
+                    "Count": "Int:5817"
                 },
                 "Lighting:bio_gas": {
-                    "Count": "Int:15"
+                    "Count": "Int:244"
                 },
                 "Lighting:generator": {
-                    "Count": "Int:60"
+                    "Count": "Int:1230"
                 },
                 "Lighting:other": {
-                    "Count": "Int:239"
+                    "Count": "Int:13196"
                 }
             },
-            "PD:EC-12B": {
+            "Province:LK-1": {
                 "Lighting:electricity_grid": {
-                    "Count": "Int:78026"
+                    "Count": "Int:1682433"
                 },
 ...
 ```
 
-- Source File: [House-Lighting/lanka_data.json (83.8 KB)](../../data/House-Lighting/lanka_data.json)
+- Source File: [House-Lighting/lanka_data.json (292.3 KB)](../../data/House-Lighting/lanka_data.json)
 
 ## Structured Data (similar to original layout)
 

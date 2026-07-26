@@ -1,7 +1,7 @@
 # House-HouseholdStructure
 
 ![CPH](https://img.shields.io/badge/CPH-2024-blue)
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--07--25-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--07--26-green)
 
 *House-HouseholdStructure, 2024 Census of Population and Housing, Department of Census and Statistics, Sri Lanka*
 
@@ -11,37 +11,37 @@
 {
     "House": {
         "Time:2024": {
-            "PD:EC-06A": {
+            "Country:LK": {
                 "HouseholdStructure:single_house_single_storeyed": {
-                    "Count": "Int:54740"
+                    "Count": "Int:4958009"
                 },
                 "HouseholdStructure:single_house_two_storeyed": {
-                    "Count": "Int:7136"
+                    "Count": "Int:751375"
                 },
                 "HouseholdStructure:single_house_more_than_two_storeyed": {
-                    "Count": "Int:1633"
+                    "Count": "Int:59484"
                 },
                 "HouseholdStructure:attached_house_1st_floor": {
-                    "Count": "Int:39969"
+                    "Count": "Int:164419"
                 },
                 "HouseholdStructure:attached_house_2nd_floor": {
-                    "Count": "Int:3279"
+                    "Count": "Int:50030"
                 },
                 "HouseholdStructure:attached_house_from_3_to_4_floors": {
-                    "Count": "Int:2284"
+                    "Count": "Int:25373"
                 },
                 "HouseholdStructure:attached_house_from_5_to_10_floors": {
-                    "Count": "Int:6"
+                    "Count": "Int:12853"
                 },
                 "HouseholdStructure:attached_house_from_11_to_19_floors": {
-                    "Count": "Int:0"
+                    "Count": "Int:6031"
                 },
                 "HouseholdStructure:attached_house_from_20_floors_or_more": {
-                    "Count": "Int:0"
+                    "Count": "Int:1756"
 ...
 ```
 
-- Source File: [lanka_data.json (161.4 KB)](../../data/House-HouseholdStructure/lanka_data.json)
+- Source File: [lanka_data.json (561.7 KB)](../../data/House-HouseholdStructure/lanka_data.json)
 
 ## Structured Data (similar to original layout)
 

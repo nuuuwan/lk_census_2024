@@ -1,6 +1,7946 @@
 {
   "Person": {
     "Time:2024": {
+      "Country:LK": {
+        "Religion:buddhist": {
+          "Count": "Int:15196960"
+        },
+        "Religion:hindu": {
+          "Count": "Int:2718154"
+        },
+        "Religion:islam": {
+          "Count": "Int:2327605"
+        },
+        "Religion:roman_catholic": {
+          "Count": "Int:1209072"
+        },
+        "Religion:other_christian": {
+          "Count": "Int:266515"
+        },
+        "Religion:other": {
+          "Count": "Int:63494"
+        }
+      },
+      "Province:LK-1": {
+        "Religion:buddhist": {
+          "Count": "Int:4507601"
+        },
+        "Religion:hindu": {
+          "Count": "Int:305971"
+        },
+        "Religion:islam": {
+          "Count": "Int:568301"
+        },
+        "Religion:roman_catholic": {
+          "Count": "Int:616413"
+        },
+        "Religion:other_christian": {
+          "Count": "Int:104869"
+        },
+        "Religion:other": {
+          "Count": "Int:14186"
+        }
+      },
+      "Province:LK-2": {
+        "Religion:buddhist": {
+          "Count": "Int:1760853"
+        },
+        "Religion:hindu": {
+          "Count": "Int:565722"
+        },
+        "Religion:islam": {
+          "Count": "Int:296754"
+        },
+        "Religion:roman_catholic": {
+          "Count": "Int:55680"
+        },
+        "Religion:other_christian": {
+          "Count": "Int:26421"
+        },
+        "Religion:other": {
+          "Count": "Int:8615"
+        }
+      },
+      "Province:LK-3": {
+        "Religion:buddhist": {
+          "Count": "Int:2463066"
+        },
+        "Religion:hindu": {
+          "Count": "Int:28775"
+        },
+        "Religion:islam": {
+          "Count": "Int:92985"
+        },
+        "Religion:roman_catholic": {
+          "Count": "Int:5093"
+        },
+        "Religion:other_christian": {
+          "Count": "Int:7568"
+        },
+        "Religion:other": {
+          "Count": "Int:9192"
+        }
+      },
+      "Province:LK-6": {
+        "Religion:buddhist": {
+          "Count": "Int:1918652"
+        },
+        "Religion:hindu": {
+          "Count": "Int:43060"
+        },
+        "Religion:islam": {
+          "Count": "Int:318870"
+        },
+        "Religion:roman_catholic": {
+          "Count": "Int:278850"
+        },
+        "Religion:other_christian": {
+          "Count": "Int:17211"
+        },
+        "Religion:other": {
+          "Count": "Int:10329"
+        }
+      },
+      "Province:LK-9": {
+        "Religion:buddhist": {
+          "Count": "Int:1728595"
+        },
+        "Religion:hindu": {
+          "Count": "Int:158799"
+        },
+        "Religion:islam": {
+          "Count": "Int:98549"
+        },
+        "Religion:roman_catholic": {
+          "Count": "Int:14257"
+        },
+        "Religion:other_christian": {
+          "Count": "Int:10416"
+        },
+        "Religion:other": {
+          "Count": "Int:5283"
+        }
+      },
+      "Province:LK-5": {
+        "Religion:buddhist": {
+          "Count": "Int:388164"
+        },
+        "Religion:hindu": {
+          "Count": "Int:596842"
+        },
+        "Religion:islam": {
+          "Count": "Int:706572"
+        },
+        "Religion:roman_catholic": {
+          "Count": "Int:46596"
+        },
+        "Religion:other_christian": {
+          "Count": "Int:41109"
+        },
+        "Religion:other": {
+          "Count": "Int:3931"
+        }
+      },
+      "Province:LK-7": {
+        "Religion:buddhist": {
+          "Count": "Int:1262247"
+        },
+        "Religion:hindu": {
+          "Count": "Int:9588"
+        },
+        "Religion:islam": {
+          "Count": "Int:120511"
+        },
+        "Religion:roman_catholic": {
+          "Count": "Int:6869"
+        },
+        "Religion:other_christian": {
+          "Count": "Int:3663"
+        },
+        "Religion:other": {
+          "Count": "Int:4732"
+        }
+      },
+      "Province:LK-8": {
+        "Religion:buddhist": {
+          "Count": "Int:1135408"
+        },
+        "Religion:hindu": {
+          "Count": "Int:180305"
+        },
+        "Religion:islam": {
+          "Count": "Int:65203"
+        },
+        "Religion:roman_catholic": {
+          "Count": "Int:9852"
+        },
+        "Religion:other_christian": {
+          "Count": "Int:5431"
+        },
+        "Religion:other": {
+          "Count": "Int:3693"
+        }
+      },
+      "Province:LK-4": {
+        "Religion:buddhist": {
+          "Count": "Int:32374"
+        },
+        "Religion:hindu": {
+          "Count": "Int:829092"
+        },
+        "Religion:islam": {
+          "Count": "Int:59860"
+        },
+        "Religion:roman_catholic": {
+          "Count": "Int:175462"
+        },
+        "Religion:other_christian": {
+          "Count": "Int:49827"
+        },
+        "Religion:other": {
+          "Count": "Int:3533"
+        }
+      },
+      "District:LK-12": {
+        "Religion:buddhist": {
+          "Count": "Int:1744475"
+        },
+        "Religion:hindu": {
+          "Count": "Int:67337"
+        },
+        "Religion:islam": {
+          "Count": "Int:132985"
+        },
+        "Religion:roman_catholic": {
+          "Count": "Int:441173"
+        },
+        "Religion:other_christian": {
+          "Count": "Int:43053"
+        },
+        "Religion:other": {
+          "Count": "Int:7119"
+        }
+      },
+      "District:LK-11": {
+        "Religion:buddhist": {
+          "Count": "Int:1682524"
+        },
+        "Religion:hindu": {
+          "Count": "Int:197524"
+        },
+        "Religion:islam": {
+          "Count": "Int:297852"
+        },
+        "Religion:roman_catholic": {
+          "Count": "Int:139690"
+        },
+        "Religion:other_christian": {
+          "Count": "Int:55217"
+        },
+        "Religion:other": {
+          "Count": "Int:2608"
+        }
+      },
+      "District:LK-61": {
+        "Religion:buddhist": {
+          "Count": "Int:1557548"
+        },
+        "Religion:hindu": {
+          "Count": "Int:15155"
+        },
+        "Religion:islam": {
+          "Count": "Int:142329"
+        },
+        "Religion:roman_catholic": {
+          "Count": "Int:38045"
+        },
+        "Religion:other_christian": {
+          "Count": "Int:7359"
+        },
+        "Religion:other": {
+          "Count": "Int:7720"
+        }
+      },
+      "District:LK-21": {
+        "Religion:buddhist": {
+          "Count": "Int:1063437"
+        },
+        "Religion:hindu": {
+          "Count": "Int:143193"
+        },
+        "Religion:islam": {
+          "Count": "Int:223243"
+        },
+        "Religion:roman_catholic": {
+          "Count": "Int:17093"
+        },
+        "Religion:other_christian": {
+          "Count": "Int:9656"
+        },
+        "Religion:other": {
+          "Count": "Int:5273"
+        }
+      },
+      "District:LK-13": {
+        "Religion:buddhist": {
+          "Count": "Int:1080602"
+        },
+        "Religion:hindu": {
+          "Count": "Int:41110"
+        },
+        "Religion:islam": {
+          "Count": "Int:137464"
+        },
+        "Religion:roman_catholic": {
+          "Count": "Int:35550"
+        },
+        "Religion:other_christian": {
+          "Count": "Int:6599"
+        },
+        "Religion:other": {
+          "Count": "Int:4459"
+        }
+      },
+      "District:LK-91": {
+        "Religion:buddhist": {
+          "Count": "Int:999682"
+        },
+        "Religion:hindu": {
+          "Count": "Int:103329"
+        },
+        "Religion:islam": {
+          "Count": "Int:26276"
+        },
+        "Religion:roman_catholic": {
+          "Count": "Int:7859"
+        },
+        "Religion:other_christian": {
+          "Count": "Int:5698"
+        },
+        "Religion:other": {
+          "Count": "Int:2579"
+        }
+      },
+      "District:LK-31": {
+        "Religion:buddhist": {
+          "Count": "Int:1026031"
+        },
+        "Religion:hindu": {
+          "Count": "Int:14247"
+        },
+        "Religion:islam": {
+          "Count": "Int:45654"
+        },
+        "Religion:roman_catholic": {
+          "Count": "Int:2840"
+        },
+        "Religion:other_christian": {
+          "Count": "Int:4041"
+        },
+        "Religion:other": {
+          "Count": "Int:4559"
+        }
+      },
+      "District:LK-71": {
+        "Religion:buddhist": {
+          "Count": "Int:862775"
+        },
+        "Religion:hindu": {
+          "Count": "Int:2800"
+        },
+        "Religion:islam": {
+          "Count": "Int:83621"
+        },
+        "Religion:roman_catholic": {
+          "Count": "Int:4793"
+        },
+        "Religion:other_christian": {
+          "Count": "Int:2931"
+        },
+        "Religion:other": {
+          "Count": "Int:3160"
+        }
+      },
+      "District:LK-81": {
+        "Religion:buddhist": {
+          "Count": "Int:636979"
+        },
+        "Religion:hindu": {
+          "Count": "Int:165860"
+        },
+        "Religion:islam": {
+          "Count": "Int:53122"
+        },
+        "Religion:roman_catholic": {
+          "Count": "Int:8974"
+        },
+        "Religion:other_christian": {
+          "Count": "Int:5024"
+        },
+        "Religion:other": {
+          "Count": "Int:2348"
+        }
+      },
+      "District:LK-92": {
+        "Religion:buddhist": {
+          "Count": "Int:728913"
+        },
+        "Religion:hindu": {
+          "Count": "Int:55470"
+        },
+        "Religion:islam": {
+          "Count": "Int:72273"
+        },
+        "Religion:roman_catholic": {
+          "Count": "Int:6398"
+        },
+        "Religion:other_christian": {
+          "Count": "Int:4718"
+        },
+        "Religion:other": {
+          "Count": "Int:2704"
+        }
+      },
+      "District:LK-32": {
+        "Religion:buddhist": {
+          "Count": "Int:787299"
+        },
+        "Religion:hindu": {
+          "Count": "Int:13765"
+        },
+        "Religion:islam": {
+          "Count": "Int:29623"
+        },
+        "Religion:roman_catholic": {
+          "Count": "Int:1725"
+        },
+        "Religion:other_christian": {
+          "Count": "Int:2708"
+        },
+        "Religion:other": {
+          "Count": "Int:2769"
+        }
+      },
+      "District:LK-62": {
+        "Religion:buddhist": {
+          "Count": "Int:361104"
+        },
+        "Religion:hindu": {
+          "Count": "Int:27905"
+        },
+        "Religion:islam": {
+          "Count": "Int:176541"
+        },
+        "Religion:roman_catholic": {
+          "Count": "Int:240805"
+        },
+        "Religion:other_christian": {
+          "Count": "Int:9852"
+        },
+        "Religion:other": {
+          "Count": "Int:2609"
+        }
+      },
+      "District:LK-52": {
+        "Religion:buddhist": {
+          "Count": "Int:275877"
+        },
+        "Religion:hindu": {
+          "Count": "Int:114174"
+        },
+        "Religion:islam": {
+          "Count": "Int:339731"
+        },
+        "Religion:roman_catholic": {
+          "Count": "Int:6941"
+        },
+        "Religion:other_christian": {
+          "Count": "Int:6176"
+        },
+        "Religion:other": {
+          "Count": "Int:1652"
+        }
+      },
+      "District:LK-23": {
+        "Religion:buddhist": {
+          "Count": "Int:278828"
+        },
+        "Religion:hindu": {
+          "Count": "Int:376993"
+        },
+        "Religion:islam": {
+          "Count": "Int:21614"
+        },
+        "Religion:roman_catholic": {
+          "Count": "Int:31385"
+        },
+        "Religion:other_christian": {
+          "Count": "Int:15211"
+        },
+        "Religion:other": {
+          "Count": "Int:1249"
+        }
+      },
+      "District:LK-33": {
+        "Religion:buddhist": {
+          "Count": "Int:649736"
+        },
+        "Religion:hindu": {
+          "Count": "Int:763"
+        },
+        "Religion:islam": {
+          "Count": "Int:17708"
+        },
+        "Religion:roman_catholic": {
+          "Count": "Int:528"
+        },
+        "Religion:other_christian": {
+          "Count": "Int:819"
+        },
+        "Religion:other": {
+          "Count": "Int:1864"
+        }
+      },
+      "District:LK-51": {
+        "Religion:buddhist": {
+          "Count": "Int:5585"
+        },
+        "Religion:hindu": {
+          "Count": "Int:374759"
+        },
+        "Religion:islam": {
+          "Count": "Int:161300"
+        },
+        "Religion:roman_catholic": {
+          "Count": "Int:25521"
+        },
+        "Religion:other_christian": {
+          "Count": "Int:27388"
+        },
+        "Religion:other": {
+          "Count": "Int:1365"
+        }
+      },
+      "District:LK-41": {
+        "Religion:buddhist": {
+          "Count": "Int:2411"
+        },
+        "Religion:hindu": {
+          "Count": "Int:489498"
+        },
+        "Religion:islam": {
+          "Count": "Int:3996"
+        },
+        "Religion:roman_catholic": {
+          "Count": "Int:76817"
+        },
+        "Religion:other_christian": {
+          "Count": "Int:20429"
+        },
+        "Religion:other": {
+          "Count": "Int:1600"
+        }
+      },
+      "District:LK-82": {
+        "Religion:buddhist": {
+          "Count": "Int:498429"
+        },
+        "Religion:hindu": {
+          "Count": "Int:14445"
+        },
+        "Religion:islam": {
+          "Count": "Int:12081"
+        },
+        "Religion:roman_catholic": {
+          "Count": "Int:878"
+        },
+        "Religion:other_christian": {
+          "Count": "Int:407"
+        },
+        "Religion:other": {
+          "Count": "Int:1345"
+        }
+      },
+      "District:LK-22": {
+        "Religion:buddhist": {
+          "Count": "Int:418588"
+        },
+        "Religion:hindu": {
+          "Count": "Int:45536"
+        },
+        "Religion:islam": {
+          "Count": "Int:51897"
+        },
+        "Religion:roman_catholic": {
+          "Count": "Int:7202"
+        },
+        "Religion:other_christian": {
+          "Count": "Int:1554"
+        },
+        "Religion:other": {
+          "Count": "Int:2093"
+        }
+      },
+      "District:LK-72": {
+        "Religion:buddhist": {
+          "Count": "Int:399472"
+        },
+        "Religion:hindu": {
+          "Count": "Int:6788"
+        },
+        "Religion:islam": {
+          "Count": "Int:36890"
+        },
+        "Religion:roman_catholic": {
+          "Count": "Int:2076"
+        },
+        "Religion:other_christian": {
+          "Count": "Int:732"
+        },
+        "Religion:other": {
+          "Count": "Int:1572"
+        }
+      },
+      "District:LK-53": {
+        "Religion:buddhist": {
+          "Count": "Int:106702"
+        },
+        "Religion:hindu": {
+          "Count": "Int:107909"
+        },
+        "Religion:islam": {
+          "Count": "Int:205541"
+        },
+        "Religion:roman_catholic": {
+          "Count": "Int:14134"
+        },
+        "Religion:other_christian": {
+          "Count": "Int:7545"
+        },
+        "Religion:other": {
+          "Count": "Int:914"
+        }
+      },
+      "District:LK-43": {
+        "Religion:buddhist": {
+          "Count": "Int:18137"
+        },
+        "Religion:hindu": {
+          "Count": "Int:114476"
+        },
+        "Religion:islam": {
+          "Count": "Int:17681"
+        },
+        "Religion:roman_catholic": {
+          "Count": "Int:12706"
+        },
+        "Religion:other_christian": {
+          "Count": "Int:8836"
+        },
+        "Religion:other": {
+          "Count": "Int:476"
+        }
+      },
+      "District:LK-45": {
+        "Religion:buddhist": {
+          "Count": "Int:1423"
+        },
+        "Religion:hindu": {
+          "Count": "Int:110253"
+        },
+        "Religion:islam": {
+          "Count": "Int:1250"
+        },
+        "Religion:roman_catholic": {
+          "Count": "Int:14408"
+        },
+        "Religion:other_christian": {
+          "Count": "Int:9023"
+        },
+        "Religion:other": {
+          "Count": "Int:353"
+        }
+      },
+      "District:LK-42": {
+        "Religion:buddhist": {
+          "Count": "Int:240"
+        },
+        "Religion:hindu": {
+          "Count": "Int:26140"
+        },
+        "Religion:islam": {
+          "Count": "Int:33784"
+        },
+        "Religion:roman_catholic": {
+          "Count": "Int:57678"
+        },
+        "Religion:other_christian": {
+          "Count": "Int:5398"
+        },
+        "Religion:other": {
+          "Count": "Int:516"
+        }
+      },
+      "District:LK-44": {
+        "Religion:buddhist": {
+          "Count": "Int:10163"
+        },
+        "Religion:hindu": {
+          "Count": "Int:88725"
+        },
+        "Religion:islam": {
+          "Count": "Int:3149"
+        },
+        "Religion:roman_catholic": {
+          "Count": "Int:13853"
+        },
+        "Religion:other_christian": {
+          "Count": "Int:6141"
+        },
+        "Religion:other": {
+          "Count": "Int:588"
+        }
+      },
+      "DSD:LK-1103": {
+        "Religion:buddhist": {
+          "Count": "Int:47726"
+        },
+        "Religion:hindu": {
+          "Count": "Int:71811"
+        },
+        "Religion:islam": {
+          "Count": "Int:125890"
+        },
+        "Religion:roman_catholic": {
+          "Count": "Int:36117"
+        },
+        "Religion:other_christian": {
+          "Count": "Int:10378"
+        },
+        "Religion:other": {
+          "Count": "Int:167"
+        }
+      },
+      "DSD:LK-1112": {
+        "Religion:buddhist": {
+          "Count": "Int:270923"
+        },
+        "Religion:hindu": {
+          "Count": "Int:2843"
+        },
+        "Religion:islam": {
+          "Count": "Int:1565"
+        },
+        "Religion:roman_catholic": {
+          "Count": "Int:3518"
+        },
+        "Religion:other_christian": {
+          "Count": "Int:1551"
+        },
+        "Religion:other": {
+          "Count": "Int:371"
+        }
+      },
+      "DSD:LK-1109": {
+        "Religion:buddhist": {
+          "Count": "Int:256548"
+        },
+        "Religion:hindu": {
+          "Count": "Int:4210"
+        },
+        "Religion:islam": {
+          "Count": "Int:3877"
+        },
+        "Religion:roman_catholic": {
+          "Count": "Int:10572"
+        },
+        "Religion:other_christian": {
+          "Count": "Int:2570"
+        },
+        "Religion:other": {
+          "Count": "Int:141"
+        }
+      },
+      "DSD:LK-1136": {
+        "Religion:buddhist": {
+          "Count": "Int:246021"
+        },
+        "Religion:hindu": {
+          "Count": "Int:3366"
+        },
+        "Religion:islam": {
+          "Count": "Int:2493"
+        },
+        "Religion:roman_catholic": {
+          "Count": "Int:7444"
+        },
+        "Religion:other_christian": {
+          "Count": "Int:3948"
+        },
+        "Religion:other": {
+          "Count": "Int:269"
+        }
+      },
+      "DSD:LK-1206": {
+        "Religion:buddhist": {
+          "Count": "Int:137806"
+        },
+        "Religion:hindu": {
+          "Count": "Int:5698"
+        },
+        "Religion:islam": {
+          "Count": "Int:6092"
+        },
+        "Religion:roman_catholic": {
+          "Count": "Int:81913"
+        },
+        "Religion:other_christian": {
+          "Count": "Int:9263"
+        },
+        "Religion:other": {
+          "Count": "Int:447"
+        }
+      },
+      "DSD:LK-1233": {
+        "Religion:buddhist": {
+          "Count": "Int:191215"
+        },
+        "Religion:hindu": {
+          "Count": "Int:1731"
+        },
+        "Religion:islam": {
+          "Count": "Int:10287"
+        },
+        "Religion:roman_catholic": {
+          "Count": "Int:16835"
+        },
+        "Religion:other_christian": {
+          "Count": "Int:2425"
+        },
+        "Religion:other": {
+          "Count": "Int:567"
+        }
+      },
+      "DSD:LK-1127": {
+        "Religion:buddhist": {
+          "Count": "Int:101553"
+        },
+        "Religion:hindu": {
+          "Count": "Int:52962"
+        },
+        "Religion:islam": {
+          "Count": "Int:40132"
+        },
+        "Religion:roman_catholic": {
+          "Count": "Int:15209"
+        },
+        "Religion:other_christian": {
+          "Count": "Int:7036"
+        },
+        "Religion:other": {
+          "Count": "Int:226"
+        }
+      },
+      "DSD:LK-1106": {
+        "Religion:buddhist": {
+          "Count": "Int:122559"
+        },
+        "Religion:hindu": {
+          "Count": "Int:14647"
+        },
+        "Religion:islam": {
+          "Count": "Int:67100"
+        },
+        "Religion:roman_catholic": {
+          "Count": "Int:6895"
+        },
+        "Religion:other_christian": {
+          "Count": "Int:2794"
+        },
+        "Religion:other": {
+          "Count": "Int:75"
+        }
+      },
+      "DSD:LK-1239": {
+        "Religion:buddhist": {
+          "Count": "Int:178329"
+        },
+        "Religion:hindu": {
+          "Count": "Int:3125"
+        },
+        "Religion:islam": {
+          "Count": "Int:16409"
+        },
+        "Religion:roman_catholic": {
+          "Count": "Int:7224"
+        },
+        "Religion:other_christian": {
+          "Count": "Int:1940"
+        },
+        "Religion:other": {
+          "Count": "Int:128"
+        }
+      },
+      "DSD:LK-1224": {
+        "Religion:buddhist": {
+          "Count": "Int:182606"
+        },
+        "Religion:hindu": {
+          "Count": "Int:624"
+        },
+        "Religion:islam": {
+          "Count": "Int:206"
+        },
+        "Religion:roman_catholic": {
+          "Count": "Int:19694"
+        },
+        "Religion:other_christian": {
+          "Count": "Int:1866"
+        },
+        "Religion:other": {
+          "Count": "Int:614"
+        }
+      },
+      "DSD:LK-1221": {
+        "Religion:buddhist": {
+          "Count": "Int:90297"
+        },
+        "Religion:hindu": {
+          "Count": "Int:4526"
+        },
+        "Religion:islam": {
+          "Count": "Int:1851"
+        },
+        "Religion:roman_catholic": {
+          "Count": "Int:100285"
+        },
+        "Religion:other_christian": {
+          "Count": "Int:7665"
+        },
+        "Religion:other": {
+          "Count": "Int:182"
+        }
+      },
+      "DSD:LK-1215": {
+        "Religion:buddhist": {
+          "Count": "Int:176692"
+        },
+        "Religion:hindu": {
+          "Count": "Int:557"
+        },
+        "Religion:islam": {
+          "Count": "Int:6846"
+        },
+        "Religion:roman_catholic": {
+          "Count": "Int:11867"
+        },
+        "Religion:other_christian": {
+          "Count": "Int:1919"
+        },
+        "Religion:other": {
+          "Count": "Int:893"
+        }
+      },
+      "DSD:LK-1227": {
+        "Religion:buddhist": {
+          "Count": "Int:164206"
+        },
+        "Religion:hindu": {
+          "Count": "Int:1128"
+        },
+        "Religion:islam": {
+          "Count": "Int:28211"
+        },
+        "Religion:roman_catholic": {
+          "Count": "Int:2775"
+        },
+        "Religion:other_christian": {
+          "Count": "Int:292"
+        },
+        "Religion:other": {
+          "Count": "Int:1113"
+        }
+      },
+      "DSD:LK-1121": {
+        "Religion:buddhist": {
+          "Count": "Int:183093"
+        },
+        "Religion:hindu": {
+          "Count": "Int:3379"
+        },
+        "Religion:islam": {
+          "Count": "Int:2442"
+        },
+        "Religion:roman_catholic": {
+          "Count": "Int:5243"
+        },
+        "Religion:other_christian": {
+          "Count": "Int:2226"
+        },
+        "Religion:other": {
+          "Count": "Int:117"
+        }
+      },
+      "DSD:LK-1303": {
+        "Religion:buddhist": {
+          "Count": "Int:144512"
+        },
+        "Religion:hindu": {
+          "Count": "Int:929"
+        },
+        "Religion:islam": {
+          "Count": "Int:32198"
+        },
+        "Religion:roman_catholic": {
+          "Count": "Int:7976"
+        },
+        "Religion:other_christian": {
+          "Count": "Int:1475"
+        },
+        "Religion:other": {
+          "Count": "Int:385"
+        }
+      },
+      "DSD:LK-1218": {
+        "Religion:buddhist": {
+          "Count": "Int:51544"
+        },
+        "Religion:hindu": {
+          "Count": "Int:30788"
+        },
+        "Religion:islam": {
+          "Count": "Int:13885"
+        },
+        "Religion:roman_catholic": {
+          "Count": "Int:77121"
+        },
+        "Religion:other_christian": {
+          "Count": "Int:9069"
+        },
+        "Religion:other": {
+          "Count": "Int:98"
+        }
+      },
+      "DSD:LK-1324": {
+        "Religion:buddhist": {
+          "Count": "Int:96264"
+        },
+        "Religion:hindu": {
+          "Count": "Int:1321"
+        },
+        "Religion:islam": {
+          "Count": "Int:69066"
+        },
+        "Religion:roman_catholic": {
+          "Count": "Int:13287"
+        },
+        "Religion:other_christian": {
+          "Count": "Int:349"
+        },
+        "Religion:other": {
+          "Count": "Int:533"
+        }
+      },
+      "DSD:LK-1212": {
+        "Religion:buddhist": {
+          "Count": "Int:164914"
+        },
+        "Religion:hindu": {
+          "Count": "Int:657"
+        },
+        "Religion:islam": {
+          "Count": "Int:8655"
+        },
+        "Religion:roman_catholic": {
+          "Count": "Int:1169"
+        },
+        "Religion:other_christian": {
+          "Count": "Int:307"
+        },
+        "Religion:other": {
+          "Count": "Int:1045"
+        }
+      },
+      "DSD:LK-1230": {
+        "Religion:buddhist": {
+          "Count": "Int:161461"
+        },
+        "Religion:hindu": {
+          "Count": "Int:430"
+        },
+        "Religion:islam": {
+          "Count": "Int:2433"
+        },
+        "Religion:roman_catholic": {
+          "Count": "Int:4122"
+        },
+        "Religion:other_christian": {
+          "Count": "Int:413"
+        },
+        "Religion:other": {
+          "Count": "Int:1018"
+        }
+      },
+      "DSD:LK-1321": {
+        "Religion:buddhist": {
+          "Count": "Int:140786"
+        },
+        "Religion:hindu": {
+          "Count": "Int:1569"
+        },
+        "Religion:islam": {
+          "Count": "Int:14295"
+        },
+        "Religion:roman_catholic": {
+          "Count": "Int:8784"
+        },
+        "Religion:other_christian": {
+          "Count": "Int:637"
+        },
+        "Religion:other": {
+          "Count": "Int:553"
+        }
+      },
+      "DSD:LK-2314": {
+        "Religion:buddhist": {
+          "Count": "Int:9116"
+        },
+        "Religion:hindu": {
+          "Count": "Int:128261"
+        },
+        "Religion:islam": {
+          "Count": "Int:5873"
+        },
+        "Religion:roman_catholic": {
+          "Count": "Int:12306"
+        },
+        "Religion:other_christian": {
+          "Count": "Int:5750"
+        },
+        "Religion:other": {
+          "Count": "Int:61"
+        }
+      },
+      "DSD:LK-1133": {
+        "Religion:buddhist": {
+          "Count": "Int:109743"
+        },
+        "Religion:hindu": {
+          "Count": "Int:4286"
+        },
+        "Religion:islam": {
+          "Count": "Int:3470"
+        },
+        "Religion:roman_catholic": {
+          "Count": "Int:30669"
+        },
+        "Religion:other_christian": {
+          "Count": "Int:11763"
+        },
+        "Religion:other": {
+          "Count": "Int:268"
+        }
+      },
+      "DSD:LK-9148": {
+        "Religion:buddhist": {
+          "Count": "Int:159374"
+        },
+        "Religion:hindu": {
+          "Count": "Int:41"
+        },
+        "Religion:islam": {
+          "Count": "Int:0"
+        },
+        "Religion:roman_catholic": {
+          "Count": "Int:143"
+        },
+        "Religion:other_christian": {
+          "Count": "Int:115"
+        },
+        "Religion:other": {
+          "Count": "Int:335"
+        }
+      },
+      "DSD:LK-1209": {
+        "Religion:buddhist": {
+          "Count": "Int:133909"
+        },
+        "Religion:hindu": {
+          "Count": "Int:744"
+        },
+        "Religion:islam": {
+          "Count": "Int:67"
+        },
+        "Religion:roman_catholic": {
+          "Count": "Int:20222"
+        },
+        "Religion:other_christian": {
+          "Count": "Int:1339"
+        },
+        "Religion:other": {
+          "Count": "Int:676"
+        }
+      },
+      "DSD:LK-2130": {
+        "Religion:buddhist": {
+          "Count": "Int:110984"
+        },
+        "Religion:hindu": {
+          "Count": "Int:15669"
+        },
+        "Religion:islam": {
+          "Count": "Int:18541"
+        },
+        "Religion:roman_catholic": {
+          "Count": "Int:5597"
+        },
+        "Religion:other_christian": {
+          "Count": "Int:2395"
+        },
+        "Religion:other": {
+          "Count": "Int:143"
+        }
+      },
+      "DSD:LK-2127": {
+        "Religion:buddhist": {
+          "Count": "Int:115593"
+        },
+        "Religion:hindu": {
+          "Count": "Int:15990"
+        },
+        "Religion:islam": {
+          "Count": "Int:8726"
+        },
+        "Religion:roman_catholic": {
+          "Count": "Int:2040"
+        },
+        "Religion:other_christian": {
+          "Count": "Int:1503"
+        },
+        "Religion:other": {
+          "Count": "Int:531"
+        }
+      },
+      "DSD:LK-1203": {
+        "Religion:buddhist": {
+          "Count": "Int:13506"
+        },
+        "Religion:hindu": {
+          "Count": "Int:8452"
+        },
+        "Religion:islam": {
+          "Count": "Int:23759"
+        },
+        "Religion:roman_catholic": {
+          "Count": "Int:87605"
+        },
+        "Religion:other_christian": {
+          "Count": "Int:4432"
+        },
+        "Religion:other": {
+          "Count": "Int:198"
+        }
+      },
+      "DSD:LK-6178": {
+        "Religion:buddhist": {
+          "Count": "Int:117261"
+        },
+        "Religion:hindu": {
+          "Count": "Int:1028"
+        },
+        "Religion:islam": {
+          "Count": "Int:9342"
+        },
+        "Religion:roman_catholic": {
+          "Count": "Int:6956"
+        },
+        "Religion:other_christian": {
+          "Count": "Int:777"
+        },
+        "Religion:other": {
+          "Count": "Int:481"
+        }
+      },
+      "DSD:LK-1236": {
+        "Religion:buddhist": {
+          "Count": "Int:97990"
+        },
+        "Religion:hindu": {
+          "Count": "Int:8877"
+        },
+        "Religion:islam": {
+          "Count": "Int:14284"
+        },
+        "Religion:roman_catholic": {
+          "Count": "Int:10341"
+        },
+        "Religion:other_christian": {
+          "Count": "Int:2123"
+        },
+        "Religion:other": {
+          "Count": "Int:140"
+        }
+      },
+      "DSD:LK-1309": {
+        "Religion:buddhist": {
+          "Count": "Int:129510"
+        },
+        "Religion:hindu": {
+          "Count": "Int:1825"
+        },
+        "Religion:islam": {
+          "Count": "Int:76"
+        },
+        "Religion:roman_catholic": {
+          "Count": "Int:899"
+        },
+        "Religion:other_christian": {
+          "Count": "Int:885"
+        },
+        "Religion:other": {
+          "Count": "Int:490"
+        }
+      },
+      "DSD:LK-2313": {
+        "Religion:buddhist": {
+          "Count": "Int:8613"
+        },
+        "Religion:hindu": {
+          "Count": "Int:106064"
+        },
+        "Religion:islam": {
+          "Count": "Int:1910"
+        },
+        "Religion:roman_catholic": {
+          "Count": "Int:9598"
+        },
+        "Religion:other_christian": {
+          "Count": "Int:3282"
+        },
+        "Religion:other": {
+          "Count": "Int:64"
+        }
+      },
+      "DSD:LK-9206": {
+        "Religion:buddhist": {
+          "Count": "Int:82377"
+        },
+        "Religion:hindu": {
+          "Count": "Int:1066"
+        },
+        "Religion:islam": {
+          "Count": "Int:41909"
+        },
+        "Religion:roman_catholic": {
+          "Count": "Int:264"
+        },
+        "Religion:other_christian": {
+          "Count": "Int:94"
+        },
+        "Religion:other": {
+          "Count": "Int:316"
+        }
+      },
+      "DSD:LK-1306": {
+        "Religion:buddhist": {
+          "Count": "Int:105598"
+        },
+        "Religion:hindu": {
+          "Count": "Int:258"
+        },
+        "Religion:islam": {
+          "Count": "Int:15025"
+        },
+        "Religion:roman_catholic": {
+          "Count": "Int:2006"
+        },
+        "Religion:other_christian": {
+          "Count": "Int:822"
+        },
+        "Religion:other": {
+          "Count": "Int:424"
+        }
+      },
+      "DSD:LK-3242": {
+        "Religion:buddhist": {
+          "Count": "Int:118046"
+        },
+        "Religion:hindu": {
+          "Count": "Int:209"
+        },
+        "Religion:islam": {
+          "Count": "Int:4657"
+        },
+        "Religion:roman_catholic": {
+          "Count": "Int:277"
+        },
+        "Religion:other_christian": {
+          "Count": "Int:157"
+        },
+        "Religion:other": {
+          "Count": "Int:522"
+        }
+      },
+      "DSD:LK-1115": {
+        "Religion:buddhist": {
+          "Count": "Int:99364"
+        },
+        "Religion:hindu": {
+          "Count": "Int:11987"
+        },
+        "Religion:islam": {
+          "Count": "Int:785"
+        },
+        "Religion:roman_catholic": {
+          "Count": "Int:7168"
+        },
+        "Religion:other_christian": {
+          "Count": "Int:2492"
+        },
+        "Religion:other": {
+          "Count": "Int:332"
+        }
+      },
+      "DSD:LK-9112": {
+        "Religion:buddhist": {
+          "Count": "Int:94405"
+        },
+        "Religion:hindu": {
+          "Count": "Int:17425"
+        },
+        "Religion:islam": {
+          "Count": "Int:7109"
+        },
+        "Religion:roman_catholic": {
+          "Count": "Int:1082"
+        },
+        "Religion:other_christian": {
+          "Count": "Int:948"
+        },
+        "Religion:other": {
+          "Count": "Int:197"
+        }
+      },
+      "DSD:LK-2139": {
+        "Religion:buddhist": {
+          "Count": "Int:85280"
+        },
+        "Religion:hindu": {
+          "Count": "Int:2421"
+        },
+        "Religion:islam": {
+          "Count": "Int:31854"
+        },
+        "Religion:roman_catholic": {
+          "Count": "Int:461"
+        },
+        "Religion:other_christian": {
+          "Count": "Int:249"
+        },
+        "Religion:other": {
+          "Count": "Int:753"
+        }
+      },
+      "DSD:LK-9218": {
+        "Religion:buddhist": {
+          "Count": "Int:105968"
+        },
+        "Religion:hindu": {
+          "Count": "Int:3346"
+        },
+        "Religion:islam": {
+          "Count": "Int:7728"
+        },
+        "Religion:roman_catholic": {
+          "Count": "Int:358"
+        },
+        "Religion:other_christian": {
+          "Count": "Int:205"
+        },
+        "Religion:other": {
+          "Count": "Int:362"
+        }
+      },
+      "DSD:LK-4309": {
+        "Religion:buddhist": {
+          "Count": "Int:3068"
+        },
+        "Religion:hindu": {
+          "Count": "Int:88683"
+        },
+        "Religion:islam": {
+          "Count": "Int:8557"
+        },
+        "Religion:roman_catholic": {
+          "Count": "Int:9163"
+        },
+        "Religion:other_christian": {
+          "Count": "Int:7299"
+        },
+        "Religion:other": {
+          "Count": "Int:221"
+        }
+      },
+      "DSD:LK-2136": {
+        "Religion:buddhist": {
+          "Count": "Int:100489"
+        },
+        "Religion:hindu": {
+          "Count": "Int:2073"
+        },
+        "Religion:islam": {
+          "Count": "Int:8453"
+        },
+        "Religion:roman_catholic": {
+          "Count": "Int:623"
+        },
+        "Religion:other_christian": {
+          "Count": "Int:425"
+        },
+        "Religion:other": {
+          "Count": "Int:579"
+        }
+      },
+      "DSD:LK-3139": {
+        "Religion:buddhist": {
+          "Count": "Int:67502"
+        },
+        "Religion:hindu": {
+          "Count": "Int:566"
+        },
+        "Religion:islam": {
+          "Count": "Int:38985"
+        },
+        "Religion:roman_catholic": {
+          "Count": "Int:669"
+        },
+        "Religion:other_christian": {
+          "Count": "Int:237"
+        },
+        "Religion:other": {
+          "Count": "Int:362"
+        }
+      },
+      "DSD:LK-8130": {
+        "Religion:buddhist": {
+          "Count": "Int:72746"
+        },
+        "Religion:hindu": {
+          "Count": "Int:11812"
+        },
+        "Religion:islam": {
+          "Count": "Int:19646"
+        },
+        "Religion:roman_catholic": {
+          "Count": "Int:548"
+        },
+        "Religion:other_christian": {
+          "Count": "Int:392"
+        },
+        "Religion:other": {
+          "Count": "Int:366"
+        }
+      },
+      "DSD:LK-2151": {
+        "Religion:buddhist": {
+          "Count": "Int:54676"
+        },
+        "Religion:hindu": {
+          "Count": "Int:20966"
+        },
+        "Religion:islam": {
+          "Count": "Int:25169"
+        },
+        "Religion:roman_catholic": {
+          "Count": "Int:1165"
+        },
+        "Religion:other_christian": {
+          "Count": "Int:929"
+        },
+        "Religion:other": {
+          "Count": "Int:276"
+        }
+      },
+      "DSD:LK-5315": {
+        "Religion:buddhist": {
+          "Count": "Int:21101"
+        },
+        "Religion:hindu": {
+          "Count": "Int:48281"
+        },
+        "Religion:islam": {
+          "Count": "Int:15579"
+        },
+        "Religion:roman_catholic": {
+          "Count": "Int:11056"
+        },
+        "Religion:other_christian": {
+          "Count": "Int:4155"
+        },
+        "Religion:other": {
+          "Count": "Int:98"
+        }
+      },
+      "DSD:LK-9106": {
+        "Religion:buddhist": {
+          "Count": "Int:89318"
+        },
+        "Religion:hindu": {
+          "Count": "Int:5221"
+        },
+        "Religion:islam": {
+          "Count": "Int:2074"
+        },
+        "Religion:roman_catholic": {
+          "Count": "Int:602"
+        },
+        "Religion:other_christian": {
+          "Count": "Int:550"
+        },
+        "Religion:other": {
+          "Count": "Int:201"
+        }
+      },
+      "DSD:LK-6203": {
+        "Religion:buddhist": {
+          "Count": "Int:6329"
+        },
+        "Religion:hindu": {
+          "Count": "Int:4083"
+        },
+        "Religion:islam": {
+          "Count": "Int:52964"
+        },
+        "Religion:roman_catholic": {
+          "Count": "Int:32625"
+        },
+        "Religion:other_christian": {
+          "Count": "Int:910"
+        },
+        "Religion:other": {
+          "Count": "Int:84"
+        }
+      },
+      "DSD:LK-1124": {
+        "Religion:buddhist": {
+          "Count": "Int:74848"
+        },
+        "Religion:hindu": {
+          "Count": "Int:4957"
+        },
+        "Religion:islam": {
+          "Count": "Int:6535"
+        },
+        "Religion:roman_catholic": {
+          "Count": "Int:6340"
+        },
+        "Religion:other_christian": {
+          "Count": "Int:3379"
+        },
+        "Religion:other": {
+          "Count": "Int:130"
+        }
+      },
+      "DSD:LK-6163": {
+        "Religion:buddhist": {
+          "Count": "Int:80308"
+        },
+        "Religion:hindu": {
+          "Count": "Int:2575"
+        },
+        "Religion:islam": {
+          "Count": "Int:12357"
+        },
+        "Religion:roman_catholic": {
+          "Count": "Int:332"
+        },
+        "Religion:other_christian": {
+          "Count": "Int:49"
+        },
+        "Religion:other": {
+          "Count": "Int:339"
+        }
+      },
+      "DSD:LK-5118": {
+        "Religion:buddhist": {
+          "Count": "Int:527"
+        },
+        "Religion:hindu": {
+          "Count": "Int:62003"
+        },
+        "Religion:islam": {
+          "Count": "Int:6358"
+        },
+        "Religion:roman_catholic": {
+          "Count": "Int:16570"
+        },
+        "Religion:other_christian": {
+          "Count": "Int:9447"
+        },
+        "Religion:other": {
+          "Count": "Int:202"
+        }
+      },
+      "DSD:LK-6215": {
+        "Religion:buddhist": {
+          "Count": "Int:17639"
+        },
+        "Religion:hindu": {
+          "Count": "Int:4442"
+        },
+        "Religion:islam": {
+          "Count": "Int:63087"
+        },
+        "Religion:roman_catholic": {
+          "Count": "Int:8208"
+        },
+        "Religion:other_christian": {
+          "Count": "Int:1114"
+        },
+        "Religion:other": {
+          "Count": "Int:287"
+        }
+      },
+      "DSD:LK-9212": {
+        "Religion:buddhist": {
+          "Count": "Int:89192"
+        },
+        "Religion:hindu": {
+          "Count": "Int:1920"
+        },
+        "Religion:islam": {
+          "Count": "Int:1241"
+        },
+        "Religion:roman_catholic": {
+          "Count": "Int:1168"
+        },
+        "Religion:other_christian": {
+          "Count": "Int:456"
+        },
+        "Religion:other": {
+          "Count": "Int:337"
+        }
+      },
+      "DSD:LK-5112": {
+        "Religion:buddhist": {
+          "Count": "Int:2638"
+        },
+        "Religion:hindu": {
+          "Count": "Int:62049"
+        },
+        "Religion:islam": {
+          "Count": "Int:20083"
+        },
+        "Religion:roman_catholic": {
+          "Count": "Int:3427"
+        },
+        "Religion:other_christian": {
+          "Count": "Int:5914"
+        },
+        "Religion:other": {
+          "Count": "Int:126"
+        }
+      },
+      "DSD:LK-8124": {
+        "Religion:buddhist": {
+          "Count": "Int:59899"
+        },
+        "Religion:hindu": {
+          "Count": "Int:28022"
+        },
+        "Religion:islam": {
+          "Count": "Int:4617"
+        },
+        "Religion:roman_catholic": {
+          "Count": "Int:906"
+        },
+        "Religion:other_christian": {
+          "Count": "Int:578"
+        },
+        "Religion:other": {
+          "Count": "Int:204"
+        }
+      },
+      "DSD:LK-6130": {
+        "Religion:buddhist": {
+          "Count": "Int:84174"
+        },
+        "Religion:hindu": {
+          "Count": "Int:740"
+        },
+        "Religion:islam": {
+          "Count": "Int:8084"
+        },
+        "Religion:roman_catholic": {
+          "Count": "Int:643"
+        },
+        "Religion:other_christian": {
+          "Count": "Int:153"
+        },
+        "Religion:other": {
+          "Count": "Int:373"
+        }
+      },
+      "DSD:LK-2133": {
+        "Religion:buddhist": {
+          "Count": "Int:80125"
+        },
+        "Religion:hindu": {
+          "Count": "Int:1602"
+        },
+        "Religion:islam": {
+          "Count": "Int:10631"
+        },
+        "Religion:roman_catholic": {
+          "Count": "Int:1000"
+        },
+        "Religion:other_christian": {
+          "Count": "Int:234"
+        },
+        "Religion:other": {
+          "Count": "Int:429"
+        }
+      },
+      "DSD:LK-9124": {
+        "Religion:buddhist": {
+          "Count": "Int:80404"
+        },
+        "Religion:hindu": {
+          "Count": "Int:11629"
+        },
+        "Religion:islam": {
+          "Count": "Int:612"
+        },
+        "Religion:roman_catholic": {
+          "Count": "Int:566"
+        },
+        "Religion:other_christian": {
+          "Count": "Int:424"
+        },
+        "Religion:other": {
+          "Count": "Int:183"
+        }
+      },
+      "DSD:LK-1130": {
+        "Religion:buddhist": {
+          "Count": "Int:43573"
+        },
+        "Religion:hindu": {
+          "Count": "Int:14406"
+        },
+        "Religion:islam": {
+          "Count": "Int:28538"
+        },
+        "Religion:roman_catholic": {
+          "Count": "Int:4627"
+        },
+        "Religion:other_christian": {
+          "Count": "Int:2557"
+        },
+        "Religion:other": {
+          "Count": "Int:114"
+        }
+      },
+      "DSD:LK-2112": {
+        "Religion:buddhist": {
+          "Count": "Int:66522"
+        },
+        "Religion:hindu": {
+          "Count": "Int:2282"
+        },
+        "Religion:islam": {
+          "Count": "Int:23249"
+        },
+        "Religion:roman_catholic": {
+          "Count": "Int:769"
+        },
+        "Religion:other_christian": {
+          "Count": "Int:323"
+        },
+        "Religion:other": {
+          "Count": "Int:331"
+        }
+      },
+      "DSD:LK-7215": {
+        "Religion:buddhist": {
+          "Count": "Int:74186"
+        },
+        "Religion:hindu": {
+          "Count": "Int:892"
+        },
+        "Religion:islam": {
+          "Count": "Int:15617"
+        },
+        "Religion:roman_catholic": {
+          "Count": "Int:710"
+        },
+        "Religion:other_christian": {
+          "Count": "Int:281"
+        },
+        "Religion:other": {
+          "Count": "Int:370"
+        }
+      },
+      "DSD:LK-8103": {
+        "Religion:buddhist": {
+          "Count": "Int:86376"
+        },
+        "Religion:hindu": {
+          "Count": "Int:21"
+        },
+        "Religion:islam": {
+          "Count": "Int:2353"
+        },
+        "Religion:roman_catholic": {
+          "Count": "Int:40"
+        },
+        "Religion:other_christian": {
+          "Count": "Int:62"
+        },
+        "Religion:other": {
+          "Count": "Int:230"
+        }
+      },
+      "DSD:LK-6154": {
+        "Religion:buddhist": {
+          "Count": "Int:71927"
+        },
+        "Religion:hindu": {
+          "Count": "Int:2476"
+        },
+        "Religion:islam": {
+          "Count": "Int:10544"
+        },
+        "Religion:roman_catholic": {
+          "Count": "Int:2537"
+        },
+        "Religion:other_christian": {
+          "Count": "Int:1233"
+        },
+        "Religion:other": {
+          "Count": "Int:282"
+        }
+      },
+      "DSD:LK-2312": {
+        "Religion:buddhist": {
+          "Count": "Int:27807"
+        },
+        "Religion:hindu": {
+          "Count": "Int:47875"
+        },
+        "Religion:islam": {
+          "Count": "Int:4879"
+        },
+        "Religion:roman_catholic": {
+          "Count": "Int:5177"
+        },
+        "Religion:other_christian": {
+          "Count": "Int:2543"
+        },
+        "Religion:other": {
+          "Count": "Int:51"
+        }
+      },
+      "DSD:LK-1131": {
+        "Religion:buddhist": {
+          "Count": "Int:57385"
+        },
+        "Religion:hindu": {
+          "Count": "Int:7316"
+        },
+        "Religion:islam": {
+          "Count": "Int:13852"
+        },
+        "Religion:roman_catholic": {
+          "Count": "Int:5455"
+        },
+        "Religion:other_christian": {
+          "Count": "Int:4012"
+        },
+        "Religion:other": {
+          "Count": "Int:43"
+        }
+      },
+      "DSD:LK-9203": {
+        "Religion:buddhist": {
+          "Count": "Int:79429"
+        },
+        "Religion:hindu": {
+          "Count": "Int:700"
+        },
+        "Religion:islam": {
+          "Count": "Int:3429"
+        },
+        "Religion:roman_catholic": {
+          "Count": "Int:1228"
+        },
+        "Religion:other_christian": {
+          "Count": "Int:1850"
+        },
+        "Religion:other": {
+          "Count": "Int:419"
+        }
+      },
+      "DSD:LK-5324": {
+        "Religion:buddhist": {
+          "Count": "Int:0"
+        },
+        "Religion:hindu": {
+          "Count": "Int:2363"
+        },
+        "Religion:islam": {
+          "Count": "Int:84030"
+        },
+        "Religion:roman_catholic": {
+          "Count": "Int:0"
+        },
+        "Religion:other_christian": {
+          "Count": "Int:0"
+        },
+        "Religion:other": {
+          "Count": "Int:111"
+        }
+      },
+      "DSD:LK-6127": {
+        "Religion:buddhist": {
+          "Count": "Int:85752"
+        },
+        "Religion:hindu": {
+          "Count": "Int:85"
+        },
+        "Religion:islam": {
+          "Count": "Int:0"
+        },
+        "Religion:roman_catholic": {
+          "Count": "Int:133"
+        },
+        "Religion:other_christian": {
+          "Count": "Int:92"
+        },
+        "Religion:other": {
+          "Count": "Int:349"
+        }
+      },
+      "DSD:LK-3145": {
+        "Religion:buddhist": {
+          "Count": "Int:82001"
+        },
+        "Religion:hindu": {
+          "Count": "Int:791"
+        },
+        "Religion:islam": {
+          "Count": "Int:2300"
+        },
+        "Religion:roman_catholic": {
+          "Count": "Int:242"
+        },
+        "Religion:other_christian": {
+          "Count": "Int:312"
+        },
+        "Religion:other": {
+          "Count": "Int:490"
+        }
+      },
+      "DSD:LK-1330": {
+        "Religion:buddhist": {
+          "Count": "Int:74763"
+        },
+        "Religion:hindu": {
+          "Count": "Int:6672"
+        },
+        "Religion:islam": {
+          "Count": "Int:3598"
+        },
+        "Religion:roman_catholic": {
+          "Count": "Int:386"
+        },
+        "Religion:other_christian": {
+          "Count": "Int:354"
+        },
+        "Religion:other": {
+          "Count": "Int:292"
+        }
+      },
+      "DSD:LK-7212": {
+        "Religion:buddhist": {
+          "Count": "Int:82634"
+        },
+        "Religion:hindu": {
+          "Count": "Int:2518"
+        },
+        "Religion:islam": {
+          "Count": "Int:20"
+        },
+        "Religion:roman_catholic": {
+          "Count": "Int:332"
+        },
+        "Religion:other_christian": {
+          "Count": "Int:148"
+        },
+        "Religion:other": {
+          "Count": "Int:255"
+        }
+      },
+      "DSD:LK-9230": {
+        "Religion:buddhist": {
+          "Count": "Int:66913"
+        },
+        "Religion:hindu": {
+          "Count": "Int:12052"
+        },
+        "Religion:islam": {
+          "Count": "Int:3862"
+        },
+        "Religion:roman_catholic": {
+          "Count": "Int:1372"
+        },
+        "Religion:other_christian": {
+          "Count": "Int:557"
+        },
+        "Religion:other": {
+          "Count": "Int:211"
+        }
+      },
+      "DSD:LK-8121": {
+        "Religion:buddhist": {
+          "Count": "Int:56647"
+        },
+        "Religion:hindu": {
+          "Count": "Int:15428"
+        },
+        "Religion:islam": {
+          "Count": "Int:8853"
+        },
+        "Religion:roman_catholic": {
+          "Count": "Int:1133"
+        },
+        "Religion:other_christian": {
+          "Count": "Int:852"
+        },
+        "Religion:other": {
+          "Count": "Int:120"
+        }
+      },
+      "DSD:LK-6172": {
+        "Religion:buddhist": {
+          "Count": "Int:74412"
+        },
+        "Religion:hindu": {
+          "Count": "Int:547"
+        },
+        "Religion:islam": {
+          "Count": "Int:2402"
+        },
+        "Religion:roman_catholic": {
+          "Count": "Int:4066"
+        },
+        "Religion:other_christian": {
+          "Count": "Int:792"
+        },
+        "Religion:other": {
+          "Count": "Int:368"
+        }
+      },
+      "DSD:LK-8127": {
+        "Religion:buddhist": {
+          "Count": "Int:69390"
+        },
+        "Religion:hindu": {
+          "Count": "Int:9550"
+        },
+        "Religion:islam": {
+          "Count": "Int:2467"
+        },
+        "Religion:roman_catholic": {
+          "Count": "Int:294"
+        },
+        "Religion:other_christian": {
+          "Count": "Int:127"
+        },
+        "Religion:other": {
+          "Count": "Int:241"
+        }
+      },
+      "DSD:LK-2206": {
+        "Religion:buddhist": {
+          "Count": "Int:77050"
+        },
+        "Religion:hindu": {
+          "Count": "Int:527"
+        },
+        "Religion:islam": {
+          "Count": "Int:2447"
+        },
+        "Religion:roman_catholic": {
+          "Count": "Int:771"
+        },
+        "Religion:other_christian": {
+          "Count": "Int:75"
+        },
+        "Religion:other": {
+          "Count": "Int:369"
+        }
+      },
+      "DSD:LK-3315": {
+        "Religion:buddhist": {
+          "Count": "Int:78046"
+        },
+        "Religion:hindu": {
+          "Count": "Int:170"
+        },
+        "Religion:islam": {
+          "Count": "Int:1854"
+        },
+        "Religion:roman_catholic": {
+          "Count": "Int:89"
+        },
+        "Religion:other_christian": {
+          "Count": "Int:112"
+        },
+        "Religion:other": {
+          "Count": "Int:235"
+        }
+      },
+      "DSD:LK-2218": {
+        "Religion:buddhist": {
+          "Count": "Int:49101"
+        },
+        "Religion:hindu": {
+          "Count": "Int:13534"
+        },
+        "Religion:islam": {
+          "Count": "Int:15790"
+        },
+        "Religion:roman_catholic": {
+          "Count": "Int:1082"
+        },
+        "Religion:other_christian": {
+          "Count": "Int:597"
+        },
+        "Religion:other": {
+          "Count": "Int:272"
+        }
+      },
+      "DSD:LK-3333": {
+        "Religion:buddhist": {
+          "Count": "Int:77974"
+        },
+        "Religion:hindu": {
+          "Count": "Int:0"
+        },
+        "Religion:islam": {
+          "Count": "Int:986"
+        },
+        "Religion:roman_catholic": {
+          "Count": "Int:62"
+        },
+        "Religion:other_christian": {
+          "Count": "Int:131"
+        },
+        "Religion:other": {
+          "Count": "Int:390"
+        }
+      },
+      "DSD:LK-2203": {
+        "Religion:buddhist": {
+          "Count": "Int:62683"
+        },
+        "Religion:hindu": {
+          "Count": "Int:928"
+        },
+        "Religion:islam": {
+          "Count": "Int:11196"
+        },
+        "Religion:roman_catholic": {
+          "Count": "Int:3350"
+        },
+        "Religion:other_christian": {
+          "Count": "Int:208"
+        },
+        "Religion:other": {
+          "Count": "Int:274"
+        }
+      },
+      "DSD:LK-9142": {
+        "Religion:buddhist": {
+          "Count": "Int:60584"
+        },
+        "Religion:hindu": {
+          "Count": "Int:12542"
+        },
+        "Religion:islam": {
+          "Count": "Int:3110"
+        },
+        "Religion:roman_catholic": {
+          "Count": "Int:1081"
+        },
+        "Religion:other_christian": {
+          "Count": "Int:1057"
+        },
+        "Religion:other": {
+          "Count": "Int:167"
+        }
+      },
+      "DSD:LK-7133": {
+        "Religion:buddhist": {
+          "Count": "Int:71538"
+        },
+        "Religion:hindu": {
+          "Count": "Int:186"
+        },
+        "Religion:islam": {
+          "Count": "Int:3095"
+        },
+        "Religion:roman_catholic": {
+          "Count": "Int:882"
+        },
+        "Religion:other_christian": {
+          "Count": "Int:248"
+        },
+        "Religion:other": {
+          "Count": "Int:189"
+        }
+      },
+      "DSD:LK-3239": {
+        "Religion:buddhist": {
+          "Count": "Int:66983"
+        },
+        "Religion:hindu": {
+          "Count": "Int:106"
+        },
+        "Religion:islam": {
+          "Count": "Int:8631"
+        },
+        "Religion:roman_catholic": {
+          "Count": "Int:15"
+        },
+        "Religion:other_christian": {
+          "Count": "Int:36"
+        },
+        "Religion:other": {
+          "Count": "Int:365"
+        }
+      },
+      "DSD:LK-4118": {
+        "Religion:buddhist": {
+          "Count": "Int:66"
+        },
+        "Religion:hindu": {
+          "Count": "Int:68751"
+        },
+        "Religion:islam": {
+          "Count": "Int:154"
+        },
+        "Religion:roman_catholic": {
+          "Count": "Int:4666"
+        },
+        "Religion:other_christian": {
+          "Count": "Int:2225"
+        },
+        "Religion:other": {
+          "Count": "Int:117"
+        }
+      },
+      "DSD:LK-9118": {
+        "Religion:buddhist": {
+          "Count": "Int:54995"
+        },
+        "Religion:hindu": {
+          "Count": "Int:10933"
+        },
+        "Religion:islam": {
+          "Count": "Int:6733"
+        },
+        "Religion:roman_catholic": {
+          "Count": "Int:1399"
+        },
+        "Religion:other_christian": {
+          "Count": "Int:666"
+        },
+        "Religion:other": {
+          "Count": "Int:167"
+        }
+      },
+      "DSD:LK-4509": {
+        "Religion:buddhist": {
+          "Count": "Int:1409"
+        },
+        "Religion:hindu": {
+          "Count": "Int:60727"
+        },
+        "Religion:islam": {
+          "Count": "Int:366"
+        },
+        "Religion:roman_catholic": {
+          "Count": "Int:5839"
+        },
+        "Religion:other_christian": {
+          "Count": "Int:6139"
+        },
+        "Religion:other": {
+          "Count": "Int:151"
+        }
+      },
+      "DSD:LK-3309": {
+        "Religion:buddhist": {
+          "Count": "Int:71643"
+        },
+        "Religion:hindu": {
+          "Count": "Int:193"
+        },
+        "Religion:islam": {
+          "Count": "Int:1922"
+        },
+        "Religion:roman_catholic": {
+          "Count": "Int:94"
+        },
+        "Religion:other_christian": {
+          "Count": "Int:82"
+        },
+        "Religion:other": {
+          "Count": "Int:241"
+        }
+      },
+      "DSD:LK-9103": {
+        "Religion:buddhist": {
+          "Count": "Int:66173"
+        },
+        "Religion:hindu": {
+          "Count": "Int:3187"
+        },
+        "Religion:islam": {
+          "Count": "Int:3926"
+        },
+        "Religion:roman_catholic": {
+          "Count": "Int:268"
+        },
+        "Religion:other_christian": {
+          "Count": "Int:245"
+        },
+        "Religion:other": {
+          "Count": "Int:272"
+        }
+      },
+      "DSD:LK-9215": {
+        "Religion:buddhist": {
+          "Count": "Int:69494"
+        },
+        "Religion:hindu": {
+          "Count": "Int:2464"
+        },
+        "Religion:islam": {
+          "Count": "Int:1141"
+        },
+        "Religion:roman_catholic": {
+          "Count": "Int:276"
+        },
+        "Religion:other_christian": {
+          "Count": "Int:154"
+        },
+        "Religion:other": {
+          "Count": "Int:249"
+        }
+      },
+      "DSD:LK-8221": {
+        "Religion:buddhist": {
+          "Count": "Int:71292"
+        },
+        "Religion:hindu": {
+          "Count": "Int:438"
+        },
+        "Religion:islam": {
+          "Count": "Int:1124"
+        },
+        "Religion:roman_catholic": {
+          "Count": "Int:85"
+        },
+        "Religion:other_christian": {
+          "Count": "Int:152"
+        },
+        "Religion:other": {
+          "Count": "Int:189"
+        }
+      },
+      "DSD:LK-1118": {
+        "Religion:buddhist": {
+          "Count": "Int:69188"
+        },
+        "Religion:hindu": {
+          "Count": "Int:1354"
+        },
+        "Religion:islam": {
+          "Count": "Int:1173"
+        },
+        "Religion:roman_catholic": {
+          "Count": "Int:433"
+        },
+        "Religion:other_christian": {
+          "Count": "Int:511"
+        },
+        "Religion:other": {
+          "Count": "Int:355"
+        }
+      },
+      "DSD:LK-4133": {
+        "Religion:buddhist": {
+          "Count": "Int:1635"
+        },
+        "Religion:hindu": {
+          "Count": "Int:62589"
+        },
+        "Religion:islam": {
+          "Count": "Int:506"
+        },
+        "Religion:roman_catholic": {
+          "Count": "Int:5278"
+        },
+        "Religion:other_christian": {
+          "Count": "Int:2661"
+        },
+        "Religion:other": {
+          "Count": "Int:215"
+        }
+      },
+      "DSD:LK-5218": {
+        "Religion:buddhist": {
+          "Count": "Int:511"
+        },
+        "Religion:hindu": {
+          "Count": "Int:8316"
+        },
+        "Religion:islam": {
+          "Count": "Int:63096"
+        },
+        "Religion:roman_catholic": {
+          "Count": "Int:105"
+        },
+        "Religion:other_christian": {
+          "Count": "Int:679"
+        },
+        "Religion:other": {
+          "Count": "Int:87"
+        }
+      },
+      "DSD:LK-6218": {
+        "Religion:buddhist": {
+          "Count": "Int:12442"
+        },
+        "Religion:hindu": {
+          "Count": "Int:9196"
+        },
+        "Religion:islam": {
+          "Count": "Int:30354"
+        },
+        "Religion:roman_catholic": {
+          "Count": "Int:20126"
+        },
+        "Religion:other_christian": {
+          "Count": "Int:301"
+        },
+        "Religion:other": {
+          "Count": "Int:151"
+        }
+      },
+      "DSD:LK-7206": {
+        "Religion:buddhist": {
+          "Count": "Int:70696"
+        },
+        "Religion:hindu": {
+          "Count": "Int:0"
+        },
+        "Religion:islam": {
+          "Count": "Int:1483"
+        },
+        "Religion:roman_catholic": {
+          "Count": "Int:67"
+        },
+        "Religion:other_christian": {
+          "Count": "Int:19"
+        },
+        "Religion:other": {
+          "Count": "Int:217"
+        }
+      },
+      "DSD:LK-2233": {
+        "Religion:buddhist": {
+          "Count": "Int:45225"
+        },
+        "Religion:hindu": {
+          "Count": "Int:9349"
+        },
+        "Religion:islam": {
+          "Count": "Int:16418"
+        },
+        "Religion:roman_catholic": {
+          "Count": "Int:794"
+        },
+        "Religion:other_christian": {
+          "Count": "Int:264"
+        },
+        "Religion:other": {
+          "Count": "Int:263"
+        }
+      },
+      "DSD:LK-5327": {
+        "Religion:buddhist": {
+          "Count": "Int:241"
+        },
+        "Religion:hindu": {
+          "Count": "Int:23126"
+        },
+        "Religion:islam": {
+          "Count": "Int:45651"
+        },
+        "Religion:roman_catholic": {
+          "Count": "Int:1435"
+        },
+        "Religion:other_christian": {
+          "Count": "Int:1271"
+        },
+        "Religion:other": {
+          "Count": "Int:157"
+        }
+      },
+      "DSD:LK-7115": {
+        "Religion:buddhist": {
+          "Count": "Int:63644"
+        },
+        "Religion:hindu": {
+          "Count": "Int:475"
+        },
+        "Religion:islam": {
+          "Count": "Int:6424"
+        },
+        "Religion:roman_catholic": {
+          "Count": "Int:337"
+        },
+        "Religion:other_christian": {
+          "Count": "Int:384"
+        },
+        "Religion:other": {
+          "Count": "Int:265"
+        }
+      },
+      "DSD:LK-6145": {
+        "Religion:buddhist": {
+          "Count": "Int:58481"
+        },
+        "Religion:hindu": {
+          "Count": "Int:194"
+        },
+        "Religion:islam": {
+          "Count": "Int:10428"
+        },
+        "Religion:roman_catholic": {
+          "Count": "Int:1585"
+        },
+        "Religion:other_christian": {
+          "Count": "Int:74"
+        },
+        "Religion:other": {
+          "Count": "Int:424"
+        }
+      },
+      "DSD:LK-2109": {
+        "Religion:buddhist": {
+          "Count": "Int:19148"
+        },
+        "Religion:hindu": {
+          "Count": "Int:3384"
+        },
+        "Religion:islam": {
+          "Count": "Int:48191"
+        },
+        "Religion:roman_catholic": {
+          "Count": "Int:102"
+        },
+        "Religion:other_christian": {
+          "Count": "Int:21"
+        },
+        "Religion:other": {
+          "Count": "Int:164"
+        }
+      },
+      "DSD:LK-6160": {
+        "Religion:buddhist": {
+          "Count": "Int:57291"
+        },
+        "Religion:hindu": {
+          "Count": "Int:2966"
+        },
+        "Religion:islam": {
+          "Count": "Int:8754"
+        },
+        "Religion:roman_catholic": {
+          "Count": "Int:787"
+        },
+        "Religion:other_christian": {
+          "Count": "Int:763"
+        },
+        "Religion:other": {
+          "Count": "Int:306"
+        }
+      },
+      "DSD:LK-7203": {
+        "Religion:buddhist": {
+          "Count": "Int:68762"
+        },
+        "Religion:hindu": {
+          "Count": "Int:94"
+        },
+        "Religion:islam": {
+          "Count": "Int:552"
+        },
+        "Religion:roman_catholic": {
+          "Count": "Int:723"
+        },
+        "Religion:other_christian": {
+          "Count": "Int:195"
+        },
+        "Religion:other": {
+          "Count": "Int:325"
+        }
+      },
+      "DSD:LK-9209": {
+        "Religion:buddhist": {
+          "Count": "Int:61972"
+        },
+        "Religion:hindu": {
+          "Count": "Int:1088"
+        },
+        "Religion:islam": {
+          "Count": "Int:5506"
+        },
+        "Religion:roman_catholic": {
+          "Count": "Int:144"
+        },
+        "Religion:other_christian": {
+          "Count": "Int:112"
+        },
+        "Religion:other": {
+          "Count": "Int:253"
+        }
+      },
+      "DSD:LK-3106": {
+        "Religion:buddhist": {
+          "Count": "Int:66727"
+        },
+        "Religion:hindu": {
+          "Count": "Int:52"
+        },
+        "Religion:islam": {
+          "Count": "Int:1085"
+        },
+        "Religion:roman_catholic": {
+          "Count": "Int:10"
+        },
+        "Religion:other_christian": {
+          "Count": "Int:10"
+        },
+        "Religion:other": {
+          "Count": "Int:266"
+        }
+      },
+      "DSD:LK-4130": {
+        "Religion:buddhist": {
+          "Count": "Int:92"
+        },
+        "Religion:hindu": {
+          "Count": "Int:62137"
+        },
+        "Religion:islam": {
+          "Count": "Int:93"
+        },
+        "Religion:roman_catholic": {
+          "Count": "Int:3159"
+        },
+        "Religion:other_christian": {
+          "Count": "Int:2051"
+        },
+        "Religion:other": {
+          "Count": "Int:250"
+        }
+      },
+      "DSD:LK-6187": {
+        "Religion:buddhist": {
+          "Count": "Int:58139"
+        },
+        "Religion:hindu": {
+          "Count": "Int:1198"
+        },
+        "Religion:islam": {
+          "Count": "Int:6721"
+        },
+        "Religion:roman_catholic": {
+          "Count": "Int:570"
+        },
+        "Religion:other_christian": {
+          "Count": "Int:394"
+        },
+        "Religion:other": {
+          "Count": "Int:443"
+        }
+      },
+      "DSD:LK-5203": {
+        "Religion:buddhist": {
+          "Count": "Int:66971"
+        },
+        "Religion:hindu": {
+          "Count": "Int:25"
+        },
+        "Religion:islam": {
+          "Count": "Int:64"
+        },
+        "Religion:roman_catholic": {
+          "Count": "Int:12"
+        },
+        "Religion:other_christian": {
+          "Count": "Int:84"
+        },
+        "Religion:other": {
+          "Count": "Int:118"
+        }
+      },
+      "DSD:LK-3312": {
+        "Religion:buddhist": {
+          "Count": "Int:54707"
+        },
+        "Religion:hindu": {
+          "Count": "Int:380"
+        },
+        "Religion:islam": {
+          "Count": "Int:11332"
+        },
+        "Religion:roman_catholic": {
+          "Count": "Int:228"
+        },
+        "Religion:other_christian": {
+          "Count": "Int:367"
+        },
+        "Religion:other": {
+          "Count": "Int:193"
+        }
+      },
+      "DSD:LK-1327": {
+        "Religion:buddhist": {
+          "Count": "Int:58894"
+        },
+        "Religion:hindu": {
+          "Count": "Int:6209"
+        },
+        "Religion:islam": {
+          "Count": "Int:0"
+        },
+        "Religion:roman_catholic": {
+          "Count": "Int:1171"
+        },
+        "Religion:other_christian": {
+          "Count": "Int:574"
+        },
+        "Religion:other": {
+          "Count": "Int:241"
+        }
+      },
+      "DSD:LK-6142": {
+        "Religion:buddhist": {
+          "Count": "Int:57503"
+        },
+        "Religion:hindu": {
+          "Count": "Int:307"
+        },
+        "Religion:islam": {
+          "Count": "Int:2237"
+        },
+        "Religion:roman_catholic": {
+          "Count": "Int:6064"
+        },
+        "Religion:other_christian": {
+          "Count": "Int:312"
+        },
+        "Religion:other": {
+          "Count": "Int:301"
+        }
+      },
+      "DSD:LK-3112": {
+        "Religion:buddhist": {
+          "Count": "Int:64758"
+        },
+        "Religion:hindu": {
+          "Count": "Int:1384"
+        },
+        "Religion:islam": {
+          "Count": "Int:0"
+        },
+        "Religion:roman_catholic": {
+          "Count": "Int:155"
+        },
+        "Religion:other_christian": {
+          "Count": "Int:189"
+        },
+        "Religion:other": {
+          "Count": "Int:185"
+        }
+      },
+      "DSD:LK-6136": {
+        "Religion:buddhist": {
+          "Count": "Int:64464"
+        },
+        "Religion:hindu": {
+          "Count": "Int:133"
+        },
+        "Religion:islam": {
+          "Count": "Int:999"
+        },
+        "Religion:roman_catholic": {
+          "Count": "Int:498"
+        },
+        "Religion:other_christian": {
+          "Count": "Int:85"
+        },
+        "Religion:other": {
+          "Count": "Int:309"
+        }
+      },
+      "DSD:LK-9221": {
+        "Religion:buddhist": {
+          "Count": "Int:56321"
+        },
+        "Religion:hindu": {
+          "Count": "Int:4285"
+        },
+        "Religion:islam": {
+          "Count": "Int:4297"
+        },
+        "Religion:roman_catholic": {
+          "Count": "Int:384"
+        },
+        "Religion:other_christian": {
+          "Count": "Int:312"
+        },
+        "Religion:other": {
+          "Count": "Int:198"
+        }
+      },
+      "DSD:LK-6184": {
+        "Religion:buddhist": {
+          "Count": "Int:65134"
+        },
+        "Religion:hindu": {
+          "Count": "Int:45"
+        },
+        "Religion:islam": {
+          "Count": "Int:0"
+        },
+        "Religion:roman_catholic": {
+          "Count": "Int:167"
+        },
+        "Religion:other_christian": {
+          "Count": "Int:116"
+        },
+        "Religion:other": {
+          "Count": "Int:227"
+        }
+      },
+      "DSD:LK-2157": {
+        "Religion:buddhist": {
+          "Count": "Int:31091"
+        },
+        "Religion:hindu": {
+          "Count": "Int:20850"
+        },
+        "Religion:islam": {
+          "Count": "Int:10307"
+        },
+        "Religion:roman_catholic": {
+          "Count": "Int:2239"
+        },
+        "Religion:other_christian": {
+          "Count": "Int:929"
+        },
+        "Religion:other": {
+          "Count": "Int:137"
+        }
+      },
+      "DSD:LK-1312": {
+        "Religion:buddhist": {
+          "Count": "Int:55212"
+        },
+        "Religion:hindu": {
+          "Count": "Int:7128"
+        },
+        "Religion:islam": {
+          "Count": "Int:2415"
+        },
+        "Religion:roman_catholic": {
+          "Count": "Int:236"
+        },
+        "Religion:other_christian": {
+          "Count": "Int:337"
+        },
+        "Religion:other": {
+          "Count": "Int:222"
+        }
+      },
+      "DSD:LK-6242": {
+        "Religion:buddhist": {
+          "Count": "Int:30286"
+        },
+        "Religion:hindu": {
+          "Count": "Int:1173"
+        },
+        "Religion:islam": {
+          "Count": "Int:7904"
+        },
+        "Religion:roman_catholic": {
+          "Count": "Int:24992"
+        },
+        "Religion:other_christian": {
+          "Count": "Int:965"
+        },
+        "Religion:other": {
+          "Count": "Int:180"
+        }
+      },
+      "DSD:LK-8133": {
+        "Religion:buddhist": {
+          "Count": "Int:47050"
+        },
+        "Religion:hindu": {
+          "Count": "Int:12023"
+        },
+        "Religion:islam": {
+          "Count": "Int:3734"
+        },
+        "Religion:roman_catholic": {
+          "Count": "Int:1691"
+        },
+        "Religion:other_christian": {
+          "Count": "Int:813"
+        },
+        "Religion:other": {
+          "Count": "Int:177"
+        }
+      },
+      "DSD:LK-7154": {
+        "Religion:buddhist": {
+          "Count": "Int:50575"
+        },
+        "Religion:hindu": {
+          "Count": "Int:1189"
+        },
+        "Religion:islam": {
+          "Count": "Int:12750"
+        },
+        "Religion:roman_catholic": {
+          "Count": "Int:343"
+        },
+        "Religion:other_christian": {
+          "Count": "Int:235"
+        },
+        "Religion:other": {
+          "Count": "Int:225"
+        }
+      },
+      "DSD:LK-2309": {
+        "Religion:buddhist": {
+          "Count": "Int:34123"
+        },
+        "Religion:hindu": {
+          "Count": "Int:27612"
+        },
+        "Religion:islam": {
+          "Count": "Int:563"
+        },
+        "Religion:roman_catholic": {
+          "Count": "Int:1656"
+        },
+        "Religion:other_christian": {
+          "Count": "Int:1175"
+        },
+        "Religion:other": {
+          "Count": "Int:158"
+        }
+      },
+      "DSD:LK-6245": {
+        "Religion:buddhist": {
+          "Count": "Int:12250"
+        },
+        "Religion:hindu": {
+          "Count": "Int:602"
+        },
+        "Religion:islam": {
+          "Count": "Int:55"
+        },
+        "Religion:roman_catholic": {
+          "Count": "Int:50261"
+        },
+        "Religion:other_christian": {
+          "Count": "Int:1429"
+        },
+        "Religion:other": {
+          "Count": "Int:171"
+        }
+      },
+      "DSD:LK-9115": {
+        "Religion:buddhist": {
+          "Count": "Int:55075"
+        },
+        "Religion:hindu": {
+          "Count": "Int:7970"
+        },
+        "Religion:islam": {
+          "Count": "Int:74"
+        },
+        "Religion:roman_catholic": {
+          "Count": "Int:846"
+        },
+        "Religion:other_christian": {
+          "Count": "Int:398"
+        },
+        "Religion:other": {
+          "Count": "Int:192"
+        }
+      },
+      "DSD:LK-2124": {
+        "Religion:buddhist": {
+          "Count": "Int:47818"
+        },
+        "Religion:hindu": {
+          "Count": "Int:10196"
+        },
+        "Religion:islam": {
+          "Count": "Int:4817"
+        },
+        "Religion:roman_catholic": {
+          "Count": "Int:956"
+        },
+        "Religion:other_christian": {
+          "Count": "Int:399"
+        },
+        "Religion:other": {
+          "Count": "Int:353"
+        }
+      },
+      "DSD:LK-6124": {
+        "Religion:buddhist": {
+          "Count": "Int:59715"
+        },
+        "Religion:hindu": {
+          "Count": "Int:215"
+        },
+        "Religion:islam": {
+          "Count": "Int:3714"
+        },
+        "Religion:roman_catholic": {
+          "Count": "Int:216"
+        },
+        "Religion:other_christian": {
+          "Count": "Int:31"
+        },
+        "Religion:other": {
+          "Count": "Int:231"
+        }
+      },
+      "DSD:LK-3109": {
+        "Religion:buddhist": {
+          "Count": "Int:62611"
+        },
+        "Religion:hindu": {
+          "Count": "Int:93"
+        },
+        "Religion:islam": {
+          "Count": "Int:585"
+        },
+        "Religion:roman_catholic": {
+          "Count": "Int:120"
+        },
+        "Religion:other_christian": {
+          "Count": "Int:267"
+        },
+        "Religion:other": {
+          "Count": "Int:186"
+        }
+      },
+      "DSD:LK-6233": {
+        "Religion:buddhist": {
+          "Count": "Int:24705"
+        },
+        "Religion:hindu": {
+          "Count": "Int:3895"
+        },
+        "Religion:islam": {
+          "Count": "Int:5471"
+        },
+        "Religion:roman_catholic": {
+          "Count": "Int:28248"
+        },
+        "Religion:other_christian": {
+          "Count": "Int:1113"
+        },
+        "Religion:other": {
+          "Count": "Int:207"
+        }
+      },
+      "DSD:LK-3154": {
+        "Religion:buddhist": {
+          "Count": "Int:62715"
+        },
+        "Religion:hindu": {
+          "Count": "Int:24"
+        },
+        "Religion:islam": {
+          "Count": "Int:12"
+        },
+        "Religion:roman_catholic": {
+          "Count": "Int:104"
+        },
+        "Religion:other_christian": {
+          "Count": "Int:100"
+        },
+        "Religion:other": {
+          "Count": "Int:347"
+        }
+      },
+      "DSD:LK-8212": {
+        "Religion:buddhist": {
+          "Count": "Int:62813"
+        },
+        "Religion:hindu": {
+          "Count": "Int:26"
+        },
+        "Religion:islam": {
+          "Count": "Int:26"
+        },
+        "Religion:roman_catholic": {
+          "Count": "Int:28"
+        },
+        "Religion:other_christian": {
+          "Count": "Int:19"
+        },
+        "Religion:other": {
+          "Count": "Int:143"
+        }
+      },
+      "DSD:LK-5136": {
+        "Religion:buddhist": {
+          "Count": "Int:50"
+        },
+        "Religion:hindu": {
+          "Count": "Int:59997"
+        },
+        "Religion:islam": {
+          "Count": "Int:0"
+        },
+        "Religion:roman_catholic": {
+          "Count": "Int:1510"
+        },
+        "Religion:other_christian": {
+          "Count": "Int:1150"
+        },
+        "Religion:other": {
+          "Count": "Int:213"
+        }
+      },
+      "DSD:LK-6248": {
+        "Religion:buddhist": {
+          "Count": "Int:43375"
+        },
+        "Religion:hindu": {
+          "Count": "Int:624"
+        },
+        "Religion:islam": {
+          "Count": "Int:395"
+        },
+        "Religion:roman_catholic": {
+          "Count": "Int:17539"
+        },
+        "Religion:other_christian": {
+          "Count": "Int:732"
+        },
+        "Religion:other": {
+          "Count": "Int:208"
+        }
+      },
+      "DSD:LK-9227": {
+        "Religion:buddhist": {
+          "Count": "Int:45325"
+        },
+        "Religion:hindu": {
+          "Count": "Int:12585"
+        },
+        "Religion:islam": {
+          "Count": "Int:3081"
+        },
+        "Religion:roman_catholic": {
+          "Count": "Int:610"
+        },
+        "Religion:other_christian": {
+          "Count": "Int:511"
+        },
+        "Religion:other": {
+          "Count": "Int:143"
+        }
+      },
+      "DSD:LK-5212": {
+        "Religion:buddhist": {
+          "Count": "Int:61966"
+        },
+        "Religion:hindu": {
+          "Count": "Int:0"
+        },
+        "Religion:islam": {
+          "Count": "Int:0"
+        },
+        "Religion:roman_catholic": {
+          "Count": "Int:29"
+        },
+        "Religion:other_christian": {
+          "Count": "Int:53"
+        },
+        "Religion:other": {
+          "Count": "Int:168"
+        }
+      },
+      "DSD:LK-6106": {
+        "Religion:buddhist": {
+          "Count": "Int:56429"
+        },
+        "Religion:hindu": {
+          "Count": "Int:94"
+        },
+        "Religion:islam": {
+          "Count": "Int:4169"
+        },
+        "Religion:roman_catholic": {
+          "Count": "Int:475"
+        },
+        "Religion:other_christian": {
+          "Count": "Int:379"
+        },
+        "Religion:other": {
+          "Count": "Int:213"
+        }
+      },
+      "DSD:LK-2303": {
+        "Religion:buddhist": {
+          "Count": "Int:27575"
+        },
+        "Religion:hindu": {
+          "Count": "Int:30690"
+        },
+        "Religion:islam": {
+          "Count": "Int:754"
+        },
+        "Religion:roman_catholic": {
+          "Count": "Int:1228"
+        },
+        "Religion:other_christian": {
+          "Count": "Int:1296"
+        },
+        "Religion:other": {
+          "Count": "Int:199"
+        }
+      },
+      "DSD:LK-6169": {
+        "Religion:buddhist": {
+          "Count": "Int:39425"
+        },
+        "Religion:hindu": {
+          "Count": "Int:169"
+        },
+        "Religion:islam": {
+          "Count": "Int:21049"
+        },
+        "Religion:roman_catholic": {
+          "Count": "Int:313"
+        },
+        "Religion:other_christian": {
+          "Count": "Int:22"
+        },
+        "Religion:other": {
+          "Count": "Int:245"
+        }
+      },
+      "DSD:LK-7148": {
+        "Religion:buddhist": {
+          "Count": "Int:60125"
+        },
+        "Religion:hindu": {
+          "Count": "Int:41"
+        },
+        "Religion:islam": {
+          "Count": "Int:579"
+        },
+        "Religion:roman_catholic": {
+          "Count": "Int:153"
+        },
+        "Religion:other_christian": {
+          "Count": "Int:82"
+        },
+        "Religion:other": {
+          "Count": "Int:236"
+        }
+      },
+      "DSD:LK-3209": {
+        "Religion:buddhist": {
+          "Count": "Int:58982"
+        },
+        "Religion:hindu": {
+          "Count": "Int:1566"
+        },
+        "Religion:islam": {
+          "Count": "Int:0"
+        },
+        "Religion:roman_catholic": {
+          "Count": "Int:33"
+        },
+        "Religion:other_christian": {
+          "Count": "Int:448"
+        },
+        "Religion:other": {
+          "Count": "Int:142"
+        }
+      },
+      "DSD:LK-3206": {
+        "Religion:buddhist": {
+          "Count": "Int:50977"
+        },
+        "Religion:hindu": {
+          "Count": "Int:7733"
+        },
+        "Religion:islam": {
+          "Count": "Int:82"
+        },
+        "Religion:roman_catholic": {
+          "Count": "Int:976"
+        },
+        "Religion:other_christian": {
+          "Count": "Int:1136"
+        },
+        "Religion:other": {
+          "Count": "Int:98"
+        }
+      },
+      "DSD:LK-8106": {
+        "Religion:buddhist": {
+          "Count": "Int:60652"
+        },
+        "Religion:hindu": {
+          "Count": "Int:60"
+        },
+        "Religion:islam": {
+          "Count": "Int:0"
+        },
+        "Religion:roman_catholic": {
+          "Count": "Int:51"
+        },
+        "Religion:other_christian": {
+          "Count": "Int:0"
+        },
+        "Religion:other": {
+          "Count": "Int:119"
+        }
+      },
+      "DSD:LK-2145": {
+        "Religion:buddhist": {
+          "Count": "Int:54367"
+        },
+        "Religion:hindu": {
+          "Count": "Int:3735"
+        },
+        "Religion:islam": {
+          "Count": "Int:1329"
+        },
+        "Religion:roman_catholic": {
+          "Count": "Int:437"
+        },
+        "Religion:other_christian": {
+          "Count": "Int:478"
+        },
+        "Religion:other": {
+          "Count": "Int:293"
+        }
+      },
+      "DSD:LK-8224": {
+        "Religion:buddhist": {
+          "Count": "Int:59547"
+        },
+        "Religion:hindu": {
+          "Count": "Int:394"
+        },
+        "Religion:islam": {
+          "Count": "Int:392"
+        },
+        "Religion:roman_catholic": {
+          "Count": "Int:91"
+        },
+        "Religion:other_christian": {
+          "Count": "Int:0"
+        },
+        "Religion:other": {
+          "Count": "Int:182"
+        }
+      },
+      "DSD:LK-2106": {
+        "Religion:buddhist": {
+          "Count": "Int:47714"
+        },
+        "Religion:hindu": {
+          "Count": "Int:1428"
+        },
+        "Religion:islam": {
+          "Count": "Int:10701"
+        },
+        "Religion:roman_catholic": {
+          "Count": "Int:87"
+        },
+        "Religion:other_christian": {
+          "Count": "Int:117"
+        },
+        "Religion:other": {
+          "Count": "Int:269"
+        }
+      },
+      "DSD:LK-6181": {
+        "Religion:buddhist": {
+          "Count": "Int:55045"
+        },
+        "Religion:hindu": {
+          "Count": "Int:220"
+        },
+        "Religion:islam": {
+          "Count": "Int:3801"
+        },
+        "Religion:roman_catholic": {
+          "Count": "Int:404"
+        },
+        "Religion:other_christian": {
+          "Count": "Int:63"
+        },
+        "Religion:other": {
+          "Count": "Int:273"
+        }
+      },
+      "DSD:LK-3133": {
+        "Religion:buddhist": {
+          "Count": "Int:59209"
+        },
+        "Religion:hindu": {
+          "Count": "Int:26"
+        },
+        "Religion:islam": {
+          "Count": "Int:0"
+        },
+        "Religion:roman_catholic": {
+          "Count": "Int:11"
+        },
+        "Religion:other_christian": {
+          "Count": "Int:114"
+        },
+        "Religion:other": {
+          "Count": "Int:257"
+        }
+      },
+      "DSD:LK-6157": {
+        "Religion:buddhist": {
+          "Count": "Int:46464"
+        },
+        "Religion:hindu": {
+          "Count": "Int:936"
+        },
+        "Religion:islam": {
+          "Count": "Int:9963"
+        },
+        "Religion:roman_catholic": {
+          "Count": "Int:994"
+        },
+        "Religion:other_christian": {
+          "Count": "Int:844"
+        },
+        "Religion:other": {
+          "Count": "Int:290"
+        }
+      },
+      "DSD:LK-9136": {
+        "Religion:buddhist": {
+          "Count": "Int:49271"
+        },
+        "Religion:hindu": {
+          "Count": "Int:8934"
+        },
+        "Religion:islam": {
+          "Count": "Int:520"
+        },
+        "Religion:roman_catholic": {
+          "Count": "Int:436"
+        },
+        "Religion:other_christian": {
+          "Count": "Int:193"
+        },
+        "Religion:other": {
+          "Count": "Int:88"
+        }
+      },
+      "DSD:LK-2154": {
+        "Religion:buddhist": {
+          "Count": "Int:47735"
+        },
+        "Religion:hindu": {
+          "Count": "Int:6014"
+        },
+        "Religion:islam": {
+          "Count": "Int:4756"
+        },
+        "Religion:roman_catholic": {
+          "Count": "Int:236"
+        },
+        "Religion:other_christian": {
+          "Count": "Int:275"
+        },
+        "Religion:other": {
+          "Count": "Int:129"
+        }
+      },
+      "DSD:LK-2306": {
+        "Religion:buddhist": {
+          "Count": "Int:51429"
+        },
+        "Religion:hindu": {
+          "Count": "Int:6794"
+        },
+        "Religion:islam": {
+          "Count": "Int:0"
+        },
+        "Religion:roman_catholic": {
+          "Count": "Int:294"
+        },
+        "Religion:other_christian": {
+          "Count": "Int:176"
+        },
+        "Religion:other": {
+          "Count": "Int:238"
+        }
+      },
+      "DSD:LK-3330": {
+        "Religion:buddhist": {
+          "Count": "Int:58480"
+        },
+        "Religion:hindu": {
+          "Count": "Int:0"
+        },
+        "Religion:islam": {
+          "Count": "Int:0"
+        },
+        "Religion:roman_catholic": {
+          "Count": "Int:26"
+        },
+        "Religion:other_christian": {
+          "Count": "Int:23"
+        },
+        "Religion:other": {
+          "Count": "Int:146"
+        }
+      },
+      "DSD:LK-1310": {
+        "Religion:buddhist": {
+          "Count": "Int:51949"
+        },
+        "Religion:hindu": {
+          "Count": "Int:5487"
+        },
+        "Religion:islam": {
+          "Count": "Int:71"
+        },
+        "Religion:roman_catholic": {
+          "Count": "Int:179"
+        },
+        "Religion:other_christian": {
+          "Count": "Int:504"
+        },
+        "Religion:other": {
+          "Count": "Int:171"
+        }
+      },
+      "DSD:LK-3142": {
+        "Religion:buddhist": {
+          "Count": "Int:55087"
+        },
+        "Religion:hindu": {
+          "Count": "Int:418"
+        },
+        "Religion:islam": {
+          "Count": "Int:1630"
+        },
+        "Religion:roman_catholic": {
+          "Count": "Int:201"
+        },
+        "Religion:other_christian": {
+          "Count": "Int:274"
+        },
+        "Religion:other": {
+          "Count": "Int:280"
+        }
+      },
+      "DSD:LK-4203": {
+        "Religion:buddhist": {
+          "Count": "Int:31"
+        },
+        "Religion:hindu": {
+          "Count": "Int:9924"
+        },
+        "Religion:islam": {
+          "Count": "Int:15326"
+        },
+        "Religion:roman_catholic": {
+          "Count": "Int:29229"
+        },
+        "Religion:other_christian": {
+          "Count": "Int:3073"
+        },
+        "Religion:other": {
+          "Count": "Int:189"
+        }
+      },
+      "DSD:LK-8215": {
+        "Religion:buddhist": {
+          "Count": "Int:48622"
+        },
+        "Religion:hindu": {
+          "Count": "Int:7596"
+        },
+        "Religion:islam": {
+          "Count": "Int:256"
+        },
+        "Religion:roman_catholic": {
+          "Count": "Int:230"
+        },
+        "Religion:other_christian": {
+          "Count": "Int:142"
+        },
+        "Religion:other": {
+          "Count": "Int:105"
+        }
+      },
+      "DSD:LK-3248": {
+        "Religion:buddhist": {
+          "Count": "Int:53164"
+        },
+        "Religion:hindu": {
+          "Count": "Int:0"
+        },
+        "Religion:islam": {
+          "Count": "Int:3106"
+        },
+        "Religion:roman_catholic": {
+          "Count": "Int:0"
+        },
+        "Religion:other_christian": {
+          "Count": "Int:12"
+        },
+        "Religion:other": {
+          "Count": "Int:186"
+        }
+      },
+      "DSD:LK-1318": {
+        "Religion:buddhist": {
+          "Count": "Int:54041"
+        },
+        "Religion:hindu": {
+          "Count": "Int:1252"
+        },
+        "Religion:islam": {
+          "Count": "Int:10"
+        },
+        "Religion:roman_catholic": {
+          "Count": "Int:378"
+        },
+        "Religion:other_christian": {
+          "Count": "Int:195"
+        },
+        "Religion:other": {
+          "Count": "Int:290"
+        }
+      },
+      "DSD:LK-3221": {
+        "Religion:buddhist": {
+          "Count": "Int:47466"
+        },
+        "Religion:hindu": {
+          "Count": "Int:27"
+        },
+        "Religion:islam": {
+          "Count": "Int:8205"
+        },
+        "Religion:roman_catholic": {
+          "Count": "Int:21"
+        },
+        "Religion:other_christian": {
+          "Count": "Int:41"
+        },
+        "Religion:other": {
+          "Count": "Int:200"
+        }
+      },
+      "DSD:LK-7139": {
+        "Religion:buddhist": {
+          "Count": "Int:52281"
+        },
+        "Religion:hindu": {
+          "Count": "Int:188"
+        },
+        "Religion:islam": {
+          "Count": "Int:2407"
+        },
+        "Religion:roman_catholic": {
+          "Count": "Int:417"
+        },
+        "Religion:other_christian": {
+          "Count": "Int:37"
+        },
+        "Religion:other": {
+          "Count": "Int:141"
+        }
+      },
+      "DSD:LK-2121": {
+        "Religion:buddhist": {
+          "Count": "Int:54927"
+        },
+        "Religion:hindu": {
+          "Count": "Int:0"
+        },
+        "Religion:islam": {
+          "Count": "Int:218"
+        },
+        "Religion:roman_catholic": {
+          "Count": "Int:14"
+        },
+        "Religion:other_christian": {
+          "Count": "Int:57"
+        },
+        "Religion:other": {
+          "Count": "Int:126"
+        }
+      },
+      "DSD:LK-1339": {
+        "Religion:buddhist": {
+          "Count": "Int:53425"
+        },
+        "Religion:hindu": {
+          "Count": "Int:1583"
+        },
+        "Religion:islam": {
+          "Count": "Int:12"
+        },
+        "Religion:roman_catholic": {
+          "Count": "Int:42"
+        },
+        "Religion:other_christian": {
+          "Count": "Int:11"
+        },
+        "Religion:other": {
+          "Count": "Int:260"
+        }
+      },
+      "DSD:LK-6175": {
+        "Religion:buddhist": {
+          "Count": "Int:40612"
+        },
+        "Religion:hindu": {
+          "Count": "Int:295"
+        },
+        "Religion:islam": {
+          "Count": "Int:6229"
+        },
+        "Religion:roman_catholic": {
+          "Count": "Int:6719"
+        },
+        "Religion:other_christian": {
+          "Count": "Int:357"
+        },
+        "Religion:other": {
+          "Count": "Int:254"
+        }
+      },
+      "DSD:LK-2230": {
+        "Religion:buddhist": {
+          "Count": "Int:38189"
+        },
+        "Religion:hindu": {
+          "Count": "Int:12016"
+        },
+        "Religion:islam": {
+          "Count": "Int:2301"
+        },
+        "Religion:roman_catholic": {
+          "Count": "Int:636"
+        },
+        "Religion:other_christian": {
+          "Count": "Int:261"
+        },
+        "Religion:other": {
+          "Count": "Int:247"
+        }
+      },
+      "DSD:LK-3218": {
+        "Religion:buddhist": {
+          "Count": "Int:51918"
+        },
+        "Religion:hindu": {
+          "Count": "Int:1191"
+        },
+        "Religion:islam": {
+          "Count": "Int:0"
+        },
+        "Religion:roman_catholic": {
+          "Count": "Int:145"
+        },
+        "Religion:other_christian": {
+          "Count": "Int:163"
+        },
+        "Religion:other": {
+          "Count": "Int:221"
+        }
+      },
+      "DSD:LK-3318": {
+        "Religion:buddhist": {
+          "Count": "Int:53299"
+        },
+        "Religion:hindu": {
+          "Count": "Int:0"
+        },
+        "Religion:islam": {
+          "Count": "Int:0"
+        },
+        "Religion:roman_catholic": {
+          "Count": "Int:0"
+        },
+        "Religion:other_christian": {
+          "Count": "Int:0"
+        },
+        "Religion:other": {
+          "Count": "Int:110"
+        }
+      },
+      "DSD:LK-5233": {
+        "Religion:buddhist": {
+          "Count": "Int:3424"
+        },
+        "Religion:hindu": {
+          "Count": "Int:740"
+        },
+        "Religion:islam": {
+          "Count": "Int:48938"
+        },
+        "Religion:roman_catholic": {
+          "Count": "Int:49"
+        },
+        "Religion:other_christian": {
+          "Count": "Int:0"
+        },
+        "Religion:other": {
+          "Count": "Int:63"
+        }
+      },
+      "DSD:LK-5224": {
+        "Religion:buddhist": {
+          "Count": "Int:25"
+        },
+        "Religion:hindu": {
+          "Count": "Int:48"
+        },
+        "Religion:islam": {
+          "Count": "Int:52660"
+        },
+        "Religion:roman_catholic": {
+          "Count": "Int:14"
+        },
+        "Religion:other_christian": {
+          "Count": "Int:0"
+        },
+        "Religion:other": {
+          "Count": "Int:51"
+        }
+      },
+      "DSD:LK-2142": {
+        "Religion:buddhist": {
+          "Count": "Int:39190"
+        },
+        "Religion:hindu": {
+          "Count": "Int:9816"
+        },
+        "Religion:islam": {
+          "Count": "Int:2765"
+        },
+        "Religion:roman_catholic": {
+          "Count": "Int:391"
+        },
+        "Religion:other_christian": {
+          "Count": "Int:452"
+        },
+        "Religion:other": {
+          "Count": "Int:170"
+        }
+      },
+      "DSD:LK-3303": {
+        "Religion:buddhist": {
+          "Count": "Int:52554"
+        },
+        "Religion:hindu": {
+          "Count": "Int:0"
+        },
+        "Religion:islam": {
+          "Count": "Int:0"
+        },
+        "Religion:roman_catholic": {
+          "Count": "Int:0"
+        },
+        "Religion:other_christian": {
+          "Count": "Int:44"
+        },
+        "Religion:other": {
+          "Count": "Int:111"
+        }
+      },
+      "DSD:LK-7109": {
+        "Religion:buddhist": {
+          "Count": "Int:48517"
+        },
+        "Religion:hindu": {
+          "Count": "Int:76"
+        },
+        "Religion:islam": {
+          "Count": "Int:3498"
+        },
+        "Religion:roman_catholic": {
+          "Count": "Int:195"
+        },
+        "Religion:other_christian": {
+          "Count": "Int:44"
+        },
+        "Religion:other": {
+          "Count": "Int:166"
+        }
+      },
+      "DSD:LK-3324": {
+        "Religion:buddhist": {
+          "Count": "Int:52070"
+        },
+        "Religion:hindu": {
+          "Count": "Int:0"
+        },
+        "Religion:islam": {
+          "Count": "Int:0"
+        },
+        "Religion:roman_catholic": {
+          "Count": "Int:0"
+        },
+        "Religion:other_christian": {
+          "Count": "Int:0"
+        },
+        "Religion:other": {
+          "Count": "Int:99"
+        }
+      },
+      "DSD:LK-4109": {
+        "Religion:buddhist": {
+          "Count": "Int:0"
+        },
+        "Religion:hindu": {
+          "Count": "Int:39652"
+        },
+        "Religion:islam": {
+          "Count": "Int:16"
+        },
+        "Religion:roman_catholic": {
+          "Count": "Int:10255"
+        },
+        "Religion:other_christian": {
+          "Count": "Int:2134"
+        },
+        "Religion:other": {
+          "Count": "Int:64"
+        }
+      },
+      "DSD:LK-3124": {
+        "Religion:buddhist": {
+          "Count": "Int:47836"
+        },
+        "Religion:hindu": {
+          "Count": "Int:3137"
+        },
+        "Religion:islam": {
+          "Count": "Int:0"
+        },
+        "Religion:roman_catholic": {
+          "Count": "Int:150"
+        },
+        "Religion:other_christian": {
+          "Count": "Int:730"
+        },
+        "Religion:other": {
+          "Count": "Int:178"
+        }
+      },
+      "DSD:LK-7127": {
+        "Religion:buddhist": {
+          "Count": "Int:50009"
+        },
+        "Religion:hindu": {
+          "Count": "Int:20"
+        },
+        "Religion:islam": {
+          "Count": "Int:1782"
+        },
+        "Religion:roman_catholic": {
+          "Count": "Int:11"
+        },
+        "Religion:other_christian": {
+          "Count": "Int:0"
+        },
+        "Religion:other": {
+          "Count": "Int:130"
+        }
+      },
+      "DSD:LK-3212": {
+        "Religion:buddhist": {
+          "Count": "Int:51488"
+        },
+        "Religion:hindu": {
+          "Count": "Int:261"
+        },
+        "Religion:islam": {
+          "Count": "Int:0"
+        },
+        "Religion:roman_catholic": {
+          "Count": "Int:0"
+        },
+        "Religion:other_christian": {
+          "Count": "Int:0"
+        },
+        "Religion:other": {
+          "Count": "Int:83"
+        }
+      },
+      "DSD:LK-1336": {
+        "Religion:buddhist": {
+          "Count": "Int:46610"
+        },
+        "Religion:hindu": {
+          "Count": "Int:3435"
+        },
+        "Religion:islam": {
+          "Count": "Int:627"
+        },
+        "Religion:roman_catholic": {
+          "Count": "Int:61"
+        },
+        "Religion:other_christian": {
+          "Count": "Int:224"
+        },
+        "Religion:other": {
+          "Count": "Int:214"
+        }
+      },
+      "DSD:LK-3127": {
+        "Religion:buddhist": {
+          "Count": "Int:49399"
+        },
+        "Religion:hindu": {
+          "Count": "Int:733"
+        },
+        "Religion:islam": {
+          "Count": "Int:0"
+        },
+        "Religion:roman_catholic": {
+          "Count": "Int:250"
+        },
+        "Religion:other_christian": {
+          "Count": "Int:373"
+        },
+        "Religion:other": {
+          "Count": "Int:201"
+        }
+      },
+      "DSD:LK-5321": {
+        "Religion:buddhist": {
+          "Count": "Int:39986"
+        },
+        "Religion:hindu": {
+          "Count": "Int:1490"
+        },
+        "Religion:islam": {
+          "Count": "Int:9005"
+        },
+        "Religion:roman_catholic": {
+          "Count": "Int:150"
+        },
+        "Religion:other_christian": {
+          "Count": "Int:114"
+        },
+        "Religion:other": {
+          "Count": "Int:95"
+        }
+      },
+      "DSD:LK-9133": {
+        "Religion:buddhist": {
+          "Count": "Int:44599"
+        },
+        "Religion:hindu": {
+          "Count": "Int:5584"
+        },
+        "Religion:islam": {
+          "Count": "Int:0"
+        },
+        "Religion:roman_catholic": {
+          "Count": "Int:85"
+        },
+        "Religion:other_christian": {
+          "Count": "Int:353"
+        },
+        "Religion:other": {
+          "Count": "Int:132"
+        }
+      },
+      "DSD:LK-4115": {
+        "Religion:buddhist": {
+          "Count": "Int:11"
+        },
+        "Religion:hindu": {
+          "Count": "Int:44954"
+        },
+        "Religion:islam": {
+          "Count": "Int:127"
+        },
+        "Religion:roman_catholic": {
+          "Count": "Int:3363"
+        },
+        "Religion:other_christian": {
+          "Count": "Int:1935"
+        },
+        "Religion:other": {
+          "Count": "Int:150"
+        }
+      },
+      "DSD:LK-9151": {
+        "Religion:buddhist": {
+          "Count": "Int:45356"
+        },
+        "Religion:hindu": {
+          "Count": "Int:4061"
+        },
+        "Religion:islam": {
+          "Count": "Int:18"
+        },
+        "Religion:roman_catholic": {
+          "Count": "Int:176"
+        },
+        "Religion:other_christian": {
+          "Count": "Int:366"
+        },
+        "Religion:other": {
+          "Count": "Int:91"
+        }
+      },
+      "DSD:LK-3103": {
+        "Religion:buddhist": {
+          "Count": "Int:48312"
+        },
+        "Religion:hindu": {
+          "Count": "Int:12"
+        },
+        "Religion:islam": {
+          "Count": "Int:1022"
+        },
+        "Religion:roman_catholic": {
+          "Count": "Int:27"
+        },
+        "Religion:other_christian": {
+          "Count": "Int:0"
+        },
+        "Religion:other": {
+          "Count": "Int:277"
+        }
+      },
+      "DSD:LK-8118": {
+        "Religion:buddhist": {
+          "Count": "Int:27171"
+        },
+        "Religion:hindu": {
+          "Count": "Int:18240"
+        },
+        "Religion:islam": {
+          "Count": "Int:2595"
+        },
+        "Religion:roman_catholic": {
+          "Count": "Int:928"
+        },
+        "Religion:other_christian": {
+          "Count": "Int:547"
+        },
+        "Religion:other": {
+          "Count": "Int:155"
+        }
+      },
+      "DSD:LK-8136": {
+        "Religion:buddhist": {
+          "Count": "Int:32363"
+        },
+        "Religion:hindu": {
+          "Count": "Int:14103"
+        },
+        "Religion:islam": {
+          "Count": "Int:2264"
+        },
+        "Religion:roman_catholic": {
+          "Count": "Int:291"
+        },
+        "Religion:other_christian": {
+          "Count": "Int:251"
+        },
+        "Religion:other": {
+          "Count": "Int:167"
+        }
+      },
+      "DSD:LK-8233": {
+        "Religion:buddhist": {
+          "Count": "Int:49252"
+        },
+        "Religion:hindu": {
+          "Count": "Int:0"
+        },
+        "Religion:islam": {
+          "Count": "Int:0"
+        },
+        "Religion:roman_catholic": {
+          "Count": "Int:0"
+        },
+        "Religion:other_christian": {
+          "Count": "Int:0"
+        },
+        "Religion:other": {
+          "Count": "Int:124"
+        }
+      },
+      "DSD:LK-3245": {
+        "Religion:buddhist": {
+          "Count": "Int:48267"
+        },
+        "Religion:hindu": {
+          "Count": "Int:38"
+        },
+        "Religion:islam": {
+          "Count": "Int:741"
+        },
+        "Religion:roman_catholic": {
+          "Count": "Int:22"
+        },
+        "Religion:other_christian": {
+          "Count": "Int:19"
+        },
+        "Religion:other": {
+          "Count": "Int:187"
+        }
+      },
+      "DSD:LK-6236": {
+        "Religion:buddhist": {
+          "Count": "Int:36282"
+        },
+        "Religion:hindu": {
+          "Count": "Int:632"
+        },
+        "Religion:islam": {
+          "Count": "Int:2850"
+        },
+        "Religion:roman_catholic": {
+          "Count": "Int:7860"
+        },
+        "Religion:other_christian": {
+          "Count": "Int:1168"
+        },
+        "Religion:other": {
+          "Count": "Int:202"
+        }
+      },
+      "DSD:LK-3203": {
+        "Religion:buddhist": {
+          "Count": "Int:45984"
+        },
+        "Religion:hindu": {
+          "Count": "Int:2048"
+        },
+        "Religion:islam": {
+          "Count": "Int:0"
+        },
+        "Religion:roman_catholic": {
+          "Count": "Int:133"
+        },
+        "Religion:other_christian": {
+          "Count": "Int:548"
+        },
+        "Religion:other": {
+          "Count": "Int:154"
+        }
+      },
+      "DSD:LK-6239": {
+        "Religion:buddhist": {
+          "Count": "Int:23033"
+        },
+        "Religion:hindu": {
+          "Count": "Int:368"
+        },
+        "Religion:islam": {
+          "Count": "Int:0"
+        },
+        "Religion:roman_catholic": {
+          "Count": "Int:24602"
+        },
+        "Religion:other_christian": {
+          "Count": "Int:615"
+        },
+        "Religion:other": {
+          "Count": "Int:215"
+        }
+      },
+      "DSD:LK-7218": {
+        "Religion:buddhist": {
+          "Count": "Int:48299"
+        },
+        "Religion:hindu": {
+          "Count": "Int:66"
+        },
+        "Religion:islam": {
+          "Count": "Int:0"
+        },
+        "Religion:roman_catholic": {
+          "Count": "Int:26"
+        },
+        "Religion:other_christian": {
+          "Count": "Int:0"
+        },
+        "Religion:other": {
+          "Count": "Int:174"
+        }
+      },
+      "DSD:LK-4136": {
+        "Religion:buddhist": {
+          "Count": "Int:514"
+        },
+        "Religion:hindu": {
+          "Count": "Int:17807"
+        },
+        "Religion:islam": {
+          "Count": "Int:2862"
+        },
+        "Religion:roman_catholic": {
+          "Count": "Int:24546"
+        },
+        "Religion:other_christian": {
+          "Count": "Int:2766"
+        },
+        "Religion:other": {
+          "Count": "Int:48"
+        }
+      },
+      "DSD:LK-8139": {
+        "Religion:buddhist": {
+          "Count": "Int:24432"
+        },
+        "Religion:hindu": {
+          "Count": "Int:17669"
+        },
+        "Religion:islam": {
+          "Count": "Int:4129"
+        },
+        "Religion:roman_catholic": {
+          "Count": "Int:1550"
+        },
+        "Religion:other_christian": {
+          "Count": "Int:403"
+        },
+        "Religion:other": {
+          "Count": "Int:97"
+        }
+      },
+      "DSD:LK-3321": {
+        "Religion:buddhist": {
+          "Count": "Int:47170"
+        },
+        "Religion:hindu": {
+          "Count": "Int:20"
+        },
+        "Religion:islam": {
+          "Count": "Int:955"
+        },
+        "Religion:roman_catholic": {
+          "Count": "Int:0"
+        },
+        "Religion:other_christian": {
+          "Count": "Int:0"
+        },
+        "Religion:other": {
+          "Count": "Int:96"
+        }
+      },
+      "DSD:LK-3151": {
+        "Religion:buddhist": {
+          "Count": "Int:47909"
+        },
+        "Religion:hindu": {
+          "Count": "Int:102"
+        },
+        "Religion:islam": {
+          "Count": "Int:0"
+        },
+        "Religion:roman_catholic": {
+          "Count": "Int:12"
+        },
+        "Religion:other_christian": {
+          "Count": "Int:0"
+        },
+        "Religion:other": {
+          "Count": "Int:181"
+        }
+      },
+      "DSD:LK-3325": {
+        "Religion:buddhist": {
+          "Count": "Int:47778"
+        },
+        "Religion:hindu": {
+          "Count": "Int:0"
+        },
+        "Religion:islam": {
+          "Count": "Int:16"
+        },
+        "Religion:roman_catholic": {
+          "Count": "Int:0"
+        },
+        "Religion:other_christian": {
+          "Count": "Int:10"
+        },
+        "Religion:other": {
+          "Count": "Int:65"
+        }
+      },
+      "DSD:LK-5215": {
+        "Religion:buddhist": {
+          "Count": "Int:46871"
+        },
+        "Religion:hindu": {
+          "Count": "Int:164"
+        },
+        "Religion:islam": {
+          "Count": "Int:252"
+        },
+        "Religion:roman_catholic": {
+          "Count": "Int:296"
+        },
+        "Religion:other_christian": {
+          "Count": "Int:138"
+        },
+        "Religion:other": {
+          "Count": "Int:147"
+        }
+      },
+      "DSD:LK-8203": {
+        "Religion:buddhist": {
+          "Count": "Int:44824"
+        },
+        "Religion:hindu": {
+          "Count": "Int:967"
+        },
+        "Religion:islam": {
+          "Count": "Int:1205"
+        },
+        "Religion:roman_catholic": {
+          "Count": "Int:71"
+        },
+        "Religion:other_christian": {
+          "Count": "Int:0"
+        },
+        "Religion:other": {
+          "Count": "Int:199"
+        }
+      },
+      "DSD:LK-7145": {
+        "Religion:buddhist": {
+          "Count": "Int:45654"
+        },
+        "Religion:hindu": {
+          "Count": "Int:0"
+        },
+        "Religion:islam": {
+          "Count": "Int:0"
+        },
+        "Religion:roman_catholic": {
+          "Count": "Int:230"
+        },
+        "Religion:other_christian": {
+          "Count": "Int:1050"
+        },
+        "Religion:other": {
+          "Count": "Int:127"
+        }
+      },
+      "DSD:LK-3148": {
+        "Religion:buddhist": {
+          "Count": "Int:43954"
+        },
+        "Religion:hindu": {
+          "Count": "Int:2310"
+        },
+        "Religion:islam": {
+          "Count": "Int:0"
+        },
+        "Religion:roman_catholic": {
+          "Count": "Int:83"
+        },
+        "Religion:other_christian": {
+          "Count": "Int:173"
+        },
+        "Religion:other": {
+          "Count": "Int:167"
+        }
+      },
+      "DSD:LK-8218": {
+        "Religion:buddhist": {
+          "Count": "Int:39597"
+        },
+        "Religion:hindu": {
+          "Count": "Int:4434"
+        },
+        "Religion:islam": {
+          "Count": "Int:2221"
+        },
+        "Religion:roman_catholic": {
+          "Count": "Int:231"
+        },
+        "Religion:other_christian": {
+          "Count": "Int:0"
+        },
+        "Religion:other": {
+          "Count": "Int:112"
+        }
+      },
+      "DSD:LK-9224": {
+        "Religion:buddhist": {
+          "Count": "Int:37337"
+        },
+        "Religion:hindu": {
+          "Count": "Int:7242"
+        },
+        "Religion:islam": {
+          "Count": "Int:64"
+        },
+        "Religion:roman_catholic": {
+          "Count": "Int:269"
+        },
+        "Religion:other_christian": {
+          "Count": "Int:208"
+        },
+        "Religion:other": {
+          "Count": "Int:117"
+        }
+      },
+      "DSD:LK-4106": {
+        "Religion:buddhist": {
+          "Count": "Int:0"
+        },
+        "Religion:hindu": {
+          "Count": "Int:42348"
+        },
+        "Religion:islam": {
+          "Count": "Int:0"
+        },
+        "Religion:roman_catholic": {
+          "Count": "Int:639"
+        },
+        "Religion:other_christian": {
+          "Count": "Int:2062"
+        },
+        "Religion:other": {
+          "Count": "Int:111"
+        }
+      },
+      "DSD:LK-5236": {
+        "Religion:buddhist": {
+          "Count": "Int:71"
+        },
+        "Religion:hindu": {
+          "Count": "Int:131"
+        },
+        "Religion:islam": {
+          "Count": "Int:44739"
+        },
+        "Religion:roman_catholic": {
+          "Count": "Int:0"
+        },
+        "Religion:other_christian": {
+          "Count": "Int:0"
+        },
+        "Religion:other": {
+          "Count": "Int:38"
+        }
+      },
+      "DSD:LK-4112": {
+        "Religion:buddhist": {
+          "Count": "Int:37"
+        },
+        "Religion:hindu": {
+          "Count": "Int:38119"
+        },
+        "Religion:islam": {
+          "Count": "Int:0"
+        },
+        "Religion:roman_catholic": {
+          "Count": "Int:4800"
+        },
+        "Religion:other_christian": {
+          "Count": "Int:1811"
+        },
+        "Religion:other": {
+          "Count": "Int:147"
+        }
+      },
+      "DSD:LK-7121": {
+        "Religion:buddhist": {
+          "Count": "Int:34067"
+        },
+        "Religion:hindu": {
+          "Count": "Int:111"
+        },
+        "Religion:islam": {
+          "Count": "Int:10455"
+        },
+        "Religion:roman_catholic": {
+          "Count": "Int:70"
+        },
+        "Religion:other_christian": {
+          "Count": "Int:65"
+        },
+        "Religion:other": {
+          "Count": "Int:135"
+        }
+      },
+      "DSD:LK-5124": {
+        "Religion:buddhist": {
+          "Count": "Int:25"
+        },
+        "Religion:hindu": {
+          "Count": "Int:0"
+        },
+        "Religion:islam": {
+          "Count": "Int:44725"
+        },
+        "Religion:roman_catholic": {
+          "Count": "Int:0"
+        },
+        "Religion:other_christian": {
+          "Count": "Int:0"
+        },
+        "Religion:other": {
+          "Count": "Int:44"
+        }
+      },
+      "DSD:LK-8209": {
+        "Religion:buddhist": {
+          "Count": "Int:37655"
+        },
+        "Religion:hindu": {
+          "Count": "Int:23"
+        },
+        "Religion:islam": {
+          "Count": "Int:6819"
+        },
+        "Religion:roman_catholic": {
+          "Count": "Int:20"
+        },
+        "Religion:other_christian": {
+          "Count": "Int:0"
+        },
+        "Religion:other": {
+          "Count": "Int:97"
+        }
+      },
+      "DSD:LK-7130": {
+        "Religion:buddhist": {
+          "Count": "Int:40807"
+        },
+        "Religion:hindu": {
+          "Count": "Int:220"
+        },
+        "Religion:islam": {
+          "Count": "Int:2320"
+        },
+        "Religion:roman_catholic": {
+          "Count": "Int:316"
+        },
+        "Religion:other_christian": {
+          "Count": "Int:309"
+        },
+        "Religion:other": {
+          "Count": "Int:135"
+        }
+      },
+      "DSD:LK-9233": {
+        "Religion:buddhist": {
+          "Count": "Int:34585"
+        },
+        "Religion:hindu": {
+          "Count": "Int:8722"
+        },
+        "Religion:islam": {
+          "Count": "Int:15"
+        },
+        "Religion:roman_catholic": {
+          "Count": "Int:325"
+        },
+        "Religion:other_christian": {
+          "Count": "Int:259"
+        },
+        "Religion:other": {
+          "Count": "Int:99"
+        }
+      },
+      "DSD:LK-9139": {
+        "Religion:buddhist": {
+          "Count": "Int:33355"
+        },
+        "Religion:hindu": {
+          "Count": "Int:7887"
+        },
+        "Religion:islam": {
+          "Count": "Int:1550"
+        },
+        "Religion:roman_catholic": {
+          "Count": "Int:621"
+        },
+        "Religion:other_christian": {
+          "Count": "Int:219"
+        },
+        "Religion:other": {
+          "Count": "Int:76"
+        }
+      },
+      "DSD:LK-6224": {
+        "Religion:buddhist": {
+          "Count": "Int:41078"
+        },
+        "Religion:hindu": {
+          "Count": "Int:121"
+        },
+        "Religion:islam": {
+          "Count": "Int:806"
+        },
+        "Religion:roman_catholic": {
+          "Count": "Int:1172"
+        },
+        "Religion:other_christian": {
+          "Count": "Int:133"
+        },
+        "Religion:other": {
+          "Count": "Int:216"
+        }
+      },
+      "DSD:LK-6133": {
+        "Religion:buddhist": {
+          "Count": "Int:40474"
+        },
+        "Religion:hindu": {
+          "Count": "Int:56"
+        },
+        "Religion:islam": {
+          "Count": "Int:2416"
+        },
+        "Religion:roman_catholic": {
+          "Count": "Int:204"
+        },
+        "Religion:other_christian": {
+          "Count": "Int:61"
+        },
+        "Religion:other": {
+          "Count": "Int:220"
+        }
+      },
+      "DSD:LK-6121": {
+        "Religion:buddhist": {
+          "Count": "Int:40838"
+        },
+        "Religion:hindu": {
+          "Count": "Int:257"
+        },
+        "Religion:islam": {
+          "Count": "Int:1521"
+        },
+        "Religion:roman_catholic": {
+          "Count": "Int:540"
+        },
+        "Religion:other_christian": {
+          "Count": "Int:74"
+        },
+        "Religion:other": {
+          "Count": "Int:172"
+        }
+      },
+      "DSD:LK-4127": {
+        "Religion:buddhist": {
+          "Count": "Int:42"
+        },
+        "Religion:hindu": {
+          "Count": "Int:37472"
+        },
+        "Religion:islam": {
+          "Count": "Int:0"
+        },
+        "Religion:roman_catholic": {
+          "Count": "Int:4754"
+        },
+        "Religion:other_christian": {
+          "Count": "Int:969"
+        },
+        "Religion:other": {
+          "Count": "Int:132"
+        }
+      },
+      "DSD:LK-5248": {
+        "Religion:buddhist": {
+          "Count": "Int:738"
+        },
+        "Religion:hindu": {
+          "Count": "Int:6315"
+        },
+        "Religion:islam": {
+          "Count": "Int:34467"
+        },
+        "Religion:roman_catholic": {
+          "Count": "Int:161"
+        },
+        "Religion:other_christian": {
+          "Count": "Int:1158"
+        },
+        "Religion:other": {
+          "Count": "Int:69"
+        }
+      },
+      "DSD:LK-3227": {
+        "Religion:buddhist": {
+          "Count": "Int:42577"
+        },
+        "Religion:hindu": {
+          "Count": "Int:60"
+        },
+        "Religion:islam": {
+          "Count": "Int:19"
+        },
+        "Religion:roman_catholic": {
+          "Count": "Int:0"
+        },
+        "Religion:other_christian": {
+          "Count": "Int:28"
+        },
+        "Religion:other": {
+          "Count": "Int:132"
+        }
+      },
+      "DSD:LK-6230": {
+        "Religion:buddhist": {
+          "Count": "Int:26320"
+        },
+        "Religion:hindu": {
+          "Count": "Int:1227"
+        },
+        "Religion:islam": {
+          "Count": "Int:129"
+        },
+        "Religion:roman_catholic": {
+          "Count": "Int:14443"
+        },
+        "Religion:other_christian": {
+          "Count": "Int:470"
+        },
+        "Religion:other": {
+          "Count": "Int:160"
+        }
+      },
+      "DSD:LK-2315": {
+        "Religion:buddhist": {
+          "Count": "Int:32712"
+        },
+        "Religion:hindu": {
+          "Count": "Int:8570"
+        },
+        "Religion:islam": {
+          "Count": "Int:113"
+        },
+        "Religion:roman_catholic": {
+          "Count": "Int:460"
+        },
+        "Religion:other_christian": {
+          "Count": "Int:553"
+        },
+        "Religion:other": {
+          "Count": "Int:130"
+        }
+      },
+      "DSD:LK-2310": {
+        "Religion:buddhist": {
+          "Count": "Int:32330"
+        },
+        "Religion:hindu": {
+          "Count": "Int:9312"
+        },
+        "Religion:islam": {
+          "Count": "Int:368"
+        },
+        "Religion:roman_catholic": {
+          "Count": "Int:117"
+        },
+        "Religion:other_christian": {
+          "Count": "Int:181"
+        },
+        "Religion:other": {
+          "Count": "Int:114"
+        }
+      },
+      "DSD:LK-7160": {
+        "Religion:buddhist": {
+          "Count": "Int:35204"
+        },
+        "Religion:hindu": {
+          "Count": "Int:25"
+        },
+        "Religion:islam": {
+          "Count": "Int:6213"
+        },
+        "Religion:roman_catholic": {
+          "Count": "Int:102"
+        },
+        "Religion:other_christian": {
+          "Count": "Int:205"
+        },
+        "Religion:other": {
+          "Count": "Int:212"
+        }
+      },
+      "DSD:LK-2302": {
+        "Religion:buddhist": {
+          "Count": "Int:26599"
+        },
+        "Religion:hindu": {
+          "Count": "Int:7384"
+        },
+        "Religion:islam": {
+          "Count": "Int:7118"
+        },
+        "Religion:roman_catholic": {
+          "Count": "Int:516"
+        },
+        "Religion:other_christian": {
+          "Count": "Int:210"
+        },
+        "Religion:other": {
+          "Count": "Int:128"
+        }
+      },
+      "DSD:LK-6151": {
+        "Religion:buddhist": {
+          "Count": "Int:38268"
+        },
+        "Religion:hindu": {
+          "Count": "Int:476"
+        },
+        "Religion:islam": {
+          "Count": "Int:1349"
+        },
+        "Religion:roman_catholic": {
+          "Count": "Int:1233"
+        },
+        "Religion:other_christian": {
+          "Count": "Int:338"
+        },
+        "Religion:other": {
+          "Count": "Int:209"
+        }
+      },
+      "DSD:LK-3137": {
+        "Religion:buddhist": {
+          "Count": "Int:41166"
+        },
+        "Religion:hindu": {
+          "Count": "Int:60"
+        },
+        "Religion:islam": {
+          "Count": "Int:25"
+        },
+        "Religion:roman_catholic": {
+          "Count": "Int:17"
+        },
+        "Religion:other_christian": {
+          "Count": "Int:76"
+        },
+        "Religion:other": {
+          "Count": "Int:112"
+        }
+      },
+      "DSD:LK-7124": {
+        "Religion:buddhist": {
+          "Count": "Int:28928"
+        },
+        "Religion:hindu": {
+          "Count": "Int:23"
+        },
+        "Religion:islam": {
+          "Count": "Int:12128"
+        },
+        "Religion:roman_catholic": {
+          "Count": "Int:42"
+        },
+        "Religion:other_christian": {
+          "Count": "Int:33"
+        },
+        "Religion:other": {
+          "Count": "Int:107"
+        }
+      },
+      "DSD:LK-4121": {
+        "Religion:buddhist": {
+          "Count": "Int:0"
+        },
+        "Religion:hindu": {
+          "Count": "Int:39599"
+        },
+        "Religion:islam": {
+          "Count": "Int:0"
+        },
+        "Religion:roman_catholic": {
+          "Count": "Int:959"
+        },
+        "Religion:other_christian": {
+          "Count": "Int:386"
+        },
+        "Religion:other": {
+          "Count": "Int:158"
+        }
+      },
+      "DSD:LK-6139": {
+        "Religion:buddhist": {
+          "Count": "Int:34325"
+        },
+        "Religion:hindu": {
+          "Count": "Int:30"
+        },
+        "Religion:islam": {
+          "Count": "Int:5305"
+        },
+        "Religion:roman_catholic": {
+          "Count": "Int:716"
+        },
+        "Religion:other_christian": {
+          "Count": "Int:67"
+        },
+        "Religion:other": {
+          "Count": "Int:226"
+        }
+      },
+      "DSD:LK-5242": {
+        "Religion:buddhist": {
+          "Count": "Int:39977"
+        },
+        "Religion:hindu": {
+          "Count": "Int:0"
+        },
+        "Religion:islam": {
+          "Count": "Int:160"
+        },
+        "Religion:roman_catholic": {
+          "Count": "Int:19"
+        },
+        "Religion:other_christian": {
+          "Count": "Int:58"
+        },
+        "Religion:other": {
+          "Count": "Int:111"
+        }
+      },
+      "DSD:LK-5306": {
+        "Religion:buddhist": {
+          "Count": "Int:1514"
+        },
+        "Religion:hindu": {
+          "Count": "Int:10188"
+        },
+        "Religion:islam": {
+          "Count": "Int:26234"
+        },
+        "Religion:roman_catholic": {
+          "Count": "Int:1342"
+        },
+        "Religion:other_christian": {
+          "Count": "Int:482"
+        },
+        "Religion:other": {
+          "Count": "Int:113"
+        }
+      },
+      "DSD:LK-7118": {
+        "Religion:buddhist": {
+          "Count": "Int:34412"
+        },
+        "Religion:hindu": {
+          "Count": "Int:15"
+        },
+        "Religion:islam": {
+          "Count": "Int:5219"
+        },
+        "Religion:roman_catholic": {
+          "Count": "Int:68"
+        },
+        "Religion:other_christian": {
+          "Count": "Int:0"
+        },
+        "Religion:other": {
+          "Count": "Int:147"
+        }
+      },
+      "DSD:LK-7209": {
+        "Religion:buddhist": {
+          "Count": "Int:26904"
+        },
+        "Religion:hindu": {
+          "Count": "Int:0"
+        },
+        "Religion:islam": {
+          "Count": "Int:12571"
+        },
+        "Religion:roman_catholic": {
+          "Count": "Int:85"
+        },
+        "Religion:other_christian": {
+          "Count": "Int:0"
+        },
+        "Religion:other": {
+          "Count": "Int:113"
+        }
+      },
+      "DSD:LK-4409": {
+        "Religion:buddhist": {
+          "Count": "Int:15"
+        },
+        "Religion:hindu": {
+          "Count": "Int:31073"
+        },
+        "Religion:islam": {
+          "Count": "Int:30"
+        },
+        "Religion:roman_catholic": {
+          "Count": "Int:5817"
+        },
+        "Religion:other_christian": {
+          "Count": "Int:2526"
+        },
+        "Religion:other": {
+          "Count": "Int:71"
+        }
+      },
+      "DSD:LK-7163": {
+        "Religion:buddhist": {
+          "Count": "Int:36572"
+        },
+        "Religion:hindu": {
+          "Count": "Int:66"
+        },
+        "Religion:islam": {
+          "Count": "Int:2696"
+        },
+        "Religion:roman_catholic": {
+          "Count": "Int:10"
+        },
+        "Religion:other_christian": {
+          "Count": "Int:0"
+        },
+        "Religion:other": {
+          "Count": "Int:114"
+        }
+      },
+      "DSD:LK-6149": {
+        "Religion:buddhist": {
+          "Count": "Int:37709"
+        },
+        "Religion:hindu": {
+          "Count": "Int:79"
+        },
+        "Religion:islam": {
+          "Count": "Int:907"
+        },
+        "Religion:roman_catholic": {
+          "Count": "Int:499"
+        },
+        "Religion:other_christian": {
+          "Count": "Int:20"
+        },
+        "Religion:other": {
+          "Count": "Int:228"
+        }
+      },
+      "DSD:LK-8142": {
+        "Religion:buddhist": {
+          "Count": "Int:21455"
+        },
+        "Religion:hindu": {
+          "Count": "Int:16091"
+        },
+        "Religion:islam": {
+          "Count": "Int:431"
+        },
+        "Religion:roman_catholic": {
+          "Count": "Int:183"
+        },
+        "Religion:other_christian": {
+          "Count": "Int:446"
+        },
+        "Religion:other": {
+          "Count": "Int:172"
+        }
+      },
+      "DSD:LK-2103": {
+        "Religion:buddhist": {
+          "Count": "Int:35275"
+        },
+        "Religion:hindu": {
+          "Count": "Int:208"
+        },
+        "Religion:islam": {
+          "Count": "Int:2978"
+        },
+        "Religion:roman_catholic": {
+          "Count": "Int:36"
+        },
+        "Religion:other_christian": {
+          "Count": "Int:24"
+        },
+        "Religion:other": {
+          "Count": "Int:255"
+        }
+      },
+      "DSD:LK-5133": {
+        "Religion:buddhist": {
+          "Count": "Int:194"
+        },
+        "Religion:hindu": {
+          "Count": "Int:37730"
+        },
+        "Religion:islam": {
+          "Count": "Int:0"
+        },
+        "Religion:roman_catholic": {
+          "Count": "Int:74"
+        },
+        "Religion:other_christian": {
+          "Count": "Int:452"
+        },
+        "Religion:other": {
+          "Count": "Int:177"
+        }
+      },
+      "DSD:LK-7166": {
+        "Religion:buddhist": {
+          "Count": "Int:32444"
+        },
+        "Religion:hindu": {
+          "Count": "Int:63"
+        },
+        "Religion:islam": {
+          "Count": "Int:5786"
+        },
+        "Religion:roman_catholic": {
+          "Count": "Int:43"
+        },
+        "Religion:other_christian": {
+          "Count": "Int:0"
+        },
+        "Religion:other": {
+          "Count": "Int:133"
+        }
+      },
+      "DSD:LK-9127": {
+        "Religion:buddhist": {
+          "Count": "Int:36520"
+        },
+        "Religion:hindu": {
+          "Count": "Int:1578"
+        },
+        "Religion:islam": {
+          "Count": "Int:11"
+        },
+        "Religion:roman_catholic": {
+          "Count": "Int:180"
+        },
+        "Religion:other_christian": {
+          "Count": "Int:15"
+        },
+        "Religion:other": {
+          "Count": "Int:125"
+        }
+      },
+      "DSD:LK-7210": {
+        "Religion:buddhist": {
+          "Count": "Int:27991"
+        },
+        "Religion:hindu": {
+          "Count": "Int:3218"
+        },
+        "Religion:islam": {
+          "Count": "Int:6647"
+        },
+        "Religion:roman_catholic": {
+          "Count": "Int:133"
+        },
+        "Religion:other_christian": {
+          "Count": "Int:89"
+        },
+        "Religion:other": {
+          "Count": "Int:118"
+        }
+      },
+      "DSD:LK-3306": {
+        "Religion:buddhist": {
+          "Count": "Int:36059"
+        },
+        "Religion:hindu": {
+          "Count": "Int:0"
+        },
+        "Religion:islam": {
+          "Count": "Int:625"
+        },
+        "Religion:roman_catholic": {
+          "Count": "Int:29"
+        },
+        "Religion:other_christian": {
+          "Count": "Int:50"
+        },
+        "Religion:other": {
+          "Count": "Int:160"
+        }
+      },
+      "DSD:LK-4415": {
+        "Religion:buddhist": {
+          "Count": "Int:0"
+        },
+        "Religion:hindu": {
+          "Count": "Int:25829"
+        },
+        "Religion:islam": {
+          "Count": "Int:3072"
+        },
+        "Religion:roman_catholic": {
+          "Count": "Int:6284"
+        },
+        "Religion:other_christian": {
+          "Count": "Int:1439"
+        },
+        "Religion:other": {
+          "Count": "Int:189"
+        }
+      },
+      "DSD:LK-1315": {
+        "Religion:buddhist": {
+          "Count": "Int:33551"
+        },
+        "Religion:hindu": {
+          "Count": "Int:2777"
+        },
+        "Religion:islam": {
+          "Count": "Int:0"
+        },
+        "Religion:roman_catholic": {
+          "Count": "Int:74"
+        },
+        "Religion:other_christian": {
+          "Count": "Int:145"
+        },
+        "Religion:other": {
+          "Count": "Int:176"
+        }
+      },
+      "DSD:LK-6166": {
+        "Religion:buddhist": {
+          "Count": "Int:35523"
+        },
+        "Religion:hindu": {
+          "Count": "Int:24"
+        },
+        "Religion:islam": {
+          "Count": "Int:39"
+        },
+        "Religion:roman_catholic": {
+          "Count": "Int:646"
+        },
+        "Religion:other_christian": {
+          "Count": "Int:125"
+        },
+        "Religion:other": {
+          "Count": "Int:233"
+        }
+      },
+      "DSD:LK-1333": {
+        "Religion:buddhist": {
+          "Count": "Int:35487"
+        },
+        "Religion:hindu": {
+          "Count": "Int:665"
+        },
+        "Religion:islam": {
+          "Count": "Int:71"
+        },
+        "Religion:roman_catholic": {
+          "Count": "Int:71"
+        },
+        "Religion:other_christian": {
+          "Count": "Int:87"
+        },
+        "Religion:other": {
+          "Count": "Int:208"
+        }
+      },
+      "DSD:LK-5127": {
+        "Religion:buddhist": {
+          "Count": "Int:61"
+        },
+        "Religion:hindu": {
+          "Count": "Int:23154"
+        },
+        "Religion:islam": {
+          "Count": "Int:11244"
+        },
+        "Religion:roman_catholic": {
+          "Count": "Int:1226"
+        },
+        "Religion:other_christian": {
+          "Count": "Int:706"
+        },
+        "Religion:other": {
+          "Count": "Int:142"
+        }
+      },
+      "DSD:LK-8206": {
+        "Religion:buddhist": {
+          "Count": "Int:36280"
+        },
+        "Religion:hindu": {
+          "Count": "Int:0"
+        },
+        "Religion:islam": {
+          "Count": "Int:0"
+        },
+        "Religion:roman_catholic": {
+          "Count": "Int:70"
+        },
+        "Religion:other_christian": {
+          "Count": "Int:30"
+        },
+        "Religion:other": {
+          "Count": "Int:66"
+        }
+      },
+      "DSD:LK-7142": {
+        "Religion:buddhist": {
+          "Count": "Int:35641"
+        },
+        "Religion:hindu": {
+          "Count": "Int:11"
+        },
+        "Religion:islam": {
+          "Count": "Int:0"
+        },
+        "Religion:roman_catholic": {
+          "Count": "Int:376"
+        },
+        "Religion:other_christian": {
+          "Count": "Int:94"
+        },
+        "Religion:other": {
+          "Count": "Int:114"
+        }
+      },
+      "DSD:LK-3224": {
+        "Religion:buddhist": {
+          "Count": "Int:35392"
+        },
+        "Religion:hindu": {
+          "Count": "Int:0"
+        },
+        "Religion:islam": {
+          "Count": "Int:566"
+        },
+        "Religion:roman_catholic": {
+          "Count": "Int:20"
+        },
+        "Religion:other_christian": {
+          "Count": "Int:10"
+        },
+        "Religion:other": {
+          "Count": "Int:140"
+        }
+      },
+      "DSD:LK-3115": {
+        "Religion:buddhist": {
+          "Count": "Int:35315"
+        },
+        "Religion:hindu": {
+          "Count": "Int:292"
+        },
+        "Religion:islam": {
+          "Count": "Int:0"
+        },
+        "Religion:roman_catholic": {
+          "Count": "Int:0"
+        },
+        "Religion:other_christian": {
+          "Count": "Int:22"
+        },
+        "Religion:other": {
+          "Count": "Int:122"
+        }
+      },
+      "DSD:LK-6103": {
+        "Religion:buddhist": {
+          "Count": "Int:31704"
+        },
+        "Religion:hindu": {
+          "Count": "Int:0"
+        },
+        "Religion:islam": {
+          "Count": "Int:3026"
+        },
+        "Religion:roman_catholic": {
+          "Count": "Int:19"
+        },
+        "Religion:other_christian": {
+          "Count": "Int:41"
+        },
+        "Religion:other": {
+          "Count": "Int:139"
+        }
+      },
+      "DSD:LK-3236": {
+        "Religion:buddhist": {
+          "Count": "Int:34176"
+        },
+        "Religion:hindu": {
+          "Count": "Int:0"
+        },
+        "Religion:islam": {
+          "Count": "Int:0"
+        },
+        "Religion:roman_catholic": {
+          "Count": "Int:22"
+        },
+        "Religion:other_christian": {
+          "Count": "Int:0"
+        },
+        "Religion:other": {
+          "Count": "Int:108"
+        }
+      },
+      "DSD:LK-9145": {
+        "Religion:buddhist": {
+          "Count": "Int:33774"
+        },
+        "Religion:hindu": {
+          "Count": "Int:321"
+        },
+        "Religion:islam": {
+          "Count": "Int:0"
+        },
+        "Religion:roman_catholic": {
+          "Count": "Int:0"
+        },
+        "Religion:other_christian": {
+          "Count": "Int:0"
+        },
+        "Religion:other": {
+          "Count": "Int:73"
+        }
+      },
+      "DSD:LK-2227": {
+        "Religion:buddhist": {
+          "Count": "Int:33653"
+        },
+        "Religion:hindu": {
+          "Count": "Int:0"
+        },
+        "Religion:islam": {
+          "Count": "Int:0"
+        },
+        "Religion:roman_catholic": {
+          "Count": "Int:0"
+        },
+        "Religion:other_christian": {
+          "Count": "Int:0"
+        },
+        "Religion:other": {
+          "Count": "Int:62"
+        }
+      },
+      "DSD:LK-5318": {
+        "Religion:buddhist": {
+          "Count": "Int:7436"
+        },
+        "Religion:hindu": {
+          "Count": "Int:5071"
+        },
+        "Religion:islam": {
+          "Count": "Int:20281"
+        },
+        "Religion:roman_catholic": {
+          "Count": "Int:66"
+        },
+        "Religion:other_christian": {
+          "Count": "Int:726"
+        },
+        "Religion:other": {
+          "Count": "Int:56"
+        }
+      },
+      "DSD:LK-9109": {
+        "Religion:buddhist": {
+          "Count": "Int:32480"
+        },
+        "Religion:hindu": {
+          "Count": "Int:850"
+        },
+        "Religion:islam": {
+          "Count": "Int:0"
+        },
+        "Religion:roman_catholic": {
+          "Count": "Int:118"
+        },
+        "Religion:other_christian": {
+          "Count": "Int:54"
+        },
+        "Religion:other": {
+          "Count": "Int:129"
+        }
+      },
+      "DSD:LK-3135": {
+        "Religion:buddhist": {
+          "Count": "Int:33239"
+        },
+        "Religion:hindu": {
+          "Count": "Int:0"
+        },
+        "Religion:islam": {
+          "Count": "Int:0"
+        },
+        "Religion:roman_catholic": {
+          "Count": "Int:0"
+        },
+        "Religion:other_christian": {
+          "Count": "Int:29"
+        },
+        "Religion:other": {
+          "Count": "Int:140"
+        }
+      },
+      "DSD:LK-2307": {
+        "Religion:buddhist": {
+          "Count": "Int:28524"
+        },
+        "Religion:hindu": {
+          "Count": "Int:4431"
+        },
+        "Religion:islam": {
+          "Count": "Int:36"
+        },
+        "Religion:roman_catholic": {
+          "Count": "Int:33"
+        },
+        "Religion:other_christian": {
+          "Count": "Int:45"
+        },
+        "Religion:other": {
+          "Count": "Int:106"
+        }
+      },
+      "DSD:LK-3230": {
+        "Religion:buddhist": {
+          "Count": "Int:31894"
+        },
+        "Religion:hindu": {
+          "Count": "Int:0"
+        },
+        "Religion:islam": {
+          "Count": "Int:1019"
+        },
+        "Religion:roman_catholic": {
+          "Count": "Int:0"
+        },
+        "Religion:other_christian": {
+          "Count": "Int:0"
+        },
+        "Religion:other": {
+          "Count": "Int:72"
+        }
+      },
+      "DSD:LK-5121": {
+        "Religion:buddhist": {
+          "Count": "Int:0"
+        },
+        "Religion:hindu": {
+          "Count": "Int:32137"
+        },
+        "Religion:islam": {
+          "Count": "Int:13"
+        },
+        "Religion:roman_catholic": {
+          "Count": "Int:258"
+        },
+        "Religion:other_christian": {
+          "Count": "Int:302"
+        },
+        "Religion:other": {
+          "Count": "Int:121"
+        }
+      },
+      "DSD:LK-3215": {
+        "Religion:buddhist": {
+          "Count": "Int:30049"
+        },
+        "Religion:hindu": {
+          "Count": "Int:526"
+        },
+        "Religion:islam": {
+          "Count": "Int:1945"
+        },
+        "Religion:roman_catholic": {
+          "Count": "Int:61"
+        },
+        "Religion:other_christian": {
+          "Count": "Int:110"
+        },
+        "Religion:other": {
+          "Count": "Int:120"
+        }
+      },
+      "DSD:LK-2215": {
+        "Religion:buddhist": {
+          "Count": "Int:26773"
+        },
+        "Religion:hindu": {
+          "Count": "Int:2977"
+        },
+        "Religion:islam": {
+          "Count": "Int:2125"
+        },
+        "Religion:roman_catholic": {
+          "Count": "Int:326"
+        },
+        "Religion:other_christian": {
+          "Count": "Int:46"
+        },
+        "Religion:other": {
+          "Count": "Int:168"
+        }
+      },
+      "DSD:LK-2148": {
+        "Religion:buddhist": {
+          "Count": "Int:12593"
+        },
+        "Religion:hindu": {
+          "Count": "Int:10716"
+        },
+        "Religion:islam": {
+          "Count": "Int:7969"
+        },
+        "Religion:roman_catholic": {
+          "Count": "Int:177"
+        },
+        "Religion:other_christian": {
+          "Count": "Int:362"
+        },
+        "Religion:other": {
+          "Count": "Int:87"
+        }
+      },
+      "DSD:LK-8119": {
+        "Religion:buddhist": {
+          "Count": "Int:12807"
+        },
+        "Religion:hindu": {
+          "Count": "Int:16135"
+        },
+        "Religion:islam": {
+          "Count": "Int:1192"
+        },
+        "Religion:roman_catholic": {
+          "Count": "Int:1259"
+        },
+        "Religion:other_christian": {
+          "Count": "Int:405"
+        },
+        "Religion:other": {
+          "Count": "Int:83"
+        }
+      },
+      "DSD:LK-6148": {
+        "Religion:buddhist": {
+          "Count": "Int:30369"
+        },
+        "Religion:hindu": {
+          "Count": "Int:0"
+        },
+        "Religion:islam": {
+          "Count": "Int:810"
+        },
+        "Religion:roman_catholic": {
+          "Count": "Int:414"
+        },
+        "Religion:other_christian": {
+          "Count": "Int:20"
+        },
+        "Religion:other": {
+          "Count": "Int:177"
+        }
+      },
+      "DSD:LK-2212": {
+        "Religion:buddhist": {
+          "Count": "Int:29369"
+        },
+        "Religion:hindu": {
+          "Count": "Int:925"
+        },
+        "Religion:islam": {
+          "Count": "Int:1131"
+        },
+        "Religion:roman_catholic": {
+          "Count": "Int:20"
+        },
+        "Religion:other_christian": {
+          "Count": "Int:11"
+        },
+        "Religion:other": {
+          "Count": "Int:173"
+        }
+      },
+      "DSD:LK-5221": {
+        "Religion:buddhist": {
+          "Count": "Int:77"
+        },
+        "Religion:hindu": {
+          "Count": "Int:24858"
+        },
+        "Religion:islam": {
+          "Count": "Int:3299"
+        },
+        "Religion:roman_catholic": {
+          "Count": "Int:1743"
+        },
+        "Religion:other_christian": {
+          "Count": "Int:1432"
+        },
+        "Religion:other": {
+          "Count": "Int:147"
+        }
+      },
+      "DSD:LK-8230": {
+        "Religion:buddhist": {
+          "Count": "Int:31070"
+        },
+        "Religion:hindu": {
+          "Count": "Int:13"
+        },
+        "Religion:islam": {
+          "Count": "Int:0"
+        },
+        "Religion:roman_catholic": {
+          "Count": "Int:39"
+        },
+        "Religion:other_christian": {
+          "Count": "Int:27"
+        },
+        "Religion:other": {
+          "Count": "Int:89"
+        }
+      },
+      "DSD:LK-2134": {
+        "Religion:buddhist": {
+          "Count": "Int:29096"
+        },
+        "Religion:hindu": {
+          "Count": "Int:424"
+        },
+        "Religion:islam": {
+          "Count": "Int:1494"
+        },
+        "Religion:roman_catholic": {
+          "Count": "Int:24"
+        },
+        "Religion:other_christian": {
+          "Count": "Int:0"
+        },
+        "Religion:other": {
+          "Count": "Int:103"
+        }
+      },
+      "DSD:LK-7151": {
+        "Religion:buddhist": {
+          "Count": "Int:28174"
+        },
+        "Religion:hindu": {
+          "Count": "Int:34"
+        },
+        "Religion:islam": {
+          "Count": "Int:2054"
+        },
+        "Religion:roman_catholic": {
+          "Count": "Int:707"
+        },
+        "Religion:other_christian": {
+          "Count": "Int:14"
+        },
+        "Religion:other": {
+          "Count": "Int:138"
+        }
+      },
+      "DSD:LK-3118": {
+        "Religion:buddhist": {
+          "Count": "Int:29207"
+        },
+        "Religion:hindu": {
+          "Count": "Int:1148"
+        },
+        "Religion:islam": {
+          "Count": "Int:0"
+        },
+        "Religion:roman_catholic": {
+          "Count": "Int:311"
+        },
+        "Religion:other_christian": {
+          "Count": "Int:156"
+        },
+        "Religion:other": {
+          "Count": "Int:167"
+        }
+      },
+      "DSD:LK-2209": {
+        "Religion:buddhist": {
+          "Count": "Int:28407"
+        },
+        "Religion:hindu": {
+          "Count": "Int:1563"
+        },
+        "Religion:islam": {
+          "Count": "Int:428"
+        },
+        "Religion:roman_catholic": {
+          "Count": "Int:125"
+        },
+        "Religion:other_christian": {
+          "Count": "Int:41"
+        },
+        "Religion:other": {
+          "Count": "Int:154"
+        }
+      },
+      "DSD:LK-5230": {
+        "Religion:buddhist": {
+          "Count": "Int:0"
+        },
+        "Religion:hindu": {
+          "Count": "Int:989"
+        },
+        "Religion:islam": {
+          "Count": "Int:29614"
+        },
+        "Religion:roman_catholic": {
+          "Count": "Int:23"
+        },
+        "Religion:other_christian": {
+          "Count": "Int:11"
+        },
+        "Religion:other": {
+          "Count": "Int:34"
+        }
+      },
+      "DSD:LK-5104": {
+        "Religion:buddhist": {
+          "Count": "Int:47"
+        },
+        "Religion:hindu": {
+          "Count": "Int:588"
+        },
+        "Religion:islam": {
+          "Count": "Int:29870"
+        },
+        "Religion:roman_catholic": {
+          "Count": "Int:25"
+        },
+        "Religion:other_christian": {
+          "Count": "Int:49"
+        },
+        "Religion:other": {
+          "Count": "Int:24"
+        }
+      },
+      "DSD:LK-9130": {
+        "Religion:buddhist": {
+          "Count": "Int:26217"
+        },
+        "Religion:hindu": {
+          "Count": "Int:3473"
+        },
+        "Religion:islam": {
+          "Count": "Int:0"
+        },
+        "Religion:roman_catholic": {
+          "Count": "Int:134"
+        },
+        "Religion:other_christian": {
+          "Count": "Int:57"
+        },
+        "Religion:other": {
+          "Count": "Int:63"
+        }
+      },
+      "DSD:LK-5225": {
+        "Religion:buddhist": {
+          "Count": "Int:0"
+        },
+        "Religion:hindu": {
+          "Count": "Int:0"
+        },
+        "Religion:islam": {
+          "Count": "Int:29828"
+        },
+        "Religion:roman_catholic": {
+          "Count": "Int:0"
+        },
+        "Religion:other_christian": {
+          "Count": "Int:0"
+        },
+        "Religion:other": {
+          "Count": "Int:45"
+        }
+      },
+      "DSD:LK-3130": {
+        "Religion:buddhist": {
+          "Count": "Int:27996"
+        },
+        "Religion:hindu": {
+          "Count": "Int:899"
+        },
+        "Religion:islam": {
+          "Count": "Int:10"
+        },
+        "Religion:roman_catholic": {
+          "Count": "Int:175"
+        },
+        "Religion:other_christian": {
+          "Count": "Int:195"
+        },
+        "Religion:other": {
+          "Count": "Int:81"
+        }
+      },
+      "DSD:LK-5245": {
+        "Religion:buddhist": {
+          "Count": "Int:10"
+        },
+        "Religion:hindu": {
+          "Count": "Int:27725"
+        },
+        "Religion:islam": {
+          "Count": "Int:0"
+        },
+        "Religion:roman_catholic": {
+          "Count": "Int:466"
+        },
+        "Religion:other_christian": {
+          "Count": "Int:936"
+        },
+        "Religion:other": {
+          "Count": "Int:115"
+        }
+      },
+      "DSD:LK-5109": {
+        "Religion:buddhist": {
+          "Count": "Int:542"
+        },
+        "Religion:hindu": {
+          "Count": "Int:23383"
+        },
+        "Religion:islam": {
+          "Count": "Int:62"
+        },
+        "Religion:roman_catholic": {
+          "Count": "Int:1253"
+        },
+        "Religion:other_christian": {
+          "Count": "Int:3459"
+        },
+        "Religion:other": {
+          "Count": "Int:63"
+        }
+      },
+      "DSD:LK-6109": {
+        "Religion:buddhist": {
+          "Count": "Int:27418"
+        },
+        "Religion:hindu": {
+          "Count": "Int:0"
+        },
+        "Religion:islam": {
+          "Count": "Int:802"
+        },
+        "Religion:roman_catholic": {
+          "Count": "Int:0"
+        },
+        "Religion:other_christian": {
+          "Count": "Int:0"
+        },
+        "Religion:other": {
+          "Count": "Int:97"
+        }
+      },
+      "DSD:LK-5110": {
+        "Religion:buddhist": {
+          "Count": "Int:29"
+        },
+        "Religion:hindu": {
+          "Count": "Int:25536"
+        },
+        "Religion:islam": {
+          "Count": "Int:183"
+        },
+        "Religion:roman_catholic": {
+          "Count": "Int:262"
+        },
+        "Religion:other_christian": {
+          "Count": "Int:2225"
+        },
+        "Religion:other": {
+          "Count": "Int:67"
+        }
+      },
+      "DSD:LK-7136": {
+        "Religion:buddhist": {
+          "Count": "Int:24499"
+        },
+        "Religion:hindu": {
+          "Count": "Int:0"
+        },
+        "Religion:islam": {
+          "Count": "Int:3586"
+        },
+        "Religion:roman_catholic": {
+          "Count": "Int:66"
+        },
+        "Religion:other_christian": {
+          "Count": "Int:33"
+        },
+        "Religion:other": {
+          "Count": "Int:82"
+        }
+      },
+      "DSD:LK-6227": {
+        "Religion:buddhist": {
+          "Count": "Int:18924"
+        },
+        "Religion:hindu": {
+          "Count": "Int:226"
+        },
+        "Religion:islam": {
+          "Count": "Int:5220"
+        },
+        "Religion:roman_catholic": {
+          "Count": "Int:3261"
+        },
+        "Religion:other_christian": {
+          "Count": "Int:225"
+        },
+        "Religion:other": {
+          "Count": "Int:82"
+        }
+      },
+      "DSD:LK-3121": {
+        "Religion:buddhist": {
+          "Count": "Int:26202"
+        },
+        "Religion:hindu": {
+          "Count": "Int:1092"
+        },
+        "Religion:islam": {
+          "Count": "Int:0"
+        },
+        "Religion:roman_catholic": {
+          "Count": "Int:32"
+        },
+        "Religion:other_christian": {
+          "Count": "Int:315"
+        },
+        "Religion:other": {
+          "Count": "Int:105"
+        }
+      },
+      "DSD:LK-3128": {
+        "Religion:buddhist": {
+          "Count": "Int:26230"
+        },
+        "Religion:hindu": {
+          "Count": "Int:1084"
+        },
+        "Religion:islam": {
+          "Count": "Int:0"
+        },
+        "Religion:roman_catholic": {
+          "Count": "Int:72"
+        },
+        "Religion:other_christian": {
+          "Count": "Int:203"
+        },
+        "Religion:other": {
+          "Count": "Int:113"
+        }
+      },
+      "DSD:LK-9121": {
+        "Religion:buddhist": {
+          "Count": "Int:25134"
+        },
+        "Religion:hindu": {
+          "Count": "Int:1693"
+        },
+        "Religion:islam": {
+          "Count": "Int:230"
+        },
+        "Religion:roman_catholic": {
+          "Count": "Int:99"
+        },
+        "Religion:other_christian": {
+          "Count": "Int:38"
+        },
+        "Religion:other": {
+          "Count": "Int:50"
+        }
+      },
+      "DSD:LK-8112": {
+        "Religion:buddhist": {
+          "Count": "Int:25458"
+        },
+        "Religion:hindu": {
+          "Count": "Int:748"
+        },
+        "Religion:islam": {
+          "Count": "Int:600"
+        },
+        "Religion:roman_catholic": {
+          "Count": "Int:0"
+        },
+        "Religion:other_christian": {
+          "Count": "Int:48"
+        },
+        "Religion:other": {
+          "Count": "Int:59"
+        }
+      },
+      "DSD:LK-5130": {
+        "Religion:buddhist": {
+          "Count": "Int:1336"
+        },
+        "Religion:hindu": {
+          "Count": "Int:25073"
+        },
+        "Religion:islam": {
+          "Count": "Int:0"
+        },
+        "Religion:roman_catholic": {
+          "Count": "Int:63"
+        },
+        "Religion:other_christian": {
+          "Count": "Int:128"
+        },
+        "Religion:other": {
+          "Count": "Int:76"
+        }
+      },
+      "DSD:LK-5115": {
+        "Religion:buddhist": {
+          "Count": "Int:0"
+        },
+        "Religion:hindu": {
+          "Count": "Int:2944"
+        },
+        "Religion:islam": {
+          "Count": "Int:23126"
+        },
+        "Religion:roman_catholic": {
+          "Count": "Int:223"
+        },
+        "Religion:other_christian": {
+          "Count": "Int:124"
+        },
+        "Religion:other": {
+          "Count": "Int:51"
+        }
+      },
+      "DSD:LK-7106": {
+        "Religion:buddhist": {
+          "Count": "Int:23731"
+        },
+        "Religion:hindu": {
+          "Count": "Int:0"
+        },
+        "Religion:islam": {
+          "Count": "Int:2629"
+        },
+        "Religion:roman_catholic": {
+          "Count": "Int:0"
+        },
+        "Religion:other_christian": {
+          "Count": "Int:0"
+        },
+        "Religion:other": {
+          "Count": "Int:72"
+        }
+      },
+      "DSD:LK-6209": {
+        "Religion:buddhist": {
+          "Count": "Int:24542"
+        },
+        "Religion:hindu": {
+          "Count": "Int:16"
+        },
+        "Religion:islam": {
+          "Count": "Int:0"
+        },
+        "Religion:roman_catholic": {
+          "Count": "Int:1414"
+        },
+        "Religion:other_christian": {
+          "Count": "Int:126"
+        },
+        "Religion:other": {
+          "Count": "Int:127"
+        }
+      },
+      "DSD:LK-3136": {
+        "Religion:buddhist": {
+          "Count": "Int:25734"
+        },
+        "Religion:hindu": {
+          "Count": "Int:24"
+        },
+        "Religion:islam": {
+          "Count": "Int:0"
+        },
+        "Religion:roman_catholic": {
+          "Count": "Int:58"
+        },
+        "Religion:other_christian": {
+          "Count": "Int:165"
+        },
+        "Religion:other": {
+          "Count": "Int:235"
+        }
+      },
+      "DSD:LK-4312": {
+        "Religion:buddhist": {
+          "Count": "Int:0"
+        },
+        "Religion:hindu": {
+          "Count": "Int:12802"
+        },
+        "Religion:islam": {
+          "Count": "Int:9124"
+        },
+        "Religion:roman_catholic": {
+          "Count": "Int:2803"
+        },
+        "Religion:other_christian": {
+          "Count": "Int:933"
+        },
+        "Religion:other": {
+          "Count": "Int:108"
+        }
+      },
+      "DSD:LK-2115": {
+        "Religion:buddhist": {
+          "Count": "Int:9699"
+        },
+        "Religion:hindu": {
+          "Count": "Int:13749"
+        },
+        "Religion:islam": {
+          "Count": "Int:979"
+        },
+        "Religion:roman_catholic": {
+          "Count": "Int:702"
+        },
+        "Religion:other_christian": {
+          "Count": "Int:474"
+        },
+        "Religion:other": {
+          "Count": "Int:47"
+        }
+      },
+      "DSD:LK-6112": {
+        "Religion:buddhist": {
+          "Count": "Int:24990"
+        },
+        "Religion:hindu": {
+          "Count": "Int:0"
+        },
+        "Religion:islam": {
+          "Count": "Int:373"
+        },
+        "Religion:roman_catholic": {
+          "Count": "Int:21"
+        },
+        "Religion:other_christian": {
+          "Count": "Int:15"
+        },
+        "Religion:other": {
+          "Count": "Int:116"
+        }
+      },
+      "DSD:LK-5103": {
+        "Religion:buddhist": {
+          "Count": "Int:136"
+        },
+        "Religion:hindu": {
+          "Count": "Int:20144"
+        },
+        "Religion:islam": {
+          "Count": "Int:1086"
+        },
+        "Religion:roman_catholic": {
+          "Count": "Int:630"
+        },
+        "Religion:other_christian": {
+          "Count": "Int:3432"
+        },
+        "Religion:other": {
+          "Count": "Int:47"
+        }
+      },
+      "DSD:LK-4506": {
+        "Religion:buddhist": {
+          "Count": "Int:0"
+        },
+        "Religion:hindu": {
+          "Count": "Int:21963"
+        },
+        "Religion:islam": {
+          "Count": "Int:0"
+        },
+        "Religion:roman_catholic": {
+          "Count": "Int:1546"
+        },
+        "Religion:other_christian": {
+          "Count": "Int:1357"
+        },
+        "Religion:other": {
+          "Count": "Int:55"
+        }
+      },
+      "DSD:LK-6118": {
+        "Religion:buddhist": {
+          "Count": "Int:19564"
+        },
+        "Religion:hindu": {
+          "Count": "Int:10"
+        },
+        "Religion:islam": {
+          "Count": "Int:4891"
+        },
+        "Religion:roman_catholic": {
+          "Count": "Int:273"
+        },
+        "Religion:other_christian": {
+          "Count": "Int:62"
+        },
+        "Religion:other": {
+          "Count": "Int:112"
+        }
+      },
+      "DSD:LK-5239": {
+        "Religion:buddhist": {
+          "Count": "Int:139"
+        },
+        "Religion:hindu": {
+          "Count": "Int:21309"
+        },
+        "Religion:islam": {
+          "Count": "Int:44"
+        },
+        "Religion:roman_catholic": {
+          "Count": "Int:1959"
+        },
+        "Religion:other_christian": {
+          "Count": "Int:1286"
+        },
+        "Religion:other": {
+          "Count": "Int:101"
+        }
+      },
+      "DSD:LK-5106": {
+        "Religion:buddhist": {
+          "Count": "Int:0"
+        },
+        "Religion:hindu": {
+          "Count": "Int:21"
+        },
+        "Religion:islam": {
+          "Count": "Int:24550"
+        },
+        "Religion:roman_catholic": {
+          "Count": "Int:0"
+        },
+        "Religion:other_christian": {
+          "Count": "Int:0"
+        },
+        "Religion:other": {
+          "Count": "Int:12"
+        }
+      },
+      "DSD:LK-7103": {
+        "Religion:buddhist": {
+          "Count": "Int:24293"
+        },
+        "Religion:hindu": {
+          "Count": "Int:0"
+        },
+        "Religion:islam": {
+          "Count": "Int:0"
+        },
+        "Religion:roman_catholic": {
+          "Count": "Int:131"
+        },
+        "Religion:other_christian": {
+          "Count": "Int:0"
+        },
+        "Religion:other": {
+          "Count": "Int:69"
+        }
+      },
+      "DSD:LK-8115": {
+        "Religion:buddhist": {
+          "Count": "Int:19709"
+        },
+        "Religion:hindu": {
+          "Count": "Int:4240"
+        },
+        "Religion:islam": {
+          "Count": "Int:241"
+        },
+        "Religion:roman_catholic": {
+          "Count": "Int:67"
+        },
+        "Religion:other_christian": {
+          "Count": "Int:87"
+        },
+        "Religion:other": {
+          "Count": "Int:63"
+        }
+      },
+      "DSD:LK-7112": {
+        "Religion:buddhist": {
+          "Count": "Int:23947"
+        },
+        "Religion:hindu": {
+          "Count": "Int:0"
+        },
+        "Religion:islam": {
+          "Count": "Int:0"
+        },
+        "Religion:roman_catholic": {
+          "Count": "Int:79"
+        },
+        "Religion:other_christian": {
+          "Count": "Int:54"
+        },
+        "Religion:other": {
+          "Count": "Int:114"
+        }
+      },
+      "DSD:LK-4512": {
+        "Religion:buddhist": {
+          "Count": "Int:14"
+        },
+        "Religion:hindu": {
+          "Count": "Int:16292"
+        },
+        "Religion:islam": {
+          "Count": "Int:884"
+        },
+        "Religion:roman_catholic": {
+          "Count": "Int:5762"
+        },
+        "Religion:other_christian": {
+          "Count": "Int:1096"
+        },
+        "Religion:other": {
+          "Count": "Int:65"
+        }
+      },
+      "DSD:LK-6115": {
+        "Religion:buddhist": {
+          "Count": "Int:23830"
+        },
+        "Religion:hindu": {
+          "Count": "Int:0"
+        },
+        "Religion:islam": {
+          "Count": "Int:97"
+        },
+        "Religion:roman_catholic": {
+          "Count": "Int:21"
+        },
+        "Religion:other_christian": {
+          "Count": "Int:0"
+        },
+        "Religion:other": {
+          "Count": "Int:83"
+        }
+      },
+      "DSD:LK-5209": {
+        "Religion:buddhist": {
+          "Count": "Int:23625"
+        },
+        "Religion:hindu": {
+          "Count": "Int:0"
+        },
+        "Religion:islam": {
+          "Count": "Int:0"
+        },
+        "Religion:roman_catholic": {
+          "Count": "Int:0"
+        },
+        "Religion:other_christian": {
+          "Count": "Int:11"
+        },
+        "Religion:other": {
+          "Count": "Int:79"
+        }
+      },
+      "DSD:LK-3134": {
+        "Religion:buddhist": {
+          "Count": "Int:22922"
+        },
+        "Religion:hindu": {
+          "Count": "Int:0"
+        },
+        "Religion:islam": {
+          "Count": "Int:0"
+        },
+        "Religion:roman_catholic": {
+          "Count": "Int:141"
+        },
+        "Religion:other_christian": {
+          "Count": "Int:101"
+        },
+        "Religion:other": {
+          "Count": "Int:107"
+        }
+      },
+      "DSD:LK-2118": {
+        "Religion:buddhist": {
+          "Count": "Int:21115"
+        },
+        "Religion:hindu": {
+          "Count": "Int:1670"
+        },
+        "Religion:islam": {
+          "Count": "Int:116"
+        },
+        "Religion:roman_catholic": {
+          "Count": "Int:37"
+        },
+        "Religion:other_christian": {
+          "Count": "Int:10"
+        },
+        "Religion:other": {
+          "Count": "Int:98"
+        }
+      },
+      "DSD:LK-8109": {
+        "Religion:buddhist": {
+          "Count": "Int:20824"
+        },
+        "Religion:hindu": {
+          "Count": "Int:1718"
+        },
+        "Religion:islam": {
+          "Count": "Int:0"
+        },
+        "Religion:roman_catholic": {
+          "Count": "Int:33"
+        },
+        "Religion:other_christian": {
+          "Count": "Int:13"
+        },
+        "Religion:other": {
+          "Count": "Int:95"
+        }
+      },
+      "DSD:LK-6221": {
+        "Religion:buddhist": {
+          "Count": "Int:18690"
+        },
+        "Religion:hindu": {
+          "Count": "Int:484"
+        },
+        "Religion:islam": {
+          "Count": "Int:0"
+        },
+        "Religion:roman_catholic": {
+          "Count": "Int:2443"
+        },
+        "Religion:other_christian": {
+          "Count": "Int:129"
+        },
+        "Religion:other": {
+          "Count": "Int:121"
+        }
+      },
+      "DSD:LK-5216": {
+        "Religion:buddhist": {
+          "Count": "Int:77"
+        },
+        "Religion:hindu": {
+          "Count": "Int:11633"
+        },
+        "Religion:islam": {
+          "Count": "Int:7965"
+        },
+        "Religion:roman_catholic": {
+          "Count": "Int:1941"
+        },
+        "Religion:other_christian": {
+          "Count": "Int:201"
+        },
+        "Religion:other": {
+          "Count": "Int:39"
+        }
+      },
+      "DSD:LK-5206": {
+        "Religion:buddhist": {
+          "Count": "Int:20711"
+        },
+        "Religion:hindu": {
+          "Count": "Int:12"
+        },
+        "Religion:islam": {
+          "Count": "Int:50"
+        },
+        "Religion:roman_catholic": {
+          "Count": "Int:0"
+        },
+        "Religion:other_christian": {
+          "Count": "Int:0"
+        },
+        "Religion:other": {
+          "Count": "Int:61"
+        }
+      },
+      "DSD:LK-3233": {
+        "Religion:buddhist": {
+          "Count": "Int:19936"
+        },
+        "Religion:hindu": {
+          "Count": "Int:0"
+        },
+        "Religion:islam": {
+          "Count": "Int:652"
+        },
+        "Religion:roman_catholic": {
+          "Count": "Int:0"
+        },
+        "Religion:other_christian": {
+          "Count": "Int:0"
+        },
+        "Religion:other": {
+          "Count": "Int:39"
+        }
+      },
+      "DSD:LK-3327": {
+        "Religion:buddhist": {
+          "Count": "Int:19956"
+        },
+        "Religion:hindu": {
+          "Count": "Int:0"
+        },
+        "Religion:islam": {
+          "Count": "Int:18"
+        },
+        "Religion:roman_catholic": {
+          "Count": "Int:0"
+        },
+        "Religion:other_christian": {
+          "Count": "Int:0"
+        },
+        "Religion:other": {
+          "Count": "Int:18"
+        }
+      },
+      "DSD:LK-6206": {
+        "Religion:buddhist": {
+          "Count": "Int:7819"
+        },
+        "Religion:hindu": {
+          "Count": "Int:816"
+        },
+        "Religion:islam": {
+          "Count": "Int:7306"
+        },
+        "Religion:roman_catholic": {
+          "Count": "Int:3532"
+        },
+        "Religion:other_christian": {
+          "Count": "Int:400"
+        },
+        "Religion:other": {
+          "Count": "Int:118"
+        }
+      },
+      "DSD:LK-4212": {
+        "Religion:buddhist": {
+          "Count": "Int:57"
+        },
+        "Religion:hindu": {
+          "Count": "Int:3719"
+        },
+        "Religion:islam": {
+          "Count": "Int:1375"
+        },
+        "Religion:roman_catholic": {
+          "Count": "Int:13056"
+        },
+        "Religion:other_christian": {
+          "Count": "Int:1353"
+        },
+        "Religion:other": {
+          "Count": "Int:114"
+        }
+      },
+      "DSD:LK-5227": {
+        "Religion:buddhist": {
+          "Count": "Int:0"
+        },
+        "Religion:hindu": {
+          "Count": "Int:10908"
+        },
+        "Religion:islam": {
+          "Count": "Int:8280"
+        },
+        "Religion:roman_catholic": {
+          "Count": "Int:91"
+        },
+        "Religion:other_christian": {
+          "Count": "Int:129"
+        },
+        "Religion:other": {
+          "Count": "Int:85"
+        }
+      },
+      "DSD:LK-4206": {
+        "Religion:buddhist": {
+          "Count": "Int:0"
+        },
+        "Religion:hindu": {
+          "Count": "Int:7474"
+        },
+        "Religion:islam": {
+          "Count": "Int:2321"
+        },
+        "Religion:roman_catholic": {
+          "Count": "Int:8078"
+        },
+        "Religion:other_christian": {
+          "Count": "Int:714"
+        },
+        "Religion:other": {
+          "Count": "Int:87"
+        }
+      },
+      "DSD:LK-8227": {
+        "Religion:buddhist": {
+          "Count": "Int:17477"
+        },
+        "Religion:hindu": {
+          "Count": "Int:554"
+        },
+        "Religion:islam": {
+          "Count": "Int:38"
+        },
+        "Religion:roman_catholic": {
+          "Count": "Int:13"
+        },
+        "Religion:other_christian": {
+          "Count": "Int:37"
+        },
+        "Religion:other": {
+          "Count": "Int:39"
+        }
+      },
+      "DSD:LK-4412": {
+        "Religion:buddhist": {
+          "Count": "Int:220"
+        },
+        "Religion:hindu": {
+          "Count": "Int:15685"
+        },
+        "Religion:islam": {
+          "Count": "Int:27"
+        },
+        "Religion:roman_catholic": {
+          "Count": "Int:870"
+        },
+        "Religion:other_christian": {
+          "Count": "Int:1254"
+        },
+        "Religion:other": {
+          "Count": "Int:93"
+        }
+      },
+      "DSD:LK-4215": {
+        "Religion:buddhist": {
+          "Count": "Int:79"
+        },
+        "Religion:hindu": {
+          "Count": "Int:402"
+        },
+        "Religion:islam": {
+          "Count": "Int:13570"
+        },
+        "Religion:roman_catholic": {
+          "Count": "Int:4007"
+        },
+        "Religion:other_christian": {
+          "Count": "Int:49"
+        },
+        "Religion:other": {
+          "Count": "Int:36"
+        }
+      },
+      "DSD:LK-7157": {
+        "Religion:buddhist": {
+          "Count": "Int:17713"
+        },
+        "Religion:hindu": {
+          "Count": "Int:57"
+        },
+        "Religion:islam": {
+          "Count": "Int:0"
+        },
+        "Religion:roman_catholic": {
+          "Count": "Int:215"
+        },
+        "Religion:other_christian": {
+          "Count": "Int:44"
+        },
+        "Religion:other": {
+          "Count": "Int:109"
+        }
+      },
+      "DSD:LK-5234": {
+        "Religion:buddhist": {
+          "Count": "Int:973"
+        },
+        "Religion:hindu": {
+          "Count": "Int:385"
+        },
+        "Religion:islam": {
+          "Count": "Int:16275"
+        },
+        "Religion:roman_catholic": {
+          "Count": "Int:0"
+        },
+        "Religion:other_christian": {
+          "Count": "Int:0"
+        },
+        "Religion:other": {
+          "Count": "Int:38"
+        }
+      },
+      "DSD:LK-6212": {
+        "Religion:buddhist": {
+          "Count": "Int:17390"
+        },
+        "Religion:hindu": {
+          "Count": "Int:0"
+        },
+        "Religion:islam": {
+          "Count": "Int:0"
+        },
+        "Religion:roman_catholic": {
+          "Count": "Int:79"
+        },
+        "Religion:other_christian": {
+          "Count": "Int:22"
+        },
+        "Religion:other": {
+          "Count": "Int:80"
+        }
+      },
+      "DSD:LK-4139": {
+        "Religion:buddhist": {
+          "Count": "Int:0"
+        },
+        "Religion:hindu": {
+          "Count": "Int:11846"
+        },
+        "Religion:islam": {
+          "Count": "Int:238"
+        },
+        "Religion:roman_catholic": {
+          "Count": "Int:4244"
+        },
+        "Religion:other_christian": {
+          "Count": "Int:189"
+        },
+        "Religion:other": {
+          "Count": "Int:83"
+        }
+      },
+      "DSD:LK-2224": {
+        "Religion:buddhist": {
+          "Count": "Int:16251"
+        },
+        "Religion:hindu": {
+          "Count": "Int:17"
+        },
+        "Religion:islam": {
+          "Count": "Int:0"
+        },
+        "Religion:roman_catholic": {
+          "Count": "Int:0"
+        },
+        "Religion:other_christian": {
+          "Count": "Int:0"
+        },
+        "Religion:other": {
+          "Count": "Int:32"
+        }
+      },
+      "DSD:LK-5330": {
+        "Religion:buddhist": {
+          "Count": "Int:9775"
+        },
+        "Religion:hindu": {
+          "Count": "Int:2707"
+        },
+        "Religion:islam": {
+          "Count": "Int:3213"
+        },
+        "Religion:roman_catholic": {
+          "Count": "Int:28"
+        },
+        "Religion:other_christian": {
+          "Count": "Int:216"
+        },
+        "Religion:other": {
+          "Count": "Int:68"
+        }
+      },
+      "DSD:LK-2221": {
+        "Religion:buddhist": {
+          "Count": "Int:11887"
+        },
+        "Religion:hindu": {
+          "Count": "Int:3700"
+        },
+        "Religion:islam": {
+          "Count": "Int:61"
+        },
+        "Religion:roman_catholic": {
+          "Count": "Int:98"
+        },
+        "Religion:other_christian": {
+          "Count": "Int:51"
+        },
+        "Religion:other": {
+          "Count": "Int:79"
+        }
+      },
+      "DSD:LK-4306": {
+        "Religion:buddhist": {
+          "Count": "Int:13946"
+        },
+        "Religion:hindu": {
+          "Count": "Int:375"
+        },
+        "Religion:islam": {
+          "Count": "Int:0"
+        },
+        "Religion:roman_catholic": {
+          "Count": "Int:197"
+        },
+        "Religion:other_christian": {
+          "Count": "Int:240"
+        },
+        "Religion:other": {
+          "Count": "Int:84"
+        }
+      },
+      "DSD:LK-4303": {
+        "Religion:buddhist": {
+          "Count": "Int:1123"
+        },
+        "Religion:hindu": {
+          "Count": "Int:12616"
+        },
+        "Religion:islam": {
+          "Count": "Int:0"
+        },
+        "Religion:roman_catholic": {
+          "Count": "Int:543"
+        },
+        "Religion:other_christian": {
+          "Count": "Int:364"
+        },
+        "Religion:other": {
+          "Count": "Int:63"
+        }
+      },
+      "DSD:LK-5333": {
+        "Religion:buddhist": {
+          "Count": "Int:0"
+        },
+        "Religion:hindu": {
+          "Count": "Int:13459"
+        },
+        "Religion:islam": {
+          "Count": "Int:0"
+        },
+        "Religion:roman_catholic": {
+          "Count": "Int:22"
+        },
+        "Religion:other_christian": {
+          "Count": "Int:501"
+        },
+        "Religion:other": {
+          "Count": "Int:80"
+        }
+      },
+      "DSD:LK-4124": {
+        "Religion:buddhist": {
+          "Count": "Int:0"
+        },
+        "Religion:hindu": {
+          "Count": "Int:9267"
+        },
+        "Religion:islam": {
+          "Count": "Int:0"
+        },
+        "Religion:roman_catholic": {
+          "Count": "Int:4013"
+        },
+        "Religion:other_christian": {
+          "Count": "Int:203"
+        },
+        "Religion:other": {
+          "Count": "Int:54"
+        }
+      },
+      "DSD:LK-4503": {
+        "Religion:buddhist": {
+          "Count": "Int:0"
+        },
+        "Religion:hindu": {
+          "Count": "Int:11271"
+        },
+        "Religion:islam": {
+          "Count": "Int:0"
+        },
+        "Religion:roman_catholic": {
+          "Count": "Int:1261"
+        },
+        "Religion:other_christian": {
+          "Count": "Int:431"
+        },
+        "Religion:other": {
+          "Count": "Int:82"
+        }
+      },
+      "DSD:LK-9119": {
+        "Religion:buddhist": {
+          "Count": "Int:12648"
+        },
+        "Religion:hindu": {
+          "Count": "Int:0"
+        },
+        "Religion:islam": {
+          "Count": "Int:309"
+        },
+        "Religion:roman_catholic": {
+          "Count": "Int:23"
+        },
+        "Religion:other_christian": {
+          "Count": "Int:0"
+        },
+        "Religion:other": {
+          "Count": "Int:38"
+        }
+      },
+      "DSD:LK-5303": {
+        "Religion:buddhist": {
+          "Count": "Int:11918"
+        },
+        "Religion:hindu": {
+          "Count": "Int:0"
+        },
+        "Religion:islam": {
+          "Count": "Int:0"
+        },
+        "Religion:roman_catholic": {
+          "Count": "Int:24"
+        },
+        "Religion:other_christian": {
+          "Count": "Int:80"
+        },
+        "Religion:other": {
+          "Count": "Int:59"
+        }
+      },
+      "DSD:LK-5251": {
+        "Religion:buddhist": {
+          "Count": "Int:9711"
+        },
+        "Religion:hindu": {
+          "Count": "Int:616"
+        },
+        "Religion:islam": {
+          "Count": "Int:0"
+        },
+        "Religion:roman_catholic": {
+          "Count": "Int:33"
+        },
+        "Religion:other_christian": {
+          "Count": "Int:0"
+        },
+        "Religion:other": {
+          "Count": "Int:56"
+        }
+      },
+      "DSD:LK-4403": {
+        "Religion:buddhist": {
+          "Count": "Int:22"
+        },
+        "Religion:hindu": {
+          "Count": "Int:9188"
+        },
+        "Religion:islam": {
+          "Count": "Int:20"
+        },
+        "Religion:roman_catholic": {
+          "Count": "Int:549"
+        },
+        "Religion:other_christian": {
+          "Count": "Int:552"
+        },
+        "Religion:other": {
+          "Count": "Int:79"
+        }
+      },
+      "DSD:LK-4418": {
+        "Religion:buddhist": {
+          "Count": "Int:9894"
+        },
+        "Religion:hindu": {
+          "Count": "Int:52"
+        },
+        "Religion:islam": {
+          "Count": "Int:0"
+        },
+        "Religion:roman_catholic": {
+          "Count": "Int:43"
+        },
+        "Religion:other_christian": {
+          "Count": "Int:0"
+        },
+        "Religion:other": {
+          "Count": "Int:76"
+        }
+      },
+      "DSD:LK-4103": {
+        "Religion:buddhist": {
+          "Count": "Int:14"
+        },
+        "Religion:hindu": {
+          "Count": "Int:5170"
+        },
+        "Religion:islam": {
+          "Count": "Int:0"
+        },
+        "Religion:roman_catholic": {
+          "Count": "Int:4196"
+        },
+        "Religion:other_christian": {
+          "Count": "Int:530"
+        },
+        "Religion:other": {
+          "Count": "Int:21"
+        }
+      },
+      "DSD:LK-4209": {
+        "Religion:buddhist": {
+          "Count": "Int:73"
+        },
+        "Religion:hindu": {
+          "Count": "Int:4621"
+        },
+        "Religion:islam": {
+          "Count": "Int:1192"
+        },
+        "Religion:roman_catholic": {
+          "Count": "Int:3308"
+        },
+        "Religion:other_christian": {
+          "Count": "Int:209"
+        },
+        "Religion:other": {
+          "Count": "Int:90"
+        }
+      },
+      "DSD:LK-5312": {
+        "Religion:buddhist": {
+          "Count": "Int:6393"
+        },
+        "Religion:hindu": {
+          "Count": "Int:1188"
+        },
+        "Religion:islam": {
+          "Count": "Int:1548"
+        },
+        "Religion:roman_catholic": {
+          "Count": "Int:11"
+        },
+        "Religion:other_christian": {
+          "Count": "Int:0"
+        },
+        "Religion:other": {
+          "Count": "Int:53"
+        }
+      },
+      "DSD:LK-4104": {
+        "Religion:buddhist": {
+          "Count": "Int:0"
+        },
+        "Religion:hindu": {
+          "Count": "Int:8786"
+        },
+        "Religion:islam": {
+          "Count": "Int:0"
+        },
+        "Religion:roman_catholic": {
+          "Count": "Int:22"
+        },
+        "Religion:other_christian": {
+          "Count": "Int:298"
+        },
+        "Religion:other": {
+          "Count": "Int:25"
+        }
+      },
+      "DSD:LK-5309": {
+        "Religion:buddhist": {
+          "Count": "Int:8338"
+        },
+        "Religion:hindu": {
+          "Count": "Int:36"
+        },
+        "Religion:islam": {
+          "Count": "Int:0"
+        },
+        "Religion:roman_catholic": {
+          "Count": "Int:0"
+        },
+        "Religion:other_christian": {
+          "Count": "Int:0"
+        },
+        "Religion:other": {
+          "Count": "Int:24"
+        }
+      },
+      "DSD:LK-4406": {
+        "Religion:buddhist": {
+          "Count": "Int:12"
+        },
+        "Religion:hindu": {
+          "Count": "Int:6898"
+        },
+        "Religion:islam": {
+          "Count": "Int:0"
+        },
+        "Religion:roman_catholic": {
+          "Count": "Int:290"
+        },
+        "Religion:other_christian": {
+          "Count": "Int:370"
+        },
+        "Religion:other": {
+          "Count": "Int:80"
+        }
+      },
+      "DSD:LK-4142": {
+        "Religion:buddhist": {
+          "Count": "Int:0"
+        },
+        "Religion:hindu": {
+          "Count": "Int:1001"
+        },
+        "Religion:islam": {
+          "Count": "Int:0"
+        },
+        "Religion:roman_catholic": {
+          "Count": "Int:1923"
+        },
+        "Religion:other_christian": {
+          "Count": "Int:209"
+        },
+        "Religion:other": {
+          "Count": "Int:25"
+        }
+      },
+      "ED:EC-02": {
+        "Religion:buddhist": {
+          "Count": "Int:1744475"
+        },
+        "Religion:hindu": {
+          "Count": "Int:67337"
+        },
+        "Religion:islam": {
+          "Count": "Int:132985"
+        },
+        "Religion:roman_catholic": {
+          "Count": "Int:441173"
+        },
+        "Religion:other_christian": {
+          "Count": "Int:43053"
+        },
+        "Religion:other": {
+          "Count": "Int:7119"
+        }
+      },
+      "ED:EC-01": {
+        "Religion:buddhist": {
+          "Count": "Int:1682524"
+        },
+        "Religion:hindu": {
+          "Count": "Int:197524"
+        },
+        "Religion:islam": {
+          "Count": "Int:297852"
+        },
+        "Religion:roman_catholic": {
+          "Count": "Int:139690"
+        },
+        "Religion:other_christian": {
+          "Count": "Int:55217"
+        },
+        "Religion:other": {
+          "Count": "Int:2608"
+        }
+      },
+      "ED:EC-15": {
+        "Religion:buddhist": {
+          "Count": "Int:1557548"
+        },
+        "Religion:hindu": {
+          "Count": "Int:15155"
+        },
+        "Religion:islam": {
+          "Count": "Int:142329"
+        },
+        "Religion:roman_catholic": {
+          "Count": "Int:38045"
+        },
+        "Religion:other_christian": {
+          "Count": "Int:7359"
+        },
+        "Religion:other": {
+          "Count": "Int:7720"
+        }
+      },
+      "ED:EC-04": {
+        "Religion:buddhist": {
+          "Count": "Int:1063437"
+        },
+        "Religion:hindu": {
+          "Count": "Int:143193"
+        },
+        "Religion:islam": {
+          "Count": "Int:223243"
+        },
+        "Religion:roman_catholic": {
+          "Count": "Int:17093"
+        },
+        "Religion:other_christian": {
+          "Count": "Int:9656"
+        },
+        "Religion:other": {
+          "Count": "Int:5273"
+        }
+      },
+      "ED:EC-03": {
+        "Religion:buddhist": {
+          "Count": "Int:1080602"
+        },
+        "Religion:hindu": {
+          "Count": "Int:41110"
+        },
+        "Religion:islam": {
+          "Count": "Int:137464"
+        },
+        "Religion:roman_catholic": {
+          "Count": "Int:35550"
+        },
+        "Religion:other_christian": {
+          "Count": "Int:6599"
+        },
+        "Religion:other": {
+          "Count": "Int:4459"
+        }
+      },
+      "ED:EC-21": {
+        "Religion:buddhist": {
+          "Count": "Int:999682"
+        },
+        "Religion:hindu": {
+          "Count": "Int:103329"
+        },
+        "Religion:islam": {
+          "Count": "Int:26276"
+        },
+        "Religion:roman_catholic": {
+          "Count": "Int:7859"
+        },
+        "Religion:other_christian": {
+          "Count": "Int:5698"
+        },
+        "Religion:other": {
+          "Count": "Int:2579"
+        }
+      },
+      "ED:EC-07": {
+        "Religion:buddhist": {
+          "Count": "Int:1026031"
+        },
+        "Religion:hindu": {
+          "Count": "Int:14247"
+        },
+        "Religion:islam": {
+          "Count": "Int:45654"
+        },
+        "Religion:roman_catholic": {
+          "Count": "Int:2840"
+        },
+        "Religion:other_christian": {
+          "Count": "Int:4041"
+        },
+        "Religion:other": {
+          "Count": "Int:4559"
+        }
+      },
+      "ED:EC-17": {
+        "Religion:buddhist": {
+          "Count": "Int:862775"
+        },
+        "Religion:hindu": {
+          "Count": "Int:2800"
+        },
+        "Religion:islam": {
+          "Count": "Int:83621"
+        },
+        "Religion:roman_catholic": {
+          "Count": "Int:4793"
+        },
+        "Religion:other_christian": {
+          "Count": "Int:2931"
+        },
+        "Religion:other": {
+          "Count": "Int:3160"
+        }
+      },
+      "ED:EC-19": {
+        "Religion:buddhist": {
+          "Count": "Int:636979"
+        },
+        "Religion:hindu": {
+          "Count": "Int:165860"
+        },
+        "Religion:islam": {
+          "Count": "Int:53122"
+        },
+        "Religion:roman_catholic": {
+          "Count": "Int:8974"
+        },
+        "Religion:other_christian": {
+          "Count": "Int:5024"
+        },
+        "Religion:other": {
+          "Count": "Int:2348"
+        }
+      },
+      "ED:EC-22": {
+        "Religion:buddhist": {
+          "Count": "Int:728913"
+        },
+        "Religion:hindu": {
+          "Count": "Int:55470"
+        },
+        "Religion:islam": {
+          "Count": "Int:72273"
+        },
+        "Religion:roman_catholic": {
+          "Count": "Int:6398"
+        },
+        "Religion:other_christian": {
+          "Count": "Int:4718"
+        },
+        "Religion:other": {
+          "Count": "Int:2704"
+        }
+      },
+      "ED:EC-08": {
+        "Religion:buddhist": {
+          "Count": "Int:787299"
+        },
+        "Religion:hindu": {
+          "Count": "Int:13765"
+        },
+        "Religion:islam": {
+          "Count": "Int:29623"
+        },
+        "Religion:roman_catholic": {
+          "Count": "Int:1725"
+        },
+        "Religion:other_christian": {
+          "Count": "Int:2708"
+        },
+        "Religion:other": {
+          "Count": "Int:2769"
+        }
+      },
+      "ED:EC-16": {
+        "Religion:buddhist": {
+          "Count": "Int:361104"
+        },
+        "Religion:hindu": {
+          "Count": "Int:27905"
+        },
+        "Religion:islam": {
+          "Count": "Int:176541"
+        },
+        "Religion:roman_catholic": {
+          "Count": "Int:240805"
+        },
+        "Religion:other_christian": {
+          "Count": "Int:9852"
+        },
+        "Religion:other": {
+          "Count": "Int:2609"
+        }
+      },
+      "ED:EC-13": {
+        "Religion:buddhist": {
+          "Count": "Int:275877"
+        },
+        "Religion:hindu": {
+          "Count": "Int:114174"
+        },
+        "Religion:islam": {
+          "Count": "Int:339731"
+        },
+        "Religion:roman_catholic": {
+          "Count": "Int:6941"
+        },
+        "Religion:other_christian": {
+          "Count": "Int:6176"
+        },
+        "Religion:other": {
+          "Count": "Int:1652"
+        }
+      },
+      "ED:EC-10": {
+        "Religion:buddhist": {
+          "Count": "Int:3834"
+        },
+        "Religion:hindu": {
+          "Count": "Int:599751"
+        },
+        "Religion:islam": {
+          "Count": "Int:5246"
+        },
+        "Religion:roman_catholic": {
+          "Count": "Int:91225"
+        },
+        "Religion:other_christian": {
+          "Count": "Int:29452"
+        },
+        "Religion:other": {
+          "Count": "Int:1953"
+        }
+      },
+      "ED:EC-06": {
+        "Religion:buddhist": {
+          "Count": "Int:278828"
+        },
+        "Religion:hindu": {
+          "Count": "Int:376993"
+        },
+        "Religion:islam": {
+          "Count": "Int:21614"
+        },
+        "Religion:roman_catholic": {
+          "Count": "Int:31385"
+        },
+        "Religion:other_christian": {
+          "Count": "Int:15211"
+        },
+        "Religion:other": {
+          "Count": "Int:1249"
+        }
+      },
+      "ED:EC-09": {
+        "Religion:buddhist": {
+          "Count": "Int:649736"
+        },
+        "Religion:hindu": {
+          "Count": "Int:763"
+        },
+        "Religion:islam": {
+          "Count": "Int:17708"
+        },
+        "Religion:roman_catholic": {
+          "Count": "Int:528"
+        },
+        "Religion:other_christian": {
+          "Count": "Int:819"
+        },
+        "Religion:other": {
+          "Count": "Int:1864"
+        }
+      },
+      "ED:EC-12": {
+        "Religion:buddhist": {
+          "Count": "Int:5585"
+        },
+        "Religion:hindu": {
+          "Count": "Int:371831"
+        },
+        "Religion:islam": {
+          "Count": "Int:161035"
+        },
+        "Religion:roman_catholic": {
+          "Count": "Int:25298"
+        },
+        "Religion:other_christian": {
+          "Count": "Int:27264"
+        },
+        "Religion:other": {
+          "Count": "Int:1358"
+        }
+      },
+      "ED:EC-20": {
+        "Religion:buddhist": {
+          "Count": "Int:498429"
+        },
+        "Religion:hindu": {
+          "Count": "Int:14445"
+        },
+        "Religion:islam": {
+          "Count": "Int:12081"
+        },
+        "Religion:roman_catholic": {
+          "Count": "Int:878"
+        },
+        "Religion:other_christian": {
+          "Count": "Int:407"
+        },
+        "Religion:other": {
+          "Count": "Int:1345"
+        }
+      },
+      "ED:EC-05": {
+        "Religion:buddhist": {
+          "Count": "Int:418588"
+        },
+        "Religion:hindu": {
+          "Count": "Int:45536"
+        },
+        "Religion:islam": {
+          "Count": "Int:51897"
+        },
+        "Religion:roman_catholic": {
+          "Count": "Int:7202"
+        },
+        "Religion:other_christian": {
+          "Count": "Int:1554"
+        },
+        "Religion:other": {
+          "Count": "Int:2093"
+        }
+      },
+      "ED:EC-18": {
+        "Religion:buddhist": {
+          "Count": "Int:399472"
+        },
+        "Religion:hindu": {
+          "Count": "Int:6788"
+        },
+        "Religion:islam": {
+          "Count": "Int:36890"
+        },
+        "Religion:roman_catholic": {
+          "Count": "Int:2076"
+        },
+        "Religion:other_christian": {
+          "Count": "Int:732"
+        },
+        "Religion:other": {
+          "Count": "Int:1572"
+        }
+      },
+      "ED:EC-14": {
+        "Religion:buddhist": {
+          "Count": "Int:106702"
+        },
+        "Religion:hindu": {
+          "Count": "Int:107909"
+        },
+        "Religion:islam": {
+          "Count": "Int:205541"
+        },
+        "Religion:roman_catholic": {
+          "Count": "Int:14134"
+        },
+        "Religion:other_christian": {
+          "Count": "Int:7545"
+        },
+        "Religion:other": {
+          "Count": "Int:914"
+        }
+      },
+      "ED:EC-11": {
+        "Religion:buddhist": {
+          "Count": "Int:28540"
+        },
+        "Religion:hindu": {
+          "Count": "Int:229160"
+        },
+        "Religion:islam": {
+          "Count": "Int:54614"
+        },
+        "Religion:roman_catholic": {
+          "Count": "Int:84237"
+        },
+        "Religion:other_christian": {
+          "Count": "Int:20364"
+        },
+        "Religion:other": {
+          "Count": "Int:1576"
+        }
+      },
       "PD:EC-06A": {
         "Religion:buddhist": {
           "Count": "Int:78248"

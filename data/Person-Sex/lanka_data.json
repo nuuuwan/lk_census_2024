@@ -1,6 +1,3182 @@
 {
   "Person": {
     "Time:2024": {
+      "Country:LK": {
+        "Sex:male": {
+          "Count": "Int:10512344"
+        },
+        "Sex:female": {
+          "Count": "Int:11269456"
+        }
+      },
+      "Province:LK-1": {
+        "Sex:male": {
+          "Count": "Int:2961374"
+        },
+        "Sex:female": {
+          "Count": "Int:3155967"
+        }
+      },
+      "Province:LK-2": {
+        "Sex:male": {
+          "Count": "Int:1298405"
+        },
+        "Sex:female": {
+          "Count": "Int:1415640"
+        }
+      },
+      "Province:LK-3": {
+        "Sex:male": {
+          "Count": "Int:1258830"
+        },
+        "Sex:female": {
+          "Count": "Int:1347849"
+        }
+      },
+      "Province:LK-6": {
+        "Sex:male": {
+          "Count": "Int:1243316"
+        },
+        "Sex:female": {
+          "Count": "Int:1343656"
+        }
+      },
+      "Province:LK-9": {
+        "Sex:male": {
+          "Count": "Int:978537"
+        },
+        "Sex:female": {
+          "Count": "Int:1037362"
+        }
+      },
+      "Province:LK-5": {
+        "Sex:male": {
+          "Count": "Int:850607"
+        },
+        "Sex:female": {
+          "Count": "Int:932607"
+        }
+      },
+      "Province:LK-7": {
+        "Sex:male": {
+          "Count": "Int:686257"
+        },
+        "Sex:female": {
+          "Count": "Int:721353"
+        }
+      },
+      "Province:LK-8": {
+        "Sex:male": {
+          "Count": "Int:683745"
+        },
+        "Sex:female": {
+          "Count": "Int:716147"
+        }
+      },
+      "Province:LK-4": {
+        "Sex:male": {
+          "Count": "Int:551273"
+        },
+        "Sex:female": {
+          "Count": "Int:598875"
+        }
+      },
+      "District:LK-12": {
+        "Sex:male": {
+          "Count": "Int:1175469"
+        },
+        "Sex:female": {
+          "Count": "Int:1260673"
+        }
+      },
+      "District:LK-11": {
+        "Sex:male": {
+          "Count": "Int:1154799"
+        },
+        "Sex:female": {
+          "Count": "Int:1220616"
+        }
+      },
+      "District:LK-61": {
+        "Sex:male": {
+          "Count": "Int:849072"
+        },
+        "Sex:female": {
+          "Count": "Int:919084"
+        }
+      },
+      "District:LK-21": {
+        "Sex:male": {
+          "Count": "Int:696713"
+        },
+        "Sex:female": {
+          "Count": "Int:765182"
+        }
+      },
+      "District:LK-13": {
+        "Sex:male": {
+          "Count": "Int:631106"
+        },
+        "Sex:female": {
+          "Count": "Int:674678"
+        }
+      },
+      "District:LK-91": {
+        "Sex:male": {
+          "Count": "Int:562459"
+        },
+        "Sex:female": {
+          "Count": "Int:582964"
+        }
+      },
+      "District:LK-31": {
+        "Sex:male": {
+          "Count": "Int:527640"
+        },
+        "Sex:female": {
+          "Count": "Int:569732"
+        }
+      },
+      "District:LK-71": {
+        "Sex:male": {
+          "Count": "Int:466571"
+        },
+        "Sex:female": {
+          "Count": "Int:493509"
+        }
+      },
+      "District:LK-81": {
+        "Sex:male": {
+          "Count": "Int:422818"
+        },
+        "Sex:female": {
+          "Count": "Int:449489"
+        }
+      },
+      "District:LK-92": {
+        "Sex:male": {
+          "Count": "Int:416078"
+        },
+        "Sex:female": {
+          "Count": "Int:454398"
+        }
+      },
+      "District:LK-32": {
+        "Sex:male": {
+          "Count": "Int:401980"
+        },
+        "Sex:female": {
+          "Count": "Int:435909"
+        }
+      },
+      "District:LK-62": {
+        "Sex:male": {
+          "Count": "Int:394244"
+        },
+        "Sex:female": {
+          "Count": "Int:424572"
+        }
+      },
+      "District:LK-52": {
+        "Sex:male": {
+          "Count": "Int:354018"
+        },
+        "Sex:female": {
+          "Count": "Int:390533"
+        }
+      },
+      "District:LK-23": {
+        "Sex:male": {
+          "Count": "Int:346471"
+        },
+        "Sex:female": {
+          "Count": "Int:378809"
+        }
+      },
+      "District:LK-33": {
+        "Sex:male": {
+          "Count": "Int:329210"
+        },
+        "Sex:female": {
+          "Count": "Int:342208"
+        }
+      },
+      "District:LK-51": {
+        "Sex:male": {
+          "Count": "Int:278885"
+        },
+        "Sex:female": {
+          "Count": "Int:317033"
+        }
+      },
+      "District:LK-41": {
+        "Sex:male": {
+          "Count": "Int:281553"
+        },
+        "Sex:female": {
+          "Count": "Int:313198"
+        }
+      },
+      "District:LK-82": {
+        "Sex:male": {
+          "Count": "Int:260927"
+        },
+        "Sex:female": {
+          "Count": "Int:266658"
+        }
+      },
+      "District:LK-22": {
+        "Sex:male": {
+          "Count": "Int:255221"
+        },
+        "Sex:female": {
+          "Count": "Int:271649"
+        }
+      },
+      "District:LK-72": {
+        "Sex:male": {
+          "Count": "Int:219686"
+        },
+        "Sex:female": {
+          "Count": "Int:227844"
+        }
+      },
+      "District:LK-53": {
+        "Sex:male": {
+          "Count": "Int:217704"
+        },
+        "Sex:female": {
+          "Count": "Int:225041"
+        }
+      },
+      "District:LK-43": {
+        "Sex:male": {
+          "Count": "Int:82831"
+        },
+        "Sex:female": {
+          "Count": "Int:89481"
+        }
+      },
+      "District:LK-45": {
+        "Sex:male": {
+          "Count": "Int:66124"
+        },
+        "Sex:female": {
+          "Count": "Int:70586"
+        }
+      },
+      "District:LK-42": {
+        "Sex:male": {
+          "Count": "Int:61047"
+        },
+        "Sex:female": {
+          "Count": "Int:62709"
+        }
+      },
+      "District:LK-44": {
+        "Sex:male": {
+          "Count": "Int:59718"
+        },
+        "Sex:female": {
+          "Count": "Int:62901"
+        }
+      },
+      "DSD:LK-1103": {
+        "Sex:male": {
+          "Count": "Int:145398"
+        },
+        "Sex:female": {
+          "Count": "Int:146691"
+        }
+      },
+      "DSD:LK-1112": {
+        "Sex:male": {
+          "Count": "Int:136794"
+        },
+        "Sex:female": {
+          "Count": "Int:143977"
+        }
+      },
+      "DSD:LK-1109": {
+        "Sex:male": {
+          "Count": "Int:135711"
+        },
+        "Sex:female": {
+          "Count": "Int:142207"
+        }
+      },
+      "DSD:LK-1136": {
+        "Sex:male": {
+          "Count": "Int:126461"
+        },
+        "Sex:female": {
+          "Count": "Int:137080"
+        }
+      },
+      "DSD:LK-1206": {
+        "Sex:male": {
+          "Count": "Int:116933"
+        },
+        "Sex:female": {
+          "Count": "Int:124286"
+        }
+      },
+      "DSD:LK-1233": {
+        "Sex:male": {
+          "Count": "Int:107736"
+        },
+        "Sex:female": {
+          "Count": "Int:115324"
+        }
+      },
+      "DSD:LK-1127": {
+        "Sex:male": {
+          "Count": "Int:105978"
+        },
+        "Sex:female": {
+          "Count": "Int:111140"
+        }
+      },
+      "DSD:LK-1106": {
+        "Sex:male": {
+          "Count": "Int:104663"
+        },
+        "Sex:female": {
+          "Count": "Int:109407"
+        }
+      },
+      "DSD:LK-1239": {
+        "Sex:male": {
+          "Count": "Int:102168"
+        },
+        "Sex:female": {
+          "Count": "Int:104987"
+        }
+      },
+      "DSD:LK-1224": {
+        "Sex:male": {
+          "Count": "Int:97910"
+        },
+        "Sex:female": {
+          "Count": "Int:107700"
+        }
+      },
+      "DSD:LK-1221": {
+        "Sex:male": {
+          "Count": "Int:98114"
+        },
+        "Sex:female": {
+          "Count": "Int:106692"
+        }
+      },
+      "DSD:LK-1215": {
+        "Sex:male": {
+          "Count": "Int:95427"
+        },
+        "Sex:female": {
+          "Count": "Int:103347"
+        }
+      },
+      "DSD:LK-1227": {
+        "Sex:male": {
+          "Count": "Int:94666"
+        },
+        "Sex:female": {
+          "Count": "Int:103059"
+        }
+      },
+      "DSD:LK-1121": {
+        "Sex:male": {
+          "Count": "Int:93230"
+        },
+        "Sex:female": {
+          "Count": "Int:103270"
+        }
+      },
+      "DSD:LK-1303": {
+        "Sex:male": {
+          "Count": "Int:89759"
+        },
+        "Sex:female": {
+          "Count": "Int:97716"
+        }
+      },
+      "DSD:LK-1218": {
+        "Sex:male": {
+          "Count": "Int:88408"
+        },
+        "Sex:female": {
+          "Count": "Int:94097"
+        }
+      },
+      "DSD:LK-1324": {
+        "Sex:male": {
+          "Count": "Int:88567"
+        },
+        "Sex:female": {
+          "Count": "Int:92253"
+        }
+      },
+      "DSD:LK-1212": {
+        "Sex:male": {
+          "Count": "Int:84701"
+        },
+        "Sex:female": {
+          "Count": "Int:92046"
+        }
+      },
+      "DSD:LK-1230": {
+        "Sex:male": {
+          "Count": "Int:82380"
+        },
+        "Sex:female": {
+          "Count": "Int:87497"
+        }
+      },
+      "DSD:LK-1321": {
+        "Sex:male": {
+          "Count": "Int:79889"
+        },
+        "Sex:female": {
+          "Count": "Int:86735"
+        }
+      },
+      "DSD:LK-2314": {
+        "Sex:male": {
+          "Count": "Int:75707"
+        },
+        "Sex:female": {
+          "Count": "Int:85660"
+        }
+      },
+      "DSD:LK-1133": {
+        "Sex:male": {
+          "Count": "Int:77580"
+        },
+        "Sex:female": {
+          "Count": "Int:82619"
+        }
+      },
+      "DSD:LK-9148": {
+        "Sex:male": {
+          "Count": "Int:78481"
+        },
+        "Sex:female": {
+          "Count": "Int:81527"
+        }
+      },
+      "DSD:LK-1209": {
+        "Sex:male": {
+          "Count": "Int:75924"
+        },
+        "Sex:female": {
+          "Count": "Int:81033"
+        }
+      },
+      "DSD:LK-2130": {
+        "Sex:male": {
+          "Count": "Int:71662"
+        },
+        "Sex:female": {
+          "Count": "Int:81667"
+        }
+      },
+      "DSD:LK-2127": {
+        "Sex:male": {
+          "Count": "Int:68276"
+        },
+        "Sex:female": {
+          "Count": "Int:76107"
+        }
+      },
+      "DSD:LK-1203": {
+        "Sex:male": {
+          "Count": "Int:66137"
+        },
+        "Sex:female": {
+          "Count": "Int:71815"
+        }
+      },
+      "DSD:LK-6178": {
+        "Sex:male": {
+          "Count": "Int:64982"
+        },
+        "Sex:female": {
+          "Count": "Int:70863"
+        }
+      },
+      "DSD:LK-1236": {
+        "Sex:male": {
+          "Count": "Int:64965"
+        },
+        "Sex:female": {
+          "Count": "Int:68790"
+        }
+      },
+      "DSD:LK-1309": {
+        "Sex:male": {
+          "Count": "Int:63947"
+        },
+        "Sex:female": {
+          "Count": "Int:69738"
+        }
+      },
+      "DSD:LK-2313": {
+        "Sex:male": {
+          "Count": "Int:61832"
+        },
+        "Sex:female": {
+          "Count": "Int:67699"
+        }
+      },
+      "DSD:LK-9206": {
+        "Sex:male": {
+          "Count": "Int:59753"
+        },
+        "Sex:female": {
+          "Count": "Int:66273"
+        }
+      },
+      "DSD:LK-1306": {
+        "Sex:male": {
+          "Count": "Int:60177"
+        },
+        "Sex:female": {
+          "Count": "Int:63956"
+        }
+      },
+      "DSD:LK-3242": {
+        "Sex:male": {
+          "Count": "Int:58394"
+        },
+        "Sex:female": {
+          "Count": "Int:65474"
+        }
+      },
+      "DSD:LK-1115": {
+        "Sex:male": {
+          "Count": "Int:59493"
+        },
+        "Sex:female": {
+          "Count": "Int:62635"
+        }
+      },
+      "DSD:LK-9112": {
+        "Sex:male": {
+          "Count": "Int:59557"
+        },
+        "Sex:female": {
+          "Count": "Int:61609"
+        }
+      },
+      "DSD:LK-2139": {
+        "Sex:male": {
+          "Count": "Int:58322"
+        },
+        "Sex:female": {
+          "Count": "Int:62696"
+        }
+      },
+      "DSD:LK-9218": {
+        "Sex:male": {
+          "Count": "Int:56128"
+        },
+        "Sex:female": {
+          "Count": "Int:61839"
+        }
+      },
+      "DSD:LK-4309": {
+        "Sex:male": {
+          "Count": "Int:55905"
+        },
+        "Sex:female": {
+          "Count": "Int:61086"
+        }
+      },
+      "DSD:LK-2136": {
+        "Sex:male": {
+          "Count": "Int:53808"
+        },
+        "Sex:female": {
+          "Count": "Int:58834"
+        }
+      },
+      "DSD:LK-3139": {
+        "Sex:male": {
+          "Count": "Int:52217"
+        },
+        "Sex:female": {
+          "Count": "Int:56104"
+        }
+      },
+      "DSD:LK-8130": {
+        "Sex:male": {
+          "Count": "Int:51300"
+        },
+        "Sex:female": {
+          "Count": "Int:54210"
+        }
+      },
+      "DSD:LK-2151": {
+        "Sex:male": {
+          "Count": "Int:48900"
+        },
+        "Sex:female": {
+          "Count": "Int:54281"
+        }
+      },
+      "DSD:LK-5315": {
+        "Sex:male": {
+          "Count": "Int:48331"
+        },
+        "Sex:female": {
+          "Count": "Int:51939"
+        }
+      },
+      "DSD:LK-9106": {
+        "Sex:male": {
+          "Count": "Int:48516"
+        },
+        "Sex:female": {
+          "Count": "Int:49450"
+        }
+      },
+      "DSD:LK-6203": {
+        "Sex:male": {
+          "Count": "Int:47804"
+        },
+        "Sex:female": {
+          "Count": "Int:49191"
+        }
+      },
+      "DSD:LK-1124": {
+        "Sex:male": {
+          "Count": "Int:45927"
+        },
+        "Sex:female": {
+          "Count": "Int:50262"
+        }
+      },
+      "DSD:LK-6163": {
+        "Sex:male": {
+          "Count": "Int:46185"
+        },
+        "Sex:female": {
+          "Count": "Int:49775"
+        }
+      },
+      "DSD:LK-5118": {
+        "Sex:male": {
+          "Count": "Int:44402"
+        },
+        "Sex:female": {
+          "Count": "Int:50705"
+        }
+      },
+      "DSD:LK-6215": {
+        "Sex:male": {
+          "Count": "Int:45989"
+        },
+        "Sex:female": {
+          "Count": "Int:48788"
+        }
+      },
+      "DSD:LK-9212": {
+        "Sex:male": {
+          "Count": "Int:44608"
+        },
+        "Sex:female": {
+          "Count": "Int:49706"
+        }
+      },
+      "DSD:LK-5112": {
+        "Sex:male": {
+          "Count": "Int:43683"
+        },
+        "Sex:female": {
+          "Count": "Int:50554"
+        }
+      },
+      "DSD:LK-8124": {
+        "Sex:male": {
+          "Count": "Int:44945"
+        },
+        "Sex:female": {
+          "Count": "Int:49281"
+        }
+      },
+      "DSD:LK-6130": {
+        "Sex:male": {
+          "Count": "Int:45364"
+        },
+        "Sex:female": {
+          "Count": "Int:48803"
+        }
+      },
+      "DSD:LK-2133": {
+        "Sex:male": {
+          "Count": "Int:44644"
+        },
+        "Sex:female": {
+          "Count": "Int:49377"
+        }
+      },
+      "DSD:LK-9124": {
+        "Sex:male": {
+          "Count": "Int:46407"
+        },
+        "Sex:female": {
+          "Count": "Int:47411"
+        }
+      },
+      "DSD:LK-1130": {
+        "Sex:male": {
+          "Count": "Int:45175"
+        },
+        "Sex:female": {
+          "Count": "Int:48640"
+        }
+      },
+      "DSD:LK-2112": {
+        "Sex:male": {
+          "Count": "Int:44157"
+        },
+        "Sex:female": {
+          "Count": "Int:49319"
+        }
+      },
+      "DSD:LK-7215": {
+        "Sex:male": {
+          "Count": "Int:44786"
+        },
+        "Sex:female": {
+          "Count": "Int:47270"
+        }
+      },
+      "DSD:LK-8103": {
+        "Sex:male": {
+          "Count": "Int:44008"
+        },
+        "Sex:female": {
+          "Count": "Int:45074"
+        }
+      },
+      "DSD:LK-6154": {
+        "Sex:male": {
+          "Count": "Int:42611"
+        },
+        "Sex:female": {
+          "Count": "Int:46388"
+        }
+      },
+      "DSD:LK-2312": {
+        "Sex:male": {
+          "Count": "Int:43244"
+        },
+        "Sex:female": {
+          "Count": "Int:45088"
+        }
+      },
+      "DSD:LK-1131": {
+        "Sex:male": {
+          "Count": "Int:42938"
+        },
+        "Sex:female": {
+          "Count": "Int:45125"
+        }
+      },
+      "DSD:LK-9203": {
+        "Sex:male": {
+          "Count": "Int:41309"
+        },
+        "Sex:female": {
+          "Count": "Int:45746"
+        }
+      },
+      "DSD:LK-5324": {
+        "Sex:male": {
+          "Count": "Int:43372"
+        },
+        "Sex:female": {
+          "Count": "Int:43132"
+        }
+      },
+      "DSD:LK-6127": {
+        "Sex:male": {
+          "Count": "Int:42170"
+        },
+        "Sex:female": {
+          "Count": "Int:44241"
+        }
+      },
+      "DSD:LK-3145": {
+        "Sex:male": {
+          "Count": "Int:41187"
+        },
+        "Sex:female": {
+          "Count": "Int:44949"
+        }
+      },
+      "DSD:LK-1330": {
+        "Sex:male": {
+          "Count": "Int:41648"
+        },
+        "Sex:female": {
+          "Count": "Int:44417"
+        }
+      },
+      "DSD:LK-7212": {
+        "Sex:male": {
+          "Count": "Int:42635"
+        },
+        "Sex:female": {
+          "Count": "Int:43272"
+        }
+      },
+      "DSD:LK-9230": {
+        "Sex:male": {
+          "Count": "Int:41523"
+        },
+        "Sex:female": {
+          "Count": "Int:43444"
+        }
+      },
+      "DSD:LK-8121": {
+        "Sex:male": {
+          "Count": "Int:38537"
+        },
+        "Sex:female": {
+          "Count": "Int:44496"
+        }
+      },
+      "DSD:LK-6172": {
+        "Sex:male": {
+          "Count": "Int:38801"
+        },
+        "Sex:female": {
+          "Count": "Int:43786"
+        }
+      },
+      "DSD:LK-8127": {
+        "Sex:male": {
+          "Count": "Int:39841"
+        },
+        "Sex:female": {
+          "Count": "Int:42228"
+        }
+      },
+      "DSD:LK-2206": {
+        "Sex:male": {
+          "Count": "Int:40580"
+        },
+        "Sex:female": {
+          "Count": "Int:40659"
+        }
+      },
+      "DSD:LK-3315": {
+        "Sex:male": {
+          "Count": "Int:40042"
+        },
+        "Sex:female": {
+          "Count": "Int:40464"
+        }
+      },
+      "DSD:LK-2218": {
+        "Sex:male": {
+          "Count": "Int:38083"
+        },
+        "Sex:female": {
+          "Count": "Int:42293"
+        }
+      },
+      "DSD:LK-3333": {
+        "Sex:male": {
+          "Count": "Int:38735"
+        },
+        "Sex:female": {
+          "Count": "Int:40808"
+        }
+      },
+      "DSD:LK-2203": {
+        "Sex:male": {
+          "Count": "Int:38162"
+        },
+        "Sex:female": {
+          "Count": "Int:40477"
+        }
+      },
+      "DSD:LK-9142": {
+        "Sex:male": {
+          "Count": "Int:37951"
+        },
+        "Sex:female": {
+          "Count": "Int:40590"
+        }
+      },
+      "DSD:LK-7133": {
+        "Sex:male": {
+          "Count": "Int:36940"
+        },
+        "Sex:female": {
+          "Count": "Int:39198"
+        }
+      },
+      "DSD:LK-3239": {
+        "Sex:male": {
+          "Count": "Int:36967"
+        },
+        "Sex:female": {
+          "Count": "Int:39169"
+        }
+      },
+      "DSD:LK-4118": {
+        "Sex:male": {
+          "Count": "Int:36084"
+        },
+        "Sex:female": {
+          "Count": "Int:39895"
+        }
+      },
+      "DSD:LK-9118": {
+        "Sex:male": {
+          "Count": "Int:36403"
+        },
+        "Sex:female": {
+          "Count": "Int:38490"
+        }
+      },
+      "DSD:LK-4509": {
+        "Sex:male": {
+          "Count": "Int:35842"
+        },
+        "Sex:female": {
+          "Count": "Int:38789"
+        }
+      },
+      "DSD:LK-3309": {
+        "Sex:male": {
+          "Count": "Int:36909"
+        },
+        "Sex:female": {
+          "Count": "Int:37266"
+        }
+      },
+      "DSD:LK-9103": {
+        "Sex:male": {
+          "Count": "Int:36492"
+        },
+        "Sex:female": {
+          "Count": "Int:37579"
+        }
+      },
+      "DSD:LK-9215": {
+        "Sex:male": {
+          "Count": "Int:35048"
+        },
+        "Sex:female": {
+          "Count": "Int:38730"
+        }
+      },
+      "DSD:LK-8221": {
+        "Sex:male": {
+          "Count": "Int:36227"
+        },
+        "Sex:female": {
+          "Count": "Int:37053"
+        }
+      },
+      "DSD:LK-1118": {
+        "Sex:male": {
+          "Count": "Int:35451"
+        },
+        "Sex:female": {
+          "Count": "Int:37563"
+        }
+      },
+      "DSD:LK-4133": {
+        "Sex:male": {
+          "Count": "Int:33568"
+        },
+        "Sex:female": {
+          "Count": "Int:39316"
+        }
+      },
+      "DSD:LK-5218": {
+        "Sex:male": {
+          "Count": "Int:33553"
+        },
+        "Sex:female": {
+          "Count": "Int:39241"
+        }
+      },
+      "DSD:LK-6218": {
+        "Sex:male": {
+          "Count": "Int:34947"
+        },
+        "Sex:female": {
+          "Count": "Int:37623"
+        }
+      },
+      "DSD:LK-7206": {
+        "Sex:male": {
+          "Count": "Int:35670"
+        },
+        "Sex:female": {
+          "Count": "Int:36812"
+        }
+      },
+      "DSD:LK-2233": {
+        "Sex:male": {
+          "Count": "Int:34176"
+        },
+        "Sex:female": {
+          "Count": "Int:38137"
+        }
+      },
+      "DSD:LK-5327": {
+        "Sex:male": {
+          "Count": "Int:35544"
+        },
+        "Sex:female": {
+          "Count": "Int:36337"
+        }
+      },
+      "DSD:LK-7115": {
+        "Sex:male": {
+          "Count": "Int:35162"
+        },
+        "Sex:female": {
+          "Count": "Int:36367"
+        }
+      },
+      "DSD:LK-6145": {
+        "Sex:male": {
+          "Count": "Int:34301"
+        },
+        "Sex:female": {
+          "Count": "Int:36885"
+        }
+      },
+      "DSD:LK-2109": {
+        "Sex:male": {
+          "Count": "Int:33539"
+        },
+        "Sex:female": {
+          "Count": "Int:37471"
+        }
+      },
+      "DSD:LK-6160": {
+        "Sex:male": {
+          "Count": "Int:33784"
+        },
+        "Sex:female": {
+          "Count": "Int:37083"
+        }
+      },
+      "DSD:LK-7203": {
+        "Sex:male": {
+          "Count": "Int:34397"
+        },
+        "Sex:female": {
+          "Count": "Int:36254"
+        }
+      },
+      "DSD:LK-9209": {
+        "Sex:male": {
+          "Count": "Int:32609"
+        },
+        "Sex:female": {
+          "Count": "Int:36466"
+        }
+      },
+      "DSD:LK-3106": {
+        "Sex:male": {
+          "Count": "Int:32452"
+        },
+        "Sex:female": {
+          "Count": "Int:35698"
+        }
+      },
+      "DSD:LK-4130": {
+        "Sex:male": {
+          "Count": "Int:32108"
+        },
+        "Sex:female": {
+          "Count": "Int:35674"
+        }
+      },
+      "DSD:LK-6187": {
+        "Sex:male": {
+          "Count": "Int:32176"
+        },
+        "Sex:female": {
+          "Count": "Int:35289"
+        }
+      },
+      "DSD:LK-5203": {
+        "Sex:male": {
+          "Count": "Int:33196"
+        },
+        "Sex:female": {
+          "Count": "Int:34078"
+        }
+      },
+      "DSD:LK-3312": {
+        "Sex:male": {
+          "Count": "Int:33392"
+        },
+        "Sex:female": {
+          "Count": "Int:33815"
+        }
+      },
+      "DSD:LK-1327": {
+        "Sex:male": {
+          "Count": "Int:32546"
+        },
+        "Sex:female": {
+          "Count": "Int:34543"
+        }
+      },
+      "DSD:LK-6142": {
+        "Sex:male": {
+          "Count": "Int:31869"
+        },
+        "Sex:female": {
+          "Count": "Int:34855"
+        }
+      },
+      "DSD:LK-3112": {
+        "Sex:male": {
+          "Count": "Int:32028"
+        },
+        "Sex:female": {
+          "Count": "Int:34643"
+        }
+      },
+      "DSD:LK-6136": {
+        "Sex:male": {
+          "Count": "Int:31986"
+        },
+        "Sex:female": {
+          "Count": "Int:34502"
+        }
+      },
+      "DSD:LK-9221": {
+        "Sex:male": {
+          "Count": "Int:31671"
+        },
+        "Sex:female": {
+          "Count": "Int:34126"
+        }
+      },
+      "DSD:LK-6184": {
+        "Sex:male": {
+          "Count": "Int:31625"
+        },
+        "Sex:female": {
+          "Count": "Int:34064"
+        }
+      },
+      "DSD:LK-2157": {
+        "Sex:male": {
+          "Count": "Int:30883"
+        },
+        "Sex:female": {
+          "Count": "Int:34670"
+        }
+      },
+      "DSD:LK-1312": {
+        "Sex:male": {
+          "Count": "Int:31911"
+        },
+        "Sex:female": {
+          "Count": "Int:33639"
+        }
+      },
+      "DSD:LK-6242": {
+        "Sex:male": {
+          "Count": "Int:30820"
+        },
+        "Sex:female": {
+          "Count": "Int:34680"
+        }
+      },
+      "DSD:LK-8133": {
+        "Sex:male": {
+          "Count": "Int:31527"
+        },
+        "Sex:female": {
+          "Count": "Int:33961"
+        }
+      },
+      "DSD:LK-7154": {
+        "Sex:male": {
+          "Count": "Int:31751"
+        },
+        "Sex:female": {
+          "Count": "Int:33566"
+        }
+      },
+      "DSD:LK-2309": {
+        "Sex:male": {
+          "Count": "Int:31686"
+        },
+        "Sex:female": {
+          "Count": "Int:33601"
+        }
+      },
+      "DSD:LK-6245": {
+        "Sex:male": {
+          "Count": "Int:30482"
+        },
+        "Sex:female": {
+          "Count": "Int:34286"
+        }
+      },
+      "DSD:LK-9115": {
+        "Sex:male": {
+          "Count": "Int:30398"
+        },
+        "Sex:female": {
+          "Count": "Int:34157"
+        }
+      },
+      "DSD:LK-2124": {
+        "Sex:male": {
+          "Count": "Int:31415"
+        },
+        "Sex:female": {
+          "Count": "Int:33124"
+        }
+      },
+      "DSD:LK-6124": {
+        "Sex:male": {
+          "Count": "Int:31117"
+        },
+        "Sex:female": {
+          "Count": "Int:33005"
+        }
+      },
+      "DSD:LK-3109": {
+        "Sex:male": {
+          "Count": "Int:30467"
+        },
+        "Sex:female": {
+          "Count": "Int:33395"
+        }
+      },
+      "DSD:LK-6233": {
+        "Sex:male": {
+          "Count": "Int:30199"
+        },
+        "Sex:female": {
+          "Count": "Int:33440"
+        }
+      },
+      "DSD:LK-3154": {
+        "Sex:male": {
+          "Count": "Int:30710"
+        },
+        "Sex:female": {
+          "Count": "Int:32592"
+        }
+      },
+      "DSD:LK-8212": {
+        "Sex:male": {
+          "Count": "Int:31502"
+        },
+        "Sex:female": {
+          "Count": "Int:31553"
+        }
+      },
+      "DSD:LK-5136": {
+        "Sex:male": {
+          "Count": "Int:29562"
+        },
+        "Sex:female": {
+          "Count": "Int:33358"
+        }
+      },
+      "DSD:LK-6248": {
+        "Sex:male": {
+          "Count": "Int:30006"
+        },
+        "Sex:female": {
+          "Count": "Int:32867"
+        }
+      },
+      "DSD:LK-9227": {
+        "Sex:male": {
+          "Count": "Int:30352"
+        },
+        "Sex:female": {
+          "Count": "Int:31903"
+        }
+      },
+      "DSD:LK-5212": {
+        "Sex:male": {
+          "Count": "Int:30167"
+        },
+        "Sex:female": {
+          "Count": "Int:32049"
+        }
+      },
+      "DSD:LK-6106": {
+        "Sex:male": {
+          "Count": "Int:30170"
+        },
+        "Sex:female": {
+          "Count": "Int:31589"
+        }
+      },
+      "DSD:LK-2303": {
+        "Sex:male": {
+          "Count": "Int:29574"
+        },
+        "Sex:female": {
+          "Count": "Int:32168"
+        }
+      },
+      "DSD:LK-6169": {
+        "Sex:male": {
+          "Count": "Int:29449"
+        },
+        "Sex:female": {
+          "Count": "Int:31774"
+        }
+      },
+      "DSD:LK-7148": {
+        "Sex:male": {
+          "Count": "Int:29803"
+        },
+        "Sex:female": {
+          "Count": "Int:31413"
+        }
+      },
+      "DSD:LK-3209": {
+        "Sex:male": {
+          "Count": "Int:29936"
+        },
+        "Sex:female": {
+          "Count": "Int:31235"
+        }
+      },
+      "DSD:LK-3206": {
+        "Sex:male": {
+          "Count": "Int:29750"
+        },
+        "Sex:female": {
+          "Count": "Int:31252"
+        }
+      },
+      "DSD:LK-8106": {
+        "Sex:male": {
+          "Count": "Int:30196"
+        },
+        "Sex:female": {
+          "Count": "Int:30686"
+        }
+      },
+      "DSD:LK-2145": {
+        "Sex:male": {
+          "Count": "Int:29235"
+        },
+        "Sex:female": {
+          "Count": "Int:31404"
+        }
+      },
+      "DSD:LK-8224": {
+        "Sex:male": {
+          "Count": "Int:30180"
+        },
+        "Sex:female": {
+          "Count": "Int:30426"
+        }
+      },
+      "DSD:LK-2106": {
+        "Sex:male": {
+          "Count": "Int:28572"
+        },
+        "Sex:female": {
+          "Count": "Int:31744"
+        }
+      },
+      "DSD:LK-6181": {
+        "Sex:male": {
+          "Count": "Int:28489"
+        },
+        "Sex:female": {
+          "Count": "Int:31317"
+        }
+      },
+      "DSD:LK-3133": {
+        "Sex:male": {
+          "Count": "Int:28447"
+        },
+        "Sex:female": {
+          "Count": "Int:31170"
+        }
+      },
+      "DSD:LK-6157": {
+        "Sex:male": {
+          "Count": "Int:28294"
+        },
+        "Sex:female": {
+          "Count": "Int:31197"
+        }
+      },
+      "DSD:LK-9136": {
+        "Sex:male": {
+          "Count": "Int:29447"
+        },
+        "Sex:female": {
+          "Count": "Int:29995"
+        }
+      },
+      "DSD:LK-2154": {
+        "Sex:male": {
+          "Count": "Int:28610"
+        },
+        "Sex:female": {
+          "Count": "Int:30535"
+        }
+      },
+      "DSD:LK-2306": {
+        "Sex:male": {
+          "Count": "Int:28087"
+        },
+        "Sex:female": {
+          "Count": "Int:30844"
+        }
+      },
+      "DSD:LK-3330": {
+        "Sex:male": {
+          "Count": "Int:28018"
+        },
+        "Sex:female": {
+          "Count": "Int:30657"
+        }
+      },
+      "DSD:LK-1310": {
+        "Sex:male": {
+          "Count": "Int:28621"
+        },
+        "Sex:female": {
+          "Count": "Int:29740"
+        }
+      },
+      "DSD:LK-3142": {
+        "Sex:male": {
+          "Count": "Int:27448"
+        },
+        "Sex:female": {
+          "Count": "Int:30442"
+        }
+      },
+      "DSD:LK-4203": {
+        "Sex:male": {
+          "Count": "Int:28448"
+        },
+        "Sex:female": {
+          "Count": "Int:29324"
+        }
+      },
+      "DSD:LK-8215": {
+        "Sex:male": {
+          "Count": "Int:28080"
+        },
+        "Sex:female": {
+          "Count": "Int:28871"
+        }
+      },
+      "DSD:LK-3248": {
+        "Sex:male": {
+          "Count": "Int:27172"
+        },
+        "Sex:female": {
+          "Count": "Int:29296"
+        }
+      },
+      "DSD:LK-1318": {
+        "Sex:male": {
+          "Count": "Int:27180"
+        },
+        "Sex:female": {
+          "Count": "Int:28986"
+        }
+      },
+      "DSD:LK-3221": {
+        "Sex:male": {
+          "Count": "Int:26995"
+        },
+        "Sex:female": {
+          "Count": "Int:28965"
+        }
+      },
+      "DSD:LK-7139": {
+        "Sex:male": {
+          "Count": "Int:27099"
+        },
+        "Sex:female": {
+          "Count": "Int:28372"
+        }
+      },
+      "DSD:LK-2121": {
+        "Sex:male": {
+          "Count": "Int:27066"
+        },
+        "Sex:female": {
+          "Count": "Int:28276"
+        }
+      },
+      "DSD:LK-1339": {
+        "Sex:male": {
+          "Count": "Int:26682"
+        },
+        "Sex:female": {
+          "Count": "Int:28651"
+        }
+      },
+      "DSD:LK-6175": {
+        "Sex:male": {
+          "Count": "Int:25970"
+        },
+        "Sex:female": {
+          "Count": "Int:28496"
+        }
+      },
+      "DSD:LK-2230": {
+        "Sex:male": {
+          "Count": "Int:25566"
+        },
+        "Sex:female": {
+          "Count": "Int:28084"
+        }
+      },
+      "DSD:LK-3218": {
+        "Sex:male": {
+          "Count": "Int:25798"
+        },
+        "Sex:female": {
+          "Count": "Int:27840"
+        }
+      },
+      "DSD:LK-3318": {
+        "Sex:male": {
+          "Count": "Int:26073"
+        },
+        "Sex:female": {
+          "Count": "Int:27336"
+        }
+      },
+      "DSD:LK-5233": {
+        "Sex:male": {
+          "Count": "Int:24354"
+        },
+        "Sex:female": {
+          "Count": "Int:28860"
+        }
+      },
+      "DSD:LK-5224": {
+        "Sex:male": {
+          "Count": "Int:24929"
+        },
+        "Sex:female": {
+          "Count": "Int:27869"
+        }
+      },
+      "DSD:LK-2142": {
+        "Sex:male": {
+          "Count": "Int:25517"
+        },
+        "Sex:female": {
+          "Count": "Int:27267"
+        }
+      },
+      "DSD:LK-3303": {
+        "Sex:male": {
+          "Count": "Int:26096"
+        },
+        "Sex:female": {
+          "Count": "Int:26613"
+        }
+      },
+      "DSD:LK-7109": {
+        "Sex:male": {
+          "Count": "Int:25193"
+        },
+        "Sex:female": {
+          "Count": "Int:27303"
+        }
+      },
+      "DSD:LK-3324": {
+        "Sex:male": {
+          "Count": "Int:25414"
+        },
+        "Sex:female": {
+          "Count": "Int:26755"
+        }
+      },
+      "DSD:LK-4109": {
+        "Sex:male": {
+          "Count": "Int:24726"
+        },
+        "Sex:female": {
+          "Count": "Int:27395"
+        }
+      },
+      "DSD:LK-3124": {
+        "Sex:male": {
+          "Count": "Int:24957"
+        },
+        "Sex:female": {
+          "Count": "Int:27074"
+        }
+      },
+      "DSD:LK-7127": {
+        "Sex:male": {
+          "Count": "Int:25535"
+        },
+        "Sex:female": {
+          "Count": "Int:26417"
+        }
+      },
+      "DSD:LK-3212": {
+        "Sex:male": {
+          "Count": "Int:25086"
+        },
+        "Sex:female": {
+          "Count": "Int:26746"
+        }
+      },
+      "DSD:LK-1336": {
+        "Sex:male": {
+          "Count": "Int:24879"
+        },
+        "Sex:female": {
+          "Count": "Int:26292"
+        }
+      },
+      "DSD:LK-3127": {
+        "Sex:male": {
+          "Count": "Int:24515"
+        },
+        "Sex:female": {
+          "Count": "Int:26441"
+        }
+      },
+      "DSD:LK-5321": {
+        "Sex:male": {
+          "Count": "Int:24912"
+        },
+        "Sex:female": {
+          "Count": "Int:25928"
+        }
+      },
+      "DSD:LK-9133": {
+        "Sex:male": {
+          "Count": "Int:25109"
+        },
+        "Sex:female": {
+          "Count": "Int:25644"
+        }
+      },
+      "DSD:LK-4115": {
+        "Sex:male": {
+          "Count": "Int:23792"
+        },
+        "Sex:female": {
+          "Count": "Int:26748"
+        }
+      },
+      "DSD:LK-9151": {
+        "Sex:male": {
+          "Count": "Int:24937"
+        },
+        "Sex:female": {
+          "Count": "Int:25131"
+        }
+      },
+      "DSD:LK-3103": {
+        "Sex:male": {
+          "Count": "Int:24041"
+        },
+        "Sex:female": {
+          "Count": "Int:25609"
+        }
+      },
+      "DSD:LK-8118": {
+        "Sex:male": {
+          "Count": "Int:23888"
+        },
+        "Sex:female": {
+          "Count": "Int:25748"
+        }
+      },
+      "DSD:LK-8136": {
+        "Sex:male": {
+          "Count": "Int:24611"
+        },
+        "Sex:female": {
+          "Count": "Int:24828"
+        }
+      },
+      "DSD:LK-8233": {
+        "Sex:male": {
+          "Count": "Int:24121"
+        },
+        "Sex:female": {
+          "Count": "Int:25255"
+        }
+      },
+      "DSD:LK-3245": {
+        "Sex:male": {
+          "Count": "Int:23405"
+        },
+        "Sex:female": {
+          "Count": "Int:25869"
+        }
+      },
+      "DSD:LK-6236": {
+        "Sex:male": {
+          "Count": "Int:23581"
+        },
+        "Sex:female": {
+          "Count": "Int:25413"
+        }
+      },
+      "DSD:LK-3203": {
+        "Sex:male": {
+          "Count": "Int:23765"
+        },
+        "Sex:female": {
+          "Count": "Int:25102"
+        }
+      },
+      "DSD:LK-6239": {
+        "Sex:male": {
+          "Count": "Int:23005"
+        },
+        "Sex:female": {
+          "Count": "Int:25828"
+        }
+      },
+      "DSD:LK-7218": {
+        "Sex:male": {
+          "Count": "Int:24213"
+        },
+        "Sex:female": {
+          "Count": "Int:24352"
+        }
+      },
+      "DSD:LK-4136": {
+        "Sex:male": {
+          "Count": "Int:23413"
+        },
+        "Sex:female": {
+          "Count": "Int:25130"
+        }
+      },
+      "DSD:LK-8139": {
+        "Sex:male": {
+          "Count": "Int:23375"
+        },
+        "Sex:female": {
+          "Count": "Int:24905"
+        }
+      },
+      "DSD:LK-3321": {
+        "Sex:male": {
+          "Count": "Int:23407"
+        },
+        "Sex:female": {
+          "Count": "Int:24834"
+        }
+      },
+      "DSD:LK-3151": {
+        "Sex:male": {
+          "Count": "Int:23107"
+        },
+        "Sex:female": {
+          "Count": "Int:25097"
+        }
+      },
+      "DSD:LK-3325": {
+        "Sex:male": {
+          "Count": "Int:23330"
+        },
+        "Sex:female": {
+          "Count": "Int:24539"
+        }
+      },
+      "DSD:LK-5215": {
+        "Sex:male": {
+          "Count": "Int:23103"
+        },
+        "Sex:female": {
+          "Count": "Int:24765"
+        }
+      },
+      "DSD:LK-8203": {
+        "Sex:male": {
+          "Count": "Int:22915"
+        },
+        "Sex:female": {
+          "Count": "Int:24351"
+        }
+      },
+      "DSD:LK-7145": {
+        "Sex:male": {
+          "Count": "Int:22964"
+        },
+        "Sex:female": {
+          "Count": "Int:24097"
+        }
+      },
+      "DSD:LK-3148": {
+        "Sex:male": {
+          "Count": "Int:22656"
+        },
+        "Sex:female": {
+          "Count": "Int:24031"
+        }
+      },
+      "DSD:LK-8218": {
+        "Sex:male": {
+          "Count": "Int:22894"
+        },
+        "Sex:female": {
+          "Count": "Int:23701"
+        }
+      },
+      "DSD:LK-9224": {
+        "Sex:male": {
+          "Count": "Int:21696"
+        },
+        "Sex:female": {
+          "Count": "Int:23541"
+        }
+      },
+      "DSD:LK-4106": {
+        "Sex:male": {
+          "Count": "Int:21577"
+        },
+        "Sex:female": {
+          "Count": "Int:23583"
+        }
+      },
+      "DSD:LK-5236": {
+        "Sex:male": {
+          "Count": "Int:21075"
+        },
+        "Sex:female": {
+          "Count": "Int:23904"
+        }
+      },
+      "DSD:LK-4112": {
+        "Sex:male": {
+          "Count": "Int:21548"
+        },
+        "Sex:female": {
+          "Count": "Int:23366"
+        }
+      },
+      "DSD:LK-7121": {
+        "Sex:male": {
+          "Count": "Int:21457"
+        },
+        "Sex:female": {
+          "Count": "Int:23446"
+        }
+      },
+      "DSD:LK-5124": {
+        "Sex:male": {
+          "Count": "Int:20439"
+        },
+        "Sex:female": {
+          "Count": "Int:24355"
+        }
+      },
+      "DSD:LK-8209": {
+        "Sex:male": {
+          "Count": "Int:22055"
+        },
+        "Sex:female": {
+          "Count": "Int:22559"
+        }
+      },
+      "DSD:LK-7130": {
+        "Sex:male": {
+          "Count": "Int:20640"
+        },
+        "Sex:female": {
+          "Count": "Int:23467"
+        }
+      },
+      "DSD:LK-9233": {
+        "Sex:male": {
+          "Count": "Int:21381"
+        },
+        "Sex:female": {
+          "Count": "Int:22624"
+        }
+      },
+      "DSD:LK-9139": {
+        "Sex:male": {
+          "Count": "Int:21532"
+        },
+        "Sex:female": {
+          "Count": "Int:22176"
+        }
+      },
+      "DSD:LK-6224": {
+        "Sex:male": {
+          "Count": "Int:21161"
+        },
+        "Sex:female": {
+          "Count": "Int:22365"
+        }
+      },
+      "DSD:LK-6133": {
+        "Sex:male": {
+          "Count": "Int:20904"
+        },
+        "Sex:female": {
+          "Count": "Int:22527"
+        }
+      },
+      "DSD:LK-6121": {
+        "Sex:male": {
+          "Count": "Int:20876"
+        },
+        "Sex:female": {
+          "Count": "Int:22526"
+        }
+      },
+      "DSD:LK-4127": {
+        "Sex:male": {
+          "Count": "Int:20308"
+        },
+        "Sex:female": {
+          "Count": "Int:23061"
+        }
+      },
+      "DSD:LK-5248": {
+        "Sex:male": {
+          "Count": "Int:20726"
+        },
+        "Sex:female": {
+          "Count": "Int:22182"
+        }
+      },
+      "DSD:LK-3227": {
+        "Sex:male": {
+          "Count": "Int:20232"
+        },
+        "Sex:female": {
+          "Count": "Int:22584"
+        }
+      },
+      "DSD:LK-6230": {
+        "Sex:male": {
+          "Count": "Int:20727"
+        },
+        "Sex:female": {
+          "Count": "Int:22022"
+        }
+      },
+      "DSD:LK-2315": {
+        "Sex:male": {
+          "Count": "Int:19982"
+        },
+        "Sex:female": {
+          "Count": "Int:22556"
+        }
+      },
+      "DSD:LK-2310": {
+        "Sex:male": {
+          "Count": "Int:20410"
+        },
+        "Sex:female": {
+          "Count": "Int:22012"
+        }
+      },
+      "DSD:LK-7160": {
+        "Sex:male": {
+          "Count": "Int:19918"
+        },
+        "Sex:female": {
+          "Count": "Int:22043"
+        }
+      },
+      "DSD:LK-2302": {
+        "Sex:male": {
+          "Count": "Int:20009"
+        },
+        "Sex:female": {
+          "Count": "Int:21946"
+        }
+      },
+      "DSD:LK-6151": {
+        "Sex:male": {
+          "Count": "Int:19669"
+        },
+        "Sex:female": {
+          "Count": "Int:22204"
+        }
+      },
+      "DSD:LK-3137": {
+        "Sex:male": {
+          "Count": "Int:20052"
+        },
+        "Sex:female": {
+          "Count": "Int:21404"
+        }
+      },
+      "DSD:LK-7124": {
+        "Sex:male": {
+          "Count": "Int:20134"
+        },
+        "Sex:female": {
+          "Count": "Int:21127"
+        }
+      },
+      "DSD:LK-4121": {
+        "Sex:male": {
+          "Count": "Int:19240"
+        },
+        "Sex:female": {
+          "Count": "Int:21862"
+        }
+      },
+      "DSD:LK-6139": {
+        "Sex:male": {
+          "Count": "Int:19810"
+        },
+        "Sex:female": {
+          "Count": "Int:20859"
+        }
+      },
+      "DSD:LK-5242": {
+        "Sex:male": {
+          "Count": "Int:19809"
+        },
+        "Sex:female": {
+          "Count": "Int:20516"
+        }
+      },
+      "DSD:LK-5306": {
+        "Sex:male": {
+          "Count": "Int:19641"
+        },
+        "Sex:female": {
+          "Count": "Int:20232"
+        }
+      },
+      "DSD:LK-7118": {
+        "Sex:male": {
+          "Count": "Int:19449"
+        },
+        "Sex:female": {
+          "Count": "Int:20412"
+        }
+      },
+      "DSD:LK-7209": {
+        "Sex:male": {
+          "Count": "Int:18971"
+        },
+        "Sex:female": {
+          "Count": "Int:20702"
+        }
+      },
+      "DSD:LK-4409": {
+        "Sex:male": {
+          "Count": "Int:19023"
+        },
+        "Sex:female": {
+          "Count": "Int:20509"
+        }
+      },
+      "DSD:LK-7163": {
+        "Sex:male": {
+          "Count": "Int:19107"
+        },
+        "Sex:female": {
+          "Count": "Int:20351"
+        }
+      },
+      "DSD:LK-6149": {
+        "Sex:male": {
+          "Count": "Int:18912"
+        },
+        "Sex:female": {
+          "Count": "Int:20530"
+        }
+      },
+      "DSD:LK-8142": {
+        "Sex:male": {
+          "Count": "Int:19103"
+        },
+        "Sex:female": {
+          "Count": "Int:19675"
+        }
+      },
+      "DSD:LK-2103": {
+        "Sex:male": {
+          "Count": "Int:18515"
+        },
+        "Sex:female": {
+          "Count": "Int:20261"
+        }
+      },
+      "DSD:LK-5133": {
+        "Sex:male": {
+          "Count": "Int:16822"
+        },
+        "Sex:female": {
+          "Count": "Int:21805"
+        }
+      },
+      "DSD:LK-7166": {
+        "Sex:male": {
+          "Count": "Int:18736"
+        },
+        "Sex:female": {
+          "Count": "Int:19733"
+        }
+      },
+      "DSD:LK-9127": {
+        "Sex:male": {
+          "Count": "Int:19138"
+        },
+        "Sex:female": {
+          "Count": "Int:19291"
+        }
+      },
+      "DSD:LK-7210": {
+        "Sex:male": {
+          "Count": "Int:19014"
+        },
+        "Sex:female": {
+          "Count": "Int:19182"
+        }
+      },
+      "DSD:LK-3306": {
+        "Sex:male": {
+          "Count": "Int:18366"
+        },
+        "Sex:female": {
+          "Count": "Int:18557"
+        }
+      },
+      "DSD:LK-4415": {
+        "Sex:male": {
+          "Count": "Int:17842"
+        },
+        "Sex:female": {
+          "Count": "Int:18971"
+        }
+      },
+      "DSD:LK-1315": {
+        "Sex:male": {
+          "Count": "Int:17764"
+        },
+        "Sex:female": {
+          "Count": "Int:18959"
+        }
+      },
+      "DSD:LK-6166": {
+        "Sex:male": {
+          "Count": "Int:17387"
+        },
+        "Sex:female": {
+          "Count": "Int:19203"
+        }
+      },
+      "DSD:LK-1333": {
+        "Sex:male": {
+          "Count": "Int:17536"
+        },
+        "Sex:female": {
+          "Count": "Int:19053"
+        }
+      },
+      "DSD:LK-5127": {
+        "Sex:male": {
+          "Count": "Int:16945"
+        },
+        "Sex:female": {
+          "Count": "Int:19588"
+        }
+      },
+      "DSD:LK-8206": {
+        "Sex:male": {
+          "Count": "Int:18117"
+        },
+        "Sex:female": {
+          "Count": "Int:18329"
+        }
+      },
+      "DSD:LK-7142": {
+        "Sex:male": {
+          "Count": "Int:17567"
+        },
+        "Sex:female": {
+          "Count": "Int:18669"
+        }
+      },
+      "DSD:LK-3224": {
+        "Sex:male": {
+          "Count": "Int:17025"
+        },
+        "Sex:female": {
+          "Count": "Int:19103"
+        }
+      },
+      "DSD:LK-3115": {
+        "Sex:male": {
+          "Count": "Int:17371"
+        },
+        "Sex:female": {
+          "Count": "Int:18380"
+        }
+      },
+      "DSD:LK-6103": {
+        "Sex:male": {
+          "Count": "Int:17094"
+        },
+        "Sex:female": {
+          "Count": "Int:17835"
+        }
+      },
+      "DSD:LK-3236": {
+        "Sex:male": {
+          "Count": "Int:16250"
+        },
+        "Sex:female": {
+          "Count": "Int:18056"
+        }
+      },
+      "DSD:LK-9145": {
+        "Sex:male": {
+          "Count": "Int:16987"
+        },
+        "Sex:female": {
+          "Count": "Int:17181"
+        }
+      },
+      "DSD:LK-2227": {
+        "Sex:male": {
+          "Count": "Int:16747"
+        },
+        "Sex:female": {
+          "Count": "Int:16968"
+        }
+      },
+      "DSD:LK-5318": {
+        "Sex:male": {
+          "Count": "Int:16508"
+        },
+        "Sex:female": {
+          "Count": "Int:17128"
+        }
+      },
+      "DSD:LK-9109": {
+        "Sex:male": {
+          "Count": "Int:16571"
+        },
+        "Sex:female": {
+          "Count": "Int:17060"
+        }
+      },
+      "DSD:LK-3135": {
+        "Sex:male": {
+          "Count": "Int:16011"
+        },
+        "Sex:female": {
+          "Count": "Int:17397"
+        }
+      },
+      "DSD:LK-2307": {
+        "Sex:male": {
+          "Count": "Int:15940"
+        },
+        "Sex:female": {
+          "Count": "Int:17235"
+        }
+      },
+      "DSD:LK-3230": {
+        "Sex:male": {
+          "Count": "Int:15709"
+        },
+        "Sex:female": {
+          "Count": "Int:17276"
+        }
+      },
+      "DSD:LK-5121": {
+        "Sex:male": {
+          "Count": "Int:15905"
+        },
+        "Sex:female": {
+          "Count": "Int:16926"
+        }
+      },
+      "DSD:LK-3215": {
+        "Sex:male": {
+          "Count": "Int:15603"
+        },
+        "Sex:female": {
+          "Count": "Int:17208"
+        }
+      },
+      "DSD:LK-2215": {
+        "Sex:male": {
+          "Count": "Int:15636"
+        },
+        "Sex:female": {
+          "Count": "Int:16779"
+        }
+      },
+      "DSD:LK-2148": {
+        "Sex:male": {
+          "Count": "Int:14732"
+        },
+        "Sex:female": {
+          "Count": "Int:17172"
+        }
+      },
+      "DSD:LK-8119": {
+        "Sex:male": {
+          "Count": "Int:15199"
+        },
+        "Sex:female": {
+          "Count": "Int:16682"
+        }
+      },
+      "DSD:LK-6148": {
+        "Sex:male": {
+          "Count": "Int:15304"
+        },
+        "Sex:female": {
+          "Count": "Int:16486"
+        }
+      },
+      "DSD:LK-2212": {
+        "Sex:male": {
+          "Count": "Int:15156"
+        },
+        "Sex:female": {
+          "Count": "Int:16473"
+        }
+      },
+      "DSD:LK-5221": {
+        "Sex:male": {
+          "Count": "Int:14355"
+        },
+        "Sex:female": {
+          "Count": "Int:17201"
+        }
+      },
+      "DSD:LK-8230": {
+        "Sex:male": {
+          "Count": "Int:15636"
+        },
+        "Sex:female": {
+          "Count": "Int:15602"
+        }
+      },
+      "DSD:LK-2134": {
+        "Sex:male": {
+          "Count": "Int:15152"
+        },
+        "Sex:female": {
+          "Count": "Int:15989"
+        }
+      },
+      "DSD:LK-7151": {
+        "Sex:male": {
+          "Count": "Int:15315"
+        },
+        "Sex:female": {
+          "Count": "Int:15806"
+        }
+      },
+      "DSD:LK-3118": {
+        "Sex:male": {
+          "Count": "Int:15109"
+        },
+        "Sex:female": {
+          "Count": "Int:15880"
+        }
+      },
+      "DSD:LK-2209": {
+        "Sex:male": {
+          "Count": "Int:15142"
+        },
+        "Sex:female": {
+          "Count": "Int:15576"
+        }
+      },
+      "DSD:LK-5230": {
+        "Sex:male": {
+          "Count": "Int:13749"
+        },
+        "Sex:female": {
+          "Count": "Int:16922"
+        }
+      },
+      "DSD:LK-5104": {
+        "Sex:male": {
+          "Count": "Int:14751"
+        },
+        "Sex:female": {
+          "Count": "Int:15852"
+        }
+      },
+      "DSD:LK-9130": {
+        "Sex:male": {
+          "Count": "Int:14878"
+        },
+        "Sex:female": {
+          "Count": "Int:15066"
+        }
+      },
+      "DSD:LK-5225": {
+        "Sex:male": {
+          "Count": "Int:14054"
+        },
+        "Sex:female": {
+          "Count": "Int:15819"
+        }
+      },
+      "DSD:LK-3130": {
+        "Sex:male": {
+          "Count": "Int:14133"
+        },
+        "Sex:female": {
+          "Count": "Int:15223"
+        }
+      },
+      "DSD:LK-5245": {
+        "Sex:male": {
+          "Count": "Int:14087"
+        },
+        "Sex:female": {
+          "Count": "Int:15165"
+        }
+      },
+      "DSD:LK-5109": {
+        "Sex:male": {
+          "Count": "Int:14086"
+        },
+        "Sex:female": {
+          "Count": "Int:14676"
+        }
+      },
+      "DSD:LK-6109": {
+        "Sex:male": {
+          "Count": "Int:13786"
+        },
+        "Sex:female": {
+          "Count": "Int:14531"
+        }
+      },
+      "DSD:LK-5110": {
+        "Sex:male": {
+          "Count": "Int:13597"
+        },
+        "Sex:female": {
+          "Count": "Int:14705"
+        }
+      },
+      "DSD:LK-7136": {
+        "Sex:male": {
+          "Count": "Int:13634"
+        },
+        "Sex:female": {
+          "Count": "Int:14632"
+        }
+      },
+      "DSD:LK-6227": {
+        "Sex:male": {
+          "Count": "Int:13415"
+        },
+        "Sex:female": {
+          "Count": "Int:14523"
+        }
+      },
+      "DSD:LK-3121": {
+        "Sex:male": {
+          "Count": "Int:13755"
+        },
+        "Sex:female": {
+          "Count": "Int:13991"
+        }
+      },
+      "DSD:LK-3128": {
+        "Sex:male": {
+          "Count": "Int:13375"
+        },
+        "Sex:female": {
+          "Count": "Int:14327"
+        }
+      },
+      "DSD:LK-9121": {
+        "Sex:male": {
+          "Count": "Int:13215"
+        },
+        "Sex:female": {
+          "Count": "Int:14029"
+        }
+      },
+      "DSD:LK-8112": {
+        "Sex:male": {
+          "Count": "Int:13291"
+        },
+        "Sex:female": {
+          "Count": "Int:13622"
+        }
+      },
+      "DSD:LK-5130": {
+        "Sex:male": {
+          "Count": "Int:12311"
+        },
+        "Sex:female": {
+          "Count": "Int:14365"
+        }
+      },
+      "DSD:LK-5115": {
+        "Sex:male": {
+          "Count": "Int:12218"
+        },
+        "Sex:female": {
+          "Count": "Int:14250"
+        }
+      },
+      "DSD:LK-7106": {
+        "Sex:male": {
+          "Count": "Int:13144"
+        },
+        "Sex:female": {
+          "Count": "Int:13288"
+        }
+      },
+      "DSD:LK-6209": {
+        "Sex:male": {
+          "Count": "Int:12961"
+        },
+        "Sex:female": {
+          "Count": "Int:13264"
+        }
+      },
+      "DSD:LK-3136": {
+        "Sex:male": {
+          "Count": "Int:12570"
+        },
+        "Sex:female": {
+          "Count": "Int:13646"
+        }
+      },
+      "DSD:LK-4312": {
+        "Sex:male": {
+          "Count": "Int:12458"
+        },
+        "Sex:female": {
+          "Count": "Int:13312"
+        }
+      },
+      "DSD:LK-2115": {
+        "Sex:male": {
+          "Count": "Int:12295"
+        },
+        "Sex:female": {
+          "Count": "Int:13355"
+        }
+      },
+      "DSD:LK-6112": {
+        "Sex:male": {
+          "Count": "Int:12306"
+        },
+        "Sex:female": {
+          "Count": "Int:13209"
+        }
+      },
+      "DSD:LK-5103": {
+        "Sex:male": {
+          "Count": "Int:12494"
+        },
+        "Sex:female": {
+          "Count": "Int:12981"
+        }
+      },
+      "DSD:LK-4506": {
+        "Sex:male": {
+          "Count": "Int:12025"
+        },
+        "Sex:female": {
+          "Count": "Int:12896"
+        }
+      },
+      "DSD:LK-6118": {
+        "Sex:male": {
+          "Count": "Int:12084"
+        },
+        "Sex:female": {
+          "Count": "Int:12828"
+        }
+      },
+      "DSD:LK-5239": {
+        "Sex:male": {
+          "Count": "Int:11868"
+        },
+        "Sex:female": {
+          "Count": "Int:12970"
+        }
+      },
+      "DSD:LK-5106": {
+        "Sex:male": {
+          "Count": "Int:11670"
+        },
+        "Sex:female": {
+          "Count": "Int:12913"
+        }
+      },
+      "DSD:LK-7103": {
+        "Sex:male": {
+          "Count": "Int:11888"
+        },
+        "Sex:female": {
+          "Count": "Int:12605"
+        }
+      },
+      "DSD:LK-8115": {
+        "Sex:male": {
+          "Count": "Int:11780"
+        },
+        "Sex:female": {
+          "Count": "Int:12627"
+        }
+      },
+      "DSD:LK-7112": {
+        "Sex:male": {
+          "Count": "Int:12016"
+        },
+        "Sex:female": {
+          "Count": "Int:12178"
+        }
+      },
+      "DSD:LK-4512": {
+        "Sex:male": {
+          "Count": "Int:11927"
+        },
+        "Sex:female": {
+          "Count": "Int:12186"
+        }
+      },
+      "DSD:LK-6115": {
+        "Sex:male": {
+          "Count": "Int:11597"
+        },
+        "Sex:female": {
+          "Count": "Int:12434"
+        }
+      },
+      "DSD:LK-5209": {
+        "Sex:male": {
+          "Count": "Int:11877"
+        },
+        "Sex:female": {
+          "Count": "Int:11838"
+        }
+      },
+      "DSD:LK-3134": {
+        "Sex:male": {
+          "Count": "Int:11032"
+        },
+        "Sex:female": {
+          "Count": "Int:12239"
+        }
+      },
+      "DSD:LK-2118": {
+        "Sex:male": {
+          "Count": "Int:11413"
+        },
+        "Sex:female": {
+          "Count": "Int:11633"
+        }
+      },
+      "DSD:LK-8109": {
+        "Sex:male": {
+          "Count": "Int:11217"
+        },
+        "Sex:female": {
+          "Count": "Int:11466"
+        }
+      },
+      "DSD:LK-6221": {
+        "Sex:male": {
+          "Count": "Int:10741"
+        },
+        "Sex:female": {
+          "Count": "Int:11126"
+        }
+      },
+      "DSD:LK-5216": {
+        "Sex:male": {
+          "Count": "Int:10053"
+        },
+        "Sex:female": {
+          "Count": "Int:11803"
+        }
+      },
+      "DSD:LK-5206": {
+        "Sex:male": {
+          "Count": "Int:10246"
+        },
+        "Sex:female": {
+          "Count": "Int:10588"
+        }
+      },
+      "DSD:LK-3233": {
+        "Sex:male": {
+          "Count": "Int:9893"
+        },
+        "Sex:female": {
+          "Count": "Int:10734"
+        }
+      },
+      "DSD:LK-3327": {
+        "Sex:male": {
+          "Count": "Int:9428"
+        },
+        "Sex:female": {
+          "Count": "Int:10564"
+        }
+      },
+      "DSD:LK-6206": {
+        "Sex:male": {
+          "Count": "Int:9758"
+        },
+        "Sex:female": {
+          "Count": "Int:10233"
+        }
+      },
+      "DSD:LK-4212": {
+        "Sex:male": {
+          "Count": "Int:9674"
+        },
+        "Sex:female": {
+          "Count": "Int:10000"
+        }
+      },
+      "DSD:LK-5227": {
+        "Sex:male": {
+          "Count": "Int:9211"
+        },
+        "Sex:female": {
+          "Count": "Int:10282"
+        }
+      },
+      "DSD:LK-4206": {
+        "Sex:male": {
+          "Count": "Int:9130"
+        },
+        "Sex:female": {
+          "Count": "Int:9544"
+        }
+      },
+      "DSD:LK-8227": {
+        "Sex:male": {
+          "Count": "Int:9200"
+        },
+        "Sex:female": {
+          "Count": "Int:8958"
+        }
+      },
+      "DSD:LK-4412": {
+        "Sex:male": {
+          "Count": "Int:8987"
+        },
+        "Sex:female": {
+          "Count": "Int:9162"
+        }
+      },
+      "DSD:LK-4215": {
+        "Sex:male": {
+          "Count": "Int:9108"
+        },
+        "Sex:female": {
+          "Count": "Int:9035"
+        }
+      },
+      "DSD:LK-7157": {
+        "Sex:male": {
+          "Count": "Int:9119"
+        },
+        "Sex:female": {
+          "Count": "Int:9019"
+        }
+      },
+      "DSD:LK-5234": {
+        "Sex:male": {
+          "Count": "Int:8435"
+        },
+        "Sex:female": {
+          "Count": "Int:9236"
+        }
+      },
+      "DSD:LK-6212": {
+        "Sex:male": {
+          "Count": "Int:8648"
+        },
+        "Sex:female": {
+          "Count": "Int:8923"
+        }
+      },
+      "DSD:LK-4139": {
+        "Sex:male": {
+          "Count": "Int:8065"
+        },
+        "Sex:female": {
+          "Count": "Int:8535"
+        }
+      },
+      "DSD:LK-2224": {
+        "Sex:male": {
+          "Count": "Int:8320"
+        },
+        "Sex:female": {
+          "Count": "Int:7980"
+        }
+      },
+      "DSD:LK-5330": {
+        "Sex:male": {
+          "Count": "Int:7811"
+        },
+        "Sex:female": {
+          "Count": "Int:8196"
+        }
+      },
+      "DSD:LK-2221": {
+        "Sex:male": {
+          "Count": "Int:7653"
+        },
+        "Sex:female": {
+          "Count": "Int:8223"
+        }
+      },
+      "DSD:LK-4306": {
+        "Sex:male": {
+          "Count": "Int:7157"
+        },
+        "Sex:female": {
+          "Count": "Int:7685"
+        }
+      },
+      "DSD:LK-4303": {
+        "Sex:male": {
+          "Count": "Int:7311"
+        },
+        "Sex:female": {
+          "Count": "Int:7398"
+        }
+      },
+      "DSD:LK-5333": {
+        "Sex:male": {
+          "Count": "Int:6886"
+        },
+        "Sex:female": {
+          "Count": "Int:7176"
+        }
+      },
+      "DSD:LK-4124": {
+        "Sex:male": {
+          "Count": "Int:6472"
+        },
+        "Sex:female": {
+          "Count": "Int:7065"
+        }
+      },
+      "DSD:LK-4503": {
+        "Sex:male": {
+          "Count": "Int:6330"
+        },
+        "Sex:female": {
+          "Count": "Int:6715"
+        }
+      },
+      "DSD:LK-9119": {
+        "Sex:male": {
+          "Count": "Int:6440"
+        },
+        "Sex:female": {
+          "Count": "Int:6578"
+        }
+      },
+      "DSD:LK-5303": {
+        "Sex:male": {
+          "Count": "Int:5918"
+        },
+        "Sex:female": {
+          "Count": "Int:6163"
+        }
+      },
+      "DSD:LK-5251": {
+        "Sex:male": {
+          "Count": "Int:5171"
+        },
+        "Sex:female": {
+          "Count": "Int:5245"
+        }
+      },
+      "DSD:LK-4403": {
+        "Sex:male": {
+          "Count": "Int:5038"
+        },
+        "Sex:female": {
+          "Count": "Int:5372"
+        }
+      },
+      "DSD:LK-4418": {
+        "Sex:male": {
+          "Count": "Int:5029"
+        },
+        "Sex:female": {
+          "Count": "Int:5036"
+        }
+      },
+      "DSD:LK-4103": {
+        "Sex:male": {
+          "Count": "Int:4804"
+        },
+        "Sex:female": {
+          "Count": "Int:5127"
+        }
+      },
+      "DSD:LK-4209": {
+        "Sex:male": {
+          "Count": "Int:4687"
+        },
+        "Sex:female": {
+          "Count": "Int:4806"
+        }
+      },
+      "DSD:LK-5312": {
+        "Sex:male": {
+          "Count": "Int:4618"
+        },
+        "Sex:female": {
+          "Count": "Int:4575"
+        }
+      },
+      "DSD:LK-4104": {
+        "Sex:male": {
+          "Count": "Int:4278"
+        },
+        "Sex:female": {
+          "Count": "Int:4853"
+        }
+      },
+      "DSD:LK-5309": {
+        "Sex:male": {
+          "Count": "Int:4163"
+        },
+        "Sex:female": {
+          "Count": "Int:4235"
+        }
+      },
+      "DSD:LK-4406": {
+        "Sex:male": {
+          "Count": "Int:3799"
+        },
+        "Sex:female": {
+          "Count": "Int:3851"
+        }
+      },
+      "DSD:LK-4142": {
+        "Sex:male": {
+          "Count": "Int:1570"
+        },
+        "Sex:female": {
+          "Count": "Int:1588"
+        }
+      },
+      "ED:EC-02": {
+        "Sex:male": {
+          "Count": "Int:1175469"
+        },
+        "Sex:female": {
+          "Count": "Int:1260673"
+        }
+      },
+      "ED:EC-01": {
+        "Sex:male": {
+          "Count": "Int:1154799"
+        },
+        "Sex:female": {
+          "Count": "Int:1220616"
+        }
+      },
+      "ED:EC-15": {
+        "Sex:male": {
+          "Count": "Int:849072"
+        },
+        "Sex:female": {
+          "Count": "Int:919084"
+        }
+      },
+      "ED:EC-04": {
+        "Sex:male": {
+          "Count": "Int:696713"
+        },
+        "Sex:female": {
+          "Count": "Int:765182"
+        }
+      },
+      "ED:EC-03": {
+        "Sex:male": {
+          "Count": "Int:631106"
+        },
+        "Sex:female": {
+          "Count": "Int:674678"
+        }
+      },
+      "ED:EC-21": {
+        "Sex:male": {
+          "Count": "Int:562459"
+        },
+        "Sex:female": {
+          "Count": "Int:582964"
+        }
+      },
+      "ED:EC-07": {
+        "Sex:male": {
+          "Count": "Int:527640"
+        },
+        "Sex:female": {
+          "Count": "Int:569732"
+        }
+      },
+      "ED:EC-17": {
+        "Sex:male": {
+          "Count": "Int:466571"
+        },
+        "Sex:female": {
+          "Count": "Int:493509"
+        }
+      },
+      "ED:EC-19": {
+        "Sex:male": {
+          "Count": "Int:422818"
+        },
+        "Sex:female": {
+          "Count": "Int:449489"
+        }
+      },
+      "ED:EC-22": {
+        "Sex:male": {
+          "Count": "Int:416078"
+        },
+        "Sex:female": {
+          "Count": "Int:454398"
+        }
+      },
+      "ED:EC-08": {
+        "Sex:male": {
+          "Count": "Int:401980"
+        },
+        "Sex:female": {
+          "Count": "Int:435909"
+        }
+      },
+      "ED:EC-16": {
+        "Sex:male": {
+          "Count": "Int:394244"
+        },
+        "Sex:female": {
+          "Count": "Int:424572"
+        }
+      },
+      "ED:EC-13": {
+        "Sex:male": {
+          "Count": "Int:354018"
+        },
+        "Sex:female": {
+          "Count": "Int:390533"
+        }
+      },
+      "ED:EC-10": {
+        "Sex:male": {
+          "Count": "Int:347677"
+        },
+        "Sex:female": {
+          "Count": "Int:383784"
+        }
+      },
+      "ED:EC-06": {
+        "Sex:male": {
+          "Count": "Int:346471"
+        },
+        "Sex:female": {
+          "Count": "Int:378809"
+        }
+      },
+      "ED:EC-09": {
+        "Sex:male": {
+          "Count": "Int:329210"
+        },
+        "Sex:female": {
+          "Count": "Int:342208"
+        }
+      },
+      "ED:EC-12": {
+        "Sex:male": {
+          "Count": "Int:277263"
+        },
+        "Sex:female": {
+          "Count": "Int:315108"
+        }
+      },
+      "ED:EC-20": {
+        "Sex:male": {
+          "Count": "Int:260927"
+        },
+        "Sex:female": {
+          "Count": "Int:266658"
+        }
+      },
+      "ED:EC-05": {
+        "Sex:male": {
+          "Count": "Int:255221"
+        },
+        "Sex:female": {
+          "Count": "Int:271649"
+        }
+      },
+      "ED:EC-18": {
+        "Sex:male": {
+          "Count": "Int:219686"
+        },
+        "Sex:female": {
+          "Count": "Int:227844"
+        }
+      },
+      "ED:EC-14": {
+        "Sex:male": {
+          "Count": "Int:217704"
+        },
+        "Sex:female": {
+          "Count": "Int:225041"
+        }
+      },
+      "ED:EC-11": {
+        "Sex:male": {
+          "Count": "Int:203494"
+        },
+        "Sex:female": {
+          "Count": "Int:214997"
+        }
+      },
       "PD:EC-06A": {
         "Sex:male": {
           "Count": "Int:200765"

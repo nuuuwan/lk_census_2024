@@ -1,7 +1,7 @@
 # Person-AgeGroup
 
 ![CPH](https://img.shields.io/badge/CPH-2024-blue)
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--07--25-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--07--26-green)
 
 *Person-AgeGroup, 2024 Census of Population and Housing, Department of Census and Statistics, Sri Lanka*
 
@@ -11,37 +11,37 @@
 {
     "Person": {
         "Time:2024": {
-            "PD:EC-06A": {
+            "Country:LK": {
                 "AgeGroup:0To4Years": {
-                    "Count": "Int:26243"
+                    "Count": "Int:1215120"
                 },
                 "AgeGroup:5To9Years": {
-                    "Count": "Int:33026"
+                    "Count": "Int:1556523"
                 },
                 "AgeGroup:10To14Years": {
-                    "Count": "Int:41034"
+                    "Count": "Int:1735196"
                 },
                 "AgeGroup:15To19Years": {
-                    "Count": "Int:38440"
+                    "Count": "Int:1795038"
                 },
                 "AgeGroup:20To24Years": {
-                    "Count": "Int:29107"
+                    "Count": "Int:1608606"
                 },
                 "AgeGroup:25To29Years": {
-                    "Count": "Int:23285"
+                    "Count": "Int:1372458"
                 },
                 "AgeGroup:30To34Years": {
-                    "Count": "Int:24989"
+                    "Count": "Int:1414060"
                 },
                 "AgeGroup:35To39Years": {
-                    "Count": "Int:28582"
+                    "Count": "Int:1452703"
                 },
                 "AgeGroup:40To44Years": {
-                    "Count": "Int:32371"
+                    "Count": "Int:1602344"
 ...
 ```
 
-- Source File: [lanka_data.json (238.4 KB)](../../data/Person-AgeGroup/lanka_data.json)
+- Source File: [lanka_data.json (829.3 KB)](../../data/Person-AgeGroup/lanka_data.json)
 
 ## Structured Data (similar to original layout)
 

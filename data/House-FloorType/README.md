@@ -1,7 +1,7 @@
 # House-FloorType
 
 ![CPH](https://img.shields.io/badge/CPH-2024-blue)
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--07--25-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--07--26-green)
 
 *House-FloorType, 2024 Census of Population and Housing, Department of Census and Statistics, Sri Lanka*
 
@@ -11,37 +11,37 @@
 {
     "House": {
         "Time:2024": {
-            "PD:EC-06A": {
+            "Country:LK": {
                 "FloorType:cement": {
-                    "Count": "Int:94833"
+                    "Count": "Int:3710163"
                 },
                 "FloorType:terrazzo_tile_granite_wood_finished": {
-                    "Count": "Int:6531"
+                    "Count": "Int:1692659"
                 },
                 "FloorType:concrete": {
-                    "Count": "Int:4544"
+                    "Count": "Int:498925"
                 },
                 "FloorType:mud": {
-                    "Count": "Int:2586"
+                    "Count": "Int:115259"
                 },
                 "FloorType:wood": {
-                    "Count": "Int:121"
+                    "Count": "Int:2579"
                 },
                 "FloorType:sand": {
-                    "Count": "Int:173"
+                    "Count": "Int:7707"
                 },
                 "FloorType:other": {
-                    "Count": "Int:259"
+                    "Count": "Int:2038"
                 },
                 "FloorType:not_relevant": {
-                    "Count": "Int:35"
+                    "Count": "Int:1211"
                 }
             },
-            "PD:EC-01J": {
+            "Province:LK-1": {
 ...
 ```
 
-- Source File: [lanka_data.json (96.3 KB)](../../data/House-FloorType/lanka_data.json)
+- Source File: [lanka_data.json (335.5 KB)](../../data/House-FloorType/lanka_data.json)
 
 ## Structured Data (similar to original layout)
 
