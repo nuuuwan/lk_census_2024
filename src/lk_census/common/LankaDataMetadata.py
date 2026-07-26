@@ -46,6 +46,12 @@ class LankaDataMetadata:
                     idx[query_str] = []
                 if lanka_data_file.path not in idx[query_str]:
                     idx[query_str].append(lanka_data_file.path)
+
+        for query_str, files in idx.items():
+            if len(files) > 1:
+                log.warning(
+                    f"Query '{query_str}' is present in multiple files: {files}"
+                )
         return idx
 
     @classmethod
