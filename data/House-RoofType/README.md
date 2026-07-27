@@ -1,7 +1,7 @@
 # House-RoofType
 
 ![CPH](https://img.shields.io/badge/CPH-2024-blue)
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--07--26-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--07--27-green)
 
 *House-RoofType, 2024 Census of Population and Housing, Department of Census and Statistics, Sri Lanka*
 
@@ -11,7 +11,7 @@
 {
     "House": {
         "Time:2024": {
-            "Country:LK": {
+            "Country:sri_lanka": {
                 "RoofType:tile": {
                     "Count": "Int:2032441"
                 },
@@ -37,11 +37,11 @@
                     "Count": "Int:1211"
                 }
             },
-            "Province:LK-1": {
+            "Province:western": {
 ...
 ```
 
-- Source File: [House-RoofType/lanka_data.json (339.2 KB)](../../data/House-RoofType/lanka_data.json)
+- Source File: [House-RoofType/lanka_data.json (341.2 KB)](../../data/House-RoofType/lanka_data.json)
 
 ## Structured Data (similar to original layout)
 

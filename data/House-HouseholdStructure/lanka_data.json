@@ -1,7 +1,7 @@
 {
   "House": {
     "Time:2024": {
-      "Country:LK": {
+      "Country:sri_lanka": {
         "HouseholdStructure:single_house_single_storeyed": {
           "Count": "Int:4958009"
         },
@@ -33,7 +33,7 @@
           "Count": "Int:1211"
         }
       },
-      "Province:LK-1": {
+      "Province:western": {
         "HouseholdStructure:single_house_single_storeyed": {
           "Count": "Int:1177294"
         },
@@ -65,7 +65,7 @@
           "Count": "Int:270"
         }
       },
-      "Province:LK-6": {
+      "Province:north_western": {
         "HouseholdStructure:single_house_single_storeyed": {
           "Count": "Int:681543"
         },
@@ -97,7 +97,7 @@
           "Count": "Int:110"
         }
       },
-      "Province:LK-2": {
+      "Province:central": {
         "HouseholdStructure:single_house_single_storeyed": {
           "Count": "Int:539831"
         },
@@ -129,7 +129,7 @@
           "Count": "Int:90"
         }
       },
-      "Province:LK-3": {
+      "Province:southern": {
         "HouseholdStructure:single_house_single_storeyed": {
           "Count": "Int:615514"
         },
@@ -161,7 +161,7 @@
           "Count": "Int:42"
         }
       },
-      "Province:LK-9": {
+      "Province:sabaragamuwa": {
         "HouseholdStructure:single_house_single_storeyed": {
           "Count": "Int:487757"
         },
@@ -193,7 +193,7 @@
           "Count": "Int:42"
         }
       },
-      "Province:LK-5": {
+      "Province:eastern": {
         "HouseholdStructure:single_house_single_storeyed": {
           "Count": "Int:452172"
         },
@@ -225,7 +225,7 @@
           "Count": "Int:418"
         }
       },
-      "Province:LK-7": {
+      "Province:north_central": {
         "HouseholdStructure:single_house_single_storeyed": {
           "Count": "Int:373745"
         },
@@ -257,7 +257,7 @@
           "Count": "Int:25"
         }
       },
-      "Province:LK-8": {
+      "Province:uva": {
         "HouseholdStructure:single_house_single_storeyed": {
           "Count": "Int:337782"
         },
@@ -289,7 +289,7 @@
           "Count": "Int:31"
         }
       },
-      "Province:LK-4": {
+      "Province:northern": {
         "HouseholdStructure:single_house_single_storeyed": {
           "Count": "Int:292371"
         },
@@ -321,7 +321,7 @@
           "Count": "Int:183"
         }
       },
-      "District:LK-12": {
+      "District:gampaha": {
         "HouseholdStructure:single_house_single_storeyed": {
           "Count": "Int:534645"
         },
@@ -353,7 +353,7 @@
           "Count": "Int:58"
         }
       },
-      "District:LK-11": {
+      "District:colombo": {
         "HouseholdStructure:single_house_single_storeyed": {
           "Count": "Int:355982"
         },
@@ -385,7 +385,7 @@
           "Count": "Int:167"
         }
       },
-      "District:LK-61": {
+      "District:kurunegala": {
         "HouseholdStructure:single_house_single_storeyed": {
           "Count": "Int:463412"
         },
@@ -417,7 +417,7 @@
           "Count": "Int:38"
         }
       },
-      "District:LK-21": {
+      "District:kandy": {
         "HouseholdStructure:single_house_single_storeyed": {
           "Count": "Int:291819"
         },
@@ -449,7 +449,7 @@
           "Count": "Int:31"
         }
       },
-      "District:LK-13": {
+      "District:kalutara": {
         "HouseholdStructure:single_house_single_storeyed": {
           "Count": "Int:286667"
         },
@@ -481,7 +481,7 @@
           "Count": "Int:45"
         }
       },
-      "District:LK-91": {
+      "District:ratnapura": {
         "HouseholdStructure:single_house_single_storeyed": {
           "Count": "Int:285973"
         },
@@ -513,7 +513,7 @@
           "Count": "Int:16"
         }
       },
-      "District:LK-31": {
+      "District:galle": {
         "HouseholdStructure:single_house_single_storeyed": {
           "Count": "Int:254574"
         },
@@ -545,7 +545,7 @@
           "Count": "Int:20"
         }
       },
-      "District:LK-71": {
+      "District:anuradhapura": {
         "HouseholdStructure:single_house_single_storeyed": {
           "Count": "Int:254764"
         },
@@ -577,7 +577,7 @@
           "Count": "Int:17"
         }
       },
-      "District:LK-92": {
+      "District:kegalle": {
         "HouseholdStructure:single_house_single_storeyed": {
           "Count": "Int:201784"
         },
@@ -609,7 +609,7 @@
           "Count": "Int:26"
         }
       },
-      "District:LK-81": {
+      "District:badulla": {
         "HouseholdStructure:single_house_single_storeyed": {
           "Count": "Int:195196"
         },
@@ -641,7 +641,7 @@
           "Count": "Int:17"
         }
       },
-      "District:LK-62": {
+      "District:puttalam": {
         "HouseholdStructure:single_house_single_storeyed": {
           "Count": "Int:218131"
         },
@@ -673,7 +673,7 @@
           "Count": "Int:72"
         }
       },
-      "District:LK-32": {
+      "District:matara": {
         "HouseholdStructure:single_house_single_storeyed": {
           "Count": "Int:190760"
         },
@@ -705,7 +705,7 @@
           "Count": "Int:15"
         }
       },
-      "District:LK-52": {
+      "District:ampara": {
         "HouseholdStructure:single_house_single_storeyed": {
           "Count": "Int:184418"
         },
@@ -737,7 +737,7 @@
           "Count": "Int:83"
         }
       },
-      "District:LK-23": {
+      "District:nuwara_eliya": {
         "HouseholdStructure:single_house_single_storeyed": {
           "Count": "Int:119904"
         },
@@ -769,7 +769,7 @@
           "Count": "Int:47"
         }
       },
-      "District:LK-33": {
+      "District:hambantota": {
         "HouseholdStructure:single_house_single_storeyed": {
           "Count": "Int:170180"
         },
@@ -801,7 +801,7 @@
           "Count": "Int:7"
         }
       },
-      "District:LK-51": {
+      "District:batticaloa": {
         "HouseholdStructure:single_house_single_storeyed": {
           "Count": "Int:154487"
         },
@@ -833,7 +833,7 @@
           "Count": "Int:223"
         }
       },
-      "District:LK-41": {
+      "District:jaffna": {
         "HouseholdStructure:single_house_single_storeyed": {
           "Count": "Int:147174"
         },
@@ -865,7 +865,7 @@
           "Count": "Int:109"
         }
       },
-      "District:LK-82": {
+      "District:monaragala": {
         "HouseholdStructure:single_house_single_storeyed": {
           "Count": "Int:142586"
         },
@@ -897,7 +897,7 @@
           "Count": "Int:14"
         }
       },
-      "District:LK-22": {
+      "District:matale": {
         "HouseholdStructure:single_house_single_storeyed": {
           "Count": "Int:128108"
         },
@@ -929,7 +929,7 @@
           "Count": "Int:12"
         }
       },
-      "District:LK-72": {
+      "District:polonnaruwa": {
         "HouseholdStructure:single_house_single_storeyed": {
           "Count": "Int:118981"
         },
@@ -961,7 +961,7 @@
           "Count": "Int:8"
         }
       },
-      "District:LK-53": {
+      "District:trincomalee": {
         "HouseholdStructure:single_house_single_storeyed": {
           "Count": "Int:113267"
         },
@@ -993,7 +993,7 @@
           "Count": "Int:112"
         }
       },
-      "District:LK-43": {
+      "District:vavuniya": {
         "HouseholdStructure:single_house_single_storeyed": {
           "Count": "Int:45145"
         },
@@ -1025,7 +1025,7 @@
           "Count": "Int:4"
         }
       },
-      "District:LK-45": {
+      "District:kilinochchi": {
         "HouseholdStructure:single_house_single_storeyed": {
           "Count": "Int:35770"
         },
@@ -1057,7 +1057,7 @@
           "Count": "Int:11"
         }
       },
-      "District:LK-44": {
+      "District:mullaitivu": {
         "HouseholdStructure:single_house_single_storeyed": {
           "Count": "Int:33729"
         },
@@ -1089,7 +1089,7 @@
           "Count": "Int:40"
         }
       },
-      "District:LK-42": {
+      "District:mannar": {
         "HouseholdStructure:single_house_single_storeyed": {
           "Count": "Int:30553"
         },
@@ -1121,7 +1121,7 @@
           "Count": "Int:19"
         }
       },
-      "DSD:LK-1109": {
+      "DSD:kaduwela": {
         "HouseholdStructure:single_house_single_storeyed": {
           "Count": "Int:47189"
         },
@@ -1153,7 +1153,7 @@
           "Count": "Int:3"
         }
       },
-      "DSD:LK-1112": {
+      "DSD:homagama": {
         "HouseholdStructure:single_house_single_storeyed": {
           "Count": "Int:55581"
         },
@@ -1185,7 +1185,7 @@
           "Count": "Int:29"
         }
       },
-      "DSD:LK-1136": {
+      "DSD:kesbewa": {
         "HouseholdStructure:single_house_single_storeyed": {
           "Count": "Int:44894"
         },
@@ -1217,7 +1217,7 @@
           "Count": "Int:7"
         }
       },
-      "DSD:LK-1206": {
+      "DSD:katana": {
         "HouseholdStructure:single_house_single_storeyed": {
           "Count": "Int:57804"
         },
@@ -1249,7 +1249,7 @@
           "Count": "Int:3"
         }
       },
-      "DSD:LK-1103": {
+      "DSD:colombo": {
         "HouseholdStructure:single_house_single_storeyed": {
           "Count": "Int:25169"
         },
@@ -1281,7 +1281,7 @@
           "Count": "Int:27"
         }
       },
-      "DSD:LK-1233": {
+      "DSD:mahara": {
         "HouseholdStructure:single_house_single_storeyed": {
           "Count": "Int:45637"
         },
@@ -1313,7 +1313,7 @@
           "Count": "Int:4"
         }
       },
-      "DSD:LK-1239": {
+      "DSD:biyagama": {
         "HouseholdStructure:single_house_single_storeyed": {
           "Count": "Int:40924"
         },
@@ -1345,7 +1345,7 @@
           "Count": "Int:4"
         }
       },
-      "DSD:LK-1127": {
+      "DSD:thimbirigasyaya": {
         "HouseholdStructure:single_house_single_storeyed": {
           "Count": "Int:22014"
         },
@@ -1377,7 +1377,7 @@
           "Count": "Int:10"
         }
       },
-      "DSD:LK-1224": {
+      "DSD:gampaha": {
         "HouseholdStructure:single_house_single_storeyed": {
           "Count": "Int:42694"
         },
@@ -1409,7 +1409,7 @@
           "Count": "Int:3"
         }
       },
-      "DSD:LK-1221": {
+      "DSD:ja_ela": {
         "HouseholdStructure:single_house_single_storeyed": {
           "Count": "Int:43283"
         },
@@ -1441,7 +1441,7 @@
           "Count": "Int:3"
         }
       },
-      "DSD:LK-1121": {
+      "DSD:maharagama": {
         "HouseholdStructure:single_house_single_storeyed": {
           "Count": "Int:27298"
         },
@@ -1473,7 +1473,7 @@
           "Count": "Int:9"
         }
       },
-      "DSD:LK-1215": {
+      "DSD:minuwangoda": {
         "HouseholdStructure:single_house_single_storeyed": {
           "Count": "Int:47809"
         },
@@ -1505,7 +1505,7 @@
           "Count": "Int:4"
         }
       },
-      "DSD:LK-1106": {
+      "DSD:kolonnawa": {
         "HouseholdStructure:single_house_single_storeyed": {
           "Count": "Int:28973"
         },
@@ -1537,7 +1537,7 @@
           "Count": "Int:64"
         }
       },
-      "DSD:LK-1227": {
+      "DSD:attanagalla": {
         "HouseholdStructure:single_house_single_storeyed": {
           "Count": "Int:44352"
         },
@@ -1569,7 +1569,7 @@
           "Count": "Int:2"
         }
       },
-      "DSD:LK-1212": {
+      "DSD:mirigama": {
         "HouseholdStructure:single_house_single_storeyed": {
           "Count": "Int:43440"
         },
@@ -1601,7 +1601,7 @@
           "Count": "Int:3"
         }
       },
-      "DSD:LK-1303": {
+      "DSD:panadura": {
         "HouseholdStructure:single_house_single_storeyed": {
           "Count": "Int:35332"
         },
@@ -1633,7 +1633,7 @@
           "Count": "Int:9"
         }
       },
-      "DSD:LK-1218": {
+      "DSD:wattala": {
         "HouseholdStructure:single_house_single_storeyed": {
           "Count": "Int:34583"
         },
@@ -1665,7 +1665,7 @@
           "Count": "Int:12"
         }
       },
-      "DSD:LK-1230": {
+      "DSD:dompe": {
         "HouseholdStructure:single_house_single_storeyed": {
           "Count": "Int:41593"
         },
@@ -1697,7 +1697,7 @@
           "Count": "Int:2"
         }
       },
-      "DSD:LK-9148": {
+      "DSD:embilipitiya": {
         "HouseholdStructure:single_house_single_storeyed": {
           "Count": "Int:41946"
         },
@@ -1729,7 +1729,7 @@
           "Count": "Int:0"
         }
       },
-      "DSD:LK-1209": {
+      "DSD:divulapitiya": {
         "HouseholdStructure:single_house_single_storeyed": {
           "Count": "Int:41263"
         },
@@ -1761,7 +1761,7 @@
           "Count": "Int:8"
         }
       },
-      "DSD:LK-1133": {
+      "DSD:moratuwa": {
         "HouseholdStructure:single_house_single_storeyed": {
           "Count": "Int:26783"
         },
@@ -1793,7 +1793,7 @@
           "Count": "Int:5"
         }
       },
-      "DSD:LK-1321": {
+      "DSD:kalutara": {
         "HouseholdStructure:single_house_single_storeyed": {
           "Count": "Int:34561"
         },
@@ -1825,7 +1825,7 @@
           "Count": "Int:6"
         }
       },
-      "DSD:LK-2314": {
+      "DSD:norwood": {
         "HouseholdStructure:single_house_single_storeyed": {
           "Count": "Int:16166"
         },
@@ -1857,7 +1857,7 @@
           "Count": "Int:15"
         }
       },
-      "DSD:LK-1324": {
+      "DSD:beruwala": {
         "HouseholdStructure:single_house_single_storeyed": {
           "Count": "Int:34520"
         },
@@ -1889,7 +1889,7 @@
           "Count": "Int:5"
         }
       },
-      "DSD:LK-2130": {
+      "DSD:gangawata_korale": {
         "HouseholdStructure:single_house_single_storeyed": {
           "Count": "Int:21567"
         },
@@ -1921,7 +1921,7 @@
           "Count": "Int:3"
         }
       },
-      "DSD:LK-2127": {
+      "DSD:kundasale": {
         "HouseholdStructure:single_house_single_storeyed": {
           "Count": "Int:29511"
         },
@@ -1953,7 +1953,7 @@
           "Count": "Int:5"
         }
       },
-      "DSD:LK-6178": {
+      "DSD:pannala": {
         "HouseholdStructure:single_house_single_storeyed": {
           "Count": "Int:36512"
         },
@@ -1985,7 +1985,7 @@
           "Count": "Int:5"
         }
       },
-      "DSD:LK-1309": {
+      "DSD:horana": {
         "HouseholdStructure:single_house_single_storeyed": {
           "Count": "Int:30816"
         },
@@ -2017,7 +2017,7 @@
           "Count": "Int:4"
         }
       },
-      "DSD:LK-1236": {
+      "DSD:kelaniya": {
         "HouseholdStructure:single_house_single_storeyed": {
           "Count": "Int:22918"
         },
@@ -2049,7 +2049,7 @@
           "Count": "Int:10"
         }
       },
-      "DSD:LK-1203": {
+      "DSD:negombo": {
         "HouseholdStructure:single_house_single_storeyed": {
           "Count": "Int:28345"
         },
@@ -2081,7 +2081,7 @@
           "Count": "Int:0"
         }
       },
-      "DSD:LK-1115": {
+      "DSD:seethawaka": {
         "HouseholdStructure:single_house_single_storeyed": {
           "Count": "Int:27639"
         },
@@ -2113,7 +2113,7 @@
           "Count": "Int:4"
         }
       },
-      "DSD:LK-9112": {
+      "DSD:ratnapura": {
         "HouseholdStructure:single_house_single_storeyed": {
           "Count": "Int:26373"
         },
@@ -2145,7 +2145,7 @@
           "Count": "Int:6"
         }
       },
-      "DSD:LK-1306": {
+      "DSD:bandaragama": {
         "HouseholdStructure:single_house_single_storeyed": {
           "Count": "Int:26423"
         },
@@ -2177,7 +2177,7 @@
           "Count": "Int:4"
         }
       },
-      "DSD:LK-9206": {
+      "DSD:mawanella": {
         "HouseholdStructure:single_house_single_storeyed": {
           "Count": "Int:25984"
         },
@@ -2209,7 +2209,7 @@
           "Count": "Int:5"
         }
       },
-      "DSD:LK-2313": {
+      "DSD:thalawakele": {
         "HouseholdStructure:single_house_single_storeyed": {
           "Count": "Int:14389"
         },
@@ -2241,7 +2241,7 @@
           "Count": "Int:14"
         }
       },
-      "DSD:LK-9218": {
+      "DSD:warakapola": {
         "HouseholdStructure:single_house_single_storeyed": {
           "Count": "Int:27881"
         },
@@ -2273,7 +2273,7 @@
           "Count": "Int:5"
         }
       },
-      "DSD:LK-3242": {
+      "DSD:matara_four_gravets": {
         "HouseholdStructure:single_house_single_storeyed": {
           "Count": "Int:20326"
         },
@@ -2305,7 +2305,7 @@
           "Count": "Int:2"
         }
       },
-      "DSD:LK-4309": {
+      "DSD:vavuniya": {
         "HouseholdStructure:single_house_single_storeyed": {
           "Count": "Int:29560"
         },
@@ -2337,7 +2337,7 @@
           "Count": "Int:3"
         }
       },
-      "DSD:LK-2139": {
+      "DSD:udunuwara": {
         "HouseholdStructure:single_house_single_storeyed": {
           "Count": "Int:23391"
         },
@@ -2369,7 +2369,7 @@
           "Count": "Int:1"
         }
       },
-      "DSD:LK-2136": {
+      "DSD:yatinuwara": {
         "HouseholdStructure:single_house_single_storeyed": {
           "Count": "Int:22086"
         },
@@ -2401,7 +2401,7 @@
           "Count": "Int:2"
         }
       },
-      "DSD:LK-8130": {
+      "DSD:welimada": {
         "HouseholdStructure:single_house_single_storeyed": {
           "Count": "Int:24927"
         },
@@ -2433,7 +2433,7 @@
           "Count": "Int:4"
         }
       },
-      "DSD:LK-1124": {
+      "DSD:sri_jayawardanapura_kotte": {
         "HouseholdStructure:single_house_single_storeyed": {
           "Count": "Int:11585"
         },
@@ -2465,7 +2465,7 @@
           "Count": "Int:3"
         }
       },
-      "DSD:LK-9106": {
+      "DSD:kuruvita": {
         "HouseholdStructure:single_house_single_storeyed": {
           "Count": "Int:23967"
         },
@@ -2497,7 +2497,7 @@
           "Count": "Int:0"
         }
       },
-      "DSD:LK-2151": {
+      "DSD:udapalatha": {
         "HouseholdStructure:single_house_single_storeyed": {
           "Count": "Int:19929"
         },
@@ -2529,7 +2529,7 @@
           "Count": "Int:5"
         }
       },
-      "DSD:LK-6163": {
+      "DSD:rideegama": {
         "HouseholdStructure:single_house_single_storeyed": {
           "Count": "Int:24007"
         },
@@ -2561,7 +2561,7 @@
           "Count": "Int:3"
         }
       },
-      "DSD:LK-5315": {
+      "DSD:town_and_gravets": {
         "HouseholdStructure:single_house_single_storeyed": {
           "Count": "Int:23873"
         },
@@ -2593,7 +2593,7 @@
           "Count": "Int:4"
         }
       },
-      "DSD:LK-6130": {
+      "DSD:ibbagamuwa": {
         "HouseholdStructure:single_house_single_storeyed": {
           "Count": "Int:24213"
         },
@@ -2625,7 +2625,7 @@
           "Count": "Int:4"
         }
       },
-      "DSD:LK-9212": {
+      "DSD:kegalle": {
         "HouseholdStructure:single_house_single_storeyed": {
           "Count": "Int:20990"
         },
@@ -2657,7 +2657,7 @@
           "Count": "Int:4"
         }
       },
-      "DSD:LK-3139": {
+      "DSD:galle_4_gravets": {
         "HouseholdStructure:single_house_single_storeyed": {
           "Count": "Int:16620"
         },
@@ -2689,7 +2689,7 @@
           "Count": "Int:6"
         }
       },
-      "DSD:LK-9124": {
+      "DSD:pelmadulla": {
         "HouseholdStructure:single_house_single_storeyed": {
           "Count": "Int:22560"
         },
@@ -2721,7 +2721,7 @@
           "Count": "Int:3"
         }
       },
-      "DSD:LK-8124": {
+      "DSD:hali_ela": {
         "HouseholdStructure:single_house_single_storeyed": {
           "Count": "Int:18834"
         },
@@ -2753,7 +2753,7 @@
           "Count": "Int:0"
         }
       },
-      "DSD:LK-2133": {
+      "DSD:harispattuwa": {
         "HouseholdStructure:single_house_single_storeyed": {
           "Count": "Int:18966"
         },
@@ -2785,7 +2785,7 @@
           "Count": "Int:8"
         }
       },
-      "DSD:LK-5112": {
+      "DSD:eravur_pattu": {
         "HouseholdStructure:single_house_single_storeyed": {
           "Count": "Int:24934"
         },
@@ -2817,7 +2817,7 @@
           "Count": "Int:3"
         }
       },
-      "DSD:LK-5118": {
+      "DSD:manmunai_north": {
         "HouseholdStructure:single_house_single_storeyed": {
           "Count": "Int:21026"
         },
@@ -2849,7 +2849,7 @@
           "Count": "Int:34"
         }
       },
-      "DSD:LK-1130": {
+      "DSD:dehiwala": {
         "HouseholdStructure:single_house_single_storeyed": {
           "Count": "Int:9014"
         },
@@ -2881,7 +2881,7 @@
           "Count": "Int:4"
         }
       },
-      "DSD:LK-6127": {
+      "DSD:polpitigama": {
         "HouseholdStructure:single_house_single_storeyed": {
           "Count": "Int:24348"
         },
@@ -2913,7 +2913,7 @@
           "Count": "Int:1"
         }
       },
-      "DSD:LK-2112": {
+      "DSD:pathadumbara": {
         "HouseholdStructure:single_house_single_storeyed": {
           "Count": "Int:18733"
         },
@@ -2945,7 +2945,7 @@
           "Count": "Int:1"
         }
       },
-      "DSD:LK-8103": {
+      "DSD:mahiyanganaya": {
         "HouseholdStructure:single_house_single_storeyed": {
           "Count": "Int:23799"
         },
@@ -2977,7 +2977,7 @@
           "Count": "Int:2"
         }
       },
-      "DSD:LK-7215": {
+      "DSD:thamankaduwa": {
         "HouseholdStructure:single_house_single_storeyed": {
           "Count": "Int:22492"
         },
@@ -3009,7 +3009,7 @@
           "Count": "Int:0"
         }
       },
-      "DSD:LK-1131": {
+      "DSD:ratmalana": {
         "HouseholdStructure:single_house_single_storeyed": {
           "Count": "Int:12272"
         },
@@ -3041,7 +3041,7 @@
           "Count": "Int:0"
         }
       },
-      "DSD:LK-9203": {
+      "DSD:rambukkana": {
         "HouseholdStructure:single_house_single_storeyed": {
           "Count": "Int:20770"
         },
@@ -3073,7 +3073,7 @@
           "Count": "Int:0"
         }
       },
-      "DSD:LK-7212": {
+      "DSD:dimbulagala": {
         "HouseholdStructure:single_house_single_storeyed": {
           "Count": "Int:23537"
         },
@@ -3105,7 +3105,7 @@
           "Count": "Int:0"
         }
       },
-      "DSD:LK-6203": {
+      "DSD:kalpitiya": {
         "HouseholdStructure:single_house_single_storeyed": {
           "Count": "Int:23207"
         },
@@ -3137,7 +3137,7 @@
           "Count": "Int:17"
         }
       },
-      "DSD:LK-6172": {
+      "DSD:kuliyapitiya_west": {
         "HouseholdStructure:single_house_single_storeyed": {
           "Count": "Int:21888"
         },
@@ -3169,7 +3169,7 @@
           "Count": "Int:1"
         }
       },
-      "DSD:LK-6154": {
+      "DSD:kurunegala": {
         "HouseholdStructure:single_house_single_storeyed": {
           "Count": "Int:18403"
         },
@@ -3201,7 +3201,7 @@
           "Count": "Int:4"
         }
       },
-      "DSD:LK-6215": {
+      "DSD:puttalam": {
         "HouseholdStructure:single_house_single_storeyed": {
           "Count": "Int:21715"
         },
@@ -3233,7 +3233,7 @@
           "Count": "Int:3"
         }
       },
-      "DSD:LK-3145": {
+      "DSD:akmeemana": {
         "HouseholdStructure:single_house_single_storeyed": {
           "Count": "Int:18861"
         },
@@ -3265,7 +3265,7 @@
           "Count": "Int:2"
         }
       },
-      "DSD:LK-1330": {
+      "DSD:matugama": {
         "HouseholdStructure:single_house_single_storeyed": {
           "Count": "Int:19413"
         },
@@ -3297,7 +3297,7 @@
           "Count": "Int:2"
         }
       },
-      "DSD:LK-9230": {
+      "DSD:dehiowita": {
         "HouseholdStructure:single_house_single_storeyed": {
           "Count": "Int:19294"
         },
@@ -3329,7 +3329,7 @@
           "Count": "Int:3"
         }
       },
-      "DSD:LK-2206": {
+      "DSD:dambulla": {
         "HouseholdStructure:single_house_single_storeyed": {
           "Count": "Int:21083"
         },
@@ -3361,7 +3361,7 @@
           "Count": "Int:1"
         }
       },
-      "DSD:LK-8127": {
+      "DSD:uvaparanagama": {
         "HouseholdStructure:single_house_single_storeyed": {
           "Count": "Int:20344"
         },
@@ -3393,7 +3393,7 @@
           "Count": "Int:1"
         }
       },
-      "DSD:LK-9142": {
+      "DSD:godakawela": {
         "HouseholdStructure:single_house_single_storeyed": {
           "Count": "Int:19674"
         },
@@ -3425,7 +3425,7 @@
           "Count": "Int:1"
         }
       },
-      "DSD:LK-2312": {
+      "DSD:nuwara_eliya": {
         "HouseholdStructure:single_house_single_storeyed": {
           "Count": "Int:14492"
         },
@@ -3457,7 +3457,7 @@
           "Count": "Int:6"
         }
       },
-      "DSD:LK-3315": {
+      "DSD:ambalantota": {
         "HouseholdStructure:single_house_single_storeyed": {
           "Count": "Int:20345"
         },
@@ -3489,7 +3489,7 @@
           "Count": "Int:0"
         }
       },
-      "DSD:LK-2203": {
+      "DSD:galewela": {
         "HouseholdStructure:single_house_single_storeyed": {
           "Count": "Int:20595"
         },
@@ -3521,7 +3521,7 @@
           "Count": "Int:1"
         }
       },
-      "DSD:LK-2218": {
+      "DSD:matale": {
         "HouseholdStructure:single_house_single_storeyed": {
           "Count": "Int:16032"
         },
@@ -3553,7 +3553,7 @@
           "Count": "Int:3"
         }
       },
-      "DSD:LK-5324": {
+      "DSD:kinniya": {
         "HouseholdStructure:single_house_single_storeyed": {
           "Count": "Int:20542"
         },
@@ -3585,7 +3585,7 @@
           "Count": "Int:1"
         }
       },
-      "DSD:LK-3333": {
+      "DSD:tangalle": {
         "HouseholdStructure:single_house_single_storeyed": {
           "Count": "Int:18978"
         },
@@ -3617,7 +3617,7 @@
           "Count": "Int:2"
         }
       },
-      "DSD:LK-8121": {
+      "DSD:badulla": {
         "HouseholdStructure:single_house_single_storeyed": {
           "Count": "Int:14684"
         },
@@ -3649,7 +3649,7 @@
           "Count": "Int:1"
         }
       },
-      "DSD:LK-8221": {
+      "DSD:wellawaya": {
         "HouseholdStructure:single_house_single_storeyed": {
           "Count": "Int:20223"
         },
@@ -3681,7 +3681,7 @@
           "Count": "Int:5"
         }
       },
-      "DSD:LK-7133": {
+      "DSD:nuwaragam_palatha_east": {
         "HouseholdStructure:single_house_single_storeyed": {
           "Count": "Int:16754"
         },
@@ -3713,7 +3713,7 @@
           "Count": "Int:3"
         }
       },
-      "DSD:LK-9215": {
+      "DSD:galigamuwa": {
         "HouseholdStructure:single_house_single_storeyed": {
           "Count": "Int:18203"
         },
@@ -3745,7 +3745,7 @@
           "Count": "Int:1"
         }
       },
-      "DSD:LK-9118": {
+      "DSD:balangoda": {
         "HouseholdStructure:single_house_single_storeyed": {
           "Count": "Int:17832"
         },
@@ -3777,7 +3777,7 @@
           "Count": "Int:3"
         }
       },
-      "DSD:LK-3309": {
+      "DSD:thissamaharama": {
         "HouseholdStructure:single_house_single_storeyed": {
           "Count": "Int:19168"
         },
@@ -3809,7 +3809,7 @@
           "Count": "Int:0"
         }
       },
-      "DSD:LK-1118": {
+      "DSD:padukka": {
         "HouseholdStructure:single_house_single_storeyed": {
           "Count": "Int:17571"
         },
@@ -3841,7 +3841,7 @@
           "Count": "Int:2"
         }
       },
-      "DSD:LK-7206": {
+      "DSD:medirigiriya": {
         "HouseholdStructure:single_house_single_storeyed": {
           "Count": "Int:19385"
         },
@@ -3873,7 +3873,7 @@
           "Count": "Int:0"
         }
       },
-      "DSD:LK-9103": {
+      "DSD:eheliyagoda": {
         "HouseholdStructure:single_house_single_storeyed": {
           "Count": "Int:18109"
         },
@@ -3905,7 +3905,7 @@
           "Count": "Int:1"
         }
       },
-      "DSD:LK-6145": {
+      "DSD:panduwasnuwara_west": {
         "HouseholdStructure:single_house_single_storeyed": {
           "Count": "Int:19067"
         },
@@ -3937,7 +3937,7 @@
           "Count": "Int:2"
         }
       },
-      "DSD:LK-7203": {
+      "DSD:higurakgoda": {
         "HouseholdStructure:single_house_single_storeyed": {
           "Count": "Int:18597"
         },
@@ -3969,7 +3969,7 @@
           "Count": "Int:2"
         }
       },
-      "DSD:LK-7115": {
+      "DSD:nuwaragam_palatha_central": {
         "HouseholdStructure:single_house_single_storeyed": {
           "Count": "Int:18527"
         },
@@ -4001,7 +4001,7 @@
           "Count": "Int:1"
         }
       },
-      "DSD:LK-3109": {
+      "DSD:karandeniya": {
         "HouseholdStructure:single_house_single_storeyed": {
           "Count": "Int:17268"
         },
@@ -4033,7 +4033,7 @@
           "Count": "Int:3"
         }
       },
-      "DSD:LK-9209": {
+      "DSD:aranayake": {
         "HouseholdStructure:single_house_single_storeyed": {
           "Count": "Int:17203"
         },
@@ -4065,7 +4065,7 @@
           "Count": "Int:1"
         }
       },
-      "DSD:LK-6160": {
+      "DSD:mawathagama": {
         "HouseholdStructure:single_house_single_storeyed": {
           "Count": "Int:16645"
         },
@@ -4097,7 +4097,7 @@
           "Count": "Int:3"
         }
       },
-      "DSD:LK-6245": {
+      "DSD:wennappuwa": {
         "HouseholdStructure:single_house_single_storeyed": {
           "Count": "Int:17577"
         },
@@ -4129,7 +4129,7 @@
           "Count": "Int:13"
         }
       },
-      "DSD:LK-6142": {
+      "DSD:bingiriya": {
         "HouseholdStructure:single_house_single_storeyed": {
           "Count": "Int:18993"
         },
@@ -4161,7 +4161,7 @@
           "Count": "Int:1"
         }
       },
-      "DSD:LK-6136": {
+      "DSD:wariyapola": {
         "HouseholdStructure:single_house_single_storeyed": {
           "Count": "Int:17946"
         },
@@ -4193,7 +4193,7 @@
           "Count": "Int:1"
         }
       },
-      "DSD:LK-2233": {
+      "DSD:ukuwela": {
         "HouseholdStructure:single_house_single_storeyed": {
           "Count": "Int:15243"
         },
@@ -4225,7 +4225,7 @@
           "Count": "Int:2"
         }
       },
-      "DSD:LK-4509": {
+      "DSD:karachchi": {
         "HouseholdStructure:single_house_single_storeyed": {
           "Count": "Int:18972"
         },
@@ -4257,7 +4257,7 @@
           "Count": "Int:7"
         }
       },
-      "DSD:LK-4118": {
+      "DSD:valikamam_east_kopay": {
         "HouseholdStructure:single_house_single_storeyed": {
           "Count": "Int:18579"
         },
@@ -4289,7 +4289,7 @@
           "Count": "Int:37"
         }
       },
-      "DSD:LK-5218": {
+      "DSD:sammanthurai": {
         "HouseholdStructure:single_house_single_storeyed": {
           "Count": "Int:17161"
         },
@@ -4321,7 +4321,7 @@
           "Count": "Int:2"
         }
       },
-      "DSD:LK-5327": {
+      "DSD:muthur": {
         "HouseholdStructure:single_house_single_storeyed": {
           "Count": "Int:18914"
         },
@@ -4353,7 +4353,7 @@
           "Count": "Int:66"
         }
       },
-      "DSD:LK-3112": {
+      "DSD:elpitiya": {
         "HouseholdStructure:single_house_single_storeyed": {
           "Count": "Int:16617"
         },
@@ -4385,7 +4385,7 @@
           "Count": "Int:0"
         }
       },
-      "DSD:LK-3239": {
+      "DSD:weligama": {
         "HouseholdStructure:single_house_single_storeyed": {
           "Count": "Int:15587"
         },
@@ -4417,7 +4417,7 @@
           "Count": "Int:2"
         }
       },
-      "DSD:LK-6242": {
+      "DSD:nattandiya": {
         "HouseholdStructure:single_house_single_storeyed": {
           "Count": "Int:17595"
         },
@@ -4449,7 +4449,7 @@
           "Count": "Int:2"
         }
       },
-      "DSD:LK-6184": {
+      "DSD:alawwa": {
         "HouseholdStructure:single_house_single_storeyed": {
           "Count": "Int:17286"
         },
@@ -4481,7 +4481,7 @@
           "Count": "Int:1"
         }
       },
-      "DSD:LK-6187": {
+      "DSD:polgahawela": {
         "HouseholdStructure:single_house_single_storeyed": {
           "Count": "Int:16303"
         },
@@ -4513,7 +4513,7 @@
           "Count": "Int:2"
         }
       },
-      "DSD:LK-4130": {
+      "DSD:thenmaradchi_chavakachcheri": {
         "HouseholdStructure:single_house_single_storeyed": {
           "Count": "Int:18308"
         },
@@ -4545,7 +4545,7 @@
           "Count": "Int:3"
         }
       },
-      "DSD:LK-6124": {
+      "DSD:maho": {
         "HouseholdStructure:single_house_single_storeyed": {
           "Count": "Int:17729"
         },
@@ -4577,7 +4577,7 @@
           "Count": "Int:3"
         }
       },
-      "DSD:LK-6248": {
+      "DSD:dankotuwa": {
         "HouseholdStructure:single_house_single_storeyed": {
           "Count": "Int:17564"
         },
@@ -4609,7 +4609,7 @@
           "Count": "Int:10"
         }
       },
-      "DSD:LK-6218": {
+      "DSD:mundel": {
         "HouseholdStructure:single_house_single_storeyed": {
           "Count": "Int:18256"
         },
@@ -4641,7 +4641,7 @@
           "Count": "Int:5"
         }
       },
-      "DSD:LK-3106": {
+      "DSD:balapitiya": {
         "HouseholdStructure:single_house_single_storeyed": {
           "Count": "Int:16120"
         },
@@ -4673,7 +4673,7 @@
           "Count": "Int:0"
         }
       },
-      "DSD:LK-1312": {
+      "DSD:bulathsinhala": {
         "HouseholdStructure:single_house_single_storeyed": {
           "Count": "Int:16369"
         },
@@ -4705,7 +4705,7 @@
           "Count": "Int:3"
         }
       },
-      "DSD:LK-4133": {
+      "DSD:nallur": {
         "HouseholdStructure:single_house_single_storeyed": {
           "Count": "Int:15788"
         },
@@ -4737,7 +4737,7 @@
           "Count": "Int:8"
         }
       },
-      "DSD:LK-1327": {
+      "DSD:dodangoda": {
         "HouseholdStructure:single_house_single_storeyed": {
           "Count": "Int:14883"
         },
@@ -4769,7 +4769,7 @@
           "Count": "Int:6"
         }
       },
-      "DSD:LK-6233": {
+      "DSD:chilaw": {
         "HouseholdStructure:single_house_single_storeyed": {
           "Count": "Int:16573"
         },
@@ -4801,7 +4801,7 @@
           "Count": "Int:4"
         }
       },
-      "DSD:LK-5203": {
+      "DSD:dehiattakandiya": {
         "HouseholdStructure:single_house_single_storeyed": {
           "Count": "Int:17720"
         },
@@ -4833,7 +4833,7 @@
           "Count": "Int:2"
         }
       },
-      "DSD:LK-9221": {
+      "DSD:ruwanwella": {
         "HouseholdStructure:single_house_single_storeyed": {
           "Count": "Int:15873"
         },
@@ -4865,7 +4865,7 @@
           "Count": "Int:5"
         }
       },
-      "DSD:LK-3312": {
+      "DSD:hambantota": {
         "HouseholdStructure:single_house_single_storeyed": {
           "Count": "Int:16945"
         },
@@ -4897,7 +4897,7 @@
           "Count": "Int:0"
         }
       },
-      "DSD:LK-9115": {
+      "DSD:imbulpe": {
         "HouseholdStructure:single_house_single_storeyed": {
           "Count": "Int:16237"
         },
@@ -4929,7 +4929,7 @@
           "Count": "Int:1"
         }
       },
-      "DSD:LK-3209": {
+      "DSD:pasgoda": {
         "HouseholdStructure:single_house_single_storeyed": {
           "Count": "Int:15975"
         },
@@ -4961,7 +4961,7 @@
           "Count": "Int:2"
         }
       },
-      "DSD:LK-7154": {
+      "DSD:kekirawa": {
         "HouseholdStructure:single_house_single_storeyed": {
           "Count": "Int:16819"
         },
@@ -4993,7 +4993,7 @@
           "Count": "Int:1"
         }
       },
-      "DSD:LK-8133": {
+      "DSD:bandarawela": {
         "HouseholdStructure:single_house_single_storeyed": {
           "Count": "Int:13280"
         },
@@ -5025,7 +5025,7 @@
           "Count": "Int:1"
         }
       },
-      "DSD:LK-2124": {
+      "DSD:medadumbara": {
         "HouseholdStructure:single_house_single_storeyed": {
           "Count": "Int:14267"
         },
@@ -5057,7 +5057,7 @@
           "Count": "Int:0"
         }
       },
-      "DSD:LK-6106": {
+      "DSD:galgamuwa": {
         "HouseholdStructure:single_house_single_storeyed": {
           "Count": "Int:16961"
         },
@@ -5089,7 +5089,7 @@
           "Count": "Int:1"
         }
       },
-      "DSD:LK-8212": {
+      "DSD:siyambalanduwa": {
         "HouseholdStructure:single_house_single_storeyed": {
           "Count": "Int:17373"
         },
@@ -5121,7 +5121,7 @@
           "Count": "Int:1"
         }
       },
-      "DSD:LK-3206": {
+      "DSD:kotapola": {
         "HouseholdStructure:single_house_single_storeyed": {
           "Count": "Int:14464"
         },
@@ -5153,7 +5153,7 @@
           "Count": "Int:0"
         }
       },
-      "DSD:LK-2309": {
+      "DSD:walapane": {
         "HouseholdStructure:single_house_single_storeyed": {
           "Count": "Int:12991"
         },
@@ -5185,7 +5185,7 @@
           "Count": "Int:2"
         }
       },
-      "DSD:LK-7148": {
+      "DSD:thalawa": {
         "HouseholdStructure:single_house_single_storeyed": {
           "Count": "Int:16649"
         },
@@ -5217,7 +5217,7 @@
           "Count": "Int:0"
         }
       },
-      "DSD:LK-8224": {
+      "DSD:buttala": {
         "HouseholdStructure:single_house_single_storeyed": {
           "Count": "Int:16640"
         },
@@ -5249,7 +5249,7 @@
           "Count": "Int:1"
         }
       },
-      "DSD:LK-9227": {
+      "DSD:yatiyantota": {
         "HouseholdStructure:single_house_single_storeyed": {
           "Count": "Int:14283"
         },
@@ -5281,7 +5281,7 @@
           "Count": "Int:1"
         }
       },
-      "DSD:LK-5212": {
+      "DSD:uhana": {
         "HouseholdStructure:single_house_single_storeyed": {
           "Count": "Int:16678"
         },
@@ -5313,7 +5313,7 @@
           "Count": "Int:1"
         }
       },
-      "DSD:LK-2157": {
+      "DSD:pasbagekorale": {
         "HouseholdStructure:single_house_single_storeyed": {
           "Count": "Int:12626"
         },
@@ -5345,7 +5345,7 @@
           "Count": "Int:0"
         }
       },
-      "DSD:LK-8106": {
+      "DSD:rideemaliyadda": {
         "HouseholdStructure:single_house_single_storeyed": {
           "Count": "Int:16819"
         },
@@ -5377,7 +5377,7 @@
           "Count": "Int:2"
         }
       },
-      "DSD:LK-6181": {
+      "DSD:narammala": {
         "HouseholdStructure:single_house_single_storeyed": {
           "Count": "Int:15454"
         },
@@ -5409,7 +5409,7 @@
           "Count": "Int:0"
         }
       },
-      "DSD:LK-3154": {
+      "DSD:habaraduwa": {
         "HouseholdStructure:single_house_single_storeyed": {
           "Count": "Int:14668"
         },
@@ -5441,7 +5441,7 @@
           "Count": "Int:2"
         }
       },
-      "DSD:LK-3133": {
+      "DSD:ambalangoda": {
         "HouseholdStructure:single_house_single_storeyed": {
           "Count": "Int:12869"
         },
@@ -5473,7 +5473,7 @@
           "Count": "Int:0"
         }
       },
-      "DSD:LK-9136": {
+      "DSD:nivithigala": {
         "HouseholdStructure:single_house_single_storeyed": {
           "Count": "Int:14510"
         },
@@ -5505,7 +5505,7 @@
           "Count": "Int:0"
         }
       },
-      "DSD:LK-2145": {
+      "DSD:pathahewaheta": {
         "HouseholdStructure:single_house_single_storeyed": {
           "Count": "Int:14161"
         },
@@ -5537,7 +5537,7 @@
           "Count": "Int:2"
         }
       },
-      "DSD:LK-2303": {
+      "DSD:kothmale_east": {
         "HouseholdStructure:single_house_single_storeyed": {
           "Count": "Int:10628"
         },
@@ -5569,7 +5569,7 @@
           "Count": "Int:4"
         }
       },
-      "DSD:LK-5136": {
+      "DSD:manmunai_south_and_eruvil_pattu": {
         "HouseholdStructure:single_house_single_storeyed": {
           "Count": "Int:15270"
         },
@@ -5601,7 +5601,7 @@
           "Count": "Int:14"
         }
       },
-      "DSD:LK-2306": {
+      "DSD:hanguranketa": {
         "HouseholdStructure:single_house_single_storeyed": {
           "Count": "Int:13829"
         },
@@ -5633,7 +5633,7 @@
           "Count": "Int:2"
         }
       },
-      "DSD:LK-3330": {
+      "DSD:beliatta": {
         "HouseholdStructure:single_house_single_storeyed": {
           "Count": "Int:14040"
         },
@@ -5665,7 +5665,7 @@
           "Count": "Int:0"
         }
       },
-      "DSD:LK-6157": {
+      "DSD:mallawapitiya": {
         "HouseholdStructure:single_house_single_storeyed": {
           "Count": "Int:13450"
         },
@@ -5697,7 +5697,7 @@
           "Count": "Int:1"
         }
       },
-      "DSD:LK-6169": {
+      "DSD:kuliyapitiya_east": {
         "HouseholdStructure:single_house_single_storeyed": {
           "Count": "Int:15262"
         },
@@ -5729,7 +5729,7 @@
           "Count": "Int:0"
         }
       },
-      "DSD:LK-1310": {
+      "DSD:ingiriya": {
         "HouseholdStructure:single_house_single_storeyed": {
           "Count": "Int:14342"
         },
@@ -5761,7 +5761,7 @@
           "Count": "Int:1"
         }
       },
-      "DSD:LK-2121": {
+      "DSD:minipe": {
         "HouseholdStructure:single_house_single_storeyed": {
           "Count": "Int:15296"
         },
@@ -5793,7 +5793,7 @@
           "Count": "Int:0"
         }
       },
-      "DSD:LK-7139": {
+      "DSD:nochchiyagama": {
         "HouseholdStructure:single_house_single_storeyed": {
           "Count": "Int:15281"
         },
@@ -5825,7 +5825,7 @@
           "Count": "Int:1"
         }
       },
-      "DSD:LK-8215": {
+      "DSD:monaragala": {
         "HouseholdStructure:single_house_single_storeyed": {
           "Count": "Int:14499"
         },
@@ -5857,7 +5857,7 @@
           "Count": "Int:3"
         }
       },
-      "DSD:LK-6175": {
+      "DSD:udubaddawa": {
         "HouseholdStructure:single_house_single_storeyed": {
           "Count": "Int:15084"
         },
@@ -5889,7 +5889,7 @@
           "Count": "Int:1"
         }
       },
-      "DSD:LK-1339": {
+      "DSD:walallawita": {
         "HouseholdStructure:single_house_single_storeyed": {
           "Count": "Int:14602"
         },
@@ -5921,7 +5921,7 @@
           "Count": "Int:0"
         }
       },
-      "DSD:LK-1318": {
+      "DSD:millaniya": {
         "HouseholdStructure:single_house_single_storeyed": {
           "Count": "Int:14325"
         },
@@ -5953,7 +5953,7 @@
           "Count": "Int:2"
         }
       },
-      "DSD:LK-2106": {
+      "DSD:poojapitiya": {
         "HouseholdStructure:single_house_single_storeyed": {
           "Count": "Int:12154"
         },
@@ -5985,7 +5985,7 @@
           "Count": "Int:0"
         }
       },
-      "DSD:LK-2230": {
+      "DSD:rattota": {
         "HouseholdStructure:single_house_single_storeyed": {
           "Count": "Int:12616"
         },
@@ -6017,7 +6017,7 @@
           "Count": "Int:4"
         }
       },
-      "DSD:LK-2109": {
+      "DSD:akurana": {
         "HouseholdStructure:single_house_single_storeyed": {
           "Count": "Int:9709"
         },
@@ -6049,7 +6049,7 @@
           "Count": "Int:1"
         }
       },
-      "DSD:LK-2154": {
+      "DSD:ganga_ihala_korale": {
         "HouseholdStructure:single_house_single_storeyed": {
           "Count": "Int:13077"
         },
@@ -6081,7 +6081,7 @@
           "Count": "Int:0"
         }
       },
-      "DSD:LK-3124": {
+      "DSD:nagoda": {
         "HouseholdStructure:single_house_single_storeyed": {
           "Count": "Int:13430"
         },
@@ -6113,7 +6113,7 @@
           "Count": "Int:0"
         }
       },
-      "DSD:LK-3142": {
+      "DSD:bope_poddala": {
         "HouseholdStructure:single_house_single_storeyed": {
           "Count": "Int:10440"
         },
@@ -6145,7 +6145,7 @@
           "Count": "Int:2"
         }
       },
-      "DSD:LK-3318": {
+      "DSD:angunakolapelessa": {
         "HouseholdStructure:single_house_single_storeyed": {
           "Count": "Int:14305"
         },
@@ -6177,7 +6177,7 @@
           "Count": "Int:1"
         }
       },
-      "DSD:LK-9133": {
+      "DSD:kalawana": {
         "HouseholdStructure:single_house_single_storeyed": {
           "Count": "Int:13129"
         },
@@ -6209,7 +6209,7 @@
           "Count": "Int:1"
         }
       },
-      "DSD:LK-3324": {
+      "DSD:katuwana": {
         "HouseholdStructure:single_house_single_storeyed": {
           "Count": "Int:13970"
         },
@@ -6241,7 +6241,7 @@
           "Count": "Int:1"
         }
       },
-      "DSD:LK-3248": {
+      "DSD:dikwella": {
         "HouseholdStructure:single_house_single_storeyed": {
           "Count": "Int:13101"
         },
@@ -6273,7 +6273,7 @@
           "Count": "Int:1"
         }
       },
-      "DSD:LK-3218": {
+      "DSD:akuressa": {
         "HouseholdStructure:single_house_single_storeyed": {
           "Count": "Int:13411"
         },
@@ -6305,7 +6305,7 @@
           "Count": "Int:1"
         }
       },
-      "DSD:LK-7109": {
+      "DSD:medawachchiya": {
         "HouseholdStructure:single_house_single_storeyed": {
           "Count": "Int:14515"
         },
@@ -6337,7 +6337,7 @@
           "Count": "Int:1"
         }
       },
-      "DSD:LK-1336": {
+      "DSD:palindanuwara": {
         "HouseholdStructure:single_house_single_storeyed": {
           "Count": "Int:13392"
         },
@@ -6369,7 +6369,7 @@
           "Count": "Int:1"
         }
       },
-      "DSD:LK-3221": {
+      "DSD:welipitiya": {
         "HouseholdStructure:single_house_single_storeyed": {
           "Count": "Int:13266"
         },
@@ -6401,7 +6401,7 @@
           "Count": "Int:0"
         }
       },
-      "DSD:LK-9151": {
+      "DSD:kolonna": {
         "HouseholdStructure:single_house_single_storeyed": {
           "Count": "Int:13064"
         },
@@ -6433,7 +6433,7 @@
           "Count": "Int:0"
         }
       },
-      "DSD:LK-6239": {
+      "DSD:mahawewa": {
         "HouseholdStructure:single_house_single_storeyed": {
           "Count": "Int:13814"
         },
@@ -6465,7 +6465,7 @@
           "Count": "Int:4"
         }
       },
-      "DSD:LK-6236": {
+      "DSD:madampe": {
         "HouseholdStructure:single_house_single_storeyed": {
           "Count": "Int:13894"
         },
@@ -6497,7 +6497,7 @@
           "Count": "Int:0"
         }
       },
-      "DSD:LK-3203": {
+      "DSD:pitabaddara": {
         "HouseholdStructure:single_house_single_storeyed": {
           "Count": "Int:12683"
         },
@@ -6529,7 +6529,7 @@
           "Count": "Int:0"
         }
       },
-      "DSD:LK-3212": {
+      "DSD:mulatiyana": {
         "HouseholdStructure:single_house_single_storeyed": {
           "Count": "Int:12768"
         },
@@ -6561,7 +6561,7 @@
           "Count": "Int:0"
         }
       },
-      "DSD:LK-4203": {
+      "DSD:mannar_town": {
         "HouseholdStructure:single_house_single_storeyed": {
           "Count": "Int:13552"
         },
@@ -6593,7 +6593,7 @@
           "Count": "Int:8"
         }
       },
-      "DSD:LK-7127": {
+      "DSD:galenbidunuwewa": {
         "HouseholdStructure:single_house_single_storeyed": {
           "Count": "Int:13786"
         },
@@ -6625,7 +6625,7 @@
           "Count": "Int:2"
         }
       },
-      "DSD:LK-3303": {
+      "DSD:sooriyawewa": {
         "HouseholdStructure:single_house_single_storeyed": {
           "Count": "Int:13339"
         },
@@ -6657,7 +6657,7 @@
           "Count": "Int:2"
         }
       },
-      "DSD:LK-2142": {
+      "DSD:doluwa": {
         "HouseholdStructure:single_house_single_storeyed": {
           "Count": "Int:12000"
         },
@@ -6689,7 +6689,7 @@
           "Count": "Int:0"
         }
       },
-      "DSD:LK-3127": {
+      "DSD:baddegama": {
         "HouseholdStructure:single_house_single_storeyed": {
           "Count": "Int:12366"
         },
@@ -6721,7 +6721,7 @@
           "Count": "Int:1"
         }
       },
-      "DSD:LK-5321": {
+      "DSD:kantale": {
         "HouseholdStructure:single_house_single_storeyed": {
           "Count": "Int:13450"
         },
@@ -6753,7 +6753,7 @@
           "Count": "Int:3"
         }
       },
-      "DSD:LK-7218": {
+      "DSD:elahera": {
         "HouseholdStructure:single_house_single_storeyed": {
           "Count": "Int:13389"
         },
@@ -6785,7 +6785,7 @@
           "Count": "Int:1"
         }
       },
-      "DSD:LK-8233": {
+      "DSD:sevanagala": {
         "HouseholdStructure:single_house_single_storeyed": {
           "Count": "Int:12968"
         },
@@ -6817,7 +6817,7 @@
           "Count": "Int:1"
         }
       },
-      "DSD:LK-4109": {
+      "DSD:valikamam_south_west_sandilipay": {
         "HouseholdStructure:single_house_single_storeyed": {
           "Count": "Int:13091"
         },
@@ -6849,7 +6849,7 @@
           "Count": "Int:10"
         }
       },
-      "DSD:LK-3103": {
+      "DSD:bentota": {
         "HouseholdStructure:single_house_single_storeyed": {
           "Count": "Int:12232"
         },
@@ -6881,7 +6881,7 @@
           "Count": "Int:0"
         }
       },
-      "DSD:LK-8203": {
+      "DSD:bibile": {
         "HouseholdStructure:single_house_single_storeyed": {
           "Count": "Int:12842"
         },
@@ -6913,7 +6913,7 @@
           "Count": "Int:0"
         }
       },
-      "DSD:LK-3321": {
+      "DSD:weeraketiya": {
         "HouseholdStructure:single_house_single_storeyed": {
           "Count": "Int:12248"
         },
@@ -6945,7 +6945,7 @@
           "Count": "Int:0"
         }
       },
-      "DSD:LK-8118": {
+      "DSD:passara": {
         "HouseholdStructure:single_house_single_storeyed": {
           "Count": "Int:9856"
         },
@@ -6977,7 +6977,7 @@
           "Count": "Int:2"
         }
       },
-      "DSD:LK-5224": {
+      "DSD:kalmunai": {
         "HouseholdStructure:single_house_single_storeyed": {
           "Count": "Int:10126"
         },
@@ -7009,7 +7009,7 @@
           "Count": "Int:2"
         }
       },
-      "DSD:LK-3325": {
+      "DSD:walasmulla": {
         "HouseholdStructure:single_house_single_storeyed": {
           "Count": "Int:11951"
         },
@@ -7041,7 +7041,7 @@
           "Count": "Int:1"
         }
       },
-      "DSD:LK-3151": {
+      "DSD:imaduwa": {
         "HouseholdStructure:single_house_single_storeyed": {
           "Count": "Int:11874"
         },
@@ -7073,7 +7073,7 @@
           "Count": "Int:2"
         }
       },
-      "DSD:LK-3148": {
+      "DSD:yakkalamulla": {
         "HouseholdStructure:single_house_single_storeyed": {
           "Count": "Int:11987"
         },
@@ -7105,7 +7105,7 @@
           "Count": "Int:1"
         }
       },
-      "DSD:LK-8139": {
+      "DSD:haputale": {
         "HouseholdStructure:single_house_single_storeyed": {
           "Count": "Int:9419"
         },
@@ -7137,7 +7137,7 @@
           "Count": "Int:1"
         }
       },
-      "DSD:LK-7145": {
+      "DSD:thambuththegama": {
         "HouseholdStructure:single_house_single_storeyed": {
           "Count": "Int:12151"
         },
@@ -7169,7 +7169,7 @@
           "Count": "Int:2"
         }
       },
-      "DSD:LK-8218": {
+      "DSD:badalkumbura": {
         "HouseholdStructure:single_house_single_storeyed": {
           "Count": "Int:12263"
         },
@@ -7201,7 +7201,7 @@
           "Count": "Int:1"
         }
       },
-      "DSD:LK-5233": {
+      "DSD:addalaichenai": {
         "HouseholdStructure:single_house_single_storeyed": {
           "Count": "Int:12356"
         },
@@ -7233,7 +7233,7 @@
           "Count": "Int:12"
         }
       },
-      "DSD:LK-5215": {
+      "DSD:ampara": {
         "HouseholdStructure:single_house_single_storeyed": {
           "Count": "Int:11828"
         },
@@ -7265,7 +7265,7 @@
           "Count": "Int:0"
         }
       },
-      "DSD:LK-4115": {
+      "DSD:valikamam_south_uduvil": {
         "HouseholdStructure:single_house_single_storeyed": {
           "Count": "Int:12412"
         },
@@ -7297,7 +7297,7 @@
           "Count": "Int:3"
         }
       },
-      "DSD:LK-3245": {
+      "DSD:devinuwara": {
         "HouseholdStructure:single_house_single_storeyed": {
           "Count": "Int:11456"
         },
@@ -7329,7 +7329,7 @@
           "Count": "Int:1"
         }
       },
-      "DSD:LK-8136": {
+      "DSD:ella": {
         "HouseholdStructure:single_house_single_storeyed": {
           "Count": "Int:9639"
         },
@@ -7361,7 +7361,7 @@
           "Count": "Int:0"
         }
       },
-      "DSD:LK-9233": {
+      "DSD:deraniyagala": {
         "HouseholdStructure:single_house_single_storeyed": {
           "Count": "Int:10511"
         },
@@ -7393,7 +7393,7 @@
           "Count": "Int:0"
         }
       },
-      "DSD:LK-5124": {
+      "DSD:kattankudy": {
         "HouseholdStructure:single_house_single_storeyed": {
           "Count": "Int:10859"
         },
@@ -7425,7 +7425,7 @@
           "Count": "Int:14"
         }
       },
-      "DSD:LK-6133": {
+      "DSD:ganewatta": {
         "HouseholdStructure:single_house_single_storeyed": {
           "Count": "Int:12185"
         },
@@ -7457,7 +7457,7 @@
           "Count": "Int:1"
         }
       },
-      "DSD:LK-9224": {
+      "DSD:bulathkohipitiya": {
         "HouseholdStructure:single_house_single_storeyed": {
           "Count": "Int:10792"
         },
@@ -7489,7 +7489,7 @@
           "Count": "Int:1"
         }
       },
-      "DSD:LK-6224": {
+      "DSD:anamaduwa": {
         "HouseholdStructure:single_house_single_storeyed": {
           "Count": "Int:12538"
         },
@@ -7521,7 +7521,7 @@
           "Count": "Int:1"
         }
       },
-      "DSD:LK-6121": {
+      "DSD:nikaweratiya": {
         "HouseholdStructure:single_house_single_storeyed": {
           "Count": "Int:12029"
         },
@@ -7553,7 +7553,7 @@
           "Count": "Int:0"
         }
       },
-      "DSD:LK-6230": {
+      "DSD:arachchikattuwa": {
         "HouseholdStructure:single_house_single_storeyed": {
           "Count": "Int:12129"
         },
@@ -7585,7 +7585,7 @@
           "Count": "Int:3"
         }
       },
-      "DSD:LK-2315": {
+      "DSD:ambagamuwa_korale": {
         "HouseholdStructure:single_house_single_storeyed": {
           "Count": "Int:9693"
         },
@@ -7617,7 +7617,7 @@
           "Count": "Int:0"
         }
       },
-      "DSD:LK-7121": {
+      "DSD:kahatagasdigiliya": {
         "HouseholdStructure:single_house_single_storeyed": {
           "Count": "Int:12030"
         },
@@ -7649,7 +7649,7 @@
           "Count": "Int:2"
         }
       },
-      "DSD:LK-9139": {
+      "DSD:kahawattha": {
         "HouseholdStructure:single_house_single_storeyed": {
           "Count": "Int:10774"
         },
@@ -7681,7 +7681,7 @@
           "Count": "Int:0"
         }
       },
-      "DSD:LK-7160": {
+      "DSD:ipalogama": {
         "HouseholdStructure:single_house_single_storeyed": {
           "Count": "Int:11726"
         },
@@ -7713,7 +7713,7 @@
           "Count": "Int:0"
         }
       },
-      "DSD:LK-8209": {
+      "DSD:medagama": {
         "HouseholdStructure:single_house_single_storeyed": {
           "Count": "Int:11774"
         },
@@ -7745,7 +7745,7 @@
           "Count": "Int:0"
         }
       },
-      "DSD:LK-4127": {
+      "DSD:vadamaradchi_north_point_pedro": {
         "HouseholdStructure:single_house_single_storeyed": {
           "Count": "Int:11731"
         },
@@ -7777,7 +7777,7 @@
           "Count": "Int:4"
         }
       },
-      "DSD:LK-2310": {
+      "DSD:nildandahinna": {
         "HouseholdStructure:single_house_single_storeyed": {
           "Count": "Int:10509"
         },
@@ -7809,7 +7809,7 @@
           "Count": "Int:2"
         }
       },
-      "DSD:LK-6151": {
+      "DSD:maspotha": {
         "HouseholdStructure:single_house_single_storeyed": {
           "Count": "Int:9948"
         },
@@ -7841,7 +7841,7 @@
           "Count": "Int:0"
         }
       },
-      "DSD:LK-5236": {
+      "DSD:akkaraipattu": {
         "HouseholdStructure:single_house_single_storeyed": {
           "Count": "Int:10585"
         },
@@ -7873,7 +7873,7 @@
           "Count": "Int:0"
         }
       },
-      "DSD:LK-4112": {
+      "DSD:valikamam_north_thllippalai": {
         "HouseholdStructure:single_house_single_storeyed": {
           "Count": "Int:11540"
         },
@@ -7905,7 +7905,7 @@
           "Count": "Int:13"
         }
       },
-      "DSD:LK-3227": {
+      "DSD:kaburupitiya": {
         "HouseholdStructure:single_house_single_storeyed": {
           "Count": "Int:10109"
         },
@@ -7937,7 +7937,7 @@
           "Count": "Int:2"
         }
       },
-      "DSD:LK-6139": {
+      "DSD:kobeigane": {
         "HouseholdStructure:single_house_single_storeyed": {
           "Count": "Int:11225"
         },
@@ -7969,7 +7969,7 @@
           "Count": "Int:0"
         }
       },
-      "DSD:LK-6149": {
+      "DSD:bamunakotuwa": {
         "HouseholdStructure:single_house_single_storeyed": {
           "Count": "Int:10660"
         },
@@ -8001,7 +8001,7 @@
           "Count": "Int:1"
         }
       },
-      "DSD:LK-4106": {
+      "DSD:valikamam_west_chankanai": {
         "HouseholdStructure:single_house_single_storeyed": {
           "Count": "Int:11282"
         },
@@ -8033,7 +8033,7 @@
           "Count": "Int:9"
         }
       },
-      "DSD:LK-4136": {
+      "DSD:jaffna": {
         "HouseholdStructure:single_house_single_storeyed": {
           "Count": "Int:9588"
         },
@@ -8065,7 +8065,7 @@
           "Count": "Int:6"
         }
       },
-      "DSD:LK-5242": {
+      "DSD:damana": {
         "HouseholdStructure:single_house_single_storeyed": {
           "Count": "Int:11165"
         },
@@ -8097,7 +8097,7 @@
           "Count": "Int:0"
         }
       },
-      "DSD:LK-5248": {
+      "DSD:pottuvil": {
         "HouseholdStructure:single_house_single_storeyed": {
           "Count": "Int:11089"
         },
@@ -8129,7 +8129,7 @@
           "Count": "Int:16"
         }
       },
-      "DSD:LK-7130": {
+      "DSD:mihinthale": {
         "HouseholdStructure:single_house_single_storeyed": {
           "Count": "Int:10378"
         },
@@ -8161,7 +8161,7 @@
           "Count": "Int:0"
         }
       },
-      "DSD:LK-7118": {
+      "DSD:rambewa": {
         "HouseholdStructure:single_house_single_storeyed": {
           "Count": "Int:11038"
         },
@@ -8193,7 +8193,7 @@
           "Count": "Int:0"
         }
       },
-      "DSD:LK-5133": {
+      "DSD:porativu_pattu": {
         "HouseholdStructure:single_house_single_storeyed": {
           "Count": "Int:10976"
         },
@@ -8225,7 +8225,7 @@
           "Count": "Int:8"
         }
       },
-      "DSD:LK-7163": {
+      "DSD:galnewa": {
         "HouseholdStructure:single_house_single_storeyed": {
           "Count": "Int:10942"
         },
@@ -8257,7 +8257,7 @@
           "Count": "Int:0"
         }
       },
-      "DSD:LK-7209": {
+      "DSD:lankapura": {
         "HouseholdStructure:single_house_single_storeyed": {
           "Count": "Int:10797"
         },
@@ -8289,7 +8289,7 @@
           "Count": "Int:0"
         }
       },
-      "DSD:LK-2302": {
+      "DSD:kothmale_west": {
         "HouseholdStructure:single_house_single_storeyed": {
           "Count": "Int:9306"
         },
@@ -8321,7 +8321,7 @@
           "Count": "Int:2"
         }
       },
-      "DSD:LK-4121": {
+      "DSD:vadamaradchchi_south_west_karaveddy": {
         "HouseholdStructure:single_house_single_storeyed": {
           "Count": "Int:10553"
         },
@@ -8353,7 +8353,7 @@
           "Count": "Int:3"
         }
       },
-      "DSD:LK-7124": {
+      "DSD:horowpathana": {
         "HouseholdStructure:single_house_single_storeyed": {
           "Count": "Int:10906"
         },
@@ -8385,7 +8385,7 @@
           "Count": "Int:1"
         }
       },
-      "DSD:LK-7166": {
+      "DSD:palagala": {
         "HouseholdStructure:single_house_single_storeyed": {
           "Count": "Int:10676"
         },
@@ -8417,7 +8417,7 @@
           "Count": "Int:0"
         }
       },
-      "DSD:LK-7210": {
+      "DSD:welikanda": {
         "HouseholdStructure:single_house_single_storeyed": {
           "Count": "Int:10784"
         },
@@ -8449,7 +8449,7 @@
           "Count": "Int:5"
         }
       },
-      "DSD:LK-8142": {
+      "DSD:haldummulla": {
         "HouseholdStructure:single_house_single_storeyed": {
           "Count": "Int:8929"
         },
@@ -8481,7 +8481,7 @@
           "Count": "Int:2"
         }
       },
-      "DSD:LK-5306": {
+      "DSD:kuchchaweli": {
         "HouseholdStructure:single_house_single_storeyed": {
           "Count": "Int:10552"
         },
@@ -8513,7 +8513,7 @@
           "Count": "Int:30"
         }
       },
-      "DSD:LK-9127": {
+      "DSD:elapatha": {
         "HouseholdStructure:single_house_single_storeyed": {
           "Count": "Int:9684"
         },
@@ -8545,7 +8545,7 @@
           "Count": "Int:0"
         }
       },
-      "DSD:LK-2103": {
+      "DSD:tumpane": {
         "HouseholdStructure:single_house_single_storeyed": {
           "Count": "Int:8963"
         },
@@ -8577,7 +8577,7 @@
           "Count": "Int:2"
         }
       },
-      "DSD:LK-3137": {
+      "DSD:rathgama": {
         "HouseholdStructure:single_house_single_storeyed": {
           "Count": "Int:9383"
         },
@@ -8609,7 +8609,7 @@
           "Count": "Int:0"
         }
       },
-      "DSD:LK-6166": {
+      "DSD:weerabugedara": {
         "HouseholdStructure:single_house_single_storeyed": {
           "Count": "Int:9717"
         },
@@ -8641,7 +8641,7 @@
           "Count": "Int:0"
         }
       },
-      "DSD:LK-7142": {
+      "DSD:rajanganaya": {
         "HouseholdStructure:single_house_single_storeyed": {
           "Count": "Int:10154"
         },
@@ -8673,7 +8673,7 @@
           "Count": "Int:2"
         }
       },
-      "DSD:LK-4409": {
+      "DSD:puthukkudiyiruppu": {
         "HouseholdStructure:single_house_single_storeyed": {
           "Count": "Int:10452"
         },
@@ -8705,7 +8705,7 @@
           "Count": "Int:33"
         }
       },
-      "DSD:LK-9145": {
+      "DSD:weligepola": {
         "HouseholdStructure:single_house_single_storeyed": {
           "Count": "Int:10175"
         },
@@ -8737,7 +8737,7 @@
           "Count": "Int:0"
         }
       },
-      "DSD:LK-1333": {
+      "DSD:agalawatta": {
         "HouseholdStructure:single_house_single_storeyed": {
           "Count": "Int:9095"
         },
@@ -8769,7 +8769,7 @@
           "Count": "Int:1"
         }
       },
-      "DSD:LK-6103": {
+      "DSD:giribawa": {
         "HouseholdStructure:single_house_single_storeyed": {
           "Count": "Int:10119"
         },
@@ -8801,7 +8801,7 @@
           "Count": "Int:2"
         }
       },
-      "DSD:LK-4415": {
+      "DSD:maritimepattu": {
         "HouseholdStructure:single_house_single_storeyed": {
           "Count": "Int:10151"
         },
@@ -8833,7 +8833,7 @@
           "Count": "Int:4"
         }
       },
-      "DSD:LK-3306": {
+      "DSD:lunugamwehera": {
         "HouseholdStructure:single_house_single_storeyed": {
           "Count": "Int:9893"
         },
@@ -8865,7 +8865,7 @@
           "Count": "Int:0"
         }
       },
-      "DSD:LK-1315": {
+      "DSD:madurawala": {
         "HouseholdStructure:single_house_single_storeyed": {
           "Count": "Int:8594"
         },
@@ -8897,7 +8897,7 @@
           "Count": "Int:1"
         }
       },
-      "DSD:LK-3115": {
+      "DSD:niyagama": {
         "HouseholdStructure:single_house_single_storeyed": {
           "Count": "Int:9485"
         },
@@ -8929,7 +8929,7 @@
           "Count": "Int:1"
         }
       },
-      "DSD:LK-8206": {
+      "DSD:madulla": {
         "HouseholdStructure:single_house_single_storeyed": {
           "Count": "Int:9866"
         },
@@ -8961,7 +8961,7 @@
           "Count": "Int:1"
         }
       },
-      "DSD:LK-5127": {
+      "DSD:manmunai_pattu": {
         "HouseholdStructure:single_house_single_storeyed": {
           "Count": "Int:9715"
         },
@@ -8993,7 +8993,7 @@
           "Count": "Int:9"
         }
       },
-      "DSD:LK-3224": {
+      "DSD:malimbada": {
         "HouseholdStructure:single_house_single_storeyed": {
           "Count": "Int:8645"
         },
@@ -9025,7 +9025,7 @@
           "Count": "Int:1"
         }
       },
-      "DSD:LK-2227": {
+      "DSD:wilgamuwa": {
         "HouseholdStructure:single_house_single_storeyed": {
           "Count": "Int:9576"
         },
@@ -9057,7 +9057,7 @@
           "Count": "Int:0"
         }
       },
-      "DSD:LK-3236": {
+      "DSD:thihagoda": {
         "HouseholdStructure:single_house_single_storeyed": {
           "Count": "Int:7978"
         },
@@ -9089,7 +9089,7 @@
           "Count": "Int:3"
         }
       },
-      "DSD:LK-5121": {
+      "DSD:manmunai_west": {
         "HouseholdStructure:single_house_single_storeyed": {
           "Count": "Int:9541"
         },
@@ -9121,7 +9121,7 @@
           "Count": "Int:0"
         }
       },
-      "DSD:LK-9109": {
+      "DSD:kiriella": {
         "HouseholdStructure:single_house_single_storeyed": {
           "Count": "Int:8728"
         },
@@ -9153,7 +9153,7 @@
           "Count": "Int:0"
         }
       },
-      "DSD:LK-3118": {
+      "DSD:thawalama": {
         "HouseholdStructure:single_house_single_storeyed": {
           "Count": "Int:8623"
         },
@@ -9185,7 +9185,7 @@
           "Count": "Int:0"
         }
       },
-      "DSD:LK-8230": {
+      "DSD:thanamalwila": {
         "HouseholdStructure:single_house_single_storeyed": {
           "Count": "Int:9188"
         },
@@ -9217,7 +9217,7 @@
           "Count": "Int:0"
         }
       },
-      "DSD:LK-6148": {
+      "DSD:panduwasnuwara_east": {
         "HouseholdStructure:single_house_single_storeyed": {
           "Count": "Int:8971"
         },
@@ -9249,7 +9249,7 @@
           "Count": "Int:0"
         }
       },
-      "DSD:LK-2307": {
+      "DSD:mathurata": {
         "HouseholdStructure:single_house_single_storeyed": {
           "Count": "Int:7901"
         },
@@ -9281,7 +9281,7 @@
           "Count": "Int:0"
         }
       },
-      "DSD:LK-5318": {
+      "DSD:thambalagamuwa": {
         "HouseholdStructure:single_house_single_storeyed": {
           "Count": "Int:9088"
         },
@@ -9313,7 +9313,7 @@
           "Count": "Int:0"
         }
       },
-      "DSD:LK-3135": {
+      "DSD:madampagama": {
         "HouseholdStructure:single_house_single_storeyed": {
           "Count": "Int:8058"
         },
@@ -9345,7 +9345,7 @@
           "Count": "Int:0"
         }
       },
-      "DSD:LK-3230": {
+      "DSD:hakmana": {
         "HouseholdStructure:single_house_single_storeyed": {
           "Count": "Int:7942"
         },
@@ -9377,7 +9377,7 @@
           "Count": "Int:0"
         }
       },
-      "DSD:LK-2212": {
+      "DSD:pallepola": {
         "HouseholdStructure:single_house_single_storeyed": {
           "Count": "Int:8169"
         },
@@ -9409,7 +9409,7 @@
           "Count": "Int:0"
         }
       },
-      "DSD:LK-3215": {
+      "DSD:athuraliya": {
         "HouseholdStructure:single_house_single_storeyed": {
           "Count": "Int:7913"
         },
@@ -9441,7 +9441,7 @@
           "Count": "Int:0"
         }
       },
-      "DSD:LK-7151": {
+      "DSD:thirappane": {
         "HouseholdStructure:single_house_single_storeyed": {
           "Count": "Int:8494"
         },
@@ -9473,7 +9473,7 @@
           "Count": "Int:0"
         }
       },
-      "DSD:LK-2215": {
+      "DSD:yatawatta": {
         "HouseholdStructure:single_house_single_storeyed": {
           "Count": "Int:7900"
         },
@@ -9505,7 +9505,7 @@
           "Count": "Int:0"
         }
       },
-      "DSD:LK-8119": {
+      "DSD:lunugala": {
         "HouseholdStructure:single_house_single_storeyed": {
           "Count": "Int:5906"
         },
@@ -9537,7 +9537,7 @@
           "Count": "Int:1"
         }
       },
-      "DSD:LK-9130": {
+      "DSD:ayagama": {
         "HouseholdStructure:single_house_single_storeyed": {
           "Count": "Int:7921"
         },
@@ -9569,7 +9569,7 @@
           "Count": "Int:0"
         }
       },
-      "DSD:LK-2209": {
+      "DSD:naula": {
         "HouseholdStructure:single_house_single_storeyed": {
           "Count": "Int:8113"
         },
@@ -9601,7 +9601,7 @@
           "Count": "Int:0"
         }
       },
-      "DSD:LK-5230": {
+      "DSD:nintavur": {
         "HouseholdStructure:single_house_single_storeyed": {
           "Count": "Int:7698"
         },
@@ -9633,7 +9633,7 @@
           "Count": "Int:0"
         }
       },
-      "DSD:LK-2148": {
+      "DSD:deltota": {
         "HouseholdStructure:single_house_single_storeyed": {
           "Count": "Int:6798"
         },
@@ -9665,7 +9665,7 @@
           "Count": "Int:1"
         }
       },
-      "DSD:LK-5221": {
+      "DSD:kalmunai_north": {
         "HouseholdStructure:single_house_single_storeyed": {
           "Count": "Int:7072"
         },
@@ -9697,7 +9697,7 @@
           "Count": "Int:1"
         }
       },
-      "DSD:LK-2134": {
+      "DSD:hatharaliyadda": {
         "HouseholdStructure:single_house_single_storeyed": {
           "Count": "Int:7631"
         },
@@ -9729,7 +9729,7 @@
           "Count": "Int:0"
         }
       },
-      "DSD:LK-3130": {
+      "DSD:welivitiya_divitura": {
         "HouseholdStructure:single_house_single_storeyed": {
           "Count": "Int:7530"
         },
@@ -9761,7 +9761,7 @@
           "Count": "Int:0"
         }
       },
-      "DSD:LK-5110": {
+      "DSD:koralai_pattu_south": {
         "HouseholdStructure:single_house_single_storeyed": {
           "Count": "Int:8372"
         },
@@ -9793,7 +9793,7 @@
           "Count": "Int:0"
         }
       },
-      "DSD:LK-5104": {
+      "DSD:koralai_pattu_central": {
         "HouseholdStructure:single_house_single_storeyed": {
           "Count": "Int:7976"
         },
@@ -9825,7 +9825,7 @@
           "Count": "Int:11"
         }
       },
-      "DSD:LK-3121": {
+      "DSD:neluwa": {
         "HouseholdStructure:single_house_single_storeyed": {
           "Count": "Int:7636"
         },
@@ -9857,7 +9857,7 @@
           "Count": "Int:0"
         }
       },
-      "DSD:LK-5245": {
+      "DSD:tirukkovil": {
         "HouseholdStructure:single_house_single_storeyed": {
           "Count": "Int:8012"
         },
@@ -9889,7 +9889,7 @@
           "Count": "Int:38"
         }
       },
-      "DSD:LK-5109": {
+      "DSD:koralai_pattu": {
         "HouseholdStructure:single_house_single_storeyed": {
           "Count": "Int:8035"
         },
@@ -9921,7 +9921,7 @@
           "Count": "Int:13"
         }
       },
-      "DSD:LK-6227": {
+      "DSD:pallama": {
         "HouseholdStructure:single_house_single_storeyed": {
           "Count": "Int:8102"
         },
@@ -9953,7 +9953,7 @@
           "Count": "Int:2"
         }
       },
-      "DSD:LK-6109": {
+      "DSD:ehetuwewa": {
         "HouseholdStructure:single_house_single_storeyed": {
           "Count": "Int:7896"
         },
@@ -9985,7 +9985,7 @@
           "Count": "Int:0"
         }
       },
-      "DSD:LK-7136": {
+      "DSD:nachchaduwa": {
         "HouseholdStructure:single_house_single_storeyed": {
           "Count": "Int:7574"
         },
@@ -10017,7 +10017,7 @@
           "Count": "Int:1"
         }
       },
-      "DSD:LK-9121": {
+      "DSD:opanayake": {
         "HouseholdStructure:single_house_single_storeyed": {
           "Count": "Int:7379"
         },
@@ -10049,7 +10049,7 @@
           "Count": "Int:0"
         }
       },
-      "DSD:LK-6209": {
+      "DSD:karuwalagaswewa": {
         "HouseholdStructure:single_house_single_storeyed": {
           "Count": "Int:7788"
         },
@@ -10081,7 +10081,7 @@
           "Count": "Int:0"
         }
       },
-      "DSD:LK-3128": {
+      "DSD:wanduramba": {
         "HouseholdStructure:single_house_single_storeyed": {
           "Count": "Int:7029"
         },
@@ -10113,7 +10113,7 @@
           "Count": "Int:0"
         }
       },
-      "DSD:LK-5225": {
+      "DSD:sainthamaruthu": {
         "HouseholdStructure:single_house_single_storeyed": {
           "Count": "Int:5366"
         },
@@ -10145,7 +10145,7 @@
           "Count": "Int:1"
         }
       },
-      "DSD:LK-5103": {
+      "DSD:koralai_pattu_north": {
         "HouseholdStructure:single_house_single_storeyed": {
           "Count": "Int:7280"
         },
@@ -10177,7 +10177,7 @@
           "Count": "Int:92"
         }
       },
-      "DSD:LK-5130": {
+      "DSD:manmunai_south_west": {
         "HouseholdStructure:single_house_single_storeyed": {
           "Count": "Int:7507"
         },
@@ -10209,7 +10209,7 @@
           "Count": "Int:18"
         }
       },
-      "DSD:LK-6112": {
+      "DSD:ambanpola": {
         "HouseholdStructure:single_house_single_storeyed": {
           "Count": "Int:7330"
         },
@@ -10241,7 +10241,7 @@
           "Count": "Int:0"
         }
       },
-      "DSD:LK-7106": {
+      "DSD:kebithigollewa": {
         "HouseholdStructure:single_house_single_storeyed": {
           "Count": "Int:7487"
         },
@@ -10273,7 +10273,7 @@
           "Count": "Int:0"
         }
       },
-      "DSD:LK-8112": {
+      "DSD:kandeketiya": {
         "HouseholdStructure:single_house_single_storeyed": {
           "Count": "Int:6869"
         },
@@ -10305,7 +10305,7 @@
           "Count": "Int:0"
         }
       },
-      "DSD:LK-3136": {
+      "DSD:hikkaduwa": {
         "HouseholdStructure:single_house_single_storeyed": {
           "Count": "Int:5786"
         },
@@ -10337,7 +10337,7 @@
           "Count": "Int:0"
         }
       },
-      "DSD:LK-2115": {
+      "DSD:panvila": {
         "HouseholdStructure:single_house_single_storeyed": {
           "Count": "Int:4758"
         },
@@ -10369,7 +10369,7 @@
           "Count": "Int:0"
         }
       },
-      "DSD:LK-5106": {
+      "DSD:koralai_pattu_west": {
         "HouseholdStructure:single_house_single_storeyed": {
           "Count": "Int:6658"
         },
@@ -10401,7 +10401,7 @@
           "Count": "Int:1"
         }
       },
-      "DSD:LK-6118": {
+      "DSD:rasnayakapura": {
         "HouseholdStructure:single_house_single_storeyed": {
           "Count": "Int:7032"
         },
@@ -10433,7 +10433,7 @@
           "Count": "Int:0"
         }
       },
-      "DSD:LK-5115": {
+      "DSD:eravur_town": {
         "HouseholdStructure:single_house_single_storeyed": {
           "Count": "Int:6338"
         },
@@ -10465,7 +10465,7 @@
           "Count": "Int:6"
         }
       },
-      "DSD:LK-7103": {
+      "DSD:padaviya": {
         "HouseholdStructure:single_house_single_storeyed": {
           "Count": "Int:7025"
         },
@@ -10497,7 +10497,7 @@
           "Count": "Int:0"
         }
       },
-      "DSD:LK-7112": {
+      "DSD:mahawilachchiya": {
         "HouseholdStructure:single_house_single_storeyed": {
           "Count": "Int:6935"
         },
@@ -10529,7 +10529,7 @@
           "Count": "Int:0"
         }
       },
-      "DSD:LK-4312": {
+      "DSD:vengalacheddikulam": {
         "HouseholdStructure:single_house_single_storeyed": {
           "Count": "Int:6965"
         },
@@ -10561,7 +10561,7 @@
           "Count": "Int:0"
         }
       },
-      "DSD:LK-5239": {
+      "DSD:alayadivembu": {
         "HouseholdStructure:single_house_single_storeyed": {
           "Count": "Int:6711"
         },
@@ -10593,7 +10593,7 @@
           "Count": "Int:0"
         }
       },
-      "DSD:LK-5209": {
+      "DSD:mahaoya": {
         "HouseholdStructure:single_house_single_storeyed": {
           "Count": "Int:6854"
         },
@@ -10625,7 +10625,7 @@
           "Count": "Int:0"
         }
       },
-      "DSD:LK-6115": {
+      "DSD:kotawehera": {
         "HouseholdStructure:single_house_single_storeyed": {
           "Count": "Int:6749"
         },
@@ -10657,7 +10657,7 @@
           "Count": "Int:0"
         }
       },
-      "DSD:LK-4506": {
+      "DSD:kandavalai": {
         "HouseholdStructure:single_house_single_storeyed": {
           "Count": "Int:6785"
         },
@@ -10689,7 +10689,7 @@
           "Count": "Int:0"
         }
       },
-      "DSD:LK-8115": {
+      "DSD:soranathota": {
         "HouseholdStructure:single_house_single_storeyed": {
           "Count": "Int:6023"
         },
@@ -10721,7 +10721,7 @@
           "Count": "Int:0"
         }
       },
-      "DSD:LK-3134": {
+      "DSD:gonapinuwala": {
         "HouseholdStructure:single_house_single_storeyed": {
           "Count": "Int:5692"
         },
@@ -10753,7 +10753,7 @@
           "Count": "Int:0"
         }
       },
-      "DSD:LK-2118": {
+      "DSD:ududumbara": {
         "HouseholdStructure:single_house_single_storeyed": {
           "Count": "Int:6196"
         },
@@ -10785,7 +10785,7 @@
           "Count": "Int:0"
         }
       },
-      "DSD:LK-6221": {
+      "DSD:mahakumbukkadawala": {
         "HouseholdStructure:single_house_single_storeyed": {
           "Count": "Int:6484"
         },
@@ -10817,7 +10817,7 @@
           "Count": "Int:6"
         }
       },
-      "DSD:LK-8109": {
+      "DSD:meegahakiula": {
         "HouseholdStructure:single_house_single_storeyed": {
           "Count": "Int:5868"
         },
@@ -10849,7 +10849,7 @@
           "Count": "Int:0"
         }
       },
-      "DSD:LK-4512": {
+      "DSD:poonakary": {
         "HouseholdStructure:single_house_single_storeyed": {
           "Count": "Int:6227"
         },
@@ -10881,7 +10881,7 @@
           "Count": "Int:2"
         }
       },
-      "DSD:LK-5216": {
+      "DSD:navithanveli": {
         "HouseholdStructure:single_house_single_storeyed": {
           "Count": "Int:6075"
         },
@@ -10913,7 +10913,7 @@
           "Count": "Int:1"
         }
       },
-      "DSD:LK-5206": {
+      "DSD:padiyathalawa": {
         "HouseholdStructure:single_house_single_storeyed": {
           "Count": "Int:6145"
         },
@@ -10945,7 +10945,7 @@
           "Count": "Int:1"
         }
       },
-      "DSD:LK-6206": {
+      "DSD:vanathavilluwa": {
         "HouseholdStructure:single_house_single_storeyed": {
           "Count": "Int:5755"
         },
@@ -10977,7 +10977,7 @@
           "Count": "Int:2"
         }
       },
-      "DSD:LK-3233": {
+      "DSD:kirinda_puhulwella": {
         "HouseholdStructure:single_house_single_storeyed": {
           "Count": "Int:5136"
         },
@@ -11009,7 +11009,7 @@
           "Count": "Int:0"
         }
       },
-      "DSD:LK-3327": {
+      "DSD:okewela": {
         "HouseholdStructure:single_house_single_storeyed": {
           "Count": "Int:4998"
         },
@@ -11041,7 +11041,7 @@
           "Count": "Int:0"
         }
       },
-      "DSD:LK-4212": {
+      "DSD:nanaddan": {
         "HouseholdStructure:single_house_single_storeyed": {
           "Count": "Int:5094"
         },
@@ -11073,7 +11073,7 @@
           "Count": "Int:11"
         }
       },
-      "DSD:LK-8227": {
+      "DSD:katharagama": {
         "HouseholdStructure:single_house_single_storeyed": {
           "Count": "Int:4950"
         },
@@ -11105,7 +11105,7 @@
           "Count": "Int:1"
         }
       },
-      "DSD:LK-6212": {
+      "DSD:nawagattegama": {
         "HouseholdStructure:single_house_single_storeyed": {
           "Count": "Int:5140"
         },
@@ -11137,7 +11137,7 @@
           "Count": "Int:0"
         }
       },
-      "DSD:LK-5227": {
+      "DSD:karaitivu": {
         "HouseholdStructure:single_house_single_storeyed": {
           "Count": "Int:4473"
         },
@@ -11169,7 +11169,7 @@
           "Count": "Int:6"
         }
       },
-      "DSD:LK-7157": {
+      "DSD:palugaswewa": {
         "HouseholdStructure:single_house_single_storeyed": {
           "Count": "Int:4917"
         },
@@ -11201,7 +11201,7 @@
           "Count": "Int:0"
         }
       },
-      "DSD:LK-4412": {
+      "DSD:oddusuddan": {
         "HouseholdStructure:single_house_single_storeyed": {
           "Count": "Int:5018"
         },
@@ -11233,7 +11233,7 @@
           "Count": "Int:2"
         }
       },
-      "DSD:LK-4206": {
+      "DSD:manthai_west": {
         "HouseholdStructure:single_house_single_storeyed": {
           "Count": "Int:4987"
         },
@@ -11265,7 +11265,7 @@
           "Count": "Int:0"
         }
       },
-      "DSD:LK-2224": {
+      "DSD:laggala": {
         "HouseholdStructure:single_house_single_storeyed": {
           "Count": "Int:4656"
         },
@@ -11297,7 +11297,7 @@
           "Count": "Int:1"
         }
       },
-      "DSD:LK-2221": {
+      "DSD:ambanganga": {
         "HouseholdStructure:single_house_single_storeyed": {
           "Count": "Int:4125"
         },
@@ -11329,7 +11329,7 @@
           "Count": "Int:0"
         }
       },
-      "DSD:LK-5330": {
+      "DSD:seruvila": {
         "HouseholdStructure:single_house_single_storeyed": {
           "Count": "Int:4527"
         },
@@ -11361,7 +11361,7 @@
           "Count": "Int:0"
         }
       },
-      "DSD:LK-5234": {
+      "DSD:irakkamam": {
         "HouseholdStructure:single_house_single_storeyed": {
           "Count": "Int:4487"
         },
@@ -11393,7 +11393,7 @@
           "Count": "Int:0"
         }
       },
-      "DSD:LK-4306": {
+      "DSD:vavuniya_south": {
         "HouseholdStructure:single_house_single_storeyed": {
           "Count": "Int:4380"
         },
@@ -11425,7 +11425,7 @@
           "Count": "Int:1"
         }
       },
-      "DSD:LK-4139": {
+      "DSD:islands_south_velanai": {
         "HouseholdStructure:single_house_single_storeyed": {
           "Count": "Int:4328"
         },
@@ -11457,7 +11457,7 @@
           "Count": "Int:0"
         }
       },
-      "DSD:LK-4215": {
+      "DSD:musali": {
         "HouseholdStructure:single_house_single_storeyed": {
           "Count": "Int:4249"
         },
@@ -11489,7 +11489,7 @@
           "Count": "Int:0"
         }
       },
-      "DSD:LK-4303": {
+      "DSD:vavuniya_north": {
         "HouseholdStructure:single_house_single_storeyed": {
           "Count": "Int:4240"
         },
@@ -11521,7 +11521,7 @@
           "Count": "Int:0"
         }
       },
-      "DSD:LK-9119": {
+      "DSD:kalthota": {
         "HouseholdStructure:single_house_single_storeyed": {
           "Count": "Int:3911"
         },
@@ -11553,7 +11553,7 @@
           "Count": "Int:0"
         }
       },
-      "DSD:LK-4124": {
+      "DSD:vadamaradchchi_east": {
         "HouseholdStructure:single_house_single_storeyed": {
           "Count": "Int:3880"
         },
@@ -11585,7 +11585,7 @@
           "Count": "Int:12"
         }
       },
-      "DSD:LK-5333": {
+      "DSD:verugal": {
         "HouseholdStructure:single_house_single_storeyed": {
           "Count": "Int:3899"
         },
@@ -11617,7 +11617,7 @@
           "Count": "Int:4"
         }
       },
-      "DSD:LK-4503": {
+      "DSD:pachchilaipalli": {
         "HouseholdStructure:single_house_single_storeyed": {
           "Count": "Int:3786"
         },
@@ -11649,7 +11649,7 @@
           "Count": "Int:2"
         }
       },
-      "DSD:LK-5303": {
+      "DSD:padavi_sri_pura": {
         "HouseholdStructure:single_house_single_storeyed": {
           "Count": "Int:3357"
         },
@@ -11681,7 +11681,7 @@
           "Count": "Int:1"
         }
       },
-      "DSD:LK-4418": {
+      "DSD:welioya": {
         "HouseholdStructure:single_house_single_storeyed": {
           "Count": "Int:3166"
         },
@@ -11713,7 +11713,7 @@
           "Count": "Int:0"
         }
       },
-      "DSD:LK-5251": {
+      "DSD:lahugala": {
         "HouseholdStructure:single_house_single_storeyed": {
           "Count": "Int:2817"
         },
@@ -11745,7 +11745,7 @@
           "Count": "Int:0"
         }
       },
-      "DSD:LK-4403": {
+      "DSD:thunukkai": {
         "HouseholdStructure:single_house_single_storeyed": {
           "Count": "Int:2788"
         },
@@ -11777,7 +11777,7 @@
           "Count": "Int:1"
         }
       },
-      "DSD:LK-4209": {
+      "DSD:madhu": {
         "HouseholdStructure:single_house_single_storeyed": {
           "Count": "Int:2671"
         },
@@ -11809,7 +11809,7 @@
           "Count": "Int:0"
         }
       },
-      "DSD:LK-5312": {
+      "DSD:morawewa": {
         "HouseholdStructure:single_house_single_storeyed": {
           "Count": "Int:2659"
         },
@@ -11841,7 +11841,7 @@
           "Count": "Int:1"
         }
       },
-      "DSD:LK-4103": {
+      "DSD:islands_north_kayts": {
         "HouseholdStructure:single_house_single_storeyed": {
           "Count": "Int:2602"
         },
@@ -11873,7 +11873,7 @@
           "Count": "Int:0"
         }
       },
-      "DSD:LK-4104": {
+      "DSD:karainagar": {
         "HouseholdStructure:single_house_single_storeyed": {
           "Count": "Int:2608"
         },
@@ -11905,7 +11905,7 @@
           "Count": "Int:1"
         }
       },
-      "DSD:LK-5309": {
+      "DSD:gomarankadawala": {
         "HouseholdStructure:single_house_single_storeyed": {
           "Count": "Int:2406"
         },
@@ -11937,7 +11937,7 @@
           "Count": "Int:2"
         }
       },
-      "DSD:LK-4406": {
+      "DSD:manthai_east": {
         "HouseholdStructure:single_house_single_storeyed": {
           "Count": "Int:2154"
         },
@@ -11969,7 +11969,7 @@
           "Count": "Int:0"
         }
       },
-      "DSD:LK-4142": {
+      "DSD:delft": {
         "HouseholdStructure:single_house_single_storeyed": {
           "Count": "Int:884"
         },
@@ -12001,7 +12001,7 @@
           "Count": "Int:0"
         }
       },
-      "ED:EC-02": {
+      "ED:gampaha": {
         "HouseholdStructure:single_house_single_storeyed": {
           "Count": "Int:534645"
         },
@@ -12033,7 +12033,7 @@
           "Count": "Int:58"
         }
       },
-      "ED:EC-01": {
+      "ED:colombo": {
         "HouseholdStructure:single_house_single_storeyed": {
           "Count": "Int:355982"
         },
@@ -12065,7 +12065,7 @@
           "Count": "Int:167"
         }
       },
-      "ED:EC-15": {
+      "ED:kurunegala": {
         "HouseholdStructure:single_house_single_storeyed": {
           "Count": "Int:463412"
         },
@@ -12097,7 +12097,7 @@
           "Count": "Int:38"
         }
       },
-      "ED:EC-04": {
+      "ED:kandy": {
         "HouseholdStructure:single_house_single_storeyed": {
           "Count": "Int:291819"
         },
@@ -12129,7 +12129,7 @@
           "Count": "Int:31"
         }
       },
-      "ED:EC-03": {
+      "ED:kalutara": {
         "HouseholdStructure:single_house_single_storeyed": {
           "Count": "Int:286667"
         },
@@ -12161,7 +12161,7 @@
           "Count": "Int:45"
         }
       },
-      "ED:EC-21": {
+      "ED:ratnapura": {
         "HouseholdStructure:single_house_single_storeyed": {
           "Count": "Int:285973"
         },
@@ -12193,7 +12193,7 @@
           "Count": "Int:16"
         }
       },
-      "ED:EC-07": {
+      "ED:galle": {
         "HouseholdStructure:single_house_single_storeyed": {
           "Count": "Int:254574"
         },
@@ -12225,7 +12225,7 @@
           "Count": "Int:20"
         }
       },
-      "ED:EC-17": {
+      "ED:anuradhapura": {
         "HouseholdStructure:single_house_single_storeyed": {
           "Count": "Int:254764"
         },
@@ -12257,7 +12257,7 @@
           "Count": "Int:17"
         }
       },
-      "ED:EC-22": {
+      "ED:kegalle": {
         "HouseholdStructure:single_house_single_storeyed": {
           "Count": "Int:201784"
         },
@@ -12289,7 +12289,7 @@
           "Count": "Int:26"
         }
       },
-      "ED:EC-19": {
+      "ED:badulla": {
         "HouseholdStructure:single_house_single_storeyed": {
           "Count": "Int:195196"
         },
@@ -12321,7 +12321,7 @@
           "Count": "Int:17"
         }
       },
-      "ED:EC-16": {
+      "ED:puttalam": {
         "HouseholdStructure:single_house_single_storeyed": {
           "Count": "Int:218131"
         },
@@ -12353,7 +12353,7 @@
           "Count": "Int:72"
         }
       },
-      "ED:EC-08": {
+      "ED:matara": {
         "HouseholdStructure:single_house_single_storeyed": {
           "Count": "Int:190760"
         },
@@ -12385,7 +12385,7 @@
           "Count": "Int:15"
         }
       },
-      "ED:EC-13": {
+      "ED:digamadulla": {
         "HouseholdStructure:single_house_single_storeyed": {
           "Count": "Int:184418"
         },
@@ -12417,7 +12417,7 @@
           "Count": "Int:83"
         }
       },
-      "ED:EC-10": {
+      "ED:jaffna": {
         "HouseholdStructure:single_house_single_storeyed": {
           "Count": "Int:182944"
         },
@@ -12449,7 +12449,7 @@
           "Count": "Int:120"
         }
       },
-      "ED:EC-06": {
+      "ED:nuwara_eliya": {
         "HouseholdStructure:single_house_single_storeyed": {
           "Count": "Int:119904"
         },
@@ -12481,7 +12481,7 @@
           "Count": "Int:47"
         }
       },
-      "ED:EC-09": {
+      "ED:hambantota": {
         "HouseholdStructure:single_house_single_storeyed": {
           "Count": "Int:170180"
         },
@@ -12513,7 +12513,7 @@
           "Count": "Int:7"
         }
       },
-      "ED:EC-12": {
+      "ED:batticaloa": {
         "HouseholdStructure:single_house_single_storeyed": {
           "Count": "Int:153630"
         },
@@ -12545,7 +12545,7 @@
           "Count": "Int:223"
         }
       },
-      "ED:EC-20": {
+      "ED:moneragala": {
         "HouseholdStructure:single_house_single_storeyed": {
           "Count": "Int:142586"
         },
@@ -12577,7 +12577,7 @@
           "Count": "Int:14"
         }
       },
-      "ED:EC-05": {
+      "ED:matale": {
         "HouseholdStructure:single_house_single_storeyed": {
           "Count": "Int:128108"
         },
@@ -12609,7 +12609,7 @@
           "Count": "Int:12"
         }
       },
-      "ED:EC-18": {
+      "ED:polonnaruwa": {
         "HouseholdStructure:single_house_single_storeyed": {
           "Count": "Int:118981"
         },
@@ -12641,7 +12641,7 @@
           "Count": "Int:8"
         }
       },
-      "ED:EC-14": {
+      "ED:trincomalee": {
         "HouseholdStructure:single_house_single_storeyed": {
           "Count": "Int:113267"
         },
@@ -12673,7 +12673,7 @@
           "Count": "Int:112"
         }
       },
-      "ED:EC-11": {
+      "ED:vanni": {
         "HouseholdStructure:single_house_single_storeyed": {
           "Count": "Int:109368"
         },
@@ -12705,7 +12705,7 @@
           "Count": "Int:63"
         }
       },
-      "PD:EC-06A": {
+      "PD:nuwara_eliya_maskeliya": {
         "HouseholdStructure:single_house_single_storeyed": {
           "Count": "Int:54740"
         },
@@ -12737,7 +12737,7 @@
           "Count": "Int:35"
         }
       },
-      "PD:EC-01J": {
+      "PD:kaduwela": {
         "HouseholdStructure:single_house_single_storeyed": {
           "Count": "Int:47189"
         },
@@ -12769,7 +12769,7 @@
           "Count": "Int:3"
         }
       },
-      "PD:EC-01L": {
+      "PD:homagama": {
         "HouseholdStructure:single_house_single_storeyed": {
           "Count": "Int:55581"
         },
@@ -12801,7 +12801,7 @@
           "Count": "Int:29"
         }
       },
-      "PD:EC-12B": {
+      "PD:batticaloa": {
         "HouseholdStructure:single_house_single_storeyed": {
           "Count": "Int:71224"
         },
@@ -12833,7 +12833,7 @@
           "Count": "Int:64"
         }
       },
-      "PD:EC-01N": {
+      "PD:kesbewa": {
         "HouseholdStructure:single_house_single_storeyed": {
           "Count": "Int:44894"
         },
@@ -12865,7 +12865,7 @@
           "Count": "Int:7"
         }
       },
-      "PD:EC-02C": {
+      "PD:katana": {
         "HouseholdStructure:single_house_single_storeyed": {
           "Count": "Int:57804"
         },
@@ -12897,7 +12897,7 @@
           "Count": "Int:3"
         }
       },
-      "PD:EC-09D": {
+      "PD:thissamaharama": {
         "HouseholdStructure:single_house_single_storeyed": {
           "Count": "Int:63877"
         },
@@ -12929,7 +12929,7 @@
           "Count": "Int:2"
         }
       },
-      "PD:EC-13A": {
+      "PD:ampara": {
         "HouseholdStructure:single_house_single_storeyed": {
           "Count": "Int:65111"
         },
@@ -12961,7 +12961,7 @@
           "Count": "Int:4"
         }
       },
-      "PD:EC-13D": {
+      "PD:pothuvil": {
         "HouseholdStructure:single_house_single_storeyed": {
           "Count": "Int:63249"
         },
@@ -12993,7 +12993,7 @@
           "Count": "Int:72"
         }
       },
-      "PD:EC-20C": {
+      "PD:wellawaya": {
         "HouseholdStructure:single_house_single_storeyed": {
           "Count": "Int:63969"
         },
@@ -13025,7 +13025,7 @@
           "Count": "Int:8"
         }
       },
-      "PD:EC-16A": {
+      "PD:puttalam": {
         "HouseholdStructure:single_house_single_storeyed": {
           "Count": "Int:62509"
         },
@@ -13057,7 +13057,7 @@
           "Count": "Int:26"
         }
       },
-      "PD:EC-02J": {
+      "PD:mahara": {
         "HouseholdStructure:single_house_single_storeyed": {
           "Count": "Int:45637"
         },
@@ -13089,7 +13089,7 @@
           "Count": "Int:4"
         }
       },
-      "PD:EC-21H": {
+      "PD:kolonna": {
         "HouseholdStructure:single_house_single_storeyed": {
           "Count": "Int:55010"
         },
@@ -13121,7 +13121,7 @@
           "Count": "Int:0"
         }
       },
-      "PD:EC-18C": {
+      "PD:polonnaruwa": {
         "HouseholdStructure:single_house_single_storeyed": {
           "Count": "Int:56813"
         },
@@ -13153,7 +13153,7 @@
           "Count": "Int:5"
         }
       },
-      "PD:EC-02L": {
+      "PD:biyagama": {
         "HouseholdStructure:single_house_single_storeyed": {
           "Count": "Int:40924"
         },
@@ -13185,7 +13185,7 @@
           "Count": "Int:4"
         }
       },
-      "PD:EC-02H": {
+      "PD:gampaha": {
         "HouseholdStructure:single_house_single_storeyed": {
           "Count": "Int:42694"
         },
@@ -13217,7 +13217,7 @@
           "Count": "Int:3"
         }
       },
-      "PD:EC-02I": {
+      "PD:ja_ela": {
         "HouseholdStructure:single_house_single_storeyed": {
           "Count": "Int:43283"
         },
@@ -13249,7 +13249,7 @@
           "Count": "Int:3"
         }
       },
-      "PD:EC-04B": {
+      "PD:harispattuwa": {
         "HouseholdStructure:single_house_single_storeyed": {
           "Count": "Int:40829"
         },
@@ -13281,7 +13281,7 @@
           "Count": "Int:9"
         }
       },
-      "PD:EC-01M": {
+      "PD:maharagama": {
         "HouseholdStructure:single_house_single_storeyed": {
           "Count": "Int:27298"
         },
@@ -13313,7 +13313,7 @@
           "Count": "Int:9"
         }
       },
-      "PD:EC-02F": {
+      "PD:minuwangoda": {
         "HouseholdStructure:single_house_single_storeyed": {
           "Count": "Int:47809"
         },
@@ -13345,7 +13345,7 @@
           "Count": "Int:4"
         }
       },
-      "PD:EC-01H": {
+      "PD:kolonnawa": {
         "HouseholdStructure:single_house_single_storeyed": {
           "Count": "Int:28973"
         },
@@ -13377,7 +13377,7 @@
           "Count": "Int:64"
         }
       },
-      "PD:EC-03B": {
+      "PD:bandaragama": {
         "HouseholdStructure:single_house_single_storeyed": {
           "Count": "Int:46281"
         },
@@ -13409,7 +13409,7 @@
           "Count": "Int:7"
         }
       },
-      "PD:EC-01K": {
+      "PD:avissawella": {
         "HouseholdStructure:single_house_single_storeyed": {
           "Count": "Int:45210"
         },
@@ -13441,7 +13441,7 @@
           "Count": "Int:6"
         }
       },
-      "PD:EC-05A": {
+      "PD:dambulla": {
         "HouseholdStructure:single_house_single_storeyed": {
           "Count": "Int:49847"
         },
@@ -13473,7 +13473,7 @@
           "Count": "Int:2"
         }
       },
-      "PD:EC-02G": {
+      "PD:attanagalla": {
         "HouseholdStructure:single_house_single_storeyed": {
           "Count": "Int:44352"
         },
@@ -13505,7 +13505,7 @@
           "Count": "Int:2"
         }
       },
-      "PD:EC-03C": {
+      "PD:horana": {
         "HouseholdStructure:single_house_single_storeyed": {
           "Count": "Int:45158"
         },
@@ -13537,7 +13537,7 @@
           "Count": "Int:5"
         }
       },
-      "PD:EC-12A": {
+      "PD:kalkudah": {
         "HouseholdStructure:single_house_single_storeyed": {
           "Count": "Int:48653"
         },
@@ -13569,7 +13569,7 @@
           "Count": "Int:119"
         }
       },
-      "PD:EC-17E": {
+      "PD:kalawewa": {
         "HouseholdStructure:single_house_single_storeyed": {
           "Count": "Int:47392"
         },
@@ -13601,7 +13601,7 @@
           "Count": "Int:4"
         }
       },
-      "PD:EC-02E": {
+      "PD:mirigama": {
         "HouseholdStructure:single_house_single_storeyed": {
           "Count": "Int:43440"
         },
@@ -13633,7 +13633,7 @@
           "Count": "Int:3"
         }
       },
-      "PD:EC-02A": {
+      "PD:wattala": {
         "HouseholdStructure:single_house_single_storeyed": {
           "Count": "Int:34583"
         },
@@ -13665,7 +13665,7 @@
           "Count": "Int:12"
         }
       },
-      "PD:EC-09C": {
+      "PD:tangalle": {
         "HouseholdStructure:single_house_single_storeyed": {
           "Count": "Int:43981"
         },
@@ -13697,7 +13697,7 @@
           "Count": "Int:3"
         }
       },
-      "PD:EC-14C": {
+      "PD:muttur": {
         "HouseholdStructure:single_house_single_storeyed": {
           "Count": "Int:46600"
         },
@@ -13729,7 +13729,7 @@
           "Count": "Int:67"
         }
       },
-      "PD:EC-11B": {
+      "PD:vavuniya": {
         "HouseholdStructure:single_house_single_storeyed": {
           "Count": "Int:45145"
         },
@@ -13761,7 +13761,7 @@
           "Count": "Int:4"
         }
       },
-      "PD:EC-16B": {
+      "PD:anamaduwa": {
         "HouseholdStructure:single_house_single_storeyed": {
           "Count": "Int:46476"
         },
@@ -13793,7 +13793,7 @@
           "Count": "Int:10"
         }
       },
-      "PD:EC-02K": {
+      "PD:dompe": {
         "HouseholdStructure:single_house_single_storeyed": {
           "Count": "Int:41593"
         },
@@ -13825,7 +13825,7 @@
           "Count": "Int:2"
         }
       },
-      "PD:EC-20B": {
+      "PD:monaragala": {
         "HouseholdStructure:single_house_single_storeyed": {
           "Count": "Int:44135"
         },
@@ -13857,7 +13857,7 @@
           "Count": "Int:5"
         }
       },
-      "PD:EC-21B": {
+      "PD:ratnapura": {
         "HouseholdStructure:single_house_single_storeyed": {
           "Count": "Int:38810"
         },
@@ -13889,7 +13889,7 @@
           "Count": "Int:0"
         }
       },
-      "PD:EC-15C": {
+      "PD:yapahuwa": {
         "HouseholdStructure:single_house_single_storeyed": {
           "Count": "Int:44119"
         },
@@ -13921,7 +13921,7 @@
           "Count": "Int:4"
         }
       },
-      "PD:EC-16C": {
+      "PD:chilaw": {
         "HouseholdStructure:single_house_single_storeyed": {
           "Count": "Int:42596"
         },
@@ -13953,7 +13953,7 @@
           "Count": "Int:7"
         }
       },
-      "PD:EC-02D": {
+      "PD:divulapitiya": {
         "HouseholdStructure:single_house_single_storeyed": {
           "Count": "Int:41263"
         },
@@ -13985,7 +13985,7 @@
           "Count": "Int:8"
         }
       },
-      "PD:EC-17D": {
+      "PD:anuradhapura_west": {
         "HouseholdStructure:single_house_single_storeyed": {
           "Count": "Int:42256"
         },
@@ -14017,7 +14017,7 @@
           "Count": "Int:2"
         }
       },
-      "PD:EC-17C": {
+      "PD:anuradhapura_east": {
         "HouseholdStructure:single_house_single_storeyed": {
           "Count": "Int:38285"
         },
@@ -14049,7 +14049,7 @@
           "Count": "Int:5"
         }
       },
-      "PD:EC-01O": {
+      "PD:moratuwa": {
         "HouseholdStructure:single_house_single_storeyed": {
           "Count": "Int:26783"
         },
@@ -14081,7 +14081,7 @@
           "Count": "Int:5"
         }
       },
-      "PD:EC-03F": {
+      "PD:kalutara": {
         "HouseholdStructure:single_house_single_storeyed": {
           "Count": "Int:34561"
         },
@@ -14113,7 +14113,7 @@
           "Count": "Int:6"
         }
       },
-      "PD:EC-21D": {
+      "PD:balangoda": {
         "HouseholdStructure:single_house_single_storeyed": {
           "Count": "Int:37980"
         },
@@ -14145,7 +14145,7 @@
           "Count": "Int:4"
         }
       },
-      "PD:EC-19A": {
+      "PD:mahiyanganaya": {
         "HouseholdStructure:single_house_single_storeyed": {
           "Count": "Int:40618"
         },
@@ -14177,7 +14177,7 @@
           "Count": "Int:4"
         }
       },
-      "PD:EC-03A": {
+      "PD:panadura": {
         "HouseholdStructure:single_house_single_storeyed": {
           "Count": "Int:29799"
         },
@@ -14209,7 +14209,7 @@
           "Count": "Int:8"
         }
       },
-      "PD:EC-15A": {
+      "PD:galgamuwa": {
         "HouseholdStructure:single_house_single_storeyed": {
           "Count": "Int:40264"
         },
@@ -14241,7 +14241,7 @@
           "Count": "Int:3"
         }
       },
-      "PD:EC-03E": {
+      "PD:mathugama": {
         "HouseholdStructure:single_house_single_storeyed": {
           "Count": "Int:34296"
         },
@@ -14273,7 +14273,7 @@
           "Count": "Int:8"
         }
       },
-      "PD:EC-03G": {
+      "PD:beruwala": {
         "HouseholdStructure:single_house_single_storeyed": {
           "Count": "Int:34520"
         },
@@ -14305,7 +14305,7 @@
           "Count": "Int:5"
         }
       },
-      "PD:EC-21E": {
+      "PD:rakwana": {
         "HouseholdStructure:single_house_single_storeyed": {
           "Count": "Int:37228"
         },
@@ -14337,7 +14337,7 @@
           "Count": "Int:1"
         }
       },
-      "PD:EC-09A": {
+      "PD:mulkirigala": {
         "HouseholdStructure:single_house_single_storeyed": {
           "Count": "Int:36901"
         },
@@ -14369,7 +14369,7 @@
           "Count": "Int:2"
         }
       },
-      "PD:EC-15I": {
+      "PD:kuliyapitiya": {
         "HouseholdStructure:single_house_single_storeyed": {
           "Count": "Int:37150"
         },
@@ -14401,7 +14401,7 @@
           "Count": "Int:1"
         }
       },
-      "PD:EC-15D": {
+      "PD:hiriyala": {
         "HouseholdStructure:single_house_single_storeyed": {
           "Count": "Int:36398"
         },
@@ -14433,7 +14433,7 @@
           "Count": "Int:5"
         }
       },
-      "PD:EC-04F": {
+      "PD:kundasale": {
         "HouseholdStructure:single_house_single_storeyed": {
           "Count": "Int:29511"
         },
@@ -14465,7 +14465,7 @@
           "Count": "Int:5"
         }
       },
-      "PD:EC-14B": {
+      "PD:trincomalee": {
         "HouseholdStructure:single_house_single_storeyed": {
           "Count": "Int:35684"
         },
@@ -14497,7 +14497,7 @@
           "Count": "Int:34"
         }
       },
-      "PD:EC-15H": {
+      "PD:katugampola": {
         "HouseholdStructure:single_house_single_storeyed": {
           "Count": "Int:36512"
         },
@@ -14529,7 +14529,7 @@
           "Count": "Int:5"
         }
       },
-      "PD:EC-07I": {
+      "PD:akmeemana": {
         "HouseholdStructure:single_house_single_storeyed": {
           "Count": "Int:29301"
         },
@@ -14561,7 +14561,7 @@
           "Count": "Int:4"
         }
       },
-      "PD:EC-01B": {
+      "PD:colombo_central": {
         "HouseholdStructure:single_house_single_storeyed": {
           "Count": "Int:12507"
         },
@@ -14593,7 +14593,7 @@
           "Count": "Int:21"
         }
       },
-      "PD:EC-15B": {
+      "PD:nikaweratiya": {
         "HouseholdStructure:single_house_single_storeyed": {
           "Count": "Int:37035"
         },
@@ -14625,7 +14625,7 @@
           "Count": "Int:0"
         }
       },
-      "PD:EC-16E": {
+      "PD:wennappuwa": {
         "HouseholdStructure:single_house_single_storeyed": {
           "Count": "Int:35141"
         },
@@ -14657,7 +14657,7 @@
           "Count": "Int:23"
         }
       },
-      "PD:EC-04L": {
+      "PD:gampola": {
         "HouseholdStructure:single_house_single_storeyed": {
           "Count": "Int:29401"
         },
@@ -14689,7 +14689,7 @@
           "Count": "Int:5"
         }
       },
-      "PD:EC-07E": {
+      "PD:hiniduma": {
         "HouseholdStructure:single_house_single_storeyed": {
           "Count": "Int:34132"
         },
@@ -14721,7 +14721,7 @@
           "Count": "Int:1"
         }
       },
-      "PD:EC-08A": {
+      "PD:deniyaya": {
         "HouseholdStructure:single_house_single_storeyed": {
           "Count": "Int:31858"
         },
@@ -14753,7 +14753,7 @@
           "Count": "Int:0"
         }
       },
-      "PD:EC-03H": {
+      "PD:agalawatta": {
         "HouseholdStructure:single_house_single_storeyed": {
           "Count": "Int:33958"
         },
@@ -14785,7 +14785,7 @@
           "Count": "Int:2"
         }
       },
-      "PD:EC-17A": {
+      "PD:medawachchiya": {
         "HouseholdStructure:single_house_single_storeyed": {
           "Count": "Int:36179"
         },
@@ -14817,7 +14817,7 @@
           "Count": "Int:1"
         }
       },
-      "PD:EC-13B": {
+      "PD:samanthurai": {
         "HouseholdStructure:single_house_single_storeyed": {
           "Count": "Int:33494"
         },
@@ -14849,7 +14849,7 @@
           "Count": "Int:3"
         }
       },
-      "PD:EC-02M": {
+      "PD:kelaniya": {
         "HouseholdStructure:single_house_single_storeyed": {
           "Count": "Int:22918"
         },
@@ -14881,7 +14881,7 @@
           "Count": "Int:10"
         }
       },
-      "PD:EC-21A": {
+      "PD:eheliyagoda": {
         "HouseholdStructure:single_house_single_storeyed": {
           "Count": "Int:32666"
         },
@@ -14913,7 +14913,7 @@
           "Count": "Int:1"
         }
       },
-      "PD:EC-10K": {
+      "PD:kilinochchi": {
         "HouseholdStructure:single_house_single_storeyed": {
           "Count": "Int:35770"
         },
@@ -14945,7 +14945,7 @@
           "Count": "Int:11"
         }
       },
-      "PD:EC-07F": {
+      "PD:baddegama": {
         "HouseholdStructure:single_house_single_storeyed": {
           "Count": "Int:32221"
         },
@@ -14977,7 +14977,7 @@
           "Count": "Int:2"
         }
       },
-      "PD:EC-20A": {
+      "PD:bibile": {
         "HouseholdStructure:single_house_single_storeyed": {
           "Count": "Int:34482"
         },
@@ -15009,7 +15009,7 @@
           "Count": "Int:1"
         }
       },
-      "PD:EC-15M": {
+      "PD:mawathagama": {
         "HouseholdStructure:single_house_single_storeyed": {
           "Count": "Int:30095"
         },
@@ -15041,7 +15041,7 @@
           "Count": "Int:4"
         }
       },
-      "PD:EC-15J": {
+      "PD:dambadeniya": {
         "HouseholdStructure:single_house_single_storeyed": {
           "Count": "Int:32740"
         },
@@ -15073,7 +15073,7 @@
           "Count": "Int:1"
         }
       },
-      "PD:EC-02B": {
+      "PD:negombo": {
         "HouseholdStructure:single_house_single_storeyed": {
           "Count": "Int:28345"
         },
@@ -15105,7 +15105,7 @@
           "Count": "Int:0"
         }
       },
-      "PD:EC-15L": {
+      "PD:kurunegala": {
         "HouseholdStructure:single_house_single_storeyed": {
           "Count": "Int:28351"
         },
@@ -15137,7 +15137,7 @@
           "Count": "Int:4"
         }
       },
-      "PD:EC-12C": {
+      "PD:paddiruppu": {
         "HouseholdStructure:single_house_single_storeyed": {
           "Count": "Int:33753"
         },
@@ -15169,7 +15169,7 @@
           "Count": "Int:40"
         }
       },
-      "PD:EC-04M": {
+      "PD:nawalapitiya": {
         "HouseholdStructure:single_house_single_storeyed": {
           "Count": "Int:28231"
         },
@@ -15201,7 +15201,7 @@
           "Count": "Int:0"
         }
       },
-      "PD:EC-15G": {
+      "PD:bingiriya": {
         "HouseholdStructure:single_house_single_storeyed": {
           "Count": "Int:34077"
         },
@@ -15233,7 +15233,7 @@
           "Count": "Int:2"
         }
       },
-      "PD:EC-08B": {
+      "PD:hakmana": {
         "HouseholdStructure:single_house_single_storeyed": {
           "Count": "Int:30126"
         },
@@ -15265,7 +15265,7 @@
           "Count": "Int:2"
         }
       },
-      "PD:EC-05D": {
+      "PD:rattota": {
         "HouseholdStructure:single_house_single_storeyed": {
           "Count": "Int:27327"
         },
@@ -15297,7 +15297,7 @@
           "Count": "Int:6"
         }
       },
-      "PD:EC-17G": {
+      "PD:kekirawa": {
         "HouseholdStructure:single_house_single_storeyed": {
           "Count": "Int:32605"
         },
@@ -15329,7 +15329,7 @@
           "Count": "Int:1"
         }
       },
-      "PD:EC-08C": {
+      "PD:akuressa": {
         "HouseholdStructure:single_house_single_storeyed": {
           "Count": "Int:29969"
         },
@@ -15361,7 +15361,7 @@
           "Count": "Int:2"
         }
       },
-      "PD:EC-11C": {
+      "PD:mullaitivu": {
         "HouseholdStructure:single_house_single_storeyed": {
           "Count": "Int:33670"
         },
@@ -15393,7 +15393,7 @@
           "Count": "Int:40"
         }
       },
-      "PD:EC-18A": {
+      "PD:minneriya": {
         "HouseholdStructure:single_house_single_storeyed": {
           "Count": "Int:31986"
         },
@@ -15425,7 +15425,7 @@
           "Count": "Int:3"
         }
       },
-      "PD:EC-08G": {
+      "PD:weligama": {
         "HouseholdStructure:single_house_single_storeyed": {
           "Count": "Int:28853"
         },
@@ -15457,7 +15457,7 @@
           "Count": "Int:2"
         }
       },
-      "PD:EC-16D": {
+      "PD:nattandiya": {
         "HouseholdStructure:single_house_single_storeyed": {
           "Count": "Int:31409"
         },
@@ -15489,7 +15489,7 @@
           "Count": "Int:6"
         }
       },
-      "PD:EC-17B": {
+      "PD:horowpothana": {
         "HouseholdStructure:single_house_single_storeyed": {
           "Count": "Int:32564"
         },
@@ -15521,7 +15521,7 @@
           "Count": "Int:4"
         }
       },
-      "PD:EC-21F": {
+      "PD:nivithigala": {
         "HouseholdStructure:single_house_single_storeyed": {
           "Count": "Int:29666"
         },
@@ -15553,7 +15553,7 @@
           "Count": "Int:0"
         }
       },
-      "PD:EC-01A": {
+      "PD:colombo_north": {
         "HouseholdStructure:single_house_single_storeyed": {
           "Count": "Int:12821"
         },
@@ -15585,7 +15585,7 @@
           "Count": "Int:4"
         }
       },
-      "PD:EC-21C": {
+      "PD:pelmadulla": {
         "HouseholdStructure:single_house_single_storeyed": {
           "Count": "Int:28261"
         },
@@ -15617,7 +15617,7 @@
           "Count": "Int:9"
         }
       },
-      "PD:EC-22E": {
+      "PD:mawanella": {
         "HouseholdStructure:single_house_single_storeyed": {
           "Count": "Int:25984"
         },
@@ -15649,7 +15649,7 @@
           "Count": "Int:5"
         }
       },
-      "PD:EC-07D": {
+      "PD:bentara_elpitiya": {
         "HouseholdStructure:single_house_single_storeyed": {
           "Count": "Int:28849"
         },
@@ -15681,7 +15681,7 @@
           "Count": "Int:0"
         }
       },
-      "PD:EC-03D": {
+      "PD:bulathsinhala": {
         "HouseholdStructure:single_house_single_storeyed": {
           "Count": "Int:28094"
         },
@@ -15713,7 +15713,7 @@
           "Count": "Int:4"
         }
       },
-      "PD:EC-22A": {
+      "PD:dedigama": {
         "HouseholdStructure:single_house_single_storeyed": {
           "Count": "Int:27881"
         },
@@ -15745,7 +15745,7 @@
           "Count": "Int:5"
         }
       },
-      "PD:EC-08F": {
+      "PD:matara": {
         "HouseholdStructure:single_house_single_storeyed": {
           "Count": "Int:20326"
         },
@@ -15777,7 +15777,7 @@
           "Count": "Int:2"
         }
       },
-      "PD:EC-11A": {
+      "PD:mannar": {
         "HouseholdStructure:single_house_single_storeyed": {
           "Count": "Int:30553"
         },
@@ -15809,7 +15809,7 @@
           "Count": "Int:19"
         }
       },
-      "PD:EC-14A": {
+      "PD:seruvila": {
         "HouseholdStructure:single_house_single_storeyed": {
           "Count": "Int:30983"
         },
@@ -15841,7 +15841,7 @@
           "Count": "Int:11"
         }
       },
-      "PD:EC-04C": {
+      "PD:pathadumbara": {
         "HouseholdStructure:single_house_single_storeyed": {
           "Count": "Int:23248"
         },
@@ -15873,7 +15873,7 @@
           "Count": "Int:1"
         }
       },
-      "PD:EC-18B": {
+      "PD:medirigiriya": {
         "HouseholdStructure:single_house_single_storeyed": {
           "Count": "Int:30182"
         },
@@ -15905,7 +15905,7 @@
           "Count": "Int:0"
         }
       },
-      "PD:EC-05C": {
+      "PD:matale": {
         "HouseholdStructure:single_house_single_storeyed": {
           "Count": "Int:24464"
         },
@@ -15937,7 +15937,7 @@
           "Count": "Int:3"
         }
       },
-      "PD:EC-04K": {
+      "PD:udunuwara": {
         "HouseholdStructure:single_house_single_storeyed": {
           "Count": "Int:23391"
         },
@@ -15969,7 +15969,7 @@
           "Count": "Int:1"
         }
       },
-      "PD:EC-15E": {
+      "PD:wariyapola": {
         "HouseholdStructure:single_house_single_storeyed": {
           "Count": "Int:28606"
         },
@@ -16001,7 +16001,7 @@
           "Count": "Int:2"
         }
       },
-      "PD:EC-19H": {
+      "PD:bandarawela": {
         "HouseholdStructure:single_house_single_storeyed": {
           "Count": "Int:22919"
         },
@@ -16033,7 +16033,7 @@
           "Count": "Int:1"
         }
       },
-      "PD:EC-04J": {
+      "PD:yatinuwara": {
         "HouseholdStructure:single_house_single_storeyed": {
           "Count": "Int:22086"
         },
@@ -16065,7 +16065,7 @@
           "Count": "Int:2"
         }
       },
-      "PD:EC-07J": {
+      "PD:habaraduwa": {
         "HouseholdStructure:single_house_single_storeyed": {
           "Count": "Int:26542"
         },
@@ -16097,7 +16097,7 @@
           "Count": "Int:4"
         }
       },
-      "PD:EC-21G": {
+      "PD:kalawana": {
         "HouseholdStructure:single_house_single_storeyed": {
           "Count": "Int:26352"
         },
@@ -16129,7 +16129,7 @@
           "Count": "Int:1"
         }
       },
-      "PD:EC-13C": {
+      "PD:kalmunai": {
         "HouseholdStructure:single_house_single_storeyed": {
           "Count": "Int:22564"
         },
@@ -16161,7 +16161,7 @@
           "Count": "Int:4"
         }
       },
-      "PD:EC-06D": {
+      "PD:walapane": {
         "HouseholdStructure:single_house_single_storeyed": {
           "Count": "Int:23500"
         },
@@ -16193,7 +16193,7 @@
           "Count": "Int:4"
         }
       },
-      "PD:EC-15K": {
+      "PD:polgahawela": {
         "HouseholdStructure:single_house_single_storeyed": {
           "Count": "Int:26020"
         },
@@ -16225,7 +16225,7 @@
           "Count": "Int:2"
         }
       },
-      "PD:EC-15F": {
+      "PD:panduwasnuwara": {
         "HouseholdStructure:single_house_single_storeyed": {
           "Count": "Int:28038"
         },
@@ -16257,7 +16257,7 @@
           "Count": "Int:2"
         }
       },
-      "PD:EC-08D": {
+      "PD:kamburupitiya": {
         "HouseholdStructure:single_house_single_storeyed": {
           "Count": "Int:25071"
         },
@@ -16289,7 +16289,7 @@
           "Count": "Int:5"
         }
       },
-      "PD:EC-09B": {
+      "PD:beliatta": {
         "HouseholdStructure:single_house_single_storeyed": {
           "Count": "Int:25421"
         },
@@ -16321,7 +16321,7 @@
           "Count": "Int:0"
         }
       },
-      "PD:EC-19G": {
+      "PD:welimada": {
         "HouseholdStructure:single_house_single_storeyed": {
           "Count": "Int:24927"
         },
@@ -16353,7 +16353,7 @@
           "Count": "Int:4"
         }
       },
-      "PD:EC-22H": {
+      "PD:ruwanwella": {
         "HouseholdStructure:single_house_single_storeyed": {
           "Count": "Int:24162"
         },
@@ -16385,7 +16385,7 @@
           "Count": "Int:5"
         }
       },
-      "PD:EC-07C": {
+      "PD:karandeniya": {
         "HouseholdStructure:single_house_single_storeyed": {
           "Count": "Int:24798"
         },
@@ -16417,7 +16417,7 @@
           "Count": "Int:3"
         }
       },
-      "PD:EC-04H": {
+      "PD:senkadagala": {
         "HouseholdStructure:single_house_single_storeyed": {
           "Count": "Int:16758"
         },
@@ -16449,7 +16449,7 @@
           "Count": "Int:3"
         }
       },
-      "PD:EC-07B": {
+      "PD:ambalangoda": {
         "HouseholdStructure:single_house_single_storeyed": {
           "Count": "Int:22764"
         },
@@ -16481,7 +16481,7 @@
           "Count": "Int:0"
         }
       },
-      "PD:EC-05B": {
+      "PD:laggala": {
         "HouseholdStructure:single_house_single_storeyed": {
           "Count": "Int:26470"
         },
@@ -16513,7 +16513,7 @@
           "Count": "Int:1"
         }
       },
-      "PD:EC-08E": {
+      "PD:devinuwara": {
         "HouseholdStructure:single_house_single_storeyed": {
           "Count": "Int:24557"
         },
@@ -16545,7 +16545,7 @@
           "Count": "Int:2"
         }
       },
-      "PD:EC-06B": {
+      "PD:kothmale": {
         "HouseholdStructure:single_house_single_storeyed": {
           "Count": "Int:19934"
         },
@@ -16577,7 +16577,7 @@
           "Count": "Int:6"
         }
       },
-      "PD:EC-01I": {
+      "PD:kotte": {
         "HouseholdStructure:single_house_single_storeyed": {
           "Count": "Int:11585"
         },
@@ -16609,7 +16609,7 @@
           "Count": "Int:3"
         }
       },
-      "PD:EC-22G": {
+      "PD:yatiyanthota": {
         "HouseholdStructure:single_house_single_storeyed": {
           "Count": "Int:22487"
         },
@@ -16641,7 +16641,7 @@
           "Count": "Int:2"
         }
       },
-      "PD:EC-07G": {
+      "PD:ratgama": {
         "HouseholdStructure:single_house_single_storeyed": {
           "Count": "Int:23227"
         },
@@ -16673,7 +16673,7 @@
           "Count": "Int:0"
         }
       },
-      "PD:EC-17F": {
+      "PD:mihinthale": {
         "HouseholdStructure:single_house_single_storeyed": {
           "Count": "Int:25483"
         },
@@ -16705,7 +16705,7 @@
           "Count": "Int:0"
         }
       },
-      "PD:EC-15N": {
+      "PD:dodangaslanda": {
         "HouseholdStructure:single_house_single_storeyed": {
           "Count": "Int:24007"
         },
@@ -16737,7 +16737,7 @@
           "Count": "Int:3"
         }
       },
-      "PD:EC-22C": {
+      "PD:kegalle": {
         "HouseholdStructure:single_house_single_storeyed": {
           "Count": "Int:20990"
         },
@@ -16769,7 +16769,7 @@
           "Count": "Int:4"
         }
       },
-      "PD:EC-07H": {
+      "PD:galle": {
         "HouseholdStructure:single_house_single_storeyed": {
           "Count": "Int:16620"
         },
@@ -16801,7 +16801,7 @@
           "Count": "Int:6"
         }
       },
-      "PD:EC-22I": {
+      "PD:deraniyagala": {
         "HouseholdStructure:single_house_single_storeyed": {
           "Count": "Int:21516"
         },
@@ -16833,7 +16833,7 @@
           "Count": "Int:3"
         }
       },
-      "PD:EC-19E": {
+      "PD:hali_ela": {
         "HouseholdStructure:single_house_single_storeyed": {
           "Count": "Int:18834"
         },
@@ -16865,7 +16865,7 @@
           "Count": "Int:0"
         }
       },
-      "PD:EC-06C": {
+      "PD:hanguranketha": {
         "HouseholdStructure:single_house_single_storeyed": {
           "Count": "Int:21730"
         },
@@ -16897,7 +16897,7 @@
           "Count": "Int:2"
         }
       },
-      "PD:EC-01F": {
+      "PD:dehiwala": {
         "HouseholdStructure:single_house_single_storeyed": {
           "Count": "Int:9014"
         },
@@ -16929,7 +16929,7 @@
           "Count": "Int:4"
         }
       },
-      "PD:EC-04G": {
+      "PD:hewaheta": {
         "HouseholdStructure:single_house_single_storeyed": {
           "Count": "Int:20959"
         },
@@ -16961,7 +16961,7 @@
           "Count": "Int:3"
         }
       },
-      "PD:EC-01G": {
+      "PD:ratmalana": {
         "HouseholdStructure:single_house_single_storeyed": {
           "Count": "Int:12272"
         },
@@ -16993,7 +16993,7 @@
           "Count": "Int:0"
         }
       },
-      "PD:EC-22D": {
+      "PD:rambukkana": {
         "HouseholdStructure:single_house_single_storeyed": {
           "Count": "Int:20770"
         },
@@ -17025,7 +17025,7 @@
           "Count": "Int:0"
         }
       },
-      "PD:EC-19I": {
+      "PD:haputale": {
         "HouseholdStructure:single_house_single_storeyed": {
           "Count": "Int:18348"
         },
@@ -17057,7 +17057,7 @@
           "Count": "Int:3"
         }
       },
-      "PD:EC-22B": {
+      "PD:galigamuwa": {
         "HouseholdStructure:single_house_single_storeyed": {
           "Count": "Int:20791"
         },
@@ -17089,7 +17089,7 @@
           "Count": "Int:1"
         }
       },
-      "PD:EC-01D": {
+      "PD:colombo_east": {
         "HouseholdStructure:single_house_single_storeyed": {
           "Count": "Int:8939"
         },
@@ -17121,7 +17121,7 @@
           "Count": "Int:2"
         }
       },
-      "PD:EC-04D": {
+      "PD:ududumbara": {
         "HouseholdStructure:single_house_single_storeyed": {
           "Count": "Int:21492"
         },
@@ -17153,7 +17153,7 @@
           "Count": "Int:0"
         }
       },
-      "PD:EC-19F": {
+      "PD:uva_paranagama": {
         "HouseholdStructure:single_house_single_storeyed": {
           "Count": "Int:20344"
         },
@@ -17185,7 +17185,7 @@
           "Count": "Int:1"
         }
       },
-      "PD:EC-19C": {
+      "PD:passara": {
         "HouseholdStructure:single_house_single_storeyed": {
           "Count": "Int:15762"
         },
@@ -17217,7 +17217,7 @@
           "Count": "Int:3"
         }
       },
-      "PD:EC-19D": {
+      "PD:badulla": {
         "HouseholdStructure:single_house_single_storeyed": {
           "Count": "Int:14684"
         },
@@ -17249,7 +17249,7 @@
           "Count": "Int:1"
         }
       },
-      "PD:EC-10D": {
+      "PD:manipay": {
         "HouseholdStructure:single_house_single_storeyed": {
           "Count": "Int:19413"
         },
@@ -17281,7 +17281,7 @@
           "Count": "Int:6"
         }
       },
-      "PD:EC-19B": {
+      "PD:viyaluwa": {
         "HouseholdStructure:single_house_single_storeyed": {
           "Count": "Int:18760"
         },
@@ -17313,7 +17313,7 @@
           "Count": "Int:0"
         }
       },
-      "PD:EC-10E": {
+      "PD:kopay": {
         "HouseholdStructure:single_house_single_storeyed": {
           "Count": "Int:19736"
         },
@@ -17345,7 +17345,7 @@
           "Count": "Int:37"
         }
       },
-      "PD:EC-22F": {
+      "PD:aranayaka": {
         "HouseholdStructure:single_house_single_storeyed": {
           "Count": "Int:17203"
         },
@@ -17377,7 +17377,7 @@
           "Count": "Int:1"
         }
       },
-      "PD:EC-04A": {
+      "PD:galagedara": {
         "HouseholdStructure:single_house_single_storeyed": {
           "Count": "Int:16594"
         },
@@ -17409,7 +17409,7 @@
           "Count": "Int:2"
         }
       },
-      "PD:EC-10H": {
+      "PD:chavakachcheri": {
         "HouseholdStructure:single_house_single_storeyed": {
           "Count": "Int:18308"
         },
@@ -17441,7 +17441,7 @@
           "Count": "Int:3"
         }
       },
-      "PD:EC-07A": {
+      "PD:balapitiya": {
         "HouseholdStructure:single_house_single_storeyed": {
           "Count": "Int:16120"
         },
@@ -17473,7 +17473,7 @@
           "Count": "Int:0"
         }
       },
-      "PD:EC-10I": {
+      "PD:nallur": {
         "HouseholdStructure:single_house_single_storeyed": {
           "Count": "Int:15788"
         },
@@ -17505,7 +17505,7 @@
           "Count": "Int:8"
         }
       },
-      "PD:EC-04E": {
+      "PD:teldeniya": {
         "HouseholdStructure:single_house_single_storeyed": {
           "Count": "Int:14267"
         },
@@ -17537,7 +17537,7 @@
           "Count": "Int:0"
         }
       },
-      "PD:EC-01C": {
+      "PD:borella": {
         "HouseholdStructure:single_house_single_storeyed": {
           "Count": "Int:8160"
         },
@@ -17569,7 +17569,7 @@
           "Count": "Int:4"
         }
       },
-      "PD:EC-10B": {
+      "PD:vaddukoddai": {
         "HouseholdStructure:single_house_single_storeyed": {
           "Count": "Int:16245"
         },
@@ -17601,7 +17601,7 @@
           "Count": "Int:17"
         }
       },
-      "PD:EC-01E": {
+      "PD:colombo_west": {
         "HouseholdStructure:single_house_single_storeyed": {
           "Count": "Int:4756"
         },
@@ -17633,7 +17633,7 @@
           "Count": "Int:6"
         }
       },
-      "PD:EC-10C": {
+      "PD:kankesanthurai": {
         "HouseholdStructure:single_house_single_storeyed": {
           "Count": "Int:14118"
         },
@@ -17665,7 +17665,7 @@
           "Count": "Int:13"
         }
       },
-      "PD:EC-10G": {
+      "PD:point_pedro": {
         "HouseholdStructure:single_house_single_storeyed": {
           "Count": "Int:13506"
         },
@@ -17697,7 +17697,7 @@
           "Count": "Int:16"
         }
       },
-      "PD:EC-10F": {
+      "PD:udupiddy": {
         "HouseholdStructure:single_house_single_storeyed": {
           "Count": "Int:12658"
         },
@@ -17729,7 +17729,7 @@
           "Count": "Int:3"
         }
       },
-      "PD:EC-04I": {
+      "PD:mahanuwara": {
         "HouseholdStructure:single_house_single_storeyed": {
           "Count": "Int:5052"
         },
@@ -17761,7 +17761,7 @@
           "Count": "Int:0"
         }
       },
-      "PD:EC-10J": {
+      "PD:jaffna": {
         "HouseholdStructure:single_house_single_storeyed": {
           "Count": "Int:9588"
         },
@@ -17793,7 +17793,7 @@
           "Count": "Int:6"
         }
       },
-      "PD:EC-10A": {
+      "PD:kayts": {
         "HouseholdStructure:single_house_single_storeyed": {
           "Count": "Int:7814"
         },

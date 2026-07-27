@@ -1,7 +1,7 @@
 # Person-AgeGroup
 
 ![CPH](https://img.shields.io/badge/CPH-2024-blue)
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--07--26-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--07--27-green)
 
 *Person-AgeGroup, 2024 Census of Population and Housing, Department of Census and Statistics, Sri Lanka*
 
@@ -11,7 +11,7 @@
 {
     "Person": {
         "Time:2024": {
-            "Country:LK": {
+            "Country:sri_lanka": {
                 "AgeGroup:0To4Years": {
                     "Count": "Int:1215120"
                 },
@@ -41,7 +41,7 @@
 ...
 ```
 
-- Source File: [lanka_data.json (829.3 KB)](../../data/Person-AgeGroup/lanka_data.json)
+- Source File: [lanka_data.json (831.3 KB)](../../data/Person-AgeGroup/lanka_data.json)
 
 ## Structured Data (similar to original layout)
 

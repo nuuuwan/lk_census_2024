@@ -1,7 +1,7 @@
 # Person-Religion
 
 ![CPH](https://img.shields.io/badge/CPH-2024-blue)
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--07--26-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--07--27-green)
 
 *Person-Religion, 2024 Census of Population and Housing, Department of Census and Statistics, Sri Lanka*
 
@@ -11,7 +11,7 @@
 {
     "Person": {
         "Time:2024": {
-            "Country:LK": {
+            "Country:sri_lanka": {
                 "Religion:buddhist": {
                     "Count": "Int:15196960"
                 },
@@ -31,7 +31,7 @@
                     "Count": "Int:63494"
                 }
             },
-            "Province:LK-1": {
+            "Province:western": {
                 "Religion:buddhist": {
                     "Count": "Int:4507601"
                 },
@@ -41,7 +41,7 @@
 ...
 ```
 
-- Source File: [lanka_data.json (252.5 KB)](../../data/Person-Religion/lanka_data.json)
+- Source File: [lanka_data.json (254.5 KB)](../../data/Person-Religion/lanka_data.json)
 
 ## Structured Data (similar to original layout)
 

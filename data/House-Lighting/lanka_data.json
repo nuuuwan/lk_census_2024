@@ -1,7 +1,7 @@
 {
   "House": {
     "Time:2024": {
-      "Country:LK": {
+      "Country:sri_lanka": {
         "Lighting:electricity_grid": {
           "Count": "Int:5987585"
         },
@@ -24,7 +24,7 @@
           "Count": "Int:13196"
         }
       },
-      "Province:LK-1": {
+      "Province:western": {
         "Lighting:electricity_grid": {
           "Count": "Int:1682433"
         },
@@ -47,7 +47,7 @@
           "Count": "Int:3293"
         }
       },
-      "Province:LK-2": {
+      "Province:central": {
         "Lighting:electricity_grid": {
           "Count": "Int:736755"
         },
@@ -70,7 +70,7 @@
           "Count": "Int:1375"
         }
       },
-      "Province:LK-6": {
+      "Province:north_western": {
         "Lighting:electricity_grid": {
           "Count": "Int:729060"
         },
@@ -93,7 +93,7 @@
           "Count": "Int:1004"
         }
       },
-      "Province:LK-3": {
+      "Province:southern": {
         "Lighting:electricity_grid": {
           "Count": "Int:717303"
         },
@@ -116,7 +116,7 @@
           "Count": "Int:2425"
         }
       },
-      "Province:LK-9": {
+      "Province:sabaragamuwa": {
         "Lighting:electricity_grid": {
           "Count": "Int:558898"
         },
@@ -139,7 +139,7 @@
           "Count": "Int:1531"
         }
       },
-      "Province:LK-5": {
+      "Province:eastern": {
         "Lighting:electricity_grid": {
           "Count": "Int:479020"
         },
@@ -162,7 +162,7 @@
           "Count": "Int:1430"
         }
       },
-      "Province:LK-7": {
+      "Province:north_central": {
         "Lighting:electricity_grid": {
           "Count": "Int:392571"
         },
@@ -185,7 +185,7 @@
           "Count": "Int:715"
         }
       },
-      "Province:LK-8": {
+      "Province:uva": {
         "Lighting:electricity_grid": {
           "Count": "Int:389582"
         },
@@ -208,7 +208,7 @@
           "Count": "Int:1032"
         }
       },
-      "Province:LK-4": {
+      "Province:northern": {
         "Lighting:electricity_grid": {
           "Count": "Int:301963"
         },
@@ -231,7 +231,7 @@
           "Count": "Int:391"
         }
       },
-      "District:LK-12": {
+      "District:gampaha": {
         "Lighting:electricity_grid": {
           "Count": "Int:680337"
         },
@@ -254,7 +254,7 @@
           "Count": "Int:1635"
         }
       },
-      "District:LK-11": {
+      "District:colombo": {
         "Lighting:electricity_grid": {
           "Count": "Int:653295"
         },
@@ -277,7 +277,7 @@
           "Count": "Int:1180"
         }
       },
-      "District:LK-61": {
+      "District:kurunegala": {
         "Lighting:electricity_grid": {
           "Count": "Int:501299"
         },
@@ -300,7 +300,7 @@
           "Count": "Int:672"
         }
       },
-      "District:LK-21": {
+      "District:kandy": {
         "Lighting:electricity_grid": {
           "Count": "Int:392207"
         },
@@ -323,7 +323,7 @@
           "Count": "Int:782"
         }
       },
-      "District:LK-13": {
+      "District:kalutara": {
         "Lighting:electricity_grid": {
           "Count": "Int:348801"
         },
@@ -346,7 +346,7 @@
           "Count": "Int:478"
         }
       },
-      "District:LK-91": {
+      "District:ratnapura": {
         "Lighting:electricity_grid": {
           "Count": "Int:319263"
         },
@@ -369,7 +369,7 @@
           "Count": "Int:1053"
         }
       },
-      "District:LK-31": {
+      "District:galle": {
         "Lighting:electricity_grid": {
           "Count": "Int:304034"
         },
@@ -392,7 +392,7 @@
           "Count": "Int:685"
         }
       },
-      "District:LK-71": {
+      "District:anuradhapura": {
         "Lighting:electricity_grid": {
           "Count": "Int:268242"
         },
@@ -415,7 +415,7 @@
           "Count": "Int:467"
         }
       },
-      "District:LK-81": {
+      "District:badulla": {
         "Lighting:electricity_grid": {
           "Count": "Int:242999"
         },
@@ -438,7 +438,7 @@
           "Count": "Int:423"
         }
       },
-      "District:LK-92": {
+      "District:kegalle": {
         "Lighting:electricity_grid": {
           "Count": "Int:239635"
         },
@@ -461,7 +461,7 @@
           "Count": "Int:478"
         }
       },
-      "District:LK-62": {
+      "District:puttalam": {
         "Lighting:electricity_grid": {
           "Count": "Int:227761"
         },
@@ -484,7 +484,7 @@
           "Count": "Int:332"
         }
       },
-      "District:LK-32": {
+      "District:matara": {
         "Lighting:electricity_grid": {
           "Count": "Int:229169"
         },
@@ -507,7 +507,7 @@
           "Count": "Int:539"
         }
       },
-      "District:LK-52": {
+      "District:ampara": {
         "Lighting:electricity_grid": {
           "Count": "Int:200445"
         },
@@ -530,7 +530,7 @@
           "Count": "Int:664"
         }
       },
-      "District:LK-23": {
+      "District:nuwara_eliya": {
         "Lighting:electricity_grid": {
           "Count": "Int:196060"
         },
@@ -553,7 +553,7 @@
           "Count": "Int:400"
         }
       },
-      "District:LK-33": {
+      "District:hambantota": {
         "Lighting:electricity_grid": {
           "Count": "Int:184100"
         },
@@ -576,7 +576,7 @@
           "Count": "Int:1201"
         }
       },
-      "District:LK-51": {
+      "District:batticaloa": {
         "Lighting:electricity_grid": {
           "Count": "Int:160839"
         },
@@ -599,7 +599,7 @@
           "Count": "Int:279"
         }
       },
-      "District:LK-41": {
+      "District:jaffna": {
         "Lighting:electricity_grid": {
           "Count": "Int:155817"
         },
@@ -622,7 +622,7 @@
           "Count": "Int:120"
         }
       },
-      "District:LK-82": {
+      "District:monaragala": {
         "Lighting:electricity_grid": {
           "Count": "Int:146583"
         },
@@ -645,7 +645,7 @@
           "Count": "Int:609"
         }
       },
-      "District:LK-22": {
+      "District:matale": {
         "Lighting:electricity_grid": {
           "Count": "Int:148488"
         },
@@ -668,7 +668,7 @@
           "Count": "Int:193"
         }
       },
-      "District:LK-72": {
+      "District:polonnaruwa": {
         "Lighting:electricity_grid": {
           "Count": "Int:124329"
         },
@@ -691,7 +691,7 @@
           "Count": "Int:248"
         }
       },
-      "District:LK-53": {
+      "District:trincomalee": {
         "Lighting:electricity_grid": {
           "Count": "Int:117736"
         },
@@ -714,7 +714,7 @@
           "Count": "Int:487"
         }
       },
-      "District:LK-43": {
+      "District:vavuniya": {
         "Lighting:electricity_grid": {
           "Count": "Int:46966"
         },
@@ -737,7 +737,7 @@
           "Count": "Int:67"
         }
       },
-      "District:LK-45": {
+      "District:kilinochchi": {
         "Lighting:electricity_grid": {
           "Count": "Int:34804"
         },
@@ -760,7 +760,7 @@
           "Count": "Int:48"
         }
       },
-      "District:LK-44": {
+      "District:mullaitivu": {
         "Lighting:electricity_grid": {
           "Count": "Int:33100"
         },
@@ -783,7 +783,7 @@
           "Count": "Int:94"
         }
       },
-      "District:LK-42": {
+      "District:mannar": {
         "Lighting:electricity_grid": {
           "Count": "Int:31276"
         },
@@ -806,7 +806,7 @@
           "Count": "Int:62"
         }
       },
-      "DSD:LK-1109": {
+      "DSD:kaduwela": {
         "Lighting:electricity_grid": {
           "Count": "Int:79401"
         },
@@ -829,7 +829,7 @@
           "Count": "Int:86"
         }
       },
-      "DSD:LK-1112": {
+      "DSD:homagama": {
         "Lighting:electricity_grid": {
           "Count": "Int:79855"
         },
@@ -852,7 +852,7 @@
           "Count": "Int:51"
         }
       },
-      "DSD:LK-1136": {
+      "DSD:kesbewa": {
         "Lighting:electricity_grid": {
           "Count": "Int:75476"
         },
@@ -875,7 +875,7 @@
           "Count": "Int:78"
         }
       },
-      "DSD:LK-1206": {
+      "DSD:katana": {
         "Lighting:electricity_grid": {
           "Count": "Int:74585"
         },
@@ -898,7 +898,7 @@
           "Count": "Int:262"
         }
       },
-      "DSD:LK-1103": {
+      "DSD:colombo": {
         "Lighting:electricity_grid": {
           "Count": "Int:71320"
         },
@@ -921,7 +921,7 @@
           "Count": "Int:297"
         }
       },
-      "DSD:LK-1233": {
+      "DSD:mahara": {
         "Lighting:electricity_grid": {
           "Count": "Int:60808"
         },
@@ -944,7 +944,7 @@
           "Count": "Int:243"
         }
       },
-      "DSD:LK-1239": {
+      "DSD:biyagama": {
         "Lighting:electricity_grid": {
           "Count": "Int:58828"
         },
@@ -967,7 +967,7 @@
           "Count": "Int:72"
         }
       },
-      "DSD:LK-1127": {
+      "DSD:thimbirigasyaya": {
         "Lighting:electricity_grid": {
           "Count": "Int:57847"
         },
@@ -990,7 +990,7 @@
           "Count": "Int:59"
         }
       },
-      "DSD:LK-1224": {
+      "DSD:gampaha": {
         "Lighting:electricity_grid": {
           "Count": "Int:57149"
         },
@@ -1013,7 +1013,7 @@
           "Count": "Int:68"
         }
       },
-      "DSD:LK-1221": {
+      "DSD:ja_ela": {
         "Lighting:electricity_grid": {
           "Count": "Int:56833"
         },
@@ -1036,7 +1036,7 @@
           "Count": "Int:310"
         }
       },
-      "DSD:LK-1121": {
+      "DSD:maharagama": {
         "Lighting:electricity_grid": {
           "Count": "Int:56267"
         },
@@ -1059,7 +1059,7 @@
           "Count": "Int:84"
         }
       },
-      "DSD:LK-1215": {
+      "DSD:minuwangoda": {
         "Lighting:electricity_grid": {
           "Count": "Int:56198"
         },
@@ -1082,7 +1082,7 @@
           "Count": "Int:102"
         }
       },
-      "DSD:LK-1106": {
+      "DSD:kolonnawa": {
         "Lighting:electricity_grid": {
           "Count": "Int:55864"
         },
@@ -1105,7 +1105,7 @@
           "Count": "Int:247"
         }
       },
-      "DSD:LK-1227": {
+      "DSD:attanagalla": {
         "Lighting:electricity_grid": {
           "Count": "Int:53955"
         },
@@ -1128,7 +1128,7 @@
           "Count": "Int:61"
         }
       },
-      "DSD:LK-1212": {
+      "DSD:mirigama": {
         "Lighting:electricity_grid": {
           "Count": "Int:49124"
         },
@@ -1151,7 +1151,7 @@
           "Count": "Int:82"
         }
       },
-      "DSD:LK-1303": {
+      "DSD:panadura": {
         "Lighting:electricity_grid": {
           "Count": "Int:49237"
         },
@@ -1174,7 +1174,7 @@
           "Count": "Int:112"
         }
       },
-      "DSD:LK-1218": {
+      "DSD:wattala": {
         "Lighting:electricity_grid": {
           "Count": "Int:48712"
         },
@@ -1197,7 +1197,7 @@
           "Count": "Int:101"
         }
       },
-      "DSD:LK-1230": {
+      "DSD:dompe": {
         "Lighting:electricity_grid": {
           "Count": "Int:46921"
         },
@@ -1220,7 +1220,7 @@
           "Count": "Int:141"
         }
       },
-      "DSD:LK-9148": {
+      "DSD:embilipitiya": {
         "Lighting:electricity_grid": {
           "Count": "Int:44692"
         },
@@ -1243,7 +1243,7 @@
           "Count": "Int:234"
         }
       },
-      "DSD:LK-1209": {
+      "DSD:divulapitiya": {
         "Lighting:electricity_grid": {
           "Count": "Int:44485"
         },
@@ -1266,7 +1266,7 @@
           "Count": "Int:96"
         }
       },
-      "DSD:LK-1133": {
+      "DSD:moratuwa": {
         "Lighting:electricity_grid": {
           "Count": "Int:44317"
         },
@@ -1289,7 +1289,7 @@
           "Count": "Int:88"
         }
       },
-      "DSD:LK-1321": {
+      "DSD:kalutara": {
         "Lighting:electricity_grid": {
           "Count": "Int:43951"
         },
@@ -1312,7 +1312,7 @@
           "Count": "Int:40"
         }
       },
-      "DSD:LK-2314": {
+      "DSD:norwood": {
         "Lighting:electricity_grid": {
           "Count": "Int:43138"
         },
@@ -1335,7 +1335,7 @@
           "Count": "Int:101"
         }
       },
-      "DSD:LK-1324": {
+      "DSD:beruwala": {
         "Lighting:electricity_grid": {
           "Count": "Int:42072"
         },
@@ -1358,7 +1358,7 @@
           "Count": "Int:34"
         }
       },
-      "DSD:LK-2130": {
+      "DSD:gangawata_korale": {
         "Lighting:electricity_grid": {
           "Count": "Int:39982"
         },
@@ -1381,7 +1381,7 @@
           "Count": "Int:79"
         }
       },
-      "DSD:LK-2127": {
+      "DSD:kundasale": {
         "Lighting:electricity_grid": {
           "Count": "Int:39562"
         },
@@ -1404,7 +1404,7 @@
           "Count": "Int:116"
         }
       },
-      "DSD:LK-6178": {
+      "DSD:pannala": {
         "Lighting:electricity_grid": {
           "Count": "Int:38461"
         },
@@ -1427,7 +1427,7 @@
           "Count": "Int:37"
         }
       },
-      "DSD:LK-1309": {
+      "DSD:horana": {
         "Lighting:electricity_grid": {
           "Count": "Int:37447"
         },
@@ -1450,7 +1450,7 @@
           "Count": "Int:72"
         }
       },
-      "DSD:LK-1236": {
+      "DSD:kelaniya": {
         "Lighting:electricity_grid": {
           "Count": "Int:36844"
         },
@@ -1473,7 +1473,7 @@
           "Count": "Int:45"
         }
       },
-      "DSD:LK-1203": {
+      "DSD:negombo": {
         "Lighting:electricity_grid": {
           "Count": "Int:35895"
         },
@@ -1496,7 +1496,7 @@
           "Count": "Int:52"
         }
       },
-      "DSD:LK-1115": {
+      "DSD:seethawaka": {
         "Lighting:electricity_grid": {
           "Count": "Int:34331"
         },
@@ -1519,7 +1519,7 @@
           "Count": "Int:67"
         }
       },
-      "DSD:LK-2313": {
+      "DSD:thalawakele": {
         "Lighting:electricity_grid": {
           "Count": "Int:32926"
         },
@@ -1542,7 +1542,7 @@
           "Count": "Int:93"
         }
       },
-      "DSD:LK-1306": {
+      "DSD:bandaragama": {
         "Lighting:electricity_grid": {
           "Count": "Int:33226"
         },
@@ -1565,7 +1565,7 @@
           "Count": "Int:47"
         }
       },
-      "DSD:LK-9112": {
+      "DSD:ratnapura": {
         "Lighting:electricity_grid": {
           "Count": "Int:32707"
         },
@@ -1588,7 +1588,7 @@
           "Count": "Int:69"
         }
       },
-      "DSD:LK-9206": {
+      "DSD:mawanella": {
         "Lighting:electricity_grid": {
           "Count": "Int:32945"
         },
@@ -1611,7 +1611,7 @@
           "Count": "Int:66"
         }
       },
-      "DSD:LK-9218": {
+      "DSD:warakapola": {
         "Lighting:electricity_grid": {
           "Count": "Int:31815"
         },
@@ -1634,7 +1634,7 @@
           "Count": "Int:46"
         }
       },
-      "DSD:LK-4309": {
+      "DSD:vavuniya": {
         "Lighting:electricity_grid": {
           "Count": "Int:31538"
         },
@@ -1657,7 +1657,7 @@
           "Count": "Int:44"
         }
       },
-      "DSD:LK-3242": {
+      "DSD:matara_four_gravets": {
         "Lighting:electricity_grid": {
           "Count": "Int:31973"
         },
@@ -1680,7 +1680,7 @@
           "Count": "Int:45"
         }
       },
-      "DSD:LK-2139": {
+      "DSD:udunuwara": {
         "Lighting:electricity_grid": {
           "Count": "Int:31588"
         },
@@ -1703,7 +1703,7 @@
           "Count": "Int:44"
         }
       },
-      "DSD:LK-2136": {
+      "DSD:yatinuwara": {
         "Lighting:electricity_grid": {
           "Count": "Int:30765"
         },
@@ -1726,7 +1726,7 @@
           "Count": "Int:58"
         }
       },
-      "DSD:LK-8130": {
+      "DSD:welimada": {
         "Lighting:electricity_grid": {
           "Count": "Int:29051"
         },
@@ -1749,7 +1749,7 @@
           "Count": "Int:62"
         }
       },
-      "DSD:LK-1124": {
+      "DSD:sri_jayawardanapura_kotte": {
         "Lighting:electricity_grid": {
           "Count": "Int:27604"
         },
@@ -1772,7 +1772,7 @@
           "Count": "Int:47"
         }
       },
-      "DSD:LK-5315": {
+      "DSD:town_and_gravets": {
         "Lighting:electricity_grid": {
           "Count": "Int:27165"
         },
@@ -1795,7 +1795,7 @@
           "Count": "Int:48"
         }
       },
-      "DSD:LK-2151": {
+      "DSD:udapalatha": {
         "Lighting:electricity_grid": {
           "Count": "Int:27198"
         },
@@ -1818,7 +1818,7 @@
           "Count": "Int:38"
         }
       },
-      "DSD:LK-8124": {
+      "DSD:hali_ela": {
         "Lighting:electricity_grid": {
           "Count": "Int:26830"
         },
@@ -1841,7 +1841,7 @@
           "Count": "Int:69"
         }
       },
-      "DSD:LK-6163": {
+      "DSD:rideegama": {
         "Lighting:electricity_grid": {
           "Count": "Int:26788"
         },
@@ -1864,7 +1864,7 @@
           "Count": "Int:27"
         }
       },
-      "DSD:LK-9106": {
+      "DSD:kuruvita": {
         "Lighting:electricity_grid": {
           "Count": "Int:26546"
         },
@@ -1887,7 +1887,7 @@
           "Count": "Int:65"
         }
       },
-      "DSD:LK-6130": {
+      "DSD:ibbagamuwa": {
         "Lighting:electricity_grid": {
           "Count": "Int:26473"
         },
@@ -1910,7 +1910,7 @@
           "Count": "Int:43"
         }
       },
-      "DSD:LK-9212": {
+      "DSD:kegalle": {
         "Lighting:electricity_grid": {
           "Count": "Int:26383"
         },
@@ -1933,7 +1933,7 @@
           "Count": "Int:75"
         }
       },
-      "DSD:LK-5118": {
+      "DSD:manmunai_north": {
         "Lighting:electricity_grid": {
           "Count": "Int:26109"
         },
@@ -1956,7 +1956,7 @@
           "Count": "Int:16"
         }
       },
-      "DSD:LK-3139": {
+      "DSD:galle_4_gravets": {
         "Lighting:electricity_grid": {
           "Count": "Int:26251"
         },
@@ -1979,7 +1979,7 @@
           "Count": "Int:30"
         }
       },
-      "DSD:LK-9124": {
+      "DSD:pelmadulla": {
         "Lighting:electricity_grid": {
           "Count": "Int:25541"
         },
@@ -2002,7 +2002,7 @@
           "Count": "Int:119"
         }
       },
-      "DSD:LK-2133": {
+      "DSD:harispattuwa": {
         "Lighting:electricity_grid": {
           "Count": "Int:25838"
         },
@@ -2025,7 +2025,7 @@
           "Count": "Int:58"
         }
       },
-      "DSD:LK-5112": {
+      "DSD:eravur_pattu": {
         "Lighting:electricity_grid": {
           "Count": "Int:23693"
         },
@@ -2048,7 +2048,7 @@
           "Count": "Int:29"
         }
       },
-      "DSD:LK-2112": {
+      "DSD:pathadumbara": {
         "Lighting:electricity_grid": {
           "Count": "Int:25437"
         },
@@ -2071,7 +2071,7 @@
           "Count": "Int:61"
         }
       },
-      "DSD:LK-6127": {
+      "DSD:polpitigama": {
         "Lighting:electricity_grid": {
           "Count": "Int:24948"
         },
@@ -2094,7 +2094,7 @@
           "Count": "Int:39"
         }
       },
-      "DSD:LK-8103": {
+      "DSD:mahiyanganaya": {
         "Lighting:electricity_grid": {
           "Count": "Int:24933"
         },
@@ -2117,7 +2117,7 @@
           "Count": "Int:35"
         }
       },
-      "DSD:LK-1130": {
+      "DSD:dehiwala": {
         "Lighting:electricity_grid": {
           "Count": "Int:25370"
         },
@@ -2140,7 +2140,7 @@
           "Count": "Int:19"
         }
       },
-      "DSD:LK-7215": {
+      "DSD:thamankaduwa": {
         "Lighting:electricity_grid": {
           "Count": "Int:24958"
         },
@@ -2163,7 +2163,7 @@
           "Count": "Int:91"
         }
       },
-      "DSD:LK-1131": {
+      "DSD:ratmalana": {
         "Lighting:electricity_grid": {
           "Count": "Int:25037"
         },
@@ -2186,7 +2186,7 @@
           "Count": "Int:30"
         }
       },
-      "DSD:LK-9203": {
+      "DSD:rambukkana": {
         "Lighting:electricity_grid": {
           "Count": "Int:24511"
         },
@@ -2209,7 +2209,7 @@
           "Count": "Int:51"
         }
       },
-      "DSD:LK-6203": {
+      "DSD:kalpitiya": {
         "Lighting:electricity_grid": {
           "Count": "Int:23121"
         },
@@ -2232,7 +2232,7 @@
           "Count": "Int:37"
         }
       },
-      "DSD:LK-7212": {
+      "DSD:dimbulagala": {
         "Lighting:electricity_grid": {
           "Count": "Int:23680"
         },
@@ -2255,7 +2255,7 @@
           "Count": "Int:38"
         }
       },
-      "DSD:LK-6172": {
+      "DSD:kuliyapitiya_west": {
         "Lighting:electricity_grid": {
           "Count": "Int:23799"
         },
@@ -2278,7 +2278,7 @@
           "Count": "Int:38"
         }
       },
-      "DSD:LK-6215": {
+      "DSD:puttalam": {
         "Lighting:electricity_grid": {
           "Count": "Int:23537"
         },
@@ -2301,7 +2301,7 @@
           "Count": "Int:72"
         }
       },
-      "DSD:LK-6154": {
+      "DSD:kurunegala": {
         "Lighting:electricity_grid": {
           "Count": "Int:23671"
         },
@@ -2324,7 +2324,7 @@
           "Count": "Int:35"
         }
       },
-      "DSD:LK-3145": {
+      "DSD:akmeemana": {
         "Lighting:electricity_grid": {
           "Count": "Int:23356"
         },
@@ -2347,7 +2347,7 @@
           "Count": "Int:57"
         }
       },
-      "DSD:LK-1330": {
+      "DSD:matugama": {
         "Lighting:electricity_grid": {
           "Count": "Int:23266"
         },
@@ -2370,7 +2370,7 @@
           "Count": "Int:18"
         }
       },
-      "DSD:LK-9230": {
+      "DSD:dehiowita": {
         "Lighting:electricity_grid": {
           "Count": "Int:22941"
         },
@@ -2393,7 +2393,7 @@
           "Count": "Int:37"
         }
       },
-      "DSD:LK-8127": {
+      "DSD:uvaparanagama": {
         "Lighting:electricity_grid": {
           "Count": "Int:22865"
         },
@@ -2416,7 +2416,7 @@
           "Count": "Int:32"
         }
       },
-      "DSD:LK-2206": {
+      "DSD:dambulla": {
         "Lighting:electricity_grid": {
           "Count": "Int:22720"
         },
@@ -2439,7 +2439,7 @@
           "Count": "Int:35"
         }
       },
-      "DSD:LK-2312": {
+      "DSD:nuwara_eliya": {
         "Lighting:electricity_grid": {
           "Count": "Int:22632"
         },
@@ -2462,7 +2462,7 @@
           "Count": "Int:25"
         }
       },
-      "DSD:LK-9142": {
+      "DSD:godakawela": {
         "Lighting:electricity_grid": {
           "Count": "Int:22240"
         },
@@ -2485,7 +2485,7 @@
           "Count": "Int:103"
         }
       },
-      "DSD:LK-2203": {
+      "DSD:galewela": {
         "Lighting:electricity_grid": {
           "Count": "Int:22176"
         },
@@ -2508,7 +2508,7 @@
           "Count": "Int:22"
         }
       },
-      "DSD:LK-3315": {
+      "DSD:ambalantota": {
         "Lighting:electricity_grid": {
           "Count": "Int:21921"
         },
@@ -2531,7 +2531,7 @@
           "Count": "Int:149"
         }
       },
-      "DSD:LK-2218": {
+      "DSD:matale": {
         "Lighting:electricity_grid": {
           "Count": "Int:21968"
         },
@@ -2554,7 +2554,7 @@
           "Count": "Int:41"
         }
       },
-      "DSD:LK-8121": {
+      "DSD:badulla": {
         "Lighting:electricity_grid": {
           "Count": "Int:21925"
         },
@@ -2577,7 +2577,7 @@
           "Count": "Int:29"
         }
       },
-      "DSD:LK-5324": {
+      "DSD:kinniya": {
         "Lighting:electricity_grid": {
           "Count": "Int:21202"
         },
@@ -2600,7 +2600,7 @@
           "Count": "Int:141"
         }
       },
-      "DSD:LK-3333": {
+      "DSD:tangalle": {
         "Lighting:electricity_grid": {
           "Count": "Int:21596"
         },
@@ -2623,7 +2623,7 @@
           "Count": "Int:113"
         }
       },
-      "DSD:LK-8221": {
+      "DSD:wellawaya": {
         "Lighting:electricity_grid": {
           "Count": "Int:20733"
         },
@@ -2646,7 +2646,7 @@
           "Count": "Int:158"
         }
       },
-      "DSD:LK-7133": {
+      "DSD:nuwaragam_palatha_east": {
         "Lighting:electricity_grid": {
           "Count": "Int:21194"
         },
@@ -2669,7 +2669,7 @@
           "Count": "Int:35"
         }
       },
-      "DSD:LK-9118": {
+      "DSD:balangoda": {
         "Lighting:electricity_grid": {
           "Count": "Int:20845"
         },
@@ -2692,7 +2692,7 @@
           "Count": "Int:36"
         }
       },
-      "DSD:LK-9215": {
+      "DSD:galigamuwa": {
         "Lighting:electricity_grid": {
           "Count": "Int:20912"
         },
@@ -2715,7 +2715,7 @@
           "Count": "Int:27"
         }
       },
-      "DSD:LK-3309": {
+      "DSD:thissamaharama": {
         "Lighting:electricity_grid": {
           "Count": "Int:20505"
         },
@@ -2738,7 +2738,7 @@
           "Count": "Int:176"
         }
       },
-      "DSD:LK-1118": {
+      "DSD:padukka": {
         "Lighting:electricity_grid": {
           "Count": "Int:20606"
         },
@@ -2761,7 +2761,7 @@
           "Count": "Int:27"
         }
       },
-      "DSD:LK-7206": {
+      "DSD:medirigiriya": {
         "Lighting:electricity_grid": {
           "Count": "Int:20168"
         },
@@ -2784,7 +2784,7 @@
           "Count": "Int:61"
         }
       },
-      "DSD:LK-9103": {
+      "DSD:eheliyagoda": {
         "Lighting:electricity_grid": {
           "Count": "Int:20053"
         },
@@ -2807,7 +2807,7 @@
           "Count": "Int:55"
         }
       },
-      "DSD:LK-7203": {
+      "DSD:higurakgoda": {
         "Lighting:electricity_grid": {
           "Count": "Int:19913"
         },
@@ -2830,7 +2830,7 @@
           "Count": "Int:24"
         }
       },
-      "DSD:LK-6145": {
+      "DSD:panduwasnuwara_west": {
         "Lighting:electricity_grid": {
           "Count": "Int:19960"
         },
@@ -2853,7 +2853,7 @@
           "Count": "Int:21"
         }
       },
-      "DSD:LK-7115": {
+      "DSD:nuwaragam_palatha_central": {
         "Lighting:electricity_grid": {
           "Count": "Int:19635"
         },
@@ -2876,7 +2876,7 @@
           "Count": "Int:27"
         }
       },
-      "DSD:LK-9209": {
+      "DSD:aranayake": {
         "Lighting:electricity_grid": {
           "Count": "Int:19731"
         },
@@ -2899,7 +2899,7 @@
           "Count": "Int:47"
         }
       },
-      "DSD:LK-2233": {
+      "DSD:ukuwela": {
         "Lighting:electricity_grid": {
           "Count": "Int:19812"
         },
@@ -2922,7 +2922,7 @@
           "Count": "Int:31"
         }
       },
-      "DSD:LK-6160": {
+      "DSD:mawathagama": {
         "Lighting:electricity_grid": {
           "Count": "Int:19652"
         },
@@ -2945,7 +2945,7 @@
           "Count": "Int:44"
         }
       },
-      "DSD:LK-6245": {
+      "DSD:wennappuwa": {
         "Lighting:electricity_grid": {
           "Count": "Int:19759"
         },
@@ -2968,7 +2968,7 @@
           "Count": "Int:24"
         }
       },
-      "DSD:LK-3109": {
+      "DSD:karandeniya": {
         "Lighting:electricity_grid": {
           "Count": "Int:19606"
         },
@@ -2991,7 +2991,7 @@
           "Count": "Int:52"
         }
       },
-      "DSD:LK-4118": {
+      "DSD:valikamam_east_kopay": {
         "Lighting:electricity_grid": {
           "Count": "Int:19270"
         },
@@ -3014,7 +3014,7 @@
           "Count": "Int:25"
         }
       },
-      "DSD:LK-6136": {
+      "DSD:wariyapola": {
         "Lighting:electricity_grid": {
           "Count": "Int:19382"
         },
@@ -3037,7 +3037,7 @@
           "Count": "Int:24"
         }
       },
-      "DSD:LK-5218": {
+      "DSD:sammanthurai": {
         "Lighting:electricity_grid": {
           "Count": "Int:19213"
         },
@@ -3060,7 +3060,7 @@
           "Count": "Int:239"
         }
       },
-      "DSD:LK-6142": {
+      "DSD:bingiriya": {
         "Lighting:electricity_grid": {
           "Count": "Int:19300"
         },
@@ -3083,7 +3083,7 @@
           "Count": "Int:27"
         }
       },
-      "DSD:LK-4509": {
+      "DSD:karachchi": {
         "Lighting:electricity_grid": {
           "Count": "Int:18849"
         },
@@ -3106,7 +3106,7 @@
           "Count": "Int:21"
         }
       },
-      "DSD:LK-3239": {
+      "DSD:weligama": {
         "Lighting:electricity_grid": {
           "Count": "Int:19352"
         },
@@ -3129,7 +3129,7 @@
           "Count": "Int:37"
         }
       },
-      "DSD:LK-5327": {
+      "DSD:muthur": {
         "Lighting:electricity_grid": {
           "Count": "Int:18578"
         },
@@ -3152,7 +3152,7 @@
           "Count": "Int:59"
         }
       },
-      "DSD:LK-3112": {
+      "DSD:elpitiya": {
         "Lighting:electricity_grid": {
           "Count": "Int:19039"
         },
@@ -3175,7 +3175,7 @@
           "Count": "Int:38"
         }
       },
-      "DSD:LK-6242": {
+      "DSD:nattandiya": {
         "Lighting:electricity_grid": {
           "Count": "Int:18837"
         },
@@ -3198,7 +3198,7 @@
           "Count": "Int:30"
         }
       },
-      "DSD:LK-6187": {
+      "DSD:polgahawela": {
         "Lighting:electricity_grid": {
           "Count": "Int:18909"
         },
@@ -3221,7 +3221,7 @@
           "Count": "Int:19"
         }
       },
-      "DSD:LK-6124": {
+      "DSD:maho": {
         "Lighting:electricity_grid": {
           "Count": "Int:18651"
         },
@@ -3244,7 +3244,7 @@
           "Count": "Int:21"
         }
       },
-      "DSD:LK-6218": {
+      "DSD:mundel": {
         "Lighting:electricity_grid": {
           "Count": "Int:18521"
         },
@@ -3267,7 +3267,7 @@
           "Count": "Int:32"
         }
       },
-      "DSD:LK-6184": {
+      "DSD:alawwa": {
         "Lighting:electricity_grid": {
           "Count": "Int:18647"
         },
@@ -3290,7 +3290,7 @@
           "Count": "Int:30"
         }
       },
-      "DSD:LK-4130": {
+      "DSD:thenmaradchi_chavakachcheri": {
         "Lighting:electricity_grid": {
           "Count": "Int:18661"
         },
@@ -3313,7 +3313,7 @@
           "Count": "Int:14"
         }
       },
-      "DSD:LK-4133": {
+      "DSD:nallur": {
         "Lighting:electricity_grid": {
           "Count": "Int:18836"
         },
@@ -3336,7 +3336,7 @@
           "Count": "Int:1"
         }
       },
-      "DSD:LK-3106": {
+      "DSD:balapitiya": {
         "Lighting:electricity_grid": {
           "Count": "Int:18638"
         },
@@ -3359,7 +3359,7 @@
           "Count": "Int:88"
         }
       },
-      "DSD:LK-6248": {
+      "DSD:dankotuwa": {
         "Lighting:electricity_grid": {
           "Count": "Int:18664"
         },
@@ -3382,7 +3382,7 @@
           "Count": "Int:18"
         }
       },
-      "DSD:LK-1312": {
+      "DSD:bulathsinhala": {
         "Lighting:electricity_grid": {
           "Count": "Int:18345"
         },
@@ -3405,7 +3405,7 @@
           "Count": "Int:24"
         }
       },
-      "DSD:LK-6233": {
+      "DSD:chilaw": {
         "Lighting:electricity_grid": {
           "Count": "Int:18498"
         },
@@ -3428,7 +3428,7 @@
           "Count": "Int:27"
         }
       },
-      "DSD:LK-9115": {
+      "DSD:imbulpe": {
         "Lighting:electricity_grid": {
           "Count": "Int:18286"
         },
@@ -3451,7 +3451,7 @@
           "Count": "Int:22"
         }
       },
-      "DSD:LK-1327": {
+      "DSD:dodangoda": {
         "Lighting:electricity_grid": {
           "Count": "Int:18382"
         },
@@ -3474,7 +3474,7 @@
           "Count": "Int:17"
         }
       },
-      "DSD:LK-8133": {
+      "DSD:bandarawela": {
         "Lighting:electricity_grid": {
           "Count": "Int:18479"
         },
@@ -3497,7 +3497,7 @@
           "Count": "Int:22"
         }
       },
-      "DSD:LK-5203": {
+      "DSD:dehiattakandiya": {
         "Lighting:electricity_grid": {
           "Count": "Int:18267"
         },
@@ -3520,7 +3520,7 @@
           "Count": "Int:42"
         }
       },
-      "DSD:LK-2124": {
+      "DSD:medadumbara": {
         "Lighting:electricity_grid": {
           "Count": "Int:18160"
         },
@@ -3543,7 +3543,7 @@
           "Count": "Int:37"
         }
       },
-      "DSD:LK-9221": {
+      "DSD:ruwanwella": {
         "Lighting:electricity_grid": {
           "Count": "Int:17872"
         },
@@ -3566,7 +3566,7 @@
           "Count": "Int:39"
         }
       },
-      "DSD:LK-3312": {
+      "DSD:hambantota": {
         "Lighting:electricity_grid": {
           "Count": "Int:17740"
         },
@@ -3589,7 +3589,7 @@
           "Count": "Int:201"
         }
       },
-      "DSD:LK-7154": {
+      "DSD:kekirawa": {
         "Lighting:electricity_grid": {
           "Count": "Int:17946"
         },
@@ -3612,7 +3612,7 @@
           "Count": "Int:32"
         }
       },
-      "DSD:LK-3209": {
+      "DSD:pasgoda": {
         "Lighting:electricity_grid": {
           "Count": "Int:17854"
         },
@@ -3635,7 +3635,7 @@
           "Count": "Int:59"
         }
       },
-      "DSD:LK-2309": {
+      "DSD:walapane": {
         "Lighting:electricity_grid": {
           "Count": "Int:17788"
         },
@@ -3658,7 +3658,7 @@
           "Count": "Int:50"
         }
       },
-      "DSD:LK-6106": {
+      "DSD:galgamuwa": {
         "Lighting:electricity_grid": {
           "Count": "Int:17623"
         },
@@ -3681,7 +3681,7 @@
           "Count": "Int:10"
         }
       },
-      "DSD:LK-7148": {
+      "DSD:thalawa": {
         "Lighting:electricity_grid": {
           "Count": "Int:17580"
         },
@@ -3704,7 +3704,7 @@
           "Count": "Int:22"
         }
       },
-      "DSD:LK-3206": {
+      "DSD:kotapola": {
         "Lighting:electricity_grid": {
           "Count": "Int:17654"
         },
@@ -3727,7 +3727,7 @@
           "Count": "Int:51"
         }
       },
-      "DSD:LK-8212": {
+      "DSD:siyambalanduwa": {
         "Lighting:electricity_grid": {
           "Count": "Int:17134"
         },
@@ -3750,7 +3750,7 @@
           "Count": "Int:58"
         }
       },
-      "DSD:LK-8224": {
+      "DSD:buttala": {
         "Lighting:electricity_grid": {
           "Count": "Int:17039"
         },
@@ -3773,7 +3773,7 @@
           "Count": "Int:55"
         }
       },
-      "DSD:LK-2157": {
+      "DSD:pasbagekorale": {
         "Lighting:electricity_grid": {
           "Count": "Int:17460"
         },
@@ -3796,7 +3796,7 @@
           "Count": "Int:14"
         }
       },
-      "DSD:LK-9227": {
+      "DSD:yatiyantota": {
         "Lighting:electricity_grid": {
           "Count": "Int:17108"
         },
@@ -3819,7 +3819,7 @@
           "Count": "Int:38"
         }
       },
-      "DSD:LK-2303": {
+      "DSD:kothmale_east": {
         "Lighting:electricity_grid": {
           "Count": "Int:17125"
         },
@@ -3842,7 +3842,7 @@
           "Count": "Int:17"
         }
       },
-      "DSD:LK-5212": {
+      "DSD:uhana": {
         "Lighting:electricity_grid": {
           "Count": "Int:16927"
         },
@@ -3865,7 +3865,7 @@
           "Count": "Int:76"
         }
       },
-      "DSD:LK-8106": {
+      "DSD:rideemaliyadda": {
         "Lighting:electricity_grid": {
           "Count": "Int:16818"
         },
@@ -3888,7 +3888,7 @@
           "Count": "Int:18"
         }
       },
-      "DSD:LK-5136": {
+      "DSD:manmunai_south_and_eruvil_pattu": {
         "Lighting:electricity_grid": {
           "Count": "Int:16912"
         },
@@ -3911,7 +3911,7 @@
           "Count": "Int:8"
         }
       },
-      "DSD:LK-3154": {
+      "DSD:habaraduwa": {
         "Lighting:electricity_grid": {
           "Count": "Int:17064"
         },
@@ -3934,7 +3934,7 @@
           "Count": "Int:32"
         }
       },
-      "DSD:LK-6181": {
+      "DSD:narammala": {
         "Lighting:electricity_grid": {
           "Count": "Int:16748"
         },
@@ -3957,7 +3957,7 @@
           "Count": "Int:35"
         }
       },
-      "DSD:LK-2145": {
+      "DSD:pathahewaheta": {
         "Lighting:electricity_grid": {
           "Count": "Int:16698"
         },
@@ -3980,7 +3980,7 @@
           "Count": "Int:56"
         }
       },
-      "DSD:LK-2306": {
+      "DSD:hanguranketa": {
         "Lighting:electricity_grid": {
           "Count": "Int:16609"
         },
@@ -4003,7 +4003,7 @@
           "Count": "Int:44"
         }
       },
-      "DSD:LK-3133": {
+      "DSD:ambalangoda": {
         "Lighting:electricity_grid": {
           "Count": "Int:16668"
         },
@@ -4026,7 +4026,7 @@
           "Count": "Int:82"
         }
       },
-      "DSD:LK-9136": {
+      "DSD:nivithigala": {
         "Lighting:electricity_grid": {
           "Count": "Int:16268"
         },
@@ -4049,7 +4049,7 @@
           "Count": "Int:77"
         }
       },
-      "DSD:LK-6157": {
+      "DSD:mallawapitiya": {
         "Lighting:electricity_grid": {
           "Count": "Int:16348"
         },
@@ -4072,7 +4072,7 @@
           "Count": "Int:29"
         }
       },
-      "DSD:LK-3330": {
+      "DSD:beliatta": {
         "Lighting:electricity_grid": {
           "Count": "Int:16335"
         },
@@ -4095,7 +4095,7 @@
           "Count": "Int:49"
         }
       },
-      "DSD:LK-6169": {
+      "DSD:kuliyapitiya_east": {
         "Lighting:electricity_grid": {
           "Count": "Int:16258"
         },
@@ -4118,7 +4118,7 @@
           "Count": "Int:19"
         }
       },
-      "DSD:LK-1310": {
+      "DSD:ingiriya": {
         "Lighting:electricity_grid": {
           "Count": "Int:16249"
         },
@@ -4141,7 +4141,7 @@
           "Count": "Int:30"
         }
       },
-      "DSD:LK-2109": {
+      "DSD:akurana": {
         "Lighting:electricity_grid": {
           "Count": "Int:16152"
         },
@@ -4164,7 +4164,7 @@
           "Count": "Int:34"
         }
       },
-      "DSD:LK-2121": {
+      "DSD:minipe": {
         "Lighting:electricity_grid": {
           "Count": "Int:15766"
         },
@@ -4187,7 +4187,7 @@
           "Count": "Int:30"
         }
       },
-      "DSD:LK-7139": {
+      "DSD:nochchiyagama": {
         "Lighting:electricity_grid": {
           "Count": "Int:15730"
         },
@@ -4210,7 +4210,7 @@
           "Count": "Int:40"
         }
       },
-      "DSD:LK-2230": {
+      "DSD:rattota": {
         "Lighting:electricity_grid": {
           "Count": "Int:15723"
         },
@@ -4233,7 +4233,7 @@
           "Count": "Int:16"
         }
       },
-      "DSD:LK-8215": {
+      "DSD:monaragala": {
         "Lighting:electricity_grid": {
           "Count": "Int:15543"
         },
@@ -4256,7 +4256,7 @@
           "Count": "Int:21"
         }
       },
-      "DSD:LK-1339": {
+      "DSD:walallawita": {
         "Lighting:electricity_grid": {
           "Count": "Int:15696"
         },
@@ -4279,7 +4279,7 @@
           "Count": "Int:13"
         }
       },
-      "DSD:LK-6175": {
+      "DSD:udubaddawa": {
         "Lighting:electricity_grid": {
           "Count": "Int:15685"
         },
@@ -4302,7 +4302,7 @@
           "Count": "Int:24"
         }
       },
-      "DSD:LK-2106": {
+      "DSD:poojapitiya": {
         "Lighting:electricity_grid": {
           "Count": "Int:15609"
         },
@@ -4325,7 +4325,7 @@
           "Count": "Int:22"
         }
       },
-      "DSD:LK-1318": {
+      "DSD:millaniya": {
         "Lighting:electricity_grid": {
           "Count": "Int:15594"
         },
@@ -4348,7 +4348,7 @@
           "Count": "Int:19"
         }
       },
-      "DSD:LK-2154": {
+      "DSD:ganga_ihala_korale": {
         "Lighting:electricity_grid": {
           "Count": "Int:15470"
         },
@@ -4371,7 +4371,7 @@
           "Count": "Int:19"
         }
       },
-      "DSD:LK-3142": {
+      "DSD:bope_poddala": {
         "Lighting:electricity_grid": {
           "Count": "Int:15346"
         },
@@ -4394,7 +4394,7 @@
           "Count": "Int:13"
         }
       },
-      "DSD:LK-3124": {
+      "DSD:nagoda": {
         "Lighting:electricity_grid": {
           "Count": "Int:15340"
         },
@@ -4417,7 +4417,7 @@
           "Count": "Int:15"
         }
       },
-      "DSD:LK-3318": {
+      "DSD:angunakolapelessa": {
         "Lighting:electricity_grid": {
           "Count": "Int:15083"
         },
@@ -4440,7 +4440,7 @@
           "Count": "Int:65"
         }
       },
-      "DSD:LK-7109": {
+      "DSD:medawachchiya": {
         "Lighting:electricity_grid": {
           "Count": "Int:14862"
         },
@@ -4463,7 +4463,7 @@
           "Count": "Int:31"
         }
       },
-      "DSD:LK-3248": {
+      "DSD:dikwella": {
         "Lighting:electricity_grid": {
           "Count": "Int:15027"
         },
@@ -4486,7 +4486,7 @@
           "Count": "Int:65"
         }
       },
-      "DSD:LK-9133": {
+      "DSD:kalawana": {
         "Lighting:electricity_grid": {
           "Count": "Int:14807"
         },
@@ -4509,7 +4509,7 @@
           "Count": "Int:37"
         }
       },
-      "DSD:LK-3324": {
+      "DSD:katuwana": {
         "Lighting:electricity_grid": {
           "Count": "Int:14693"
         },
@@ -4532,7 +4532,7 @@
           "Count": "Int:101"
         }
       },
-      "DSD:LK-3218": {
+      "DSD:akuressa": {
         "Lighting:electricity_grid": {
           "Count": "Int:14947"
         },
@@ -4555,7 +4555,7 @@
           "Count": "Int:33"
         }
       },
-      "DSD:LK-1336": {
+      "DSD:palindanuwara": {
         "Lighting:electricity_grid": {
           "Count": "Int:14669"
         },
@@ -4578,7 +4578,7 @@
           "Count": "Int:35"
         }
       },
-      "DSD:LK-3221": {
+      "DSD:welipitiya": {
         "Lighting:electricity_grid": {
           "Count": "Int:14822"
         },
@@ -4601,7 +4601,7 @@
           "Count": "Int:50"
         }
       },
-      "DSD:LK-9151": {
+      "DSD:kolonna": {
         "Lighting:electricity_grid": {
           "Count": "Int:14521"
         },
@@ -4624,7 +4624,7 @@
           "Count": "Int:23"
         }
       },
-      "DSD:LK-6236": {
+      "DSD:madampe": {
         "Lighting:electricity_grid": {
           "Count": "Int:14567"
         },
@@ -4647,7 +4647,7 @@
           "Count": "Int:6"
         }
       },
-      "DSD:LK-6239": {
+      "DSD:mahawewa": {
         "Lighting:electricity_grid": {
           "Count": "Int:14559"
         },
@@ -4670,7 +4670,7 @@
           "Count": "Int:3"
         }
       },
-      "DSD:LK-4203": {
+      "DSD:mannar_town": {
         "Lighting:electricity_grid": {
           "Count": "Int:14337"
         },
@@ -4693,7 +4693,7 @@
           "Count": "Int:28"
         }
       },
-      "DSD:LK-2142": {
+      "DSD:doluwa": {
         "Lighting:electricity_grid": {
           "Count": "Int:14396"
         },
@@ -4716,7 +4716,7 @@
           "Count": "Int:35"
         }
       },
-      "DSD:LK-3203": {
+      "DSD:pitabaddara": {
         "Lighting:electricity_grid": {
           "Count": "Int:14360"
         },
@@ -4739,7 +4739,7 @@
           "Count": "Int:45"
         }
       },
-      "DSD:LK-3212": {
+      "DSD:mulatiyana": {
         "Lighting:electricity_grid": {
           "Count": "Int:14481"
         },
@@ -4762,7 +4762,7 @@
           "Count": "Int:22"
         }
       },
-      "DSD:LK-5321": {
+      "DSD:kantale": {
         "Lighting:electricity_grid": {
           "Count": "Int:14138"
         },
@@ -4785,7 +4785,7 @@
           "Count": "Int:87"
         }
       },
-      "DSD:LK-7127": {
+      "DSD:galenbidunuwewa": {
         "Lighting:electricity_grid": {
           "Count": "Int:14167"
         },
@@ -4808,7 +4808,7 @@
           "Count": "Int:10"
         }
       },
-      "DSD:LK-3303": {
+      "DSD:sooriyawewa": {
         "Lighting:electricity_grid": {
           "Count": "Int:13979"
         },
@@ -4831,7 +4831,7 @@
           "Count": "Int:129"
         }
       },
-      "DSD:LK-3127": {
+      "DSD:baddegama": {
         "Lighting:electricity_grid": {
           "Count": "Int:14076"
         },
@@ -4854,7 +4854,7 @@
           "Count": "Int:42"
         }
       },
-      "DSD:LK-8118": {
+      "DSD:passara": {
         "Lighting:electricity_grid": {
           "Count": "Int:13936"
         },
@@ -4877,7 +4877,7 @@
           "Count": "Int:40"
         }
       },
-      "DSD:LK-7218": {
+      "DSD:elahera": {
         "Lighting:electricity_grid": {
           "Count": "Int:13877"
         },
@@ -4900,7 +4900,7 @@
           "Count": "Int:8"
         }
       },
-      "DSD:LK-4109": {
+      "DSD:valikamam_south_west_sandilipay": {
         "Lighting:electricity_grid": {
           "Count": "Int:13834"
         },
@@ -4923,7 +4923,7 @@
           "Count": "Int:12"
         }
       },
-      "DSD:LK-5224": {
+      "DSD:kalmunai": {
         "Lighting:electricity_grid": {
           "Count": "Int:13869"
         },
@@ -4946,7 +4946,7 @@
           "Count": "Int:10"
         }
       },
-      "DSD:LK-8139": {
+      "DSD:haputale": {
         "Lighting:electricity_grid": {
           "Count": "Int:13730"
         },
@@ -4969,7 +4969,7 @@
           "Count": "Int:14"
         }
       },
-      "DSD:LK-8233": {
+      "DSD:sevanagala": {
         "Lighting:electricity_grid": {
           "Count": "Int:13490"
         },
@@ -4992,7 +4992,7 @@
           "Count": "Int:91"
         }
       },
-      "DSD:LK-3103": {
+      "DSD:bentota": {
         "Lighting:electricity_grid": {
           "Count": "Int:13599"
         },
@@ -5015,7 +5015,7 @@
           "Count": "Int:31"
         }
       },
-      "DSD:LK-8203": {
+      "DSD:bibile": {
         "Lighting:electricity_grid": {
           "Count": "Int:13294"
         },
@@ -5038,7 +5038,7 @@
           "Count": "Int:22"
         }
       },
-      "DSD:LK-8136": {
+      "DSD:ella": {
         "Lighting:electricity_grid": {
           "Count": "Int:13448"
         },
@@ -5061,7 +5061,7 @@
           "Count": "Int:24"
         }
       },
-      "DSD:LK-3321": {
+      "DSD:weeraketiya": {
         "Lighting:electricity_grid": {
           "Count": "Int:13381"
         },
@@ -5084,7 +5084,7 @@
           "Count": "Int:52"
         }
       },
-      "DSD:LK-5233": {
+      "DSD:addalaichenai": {
         "Lighting:electricity_grid": {
           "Count": "Int:13099"
         },
@@ -5107,7 +5107,7 @@
           "Count": "Int:40"
         }
       },
-      "DSD:LK-3325": {
+      "DSD:walasmulla": {
         "Lighting:electricity_grid": {
           "Count": "Int:13200"
         },
@@ -5130,7 +5130,7 @@
           "Count": "Int:35"
         }
       },
-      "DSD:LK-7145": {
+      "DSD:thambuththegama": {
         "Lighting:electricity_grid": {
           "Count": "Int:13170"
         },
@@ -5153,7 +5153,7 @@
           "Count": "Int:49"
         }
       },
-      "DSD:LK-3148": {
+      "DSD:yakkalamulla": {
         "Lighting:electricity_grid": {
           "Count": "Int:13241"
         },
@@ -5176,7 +5176,7 @@
           "Count": "Int:19"
         }
       },
-      "DSD:LK-3151": {
+      "DSD:imaduwa": {
         "Lighting:electricity_grid": {
           "Count": "Int:13232"
         },
@@ -5199,7 +5199,7 @@
           "Count": "Int:21"
         }
       },
-      "DSD:LK-3245": {
+      "DSD:devinuwara": {
         "Lighting:electricity_grid": {
           "Count": "Int:13249"
         },
@@ -5222,7 +5222,7 @@
           "Count": "Int:27"
         }
       },
-      "DSD:LK-4115": {
+      "DSD:valikamam_south_uduvil": {
         "Lighting:electricity_grid": {
           "Count": "Int:13033"
         },
@@ -5245,7 +5245,7 @@
           "Count": "Int:8"
         }
       },
-      "DSD:LK-8218": {
+      "DSD:badalkumbura": {
         "Lighting:electricity_grid": {
           "Count": "Int:12992"
         },
@@ -5268,7 +5268,7 @@
           "Count": "Int:38"
         }
       },
-      "DSD:LK-5215": {
+      "DSD:ampara": {
         "Lighting:electricity_grid": {
           "Count": "Int:13006"
         },
@@ -5291,7 +5291,7 @@
           "Count": "Int:21"
         }
       },
-      "DSD:LK-5124": {
+      "DSD:kattankudy": {
         "Lighting:electricity_grid": {
           "Count": "Int:12971"
         },
@@ -5314,7 +5314,7 @@
           "Count": "Int:46"
         }
       },
-      "DSD:LK-9233": {
+      "DSD:deraniyagala": {
         "Lighting:electricity_grid": {
           "Count": "Int:12744"
         },
@@ -5337,7 +5337,7 @@
           "Count": "Int:28"
         }
       },
-      "DSD:LK-6133": {
+      "DSD:ganewatta": {
         "Lighting:electricity_grid": {
           "Count": "Int:12701"
         },
@@ -5360,7 +5360,7 @@
           "Count": "Int:8"
         }
       },
-      "DSD:LK-9224": {
+      "DSD:bulathkohipitiya": {
         "Lighting:electricity_grid": {
           "Count": "Int:12673"
         },
@@ -5383,7 +5383,7 @@
           "Count": "Int:24"
         }
       },
-      "DSD:LK-6224": {
+      "DSD:anamaduwa": {
         "Lighting:electricity_grid": {
           "Count": "Int:12587"
         },
@@ -5406,7 +5406,7 @@
           "Count": "Int:11"
         }
       },
-      "DSD:LK-6121": {
+      "DSD:nikaweratiya": {
         "Lighting:electricity_grid": {
           "Count": "Int:12585"
         },
@@ -5429,7 +5429,7 @@
           "Count": "Int:21"
         }
       },
-      "DSD:LK-7121": {
+      "DSD:kahatagasdigiliya": {
         "Lighting:electricity_grid": {
           "Count": "Int:12480"
         },
@@ -5452,7 +5452,7 @@
           "Count": "Int:10"
         }
       },
-      "DSD:LK-2315": {
+      "DSD:ambagamuwa_korale": {
         "Lighting:electricity_grid": {
           "Count": "Int:12615"
         },
@@ -5475,7 +5475,7 @@
           "Count": "Int:20"
         }
       },
-      "DSD:LK-6230": {
+      "DSD:arachchikattuwa": {
         "Lighting:electricity_grid": {
           "Count": "Int:12497"
         },
@@ -5498,7 +5498,7 @@
           "Count": "Int:13"
         }
       },
-      "DSD:LK-2310": {
+      "DSD:nildandahinna": {
         "Lighting:electricity_grid": {
           "Count": "Int:12253"
         },
@@ -5521,7 +5521,7 @@
           "Count": "Int:13"
         }
       },
-      "DSD:LK-7160": {
+      "DSD:ipalogama": {
         "Lighting:electricity_grid": {
           "Count": "Int:12205"
         },
@@ -5544,7 +5544,7 @@
           "Count": "Int:17"
         }
       },
-      "DSD:LK-9139": {
+      "DSD:kahawattha": {
         "Lighting:electricity_grid": {
           "Count": "Int:12092"
         },
@@ -5567,7 +5567,7 @@
           "Count": "Int:43"
         }
       },
-      "DSD:LK-8209": {
+      "DSD:medagama": {
         "Lighting:electricity_grid": {
           "Count": "Int:12062"
         },
@@ -5590,7 +5590,7 @@
           "Count": "Int:29"
         }
       },
-      "DSD:LK-4127": {
+      "DSD:vadamaradchi_north_point_pedro": {
         "Lighting:electricity_grid": {
           "Count": "Int:12102"
         },
@@ -5613,7 +5613,7 @@
           "Count": "Int:8"
         }
       },
-      "DSD:LK-5236": {
+      "DSD:akkaraipattu": {
         "Lighting:electricity_grid": {
           "Count": "Int:12086"
         },
@@ -5636,7 +5636,7 @@
           "Count": "Int:15"
         }
       },
-      "DSD:LK-6151": {
+      "DSD:maspotha": {
         "Lighting:electricity_grid": {
           "Count": "Int:11917"
         },
@@ -5659,7 +5659,7 @@
           "Count": "Int:18"
         }
       },
-      "DSD:LK-4136": {
+      "DSD:jaffna": {
         "Lighting:electricity_grid": {
           "Count": "Int:11979"
         },
@@ -5682,7 +5682,7 @@
           "Count": "Int:9"
         }
       },
-      "DSD:LK-4112": {
+      "DSD:valikamam_north_thllippalai": {
         "Lighting:electricity_grid": {
           "Count": "Int:11771"
         },
@@ -5705,7 +5705,7 @@
           "Count": "Int:8"
         }
       },
-      "DSD:LK-3227": {
+      "DSD:kaburupitiya": {
         "Lighting:electricity_grid": {
           "Count": "Int:11845"
         },
@@ -5728,7 +5728,7 @@
           "Count": "Int:20"
         }
       },
-      "DSD:LK-5248": {
+      "DSD:pottuvil": {
         "Lighting:electricity_grid": {
           "Count": "Int:11184"
         },
@@ -5751,7 +5751,7 @@
           "Count": "Int:35"
         }
       },
-      "DSD:LK-6139": {
+      "DSD:kobeigane": {
         "Lighting:electricity_grid": {
           "Count": "Int:11536"
         },
@@ -5774,7 +5774,7 @@
           "Count": "Int:6"
         }
       },
-      "DSD:LK-6149": {
+      "DSD:bamunakotuwa": {
         "Lighting:electricity_grid": {
           "Count": "Int:11431"
         },
@@ -5797,7 +5797,7 @@
           "Count": "Int:19"
         }
       },
-      "DSD:LK-4106": {
+      "DSD:valikamam_west_chankanai": {
         "Lighting:electricity_grid": {
           "Count": "Int:11271"
         },
@@ -5820,7 +5820,7 @@
           "Count": "Int:2"
         }
       },
-      "DSD:LK-2302": {
+      "DSD:kothmale_west": {
         "Lighting:electricity_grid": {
           "Count": "Int:11443"
         },
@@ -5843,7 +5843,7 @@
           "Count": "Int:18"
         }
       },
-      "DSD:LK-7118": {
+      "DSD:rambewa": {
         "Lighting:electricity_grid": {
           "Count": "Int:11269"
         },
@@ -5866,7 +5866,7 @@
           "Count": "Int:12"
         }
       },
-      "DSD:LK-7130": {
+      "DSD:mihinthale": {
         "Lighting:electricity_grid": {
           "Count": "Int:11242"
         },
@@ -5889,7 +5889,7 @@
           "Count": "Int:19"
         }
       },
-      "DSD:LK-5242": {
+      "DSD:damana": {
         "Lighting:electricity_grid": {
           "Count": "Int:11187"
         },
@@ -5912,7 +5912,7 @@
           "Count": "Int:74"
         }
       },
-      "DSD:LK-7163": {
+      "DSD:galnewa": {
         "Lighting:electricity_grid": {
           "Count": "Int:11274"
         },
@@ -5935,7 +5935,7 @@
           "Count": "Int:22"
         }
       },
-      "DSD:LK-5133": {
+      "DSD:porativu_pattu": {
         "Lighting:electricity_grid": {
           "Count": "Int:10772"
         },
@@ -5958,7 +5958,7 @@
           "Count": "Int:44"
         }
       },
-      "DSD:LK-7209": {
+      "DSD:lankapura": {
         "Lighting:electricity_grid": {
           "Count": "Int:11179"
         },
@@ -5981,7 +5981,7 @@
           "Count": "Int:14"
         }
       },
-      "DSD:LK-4121": {
+      "DSD:vadamaradchchi_south_west_karaveddy": {
         "Lighting:electricity_grid": {
           "Count": "Int:11047"
         },
@@ -6004,7 +6004,7 @@
           "Count": "Int:18"
         }
       },
-      "DSD:LK-7124": {
+      "DSD:horowpathana": {
         "Lighting:electricity_grid": {
           "Count": "Int:11007"
         },
@@ -6027,7 +6027,7 @@
           "Count": "Int:28"
         }
       },
-      "DSD:LK-5306": {
+      "DSD:kuchchaweli": {
         "Lighting:electricity_grid": {
           "Count": "Int:10974"
         },
@@ -6050,7 +6050,7 @@
           "Count": "Int:24"
         }
       },
-      "DSD:LK-8142": {
+      "DSD:haldummulla": {
         "Lighting:electricity_grid": {
           "Count": "Int:10847"
         },
@@ -6073,7 +6073,7 @@
           "Count": "Int:22"
         }
       },
-      "DSD:LK-7166": {
+      "DSD:palagala": {
         "Lighting:electricity_grid": {
           "Count": "Int:10825"
         },
@@ -6096,7 +6096,7 @@
           "Count": "Int:25"
         }
       },
-      "DSD:LK-7210": {
+      "DSD:welikanda": {
         "Lighting:electricity_grid": {
           "Count": "Int:10554"
         },
@@ -6119,7 +6119,7 @@
           "Count": "Int:12"
         }
       },
-      "DSD:LK-4409": {
+      "DSD:puthukkudiyiruppu": {
         "Lighting:electricity_grid": {
           "Count": "Int:10353"
         },
@@ -6142,7 +6142,7 @@
           "Count": "Int:75"
         }
       },
-      "DSD:LK-9127": {
+      "DSD:elapatha": {
         "Lighting:electricity_grid": {
           "Count": "Int:10543"
         },
@@ -6165,7 +6165,7 @@
           "Count": "Int:38"
         }
       },
-      "DSD:LK-2103": {
+      "DSD:tumpane": {
         "Lighting:electricity_grid": {
           "Count": "Int:10738"
         },
@@ -6188,7 +6188,7 @@
           "Count": "Int:23"
         }
       },
-      "DSD:LK-6166": {
+      "DSD:weerabugedara": {
         "Lighting:electricity_grid": {
           "Count": "Int:10715"
         },
@@ -6211,7 +6211,7 @@
           "Count": "Int:6"
         }
       },
-      "DSD:LK-3137": {
+      "DSD:rathgama": {
         "Lighting:electricity_grid": {
           "Count": "Int:10733"
         },
@@ -6234,7 +6234,7 @@
           "Count": "Int:15"
         }
       },
-      "DSD:LK-7142": {
+      "DSD:rajanganaya": {
         "Lighting:electricity_grid": {
           "Count": "Int:10502"
         },
@@ -6257,7 +6257,7 @@
           "Count": "Int:19"
         }
       },
-      "DSD:LK-9145": {
+      "DSD:weligepola": {
         "Lighting:electricity_grid": {
           "Count": "Int:10327"
         },
@@ -6280,7 +6280,7 @@
           "Count": "Int:52"
         }
       },
-      "DSD:LK-6103": {
+      "DSD:giribawa": {
         "Lighting:electricity_grid": {
           "Count": "Int:10205"
         },
@@ -6303,7 +6303,7 @@
           "Count": "Int:12"
         }
       },
-      "DSD:LK-1333": {
+      "DSD:agalawatta": {
         "Lighting:electricity_grid": {
           "Count": "Int:10410"
         },
@@ -6326,7 +6326,7 @@
           "Count": "Int:7"
         }
       },
-      "DSD:LK-4415": {
+      "DSD:maritimepattu": {
         "Lighting:electricity_grid": {
           "Count": "Int:9984"
         },
@@ -6349,7 +6349,7 @@
           "Count": "Int:5"
         }
       },
-      "DSD:LK-5127": {
+      "DSD:manmunai_pattu": {
         "Lighting:electricity_grid": {
           "Count": "Int:10147"
         },
@@ -6372,7 +6372,7 @@
           "Count": "Int:14"
         }
       },
-      "DSD:LK-1315": {
+      "DSD:madurawala": {
         "Lighting:electricity_grid": {
           "Count": "Int:10257"
         },
@@ -6395,7 +6395,7 @@
           "Count": "Int:10"
         }
       },
-      "DSD:LK-3306": {
+      "DSD:lunugamwehera": {
         "Lighting:electricity_grid": {
           "Count": "Int:10073"
         },
@@ -6418,7 +6418,7 @@
           "Count": "Int:120"
         }
       },
-      "DSD:LK-3115": {
+      "DSD:niyagama": {
         "Lighting:electricity_grid": {
           "Count": "Int:10253"
         },
@@ -6441,7 +6441,7 @@
           "Count": "Int:13"
         }
       },
-      "DSD:LK-8206": {
+      "DSD:madulla": {
         "Lighting:electricity_grid": {
           "Count": "Int:9992"
         },
@@ -6464,7 +6464,7 @@
           "Count": "Int:12"
         }
       },
-      "DSD:LK-3224": {
+      "DSD:malimbada": {
         "Lighting:electricity_grid": {
           "Count": "Int:10130"
         },
@@ -6487,7 +6487,7 @@
           "Count": "Int:29"
         }
       },
-      "DSD:LK-2227": {
+      "DSD:wilgamuwa": {
         "Lighting:electricity_grid": {
           "Count": "Int:9755"
         },
@@ -6510,7 +6510,7 @@
           "Count": "Int:1"
         }
       },
-      "DSD:LK-2307": {
+      "DSD:mathurata": {
         "Lighting:electricity_grid": {
           "Count": "Int:9531"
         },
@@ -6533,7 +6533,7 @@
           "Count": "Int:19"
         }
       },
-      "DSD:LK-3236": {
+      "DSD:thihagoda": {
         "Lighting:electricity_grid": {
           "Count": "Int:9653"
         },
@@ -6556,7 +6556,7 @@
           "Count": "Int:25"
         }
       },
-      "DSD:LK-5121": {
+      "DSD:manmunai_west": {
         "Lighting:electricity_grid": {
           "Count": "Int:8683"
         },
@@ -6579,7 +6579,7 @@
           "Count": "Int:8"
         }
       },
-      "DSD:LK-9109": {
+      "DSD:kiriella": {
         "Lighting:electricity_grid": {
           "Count": "Int:9461"
         },
@@ -6602,7 +6602,7 @@
           "Count": "Int:27"
         }
       },
-      "DSD:LK-8230": {
+      "DSD:thanamalwila": {
         "Lighting:electricity_grid": {
           "Count": "Int:9166"
         },
@@ -6625,7 +6625,7 @@
           "Count": "Int:45"
         }
       },
-      "DSD:LK-3118": {
+      "DSD:thawalama": {
         "Lighting:electricity_grid": {
           "Count": "Int:9389"
         },
@@ -6648,7 +6648,7 @@
           "Count": "Int:26"
         }
       },
-      "DSD:LK-5318": {
+      "DSD:thambalagamuwa": {
         "Lighting:electricity_grid": {
           "Count": "Int:9151"
         },
@@ -6671,7 +6671,7 @@
           "Count": "Int:44"
         }
       },
-      "DSD:LK-6148": {
+      "DSD:panduwasnuwara_east": {
         "Lighting:electricity_grid": {
           "Count": "Int:9245"
         },
@@ -6694,7 +6694,7 @@
           "Count": "Int:24"
         }
       },
-      "DSD:LK-8119": {
+      "DSD:lunugala": {
         "Lighting:electricity_grid": {
           "Count": "Int:9067"
         },
@@ -6717,7 +6717,7 @@
           "Count": "Int:27"
         }
       },
-      "DSD:LK-3135": {
+      "DSD:madampagama": {
         "Lighting:electricity_grid": {
           "Count": "Int:9095"
         },
@@ -6740,7 +6740,7 @@
           "Count": "Int:34"
         }
       },
-      "DSD:LK-2212": {
+      "DSD:pallepola": {
         "Lighting:electricity_grid": {
           "Count": "Int:9048"
         },
@@ -6763,7 +6763,7 @@
           "Count": "Int:9"
         }
       },
-      "DSD:LK-3230": {
+      "DSD:hakmana": {
         "Lighting:electricity_grid": {
           "Count": "Int:9090"
         },
@@ -6786,7 +6786,7 @@
           "Count": "Int:11"
         }
       },
-      "DSD:LK-3215": {
+      "DSD:athuraliya": {
         "Lighting:electricity_grid": {
           "Count": "Int:8971"
         },
@@ -6809,7 +6809,7 @@
           "Count": "Int:18"
         }
       },
-      "DSD:LK-7151": {
+      "DSD:thirappane": {
         "Lighting:electricity_grid": {
           "Count": "Int:8751"
         },
@@ -6832,7 +6832,7 @@
           "Count": "Int:24"
         }
       },
-      "DSD:LK-2215": {
+      "DSD:yatawatta": {
         "Lighting:electricity_grid": {
           "Count": "Int:8963"
         },
@@ -6855,7 +6855,7 @@
           "Count": "Int:13"
         }
       },
-      "DSD:LK-2209": {
+      "DSD:naula": {
         "Lighting:electricity_grid": {
           "Count": "Int:8811"
         },
@@ -6878,7 +6878,7 @@
           "Count": "Int:8"
         }
       },
-      "DSD:LK-2148": {
+      "DSD:deltota": {
         "Lighting:electricity_grid": {
           "Count": "Int:8807"
         },
@@ -6901,7 +6901,7 @@
           "Count": "Int:18"
         }
       },
-      "DSD:LK-5221": {
+      "DSD:kalmunai_north": {
         "Lighting:electricity_grid": {
           "Count": "Int:8684"
         },
@@ -6924,7 +6924,7 @@
           "Count": "Int:6"
         }
       },
-      "DSD:LK-5225": {
+      "DSD:sainthamaruthu": {
         "Lighting:electricity_grid": {
           "Count": "Int:8827"
         },
@@ -6947,7 +6947,7 @@
           "Count": "Int:7"
         }
       },
-      "DSD:LK-9130": {
+      "DSD:ayagama": {
         "Lighting:electricity_grid": {
           "Count": "Int:8477"
         },
@@ -6970,7 +6970,7 @@
           "Count": "Int:22"
         }
       },
-      "DSD:LK-5230": {
+      "DSD:nintavur": {
         "Lighting:electricity_grid": {
           "Count": "Int:8658"
         },
@@ -6993,7 +6993,7 @@
           "Count": "Int:30"
         }
       },
-      "DSD:LK-2134": {
+      "DSD:hatharaliyadda": {
         "Lighting:electricity_grid": {
           "Count": "Int:8572"
         },
@@ -7016,7 +7016,7 @@
           "Count": "Int:7"
         }
       },
-      "DSD:LK-3130": {
+      "DSD:welivitiya_divitura": {
         "Lighting:electricity_grid": {
           "Count": "Int:8569"
         },
@@ -7039,7 +7039,7 @@
           "Count": "Int:15"
         }
       },
-      "DSD:LK-5110": {
+      "DSD:koralai_pattu_south": {
         "Lighting:electricity_grid": {
           "Count": "Int:7309"
         },
@@ -7062,7 +7062,7 @@
           "Count": "Int:12"
         }
       },
-      "DSD:LK-5104": {
+      "DSD:koralai_pattu_central": {
         "Lighting:electricity_grid": {
           "Count": "Int:8437"
         },
@@ -7085,7 +7085,7 @@
           "Count": "Int:24"
         }
       },
-      "DSD:LK-3121": {
+      "DSD:neluwa": {
         "Lighting:electricity_grid": {
           "Count": "Int:8373"
         },
@@ -7108,7 +7108,7 @@
           "Count": "Int:16"
         }
       },
-      "DSD:LK-5109": {
+      "DSD:koralai_pattu": {
         "Lighting:electricity_grid": {
           "Count": "Int:7770"
         },
@@ -7131,7 +7131,7 @@
           "Count": "Int:10"
         }
       },
-      "DSD:LK-5245": {
+      "DSD:tirukkovil": {
         "Lighting:electricity_grid": {
           "Count": "Int:7844"
         },
@@ -7154,7 +7154,7 @@
           "Count": "Int:1"
         }
       },
-      "DSD:LK-6227": {
+      "DSD:pallama": {
         "Lighting:electricity_grid": {
           "Count": "Int:8027"
         },
@@ -7177,7 +7177,7 @@
           "Count": "Int:24"
         }
       },
-      "DSD:LK-7136": {
+      "DSD:nachchaduwa": {
         "Lighting:electricity_grid": {
           "Count": "Int:8036"
         },
@@ -7200,7 +7200,7 @@
           "Count": "Int:14"
         }
       },
-      "DSD:LK-6109": {
+      "DSD:ehetuwewa": {
         "Lighting:electricity_grid": {
           "Count": "Int:8037"
         },
@@ -7223,7 +7223,7 @@
           "Count": "Int:15"
         }
       },
-      "DSD:LK-9121": {
+      "DSD:opanayake": {
         "Lighting:electricity_grid": {
           "Count": "Int:7949"
         },
@@ -7246,7 +7246,7 @@
           "Count": "Int:24"
         }
       },
-      "DSD:LK-6209": {
+      "DSD:karuwalagaswewa": {
         "Lighting:electricity_grid": {
           "Count": "Int:7718"
         },
@@ -7269,7 +7269,7 @@
           "Count": "Int:11"
         }
       },
-      "DSD:LK-3128": {
+      "DSD:wanduramba": {
         "Lighting:electricity_grid": {
           "Count": "Int:7912"
         },
@@ -7292,7 +7292,7 @@
           "Count": "Int:16"
         }
       },
-      "DSD:LK-5103": {
+      "DSD:koralai_pattu_north": {
         "Lighting:electricity_grid": {
           "Count": "Int:6565"
         },
@@ -7315,7 +7315,7 @@
           "Count": "Int:12"
         }
       },
-      "DSD:LK-6112": {
+      "DSD:ambanpola": {
         "Lighting:electricity_grid": {
           "Count": "Int:7699"
         },
@@ -7338,7 +7338,7 @@
           "Count": "Int:3"
         }
       },
-      "DSD:LK-8112": {
+      "DSD:kandeketiya": {
         "Lighting:electricity_grid": {
           "Count": "Int:7645"
         },
@@ -7361,7 +7361,7 @@
           "Count": "Int:8"
         }
       },
-      "DSD:LK-5130": {
+      "DSD:manmunai_south_west": {
         "Lighting:electricity_grid": {
           "Count": "Int:7258"
         },
@@ -7384,7 +7384,7 @@
           "Count": "Int:21"
         }
       },
-      "DSD:LK-7106": {
+      "DSD:kebithigollewa": {
         "Lighting:electricity_grid": {
           "Count": "Int:7511"
         },
@@ -7407,7 +7407,7 @@
           "Count": "Int:11"
         }
       },
-      "DSD:LK-3136": {
+      "DSD:hikkaduwa": {
         "Lighting:electricity_grid": {
           "Count": "Int:7488"
         },
@@ -7430,7 +7430,7 @@
           "Count": "Int:17"
         }
       },
-      "DSD:LK-2115": {
+      "DSD:panvila": {
         "Lighting:electricity_grid": {
           "Count": "Int:7238"
         },
@@ -7453,7 +7453,7 @@
           "Count": "Int:20"
         }
       },
-      "DSD:LK-6118": {
+      "DSD:rasnayakapura": {
         "Lighting:electricity_grid": {
           "Count": "Int:7085"
         },
@@ -7476,7 +7476,7 @@
           "Count": "Int:10"
         }
       },
-      "DSD:LK-5106": {
+      "DSD:koralai_pattu_west": {
         "Lighting:electricity_grid": {
           "Count": "Int:7101"
         },
@@ -7499,7 +7499,7 @@
           "Count": "Int:30"
         }
       },
-      "DSD:LK-5115": {
+      "DSD:eravur_town": {
         "Lighting:electricity_grid": {
           "Count": "Int:7112"
         },
@@ -7522,7 +7522,7 @@
           "Count": "Int:5"
         }
       },
-      "DSD:LK-7103": {
+      "DSD:padaviya": {
         "Lighting:electricity_grid": {
           "Count": "Int:7071"
         },
@@ -7545,7 +7545,7 @@
           "Count": "Int:2"
         }
       },
-      "DSD:LK-8115": {
+      "DSD:soranathota": {
         "Lighting:electricity_grid": {
           "Count": "Int:7032"
         },
@@ -7568,7 +7568,7 @@
           "Count": "Int:15"
         }
       },
-      "DSD:LK-7112": {
+      "DSD:mahawilachchiya": {
         "Lighting:electricity_grid": {
           "Count": "Int:6731"
         },
@@ -7591,7 +7591,7 @@
           "Count": "Int:6"
         }
       },
-      "DSD:LK-4312": {
+      "DSD:vengalacheddikulam": {
         "Lighting:electricity_grid": {
           "Count": "Int:6848"
         },
@@ -7614,7 +7614,7 @@
           "Count": "Int:16"
         }
       },
-      "DSD:LK-5239": {
+      "DSD:alayadivembu": {
         "Lighting:electricity_grid": {
           "Count": "Int:6713"
         },
@@ -7637,7 +7637,7 @@
           "Count": "Int:5"
         }
       },
-      "DSD:LK-6115": {
+      "DSD:kotawehera": {
         "Lighting:electricity_grid": {
           "Count": "Int:6840"
         },
@@ -7660,7 +7660,7 @@
           "Count": "Int:8"
         }
       },
-      "DSD:LK-5209": {
+      "DSD:mahaoya": {
         "Lighting:electricity_grid": {
           "Count": "Int:6462"
         },
@@ -7683,7 +7683,7 @@
           "Count": "Int:33"
         }
       },
-      "DSD:LK-4506": {
+      "DSD:kandavalai": {
         "Lighting:electricity_grid": {
           "Count": "Int:6455"
         },
@@ -7706,7 +7706,7 @@
           "Count": "Int:10"
         }
       },
-      "DSD:LK-2118": {
+      "DSD:ududumbara": {
         "Lighting:electricity_grid": {
           "Count": "Int:6771"
         },
@@ -7729,7 +7729,7 @@
           "Count": "Int:13"
         }
       },
-      "DSD:LK-3134": {
+      "DSD:gonapinuwala": {
         "Lighting:electricity_grid": {
           "Count": "Int:6766"
         },
@@ -7752,7 +7752,7 @@
           "Count": "Int:13"
         }
       },
-      "DSD:LK-6221": {
+      "DSD:mahakumbukkadawala": {
         "Lighting:electricity_grid": {
           "Count": "Int:6283"
         },
@@ -7775,7 +7775,7 @@
           "Count": "Int:7"
         }
       },
-      "DSD:LK-8109": {
+      "DSD:meegahakiula": {
         "Lighting:electricity_grid": {
           "Count": "Int:6393"
         },
@@ -7798,7 +7798,7 @@
           "Count": "Int:6"
         }
       },
-      "DSD:LK-5216": {
+      "DSD:navithanveli": {
         "Lighting:electricity_grid": {
           "Count": "Int:6093"
         },
@@ -7821,7 +7821,7 @@
           "Count": "Int:6"
         }
       },
-      "DSD:LK-4512": {
+      "DSD:poonakary": {
         "Lighting:electricity_grid": {
           "Count": "Int:5880"
         },
@@ -7844,7 +7844,7 @@
           "Count": "Int:14"
         }
       },
-      "DSD:LK-5206": {
+      "DSD:padiyathalawa": {
         "Lighting:electricity_grid": {
           "Count": "Int:5821"
         },
@@ -7867,7 +7867,7 @@
           "Count": "Int:22"
         }
       },
-      "DSD:LK-6206": {
+      "DSD:vanathavilluwa": {
         "Lighting:electricity_grid": {
           "Count": "Int:5504"
         },
@@ -7890,7 +7890,7 @@
           "Count": "Int:4"
         }
       },
-      "DSD:LK-3233": {
+      "DSD:kirinda_puhulwella": {
         "Lighting:electricity_grid": {
           "Count": "Int:5761"
         },
@@ -7913,7 +7913,7 @@
           "Count": "Int:2"
         }
       },
-      "DSD:LK-3327": {
+      "DSD:okewela": {
         "Lighting:electricity_grid": {
           "Count": "Int:5594"
         },
@@ -7936,7 +7936,7 @@
           "Count": "Int:11"
         }
       },
-      "DSD:LK-8227": {
+      "DSD:katharagama": {
         "Lighting:electricity_grid": {
           "Count": "Int:5138"
         },
@@ -7959,7 +7959,7 @@
           "Count": "Int:80"
         }
       },
-      "DSD:LK-4212": {
+      "DSD:nanaddan": {
         "Lighting:electricity_grid": {
           "Count": "Int:5212"
         },
@@ -7982,7 +7982,7 @@
           "Count": "Int:8"
         }
       },
-      "DSD:LK-5227": {
+      "DSD:karaitivu": {
         "Lighting:electricity_grid": {
           "Count": "Int:5227"
         },
@@ -8005,7 +8005,7 @@
           "Count": "Int:0"
         }
       },
-      "DSD:LK-6212": {
+      "DSD:nawagattegama": {
         "Lighting:electricity_grid": {
           "Count": "Int:5082"
         },
@@ -8028,7 +8028,7 @@
           "Count": "Int:13"
         }
       },
-      "DSD:LK-7157": {
+      "DSD:palugaswewa": {
         "Lighting:electricity_grid": {
           "Count": "Int:5054"
         },
@@ -8051,7 +8051,7 @@
           "Count": "Int:12"
         }
       },
-      "DSD:LK-4206": {
+      "DSD:manthai_west": {
         "Lighting:electricity_grid": {
           "Count": "Int:4853"
         },
@@ -8074,7 +8074,7 @@
           "Count": "Int:25"
         }
       },
-      "DSD:LK-4412": {
+      "DSD:oddusuddan": {
         "Lighting:electricity_grid": {
           "Count": "Int:4788"
         },
@@ -8097,7 +8097,7 @@
           "Count": "Int:10"
         }
       },
-      "DSD:LK-2224": {
+      "DSD:laggala": {
         "Lighting:electricity_grid": {
           "Count": "Int:4915"
         },
@@ -8120,7 +8120,7 @@
           "Count": "Int:12"
         }
       },
-      "DSD:LK-2221": {
+      "DSD:ambanganga": {
         "Lighting:electricity_grid": {
           "Count": "Int:4597"
         },
@@ -8143,7 +8143,7 @@
           "Count": "Int:5"
         }
       },
-      "DSD:LK-5330": {
+      "DSD:seruvila": {
         "Lighting:electricity_grid": {
           "Count": "Int:4528"
         },
@@ -8166,7 +8166,7 @@
           "Count": "Int:23"
         }
       },
-      "DSD:LK-5234": {
+      "DSD:irakkamam": {
         "Lighting:electricity_grid": {
           "Count": "Int:4494"
         },
@@ -8189,7 +8189,7 @@
           "Count": "Int:1"
         }
       },
-      "DSD:LK-4306": {
+      "DSD:vavuniya_south": {
         "Lighting:electricity_grid": {
           "Count": "Int:4512"
         },
@@ -8212,7 +8212,7 @@
           "Count": "Int:2"
         }
       },
-      "DSD:LK-4139": {
+      "DSD:islands_south_velanai": {
         "Lighting:electricity_grid": {
           "Count": "Int:4198"
         },
@@ -8235,7 +8235,7 @@
           "Count": "Int:8"
         }
       },
-      "DSD:LK-4215": {
+      "DSD:musali": {
         "Lighting:electricity_grid": {
           "Count": "Int:4284"
         },
@@ -8258,7 +8258,7 @@
           "Count": "Int:1"
         }
       },
-      "DSD:LK-4303": {
+      "DSD:vavuniya_north": {
         "Lighting:electricity_grid": {
           "Count": "Int:4068"
         },
@@ -8281,7 +8281,7 @@
           "Count": "Int:5"
         }
       },
-      "DSD:LK-4124": {
+      "DSD:vadamaradchchi_east": {
         "Lighting:electricity_grid": {
           "Count": "Int:3803"
         },
@@ -8304,7 +8304,7 @@
           "Count": "Int:6"
         }
       },
-      "DSD:LK-9119": {
+      "DSD:kalthota": {
         "Lighting:electricity_grid": {
           "Count": "Int:3908"
         },
@@ -8327,7 +8327,7 @@
           "Count": "Int:7"
         }
       },
-      "DSD:LK-5333": {
+      "DSD:verugal": {
         "Lighting:electricity_grid": {
           "Count": "Int:3575"
         },
@@ -8350,7 +8350,7 @@
           "Count": "Int:56"
         }
       },
-      "DSD:LK-4503": {
+      "DSD:pachchilaipalli": {
         "Lighting:electricity_grid": {
           "Count": "Int:3620"
         },
@@ -8373,7 +8373,7 @@
           "Count": "Int:3"
         }
       },
-      "DSD:LK-5303": {
+      "DSD:padavi_sri_pura": {
         "Lighting:electricity_grid": {
           "Count": "Int:3382"
         },
@@ -8396,7 +8396,7 @@
           "Count": "Int:1"
         }
       },
-      "DSD:LK-4418": {
+      "DSD:welioya": {
         "Lighting:electricity_grid": {
           "Count": "Int:3118"
         },
@@ -8419,7 +8419,7 @@
           "Count": "Int:1"
         }
       },
-      "DSD:LK-5251": {
+      "DSD:lahugala": {
         "Lighting:electricity_grid": {
           "Count": "Int:2784"
         },
@@ -8442,7 +8442,7 @@
           "Count": "Int:1"
         }
       },
-      "DSD:LK-4403": {
+      "DSD:thunukkai": {
         "Lighting:electricity_grid": {
           "Count": "Int:2766"
         },
@@ -8465,7 +8465,7 @@
           "Count": "Int:2"
         }
       },
-      "DSD:LK-5312": {
+      "DSD:morawewa": {
         "Lighting:electricity_grid": {
           "Count": "Int:2672"
         },
@@ -8488,7 +8488,7 @@
           "Count": "Int:4"
         }
       },
-      "DSD:LK-4209": {
+      "DSD:madhu": {
         "Lighting:electricity_grid": {
           "Count": "Int:2590"
         },
@@ -8511,7 +8511,7 @@
           "Count": "Int:0"
         }
       },
-      "DSD:LK-4103": {
+      "DSD:islands_north_kayts": {
         "Lighting:electricity_grid": {
           "Count": "Int:2560"
         },
@@ -8534,7 +8534,7 @@
           "Count": "Int:0"
         }
       },
-      "DSD:LK-4104": {
+      "DSD:karainagar": {
         "Lighting:electricity_grid": {
           "Count": "Int:2583"
         },
@@ -8557,7 +8557,7 @@
           "Count": "Int:0"
         }
       },
-      "DSD:LK-5309": {
+      "DSD:gomarankadawala": {
         "Lighting:electricity_grid": {
           "Count": "Int:2371"
         },
@@ -8580,7 +8580,7 @@
           "Count": "Int:0"
         }
       },
-      "DSD:LK-4406": {
+      "DSD:manthai_east": {
         "Lighting:electricity_grid": {
           "Count": "Int:2091"
         },
@@ -8603,7 +8603,7 @@
           "Count": "Int:1"
         }
       },
-      "DSD:LK-4142": {
+      "DSD:delft": {
         "Lighting:electricity_grid": {
           "Count": "Int:869"
         },
@@ -8626,7 +8626,7 @@
           "Count": "Int:1"
         }
       },
-      "ED:EC-02": {
+      "ED:gampaha": {
         "Lighting:electricity_grid": {
           "Count": "Int:680337"
         },
@@ -8649,7 +8649,7 @@
           "Count": "Int:1635"
         }
       },
-      "ED:EC-01": {
+      "ED:colombo": {
         "Lighting:electricity_grid": {
           "Count": "Int:653295"
         },
@@ -8672,7 +8672,7 @@
           "Count": "Int:1180"
         }
       },
-      "ED:EC-15": {
+      "ED:kurunegala": {
         "Lighting:electricity_grid": {
           "Count": "Int:501299"
         },
@@ -8695,7 +8695,7 @@
           "Count": "Int:672"
         }
       },
-      "ED:EC-04": {
+      "ED:kandy": {
         "Lighting:electricity_grid": {
           "Count": "Int:392207"
         },
@@ -8718,7 +8718,7 @@
           "Count": "Int:782"
         }
       },
-      "ED:EC-03": {
+      "ED:kalutara": {
         "Lighting:electricity_grid": {
           "Count": "Int:348801"
         },
@@ -8741,7 +8741,7 @@
           "Count": "Int:478"
         }
       },
-      "ED:EC-21": {
+      "ED:ratnapura": {
         "Lighting:electricity_grid": {
           "Count": "Int:319263"
         },
@@ -8764,7 +8764,7 @@
           "Count": "Int:1053"
         }
       },
-      "ED:EC-07": {
+      "ED:galle": {
         "Lighting:electricity_grid": {
           "Count": "Int:304034"
         },
@@ -8787,7 +8787,7 @@
           "Count": "Int:685"
         }
       },
-      "ED:EC-17": {
+      "ED:anuradhapura": {
         "Lighting:electricity_grid": {
           "Count": "Int:268242"
         },
@@ -8810,7 +8810,7 @@
           "Count": "Int:467"
         }
       },
-      "ED:EC-19": {
+      "ED:badulla": {
         "Lighting:electricity_grid": {
           "Count": "Int:242999"
         },
@@ -8833,7 +8833,7 @@
           "Count": "Int:423"
         }
       },
-      "ED:EC-22": {
+      "ED:kegalle": {
         "Lighting:electricity_grid": {
           "Count": "Int:239635"
         },
@@ -8856,7 +8856,7 @@
           "Count": "Int:478"
         }
       },
-      "ED:EC-16": {
+      "ED:puttalam": {
         "Lighting:electricity_grid": {
           "Count": "Int:227761"
         },
@@ -8879,7 +8879,7 @@
           "Count": "Int:332"
         }
       },
-      "ED:EC-08": {
+      "ED:matara": {
         "Lighting:electricity_grid": {
           "Count": "Int:229169"
         },
@@ -8902,7 +8902,7 @@
           "Count": "Int:539"
         }
       },
-      "ED:EC-13": {
+      "ED:digamadulla": {
         "Lighting:electricity_grid": {
           "Count": "Int:200445"
         },
@@ -8925,7 +8925,7 @@
           "Count": "Int:664"
         }
       },
-      "ED:EC-06": {
+      "ED:nuwara_eliya": {
         "Lighting:electricity_grid": {
           "Count": "Int:196060"
         },
@@ -8948,7 +8948,7 @@
           "Count": "Int:400"
         }
       },
-      "ED:EC-10": {
+      "ED:jaffna": {
         "Lighting:electricity_grid": {
           "Count": "Int:190621"
         },
@@ -8971,7 +8971,7 @@
           "Count": "Int:168"
         }
       },
-      "ED:EC-09": {
+      "ED:hambantota": {
         "Lighting:electricity_grid": {
           "Count": "Int:184100"
         },
@@ -8994,7 +8994,7 @@
           "Count": "Int:1201"
         }
       },
-      "ED:EC-12": {
+      "ED:batticaloa": {
         "Lighting:electricity_grid": {
           "Count": "Int:159908"
         },
@@ -9017,7 +9017,7 @@
           "Count": "Int:279"
         }
       },
-      "ED:EC-20": {
+      "ED:moneragala": {
         "Lighting:electricity_grid": {
           "Count": "Int:146583"
         },
@@ -9040,7 +9040,7 @@
           "Count": "Int:609"
         }
       },
-      "ED:EC-05": {
+      "ED:matale": {
         "Lighting:electricity_grid": {
           "Count": "Int:148488"
         },
@@ -9063,7 +9063,7 @@
           "Count": "Int:193"
         }
       },
-      "ED:EC-18": {
+      "ED:polonnaruwa": {
         "Lighting:electricity_grid": {
           "Count": "Int:124329"
         },
@@ -9086,7 +9086,7 @@
           "Count": "Int:248"
         }
       },
-      "ED:EC-14": {
+      "ED:trincomalee": {
         "Lighting:electricity_grid": {
           "Count": "Int:117736"
         },
@@ -9109,7 +9109,7 @@
           "Count": "Int:487"
         }
       },
-      "ED:EC-11": {
+      "ED:vanni": {
         "Lighting:electricity_grid": {
           "Count": "Int:111288"
         },
@@ -9132,7 +9132,7 @@
           "Count": "Int:223"
         }
       },
-      "PD:EC-06A": {
+      "PD:nuwara_eliya_maskeliya": {
         "Lighting:electricity_grid": {
           "Count": "Int:111311"
         },
@@ -9155,7 +9155,7 @@
           "Count": "Int:239"
         }
       },
-      "PD:EC-12B": {
+      "PD:batticaloa": {
         "Lighting:electricity_grid": {
           "Count": "Int:78026"
         },
@@ -9178,7 +9178,7 @@
           "Count": "Int:110"
         }
       },
-      "PD:EC-01J": {
+      "PD:kaduwela": {
         "Lighting:electricity_grid": {
           "Count": "Int:79401"
         },
@@ -9201,7 +9201,7 @@
           "Count": "Int:86"
         }
       },
-      "PD:EC-01L": {
+      "PD:homagama": {
         "Lighting:electricity_grid": {
           "Count": "Int:79855"
         },
@@ -9224,7 +9224,7 @@
           "Count": "Int:51"
         }
       },
-      "PD:EC-01N": {
+      "PD:kesbewa": {
         "Lighting:electricity_grid": {
           "Count": "Int:75476"
         },
@@ -9247,7 +9247,7 @@
           "Count": "Int:78"
         }
       },
-      "PD:EC-02C": {
+      "PD:katana": {
         "Lighting:electricity_grid": {
           "Count": "Int:74585"
         },
@@ -9270,7 +9270,7 @@
           "Count": "Int:262"
         }
       },
-      "PD:EC-09D": {
+      "PD:thissamaharama": {
         "Lighting:electricity_grid": {
           "Count": "Int:67291"
         },
@@ -9293,7 +9293,7 @@
           "Count": "Int:649"
         }
       },
-      "PD:EC-13D": {
+      "PD:pothuvil": {
         "Lighting:electricity_grid": {
           "Count": "Int:66038"
         },
@@ -9316,7 +9316,7 @@
           "Count": "Int:165"
         }
       },
-      "PD:EC-13A": {
+      "PD:ampara": {
         "Lighting:electricity_grid": {
           "Count": "Int:66485"
         },
@@ -9339,7 +9339,7 @@
           "Count": "Int:225"
         }
       },
-      "PD:EC-20C": {
+      "PD:wellawaya": {
         "Lighting:electricity_grid": {
           "Count": "Int:65566"
         },
@@ -9362,7 +9362,7 @@
           "Count": "Int:429"
         }
       },
-      "PD:EC-16A": {
+      "PD:puttalam": {
         "Lighting:electricity_grid": {
           "Count": "Int:64344"
         },
@@ -9385,7 +9385,7 @@
           "Count": "Int:129"
         }
       },
-      "PD:EC-02J": {
+      "PD:mahara": {
         "Lighting:electricity_grid": {
           "Count": "Int:60808"
         },
@@ -9408,7 +9408,7 @@
           "Count": "Int:243"
         }
       },
-      "PD:EC-21H": {
+      "PD:kolonna": {
         "Lighting:electricity_grid": {
           "Count": "Int:59213"
         },
@@ -9431,7 +9431,7 @@
           "Count": "Int:257"
         }
       },
-      "PD:EC-18C": {
+      "PD:polonnaruwa": {
         "Lighting:electricity_grid": {
           "Count": "Int:59192"
         },
@@ -9454,7 +9454,7 @@
           "Count": "Int:141"
         }
       },
-      "PD:EC-02L": {
+      "PD:biyagama": {
         "Lighting:electricity_grid": {
           "Count": "Int:58828"
         },
@@ -9477,7 +9477,7 @@
           "Count": "Int:72"
         }
       },
-      "PD:EC-04B": {
+      "PD:harispattuwa": {
         "Lighting:electricity_grid": {
           "Count": "Int:57599"
         },
@@ -9500,7 +9500,7 @@
           "Count": "Int:114"
         }
       },
-      "PD:EC-02H": {
+      "PD:gampaha": {
         "Lighting:electricity_grid": {
           "Count": "Int:57149"
         },
@@ -9523,7 +9523,7 @@
           "Count": "Int:68"
         }
       },
-      "PD:EC-02I": {
+      "PD:ja_ela": {
         "Lighting:electricity_grid": {
           "Count": "Int:56833"
         },
@@ -9546,7 +9546,7 @@
           "Count": "Int:310"
         }
       },
-      "PD:EC-01M": {
+      "PD:maharagama": {
         "Lighting:electricity_grid": {
           "Count": "Int:56267"
         },
@@ -9569,7 +9569,7 @@
           "Count": "Int:84"
         }
       },
-      "PD:EC-02F": {
+      "PD:minuwangoda": {
         "Lighting:electricity_grid": {
           "Count": "Int:56198"
         },
@@ -9592,7 +9592,7 @@
           "Count": "Int:102"
         }
       },
-      "PD:EC-01H": {
+      "PD:kolonnawa": {
         "Lighting:electricity_grid": {
           "Count": "Int:55864"
         },
@@ -9615,7 +9615,7 @@
           "Count": "Int:247"
         }
       },
-      "PD:EC-03B": {
+      "PD:bandaragama": {
         "Lighting:electricity_grid": {
           "Count": "Int:55893"
         },
@@ -9638,7 +9638,7 @@
           "Count": "Int:75"
         }
       },
-      "PD:EC-01K": {
+      "PD:avissawella": {
         "Lighting:electricity_grid": {
           "Count": "Int:54937"
         },
@@ -9661,7 +9661,7 @@
           "Count": "Int:94"
         }
       },
-      "PD:EC-05A": {
+      "PD:dambulla": {
         "Lighting:electricity_grid": {
           "Count": "Int:53944"
         },
@@ -9684,7 +9684,7 @@
           "Count": "Int:66"
         }
       },
-      "PD:EC-02G": {
+      "PD:attanagalla": {
         "Lighting:electricity_grid": {
           "Count": "Int:53955"
         },
@@ -9707,7 +9707,7 @@
           "Count": "Int:61"
         }
       },
-      "PD:EC-03C": {
+      "PD:horana": {
         "Lighting:electricity_grid": {
           "Count": "Int:53696"
         },
@@ -9730,7 +9730,7 @@
           "Count": "Int:102"
         }
       },
-      "PD:EC-12A": {
+      "PD:kalkudah": {
         "Lighting:electricity_grid": {
           "Count": "Int:46940"
         },
@@ -9753,7 +9753,7 @@
           "Count": "Int:96"
         }
       },
-      "PD:EC-17E": {
+      "PD:kalawewa": {
         "Lighting:electricity_grid": {
           "Count": "Int:49825"
         },
@@ -9776,7 +9776,7 @@
           "Count": "Int:111"
         }
       },
-      "PD:EC-02E": {
+      "PD:mirigama": {
         "Lighting:electricity_grid": {
           "Count": "Int:49124"
         },
@@ -9799,7 +9799,7 @@
           "Count": "Int:82"
         }
       },
-      "PD:EC-02A": {
+      "PD:wattala": {
         "Lighting:electricity_grid": {
           "Count": "Int:48712"
         },
@@ -9822,7 +9822,7 @@
           "Count": "Int:101"
         }
       },
-      "PD:EC-14C": {
+      "PD:muttur": {
         "Lighting:electricity_grid": {
           "Count": "Int:47005"
         },
@@ -9845,7 +9845,7 @@
           "Count": "Int:243"
         }
       },
-      "PD:EC-09C": {
+      "PD:tangalle": {
         "Lighting:electricity_grid": {
           "Count": "Int:47902"
         },
@@ -9868,7 +9868,7 @@
           "Count": "Int:292"
         }
       },
-      "PD:EC-11B": {
+      "PD:vavuniya": {
         "Lighting:electricity_grid": {
           "Count": "Int:46966"
         },
@@ -9891,7 +9891,7 @@
           "Count": "Int:67"
         }
       },
-      "PD:EC-16B": {
+      "PD:anamaduwa": {
         "Lighting:electricity_grid": {
           "Count": "Int:46036"
         },
@@ -9914,7 +9914,7 @@
           "Count": "Int:82"
         }
       },
-      "PD:EC-02K": {
+      "PD:dompe": {
         "Lighting:electricity_grid": {
           "Count": "Int:46921"
         },
@@ -9937,7 +9937,7 @@
           "Count": "Int:141"
         }
       },
-      "PD:EC-15C": {
+      "PD:yapahuwa": {
         "Lighting:electricity_grid": {
           "Count": "Int:45980"
         },
@@ -9960,7 +9960,7 @@
           "Count": "Int:47"
         }
       },
-      "PD:EC-20B": {
+      "PD:monaragala": {
         "Lighting:electricity_grid": {
           "Count": "Int:45669"
         },
@@ -9983,7 +9983,7 @@
           "Count": "Int:117"
         }
       },
-      "PD:EC-21B": {
+      "PD:ratnapura": {
         "Lighting:electricity_grid": {
           "Count": "Int:45966"
         },
@@ -10006,7 +10006,7 @@
           "Count": "Int:121"
         }
       },
-      "PD:EC-16C": {
+      "PD:chilaw": {
         "Lighting:electricity_grid": {
           "Count": "Int:45562"
         },
@@ -10029,7 +10029,7 @@
           "Count": "Int:46"
         }
       },
-      "PD:EC-02D": {
+      "PD:divulapitiya": {
         "Lighting:electricity_grid": {
           "Count": "Int:44485"
         },
@@ -10052,7 +10052,7 @@
           "Count": "Int:96"
         }
       },
-      "PD:EC-17C": {
+      "PD:anuradhapura_east": {
         "Lighting:electricity_grid": {
           "Count": "Int:44075"
         },
@@ -10075,7 +10075,7 @@
           "Count": "Int:77"
         }
       },
-      "PD:EC-17D": {
+      "PD:anuradhapura_west": {
         "Lighting:electricity_grid": {
           "Count": "Int:43573"
         },
@@ -10098,7 +10098,7 @@
           "Count": "Int:72"
         }
       },
-      "PD:EC-01O": {
+      "PD:moratuwa": {
         "Lighting:electricity_grid": {
           "Count": "Int:44317"
         },
@@ -10121,7 +10121,7 @@
           "Count": "Int:88"
         }
       },
-      "PD:EC-03F": {
+      "PD:kalutara": {
         "Lighting:electricity_grid": {
           "Count": "Int:43951"
         },
@@ -10144,7 +10144,7 @@
           "Count": "Int:40"
         }
       },
-      "PD:EC-21D": {
+      "PD:balangoda": {
         "Lighting:electricity_grid": {
           "Count": "Int:43039"
         },
@@ -10167,7 +10167,7 @@
           "Count": "Int:65"
         }
       },
-      "PD:EC-19A": {
+      "PD:mahiyanganaya": {
         "Lighting:electricity_grid": {
           "Count": "Int:41751"
         },
@@ -10190,7 +10190,7 @@
           "Count": "Int:53"
         }
       },
-      "PD:EC-03A": {
+      "PD:panadura": {
         "Lighting:electricity_grid": {
           "Count": "Int:42164"
         },
@@ -10213,7 +10213,7 @@
           "Count": "Int:103"
         }
       },
-      "PD:EC-03G": {
+      "PD:beruwala": {
         "Lighting:electricity_grid": {
           "Count": "Int:42072"
         },
@@ -10236,7 +10236,7 @@
           "Count": "Int:34"
         }
       },
-      "PD:EC-15A": {
+      "PD:galgamuwa": {
         "Lighting:electricity_grid": {
           "Count": "Int:41183"
         },
@@ -10259,7 +10259,7 @@
           "Count": "Int:53"
         }
       },
-      "PD:EC-03E": {
+      "PD:mathugama": {
         "Lighting:electricity_grid": {
           "Count": "Int:41648"
         },
@@ -10282,7 +10282,7 @@
           "Count": "Int:35"
         }
       },
-      "PD:EC-21E": {
+      "PD:rakwana": {
         "Lighting:electricity_grid": {
           "Count": "Int:40516"
         },
@@ -10305,7 +10305,7 @@
           "Count": "Int:179"
         }
       },
-      "PD:EC-09A": {
+      "PD:mulkirigala": {
         "Lighting:electricity_grid": {
           "Count": "Int:39910"
         },
@@ -10328,7 +10328,7 @@
           "Count": "Int:177"
         }
       },
-      "PD:EC-15I": {
+      "PD:kuliyapitiya": {
         "Lighting:electricity_grid": {
           "Count": "Int:40057"
         },
@@ -10351,7 +10351,7 @@
           "Count": "Int:57"
         }
       },
-      "PD:EC-14B": {
+      "PD:trincomalee": {
         "Lighting:electricity_grid": {
           "Count": "Int:39376"
         },
@@ -10374,7 +10374,7 @@
           "Count": "Int:72"
         }
       },
-      "PD:EC-04F": {
+      "PD:kundasale": {
         "Lighting:electricity_grid": {
           "Count": "Int:39562"
         },
@@ -10397,7 +10397,7 @@
           "Count": "Int:116"
         }
       },
-      "PD:EC-15D": {
+      "PD:hiriyala": {
         "Lighting:electricity_grid": {
           "Count": "Int:39174"
         },
@@ -10420,7 +10420,7 @@
           "Count": "Int:51"
         }
       },
-      "PD:EC-04L": {
+      "PD:gampola": {
         "Lighting:electricity_grid": {
           "Count": "Int:38862"
         },
@@ -10443,7 +10443,7 @@
           "Count": "Int:70"
         }
       },
-      "PD:EC-01B": {
+      "PD:colombo_central": {
         "Lighting:electricity_grid": {
           "Count": "Int:38982"
         },
@@ -10466,7 +10466,7 @@
           "Count": "Int:135"
         }
       },
-      "PD:EC-07I": {
+      "PD:akmeemana": {
         "Lighting:electricity_grid": {
           "Count": "Int:38702"
         },
@@ -10489,7 +10489,7 @@
           "Count": "Int:70"
         }
       },
-      "PD:EC-15H": {
+      "PD:katugampola": {
         "Lighting:electricity_grid": {
           "Count": "Int:38461"
         },
@@ -10512,7 +10512,7 @@
           "Count": "Int:37"
         }
       },
-      "PD:EC-15B": {
+      "PD:nikaweratiya": {
         "Lighting:electricity_grid": {
           "Count": "Int:38046"
         },
@@ -10535,7 +10535,7 @@
           "Count": "Int:45"
         }
       },
-      "PD:EC-16E": {
+      "PD:wennappuwa": {
         "Lighting:electricity_grid": {
           "Count": "Int:38423"
         },
@@ -10558,7 +10558,7 @@
           "Count": "Int:42"
         }
       },
-      "PD:EC-07E": {
+      "PD:hiniduma": {
         "Lighting:electricity_grid": {
           "Count": "Int:37653"
         },
@@ -10581,7 +10581,7 @@
           "Count": "Int:58"
         }
       },
-      "PD:EC-08A": {
+      "PD:deniyaya": {
         "Lighting:electricity_grid": {
           "Count": "Int:37226"
         },
@@ -10604,7 +10604,7 @@
           "Count": "Int:110"
         }
       },
-      "PD:EC-03H": {
+      "PD:agalawatta": {
         "Lighting:electricity_grid": {
           "Count": "Int:37271"
         },
@@ -10627,7 +10627,7 @@
           "Count": "Int:53"
         }
       },
-      "PD:EC-17A": {
+      "PD:medawachchiya": {
         "Lighting:electricity_grid": {
           "Count": "Int:36819"
         },
@@ -10650,7 +10650,7 @@
           "Count": "Int:50"
         }
       },
-      "PD:EC-13B": {
+      "PD:samanthurai": {
         "Lighting:electricity_grid": {
           "Count": "Int:36542"
         },
@@ -10673,7 +10673,7 @@
           "Count": "Int:251"
         }
       },
-      "PD:EC-02M": {
+      "PD:kelaniya": {
         "Lighting:electricity_grid": {
           "Count": "Int:36844"
         },
@@ -10696,7 +10696,7 @@
           "Count": "Int:45"
         }
       },
-      "PD:EC-21A": {
+      "PD:eheliyagoda": {
         "Lighting:electricity_grid": {
           "Count": "Int:36076"
         },
@@ -10719,7 +10719,7 @@
           "Count": "Int:86"
         }
       },
-      "PD:EC-07F": {
+      "PD:baddegama": {
         "Lighting:electricity_grid": {
           "Count": "Int:36245"
         },
@@ -10742,7 +10742,7 @@
           "Count": "Int:71"
         }
       },
-      "PD:EC-10K": {
+      "PD:kilinochchi": {
         "Lighting:electricity_grid": {
           "Count": "Int:34804"
         },
@@ -10765,7 +10765,7 @@
           "Count": "Int:48"
         }
       },
-      "PD:EC-15M": {
+      "PD:mawathagama": {
         "Lighting:electricity_grid": {
           "Count": "Int:36000"
         },
@@ -10788,7 +10788,7 @@
           "Count": "Int:73"
         }
       },
-      "PD:EC-12C": {
+      "PD:paddiruppu": {
         "Lighting:electricity_grid": {
           "Count": "Int:34942"
         },
@@ -10811,7 +10811,7 @@
           "Count": "Int:73"
         }
       },
-      "PD:EC-20A": {
+      "PD:bibile": {
         "Lighting:electricity_grid": {
           "Count": "Int:35348"
         },
@@ -10834,7 +10834,7 @@
           "Count": "Int:63"
         }
       },
-      "PD:EC-02B": {
+      "PD:negombo": {
         "Lighting:electricity_grid": {
           "Count": "Int:35895"
         },
@@ -10857,7 +10857,7 @@
           "Count": "Int:52"
         }
       },
-      "PD:EC-15L": {
+      "PD:kurunegala": {
         "Lighting:electricity_grid": {
           "Count": "Int:35588"
         },
@@ -10880,7 +10880,7 @@
           "Count": "Int:53"
         }
       },
-      "PD:EC-15J": {
+      "PD:dambadeniya": {
         "Lighting:electricity_grid": {
           "Count": "Int:35395"
         },
@@ -10903,7 +10903,7 @@
           "Count": "Int:65"
         }
       },
-      "PD:EC-04M": {
+      "PD:nawalapitiya": {
         "Lighting:electricity_grid": {
           "Count": "Int:35662"
         },
@@ -10926,7 +10926,7 @@
           "Count": "Int:36"
         }
       },
-      "PD:EC-15G": {
+      "PD:bingiriya": {
         "Lighting:electricity_grid": {
           "Count": "Int:34985"
         },
@@ -10949,7 +10949,7 @@
           "Count": "Int:51"
         }
       },
-      "PD:EC-05D": {
+      "PD:rattota": {
         "Lighting:electricity_grid": {
           "Count": "Int:34802"
         },
@@ -10972,7 +10972,7 @@
           "Count": "Int:47"
         }
       },
-      "PD:EC-17G": {
+      "PD:kekirawa": {
         "Lighting:electricity_grid": {
           "Count": "Int:33948"
         },
@@ -10995,7 +10995,7 @@
           "Count": "Int:64"
         }
       },
-      "PD:EC-11C": {
+      "PD:mullaitivu": {
         "Lighting:electricity_grid": {
           "Count": "Int:33046"
         },
@@ -11018,7 +11018,7 @@
           "Count": "Int:94"
         }
       },
-      "PD:EC-08B": {
+      "PD:hakmana": {
         "Lighting:electricity_grid": {
           "Count": "Int:34147"
         },
@@ -11041,7 +11041,7 @@
           "Count": "Int:77"
         }
       },
-      "PD:EC-18A": {
+      "PD:minneriya": {
         "Lighting:electricity_grid": {
           "Count": "Int:33790"
         },
@@ -11064,7 +11064,7 @@
           "Count": "Int:32"
         }
       },
-      "PD:EC-08G": {
+      "PD:weligama": {
         "Lighting:electricity_grid": {
           "Count": "Int:34174"
         },
@@ -11087,7 +11087,7 @@
           "Count": "Int:87"
         }
       },
-      "PD:EC-08C": {
+      "PD:akuressa": {
         "Lighting:electricity_grid": {
           "Count": "Int:34048"
         },
@@ -11110,7 +11110,7 @@
           "Count": "Int:80"
         }
       },
-      "PD:EC-17B": {
+      "PD:horowpothana": {
         "Lighting:electricity_grid": {
           "Count": "Int:33362"
         },
@@ -11133,7 +11133,7 @@
           "Count": "Int:44"
         }
       },
-      "PD:EC-21F": {
+      "PD:nivithigala": {
         "Lighting:electricity_grid": {
           "Count": "Int:33001"
         },
@@ -11156,7 +11156,7 @@
           "Count": "Int:135"
         }
       },
-      "PD:EC-16D": {
+      "PD:nattandiya": {
         "Lighting:electricity_grid": {
           "Count": "Int:33396"
         },
@@ -11179,7 +11179,7 @@
           "Count": "Int:33"
         }
       },
-      "PD:EC-01A": {
+      "PD:colombo_north": {
         "Lighting:electricity_grid": {
           "Count": "Int:33063"
         },
@@ -11202,7 +11202,7 @@
           "Count": "Int:160"
         }
       },
-      "PD:EC-22E": {
+      "PD:mawanella": {
         "Lighting:electricity_grid": {
           "Count": "Int:32945"
         },
@@ -11225,7 +11225,7 @@
           "Count": "Int:66"
         }
       },
-      "PD:EC-21C": {
+      "PD:pelmadulla": {
         "Lighting:electricity_grid": {
           "Count": "Int:32266"
         },
@@ -11248,7 +11248,7 @@
           "Count": "Int:128"
         }
       },
-      "PD:EC-07D": {
+      "PD:bentara_elpitiya": {
         "Lighting:electricity_grid": {
           "Count": "Int:32638"
         },
@@ -11271,7 +11271,7 @@
           "Count": "Int:69"
         }
       },
-      "PD:EC-03D": {
+      "PD:bulathsinhala": {
         "Lighting:electricity_grid": {
           "Count": "Int:32106"
         },
@@ -11294,7 +11294,7 @@
           "Count": "Int:36"
         }
       },
-      "PD:EC-04C": {
+      "PD:pathadumbara": {
         "Lighting:electricity_grid": {
           "Count": "Int:32166"
         },
@@ -11317,7 +11317,7 @@
           "Count": "Int:81"
         }
       },
-      "PD:EC-14A": {
+      "PD:seruvila": {
         "Lighting:electricity_grid": {
           "Count": "Int:31355"
         },
@@ -11340,7 +11340,7 @@
           "Count": "Int:172"
         }
       },
-      "PD:EC-22A": {
+      "PD:dedigama": {
         "Lighting:electricity_grid": {
           "Count": "Int:31815"
         },
@@ -11363,7 +11363,7 @@
           "Count": "Int:46"
         }
       },
-      "PD:EC-19H": {
+      "PD:bandarawela": {
         "Lighting:electricity_grid": {
           "Count": "Int:31927"
         },
@@ -11386,7 +11386,7 @@
           "Count": "Int:46"
         }
       },
-      "PD:EC-11A": {
+      "PD:mannar": {
         "Lighting:electricity_grid": {
           "Count": "Int:31276"
         },
@@ -11409,7 +11409,7 @@
           "Count": "Int:62"
         }
       },
-      "PD:EC-08F": {
+      "PD:matara": {
         "Lighting:electricity_grid": {
           "Count": "Int:31973"
         },
@@ -11432,7 +11432,7 @@
           "Count": "Int:45"
         }
       },
-      "PD:EC-18B": {
+      "PD:medirigiriya": {
         "Lighting:electricity_grid": {
           "Count": "Int:31347"
         },
@@ -11455,7 +11455,7 @@
           "Count": "Int:75"
         }
       },
-      "PD:EC-05C": {
+      "PD:matale": {
         "Lighting:electricity_grid": {
           "Count": "Int:31664"
         },
@@ -11478,7 +11478,7 @@
           "Count": "Int:54"
         }
       },
-      "PD:EC-13C": {
+      "PD:kalmunai": {
         "Lighting:electricity_grid": {
           "Count": "Int:31380"
         },
@@ -11501,7 +11501,7 @@
           "Count": "Int:23"
         }
       },
-      "PD:EC-04K": {
+      "PD:udunuwara": {
         "Lighting:electricity_grid": {
           "Count": "Int:31588"
         },
@@ -11524,7 +11524,7 @@
           "Count": "Int:44"
         }
       },
-      "PD:EC-15E": {
+      "PD:wariyapola": {
         "Lighting:electricity_grid": {
           "Count": "Int:30813"
         },
@@ -11547,7 +11547,7 @@
           "Count": "Int:43"
         }
       },
-      "PD:EC-04J": {
+      "PD:yatinuwara": {
         "Lighting:electricity_grid": {
           "Count": "Int:30765"
         },
@@ -11570,7 +11570,7 @@
           "Count": "Int:58"
         }
       },
-      "PD:EC-06D": {
+      "PD:walapane": {
         "Lighting:electricity_grid": {
           "Count": "Int:30041"
         },
@@ -11593,7 +11593,7 @@
           "Count": "Int:63"
         }
       },
-      "PD:EC-07J": {
+      "PD:habaraduwa": {
         "Lighting:electricity_grid": {
           "Count": "Int:30296"
         },
@@ -11616,7 +11616,7 @@
           "Count": "Int:53"
         }
       },
-      "PD:EC-21G": {
+      "PD:kalawana": {
         "Lighting:electricity_grid": {
           "Count": "Int:29186"
         },
@@ -11639,7 +11639,7 @@
           "Count": "Int:82"
         }
       },
-      "PD:EC-15K": {
+      "PD:polgahawela": {
         "Lighting:electricity_grid": {
           "Count": "Int:29624"
         },
@@ -11662,7 +11662,7 @@
           "Count": "Int:25"
         }
       },
-      "PD:EC-15F": {
+      "PD:panduwasnuwara": {
         "Lighting:electricity_grid": {
           "Count": "Int:29205"
         },
@@ -11685,7 +11685,7 @@
           "Count": "Int:45"
         }
       },
-      "PD:EC-19G": {
+      "PD:welimada": {
         "Lighting:electricity_grid": {
           "Count": "Int:29051"
         },
@@ -11708,7 +11708,7 @@
           "Count": "Int:62"
         }
       },
-      "PD:EC-08D": {
+      "PD:kamburupitiya": {
         "Lighting:electricity_grid": {
           "Count": "Int:29325"
         },
@@ -11731,7 +11731,7 @@
           "Count": "Int:48"
         }
       },
-      "PD:EC-09B": {
+      "PD:beliatta": {
         "Lighting:electricity_grid": {
           "Count": "Int:28997"
         },
@@ -11754,7 +11754,7 @@
           "Count": "Int:83"
         }
       },
-      "PD:EC-06B": {
+      "PD:kothmale": {
         "Lighting:electricity_grid": {
           "Count": "Int:28568"
         },
@@ -11777,7 +11777,7 @@
           "Count": "Int:35"
         }
       },
-      "PD:EC-05B": {
+      "PD:laggala": {
         "Lighting:electricity_grid": {
           "Count": "Int:28078"
         },
@@ -11800,7 +11800,7 @@
           "Count": "Int:26"
         }
       },
-      "PD:EC-04H": {
+      "PD:senkadagala": {
         "Lighting:electricity_grid": {
           "Count": "Int:28542"
         },
@@ -11823,7 +11823,7 @@
           "Count": "Int:50"
         }
       },
-      "PD:EC-22H": {
+      "PD:ruwanwella": {
         "Lighting:electricity_grid": {
           "Count": "Int:27917"
         },
@@ -11846,7 +11846,7 @@
           "Count": "Int:55"
         }
       },
-      "PD:EC-08E": {
+      "PD:devinuwara": {
         "Lighting:electricity_grid": {
           "Count": "Int:28276"
         },
@@ -11869,7 +11869,7 @@
           "Count": "Int:92"
         }
       },
-      "PD:EC-07B": {
+      "PD:ambalangoda": {
         "Lighting:electricity_grid": {
           "Count": "Int:28120"
         },
@@ -11892,7 +11892,7 @@
           "Count": "Int:113"
         }
       },
-      "PD:EC-07C": {
+      "PD:karandeniya": {
         "Lighting:electricity_grid": {
           "Count": "Int:28175"
         },
@@ -11915,7 +11915,7 @@
           "Count": "Int:67"
         }
       },
-      "PD:EC-01I": {
+      "PD:kotte": {
         "Lighting:electricity_grid": {
           "Count": "Int:27604"
         },
@@ -11938,7 +11938,7 @@
           "Count": "Int:47"
         }
       },
-      "PD:EC-07G": {
+      "PD:ratgama": {
         "Lighting:electricity_grid": {
           "Count": "Int:27316"
         },
@@ -11961,7 +11961,7 @@
           "Count": "Int:66"
         }
       },
-      "PD:EC-22G": {
+      "PD:yatiyanthota": {
         "Lighting:electricity_grid": {
           "Count": "Int:26899"
         },
@@ -11984,7 +11984,7 @@
           "Count": "Int:58"
         }
       },
-      "PD:EC-19E": {
+      "PD:hali_ela": {
         "Lighting:electricity_grid": {
           "Count": "Int:26830"
         },
@@ -12007,7 +12007,7 @@
           "Count": "Int:69"
         }
       },
-      "PD:EC-17F": {
+      "PD:mihinthale": {
         "Lighting:electricity_grid": {
           "Count": "Int:26640"
         },
@@ -12030,7 +12030,7 @@
           "Count": "Int:49"
         }
       },
-      "PD:EC-15N": {
+      "PD:dodangaslanda": {
         "Lighting:electricity_grid": {
           "Count": "Int:26788"
         },
@@ -12053,7 +12053,7 @@
           "Count": "Int:27"
         }
       },
-      "PD:EC-22C": {
+      "PD:kegalle": {
         "Lighting:electricity_grid": {
           "Count": "Int:26383"
         },
@@ -12076,7 +12076,7 @@
           "Count": "Int:75"
         }
       },
-      "PD:EC-06C": {
+      "PD:hanguranketha": {
         "Lighting:electricity_grid": {
           "Count": "Int:26140"
         },
@@ -12099,7 +12099,7 @@
           "Count": "Int:63"
         }
       },
-      "PD:EC-07H": {
+      "PD:galle": {
         "Lighting:electricity_grid": {
           "Count": "Int:26251"
         },
@@ -12122,7 +12122,7 @@
           "Count": "Int:30"
         }
       },
-      "PD:EC-22I": {
+      "PD:deraniyagala": {
         "Lighting:electricity_grid": {
           "Count": "Int:25640"
         },
@@ -12145,7 +12145,7 @@
           "Count": "Int:49"
         }
       },
-      "PD:EC-04G": {
+      "PD:hewaheta": {
         "Lighting:electricity_grid": {
           "Count": "Int:25505"
         },
@@ -12168,7 +12168,7 @@
           "Count": "Int:74"
         }
       },
-      "PD:EC-01F": {
+      "PD:dehiwala": {
         "Lighting:electricity_grid": {
           "Count": "Int:25370"
         },
@@ -12191,7 +12191,7 @@
           "Count": "Int:19"
         }
       },
-      "PD:EC-01G": {
+      "PD:ratmalana": {
         "Lighting:electricity_grid": {
           "Count": "Int:25037"
         },
@@ -12214,7 +12214,7 @@
           "Count": "Int:30"
         }
       },
-      "PD:EC-19I": {
+      "PD:haputale": {
         "Lighting:electricity_grid": {
           "Count": "Int:24577"
         },
@@ -12237,7 +12237,7 @@
           "Count": "Int:36"
         }
       },
-      "PD:EC-22D": {
+      "PD:rambukkana": {
         "Lighting:electricity_grid": {
           "Count": "Int:24511"
         },
@@ -12260,7 +12260,7 @@
           "Count": "Int:51"
         }
       },
-      "PD:EC-22B": {
+      "PD:galigamuwa": {
         "Lighting:electricity_grid": {
           "Count": "Int:23794"
         },
@@ -12283,7 +12283,7 @@
           "Count": "Int:31"
         }
       },
-      "PD:EC-19C": {
+      "PD:passara": {
         "Lighting:electricity_grid": {
           "Count": "Int:23003"
         },
@@ -12306,7 +12306,7 @@
           "Count": "Int:67"
         }
       },
-      "PD:EC-01D": {
+      "PD:colombo_east": {
         "Lighting:electricity_grid": {
           "Count": "Int:23279"
         },
@@ -12329,7 +12329,7 @@
           "Count": "Int:36"
         }
       },
-      "PD:EC-19F": {
+      "PD:uva_paranagama": {
         "Lighting:electricity_grid": {
           "Count": "Int:22865"
         },
@@ -12352,7 +12352,7 @@
           "Count": "Int:32"
         }
       },
-      "PD:EC-04D": {
+      "PD:ududumbara": {
         "Lighting:electricity_grid": {
           "Count": "Int:22537"
         },
@@ -12375,7 +12375,7 @@
           "Count": "Int:43"
         }
       },
-      "PD:EC-19D": {
+      "PD:badulla": {
         "Lighting:electricity_grid": {
           "Count": "Int:21925"
         },
@@ -12398,7 +12398,7 @@
           "Count": "Int:29"
         }
       },
-      "PD:EC-19B": {
+      "PD:viyaluwa": {
         "Lighting:electricity_grid": {
           "Count": "Int:21070"
         },
@@ -12421,7 +12421,7 @@
           "Count": "Int:29"
         }
       },
-      "PD:EC-10D": {
+      "PD:manipay": {
         "Lighting:electricity_grid": {
           "Count": "Int:20663"
         },
@@ -12444,7 +12444,7 @@
           "Count": "Int:19"
         }
       },
-      "PD:EC-10E": {
+      "PD:kopay": {
         "Lighting:electricity_grid": {
           "Count": "Int:20452"
         },
@@ -12467,7 +12467,7 @@
           "Count": "Int:25"
         }
       },
-      "PD:EC-22F": {
+      "PD:aranayaka": {
         "Lighting:electricity_grid": {
           "Count": "Int:19731"
         },
@@ -12490,7 +12490,7 @@
           "Count": "Int:47"
         }
       },
-      "PD:EC-04A": {
+      "PD:galagedara": {
         "Lighting:electricity_grid": {
           "Count": "Int:19310"
         },
@@ -12513,7 +12513,7 @@
           "Count": "Int:30"
         }
       },
-      "PD:EC-10H": {
+      "PD:chavakachcheri": {
         "Lighting:electricity_grid": {
           "Count": "Int:18661"
         },
@@ -12536,7 +12536,7 @@
           "Count": "Int:14"
         }
       },
-      "PD:EC-10I": {
+      "PD:nallur": {
         "Lighting:electricity_grid": {
           "Count": "Int:18836"
         },
@@ -12559,7 +12559,7 @@
           "Count": "Int:1"
         }
       },
-      "PD:EC-07A": {
+      "PD:balapitiya": {
         "Lighting:electricity_grid": {
           "Count": "Int:18638"
         },
@@ -12582,7 +12582,7 @@
           "Count": "Int:88"
         }
       },
-      "PD:EC-04E": {
+      "PD:teldeniya": {
         "Lighting:electricity_grid": {
           "Count": "Int:18160"
         },
@@ -12605,7 +12605,7 @@
           "Count": "Int:37"
         }
       },
-      "PD:EC-01C": {
+      "PD:borella": {
         "Lighting:electricity_grid": {
           "Count": "Int:17829"
         },
@@ -12628,7 +12628,7 @@
           "Count": "Int:16"
         }
       },
-      "PD:EC-10B": {
+      "PD:vaddukoddai": {
         "Lighting:electricity_grid": {
           "Count": "Int:16286"
         },
@@ -12651,7 +12651,7 @@
           "Count": "Int:2"
         }
       },
-      "PD:EC-01E": {
+      "PD:colombo_west": {
         "Lighting:electricity_grid": {
           "Count": "Int:16014"
         },
@@ -12674,7 +12674,7 @@
           "Count": "Int:9"
         }
       },
-      "PD:EC-10C": {
+      "PD:kankesanthurai": {
         "Lighting:electricity_grid": {
           "Count": "Int:14361"
         },
@@ -12697,7 +12697,7 @@
           "Count": "Int:9"
         }
       },
-      "PD:EC-10G": {
+      "PD:point_pedro": {
         "Lighting:electricity_grid": {
           "Count": "Int:13718"
         },
@@ -12720,7 +12720,7 @@
           "Count": "Int:11"
         }
       },
-      "PD:EC-10F": {
+      "PD:udupiddy": {
         "Lighting:electricity_grid": {
           "Count": "Int:13234"
         },
@@ -12743,7 +12743,7 @@
           "Count": "Int:21"
         }
       },
-      "PD:EC-10J": {
+      "PD:jaffna": {
         "Lighting:electricity_grid": {
           "Count": "Int:11979"
         },
@@ -12766,7 +12766,7 @@
           "Count": "Int:9"
         }
       },
-      "PD:EC-04I": {
+      "PD:mahanuwara": {
         "Lighting:electricity_grid": {
           "Count": "Int:11949"
         },
@@ -12789,7 +12789,7 @@
           "Count": "Int:29"
         }
       },
-      "PD:EC-10A": {
+      "PD:kayts": {
         "Lighting:electricity_grid": {
           "Count": "Int:7627"
         },

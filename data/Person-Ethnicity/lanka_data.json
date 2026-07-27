@@ -1,7 +1,7 @@
 {
   "Person": {
     "Time:2024": {
-      "Country:LK": {
+      "Country:sri_lanka": {
         "Ethnicity:sinhala": {
           "Count": "Int:16140688"
         },
@@ -33,7 +33,7 @@
           "Count": "Int:59489"
         }
       },
-      "Province:LK-1": {
+      "Province:western": {
         "Ethnicity:sinhala": {
           "Count": "Int:5115543"
         },
@@ -65,7 +65,7 @@
           "Count": "Int:19357"
         }
       },
-      "Province:LK-2": {
+      "Province:central": {
         "Ethnicity:sinhala": {
           "Count": "Int:1783899"
         },
@@ -97,7 +97,7 @@
           "Count": "Int:7638"
         }
       },
-      "Province:LK-3": {
+      "Province:southern": {
         "Ethnicity:sinhala": {
           "Count": "Int:2470423"
         },
@@ -129,7 +129,7 @@
           "Count": "Int:5921"
         }
       },
-      "Province:LK-6": {
+      "Province:north_western": {
         "Ethnicity:sinhala": {
           "Count": "Int:2193622"
         },
@@ -161,7 +161,7 @@
           "Count": "Int:7904"
         }
       },
-      "Province:LK-9": {
+      "Province:sabaragamuwa": {
         "Ethnicity:sinhala": {
           "Count": "Int:1739900"
         },
@@ -193,7 +193,7 @@
           "Count": "Int:3917"
         }
       },
-      "Province:LK-5": {
+      "Province:eastern": {
         "Ethnicity:sinhala": {
           "Count": "Int:390538"
         },
@@ -225,7 +225,7 @@
           "Count": "Int:4642"
         }
       },
-      "Province:LK-7": {
+      "Province:north_central": {
         "Ethnicity:sinhala": {
           "Count": "Int:1272757"
         },
@@ -257,7 +257,7 @@
           "Count": "Int:3542"
         }
       },
-      "Province:LK-8": {
+      "Province:uva": {
         "Ethnicity:sinhala": {
           "Count": "Int:1139983"
         },
@@ -289,7 +289,7 @@
           "Count": "Int:3005"
         }
       },
-      "Province:LK-4": {
+      "Province:northern": {
         "Ethnicity:sinhala": {
           "Count": "Int:34023"
         },
@@ -321,7 +321,7 @@
           "Count": "Int:3563"
         }
       },
-      "District:LK-12": {
+      "District:gampaha": {
         "Ethnicity:sinhala": {
           "Count": "Int:2188512"
         },
@@ -353,7 +353,7 @@
           "Count": "Int:8329"
         }
       },
-      "District:LK-11": {
+      "District:colombo": {
         "Ethnicity:sinhala": {
           "Count": "Int:1807945"
         },
@@ -385,7 +385,7 @@
           "Count": "Int:7050"
         }
       },
-      "District:LK-61": {
+      "District:kurunegala": {
         "Ethnicity:sinhala": {
           "Count": "Int:1601886"
         },
@@ -417,7 +417,7 @@
           "Count": "Int:5242"
         }
       },
-      "District:LK-21": {
+      "District:kandy": {
         "Ethnicity:sinhala": {
           "Count": "Int:1077219"
         },
@@ -449,7 +449,7 @@
           "Count": "Int:4915"
         }
       },
-      "District:LK-13": {
+      "District:kalutara": {
         "Ethnicity:sinhala": {
           "Count": "Int:1119086"
         },
@@ -481,7 +481,7 @@
           "Count": "Int:3978"
         }
       },
-      "District:LK-91": {
+      "District:ratnapura": {
         "Ethnicity:sinhala": {
           "Count": "Int:1003515"
         },
@@ -513,7 +513,7 @@
           "Count": "Int:1955"
         }
       },
-      "District:LK-31": {
+      "District:galle": {
         "Ethnicity:sinhala": {
           "Count": "Int:1030354"
         },
@@ -545,7 +545,7 @@
           "Count": "Int:3038"
         }
       },
-      "District:LK-71": {
+      "District:anuradhapura": {
         "Ethnicity:sinhala": {
           "Count": "Int:869982"
         },
@@ -577,7 +577,7 @@
           "Count": "Int:2731"
         }
       },
-      "District:LK-81": {
+      "District:badulla": {
         "Ethnicity:sinhala": {
           "Count": "Int:640617"
         },
@@ -609,7 +609,7 @@
           "Count": "Int:2118"
         }
       },
-      "District:LK-92": {
+      "District:kegalle": {
         "Ethnicity:sinhala": {
           "Count": "Int:736385"
         },
@@ -641,7 +641,7 @@
           "Count": "Int:1962"
         }
       },
-      "District:LK-32": {
+      "District:matara": {
         "Ethnicity:sinhala": {
           "Count": "Int:788795"
         },
@@ -673,7 +673,7 @@
           "Count": "Int:1797"
         }
       },
-      "District:LK-62": {
+      "District:puttalam": {
         "Ethnicity:sinhala": {
           "Count": "Int:591736"
         },
@@ -705,7 +705,7 @@
           "Count": "Int:2662"
         }
       },
-      "District:LK-52": {
+      "District:ampara": {
         "Ethnicity:sinhala": {
           "Count": "Int:276076"
         },
@@ -737,7 +737,7 @@
           "Count": "Int:1832"
         }
       },
-      "District:LK-23": {
+      "District:nuwara_eliya": {
         "Ethnicity:sinhala": {
           "Count": "Int:281904"
         },
@@ -769,7 +769,7 @@
           "Count": "Int:1155"
         }
       },
-      "District:LK-33": {
+      "District:hambantota": {
         "Ethnicity:sinhala": {
           "Count": "Int:651274"
         },
@@ -801,7 +801,7 @@
           "Count": "Int:1086"
         }
       },
-      "District:LK-51": {
+      "District:batticaloa": {
         "Ethnicity:sinhala": {
           "Count": "Int:6034"
         },
@@ -833,7 +833,7 @@
           "Count": "Int:1778"
         }
       },
-      "District:LK-41": {
+      "District:jaffna": {
         "Ethnicity:sinhala": {
           "Count": "Int:2606"
         },
@@ -865,7 +865,7 @@
           "Count": "Int:1637"
         }
       },
-      "District:LK-82": {
+      "District:monaragala": {
         "Ethnicity:sinhala": {
           "Count": "Int:499366"
         },
@@ -897,7 +897,7 @@
           "Count": "Int:887"
         }
       },
-      "District:LK-22": {
+      "District:matale": {
         "Ethnicity:sinhala": {
           "Count": "Int:424776"
         },
@@ -929,7 +929,7 @@
           "Count": "Int:1568"
         }
       },
-      "District:LK-72": {
+      "District:polonnaruwa": {
         "Ethnicity:sinhala": {
           "Count": "Int:402775"
         },
@@ -961,7 +961,7 @@
           "Count": "Int:811"
         }
       },
-      "District:LK-53": {
+      "District:trincomalee": {
         "Ethnicity:sinhala": {
           "Count": "Int:108428"
         },
@@ -993,7 +993,7 @@
           "Count": "Int:1032"
         }
       },
-      "District:LK-43": {
+      "District:vavuniya": {
         "Ethnicity:sinhala": {
           "Count": "Int:18431"
         },
@@ -1025,7 +1025,7 @@
           "Count": "Int:657"
         }
       },
-      "District:LK-45": {
+      "District:kilinochchi": {
         "Ethnicity:sinhala": {
           "Count": "Int:1515"
         },
@@ -1057,7 +1057,7 @@
           "Count": "Int:398"
         }
       },
-      "District:LK-42": {
+      "District:mannar": {
         "Ethnicity:sinhala": {
           "Count": "Int:501"
         },
@@ -1089,7 +1089,7 @@
           "Count": "Int:449"
         }
       },
-      "District:LK-44": {
+      "District:mullaitivu": {
         "Ethnicity:sinhala": {
           "Count": "Int:10970"
         },
@@ -1121,7 +1121,7 @@
           "Count": "Int:422"
         }
       },
-      "DSD:LK-1103": {
+      "DSD:colombo": {
         "Ethnicity:sinhala": {
           "Count": "Int:64504"
         },
@@ -1153,7 +1153,7 @@
           "Count": "Int:824"
         }
       },
-      "DSD:LK-1112": {
+      "DSD:homagama": {
         "Ethnicity:sinhala": {
           "Count": "Int:275057"
         },
@@ -1185,7 +1185,7 @@
           "Count": "Int:990"
         }
       },
-      "DSD:LK-1109": {
+      "DSD:kaduwela": {
         "Ethnicity:sinhala": {
           "Count": "Int:267158"
         },
@@ -1217,7 +1217,7 @@
           "Count": "Int:656"
         }
       },
-      "DSD:LK-1136": {
+      "DSD:kesbewa": {
         "Ethnicity:sinhala": {
           "Count": "Int:255180"
         },
@@ -1249,7 +1249,7 @@
           "Count": "Int:808"
         }
       },
-      "DSD:LK-1206": {
+      "DSD:katana": {
         "Ethnicity:sinhala": {
           "Count": "Int:218375"
         },
@@ -1281,7 +1281,7 @@
           "Count": "Int:751"
         }
       },
-      "DSD:LK-1233": {
+      "DSD:mahara": {
         "Ethnicity:sinhala": {
           "Count": "Int:209413"
         },
@@ -1313,7 +1313,7 @@
           "Count": "Int:678"
         }
       },
-      "DSD:LK-1127": {
+      "DSD:thimbirigasyaya": {
         "Ethnicity:sinhala": {
           "Count": "Int:110336"
         },
@@ -1345,7 +1345,7 @@
           "Count": "Int:851"
         }
       },
-      "DSD:LK-1106": {
+      "DSD:kolonnawa": {
         "Ethnicity:sinhala": {
           "Count": "Int:127854"
         },
@@ -1377,7 +1377,7 @@
           "Count": "Int:436"
         }
       },
-      "DSD:LK-1239": {
+      "DSD:biyagama": {
         "Ethnicity:sinhala": {
           "Count": "Int:186859"
         },
@@ -1409,7 +1409,7 @@
           "Count": "Int:402"
         }
       },
-      "DSD:LK-1224": {
+      "DSD:gampaha": {
         "Ethnicity:sinhala": {
           "Count": "Int:203639"
         },
@@ -1441,7 +1441,7 @@
           "Count": "Int:767"
         }
       },
-      "DSD:LK-1221": {
+      "DSD:ja_ela": {
         "Ethnicity:sinhala": {
           "Count": "Int:191159"
         },
@@ -1473,7 +1473,7 @@
           "Count": "Int:528"
         }
       },
-      "DSD:LK-1215": {
+      "DSD:minuwangoda": {
         "Ethnicity:sinhala": {
           "Count": "Int:190169"
         },
@@ -1505,7 +1505,7 @@
           "Count": "Int:856"
         }
       },
-      "DSD:LK-1227": {
+      "DSD:attanagalla": {
         "Ethnicity:sinhala": {
           "Count": "Int:167492"
         },
@@ -1537,7 +1537,7 @@
           "Count": "Int:981"
         }
       },
-      "DSD:LK-1121": {
+      "DSD:maharagama": {
         "Ethnicity:sinhala": {
           "Count": "Int:188590"
         },
@@ -1569,7 +1569,7 @@
           "Count": "Int:342"
         }
       },
-      "DSD:LK-1303": {
+      "DSD:panadura": {
         "Ethnicity:sinhala": {
           "Count": "Int:153752"
         },
@@ -1601,7 +1601,7 @@
           "Count": "Int:573"
         }
       },
-      "DSD:LK-1218": {
+      "DSD:wattala": {
         "Ethnicity:sinhala": {
           "Count": "Int:124365"
         },
@@ -1633,7 +1633,7 @@
           "Count": "Int:499"
         }
       },
-      "DSD:LK-1324": {
+      "DSD:beruwala": {
         "Ethnicity:sinhala": {
           "Count": "Int:109942"
         },
@@ -1665,7 +1665,7 @@
           "Count": "Int:449"
         }
       },
-      "DSD:LK-1212": {
+      "DSD:mirigama": {
         "Ethnicity:sinhala": {
           "Count": "Int:166648"
         },
@@ -1697,7 +1697,7 @@
           "Count": "Int:715"
         }
       },
-      "DSD:LK-1230": {
+      "DSD:dompe": {
         "Ethnicity:sinhala": {
           "Count": "Int:166320"
         },
@@ -1729,7 +1729,7 @@
           "Count": "Int:687"
         }
       },
-      "DSD:LK-1321": {
+      "DSD:kalutara": {
         "Ethnicity:sinhala": {
           "Count": "Int:149874"
         },
@@ -1761,7 +1761,7 @@
           "Count": "Int:527"
         }
       },
-      "DSD:LK-2314": {
+      "DSD:norwood": {
         "Ethnicity:sinhala": {
           "Count": "Int:9267"
         },
@@ -1793,7 +1793,7 @@
           "Count": "Int:129"
         }
       },
-      "DSD:LK-1133": {
+      "DSD:moratuwa": {
         "Ethnicity:sinhala": {
           "Count": "Int:149858"
         },
@@ -1825,7 +1825,7 @@
           "Count": "Int:380"
         }
       },
-      "DSD:LK-9148": {
+      "DSD:embilipitiya": {
         "Ethnicity:sinhala": {
           "Count": "Int:159732"
         },
@@ -1857,7 +1857,7 @@
           "Count": "Int:191"
         }
       },
-      "DSD:LK-1209": {
+      "DSD:divulapitiya": {
         "Ethnicity:sinhala": {
           "Count": "Int:155173"
         },
@@ -1889,7 +1889,7 @@
           "Count": "Int:625"
         }
       },
-      "DSD:LK-2130": {
+      "DSD:gangawata_korale": {
         "Ethnicity:sinhala": {
           "Count": "Int:115488"
         },
@@ -1921,7 +1921,7 @@
           "Count": "Int:600"
         }
       },
-      "DSD:LK-2127": {
+      "DSD:kundasale": {
         "Ethnicity:sinhala": {
           "Count": "Int:117091"
         },
@@ -1953,7 +1953,7 @@
           "Count": "Int:461"
         }
       },
-      "DSD:LK-1203": {
+      "DSD:negombo": {
         "Ethnicity:sinhala": {
           "Count": "Int:101250"
         },
@@ -1985,7 +1985,7 @@
           "Count": "Int:431"
         }
       },
-      "DSD:LK-6178": {
+      "DSD:pannala": {
         "Ethnicity:sinhala": {
           "Count": "Int:124730"
         },
@@ -2017,7 +2017,7 @@
           "Count": "Int:450"
         }
       },
-      "DSD:LK-1236": {
+      "DSD:kelaniya": {
         "Ethnicity:sinhala": {
           "Count": "Int:107650"
         },
@@ -2049,7 +2049,7 @@
           "Count": "Int:409"
         }
       },
-      "DSD:LK-1309": {
+      "DSD:horana": {
         "Ethnicity:sinhala": {
           "Count": "Int:130812"
         },
@@ -2081,7 +2081,7 @@
           "Count": "Int:492"
         }
       },
-      "DSD:LK-2313": {
+      "DSD:thalawakele": {
         "Ethnicity:sinhala": {
           "Count": "Int:8689"
         },
@@ -2113,7 +2113,7 @@
           "Count": "Int:148"
         }
       },
-      "DSD:LK-9206": {
+      "DSD:mawanella": {
         "Ethnicity:sinhala": {
           "Count": "Int:82919"
         },
@@ -2145,7 +2145,7 @@
           "Count": "Int:253"
         }
       },
-      "DSD:LK-1306": {
+      "DSD:bandaragama": {
         "Ethnicity:sinhala": {
           "Count": "Int:108346"
         },
@@ -2177,7 +2177,7 @@
           "Count": "Int:496"
         }
       },
-      "DSD:LK-3242": {
+      "DSD:matara_four_gravets": {
         "Ethnicity:sinhala": {
           "Count": "Int:118659"
         },
@@ -2209,7 +2209,7 @@
           "Count": "Int:320"
         }
       },
-      "DSD:LK-1115": {
+      "DSD:seethawaka": {
         "Ethnicity:sinhala": {
           "Count": "Int:106192"
         },
@@ -2241,7 +2241,7 @@
           "Count": "Int:429"
         }
       },
-      "DSD:LK-9112": {
+      "DSD:ratnapura": {
         "Ethnicity:sinhala": {
           "Count": "Int:94950"
         },
@@ -2273,7 +2273,7 @@
           "Count": "Int:197"
         }
       },
-      "DSD:LK-2139": {
+      "DSD:udunuwara": {
         "Ethnicity:sinhala": {
           "Count": "Int:86641"
         },
@@ -2305,7 +2305,7 @@
           "Count": "Int:512"
         }
       },
-      "DSD:LK-9218": {
+      "DSD:warakapola": {
         "Ethnicity:sinhala": {
           "Count": "Int:106360"
         },
@@ -2337,7 +2337,7 @@
           "Count": "Int:305"
         }
       },
-      "DSD:LK-4309": {
+      "DSD:vavuniya": {
         "Ethnicity:sinhala": {
           "Count": "Int:3283"
         },
@@ -2369,7 +2369,7 @@
           "Count": "Int:191"
         }
       },
-      "DSD:LK-2136": {
+      "DSD:yatinuwara": {
         "Ethnicity:sinhala": {
           "Count": "Int:101638"
         },
@@ -2401,7 +2401,7 @@
           "Count": "Int:431"
         }
       },
-      "DSD:LK-3139": {
+      "DSD:galle_4_gravets": {
         "Ethnicity:sinhala": {
           "Count": "Int:68564"
         },
@@ -2433,7 +2433,7 @@
           "Count": "Int:351"
         }
       },
-      "DSD:LK-8130": {
+      "DSD:welimada": {
         "Ethnicity:sinhala": {
           "Count": "Int:73138"
         },
@@ -2465,7 +2465,7 @@
           "Count": "Int:331"
         }
       },
-      "DSD:LK-2151": {
+      "DSD:udapalatha": {
         "Ethnicity:sinhala": {
           "Count": "Int:55427"
         },
@@ -2497,7 +2497,7 @@
           "Count": "Int:344"
         }
       },
-      "DSD:LK-5315": {
+      "DSD:town_and_gravets": {
         "Ethnicity:sinhala": {
           "Count": "Int:21937"
         },
@@ -2529,7 +2529,7 @@
           "Count": "Int:214"
         }
       },
-      "DSD:LK-9106": {
+      "DSD:kuruvita": {
         "Ethnicity:sinhala": {
           "Count": "Int:89932"
         },
@@ -2561,7 +2561,7 @@
           "Count": "Int:163"
         }
       },
-      "DSD:LK-6203": {
+      "DSD:kalpitiya": {
         "Ethnicity:sinhala": {
           "Count": "Int:30810"
         },
@@ -2593,7 +2593,7 @@
           "Count": "Int:141"
         }
       },
-      "DSD:LK-1124": {
+      "DSD:sri_jayawardanapura_kotte": {
         "Ethnicity:sinhala": {
           "Count": "Int:81556"
         },
@@ -2625,7 +2625,7 @@
           "Count": "Int:405"
         }
       },
-      "DSD:LK-6163": {
+      "DSD:rideegama": {
         "Ethnicity:sinhala": {
           "Count": "Int:80568"
         },
@@ -2657,7 +2657,7 @@
           "Count": "Int:203"
         }
       },
-      "DSD:LK-5118": {
+      "DSD:manmunai_north": {
         "Ethnicity:sinhala": {
           "Count": "Int:691"
         },
@@ -2689,7 +2689,7 @@
           "Count": "Int:354"
         }
       },
-      "DSD:LK-6215": {
+      "DSD:puttalam": {
         "Ethnicity:sinhala": {
           "Count": "Int:24695"
         },
@@ -2721,7 +2721,7 @@
           "Count": "Int:428"
         }
       },
-      "DSD:LK-9212": {
+      "DSD:kegalle": {
         "Ethnicity:sinhala": {
           "Count": "Int:90458"
         },
@@ -2753,7 +2753,7 @@
           "Count": "Int:245"
         }
       },
-      "DSD:LK-5112": {
+      "DSD:eravur_pattu": {
         "Ethnicity:sinhala": {
           "Count": "Int:2708"
         },
@@ -2785,7 +2785,7 @@
           "Count": "Int:302"
         }
       },
-      "DSD:LK-8124": {
+      "DSD:hali_ela": {
         "Ethnicity:sinhala": {
           "Count": "Int:60374"
         },
@@ -2817,7 +2817,7 @@
           "Count": "Int:231"
         }
       },
-      "DSD:LK-6130": {
+      "DSD:ibbagamuwa": {
         "Ethnicity:sinhala": {
           "Count": "Int:84934"
         },
@@ -2849,7 +2849,7 @@
           "Count": "Int:199"
         }
       },
-      "DSD:LK-2133": {
+      "DSD:harispattuwa": {
         "Ethnicity:sinhala": {
           "Count": "Int:81141"
         },
@@ -2881,7 +2881,7 @@
           "Count": "Int:371"
         }
       },
-      "DSD:LK-9124": {
+      "DSD:pelmadulla": {
         "Ethnicity:sinhala": {
           "Count": "Int:80549"
         },
@@ -2913,7 +2913,7 @@
           "Count": "Int:147"
         }
       },
-      "DSD:LK-1130": {
+      "DSD:dehiwala": {
         "Ethnicity:sinhala": {
           "Count": "Int:47752"
         },
@@ -2945,7 +2945,7 @@
           "Count": "Int:440"
         }
       },
-      "DSD:LK-2112": {
+      "DSD:pathadumbara": {
         "Ethnicity:sinhala": {
           "Count": "Int:67351"
         },
@@ -2977,7 +2977,7 @@
           "Count": "Int:333"
         }
       },
-      "DSD:LK-7215": {
+      "DSD:thamankaduwa": {
         "Ethnicity:sinhala": {
           "Count": "Int:75352"
         },
@@ -3009,7 +3009,7 @@
           "Count": "Int:194"
         }
       },
-      "DSD:LK-8103": {
+      "DSD:mahiyanganaya": {
         "Ethnicity:sinhala": {
           "Count": "Int:86448"
         },
@@ -3041,7 +3041,7 @@
           "Count": "Int:135"
         }
       },
-      "DSD:LK-6154": {
+      "DSD:kurunegala": {
         "Ethnicity:sinhala": {
           "Count": "Int:75269"
         },
@@ -3073,7 +3073,7 @@
           "Count": "Int:330"
         }
       },
-      "DSD:LK-2312": {
+      "DSD:nuwara_eliya": {
         "Ethnicity:sinhala": {
           "Count": "Int:29758"
         },
@@ -3105,7 +3105,7 @@
           "Count": "Int:121"
         }
       },
-      "DSD:LK-1131": {
+      "DSD:ratmalana": {
         "Ethnicity:sinhala": {
           "Count": "Int:64024"
         },
@@ -3137,7 +3137,7 @@
           "Count": "Int:177"
         }
       },
-      "DSD:LK-9203": {
+      "DSD:rambukkana": {
         "Ethnicity:sinhala": {
           "Count": "Int:82564"
         },
@@ -3169,7 +3169,7 @@
           "Count": "Int:242"
         }
       },
-      "DSD:LK-5324": {
+      "DSD:kinniya": {
         "Ethnicity:sinhala": {
           "Count": "Int:55"
         },
@@ -3201,7 +3201,7 @@
           "Count": "Int:183"
         }
       },
-      "DSD:LK-6127": {
+      "DSD:polpitigama": {
         "Ethnicity:sinhala": {
           "Count": "Int:86173"
         },
@@ -3233,7 +3233,7 @@
           "Count": "Int:173"
         }
       },
-      "DSD:LK-3145": {
+      "DSD:akmeemana": {
         "Ethnicity:sinhala": {
           "Count": "Int:82527"
         },
@@ -3265,7 +3265,7 @@
           "Count": "Int:263"
         }
       },
-      "DSD:LK-1330": {
+      "DSD:matugama": {
         "Ethnicity:sinhala": {
           "Count": "Int:75039"
         },
@@ -3297,7 +3297,7 @@
           "Count": "Int:186"
         }
       },
-      "DSD:LK-7212": {
+      "DSD:dimbulagala": {
         "Ethnicity:sinhala": {
           "Count": "Int:82969"
         },
@@ -3329,7 +3329,7 @@
           "Count": "Int:133"
         }
       },
-      "DSD:LK-9230": {
+      "DSD:dehiowita": {
         "Ethnicity:sinhala": {
           "Count": "Int:68007"
         },
@@ -3361,7 +3361,7 @@
           "Count": "Int:114"
         }
       },
-      "DSD:LK-8121": {
+      "DSD:badulla": {
         "Ethnicity:sinhala": {
           "Count": "Int:57434"
         },
@@ -3393,7 +3393,7 @@
           "Count": "Int:155"
         }
       },
-      "DSD:LK-6172": {
+      "DSD:kuliyapitiya_west": {
         "Ethnicity:sinhala": {
           "Count": "Int:78987"
         },
@@ -3425,7 +3425,7 @@
           "Count": "Int:308"
         }
       },
-      "DSD:LK-8127": {
+      "DSD:uvaparanagama": {
         "Ethnicity:sinhala": {
           "Count": "Int:69488"
         },
@@ -3457,7 +3457,7 @@
           "Count": "Int:157"
         }
       },
-      "DSD:LK-2206": {
+      "DSD:dambulla": {
         "Ethnicity:sinhala": {
           "Count": "Int:77901"
         },
@@ -3489,7 +3489,7 @@
           "Count": "Int:239"
         }
       },
-      "DSD:LK-3315": {
+      "DSD:ambalantota": {
         "Ethnicity:sinhala": {
           "Count": "Int:78331"
         },
@@ -3521,7 +3521,7 @@
           "Count": "Int:142"
         }
       },
-      "DSD:LK-2218": {
+      "DSD:matale": {
         "Ethnicity:sinhala": {
           "Count": "Int:49895"
         },
@@ -3553,7 +3553,7 @@
           "Count": "Int:263"
         }
       },
-      "DSD:LK-3333": {
+      "DSD:tangalle": {
         "Ethnicity:sinhala": {
           "Count": "Int:78268"
         },
@@ -3585,7 +3585,7 @@
           "Count": "Int:198"
         }
       },
-      "DSD:LK-2203": {
+      "DSD:galewela": {
         "Ethnicity:sinhala": {
           "Count": "Int:66155"
         },
@@ -3617,7 +3617,7 @@
           "Count": "Int:209"
         }
       },
-      "DSD:LK-9142": {
+      "DSD:godakawela": {
         "Ethnicity:sinhala": {
           "Count": "Int:60788"
         },
@@ -3649,7 +3649,7 @@
           "Count": "Int:140"
         }
       },
-      "DSD:LK-7133": {
+      "DSD:nuwaragam_palatha_east": {
         "Ethnicity:sinhala": {
           "Count": "Int:72698"
         },
@@ -3681,7 +3681,7 @@
           "Count": "Int:157"
         }
       },
-      "DSD:LK-3239": {
+      "DSD:weligama": {
         "Ethnicity:sinhala": {
           "Count": "Int:67229"
         },
@@ -3713,7 +3713,7 @@
           "Count": "Int:198"
         }
       },
-      "DSD:LK-4118": {
+      "DSD:valikamam_east_kopay": {
         "Ethnicity:sinhala": {
           "Count": "Int:0"
         },
@@ -3745,7 +3745,7 @@
           "Count": "Int:185"
         }
       },
-      "DSD:LK-9118": {
+      "DSD:balangoda": {
         "Ethnicity:sinhala": {
           "Count": "Int:55738"
         },
@@ -3777,7 +3777,7 @@
           "Count": "Int:144"
         }
       },
-      "DSD:LK-4509": {
+      "DSD:karachchi": {
         "Ethnicity:sinhala": {
           "Count": "Int:1485"
         },
@@ -3809,7 +3809,7 @@
           "Count": "Int:194"
         }
       },
-      "DSD:LK-3309": {
+      "DSD:thissamaharama": {
         "Ethnicity:sinhala": {
           "Count": "Int:71848"
         },
@@ -3841,7 +3841,7 @@
           "Count": "Int:140"
         }
       },
-      "DSD:LK-9103": {
+      "DSD:eheliyagoda": {
         "Ethnicity:sinhala": {
           "Count": "Int:66476"
         },
@@ -3873,7 +3873,7 @@
           "Count": "Int:211"
         }
       },
-      "DSD:LK-9215": {
+      "DSD:galigamuwa": {
         "Ethnicity:sinhala": {
           "Count": "Int:69747"
         },
@@ -3905,7 +3905,7 @@
           "Count": "Int:125"
         }
       },
-      "DSD:LK-8221": {
+      "DSD:wellawaya": {
         "Ethnicity:sinhala": {
           "Count": "Int:71443"
         },
@@ -3937,7 +3937,7 @@
           "Count": "Int:116"
         }
       },
-      "DSD:LK-1118": {
+      "DSD:padukka": {
         "Ethnicity:sinhala": {
           "Count": "Int:69884"
         },
@@ -3969,7 +3969,7 @@
           "Count": "Int:312"
         }
       },
-      "DSD:LK-4133": {
+      "DSD:nallur": {
         "Ethnicity:sinhala": {
           "Count": "Int:1737"
         },
@@ -4001,7 +4001,7 @@
           "Count": "Int:242"
         }
       },
-      "DSD:LK-5218": {
+      "DSD:sammanthurai": {
         "Ethnicity:sinhala": {
           "Count": "Int:519"
         },
@@ -4033,7 +4033,7 @@
           "Count": "Int:153"
         }
       },
-      "DSD:LK-6218": {
+      "DSD:mundel": {
         "Ethnicity:sinhala": {
           "Count": "Int:30110"
         },
@@ -4065,7 +4065,7 @@
           "Count": "Int:155"
         }
       },
-      "DSD:LK-7206": {
+      "DSD:medirigiriya": {
         "Ethnicity:sinhala": {
           "Count": "Int:70929"
         },
@@ -4097,7 +4097,7 @@
           "Count": "Int:82"
         }
       },
-      "DSD:LK-2233": {
+      "DSD:ukuwela": {
         "Ethnicity:sinhala": {
           "Count": "Int:45624"
         },
@@ -4129,7 +4129,7 @@
           "Count": "Int:227"
         }
       },
-      "DSD:LK-5327": {
+      "DSD:muthur": {
         "Ethnicity:sinhala": {
           "Count": "Int:267"
         },
@@ -4161,7 +4161,7 @@
           "Count": "Int:190"
         }
       },
-      "DSD:LK-7115": {
+      "DSD:nuwaragam_palatha_central": {
         "Ethnicity:sinhala": {
           "Count": "Int:64045"
         },
@@ -4193,7 +4193,7 @@
           "Count": "Int:150"
         }
       },
-      "DSD:LK-6145": {
+      "DSD:panduwasnuwara_west": {
         "Ethnicity:sinhala": {
           "Count": "Int:60286"
         },
@@ -4225,7 +4225,7 @@
           "Count": "Int:214"
         }
       },
-      "DSD:LK-2109": {
+      "DSD:akurana": {
         "Ethnicity:sinhala": {
           "Count": "Int:19403"
         },
@@ -4257,7 +4257,7 @@
           "Count": "Int:132"
         }
       },
-      "DSD:LK-6160": {
+      "DSD:mawathagama": {
         "Ethnicity:sinhala": {
           "Count": "Int:58509"
         },
@@ -4289,7 +4289,7 @@
           "Count": "Int:216"
         }
       },
-      "DSD:LK-7203": {
+      "DSD:higurakgoda": {
         "Ethnicity:sinhala": {
           "Count": "Int:69833"
         },
@@ -4321,7 +4321,7 @@
           "Count": "Int:163"
         }
       },
-      "DSD:LK-9209": {
+      "DSD:aranayake": {
         "Ethnicity:sinhala": {
           "Count": "Int:62092"
         },
@@ -4353,7 +4353,7 @@
           "Count": "Int:135"
         }
       },
-      "DSD:LK-3106": {
+      "DSD:balapitiya": {
         "Ethnicity:sinhala": {
           "Count": "Int:66863"
         },
@@ -4385,7 +4385,7 @@
           "Count": "Int:169"
         }
       },
-      "DSD:LK-4130": {
+      "DSD:thenmaradchi_chavakachcheri": {
         "Ethnicity:sinhala": {
           "Count": "Int:131"
         },
@@ -4417,7 +4417,7 @@
           "Count": "Int:179"
         }
       },
-      "DSD:LK-6187": {
+      "DSD:polgahawela": {
         "Ethnicity:sinhala": {
           "Count": "Int:58980"
         },
@@ -4449,7 +4449,7 @@
           "Count": "Int:232"
         }
       },
-      "DSD:LK-5203": {
+      "DSD:dehiattakandiya": {
         "Ethnicity:sinhala": {
           "Count": "Int:66325"
         },
@@ -4481,7 +4481,7 @@
           "Count": "Int:74"
         }
       },
-      "DSD:LK-3312": {
+      "DSD:hambantota": {
         "Ethnicity:sinhala": {
           "Count": "Int:54951"
         },
@@ -4513,7 +4513,7 @@
           "Count": "Int:162"
         }
       },
-      "DSD:LK-1327": {
+      "DSD:dodangoda": {
         "Ethnicity:sinhala": {
           "Count": "Int:59928"
         },
@@ -4545,7 +4545,7 @@
           "Count": "Int:171"
         }
       },
-      "DSD:LK-6142": {
+      "DSD:bingiriya": {
         "Ethnicity:sinhala": {
           "Count": "Int:63853"
         },
@@ -4577,7 +4577,7 @@
           "Count": "Int:213"
         }
       },
-      "DSD:LK-3112": {
+      "DSD:elpitiya": {
         "Ethnicity:sinhala": {
           "Count": "Int:64918"
         },
@@ -4609,7 +4609,7 @@
           "Count": "Int:153"
         }
       },
-      "DSD:LK-6136": {
+      "DSD:wariyapola": {
         "Ethnicity:sinhala": {
           "Count": "Int:65178"
         },
@@ -4641,7 +4641,7 @@
           "Count": "Int:166"
         }
       },
-      "DSD:LK-9221": {
+      "DSD:ruwanwella": {
         "Ethnicity:sinhala": {
           "Count": "Int:56545"
         },
@@ -4673,7 +4673,7 @@
           "Count": "Int:310"
         }
       },
-      "DSD:LK-6184": {
+      "DSD:alawwa": {
         "Ethnicity:sinhala": {
           "Count": "Int:65444"
         },
@@ -4705,7 +4705,7 @@
           "Count": "Int:120"
         }
       },
-      "DSD:LK-2157": {
+      "DSD:pasbagekorale": {
         "Ethnicity:sinhala": {
           "Count": "Int:31589"
         },
@@ -4737,7 +4737,7 @@
           "Count": "Int:260"
         }
       },
-      "DSD:LK-1312": {
+      "DSD:bulathsinhala": {
         "Ethnicity:sinhala": {
           "Count": "Int:55309"
         },
@@ -4769,7 +4769,7 @@
           "Count": "Int:170"
         }
       },
-      "DSD:LK-6242": {
+      "DSD:nattandiya": {
         "Ethnicity:sinhala": {
           "Count": "Int:55606"
         },
@@ -4801,7 +4801,7 @@
           "Count": "Int:211"
         }
       },
-      "DSD:LK-8133": {
+      "DSD:bandarawela": {
         "Ethnicity:sinhala": {
           "Count": "Int:47873"
         },
@@ -4833,7 +4833,7 @@
           "Count": "Int:193"
         }
       },
-      "DSD:LK-7154": {
+      "DSD:kekirawa": {
         "Ethnicity:sinhala": {
           "Count": "Int:51062"
         },
@@ -4865,7 +4865,7 @@
           "Count": "Int:142"
         }
       },
-      "DSD:LK-2309": {
+      "DSD:walapane": {
         "Ethnicity:sinhala": {
           "Count": "Int:34340"
         },
@@ -4897,7 +4897,7 @@
           "Count": "Int:122"
         }
       },
-      "DSD:LK-6245": {
+      "DSD:wennappuwa": {
         "Ethnicity:sinhala": {
           "Count": "Int:62755"
         },
@@ -4929,7 +4929,7 @@
           "Count": "Int:281"
         }
       },
-      "DSD:LK-9115": {
+      "DSD:imbulpe": {
         "Ethnicity:sinhala": {
           "Count": "Int:55738"
         },
@@ -4961,7 +4961,7 @@
           "Count": "Int:155"
         }
       },
-      "DSD:LK-2124": {
+      "DSD:medadumbara": {
         "Ethnicity:sinhala": {
           "Count": "Int:48059"
         },
@@ -4993,7 +4993,7 @@
           "Count": "Int:257"
         }
       },
-      "DSD:LK-6124": {
+      "DSD:maho": {
         "Ethnicity:sinhala": {
           "Count": "Int:60038"
         },
@@ -5025,7 +5025,7 @@
           "Count": "Int:138"
         }
       },
-      "DSD:LK-3109": {
+      "DSD:karandeniya": {
         "Ethnicity:sinhala": {
           "Count": "Int:62810"
         },
@@ -5057,7 +5057,7 @@
           "Count": "Int:129"
         }
       },
-      "DSD:LK-6233": {
+      "DSD:chilaw": {
         "Ethnicity:sinhala": {
           "Count": "Int:53245"
         },
@@ -5089,7 +5089,7 @@
           "Count": "Int:251"
         }
       },
-      "DSD:LK-3154": {
+      "DSD:habaraduwa": {
         "Ethnicity:sinhala": {
           "Count": "Int:63018"
         },
@@ -5121,7 +5121,7 @@
           "Count": "Int:264"
         }
       },
-      "DSD:LK-8212": {
+      "DSD:siyambalanduwa": {
         "Ethnicity:sinhala": {
           "Count": "Int:62902"
         },
@@ -5153,7 +5153,7 @@
           "Count": "Int:104"
         }
       },
-      "DSD:LK-5136": {
+      "DSD:manmunai_south_and_eruvil_pattu": {
         "Ethnicity:sinhala": {
           "Count": "Int:65"
         },
@@ -5185,7 +5185,7 @@
           "Count": "Int:210"
         }
       },
-      "DSD:LK-6248": {
+      "DSD:dankotuwa": {
         "Ethnicity:sinhala": {
           "Count": "Int:60840"
         },
@@ -5217,7 +5217,7 @@
           "Count": "Int:208"
         }
       },
-      "DSD:LK-9227": {
+      "DSD:yatiyantota": {
         "Ethnicity:sinhala": {
           "Count": "Int:45611"
         },
@@ -5249,7 +5249,7 @@
           "Count": "Int:105"
         }
       },
-      "DSD:LK-5212": {
+      "DSD:uhana": {
         "Ethnicity:sinhala": {
           "Count": "Int:62130"
         },
@@ -5281,7 +5281,7 @@
           "Count": "Int:86"
         }
       },
-      "DSD:LK-6106": {
+      "DSD:galgamuwa": {
         "Ethnicity:sinhala": {
           "Count": "Int:56780"
         },
@@ -5313,7 +5313,7 @@
           "Count": "Int:325"
         }
       },
-      "DSD:LK-2303": {
+      "DSD:kothmale_east": {
         "Ethnicity:sinhala": {
           "Count": "Int:27787"
         },
@@ -5345,7 +5345,7 @@
           "Count": "Int:102"
         }
       },
-      "DSD:LK-6169": {
+      "DSD:kuliyapitiya_east": {
         "Ethnicity:sinhala": {
           "Count": "Int:39908"
         },
@@ -5377,7 +5377,7 @@
           "Count": "Int:122"
         }
       },
-      "DSD:LK-7148": {
+      "DSD:thalawa": {
         "Ethnicity:sinhala": {
           "Count": "Int:60464"
         },
@@ -5409,7 +5409,7 @@
           "Count": "Int:122"
         }
       },
-      "DSD:LK-3209": {
+      "DSD:pasgoda": {
         "Ethnicity:sinhala": {
           "Count": "Int:58983"
         },
@@ -5441,7 +5441,7 @@
           "Count": "Int:142"
         }
       },
-      "DSD:LK-3206": {
+      "DSD:kotapola": {
         "Ethnicity:sinhala": {
           "Count": "Int:51042"
         },
@@ -5473,7 +5473,7 @@
           "Count": "Int:102"
         }
       },
-      "DSD:LK-8106": {
+      "DSD:rideemaliyadda": {
         "Ethnicity:sinhala": {
           "Count": "Int:60675"
         },
@@ -5505,7 +5505,7 @@
           "Count": "Int:83"
         }
       },
-      "DSD:LK-2145": {
+      "DSD:pathahewaheta": {
         "Ethnicity:sinhala": {
           "Count": "Int:54752"
         },
@@ -5537,7 +5537,7 @@
           "Count": "Int:197"
         }
       },
-      "DSD:LK-8224": {
+      "DSD:buttala": {
         "Ethnicity:sinhala": {
           "Count": "Int:59686"
         },
@@ -5569,7 +5569,7 @@
           "Count": "Int:108"
         }
       },
-      "DSD:LK-2106": {
+      "DSD:poojapitiya": {
         "Ethnicity:sinhala": {
           "Count": "Int:47978"
         },
@@ -5601,7 +5601,7 @@
           "Count": "Int:186"
         }
       },
-      "DSD:LK-6181": {
+      "DSD:narammala": {
         "Ethnicity:sinhala": {
           "Count": "Int:55535"
         },
@@ -5633,7 +5633,7 @@
           "Count": "Int:215"
         }
       },
-      "DSD:LK-3133": {
+      "DSD:ambalangoda": {
         "Ethnicity:sinhala": {
           "Count": "Int:59412"
         },
@@ -5665,7 +5665,7 @@
           "Count": "Int:160"
         }
       },
-      "DSD:LK-6157": {
+      "DSD:mallawapitiya": {
         "Ethnicity:sinhala": {
           "Count": "Int:48120"
         },
@@ -5697,7 +5697,7 @@
           "Count": "Int:216"
         }
       },
-      "DSD:LK-9136": {
+      "DSD:nivithigala": {
         "Ethnicity:sinhala": {
           "Count": "Int:49350"
         },
@@ -5729,7 +5729,7 @@
           "Count": "Int:74"
         }
       },
-      "DSD:LK-2154": {
+      "DSD:ganga_ihala_korale": {
         "Ethnicity:sinhala": {
           "Count": "Int:47963"
         },
@@ -5761,7 +5761,7 @@
           "Count": "Int:103"
         }
       },
-      "DSD:LK-2306": {
+      "DSD:hanguranketa": {
         "Ethnicity:sinhala": {
           "Count": "Int:51540"
         },
@@ -5793,7 +5793,7 @@
           "Count": "Int:123"
         }
       },
-      "DSD:LK-3330": {
+      "DSD:beliatta": {
         "Ethnicity:sinhala": {
           "Count": "Int:58564"
         },
@@ -5825,7 +5825,7 @@
           "Count": "Int:77"
         }
       },
-      "DSD:LK-1310": {
+      "DSD:ingiriya": {
         "Ethnicity:sinhala": {
           "Count": "Int:52187"
         },
@@ -5857,7 +5857,7 @@
           "Count": "Int:144"
         }
       },
-      "DSD:LK-3142": {
+      "DSD:bope_poddala": {
         "Ethnicity:sinhala": {
           "Count": "Int:55515"
         },
@@ -5889,7 +5889,7 @@
           "Count": "Int:240"
         }
       },
-      "DSD:LK-4203": {
+      "DSD:mannar_town": {
         "Ethnicity:sinhala": {
           "Count": "Int:195"
         },
@@ -5921,7 +5921,7 @@
           "Count": "Int:178"
         }
       },
-      "DSD:LK-8215": {
+      "DSD:monaragala": {
         "Ethnicity:sinhala": {
           "Count": "Int:48766"
         },
@@ -5953,7 +5953,7 @@
           "Count": "Int:78"
         }
       },
-      "DSD:LK-3248": {
+      "DSD:dikwella": {
         "Ethnicity:sinhala": {
           "Count": "Int:53223"
         },
@@ -5985,7 +5985,7 @@
           "Count": "Int:127"
         }
       },
-      "DSD:LK-1318": {
+      "DSD:millaniya": {
         "Ethnicity:sinhala": {
           "Count": "Int:54429"
         },
@@ -6017,7 +6017,7 @@
           "Count": "Int:257"
         }
       },
-      "DSD:LK-3221": {
+      "DSD:welipitiya": {
         "Ethnicity:sinhala": {
           "Count": "Int:47583"
         },
@@ -6049,7 +6049,7 @@
           "Count": "Int:139"
         }
       },
-      "DSD:LK-7139": {
+      "DSD:nochchiyagama": {
         "Ethnicity:sinhala": {
           "Count": "Int:52819"
         },
@@ -6081,7 +6081,7 @@
           "Count": "Int:96"
         }
       },
-      "DSD:LK-2121": {
+      "DSD:minipe": {
         "Ethnicity:sinhala": {
           "Count": "Int:55043"
         },
@@ -6113,7 +6113,7 @@
           "Count": "Int:94"
         }
       },
-      "DSD:LK-1339": {
+      "DSD:walallawita": {
         "Ethnicity:sinhala": {
           "Count": "Int:53522"
         },
@@ -6145,7 +6145,7 @@
           "Count": "Int:161"
         }
       },
-      "DSD:LK-6175": {
+      "DSD:udubaddawa": {
         "Ethnicity:sinhala": {
           "Count": "Int:47458"
         },
@@ -6177,7 +6177,7 @@
           "Count": "Int:178"
         }
       },
-      "DSD:LK-2230": {
+      "DSD:rattota": {
         "Ethnicity:sinhala": {
           "Count": "Int:38510"
         },
@@ -6209,7 +6209,7 @@
           "Count": "Int:144"
         }
       },
-      "DSD:LK-3218": {
+      "DSD:akuressa": {
         "Ethnicity:sinhala": {
           "Count": "Int:51916"
         },
@@ -6241,7 +6241,7 @@
           "Count": "Int:151"
         }
       },
-      "DSD:LK-3318": {
+      "DSD:angunakolapelessa": {
         "Ethnicity:sinhala": {
           "Count": "Int:53363"
         },
@@ -6273,7 +6273,7 @@
           "Count": "Int:46"
         }
       },
-      "DSD:LK-5233": {
+      "DSD:addalaichenai": {
         "Ethnicity:sinhala": {
           "Count": "Int:3417"
         },
@@ -6305,7 +6305,7 @@
           "Count": "Int:130"
         }
       },
-      "DSD:LK-5224": {
+      "DSD:kalmunai": {
         "Ethnicity:sinhala": {
           "Count": "Int:28"
         },
@@ -6337,7 +6337,7 @@
           "Count": "Int:152"
         }
       },
-      "DSD:LK-2142": {
+      "DSD:doluwa": {
         "Ethnicity:sinhala": {
           "Count": "Int:39501"
         },
@@ -6369,7 +6369,7 @@
           "Count": "Int:168"
         }
       },
-      "DSD:LK-3303": {
+      "DSD:sooriyawewa": {
         "Ethnicity:sinhala": {
           "Count": "Int:52646"
         },
@@ -6401,7 +6401,7 @@
           "Count": "Int:63"
         }
       },
-      "DSD:LK-7109": {
+      "DSD:medawachchiya": {
         "Ethnicity:sinhala": {
           "Count": "Int:48765"
         },
@@ -6433,7 +6433,7 @@
           "Count": "Int:102"
         }
       },
-      "DSD:LK-3324": {
+      "DSD:katuwana": {
         "Ethnicity:sinhala": {
           "Count": "Int:52119"
         },
@@ -6465,7 +6465,7 @@
           "Count": "Int:50"
         }
       },
-      "DSD:LK-4109": {
+      "DSD:valikamam_south_west_sandilipay": {
         "Ethnicity:sinhala": {
           "Count": "Int:0"
         },
@@ -6497,7 +6497,7 @@
           "Count": "Int:117"
         }
       },
-      "DSD:LK-3124": {
+      "DSD:nagoda": {
         "Ethnicity:sinhala": {
           "Count": "Int:47957"
         },
@@ -6529,7 +6529,7 @@
           "Count": "Int:79"
         }
       },
-      "DSD:LK-7127": {
+      "DSD:galenbidunuwewa": {
         "Ethnicity:sinhala": {
           "Count": "Int:50079"
         },
@@ -6561,7 +6561,7 @@
           "Count": "Int:73"
         }
       },
-      "DSD:LK-3212": {
+      "DSD:mulatiyana": {
         "Ethnicity:sinhala": {
           "Count": "Int:51505"
         },
@@ -6593,7 +6593,7 @@
           "Count": "Int:59"
         }
       },
-      "DSD:LK-1336": {
+      "DSD:palindanuwara": {
         "Ethnicity:sinhala": {
           "Count": "Int:46704"
         },
@@ -6625,7 +6625,7 @@
           "Count": "Int:118"
         }
       },
-      "DSD:LK-3127": {
+      "DSD:baddegama": {
         "Ethnicity:sinhala": {
           "Count": "Int:49774"
         },
@@ -6657,7 +6657,7 @@
           "Count": "Int:136"
         }
       },
-      "DSD:LK-5321": {
+      "DSD:kantale": {
         "Ethnicity:sinhala": {
           "Count": "Int:40173"
         },
@@ -6689,7 +6689,7 @@
           "Count": "Int:104"
         }
       },
-      "DSD:LK-9133": {
+      "DSD:kalawana": {
         "Ethnicity:sinhala": {
           "Count": "Int:44601"
         },
@@ -6721,7 +6721,7 @@
           "Count": "Int:70"
         }
       },
-      "DSD:LK-4115": {
+      "DSD:valikamam_south_uduvil": {
         "Ethnicity:sinhala": {
           "Count": "Int:21"
         },
@@ -6753,7 +6753,7 @@
           "Count": "Int:143"
         }
       },
-      "DSD:LK-9151": {
+      "DSD:kolonna": {
         "Ethnicity:sinhala": {
           "Count": "Int:45389"
         },
@@ -6785,7 +6785,7 @@
           "Count": "Int:45"
         }
       },
-      "DSD:LK-3103": {
+      "DSD:bentota": {
         "Ethnicity:sinhala": {
           "Count": "Int:48407"
         },
@@ -6817,7 +6817,7 @@
           "Count": "Int:206"
         }
       },
-      "DSD:LK-8118": {
+      "DSD:passara": {
         "Ethnicity:sinhala": {
           "Count": "Int:27268"
         },
@@ -6849,7 +6849,7 @@
           "Count": "Int:111"
         }
       },
-      "DSD:LK-8136": {
+      "DSD:ella": {
         "Ethnicity:sinhala": {
           "Count": "Int:32465"
         },
@@ -6881,7 +6881,7 @@
           "Count": "Int:131"
         }
       },
-      "DSD:LK-8233": {
+      "DSD:sevanagala": {
         "Ethnicity:sinhala": {
           "Count": "Int:49318"
         },
@@ -6913,7 +6913,7 @@
           "Count": "Int:47"
         }
       },
-      "DSD:LK-3245": {
+      "DSD:devinuwara": {
         "Ethnicity:sinhala": {
           "Count": "Int:48394"
         },
@@ -6945,7 +6945,7 @@
           "Count": "Int:90"
         }
       },
-      "DSD:LK-6236": {
+      "DSD:madampe": {
         "Ethnicity:sinhala": {
           "Count": "Int:44683"
         },
@@ -6977,7 +6977,7 @@
           "Count": "Int:182"
         }
       },
-      "DSD:LK-3203": {
+      "DSD:pitabaddara": {
         "Ethnicity:sinhala": {
           "Count": "Int:45951"
         },
@@ -7009,7 +7009,7 @@
           "Count": "Int:98"
         }
       },
-      "DSD:LK-6239": {
+      "DSD:mahawewa": {
         "Ethnicity:sinhala": {
           "Count": "Int:47874"
         },
@@ -7041,7 +7041,7 @@
           "Count": "Int:197"
         }
       },
-      "DSD:LK-7218": {
+      "DSD:elahera": {
         "Ethnicity:sinhala": {
           "Count": "Int:48381"
         },
@@ -7073,7 +7073,7 @@
           "Count": "Int:108"
         }
       },
-      "DSD:LK-4136": {
+      "DSD:jaffna": {
         "Ethnicity:sinhala": {
           "Count": "Int:588"
         },
@@ -7105,7 +7105,7 @@
           "Count": "Int:176"
         }
       },
-      "DSD:LK-8139": {
+      "DSD:haputale": {
         "Ethnicity:sinhala": {
           "Count": "Int:24889"
         },
@@ -7137,7 +7137,7 @@
           "Count": "Int:183"
         }
       },
-      "DSD:LK-3321": {
+      "DSD:weeraketiya": {
         "Ethnicity:sinhala": {
           "Count": "Int:47226"
         },
@@ -7169,7 +7169,7 @@
           "Count": "Int:49"
         }
       },
-      "DSD:LK-3151": {
+      "DSD:imaduwa": {
         "Ethnicity:sinhala": {
           "Count": "Int:48008"
         },
@@ -7201,7 +7201,7 @@
           "Count": "Int:97"
         }
       },
-      "DSD:LK-3325": {
+      "DSD:walasmulla": {
         "Ethnicity:sinhala": {
           "Count": "Int:47783"
         },
@@ -7233,7 +7233,7 @@
           "Count": "Int:69"
         }
       },
-      "DSD:LK-5215": {
+      "DSD:ampara": {
         "Ethnicity:sinhala": {
           "Count": "Int:47324"
         },
@@ -7265,7 +7265,7 @@
           "Count": "Int:124"
         }
       },
-      "DSD:LK-8203": {
+      "DSD:bibile": {
         "Ethnicity:sinhala": {
           "Count": "Int:44947"
         },
@@ -7297,7 +7297,7 @@
           "Count": "Int:109"
         }
       },
-      "DSD:LK-7145": {
+      "DSD:thambuththegama": {
         "Ethnicity:sinhala": {
           "Count": "Int:46361"
         },
@@ -7329,7 +7329,7 @@
           "Count": "Int:700"
         }
       },
-      "DSD:LK-3148": {
+      "DSD:yakkalamulla": {
         "Ethnicity:sinhala": {
           "Count": "Int:43902"
         },
@@ -7361,7 +7361,7 @@
           "Count": "Int:85"
         }
       },
-      "DSD:LK-8218": {
+      "DSD:badalkumbura": {
         "Ethnicity:sinhala": {
           "Count": "Int:39646"
         },
@@ -7393,7 +7393,7 @@
           "Count": "Int:113"
         }
       },
-      "DSD:LK-9224": {
+      "DSD:bulathkohipitiya": {
         "Ethnicity:sinhala": {
           "Count": "Int:37426"
         },
@@ -7425,7 +7425,7 @@
           "Count": "Int:56"
         }
       },
-      "DSD:LK-4106": {
+      "DSD:valikamam_west_chankanai": {
         "Ethnicity:sinhala": {
           "Count": "Int:10"
         },
@@ -7457,7 +7457,7 @@
           "Count": "Int:96"
         }
       },
-      "DSD:LK-5236": {
+      "DSD:akkaraipattu": {
         "Ethnicity:sinhala": {
           "Count": "Int:77"
         },
@@ -7489,7 +7489,7 @@
           "Count": "Int:83"
         }
       },
-      "DSD:LK-4112": {
+      "DSD:valikamam_north_thllippalai": {
         "Ethnicity:sinhala": {
           "Count": "Int:51"
         },
@@ -7521,7 +7521,7 @@
           "Count": "Int:132"
         }
       },
-      "DSD:LK-7121": {
+      "DSD:kahatagasdigiliya": {
         "Ethnicity:sinhala": {
           "Count": "Int:34252"
         },
@@ -7553,7 +7553,7 @@
           "Count": "Int:81"
         }
       },
-      "DSD:LK-5124": {
+      "DSD:kattankudy": {
         "Ethnicity:sinhala": {
           "Count": "Int:23"
         },
@@ -7585,7 +7585,7 @@
           "Count": "Int:79"
         }
       },
-      "DSD:LK-8209": {
+      "DSD:medagama": {
         "Ethnicity:sinhala": {
           "Count": "Int:37759"
         },
@@ -7617,7 +7617,7 @@
           "Count": "Int:68"
         }
       },
-      "DSD:LK-7130": {
+      "DSD:mihinthale": {
         "Ethnicity:sinhala": {
           "Count": "Int:41335"
         },
@@ -7649,7 +7649,7 @@
           "Count": "Int:84"
         }
       },
-      "DSD:LK-9233": {
+      "DSD:deraniyagala": {
         "Ethnicity:sinhala": {
           "Count": "Int:34656"
         },
@@ -7681,7 +7681,7 @@
           "Count": "Int:72"
         }
       },
-      "DSD:LK-9139": {
+      "DSD:kahawattha": {
         "Ethnicity:sinhala": {
           "Count": "Int:33410"
         },
@@ -7713,7 +7713,7 @@
           "Count": "Int:101"
         }
       },
-      "DSD:LK-6224": {
+      "DSD:anamaduwa": {
         "Ethnicity:sinhala": {
           "Count": "Int:42440"
         },
@@ -7745,7 +7745,7 @@
           "Count": "Int:107"
         }
       },
-      "DSD:LK-6133": {
+      "DSD:ganewatta": {
         "Ethnicity:sinhala": {
           "Count": "Int:40857"
         },
@@ -7777,7 +7777,7 @@
           "Count": "Int:118"
         }
       },
-      "DSD:LK-6121": {
+      "DSD:nikaweratiya": {
         "Ethnicity:sinhala": {
           "Count": "Int:41492"
         },
@@ -7809,7 +7809,7 @@
           "Count": "Int:110"
         }
       },
-      "DSD:LK-4127": {
+      "DSD:vadamaradchi_north_point_pedro": {
         "Ethnicity:sinhala": {
           "Count": "Int:41"
         },
@@ -7841,7 +7841,7 @@
           "Count": "Int:101"
         }
       },
-      "DSD:LK-5248": {
+      "DSD:pottuvil": {
         "Ethnicity:sinhala": {
           "Count": "Int:765"
         },
@@ -7873,7 +7873,7 @@
           "Count": "Int:91"
         }
       },
-      "DSD:LK-3227": {
+      "DSD:kaburupitiya": {
         "Ethnicity:sinhala": {
           "Count": "Int:42586"
         },
@@ -7905,7 +7905,7 @@
           "Count": "Int:114"
         }
       },
-      "DSD:LK-6230": {
+      "DSD:arachchikattuwa": {
         "Ethnicity:sinhala": {
           "Count": "Int:40553"
         },
@@ -7937,7 +7937,7 @@
           "Count": "Int:94"
         }
       },
-      "DSD:LK-2315": {
+      "DSD:ambagamuwa_korale": {
         "Ethnicity:sinhala": {
           "Count": "Int:32868"
         },
@@ -7969,7 +7969,7 @@
           "Count": "Int:119"
         }
       },
-      "DSD:LK-2310": {
+      "DSD:nildandahinna": {
         "Ethnicity:sinhala": {
           "Count": "Int:32388"
         },
@@ -8001,7 +8001,7 @@
           "Count": "Int:99"
         }
       },
-      "DSD:LK-7160": {
+      "DSD:ipalogama": {
         "Ethnicity:sinhala": {
           "Count": "Int:35434"
         },
@@ -8033,7 +8033,7 @@
           "Count": "Int:290"
         }
       },
-      "DSD:LK-2302": {
+      "DSD:kothmale_west": {
         "Ethnicity:sinhala": {
           "Count": "Int:26683"
         },
@@ -8065,7 +8065,7 @@
           "Count": "Int:113"
         }
       },
-      "DSD:LK-6151": {
+      "DSD:maspotha": {
         "Ethnicity:sinhala": {
           "Count": "Int:39742"
         },
@@ -8097,7 +8097,7 @@
           "Count": "Int:152"
         }
       },
-      "DSD:LK-3137": {
+      "DSD:rathgama": {
         "Ethnicity:sinhala": {
           "Count": "Int:41252"
         },
@@ -8129,7 +8129,7 @@
           "Count": "Int:68"
         }
       },
-      "DSD:LK-7124": {
+      "DSD:horowpathana": {
         "Ethnicity:sinhala": {
           "Count": "Int:28997"
         },
@@ -8161,7 +8161,7 @@
           "Count": "Int:84"
         }
       },
-      "DSD:LK-4121": {
+      "DSD:vadamaradchchi_south_west_karaveddy": {
         "Ethnicity:sinhala": {
           "Count": "Int:13"
         },
@@ -8193,7 +8193,7 @@
           "Count": "Int:107"
         }
       },
-      "DSD:LK-6139": {
+      "DSD:kobeigane": {
         "Ethnicity:sinhala": {
           "Count": "Int:35249"
         },
@@ -8225,7 +8225,7 @@
           "Count": "Int:109"
         }
       },
-      "DSD:LK-5242": {
+      "DSD:damana": {
         "Ethnicity:sinhala": {
           "Count": "Int:40108"
         },
@@ -8257,7 +8257,7 @@
           "Count": "Int:57"
         }
       },
-      "DSD:LK-5306": {
+      "DSD:kuchchaweli": {
         "Ethnicity:sinhala": {
           "Count": "Int:1804"
         },
@@ -8289,7 +8289,7 @@
           "Count": "Int:99"
         }
       },
-      "DSD:LK-7118": {
+      "DSD:rambewa": {
         "Ethnicity:sinhala": {
           "Count": "Int:34559"
         },
@@ -8321,7 +8321,7 @@
           "Count": "Int:94"
         }
       },
-      "DSD:LK-7209": {
+      "DSD:lankapura": {
         "Ethnicity:sinhala": {
           "Count": "Int:27079"
         },
@@ -8353,7 +8353,7 @@
           "Count": "Int:58"
         }
       },
-      "DSD:LK-4409": {
+      "DSD:puthukkudiyiruppu": {
         "Ethnicity:sinhala": {
           "Count": "Int:22"
         },
@@ -8385,7 +8385,7 @@
           "Count": "Int:100"
         }
       },
-      "DSD:LK-7163": {
+      "DSD:galnewa": {
         "Ethnicity:sinhala": {
           "Count": "Int:36635"
         },
@@ -8417,7 +8417,7 @@
           "Count": "Int:49"
         }
       },
-      "DSD:LK-6149": {
+      "DSD:bamunakotuwa": {
         "Ethnicity:sinhala": {
           "Count": "Int:38322"
         },
@@ -8449,7 +8449,7 @@
           "Count": "Int:132"
         }
       },
-      "DSD:LK-8142": {
+      "DSD:haldummulla": {
         "Ethnicity:sinhala": {
           "Count": "Int:21590"
         },
@@ -8481,7 +8481,7 @@
           "Count": "Int:119"
         }
       },
-      "DSD:LK-2103": {
+      "DSD:tumpane": {
         "Ethnicity:sinhala": {
           "Count": "Int:35415"
         },
@@ -8513,7 +8513,7 @@
           "Count": "Int:179"
         }
       },
-      "DSD:LK-5133": {
+      "DSD:porativu_pattu": {
         "Ethnicity:sinhala": {
           "Count": "Int:195"
         },
@@ -8545,7 +8545,7 @@
           "Count": "Int:138"
         }
       },
-      "DSD:LK-7166": {
+      "DSD:palagala": {
         "Ethnicity:sinhala": {
           "Count": "Int:32544"
         },
@@ -8577,7 +8577,7 @@
           "Count": "Int:80"
         }
       },
-      "DSD:LK-9127": {
+      "DSD:elapatha": {
         "Ethnicity:sinhala": {
           "Count": "Int:36543"
         },
@@ -8609,7 +8609,7 @@
           "Count": "Int:52"
         }
       },
-      "DSD:LK-7210": {
+      "DSD:welikanda": {
         "Ethnicity:sinhala": {
           "Count": "Int:28232"
         },
@@ -8641,7 +8641,7 @@
           "Count": "Int:73"
         }
       },
-      "DSD:LK-3306": {
+      "DSD:lunugamwehera": {
         "Ethnicity:sinhala": {
           "Count": "Int:36217"
         },
@@ -8673,7 +8673,7 @@
           "Count": "Int:74"
         }
       },
-      "DSD:LK-4415": {
+      "DSD:maritimepattu": {
         "Ethnicity:sinhala": {
           "Count": "Int:674"
         },
@@ -8705,7 +8705,7 @@
           "Count": "Int:137"
         }
       },
-      "DSD:LK-1315": {
+      "DSD:madurawala": {
         "Ethnicity:sinhala": {
           "Count": "Int:33633"
         },
@@ -8737,7 +8737,7 @@
           "Count": "Int:105"
         }
       },
-      "DSD:LK-6166": {
+      "DSD:weerabugedara": {
         "Ethnicity:sinhala": {
           "Count": "Int:36332"
         },
@@ -8769,7 +8769,7 @@
           "Count": "Int:178"
         }
       },
-      "DSD:LK-1333": {
+      "DSD:agalawatta": {
         "Ethnicity:sinhala": {
           "Count": "Int:35609"
         },
@@ -8801,7 +8801,7 @@
           "Count": "Int:129"
         }
       },
-      "DSD:LK-5127": {
+      "DSD:manmunai_pattu": {
         "Ethnicity:sinhala": {
           "Count": "Int:73"
         },
@@ -8833,7 +8833,7 @@
           "Count": "Int:128"
         }
       },
-      "DSD:LK-8206": {
+      "DSD:madulla": {
         "Ethnicity:sinhala": {
           "Count": "Int:36395"
         },
@@ -8865,7 +8865,7 @@
           "Count": "Int:51"
         }
       },
-      "DSD:LK-7142": {
+      "DSD:rajanganaya": {
         "Ethnicity:sinhala": {
           "Count": "Int:36195"
         },
@@ -8897,7 +8897,7 @@
           "Count": "Int:30"
         }
       },
-      "DSD:LK-3224": {
+      "DSD:malimbada": {
         "Ethnicity:sinhala": {
           "Count": "Int:35512"
         },
@@ -8929,7 +8929,7 @@
           "Count": "Int:39"
         }
       },
-      "DSD:LK-3115": {
+      "DSD:niyagama": {
         "Ethnicity:sinhala": {
           "Count": "Int:35359"
         },
@@ -8961,7 +8961,7 @@
           "Count": "Int:49"
         }
       },
-      "DSD:LK-6103": {
+      "DSD:giribawa": {
         "Ethnicity:sinhala": {
           "Count": "Int:31868"
         },
@@ -8993,7 +8993,7 @@
           "Count": "Int:56"
         }
       },
-      "DSD:LK-3236": {
+      "DSD:thihagoda": {
         "Ethnicity:sinhala": {
           "Count": "Int:34214"
         },
@@ -9025,7 +9025,7 @@
           "Count": "Int:92"
         }
       },
-      "DSD:LK-9145": {
+      "DSD:weligepola": {
         "Ethnicity:sinhala": {
           "Count": "Int:33778"
         },
@@ -9057,7 +9057,7 @@
           "Count": "Int:78"
         }
       },
-      "DSD:LK-2227": {
+      "DSD:wilgamuwa": {
         "Ethnicity:sinhala": {
           "Count": "Int:33668"
         },
@@ -9089,7 +9089,7 @@
           "Count": "Int:47"
         }
       },
-      "DSD:LK-5318": {
+      "DSD:thambalagamuwa": {
         "Ethnicity:sinhala": {
           "Count": "Int:7496"
         },
@@ -9121,7 +9121,7 @@
           "Count": "Int:71"
         }
       },
-      "DSD:LK-9109": {
+      "DSD:kiriella": {
         "Ethnicity:sinhala": {
           "Count": "Int:32533"
         },
@@ -9153,7 +9153,7 @@
           "Count": "Int:75"
         }
       },
-      "DSD:LK-3135": {
+      "DSD:madampagama": {
         "Ethnicity:sinhala": {
           "Count": "Int:33335"
         },
@@ -9185,7 +9185,7 @@
           "Count": "Int:73"
         }
       },
-      "DSD:LK-2307": {
+      "DSD:mathurata": {
         "Ethnicity:sinhala": {
           "Count": "Int:28584"
         },
@@ -9217,7 +9217,7 @@
           "Count": "Int:79"
         }
       },
-      "DSD:LK-3230": {
+      "DSD:hakmana": {
         "Ethnicity:sinhala": {
           "Count": "Int:31922"
         },
@@ -9249,7 +9249,7 @@
           "Count": "Int:47"
         }
       },
-      "DSD:LK-5121": {
+      "DSD:manmunai_west": {
         "Ethnicity:sinhala": {
           "Count": "Int:0"
         },
@@ -9281,7 +9281,7 @@
           "Count": "Int:100"
         }
       },
-      "DSD:LK-3215": {
+      "DSD:athuraliya": {
         "Ethnicity:sinhala": {
           "Count": "Int:30115"
         },
@@ -9313,7 +9313,7 @@
           "Count": "Int:64"
         }
       },
-      "DSD:LK-2215": {
+      "DSD:yatawatta": {
         "Ethnicity:sinhala": {
           "Count": "Int:26879"
         },
@@ -9345,7 +9345,7 @@
           "Count": "Int:152"
         }
       },
-      "DSD:LK-2148": {
+      "DSD:deltota": {
         "Ethnicity:sinhala": {
           "Count": "Int:12765"
         },
@@ -9377,7 +9377,7 @@
           "Count": "Int:85"
         }
       },
-      "DSD:LK-8119": {
+      "DSD:lunugala": {
         "Ethnicity:sinhala": {
           "Count": "Int:12890"
         },
@@ -9409,7 +9409,7 @@
           "Count": "Int:97"
         }
       },
-      "DSD:LK-6148": {
+      "DSD:panduwasnuwara_east": {
         "Ethnicity:sinhala": {
           "Count": "Int:30883"
         },
@@ -9441,7 +9441,7 @@
           "Count": "Int:98"
         }
       },
-      "DSD:LK-2212": {
+      "DSD:pallepola": {
         "Ethnicity:sinhala": {
           "Count": "Int:29426"
         },
@@ -9473,7 +9473,7 @@
           "Count": "Int:106"
         }
       },
-      "DSD:LK-5221": {
+      "DSD:kalmunai_north": {
         "Ethnicity:sinhala": {
           "Count": "Int:117"
         },
@@ -9505,7 +9505,7 @@
           "Count": "Int:171"
         }
       },
-      "DSD:LK-8230": {
+      "DSD:thanamalwila": {
         "Ethnicity:sinhala": {
           "Count": "Int:31159"
         },
@@ -9537,7 +9537,7 @@
           "Count": "Int:59"
         }
       },
-      "DSD:LK-2134": {
+      "DSD:hatharaliyadda": {
         "Ethnicity:sinhala": {
           "Count": "Int:29084"
         },
@@ -9569,7 +9569,7 @@
           "Count": "Int:86"
         }
       },
-      "DSD:LK-7151": {
+      "DSD:thirappane": {
         "Ethnicity:sinhala": {
           "Count": "Int:28934"
         },
@@ -9601,7 +9601,7 @@
           "Count": "Int:70"
         }
       },
-      "DSD:LK-3118": {
+      "DSD:thawalama": {
         "Ethnicity:sinhala": {
           "Count": "Int:29222"
         },
@@ -9633,7 +9633,7 @@
           "Count": "Int:69"
         }
       },
-      "DSD:LK-2209": {
+      "DSD:naula": {
         "Ethnicity:sinhala": {
           "Count": "Int:28540"
         },
@@ -9665,7 +9665,7 @@
           "Count": "Int:89"
         }
       },
-      "DSD:LK-5230": {
+      "DSD:nintavur": {
         "Ethnicity:sinhala": {
           "Count": "Int:0"
         },
@@ -9697,7 +9697,7 @@
           "Count": "Int:91"
         }
       },
-      "DSD:LK-5104": {
+      "DSD:koralai_pattu_central": {
         "Ethnicity:sinhala": {
           "Count": "Int:67"
         },
@@ -9729,7 +9729,7 @@
           "Count": "Int:42"
         }
       },
-      "DSD:LK-9130": {
+      "DSD:ayagama": {
         "Ethnicity:sinhala": {
           "Count": "Int:26188"
         },
@@ -9761,7 +9761,7 @@
           "Count": "Int:43"
         }
       },
-      "DSD:LK-5225": {
+      "DSD:sainthamaruthu": {
         "Ethnicity:sinhala": {
           "Count": "Int:0"
         },
@@ -9793,7 +9793,7 @@
           "Count": "Int:62"
         }
       },
-      "DSD:LK-3130": {
+      "DSD:welivitiya_divitura": {
         "Ethnicity:sinhala": {
           "Count": "Int:28076"
         },
@@ -9825,7 +9825,7 @@
           "Count": "Int:65"
         }
       },
-      "DSD:LK-5245": {
+      "DSD:tirukkovil": {
         "Ethnicity:sinhala": {
           "Count": "Int:21"
         },
@@ -9857,7 +9857,7 @@
           "Count": "Int:71"
         }
       },
-      "DSD:LK-5109": {
+      "DSD:koralai_pattu": {
         "Ethnicity:sinhala": {
           "Count": "Int:664"
         },
@@ -9889,7 +9889,7 @@
           "Count": "Int:77"
         }
       },
-      "DSD:LK-6109": {
+      "DSD:ehetuwewa": {
         "Ethnicity:sinhala": {
           "Count": "Int:27460"
         },
@@ -9921,7 +9921,7 @@
           "Count": "Int:73"
         }
       },
-      "DSD:LK-5110": {
+      "DSD:koralai_pattu_south": {
         "Ethnicity:sinhala": {
           "Count": "Int:43"
         },
@@ -9953,7 +9953,7 @@
           "Count": "Int:83"
         }
       },
-      "DSD:LK-7136": {
+      "DSD:nachchaduwa": {
         "Ethnicity:sinhala": {
           "Count": "Int:24629"
         },
@@ -9985,7 +9985,7 @@
           "Count": "Int:63"
         }
       },
-      "DSD:LK-6227": {
+      "DSD:pallama": {
         "Ethnicity:sinhala": {
           "Count": "Int:22387"
         },
@@ -10017,7 +10017,7 @@
           "Count": "Int:58"
         }
       },
-      "DSD:LK-3121": {
+      "DSD:neluwa": {
         "Ethnicity:sinhala": {
           "Count": "Int:26094"
         },
@@ -10049,7 +10049,7 @@
           "Count": "Int:59"
         }
       },
-      "DSD:LK-3128": {
+      "DSD:wanduramba": {
         "Ethnicity:sinhala": {
           "Count": "Int:26253"
         },
@@ -10081,7 +10081,7 @@
           "Count": "Int:36"
         }
       },
-      "DSD:LK-9121": {
+      "DSD:opanayake": {
         "Ethnicity:sinhala": {
           "Count": "Int:25144"
         },
@@ -10113,7 +10113,7 @@
           "Count": "Int:34"
         }
       },
-      "DSD:LK-8112": {
+      "DSD:kandeketiya": {
         "Ethnicity:sinhala": {
           "Count": "Int:25477"
         },
@@ -10145,7 +10145,7 @@
           "Count": "Int:55"
         }
       },
-      "DSD:LK-5130": {
+      "DSD:manmunai_south_west": {
         "Ethnicity:sinhala": {
           "Count": "Int:1347"
         },
@@ -10177,7 +10177,7 @@
           "Count": "Int:31"
         }
       },
-      "DSD:LK-5115": {
+      "DSD:eravur_town": {
         "Ethnicity:sinhala": {
           "Count": "Int:12"
         },
@@ -10209,7 +10209,7 @@
           "Count": "Int:98"
         }
       },
-      "DSD:LK-7106": {
+      "DSD:kebithigollewa": {
         "Ethnicity:sinhala": {
           "Count": "Int:23758"
         },
@@ -10241,7 +10241,7 @@
           "Count": "Int:34"
         }
       },
-      "DSD:LK-6209": {
+      "DSD:karuwalagaswewa": {
         "Ethnicity:sinhala": {
           "Count": "Int:25977"
         },
@@ -10273,7 +10273,7 @@
           "Count": "Int:111"
         }
       },
-      "DSD:LK-3136": {
+      "DSD:hikkaduwa": {
         "Ethnicity:sinhala": {
           "Count": "Int:25926"
         },
@@ -10305,7 +10305,7 @@
           "Count": "Int:202"
         }
       },
-      "DSD:LK-4312": {
+      "DSD:vengalacheddikulam": {
         "Ethnicity:sinhala": {
           "Count": "Int:35"
         },
@@ -10337,7 +10337,7 @@
           "Count": "Int:90"
         }
       },
-      "DSD:LK-2115": {
+      "DSD:panvila": {
         "Ethnicity:sinhala": {
           "Count": "Int:9764"
         },
@@ -10369,7 +10369,7 @@
           "Count": "Int:41"
         }
       },
-      "DSD:LK-6112": {
+      "DSD:ambanpola": {
         "Ethnicity:sinhala": {
           "Count": "Int:25075"
         },
@@ -10401,7 +10401,7 @@
           "Count": "Int:73"
         }
       },
-      "DSD:LK-5103": {
+      "DSD:koralai_pattu_north": {
         "Ethnicity:sinhala": {
           "Count": "Int:146"
         },
@@ -10433,7 +10433,7 @@
           "Count": "Int:73"
         }
       },
-      "DSD:LK-4506": {
+      "DSD:kandavalai": {
         "Ethnicity:sinhala": {
           "Count": "Int:13"
         },
@@ -10465,7 +10465,7 @@
           "Count": "Int:52"
         }
       },
-      "DSD:LK-6118": {
+      "DSD:rasnayakapura": {
         "Ethnicity:sinhala": {
           "Count": "Int:19971"
         },
@@ -10497,7 +10497,7 @@
           "Count": "Int:78"
         }
       },
-      "DSD:LK-5239": {
+      "DSD:alayadivembu": {
         "Ethnicity:sinhala": {
           "Count": "Int:168"
         },
@@ -10529,7 +10529,7 @@
           "Count": "Int:198"
         }
       },
-      "DSD:LK-5106": {
+      "DSD:koralai_pattu_west": {
         "Ethnicity:sinhala": {
           "Count": "Int:0"
         },
@@ -10561,7 +10561,7 @@
           "Count": "Int:63"
         }
       },
-      "DSD:LK-7103": {
+      "DSD:padaviya": {
         "Ethnicity:sinhala": {
           "Count": "Int:24458"
         },
@@ -10593,7 +10593,7 @@
           "Count": "Int:35"
         }
       },
-      "DSD:LK-8115": {
+      "DSD:soranathota": {
         "Ethnicity:sinhala": {
           "Count": "Int:19749"
         },
@@ -10625,7 +10625,7 @@
           "Count": "Int:69"
         }
       },
-      "DSD:LK-7112": {
+      "DSD:mahawilachchiya": {
         "Ethnicity:sinhala": {
           "Count": "Int:24132"
         },
@@ -10657,7 +10657,7 @@
           "Count": "Int:47"
         }
       },
-      "DSD:LK-4512": {
+      "DSD:poonakary": {
         "Ethnicity:sinhala": {
           "Count": "Int:17"
         },
@@ -10689,7 +10689,7 @@
           "Count": "Int:95"
         }
       },
-      "DSD:LK-6115": {
+      "DSD:kotawehera": {
         "Ethnicity:sinhala": {
           "Count": "Int:23885"
         },
@@ -10721,7 +10721,7 @@
           "Count": "Int:47"
         }
       },
-      "DSD:LK-5209": {
+      "DSD:mahaoya": {
         "Ethnicity:sinhala": {
           "Count": "Int:23572"
         },
@@ -10753,7 +10753,7 @@
           "Count": "Int:54"
         }
       },
-      "DSD:LK-3134": {
+      "DSD:gonapinuwala": {
         "Ethnicity:sinhala": {
           "Count": "Int:23162"
         },
@@ -10785,7 +10785,7 @@
           "Count": "Int:85"
         }
       },
-      "DSD:LK-2118": {
+      "DSD:ududumbara": {
         "Ethnicity:sinhala": {
           "Count": "Int:21126"
         },
@@ -10817,7 +10817,7 @@
           "Count": "Int:75"
         }
       },
-      "DSD:LK-8109": {
+      "DSD:meegahakiula": {
         "Ethnicity:sinhala": {
           "Count": "Int:20859"
         },
@@ -10849,7 +10849,7 @@
           "Count": "Int:68"
         }
       },
-      "DSD:LK-6221": {
+      "DSD:mahakumbukkadawala": {
         "Ethnicity:sinhala": {
           "Count": "Int:21120"
         },
@@ -10881,7 +10881,7 @@
           "Count": "Int:101"
         }
       },
-      "DSD:LK-5216": {
+      "DSD:navithanveli": {
         "Ethnicity:sinhala": {
           "Count": "Int:78"
         },
@@ -10913,7 +10913,7 @@
           "Count": "Int:59"
         }
       },
-      "DSD:LK-5206": {
+      "DSD:padiyathalawa": {
         "Ethnicity:sinhala": {
           "Count": "Int:20731"
         },
@@ -10945,7 +10945,7 @@
           "Count": "Int:35"
         }
       },
-      "DSD:LK-3233": {
+      "DSD:kirinda_puhulwella": {
         "Ethnicity:sinhala": {
           "Count": "Int:19961"
         },
@@ -10977,7 +10977,7 @@
           "Count": "Int:15"
         }
       },
-      "DSD:LK-3327": {
+      "DSD:okewela": {
         "Ethnicity:sinhala": {
           "Count": "Int:19958"
         },
@@ -11009,7 +11009,7 @@
           "Count": "Int:16"
         }
       },
-      "DSD:LK-6206": {
+      "DSD:vanathavilluwa": {
         "Ethnicity:sinhala": {
           "Count": "Int:11137"
         },
@@ -11041,7 +11041,7 @@
           "Count": "Int:88"
         }
       },
-      "DSD:LK-4212": {
+      "DSD:nanaddan": {
         "Ethnicity:sinhala": {
           "Count": "Int:107"
         },
@@ -11073,7 +11073,7 @@
           "Count": "Int:80"
         }
       },
-      "DSD:LK-5227": {
+      "DSD:karaitivu": {
         "Ethnicity:sinhala": {
           "Count": "Int:0"
         },
@@ -11105,7 +11105,7 @@
           "Count": "Int:51"
         }
       },
-      "DSD:LK-4206": {
+      "DSD:manthai_west": {
         "Ethnicity:sinhala": {
           "Count": "Int:11"
         },
@@ -11137,7 +11137,7 @@
           "Count": "Int:56"
         }
       },
-      "DSD:LK-8227": {
+      "DSD:katharagama": {
         "Ethnicity:sinhala": {
           "Count": "Int:17345"
         },
@@ -11169,7 +11169,7 @@
           "Count": "Int:34"
         }
       },
-      "DSD:LK-4412": {
+      "DSD:oddusuddan": {
         "Ethnicity:sinhala": {
           "Count": "Int:239"
         },
@@ -11201,7 +11201,7 @@
           "Count": "Int:70"
         }
       },
-      "DSD:LK-4215": {
+      "DSD:musali": {
         "Ethnicity:sinhala": {
           "Count": "Int:99"
         },
@@ -11233,7 +11233,7 @@
           "Count": "Int:65"
         }
       },
-      "DSD:LK-7157": {
+      "DSD:palugaswewa": {
         "Ethnicity:sinhala": {
           "Count": "Int:17827"
         },
@@ -11265,7 +11265,7 @@
           "Count": "Int:148"
         }
       },
-      "DSD:LK-5234": {
+      "DSD:irakkamam": {
         "Ethnicity:sinhala": {
           "Count": "Int:964"
         },
@@ -11297,7 +11297,7 @@
           "Count": "Int:67"
         }
       },
-      "DSD:LK-6212": {
+      "DSD:nawagattegama": {
         "Ethnicity:sinhala": {
           "Count": "Int:17504"
         },
@@ -11329,7 +11329,7 @@
           "Count": "Int:49"
         }
       },
-      "DSD:LK-4139": {
+      "DSD:islands_south_velanai": {
         "Ethnicity:sinhala": {
           "Count": "Int:0"
         },
@@ -11361,7 +11361,7 @@
           "Count": "Int:72"
         }
       },
-      "DSD:LK-2224": {
+      "DSD:laggala": {
         "Ethnicity:sinhala": {
           "Count": "Int:16259"
         },
@@ -11393,7 +11393,7 @@
           "Count": "Int:25"
         }
       },
-      "DSD:LK-5330": {
+      "DSD:seruvila": {
         "Ethnicity:sinhala": {
           "Count": "Int:9824"
         },
@@ -11425,7 +11425,7 @@
           "Count": "Int:56"
         }
       },
-      "DSD:LK-2221": {
+      "DSD:ambanganga": {
         "Ethnicity:sinhala": {
           "Count": "Int:11919"
         },
@@ -11457,7 +11457,7 @@
           "Count": "Int:67"
         }
       },
-      "DSD:LK-4306": {
+      "DSD:vavuniya_south": {
         "Ethnicity:sinhala": {
           "Count": "Int:13968"
         },
@@ -11489,7 +11489,7 @@
           "Count": "Int:293"
         }
       },
-      "DSD:LK-4303": {
+      "DSD:vavuniya_north": {
         "Ethnicity:sinhala": {
           "Count": "Int:1145"
         },
@@ -11521,7 +11521,7 @@
           "Count": "Int:83"
         }
       },
-      "DSD:LK-5333": {
+      "DSD:verugal": {
         "Ethnicity:sinhala": {
           "Count": "Int:46"
         },
@@ -11553,7 +11553,7 @@
           "Count": "Int:41"
         }
       },
-      "DSD:LK-4124": {
+      "DSD:vadamaradchchi_east": {
         "Ethnicity:sinhala": {
           "Count": "Int:0"
         },
@@ -11585,7 +11585,7 @@
           "Count": "Int:38"
         }
       },
-      "DSD:LK-4503": {
+      "DSD:pachchilaipalli": {
         "Ethnicity:sinhala": {
           "Count": "Int:0"
         },
@@ -11617,7 +11617,7 @@
           "Count": "Int:57"
         }
       },
-      "DSD:LK-9119": {
+      "DSD:kalthota": {
         "Ethnicity:sinhala": {
           "Count": "Int:12676"
         },
@@ -11649,7 +11649,7 @@
           "Count": "Int:35"
         }
       },
-      "DSD:LK-5303": {
+      "DSD:padavi_sri_pura": {
         "Ethnicity:sinhala": {
           "Count": "Int:12064"
         },
@@ -11681,7 +11681,7 @@
           "Count": "Int:17"
         }
       },
-      "DSD:LK-5251": {
+      "DSD:lahugala": {
         "Ethnicity:sinhala": {
           "Count": "Int:9732"
         },
@@ -11713,7 +11713,7 @@
           "Count": "Int:23"
         }
       },
-      "DSD:LK-4403": {
+      "DSD:thunukkai": {
         "Ethnicity:sinhala": {
           "Count": "Int:30"
         },
@@ -11745,7 +11745,7 @@
           "Count": "Int:43"
         }
       },
-      "DSD:LK-4418": {
+      "DSD:welioya": {
         "Ethnicity:sinhala": {
           "Count": "Int:9979"
         },
@@ -11777,7 +11777,7 @@
           "Count": "Int:33"
         }
       },
-      "DSD:LK-4103": {
+      "DSD:islands_north_kayts": {
         "Ethnicity:sinhala": {
           "Count": "Int:14"
         },
@@ -11809,7 +11809,7 @@
           "Count": "Int:23"
         }
       },
-      "DSD:LK-4209": {
+      "DSD:madhu": {
         "Ethnicity:sinhala": {
           "Count": "Int:89"
         },
@@ -11841,7 +11841,7 @@
           "Count": "Int:70"
         }
       },
-      "DSD:LK-5312": {
+      "DSD:morawewa": {
         "Ethnicity:sinhala": {
           "Count": "Int:6413"
         },
@@ -11873,7 +11873,7 @@
           "Count": "Int:43"
         }
       },
-      "DSD:LK-4104": {
+      "DSD:karainagar": {
         "Ethnicity:sinhala": {
           "Count": "Int:0"
         },
@@ -11905,7 +11905,7 @@
           "Count": "Int:21"
         }
       },
-      "DSD:LK-5309": {
+      "DSD:gomarankadawala": {
         "Ethnicity:sinhala": {
           "Count": "Int:8349"
         },
@@ -11937,7 +11937,7 @@
           "Count": "Int:14"
         }
       },
-      "DSD:LK-4406": {
+      "DSD:manthai_east": {
         "Ethnicity:sinhala": {
           "Count": "Int:26"
         },
@@ -11969,7 +11969,7 @@
           "Count": "Int:39"
         }
       },
-      "DSD:LK-4142": {
+      "DSD:delft": {
         "Ethnicity:sinhala": {
           "Count": "Int:0"
         },
@@ -12001,7 +12001,7 @@
           "Count": "Int:5"
         }
       },
-      "ED:EC-02": {
+      "ED:gampaha": {
         "Ethnicity:sinhala": {
           "Count": "Int:2188512"
         },
@@ -12033,7 +12033,7 @@
           "Count": "Int:8329"
         }
       },
-      "ED:EC-01": {
+      "ED:colombo": {
         "Ethnicity:sinhala": {
           "Count": "Int:1807945"
         },
@@ -12065,7 +12065,7 @@
           "Count": "Int:7050"
         }
       },
-      "ED:EC-15": {
+      "ED:kurunegala": {
         "Ethnicity:sinhala": {
           "Count": "Int:1601886"
         },
@@ -12097,7 +12097,7 @@
           "Count": "Int:5242"
         }
       },
-      "ED:EC-04": {
+      "ED:kandy": {
         "Ethnicity:sinhala": {
           "Count": "Int:1077219"
         },
@@ -12129,7 +12129,7 @@
           "Count": "Int:4915"
         }
       },
-      "ED:EC-03": {
+      "ED:kalutara": {
         "Ethnicity:sinhala": {
           "Count": "Int:1119086"
         },
@@ -12161,7 +12161,7 @@
           "Count": "Int:3978"
         }
       },
-      "ED:EC-21": {
+      "ED:ratnapura": {
         "Ethnicity:sinhala": {
           "Count": "Int:1003515"
         },
@@ -12193,7 +12193,7 @@
           "Count": "Int:1955"
         }
       },
-      "ED:EC-07": {
+      "ED:galle": {
         "Ethnicity:sinhala": {
           "Count": "Int:1030354"
         },
@@ -12225,7 +12225,7 @@
           "Count": "Int:3038"
         }
       },
-      "ED:EC-17": {
+      "ED:anuradhapura": {
         "Ethnicity:sinhala": {
           "Count": "Int:869982"
         },
@@ -12257,7 +12257,7 @@
           "Count": "Int:2731"
         }
       },
-      "ED:EC-19": {
+      "ED:badulla": {
         "Ethnicity:sinhala": {
           "Count": "Int:640617"
         },
@@ -12289,7 +12289,7 @@
           "Count": "Int:2118"
         }
       },
-      "ED:EC-22": {
+      "ED:kegalle": {
         "Ethnicity:sinhala": {
           "Count": "Int:736385"
         },
@@ -12321,7 +12321,7 @@
           "Count": "Int:1962"
         }
       },
-      "ED:EC-08": {
+      "ED:matara": {
         "Ethnicity:sinhala": {
           "Count": "Int:788795"
         },
@@ -12353,7 +12353,7 @@
           "Count": "Int:1797"
         }
       },
-      "ED:EC-16": {
+      "ED:puttalam": {
         "Ethnicity:sinhala": {
           "Count": "Int:591736"
         },
@@ -12385,7 +12385,7 @@
           "Count": "Int:2662"
         }
       },
-      "ED:EC-13": {
+      "ED:digamadulla": {
         "Ethnicity:sinhala": {
           "Count": "Int:276076"
         },
@@ -12417,7 +12417,7 @@
           "Count": "Int:1832"
         }
       },
-      "ED:EC-10": {
+      "ED:jaffna": {
         "Ethnicity:sinhala": {
           "Count": "Int:4121"
         },
@@ -12449,7 +12449,7 @@
           "Count": "Int:2035"
         }
       },
-      "ED:EC-06": {
+      "ED:nuwara_eliya": {
         "Ethnicity:sinhala": {
           "Count": "Int:281904"
         },
@@ -12481,7 +12481,7 @@
           "Count": "Int:1155"
         }
       },
-      "ED:EC-09": {
+      "ED:hambantota": {
         "Ethnicity:sinhala": {
           "Count": "Int:651274"
         },
@@ -12513,7 +12513,7 @@
           "Count": "Int:1086"
         }
       },
-      "ED:EC-12": {
+      "ED:batticaloa": {
         "Ethnicity:sinhala": {
           "Count": "Int:6022"
         },
@@ -12545,7 +12545,7 @@
           "Count": "Int:1763"
         }
       },
-      "ED:EC-20": {
+      "ED:moneragala": {
         "Ethnicity:sinhala": {
           "Count": "Int:499366"
         },
@@ -12577,7 +12577,7 @@
           "Count": "Int:887"
         }
       },
-      "ED:EC-05": {
+      "ED:matale": {
         "Ethnicity:sinhala": {
           "Count": "Int:424776"
         },
@@ -12609,7 +12609,7 @@
           "Count": "Int:1568"
         }
       },
-      "ED:EC-18": {
+      "ED:polonnaruwa": {
         "Ethnicity:sinhala": {
           "Count": "Int:402775"
         },
@@ -12641,7 +12641,7 @@
           "Count": "Int:811"
         }
       },
-      "ED:EC-14": {
+      "ED:trincomalee": {
         "Ethnicity:sinhala": {
           "Count": "Int:108428"
         },
@@ -12673,7 +12673,7 @@
           "Count": "Int:1032"
         }
       },
-      "ED:EC-11": {
+      "ED:vanni": {
         "Ethnicity:sinhala": {
           "Count": "Int:29902"
         },
@@ -12705,7 +12705,7 @@
           "Count": "Int:1528"
         }
       },
-      "PD:EC-06A": {
+      "PD:nuwara_eliya_maskeliya": {
         "Ethnicity:sinhala": {
           "Count": "Int:80582"
         },
@@ -12737,7 +12737,7 @@
           "Count": "Int:517"
         }
       },
-      "PD:EC-12B": {
+      "PD:batticaloa": {
         "Ethnicity:sinhala": {
           "Count": "Int:2782"
         },
@@ -12769,7 +12769,7 @@
           "Count": "Int:896"
         }
       },
-      "PD:EC-01L": {
+      "PD:homagama": {
         "Ethnicity:sinhala": {
           "Count": "Int:275057"
         },
@@ -12801,7 +12801,7 @@
           "Count": "Int:990"
         }
       },
-      "PD:EC-01J": {
+      "PD:kaduwela": {
         "Ethnicity:sinhala": {
           "Count": "Int:267158"
         },
@@ -12833,7 +12833,7 @@
           "Count": "Int:656"
         }
       },
-      "PD:EC-01N": {
+      "PD:kesbewa": {
         "Ethnicity:sinhala": {
           "Count": "Int:255180"
         },
@@ -12865,7 +12865,7 @@
           "Count": "Int:808"
         }
       },
-      "PD:EC-16A": {
+      "PD:puttalam": {
         "Ethnicity:sinhala": {
           "Count": "Int:78204"
         },
@@ -12897,7 +12897,7 @@
           "Count": "Int:737"
         }
       },
-      "PD:EC-13D": {
+      "PD:pothuvil": {
         "Ethnicity:sinhala": {
           "Count": "Int:33042"
         },
@@ -12929,7 +12929,7 @@
           "Count": "Int:724"
         }
       },
-      "PD:EC-09D": {
+      "PD:thissamaharama": {
         "Ethnicity:sinhala": {
           "Count": "Int:232546"
         },
@@ -12961,7 +12961,7 @@
           "Count": "Int:491"
         }
       },
-      "PD:EC-13A": {
+      "PD:ampara": {
         "Ethnicity:sinhala": {
           "Count": "Int:241287"
         },
@@ -12993,7 +12993,7 @@
           "Count": "Int:410"
         }
       },
-      "PD:EC-02C": {
+      "PD:katana": {
         "Ethnicity:sinhala": {
           "Count": "Int:218375"
         },
@@ -13025,7 +13025,7 @@
           "Count": "Int:751"
         }
       },
-      "PD:EC-20C": {
+      "PD:wellawaya": {
         "Ethnicity:sinhala": {
           "Count": "Int:228951"
         },
@@ -13057,7 +13057,7 @@
           "Count": "Int:364"
         }
       },
-      "PD:EC-04B": {
+      "PD:harispattuwa": {
         "Ethnicity:sinhala": {
           "Count": "Int:148522"
         },
@@ -13089,7 +13089,7 @@
           "Count": "Int:689"
         }
       },
-      "PD:EC-02J": {
+      "PD:mahara": {
         "Ethnicity:sinhala": {
           "Count": "Int:209413"
         },
@@ -13121,7 +13121,7 @@
           "Count": "Int:678"
         }
       },
-      "PD:EC-18C": {
+      "PD:polonnaruwa": {
         "Ethnicity:sinhala": {
           "Count": "Int:186553"
         },
@@ -13153,7 +13153,7 @@
           "Count": "Int:400"
         }
       },
-      "PD:EC-01H": {
+      "PD:kolonnawa": {
         "Ethnicity:sinhala": {
           "Count": "Int:127854"
         },
@@ -13185,7 +13185,7 @@
           "Count": "Int:436"
         }
       },
-      "PD:EC-21H": {
+      "PD:kolonna": {
         "Ethnicity:sinhala": {
           "Count": "Int:205121"
         },
@@ -13217,7 +13217,7 @@
           "Count": "Int:236"
         }
       },
-      "PD:EC-02L": {
+      "PD:biyagama": {
         "Ethnicity:sinhala": {
           "Count": "Int:186859"
         },
@@ -13249,7 +13249,7 @@
           "Count": "Int:402"
         }
       },
-      "PD:EC-02H": {
+      "PD:gampaha": {
         "Ethnicity:sinhala": {
           "Count": "Int:203639"
         },
@@ -13281,7 +13281,7 @@
           "Count": "Int:767"
         }
       },
-      "PD:EC-03B": {
+      "PD:bandaragama": {
         "Ethnicity:sinhala": {
           "Count": "Int:187618"
         },
@@ -13313,7 +13313,7 @@
           "Count": "Int:817"
         }
       },
-      "PD:EC-02I": {
+      "PD:ja_ela": {
         "Ethnicity:sinhala": {
           "Count": "Int:191159"
         },
@@ -13345,7 +13345,7 @@
           "Count": "Int:528"
         }
       },
-      "PD:EC-02F": {
+      "PD:minuwangoda": {
         "Ethnicity:sinhala": {
           "Count": "Int:190169"
         },
@@ -13377,7 +13377,7 @@
           "Count": "Int:856"
         }
       },
-      "PD:EC-02G": {
+      "PD:attanagalla": {
         "Ethnicity:sinhala": {
           "Count": "Int:167492"
         },
@@ -13409,7 +13409,7 @@
           "Count": "Int:981"
         }
       },
-      "PD:EC-01M": {
+      "PD:maharagama": {
         "Ethnicity:sinhala": {
           "Count": "Int:188590"
         },
@@ -13441,7 +13441,7 @@
           "Count": "Int:342"
         }
       },
-      "PD:EC-01K": {
+      "PD:avissawella": {
         "Ethnicity:sinhala": {
           "Count": "Int:176076"
         },
@@ -13473,7 +13473,7 @@
           "Count": "Int:741"
         }
       },
-      "PD:EC-03C": {
+      "PD:horana": {
         "Ethnicity:sinhala": {
           "Count": "Int:182999"
         },
@@ -13505,7 +13505,7 @@
           "Count": "Int:636"
         }
       },
-      "PD:EC-05A": {
+      "PD:dambulla": {
         "Ethnicity:sinhala": {
           "Count": "Int:173482"
         },
@@ -13537,7 +13537,7 @@
           "Count": "Int:554"
         }
       },
-      "PD:EC-14C": {
+      "PD:muttur": {
         "Ethnicity:sinhala": {
           "Count": "Int:5770"
         },
@@ -13569,7 +13569,7 @@
           "Count": "Int:422"
         }
       },
-      "PD:EC-02A": {
+      "PD:wattala": {
         "Ethnicity:sinhala": {
           "Count": "Int:124365"
         },
@@ -13601,7 +13601,7 @@
           "Count": "Int:499"
         }
       },
-      "PD:EC-03G": {
+      "PD:beruwala": {
         "Ethnicity:sinhala": {
           "Count": "Int:109942"
         },
@@ -13633,7 +13633,7 @@
           "Count": "Int:449"
         }
       },
-      "PD:EC-12A": {
+      "PD:kalkudah": {
         "Ethnicity:sinhala": {
           "Count": "Int:1633"
         },
@@ -13665,7 +13665,7 @@
           "Count": "Int:488"
         }
       },
-      "PD:EC-02E": {
+      "PD:mirigama": {
         "Ethnicity:sinhala": {
           "Count": "Int:166648"
         },
@@ -13697,7 +13697,7 @@
           "Count": "Int:715"
         }
       },
-      "PD:EC-17E": {
+      "PD:kalawewa": {
         "Ethnicity:sinhala": {
           "Count": "Int:164909"
         },
@@ -13729,7 +13729,7 @@
           "Count": "Int:1061"
         }
       },
-      "PD:EC-09C": {
+      "PD:tangalle": {
         "Ethnicity:sinhala": {
           "Count": "Int:171939"
         },
@@ -13761,7 +13761,7 @@
           "Count": "Int:302"
         }
       },
-      "PD:EC-11B": {
+      "PD:vavuniya": {
         "Ethnicity:sinhala": {
           "Count": "Int:18431"
         },
@@ -13793,7 +13793,7 @@
           "Count": "Int:657"
         }
       },
-      "PD:EC-02K": {
+      "PD:dompe": {
         "Ethnicity:sinhala": {
           "Count": "Int:166320"
         },
@@ -13825,7 +13825,7 @@
           "Count": "Int:687"
         }
       },
-      "PD:EC-21B": {
+      "PD:ratnapura": {
         "Ethnicity:sinhala": {
           "Count": "Int:148510"
         },
@@ -13857,7 +13857,7 @@
           "Count": "Int:289"
         }
       },
-      "PD:EC-03F": {
+      "PD:kalutara": {
         "Ethnicity:sinhala": {
           "Count": "Int:149874"
         },
@@ -13889,7 +13889,7 @@
           "Count": "Int:527"
         }
       },
-      "PD:EC-20B": {
+      "PD:monaragala": {
         "Ethnicity:sinhala": {
           "Count": "Int:151314"
         },
@@ -13921,7 +13921,7 @@
           "Count": "Int:295"
         }
       },
-      "PD:EC-01B": {
+      "PD:colombo_central": {
         "Ethnicity:sinhala": {
           "Count": "Int:32574"
         },
@@ -13953,7 +13953,7 @@
           "Count": "Int:709"
         }
       },
-      "PD:EC-03A": {
+      "PD:panadura": {
         "Ethnicity:sinhala": {
           "Count": "Int:128909"
         },
@@ -13985,7 +13985,7 @@
           "Count": "Int:509"
         }
       },
-      "PD:EC-16B": {
+      "PD:anamaduwa": {
         "Ethnicity:sinhala": {
           "Count": "Int:147976"
         },
@@ -14017,7 +14017,7 @@
           "Count": "Int:501"
         }
       },
-      "PD:EC-01O": {
+      "PD:moratuwa": {
         "Ethnicity:sinhala": {
           "Count": "Int:149858"
         },
@@ -14049,7 +14049,7 @@
           "Count": "Int:380"
         }
       },
-      "PD:EC-15C": {
+      "PD:yapahuwa": {
         "Ethnicity:sinhala": {
           "Count": "Int:152807"
         },
@@ -14081,7 +14081,7 @@
           "Count": "Int:348"
         }
       },
-      "PD:EC-17C": {
+      "PD:anuradhapura_east": {
         "Ethnicity:sinhala": {
           "Count": "Int:150801"
         },
@@ -14113,7 +14113,7 @@
           "Count": "Int:320"
         }
       },
-      "PD:EC-02D": {
+      "PD:divulapitiya": {
         "Ethnicity:sinhala": {
           "Count": "Int:155173"
         },
@@ -14145,7 +14145,7 @@
           "Count": "Int:625"
         }
       },
-      "PD:EC-17D": {
+      "PD:anuradhapura_west": {
         "Ethnicity:sinhala": {
           "Count": "Int:144770"
         },
@@ -14177,7 +14177,7 @@
           "Count": "Int:311"
         }
       },
-      "PD:EC-16C": {
+      "PD:chilaw": {
         "Ethnicity:sinhala": {
           "Count": "Int:138481"
         },
@@ -14209,7 +14209,7 @@
           "Count": "Int:527"
         }
       },
-      "PD:EC-03E": {
+      "PD:mathugama": {
         "Ethnicity:sinhala": {
           "Count": "Int:134967"
         },
@@ -14241,7 +14241,7 @@
           "Count": "Int:357"
         }
       },
-      "PD:EC-21D": {
+      "PD:balangoda": {
         "Ethnicity:sinhala": {
           "Count": "Int:124152"
         },
@@ -14273,7 +14273,7 @@
           "Count": "Int:334"
         }
       },
-      "PD:EC-19A": {
+      "PD:mahiyanganaya": {
         "Ethnicity:sinhala": {
           "Count": "Int:147123"
         },
@@ -14305,7 +14305,7 @@
           "Count": "Int:218"
         }
       },
-      "PD:EC-04L": {
+      "PD:gampola": {
         "Ethnicity:sinhala": {
           "Count": "Int:88245"
         },
@@ -14337,7 +14337,7 @@
           "Count": "Int:415"
         }
       },
-      "PD:EC-14B": {
+      "PD:trincomalee": {
         "Ethnicity:sinhala": {
           "Count": "Int:24065"
         },
@@ -14369,7 +14369,7 @@
           "Count": "Int:334"
         }
       },
-      "PD:EC-04F": {
+      "PD:kundasale": {
         "Ethnicity:sinhala": {
           "Count": "Int:117091"
         },
@@ -14401,7 +14401,7 @@
           "Count": "Int:461"
         }
       },
-      "PD:EC-07I": {
+      "PD:akmeemana": {
         "Ethnicity:sinhala": {
           "Count": "Int:138042"
         },
@@ -14433,7 +14433,7 @@
           "Count": "Int:503"
         }
       },
-      "PD:EC-15I": {
+      "PD:kuliyapitiya": {
         "Ethnicity:sinhala": {
           "Count": "Int:118895"
         },
@@ -14465,7 +14465,7 @@
           "Count": "Int:430"
         }
       },
-      "PD:EC-15A": {
+      "PD:galgamuwa": {
         "Ethnicity:sinhala": {
           "Count": "Int:134587"
         },
@@ -14497,7 +14497,7 @@
           "Count": "Int:490"
         }
       },
-      "PD:EC-09A": {
+      "PD:mulkirigala": {
         "Ethnicity:sinhala": {
           "Count": "Int:142183"
         },
@@ -14529,7 +14529,7 @@
           "Count": "Int:162"
         }
       },
-      "PD:EC-21E": {
+      "PD:rakwana": {
         "Ethnicity:sinhala": {
           "Count": "Int:119710"
         },
@@ -14561,7 +14561,7 @@
           "Count": "Int:252"
         }
       },
-      "PD:EC-02B": {
+      "PD:negombo": {
         "Ethnicity:sinhala": {
           "Count": "Int:101250"
         },
@@ -14593,7 +14593,7 @@
           "Count": "Int:431"
         }
       },
-      "PD:EC-15D": {
+      "PD:hiriyala": {
         "Ethnicity:sinhala": {
           "Count": "Int:125791"
         },
@@ -14625,7 +14625,7 @@
           "Count": "Int:317"
         }
       },
-      "PD:EC-13B": {
+      "PD:samanthurai": {
         "Ethnicity:sinhala": {
           "Count": "Int:1602"
         },
@@ -14657,7 +14657,7 @@
           "Count": "Int:313"
         }
       },
-      "PD:EC-10K": {
+      "PD:kilinochchi": {
         "Ethnicity:sinhala": {
           "Count": "Int:1515"
         },
@@ -14689,7 +14689,7 @@
           "Count": "Int:398"
         }
       },
-      "PD:EC-15H": {
+      "PD:katugampola": {
         "Ethnicity:sinhala": {
           "Count": "Int:124730"
         },
@@ -14721,7 +14721,7 @@
           "Count": "Int:450"
         }
       },
-      "PD:EC-04M": {
+      "PD:nawalapitiya": {
         "Ethnicity:sinhala": {
           "Count": "Int:86235"
         },
@@ -14753,7 +14753,7 @@
           "Count": "Int:460"
         }
       },
-      "PD:EC-02M": {
+      "PD:kelaniya": {
         "Ethnicity:sinhala": {
           "Count": "Int:107650"
         },
@@ -14785,7 +14785,7 @@
           "Count": "Int:409"
         }
       },
-      "PD:EC-15B": {
+      "PD:nikaweratiya": {
         "Ethnicity:sinhala": {
           "Count": "Int:120597"
         },
@@ -14817,7 +14817,7 @@
           "Count": "Int:344"
         }
       },
-      "PD:EC-08G": {
+      "PD:weligama": {
         "Ethnicity:sinhala": {
           "Count": "Int:114812"
         },
@@ -14849,7 +14849,7 @@
           "Count": "Int:337"
         }
       },
-      "PD:EC-21A": {
+      "PD:eheliyagoda": {
         "Ethnicity:sinhala": {
           "Count": "Int:119946"
         },
@@ -14881,7 +14881,7 @@
           "Count": "Int:320"
         }
       },
-      "PD:EC-01A": {
+      "PD:colombo_north": {
         "Ethnicity:sinhala": {
           "Count": "Int:36228"
         },
@@ -14913,7 +14913,7 @@
           "Count": "Int:173"
         }
       },
-      "PD:EC-15L": {
+      "PD:kurunegala": {
         "Ethnicity:sinhala": {
           "Count": "Int:115011"
         },
@@ -14945,7 +14945,7 @@
           "Count": "Int:482"
         }
       },
-      "PD:EC-03H": {
+      "PD:agalawatta": {
         "Ethnicity:sinhala": {
           "Count": "Int:123902"
         },
@@ -14977,7 +14977,7 @@
           "Count": "Int:367"
         }
       },
-      "PD:EC-15M": {
+      "PD:mawathagama": {
         "Ethnicity:sinhala": {
           "Count": "Int:106629"
         },
@@ -15009,7 +15009,7 @@
           "Count": "Int:432"
         }
       },
-      "PD:EC-17A": {
+      "PD:medawachchiya": {
         "Ethnicity:sinhala": {
           "Count": "Int:118990"
         },
@@ -15041,7 +15041,7 @@
           "Count": "Int:225"
         }
       },
-      "PD:EC-20A": {
+      "PD:bibile": {
         "Ethnicity:sinhala": {
           "Count": "Int:119101"
         },
@@ -15073,7 +15073,7 @@
           "Count": "Int:228"
         }
       },
-      "PD:EC-12C": {
+      "PD:paddiruppu": {
         "Ethnicity:sinhala": {
           "Count": "Int:1607"
         },
@@ -15105,7 +15105,7 @@
           "Count": "Int:379"
         }
       },
-      "PD:EC-07F": {
+      "PD:baddegama": {
         "Ethnicity:sinhala": {
           "Count": "Int:120444"
         },
@@ -15137,7 +15137,7 @@
           "Count": "Int:259"
         }
       },
-      "PD:EC-16E": {
+      "PD:wennappuwa": {
         "Ethnicity:sinhala": {
           "Count": "Int:123595"
         },
@@ -15169,7 +15169,7 @@
           "Count": "Int:489"
         }
       },
-      "PD:EC-08A": {
+      "PD:deniyaya": {
         "Ethnicity:sinhala": {
           "Count": "Int:114253"
         },
@@ -15201,7 +15201,7 @@
           "Count": "Int:234"
         }
       },
-      "PD:EC-07E": {
+      "PD:hiniduma": {
         "Ethnicity:sinhala": {
           "Count": "Int:121006"
         },
@@ -15233,7 +15233,7 @@
           "Count": "Int:210"
         }
       },
-      "PD:EC-22E": {
+      "PD:mawanella": {
         "Ethnicity:sinhala": {
           "Count": "Int:82919"
         },
@@ -15265,7 +15265,7 @@
           "Count": "Int:253"
         }
       },
-      "PD:EC-15J": {
+      "PD:dambadeniya": {
         "Ethnicity:sinhala": {
           "Count": "Int:120979"
         },
@@ -15297,7 +15297,7 @@
           "Count": "Int:335"
         }
       },
-      "PD:EC-08F": {
+      "PD:matara": {
         "Ethnicity:sinhala": {
           "Count": "Int:118659"
         },
@@ -15329,7 +15329,7 @@
           "Count": "Int:320"
         }
       },
-      "PD:EC-11A": {
+      "PD:mannar": {
         "Ethnicity:sinhala": {
           "Count": "Int:501"
         },
@@ -15361,7 +15361,7 @@
           "Count": "Int:449"
         }
       },
-      "PD:EC-05D": {
+      "PD:rattota": {
         "Ethnicity:sinhala": {
           "Count": "Int:82015"
         },
@@ -15393,7 +15393,7 @@
           "Count": "Int:367"
         }
       },
-      "PD:EC-17B": {
+      "PD:horowpothana": {
         "Ethnicity:sinhala": {
           "Count": "Int:98462"
         },
@@ -15425,7 +15425,7 @@
           "Count": "Int:209"
         }
       },
-      "PD:EC-08C": {
+      "PD:akuressa": {
         "Ethnicity:sinhala": {
           "Count": "Int:117543"
         },
@@ -15457,7 +15457,7 @@
           "Count": "Int:254"
         }
       },
-      "PD:EC-11C": {
+      "PD:mullaitivu": {
         "Ethnicity:sinhala": {
           "Count": "Int:10970"
         },
@@ -15489,7 +15489,7 @@
           "Count": "Int:422"
         }
       },
-      "PD:EC-17G": {
+      "PD:kekirawa": {
         "Ethnicity:sinhala": {
           "Count": "Int:106318"
         },
@@ -15521,7 +15521,7 @@
           "Count": "Int:371"
         }
       },
-      "PD:EC-15G": {
+      "PD:bingiriya": {
         "Ethnicity:sinhala": {
           "Count": "Int:111311"
         },
@@ -15553,7 +15553,7 @@
           "Count": "Int:391"
         }
       },
-      "PD:EC-04K": {
+      "PD:udunuwara": {
         "Ethnicity:sinhala": {
           "Count": "Int:86641"
         },
@@ -15585,7 +15585,7 @@
           "Count": "Int:512"
         }
       },
-      "PD:EC-08B": {
+      "PD:hakmana": {
         "Ethnicity:sinhala": {
           "Count": "Int:117776"
         },
@@ -15617,7 +15617,7 @@
           "Count": "Int:208"
         }
       },
-      "PD:EC-21F": {
+      "PD:nivithigala": {
         "Ethnicity:sinhala": {
           "Count": "Int:101676"
         },
@@ -15649,7 +15649,7 @@
           "Count": "Int:198"
         }
       },
-      "PD:EC-18A": {
+      "PD:minneriya": {
         "Ethnicity:sinhala": {
           "Count": "Int:118214"
         },
@@ -15681,7 +15681,7 @@
           "Count": "Int:271"
         }
       },
-      "PD:EC-21C": {
+      "PD:pelmadulla": {
         "Ethnicity:sinhala": {
           "Count": "Int:95984"
         },
@@ -15713,7 +15713,7 @@
           "Count": "Int:184"
         }
       },
-      "PD:EC-22A": {
+      "PD:dedigama": {
         "Ethnicity:sinhala": {
           "Count": "Int:106360"
         },
@@ -15745,7 +15745,7 @@
           "Count": "Int:305"
         }
       },
-      "PD:EC-04C": {
+      "PD:pathadumbara": {
         "Ethnicity:sinhala": {
           "Count": "Int:76284"
         },
@@ -15777,7 +15777,7 @@
           "Count": "Int:362"
         }
       },
-      "PD:EC-07D": {
+      "PD:bentara_elpitiya": {
         "Ethnicity:sinhala": {
           "Count": "Int:113325"
         },
@@ -15809,7 +15809,7 @@
           "Count": "Int:359"
         }
       },
-      "PD:EC-05C": {
+      "PD:matale": {
         "Ethnicity:sinhala": {
           "Count": "Int:78893"
         },
@@ -15841,7 +15841,7 @@
           "Count": "Int:419"
         }
       },
-      "PD:EC-19H": {
+      "PD:bandarawela": {
         "Ethnicity:sinhala": {
           "Count": "Int:80338"
         },
@@ -15873,7 +15873,7 @@
           "Count": "Int:324"
         }
       },
-      "PD:EC-03D": {
+      "PD:bulathsinhala": {
         "Ethnicity:sinhala": {
           "Count": "Int:100875"
         },
@@ -15905,7 +15905,7 @@
           "Count": "Int:316"
         }
       },
-      "PD:EC-16D": {
+      "PD:nattandiya": {
         "Ethnicity:sinhala": {
           "Count": "Int:103480"
         },
@@ -15937,7 +15937,7 @@
           "Count": "Int:408"
         }
       },
-      "PD:EC-13C": {
+      "PD:kalmunai": {
         "Ethnicity:sinhala": {
           "Count": "Int:145"
         },
@@ -15969,7 +15969,7 @@
           "Count": "Int:385"
         }
       },
-      "PD:EC-14A": {
+      "PD:seruvila": {
         "Ethnicity:sinhala": {
           "Count": "Int:78593"
         },
@@ -16001,7 +16001,7 @@
           "Count": "Int:276"
         }
       },
-      "PD:EC-04J": {
+      "PD:yatinuwara": {
         "Ethnicity:sinhala": {
           "Count": "Int:101638"
         },
@@ -16033,7 +16033,7 @@
           "Count": "Int:431"
         }
       },
-      "PD:EC-18B": {
+      "PD:medirigiriya": {
         "Ethnicity:sinhala": {
           "Count": "Int:98008"
         },
@@ -16065,7 +16065,7 @@
           "Count": "Int:140"
         }
       },
-      "PD:EC-07J": {
+      "PD:habaraduwa": {
         "Ethnicity:sinhala": {
           "Count": "Int:111026"
         },
@@ -16097,7 +16097,7 @@
           "Count": "Int:361"
         }
       },
-      "PD:EC-04H": {
+      "PD:senkadagala": {
         "Ethnicity:sinhala": {
           "Count": "Int:85979"
         },
@@ -16129,7 +16129,7 @@
           "Count": "Int:444"
         }
       },
-      "PD:EC-07H": {
+      "PD:galle": {
         "Ethnicity:sinhala": {
           "Count": "Int:68564"
         },
@@ -16161,7 +16161,7 @@
           "Count": "Int:351"
         }
       },
-      "PD:EC-06D": {
+      "PD:walapane": {
         "Ethnicity:sinhala": {
           "Count": "Int:66728"
         },
@@ -16193,7 +16193,7 @@
           "Count": "Int:221"
         }
       },
-      "PD:EC-15E": {
+      "PD:wariyapola": {
         "Ethnicity:sinhala": {
           "Count": "Int:103500"
         },
@@ -16225,7 +16225,7 @@
           "Count": "Int:298"
         }
       },
-      "PD:EC-08E": {
+      "PD:devinuwara": {
         "Ethnicity:sinhala": {
           "Count": "Int:101617"
         },
@@ -16257,7 +16257,7 @@
           "Count": "Int:217"
         }
       },
-      "PD:EC-19G": {
+      "PD:welimada": {
         "Ethnicity:sinhala": {
           "Count": "Int:73138"
         },
@@ -16289,7 +16289,7 @@
           "Count": "Int:331"
         }
       },
-      "PD:EC-08D": {
+      "PD:kamburupitiya": {
         "Ethnicity:sinhala": {
           "Count": "Int:104135"
         },
@@ -16321,7 +16321,7 @@
           "Count": "Int:227"
         }
       },
-      "PD:EC-09B": {
+      "PD:beliatta": {
         "Ethnicity:sinhala": {
           "Count": "Int:104606"
         },
@@ -16353,7 +16353,7 @@
           "Count": "Int:131"
         }
       },
-      "PD:EC-15K": {
+      "PD:polgahawela": {
         "Ethnicity:sinhala": {
           "Count": "Int:95312"
         },
@@ -16385,7 +16385,7 @@
           "Count": "Int:410"
         }
       },
-      "PD:EC-06B": {
+      "PD:kothmale": {
         "Ethnicity:sinhala": {
           "Count": "Int:54470"
         },
@@ -16417,7 +16417,7 @@
           "Count": "Int:215"
         }
       },
-      "PD:EC-22H": {
+      "PD:ruwanwella": {
         "Ethnicity:sinhala": {
           "Count": "Int:86142"
         },
@@ -16449,7 +16449,7 @@
           "Count": "Int:363"
         }
       },
-      "PD:EC-15F": {
+      "PD:panduwasnuwara": {
         "Ethnicity:sinhala": {
           "Count": "Int:91169"
         },
@@ -16481,7 +16481,7 @@
           "Count": "Int:312"
         }
       },
-      "PD:EC-21G": {
+      "PD:kalawana": {
         "Ethnicity:sinhala": {
           "Count": "Int:88416"
         },
@@ -16513,7 +16513,7 @@
           "Count": "Int:142"
         }
       },
-      "PD:EC-07G": {
+      "PD:ratgama": {
         "Ethnicity:sinhala": {
           "Count": "Int:100513"
         },
@@ -16545,7 +16545,7 @@
           "Count": "Int:343"
         }
       },
-      "PD:EC-07B": {
+      "PD:ambalangoda": {
         "Ethnicity:sinhala": {
           "Count": "Int:99685"
         },
@@ -16577,7 +16577,7 @@
           "Count": "Int:289"
         }
       },
-      "PD:EC-17F": {
+      "PD:mihinthale": {
         "Ethnicity:sinhala": {
           "Count": "Int:85732"
         },
@@ -16609,7 +16609,7 @@
           "Count": "Int:234"
         }
       },
-      "PD:EC-22G": {
+      "PD:yatiyanthota": {
         "Ethnicity:sinhala": {
           "Count": "Int:73390"
         },
@@ -16641,7 +16641,7 @@
           "Count": "Int:136"
         }
       },
-      "PD:EC-05B": {
+      "PD:laggala": {
         "Ethnicity:sinhala": {
           "Count": "Int:90386"
         },
@@ -16673,7 +16673,7 @@
           "Count": "Int:228"
         }
       },
-      "PD:EC-01I": {
+      "PD:kotte": {
         "Ethnicity:sinhala": {
           "Count": "Int:81556"
         },
@@ -16705,7 +16705,7 @@
           "Count": "Int:405"
         }
       },
-      "PD:EC-15N": {
+      "PD:dodangaslanda": {
         "Ethnicity:sinhala": {
           "Count": "Int:80568"
         },
@@ -16737,7 +16737,7 @@
           "Count": "Int:203"
         }
       },
-      "PD:EC-22C": {
+      "PD:kegalle": {
         "Ethnicity:sinhala": {
           "Count": "Int:90458"
         },
@@ -16769,7 +16769,7 @@
           "Count": "Int:245"
         }
       },
-      "PD:EC-19E": {
+      "PD:hali_ela": {
         "Ethnicity:sinhala": {
           "Count": "Int:60374"
         },
@@ -16801,7 +16801,7 @@
           "Count": "Int:231"
         }
       },
-      "PD:EC-01F": {
+      "PD:dehiwala": {
         "Ethnicity:sinhala": {
           "Count": "Int:47752"
         },
@@ -16833,7 +16833,7 @@
           "Count": "Int:440"
         }
       },
-      "PD:EC-07C": {
+      "PD:karandeniya": {
         "Ethnicity:sinhala": {
           "Count": "Int:90886"
         },
@@ -16865,7 +16865,7 @@
           "Count": "Int:194"
         }
       },
-      "PD:EC-04G": {
+      "PD:hewaheta": {
         "Ethnicity:sinhala": {
           "Count": "Int:67517"
         },
@@ -16897,7 +16897,7 @@
           "Count": "Int:282"
         }
       },
-      "PD:EC-06C": {
+      "PD:hanguranketha": {
         "Ethnicity:sinhala": {
           "Count": "Int:80124"
         },
@@ -16929,7 +16929,7 @@
           "Count": "Int:202"
         }
       },
-      "PD:EC-22I": {
+      "PD:deraniyagala": {
         "Ethnicity:sinhala": {
           "Count": "Int:73066"
         },
@@ -16961,7 +16961,7 @@
           "Count": "Int:133"
         }
       },
-      "PD:EC-01G": {
+      "PD:ratmalana": {
         "Ethnicity:sinhala": {
           "Count": "Int:64024"
         },
@@ -16993,7 +16993,7 @@
           "Count": "Int:177"
         }
       },
-      "PD:EC-19I": {
+      "PD:haputale": {
         "Ethnicity:sinhala": {
           "Count": "Int:46479"
         },
@@ -17025,7 +17025,7 @@
           "Count": "Int:302"
         }
       },
-      "PD:EC-22D": {
+      "PD:rambukkana": {
         "Ethnicity:sinhala": {
           "Count": "Int:82564"
         },
@@ -17057,7 +17057,7 @@
           "Count": "Int:242"
         }
       },
-      "PD:EC-01D": {
+      "PD:colombo_east": {
         "Ethnicity:sinhala": {
           "Count": "Int:46815"
         },
@@ -17089,7 +17089,7 @@
           "Count": "Int:300"
         }
       },
-      "PD:EC-22B": {
+      "PD:galigamuwa": {
         "Ethnicity:sinhala": {
           "Count": "Int:79394"
         },
@@ -17121,7 +17121,7 @@
           "Count": "Int:150"
         }
       },
-      "PD:EC-19D": {
+      "PD:badulla": {
         "Ethnicity:sinhala": {
           "Count": "Int:57434"
         },
@@ -17153,7 +17153,7 @@
           "Count": "Int:155"
         }
       },
-      "PD:EC-19F": {
+      "PD:uva_paranagama": {
         "Ethnicity:sinhala": {
           "Count": "Int:69488"
         },
@@ -17185,7 +17185,7 @@
           "Count": "Int:157"
         }
       },
-      "PD:EC-19C": {
+      "PD:passara": {
         "Ethnicity:sinhala": {
           "Count": "Int:40158"
         },
@@ -17217,7 +17217,7 @@
           "Count": "Int:208"
         }
       },
-      "PD:EC-10E": {
+      "PD:kopay": {
         "Ethnicity:sinhala": {
           "Count": "Int:10"
         },
@@ -17249,7 +17249,7 @@
           "Count": "Int:200"
         }
       },
-      "PD:EC-10D": {
+      "PD:manipay": {
         "Ethnicity:sinhala": {
           "Count": "Int:11"
         },
@@ -17281,7 +17281,7 @@
           "Count": "Int:203"
         }
       },
-      "PD:EC-04D": {
+      "PD:ududumbara": {
         "Ethnicity:sinhala": {
           "Count": "Int:76169"
         },
@@ -17313,7 +17313,7 @@
           "Count": "Int:169"
         }
       },
-      "PD:EC-19B": {
+      "PD:viyaluwa": {
         "Ethnicity:sinhala": {
           "Count": "Int:66085"
         },
@@ -17345,7 +17345,7 @@
           "Count": "Int:192"
         }
       },
-      "PD:EC-10I": {
+      "PD:nallur": {
         "Ethnicity:sinhala": {
           "Count": "Int:1737"
         },
@@ -17377,7 +17377,7 @@
           "Count": "Int:242"
         }
       },
-      "PD:EC-01C": {
+      "PD:borella": {
         "Ethnicity:sinhala": {
           "Count": "Int:38800"
         },
@@ -17409,7 +17409,7 @@
           "Count": "Int:108"
         }
       },
-      "PD:EC-04A": {
+      "PD:galagedara": {
         "Ethnicity:sinhala": {
           "Count": "Int:64499"
         },
@@ -17441,7 +17441,7 @@
           "Count": "Int:265"
         }
       },
-      "PD:EC-22F": {
+      "PD:aranayaka": {
         "Ethnicity:sinhala": {
           "Count": "Int:62092"
         },
@@ -17473,7 +17473,7 @@
           "Count": "Int:135"
         }
       },
-      "PD:EC-07A": {
+      "PD:balapitiya": {
         "Ethnicity:sinhala": {
           "Count": "Int:66863"
         },
@@ -17505,7 +17505,7 @@
           "Count": "Int:169"
         }
       },
-      "PD:EC-10H": {
+      "PD:chavakachcheri": {
         "Ethnicity:sinhala": {
           "Count": "Int:131"
         },
@@ -17537,7 +17537,7 @@
           "Count": "Int:179"
         }
       },
-      "PD:EC-04E": {
+      "PD:teldeniya": {
         "Ethnicity:sinhala": {
           "Count": "Int:48059"
         },
@@ -17569,7 +17569,7 @@
           "Count": "Int:257"
         }
       },
-      "PD:EC-10B": {
+      "PD:vaddukoddai": {
         "Ethnicity:sinhala": {
           "Count": "Int:10"
         },
@@ -17601,7 +17601,7 @@
           "Count": "Int:133"
         }
       },
-      "PD:EC-01E": {
+      "PD:colombo_west": {
         "Ethnicity:sinhala": {
           "Count": "Int:20423"
         },
@@ -17633,7 +17633,7 @@
           "Count": "Int:385"
         }
       },
-      "PD:EC-10C": {
+      "PD:kankesanthurai": {
         "Ethnicity:sinhala": {
           "Count": "Int:51"
         },
@@ -17665,7 +17665,7 @@
           "Count": "Int:158"
         }
       },
-      "PD:EC-10G": {
+      "PD:point_pedro": {
         "Ethnicity:sinhala": {
           "Count": "Int:41"
         },
@@ -17697,7 +17697,7 @@
           "Count": "Int:131"
         }
       },
-      "PD:EC-10F": {
+      "PD:udupiddy": {
         "Ethnicity:sinhala": {
           "Count": "Int:13"
         },
@@ -17729,7 +17729,7 @@
           "Count": "Int:115"
         }
       },
-      "PD:EC-10J": {
+      "PD:jaffna": {
         "Ethnicity:sinhala": {
           "Count": "Int:588"
         },
@@ -17761,7 +17761,7 @@
           "Count": "Int:176"
         }
       },
-      "PD:EC-04I": {
+      "PD:mahanuwara": {
         "Ethnicity:sinhala": {
           "Count": "Int:30340"
         },
@@ -17793,7 +17793,7 @@
           "Count": "Int:168"
         }
       },
-      "PD:EC-10A": {
+      "PD:kayts": {
         "Ethnicity:sinhala": {
           "Count": "Int:14"
         },

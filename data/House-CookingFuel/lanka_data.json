@@ -1,7 +1,7 @@
 {
   "House": {
     "Time:2024": {
-      "Country:LK": {
+      "Country:sri_lanka": {
         "CookingFuel:fire_wood": {
           "Count": "Int:3381781"
         },
@@ -27,7 +27,7 @@
           "Count": "Int:77239"
         }
       },
-      "Province:LK-1": {
+      "Province:western": {
         "CookingFuel:fire_wood": {
           "Count": "Int:433777"
         },
@@ -53,7 +53,7 @@
           "Count": "Int:38275"
         }
       },
-      "Province:LK-2": {
+      "Province:central": {
         "CookingFuel:fire_wood": {
           "Count": "Int:489749"
         },
@@ -79,7 +79,7 @@
           "Count": "Int:4365"
         }
       },
-      "Province:LK-6": {
+      "Province:north_western": {
         "CookingFuel:fire_wood": {
           "Count": "Int:534964"
         },
@@ -105,7 +105,7 @@
           "Count": "Int:9243"
         }
       },
-      "Province:LK-3": {
+      "Province:southern": {
         "CookingFuel:fire_wood": {
           "Count": "Int:438164"
         },
@@ -131,7 +131,7 @@
           "Count": "Int:9291"
         }
       },
-      "Province:LK-9": {
+      "Province:sabaragamuwa": {
         "CookingFuel:fire_wood": {
           "Count": "Int:433669"
         },
@@ -157,7 +157,7 @@
           "Count": "Int:4400"
         }
       },
-      "Province:LK-5": {
+      "Province:eastern": {
         "CookingFuel:fire_wood": {
           "Count": "Int:232633"
         },
@@ -183,7 +183,7 @@
           "Count": "Int:3956"
         }
       },
-      "Province:LK-7": {
+      "Province:north_central": {
         "CookingFuel:fire_wood": {
           "Count": "Int:304792"
         },
@@ -209,7 +209,7 @@
           "Count": "Int:3326"
         }
       },
-      "Province:LK-8": {
+      "Province:uva": {
         "CookingFuel:fire_wood": {
           "Count": "Int:327040"
         },
@@ -235,7 +235,7 @@
           "Count": "Int:2068"
         }
       },
-      "Province:LK-4": {
+      "Province:northern": {
         "CookingFuel:fire_wood": {
           "Count": "Int:186993"
         },
@@ -261,7 +261,7 @@
           "Count": "Int:2315"
         }
       },
-      "District:LK-12": {
+      "District:gampaha": {
         "CookingFuel:fire_wood": {
           "Count": "Int:218798"
         },
@@ -287,7 +287,7 @@
           "Count": "Int:20826"
         }
       },
-      "District:LK-11": {
+      "District:colombo": {
         "CookingFuel:fire_wood": {
           "Count": "Int:65584"
         },
@@ -313,7 +313,7 @@
           "Count": "Int:13853"
         }
       },
-      "District:LK-61": {
+      "District:kurunegala": {
         "CookingFuel:fire_wood": {
           "Count": "Int:394682"
         },
@@ -339,7 +339,7 @@
           "Count": "Int:5911"
         }
       },
-      "District:LK-21": {
+      "District:kandy": {
         "CookingFuel:fire_wood": {
           "Count": "Int:231787"
         },
@@ -365,7 +365,7 @@
           "Count": "Int:2609"
         }
       },
-      "District:LK-13": {
+      "District:kalutara": {
         "CookingFuel:fire_wood": {
           "Count": "Int:149395"
         },
@@ -391,7 +391,7 @@
           "Count": "Int:3596"
         }
       },
-      "District:LK-91": {
+      "District:ratnapura": {
         "CookingFuel:fire_wood": {
           "Count": "Int:255732"
         },
@@ -417,7 +417,7 @@
           "Count": "Int:2597"
         }
       },
-      "District:LK-31": {
+      "District:galle": {
         "CookingFuel:fire_wood": {
           "Count": "Int:160388"
         },
@@ -443,7 +443,7 @@
           "Count": "Int:4357"
         }
       },
-      "District:LK-71": {
+      "District:anuradhapura": {
         "CookingFuel:fire_wood": {
           "Count": "Int:205964"
         },
@@ -469,7 +469,7 @@
           "Count": "Int:2265"
         }
       },
-      "District:LK-81": {
+      "District:badulla": {
         "CookingFuel:fire_wood": {
           "Count": "Int:200159"
         },
@@ -495,7 +495,7 @@
           "Count": "Int:1144"
         }
       },
-      "District:LK-92": {
+      "District:kegalle": {
         "CookingFuel:fire_wood": {
           "Count": "Int:177937"
         },
@@ -521,7 +521,7 @@
           "Count": "Int:1803"
         }
       },
-      "District:LK-62": {
+      "District:puttalam": {
         "CookingFuel:fire_wood": {
           "Count": "Int:140282"
         },
@@ -547,7 +547,7 @@
           "Count": "Int:3332"
         }
       },
-      "District:LK-32": {
+      "District:matara": {
         "CookingFuel:fire_wood": {
           "Count": "Int:141321"
         },
@@ -573,7 +573,7 @@
           "Count": "Int:2995"
         }
       },
-      "District:LK-52": {
+      "District:ampara": {
         "CookingFuel:fire_wood": {
           "Count": "Int:100055"
         },
@@ -599,7 +599,7 @@
           "Count": "Int:1711"
         }
       },
-      "District:LK-23": {
+      "District:nuwara_eliya": {
         "CookingFuel:fire_wood": {
           "Count": "Int:143947"
         },
@@ -625,7 +625,7 @@
           "Count": "Int:684"
         }
       },
-      "District:LK-33": {
+      "District:hambantota": {
         "CookingFuel:fire_wood": {
           "Count": "Int:136455"
         },
@@ -651,7 +651,7 @@
           "Count": "Int:1939"
         }
       },
-      "District:LK-51": {
+      "District:batticaloa": {
         "CookingFuel:fire_wood": {
           "Count": "Int:72927"
         },
@@ -677,7 +677,7 @@
           "Count": "Int:1020"
         }
       },
-      "District:LK-41": {
+      "District:jaffna": {
         "CookingFuel:fire_wood": {
           "Count": "Int:87518"
         },
@@ -703,7 +703,7 @@
           "Count": "Int:1533"
         }
       },
-      "District:LK-82": {
+      "District:monaragala": {
         "CookingFuel:fire_wood": {
           "Count": "Int:126881"
         },
@@ -729,7 +729,7 @@
           "Count": "Int:924"
         }
       },
-      "District:LK-22": {
+      "District:matale": {
         "CookingFuel:fire_wood": {
           "Count": "Int:114015"
         },
@@ -755,7 +755,7 @@
           "Count": "Int:1072"
         }
       },
-      "District:LK-72": {
+      "District:polonnaruwa": {
         "CookingFuel:fire_wood": {
           "Count": "Int:98828"
         },
@@ -781,7 +781,7 @@
           "Count": "Int:1061"
         }
       },
-      "District:LK-53": {
+      "District:trincomalee": {
         "CookingFuel:fire_wood": {
           "Count": "Int:59651"
         },
@@ -807,7 +807,7 @@
           "Count": "Int:1225"
         }
       },
-      "District:LK-43": {
+      "District:vavuniya": {
         "CookingFuel:fire_wood": {
           "Count": "Int:27330"
         },
@@ -833,7 +833,7 @@
           "Count": "Int:211"
         }
       },
-      "District:LK-45": {
+      "District:kilinochchi": {
         "CookingFuel:fire_wood": {
           "Count": "Int:28403"
         },
@@ -859,7 +859,7 @@
           "Count": "Int:146"
         }
       },
-      "District:LK-44": {
+      "District:mullaitivu": {
         "CookingFuel:fire_wood": {
           "Count": "Int:25640"
         },
@@ -885,7 +885,7 @@
           "Count": "Int:214"
         }
       },
-      "District:LK-42": {
+      "District:mannar": {
         "CookingFuel:fire_wood": {
           "Count": "Int:18102"
         },
@@ -911,7 +911,7 @@
           "Count": "Int:211"
         }
       },
-      "DSD:LK-1109": {
+      "DSD:kaduwela": {
         "CookingFuel:fire_wood": {
           "Count": "Int:6820"
         },
@@ -937,7 +937,7 @@
           "Count": "Int:1539"
         }
       },
-      "DSD:LK-1112": {
+      "DSD:homagama": {
         "CookingFuel:fire_wood": {
           "Count": "Int:11640"
         },
@@ -963,7 +963,7 @@
           "Count": "Int:1609"
         }
       },
-      "DSD:LK-1136": {
+      "DSD:kesbewa": {
         "CookingFuel:fire_wood": {
           "Count": "Int:5617"
         },
@@ -989,7 +989,7 @@
           "Count": "Int:1820"
         }
       },
-      "DSD:LK-1206": {
+      "DSD:katana": {
         "CookingFuel:fire_wood": {
           "Count": "Int:19528"
         },
@@ -1015,7 +1015,7 @@
           "Count": "Int:5756"
         }
       },
-      "DSD:LK-1103": {
+      "DSD:colombo": {
         "CookingFuel:fire_wood": {
           "Count": "Int:876"
         },
@@ -1041,7 +1041,7 @@
           "Count": "Int:1857"
         }
       },
-      "DSD:LK-1233": {
+      "DSD:mahara": {
         "CookingFuel:fire_wood": {
           "Count": "Int:15428"
         },
@@ -1067,7 +1067,7 @@
           "Count": "Int:1020"
         }
       },
-      "DSD:LK-1239": {
+      "DSD:biyagama": {
         "CookingFuel:fire_wood": {
           "Count": "Int:8730"
         },
@@ -1093,7 +1093,7 @@
           "Count": "Int:3219"
         }
       },
-      "DSD:LK-1127": {
+      "DSD:thimbirigasyaya": {
         "CookingFuel:fire_wood": {
           "Count": "Int:956"
         },
@@ -1119,7 +1119,7 @@
           "Count": "Int:737"
         }
       },
-      "DSD:LK-1224": {
+      "DSD:gampaha": {
         "CookingFuel:fire_wood": {
           "Count": "Int:16063"
         },
@@ -1145,7 +1145,7 @@
           "Count": "Int:933"
         }
       },
-      "DSD:LK-1221": {
+      "DSD:ja_ela": {
         "CookingFuel:fire_wood": {
           "Count": "Int:9794"
         },
@@ -1171,7 +1171,7 @@
           "Count": "Int:1468"
         }
       },
-      "DSD:LK-1121": {
+      "DSD:maharagama": {
         "CookingFuel:fire_wood": {
           "Count": "Int:1821"
         },
@@ -1197,7 +1197,7 @@
           "Count": "Int:1236"
         }
       },
-      "DSD:LK-1215": {
+      "DSD:minuwangoda": {
         "CookingFuel:fire_wood": {
           "Count": "Int:23831"
         },
@@ -1223,7 +1223,7 @@
           "Count": "Int:1494"
         }
       },
-      "DSD:LK-1106": {
+      "DSD:kolonnawa": {
         "CookingFuel:fire_wood": {
           "Count": "Int:2648"
         },
@@ -1249,7 +1249,7 @@
           "Count": "Int:1104"
         }
       },
-      "DSD:LK-1227": {
+      "DSD:attanagalla": {
         "CookingFuel:fire_wood": {
           "Count": "Int:23722"
         },
@@ -1275,7 +1275,7 @@
           "Count": "Int:992"
         }
       },
-      "DSD:LK-1212": {
+      "DSD:mirigama": {
         "CookingFuel:fire_wood": {
           "Count": "Int:32603"
         },
@@ -1301,7 +1301,7 @@
           "Count": "Int:657"
         }
       },
-      "DSD:LK-1303": {
+      "DSD:panadura": {
         "CookingFuel:fire_wood": {
           "Count": "Int:8888"
         },
@@ -1327,7 +1327,7 @@
           "Count": "Int:642"
         }
       },
-      "DSD:LK-1218": {
+      "DSD:wattala": {
         "CookingFuel:fire_wood": {
           "Count": "Int:5234"
         },
@@ -1353,7 +1353,7 @@
           "Count": "Int:837"
         }
       },
-      "DSD:LK-1230": {
+      "DSD:dompe": {
         "CookingFuel:fire_wood": {
           "Count": "Int:26694"
         },
@@ -1379,7 +1379,7 @@
           "Count": "Int:854"
         }
       },
-      "DSD:LK-9148": {
+      "DSD:embilipitiya": {
         "CookingFuel:fire_wood": {
           "Count": "Int:33720"
         },
@@ -1405,7 +1405,7 @@
           "Count": "Int:446"
         }
       },
-      "DSD:LK-1209": {
+      "DSD:divulapitiya": {
         "CookingFuel:fire_wood": {
           "Count": "Int:30748"
         },
@@ -1431,7 +1431,7 @@
           "Count": "Int:908"
         }
       },
-      "DSD:LK-1133": {
+      "DSD:moratuwa": {
         "CookingFuel:fire_wood": {
           "Count": "Int:8496"
         },
@@ -1457,7 +1457,7 @@
           "Count": "Int:1380"
         }
       },
-      "DSD:LK-1321": {
+      "DSD:kalutara": {
         "CookingFuel:fire_wood": {
           "Count": "Int:13981"
         },
@@ -1483,7 +1483,7 @@
           "Count": "Int:453"
         }
       },
-      "DSD:LK-2314": {
+      "DSD:norwood": {
         "CookingFuel:fire_wood": {
           "Count": "Int:29724"
         },
@@ -1509,7 +1509,7 @@
           "Count": "Int:190"
         }
       },
-      "DSD:LK-1324": {
+      "DSD:beruwala": {
         "CookingFuel:fire_wood": {
           "Count": "Int:13392"
         },
@@ -1535,7 +1535,7 @@
           "Count": "Int:287"
         }
       },
-      "DSD:LK-2130": {
+      "DSD:gangawata_korale": {
         "CookingFuel:fire_wood": {
           "Count": "Int:8138"
         },
@@ -1561,7 +1561,7 @@
           "Count": "Int:363"
         }
       },
-      "DSD:LK-2127": {
+      "DSD:kundasale": {
         "CookingFuel:fire_wood": {
           "Count": "Int:20413"
         },
@@ -1587,7 +1587,7 @@
           "Count": "Int:289"
         }
       },
-      "DSD:LK-6178": {
+      "DSD:pannala": {
         "CookingFuel:fire_wood": {
           "Count": "Int:28692"
         },
@@ -1613,7 +1613,7 @@
           "Count": "Int:801"
         }
       },
-      "DSD:LK-1309": {
+      "DSD:horana": {
         "CookingFuel:fire_wood": {
           "Count": "Int:13434"
         },
@@ -1639,7 +1639,7 @@
           "Count": "Int:506"
         }
       },
-      "DSD:LK-1236": {
+      "DSD:kelaniya": {
         "CookingFuel:fire_wood": {
           "Count": "Int:2408"
         },
@@ -1665,7 +1665,7 @@
           "Count": "Int:2044"
         }
       },
-      "DSD:LK-1203": {
+      "DSD:negombo": {
         "CookingFuel:fire_wood": {
           "Count": "Int:4015"
         },
@@ -1691,7 +1691,7 @@
           "Count": "Int:644"
         }
       },
-      "DSD:LK-1115": {
+      "DSD:seethawaka": {
         "CookingFuel:fire_wood": {
           "Count": "Int:16110"
         },
@@ -1717,7 +1717,7 @@
           "Count": "Int:1036"
         }
       },
-      "DSD:LK-2313": {
+      "DSD:thalawakele": {
         "CookingFuel:fire_wood": {
           "Count": "Int:20802"
         },
@@ -1743,7 +1743,7 @@
           "Count": "Int:46"
         }
       },
-      "DSD:LK-1306": {
+      "DSD:bandaragama": {
         "CookingFuel:fire_wood": {
           "Count": "Int:8893"
         },
@@ -1769,7 +1769,7 @@
           "Count": "Int:459"
         }
       },
-      "DSD:LK-9112": {
+      "DSD:ratnapura": {
         "CookingFuel:fire_wood": {
           "Count": "Int:21071"
         },
@@ -1795,7 +1795,7 @@
           "Count": "Int:198"
         }
       },
-      "DSD:LK-9206": {
+      "DSD:mawanella": {
         "CookingFuel:fire_wood": {
           "Count": "Int:19936"
         },
@@ -1821,7 +1821,7 @@
           "Count": "Int:220"
         }
       },
-      "DSD:LK-9218": {
+      "DSD:warakapola": {
         "CookingFuel:fire_wood": {
           "Count": "Int:24161"
         },
@@ -1847,7 +1847,7 @@
           "Count": "Int:274"
         }
       },
-      "DSD:LK-4309": {
+      "DSD:vavuniya": {
         "CookingFuel:fire_wood": {
           "Count": "Int:14318"
         },
@@ -1873,7 +1873,7 @@
           "Count": "Int:166"
         }
       },
-      "DSD:LK-3242": {
+      "DSD:matara_four_gravets": {
         "CookingFuel:fire_wood": {
           "Count": "Int:8146"
         },
@@ -1899,7 +1899,7 @@
           "Count": "Int:492"
         }
       },
-      "DSD:LK-2139": {
+      "DSD:udunuwara": {
         "CookingFuel:fire_wood": {
           "Count": "Int:16970"
         },
@@ -1925,7 +1925,7 @@
           "Count": "Int:251"
         }
       },
-      "DSD:LK-2136": {
+      "DSD:yatinuwara": {
         "CookingFuel:fire_wood": {
           "Count": "Int:16398"
         },
@@ -1951,7 +1951,7 @@
           "Count": "Int:286"
         }
       },
-      "DSD:LK-8130": {
+      "DSD:welimada": {
         "CookingFuel:fire_wood": {
           "Count": "Int:24041"
         },
@@ -1977,7 +1977,7 @@
           "Count": "Int:104"
         }
       },
-      "DSD:LK-1124": {
+      "DSD:sri_jayawardanapura_kotte": {
         "CookingFuel:fire_wood": {
           "Count": "Int:518"
         },
@@ -2003,7 +2003,7 @@
           "Count": "Int:385"
         }
       },
-      "DSD:LK-5315": {
+      "DSD:town_and_gravets": {
         "CookingFuel:fire_wood": {
           "Count": "Int:6103"
         },
@@ -2029,7 +2029,7 @@
           "Count": "Int:463"
         }
       },
-      "DSD:LK-2151": {
+      "DSD:udapalatha": {
         "CookingFuel:fire_wood": {
           "Count": "Int:14378"
         },
@@ -2055,7 +2055,7 @@
           "Count": "Int:155"
         }
       },
-      "DSD:LK-8124": {
+      "DSD:hali_ela": {
         "CookingFuel:fire_wood": {
           "Count": "Int:22388"
         },
@@ -2081,7 +2081,7 @@
           "Count": "Int:109"
         }
       },
-      "DSD:LK-6163": {
+      "DSD:rideegama": {
         "CookingFuel:fire_wood": {
           "Count": "Int:23589"
         },
@@ -2107,7 +2107,7 @@
           "Count": "Int:145"
         }
       },
-      "DSD:LK-9106": {
+      "DSD:kuruvita": {
         "CookingFuel:fire_wood": {
           "Count": "Int:20239"
         },
@@ -2133,7 +2133,7 @@
           "Count": "Int:203"
         }
       },
-      "DSD:LK-6130": {
+      "DSD:ibbagamuwa": {
         "CookingFuel:fire_wood": {
           "Count": "Int:21693"
         },
@@ -2159,7 +2159,7 @@
           "Count": "Int:233"
         }
       },
-      "DSD:LK-9212": {
+      "DSD:kegalle": {
         "CookingFuel:fire_wood": {
           "Count": "Int:16900"
         },
@@ -2185,7 +2185,7 @@
           "Count": "Int:266"
         }
       },
-      "DSD:LK-5118": {
+      "DSD:manmunai_north": {
         "CookingFuel:fire_wood": {
           "Count": "Int:5003"
         },
@@ -2211,7 +2211,7 @@
           "Count": "Int:242"
         }
       },
-      "DSD:LK-3139": {
+      "DSD:galle_4_gravets": {
         "CookingFuel:fire_wood": {
           "Count": "Int:4348"
         },
@@ -2237,7 +2237,7 @@
           "Count": "Int:374"
         }
       },
-      "DSD:LK-9124": {
+      "DSD:pelmadulla": {
         "CookingFuel:fire_wood": {
           "Count": "Int:21331"
         },
@@ -2263,7 +2263,7 @@
           "Count": "Int:143"
         }
       },
-      "DSD:LK-2133": {
+      "DSD:harispattuwa": {
         "CookingFuel:fire_wood": {
           "Count": "Int:13162"
         },
@@ -2289,7 +2289,7 @@
           "Count": "Int:229"
         }
       },
-      "DSD:LK-5112": {
+      "DSD:eravur_pattu": {
         "CookingFuel:fire_wood": {
           "Count": "Int:15109"
         },
@@ -2315,7 +2315,7 @@
           "Count": "Int:71"
         }
       },
-      "DSD:LK-2112": {
+      "DSD:pathadumbara": {
         "CookingFuel:fire_wood": {
           "Count": "Int:12987"
         },
@@ -2341,7 +2341,7 @@
           "Count": "Int:186"
         }
       },
-      "DSD:LK-6127": {
+      "DSD:polpitigama": {
         "CookingFuel:fire_wood": {
           "Count": "Int:23494"
         },
@@ -2367,7 +2367,7 @@
           "Count": "Int:241"
         }
       },
-      "DSD:LK-8103": {
+      "DSD:mahiyanganaya": {
         "CookingFuel:fire_wood": {
           "Count": "Int:22398"
         },
@@ -2393,7 +2393,7 @@
           "Count": "Int:116"
         }
       },
-      "DSD:LK-1130": {
+      "DSD:dehiwala": {
         "CookingFuel:fire_wood": {
           "Count": "Int:209"
         },
@@ -2419,7 +2419,7 @@
           "Count": "Int:293"
         }
       },
-      "DSD:LK-7215": {
+      "DSD:thamankaduwa": {
         "CookingFuel:fire_wood": {
           "Count": "Int:14230"
         },
@@ -2445,7 +2445,7 @@
           "Count": "Int:432"
         }
       },
-      "DSD:LK-1131": {
+      "DSD:ratmalana": {
         "CookingFuel:fire_wood": {
           "Count": "Int:747"
         },
@@ -2471,7 +2471,7 @@
           "Count": "Int:451"
         }
       },
-      "DSD:LK-9203": {
+      "DSD:rambukkana": {
         "CookingFuel:fire_wood": {
           "Count": "Int:18152"
         },
@@ -2497,7 +2497,7 @@
           "Count": "Int:200"
         }
       },
-      "DSD:LK-6203": {
+      "DSD:kalpitiya": {
         "CookingFuel:fire_wood": {
           "Count": "Int:10565"
         },
@@ -2523,7 +2523,7 @@
           "Count": "Int:213"
         }
       },
-      "DSD:LK-7212": {
+      "DSD:dimbulagala": {
         "CookingFuel:fire_wood": {
           "Count": "Int:21942"
         },
@@ -2549,7 +2549,7 @@
           "Count": "Int:98"
         }
       },
-      "DSD:LK-6172": {
+      "DSD:kuliyapitiya_west": {
         "CookingFuel:fire_wood": {
           "Count": "Int:17109"
         },
@@ -2575,7 +2575,7 @@
           "Count": "Int:501"
         }
       },
-      "DSD:LK-6215": {
+      "DSD:puttalam": {
         "CookingFuel:fire_wood": {
           "Count": "Int:10393"
         },
@@ -2601,7 +2601,7 @@
           "Count": "Int:259"
         }
       },
-      "DSD:LK-6154": {
+      "DSD:kurunegala": {
         "CookingFuel:fire_wood": {
           "Count": "Int:10333"
         },
@@ -2627,7 +2627,7 @@
           "Count": "Int:260"
         }
       },
-      "DSD:LK-3145": {
+      "DSD:akmeemana": {
         "CookingFuel:fire_wood": {
           "Count": "Int:10198"
         },
@@ -2653,7 +2653,7 @@
           "Count": "Int:377"
         }
       },
-      "DSD:LK-1330": {
+      "DSD:matugama": {
         "CookingFuel:fire_wood": {
           "Count": "Int:11632"
         },
@@ -2679,7 +2679,7 @@
           "Count": "Int:145"
         }
       },
-      "DSD:LK-9230": {
+      "DSD:dehiowita": {
         "CookingFuel:fire_wood": {
           "Count": "Int:16497"
         },
@@ -2705,7 +2705,7 @@
           "Count": "Int:153"
         }
       },
-      "DSD:LK-8127": {
+      "DSD:uvaparanagama": {
         "CookingFuel:fire_wood": {
           "Count": "Int:21781"
         },
@@ -2731,7 +2731,7 @@
           "Count": "Int:51"
         }
       },
-      "DSD:LK-2206": {
+      "DSD:dambulla": {
         "CookingFuel:fire_wood": {
           "Count": "Int:18140"
         },
@@ -2757,7 +2757,7 @@
           "Count": "Int:220"
         }
       },
-      "DSD:LK-2312": {
+      "DSD:nuwara_eliya": {
         "CookingFuel:fire_wood": {
           "Count": "Int:10640"
         },
@@ -2783,7 +2783,7 @@
           "Count": "Int:77"
         }
       },
-      "DSD:LK-9142": {
+      "DSD:godakawela": {
         "CookingFuel:fire_wood": {
           "Count": "Int:18351"
         },
@@ -2809,7 +2809,7 @@
           "Count": "Int:241"
         }
       },
-      "DSD:LK-2203": {
+      "DSD:galewela": {
         "CookingFuel:fire_wood": {
           "Count": "Int:18538"
         },
@@ -2835,7 +2835,7 @@
           "Count": "Int:193"
         }
       },
-      "DSD:LK-3315": {
+      "DSD:ambalantota": {
         "CookingFuel:fire_wood": {
           "Count": "Int:15706"
         },
@@ -2861,7 +2861,7 @@
           "Count": "Int:259"
         }
       },
-      "DSD:LK-2218": {
+      "DSD:matale": {
         "CookingFuel:fire_wood": {
           "Count": "Int:9329"
         },
@@ -2887,7 +2887,7 @@
           "Count": "Int:192"
         }
       },
-      "DSD:LK-8121": {
+      "DSD:badulla": {
         "CookingFuel:fire_wood": {
           "Count": "Int:10017"
         },
@@ -2913,7 +2913,7 @@
           "Count": "Int:314"
         }
       },
-      "DSD:LK-5324": {
+      "DSD:kinniya": {
         "CookingFuel:fire_wood": {
           "Count": "Int:9467"
         },
@@ -2939,7 +2939,7 @@
           "Count": "Int:210"
         }
       },
-      "DSD:LK-3333": {
+      "DSD:tangalle": {
         "CookingFuel:fire_wood": {
           "Count": "Int:11915"
         },
@@ -2965,7 +2965,7 @@
           "Count": "Int:207"
         }
       },
-      "DSD:LK-8221": {
+      "DSD:wellawaya": {
         "CookingFuel:fire_wood": {
           "Count": "Int:18165"
         },
@@ -2991,7 +2991,7 @@
           "Count": "Int:170"
         }
       },
-      "DSD:LK-7133": {
+      "DSD:nuwaragam_palatha_east": {
         "CookingFuel:fire_wood": {
           "Count": "Int:6674"
         },
@@ -3017,7 +3017,7 @@
           "Count": "Int:258"
         }
       },
-      "DSD:LK-9118": {
+      "DSD:balangoda": {
         "CookingFuel:fire_wood": {
           "Count": "Int:15348"
         },
@@ -3043,7 +3043,7 @@
           "Count": "Int:137"
         }
       },
-      "DSD:LK-9215": {
+      "DSD:galigamuwa": {
         "CookingFuel:fire_wood": {
           "Count": "Int:16216"
         },
@@ -3069,7 +3069,7 @@
           "Count": "Int:158"
         }
       },
-      "DSD:LK-3309": {
+      "DSD:thissamaharama": {
         "CookingFuel:fire_wood": {
           "Count": "Int:14250"
         },
@@ -3095,7 +3095,7 @@
           "Count": "Int:296"
         }
       },
-      "DSD:LK-1118": {
+      "DSD:padukka": {
         "CookingFuel:fire_wood": {
           "Count": "Int:9126"
         },
@@ -3121,7 +3121,7 @@
           "Count": "Int:406"
         }
       },
-      "DSD:LK-7206": {
+      "DSD:medirigiriya": {
         "CookingFuel:fire_wood": {
           "Count": "Int:18232"
         },
@@ -3147,7 +3147,7 @@
           "Count": "Int:155"
         }
       },
-      "DSD:LK-9103": {
+      "DSD:eheliyagoda": {
         "CookingFuel:fire_wood": {
           "Count": "Int:13470"
         },
@@ -3173,7 +3173,7 @@
           "Count": "Int:191"
         }
       },
-      "DSD:LK-7203": {
+      "DSD:higurakgoda": {
         "CookingFuel:fire_wood": {
           "Count": "Int:14632"
         },
@@ -3199,7 +3199,7 @@
           "Count": "Int:149"
         }
       },
-      "DSD:LK-6145": {
+      "DSD:panduwasnuwara_west": {
         "CookingFuel:fire_wood": {
           "Count": "Int:16111"
         },
@@ -3225,7 +3225,7 @@
           "Count": "Int:250"
         }
       },
-      "DSD:LK-7115": {
+      "DSD:nuwaragam_palatha_central": {
         "CookingFuel:fire_wood": {
           "Count": "Int:12922"
         },
@@ -3251,7 +3251,7 @@
           "Count": "Int:179"
         }
       },
-      "DSD:LK-9209": {
+      "DSD:aranayake": {
         "CookingFuel:fire_wood": {
           "Count": "Int:16117"
         },
@@ -3277,7 +3277,7 @@
           "Count": "Int:150"
         }
       },
-      "DSD:LK-2233": {
+      "DSD:ukuwela": {
         "CookingFuel:fire_wood": {
           "Count": "Int:12863"
         },
@@ -3303,7 +3303,7 @@
           "Count": "Int:119"
         }
       },
-      "DSD:LK-6160": {
+      "DSD:mawathagama": {
         "CookingFuel:fire_wood": {
           "Count": "Int:13786"
         },
@@ -3329,7 +3329,7 @@
           "Count": "Int:174"
         }
       },
-      "DSD:LK-6245": {
+      "DSD:wennappuwa": {
         "CookingFuel:fire_wood": {
           "Count": "Int:9776"
         },
@@ -3355,7 +3355,7 @@
           "Count": "Int:442"
         }
       },
-      "DSD:LK-3109": {
+      "DSD:karandeniya": {
         "CookingFuel:fire_wood": {
           "Count": "Int:16418"
         },
@@ -3381,7 +3381,7 @@
           "Count": "Int:149"
         }
       },
-      "DSD:LK-4118": {
+      "DSD:valikamam_east_kopay": {
         "CookingFuel:fire_wood": {
           "Count": "Int:12454"
         },
@@ -3407,7 +3407,7 @@
           "Count": "Int:113"
         }
       },
-      "DSD:LK-6136": {
+      "DSD:wariyapola": {
         "CookingFuel:fire_wood": {
           "Count": "Int:15831"
         },
@@ -3433,7 +3433,7 @@
           "Count": "Int:235"
         }
       },
-      "DSD:LK-5218": {
+      "DSD:sammanthurai": {
         "CookingFuel:fire_wood": {
           "Count": "Int:8379"
         },
@@ -3459,7 +3459,7 @@
           "Count": "Int:141"
         }
       },
-      "DSD:LK-6142": {
+      "DSD:bingiriya": {
         "CookingFuel:fire_wood": {
           "Count": "Int:16284"
         },
@@ -3485,7 +3485,7 @@
           "Count": "Int:299"
         }
       },
-      "DSD:LK-4509": {
+      "DSD:karachchi": {
         "CookingFuel:fire_wood": {
           "Count": "Int:13645"
         },
@@ -3511,7 +3511,7 @@
           "Count": "Int:93"
         }
       },
-      "DSD:LK-3239": {
+      "DSD:weligama": {
         "CookingFuel:fire_wood": {
           "Count": "Int:7593"
         },
@@ -3537,7 +3537,7 @@
           "Count": "Int:343"
         }
       },
-      "DSD:LK-5327": {
+      "DSD:muthur": {
         "CookingFuel:fire_wood": {
           "Count": "Int:10294"
         },
@@ -3563,7 +3563,7 @@
           "Count": "Int:143"
         }
       },
-      "DSD:LK-3112": {
+      "DSD:elpitiya": {
         "CookingFuel:fire_wood": {
           "Count": "Int:11478"
         },
@@ -3589,7 +3589,7 @@
           "Count": "Int:154"
         }
       },
-      "DSD:LK-6242": {
+      "DSD:nattandiya": {
         "CookingFuel:fire_wood": {
           "Count": "Int:11936"
         },
@@ -3615,7 +3615,7 @@
           "Count": "Int:207"
         }
       },
-      "DSD:LK-6187": {
+      "DSD:polgahawela": {
         "CookingFuel:fire_wood": {
           "Count": "Int:12240"
         },
@@ -3641,7 +3641,7 @@
           "Count": "Int:174"
         }
       },
-      "DSD:LK-6124": {
+      "DSD:maho": {
         "CookingFuel:fire_wood": {
           "Count": "Int:16001"
         },
@@ -3667,7 +3667,7 @@
           "Count": "Int:214"
         }
       },
-      "DSD:LK-6218": {
+      "DSD:mundel": {
         "CookingFuel:fire_wood": {
           "Count": "Int:10781"
         },
@@ -3693,7 +3693,7 @@
           "Count": "Int:121"
         }
       },
-      "DSD:LK-6184": {
+      "DSD:alawwa": {
         "CookingFuel:fire_wood": {
           "Count": "Int:15256"
         },
@@ -3719,7 +3719,7 @@
           "Count": "Int:209"
         }
       },
-      "DSD:LK-4130": {
+      "DSD:thenmaradchi_chavakachcheri": {
         "CookingFuel:fire_wood": {
           "Count": "Int:13129"
         },
@@ -3745,7 +3745,7 @@
           "Count": "Int:58"
         }
       },
-      "DSD:LK-4133": {
+      "DSD:nallur": {
         "CookingFuel:fire_wood": {
           "Count": "Int:4411"
         },
@@ -3771,7 +3771,7 @@
           "Count": "Int:219"
         }
       },
-      "DSD:LK-3106": {
+      "DSD:balapitiya": {
         "CookingFuel:fire_wood": {
           "Count": "Int:8346"
         },
@@ -3797,7 +3797,7 @@
           "Count": "Int:300"
         }
       },
-      "DSD:LK-6248": {
+      "DSD:dankotuwa": {
         "CookingFuel:fire_wood": {
           "Count": "Int:11701"
         },
@@ -3823,7 +3823,7 @@
           "Count": "Int:408"
         }
       },
-      "DSD:LK-1312": {
+      "DSD:bulathsinhala": {
         "CookingFuel:fire_wood": {
           "Count": "Int:13320"
         },
@@ -3849,7 +3849,7 @@
           "Count": "Int:116"
         }
       },
-      "DSD:LK-6233": {
+      "DSD:chilaw": {
         "CookingFuel:fire_wood": {
           "Count": "Int:8848"
         },
@@ -3875,7 +3875,7 @@
           "Count": "Int:521"
         }
       },
-      "DSD:LK-9115": {
+      "DSD:imbulpe": {
         "CookingFuel:fire_wood": {
           "Count": "Int:15880"
         },
@@ -3901,7 +3901,7 @@
           "Count": "Int:209"
         }
       },
-      "DSD:LK-1327": {
+      "DSD:dodangoda": {
         "CookingFuel:fire_wood": {
           "Count": "Int:9924"
         },
@@ -3927,7 +3927,7 @@
           "Count": "Int:163"
         }
       },
-      "DSD:LK-8133": {
+      "DSD:bandarawela": {
         "CookingFuel:fire_wood": {
           "Count": "Int:12572"
         },
@@ -3953,7 +3953,7 @@
           "Count": "Int:86"
         }
       },
-      "DSD:LK-5203": {
+      "DSD:dehiattakandiya": {
         "CookingFuel:fire_wood": {
           "Count": "Int:16705"
         },
@@ -3979,7 +3979,7 @@
           "Count": "Int:61"
         }
       },
-      "DSD:LK-2124": {
+      "DSD:medadumbara": {
         "CookingFuel:fire_wood": {
           "Count": "Int:14561"
         },
@@ -4005,7 +4005,7 @@
           "Count": "Int:67"
         }
       },
-      "DSD:LK-9221": {
+      "DSD:ruwanwella": {
         "CookingFuel:fire_wood": {
           "Count": "Int:14100"
         },
@@ -4031,7 +4031,7 @@
           "Count": "Int:162"
         }
       },
-      "DSD:LK-3312": {
+      "DSD:hambantota": {
         "CookingFuel:fire_wood": {
           "Count": "Int:12454"
         },
@@ -4057,7 +4057,7 @@
           "Count": "Int:176"
         }
       },
-      "DSD:LK-7154": {
+      "DSD:kekirawa": {
         "CookingFuel:fire_wood": {
           "Count": "Int:13898"
         },
@@ -4083,7 +4083,7 @@
           "Count": "Int:165"
         }
       },
-      "DSD:LK-3209": {
+      "DSD:pasgoda": {
         "CookingFuel:fire_wood": {
           "Count": "Int:14934"
         },
@@ -4109,7 +4109,7 @@
           "Count": "Int:181"
         }
       },
-      "DSD:LK-2309": {
+      "DSD:walapane": {
         "CookingFuel:fire_wood": {
           "Count": "Int:15118"
         },
@@ -4135,7 +4135,7 @@
           "Count": "Int:92"
         }
       },
-      "DSD:LK-6106": {
+      "DSD:galgamuwa": {
         "CookingFuel:fire_wood": {
           "Count": "Int:15478"
         },
@@ -4161,7 +4161,7 @@
           "Count": "Int:187"
         }
       },
-      "DSD:LK-7148": {
+      "DSD:thalawa": {
         "CookingFuel:fire_wood": {
           "Count": "Int:14690"
         },
@@ -4187,7 +4187,7 @@
           "Count": "Int:125"
         }
       },
-      "DSD:LK-3206": {
+      "DSD:kotapola": {
         "CookingFuel:fire_wood": {
           "Count": "Int:14090"
         },
@@ -4213,7 +4213,7 @@
           "Count": "Int:135"
         }
       },
-      "DSD:LK-8212": {
+      "DSD:siyambalanduwa": {
         "CookingFuel:fire_wood": {
           "Count": "Int:15904"
         },
@@ -4239,7 +4239,7 @@
           "Count": "Int:81"
         }
       },
-      "DSD:LK-8224": {
+      "DSD:buttala": {
         "CookingFuel:fire_wood": {
           "Count": "Int:14698"
         },
@@ -4265,7 +4265,7 @@
           "Count": "Int:67"
         }
       },
-      "DSD:LK-2157": {
+      "DSD:pasbagekorale": {
         "CookingFuel:fire_wood": {
           "Count": "Int:10170"
         },
@@ -4291,7 +4291,7 @@
           "Count": "Int:47"
         }
       },
-      "DSD:LK-9227": {
+      "DSD:yatiyantota": {
         "CookingFuel:fire_wood": {
           "Count": "Int:13725"
         },
@@ -4317,7 +4317,7 @@
           "Count": "Int:74"
         }
       },
-      "DSD:LK-2303": {
+      "DSD:kothmale_east": {
         "CookingFuel:fire_wood": {
           "Count": "Int:13742"
         },
@@ -4343,7 +4343,7 @@
           "Count": "Int:39"
         }
       },
-      "DSD:LK-5212": {
+      "DSD:uhana": {
         "CookingFuel:fire_wood": {
           "Count": "Int:14758"
         },
@@ -4369,7 +4369,7 @@
           "Count": "Int:86"
         }
       },
-      "DSD:LK-8106": {
+      "DSD:rideemaliyadda": {
         "CookingFuel:fire_wood": {
           "Count": "Int:16189"
         },
@@ -4395,7 +4395,7 @@
           "Count": "Int:80"
         }
       },
-      "DSD:LK-5136": {
+      "DSD:manmunai_south_and_eruvil_pattu": {
         "CookingFuel:fire_wood": {
           "Count": "Int:5260"
         },
@@ -4421,7 +4421,7 @@
           "Count": "Int:66"
         }
       },
-      "DSD:LK-3154": {
+      "DSD:habaraduwa": {
         "CookingFuel:fire_wood": {
           "Count": "Int:7049"
         },
@@ -4447,7 +4447,7 @@
           "Count": "Int:325"
         }
       },
-      "DSD:LK-6181": {
+      "DSD:narammala": {
         "CookingFuel:fire_wood": {
           "Count": "Int:12845"
         },
@@ -4473,7 +4473,7 @@
           "Count": "Int:230"
         }
       },
-      "DSD:LK-2145": {
+      "DSD:pathahewaheta": {
         "CookingFuel:fire_wood": {
           "Count": "Int:14063"
         },
@@ -4499,7 +4499,7 @@
           "Count": "Int:107"
         }
       },
-      "DSD:LK-2306": {
+      "DSD:hanguranketa": {
         "CookingFuel:fire_wood": {
           "Count": "Int:14886"
         },
@@ -4525,7 +4525,7 @@
           "Count": "Int:72"
         }
       },
-      "DSD:LK-3133": {
+      "DSD:ambalangoda": {
         "CookingFuel:fire_wood": {
           "Count": "Int:7521"
         },
@@ -4551,7 +4551,7 @@
           "Count": "Int:252"
         }
       },
-      "DSD:LK-9136": {
+      "DSD:nivithigala": {
         "CookingFuel:fire_wood": {
           "Count": "Int:14125"
         },
@@ -4577,7 +4577,7 @@
           "Count": "Int:145"
         }
       },
-      "DSD:LK-6157": {
+      "DSD:mallawapitiya": {
         "CookingFuel:fire_wood": {
           "Count": "Int:9460"
         },
@@ -4603,7 +4603,7 @@
           "Count": "Int:150"
         }
       },
-      "DSD:LK-3330": {
+      "DSD:beliatta": {
         "CookingFuel:fire_wood": {
           "Count": "Int:10183"
         },
@@ -4629,7 +4629,7 @@
           "Count": "Int:220"
         }
       },
-      "DSD:LK-6169": {
+      "DSD:kuliyapitiya_east": {
         "CookingFuel:fire_wood": {
           "Count": "Int:13099"
         },
@@ -4655,7 +4655,7 @@
           "Count": "Int:121"
         }
       },
-      "DSD:LK-1310": {
+      "DSD:ingiriya": {
         "CookingFuel:fire_wood": {
           "Count": "Int:10171"
         },
@@ -4681,7 +4681,7 @@
           "Count": "Int:213"
         }
       },
-      "DSD:LK-2109": {
+      "DSD:akurana": {
         "CookingFuel:fire_wood": {
           "Count": "Int:6352"
         },
@@ -4707,7 +4707,7 @@
           "Count": "Int:92"
         }
       },
-      "DSD:LK-2121": {
+      "DSD:minipe": {
         "CookingFuel:fire_wood": {
           "Count": "Int:15067"
         },
@@ -4733,7 +4733,7 @@
           "Count": "Int:74"
         }
       },
-      "DSD:LK-7139": {
+      "DSD:nochchiyagama": {
         "CookingFuel:fire_wood": {
           "Count": "Int:12860"
         },
@@ -4759,7 +4759,7 @@
           "Count": "Int:80"
         }
       },
-      "DSD:LK-2230": {
+      "DSD:rattota": {
         "CookingFuel:fire_wood": {
           "Count": "Int:13222"
         },
@@ -4785,7 +4785,7 @@
           "Count": "Int:80"
         }
       },
-      "DSD:LK-8215": {
+      "DSD:monaragala": {
         "CookingFuel:fire_wood": {
           "Count": "Int:11816"
         },
@@ -4811,7 +4811,7 @@
           "Count": "Int:97"
         }
       },
-      "DSD:LK-1339": {
+      "DSD:walallawita": {
         "CookingFuel:fire_wood": {
           "Count": "Int:11325"
         },
@@ -4837,7 +4837,7 @@
           "Count": "Int:108"
         }
       },
-      "DSD:LK-6175": {
+      "DSD:udubaddawa": {
         "CookingFuel:fire_wood": {
           "Count": "Int:11954"
         },
@@ -4863,7 +4863,7 @@
           "Count": "Int:188"
         }
       },
-      "DSD:LK-2106": {
+      "DSD:poojapitiya": {
         "CookingFuel:fire_wood": {
           "Count": "Int:10733"
         },
@@ -4889,7 +4889,7 @@
           "Count": "Int:78"
         }
       },
-      "DSD:LK-1318": {
+      "DSD:millaniya": {
         "CookingFuel:fire_wood": {
           "Count": "Int:10240"
         },
@@ -4915,7 +4915,7 @@
           "Count": "Int:207"
         }
       },
-      "DSD:LK-2154": {
+      "DSD:ganga_ihala_korale": {
         "CookingFuel:fire_wood": {
           "Count": "Int:11911"
         },
@@ -4941,7 +4941,7 @@
           "Count": "Int:84"
         }
       },
-      "DSD:LK-3142": {
+      "DSD:bope_poddala": {
         "CookingFuel:fire_wood": {
           "Count": "Int:3734"
         },
@@ -4967,7 +4967,7 @@
           "Count": "Int:229"
         }
       },
-      "DSD:LK-3124": {
+      "DSD:nagoda": {
         "CookingFuel:fire_wood": {
           "Count": "Int:11223"
         },
@@ -4993,7 +4993,7 @@
           "Count": "Int:174"
         }
       },
-      "DSD:LK-3318": {
+      "DSD:angunakolapelessa": {
         "CookingFuel:fire_wood": {
           "Count": "Int:12866"
         },
@@ -5019,7 +5019,7 @@
           "Count": "Int:169"
         }
       },
-      "DSD:LK-7109": {
+      "DSD:medawachchiya": {
         "CookingFuel:fire_wood": {
           "Count": "Int:12041"
         },
@@ -5045,7 +5045,7 @@
           "Count": "Int:116"
         }
       },
-      "DSD:LK-3248": {
+      "DSD:dikwella": {
         "CookingFuel:fire_wood": {
           "Count": "Int:7325"
         },
@@ -5071,7 +5071,7 @@
           "Count": "Int:201"
         }
       },
-      "DSD:LK-9133": {
+      "DSD:kalawana": {
         "CookingFuel:fire_wood": {
           "Count": "Int:12705"
         },
@@ -5097,7 +5097,7 @@
           "Count": "Int:87"
         }
       },
-      "DSD:LK-3324": {
+      "DSD:katuwana": {
         "CookingFuel:fire_wood": {
           "Count": "Int:12975"
         },
@@ -5123,7 +5123,7 @@
           "Count": "Int:140"
         }
       },
-      "DSD:LK-3218": {
+      "DSD:akuressa": {
         "CookingFuel:fire_wood": {
           "Count": "Int:11959"
         },
@@ -5149,7 +5149,7 @@
           "Count": "Int:144"
         }
       },
-      "DSD:LK-1336": {
+      "DSD:palindanuwara": {
         "CookingFuel:fire_wood": {
           "Count": "Int:11504"
         },
@@ -5175,7 +5175,7 @@
           "Count": "Int:81"
         }
       },
-      "DSD:LK-3221": {
+      "DSD:welipitiya": {
         "CookingFuel:fire_wood": {
           "Count": "Int:9180"
         },
@@ -5201,7 +5201,7 @@
           "Count": "Int:162"
         }
       },
-      "DSD:LK-9151": {
+      "DSD:kolonna": {
         "CookingFuel:fire_wood": {
           "Count": "Int:13653"
         },
@@ -5227,7 +5227,7 @@
           "Count": "Int:141"
         }
       },
-      "DSD:LK-6236": {
+      "DSD:madampe": {
         "CookingFuel:fire_wood": {
           "Count": "Int:9370"
         },
@@ -5253,7 +5253,7 @@
           "Count": "Int:338"
         }
       },
-      "DSD:LK-6239": {
+      "DSD:mahawewa": {
         "CookingFuel:fire_wood": {
           "Count": "Int:7394"
         },
@@ -5279,7 +5279,7 @@
           "Count": "Int:242"
         }
       },
-      "DSD:LK-4203": {
+      "DSD:mannar_town": {
         "CookingFuel:fire_wood": {
           "Count": "Int:6169"
         },
@@ -5305,7 +5305,7 @@
           "Count": "Int:122"
         }
       },
-      "DSD:LK-2142": {
+      "DSD:doluwa": {
         "CookingFuel:fire_wood": {
           "Count": "Int:11823"
         },
@@ -5331,7 +5331,7 @@
           "Count": "Int:70"
         }
       },
-      "DSD:LK-3203": {
+      "DSD:pitabaddara": {
         "CookingFuel:fire_wood": {
           "Count": "Int:11864"
         },
@@ -5357,7 +5357,7 @@
           "Count": "Int:136"
         }
       },
-      "DSD:LK-3212": {
+      "DSD:mulatiyana": {
         "CookingFuel:fire_wood": {
           "Count": "Int:12461"
         },
@@ -5383,7 +5383,7 @@
           "Count": "Int:172"
         }
       },
-      "DSD:LK-5321": {
+      "DSD:kantale": {
         "CookingFuel:fire_wood": {
           "Count": "Int:10013"
         },
@@ -5409,7 +5409,7 @@
           "Count": "Int:136"
         }
       },
-      "DSD:LK-7127": {
+      "DSD:galenbidunuwewa": {
         "CookingFuel:fire_wood": {
           "Count": "Int:12443"
         },
@@ -5435,7 +5435,7 @@
           "Count": "Int:84"
         }
       },
-      "DSD:LK-3303": {
+      "DSD:sooriyawewa": {
         "CookingFuel:fire_wood": {
           "Count": "Int:12037"
         },
@@ -5461,7 +5461,7 @@
           "Count": "Int:105"
         }
       },
-      "DSD:LK-3127": {
+      "DSD:baddegama": {
         "CookingFuel:fire_wood": {
           "Count": "Int:7485"
         },
@@ -5487,7 +5487,7 @@
           "Count": "Int:193"
         }
       },
-      "DSD:LK-8118": {
+      "DSD:passara": {
         "CookingFuel:fire_wood": {
           "Count": "Int:12242"
         },
@@ -5513,7 +5513,7 @@
           "Count": "Int:30"
         }
       },
-      "DSD:LK-7218": {
+      "DSD:elahera": {
         "CookingFuel:fire_wood": {
           "Count": "Int:13032"
         },
@@ -5539,7 +5539,7 @@
           "Count": "Int:70"
         }
       },
-      "DSD:LK-4109": {
+      "DSD:valikamam_south_west_sandilipay": {
         "CookingFuel:fire_wood": {
           "Count": "Int:8677"
         },
@@ -5565,7 +5565,7 @@
           "Count": "Int:109"
         }
       },
-      "DSD:LK-5224": {
+      "DSD:kalmunai": {
         "CookingFuel:fire_wood": {
           "Count": "Int:934"
         },
@@ -5591,7 +5591,7 @@
           "Count": "Int:120"
         }
       },
-      "DSD:LK-8139": {
+      "DSD:haputale": {
         "CookingFuel:fire_wood": {
           "Count": "Int:9393"
         },
@@ -5617,7 +5617,7 @@
           "Count": "Int:54"
         }
       },
-      "DSD:LK-8233": {
+      "DSD:sevanagala": {
         "CookingFuel:fire_wood": {
           "Count": "Int:11280"
         },
@@ -5643,7 +5643,7 @@
           "Count": "Int:101"
         }
       },
-      "DSD:LK-3103": {
+      "DSD:bentota": {
         "CookingFuel:fire_wood": {
           "Count": "Int:7722"
         },
@@ -5669,7 +5669,7 @@
           "Count": "Int:210"
         }
       },
-      "DSD:LK-8203": {
+      "DSD:bibile": {
         "CookingFuel:fire_wood": {
           "Count": "Int:11760"
         },
@@ -5695,7 +5695,7 @@
           "Count": "Int:95"
         }
       },
-      "DSD:LK-8136": {
+      "DSD:ella": {
         "CookingFuel:fire_wood": {
           "Count": "Int:10827"
         },
@@ -5721,7 +5721,7 @@
           "Count": "Int:49"
         }
       },
-      "DSD:LK-3321": {
+      "DSD:weeraketiya": {
         "CookingFuel:fire_wood": {
           "Count": "Int:10739"
         },
@@ -5747,7 +5747,7 @@
           "Count": "Int:168"
         }
       },
-      "DSD:LK-5233": {
+      "DSD:addalaichenai": {
         "CookingFuel:fire_wood": {
           "Count": "Int:3217"
         },
@@ -5773,7 +5773,7 @@
           "Count": "Int:124"
         }
       },
-      "DSD:LK-3325": {
+      "DSD:walasmulla": {
         "CookingFuel:fire_wood": {
           "Count": "Int:10886"
         },
@@ -5799,7 +5799,7 @@
           "Count": "Int:76"
         }
       },
-      "DSD:LK-7145": {
+      "DSD:thambuththegama": {
         "CookingFuel:fire_wood": {
           "Count": "Int:10301"
         },
@@ -5825,7 +5825,7 @@
           "Count": "Int:106"
         }
       },
-      "DSD:LK-3148": {
+      "DSD:yakkalamulla": {
         "CookingFuel:fire_wood": {
           "Count": "Int:9817"
         },
@@ -5851,7 +5851,7 @@
           "Count": "Int:153"
         }
       },
-      "DSD:LK-3151": {
+      "DSD:imaduwa": {
         "CookingFuel:fire_wood": {
           "Count": "Int:7663"
         },
@@ -5877,7 +5877,7 @@
           "Count": "Int:183"
         }
       },
-      "DSD:LK-3245": {
+      "DSD:devinuwara": {
         "CookingFuel:fire_wood": {
           "Count": "Int:5897"
         },
@@ -5903,7 +5903,7 @@
           "Count": "Int:186"
         }
       },
-      "DSD:LK-4115": {
+      "DSD:valikamam_south_uduvil": {
         "CookingFuel:fire_wood": {
           "Count": "Int:6994"
         },
@@ -5929,7 +5929,7 @@
           "Count": "Int:156"
         }
       },
-      "DSD:LK-8218": {
+      "DSD:badalkumbura": {
         "CookingFuel:fire_wood": {
           "Count": "Int:11289"
         },
@@ -5955,7 +5955,7 @@
           "Count": "Int:43"
         }
       },
-      "DSD:LK-5215": {
+      "DSD:ampara": {
         "CookingFuel:fire_wood": {
           "Count": "Int:7696"
         },
@@ -5981,7 +5981,7 @@
           "Count": "Int:207"
         }
       },
-      "DSD:LK-5124": {
+      "DSD:kattankudy": {
         "CookingFuel:fire_wood": {
           "Count": "Int:405"
         },
@@ -6007,7 +6007,7 @@
           "Count": "Int:126"
         }
       },
-      "DSD:LK-9233": {
+      "DSD:deraniyagala": {
         "CookingFuel:fire_wood": {
           "Count": "Int:10856"
         },
@@ -6033,7 +6033,7 @@
           "Count": "Int:69"
         }
       },
-      "DSD:LK-6133": {
+      "DSD:ganewatta": {
         "CookingFuel:fire_wood": {
           "Count": "Int:11252"
         },
@@ -6059,7 +6059,7 @@
           "Count": "Int:114"
         }
       },
-      "DSD:LK-9224": {
+      "DSD:bulathkohipitiya": {
         "CookingFuel:fire_wood": {
           "Count": "Int:11277"
         },
@@ -6085,7 +6085,7 @@
           "Count": "Int:77"
         }
       },
-      "DSD:LK-6224": {
+      "DSD:anamaduwa": {
         "CookingFuel:fire_wood": {
           "Count": "Int:11127"
         },
@@ -6111,7 +6111,7 @@
           "Count": "Int:127"
         }
       },
-      "DSD:LK-6121": {
+      "DSD:nikaweratiya": {
         "CookingFuel:fire_wood": {
           "Count": "Int:10583"
         },
@@ -6137,7 +6137,7 @@
           "Count": "Int:161"
         }
       },
-      "DSD:LK-7121": {
+      "DSD:kahatagasdigiliya": {
         "CookingFuel:fire_wood": {
           "Count": "Int:10120"
         },
@@ -6163,7 +6163,7 @@
           "Count": "Int:74"
         }
       },
-      "DSD:LK-2315": {
+      "DSD:ambagamuwa_korale": {
         "CookingFuel:fire_wood": {
           "Count": "Int:9643"
         },
@@ -6189,7 +6189,7 @@
           "Count": "Int:79"
         }
       },
-      "DSD:LK-6230": {
+      "DSD:arachchikattuwa": {
         "CookingFuel:fire_wood": {
           "Count": "Int:8926"
         },
@@ -6215,7 +6215,7 @@
           "Count": "Int:140"
         }
       },
-      "DSD:LK-2310": {
+      "DSD:nildandahinna": {
         "CookingFuel:fire_wood": {
           "Count": "Int:11398"
         },
@@ -6241,7 +6241,7 @@
           "Count": "Int:34"
         }
       },
-      "DSD:LK-7160": {
+      "DSD:ipalogama": {
         "CookingFuel:fire_wood": {
           "Count": "Int:9088"
         },
@@ -6267,7 +6267,7 @@
           "Count": "Int:124"
         }
       },
-      "DSD:LK-9139": {
+      "DSD:kahawattha": {
         "CookingFuel:fire_wood": {
           "Count": "Int:10006"
         },
@@ -6293,7 +6293,7 @@
           "Count": "Int:60"
         }
       },
-      "DSD:LK-8209": {
+      "DSD:medagama": {
         "CookingFuel:fire_wood": {
           "Count": "Int:10786"
         },
@@ -6319,7 +6319,7 @@
           "Count": "Int:56"
         }
       },
-      "DSD:LK-4127": {
+      "DSD:vadamaradchi_north_point_pedro": {
         "CookingFuel:fire_wood": {
           "Count": "Int:4684"
         },
@@ -6345,7 +6345,7 @@
           "Count": "Int:174"
         }
       },
-      "DSD:LK-5236": {
+      "DSD:akkaraipattu": {
         "CookingFuel:fire_wood": {
           "Count": "Int:871"
         },
@@ -6371,7 +6371,7 @@
           "Count": "Int:133"
         }
       },
-      "DSD:LK-6151": {
+      "DSD:maspotha": {
         "CookingFuel:fire_wood": {
           "Count": "Int:6606"
         },
@@ -6397,7 +6397,7 @@
           "Count": "Int:134"
         }
       },
-      "DSD:LK-4136": {
+      "DSD:jaffna": {
         "CookingFuel:fire_wood": {
           "Count": "Int:2838"
         },
@@ -6423,7 +6423,7 @@
           "Count": "Int:182"
         }
       },
-      "DSD:LK-4112": {
+      "DSD:valikamam_north_thllippalai": {
         "CookingFuel:fire_wood": {
           "Count": "Int:8362"
         },
@@ -6449,7 +6449,7 @@
           "Count": "Int:161"
         }
       },
-      "DSD:LK-3227": {
+      "DSD:kaburupitiya": {
         "CookingFuel:fire_wood": {
           "Count": "Int:8533"
         },
@@ -6475,7 +6475,7 @@
           "Count": "Int:237"
         }
       },
-      "DSD:LK-5248": {
+      "DSD:pottuvil": {
         "CookingFuel:fire_wood": {
           "Count": "Int:5498"
         },
@@ -6501,7 +6501,7 @@
           "Count": "Int:141"
         }
       },
-      "DSD:LK-6139": {
+      "DSD:kobeigane": {
         "CookingFuel:fire_wood": {
           "Count": "Int:10101"
         },
@@ -6527,7 +6527,7 @@
           "Count": "Int:109"
         }
       },
-      "DSD:LK-6149": {
+      "DSD:bamunakotuwa": {
         "CookingFuel:fire_wood": {
           "Count": "Int:9619"
         },
@@ -6553,7 +6553,7 @@
           "Count": "Int:153"
         }
       },
-      "DSD:LK-4106": {
+      "DSD:valikamam_west_chankanai": {
         "CookingFuel:fire_wood": {
           "Count": "Int:8282"
         },
@@ -6579,7 +6579,7 @@
           "Count": "Int:100"
         }
       },
-      "DSD:LK-2302": {
+      "DSD:kothmale_west": {
         "CookingFuel:fire_wood": {
           "Count": "Int:9262"
         },
@@ -6605,7 +6605,7 @@
           "Count": "Int:36"
         }
       },
-      "DSD:LK-7118": {
+      "DSD:rambewa": {
         "CookingFuel:fire_wood": {
           "Count": "Int:9127"
         },
@@ -6631,7 +6631,7 @@
           "Count": "Int:98"
         }
       },
-      "DSD:LK-7130": {
+      "DSD:mihinthale": {
         "CookingFuel:fire_wood": {
           "Count": "Int:6666"
         },
@@ -6657,7 +6657,7 @@
           "Count": "Int:169"
         }
       },
-      "DSD:LK-5242": {
+      "DSD:damana": {
         "CookingFuel:fire_wood": {
           "Count": "Int:9963"
         },
@@ -6683,7 +6683,7 @@
           "Count": "Int:75"
         }
       },
-      "DSD:LK-7163": {
+      "DSD:galnewa": {
         "CookingFuel:fire_wood": {
           "Count": "Int:9712"
         },
@@ -6709,7 +6709,7 @@
           "Count": "Int:105"
         }
       },
-      "DSD:LK-5133": {
+      "DSD:porativu_pattu": {
         "CookingFuel:fire_wood": {
           "Count": "Int:7464"
         },
@@ -6735,7 +6735,7 @@
           "Count": "Int:27"
         }
       },
-      "DSD:LK-7209": {
+      "DSD:lankapura": {
         "CookingFuel:fire_wood": {
           "Count": "Int:7853"
         },
@@ -6761,7 +6761,7 @@
           "Count": "Int:96"
         }
       },
-      "DSD:LK-4121": {
+      "DSD:vadamaradchchi_south_west_karaveddy": {
         "CookingFuel:fire_wood": {
           "Count": "Int:5908"
         },
@@ -6787,7 +6787,7 @@
           "Count": "Int:161"
         }
       },
-      "DSD:LK-7124": {
+      "DSD:horowpathana": {
         "CookingFuel:fire_wood": {
           "Count": "Int:8994"
         },
@@ -6813,7 +6813,7 @@
           "Count": "Int:76"
         }
       },
-      "DSD:LK-5306": {
+      "DSD:kuchchaweli": {
         "CookingFuel:fire_wood": {
           "Count": "Int:4437"
         },
@@ -6839,7 +6839,7 @@
           "Count": "Int:125"
         }
       },
-      "DSD:LK-8142": {
+      "DSD:haldummulla": {
         "CookingFuel:fire_wood": {
           "Count": "Int:9998"
         },
@@ -6865,7 +6865,7 @@
           "Count": "Int:35"
         }
       },
-      "DSD:LK-7166": {
+      "DSD:palagala": {
         "CookingFuel:fire_wood": {
           "Count": "Int:10042"
         },
@@ -6891,7 +6891,7 @@
           "Count": "Int:59"
         }
       },
-      "DSD:LK-7210": {
+      "DSD:welikanda": {
         "CookingFuel:fire_wood": {
           "Count": "Int:8907"
         },
@@ -6917,7 +6917,7 @@
           "Count": "Int:61"
         }
       },
-      "DSD:LK-4409": {
+      "DSD:puthukkudiyiruppu": {
         "CookingFuel:fire_wood": {
           "Count": "Int:8247"
         },
@@ -6943,7 +6943,7 @@
           "Count": "Int:56"
         }
       },
-      "DSD:LK-9127": {
+      "DSD:elapatha": {
         "CookingFuel:fire_wood": {
           "Count": "Int:9121"
         },
@@ -6969,7 +6969,7 @@
           "Count": "Int:85"
         }
       },
-      "DSD:LK-2103": {
+      "DSD:tumpane": {
         "CookingFuel:fire_wood": {
           "Count": "Int:7684"
         },
@@ -6995,7 +6995,7 @@
           "Count": "Int:92"
         }
       },
-      "DSD:LK-6166": {
+      "DSD:weerabugedara": {
         "CookingFuel:fire_wood": {
           "Count": "Int:8131"
         },
@@ -7021,7 +7021,7 @@
           "Count": "Int:93"
         }
       },
-      "DSD:LK-3137": {
+      "DSD:rathgama": {
         "CookingFuel:fire_wood": {
           "Count": "Int:5090"
         },
@@ -7047,7 +7047,7 @@
           "Count": "Int:222"
         }
       },
-      "DSD:LK-7142": {
+      "DSD:rajanganaya": {
         "CookingFuel:fire_wood": {
           "Count": "Int:9250"
         },
@@ -7073,7 +7073,7 @@
           "Count": "Int:95"
         }
       },
-      "DSD:LK-9145": {
+      "DSD:weligepola": {
         "CookingFuel:fire_wood": {
           "Count": "Int:9996"
         },
@@ -7099,7 +7099,7 @@
           "Count": "Int:77"
         }
       },
-      "DSD:LK-6103": {
+      "DSD:giribawa": {
         "CookingFuel:fire_wood": {
           "Count": "Int:9658"
         },
@@ -7125,7 +7125,7 @@
           "Count": "Int:58"
         }
       },
-      "DSD:LK-1333": {
+      "DSD:agalawatta": {
         "CookingFuel:fire_wood": {
           "Count": "Int:6507"
         },
@@ -7151,7 +7151,7 @@
           "Count": "Int:78"
         }
       },
-      "DSD:LK-4415": {
+      "DSD:maritimepattu": {
         "CookingFuel:fire_wood": {
           "Count": "Int:6155"
         },
@@ -7177,7 +7177,7 @@
           "Count": "Int:64"
         }
       },
-      "DSD:LK-5127": {
+      "DSD:manmunai_pattu": {
         "CookingFuel:fire_wood": {
           "Count": "Int:3825"
         },
@@ -7203,7 +7203,7 @@
           "Count": "Int:165"
         }
       },
-      "DSD:LK-1315": {
+      "DSD:madurawala": {
         "CookingFuel:fire_wood": {
           "Count": "Int:6184"
         },
@@ -7229,7 +7229,7 @@
           "Count": "Int:138"
         }
       },
-      "DSD:LK-3306": {
+      "DSD:lunugamwehera": {
         "CookingFuel:fire_wood": {
           "Count": "Int:7803"
         },
@@ -7255,7 +7255,7 @@
           "Count": "Int:76"
         }
       },
-      "DSD:LK-3115": {
+      "DSD:niyagama": {
         "CookingFuel:fire_wood": {
           "Count": "Int:7337"
         },
@@ -7281,7 +7281,7 @@
           "Count": "Int:81"
         }
       },
-      "DSD:LK-8206": {
+      "DSD:madulla": {
         "CookingFuel:fire_wood": {
           "Count": "Int:9184"
         },
@@ -7307,7 +7307,7 @@
           "Count": "Int:33"
         }
       },
-      "DSD:LK-3224": {
+      "DSD:malimbada": {
         "CookingFuel:fire_wood": {
           "Count": "Int:5894"
         },
@@ -7333,7 +7333,7 @@
           "Count": "Int:141"
         }
       },
-      "DSD:LK-2227": {
+      "DSD:wilgamuwa": {
         "CookingFuel:fire_wood": {
           "Count": "Int:9509"
         },
@@ -7359,7 +7359,7 @@
           "Count": "Int:52"
         }
       },
-      "DSD:LK-2307": {
+      "DSD:mathurata": {
         "CookingFuel:fire_wood": {
           "Count": "Int:8732"
         },
@@ -7385,7 +7385,7 @@
           "Count": "Int:19"
         }
       },
-      "DSD:LK-3236": {
+      "DSD:thihagoda": {
         "CookingFuel:fire_wood": {
           "Count": "Int:5461"
         },
@@ -7411,7 +7411,7 @@
           "Count": "Int:158"
         }
       },
-      "DSD:LK-5121": {
+      "DSD:manmunai_west": {
         "CookingFuel:fire_wood": {
           "Count": "Int:8371"
         },
@@ -7437,7 +7437,7 @@
           "Count": "Int:11"
         }
       },
-      "DSD:LK-9109": {
+      "DSD:kiriella": {
         "CookingFuel:fire_wood": {
           "Count": "Int:7816"
         },
@@ -7463,7 +7463,7 @@
           "Count": "Int:106"
         }
       },
-      "DSD:LK-8230": {
+      "DSD:thanamalwila": {
         "CookingFuel:fire_wood": {
           "Count": "Int:8376"
         },
@@ -7489,7 +7489,7 @@
           "Count": "Int:94"
         }
       },
-      "DSD:LK-3118": {
+      "DSD:thawalama": {
         "CookingFuel:fire_wood": {
           "Count": "Int:7406"
         },
@@ -7515,7 +7515,7 @@
           "Count": "Int:71"
         }
       },
-      "DSD:LK-5318": {
+      "DSD:thambalagamuwa": {
         "CookingFuel:fire_wood": {
           "Count": "Int:4749"
         },
@@ -7541,7 +7541,7 @@
           "Count": "Int:43"
         }
       },
-      "DSD:LK-6148": {
+      "DSD:panduwasnuwara_east": {
         "CookingFuel:fire_wood": {
           "Count": "Int:8491"
         },
@@ -7567,7 +7567,7 @@
           "Count": "Int:118"
         }
       },
-      "DSD:LK-8119": {
+      "DSD:lunugala": {
         "CookingFuel:fire_wood": {
           "Count": "Int:8356"
         },
@@ -7593,7 +7593,7 @@
           "Count": "Int:15"
         }
       },
-      "DSD:LK-3135": {
+      "DSD:madampagama": {
         "CookingFuel:fire_wood": {
           "Count": "Int:4224"
         },
@@ -7619,7 +7619,7 @@
           "Count": "Int:209"
         }
       },
-      "DSD:LK-2212": {
+      "DSD:pallepola": {
         "CookingFuel:fire_wood": {
           "Count": "Int:7815"
         },
@@ -7645,7 +7645,7 @@
           "Count": "Int:66"
         }
       },
-      "DSD:LK-3230": {
+      "DSD:hakmana": {
         "CookingFuel:fire_wood": {
           "Count": "Int:6637"
         },
@@ -7671,7 +7671,7 @@
           "Count": "Int:126"
         }
       },
-      "DSD:LK-3215": {
+      "DSD:athuraliya": {
         "CookingFuel:fire_wood": {
           "Count": "Int:7262"
         },
@@ -7697,7 +7697,7 @@
           "Count": "Int:97"
         }
       },
-      "DSD:LK-7151": {
+      "DSD:thirappane": {
         "CookingFuel:fire_wood": {
           "Count": "Int:7120"
         },
@@ -7723,7 +7723,7 @@
           "Count": "Int:71"
         }
       },
-      "DSD:LK-2215": {
+      "DSD:yatawatta": {
         "CookingFuel:fire_wood": {
           "Count": "Int:7807"
         },
@@ -7749,7 +7749,7 @@
           "Count": "Int:50"
         }
       },
-      "DSD:LK-2209": {
+      "DSD:naula": {
         "CookingFuel:fire_wood": {
           "Count": "Int:7651"
         },
@@ -7775,7 +7775,7 @@
           "Count": "Int:56"
         }
       },
-      "DSD:LK-2148": {
+      "DSD:deltota": {
         "CookingFuel:fire_wood": {
           "Count": "Int:6799"
         },
@@ -7801,7 +7801,7 @@
           "Count": "Int:39"
         }
       },
-      "DSD:LK-5221": {
+      "DSD:kalmunai_north": {
         "CookingFuel:fire_wood": {
           "Count": "Int:1817"
         },
@@ -7827,7 +7827,7 @@
           "Count": "Int:122"
         }
       },
-      "DSD:LK-5225": {
+      "DSD:sainthamaruthu": {
         "CookingFuel:fire_wood": {
           "Count": "Int:680"
         },
@@ -7853,7 +7853,7 @@
           "Count": "Int:125"
         }
       },
-      "DSD:LK-9130": {
+      "DSD:ayagama": {
         "CookingFuel:fire_wood": {
           "Count": "Int:7973"
         },
@@ -7879,7 +7879,7 @@
           "Count": "Int:43"
         }
       },
-      "DSD:LK-5230": {
+      "DSD:nintavur": {
         "CookingFuel:fire_wood": {
           "Count": "Int:2122"
         },
@@ -7905,7 +7905,7 @@
           "Count": "Int:100"
         }
       },
-      "DSD:LK-2134": {
+      "DSD:hatharaliyadda": {
         "CookingFuel:fire_wood": {
           "Count": "Int:7793"
         },
@@ -7931,7 +7931,7 @@
           "Count": "Int:45"
         }
       },
-      "DSD:LK-3130": {
+      "DSD:welivitiya_divitura": {
         "CookingFuel:fire_wood": {
           "Count": "Int:6385"
         },
@@ -7957,7 +7957,7 @@
           "Count": "Int:87"
         }
       },
-      "DSD:LK-5110": {
+      "DSD:koralai_pattu_south": {
         "CookingFuel:fire_wood": {
           "Count": "Int:6746"
         },
@@ -7983,7 +7983,7 @@
           "Count": "Int:25"
         }
       },
-      "DSD:LK-5104": {
+      "DSD:koralai_pattu_central": {
         "CookingFuel:fire_wood": {
           "Count": "Int:1623"
         },
@@ -8009,7 +8009,7 @@
           "Count": "Int:64"
         }
       },
-      "DSD:LK-3121": {
+      "DSD:neluwa": {
         "CookingFuel:fire_wood": {
           "Count": "Int:6217"
         },
@@ -8035,7 +8035,7 @@
           "Count": "Int:100"
         }
       },
-      "DSD:LK-5109": {
+      "DSD:koralai_pattu": {
         "CookingFuel:fire_wood": {
           "Count": "Int:3930"
         },
@@ -8061,7 +8061,7 @@
           "Count": "Int:33"
         }
       },
-      "DSD:LK-5245": {
+      "DSD:tirukkovil": {
         "CookingFuel:fire_wood": {
           "Count": "Int:4072"
         },
@@ -8087,7 +8087,7 @@
           "Count": "Int:30"
         }
       },
-      "DSD:LK-6227": {
+      "DSD:pallama": {
         "CookingFuel:fire_wood": {
           "Count": "Int:6940"
         },
@@ -8113,7 +8113,7 @@
           "Count": "Int:62"
         }
       },
-      "DSD:LK-7136": {
+      "DSD:nachchaduwa": {
         "CookingFuel:fire_wood": {
           "Count": "Int:6212"
         },
@@ -8139,7 +8139,7 @@
           "Count": "Int:102"
         }
       },
-      "DSD:LK-6109": {
+      "DSD:ehetuwewa": {
         "CookingFuel:fire_wood": {
           "Count": "Int:7371"
         },
@@ -8165,7 +8165,7 @@
           "Count": "Int:108"
         }
       },
-      "DSD:LK-9121": {
+      "DSD:opanayake": {
         "CookingFuel:fire_wood": {
           "Count": "Int:7125"
         },
@@ -8191,7 +8191,7 @@
           "Count": "Int:57"
         }
       },
-      "DSD:LK-6209": {
+      "DSD:karuwalagaswewa": {
         "CookingFuel:fire_wood": {
           "Count": "Int:7132"
         },
@@ -8217,7 +8217,7 @@
           "Count": "Int:82"
         }
       },
-      "DSD:LK-3128": {
+      "DSD:wanduramba": {
         "CookingFuel:fire_wood": {
           "Count": "Int:4921"
         },
@@ -8243,7 +8243,7 @@
           "Count": "Int:106"
         }
       },
-      "DSD:LK-5103": {
+      "DSD:koralai_pattu_north": {
         "CookingFuel:fire_wood": {
           "Count": "Int:6988"
         },
@@ -8269,7 +8269,7 @@
           "Count": "Int:21"
         }
       },
-      "DSD:LK-6112": {
+      "DSD:ambanpola": {
         "CookingFuel:fire_wood": {
           "Count": "Int:6772"
         },
@@ -8295,7 +8295,7 @@
           "Count": "Int:78"
         }
       },
-      "DSD:LK-8112": {
+      "DSD:kandeketiya": {
         "CookingFuel:fire_wood": {
           "Count": "Int:7310"
         },
@@ -8321,7 +8321,7 @@
           "Count": "Int:28"
         }
       },
-      "DSD:LK-5130": {
+      "DSD:manmunai_south_west": {
         "CookingFuel:fire_wood": {
           "Count": "Int:5161"
         },
@@ -8347,7 +8347,7 @@
           "Count": "Int:19"
         }
       },
-      "DSD:LK-7106": {
+      "DSD:kebithigollewa": {
         "CookingFuel:fire_wood": {
           "Count": "Int:6739"
         },
@@ -8373,7 +8373,7 @@
           "Count": "Int:66"
         }
       },
-      "DSD:LK-3136": {
+      "DSD:hikkaduwa": {
         "CookingFuel:fire_wood": {
           "Count": "Int:2257"
         },
@@ -8399,7 +8399,7 @@
           "Count": "Int:249"
         }
       },
-      "DSD:LK-2115": {
+      "DSD:panvila": {
         "CookingFuel:fire_wood": {
           "Count": "Int:6012"
         },
@@ -8425,7 +8425,7 @@
           "Count": "Int:35"
         }
       },
-      "DSD:LK-6118": {
+      "DSD:rasnayakapura": {
         "CookingFuel:fire_wood": {
           "Count": "Int:6555"
         },
@@ -8451,7 +8451,7 @@
           "Count": "Int:97"
         }
       },
-      "DSD:LK-5106": {
+      "DSD:koralai_pattu_west": {
         "CookingFuel:fire_wood": {
           "Count": "Int:1863"
         },
@@ -8477,7 +8477,7 @@
           "Count": "Int:88"
         }
       },
-      "DSD:LK-5115": {
+      "DSD:eravur_town": {
         "CookingFuel:fire_wood": {
           "Count": "Int:1179"
         },
@@ -8503,7 +8503,7 @@
           "Count": "Int:62"
         }
       },
-      "DSD:LK-7103": {
+      "DSD:padaviya": {
         "CookingFuel:fire_wood": {
           "Count": "Int:6457"
         },
@@ -8529,7 +8529,7 @@
           "Count": "Int:28"
         }
       },
-      "DSD:LK-8115": {
+      "DSD:soranathota": {
         "CookingFuel:fire_wood": {
           "Count": "Int:6579"
         },
@@ -8555,7 +8555,7 @@
           "Count": "Int:14"
         }
       },
-      "DSD:LK-7112": {
+      "DSD:mahawilachchiya": {
         "CookingFuel:fire_wood": {
           "Count": "Int:6584"
         },
@@ -8581,7 +8581,7 @@
           "Count": "Int:28"
         }
       },
-      "DSD:LK-4312": {
+      "DSD:vengalacheddikulam": {
         "CookingFuel:fire_wood": {
           "Count": "Int:5786"
         },
@@ -8607,7 +8607,7 @@
           "Count": "Int:17"
         }
       },
-      "DSD:LK-5239": {
+      "DSD:alayadivembu": {
         "CookingFuel:fire_wood": {
           "Count": "Int:2674"
         },
@@ -8633,7 +8633,7 @@
           "Count": "Int:50"
         }
       },
-      "DSD:LK-6115": {
+      "DSD:kotawehera": {
         "CookingFuel:fire_wood": {
           "Count": "Int:6288"
         },
@@ -8659,7 +8659,7 @@
           "Count": "Int:76"
         }
       },
-      "DSD:LK-5209": {
+      "DSD:mahaoya": {
         "CookingFuel:fire_wood": {
           "Count": "Int:6497"
         },
@@ -8685,7 +8685,7 @@
           "Count": "Int:30"
         }
       },
-      "DSD:LK-4506": {
+      "DSD:kandavalai": {
         "CookingFuel:fire_wood": {
           "Count": "Int:5541"
         },
@@ -8711,7 +8711,7 @@
           "Count": "Int:31"
         }
       },
-      "DSD:LK-2118": {
+      "DSD:ududumbara": {
         "CookingFuel:fire_wood": {
           "Count": "Int:6373"
         },
@@ -8737,7 +8737,7 @@
           "Count": "Int:20"
         }
       },
-      "DSD:LK-3134": {
+      "DSD:gonapinuwala": {
         "CookingFuel:fire_wood": {
           "Count": "Int:3549"
         },
@@ -8763,7 +8763,7 @@
           "Count": "Int:159"
         }
       },
-      "DSD:LK-6221": {
+      "DSD:mahakumbukkadawala": {
         "CookingFuel:fire_wood": {
           "Count": "Int:5835"
         },
@@ -8789,7 +8789,7 @@
           "Count": "Int:66"
         }
       },
-      "DSD:LK-8109": {
+      "DSD:meegahakiula": {
         "CookingFuel:fire_wood": {
           "Count": "Int:6068"
         },
@@ -8815,7 +8815,7 @@
           "Count": "Int:59"
         }
       },
-      "DSD:LK-5216": {
+      "DSD:navithanveli": {
         "CookingFuel:fire_wood": {
           "Count": "Int:3555"
         },
@@ -8841,7 +8841,7 @@
           "Count": "Int:14"
         }
       },
-      "DSD:LK-4512": {
+      "DSD:poonakary": {
         "CookingFuel:fire_wood": {
           "Count": "Int:5828"
         },
@@ -8867,7 +8867,7 @@
           "Count": "Int:17"
         }
       },
-      "DSD:LK-5206": {
+      "DSD:padiyathalawa": {
         "CookingFuel:fire_wood": {
           "Count": "Int:5654"
         },
@@ -8893,7 +8893,7 @@
           "Count": "Int:45"
         }
       },
-      "DSD:LK-6206": {
+      "DSD:vanathavilluwa": {
         "CookingFuel:fire_wood": {
           "Count": "Int:4554"
         },
@@ -8919,7 +8919,7 @@
           "Count": "Int:59"
         }
       },
-      "DSD:LK-3233": {
+      "DSD:kirinda_puhulwella": {
         "CookingFuel:fire_wood": {
           "Count": "Int:4085"
         },
@@ -8945,7 +8945,7 @@
           "Count": "Int:84"
         }
       },
-      "DSD:LK-3327": {
+      "DSD:okewela": {
         "CookingFuel:fire_wood": {
           "Count": "Int:4641"
         },
@@ -8971,7 +8971,7 @@
           "Count": "Int:47"
         }
       },
-      "DSD:LK-8227": {
+      "DSD:katharagama": {
         "CookingFuel:fire_wood": {
           "Count": "Int:3623"
         },
@@ -8997,7 +8997,7 @@
           "Count": "Int:87"
         }
       },
-      "DSD:LK-4212": {
+      "DSD:nanaddan": {
         "CookingFuel:fire_wood": {
           "Count": "Int:3012"
         },
@@ -9023,7 +9023,7 @@
           "Count": "Int:41"
         }
       },
-      "DSD:LK-5227": {
+      "DSD:karaitivu": {
         "CookingFuel:fire_wood": {
           "Count": "Int:1214"
         },
@@ -9049,7 +9049,7 @@
           "Count": "Int:52"
         }
       },
-      "DSD:LK-6212": {
+      "DSD:nawagattegama": {
         "CookingFuel:fire_wood": {
           "Count": "Int:5004"
         },
@@ -9075,7 +9075,7 @@
           "Count": "Int:45"
         }
       },
-      "DSD:LK-7157": {
+      "DSD:palugaswewa": {
         "CookingFuel:fire_wood": {
           "Count": "Int:4024"
         },
@@ -9101,7 +9101,7 @@
           "Count": "Int:57"
         }
       },
-      "DSD:LK-4206": {
+      "DSD:manthai_west": {
         "CookingFuel:fire_wood": {
           "Count": "Int:3818"
         },
@@ -9127,7 +9127,7 @@
           "Count": "Int:13"
         }
       },
-      "DSD:LK-4412": {
+      "DSD:oddusuddan": {
         "CookingFuel:fire_wood": {
           "Count": "Int:4488"
         },
@@ -9153,7 +9153,7 @@
           "Count": "Int:38"
         }
       },
-      "DSD:LK-2224": {
+      "DSD:laggala": {
         "CookingFuel:fire_wood": {
           "Count": "Int:4719"
         },
@@ -9179,7 +9179,7 @@
           "Count": "Int:24"
         }
       },
-      "DSD:LK-2221": {
+      "DSD:ambanganga": {
         "CookingFuel:fire_wood": {
           "Count": "Int:4422"
         },
@@ -9205,7 +9205,7 @@
           "Count": "Int:20"
         }
       },
-      "DSD:LK-5330": {
+      "DSD:seruvila": {
         "CookingFuel:fire_wood": {
           "Count": "Int:3650"
         },
@@ -9231,7 +9231,7 @@
           "Count": "Int:51"
         }
       },
-      "DSD:LK-5234": {
+      "DSD:irakkamam": {
         "CookingFuel:fire_wood": {
           "Count": "Int:1627"
         },
@@ -9257,7 +9257,7 @@
           "Count": "Int:29"
         }
       },
-      "DSD:LK-4306": {
+      "DSD:vavuniya_south": {
         "CookingFuel:fire_wood": {
           "Count": "Int:3764"
         },
@@ -9283,7 +9283,7 @@
           "Count": "Int:24"
         }
       },
-      "DSD:LK-4139": {
+      "DSD:islands_south_velanai": {
         "CookingFuel:fire_wood": {
           "Count": "Int:3499"
         },
@@ -9309,7 +9309,7 @@
           "Count": "Int:22"
         }
       },
-      "DSD:LK-4215": {
+      "DSD:musali": {
         "CookingFuel:fire_wood": {
           "Count": "Int:2798"
         },
@@ -9335,7 +9335,7 @@
           "Count": "Int:6"
         }
       },
-      "DSD:LK-4303": {
+      "DSD:vavuniya_north": {
         "CookingFuel:fire_wood": {
           "Count": "Int:3462"
         },
@@ -9361,7 +9361,7 @@
           "Count": "Int:4"
         }
       },
-      "DSD:LK-4124": {
+      "DSD:vadamaradchchi_east": {
         "CookingFuel:fire_wood": {
           "Count": "Int:3053"
         },
@@ -9387,7 +9387,7 @@
           "Count": "Int:50"
         }
       },
-      "DSD:LK-9119": {
+      "DSD:kalthota": {
         "CookingFuel:fire_wood": {
           "Count": "Int:3802"
         },
@@ -9413,7 +9413,7 @@
           "Count": "Int:28"
         }
       },
-      "DSD:LK-5333": {
+      "DSD:verugal": {
         "CookingFuel:fire_wood": {
           "Count": "Int:3677"
         },
@@ -9439,7 +9439,7 @@
           "Count": "Int:5"
         }
       },
-      "DSD:LK-4503": {
+      "DSD:pachchilaipalli": {
         "CookingFuel:fire_wood": {
           "Count": "Int:3389"
         },
@@ -9465,7 +9465,7 @@
           "Count": "Int:5"
         }
       },
-      "DSD:LK-5303": {
+      "DSD:padavi_sri_pura": {
         "CookingFuel:fire_wood": {
           "Count": "Int:3090"
         },
@@ -9491,7 +9491,7 @@
           "Count": "Int:14"
         }
       },
-      "DSD:LK-4418": {
+      "DSD:welioya": {
         "CookingFuel:fire_wood": {
           "Count": "Int:2788"
         },
@@ -9517,7 +9517,7 @@
           "Count": "Int:14"
         }
       },
-      "DSD:LK-5251": {
+      "DSD:lahugala": {
         "CookingFuel:fire_wood": {
           "Count": "Int:2122"
         },
@@ -9543,7 +9543,7 @@
           "Count": "Int:26"
         }
       },
-      "DSD:LK-4403": {
+      "DSD:thunukkai": {
         "CookingFuel:fire_wood": {
           "Count": "Int:2253"
         },
@@ -9569,7 +9569,7 @@
           "Count": "Int:23"
         }
       },
-      "DSD:LK-5312": {
+      "DSD:morawewa": {
         "CookingFuel:fire_wood": {
           "Count": "Int:2137"
         },
@@ -9595,7 +9595,7 @@
           "Count": "Int:28"
         }
       },
-      "DSD:LK-4209": {
+      "DSD:madhu": {
         "CookingFuel:fire_wood": {
           "Count": "Int:2305"
         },
@@ -9621,7 +9621,7 @@
           "Count": "Int:29"
         }
       },
-      "DSD:LK-4103": {
+      "DSD:islands_north_kayts": {
         "CookingFuel:fire_wood": {
           "Count": "Int:1961"
         },
@@ -9647,7 +9647,7 @@
           "Count": "Int:12"
         }
       },
-      "DSD:LK-4104": {
+      "DSD:karainagar": {
         "CookingFuel:fire_wood": {
           "Count": "Int:2444"
         },
@@ -9673,7 +9673,7 @@
           "Count": "Int:9"
         }
       },
-      "DSD:LK-5309": {
+      "DSD:gomarankadawala": {
         "CookingFuel:fire_wood": {
           "Count": "Int:2034"
         },
@@ -9699,7 +9699,7 @@
           "Count": "Int:7"
         }
       },
-      "DSD:LK-4406": {
+      "DSD:manthai_east": {
         "CookingFuel:fire_wood": {
           "Count": "Int:1709"
         },
@@ -9725,7 +9725,7 @@
           "Count": "Int:19"
         }
       },
-      "DSD:LK-4142": {
+      "DSD:delft": {
         "CookingFuel:fire_wood": {
           "Count": "Int:822"
         },
@@ -9751,7 +9751,7 @@
           "Count": "Int:7"
         }
       },
-      "ED:EC-02": {
+      "ED:gampaha": {
         "CookingFuel:fire_wood": {
           "Count": "Int:218798"
         },
@@ -9777,7 +9777,7 @@
           "Count": "Int:20826"
         }
       },
-      "ED:EC-01": {
+      "ED:colombo": {
         "CookingFuel:fire_wood": {
           "Count": "Int:65584"
         },
@@ -9803,7 +9803,7 @@
           "Count": "Int:13853"
         }
       },
-      "ED:EC-15": {
+      "ED:kurunegala": {
         "CookingFuel:fire_wood": {
           "Count": "Int:394682"
         },
@@ -9829,7 +9829,7 @@
           "Count": "Int:5911"
         }
       },
-      "ED:EC-04": {
+      "ED:kandy": {
         "CookingFuel:fire_wood": {
           "Count": "Int:231787"
         },
@@ -9855,7 +9855,7 @@
           "Count": "Int:2609"
         }
       },
-      "ED:EC-03": {
+      "ED:kalutara": {
         "CookingFuel:fire_wood": {
           "Count": "Int:149395"
         },
@@ -9881,7 +9881,7 @@
           "Count": "Int:3596"
         }
       },
-      "ED:EC-21": {
+      "ED:ratnapura": {
         "CookingFuel:fire_wood": {
           "Count": "Int:255732"
         },
@@ -9907,7 +9907,7 @@
           "Count": "Int:2597"
         }
       },
-      "ED:EC-07": {
+      "ED:galle": {
         "CookingFuel:fire_wood": {
           "Count": "Int:160388"
         },
@@ -9933,7 +9933,7 @@
           "Count": "Int:4357"
         }
       },
-      "ED:EC-17": {
+      "ED:anuradhapura": {
         "CookingFuel:fire_wood": {
           "Count": "Int:205964"
         },
@@ -9959,7 +9959,7 @@
           "Count": "Int:2265"
         }
       },
-      "ED:EC-19": {
+      "ED:badulla": {
         "CookingFuel:fire_wood": {
           "Count": "Int:200159"
         },
@@ -9985,7 +9985,7 @@
           "Count": "Int:1144"
         }
       },
-      "ED:EC-22": {
+      "ED:kegalle": {
         "CookingFuel:fire_wood": {
           "Count": "Int:177937"
         },
@@ -10011,7 +10011,7 @@
           "Count": "Int:1803"
         }
       },
-      "ED:EC-16": {
+      "ED:puttalam": {
         "CookingFuel:fire_wood": {
           "Count": "Int:140282"
         },
@@ -10037,7 +10037,7 @@
           "Count": "Int:3332"
         }
       },
-      "ED:EC-08": {
+      "ED:matara": {
         "CookingFuel:fire_wood": {
           "Count": "Int:141321"
         },
@@ -10063,7 +10063,7 @@
           "Count": "Int:2995"
         }
       },
-      "ED:EC-13": {
+      "ED:digamadulla": {
         "CookingFuel:fire_wood": {
           "Count": "Int:100055"
         },
@@ -10089,7 +10089,7 @@
           "Count": "Int:1711"
         }
       },
-      "ED:EC-06": {
+      "ED:nuwara_eliya": {
         "CookingFuel:fire_wood": {
           "Count": "Int:143947"
         },
@@ -10115,7 +10115,7 @@
           "Count": "Int:684"
         }
       },
-      "ED:EC-10": {
+      "ED:jaffna": {
         "CookingFuel:fire_wood": {
           "Count": "Int:115921"
         },
@@ -10141,7 +10141,7 @@
           "Count": "Int:1679"
         }
       },
-      "ED:EC-09": {
+      "ED:hambantota": {
         "CookingFuel:fire_wood": {
           "Count": "Int:136455"
         },
@@ -10167,7 +10167,7 @@
           "Count": "Int:1939"
         }
       },
-      "ED:EC-12": {
+      "ED:batticaloa": {
         "CookingFuel:fire_wood": {
           "Count": "Int:72649"
         },
@@ -10193,7 +10193,7 @@
           "Count": "Int:1016"
         }
       },
-      "ED:EC-20": {
+      "ED:moneragala": {
         "CookingFuel:fire_wood": {
           "Count": "Int:126881"
         },
@@ -10219,7 +10219,7 @@
           "Count": "Int:924"
         }
       },
-      "ED:EC-05": {
+      "ED:matale": {
         "CookingFuel:fire_wood": {
           "Count": "Int:114015"
         },
@@ -10245,7 +10245,7 @@
           "Count": "Int:1072"
         }
       },
-      "ED:EC-18": {
+      "ED:polonnaruwa": {
         "CookingFuel:fire_wood": {
           "Count": "Int:98828"
         },
@@ -10271,7 +10271,7 @@
           "Count": "Int:1061"
         }
       },
-      "ED:EC-14": {
+      "ED:trincomalee": {
         "CookingFuel:fire_wood": {
           "Count": "Int:59651"
         },
@@ -10297,7 +10297,7 @@
           "Count": "Int:1225"
         }
       },
-      "ED:EC-11": {
+      "ED:vanni": {
         "CookingFuel:fire_wood": {
           "Count": "Int:71015"
         },
@@ -10323,7 +10323,7 @@
           "Count": "Int:636"
         }
       },
-      "PD:EC-06A": {
+      "PD:nuwara_eliya_maskeliya": {
         "CookingFuel:fire_wood": {
           "Count": "Int:70809"
         },
@@ -10349,7 +10349,7 @@
           "Count": "Int:392"
         }
       },
-      "PD:EC-12B": {
+      "PD:batticaloa": {
         "CookingFuel:fire_wood": {
           "Count": "Int:26201"
         },
@@ -10375,7 +10375,7 @@
           "Count": "Int:662"
         }
       },
-      "PD:EC-01J": {
+      "PD:kaduwela": {
         "CookingFuel:fire_wood": {
           "Count": "Int:6820"
         },
@@ -10401,7 +10401,7 @@
           "Count": "Int:1539"
         }
       },
-      "PD:EC-01L": {
+      "PD:homagama": {
         "CookingFuel:fire_wood": {
           "Count": "Int:11640"
         },
@@ -10427,7 +10427,7 @@
           "Count": "Int:1609"
         }
       },
-      "PD:EC-01N": {
+      "PD:kesbewa": {
         "CookingFuel:fire_wood": {
           "Count": "Int:5617"
         },
@@ -10453,7 +10453,7 @@
           "Count": "Int:1820"
         }
       },
-      "PD:EC-02C": {
+      "PD:katana": {
         "CookingFuel:fire_wood": {
           "Count": "Int:19528"
         },
@@ -10479,7 +10479,7 @@
           "Count": "Int:5756"
         }
       },
-      "PD:EC-09D": {
+      "PD:thissamaharama": {
         "CookingFuel:fire_wood": {
           "Count": "Int:49911"
         },
@@ -10505,7 +10505,7 @@
           "Count": "Int:709"
         }
       },
-      "PD:EC-13D": {
+      "PD:pothuvil": {
         "CookingFuel:fire_wood": {
           "Count": "Int:26090"
         },
@@ -10531,7 +10531,7 @@
           "Count": "Int:619"
         }
       },
-      "PD:EC-13A": {
+      "PD:ampara": {
         "CookingFuel:fire_wood": {
           "Count": "Int:56421"
         },
@@ -10557,7 +10557,7 @@
           "Count": "Int:466"
         }
       },
-      "PD:EC-20C": {
+      "PD:wellawaya": {
         "CookingFuel:fire_wood": {
           "Count": "Int:56142"
         },
@@ -10583,7 +10583,7 @@
           "Count": "Int:519"
         }
       },
-      "PD:EC-16A": {
+      "PD:puttalam": {
         "CookingFuel:fire_wood": {
           "Count": "Int:31619"
         },
@@ -10609,7 +10609,7 @@
           "Count": "Int:589"
         }
       },
-      "PD:EC-02J": {
+      "PD:mahara": {
         "CookingFuel:fire_wood": {
           "Count": "Int:15428"
         },
@@ -10635,7 +10635,7 @@
           "Count": "Int:1020"
         }
       },
-      "PD:EC-21H": {
+      "PD:kolonna": {
         "CookingFuel:fire_wood": {
           "Count": "Int:47373"
         },
@@ -10661,7 +10661,7 @@
           "Count": "Int:587"
         }
       },
-      "PD:EC-18C": {
+      "PD:polonnaruwa": {
         "CookingFuel:fire_wood": {
           "Count": "Int:45079"
         },
@@ -10687,7 +10687,7 @@
           "Count": "Int:591"
         }
       },
-      "PD:EC-02L": {
+      "PD:biyagama": {
         "CookingFuel:fire_wood": {
           "Count": "Int:8730"
         },
@@ -10713,7 +10713,7 @@
           "Count": "Int:3219"
         }
       },
-      "PD:EC-04B": {
+      "PD:harispattuwa": {
         "CookingFuel:fire_wood": {
           "Count": "Int:30247"
         },
@@ -10739,7 +10739,7 @@
           "Count": "Int:399"
         }
       },
-      "PD:EC-02H": {
+      "PD:gampaha": {
         "CookingFuel:fire_wood": {
           "Count": "Int:16063"
         },
@@ -10765,7 +10765,7 @@
           "Count": "Int:933"
         }
       },
-      "PD:EC-02I": {
+      "PD:ja_ela": {
         "CookingFuel:fire_wood": {
           "Count": "Int:9794"
         },
@@ -10791,7 +10791,7 @@
           "Count": "Int:1468"
         }
       },
-      "PD:EC-01M": {
+      "PD:maharagama": {
         "CookingFuel:fire_wood": {
           "Count": "Int:1821"
         },
@@ -10817,7 +10817,7 @@
           "Count": "Int:1236"
         }
       },
-      "PD:EC-02F": {
+      "PD:minuwangoda": {
         "CookingFuel:fire_wood": {
           "Count": "Int:23831"
         },
@@ -10843,7 +10843,7 @@
           "Count": "Int:1494"
         }
       },
-      "PD:EC-01H": {
+      "PD:kolonnawa": {
         "CookingFuel:fire_wood": {
           "Count": "Int:2648"
         },
@@ -10869,7 +10869,7 @@
           "Count": "Int:1104"
         }
       },
-      "PD:EC-03B": {
+      "PD:bandaragama": {
         "CookingFuel:fire_wood": {
           "Count": "Int:20670"
         },
@@ -10895,7 +10895,7 @@
           "Count": "Int:712"
         }
       },
-      "PD:EC-01K": {
+      "PD:avissawella": {
         "CookingFuel:fire_wood": {
           "Count": "Int:25236"
         },
@@ -10921,7 +10921,7 @@
           "Count": "Int:1442"
         }
       },
-      "PD:EC-05A": {
+      "PD:dambulla": {
         "CookingFuel:fire_wood": {
           "Count": "Int:44493"
         },
@@ -10947,7 +10947,7 @@
           "Count": "Int:479"
         }
       },
-      "PD:EC-02G": {
+      "PD:attanagalla": {
         "CookingFuel:fire_wood": {
           "Count": "Int:23722"
         },
@@ -10973,7 +10973,7 @@
           "Count": "Int:992"
         }
       },
-      "PD:EC-03C": {
+      "PD:horana": {
         "CookingFuel:fire_wood": {
           "Count": "Int:23605"
         },
@@ -10999,7 +10999,7 @@
           "Count": "Int:719"
         }
       },
-      "PD:EC-12A": {
+      "PD:kalkudah": {
         "CookingFuel:fire_wood": {
           "Count": "Int:28563"
         },
@@ -11025,7 +11025,7 @@
           "Count": "Int:242"
         }
       },
-      "PD:EC-17E": {
+      "PD:kalawewa": {
         "CookingFuel:fire_wood": {
           "Count": "Int:41344"
         },
@@ -11051,7 +11051,7 @@
           "Count": "Int:427"
         }
       },
-      "PD:EC-02E": {
+      "PD:mirigama": {
         "CookingFuel:fire_wood": {
           "Count": "Int:32603"
         },
@@ -11077,7 +11077,7 @@
           "Count": "Int:657"
         }
       },
-      "PD:EC-02A": {
+      "PD:wattala": {
         "CookingFuel:fire_wood": {
           "Count": "Int:5234"
         },
@@ -11103,7 +11103,7 @@
           "Count": "Int:837"
         }
       },
-      "PD:EC-14C": {
+      "PD:muttur": {
         "CookingFuel:fire_wood": {
           "Count": "Int:23237"
         },
@@ -11129,7 +11129,7 @@
           "Count": "Int:392"
         }
       },
-      "PD:EC-09C": {
+      "PD:tangalle": {
         "CookingFuel:fire_wood": {
           "Count": "Int:34120"
         },
@@ -11155,7 +11155,7 @@
           "Count": "Int:541"
         }
       },
-      "PD:EC-11B": {
+      "PD:vavuniya": {
         "CookingFuel:fire_wood": {
           "Count": "Int:27330"
         },
@@ -11181,7 +11181,7 @@
           "Count": "Int:211"
         }
       },
-      "PD:EC-16B": {
+      "PD:anamaduwa": {
         "CookingFuel:fire_wood": {
           "Count": "Int:40712"
         },
@@ -11207,7 +11207,7 @@
           "Count": "Int:445"
         }
       },
-      "PD:EC-02K": {
+      "PD:dompe": {
         "CookingFuel:fire_wood": {
           "Count": "Int:26694"
         },
@@ -11233,7 +11233,7 @@
           "Count": "Int:854"
         }
       },
-      "PD:EC-15C": {
+      "PD:yapahuwa": {
         "CookingFuel:fire_wood": {
           "Count": "Int:41100"
         },
@@ -11259,7 +11259,7 @@
           "Count": "Int:454"
         }
       },
-      "PD:EC-20B": {
+      "PD:monaragala": {
         "CookingFuel:fire_wood": {
           "Count": "Int:39009"
         },
@@ -11285,7 +11285,7 @@
           "Count": "Int:221"
         }
       },
-      "PD:EC-21B": {
+      "PD:ratnapura": {
         "CookingFuel:fire_wood": {
           "Count": "Int:30081"
         },
@@ -11311,7 +11311,7 @@
           "Count": "Int:313"
         }
       },
-      "PD:EC-16C": {
+      "PD:chilaw": {
         "CookingFuel:fire_wood": {
           "Count": "Int:27144"
         },
@@ -11337,7 +11337,7 @@
           "Count": "Int:999"
         }
       },
-      "PD:EC-02D": {
+      "PD:divulapitiya": {
         "CookingFuel:fire_wood": {
           "Count": "Int:30748"
         },
@@ -11363,7 +11363,7 @@
           "Count": "Int:908"
         }
       },
-      "PD:EC-17C": {
+      "PD:anuradhapura_east": {
         "CookingFuel:fire_wood": {
           "Count": "Int:23658"
         },
@@ -11389,7 +11389,7 @@
           "Count": "Int:473"
         }
       },
-      "PD:EC-17D": {
+      "PD:anuradhapura_west": {
         "CookingFuel:fire_wood": {
           "Count": "Int:33712"
         },
@@ -11415,7 +11415,7 @@
           "Count": "Int:324"
         }
       },
-      "PD:EC-01O": {
+      "PD:moratuwa": {
         "CookingFuel:fire_wood": {
           "Count": "Int:8496"
         },
@@ -11441,7 +11441,7 @@
           "Count": "Int:1380"
         }
       },
-      "PD:EC-03F": {
+      "PD:kalutara": {
         "CookingFuel:fire_wood": {
           "Count": "Int:13981"
         },
@@ -11467,7 +11467,7 @@
           "Count": "Int:453"
         }
       },
-      "PD:EC-21D": {
+      "PD:balangoda": {
         "CookingFuel:fire_wood": {
           "Count": "Int:35030"
         },
@@ -11493,7 +11493,7 @@
           "Count": "Int:374"
         }
       },
-      "PD:EC-19A": {
+      "PD:mahiyanganaya": {
         "CookingFuel:fire_wood": {
           "Count": "Int:38587"
         },
@@ -11519,7 +11519,7 @@
           "Count": "Int:196"
         }
       },
-      "PD:EC-03A": {
+      "PD:panadura": {
         "CookingFuel:fire_wood": {
           "Count": "Int:7351"
         },
@@ -11545,7 +11545,7 @@
           "Count": "Int:596"
         }
       },
-      "PD:EC-03G": {
+      "PD:beruwala": {
         "CookingFuel:fire_wood": {
           "Count": "Int:13392"
         },
@@ -11571,7 +11571,7 @@
           "Count": "Int:287"
         }
       },
-      "PD:EC-15A": {
+      "PD:galgamuwa": {
         "CookingFuel:fire_wood": {
           "Count": "Int:37674"
         },
@@ -11597,7 +11597,7 @@
           "Count": "Int:432"
         }
       },
-      "PD:EC-03E": {
+      "PD:mathugama": {
         "CookingFuel:fire_wood": {
           "Count": "Int:21556"
         },
@@ -11623,7 +11623,7 @@
           "Count": "Int:308"
         }
       },
-      "PD:EC-21E": {
+      "PD:rakwana": {
         "CookingFuel:fire_wood": {
           "Count": "Int:35472"
         },
@@ -11649,7 +11649,7 @@
           "Count": "Int:375"
         }
       },
-      "PD:EC-09A": {
+      "PD:mulkirigala": {
         "CookingFuel:fire_wood": {
           "Count": "Int:33426"
         },
@@ -11675,7 +11675,7 @@
           "Count": "Int:369"
         }
       },
-      "PD:EC-15I": {
+      "PD:kuliyapitiya": {
         "CookingFuel:fire_wood": {
           "Count": "Int:30208"
         },
@@ -11701,7 +11701,7 @@
           "Count": "Int:622"
         }
       },
-      "PD:EC-14B": {
+      "PD:trincomalee": {
         "CookingFuel:fire_wood": {
           "Count": "Int:11207"
         },
@@ -11727,7 +11727,7 @@
           "Count": "Int:591"
         }
       },
-      "PD:EC-04F": {
+      "PD:kundasale": {
         "CookingFuel:fire_wood": {
           "Count": "Int:20413"
         },
@@ -11753,7 +11753,7 @@
           "Count": "Int:289"
         }
       },
-      "PD:EC-15D": {
+      "PD:hiriyala": {
         "CookingFuel:fire_wood": {
           "Count": "Int:32945"
         },
@@ -11779,7 +11779,7 @@
           "Count": "Int:347"
         }
       },
-      "PD:EC-04L": {
+      "PD:gampola": {
         "CookingFuel:fire_wood": {
           "Count": "Int:23878"
         },
@@ -11805,7 +11805,7 @@
           "Count": "Int:201"
         }
       },
-      "PD:EC-01B": {
+      "PD:colombo_central": {
         "CookingFuel:fire_wood": {
           "Count": "Int:172"
         },
@@ -11831,7 +11831,7 @@
           "Count": "Int:1044"
         }
       },
-      "PD:EC-07I": {
+      "PD:akmeemana": {
         "CookingFuel:fire_wood": {
           "Count": "Int:13932"
         },
@@ -11857,7 +11857,7 @@
           "Count": "Int:606"
         }
       },
-      "PD:EC-15H": {
+      "PD:katugampola": {
         "CookingFuel:fire_wood": {
           "Count": "Int:28692"
         },
@@ -11883,7 +11883,7 @@
           "Count": "Int:801"
         }
       },
-      "PD:EC-15B": {
+      "PD:nikaweratiya": {
         "CookingFuel:fire_wood": {
           "Count": "Int:33527"
         },
@@ -11909,7 +11909,7 @@
           "Count": "Int:443"
         }
       },
-      "PD:EC-16E": {
+      "PD:wennappuwa": {
         "CookingFuel:fire_wood": {
           "Count": "Int:21477"
         },
@@ -11935,7 +11935,7 @@
           "Count": "Int:850"
         }
       },
-      "PD:EC-07E": {
+      "PD:hiniduma": {
         "CookingFuel:fire_wood": {
           "Count": "Int:27796"
         },
@@ -11961,7 +11961,7 @@
           "Count": "Int:381"
         }
       },
-      "PD:EC-08A": {
+      "PD:deniyaya": {
         "CookingFuel:fire_wood": {
           "Count": "Int:30267"
         },
@@ -11987,7 +11987,7 @@
           "Count": "Int:308"
         }
       },
-      "PD:EC-03H": {
+      "PD:agalawatta": {
         "CookingFuel:fire_wood": {
           "Count": "Int:27017"
         },
@@ -12013,7 +12013,7 @@
           "Count": "Int:240"
         }
       },
-      "PD:EC-17A": {
+      "PD:medawachchiya": {
         "CookingFuel:fire_wood": {
           "Count": "Int:30928"
         },
@@ -12039,7 +12039,7 @@
           "Count": "Int:267"
         }
       },
-      "PD:EC-13B": {
+      "PD:samanthurai": {
         "CookingFuel:fire_wood": {
           "Count": "Int:14113"
         },
@@ -12065,7 +12065,7 @@
           "Count": "Int:259"
         }
       },
-      "PD:EC-02M": {
+      "PD:kelaniya": {
         "CookingFuel:fire_wood": {
           "Count": "Int:2408"
         },
@@ -12091,7 +12091,7 @@
           "Count": "Int:2044"
         }
       },
-      "PD:EC-21A": {
+      "PD:eheliyagoda": {
         "CookingFuel:fire_wood": {
           "Count": "Int:26195"
         },
@@ -12117,7 +12117,7 @@
           "Count": "Int:363"
         }
       },
-      "PD:EC-07F": {
+      "PD:baddegama": {
         "CookingFuel:fire_wood": {
           "Count": "Int:24042"
         },
@@ -12143,7 +12143,7 @@
           "Count": "Int:432"
         }
       },
-      "PD:EC-10K": {
+      "PD:kilinochchi": {
         "CookingFuel:fire_wood": {
           "Count": "Int:28403"
         },
@@ -12169,7 +12169,7 @@
           "Count": "Int:146"
         }
       },
-      "PD:EC-15M": {
+      "PD:mawathagama": {
         "CookingFuel:fire_wood": {
           "Count": "Int:23246"
         },
@@ -12195,7 +12195,7 @@
           "Count": "Int:324"
         }
       },
-      "PD:EC-12C": {
+      "PD:paddiruppu": {
         "CookingFuel:fire_wood": {
           "Count": "Int:17885"
         },
@@ -12221,7 +12221,7 @@
           "Count": "Int:112"
         }
       },
-      "PD:EC-20A": {
+      "PD:bibile": {
         "CookingFuel:fire_wood": {
           "Count": "Int:31730"
         },
@@ -12247,7 +12247,7 @@
           "Count": "Int:184"
         }
       },
-      "PD:EC-02B": {
+      "PD:negombo": {
         "CookingFuel:fire_wood": {
           "Count": "Int:4015"
         },
@@ -12273,7 +12273,7 @@
           "Count": "Int:644"
         }
       },
-      "PD:EC-15L": {
+      "PD:kurunegala": {
         "CookingFuel:fire_wood": {
           "Count": "Int:16939"
         },
@@ -12299,7 +12299,7 @@
           "Count": "Int:394"
         }
       },
-      "PD:EC-15J": {
+      "PD:dambadeniya": {
         "CookingFuel:fire_wood": {
           "Count": "Int:28101"
         },
@@ -12325,7 +12325,7 @@
           "Count": "Int:439"
         }
       },
-      "PD:EC-04M": {
+      "PD:nawalapitiya": {
         "CookingFuel:fire_wood": {
           "Count": "Int:24404"
         },
@@ -12351,7 +12351,7 @@
           "Count": "Int:155"
         }
       },
-      "PD:EC-15G": {
+      "PD:bingiriya": {
         "CookingFuel:fire_wood": {
           "Count": "Int:28238"
         },
@@ -12377,7 +12377,7 @@
           "Count": "Int:487"
         }
       },
-      "PD:EC-05D": {
+      "PD:rattota": {
         "CookingFuel:fire_wood": {
           "Count": "Int:25776"
         },
@@ -12403,7 +12403,7 @@
           "Count": "Int:193"
         }
       },
-      "PD:EC-17G": {
+      "PD:kekirawa": {
         "CookingFuel:fire_wood": {
           "Count": "Int:27556"
         },
@@ -12429,7 +12429,7 @@
           "Count": "Int:281"
         }
       },
-      "PD:EC-11C": {
+      "PD:mullaitivu": {
         "CookingFuel:fire_wood": {
           "Count": "Int:25583"
         },
@@ -12455,7 +12455,7 @@
           "Count": "Int:214"
         }
       },
-      "PD:EC-08B": {
+      "PD:hakmana": {
         "CookingFuel:fire_wood": {
           "Count": "Int:28293"
         },
@@ -12481,7 +12481,7 @@
           "Count": "Int:419"
         }
       },
-      "PD:EC-18A": {
+      "PD:minneriya": {
         "CookingFuel:fire_wood": {
           "Count": "Int:27664"
         },
@@ -12507,7 +12507,7 @@
           "Count": "Int:219"
         }
       },
-      "PD:EC-08G": {
+      "PD:weligama": {
         "CookingFuel:fire_wood": {
           "Count": "Int:16773"
         },
@@ -12533,7 +12533,7 @@
           "Count": "Int:505"
         }
       },
-      "PD:EC-08C": {
+      "PD:akuressa": {
         "CookingFuel:fire_wood": {
           "Count": "Int:25115"
         },
@@ -12559,7 +12559,7 @@
           "Count": "Int:382"
         }
       },
-      "PD:EC-17B": {
+      "PD:horowpothana": {
         "CookingFuel:fire_wood": {
           "Count": "Int:27860"
         },
@@ -12585,7 +12585,7 @@
           "Count": "Int:199"
         }
       },
-      "PD:EC-21F": {
+      "PD:nivithigala": {
         "CookingFuel:fire_wood": {
           "Count": "Int:27768"
         },
@@ -12611,7 +12611,7 @@
           "Count": "Int:259"
         }
       },
-      "PD:EC-16D": {
+      "PD:nattandiya": {
         "CookingFuel:fire_wood": {
           "Count": "Int:19330"
         },
@@ -12637,7 +12637,7 @@
           "Count": "Int:449"
         }
       },
-      "PD:EC-01A": {
+      "PD:colombo_north": {
         "CookingFuel:fire_wood": {
           "Count": "Int:722"
         },
@@ -12663,7 +12663,7 @@
           "Count": "Int:815"
         }
       },
-      "PD:EC-22E": {
+      "PD:mawanella": {
         "CookingFuel:fire_wood": {
           "Count": "Int:19936"
         },
@@ -12689,7 +12689,7 @@
           "Count": "Int:220"
         }
       },
-      "PD:EC-21C": {
+      "PD:pelmadulla": {
         "CookingFuel:fire_wood": {
           "Count": "Int:27651"
         },
@@ -12715,7 +12715,7 @@
           "Count": "Int:165"
         }
       },
-      "PD:EC-07D": {
+      "PD:bentara_elpitiya": {
         "CookingFuel:fire_wood": {
           "Count": "Int:19200"
         },
@@ -12741,7 +12741,7 @@
           "Count": "Int:364"
         }
       },
-      "PD:EC-03D": {
+      "PD:bulathsinhala": {
         "CookingFuel:fire_wood": {
           "Count": "Int:21823"
         },
@@ -12767,7 +12767,7 @@
           "Count": "Int:281"
         }
       },
-      "PD:EC-04C": {
+      "PD:pathadumbara": {
         "CookingFuel:fire_wood": {
           "Count": "Int:18938"
         },
@@ -12793,7 +12793,7 @@
           "Count": "Int:219"
         }
       },
-      "PD:EC-14A": {
+      "PD:seruvila": {
         "CookingFuel:fire_wood": {
           "Count": "Int:25207"
         },
@@ -12819,7 +12819,7 @@
           "Count": "Int:242"
         }
       },
-      "PD:EC-22A": {
+      "PD:dedigama": {
         "CookingFuel:fire_wood": {
           "Count": "Int:24161"
         },
@@ -12845,7 +12845,7 @@
           "Count": "Int:274"
         }
       },
-      "PD:EC-19H": {
+      "PD:bandarawela": {
         "CookingFuel:fire_wood": {
           "Count": "Int:23399"
         },
@@ -12871,7 +12871,7 @@
           "Count": "Int:135"
         }
       },
-      "PD:EC-11A": {
+      "PD:mannar": {
         "CookingFuel:fire_wood": {
           "Count": "Int:18102"
         },
@@ -12897,7 +12897,7 @@
           "Count": "Int:211"
         }
       },
-      "PD:EC-08F": {
+      "PD:matara": {
         "CookingFuel:fire_wood": {
           "Count": "Int:8146"
         },
@@ -12923,7 +12923,7 @@
           "Count": "Int:492"
         }
       },
-      "PD:EC-18B": {
+      "PD:medirigiriya": {
         "CookingFuel:fire_wood": {
           "Count": "Int:26085"
         },
@@ -12949,7 +12949,7 @@
           "Count": "Int:251"
         }
       },
-      "PD:EC-05C": {
+      "PD:matale": {
         "CookingFuel:fire_wood": {
           "Count": "Int:17445"
         },
@@ -12975,7 +12975,7 @@
           "Count": "Int:248"
         }
       },
-      "PD:EC-13C": {
+      "PD:kalmunai": {
         "CookingFuel:fire_wood": {
           "Count": "Int:3431"
         },
@@ -13001,7 +13001,7 @@
           "Count": "Int:367"
         }
       },
-      "PD:EC-04K": {
+      "PD:udunuwara": {
         "CookingFuel:fire_wood": {
           "Count": "Int:16970"
         },
@@ -13027,7 +13027,7 @@
           "Count": "Int:251"
         }
       },
-      "PD:EC-15E": {
+      "PD:wariyapola": {
         "CookingFuel:fire_wood": {
           "Count": "Int:25450"
         },
@@ -13053,7 +13053,7 @@
           "Count": "Int:388"
         }
       },
-      "PD:EC-04J": {
+      "PD:yatinuwara": {
         "CookingFuel:fire_wood": {
           "Count": "Int:16398"
         },
@@ -13079,7 +13079,7 @@
           "Count": "Int:286"
         }
       },
-      "PD:EC-06D": {
+      "PD:walapane": {
         "CookingFuel:fire_wood": {
           "Count": "Int:26516"
         },
@@ -13105,7 +13105,7 @@
           "Count": "Int:126"
         }
       },
-      "PD:EC-07J": {
+      "PD:habaraduwa": {
         "CookingFuel:fire_wood": {
           "Count": "Int:14712"
         },
@@ -13131,7 +13131,7 @@
           "Count": "Int:508"
         }
       },
-      "PD:EC-21G": {
+      "PD:kalawana": {
         "CookingFuel:fire_wood": {
           "Count": "Int:26162"
         },
@@ -13157,7 +13157,7 @@
           "Count": "Int:161"
         }
       },
-      "PD:EC-15K": {
+      "PD:polgahawela": {
         "CookingFuel:fire_wood": {
           "Count": "Int:20371"
         },
@@ -13183,7 +13183,7 @@
           "Count": "Int:267"
         }
       },
-      "PD:EC-15F": {
+      "PD:panduwasnuwara": {
         "CookingFuel:fire_wood": {
           "Count": "Int:24602"
         },
@@ -13209,7 +13209,7 @@
           "Count": "Int:368"
         }
       },
-      "PD:EC-19G": {
+      "PD:welimada": {
         "CookingFuel:fire_wood": {
           "Count": "Int:24041"
         },
@@ -13235,7 +13235,7 @@
           "Count": "Int:104"
         }
       },
-      "PD:EC-08D": {
+      "PD:kamburupitiya": {
         "CookingFuel:fire_wood": {
           "Count": "Int:19505"
         },
@@ -13261,7 +13261,7 @@
           "Count": "Int:502"
         }
       },
-      "PD:EC-09B": {
+      "PD:beliatta": {
         "CookingFuel:fire_wood": {
           "Count": "Int:18998"
         },
@@ -13287,7 +13287,7 @@
           "Count": "Int:320"
         }
       },
-      "PD:EC-06B": {
+      "PD:kothmale": {
         "CookingFuel:fire_wood": {
           "Count": "Int:23004"
         },
@@ -13313,7 +13313,7 @@
           "Count": "Int:75"
         }
       },
-      "PD:EC-05B": {
+      "PD:laggala": {
         "CookingFuel:fire_wood": {
           "Count": "Int:26301"
         },
@@ -13339,7 +13339,7 @@
           "Count": "Int:152"
         }
       },
-      "PD:EC-04H": {
+      "PD:senkadagala": {
         "CookingFuel:fire_wood": {
           "Count": "Int:7194"
         },
@@ -13365,7 +13365,7 @@
           "Count": "Int:217"
         }
       },
-      "PD:EC-22H": {
+      "PD:ruwanwella": {
         "CookingFuel:fire_wood": {
           "Count": "Int:20061"
         },
@@ -13391,7 +13391,7 @@
           "Count": "Int:249"
         }
       },
-      "PD:EC-08E": {
+      "PD:devinuwara": {
         "CookingFuel:fire_wood": {
           "Count": "Int:13222"
         },
@@ -13417,7 +13417,7 @@
           "Count": "Int:387"
         }
       },
-      "PD:EC-07B": {
+      "PD:ambalangoda": {
         "CookingFuel:fire_wood": {
           "Count": "Int:13638"
         },
@@ -13443,7 +13443,7 @@
           "Count": "Int:476"
         }
       },
-      "PD:EC-07C": {
+      "PD:karandeniya": {
         "CookingFuel:fire_wood": {
           "Count": "Int:22803"
         },
@@ -13469,7 +13469,7 @@
           "Count": "Int:236"
         }
       },
-      "PD:EC-01I": {
+      "PD:kotte": {
         "CookingFuel:fire_wood": {
           "Count": "Int:518"
         },
@@ -13495,7 +13495,7 @@
           "Count": "Int:385"
         }
       },
-      "PD:EC-07G": {
+      "PD:ratgama": {
         "CookingFuel:fire_wood": {
           "Count": "Int:11571"
         },
@@ -13521,7 +13521,7 @@
           "Count": "Int:680"
         }
       },
-      "PD:EC-22G": {
+      "PD:yatiyanthota": {
         "CookingFuel:fire_wood": {
           "Count": "Int:22485"
         },
@@ -13547,7 +13547,7 @@
           "Count": "Int:144"
         }
       },
-      "PD:EC-19E": {
+      "PD:hali_ela": {
         "CookingFuel:fire_wood": {
           "Count": "Int:22388"
         },
@@ -13573,7 +13573,7 @@
           "Count": "Int:109"
         }
       },
-      "PD:EC-17F": {
+      "PD:mihinthale": {
         "CookingFuel:fire_wood": {
           "Count": "Int:20906"
         },
@@ -13599,7 +13599,7 @@
           "Count": "Int:294"
         }
       },
-      "PD:EC-15N": {
+      "PD:dodangaslanda": {
         "CookingFuel:fire_wood": {
           "Count": "Int:23589"
         },
@@ -13625,7 +13625,7 @@
           "Count": "Int:145"
         }
       },
-      "PD:EC-22C": {
+      "PD:kegalle": {
         "CookingFuel:fire_wood": {
           "Count": "Int:16900"
         },
@@ -13651,7 +13651,7 @@
           "Count": "Int:266"
         }
       },
-      "PD:EC-06C": {
+      "PD:hanguranketha": {
         "CookingFuel:fire_wood": {
           "Count": "Int:23618"
         },
@@ -13677,7 +13677,7 @@
           "Count": "Int:91"
         }
       },
-      "PD:EC-07H": {
+      "PD:galle": {
         "CookingFuel:fire_wood": {
           "Count": "Int:4348"
         },
@@ -13703,7 +13703,7 @@
           "Count": "Int:374"
         }
       },
-      "PD:EC-22I": {
+      "PD:deraniyagala": {
         "CookingFuel:fire_wood": {
           "Count": "Int:21392"
         },
@@ -13729,7 +13729,7 @@
           "Count": "Int:135"
         }
       },
-      "PD:EC-04G": {
+      "PD:hewaheta": {
         "CookingFuel:fire_wood": {
           "Count": "Int:20862"
         },
@@ -13755,7 +13755,7 @@
           "Count": "Int:146"
         }
       },
-      "PD:EC-01F": {
+      "PD:dehiwala": {
         "CookingFuel:fire_wood": {
           "Count": "Int:209"
         },
@@ -13781,7 +13781,7 @@
           "Count": "Int:293"
         }
       },
-      "PD:EC-01G": {
+      "PD:ratmalana": {
         "CookingFuel:fire_wood": {
           "Count": "Int:747"
         },
@@ -13807,7 +13807,7 @@
           "Count": "Int:451"
         }
       },
-      "PD:EC-19I": {
+      "PD:haputale": {
         "CookingFuel:fire_wood": {
           "Count": "Int:19391"
         },
@@ -13833,7 +13833,7 @@
           "Count": "Int:89"
         }
       },
-      "PD:EC-22D": {
+      "PD:rambukkana": {
         "CookingFuel:fire_wood": {
           "Count": "Int:18152"
         },
@@ -13859,7 +13859,7 @@
           "Count": "Int:200"
         }
       },
-      "PD:EC-22B": {
+      "PD:galigamuwa": {
         "CookingFuel:fire_wood": {
           "Count": "Int:18733"
         },
@@ -13885,7 +13885,7 @@
           "Count": "Int:165"
         }
       },
-      "PD:EC-19C": {
+      "PD:passara": {
         "CookingFuel:fire_wood": {
           "Count": "Int:20598"
         },
@@ -13911,7 +13911,7 @@
           "Count": "Int:45"
         }
       },
-      "PD:EC-01D": {
+      "PD:colombo_east": {
         "CookingFuel:fire_wood": {
           "Count": "Int:330"
         },
@@ -13937,7 +13937,7 @@
           "Count": "Int:363"
         }
       },
-      "PD:EC-19F": {
+      "PD:uva_paranagama": {
         "CookingFuel:fire_wood": {
           "Count": "Int:21781"
         },
@@ -13963,7 +13963,7 @@
           "Count": "Int:51"
         }
       },
-      "PD:EC-04D": {
+      "PD:ududumbara": {
         "CookingFuel:fire_wood": {
           "Count": "Int:21440"
         },
@@ -13989,7 +13989,7 @@
           "Count": "Int:94"
         }
       },
-      "PD:EC-19D": {
+      "PD:badulla": {
         "CookingFuel:fire_wood": {
           "Count": "Int:10017"
         },
@@ -14015,7 +14015,7 @@
           "Count": "Int:314"
         }
       },
-      "PD:EC-19B": {
+      "PD:viyaluwa": {
         "CookingFuel:fire_wood": {
           "Count": "Int:19957"
         },
@@ -14041,7 +14041,7 @@
           "Count": "Int:101"
         }
       },
-      "PD:EC-10D": {
+      "PD:manipay": {
         "CookingFuel:fire_wood": {
           "Count": "Int:11131"
         },
@@ -14067,7 +14067,7 @@
           "Count": "Int:207"
         }
       },
-      "PD:EC-10E": {
+      "PD:kopay": {
         "CookingFuel:fire_wood": {
           "Count": "Int:13300"
         },
@@ -14093,7 +14093,7 @@
           "Count": "Int:126"
         }
       },
-      "PD:EC-22F": {
+      "PD:aranayaka": {
         "CookingFuel:fire_wood": {
           "Count": "Int:16117"
         },
@@ -14119,7 +14119,7 @@
           "Count": "Int:150"
         }
       },
-      "PD:EC-04A": {
+      "PD:galagedara": {
         "CookingFuel:fire_wood": {
           "Count": "Int:15477"
         },
@@ -14145,7 +14145,7 @@
           "Count": "Int:137"
         }
       },
-      "PD:EC-10H": {
+      "PD:chavakachcheri": {
         "CookingFuel:fire_wood": {
           "Count": "Int:13129"
         },
@@ -14171,7 +14171,7 @@
           "Count": "Int:58"
         }
       },
-      "PD:EC-10I": {
+      "PD:nallur": {
         "CookingFuel:fire_wood": {
           "Count": "Int:4411"
         },
@@ -14197,7 +14197,7 @@
           "Count": "Int:219"
         }
       },
-      "PD:EC-07A": {
+      "PD:balapitiya": {
         "CookingFuel:fire_wood": {
           "Count": "Int:8346"
         },
@@ -14223,7 +14223,7 @@
           "Count": "Int:300"
         }
       },
-      "PD:EC-04E": {
+      "PD:teldeniya": {
         "CookingFuel:fire_wood": {
           "Count": "Int:14561"
         },
@@ -14249,7 +14249,7 @@
           "Count": "Int:67"
         }
       },
-      "PD:EC-01C": {
+      "PD:borella": {
         "CookingFuel:fire_wood": {
           "Count": "Int:444"
         },
@@ -14275,7 +14275,7 @@
           "Count": "Int:177"
         }
       },
-      "PD:EC-10B": {
+      "PD:vaddukoddai": {
         "CookingFuel:fire_wood": {
           "Count": "Int:12640"
         },
@@ -14301,7 +14301,7 @@
           "Count": "Int:134"
         }
       },
-      "PD:EC-01E": {
+      "PD:colombo_west": {
         "CookingFuel:fire_wood": {
           "Count": "Int:164"
         },
@@ -14327,7 +14327,7 @@
           "Count": "Int:195"
         }
       },
-      "PD:EC-10C": {
+      "PD:kankesanthurai": {
         "CookingFuel:fire_wood": {
           "Count": "Int:10142"
         },
@@ -14353,7 +14353,7 @@
           "Count": "Int:181"
         }
       },
-      "PD:EC-10G": {
+      "PD:point_pedro": {
         "CookingFuel:fire_wood": {
           "Count": "Int:7182"
         },
@@ -14379,7 +14379,7 @@
           "Count": "Int:191"
         }
       },
-      "PD:EC-10F": {
+      "PD:udupiddy": {
         "CookingFuel:fire_wood": {
           "Count": "Int:6463"
         },
@@ -14405,7 +14405,7 @@
           "Count": "Int:194"
         }
       },
-      "PD:EC-10J": {
+      "PD:jaffna": {
         "CookingFuel:fire_wood": {
           "Count": "Int:2838"
         },
@@ -14431,7 +14431,7 @@
           "Count": "Int:182"
         }
       },
-      "PD:EC-04I": {
+      "PD:mahanuwara": {
         "CookingFuel:fire_wood": {
           "Count": "Int:1005"
         },
@@ -14457,7 +14457,7 @@
           "Count": "Int:148"
         }
       },
-      "PD:EC-10A": {
+      "PD:kayts": {
         "CookingFuel:fire_wood": {
           "Count": "Int:6282"
         },

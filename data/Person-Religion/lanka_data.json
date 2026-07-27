@@ -1,7 +1,7 @@
 {
   "Person": {
     "Time:2024": {
-      "Country:LK": {
+      "Country:sri_lanka": {
         "Religion:buddhist": {
           "Count": "Int:15196960"
         },
@@ -21,7 +21,7 @@
           "Count": "Int:63494"
         }
       },
-      "Province:LK-1": {
+      "Province:western": {
         "Religion:buddhist": {
           "Count": "Int:4507601"
         },
@@ -41,7 +41,7 @@
           "Count": "Int:14186"
         }
       },
-      "Province:LK-2": {
+      "Province:central": {
         "Religion:buddhist": {
           "Count": "Int:1760853"
         },
@@ -61,7 +61,7 @@
           "Count": "Int:8615"
         }
       },
-      "Province:LK-3": {
+      "Province:southern": {
         "Religion:buddhist": {
           "Count": "Int:2463066"
         },
@@ -81,7 +81,7 @@
           "Count": "Int:9192"
         }
       },
-      "Province:LK-6": {
+      "Province:north_western": {
         "Religion:buddhist": {
           "Count": "Int:1918652"
         },
@@ -101,7 +101,7 @@
           "Count": "Int:10329"
         }
       },
-      "Province:LK-9": {
+      "Province:sabaragamuwa": {
         "Religion:buddhist": {
           "Count": "Int:1728595"
         },
@@ -121,7 +121,7 @@
           "Count": "Int:5283"
         }
       },
-      "Province:LK-5": {
+      "Province:eastern": {
         "Religion:buddhist": {
           "Count": "Int:388164"
         },
@@ -141,7 +141,7 @@
           "Count": "Int:3931"
         }
       },
-      "Province:LK-7": {
+      "Province:north_central": {
         "Religion:buddhist": {
           "Count": "Int:1262247"
         },
@@ -161,7 +161,7 @@
           "Count": "Int:4732"
         }
       },
-      "Province:LK-8": {
+      "Province:uva": {
         "Religion:buddhist": {
           "Count": "Int:1135408"
         },
@@ -181,7 +181,7 @@
           "Count": "Int:3693"
         }
       },
-      "Province:LK-4": {
+      "Province:northern": {
         "Religion:buddhist": {
           "Count": "Int:32374"
         },
@@ -201,7 +201,7 @@
           "Count": "Int:3533"
         }
       },
-      "District:LK-12": {
+      "District:gampaha": {
         "Religion:buddhist": {
           "Count": "Int:1744475"
         },
@@ -221,7 +221,7 @@
           "Count": "Int:7119"
         }
       },
-      "District:LK-11": {
+      "District:colombo": {
         "Religion:buddhist": {
           "Count": "Int:1682524"
         },
@@ -241,7 +241,7 @@
           "Count": "Int:2608"
         }
       },
-      "District:LK-61": {
+      "District:kurunegala": {
         "Religion:buddhist": {
           "Count": "Int:1557548"
         },
@@ -261,7 +261,7 @@
           "Count": "Int:7720"
         }
       },
-      "District:LK-21": {
+      "District:kandy": {
         "Religion:buddhist": {
           "Count": "Int:1063437"
         },
@@ -281,7 +281,7 @@
           "Count": "Int:5273"
         }
       },
-      "District:LK-13": {
+      "District:kalutara": {
         "Religion:buddhist": {
           "Count": "Int:1080602"
         },
@@ -301,7 +301,7 @@
           "Count": "Int:4459"
         }
       },
-      "District:LK-91": {
+      "District:ratnapura": {
         "Religion:buddhist": {
           "Count": "Int:999682"
         },
@@ -321,7 +321,7 @@
           "Count": "Int:2579"
         }
       },
-      "District:LK-31": {
+      "District:galle": {
         "Religion:buddhist": {
           "Count": "Int:1026031"
         },
@@ -341,7 +341,7 @@
           "Count": "Int:4559"
         }
       },
-      "District:LK-71": {
+      "District:anuradhapura": {
         "Religion:buddhist": {
           "Count": "Int:862775"
         },
@@ -361,7 +361,7 @@
           "Count": "Int:3160"
         }
       },
-      "District:LK-81": {
+      "District:badulla": {
         "Religion:buddhist": {
           "Count": "Int:636979"
         },
@@ -381,7 +381,7 @@
           "Count": "Int:2348"
         }
       },
-      "District:LK-92": {
+      "District:kegalle": {
         "Religion:buddhist": {
           "Count": "Int:728913"
         },
@@ -401,7 +401,7 @@
           "Count": "Int:2704"
         }
       },
-      "District:LK-32": {
+      "District:matara": {
         "Religion:buddhist": {
           "Count": "Int:787299"
         },
@@ -421,7 +421,7 @@
           "Count": "Int:2769"
         }
       },
-      "District:LK-62": {
+      "District:puttalam": {
         "Religion:buddhist": {
           "Count": "Int:361104"
         },
@@ -441,7 +441,7 @@
           "Count": "Int:2609"
         }
       },
-      "District:LK-52": {
+      "District:ampara": {
         "Religion:buddhist": {
           "Count": "Int:275877"
         },
@@ -461,7 +461,7 @@
           "Count": "Int:1652"
         }
       },
-      "District:LK-23": {
+      "District:nuwara_eliya": {
         "Religion:buddhist": {
           "Count": "Int:278828"
         },
@@ -481,7 +481,7 @@
           "Count": "Int:1249"
         }
       },
-      "District:LK-33": {
+      "District:hambantota": {
         "Religion:buddhist": {
           "Count": "Int:649736"
         },
@@ -501,7 +501,7 @@
           "Count": "Int:1864"
         }
       },
-      "District:LK-51": {
+      "District:batticaloa": {
         "Religion:buddhist": {
           "Count": "Int:5585"
         },
@@ -521,7 +521,7 @@
           "Count": "Int:1365"
         }
       },
-      "District:LK-41": {
+      "District:jaffna": {
         "Religion:buddhist": {
           "Count": "Int:2411"
         },
@@ -541,7 +541,7 @@
           "Count": "Int:1600"
         }
       },
-      "District:LK-82": {
+      "District:monaragala": {
         "Religion:buddhist": {
           "Count": "Int:498429"
         },
@@ -561,7 +561,7 @@
           "Count": "Int:1345"
         }
       },
-      "District:LK-22": {
+      "District:matale": {
         "Religion:buddhist": {
           "Count": "Int:418588"
         },
@@ -581,7 +581,7 @@
           "Count": "Int:2093"
         }
       },
-      "District:LK-72": {
+      "District:polonnaruwa": {
         "Religion:buddhist": {
           "Count": "Int:399472"
         },
@@ -601,7 +601,7 @@
           "Count": "Int:1572"
         }
       },
-      "District:LK-53": {
+      "District:trincomalee": {
         "Religion:buddhist": {
           "Count": "Int:106702"
         },
@@ -621,7 +621,7 @@
           "Count": "Int:914"
         }
       },
-      "District:LK-43": {
+      "District:vavuniya": {
         "Religion:buddhist": {
           "Count": "Int:18137"
         },
@@ -641,7 +641,7 @@
           "Count": "Int:476"
         }
       },
-      "District:LK-45": {
+      "District:kilinochchi": {
         "Religion:buddhist": {
           "Count": "Int:1423"
         },
@@ -661,7 +661,7 @@
           "Count": "Int:353"
         }
       },
-      "District:LK-42": {
+      "District:mannar": {
         "Religion:buddhist": {
           "Count": "Int:240"
         },
@@ -681,7 +681,7 @@
           "Count": "Int:516"
         }
       },
-      "District:LK-44": {
+      "District:mullaitivu": {
         "Religion:buddhist": {
           "Count": "Int:10163"
         },
@@ -701,7 +701,7 @@
           "Count": "Int:588"
         }
       },
-      "DSD:LK-1103": {
+      "DSD:colombo": {
         "Religion:buddhist": {
           "Count": "Int:47726"
         },
@@ -721,7 +721,7 @@
           "Count": "Int:167"
         }
       },
-      "DSD:LK-1112": {
+      "DSD:homagama": {
         "Religion:buddhist": {
           "Count": "Int:270923"
         },
@@ -741,7 +741,7 @@
           "Count": "Int:371"
         }
       },
-      "DSD:LK-1109": {
+      "DSD:kaduwela": {
         "Religion:buddhist": {
           "Count": "Int:256548"
         },
@@ -761,7 +761,7 @@
           "Count": "Int:141"
         }
       },
-      "DSD:LK-1136": {
+      "DSD:kesbewa": {
         "Religion:buddhist": {
           "Count": "Int:246021"
         },
@@ -781,7 +781,7 @@
           "Count": "Int:269"
         }
       },
-      "DSD:LK-1206": {
+      "DSD:katana": {
         "Religion:buddhist": {
           "Count": "Int:137806"
         },
@@ -801,7 +801,7 @@
           "Count": "Int:447"
         }
       },
-      "DSD:LK-1233": {
+      "DSD:mahara": {
         "Religion:buddhist": {
           "Count": "Int:191215"
         },
@@ -821,7 +821,7 @@
           "Count": "Int:567"
         }
       },
-      "DSD:LK-1127": {
+      "DSD:thimbirigasyaya": {
         "Religion:buddhist": {
           "Count": "Int:101553"
         },
@@ -841,7 +841,7 @@
           "Count": "Int:226"
         }
       },
-      "DSD:LK-1106": {
+      "DSD:kolonnawa": {
         "Religion:buddhist": {
           "Count": "Int:122559"
         },
@@ -861,7 +861,7 @@
           "Count": "Int:75"
         }
       },
-      "DSD:LK-1239": {
+      "DSD:biyagama": {
         "Religion:buddhist": {
           "Count": "Int:178329"
         },
@@ -881,7 +881,7 @@
           "Count": "Int:128"
         }
       },
-      "DSD:LK-1224": {
+      "DSD:gampaha": {
         "Religion:buddhist": {
           "Count": "Int:182606"
         },
@@ -901,7 +901,7 @@
           "Count": "Int:614"
         }
       },
-      "DSD:LK-1221": {
+      "DSD:ja_ela": {
         "Religion:buddhist": {
           "Count": "Int:90297"
         },
@@ -921,7 +921,7 @@
           "Count": "Int:182"
         }
       },
-      "DSD:LK-1215": {
+      "DSD:minuwangoda": {
         "Religion:buddhist": {
           "Count": "Int:176692"
         },
@@ -941,7 +941,7 @@
           "Count": "Int:893"
         }
       },
-      "DSD:LK-1227": {
+      "DSD:attanagalla": {
         "Religion:buddhist": {
           "Count": "Int:164206"
         },
@@ -961,7 +961,7 @@
           "Count": "Int:1113"
         }
       },
-      "DSD:LK-1121": {
+      "DSD:maharagama": {
         "Religion:buddhist": {
           "Count": "Int:183093"
         },
@@ -981,7 +981,7 @@
           "Count": "Int:117"
         }
       },
-      "DSD:LK-1303": {
+      "DSD:panadura": {
         "Religion:buddhist": {
           "Count": "Int:144512"
         },
@@ -1001,7 +1001,7 @@
           "Count": "Int:385"
         }
       },
-      "DSD:LK-1218": {
+      "DSD:wattala": {
         "Religion:buddhist": {
           "Count": "Int:51544"
         },
@@ -1021,7 +1021,7 @@
           "Count": "Int:98"
         }
       },
-      "DSD:LK-1324": {
+      "DSD:beruwala": {
         "Religion:buddhist": {
           "Count": "Int:96264"
         },
@@ -1041,7 +1041,7 @@
           "Count": "Int:533"
         }
       },
-      "DSD:LK-1212": {
+      "DSD:mirigama": {
         "Religion:buddhist": {
           "Count": "Int:164914"
         },
@@ -1061,7 +1061,7 @@
           "Count": "Int:1045"
         }
       },
-      "DSD:LK-1230": {
+      "DSD:dompe": {
         "Religion:buddhist": {
           "Count": "Int:161461"
         },
@@ -1081,7 +1081,7 @@
           "Count": "Int:1018"
         }
       },
-      "DSD:LK-1321": {
+      "DSD:kalutara": {
         "Religion:buddhist": {
           "Count": "Int:140786"
         },
@@ -1101,7 +1101,7 @@
           "Count": "Int:553"
         }
       },
-      "DSD:LK-2314": {
+      "DSD:norwood": {
         "Religion:buddhist": {
           "Count": "Int:9116"
         },
@@ -1121,7 +1121,7 @@
           "Count": "Int:61"
         }
       },
-      "DSD:LK-1133": {
+      "DSD:moratuwa": {
         "Religion:buddhist": {
           "Count": "Int:109743"
         },
@@ -1141,7 +1141,7 @@
           "Count": "Int:268"
         }
       },
-      "DSD:LK-9148": {
+      "DSD:embilipitiya": {
         "Religion:buddhist": {
           "Count": "Int:159374"
         },
@@ -1161,7 +1161,7 @@
           "Count": "Int:335"
         }
       },
-      "DSD:LK-1209": {
+      "DSD:divulapitiya": {
         "Religion:buddhist": {
           "Count": "Int:133909"
         },
@@ -1181,7 +1181,7 @@
           "Count": "Int:676"
         }
       },
-      "DSD:LK-2130": {
+      "DSD:gangawata_korale": {
         "Religion:buddhist": {
           "Count": "Int:110984"
         },
@@ -1201,7 +1201,7 @@
           "Count": "Int:143"
         }
       },
-      "DSD:LK-2127": {
+      "DSD:kundasale": {
         "Religion:buddhist": {
           "Count": "Int:115593"
         },
@@ -1221,7 +1221,7 @@
           "Count": "Int:531"
         }
       },
-      "DSD:LK-1203": {
+      "DSD:negombo": {
         "Religion:buddhist": {
           "Count": "Int:13506"
         },
@@ -1241,7 +1241,7 @@
           "Count": "Int:198"
         }
       },
-      "DSD:LK-6178": {
+      "DSD:pannala": {
         "Religion:buddhist": {
           "Count": "Int:117261"
         },
@@ -1261,7 +1261,7 @@
           "Count": "Int:481"
         }
       },
-      "DSD:LK-1236": {
+      "DSD:kelaniya": {
         "Religion:buddhist": {
           "Count": "Int:97990"
         },
@@ -1281,7 +1281,7 @@
           "Count": "Int:140"
         }
       },
-      "DSD:LK-1309": {
+      "DSD:horana": {
         "Religion:buddhist": {
           "Count": "Int:129510"
         },
@@ -1301,7 +1301,7 @@
           "Count": "Int:490"
         }
       },
-      "DSD:LK-2313": {
+      "DSD:thalawakele": {
         "Religion:buddhist": {
           "Count": "Int:8613"
         },
@@ -1321,7 +1321,7 @@
           "Count": "Int:64"
         }
       },
-      "DSD:LK-9206": {
+      "DSD:mawanella": {
         "Religion:buddhist": {
           "Count": "Int:82377"
         },
@@ -1341,7 +1341,7 @@
           "Count": "Int:316"
         }
       },
-      "DSD:LK-1306": {
+      "DSD:bandaragama": {
         "Religion:buddhist": {
           "Count": "Int:105598"
         },
@@ -1361,7 +1361,7 @@
           "Count": "Int:424"
         }
       },
-      "DSD:LK-3242": {
+      "DSD:matara_four_gravets": {
         "Religion:buddhist": {
           "Count": "Int:118046"
         },
@@ -1381,7 +1381,7 @@
           "Count": "Int:522"
         }
       },
-      "DSD:LK-1115": {
+      "DSD:seethawaka": {
         "Religion:buddhist": {
           "Count": "Int:99364"
         },
@@ -1401,7 +1401,7 @@
           "Count": "Int:332"
         }
       },
-      "DSD:LK-9112": {
+      "DSD:ratnapura": {
         "Religion:buddhist": {
           "Count": "Int:94405"
         },
@@ -1421,7 +1421,7 @@
           "Count": "Int:197"
         }
       },
-      "DSD:LK-2139": {
+      "DSD:udunuwara": {
         "Religion:buddhist": {
           "Count": "Int:85280"
         },
@@ -1441,7 +1441,7 @@
           "Count": "Int:753"
         }
       },
-      "DSD:LK-9218": {
+      "DSD:warakapola": {
         "Religion:buddhist": {
           "Count": "Int:105968"
         },
@@ -1461,7 +1461,7 @@
           "Count": "Int:362"
         }
       },
-      "DSD:LK-4309": {
+      "DSD:vavuniya": {
         "Religion:buddhist": {
           "Count": "Int:3068"
         },
@@ -1481,7 +1481,7 @@
           "Count": "Int:221"
         }
       },
-      "DSD:LK-2136": {
+      "DSD:yatinuwara": {
         "Religion:buddhist": {
           "Count": "Int:100489"
         },
@@ -1501,7 +1501,7 @@
           "Count": "Int:579"
         }
       },
-      "DSD:LK-3139": {
+      "DSD:galle_4_gravets": {
         "Religion:buddhist": {
           "Count": "Int:67502"
         },
@@ -1521,7 +1521,7 @@
           "Count": "Int:362"
         }
       },
-      "DSD:LK-8130": {
+      "DSD:welimada": {
         "Religion:buddhist": {
           "Count": "Int:72746"
         },
@@ -1541,7 +1541,7 @@
           "Count": "Int:366"
         }
       },
-      "DSD:LK-2151": {
+      "DSD:udapalatha": {
         "Religion:buddhist": {
           "Count": "Int:54676"
         },
@@ -1561,7 +1561,7 @@
           "Count": "Int:276"
         }
       },
-      "DSD:LK-5315": {
+      "DSD:town_and_gravets": {
         "Religion:buddhist": {
           "Count": "Int:21101"
         },
@@ -1581,7 +1581,7 @@
           "Count": "Int:98"
         }
       },
-      "DSD:LK-9106": {
+      "DSD:kuruvita": {
         "Religion:buddhist": {
           "Count": "Int:89318"
         },
@@ -1601,7 +1601,7 @@
           "Count": "Int:201"
         }
       },
-      "DSD:LK-6203": {
+      "DSD:kalpitiya": {
         "Religion:buddhist": {
           "Count": "Int:6329"
         },
@@ -1621,7 +1621,7 @@
           "Count": "Int:84"
         }
       },
-      "DSD:LK-1124": {
+      "DSD:sri_jayawardanapura_kotte": {
         "Religion:buddhist": {
           "Count": "Int:74848"
         },
@@ -1641,7 +1641,7 @@
           "Count": "Int:130"
         }
       },
-      "DSD:LK-6163": {
+      "DSD:rideegama": {
         "Religion:buddhist": {
           "Count": "Int:80308"
         },
@@ -1661,7 +1661,7 @@
           "Count": "Int:339"
         }
       },
-      "DSD:LK-5118": {
+      "DSD:manmunai_north": {
         "Religion:buddhist": {
           "Count": "Int:527"
         },
@@ -1681,7 +1681,7 @@
           "Count": "Int:202"
         }
       },
-      "DSD:LK-6215": {
+      "DSD:puttalam": {
         "Religion:buddhist": {
           "Count": "Int:17639"
         },
@@ -1701,7 +1701,7 @@
           "Count": "Int:287"
         }
       },
-      "DSD:LK-9212": {
+      "DSD:kegalle": {
         "Religion:buddhist": {
           "Count": "Int:89192"
         },
@@ -1721,7 +1721,7 @@
           "Count": "Int:337"
         }
       },
-      "DSD:LK-5112": {
+      "DSD:eravur_pattu": {
         "Religion:buddhist": {
           "Count": "Int:2638"
         },
@@ -1741,7 +1741,7 @@
           "Count": "Int:126"
         }
       },
-      "DSD:LK-8124": {
+      "DSD:hali_ela": {
         "Religion:buddhist": {
           "Count": "Int:59899"
         },
@@ -1761,7 +1761,7 @@
           "Count": "Int:204"
         }
       },
-      "DSD:LK-6130": {
+      "DSD:ibbagamuwa": {
         "Religion:buddhist": {
           "Count": "Int:84174"
         },
@@ -1781,7 +1781,7 @@
           "Count": "Int:373"
         }
       },
-      "DSD:LK-2133": {
+      "DSD:harispattuwa": {
         "Religion:buddhist": {
           "Count": "Int:80125"
         },
@@ -1801,7 +1801,7 @@
           "Count": "Int:429"
         }
       },
-      "DSD:LK-9124": {
+      "DSD:pelmadulla": {
         "Religion:buddhist": {
           "Count": "Int:80404"
         },
@@ -1821,7 +1821,7 @@
           "Count": "Int:183"
         }
       },
-      "DSD:LK-1130": {
+      "DSD:dehiwala": {
         "Religion:buddhist": {
           "Count": "Int:43573"
         },
@@ -1841,7 +1841,7 @@
           "Count": "Int:114"
         }
       },
-      "DSD:LK-2112": {
+      "DSD:pathadumbara": {
         "Religion:buddhist": {
           "Count": "Int:66522"
         },
@@ -1861,7 +1861,7 @@
           "Count": "Int:331"
         }
       },
-      "DSD:LK-7215": {
+      "DSD:thamankaduwa": {
         "Religion:buddhist": {
           "Count": "Int:74186"
         },
@@ -1881,7 +1881,7 @@
           "Count": "Int:370"
         }
       },
-      "DSD:LK-8103": {
+      "DSD:mahiyanganaya": {
         "Religion:buddhist": {
           "Count": "Int:86376"
         },
@@ -1901,7 +1901,7 @@
           "Count": "Int:230"
         }
       },
-      "DSD:LK-6154": {
+      "DSD:kurunegala": {
         "Religion:buddhist": {
           "Count": "Int:71927"
         },
@@ -1921,7 +1921,7 @@
           "Count": "Int:282"
         }
       },
-      "DSD:LK-2312": {
+      "DSD:nuwara_eliya": {
         "Religion:buddhist": {
           "Count": "Int:27807"
         },
@@ -1941,7 +1941,7 @@
           "Count": "Int:51"
         }
       },
-      "DSD:LK-1131": {
+      "DSD:ratmalana": {
         "Religion:buddhist": {
           "Count": "Int:57385"
         },
@@ -1961,7 +1961,7 @@
           "Count": "Int:43"
         }
       },
-      "DSD:LK-9203": {
+      "DSD:rambukkana": {
         "Religion:buddhist": {
           "Count": "Int:79429"
         },
@@ -1981,7 +1981,7 @@
           "Count": "Int:419"
         }
       },
-      "DSD:LK-5324": {
+      "DSD:kinniya": {
         "Religion:buddhist": {
           "Count": "Int:0"
         },
@@ -2001,7 +2001,7 @@
           "Count": "Int:111"
         }
       },
-      "DSD:LK-6127": {
+      "DSD:polpitigama": {
         "Religion:buddhist": {
           "Count": "Int:85752"
         },
@@ -2021,7 +2021,7 @@
           "Count": "Int:349"
         }
       },
-      "DSD:LK-3145": {
+      "DSD:akmeemana": {
         "Religion:buddhist": {
           "Count": "Int:82001"
         },
@@ -2041,7 +2041,7 @@
           "Count": "Int:490"
         }
       },
-      "DSD:LK-1330": {
+      "DSD:matugama": {
         "Religion:buddhist": {
           "Count": "Int:74763"
         },
@@ -2061,7 +2061,7 @@
           "Count": "Int:292"
         }
       },
-      "DSD:LK-7212": {
+      "DSD:dimbulagala": {
         "Religion:buddhist": {
           "Count": "Int:82634"
         },
@@ -2081,7 +2081,7 @@
           "Count": "Int:255"
         }
       },
-      "DSD:LK-9230": {
+      "DSD:dehiowita": {
         "Religion:buddhist": {
           "Count": "Int:66913"
         },
@@ -2101,7 +2101,7 @@
           "Count": "Int:211"
         }
       },
-      "DSD:LK-8121": {
+      "DSD:badulla": {
         "Religion:buddhist": {
           "Count": "Int:56647"
         },
@@ -2121,7 +2121,7 @@
           "Count": "Int:120"
         }
       },
-      "DSD:LK-6172": {
+      "DSD:kuliyapitiya_west": {
         "Religion:buddhist": {
           "Count": "Int:74412"
         },
@@ -2141,7 +2141,7 @@
           "Count": "Int:368"
         }
       },
-      "DSD:LK-8127": {
+      "DSD:uvaparanagama": {
         "Religion:buddhist": {
           "Count": "Int:69390"
         },
@@ -2161,7 +2161,7 @@
           "Count": "Int:241"
         }
       },
-      "DSD:LK-2206": {
+      "DSD:dambulla": {
         "Religion:buddhist": {
           "Count": "Int:77050"
         },
@@ -2181,7 +2181,7 @@
           "Count": "Int:369"
         }
       },
-      "DSD:LK-3315": {
+      "DSD:ambalantota": {
         "Religion:buddhist": {
           "Count": "Int:78046"
         },
@@ -2201,7 +2201,7 @@
           "Count": "Int:235"
         }
       },
-      "DSD:LK-2218": {
+      "DSD:matale": {
         "Religion:buddhist": {
           "Count": "Int:49101"
         },
@@ -2221,7 +2221,7 @@
           "Count": "Int:272"
         }
       },
-      "DSD:LK-3333": {
+      "DSD:tangalle": {
         "Religion:buddhist": {
           "Count": "Int:77974"
         },
@@ -2241,7 +2241,7 @@
           "Count": "Int:390"
         }
       },
-      "DSD:LK-2203": {
+      "DSD:galewela": {
         "Religion:buddhist": {
           "Count": "Int:62683"
         },
@@ -2261,7 +2261,7 @@
           "Count": "Int:274"
         }
       },
-      "DSD:LK-9142": {
+      "DSD:godakawela": {
         "Religion:buddhist": {
           "Count": "Int:60584"
         },
@@ -2281,7 +2281,7 @@
           "Count": "Int:167"
         }
       },
-      "DSD:LK-7133": {
+      "DSD:nuwaragam_palatha_east": {
         "Religion:buddhist": {
           "Count": "Int:71538"
         },
@@ -2301,7 +2301,7 @@
           "Count": "Int:189"
         }
       },
-      "DSD:LK-3239": {
+      "DSD:weligama": {
         "Religion:buddhist": {
           "Count": "Int:66983"
         },
@@ -2321,7 +2321,7 @@
           "Count": "Int:365"
         }
       },
-      "DSD:LK-4118": {
+      "DSD:valikamam_east_kopay": {
         "Religion:buddhist": {
           "Count": "Int:66"
         },
@@ -2341,7 +2341,7 @@
           "Count": "Int:117"
         }
       },
-      "DSD:LK-9118": {
+      "DSD:balangoda": {
         "Religion:buddhist": {
           "Count": "Int:54995"
         },
@@ -2361,7 +2361,7 @@
           "Count": "Int:167"
         }
       },
-      "DSD:LK-4509": {
+      "DSD:karachchi": {
         "Religion:buddhist": {
           "Count": "Int:1409"
         },
@@ -2381,7 +2381,7 @@
           "Count": "Int:151"
         }
       },
-      "DSD:LK-3309": {
+      "DSD:thissamaharama": {
         "Religion:buddhist": {
           "Count": "Int:71643"
         },
@@ -2401,7 +2401,7 @@
           "Count": "Int:241"
         }
       },
-      "DSD:LK-9103": {
+      "DSD:eheliyagoda": {
         "Religion:buddhist": {
           "Count": "Int:66173"
         },
@@ -2421,7 +2421,7 @@
           "Count": "Int:272"
         }
       },
-      "DSD:LK-9215": {
+      "DSD:galigamuwa": {
         "Religion:buddhist": {
           "Count": "Int:69494"
         },
@@ -2441,7 +2441,7 @@
           "Count": "Int:249"
         }
       },
-      "DSD:LK-8221": {
+      "DSD:wellawaya": {
         "Religion:buddhist": {
           "Count": "Int:71292"
         },
@@ -2461,7 +2461,7 @@
           "Count": "Int:189"
         }
       },
-      "DSD:LK-1118": {
+      "DSD:padukka": {
         "Religion:buddhist": {
           "Count": "Int:69188"
         },
@@ -2481,7 +2481,7 @@
           "Count": "Int:355"
         }
       },
-      "DSD:LK-4133": {
+      "DSD:nallur": {
         "Religion:buddhist": {
           "Count": "Int:1635"
         },
@@ -2501,7 +2501,7 @@
           "Count": "Int:215"
         }
       },
-      "DSD:LK-5218": {
+      "DSD:sammanthurai": {
         "Religion:buddhist": {
           "Count": "Int:511"
         },
@@ -2521,7 +2521,7 @@
           "Count": "Int:87"
         }
       },
-      "DSD:LK-6218": {
+      "DSD:mundel": {
         "Religion:buddhist": {
           "Count": "Int:12442"
         },
@@ -2541,7 +2541,7 @@
           "Count": "Int:151"
         }
       },
-      "DSD:LK-7206": {
+      "DSD:medirigiriya": {
         "Religion:buddhist": {
           "Count": "Int:70696"
         },
@@ -2561,7 +2561,7 @@
           "Count": "Int:217"
         }
       },
-      "DSD:LK-2233": {
+      "DSD:ukuwela": {
         "Religion:buddhist": {
           "Count": "Int:45225"
         },
@@ -2581,7 +2581,7 @@
           "Count": "Int:263"
         }
       },
-      "DSD:LK-5327": {
+      "DSD:muthur": {
         "Religion:buddhist": {
           "Count": "Int:241"
         },
@@ -2601,7 +2601,7 @@
           "Count": "Int:157"
         }
       },
-      "DSD:LK-7115": {
+      "DSD:nuwaragam_palatha_central": {
         "Religion:buddhist": {
           "Count": "Int:63644"
         },
@@ -2621,7 +2621,7 @@
           "Count": "Int:265"
         }
       },
-      "DSD:LK-6145": {
+      "DSD:panduwasnuwara_west": {
         "Religion:buddhist": {
           "Count": "Int:58481"
         },
@@ -2641,7 +2641,7 @@
           "Count": "Int:424"
         }
       },
-      "DSD:LK-2109": {
+      "DSD:akurana": {
         "Religion:buddhist": {
           "Count": "Int:19148"
         },
@@ -2661,7 +2661,7 @@
           "Count": "Int:164"
         }
       },
-      "DSD:LK-6160": {
+      "DSD:mawathagama": {
         "Religion:buddhist": {
           "Count": "Int:57291"
         },
@@ -2681,7 +2681,7 @@
           "Count": "Int:306"
         }
       },
-      "DSD:LK-7203": {
+      "DSD:higurakgoda": {
         "Religion:buddhist": {
           "Count": "Int:68762"
         },
@@ -2701,7 +2701,7 @@
           "Count": "Int:325"
         }
       },
-      "DSD:LK-9209": {
+      "DSD:aranayake": {
         "Religion:buddhist": {
           "Count": "Int:61972"
         },
@@ -2721,7 +2721,7 @@
           "Count": "Int:253"
         }
       },
-      "DSD:LK-3106": {
+      "DSD:balapitiya": {
         "Religion:buddhist": {
           "Count": "Int:66727"
         },
@@ -2741,7 +2741,7 @@
           "Count": "Int:266"
         }
       },
-      "DSD:LK-4130": {
+      "DSD:thenmaradchi_chavakachcheri": {
         "Religion:buddhist": {
           "Count": "Int:92"
         },
@@ -2761,7 +2761,7 @@
           "Count": "Int:250"
         }
       },
-      "DSD:LK-6187": {
+      "DSD:polgahawela": {
         "Religion:buddhist": {
           "Count": "Int:58139"
         },
@@ -2781,7 +2781,7 @@
           "Count": "Int:443"
         }
       },
-      "DSD:LK-5203": {
+      "DSD:dehiattakandiya": {
         "Religion:buddhist": {
           "Count": "Int:66971"
         },
@@ -2801,7 +2801,7 @@
           "Count": "Int:118"
         }
       },
-      "DSD:LK-3312": {
+      "DSD:hambantota": {
         "Religion:buddhist": {
           "Count": "Int:54707"
         },
@@ -2821,7 +2821,7 @@
           "Count": "Int:193"
         }
       },
-      "DSD:LK-1327": {
+      "DSD:dodangoda": {
         "Religion:buddhist": {
           "Count": "Int:58894"
         },
@@ -2841,7 +2841,7 @@
           "Count": "Int:241"
         }
       },
-      "DSD:LK-6142": {
+      "DSD:bingiriya": {
         "Religion:buddhist": {
           "Count": "Int:57503"
         },
@@ -2861,7 +2861,7 @@
           "Count": "Int:301"
         }
       },
-      "DSD:LK-3112": {
+      "DSD:elpitiya": {
         "Religion:buddhist": {
           "Count": "Int:64758"
         },
@@ -2881,7 +2881,7 @@
           "Count": "Int:185"
         }
       },
-      "DSD:LK-6136": {
+      "DSD:wariyapola": {
         "Religion:buddhist": {
           "Count": "Int:64464"
         },
@@ -2901,7 +2901,7 @@
           "Count": "Int:309"
         }
       },
-      "DSD:LK-9221": {
+      "DSD:ruwanwella": {
         "Religion:buddhist": {
           "Count": "Int:56321"
         },
@@ -2921,7 +2921,7 @@
           "Count": "Int:198"
         }
       },
-      "DSD:LK-6184": {
+      "DSD:alawwa": {
         "Religion:buddhist": {
           "Count": "Int:65134"
         },
@@ -2941,7 +2941,7 @@
           "Count": "Int:227"
         }
       },
-      "DSD:LK-2157": {
+      "DSD:pasbagekorale": {
         "Religion:buddhist": {
           "Count": "Int:31091"
         },
@@ -2961,7 +2961,7 @@
           "Count": "Int:137"
         }
       },
-      "DSD:LK-1312": {
+      "DSD:bulathsinhala": {
         "Religion:buddhist": {
           "Count": "Int:55212"
         },
@@ -2981,7 +2981,7 @@
           "Count": "Int:222"
         }
       },
-      "DSD:LK-6242": {
+      "DSD:nattandiya": {
         "Religion:buddhist": {
           "Count": "Int:30286"
         },
@@ -3001,7 +3001,7 @@
           "Count": "Int:180"
         }
       },
-      "DSD:LK-8133": {
+      "DSD:bandarawela": {
         "Religion:buddhist": {
           "Count": "Int:47050"
         },
@@ -3021,7 +3021,7 @@
           "Count": "Int:177"
         }
       },
-      "DSD:LK-7154": {
+      "DSD:kekirawa": {
         "Religion:buddhist": {
           "Count": "Int:50575"
         },
@@ -3041,7 +3041,7 @@
           "Count": "Int:225"
         }
       },
-      "DSD:LK-2309": {
+      "DSD:walapane": {
         "Religion:buddhist": {
           "Count": "Int:34123"
         },
@@ -3061,7 +3061,7 @@
           "Count": "Int:158"
         }
       },
-      "DSD:LK-6245": {
+      "DSD:wennappuwa": {
         "Religion:buddhist": {
           "Count": "Int:12250"
         },
@@ -3081,7 +3081,7 @@
           "Count": "Int:171"
         }
       },
-      "DSD:LK-9115": {
+      "DSD:imbulpe": {
         "Religion:buddhist": {
           "Count": "Int:55075"
         },
@@ -3101,7 +3101,7 @@
           "Count": "Int:192"
         }
       },
-      "DSD:LK-2124": {
+      "DSD:medadumbara": {
         "Religion:buddhist": {
           "Count": "Int:47818"
         },
@@ -3121,7 +3121,7 @@
           "Count": "Int:353"
         }
       },
-      "DSD:LK-6124": {
+      "DSD:maho": {
         "Religion:buddhist": {
           "Count": "Int:59715"
         },
@@ -3141,7 +3141,7 @@
           "Count": "Int:231"
         }
       },
-      "DSD:LK-3109": {
+      "DSD:karandeniya": {
         "Religion:buddhist": {
           "Count": "Int:62611"
         },
@@ -3161,7 +3161,7 @@
           "Count": "Int:186"
         }
       },
-      "DSD:LK-6233": {
+      "DSD:chilaw": {
         "Religion:buddhist": {
           "Count": "Int:24705"
         },
@@ -3181,7 +3181,7 @@
           "Count": "Int:207"
         }
       },
-      "DSD:LK-3154": {
+      "DSD:habaraduwa": {
         "Religion:buddhist": {
           "Count": "Int:62715"
         },
@@ -3201,7 +3201,7 @@
           "Count": "Int:347"
         }
       },
-      "DSD:LK-8212": {
+      "DSD:siyambalanduwa": {
         "Religion:buddhist": {
           "Count": "Int:62813"
         },
@@ -3221,7 +3221,7 @@
           "Count": "Int:143"
         }
       },
-      "DSD:LK-5136": {
+      "DSD:manmunai_south_and_eruvil_pattu": {
         "Religion:buddhist": {
           "Count": "Int:50"
         },
@@ -3241,7 +3241,7 @@
           "Count": "Int:213"
         }
       },
-      "DSD:LK-6248": {
+      "DSD:dankotuwa": {
         "Religion:buddhist": {
           "Count": "Int:43375"
         },
@@ -3261,7 +3261,7 @@
           "Count": "Int:208"
         }
       },
-      "DSD:LK-9227": {
+      "DSD:yatiyantota": {
         "Religion:buddhist": {
           "Count": "Int:45325"
         },
@@ -3281,7 +3281,7 @@
           "Count": "Int:143"
         }
       },
-      "DSD:LK-5212": {
+      "DSD:uhana": {
         "Religion:buddhist": {
           "Count": "Int:61966"
         },
@@ -3301,7 +3301,7 @@
           "Count": "Int:168"
         }
       },
-      "DSD:LK-6106": {
+      "DSD:galgamuwa": {
         "Religion:buddhist": {
           "Count": "Int:56429"
         },
@@ -3321,7 +3321,7 @@
           "Count": "Int:213"
         }
       },
-      "DSD:LK-2303": {
+      "DSD:kothmale_east": {
         "Religion:buddhist": {
           "Count": "Int:27575"
         },
@@ -3341,7 +3341,7 @@
           "Count": "Int:199"
         }
       },
-      "DSD:LK-6169": {
+      "DSD:kuliyapitiya_east": {
         "Religion:buddhist": {
           "Count": "Int:39425"
         },
@@ -3361,7 +3361,7 @@
           "Count": "Int:245"
         }
       },
-      "DSD:LK-7148": {
+      "DSD:thalawa": {
         "Religion:buddhist": {
           "Count": "Int:60125"
         },
@@ -3381,7 +3381,7 @@
           "Count": "Int:236"
         }
       },
-      "DSD:LK-3209": {
+      "DSD:pasgoda": {
         "Religion:buddhist": {
           "Count": "Int:58982"
         },
@@ -3401,7 +3401,7 @@
           "Count": "Int:142"
         }
       },
-      "DSD:LK-3206": {
+      "DSD:kotapola": {
         "Religion:buddhist": {
           "Count": "Int:50977"
         },
@@ -3421,7 +3421,7 @@
           "Count": "Int:98"
         }
       },
-      "DSD:LK-8106": {
+      "DSD:rideemaliyadda": {
         "Religion:buddhist": {
           "Count": "Int:60652"
         },
@@ -3441,7 +3441,7 @@
           "Count": "Int:119"
         }
       },
-      "DSD:LK-2145": {
+      "DSD:pathahewaheta": {
         "Religion:buddhist": {
           "Count": "Int:54367"
         },
@@ -3461,7 +3461,7 @@
           "Count": "Int:293"
         }
       },
-      "DSD:LK-8224": {
+      "DSD:buttala": {
         "Religion:buddhist": {
           "Count": "Int:59547"
         },
@@ -3481,7 +3481,7 @@
           "Count": "Int:182"
         }
       },
-      "DSD:LK-2106": {
+      "DSD:poojapitiya": {
         "Religion:buddhist": {
           "Count": "Int:47714"
         },
@@ -3501,7 +3501,7 @@
           "Count": "Int:269"
         }
       },
-      "DSD:LK-6181": {
+      "DSD:narammala": {
         "Religion:buddhist": {
           "Count": "Int:55045"
         },
@@ -3521,7 +3521,7 @@
           "Count": "Int:273"
         }
       },
-      "DSD:LK-3133": {
+      "DSD:ambalangoda": {
         "Religion:buddhist": {
           "Count": "Int:59209"
         },
@@ -3541,7 +3541,7 @@
           "Count": "Int:257"
         }
       },
-      "DSD:LK-6157": {
+      "DSD:mallawapitiya": {
         "Religion:buddhist": {
           "Count": "Int:46464"
         },
@@ -3561,7 +3561,7 @@
           "Count": "Int:290"
         }
       },
-      "DSD:LK-9136": {
+      "DSD:nivithigala": {
         "Religion:buddhist": {
           "Count": "Int:49271"
         },
@@ -3581,7 +3581,7 @@
           "Count": "Int:88"
         }
       },
-      "DSD:LK-2154": {
+      "DSD:ganga_ihala_korale": {
         "Religion:buddhist": {
           "Count": "Int:47735"
         },
@@ -3601,7 +3601,7 @@
           "Count": "Int:129"
         }
       },
-      "DSD:LK-2306": {
+      "DSD:hanguranketa": {
         "Religion:buddhist": {
           "Count": "Int:51429"
         },
@@ -3621,7 +3621,7 @@
           "Count": "Int:238"
         }
       },
-      "DSD:LK-3330": {
+      "DSD:beliatta": {
         "Religion:buddhist": {
           "Count": "Int:58480"
         },
@@ -3641,7 +3641,7 @@
           "Count": "Int:146"
         }
       },
-      "DSD:LK-1310": {
+      "DSD:ingiriya": {
         "Religion:buddhist": {
           "Count": "Int:51949"
         },
@@ -3661,7 +3661,7 @@
           "Count": "Int:171"
         }
       },
-      "DSD:LK-3142": {
+      "DSD:bope_poddala": {
         "Religion:buddhist": {
           "Count": "Int:55087"
         },
@@ -3681,7 +3681,7 @@
           "Count": "Int:280"
         }
       },
-      "DSD:LK-4203": {
+      "DSD:mannar_town": {
         "Religion:buddhist": {
           "Count": "Int:31"
         },
@@ -3701,7 +3701,7 @@
           "Count": "Int:189"
         }
       },
-      "DSD:LK-8215": {
+      "DSD:monaragala": {
         "Religion:buddhist": {
           "Count": "Int:48622"
         },
@@ -3721,7 +3721,7 @@
           "Count": "Int:105"
         }
       },
-      "DSD:LK-3248": {
+      "DSD:dikwella": {
         "Religion:buddhist": {
           "Count": "Int:53164"
         },
@@ -3741,7 +3741,7 @@
           "Count": "Int:186"
         }
       },
-      "DSD:LK-1318": {
+      "DSD:millaniya": {
         "Religion:buddhist": {
           "Count": "Int:54041"
         },
@@ -3761,7 +3761,7 @@
           "Count": "Int:290"
         }
       },
-      "DSD:LK-3221": {
+      "DSD:welipitiya": {
         "Religion:buddhist": {
           "Count": "Int:47466"
         },
@@ -3781,7 +3781,7 @@
           "Count": "Int:200"
         }
       },
-      "DSD:LK-7139": {
+      "DSD:nochchiyagama": {
         "Religion:buddhist": {
           "Count": "Int:52281"
         },
@@ -3801,7 +3801,7 @@
           "Count": "Int:141"
         }
       },
-      "DSD:LK-2121": {
+      "DSD:minipe": {
         "Religion:buddhist": {
           "Count": "Int:54927"
         },
@@ -3821,7 +3821,7 @@
           "Count": "Int:126"
         }
       },
-      "DSD:LK-1339": {
+      "DSD:walallawita": {
         "Religion:buddhist": {
           "Count": "Int:53425"
         },
@@ -3841,7 +3841,7 @@
           "Count": "Int:260"
         }
       },
-      "DSD:LK-6175": {
+      "DSD:udubaddawa": {
         "Religion:buddhist": {
           "Count": "Int:40612"
         },
@@ -3861,7 +3861,7 @@
           "Count": "Int:254"
         }
       },
-      "DSD:LK-2230": {
+      "DSD:rattota": {
         "Religion:buddhist": {
           "Count": "Int:38189"
         },
@@ -3881,7 +3881,7 @@
           "Count": "Int:247"
         }
       },
-      "DSD:LK-3218": {
+      "DSD:akuressa": {
         "Religion:buddhist": {
           "Count": "Int:51918"
         },
@@ -3901,7 +3901,7 @@
           "Count": "Int:221"
         }
       },
-      "DSD:LK-3318": {
+      "DSD:angunakolapelessa": {
         "Religion:buddhist": {
           "Count": "Int:53299"
         },
@@ -3921,7 +3921,7 @@
           "Count": "Int:110"
         }
       },
-      "DSD:LK-5233": {
+      "DSD:addalaichenai": {
         "Religion:buddhist": {
           "Count": "Int:3424"
         },
@@ -3941,7 +3941,7 @@
           "Count": "Int:63"
         }
       },
-      "DSD:LK-5224": {
+      "DSD:kalmunai": {
         "Religion:buddhist": {
           "Count": "Int:25"
         },
@@ -3961,7 +3961,7 @@
           "Count": "Int:51"
         }
       },
-      "DSD:LK-2142": {
+      "DSD:doluwa": {
         "Religion:buddhist": {
           "Count": "Int:39190"
         },
@@ -3981,7 +3981,7 @@
           "Count": "Int:170"
         }
       },
-      "DSD:LK-3303": {
+      "DSD:sooriyawewa": {
         "Religion:buddhist": {
           "Count": "Int:52554"
         },
@@ -4001,7 +4001,7 @@
           "Count": "Int:111"
         }
       },
-      "DSD:LK-7109": {
+      "DSD:medawachchiya": {
         "Religion:buddhist": {
           "Count": "Int:48517"
         },
@@ -4021,7 +4021,7 @@
           "Count": "Int:166"
         }
       },
-      "DSD:LK-3324": {
+      "DSD:katuwana": {
         "Religion:buddhist": {
           "Count": "Int:52070"
         },
@@ -4041,7 +4041,7 @@
           "Count": "Int:99"
         }
       },
-      "DSD:LK-4109": {
+      "DSD:valikamam_south_west_sandilipay": {
         "Religion:buddhist": {
           "Count": "Int:0"
         },
@@ -4061,7 +4061,7 @@
           "Count": "Int:64"
         }
       },
-      "DSD:LK-3124": {
+      "DSD:nagoda": {
         "Religion:buddhist": {
           "Count": "Int:47836"
         },
@@ -4081,7 +4081,7 @@
           "Count": "Int:178"
         }
       },
-      "DSD:LK-7127": {
+      "DSD:galenbidunuwewa": {
         "Religion:buddhist": {
           "Count": "Int:50009"
         },
@@ -4101,7 +4101,7 @@
           "Count": "Int:130"
         }
       },
-      "DSD:LK-3212": {
+      "DSD:mulatiyana": {
         "Religion:buddhist": {
           "Count": "Int:51488"
         },
@@ -4121,7 +4121,7 @@
           "Count": "Int:83"
         }
       },
-      "DSD:LK-1336": {
+      "DSD:palindanuwara": {
         "Religion:buddhist": {
           "Count": "Int:46610"
         },
@@ -4141,7 +4141,7 @@
           "Count": "Int:214"
         }
       },
-      "DSD:LK-3127": {
+      "DSD:baddegama": {
         "Religion:buddhist": {
           "Count": "Int:49399"
         },
@@ -4161,7 +4161,7 @@
           "Count": "Int:201"
         }
       },
-      "DSD:LK-5321": {
+      "DSD:kantale": {
         "Religion:buddhist": {
           "Count": "Int:39986"
         },
@@ -4181,7 +4181,7 @@
           "Count": "Int:95"
         }
       },
-      "DSD:LK-9133": {
+      "DSD:kalawana": {
         "Religion:buddhist": {
           "Count": "Int:44599"
         },
@@ -4201,7 +4201,7 @@
           "Count": "Int:132"
         }
       },
-      "DSD:LK-4115": {
+      "DSD:valikamam_south_uduvil": {
         "Religion:buddhist": {
           "Count": "Int:11"
         },
@@ -4221,7 +4221,7 @@
           "Count": "Int:150"
         }
       },
-      "DSD:LK-9151": {
+      "DSD:kolonna": {
         "Religion:buddhist": {
           "Count": "Int:45356"
         },
@@ -4241,7 +4241,7 @@
           "Count": "Int:91"
         }
       },
-      "DSD:LK-3103": {
+      "DSD:bentota": {
         "Religion:buddhist": {
           "Count": "Int:48312"
         },
@@ -4261,7 +4261,7 @@
           "Count": "Int:277"
         }
       },
-      "DSD:LK-8118": {
+      "DSD:passara": {
         "Religion:buddhist": {
           "Count": "Int:27171"
         },
@@ -4281,7 +4281,7 @@
           "Count": "Int:155"
         }
       },
-      "DSD:LK-8136": {
+      "DSD:ella": {
         "Religion:buddhist": {
           "Count": "Int:32363"
         },
@@ -4301,7 +4301,7 @@
           "Count": "Int:167"
         }
       },
-      "DSD:LK-8233": {
+      "DSD:sevanagala": {
         "Religion:buddhist": {
           "Count": "Int:49252"
         },
@@ -4321,7 +4321,7 @@
           "Count": "Int:124"
         }
       },
-      "DSD:LK-3245": {
+      "DSD:devinuwara": {
         "Religion:buddhist": {
           "Count": "Int:48267"
         },
@@ -4341,7 +4341,7 @@
           "Count": "Int:187"
         }
       },
-      "DSD:LK-6236": {
+      "DSD:madampe": {
         "Religion:buddhist": {
           "Count": "Int:36282"
         },
@@ -4361,7 +4361,7 @@
           "Count": "Int:202"
         }
       },
-      "DSD:LK-3203": {
+      "DSD:pitabaddara": {
         "Religion:buddhist": {
           "Count": "Int:45984"
         },
@@ -4381,7 +4381,7 @@
           "Count": "Int:154"
         }
       },
-      "DSD:LK-6239": {
+      "DSD:mahawewa": {
         "Religion:buddhist": {
           "Count": "Int:23033"
         },
@@ -4401,7 +4401,7 @@
           "Count": "Int:215"
         }
       },
-      "DSD:LK-7218": {
+      "DSD:elahera": {
         "Religion:buddhist": {
           "Count": "Int:48299"
         },
@@ -4421,7 +4421,7 @@
           "Count": "Int:174"
         }
       },
-      "DSD:LK-4136": {
+      "DSD:jaffna": {
         "Religion:buddhist": {
           "Count": "Int:514"
         },
@@ -4441,7 +4441,7 @@
           "Count": "Int:48"
         }
       },
-      "DSD:LK-8139": {
+      "DSD:haputale": {
         "Religion:buddhist": {
           "Count": "Int:24432"
         },
@@ -4461,7 +4461,7 @@
           "Count": "Int:97"
         }
       },
-      "DSD:LK-3321": {
+      "DSD:weeraketiya": {
         "Religion:buddhist": {
           "Count": "Int:47170"
         },
@@ -4481,7 +4481,7 @@
           "Count": "Int:96"
         }
       },
-      "DSD:LK-3151": {
+      "DSD:imaduwa": {
         "Religion:buddhist": {
           "Count": "Int:47909"
         },
@@ -4501,7 +4501,7 @@
           "Count": "Int:181"
         }
       },
-      "DSD:LK-3325": {
+      "DSD:walasmulla": {
         "Religion:buddhist": {
           "Count": "Int:47778"
         },
@@ -4521,7 +4521,7 @@
           "Count": "Int:65"
         }
       },
-      "DSD:LK-5215": {
+      "DSD:ampara": {
         "Religion:buddhist": {
           "Count": "Int:46871"
         },
@@ -4541,7 +4541,7 @@
           "Count": "Int:147"
         }
       },
-      "DSD:LK-8203": {
+      "DSD:bibile": {
         "Religion:buddhist": {
           "Count": "Int:44824"
         },
@@ -4561,7 +4561,7 @@
           "Count": "Int:199"
         }
       },
-      "DSD:LK-7145": {
+      "DSD:thambuththegama": {
         "Religion:buddhist": {
           "Count": "Int:45654"
         },
@@ -4581,7 +4581,7 @@
           "Count": "Int:127"
         }
       },
-      "DSD:LK-3148": {
+      "DSD:yakkalamulla": {
         "Religion:buddhist": {
           "Count": "Int:43954"
         },
@@ -4601,7 +4601,7 @@
           "Count": "Int:167"
         }
       },
-      "DSD:LK-8218": {
+      "DSD:badalkumbura": {
         "Religion:buddhist": {
           "Count": "Int:39597"
         },
@@ -4621,7 +4621,7 @@
           "Count": "Int:112"
         }
       },
-      "DSD:LK-9224": {
+      "DSD:bulathkohipitiya": {
         "Religion:buddhist": {
           "Count": "Int:37337"
         },
@@ -4641,7 +4641,7 @@
           "Count": "Int:117"
         }
       },
-      "DSD:LK-4106": {
+      "DSD:valikamam_west_chankanai": {
         "Religion:buddhist": {
           "Count": "Int:0"
         },
@@ -4661,7 +4661,7 @@
           "Count": "Int:111"
         }
       },
-      "DSD:LK-5236": {
+      "DSD:akkaraipattu": {
         "Religion:buddhist": {
           "Count": "Int:71"
         },
@@ -4681,7 +4681,7 @@
           "Count": "Int:38"
         }
       },
-      "DSD:LK-4112": {
+      "DSD:valikamam_north_thllippalai": {
         "Religion:buddhist": {
           "Count": "Int:37"
         },
@@ -4701,7 +4701,7 @@
           "Count": "Int:147"
         }
       },
-      "DSD:LK-7121": {
+      "DSD:kahatagasdigiliya": {
         "Religion:buddhist": {
           "Count": "Int:34067"
         },
@@ -4721,7 +4721,7 @@
           "Count": "Int:135"
         }
       },
-      "DSD:LK-5124": {
+      "DSD:kattankudy": {
         "Religion:buddhist": {
           "Count": "Int:25"
         },
@@ -4741,7 +4741,7 @@
           "Count": "Int:44"
         }
       },
-      "DSD:LK-8209": {
+      "DSD:medagama": {
         "Religion:buddhist": {
           "Count": "Int:37655"
         },
@@ -4761,7 +4761,7 @@
           "Count": "Int:97"
         }
       },
-      "DSD:LK-7130": {
+      "DSD:mihinthale": {
         "Religion:buddhist": {
           "Count": "Int:40807"
         },
@@ -4781,7 +4781,7 @@
           "Count": "Int:135"
         }
       },
-      "DSD:LK-9233": {
+      "DSD:deraniyagala": {
         "Religion:buddhist": {
           "Count": "Int:34585"
         },
@@ -4801,7 +4801,7 @@
           "Count": "Int:99"
         }
       },
-      "DSD:LK-9139": {
+      "DSD:kahawattha": {
         "Religion:buddhist": {
           "Count": "Int:33355"
         },
@@ -4821,7 +4821,7 @@
           "Count": "Int:76"
         }
       },
-      "DSD:LK-6224": {
+      "DSD:anamaduwa": {
         "Religion:buddhist": {
           "Count": "Int:41078"
         },
@@ -4841,7 +4841,7 @@
           "Count": "Int:216"
         }
       },
-      "DSD:LK-6133": {
+      "DSD:ganewatta": {
         "Religion:buddhist": {
           "Count": "Int:40474"
         },
@@ -4861,7 +4861,7 @@
           "Count": "Int:220"
         }
       },
-      "DSD:LK-6121": {
+      "DSD:nikaweratiya": {
         "Religion:buddhist": {
           "Count": "Int:40838"
         },
@@ -4881,7 +4881,7 @@
           "Count": "Int:172"
         }
       },
-      "DSD:LK-4127": {
+      "DSD:vadamaradchi_north_point_pedro": {
         "Religion:buddhist": {
           "Count": "Int:42"
         },
@@ -4901,7 +4901,7 @@
           "Count": "Int:132"
         }
       },
-      "DSD:LK-5248": {
+      "DSD:pottuvil": {
         "Religion:buddhist": {
           "Count": "Int:738"
         },
@@ -4921,7 +4921,7 @@
           "Count": "Int:69"
         }
       },
-      "DSD:LK-3227": {
+      "DSD:kaburupitiya": {
         "Religion:buddhist": {
           "Count": "Int:42577"
         },
@@ -4941,7 +4941,7 @@
           "Count": "Int:132"
         }
       },
-      "DSD:LK-6230": {
+      "DSD:arachchikattuwa": {
         "Religion:buddhist": {
           "Count": "Int:26320"
         },
@@ -4961,7 +4961,7 @@
           "Count": "Int:160"
         }
       },
-      "DSD:LK-2315": {
+      "DSD:ambagamuwa_korale": {
         "Religion:buddhist": {
           "Count": "Int:32712"
         },
@@ -4981,7 +4981,7 @@
           "Count": "Int:130"
         }
       },
-      "DSD:LK-2310": {
+      "DSD:nildandahinna": {
         "Religion:buddhist": {
           "Count": "Int:32330"
         },
@@ -5001,7 +5001,7 @@
           "Count": "Int:114"
         }
       },
-      "DSD:LK-7160": {
+      "DSD:ipalogama": {
         "Religion:buddhist": {
           "Count": "Int:35204"
         },
@@ -5021,7 +5021,7 @@
           "Count": "Int:212"
         }
       },
-      "DSD:LK-2302": {
+      "DSD:kothmale_west": {
         "Religion:buddhist": {
           "Count": "Int:26599"
         },
@@ -5041,7 +5041,7 @@
           "Count": "Int:128"
         }
       },
-      "DSD:LK-6151": {
+      "DSD:maspotha": {
         "Religion:buddhist": {
           "Count": "Int:38268"
         },
@@ -5061,7 +5061,7 @@
           "Count": "Int:209"
         }
       },
-      "DSD:LK-3137": {
+      "DSD:rathgama": {
         "Religion:buddhist": {
           "Count": "Int:41166"
         },
@@ -5081,7 +5081,7 @@
           "Count": "Int:112"
         }
       },
-      "DSD:LK-7124": {
+      "DSD:horowpathana": {
         "Religion:buddhist": {
           "Count": "Int:28928"
         },
@@ -5101,7 +5101,7 @@
           "Count": "Int:107"
         }
       },
-      "DSD:LK-4121": {
+      "DSD:vadamaradchchi_south_west_karaveddy": {
         "Religion:buddhist": {
           "Count": "Int:0"
         },
@@ -5121,7 +5121,7 @@
           "Count": "Int:158"
         }
       },
-      "DSD:LK-6139": {
+      "DSD:kobeigane": {
         "Religion:buddhist": {
           "Count": "Int:34325"
         },
@@ -5141,7 +5141,7 @@
           "Count": "Int:226"
         }
       },
-      "DSD:LK-5242": {
+      "DSD:damana": {
         "Religion:buddhist": {
           "Count": "Int:39977"
         },
@@ -5161,7 +5161,7 @@
           "Count": "Int:111"
         }
       },
-      "DSD:LK-5306": {
+      "DSD:kuchchaweli": {
         "Religion:buddhist": {
           "Count": "Int:1514"
         },
@@ -5181,7 +5181,7 @@
           "Count": "Int:113"
         }
       },
-      "DSD:LK-7118": {
+      "DSD:rambewa": {
         "Religion:buddhist": {
           "Count": "Int:34412"
         },
@@ -5201,7 +5201,7 @@
           "Count": "Int:147"
         }
       },
-      "DSD:LK-7209": {
+      "DSD:lankapura": {
         "Religion:buddhist": {
           "Count": "Int:26904"
         },
@@ -5221,7 +5221,7 @@
           "Count": "Int:113"
         }
       },
-      "DSD:LK-4409": {
+      "DSD:puthukkudiyiruppu": {
         "Religion:buddhist": {
           "Count": "Int:15"
         },
@@ -5241,7 +5241,7 @@
           "Count": "Int:71"
         }
       },
-      "DSD:LK-7163": {
+      "DSD:galnewa": {
         "Religion:buddhist": {
           "Count": "Int:36572"
         },
@@ -5261,7 +5261,7 @@
           "Count": "Int:114"
         }
       },
-      "DSD:LK-6149": {
+      "DSD:bamunakotuwa": {
         "Religion:buddhist": {
           "Count": "Int:37709"
         },
@@ -5281,7 +5281,7 @@
           "Count": "Int:228"
         }
       },
-      "DSD:LK-8142": {
+      "DSD:haldummulla": {
         "Religion:buddhist": {
           "Count": "Int:21455"
         },
@@ -5301,7 +5301,7 @@
           "Count": "Int:172"
         }
       },
-      "DSD:LK-2103": {
+      "DSD:tumpane": {
         "Religion:buddhist": {
           "Count": "Int:35275"
         },
@@ -5321,7 +5321,7 @@
           "Count": "Int:255"
         }
       },
-      "DSD:LK-5133": {
+      "DSD:porativu_pattu": {
         "Religion:buddhist": {
           "Count": "Int:194"
         },
@@ -5341,7 +5341,7 @@
           "Count": "Int:177"
         }
       },
-      "DSD:LK-7166": {
+      "DSD:palagala": {
         "Religion:buddhist": {
           "Count": "Int:32444"
         },
@@ -5361,7 +5361,7 @@
           "Count": "Int:133"
         }
       },
-      "DSD:LK-9127": {
+      "DSD:elapatha": {
         "Religion:buddhist": {
           "Count": "Int:36520"
         },
@@ -5381,7 +5381,7 @@
           "Count": "Int:125"
         }
       },
-      "DSD:LK-7210": {
+      "DSD:welikanda": {
         "Religion:buddhist": {
           "Count": "Int:27991"
         },
@@ -5401,7 +5401,7 @@
           "Count": "Int:118"
         }
       },
-      "DSD:LK-3306": {
+      "DSD:lunugamwehera": {
         "Religion:buddhist": {
           "Count": "Int:36059"
         },
@@ -5421,7 +5421,7 @@
           "Count": "Int:160"
         }
       },
-      "DSD:LK-4415": {
+      "DSD:maritimepattu": {
         "Religion:buddhist": {
           "Count": "Int:0"
         },
@@ -5441,7 +5441,7 @@
           "Count": "Int:189"
         }
       },
-      "DSD:LK-1315": {
+      "DSD:madurawala": {
         "Religion:buddhist": {
           "Count": "Int:33551"
         },
@@ -5461,7 +5461,7 @@
           "Count": "Int:176"
         }
       },
-      "DSD:LK-6166": {
+      "DSD:weerabugedara": {
         "Religion:buddhist": {
           "Count": "Int:35523"
         },
@@ -5481,7 +5481,7 @@
           "Count": "Int:233"
         }
       },
-      "DSD:LK-1333": {
+      "DSD:agalawatta": {
         "Religion:buddhist": {
           "Count": "Int:35487"
         },
@@ -5501,7 +5501,7 @@
           "Count": "Int:208"
         }
       },
-      "DSD:LK-5127": {
+      "DSD:manmunai_pattu": {
         "Religion:buddhist": {
           "Count": "Int:61"
         },
@@ -5521,7 +5521,7 @@
           "Count": "Int:142"
         }
       },
-      "DSD:LK-8206": {
+      "DSD:madulla": {
         "Religion:buddhist": {
           "Count": "Int:36280"
         },
@@ -5541,7 +5541,7 @@
           "Count": "Int:66"
         }
       },
-      "DSD:LK-7142": {
+      "DSD:rajanganaya": {
         "Religion:buddhist": {
           "Count": "Int:35641"
         },
@@ -5561,7 +5561,7 @@
           "Count": "Int:114"
         }
       },
-      "DSD:LK-3224": {
+      "DSD:malimbada": {
         "Religion:buddhist": {
           "Count": "Int:35392"
         },
@@ -5581,7 +5581,7 @@
           "Count": "Int:140"
         }
       },
-      "DSD:LK-3115": {
+      "DSD:niyagama": {
         "Religion:buddhist": {
           "Count": "Int:35315"
         },
@@ -5601,7 +5601,7 @@
           "Count": "Int:122"
         }
       },
-      "DSD:LK-6103": {
+      "DSD:giribawa": {
         "Religion:buddhist": {
           "Count": "Int:31704"
         },
@@ -5621,7 +5621,7 @@
           "Count": "Int:139"
         }
       },
-      "DSD:LK-3236": {
+      "DSD:thihagoda": {
         "Religion:buddhist": {
           "Count": "Int:34176"
         },
@@ -5641,7 +5641,7 @@
           "Count": "Int:108"
         }
       },
-      "DSD:LK-9145": {
+      "DSD:weligepola": {
         "Religion:buddhist": {
           "Count": "Int:33774"
         },
@@ -5661,7 +5661,7 @@
           "Count": "Int:73"
         }
       },
-      "DSD:LK-2227": {
+      "DSD:wilgamuwa": {
         "Religion:buddhist": {
           "Count": "Int:33653"
         },
@@ -5681,7 +5681,7 @@
           "Count": "Int:62"
         }
       },
-      "DSD:LK-5318": {
+      "DSD:thambalagamuwa": {
         "Religion:buddhist": {
           "Count": "Int:7436"
         },
@@ -5701,7 +5701,7 @@
           "Count": "Int:56"
         }
       },
-      "DSD:LK-9109": {
+      "DSD:kiriella": {
         "Religion:buddhist": {
           "Count": "Int:32480"
         },
@@ -5721,7 +5721,7 @@
           "Count": "Int:129"
         }
       },
-      "DSD:LK-3135": {
+      "DSD:madampagama": {
         "Religion:buddhist": {
           "Count": "Int:33239"
         },
@@ -5741,7 +5741,7 @@
           "Count": "Int:140"
         }
       },
-      "DSD:LK-2307": {
+      "DSD:mathurata": {
         "Religion:buddhist": {
           "Count": "Int:28524"
         },
@@ -5761,7 +5761,7 @@
           "Count": "Int:106"
         }
       },
-      "DSD:LK-3230": {
+      "DSD:hakmana": {
         "Religion:buddhist": {
           "Count": "Int:31894"
         },
@@ -5781,7 +5781,7 @@
           "Count": "Int:72"
         }
       },
-      "DSD:LK-5121": {
+      "DSD:manmunai_west": {
         "Religion:buddhist": {
           "Count": "Int:0"
         },
@@ -5801,7 +5801,7 @@
           "Count": "Int:121"
         }
       },
-      "DSD:LK-3215": {
+      "DSD:athuraliya": {
         "Religion:buddhist": {
           "Count": "Int:30049"
         },
@@ -5821,7 +5821,7 @@
           "Count": "Int:120"
         }
       },
-      "DSD:LK-2215": {
+      "DSD:yatawatta": {
         "Religion:buddhist": {
           "Count": "Int:26773"
         },
@@ -5841,7 +5841,7 @@
           "Count": "Int:168"
         }
       },
-      "DSD:LK-2148": {
+      "DSD:deltota": {
         "Religion:buddhist": {
           "Count": "Int:12593"
         },
@@ -5861,7 +5861,7 @@
           "Count": "Int:87"
         }
       },
-      "DSD:LK-8119": {
+      "DSD:lunugala": {
         "Religion:buddhist": {
           "Count": "Int:12807"
         },
@@ -5881,7 +5881,7 @@
           "Count": "Int:83"
         }
       },
-      "DSD:LK-6148": {
+      "DSD:panduwasnuwara_east": {
         "Religion:buddhist": {
           "Count": "Int:30369"
         },
@@ -5901,7 +5901,7 @@
           "Count": "Int:177"
         }
       },
-      "DSD:LK-2212": {
+      "DSD:pallepola": {
         "Religion:buddhist": {
           "Count": "Int:29369"
         },
@@ -5921,7 +5921,7 @@
           "Count": "Int:173"
         }
       },
-      "DSD:LK-5221": {
+      "DSD:kalmunai_north": {
         "Religion:buddhist": {
           "Count": "Int:77"
         },
@@ -5941,7 +5941,7 @@
           "Count": "Int:147"
         }
       },
-      "DSD:LK-8230": {
+      "DSD:thanamalwila": {
         "Religion:buddhist": {
           "Count": "Int:31070"
         },
@@ -5961,7 +5961,7 @@
           "Count": "Int:89"
         }
       },
-      "DSD:LK-2134": {
+      "DSD:hatharaliyadda": {
         "Religion:buddhist": {
           "Count": "Int:29096"
         },
@@ -5981,7 +5981,7 @@
           "Count": "Int:103"
         }
       },
-      "DSD:LK-7151": {
+      "DSD:thirappane": {
         "Religion:buddhist": {
           "Count": "Int:28174"
         },
@@ -6001,7 +6001,7 @@
           "Count": "Int:138"
         }
       },
-      "DSD:LK-3118": {
+      "DSD:thawalama": {
         "Religion:buddhist": {
           "Count": "Int:29207"
         },
@@ -6021,7 +6021,7 @@
           "Count": "Int:167"
         }
       },
-      "DSD:LK-2209": {
+      "DSD:naula": {
         "Religion:buddhist": {
           "Count": "Int:28407"
         },
@@ -6041,7 +6041,7 @@
           "Count": "Int:154"
         }
       },
-      "DSD:LK-5230": {
+      "DSD:nintavur": {
         "Religion:buddhist": {
           "Count": "Int:0"
         },
@@ -6061,7 +6061,7 @@
           "Count": "Int:34"
         }
       },
-      "DSD:LK-5104": {
+      "DSD:koralai_pattu_central": {
         "Religion:buddhist": {
           "Count": "Int:47"
         },
@@ -6081,7 +6081,7 @@
           "Count": "Int:24"
         }
       },
-      "DSD:LK-9130": {
+      "DSD:ayagama": {
         "Religion:buddhist": {
           "Count": "Int:26217"
         },
@@ -6101,7 +6101,7 @@
           "Count": "Int:63"
         }
       },
-      "DSD:LK-5225": {
+      "DSD:sainthamaruthu": {
         "Religion:buddhist": {
           "Count": "Int:0"
         },
@@ -6121,7 +6121,7 @@
           "Count": "Int:45"
         }
       },
-      "DSD:LK-3130": {
+      "DSD:welivitiya_divitura": {
         "Religion:buddhist": {
           "Count": "Int:27996"
         },
@@ -6141,7 +6141,7 @@
           "Count": "Int:81"
         }
       },
-      "DSD:LK-5245": {
+      "DSD:tirukkovil": {
         "Religion:buddhist": {
           "Count": "Int:10"
         },
@@ -6161,7 +6161,7 @@
           "Count": "Int:115"
         }
       },
-      "DSD:LK-5109": {
+      "DSD:koralai_pattu": {
         "Religion:buddhist": {
           "Count": "Int:542"
         },
@@ -6181,7 +6181,7 @@
           "Count": "Int:63"
         }
       },
-      "DSD:LK-6109": {
+      "DSD:ehetuwewa": {
         "Religion:buddhist": {
           "Count": "Int:27418"
         },
@@ -6201,7 +6201,7 @@
           "Count": "Int:97"
         }
       },
-      "DSD:LK-5110": {
+      "DSD:koralai_pattu_south": {
         "Religion:buddhist": {
           "Count": "Int:29"
         },
@@ -6221,7 +6221,7 @@
           "Count": "Int:67"
         }
       },
-      "DSD:LK-7136": {
+      "DSD:nachchaduwa": {
         "Religion:buddhist": {
           "Count": "Int:24499"
         },
@@ -6241,7 +6241,7 @@
           "Count": "Int:82"
         }
       },
-      "DSD:LK-6227": {
+      "DSD:pallama": {
         "Religion:buddhist": {
           "Count": "Int:18924"
         },
@@ -6261,7 +6261,7 @@
           "Count": "Int:82"
         }
       },
-      "DSD:LK-3121": {
+      "DSD:neluwa": {
         "Religion:buddhist": {
           "Count": "Int:26202"
         },
@@ -6281,7 +6281,7 @@
           "Count": "Int:105"
         }
       },
-      "DSD:LK-3128": {
+      "DSD:wanduramba": {
         "Religion:buddhist": {
           "Count": "Int:26230"
         },
@@ -6301,7 +6301,7 @@
           "Count": "Int:113"
         }
       },
-      "DSD:LK-9121": {
+      "DSD:opanayake": {
         "Religion:buddhist": {
           "Count": "Int:25134"
         },
@@ -6321,7 +6321,7 @@
           "Count": "Int:50"
         }
       },
-      "DSD:LK-8112": {
+      "DSD:kandeketiya": {
         "Religion:buddhist": {
           "Count": "Int:25458"
         },
@@ -6341,7 +6341,7 @@
           "Count": "Int:59"
         }
       },
-      "DSD:LK-5130": {
+      "DSD:manmunai_south_west": {
         "Religion:buddhist": {
           "Count": "Int:1336"
         },
@@ -6361,7 +6361,7 @@
           "Count": "Int:76"
         }
       },
-      "DSD:LK-5115": {
+      "DSD:eravur_town": {
         "Religion:buddhist": {
           "Count": "Int:0"
         },
@@ -6381,7 +6381,7 @@
           "Count": "Int:51"
         }
       },
-      "DSD:LK-7106": {
+      "DSD:kebithigollewa": {
         "Religion:buddhist": {
           "Count": "Int:23731"
         },
@@ -6401,7 +6401,7 @@
           "Count": "Int:72"
         }
       },
-      "DSD:LK-6209": {
+      "DSD:karuwalagaswewa": {
         "Religion:buddhist": {
           "Count": "Int:24542"
         },
@@ -6421,7 +6421,7 @@
           "Count": "Int:127"
         }
       },
-      "DSD:LK-3136": {
+      "DSD:hikkaduwa": {
         "Religion:buddhist": {
           "Count": "Int:25734"
         },
@@ -6441,7 +6441,7 @@
           "Count": "Int:235"
         }
       },
-      "DSD:LK-4312": {
+      "DSD:vengalacheddikulam": {
         "Religion:buddhist": {
           "Count": "Int:0"
         },
@@ -6461,7 +6461,7 @@
           "Count": "Int:108"
         }
       },
-      "DSD:LK-2115": {
+      "DSD:panvila": {
         "Religion:buddhist": {
           "Count": "Int:9699"
         },
@@ -6481,7 +6481,7 @@
           "Count": "Int:47"
         }
       },
-      "DSD:LK-6112": {
+      "DSD:ambanpola": {
         "Religion:buddhist": {
           "Count": "Int:24990"
         },
@@ -6501,7 +6501,7 @@
           "Count": "Int:116"
         }
       },
-      "DSD:LK-5103": {
+      "DSD:koralai_pattu_north": {
         "Religion:buddhist": {
           "Count": "Int:136"
         },
@@ -6521,7 +6521,7 @@
           "Count": "Int:47"
         }
       },
-      "DSD:LK-4506": {
+      "DSD:kandavalai": {
         "Religion:buddhist": {
           "Count": "Int:0"
         },
@@ -6541,7 +6541,7 @@
           "Count": "Int:55"
         }
       },
-      "DSD:LK-6118": {
+      "DSD:rasnayakapura": {
         "Religion:buddhist": {
           "Count": "Int:19564"
         },
@@ -6561,7 +6561,7 @@
           "Count": "Int:112"
         }
       },
-      "DSD:LK-5239": {
+      "DSD:alayadivembu": {
         "Religion:buddhist": {
           "Count": "Int:139"
         },
@@ -6581,7 +6581,7 @@
           "Count": "Int:101"
         }
       },
-      "DSD:LK-5106": {
+      "DSD:koralai_pattu_west": {
         "Religion:buddhist": {
           "Count": "Int:0"
         },
@@ -6601,7 +6601,7 @@
           "Count": "Int:12"
         }
       },
-      "DSD:LK-7103": {
+      "DSD:padaviya": {
         "Religion:buddhist": {
           "Count": "Int:24293"
         },
@@ -6621,7 +6621,7 @@
           "Count": "Int:69"
         }
       },
-      "DSD:LK-8115": {
+      "DSD:soranathota": {
         "Religion:buddhist": {
           "Count": "Int:19709"
         },
@@ -6641,7 +6641,7 @@
           "Count": "Int:63"
         }
       },
-      "DSD:LK-7112": {
+      "DSD:mahawilachchiya": {
         "Religion:buddhist": {
           "Count": "Int:23947"
         },
@@ -6661,7 +6661,7 @@
           "Count": "Int:114"
         }
       },
-      "DSD:LK-4512": {
+      "DSD:poonakary": {
         "Religion:buddhist": {
           "Count": "Int:14"
         },
@@ -6681,7 +6681,7 @@
           "Count": "Int:65"
         }
       },
-      "DSD:LK-6115": {
+      "DSD:kotawehera": {
         "Religion:buddhist": {
           "Count": "Int:23830"
         },
@@ -6701,7 +6701,7 @@
           "Count": "Int:83"
         }
       },
-      "DSD:LK-5209": {
+      "DSD:mahaoya": {
         "Religion:buddhist": {
           "Count": "Int:23625"
         },
@@ -6721,7 +6721,7 @@
           "Count": "Int:79"
         }
       },
-      "DSD:LK-3134": {
+      "DSD:gonapinuwala": {
         "Religion:buddhist": {
           "Count": "Int:22922"
         },
@@ -6741,7 +6741,7 @@
           "Count": "Int:107"
         }
       },
-      "DSD:LK-2118": {
+      "DSD:ududumbara": {
         "Religion:buddhist": {
           "Count": "Int:21115"
         },
@@ -6761,7 +6761,7 @@
           "Count": "Int:98"
         }
       },
-      "DSD:LK-8109": {
+      "DSD:meegahakiula": {
         "Religion:buddhist": {
           "Count": "Int:20824"
         },
@@ -6781,7 +6781,7 @@
           "Count": "Int:95"
         }
       },
-      "DSD:LK-6221": {
+      "DSD:mahakumbukkadawala": {
         "Religion:buddhist": {
           "Count": "Int:18690"
         },
@@ -6801,7 +6801,7 @@
           "Count": "Int:121"
         }
       },
-      "DSD:LK-5216": {
+      "DSD:navithanveli": {
         "Religion:buddhist": {
           "Count": "Int:77"
         },
@@ -6821,7 +6821,7 @@
           "Count": "Int:39"
         }
       },
-      "DSD:LK-5206": {
+      "DSD:padiyathalawa": {
         "Religion:buddhist": {
           "Count": "Int:20711"
         },
@@ -6841,7 +6841,7 @@
           "Count": "Int:61"
         }
       },
-      "DSD:LK-3233": {
+      "DSD:kirinda_puhulwella": {
         "Religion:buddhist": {
           "Count": "Int:19936"
         },
@@ -6861,7 +6861,7 @@
           "Count": "Int:39"
         }
       },
-      "DSD:LK-3327": {
+      "DSD:okewela": {
         "Religion:buddhist": {
           "Count": "Int:19956"
         },
@@ -6881,7 +6881,7 @@
           "Count": "Int:18"
         }
       },
-      "DSD:LK-6206": {
+      "DSD:vanathavilluwa": {
         "Religion:buddhist": {
           "Count": "Int:7819"
         },
@@ -6901,7 +6901,7 @@
           "Count": "Int:118"
         }
       },
-      "DSD:LK-4212": {
+      "DSD:nanaddan": {
         "Religion:buddhist": {
           "Count": "Int:57"
         },
@@ -6921,7 +6921,7 @@
           "Count": "Int:114"
         }
       },
-      "DSD:LK-5227": {
+      "DSD:karaitivu": {
         "Religion:buddhist": {
           "Count": "Int:0"
         },
@@ -6941,7 +6941,7 @@
           "Count": "Int:85"
         }
       },
-      "DSD:LK-4206": {
+      "DSD:manthai_west": {
         "Religion:buddhist": {
           "Count": "Int:0"
         },
@@ -6961,7 +6961,7 @@
           "Count": "Int:87"
         }
       },
-      "DSD:LK-8227": {
+      "DSD:katharagama": {
         "Religion:buddhist": {
           "Count": "Int:17477"
         },
@@ -6981,7 +6981,7 @@
           "Count": "Int:39"
         }
       },
-      "DSD:LK-4412": {
+      "DSD:oddusuddan": {
         "Religion:buddhist": {
           "Count": "Int:220"
         },
@@ -7001,7 +7001,7 @@
           "Count": "Int:93"
         }
       },
-      "DSD:LK-4215": {
+      "DSD:musali": {
         "Religion:buddhist": {
           "Count": "Int:79"
         },
@@ -7021,7 +7021,7 @@
           "Count": "Int:36"
         }
       },
-      "DSD:LK-7157": {
+      "DSD:palugaswewa": {
         "Religion:buddhist": {
           "Count": "Int:17713"
         },
@@ -7041,7 +7041,7 @@
           "Count": "Int:109"
         }
       },
-      "DSD:LK-5234": {
+      "DSD:irakkamam": {
         "Religion:buddhist": {
           "Count": "Int:973"
         },
@@ -7061,7 +7061,7 @@
           "Count": "Int:38"
         }
       },
-      "DSD:LK-6212": {
+      "DSD:nawagattegama": {
         "Religion:buddhist": {
           "Count": "Int:17390"
         },
@@ -7081,7 +7081,7 @@
           "Count": "Int:80"
         }
       },
-      "DSD:LK-4139": {
+      "DSD:islands_south_velanai": {
         "Religion:buddhist": {
           "Count": "Int:0"
         },
@@ -7101,7 +7101,7 @@
           "Count": "Int:83"
         }
       },
-      "DSD:LK-2224": {
+      "DSD:laggala": {
         "Religion:buddhist": {
           "Count": "Int:16251"
         },
@@ -7121,7 +7121,7 @@
           "Count": "Int:32"
         }
       },
-      "DSD:LK-5330": {
+      "DSD:seruvila": {
         "Religion:buddhist": {
           "Count": "Int:9775"
         },
@@ -7141,7 +7141,7 @@
           "Count": "Int:68"
         }
       },
-      "DSD:LK-2221": {
+      "DSD:ambanganga": {
         "Religion:buddhist": {
           "Count": "Int:11887"
         },
@@ -7161,7 +7161,7 @@
           "Count": "Int:79"
         }
       },
-      "DSD:LK-4306": {
+      "DSD:vavuniya_south": {
         "Religion:buddhist": {
           "Count": "Int:13946"
         },
@@ -7181,7 +7181,7 @@
           "Count": "Int:84"
         }
       },
-      "DSD:LK-4303": {
+      "DSD:vavuniya_north": {
         "Religion:buddhist": {
           "Count": "Int:1123"
         },
@@ -7201,7 +7201,7 @@
           "Count": "Int:63"
         }
       },
-      "DSD:LK-5333": {
+      "DSD:verugal": {
         "Religion:buddhist": {
           "Count": "Int:0"
         },
@@ -7221,7 +7221,7 @@
           "Count": "Int:80"
         }
       },
-      "DSD:LK-4124": {
+      "DSD:vadamaradchchi_east": {
         "Religion:buddhist": {
           "Count": "Int:0"
         },
@@ -7241,7 +7241,7 @@
           "Count": "Int:54"
         }
       },
-      "DSD:LK-4503": {
+      "DSD:pachchilaipalli": {
         "Religion:buddhist": {
           "Count": "Int:0"
         },
@@ -7261,7 +7261,7 @@
           "Count": "Int:82"
         }
       },
-      "DSD:LK-9119": {
+      "DSD:kalthota": {
         "Religion:buddhist": {
           "Count": "Int:12648"
         },
@@ -7281,7 +7281,7 @@
           "Count": "Int:38"
         }
       },
-      "DSD:LK-5303": {
+      "DSD:padavi_sri_pura": {
         "Religion:buddhist": {
           "Count": "Int:11918"
         },
@@ -7301,7 +7301,7 @@
           "Count": "Int:59"
         }
       },
-      "DSD:LK-5251": {
+      "DSD:lahugala": {
         "Religion:buddhist": {
           "Count": "Int:9711"
         },
@@ -7321,7 +7321,7 @@
           "Count": "Int:56"
         }
       },
-      "DSD:LK-4403": {
+      "DSD:thunukkai": {
         "Religion:buddhist": {
           "Count": "Int:22"
         },
@@ -7341,7 +7341,7 @@
           "Count": "Int:79"
         }
       },
-      "DSD:LK-4418": {
+      "DSD:welioya": {
         "Religion:buddhist": {
           "Count": "Int:9894"
         },
@@ -7361,7 +7361,7 @@
           "Count": "Int:76"
         }
       },
-      "DSD:LK-4103": {
+      "DSD:islands_north_kayts": {
         "Religion:buddhist": {
           "Count": "Int:14"
         },
@@ -7381,7 +7381,7 @@
           "Count": "Int:21"
         }
       },
-      "DSD:LK-4209": {
+      "DSD:madhu": {
         "Religion:buddhist": {
           "Count": "Int:73"
         },
@@ -7401,7 +7401,7 @@
           "Count": "Int:90"
         }
       },
-      "DSD:LK-5312": {
+      "DSD:morawewa": {
         "Religion:buddhist": {
           "Count": "Int:6393"
         },
@@ -7421,7 +7421,7 @@
           "Count": "Int:53"
         }
       },
-      "DSD:LK-4104": {
+      "DSD:karainagar": {
         "Religion:buddhist": {
           "Count": "Int:0"
         },
@@ -7441,7 +7441,7 @@
           "Count": "Int:25"
         }
       },
-      "DSD:LK-5309": {
+      "DSD:gomarankadawala": {
         "Religion:buddhist": {
           "Count": "Int:8338"
         },
@@ -7461,7 +7461,7 @@
           "Count": "Int:24"
         }
       },
-      "DSD:LK-4406": {
+      "DSD:manthai_east": {
         "Religion:buddhist": {
           "Count": "Int:12"
         },
@@ -7481,7 +7481,7 @@
           "Count": "Int:80"
         }
       },
-      "DSD:LK-4142": {
+      "DSD:delft": {
         "Religion:buddhist": {
           "Count": "Int:0"
         },
@@ -7501,7 +7501,7 @@
           "Count": "Int:25"
         }
       },
-      "ED:EC-02": {
+      "ED:gampaha": {
         "Religion:buddhist": {
           "Count": "Int:1744475"
         },
@@ -7521,7 +7521,7 @@
           "Count": "Int:7119"
         }
       },
-      "ED:EC-01": {
+      "ED:colombo": {
         "Religion:buddhist": {
           "Count": "Int:1682524"
         },
@@ -7541,7 +7541,7 @@
           "Count": "Int:2608"
         }
       },
-      "ED:EC-15": {
+      "ED:kurunegala": {
         "Religion:buddhist": {
           "Count": "Int:1557548"
         },
@@ -7561,7 +7561,7 @@
           "Count": "Int:7720"
         }
       },
-      "ED:EC-04": {
+      "ED:kandy": {
         "Religion:buddhist": {
           "Count": "Int:1063437"
         },
@@ -7581,7 +7581,7 @@
           "Count": "Int:5273"
         }
       },
-      "ED:EC-03": {
+      "ED:kalutara": {
         "Religion:buddhist": {
           "Count": "Int:1080602"
         },
@@ -7601,7 +7601,7 @@
           "Count": "Int:4459"
         }
       },
-      "ED:EC-21": {
+      "ED:ratnapura": {
         "Religion:buddhist": {
           "Count": "Int:999682"
         },
@@ -7621,7 +7621,7 @@
           "Count": "Int:2579"
         }
       },
-      "ED:EC-07": {
+      "ED:galle": {
         "Religion:buddhist": {
           "Count": "Int:1026031"
         },
@@ -7641,7 +7641,7 @@
           "Count": "Int:4559"
         }
       },
-      "ED:EC-17": {
+      "ED:anuradhapura": {
         "Religion:buddhist": {
           "Count": "Int:862775"
         },
@@ -7661,7 +7661,7 @@
           "Count": "Int:3160"
         }
       },
-      "ED:EC-19": {
+      "ED:badulla": {
         "Religion:buddhist": {
           "Count": "Int:636979"
         },
@@ -7681,7 +7681,7 @@
           "Count": "Int:2348"
         }
       },
-      "ED:EC-22": {
+      "ED:kegalle": {
         "Religion:buddhist": {
           "Count": "Int:728913"
         },
@@ -7701,7 +7701,7 @@
           "Count": "Int:2704"
         }
       },
-      "ED:EC-08": {
+      "ED:matara": {
         "Religion:buddhist": {
           "Count": "Int:787299"
         },
@@ -7721,7 +7721,7 @@
           "Count": "Int:2769"
         }
       },
-      "ED:EC-16": {
+      "ED:puttalam": {
         "Religion:buddhist": {
           "Count": "Int:361104"
         },
@@ -7741,7 +7741,7 @@
           "Count": "Int:2609"
         }
       },
-      "ED:EC-13": {
+      "ED:digamadulla": {
         "Religion:buddhist": {
           "Count": "Int:275877"
         },
@@ -7761,7 +7761,7 @@
           "Count": "Int:1652"
         }
       },
-      "ED:EC-10": {
+      "ED:jaffna": {
         "Religion:buddhist": {
           "Count": "Int:3834"
         },
@@ -7781,7 +7781,7 @@
           "Count": "Int:1953"
         }
       },
-      "ED:EC-06": {
+      "ED:nuwara_eliya": {
         "Religion:buddhist": {
           "Count": "Int:278828"
         },
@@ -7801,7 +7801,7 @@
           "Count": "Int:1249"
         }
       },
-      "ED:EC-09": {
+      "ED:hambantota": {
         "Religion:buddhist": {
           "Count": "Int:649736"
         },
@@ -7821,7 +7821,7 @@
           "Count": "Int:1864"
         }
       },
-      "ED:EC-12": {
+      "ED:batticaloa": {
         "Religion:buddhist": {
           "Count": "Int:5585"
         },
@@ -7841,7 +7841,7 @@
           "Count": "Int:1358"
         }
       },
-      "ED:EC-20": {
+      "ED:moneragala": {
         "Religion:buddhist": {
           "Count": "Int:498429"
         },
@@ -7861,7 +7861,7 @@
           "Count": "Int:1345"
         }
       },
-      "ED:EC-05": {
+      "ED:matale": {
         "Religion:buddhist": {
           "Count": "Int:418588"
         },
@@ -7881,7 +7881,7 @@
           "Count": "Int:2093"
         }
       },
-      "ED:EC-18": {
+      "ED:polonnaruwa": {
         "Religion:buddhist": {
           "Count": "Int:399472"
         },
@@ -7901,7 +7901,7 @@
           "Count": "Int:1572"
         }
       },
-      "ED:EC-14": {
+      "ED:trincomalee": {
         "Religion:buddhist": {
           "Count": "Int:106702"
         },
@@ -7921,7 +7921,7 @@
           "Count": "Int:914"
         }
       },
-      "ED:EC-11": {
+      "ED:vanni": {
         "Religion:buddhist": {
           "Count": "Int:28540"
         },
@@ -7941,7 +7941,7 @@
           "Count": "Int:1576"
         }
       },
-      "PD:EC-06A": {
+      "PD:nuwara_eliya_maskeliya": {
         "Religion:buddhist": {
           "Count": "Int:78248"
         },
@@ -7961,7 +7961,7 @@
           "Count": "Int:306"
         }
       },
-      "PD:EC-12B": {
+      "PD:batticaloa": {
         "Religion:buddhist": {
           "Count": "Int:2532"
         },
@@ -7981,7 +7981,7 @@
           "Count": "Int:626"
         }
       },
-      "PD:EC-01L": {
+      "PD:homagama": {
         "Religion:buddhist": {
           "Count": "Int:270923"
         },
@@ -8001,7 +8001,7 @@
           "Count": "Int:371"
         }
       },
-      "PD:EC-01J": {
+      "PD:kaduwela": {
         "Religion:buddhist": {
           "Count": "Int:256548"
         },
@@ -8021,7 +8021,7 @@
           "Count": "Int:141"
         }
       },
-      "PD:EC-01N": {
+      "PD:kesbewa": {
         "Religion:buddhist": {
           "Count": "Int:246021"
         },
@@ -8041,7 +8041,7 @@
           "Count": "Int:269"
         }
       },
-      "PD:EC-16A": {
+      "PD:puttalam": {
         "Religion:buddhist": {
           "Count": "Int:31544"
         },
@@ -8061,7 +8061,7 @@
           "Count": "Int:525"
         }
       },
-      "PD:EC-13D": {
+      "PD:pothuvil": {
         "Religion:buddhist": {
           "Count": "Int:32943"
         },
@@ -8081,7 +8081,7 @@
           "Count": "Int:572"
         }
       },
-      "PD:EC-09D": {
+      "PD:thissamaharama": {
         "Religion:buddhist": {
           "Count": "Int:231792"
         },
@@ -8101,7 +8101,7 @@
           "Count": "Int:776"
         }
       },
-      "PD:EC-13A": {
+      "PD:ampara": {
         "Religion:buddhist": {
           "Count": "Int:241230"
         },
@@ -8121,7 +8121,7 @@
           "Count": "Int:652"
         }
       },
-      "PD:EC-02C": {
+      "PD:katana": {
         "Religion:buddhist": {
           "Count": "Int:137806"
         },
@@ -8141,7 +8141,7 @@
           "Count": "Int:447"
         }
       },
-      "PD:EC-20C": {
+      "PD:wellawaya": {
         "Religion:buddhist": {
           "Count": "Int:228638"
         },
@@ -8161,7 +8161,7 @@
           "Count": "Int:623"
         }
       },
-      "PD:EC-04B": {
+      "PD:harispattuwa": {
         "Religion:buddhist": {
           "Count": "Int:146987"
         },
@@ -8181,7 +8181,7 @@
           "Count": "Int:862"
         }
       },
-      "PD:EC-02J": {
+      "PD:mahara": {
         "Religion:buddhist": {
           "Count": "Int:191215"
         },
@@ -8201,7 +8201,7 @@
           "Count": "Int:567"
         }
       },
-      "PD:EC-18C": {
+      "PD:polonnaruwa": {
         "Religion:buddhist": {
           "Count": "Int:184811"
         },
@@ -8221,7 +8221,7 @@
           "Count": "Int:743"
         }
       },
-      "PD:EC-01H": {
+      "PD:kolonnawa": {
         "Religion:buddhist": {
           "Count": "Int:122559"
         },
@@ -8241,7 +8241,7 @@
           "Count": "Int:75"
         }
       },
-      "PD:EC-21H": {
+      "PD:kolonna": {
         "Religion:buddhist": {
           "Count": "Int:204730"
         },
@@ -8261,7 +8261,7 @@
           "Count": "Int:426"
         }
       },
-      "PD:EC-02L": {
+      "PD:biyagama": {
         "Religion:buddhist": {
           "Count": "Int:178329"
         },
@@ -8281,7 +8281,7 @@
           "Count": "Int:128"
         }
       },
-      "PD:EC-02H": {
+      "PD:gampaha": {
         "Religion:buddhist": {
           "Count": "Int:182606"
         },
@@ -8301,7 +8301,7 @@
           "Count": "Int:614"
         }
       },
-      "PD:EC-03B": {
+      "PD:bandaragama": {
         "Religion:buddhist": {
           "Count": "Int:183523"
         },
@@ -8321,7 +8321,7 @@
           "Count": "Int:752"
         }
       },
-      "PD:EC-02I": {
+      "PD:ja_ela": {
         "Religion:buddhist": {
           "Count": "Int:90297"
         },
@@ -8341,7 +8341,7 @@
           "Count": "Int:182"
         }
       },
-      "PD:EC-02F": {
+      "PD:minuwangoda": {
         "Religion:buddhist": {
           "Count": "Int:176692"
         },
@@ -8361,7 +8361,7 @@
           "Count": "Int:893"
         }
       },
-      "PD:EC-02G": {
+      "PD:attanagalla": {
         "Religion:buddhist": {
           "Count": "Int:164206"
         },
@@ -8381,7 +8381,7 @@
           "Count": "Int:1113"
         }
       },
-      "PD:EC-01M": {
+      "PD:maharagama": {
         "Religion:buddhist": {
           "Count": "Int:183093"
         },
@@ -8401,7 +8401,7 @@
           "Count": "Int:117"
         }
       },
-      "PD:EC-01K": {
+      "PD:avissawella": {
         "Religion:buddhist": {
           "Count": "Int:168552"
         },
@@ -8421,7 +8421,7 @@
           "Count": "Int:687"
         }
       },
-      "PD:EC-03C": {
+      "PD:horana": {
         "Religion:buddhist": {
           "Count": "Int:181459"
         },
@@ -8441,7 +8441,7 @@
           "Count": "Int:661"
         }
       },
-      "PD:EC-05A": {
+      "PD:dambulla": {
         "Religion:buddhist": {
           "Count": "Int:169102"
         },
@@ -8461,7 +8461,7 @@
           "Count": "Int:816"
         }
       },
-      "PD:EC-14C": {
+      "PD:muttur": {
         "Religion:buddhist": {
           "Count": "Int:5634"
         },
@@ -8481,7 +8481,7 @@
           "Count": "Int:301"
         }
       },
-      "PD:EC-02A": {
+      "PD:wattala": {
         "Religion:buddhist": {
           "Count": "Int:51544"
         },
@@ -8501,7 +8501,7 @@
           "Count": "Int:98"
         }
       },
-      "PD:EC-03G": {
+      "PD:beruwala": {
         "Religion:buddhist": {
           "Count": "Int:96264"
         },
@@ -8521,7 +8521,7 @@
           "Count": "Int:533"
         }
       },
-      "PD:EC-12A": {
+      "PD:kalkudah": {
         "Religion:buddhist": {
           "Count": "Int:1473"
         },
@@ -8541,7 +8541,7 @@
           "Count": "Int:266"
         }
       },
-      "PD:EC-02E": {
+      "PD:mirigama": {
         "Religion:buddhist": {
           "Count": "Int:164914"
         },
@@ -8561,7 +8561,7 @@
           "Count": "Int:1045"
         }
       },
-      "PD:EC-17E": {
+      "PD:kalawewa": {
         "Religion:buddhist": {
           "Count": "Int:163351"
         },
@@ -8581,7 +8581,7 @@
           "Count": "Int:546"
         }
       },
-      "PD:EC-09C": {
+      "PD:tangalle": {
         "Religion:buddhist": {
           "Count": "Int:171424"
         },
@@ -8601,7 +8601,7 @@
           "Count": "Int:574"
         }
       },
-      "PD:EC-11B": {
+      "PD:vavuniya": {
         "Religion:buddhist": {
           "Count": "Int:18137"
         },
@@ -8621,7 +8621,7 @@
           "Count": "Int:476"
         }
       },
-      "PD:EC-02K": {
+      "PD:dompe": {
         "Religion:buddhist": {
           "Count": "Int:161461"
         },
@@ -8641,7 +8641,7 @@
           "Count": "Int:1018"
         }
       },
-      "PD:EC-21B": {
+      "PD:ratnapura": {
         "Religion:buddhist": {
           "Count": "Int:147482"
         },
@@ -8661,7 +8661,7 @@
           "Count": "Int:348"
         }
       },
-      "PD:EC-03F": {
+      "PD:kalutara": {
         "Religion:buddhist": {
           "Count": "Int:140786"
         },
@@ -8681,7 +8681,7 @@
           "Count": "Int:553"
         }
       },
-      "PD:EC-20B": {
+      "PD:monaragala": {
         "Religion:buddhist": {
           "Count": "Int:151032"
         },
@@ -8701,7 +8701,7 @@
           "Count": "Int:360"
         }
       },
-      "PD:EC-01B": {
+      "PD:colombo_central": {
         "Religion:buddhist": {
           "Count": "Int:29085"
         },
@@ -8721,7 +8721,7 @@
           "Count": "Int:163"
         }
       },
-      "PD:EC-03A": {
+      "PD:panadura": {
         "Religion:buddhist": {
           "Count": "Int:120628"
         },
@@ -8741,7 +8741,7 @@
           "Count": "Int:347"
         }
       },
-      "PD:EC-16B": {
+      "PD:anamaduwa": {
         "Religion:buddhist": {
           "Count": "Int:133309"
         },
@@ -8761,7 +8761,7 @@
           "Count": "Int:741"
         }
       },
-      "PD:EC-01O": {
+      "PD:moratuwa": {
         "Religion:buddhist": {
           "Count": "Int:109743"
         },
@@ -8781,7 +8781,7 @@
           "Count": "Int:268"
         }
       },
-      "PD:EC-15C": {
+      "PD:yapahuwa": {
         "Religion:buddhist": {
           "Count": "Int:152020"
         },
@@ -8801,7 +8801,7 @@
           "Count": "Int:607"
         }
       },
-      "PD:EC-17C": {
+      "PD:anuradhapura_east": {
         "Religion:buddhist": {
           "Count": "Int:149086"
         },
@@ -8821,7 +8821,7 @@
           "Count": "Int:474"
         }
       },
-      "PD:EC-02D": {
+      "PD:divulapitiya": {
         "Religion:buddhist": {
           "Count": "Int:133909"
         },
@@ -8841,7 +8841,7 @@
           "Count": "Int:676"
         }
       },
-      "PD:EC-17D": {
+      "PD:anuradhapura_west": {
         "Religion:buddhist": {
           "Count": "Int:143628"
         },
@@ -8861,7 +8861,7 @@
           "Count": "Int:531"
         }
       },
-      "PD:EC-16C": {
+      "PD:chilaw": {
         "Religion:buddhist": {
           "Count": "Int:87307"
         },
@@ -8881,7 +8881,7 @@
           "Count": "Int:569"
         }
       },
-      "PD:EC-03E": {
+      "PD:mathugama": {
         "Religion:buddhist": {
           "Count": "Int:133657"
         },
@@ -8901,7 +8901,7 @@
           "Count": "Int:533"
         }
       },
-      "PD:EC-21D": {
+      "PD:balangoda": {
         "Religion:buddhist": {
           "Count": "Int:122718"
         },
@@ -8921,7 +8921,7 @@
           "Count": "Int:397"
         }
       },
-      "PD:EC-19A": {
+      "PD:mahiyanganaya": {
         "Religion:buddhist": {
           "Count": "Int:147028"
         },
@@ -8941,7 +8941,7 @@
           "Count": "Int:349"
         }
       },
-      "PD:EC-04L": {
+      "PD:gampola": {
         "Religion:buddhist": {
           "Count": "Int:87245"
         },
@@ -8961,7 +8961,7 @@
           "Count": "Int:344"
         }
       },
-      "PD:EC-14B": {
+      "PD:trincomalee": {
         "Religion:buddhist": {
           "Count": "Int:22933"
         },
@@ -8981,7 +8981,7 @@
           "Count": "Int:227"
         }
       },
-      "PD:EC-04F": {
+      "PD:kundasale": {
         "Religion:buddhist": {
           "Count": "Int:115593"
         },
@@ -9001,7 +9001,7 @@
           "Count": "Int:531"
         }
       },
-      "PD:EC-07I": {
+      "PD:akmeemana": {
         "Religion:buddhist": {
           "Count": "Int:137088"
         },
@@ -9021,7 +9021,7 @@
           "Count": "Int:770"
         }
       },
-      "PD:EC-15I": {
+      "PD:kuliyapitiya": {
         "Religion:buddhist": {
           "Count": "Int:113837"
         },
@@ -9041,7 +9041,7 @@
           "Count": "Int:613"
         }
       },
-      "PD:EC-15A": {
+      "PD:galgamuwa": {
         "Religion:buddhist": {
           "Count": "Int:133988"
         },
@@ -9061,7 +9061,7 @@
           "Count": "Int:538"
         }
       },
-      "PD:EC-09A": {
+      "PD:mulkirigala": {
         "Religion:buddhist": {
           "Count": "Int:142074"
         },
@@ -9081,7 +9081,7 @@
           "Count": "Int:253"
         }
       },
-      "PD:EC-21E": {
+      "PD:rakwana": {
         "Religion:buddhist": {
           "Count": "Int:119492"
         },
@@ -9101,7 +9101,7 @@
           "Count": "Int:290"
         }
       },
-      "PD:EC-02B": {
+      "PD:negombo": {
         "Religion:buddhist": {
           "Count": "Int:13506"
         },
@@ -9121,7 +9121,7 @@
           "Count": "Int:198"
         }
       },
-      "PD:EC-15D": {
+      "PD:hiriyala": {
         "Religion:buddhist": {
           "Count": "Int:124648"
         },
@@ -9141,7 +9141,7 @@
           "Count": "Int:593"
         }
       },
-      "PD:EC-13B": {
+      "PD:samanthurai": {
         "Religion:buddhist": {
           "Count": "Int:1602"
         },
@@ -9161,7 +9161,7 @@
           "Count": "Int:185"
         }
       },
-      "PD:EC-10K": {
+      "PD:kilinochchi": {
         "Religion:buddhist": {
           "Count": "Int:1423"
         },
@@ -9181,7 +9181,7 @@
           "Count": "Int:353"
         }
       },
-      "PD:EC-15H": {
+      "PD:katugampola": {
         "Religion:buddhist": {
           "Count": "Int:117261"
         },
@@ -9201,7 +9201,7 @@
           "Count": "Int:481"
         }
       },
-      "PD:EC-04M": {
+      "PD:nawalapitiya": {
         "Religion:buddhist": {
           "Count": "Int:85447"
         },
@@ -9221,7 +9221,7 @@
           "Count": "Int:368"
         }
       },
-      "PD:EC-02M": {
+      "PD:kelaniya": {
         "Religion:buddhist": {
           "Count": "Int:97990"
         },
@@ -9241,7 +9241,7 @@
           "Count": "Int:140"
         }
       },
-      "PD:EC-15B": {
+      "PD:nikaweratiya": {
         "Religion:buddhist": {
           "Count": "Int:118557"
         },
@@ -9261,7 +9261,7 @@
           "Count": "Int:593"
         }
       },
-      "PD:EC-08G": {
+      "PD:weligama": {
         "Religion:buddhist": {
           "Count": "Int:114449"
         },
@@ -9281,7 +9281,7 @@
           "Count": "Int:565"
         }
       },
-      "PD:EC-21A": {
+      "PD:eheliyagoda": {
         "Religion:buddhist": {
           "Count": "Int:119524"
         },
@@ -9301,7 +9301,7 @@
           "Count": "Int:405"
         }
       },
-      "PD:EC-01A": {
+      "PD:colombo_north": {
         "Religion:buddhist": {
           "Count": "Int:22444"
         },
@@ -9321,7 +9321,7 @@
           "Count": "Int:33"
         }
       },
-      "PD:EC-15L": {
+      "PD:kurunegala": {
         "Religion:buddhist": {
           "Count": "Int:110195"
         },
@@ -9341,7 +9341,7 @@
           "Count": "Int:491"
         }
       },
-      "PD:EC-03H": {
+      "PD:agalawatta": {
         "Religion:buddhist": {
           "Count": "Int:123607"
         },
@@ -9361,7 +9361,7 @@
           "Count": "Int:616"
         }
       },
-      "PD:EC-15M": {
+      "PD:mawathagama": {
         "Religion:buddhist": {
           "Count": "Int:103755"
         },
@@ -9381,7 +9381,7 @@
           "Count": "Int:596"
         }
       },
-      "PD:EC-17A": {
+      "PD:medawachchiya": {
         "Religion:buddhist": {
           "Count": "Int:118463"
         },
@@ -9401,7 +9401,7 @@
           "Count": "Int:398"
         }
       },
-      "PD:EC-20A": {
+      "PD:bibile": {
         "Religion:buddhist": {
           "Count": "Int:118759"
         },
@@ -9421,7 +9421,7 @@
           "Count": "Int:362"
         }
       },
-      "PD:EC-12C": {
+      "PD:paddiruppu": {
         "Religion:buddhist": {
           "Count": "Int:1580"
         },
@@ -9441,7 +9441,7 @@
           "Count": "Int:466"
         }
       },
-      "PD:EC-07F": {
+      "PD:baddegama": {
         "Religion:buddhist": {
           "Count": "Int:120169"
         },
@@ -9461,7 +9461,7 @@
           "Count": "Int:478"
         }
       },
-      "PD:EC-16E": {
+      "PD:wennappuwa": {
         "Religion:buddhist": {
           "Count": "Int:55625"
         },
@@ -9481,7 +9481,7 @@
           "Count": "Int:379"
         }
       },
-      "PD:EC-08A": {
+      "PD:deniyaya": {
         "Religion:buddhist": {
           "Count": "Int:114218"
         },
@@ -9501,7 +9501,7 @@
           "Count": "Int:292"
         }
       },
-      "PD:EC-07E": {
+      "PD:hiniduma": {
         "Religion:buddhist": {
           "Count": "Int:120991"
         },
@@ -9521,7 +9521,7 @@
           "Count": "Int:494"
         }
       },
-      "PD:EC-22E": {
+      "PD:mawanella": {
         "Religion:buddhist": {
           "Count": "Int:82377"
         },
@@ -9541,7 +9541,7 @@
           "Count": "Int:316"
         }
       },
-      "PD:EC-15J": {
+      "PD:dambadeniya": {
         "Religion:buddhist": {
           "Count": "Int:120179"
         },
@@ -9561,7 +9561,7 @@
           "Count": "Int:500"
         }
       },
-      "PD:EC-08F": {
+      "PD:matara": {
         "Religion:buddhist": {
           "Count": "Int:118046"
         },
@@ -9581,7 +9581,7 @@
           "Count": "Int:522"
         }
       },
-      "PD:EC-11A": {
+      "PD:mannar": {
         "Religion:buddhist": {
           "Count": "Int:240"
         },
@@ -9601,7 +9601,7 @@
           "Count": "Int:516"
         }
       },
-      "PD:EC-05D": {
+      "PD:rattota": {
         "Religion:buddhist": {
           "Count": "Int:81342"
         },
@@ -9621,7 +9621,7 @@
           "Count": "Int:500"
         }
       },
-      "PD:EC-17B": {
+      "PD:horowpothana": {
         "Religion:buddhist": {
           "Count": "Int:98166"
         },
@@ -9641,7 +9641,7 @@
           "Count": "Int:329"
         }
       },
-      "PD:EC-08C": {
+      "PD:akuressa": {
         "Religion:buddhist": {
           "Count": "Int:117359"
         },
@@ -9661,7 +9661,7 @@
           "Count": "Int:481"
         }
       },
-      "PD:EC-11C": {
+      "PD:mullaitivu": {
         "Religion:buddhist": {
           "Count": "Int:10163"
         },
@@ -9681,7 +9681,7 @@
           "Count": "Int:584"
         }
       },
-      "PD:EC-17G": {
+      "PD:kekirawa": {
         "Religion:buddhist": {
           "Count": "Int:105605"
         },
@@ -9701,7 +9701,7 @@
           "Count": "Int:488"
         }
       },
-      "PD:EC-15G": {
+      "PD:bingiriya": {
         "Religion:buddhist": {
           "Count": "Int:98115"
         },
@@ -9721,7 +9721,7 @@
           "Count": "Int:555"
         }
       },
-      "PD:EC-04K": {
+      "PD:udunuwara": {
         "Religion:buddhist": {
           "Count": "Int:85280"
         },
@@ -9741,7 +9741,7 @@
           "Count": "Int:753"
         }
       },
-      "PD:EC-08B": {
+      "PD:hakmana": {
         "Religion:buddhist": {
           "Count": "Int:117741"
         },
@@ -9761,7 +9761,7 @@
           "Count": "Int:243"
         }
       },
-      "PD:EC-21F": {
+      "PD:nivithigala": {
         "Religion:buddhist": {
           "Count": "Int:101517"
         },
@@ -9781,7 +9781,7 @@
           "Count": "Int:258"
         }
       },
-      "PD:EC-18A": {
+      "PD:minneriya": {
         "Religion:buddhist": {
           "Count": "Int:117061"
         },
@@ -9801,7 +9801,7 @@
           "Count": "Int:499"
         }
       },
-      "PD:EC-21C": {
+      "PD:pelmadulla": {
         "Religion:buddhist": {
           "Count": "Int:95774"
         },
@@ -9821,7 +9821,7 @@
           "Count": "Int:229"
         }
       },
-      "PD:EC-22A": {
+      "PD:dedigama": {
         "Religion:buddhist": {
           "Count": "Int:105968"
         },
@@ -9841,7 +9841,7 @@
           "Count": "Int:362"
         }
       },
-      "PD:EC-04C": {
+      "PD:pathadumbara": {
         "Religion:buddhist": {
           "Count": "Int:75405"
         },
@@ -9861,7 +9861,7 @@
           "Count": "Int:374"
         }
       },
-      "PD:EC-07D": {
+      "PD:bentara_elpitiya": {
         "Religion:buddhist": {
           "Count": "Int:113070"
         },
@@ -9881,7 +9881,7 @@
           "Count": "Int:462"
         }
       },
-      "PD:EC-05C": {
+      "PD:matale": {
         "Religion:buddhist": {
           "Count": "Int:77946"
         },
@@ -9901,7 +9901,7 @@
           "Count": "Int:450"
         }
       },
-      "PD:EC-19H": {
+      "PD:bandarawela": {
         "Religion:buddhist": {
           "Count": "Int:79413"
         },
@@ -9921,7 +9921,7 @@
           "Count": "Int:344"
         }
       },
-      "PD:EC-03D": {
+      "PD:bulathsinhala": {
         "Religion:buddhist": {
           "Count": "Int:100678"
         },
@@ -9941,7 +9941,7 @@
           "Count": "Int:464"
         }
       },
-      "PD:EC-16D": {
+      "PD:nattandiya": {
         "Religion:buddhist": {
           "Count": "Int:53319"
         },
@@ -9961,7 +9961,7 @@
           "Count": "Int:395"
         }
       },
-      "PD:EC-13C": {
+      "PD:kalmunai": {
         "Religion:buddhist": {
           "Count": "Int:102"
         },
@@ -9981,7 +9981,7 @@
           "Count": "Int:243"
         }
       },
-      "PD:EC-14A": {
+      "PD:seruvila": {
         "Religion:buddhist": {
           "Count": "Int:78135"
         },
@@ -10001,7 +10001,7 @@
           "Count": "Int:386"
         }
       },
-      "PD:EC-04J": {
+      "PD:yatinuwara": {
         "Religion:buddhist": {
           "Count": "Int:100489"
         },
@@ -10021,7 +10021,7 @@
           "Count": "Int:579"
         }
       },
-      "PD:EC-18B": {
+      "PD:medirigiriya": {
         "Religion:buddhist": {
           "Count": "Int:97600"
         },
@@ -10041,7 +10041,7 @@
           "Count": "Int:330"
         }
       },
-      "PD:EC-07J": {
+      "PD:habaraduwa": {
         "Religion:buddhist": {
           "Count": "Int:110624"
         },
@@ -10061,7 +10061,7 @@
           "Count": "Int:528"
         }
       },
-      "PD:EC-04H": {
+      "PD:senkadagala": {
         "Religion:buddhist": {
           "Count": "Int:83131"
         },
@@ -10081,7 +10081,7 @@
           "Count": "Int:99"
         }
       },
-      "PD:EC-07H": {
+      "PD:galle": {
         "Religion:buddhist": {
           "Count": "Int:67502"
         },
@@ -10101,7 +10101,7 @@
           "Count": "Int:362"
         }
       },
-      "PD:EC-06D": {
+      "PD:walapane": {
         "Religion:buddhist": {
           "Count": "Int:66453"
         },
@@ -10121,7 +10121,7 @@
           "Count": "Int:272"
         }
       },
-      "PD:EC-15E": {
+      "PD:wariyapola": {
         "Religion:buddhist": {
           "Count": "Int:102173"
         },
@@ -10141,7 +10141,7 @@
           "Count": "Int:537"
         }
       },
-      "PD:EC-08E": {
+      "PD:devinuwara": {
         "Religion:buddhist": {
           "Count": "Int:101431"
         },
@@ -10161,7 +10161,7 @@
           "Count": "Int:373"
         }
       },
-      "PD:EC-19G": {
+      "PD:welimada": {
         "Religion:buddhist": {
           "Count": "Int:72746"
         },
@@ -10181,7 +10181,7 @@
           "Count": "Int:366"
         }
       },
-      "PD:EC-08D": {
+      "PD:kamburupitiya": {
         "Religion:buddhist": {
           "Count": "Int:104055"
         },
@@ -10201,7 +10201,7 @@
           "Count": "Int:293"
         }
       },
-      "PD:EC-09B": {
+      "PD:beliatta": {
         "Religion:buddhist": {
           "Count": "Int:104446"
         },
@@ -10221,7 +10221,7 @@
           "Count": "Int:261"
         }
       },
-      "PD:EC-15K": {
+      "PD:polgahawela": {
         "Religion:buddhist": {
           "Count": "Int:93662"
         },
@@ -10241,7 +10241,7 @@
           "Count": "Int:676"
         }
       },
-      "PD:EC-06B": {
+      "PD:kothmale": {
         "Religion:buddhist": {
           "Count": "Int:54174"
         },
@@ -10261,7 +10261,7 @@
           "Count": "Int:327"
         }
       },
-      "PD:EC-22H": {
+      "PD:ruwanwella": {
         "Religion:buddhist": {
           "Count": "Int:85099"
         },
@@ -10281,7 +10281,7 @@
           "Count": "Int:303"
         }
       },
-      "PD:EC-15F": {
+      "PD:panduwasnuwara": {
         "Religion:buddhist": {
           "Count": "Int:88850"
         },
@@ -10301,7 +10301,7 @@
           "Count": "Int:601"
         }
       },
-      "PD:EC-21G": {
+      "PD:kalawana": {
         "Religion:buddhist": {
           "Count": "Int:88445"
         },
@@ -10321,7 +10321,7 @@
           "Count": "Int:226"
         }
       },
-      "PD:EC-07G": {
+      "PD:ratgama": {
         "Religion:buddhist": {
           "Count": "Int:100139"
         },
@@ -10341,7 +10341,7 @@
           "Count": "Int:487"
         }
       },
-      "PD:EC-07B": {
+      "PD:ambalangoda": {
         "Religion:buddhist": {
           "Count": "Int:99114"
         },
@@ -10361,7 +10361,7 @@
           "Count": "Int:445"
         }
       },
-      "PD:EC-17F": {
+      "PD:mihinthale": {
         "Religion:buddhist": {
           "Count": "Int:84476"
         },
@@ -10381,7 +10381,7 @@
           "Count": "Int:394"
         }
       },
-      "PD:EC-22G": {
+      "PD:yatiyanthota": {
         "Religion:buddhist": {
           "Count": "Int:73043"
         },
@@ -10401,7 +10401,7 @@
           "Count": "Int:243"
         }
       },
-      "PD:EC-05B": {
+      "PD:laggala": {
         "Religion:buddhist": {
           "Count": "Int:90198"
         },
@@ -10421,7 +10421,7 @@
           "Count": "Int:327"
         }
       },
-      "PD:EC-01I": {
+      "PD:kotte": {
         "Religion:buddhist": {
           "Count": "Int:74848"
         },
@@ -10441,7 +10441,7 @@
           "Count": "Int:130"
         }
       },
-      "PD:EC-15N": {
+      "PD:dodangaslanda": {
         "Religion:buddhist": {
           "Count": "Int:80308"
         },
@@ -10461,7 +10461,7 @@
           "Count": "Int:339"
         }
       },
-      "PD:EC-22C": {
+      "PD:kegalle": {
         "Religion:buddhist": {
           "Count": "Int:89192"
         },
@@ -10481,7 +10481,7 @@
           "Count": "Int:337"
         }
       },
-      "PD:EC-19E": {
+      "PD:hali_ela": {
         "Religion:buddhist": {
           "Count": "Int:59899"
         },
@@ -10501,7 +10501,7 @@
           "Count": "Int:204"
         }
       },
-      "PD:EC-01F": {
+      "PD:dehiwala": {
         "Religion:buddhist": {
           "Count": "Int:43573"
         },
@@ -10521,7 +10521,7 @@
           "Count": "Int:114"
         }
       },
-      "PD:EC-07C": {
+      "PD:karandeniya": {
         "Religion:buddhist": {
           "Count": "Int:90607"
         },
@@ -10541,7 +10541,7 @@
           "Count": "Int:267"
         }
       },
-      "PD:EC-04G": {
+      "PD:hewaheta": {
         "Religion:buddhist": {
           "Count": "Int:66960"
         },
@@ -10561,7 +10561,7 @@
           "Count": "Int:380"
         }
       },
-      "PD:EC-06C": {
+      "PD:hanguranketha": {
         "Religion:buddhist": {
           "Count": "Int:79953"
         },
@@ -10581,7 +10581,7 @@
           "Count": "Int:344"
         }
       },
-      "PD:EC-22I": {
+      "PD:deraniyagala": {
         "Religion:buddhist": {
           "Count": "Int:72720"
         },
@@ -10601,7 +10601,7 @@
           "Count": "Int:205"
         }
       },
-      "PD:EC-01G": {
+      "PD:ratmalana": {
         "Religion:buddhist": {
           "Count": "Int:57385"
         },
@@ -10621,7 +10621,7 @@
           "Count": "Int:43"
         }
       },
-      "PD:EC-19I": {
+      "PD:haputale": {
         "Religion:buddhist": {
           "Count": "Int:45887"
         },
@@ -10641,7 +10641,7 @@
           "Count": "Int:269"
         }
       },
-      "PD:EC-22D": {
+      "PD:rambukkana": {
         "Religion:buddhist": {
           "Count": "Int:79429"
         },
@@ -10661,7 +10661,7 @@
           "Count": "Int:419"
         }
       },
-      "PD:EC-01D": {
+      "PD:colombo_east": {
         "Religion:buddhist": {
           "Count": "Int:43481"
         },
@@ -10681,7 +10681,7 @@
           "Count": "Int:73"
         }
       },
-      "PD:EC-22B": {
+      "PD:galigamuwa": {
         "Religion:buddhist": {
           "Count": "Int:79113"
         },
@@ -10701,7 +10701,7 @@
           "Count": "Int:266"
         }
       },
-      "PD:EC-19D": {
+      "PD:badulla": {
         "Religion:buddhist": {
           "Count": "Int:56647"
         },
@@ -10721,7 +10721,7 @@
           "Count": "Int:120"
         }
       },
-      "PD:EC-19F": {
+      "PD:uva_paranagama": {
         "Religion:buddhist": {
           "Count": "Int:69390"
         },
@@ -10741,7 +10741,7 @@
           "Count": "Int:241"
         }
       },
-      "PD:EC-19C": {
+      "PD:passara": {
         "Religion:buddhist": {
           "Count": "Int:39978"
         },
@@ -10761,7 +10761,7 @@
           "Count": "Int:238"
         }
       },
-      "PD:EC-10E": {
+      "PD:kopay": {
         "Religion:buddhist": {
           "Count": "Int:77"
         },
@@ -10781,7 +10781,7 @@
           "Count": "Int:124"
         }
       },
-      "PD:EC-10D": {
+      "PD:manipay": {
         "Religion:buddhist": {
           "Count": "Int:0"
         },
@@ -10801,7 +10801,7 @@
           "Count": "Int:185"
         }
       },
-      "PD:EC-04D": {
+      "PD:ududumbara": {
         "Religion:buddhist": {
           "Count": "Int:76042"
         },
@@ -10821,7 +10821,7 @@
           "Count": "Int:224"
         }
       },
-      "PD:EC-19B": {
+      "PD:viyaluwa": {
         "Religion:buddhist": {
           "Count": "Int:65991"
         },
@@ -10841,7 +10841,7 @@
           "Count": "Int:217"
         }
       },
-      "PD:EC-10I": {
+      "PD:nallur": {
         "Religion:buddhist": {
           "Count": "Int:1635"
         },
@@ -10861,7 +10861,7 @@
           "Count": "Int:215"
         }
       },
-      "PD:EC-01C": {
+      "PD:borella": {
         "Religion:buddhist": {
           "Count": "Int:36513"
         },
@@ -10881,7 +10881,7 @@
           "Count": "Int:44"
         }
       },
-      "PD:EC-04A": {
+      "PD:galagedara": {
         "Religion:buddhist": {
           "Count": "Int:64371"
         },
@@ -10901,7 +10901,7 @@
           "Count": "Int:358"
         }
       },
-      "PD:EC-22F": {
+      "PD:aranayaka": {
         "Religion:buddhist": {
           "Count": "Int:61972"
         },
@@ -10921,7 +10921,7 @@
           "Count": "Int:253"
         }
       },
-      "PD:EC-07A": {
+      "PD:balapitiya": {
         "Religion:buddhist": {
           "Count": "Int:66727"
         },
@@ -10941,7 +10941,7 @@
           "Count": "Int:266"
         }
       },
-      "PD:EC-10H": {
+      "PD:chavakachcheri": {
         "Religion:buddhist": {
           "Count": "Int:92"
         },
@@ -10961,7 +10961,7 @@
           "Count": "Int:250"
         }
       },
-      "PD:EC-04E": {
+      "PD:teldeniya": {
         "Religion:buddhist": {
           "Count": "Int:47818"
         },
@@ -10981,7 +10981,7 @@
           "Count": "Int:353"
         }
       },
-      "PD:EC-10B": {
+      "PD:vaddukoddai": {
         "Religion:buddhist": {
           "Count": "Int:0"
         },
@@ -11001,7 +11001,7 @@
           "Count": "Int:142"
         }
       },
-      "PD:EC-01E": {
+      "PD:colombo_west": {
         "Religion:buddhist": {
           "Count": "Int:17756"
         },
@@ -11021,7 +11021,7 @@
           "Count": "Int:80"
         }
       },
-      "PD:EC-10C": {
+      "PD:kankesanthurai": {
         "Religion:buddhist": {
           "Count": "Int:37"
         },
@@ -11041,7 +11041,7 @@
           "Count": "Int:163"
         }
       },
-      "PD:EC-10G": {
+      "PD:point_pedro": {
         "Religion:buddhist": {
           "Count": "Int:42"
         },
@@ -11061,7 +11061,7 @@
           "Count": "Int:166"
         }
       },
-      "PD:EC-10F": {
+      "PD:udupiddy": {
         "Religion:buddhist": {
           "Count": "Int:0"
         },
@@ -11081,7 +11081,7 @@
           "Count": "Int:178"
         }
       },
-      "PD:EC-10J": {
+      "PD:jaffna": {
         "Religion:buddhist": {
           "Count": "Int:514"
         },
@@ -11101,7 +11101,7 @@
           "Count": "Int:48"
         }
       },
-      "PD:EC-04I": {
+      "PD:mahanuwara": {
         "Religion:buddhist": {
           "Count": "Int:28669"
         },
@@ -11121,7 +11121,7 @@
           "Count": "Int:48"
         }
       },
-      "PD:EC-10A": {
+      "PD:kayts": {
         "Religion:buddhist": {
           "Count": "Int:14"
         },

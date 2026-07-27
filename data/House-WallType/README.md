@@ -1,7 +1,7 @@
 # House-WallType
 
 ![CPH](https://img.shields.io/badge/CPH-2024-blue)
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--07--26-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--07--27-green)
 
 *House-WallType, 2024 Census of Population and Housing, Department of Census and Statistics, Sri Lanka*
 
@@ -11,7 +11,7 @@
 {
     "House": {
         "Time:2024": {
-            "Country:LK": {
+            "Country:sri_lanka": {
                 "WallType:bricks": {
                     "Count": "Int:2799913"
                 },
@@ -41,7 +41,7 @@
 ...
 ```
 
-- Source File: [House-WallType/lanka_data.json (475.1 KB)](../../data/House-WallType/lanka_data.json)
+- Source File: [House-WallType/lanka_data.json (477.1 KB)](../../data/House-WallType/lanka_data.json)
 
 ## Structured Data (similar to original layout)
 

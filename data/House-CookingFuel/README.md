@@ -1,7 +1,7 @@
 # House-CookingFuel
 
 ![CPH](https://img.shields.io/badge/CPH-2024-blue)
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--07--26-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--07--27-green)
 
 *House-CookingFuel, 2024 Census of Population and Housing, Department of Census and Statistics, Sri Lanka*
 
@@ -11,7 +11,7 @@
 {
     "House": {
         "Time:2024": {
-            "Country:LK": {
+            "Country:sri_lanka": {
                 "CookingFuel:fire_wood": {
                     "Count": "Int:3381781"
                 },
@@ -37,11 +37,11 @@
                     "Count": "Int:77239"
                 }
             },
-            "Province:LK-1": {
+            "Province:western": {
 ...
 ```
 
-- Source File: [lanka_data.json (343.7 KB)](../../data/House-CookingFuel/lanka_data.json)
+- Source File: [lanka_data.json (345.7 KB)](../../data/House-CookingFuel/lanka_data.json)
 
 ## Structured Data (similar to original layout)
 

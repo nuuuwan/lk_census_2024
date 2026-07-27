@@ -1,7 +1,7 @@
 # Person-Ethnicity
 
 ![CPH](https://img.shields.io/badge/CPH-2024-blue)
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--07--26-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--07--27-green)
 
 *Person-Ethnicity, 2024 Census of Population and Housing, Department of Census and Statistics, Sri Lanka*
 
@@ -11,7 +11,7 @@
 {
     "Person": {
         "Time:2024": {
-            "Country:LK": {
+            "Country:sri_lanka": {
                 "Ethnicity:sinhala": {
                     "Count": "Int:16140688"
                 },
@@ -41,7 +41,7 @@
 ...
 ```
 
-- Source File: [lanka_data.json (425.2 KB)](../../data/Person-Ethnicity/lanka_data.json)
+- Source File: [lanka_data.json (427.2 KB)](../../data/Person-Ethnicity/lanka_data.json)
 
 ## Structured Data (similar to original layout)
 

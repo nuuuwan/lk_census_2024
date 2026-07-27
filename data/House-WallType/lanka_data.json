@@ -1,7 +1,7 @@
 {
   "House": {
     "Time:2024": {
-      "Country:LK": {
+      "Country:sri_lanka": {
         "WallType:bricks": {
           "Count": "Int:2799913"
         },
@@ -36,7 +36,7 @@
           "Count": "Int:1211"
         }
       },
-      "Province:LK-1": {
+      "Province:western": {
         "WallType:bricks": {
           "Count": "Int:444198"
         },
@@ -71,7 +71,7 @@
           "Count": "Int:270"
         }
       },
-      "Province:LK-6": {
+      "Province:north_western": {
         "WallType:bricks": {
           "Count": "Int:595052"
         },
@@ -106,7 +106,7 @@
           "Count": "Int:110"
         }
       },
-      "Province:LK-2": {
+      "Province:central": {
         "WallType:bricks": {
           "Count": "Int:282854"
         },
@@ -141,7 +141,7 @@
           "Count": "Int:90"
         }
       },
-      "Province:LK-3": {
+      "Province:southern": {
         "WallType:bricks": {
           "Count": "Int:365930"
         },
@@ -176,7 +176,7 @@
           "Count": "Int:42"
         }
       },
-      "Province:LK-9": {
+      "Province:sabaragamuwa": {
         "WallType:bricks": {
           "Count": "Int:181919"
         },
@@ -211,7 +211,7 @@
           "Count": "Int:42"
         }
       },
-      "Province:LK-5": {
+      "Province:eastern": {
         "WallType:bricks": {
           "Count": "Int:361634"
         },
@@ -246,7 +246,7 @@
           "Count": "Int:418"
         }
       },
-      "Province:LK-7": {
+      "Province:north_central": {
         "WallType:bricks": {
           "Count": "Int:335859"
         },
@@ -281,7 +281,7 @@
           "Count": "Int:25"
         }
       },
-      "Province:LK-8": {
+      "Province:uva": {
         "WallType:bricks": {
           "Count": "Int:215064"
         },
@@ -316,7 +316,7 @@
           "Count": "Int:31"
         }
       },
-      "Province:LK-4": {
+      "Province:northern": {
         "WallType:bricks": {
           "Count": "Int:17403"
         },
@@ -351,7 +351,7 @@
           "Count": "Int:183"
         }
       },
-      "District:LK-12": {
+      "District:gampaha": {
         "WallType:bricks": {
           "Count": "Int:236563"
         },
@@ -386,7 +386,7 @@
           "Count": "Int:58"
         }
       },
-      "District:LK-11": {
+      "District:colombo": {
         "WallType:bricks": {
           "Count": "Int:166151"
         },
@@ -421,7 +421,7 @@
           "Count": "Int:167"
         }
       },
-      "District:LK-61": {
+      "District:kurunegala": {
         "WallType:bricks": {
           "Count": "Int:445527"
         },
@@ -456,7 +456,7 @@
           "Count": "Int:38"
         }
       },
-      "District:LK-21": {
+      "District:kandy": {
         "WallType:bricks": {
           "Count": "Int:154206"
         },
@@ -491,7 +491,7 @@
           "Count": "Int:31"
         }
       },
-      "District:LK-13": {
+      "District:kalutara": {
         "WallType:bricks": {
           "Count": "Int:41484"
         },
@@ -526,7 +526,7 @@
           "Count": "Int:45"
         }
       },
-      "District:LK-91": {
+      "District:ratnapura": {
         "WallType:bricks": {
           "Count": "Int:76597"
         },
@@ -561,7 +561,7 @@
           "Count": "Int:16"
         }
       },
-      "District:LK-31": {
+      "District:galle": {
         "WallType:bricks": {
           "Count": "Int:89321"
         },
@@ -596,7 +596,7 @@
           "Count": "Int:20"
         }
       },
-      "District:LK-71": {
+      "District:anuradhapura": {
         "WallType:bricks": {
           "Count": "Int:222041"
         },
@@ -631,7 +631,7 @@
           "Count": "Int:17"
         }
       },
-      "District:LK-92": {
+      "District:kegalle": {
         "WallType:bricks": {
           "Count": "Int:105322"
         },
@@ -666,7 +666,7 @@
           "Count": "Int:26"
         }
       },
-      "District:LK-81": {
+      "District:badulla": {
         "WallType:bricks": {
           "Count": "Int:100196"
         },
@@ -701,7 +701,7 @@
           "Count": "Int:17"
         }
       },
-      "District:LK-62": {
+      "District:puttalam": {
         "WallType:bricks": {
           "Count": "Int:149525"
         },
@@ -736,7 +736,7 @@
           "Count": "Int:72"
         }
       },
-      "District:LK-32": {
+      "District:matara": {
         "WallType:bricks": {
           "Count": "Int:123241"
         },
@@ -771,7 +771,7 @@
           "Count": "Int:15"
         }
       },
-      "District:LK-52": {
+      "District:ampara": {
         "WallType:bricks": {
           "Count": "Int:161796"
         },
@@ -806,7 +806,7 @@
           "Count": "Int:83"
         }
       },
-      "District:LK-23": {
+      "District:nuwara_eliya": {
         "WallType:bricks": {
           "Count": "Int:21337"
         },
@@ -841,7 +841,7 @@
           "Count": "Int:47"
         }
       },
-      "District:LK-33": {
+      "District:hambantota": {
         "WallType:bricks": {
           "Count": "Int:153368"
         },
@@ -876,7 +876,7 @@
           "Count": "Int:7"
         }
       },
-      "District:LK-51": {
+      "District:batticaloa": {
         "WallType:bricks": {
           "Count": "Int:129053"
         },
@@ -911,7 +911,7 @@
           "Count": "Int:223"
         }
       },
-      "District:LK-41": {
+      "District:jaffna": {
         "WallType:bricks": {
           "Count": "Int:2468"
         },
@@ -946,7 +946,7 @@
           "Count": "Int:109"
         }
       },
-      "District:LK-82": {
+      "District:monaragala": {
         "WallType:bricks": {
           "Count": "Int:114868"
         },
@@ -981,7 +981,7 @@
           "Count": "Int:14"
         }
       },
-      "District:LK-22": {
+      "District:matale": {
         "WallType:bricks": {
           "Count": "Int:107311"
         },
@@ -1016,7 +1016,7 @@
           "Count": "Int:12"
         }
       },
-      "District:LK-72": {
+      "District:polonnaruwa": {
         "WallType:bricks": {
           "Count": "Int:113818"
         },
@@ -1051,7 +1051,7 @@
           "Count": "Int:8"
         }
       },
-      "District:LK-53": {
+      "District:trincomalee": {
         "WallType:bricks": {
           "Count": "Int:70785"
         },
@@ -1086,7 +1086,7 @@
           "Count": "Int:112"
         }
       },
-      "District:LK-43": {
+      "District:vavuniya": {
         "WallType:bricks": {
           "Count": "Int:10861"
         },
@@ -1121,7 +1121,7 @@
           "Count": "Int:4"
         }
       },
-      "District:LK-45": {
+      "District:kilinochchi": {
         "WallType:bricks": {
           "Count": "Int:445"
         },
@@ -1156,7 +1156,7 @@
           "Count": "Int:11"
         }
       },
-      "District:LK-44": {
+      "District:mullaitivu": {
         "WallType:bricks": {
           "Count": "Int:2869"
         },
@@ -1191,7 +1191,7 @@
           "Count": "Int:40"
         }
       },
-      "District:LK-42": {
+      "District:mannar": {
         "WallType:bricks": {
           "Count": "Int:760"
         },
@@ -1226,7 +1226,7 @@
           "Count": "Int:19"
         }
       },
-      "DSD:LK-1109": {
+      "DSD:kaduwela": {
         "WallType:bricks": {
           "Count": "Int:18998"
         },
@@ -1261,7 +1261,7 @@
           "Count": "Int:3"
         }
       },
-      "DSD:LK-1112": {
+      "DSD:homagama": {
         "WallType:bricks": {
           "Count": "Int:9215"
         },
@@ -1296,7 +1296,7 @@
           "Count": "Int:29"
         }
       },
-      "DSD:LK-1136": {
+      "DSD:kesbewa": {
         "WallType:bricks": {
           "Count": "Int:17576"
         },
@@ -1331,7 +1331,7 @@
           "Count": "Int:7"
         }
       },
-      "DSD:LK-1206": {
+      "DSD:katana": {
         "WallType:bricks": {
           "Count": "Int:37714"
         },
@@ -1366,7 +1366,7 @@
           "Count": "Int:3"
         }
       },
-      "DSD:LK-1103": {
+      "DSD:colombo": {
         "WallType:bricks": {
           "Count": "Int:19889"
         },
@@ -1401,7 +1401,7 @@
           "Count": "Int:27"
         }
       },
-      "DSD:LK-1233": {
+      "DSD:mahara": {
         "WallType:bricks": {
           "Count": "Int:15358"
         },
@@ -1436,7 +1436,7 @@
           "Count": "Int:4"
         }
       },
-      "DSD:LK-1239": {
+      "DSD:biyagama": {
         "WallType:bricks": {
           "Count": "Int:11270"
         },
@@ -1471,7 +1471,7 @@
           "Count": "Int:4"
         }
       },
-      "DSD:LK-1127": {
+      "DSD:thimbirigasyaya": {
         "WallType:bricks": {
           "Count": "Int:19753"
         },
@@ -1506,7 +1506,7 @@
           "Count": "Int:10"
         }
       },
-      "DSD:LK-1224": {
+      "DSD:gampaha": {
         "WallType:bricks": {
           "Count": "Int:18525"
         },
@@ -1541,7 +1541,7 @@
           "Count": "Int:3"
         }
       },
-      "DSD:LK-1221": {
+      "DSD:ja_ela": {
         "WallType:bricks": {
           "Count": "Int:23421"
         },
@@ -1576,7 +1576,7 @@
           "Count": "Int:3"
         }
       },
-      "DSD:LK-1121": {
+      "DSD:maharagama": {
         "WallType:bricks": {
           "Count": "Int:17936"
         },
@@ -1611,7 +1611,7 @@
           "Count": "Int:9"
         }
       },
-      "DSD:LK-1215": {
+      "DSD:minuwangoda": {
         "WallType:bricks": {
           "Count": "Int:18793"
         },
@@ -1646,7 +1646,7 @@
           "Count": "Int:4"
         }
       },
-      "DSD:LK-1106": {
+      "DSD:kolonnawa": {
         "WallType:bricks": {
           "Count": "Int:11301"
         },
@@ -1681,7 +1681,7 @@
           "Count": "Int:64"
         }
       },
-      "DSD:LK-1227": {
+      "DSD:attanagalla": {
         "WallType:bricks": {
           "Count": "Int:14440"
         },
@@ -1716,7 +1716,7 @@
           "Count": "Int:2"
         }
       },
-      "DSD:LK-1212": {
+      "DSD:mirigama": {
         "WallType:bricks": {
           "Count": "Int:13020"
         },
@@ -1751,7 +1751,7 @@
           "Count": "Int:3"
         }
       },
-      "DSD:LK-1303": {
+      "DSD:panadura": {
         "WallType:bricks": {
           "Count": "Int:11694"
         },
@@ -1786,7 +1786,7 @@
           "Count": "Int:9"
         }
       },
-      "DSD:LK-1218": {
+      "DSD:wattala": {
         "WallType:bricks": {
           "Count": "Int:19114"
         },
@@ -1821,7 +1821,7 @@
           "Count": "Int:12"
         }
       },
-      "DSD:LK-1230": {
+      "DSD:dompe": {
         "WallType:bricks": {
           "Count": "Int:4621"
         },
@@ -1856,7 +1856,7 @@
           "Count": "Int:2"
         }
       },
-      "DSD:LK-9148": {
+      "DSD:embilipitiya": {
         "WallType:bricks": {
           "Count": "Int:33481"
         },
@@ -1891,7 +1891,7 @@
           "Count": "Int:0"
         }
       },
-      "DSD:LK-1209": {
+      "DSD:divulapitiya": {
         "WallType:bricks": {
           "Count": "Int:22964"
         },
@@ -1926,7 +1926,7 @@
           "Count": "Int:8"
         }
       },
-      "DSD:LK-1133": {
+      "DSD:moratuwa": {
         "WallType:bricks": {
           "Count": "Int:15107"
         },
@@ -1961,7 +1961,7 @@
           "Count": "Int:5"
         }
       },
-      "DSD:LK-1321": {
+      "DSD:kalutara": {
         "WallType:bricks": {
           "Count": "Int:9148"
         },
@@ -1996,7 +1996,7 @@
           "Count": "Int:6"
         }
       },
-      "DSD:LK-2314": {
+      "DSD:norwood": {
         "WallType:bricks": {
           "Count": "Int:1090"
         },
@@ -2031,7 +2031,7 @@
           "Count": "Int:15"
         }
       },
-      "DSD:LK-1324": {
+      "DSD:beruwala": {
         "WallType:bricks": {
           "Count": "Int:7246"
         },
@@ -2066,7 +2066,7 @@
           "Count": "Int:5"
         }
       },
-      "DSD:LK-2130": {
+      "DSD:gangawata_korale": {
         "WallType:bricks": {
           "Count": "Int:17282"
         },
@@ -2101,7 +2101,7 @@
           "Count": "Int:3"
         }
       },
-      "DSD:LK-2127": {
+      "DSD:kundasale": {
         "WallType:bricks": {
           "Count": "Int:17667"
         },
@@ -2136,7 +2136,7 @@
           "Count": "Int:5"
         }
       },
-      "DSD:LK-6178": {
+      "DSD:pannala": {
         "WallType:bricks": {
           "Count": "Int:28124"
         },
@@ -2171,7 +2171,7 @@
           "Count": "Int:5"
         }
       },
-      "DSD:LK-1309": {
+      "DSD:horana": {
         "WallType:bricks": {
           "Count": "Int:2736"
         },
@@ -2206,7 +2206,7 @@
           "Count": "Int:4"
         }
       },
-      "DSD:LK-1236": {
+      "DSD:kelaniya": {
         "WallType:bricks": {
           "Count": "Int:11619"
         },
@@ -2241,7 +2241,7 @@
           "Count": "Int:10"
         }
       },
-      "DSD:LK-1203": {
+      "DSD:negombo": {
         "WallType:bricks": {
           "Count": "Int:25704"
         },
@@ -2276,7 +2276,7 @@
           "Count": "Int:0"
         }
       },
-      "DSD:LK-1115": {
+      "DSD:seethawaka": {
         "WallType:bricks": {
           "Count": "Int:2410"
         },
@@ -2311,7 +2311,7 @@
           "Count": "Int:4"
         }
       },
-      "DSD:LK-9112": {
+      "DSD:ratnapura": {
         "WallType:bricks": {
           "Count": "Int:2294"
         },
@@ -2346,7 +2346,7 @@
           "Count": "Int:6"
         }
       },
-      "DSD:LK-1306": {
+      "DSD:bandaragama": {
         "WallType:bricks": {
           "Count": "Int:3218"
         },
@@ -2381,7 +2381,7 @@
           "Count": "Int:4"
         }
       },
-      "DSD:LK-9206": {
+      "DSD:mawanella": {
         "WallType:bricks": {
           "Count": "Int:24545"
         },
@@ -2416,7 +2416,7 @@
           "Count": "Int:5"
         }
       },
-      "DSD:LK-2313": {
+      "DSD:thalawakele": {
         "WallType:bricks": {
           "Count": "Int:1521"
         },
@@ -2451,7 +2451,7 @@
           "Count": "Int:14"
         }
       },
-      "DSD:LK-9218": {
+      "DSD:warakapola": {
         "WallType:bricks": {
           "Count": "Int:15488"
         },
@@ -2486,7 +2486,7 @@
           "Count": "Int:5"
         }
       },
-      "DSD:LK-3242": {
+      "DSD:matara_four_gravets": {
         "WallType:bricks": {
           "Count": "Int:22712"
         },
@@ -2521,7 +2521,7 @@
           "Count": "Int:2"
         }
       },
-      "DSD:LK-4309": {
+      "DSD:vavuniya": {
         "WallType:bricks": {
           "Count": "Int:6229"
         },
@@ -2556,7 +2556,7 @@
           "Count": "Int:3"
         }
       },
-      "DSD:LK-2139": {
+      "DSD:udunuwara": {
         "WallType:bricks": {
           "Count": "Int:10352"
         },
@@ -2591,7 +2591,7 @@
           "Count": "Int:1"
         }
       },
-      "DSD:LK-2136": {
+      "DSD:yatinuwara": {
         "WallType:bricks": {
           "Count": "Int:9815"
         },
@@ -2626,7 +2626,7 @@
           "Count": "Int:2"
         }
       },
-      "DSD:LK-8130": {
+      "DSD:welimada": {
         "WallType:bricks": {
           "Count": "Int:7704"
         },
@@ -2661,7 +2661,7 @@
           "Count": "Int:4"
         }
       },
-      "DSD:LK-1124": {
+      "DSD:sri_jayawardanapura_kotte": {
         "WallType:bricks": {
           "Count": "Int:12818"
         },
@@ -2696,7 +2696,7 @@
           "Count": "Int:3"
         }
       },
-      "DSD:LK-9106": {
+      "DSD:kuruvita": {
         "WallType:bricks": {
           "Count": "Int:1439"
         },
@@ -2731,7 +2731,7 @@
           "Count": "Int:0"
         }
       },
-      "DSD:LK-2151": {
+      "DSD:udapalatha": {
         "WallType:bricks": {
           "Count": "Int:3732"
         },
@@ -2766,7 +2766,7 @@
           "Count": "Int:5"
         }
       },
-      "DSD:LK-6163": {
+      "DSD:rideegama": {
         "WallType:bricks": {
           "Count": "Int:23671"
         },
@@ -2801,7 +2801,7 @@
           "Count": "Int:3"
         }
       },
-      "DSD:LK-5315": {
+      "DSD:town_and_gravets": {
         "WallType:bricks": {
           "Count": "Int:4501"
         },
@@ -2836,7 +2836,7 @@
           "Count": "Int:4"
         }
       },
-      "DSD:LK-6130": {
+      "DSD:ibbagamuwa": {
         "WallType:bricks": {
           "Count": "Int:23897"
         },
@@ -2871,7 +2871,7 @@
           "Count": "Int:4"
         }
       },
-      "DSD:LK-9212": {
+      "DSD:kegalle": {
         "WallType:bricks": {
           "Count": "Int:14114"
         },
@@ -2906,7 +2906,7 @@
           "Count": "Int:4"
         }
       },
-      "DSD:LK-3139": {
+      "DSD:galle_4_gravets": {
         "WallType:bricks": {
           "Count": "Int:11323"
         },
@@ -2941,7 +2941,7 @@
           "Count": "Int:6"
         }
       },
-      "DSD:LK-9124": {
+      "DSD:pelmadulla": {
         "WallType:bricks": {
           "Count": "Int:4109"
         },
@@ -2976,7 +2976,7 @@
           "Count": "Int:3"
         }
       },
-      "DSD:LK-8124": {
+      "DSD:hali_ela": {
         "WallType:bricks": {
           "Count": "Int:6995"
         },
@@ -3011,7 +3011,7 @@
           "Count": "Int:0"
         }
       },
-      "DSD:LK-2133": {
+      "DSD:harispattuwa": {
         "WallType:bricks": {
           "Count": "Int:11802"
         },
@@ -3046,7 +3046,7 @@
           "Count": "Int:8"
         }
       },
-      "DSD:LK-5112": {
+      "DSD:eravur_pattu": {
         "WallType:bricks": {
           "Count": "Int:16418"
         },
@@ -3081,7 +3081,7 @@
           "Count": "Int:3"
         }
       },
-      "DSD:LK-5118": {
+      "DSD:manmunai_north": {
         "WallType:bricks": {
           "Count": "Int:21347"
         },
@@ -3116,7 +3116,7 @@
           "Count": "Int:34"
         }
       },
-      "DSD:LK-1130": {
+      "DSD:dehiwala": {
         "WallType:bricks": {
           "Count": "Int:11526"
         },
@@ -3151,7 +3151,7 @@
           "Count": "Int:4"
         }
       },
-      "DSD:LK-6127": {
+      "DSD:polpitigama": {
         "WallType:bricks": {
           "Count": "Int:22943"
         },
@@ -3186,7 +3186,7 @@
           "Count": "Int:1"
         }
       },
-      "DSD:LK-2112": {
+      "DSD:pathadumbara": {
         "WallType:bricks": {
           "Count": "Int:17234"
         },
@@ -3221,7 +3221,7 @@
           "Count": "Int:1"
         }
       },
-      "DSD:LK-8103": {
+      "DSD:mahiyanganaya": {
         "WallType:bricks": {
           "Count": "Int:22121"
         },
@@ -3256,7 +3256,7 @@
           "Count": "Int:2"
         }
       },
-      "DSD:LK-7215": {
+      "DSD:thamankaduwa": {
         "WallType:bricks": {
           "Count": "Int:23745"
         },
@@ -3291,7 +3291,7 @@
           "Count": "Int:0"
         }
       },
-      "DSD:LK-1131": {
+      "DSD:ratmalana": {
         "WallType:bricks": {
           "Count": "Int:8707"
         },
@@ -3326,7 +3326,7 @@
           "Count": "Int:0"
         }
       },
-      "DSD:LK-9203": {
+      "DSD:rambukkana": {
         "WallType:bricks": {
           "Count": "Int:19218"
         },
@@ -3361,7 +3361,7 @@
           "Count": "Int:0"
         }
       },
-      "DSD:LK-7212": {
+      "DSD:dimbulagala": {
         "WallType:bricks": {
           "Count": "Int:20986"
         },
@@ -3396,7 +3396,7 @@
           "Count": "Int:0"
         }
       },
-      "DSD:LK-6203": {
+      "DSD:kalpitiya": {
         "WallType:bricks": {
           "Count": "Int:4838"
         },
@@ -3431,7 +3431,7 @@
           "Count": "Int:17"
         }
       },
-      "DSD:LK-6172": {
+      "DSD:kuliyapitiya_west": {
         "WallType:bricks": {
           "Count": "Int:20881"
         },
@@ -3466,7 +3466,7 @@
           "Count": "Int:1"
         }
       },
-      "DSD:LK-6154": {
+      "DSD:kurunegala": {
         "WallType:bricks": {
           "Count": "Int:21001"
         },
@@ -3501,7 +3501,7 @@
           "Count": "Int:4"
         }
       },
-      "DSD:LK-6215": {
+      "DSD:puttalam": {
         "WallType:bricks": {
           "Count": "Int:9092"
         },
@@ -3536,7 +3536,7 @@
           "Count": "Int:3"
         }
       },
-      "DSD:LK-3145": {
+      "DSD:akmeemana": {
         "WallType:bricks": {
           "Count": "Int:6560"
         },
@@ -3571,7 +3571,7 @@
           "Count": "Int:2"
         }
       },
-      "DSD:LK-1330": {
+      "DSD:matugama": {
         "WallType:bricks": {
           "Count": "Int:1460"
         },
@@ -3606,7 +3606,7 @@
           "Count": "Int:2"
         }
       },
-      "DSD:LK-9230": {
+      "DSD:dehiowita": {
         "WallType:bricks": {
           "Count": "Int:961"
         },
@@ -3641,7 +3641,7 @@
           "Count": "Int:3"
         }
       },
-      "DSD:LK-2206": {
+      "DSD:dambulla": {
         "WallType:bricks": {
           "Count": "Int:14524"
         },
@@ -3676,7 +3676,7 @@
           "Count": "Int:1"
         }
       },
-      "DSD:LK-8127": {
+      "DSD:uvaparanagama": {
         "WallType:bricks": {
           "Count": "Int:8007"
         },
@@ -3711,7 +3711,7 @@
           "Count": "Int:1"
         }
       },
-      "DSD:LK-9142": {
+      "DSD:godakawela": {
         "WallType:bricks": {
           "Count": "Int:7139"
         },
@@ -3746,7 +3746,7 @@
           "Count": "Int:1"
         }
       },
-      "DSD:LK-2312": {
+      "DSD:nuwara_eliya": {
         "WallType:bricks": {
           "Count": "Int:3976"
         },
@@ -3781,7 +3781,7 @@
           "Count": "Int:6"
         }
       },
-      "DSD:LK-3315": {
+      "DSD:ambalantota": {
         "WallType:bricks": {
           "Count": "Int:19473"
         },
@@ -3816,7 +3816,7 @@
           "Count": "Int:0"
         }
       },
-      "DSD:LK-2203": {
+      "DSD:galewela": {
         "WallType:bricks": {
           "Count": "Int:18576"
         },
@@ -3851,7 +3851,7 @@
           "Count": "Int:1"
         }
       },
-      "DSD:LK-2218": {
+      "DSD:matale": {
         "WallType:bricks": {
           "Count": "Int:15942"
         },
@@ -3886,7 +3886,7 @@
           "Count": "Int:3"
         }
       },
-      "DSD:LK-5324": {
+      "DSD:kinniya": {
         "WallType:bricks": {
           "Count": "Int:19501"
         },
@@ -3921,7 +3921,7 @@
           "Count": "Int:1"
         }
       },
-      "DSD:LK-3333": {
+      "DSD:tangalle": {
         "WallType:bricks": {
           "Count": "Int:18690"
         },
@@ -3956,7 +3956,7 @@
           "Count": "Int:2"
         }
       },
-      "DSD:LK-8121": {
+      "DSD:badulla": {
         "WallType:bricks": {
           "Count": "Int:6510"
         },
@@ -3991,7 +3991,7 @@
           "Count": "Int:1"
         }
       },
-      "DSD:LK-8221": {
+      "DSD:wellawaya": {
         "WallType:bricks": {
           "Count": "Int:16926"
         },
@@ -4026,7 +4026,7 @@
           "Count": "Int:5"
         }
       },
-      "DSD:LK-7133": {
+      "DSD:nuwaragam_palatha_east": {
         "WallType:bricks": {
           "Count": "Int:17042"
         },
@@ -4061,7 +4061,7 @@
           "Count": "Int:3"
         }
       },
-      "DSD:LK-9215": {
+      "DSD:galigamuwa": {
         "WallType:bricks": {
           "Count": "Int:13222"
         },
@@ -4096,7 +4096,7 @@
           "Count": "Int:1"
         }
       },
-      "DSD:LK-9118": {
+      "DSD:balangoda": {
         "WallType:bricks": {
           "Count": "Int:3081"
         },
@@ -4131,7 +4131,7 @@
           "Count": "Int:3"
         }
       },
-      "DSD:LK-3309": {
+      "DSD:thissamaharama": {
         "WallType:bricks": {
           "Count": "Int:15977"
         },
@@ -4166,7 +4166,7 @@
           "Count": "Int:0"
         }
       },
-      "DSD:LK-1118": {
+      "DSD:padukka": {
         "WallType:bricks": {
           "Count": "Int:915"
         },
@@ -4201,7 +4201,7 @@
           "Count": "Int:2"
         }
       },
-      "DSD:LK-7206": {
+      "DSD:medirigiriya": {
         "WallType:bricks": {
           "Count": "Int:18840"
         },
@@ -4236,7 +4236,7 @@
           "Count": "Int:0"
         }
       },
-      "DSD:LK-9103": {
+      "DSD:eheliyagoda": {
         "WallType:bricks": {
           "Count": "Int:1055"
         },
@@ -4271,7 +4271,7 @@
           "Count": "Int:1"
         }
       },
-      "DSD:LK-6145": {
+      "DSD:panduwasnuwara_west": {
         "WallType:bricks": {
           "Count": "Int:19017"
         },
@@ -4306,7 +4306,7 @@
           "Count": "Int:2"
         }
       },
-      "DSD:LK-7203": {
+      "DSD:higurakgoda": {
         "WallType:bricks": {
           "Count": "Int:17584"
         },
@@ -4341,7 +4341,7 @@
           "Count": "Int:2"
         }
       },
-      "DSD:LK-7115": {
+      "DSD:nuwaragam_palatha_central": {
         "WallType:bricks": {
           "Count": "Int:15623"
         },
@@ -4376,7 +4376,7 @@
           "Count": "Int:1"
         }
       },
-      "DSD:LK-3109": {
+      "DSD:karandeniya": {
         "WallType:bricks": {
           "Count": "Int:3890"
         },
@@ -4411,7 +4411,7 @@
           "Count": "Int:3"
         }
       },
-      "DSD:LK-9209": {
+      "DSD:aranayake": {
         "WallType:bricks": {
           "Count": "Int:14253"
         },
@@ -4446,7 +4446,7 @@
           "Count": "Int:1"
         }
       },
-      "DSD:LK-6160": {
+      "DSD:mawathagama": {
         "WallType:bricks": {
           "Count": "Int:16222"
         },
@@ -4481,7 +4481,7 @@
           "Count": "Int:3"
         }
       },
-      "DSD:LK-6245": {
+      "DSD:wennappuwa": {
         "WallType:bricks": {
           "Count": "Int:14616"
         },
@@ -4516,7 +4516,7 @@
           "Count": "Int:13"
         }
       },
-      "DSD:LK-6142": {
+      "DSD:bingiriya": {
         "WallType:bricks": {
           "Count": "Int:17729"
         },
@@ -4551,7 +4551,7 @@
           "Count": "Int:1"
         }
       },
-      "DSD:LK-6136": {
+      "DSD:wariyapola": {
         "WallType:bricks": {
           "Count": "Int:18611"
         },
@@ -4586,7 +4586,7 @@
           "Count": "Int:1"
         }
       },
-      "DSD:LK-2233": {
+      "DSD:ukuwela": {
         "WallType:bricks": {
           "Count": "Int:13303"
         },
@@ -4621,7 +4621,7 @@
           "Count": "Int:2"
         }
       },
-      "DSD:LK-4509": {
+      "DSD:karachchi": {
         "WallType:bricks": {
           "Count": "Int:254"
         },
@@ -4656,7 +4656,7 @@
           "Count": "Int:7"
         }
       },
-      "DSD:LK-4118": {
+      "DSD:valikamam_east_kopay": {
         "WallType:bricks": {
           "Count": "Int:384"
         },
@@ -4691,7 +4691,7 @@
           "Count": "Int:37"
         }
       },
-      "DSD:LK-5218": {
+      "DSD:sammanthurai": {
         "WallType:bricks": {
           "Count": "Int:17800"
         },
@@ -4726,7 +4726,7 @@
           "Count": "Int:2"
         }
       },
-      "DSD:LK-5327": {
+      "DSD:muthur": {
         "WallType:bricks": {
           "Count": "Int:13234"
         },
@@ -4761,7 +4761,7 @@
           "Count": "Int:66"
         }
       },
-      "DSD:LK-3112": {
+      "DSD:elpitiya": {
         "WallType:bricks": {
           "Count": "Int:4530"
         },
@@ -4796,7 +4796,7 @@
           "Count": "Int:0"
         }
       },
-      "DSD:LK-3239": {
+      "DSD:weligama": {
         "WallType:bricks": {
           "Count": "Int:11968"
         },
@@ -4831,7 +4831,7 @@
           "Count": "Int:2"
         }
       },
-      "DSD:LK-6242": {
+      "DSD:nattandiya": {
         "WallType:bricks": {
           "Count": "Int:13708"
         },
@@ -4866,7 +4866,7 @@
           "Count": "Int:2"
         }
       },
-      "DSD:LK-6184": {
+      "DSD:alawwa": {
         "WallType:bricks": {
           "Count": "Int:15922"
         },
@@ -4901,7 +4901,7 @@
           "Count": "Int:1"
         }
       },
-      "DSD:LK-6187": {
+      "DSD:polgahawela": {
         "WallType:bricks": {
           "Count": "Int:15647"
         },
@@ -4936,7 +4936,7 @@
           "Count": "Int:2"
         }
       },
-      "DSD:LK-4130": {
+      "DSD:thenmaradchi_chavakachcheri": {
         "WallType:bricks": {
           "Count": "Int:256"
         },
@@ -4971,7 +4971,7 @@
           "Count": "Int:3"
         }
       },
-      "DSD:LK-6124": {
+      "DSD:maho": {
         "WallType:bricks": {
           "Count": "Int:17887"
         },
@@ -5006,7 +5006,7 @@
           "Count": "Int:3"
         }
       },
-      "DSD:LK-6248": {
+      "DSD:dankotuwa": {
         "WallType:bricks": {
           "Count": "Int:13553"
         },
@@ -5041,7 +5041,7 @@
           "Count": "Int:10"
         }
       },
-      "DSD:LK-6218": {
+      "DSD:mundel": {
         "WallType:bricks": {
           "Count": "Int:10317"
         },
@@ -5076,7 +5076,7 @@
           "Count": "Int:5"
         }
       },
-      "DSD:LK-3106": {
+      "DSD:balapitiya": {
         "WallType:bricks": {
           "Count": "Int:3510"
         },
@@ -5111,7 +5111,7 @@
           "Count": "Int:0"
         }
       },
-      "DSD:LK-1312": {
+      "DSD:bulathsinhala": {
         "WallType:bricks": {
           "Count": "Int:573"
         },
@@ -5146,7 +5146,7 @@
           "Count": "Int:3"
         }
       },
-      "DSD:LK-4133": {
+      "DSD:nallur": {
         "WallType:bricks": {
           "Count": "Int:207"
         },
@@ -5181,7 +5181,7 @@
           "Count": "Int:8"
         }
       },
-      "DSD:LK-1327": {
+      "DSD:dodangoda": {
         "WallType:bricks": {
           "Count": "Int:1380"
         },
@@ -5216,7 +5216,7 @@
           "Count": "Int:6"
         }
       },
-      "DSD:LK-6233": {
+      "DSD:chilaw": {
         "WallType:bricks": {
           "Count": "Int:14297"
         },
@@ -5251,7 +5251,7 @@
           "Count": "Int:4"
         }
       },
-      "DSD:LK-5203": {
+      "DSD:dehiattakandiya": {
         "WallType:bricks": {
           "Count": "Int:16396"
         },
@@ -5286,7 +5286,7 @@
           "Count": "Int:2"
         }
       },
-      "DSD:LK-9221": {
+      "DSD:ruwanwella": {
         "WallType:bricks": {
           "Count": "Int:891"
         },
@@ -5321,7 +5321,7 @@
           "Count": "Int:5"
         }
       },
-      "DSD:LK-3312": {
+      "DSD:hambantota": {
         "WallType:bricks": {
           "Count": "Int:13568"
         },
@@ -5356,7 +5356,7 @@
           "Count": "Int:0"
         }
       },
-      "DSD:LK-9115": {
+      "DSD:imbulpe": {
         "WallType:bricks": {
           "Count": "Int:2589"
         },
@@ -5391,7 +5391,7 @@
           "Count": "Int:1"
         }
       },
-      "DSD:LK-3209": {
+      "DSD:pasgoda": {
         "WallType:bricks": {
           "Count": "Int:8833"
         },
@@ -5426,7 +5426,7 @@
           "Count": "Int:2"
         }
       },
-      "DSD:LK-7154": {
+      "DSD:kekirawa": {
         "WallType:bricks": {
           "Count": "Int:15532"
         },
@@ -5461,7 +5461,7 @@
           "Count": "Int:1"
         }
       },
-      "DSD:LK-8133": {
+      "DSD:bandarawela": {
         "WallType:bricks": {
           "Count": "Int:4756"
         },
@@ -5496,7 +5496,7 @@
           "Count": "Int:1"
         }
       },
-      "DSD:LK-2124": {
+      "DSD:medadumbara": {
         "WallType:bricks": {
           "Count": "Int:5421"
         },
@@ -5531,7 +5531,7 @@
           "Count": "Int:0"
         }
       },
-      "DSD:LK-6106": {
+      "DSD:galgamuwa": {
         "WallType:bricks": {
           "Count": "Int:16460"
         },
@@ -5566,7 +5566,7 @@
           "Count": "Int:1"
         }
       },
-      "DSD:LK-8212": {
+      "DSD:siyambalanduwa": {
         "WallType:bricks": {
           "Count": "Int:12974"
         },
@@ -5601,7 +5601,7 @@
           "Count": "Int:1"
         }
       },
-      "DSD:LK-3206": {
+      "DSD:kotapola": {
         "WallType:bricks": {
           "Count": "Int:3345"
         },
@@ -5636,7 +5636,7 @@
           "Count": "Int:0"
         }
       },
-      "DSD:LK-2309": {
+      "DSD:walapane": {
         "WallType:bricks": {
           "Count": "Int:3827"
         },
@@ -5671,7 +5671,7 @@
           "Count": "Int:2"
         }
       },
-      "DSD:LK-7148": {
+      "DSD:thalawa": {
         "WallType:bricks": {
           "Count": "Int:14464"
         },
@@ -5706,7 +5706,7 @@
           "Count": "Int:0"
         }
       },
-      "DSD:LK-8224": {
+      "DSD:buttala": {
         "WallType:bricks": {
           "Count": "Int:14865"
         },
@@ -5741,7 +5741,7 @@
           "Count": "Int:1"
         }
       },
-      "DSD:LK-9227": {
+      "DSD:yatiyantota": {
         "WallType:bricks": {
           "Count": "Int:1167"
         },
@@ -5776,7 +5776,7 @@
           "Count": "Int:1"
         }
       },
-      "DSD:LK-5212": {
+      "DSD:uhana": {
         "WallType:bricks": {
           "Count": "Int:15532"
         },
@@ -5811,7 +5811,7 @@
           "Count": "Int:1"
         }
       },
-      "DSD:LK-2157": {
+      "DSD:pasbagekorale": {
         "WallType:bricks": {
           "Count": "Int:1048"
         },
@@ -5846,7 +5846,7 @@
           "Count": "Int:0"
         }
       },
-      "DSD:LK-8106": {
+      "DSD:rideemaliyadda": {
         "WallType:bricks": {
           "Count": "Int:14932"
         },
@@ -5881,7 +5881,7 @@
           "Count": "Int:2"
         }
       },
-      "DSD:LK-6181": {
+      "DSD:narammala": {
         "WallType:bricks": {
           "Count": "Int:13704"
         },
@@ -5916,7 +5916,7 @@
           "Count": "Int:0"
         }
       },
-      "DSD:LK-3154": {
+      "DSD:habaraduwa": {
         "WallType:bricks": {
           "Count": "Int:5134"
         },
@@ -5951,7 +5951,7 @@
           "Count": "Int:2"
         }
       },
-      "DSD:LK-3133": {
+      "DSD:ambalangoda": {
         "WallType:bricks": {
           "Count": "Int:3924"
         },
@@ -5986,7 +5986,7 @@
           "Count": "Int:0"
         }
       },
-      "DSD:LK-9136": {
+      "DSD:nivithigala": {
         "WallType:bricks": {
           "Count": "Int:1319"
         },
@@ -6021,7 +6021,7 @@
           "Count": "Int:0"
         }
       },
-      "DSD:LK-2145": {
+      "DSD:pathahewaheta": {
         "WallType:bricks": {
           "Count": "Int:3374"
         },
@@ -6056,7 +6056,7 @@
           "Count": "Int:2"
         }
       },
-      "DSD:LK-2303": {
+      "DSD:kothmale_east": {
         "WallType:bricks": {
           "Count": "Int:688"
         },
@@ -6091,7 +6091,7 @@
           "Count": "Int:4"
         }
       },
-      "DSD:LK-5136": {
+      "DSD:manmunai_south_and_eruvil_pattu": {
         "WallType:bricks": {
           "Count": "Int:14882"
         },
@@ -6126,7 +6126,7 @@
           "Count": "Int:14"
         }
       },
-      "DSD:LK-2306": {
+      "DSD:hanguranketa": {
         "WallType:bricks": {
           "Count": "Int:3403"
         },
@@ -6161,7 +6161,7 @@
           "Count": "Int:2"
         }
       },
-      "DSD:LK-3330": {
+      "DSD:beliatta": {
         "WallType:bricks": {
           "Count": "Int:13182"
         },
@@ -6196,7 +6196,7 @@
           "Count": "Int:0"
         }
       },
-      "DSD:LK-6157": {
+      "DSD:mallawapitiya": {
         "WallType:bricks": {
           "Count": "Int:14435"
         },
@@ -6231,7 +6231,7 @@
           "Count": "Int:1"
         }
       },
-      "DSD:LK-6169": {
+      "DSD:kuliyapitiya_east": {
         "WallType:bricks": {
           "Count": "Int:14575"
         },
@@ -6266,7 +6266,7 @@
           "Count": "Int:0"
         }
       },
-      "DSD:LK-1310": {
+      "DSD:ingiriya": {
         "WallType:bricks": {
           "Count": "Int:680"
         },
@@ -6301,7 +6301,7 @@
           "Count": "Int:1"
         }
       },
-      "DSD:LK-2121": {
+      "DSD:minipe": {
         "WallType:bricks": {
           "Count": "Int:14269"
         },
@@ -6336,7 +6336,7 @@
           "Count": "Int:0"
         }
       },
-      "DSD:LK-7139": {
+      "DSD:nochchiyagama": {
         "WallType:bricks": {
           "Count": "Int:12563"
         },
@@ -6371,7 +6371,7 @@
           "Count": "Int:1"
         }
       },
-      "DSD:LK-8215": {
+      "DSD:monaragala": {
         "WallType:bricks": {
           "Count": "Int:11515"
         },
@@ -6406,7 +6406,7 @@
           "Count": "Int:3"
         }
       },
-      "DSD:LK-6175": {
+      "DSD:udubaddawa": {
         "WallType:bricks": {
           "Count": "Int:12000"
         },
@@ -6441,7 +6441,7 @@
           "Count": "Int:1"
         }
       },
-      "DSD:LK-1339": {
+      "DSD:walallawita": {
         "WallType:bricks": {
           "Count": "Int:697"
         },
@@ -6476,7 +6476,7 @@
           "Count": "Int:0"
         }
       },
-      "DSD:LK-1318": {
+      "DSD:millaniya": {
         "WallType:bricks": {
           "Count": "Int:916"
         },
@@ -6511,7 +6511,7 @@
           "Count": "Int:2"
         }
       },
-      "DSD:LK-2106": {
+      "DSD:poojapitiya": {
         "WallType:bricks": {
           "Count": "Int:10157"
         },
@@ -6546,7 +6546,7 @@
           "Count": "Int:0"
         }
       },
-      "DSD:LK-2230": {
+      "DSD:rattota": {
         "WallType:bricks": {
           "Count": "Int:8376"
         },
@@ -6581,7 +6581,7 @@
           "Count": "Int:4"
         }
       },
-      "DSD:LK-2109": {
+      "DSD:akurana": {
         "WallType:bricks": {
           "Count": "Int:11081"
         },
@@ -6616,7 +6616,7 @@
           "Count": "Int:1"
         }
       },
-      "DSD:LK-2154": {
+      "DSD:ganga_ihala_korale": {
         "WallType:bricks": {
           "Count": "Int:1672"
         },
@@ -6651,7 +6651,7 @@
           "Count": "Int:0"
         }
       },
-      "DSD:LK-3124": {
+      "DSD:nagoda": {
         "WallType:bricks": {
           "Count": "Int:6179"
         },
@@ -6686,7 +6686,7 @@
           "Count": "Int:0"
         }
       },
-      "DSD:LK-3142": {
+      "DSD:bope_poddala": {
         "WallType:bricks": {
           "Count": "Int:4713"
         },
@@ -6721,7 +6721,7 @@
           "Count": "Int:2"
         }
       },
-      "DSD:LK-3318": {
+      "DSD:angunakolapelessa": {
         "WallType:bricks": {
           "Count": "Int:13671"
         },
@@ -6756,7 +6756,7 @@
           "Count": "Int:1"
         }
       },
-      "DSD:LK-9133": {
+      "DSD:kalawana": {
         "WallType:bricks": {
           "Count": "Int:465"
         },
@@ -6791,7 +6791,7 @@
           "Count": "Int:1"
         }
       },
-      "DSD:LK-3324": {
+      "DSD:katuwana": {
         "WallType:bricks": {
           "Count": "Int:12315"
         },
@@ -6826,7 +6826,7 @@
           "Count": "Int:1"
         }
       },
-      "DSD:LK-3248": {
+      "DSD:dikwella": {
         "WallType:bricks": {
           "Count": "Int:11100"
         },
@@ -6861,7 +6861,7 @@
           "Count": "Int:1"
         }
       },
-      "DSD:LK-3218": {
+      "DSD:akuressa": {
         "WallType:bricks": {
           "Count": "Int:4459"
         },
@@ -6896,7 +6896,7 @@
           "Count": "Int:1"
         }
       },
-      "DSD:LK-7109": {
+      "DSD:medawachchiya": {
         "WallType:bricks": {
           "Count": "Int:12289"
         },
@@ -6931,7 +6931,7 @@
           "Count": "Int:1"
         }
       },
-      "DSD:LK-1336": {
+      "DSD:palindanuwara": {
         "WallType:bricks": {
           "Count": "Int:343"
         },
@@ -6966,7 +6966,7 @@
           "Count": "Int:1"
         }
       },
-      "DSD:LK-3221": {
+      "DSD:welipitiya": {
         "WallType:bricks": {
           "Count": "Int:5018"
         },
@@ -7001,7 +7001,7 @@
           "Count": "Int:0"
         }
       },
-      "DSD:LK-9151": {
+      "DSD:kolonna": {
         "WallType:bricks": {
           "Count": "Int:7934"
         },
@@ -7036,7 +7036,7 @@
           "Count": "Int:0"
         }
       },
-      "DSD:LK-6239": {
+      "DSD:mahawewa": {
         "WallType:bricks": {
           "Count": "Int:10150"
         },
@@ -7071,7 +7071,7 @@
           "Count": "Int:4"
         }
       },
-      "DSD:LK-6236": {
+      "DSD:madampe": {
         "WallType:bricks": {
           "Count": "Int:8834"
         },
@@ -7106,7 +7106,7 @@
           "Count": "Int:0"
         }
       },
-      "DSD:LK-3203": {
+      "DSD:pitabaddara": {
         "WallType:bricks": {
           "Count": "Int:5461"
         },
@@ -7141,7 +7141,7 @@
           "Count": "Int:0"
         }
       },
-      "DSD:LK-3212": {
+      "DSD:mulatiyana": {
         "WallType:bricks": {
           "Count": "Int:11382"
         },
@@ -7176,7 +7176,7 @@
           "Count": "Int:0"
         }
       },
-      "DSD:LK-4203": {
+      "DSD:mannar_town": {
         "WallType:bricks": {
           "Count": "Int:337"
         },
@@ -7211,7 +7211,7 @@
           "Count": "Int:8"
         }
       },
-      "DSD:LK-7127": {
+      "DSD:galenbidunuwewa": {
         "WallType:bricks": {
           "Count": "Int:11653"
         },
@@ -7246,7 +7246,7 @@
           "Count": "Int:2"
         }
       },
-      "DSD:LK-3303": {
+      "DSD:sooriyawewa": {
         "WallType:bricks": {
           "Count": "Int:10285"
         },
@@ -7281,7 +7281,7 @@
           "Count": "Int:2"
         }
       },
-      "DSD:LK-2142": {
+      "DSD:doluwa": {
         "WallType:bricks": {
           "Count": "Int:786"
         },
@@ -7316,7 +7316,7 @@
           "Count": "Int:0"
         }
       },
-      "DSD:LK-3127": {
+      "DSD:baddegama": {
         "WallType:bricks": {
           "Count": "Int:5653"
         },
@@ -7351,7 +7351,7 @@
           "Count": "Int:1"
         }
       },
-      "DSD:LK-5321": {
+      "DSD:kantale": {
         "WallType:bricks": {
           "Count": "Int:10187"
         },
@@ -7386,7 +7386,7 @@
           "Count": "Int:3"
         }
       },
-      "DSD:LK-7218": {
+      "DSD:elahera": {
         "WallType:bricks": {
           "Count": "Int:12824"
         },
@@ -7421,7 +7421,7 @@
           "Count": "Int:1"
         }
       },
-      "DSD:LK-8233": {
+      "DSD:sevanagala": {
         "WallType:bricks": {
           "Count": "Int:9792"
         },
@@ -7456,7 +7456,7 @@
           "Count": "Int:1"
         }
       },
-      "DSD:LK-4109": {
+      "DSD:valikamam_south_west_sandilipay": {
         "WallType:bricks": {
           "Count": "Int:245"
         },
@@ -7491,7 +7491,7 @@
           "Count": "Int:10"
         }
       },
-      "DSD:LK-3103": {
+      "DSD:bentota": {
         "WallType:bricks": {
           "Count": "Int:2605"
         },
@@ -7526,7 +7526,7 @@
           "Count": "Int:0"
         }
       },
-      "DSD:LK-8203": {
+      "DSD:bibile": {
         "WallType:bricks": {
           "Count": "Int:11605"
         },
@@ -7561,7 +7561,7 @@
           "Count": "Int:0"
         }
       },
-      "DSD:LK-3321": {
+      "DSD:weeraketiya": {
         "WallType:bricks": {
           "Count": "Int:11671"
         },
@@ -7596,7 +7596,7 @@
           "Count": "Int:0"
         }
       },
-      "DSD:LK-8118": {
+      "DSD:passara": {
         "WallType:bricks": {
           "Count": "Int:3553"
         },
@@ -7631,7 +7631,7 @@
           "Count": "Int:2"
         }
       },
-      "DSD:LK-5224": {
+      "DSD:kalmunai": {
         "WallType:bricks": {
           "Count": "Int:12681"
         },
@@ -7666,7 +7666,7 @@
           "Count": "Int:2"
         }
       },
-      "DSD:LK-3325": {
+      "DSD:walasmulla": {
         "WallType:bricks": {
           "Count": "Int:11726"
         },
@@ -7701,7 +7701,7 @@
           "Count": "Int:1"
         }
       },
-      "DSD:LK-3151": {
+      "DSD:imaduwa": {
         "WallType:bricks": {
           "Count": "Int:3244"
         },
@@ -7736,7 +7736,7 @@
           "Count": "Int:2"
         }
       },
-      "DSD:LK-3148": {
+      "DSD:yakkalamulla": {
         "WallType:bricks": {
           "Count": "Int:5848"
         },
@@ -7771,7 +7771,7 @@
           "Count": "Int:1"
         }
       },
-      "DSD:LK-8139": {
+      "DSD:haputale": {
         "WallType:bricks": {
           "Count": "Int:3346"
         },
@@ -7806,7 +7806,7 @@
           "Count": "Int:1"
         }
       },
-      "DSD:LK-7145": {
+      "DSD:thambuththegama": {
         "WallType:bricks": {
           "Count": "Int:11084"
         },
@@ -7841,7 +7841,7 @@
           "Count": "Int:2"
         }
       },
-      "DSD:LK-8218": {
+      "DSD:badalkumbura": {
         "WallType:bricks": {
           "Count": "Int:8721"
         },
@@ -7876,7 +7876,7 @@
           "Count": "Int:1"
         }
       },
-      "DSD:LK-5233": {
+      "DSD:addalaichenai": {
         "WallType:bricks": {
           "Count": "Int:9574"
         },
@@ -7911,7 +7911,7 @@
           "Count": "Int:12"
         }
       },
-      "DSD:LK-5215": {
+      "DSD:ampara": {
         "WallType:bricks": {
           "Count": "Int:11638"
         },
@@ -7946,7 +7946,7 @@
           "Count": "Int:0"
         }
       },
-      "DSD:LK-4115": {
+      "DSD:valikamam_south_uduvil": {
         "WallType:bricks": {
           "Count": "Int:183"
         },
@@ -7981,7 +7981,7 @@
           "Count": "Int:3"
         }
       },
-      "DSD:LK-3245": {
+      "DSD:devinuwara": {
         "WallType:bricks": {
           "Count": "Int:6664"
         },
@@ -8016,7 +8016,7 @@
           "Count": "Int:1"
         }
       },
-      "DSD:LK-8136": {
+      "DSD:ella": {
         "WallType:bricks": {
           "Count": "Int:3470"
         },
@@ -8051,7 +8051,7 @@
           "Count": "Int:0"
         }
       },
-      "DSD:LK-9233": {
+      "DSD:deraniyagala": {
         "WallType:bricks": {
           "Count": "Int:393"
         },
@@ -8086,7 +8086,7 @@
           "Count": "Int:0"
         }
       },
-      "DSD:LK-5124": {
+      "DSD:kattankudy": {
         "WallType:bricks": {
           "Count": "Int:12374"
         },
@@ -8121,7 +8121,7 @@
           "Count": "Int:14"
         }
       },
-      "DSD:LK-6133": {
+      "DSD:ganewatta": {
         "WallType:bricks": {
           "Count": "Int:12073"
         },
@@ -8156,7 +8156,7 @@
           "Count": "Int:1"
         }
       },
-      "DSD:LK-9224": {
+      "DSD:bulathkohipitiya": {
         "WallType:bricks": {
           "Count": "Int:1070"
         },
@@ -8191,7 +8191,7 @@
           "Count": "Int:1"
         }
       },
-      "DSD:LK-6224": {
+      "DSD:anamaduwa": {
         "WallType:bricks": {
           "Count": "Int:11655"
         },
@@ -8226,7 +8226,7 @@
           "Count": "Int:1"
         }
       },
-      "DSD:LK-6121": {
+      "DSD:nikaweratiya": {
         "WallType:bricks": {
           "Count": "Int:12201"
         },
@@ -8261,7 +8261,7 @@
           "Count": "Int:0"
         }
       },
-      "DSD:LK-6230": {
+      "DSD:arachchikattuwa": {
         "WallType:bricks": {
           "Count": "Int:11083"
         },
@@ -8296,7 +8296,7 @@
           "Count": "Int:3"
         }
       },
-      "DSD:LK-2315": {
+      "DSD:ambagamuwa_korale": {
         "WallType:bricks": {
           "Count": "Int:206"
         },
@@ -8331,7 +8331,7 @@
           "Count": "Int:0"
         }
       },
-      "DSD:LK-7121": {
+      "DSD:kahatagasdigiliya": {
         "WallType:bricks": {
           "Count": "Int:10972"
         },
@@ -8366,7 +8366,7 @@
           "Count": "Int:2"
         }
       },
-      "DSD:LK-9139": {
+      "DSD:kahawattha": {
         "WallType:bricks": {
           "Count": "Int:1624"
         },
@@ -8401,7 +8401,7 @@
           "Count": "Int:0"
         }
       },
-      "DSD:LK-7160": {
+      "DSD:ipalogama": {
         "WallType:bricks": {
           "Count": "Int:10026"
         },
@@ -8436,7 +8436,7 @@
           "Count": "Int:0"
         }
       },
-      "DSD:LK-8209": {
+      "DSD:medagama": {
         "WallType:bricks": {
           "Count": "Int:10143"
         },
@@ -8471,7 +8471,7 @@
           "Count": "Int:0"
         }
       },
-      "DSD:LK-4127": {
+      "DSD:vadamaradchi_north_point_pedro": {
         "WallType:bricks": {
           "Count": "Int:141"
         },
@@ -8506,7 +8506,7 @@
           "Count": "Int:4"
         }
       },
-      "DSD:LK-2310": {
+      "DSD:nildandahinna": {
         "WallType:bricks": {
           "Count": "Int:4510"
         },
@@ -8541,7 +8541,7 @@
           "Count": "Int:2"
         }
       },
-      "DSD:LK-6151": {
+      "DSD:maspotha": {
         "WallType:bricks": {
           "Count": "Int:10691"
         },
@@ -8576,7 +8576,7 @@
           "Count": "Int:0"
         }
       },
-      "DSD:LK-5236": {
+      "DSD:akkaraipattu": {
         "WallType:bricks": {
           "Count": "Int:7709"
         },
@@ -8611,7 +8611,7 @@
           "Count": "Int:0"
         }
       },
-      "DSD:LK-4112": {
+      "DSD:valikamam_north_thllippalai": {
         "WallType:bricks": {
           "Count": "Int:148"
         },
@@ -8646,7 +8646,7 @@
           "Count": "Int:13"
         }
       },
-      "DSD:LK-3227": {
+      "DSD:kaburupitiya": {
         "WallType:bricks": {
           "Count": "Int:8501"
         },
@@ -8681,7 +8681,7 @@
           "Count": "Int:2"
         }
       },
-      "DSD:LK-6139": {
+      "DSD:kobeigane": {
         "WallType:bricks": {
           "Count": "Int:11149"
         },
@@ -8716,7 +8716,7 @@
           "Count": "Int:0"
         }
       },
-      "DSD:LK-6149": {
+      "DSD:bamunakotuwa": {
         "WallType:bricks": {
           "Count": "Int:10876"
         },
@@ -8751,7 +8751,7 @@
           "Count": "Int:1"
         }
       },
-      "DSD:LK-4106": {
+      "DSD:valikamam_west_chankanai": {
         "WallType:bricks": {
           "Count": "Int:169"
         },
@@ -8786,7 +8786,7 @@
           "Count": "Int:9"
         }
       },
-      "DSD:LK-4136": {
+      "DSD:jaffna": {
         "WallType:bricks": {
           "Count": "Int:181"
         },
@@ -8821,7 +8821,7 @@
           "Count": "Int:6"
         }
       },
-      "DSD:LK-5242": {
+      "DSD:damana": {
         "WallType:bricks": {
           "Count": "Int:9837"
         },
@@ -8856,7 +8856,7 @@
           "Count": "Int:0"
         }
       },
-      "DSD:LK-5248": {
+      "DSD:pottuvil": {
         "WallType:bricks": {
           "Count": "Int:8378"
         },
@@ -8891,7 +8891,7 @@
           "Count": "Int:16"
         }
       },
-      "DSD:LK-7130": {
+      "DSD:mihinthale": {
         "WallType:bricks": {
           "Count": "Int:8368"
         },
@@ -8926,7 +8926,7 @@
           "Count": "Int:0"
         }
       },
-      "DSD:LK-7118": {
+      "DSD:rambewa": {
         "WallType:bricks": {
           "Count": "Int:9496"
         },
@@ -8961,7 +8961,7 @@
           "Count": "Int:0"
         }
       },
-      "DSD:LK-5133": {
+      "DSD:porativu_pattu": {
         "WallType:bricks": {
           "Count": "Int:9986"
         },
@@ -8996,7 +8996,7 @@
           "Count": "Int:8"
         }
       },
-      "DSD:LK-7163": {
+      "DSD:galnewa": {
         "WallType:bricks": {
           "Count": "Int:10077"
         },
@@ -9031,7 +9031,7 @@
           "Count": "Int:0"
         }
       },
-      "DSD:LK-7209": {
+      "DSD:lankapura": {
         "WallType:bricks": {
           "Count": "Int:10777"
         },
@@ -9066,7 +9066,7 @@
           "Count": "Int:0"
         }
       },
-      "DSD:LK-2302": {
+      "DSD:kothmale_west": {
         "WallType:bricks": {
           "Count": "Int:409"
         },
@@ -9101,7 +9101,7 @@
           "Count": "Int:2"
         }
       },
-      "DSD:LK-4121": {
+      "DSD:vadamaradchchi_south_west_karaveddy": {
         "WallType:bricks": {
           "Count": "Int:268"
         },
@@ -9136,7 +9136,7 @@
           "Count": "Int:3"
         }
       },
-      "DSD:LK-7124": {
+      "DSD:horowpathana": {
         "WallType:bricks": {
           "Count": "Int:10016"
         },
@@ -9171,7 +9171,7 @@
           "Count": "Int:1"
         }
       },
-      "DSD:LK-7166": {
+      "DSD:palagala": {
         "WallType:bricks": {
           "Count": "Int:9186"
         },
@@ -9206,7 +9206,7 @@
           "Count": "Int:0"
         }
       },
-      "DSD:LK-7210": {
+      "DSD:welikanda": {
         "WallType:bricks": {
           "Count": "Int:9062"
         },
@@ -9241,7 +9241,7 @@
           "Count": "Int:5"
         }
       },
-      "DSD:LK-8142": {
+      "DSD:haldummulla": {
         "WallType:bricks": {
           "Count": "Int:2482"
         },
@@ -9276,7 +9276,7 @@
           "Count": "Int:2"
         }
       },
-      "DSD:LK-5306": {
+      "DSD:kuchchaweli": {
         "WallType:bricks": {
           "Count": "Int:4304"
         },
@@ -9311,7 +9311,7 @@
           "Count": "Int:30"
         }
       },
-      "DSD:LK-9127": {
+      "DSD:elapatha": {
         "WallType:bricks": {
           "Count": "Int:897"
         },
@@ -9346,7 +9346,7 @@
           "Count": "Int:0"
         }
       },
-      "DSD:LK-2103": {
+      "DSD:tumpane": {
         "WallType:bricks": {
           "Count": "Int:7788"
         },
@@ -9381,7 +9381,7 @@
           "Count": "Int:2"
         }
       },
-      "DSD:LK-3137": {
+      "DSD:rathgama": {
         "WallType:bricks": {
           "Count": "Int:3216"
         },
@@ -9416,7 +9416,7 @@
           "Count": "Int:0"
         }
       },
-      "DSD:LK-6166": {
+      "DSD:weerabugedara": {
         "WallType:bricks": {
           "Count": "Int:9497"
         },
@@ -9451,7 +9451,7 @@
           "Count": "Int:0"
         }
       },
-      "DSD:LK-7142": {
+      "DSD:rajanganaya": {
         "WallType:bricks": {
           "Count": "Int:8905"
         },
@@ -9486,7 +9486,7 @@
           "Count": "Int:2"
         }
       },
-      "DSD:LK-4409": {
+      "DSD:puthukkudiyiruppu": {
         "WallType:bricks": {
           "Count": "Int:290"
         },
@@ -9521,7 +9521,7 @@
           "Count": "Int:33"
         }
       },
-      "DSD:LK-9145": {
+      "DSD:weligepola": {
         "WallType:bricks": {
           "Count": "Int:5261"
         },
@@ -9556,7 +9556,7 @@
           "Count": "Int:0"
         }
       },
-      "DSD:LK-1333": {
+      "DSD:agalawatta": {
         "WallType:bricks": {
           "Count": "Int:790"
         },
@@ -9591,7 +9591,7 @@
           "Count": "Int:1"
         }
       },
-      "DSD:LK-6103": {
+      "DSD:giribawa": {
         "WallType:bricks": {
           "Count": "Int:9555"
         },
@@ -9626,7 +9626,7 @@
           "Count": "Int:2"
         }
       },
-      "DSD:LK-4415": {
+      "DSD:maritimepattu": {
         "WallType:bricks": {
           "Count": "Int:283"
         },
@@ -9661,7 +9661,7 @@
           "Count": "Int:4"
         }
       },
-      "DSD:LK-3306": {
+      "DSD:lunugamwehera": {
         "WallType:bricks": {
           "Count": "Int:7943"
         },
@@ -9696,7 +9696,7 @@
           "Count": "Int:0"
         }
       },
-      "DSD:LK-1315": {
+      "DSD:madurawala": {
         "WallType:bricks": {
           "Count": "Int:603"
         },
@@ -9731,7 +9731,7 @@
           "Count": "Int:1"
         }
       },
-      "DSD:LK-3115": {
+      "DSD:niyagama": {
         "WallType:bricks": {
           "Count": "Int:3794"
         },
@@ -9766,7 +9766,7 @@
           "Count": "Int:1"
         }
       },
-      "DSD:LK-8206": {
+      "DSD:madulla": {
         "WallType:bricks": {
           "Count": "Int:9033"
         },
@@ -9801,7 +9801,7 @@
           "Count": "Int:1"
         }
       },
-      "DSD:LK-5127": {
+      "DSD:manmunai_pattu": {
         "WallType:bricks": {
           "Count": "Int:8586"
         },
@@ -9836,7 +9836,7 @@
           "Count": "Int:9"
         }
       },
-      "DSD:LK-3224": {
+      "DSD:malimbada": {
         "WallType:bricks": {
           "Count": "Int:3236"
         },
@@ -9871,7 +9871,7 @@
           "Count": "Int:1"
         }
       },
-      "DSD:LK-2227": {
+      "DSD:wilgamuwa": {
         "WallType:bricks": {
           "Count": "Int:8916"
         },
@@ -9906,7 +9906,7 @@
           "Count": "Int:0"
         }
       },
-      "DSD:LK-3236": {
+      "DSD:thihagoda": {
         "WallType:bricks": {
           "Count": "Int:5556"
         },
@@ -9941,7 +9941,7 @@
           "Count": "Int:3"
         }
       },
-      "DSD:LK-5121": {
+      "DSD:manmunai_west": {
         "WallType:bricks": {
           "Count": "Int:6978"
         },
@@ -9976,7 +9976,7 @@
           "Count": "Int:0"
         }
       },
-      "DSD:LK-9109": {
+      "DSD:kiriella": {
         "WallType:bricks": {
           "Count": "Int:468"
         },
@@ -10011,7 +10011,7 @@
           "Count": "Int:0"
         }
       },
-      "DSD:LK-3118": {
+      "DSD:thawalama": {
         "WallType:bricks": {
           "Count": "Int:1240"
         },
@@ -10046,7 +10046,7 @@
           "Count": "Int:0"
         }
       },
-      "DSD:LK-8230": {
+      "DSD:thanamalwila": {
         "WallType:bricks": {
           "Count": "Int:6302"
         },
@@ -10081,7 +10081,7 @@
           "Count": "Int:0"
         }
       },
-      "DSD:LK-6148": {
+      "DSD:panduwasnuwara_east": {
         "WallType:bricks": {
           "Count": "Int:8741"
         },
@@ -10116,7 +10116,7 @@
           "Count": "Int:0"
         }
       },
-      "DSD:LK-2307": {
+      "DSD:mathurata": {
         "WallType:bricks": {
           "Count": "Int:1707"
         },
@@ -10151,7 +10151,7 @@
           "Count": "Int:0"
         }
       },
-      "DSD:LK-5318": {
+      "DSD:thambalagamuwa": {
         "WallType:bricks": {
           "Count": "Int:6465"
         },
@@ -10186,7 +10186,7 @@
           "Count": "Int:0"
         }
       },
-      "DSD:LK-3135": {
+      "DSD:madampagama": {
         "WallType:bricks": {
           "Count": "Int:2044"
         },
@@ -10221,7 +10221,7 @@
           "Count": "Int:0"
         }
       },
-      "DSD:LK-3230": {
+      "DSD:hakmana": {
         "WallType:bricks": {
           "Count": "Int:7242"
         },
@@ -10256,7 +10256,7 @@
           "Count": "Int:0"
         }
       },
-      "DSD:LK-2212": {
+      "DSD:pallepola": {
         "WallType:bricks": {
           "Count": "Int:7133"
         },
@@ -10291,7 +10291,7 @@
           "Count": "Int:0"
         }
       },
-      "DSD:LK-3215": {
+      "DSD:athuraliya": {
         "WallType:bricks": {
           "Count": "Int:3575"
         },
@@ -10326,7 +10326,7 @@
           "Count": "Int:0"
         }
       },
-      "DSD:LK-7151": {
+      "DSD:thirappane": {
         "WallType:bricks": {
           "Count": "Int:7275"
         },
@@ -10361,7 +10361,7 @@
           "Count": "Int:0"
         }
       },
-      "DSD:LK-2215": {
+      "DSD:yatawatta": {
         "WallType:bricks": {
           "Count": "Int:6980"
         },
@@ -10396,7 +10396,7 @@
           "Count": "Int:0"
         }
       },
-      "DSD:LK-8119": {
+      "DSD:lunugala": {
         "WallType:bricks": {
           "Count": "Int:2393"
         },
@@ -10431,7 +10431,7 @@
           "Count": "Int:1"
         }
       },
-      "DSD:LK-9130": {
+      "DSD:ayagama": {
         "WallType:bricks": {
           "Count": "Int:205"
         },
@@ -10466,7 +10466,7 @@
           "Count": "Int:0"
         }
       },
-      "DSD:LK-2209": {
+      "DSD:naula": {
         "WallType:bricks": {
           "Count": "Int:7309"
         },
@@ -10501,7 +10501,7 @@
           "Count": "Int:0"
         }
       },
-      "DSD:LK-5230": {
+      "DSD:nintavur": {
         "WallType:bricks": {
           "Count": "Int:7655"
         },
@@ -10536,7 +10536,7 @@
           "Count": "Int:0"
         }
       },
-      "DSD:LK-2148": {
+      "DSD:deltota": {
         "WallType:bricks": {
           "Count": "Int:358"
         },
@@ -10571,7 +10571,7 @@
           "Count": "Int:1"
         }
       },
-      "DSD:LK-5221": {
+      "DSD:kalmunai_north": {
         "WallType:bricks": {
           "Count": "Int:6952"
         },
@@ -10606,7 +10606,7 @@
           "Count": "Int:1"
         }
       },
-      "DSD:LK-2134": {
+      "DSD:hatharaliyadda": {
         "WallType:bricks": {
           "Count": "Int:6468"
         },
@@ -10641,7 +10641,7 @@
           "Count": "Int:0"
         }
       },
-      "DSD:LK-3130": {
+      "DSD:welivitiya_divitura": {
         "WallType:bricks": {
           "Count": "Int:2119"
         },
@@ -10676,7 +10676,7 @@
           "Count": "Int:0"
         }
       },
-      "DSD:LK-5110": {
+      "DSD:koralai_pattu_south": {
         "WallType:bricks": {
           "Count": "Int:4901"
         },
@@ -10711,7 +10711,7 @@
           "Count": "Int:0"
         }
       },
-      "DSD:LK-5104": {
+      "DSD:koralai_pattu_central": {
         "WallType:bricks": {
           "Count": "Int:6871"
         },
@@ -10746,7 +10746,7 @@
           "Count": "Int:11"
         }
       },
-      "DSD:LK-3121": {
+      "DSD:neluwa": {
         "WallType:bricks": {
           "Count": "Int:2158"
         },
@@ -10781,7 +10781,7 @@
           "Count": "Int:0"
         }
       },
-      "DSD:LK-5245": {
+      "DSD:tirukkovil": {
         "WallType:bricks": {
           "Count": "Int:3165"
         },
@@ -10816,7 +10816,7 @@
           "Count": "Int:38"
         }
       },
-      "DSD:LK-5109": {
+      "DSD:koralai_pattu": {
         "WallType:bricks": {
           "Count": "Int:4671"
         },
@@ -10851,7 +10851,7 @@
           "Count": "Int:13"
         }
       },
-      "DSD:LK-6227": {
+      "DSD:pallama": {
         "WallType:bricks": {
           "Count": "Int:7559"
         },
@@ -10886,7 +10886,7 @@
           "Count": "Int:2"
         }
       },
-      "DSD:LK-6109": {
+      "DSD:ehetuwewa": {
         "WallType:bricks": {
           "Count": "Int:7748"
         },
@@ -10921,7 +10921,7 @@
           "Count": "Int:0"
         }
       },
-      "DSD:LK-7136": {
+      "DSD:nachchaduwa": {
         "WallType:bricks": {
           "Count": "Int:7177"
         },
@@ -10956,7 +10956,7 @@
           "Count": "Int:1"
         }
       },
-      "DSD:LK-9121": {
+      "DSD:opanayake": {
         "WallType:bricks": {
           "Count": "Int:1336"
         },
@@ -10991,7 +10991,7 @@
           "Count": "Int:0"
         }
       },
-      "DSD:LK-6209": {
+      "DSD:karuwalagaswewa": {
         "WallType:bricks": {
           "Count": "Int:6688"
         },
@@ -11026,7 +11026,7 @@
           "Count": "Int:0"
         }
       },
-      "DSD:LK-3128": {
+      "DSD:wanduramba": {
         "WallType:bricks": {
           "Count": "Int:3409"
         },
@@ -11061,7 +11061,7 @@
           "Count": "Int:0"
         }
       },
-      "DSD:LK-5225": {
+      "DSD:sainthamaruthu": {
         "WallType:bricks": {
           "Count": "Int:7573"
         },
@@ -11096,7 +11096,7 @@
           "Count": "Int:1"
         }
       },
-      "DSD:LK-5103": {
+      "DSD:koralai_pattu_north": {
         "WallType:bricks": {
           "Count": "Int:2692"
         },
@@ -11131,7 +11131,7 @@
           "Count": "Int:92"
         }
       },
-      "DSD:LK-5130": {
+      "DSD:manmunai_south_west": {
         "WallType:bricks": {
           "Count": "Int:6806"
         },
@@ -11166,7 +11166,7 @@
           "Count": "Int:18"
         }
       },
-      "DSD:LK-6112": {
+      "DSD:ambanpola": {
         "WallType:bricks": {
           "Count": "Int:7175"
         },
@@ -11201,7 +11201,7 @@
           "Count": "Int:0"
         }
       },
-      "DSD:LK-7106": {
+      "DSD:kebithigollewa": {
         "WallType:bricks": {
           "Count": "Int:6544"
         },
@@ -11236,7 +11236,7 @@
           "Count": "Int:0"
         }
       },
-      "DSD:LK-8112": {
+      "DSD:kandeketiya": {
         "WallType:bricks": {
           "Count": "Int:5885"
         },
@@ -11271,7 +11271,7 @@
           "Count": "Int:0"
         }
       },
-      "DSD:LK-3136": {
+      "DSD:hikkaduwa": {
         "WallType:bricks": {
           "Count": "Int:2021"
         },
@@ -11306,7 +11306,7 @@
           "Count": "Int:0"
         }
       },
-      "DSD:LK-2115": {
+      "DSD:panvila": {
         "WallType:bricks": {
           "Count": "Int:1097"
         },
@@ -11341,7 +11341,7 @@
           "Count": "Int:0"
         }
       },
-      "DSD:LK-5106": {
+      "DSD:koralai_pattu_west": {
         "WallType:bricks": {
           "Count": "Int:5839"
         },
@@ -11376,7 +11376,7 @@
           "Count": "Int:1"
         }
       },
-      "DSD:LK-6118": {
+      "DSD:rasnayakapura": {
         "WallType:bricks": {
           "Count": "Int:6554"
         },
@@ -11411,7 +11411,7 @@
           "Count": "Int:0"
         }
       },
-      "DSD:LK-5115": {
+      "DSD:eravur_town": {
         "WallType:bricks": {
           "Count": "Int:6702"
         },
@@ -11446,7 +11446,7 @@
           "Count": "Int:6"
         }
       },
-      "DSD:LK-7103": {
+      "DSD:padaviya": {
         "WallType:bricks": {
           "Count": "Int:4887"
         },
@@ -11481,7 +11481,7 @@
           "Count": "Int:0"
         }
       },
-      "DSD:LK-7112": {
+      "DSD:mahawilachchiya": {
         "WallType:bricks": {
           "Count": "Int:4947"
         },
@@ -11516,7 +11516,7 @@
           "Count": "Int:0"
         }
       },
-      "DSD:LK-4312": {
+      "DSD:vengalacheddikulam": {
         "WallType:bricks": {
           "Count": "Int:1771"
         },
@@ -11551,7 +11551,7 @@
           "Count": "Int:0"
         }
       },
-      "DSD:LK-5239": {
+      "DSD:alayadivembu": {
         "WallType:bricks": {
           "Count": "Int:2448"
         },
@@ -11586,7 +11586,7 @@
           "Count": "Int:0"
         }
       },
-      "DSD:LK-5209": {
+      "DSD:mahaoya": {
         "WallType:bricks": {
           "Count": "Int:5050"
         },
@@ -11621,7 +11621,7 @@
           "Count": "Int:0"
         }
       },
-      "DSD:LK-6115": {
+      "DSD:kotawehera": {
         "WallType:bricks": {
           "Count": "Int:6541"
         },
@@ -11656,7 +11656,7 @@
           "Count": "Int:0"
         }
       },
-      "DSD:LK-4506": {
+      "DSD:kandavalai": {
         "WallType:bricks": {
           "Count": "Int:97"
         },
@@ -11691,7 +11691,7 @@
           "Count": "Int:0"
         }
       },
-      "DSD:LK-8115": {
+      "DSD:soranathota": {
         "WallType:bricks": {
           "Count": "Int:3316"
         },
@@ -11726,7 +11726,7 @@
           "Count": "Int:0"
         }
       },
-      "DSD:LK-3134": {
+      "DSD:gonapinuwala": {
         "WallType:bricks": {
           "Count": "Int:2207"
         },
@@ -11761,7 +11761,7 @@
           "Count": "Int:0"
         }
       },
-      "DSD:LK-2118": {
+      "DSD:ududumbara": {
         "WallType:bricks": {
           "Count": "Int:2803"
         },
@@ -11796,7 +11796,7 @@
           "Count": "Int:0"
         }
       },
-      "DSD:LK-6221": {
+      "DSD:mahakumbukkadawala": {
         "WallType:bricks": {
           "Count": "Int:5435"
         },
@@ -11831,7 +11831,7 @@
           "Count": "Int:6"
         }
       },
-      "DSD:LK-8109": {
+      "DSD:meegahakiula": {
         "WallType:bricks": {
           "Count": "Int:4726"
         },
@@ -11866,7 +11866,7 @@
           "Count": "Int:0"
         }
       },
-      "DSD:LK-4512": {
+      "DSD:poonakary": {
         "WallType:bricks": {
           "Count": "Int:73"
         },
@@ -11901,7 +11901,7 @@
           "Count": "Int:2"
         }
       },
-      "DSD:LK-5216": {
+      "DSD:navithanveli": {
         "WallType:bricks": {
           "Count": "Int:5053"
         },
@@ -11936,7 +11936,7 @@
           "Count": "Int:1"
         }
       },
-      "DSD:LK-5206": {
+      "DSD:padiyathalawa": {
         "WallType:bricks": {
           "Count": "Int:4789"
         },
@@ -11971,7 +11971,7 @@
           "Count": "Int:1"
         }
       },
-      "DSD:LK-6206": {
+      "DSD:vanathavilluwa": {
         "WallType:bricks": {
           "Count": "Int:2944"
         },
@@ -12006,7 +12006,7 @@
           "Count": "Int:2"
         }
       },
-      "DSD:LK-3233": {
+      "DSD:kirinda_puhulwella": {
         "WallType:bricks": {
           "Count": "Int:4189"
         },
@@ -12041,7 +12041,7 @@
           "Count": "Int:0"
         }
       },
-      "DSD:LK-3327": {
+      "DSD:okewela": {
         "WallType:bricks": {
           "Count": "Int:4867"
         },
@@ -12076,7 +12076,7 @@
           "Count": "Int:0"
         }
       },
-      "DSD:LK-4212": {
+      "DSD:nanaddan": {
         "WallType:bricks": {
           "Count": "Int:122"
         },
@@ -12111,7 +12111,7 @@
           "Count": "Int:11"
         }
       },
-      "DSD:LK-8227": {
+      "DSD:katharagama": {
         "WallType:bricks": {
           "Count": "Int:2992"
         },
@@ -12146,7 +12146,7 @@
           "Count": "Int:1"
         }
       },
-      "DSD:LK-6212": {
+      "DSD:nawagattegama": {
         "WallType:bricks": {
           "Count": "Int:4756"
         },
@@ -12181,7 +12181,7 @@
           "Count": "Int:0"
         }
       },
-      "DSD:LK-5227": {
+      "DSD:karaitivu": {
         "WallType:bricks": {
           "Count": "Int:4712"
         },
@@ -12216,7 +12216,7 @@
           "Count": "Int:6"
         }
       },
-      "DSD:LK-7157": {
+      "DSD:palugaswewa": {
         "WallType:bricks": {
           "Count": "Int:3915"
         },
@@ -12251,7 +12251,7 @@
           "Count": "Int:0"
         }
       },
-      "DSD:LK-4412": {
+      "DSD:oddusuddan": {
         "WallType:bricks": {
           "Count": "Int:137"
         },
@@ -12286,7 +12286,7 @@
           "Count": "Int:2"
         }
       },
-      "DSD:LK-4206": {
+      "DSD:manthai_west": {
         "WallType:bricks": {
           "Count": "Int:75"
         },
@@ -12321,7 +12321,7 @@
           "Count": "Int:0"
         }
       },
-      "DSD:LK-2224": {
+      "DSD:laggala": {
         "WallType:bricks": {
           "Count": "Int:3577"
         },
@@ -12356,7 +12356,7 @@
           "Count": "Int:1"
         }
       },
-      "DSD:LK-2221": {
+      "DSD:ambanganga": {
         "WallType:bricks": {
           "Count": "Int:2675"
         },
@@ -12391,7 +12391,7 @@
           "Count": "Int:0"
         }
       },
-      "DSD:LK-5330": {
+      "DSD:seruvila": {
         "WallType:bricks": {
           "Count": "Int:3418"
         },
@@ -12426,7 +12426,7 @@
           "Count": "Int:0"
         }
       },
-      "DSD:LK-5234": {
+      "DSD:irakkamam": {
         "WallType:bricks": {
           "Count": "Int:3141"
         },
@@ -12461,7 +12461,7 @@
           "Count": "Int:0"
         }
       },
-      "DSD:LK-4306": {
+      "DSD:vavuniya_south": {
         "WallType:bricks": {
           "Count": "Int:2642"
         },
@@ -12496,7 +12496,7 @@
           "Count": "Int:1"
         }
       },
-      "DSD:LK-4139": {
+      "DSD:islands_south_velanai": {
         "WallType:bricks": {
           "Count": "Int:59"
         },
@@ -12531,7 +12531,7 @@
           "Count": "Int:0"
         }
       },
-      "DSD:LK-4215": {
+      "DSD:musali": {
         "WallType:bricks": {
           "Count": "Int:92"
         },
@@ -12566,7 +12566,7 @@
           "Count": "Int:0"
         }
       },
-      "DSD:LK-4303": {
+      "DSD:vavuniya_north": {
         "WallType:bricks": {
           "Count": "Int:219"
         },
@@ -12601,7 +12601,7 @@
           "Count": "Int:0"
         }
       },
-      "DSD:LK-9119": {
+      "DSD:kalthota": {
         "WallType:bricks": {
           "Count": "Int:1901"
         },
@@ -12636,7 +12636,7 @@
           "Count": "Int:0"
         }
       },
-      "DSD:LK-4124": {
+      "DSD:vadamaradchchi_east": {
         "WallType:bricks": {
           "Count": "Int:31"
         },
@@ -12671,7 +12671,7 @@
           "Count": "Int:12"
         }
       },
-      "DSD:LK-5333": {
+      "DSD:verugal": {
         "WallType:bricks": {
           "Count": "Int:2625"
         },
@@ -12706,7 +12706,7 @@
           "Count": "Int:4"
         }
       },
-      "DSD:LK-4503": {
+      "DSD:pachchilaipalli": {
         "WallType:bricks": {
           "Count": "Int:21"
         },
@@ -12741,7 +12741,7 @@
           "Count": "Int:2"
         }
       },
-      "DSD:LK-5303": {
+      "DSD:padavi_sri_pura": {
         "WallType:bricks": {
           "Count": "Int:2764"
         },
@@ -12776,7 +12776,7 @@
           "Count": "Int:1"
         }
       },
-      "DSD:LK-4418": {
+      "DSD:welioya": {
         "WallType:bricks": {
           "Count": "Int:2092"
         },
@@ -12811,7 +12811,7 @@
           "Count": "Int:0"
         }
       },
-      "DSD:LK-5251": {
+      "DSD:lahugala": {
         "WallType:bricks": {
           "Count": "Int:1713"
         },
@@ -12846,7 +12846,7 @@
           "Count": "Int:0"
         }
       },
-      "DSD:LK-4403": {
+      "DSD:thunukkai": {
         "WallType:bricks": {
           "Count": "Int:26"
         },
@@ -12881,7 +12881,7 @@
           "Count": "Int:1"
         }
       },
-      "DSD:LK-4209": {
+      "DSD:madhu": {
         "WallType:bricks": {
           "Count": "Int:134"
         },
@@ -12916,7 +12916,7 @@
           "Count": "Int:0"
         }
       },
-      "DSD:LK-5312": {
+      "DSD:morawewa": {
         "WallType:bricks": {
           "Count": "Int:1818"
         },
@@ -12951,7 +12951,7 @@
           "Count": "Int:1"
         }
       },
-      "DSD:LK-4103": {
+      "DSD:islands_north_kayts": {
         "WallType:bricks": {
           "Count": "Int:38"
         },
@@ -12986,7 +12986,7 @@
           "Count": "Int:0"
         }
       },
-      "DSD:LK-4104": {
+      "DSD:karainagar": {
         "WallType:bricks": {
           "Count": "Int:148"
         },
@@ -13021,7 +13021,7 @@
           "Count": "Int:1"
         }
       },
-      "DSD:LK-5309": {
+      "DSD:gomarankadawala": {
         "WallType:bricks": {
           "Count": "Int:1968"
         },
@@ -13056,7 +13056,7 @@
           "Count": "Int:2"
         }
       },
-      "DSD:LK-4406": {
+      "DSD:manthai_east": {
         "WallType:bricks": {
           "Count": "Int:41"
         },
@@ -13091,7 +13091,7 @@
           "Count": "Int:0"
         }
       },
-      "DSD:LK-4142": {
+      "DSD:delft": {
         "WallType:bricks": {
           "Count": "Int:10"
         },
@@ -13126,7 +13126,7 @@
           "Count": "Int:0"
         }
       },
-      "ED:EC-02": {
+      "ED:gampaha": {
         "WallType:bricks": {
           "Count": "Int:236563"
         },
@@ -13161,7 +13161,7 @@
           "Count": "Int:58"
         }
       },
-      "ED:EC-01": {
+      "ED:colombo": {
         "WallType:bricks": {
           "Count": "Int:166151"
         },
@@ -13196,7 +13196,7 @@
           "Count": "Int:167"
         }
       },
-      "ED:EC-15": {
+      "ED:kurunegala": {
         "WallType:bricks": {
           "Count": "Int:445527"
         },
@@ -13231,7 +13231,7 @@
           "Count": "Int:38"
         }
       },
-      "ED:EC-04": {
+      "ED:kandy": {
         "WallType:bricks": {
           "Count": "Int:154206"
         },
@@ -13266,7 +13266,7 @@
           "Count": "Int:31"
         }
       },
-      "ED:EC-03": {
+      "ED:kalutara": {
         "WallType:bricks": {
           "Count": "Int:41484"
         },
@@ -13301,7 +13301,7 @@
           "Count": "Int:45"
         }
       },
-      "ED:EC-21": {
+      "ED:ratnapura": {
         "WallType:bricks": {
           "Count": "Int:76597"
         },
@@ -13336,7 +13336,7 @@
           "Count": "Int:16"
         }
       },
-      "ED:EC-07": {
+      "ED:galle": {
         "WallType:bricks": {
           "Count": "Int:89321"
         },
@@ -13371,7 +13371,7 @@
           "Count": "Int:20"
         }
       },
-      "ED:EC-17": {
+      "ED:anuradhapura": {
         "WallType:bricks": {
           "Count": "Int:222041"
         },
@@ -13406,7 +13406,7 @@
           "Count": "Int:17"
         }
       },
-      "ED:EC-22": {
+      "ED:kegalle": {
         "WallType:bricks": {
           "Count": "Int:105322"
         },
@@ -13441,7 +13441,7 @@
           "Count": "Int:26"
         }
       },
-      "ED:EC-19": {
+      "ED:badulla": {
         "WallType:bricks": {
           "Count": "Int:100196"
         },
@@ -13476,7 +13476,7 @@
           "Count": "Int:17"
         }
       },
-      "ED:EC-16": {
+      "ED:puttalam": {
         "WallType:bricks": {
           "Count": "Int:149525"
         },
@@ -13511,7 +13511,7 @@
           "Count": "Int:72"
         }
       },
-      "ED:EC-08": {
+      "ED:matara": {
         "WallType:bricks": {
           "Count": "Int:123241"
         },
@@ -13546,7 +13546,7 @@
           "Count": "Int:15"
         }
       },
-      "ED:EC-13": {
+      "ED:digamadulla": {
         "WallType:bricks": {
           "Count": "Int:161796"
         },
@@ -13581,7 +13581,7 @@
           "Count": "Int:83"
         }
       },
-      "ED:EC-10": {
+      "ED:jaffna": {
         "WallType:bricks": {
           "Count": "Int:2913"
         },
@@ -13616,7 +13616,7 @@
           "Count": "Int:120"
         }
       },
-      "ED:EC-06": {
+      "ED:nuwara_eliya": {
         "WallType:bricks": {
           "Count": "Int:21337"
         },
@@ -13651,7 +13651,7 @@
           "Count": "Int:47"
         }
       },
-      "ED:EC-09": {
+      "ED:hambantota": {
         "WallType:bricks": {
           "Count": "Int:153368"
         },
@@ -13686,7 +13686,7 @@
           "Count": "Int:7"
         }
       },
-      "ED:EC-12": {
+      "ED:batticaloa": {
         "WallType:bricks": {
           "Count": "Int:128280"
         },
@@ -13721,7 +13721,7 @@
           "Count": "Int:223"
         }
       },
-      "ED:EC-20": {
+      "ED:moneragala": {
         "WallType:bricks": {
           "Count": "Int:114868"
         },
@@ -13756,7 +13756,7 @@
           "Count": "Int:14"
         }
       },
-      "ED:EC-05": {
+      "ED:matale": {
         "WallType:bricks": {
           "Count": "Int:107311"
         },
@@ -13791,7 +13791,7 @@
           "Count": "Int:12"
         }
       },
-      "ED:EC-18": {
+      "ED:polonnaruwa": {
         "WallType:bricks": {
           "Count": "Int:113818"
         },
@@ -13826,7 +13826,7 @@
           "Count": "Int:8"
         }
       },
-      "ED:EC-14": {
+      "ED:trincomalee": {
         "WallType:bricks": {
           "Count": "Int:70785"
         },
@@ -13861,7 +13861,7 @@
           "Count": "Int:112"
         }
       },
-      "ED:EC-11": {
+      "ED:vanni": {
         "WallType:bricks": {
           "Count": "Int:14489"
         },
@@ -13896,7 +13896,7 @@
           "Count": "Int:63"
         }
       },
-      "PD:EC-06A": {
+      "PD:nuwara_eliya_maskeliya": {
         "WallType:bricks": {
           "Count": "Int:6793"
         },
@@ -13931,7 +13931,7 @@
           "Count": "Int:35"
         }
       },
-      "PD:EC-01J": {
+      "PD:kaduwela": {
         "WallType:bricks": {
           "Count": "Int:18998"
         },
@@ -13966,7 +13966,7 @@
           "Count": "Int:3"
         }
       },
-      "PD:EC-01L": {
+      "PD:homagama": {
         "WallType:bricks": {
           "Count": "Int:9215"
         },
@@ -14001,7 +14001,7 @@
           "Count": "Int:29"
         }
       },
-      "PD:EC-12B": {
+      "PD:batticaloa": {
         "WallType:bricks": {
           "Count": "Int:64131"
         },
@@ -14036,7 +14036,7 @@
           "Count": "Int:64"
         }
       },
-      "PD:EC-01N": {
+      "PD:kesbewa": {
         "WallType:bricks": {
           "Count": "Int:17576"
         },
@@ -14071,7 +14071,7 @@
           "Count": "Int:7"
         }
       },
-      "PD:EC-02C": {
+      "PD:katana": {
         "WallType:bricks": {
           "Count": "Int:37714"
         },
@@ -14106,7 +14106,7 @@
           "Count": "Int:3"
         }
       },
-      "PD:EC-09D": {
+      "PD:thissamaharama": {
         "WallType:bricks": {
           "Count": "Int:52240"
         },
@@ -14141,7 +14141,7 @@
           "Count": "Int:2"
         }
       },
-      "PD:EC-13A": {
+      "PD:ampara": {
         "WallType:bricks": {
           "Count": "Int:58696"
         },
@@ -14176,7 +14176,7 @@
           "Count": "Int:4"
         }
       },
-      "PD:EC-13D": {
+      "PD:pothuvil": {
         "WallType:bricks": {
           "Count": "Int:45474"
         },
@@ -14211,7 +14211,7 @@
           "Count": "Int:72"
         }
       },
-      "PD:EC-20C": {
+      "PD:wellawaya": {
         "WallType:bricks": {
           "Count": "Int:50877"
         },
@@ -14246,7 +14246,7 @@
           "Count": "Int:8"
         }
       },
-      "PD:EC-16A": {
+      "PD:puttalam": {
         "WallType:bricks": {
           "Count": "Int:22804"
         },
@@ -14281,7 +14281,7 @@
           "Count": "Int:26"
         }
       },
-      "PD:EC-02J": {
+      "PD:mahara": {
         "WallType:bricks": {
           "Count": "Int:15358"
         },
@@ -14316,7 +14316,7 @@
           "Count": "Int:4"
         }
       },
-      "PD:EC-21H": {
+      "PD:kolonna": {
         "WallType:bricks": {
           "Count": "Int:41415"
         },
@@ -14351,7 +14351,7 @@
           "Count": "Int:0"
         }
       },
-      "PD:EC-18C": {
+      "PD:polonnaruwa": {
         "WallType:bricks": {
           "Count": "Int:53793"
         },
@@ -14386,7 +14386,7 @@
           "Count": "Int:5"
         }
       },
-      "PD:EC-02L": {
+      "PD:biyagama": {
         "WallType:bricks": {
           "Count": "Int:11270"
         },
@@ -14421,7 +14421,7 @@
           "Count": "Int:4"
         }
       },
-      "PD:EC-02H": {
+      "PD:gampaha": {
         "WallType:bricks": {
           "Count": "Int:18525"
         },
@@ -14456,7 +14456,7 @@
           "Count": "Int:3"
         }
       },
-      "PD:EC-02I": {
+      "PD:ja_ela": {
         "WallType:bricks": {
           "Count": "Int:23421"
         },
@@ -14491,7 +14491,7 @@
           "Count": "Int:3"
         }
       },
-      "PD:EC-04B": {
+      "PD:harispattuwa": {
         "WallType:bricks": {
           "Count": "Int:33040"
         },
@@ -14526,7 +14526,7 @@
           "Count": "Int:9"
         }
       },
-      "PD:EC-01M": {
+      "PD:maharagama": {
         "WallType:bricks": {
           "Count": "Int:17936"
         },
@@ -14561,7 +14561,7 @@
           "Count": "Int:9"
         }
       },
-      "PD:EC-02F": {
+      "PD:minuwangoda": {
         "WallType:bricks": {
           "Count": "Int:18793"
         },
@@ -14596,7 +14596,7 @@
           "Count": "Int:4"
         }
       },
-      "PD:EC-01H": {
+      "PD:kolonnawa": {
         "WallType:bricks": {
           "Count": "Int:11301"
         },
@@ -14631,7 +14631,7 @@
           "Count": "Int:64"
         }
       },
-      "PD:EC-03B": {
+      "PD:bandaragama": {
         "WallType:bricks": {
           "Count": "Int:4920"
         },
@@ -14666,7 +14666,7 @@
           "Count": "Int:7"
         }
       },
-      "PD:EC-01K": {
+      "PD:avissawella": {
         "WallType:bricks": {
           "Count": "Int:3325"
         },
@@ -14701,7 +14701,7 @@
           "Count": "Int:6"
         }
       },
-      "PD:EC-05A": {
+      "PD:dambulla": {
         "WallType:bricks": {
           "Count": "Int:40233"
         },
@@ -14736,7 +14736,7 @@
           "Count": "Int:2"
         }
       },
-      "PD:EC-02G": {
+      "PD:attanagalla": {
         "WallType:bricks": {
           "Count": "Int:14440"
         },
@@ -14771,7 +14771,7 @@
           "Count": "Int:2"
         }
       },
-      "PD:EC-03C": {
+      "PD:horana": {
         "WallType:bricks": {
           "Count": "Int:3416"
         },
@@ -14806,7 +14806,7 @@
           "Count": "Int:5"
         }
       },
-      "PD:EC-12A": {
+      "PD:kalkudah": {
         "WallType:bricks": {
           "Count": "Int:32475"
         },
@@ -14841,7 +14841,7 @@
           "Count": "Int:119"
         }
       },
-      "PD:EC-17E": {
+      "PD:kalawewa": {
         "WallType:bricks": {
           "Count": "Int:42624"
         },
@@ -14876,7 +14876,7 @@
           "Count": "Int:4"
         }
       },
-      "PD:EC-02E": {
+      "PD:mirigama": {
         "WallType:bricks": {
           "Count": "Int:13020"
         },
@@ -14911,7 +14911,7 @@
           "Count": "Int:3"
         }
       },
-      "PD:EC-02A": {
+      "PD:wattala": {
         "WallType:bricks": {
           "Count": "Int:19114"
         },
@@ -14946,7 +14946,7 @@
           "Count": "Int:12"
         }
       },
-      "PD:EC-09C": {
+      "PD:tangalle": {
         "WallType:bricks": {
           "Count": "Int:42517"
         },
@@ -14981,7 +14981,7 @@
           "Count": "Int:3"
         }
       },
-      "PD:EC-14C": {
+      "PD:muttur": {
         "WallType:bricks": {
           "Count": "Int:38463"
         },
@@ -15016,7 +15016,7 @@
           "Count": "Int:67"
         }
       },
-      "PD:EC-11B": {
+      "PD:vavuniya": {
         "WallType:bricks": {
           "Count": "Int:10861"
         },
@@ -15051,7 +15051,7 @@
           "Count": "Int:4"
         }
       },
-      "PD:EC-16B": {
+      "PD:anamaduwa": {
         "WallType:bricks": {
           "Count": "Int:40480"
         },
@@ -15086,7 +15086,7 @@
           "Count": "Int:10"
         }
       },
-      "PD:EC-02K": {
+      "PD:dompe": {
         "WallType:bricks": {
           "Count": "Int:4621"
         },
@@ -15121,7 +15121,7 @@
           "Count": "Int:2"
         }
       },
-      "PD:EC-20B": {
+      "PD:monaragala": {
         "WallType:bricks": {
           "Count": "Int:33210"
         },
@@ -15156,7 +15156,7 @@
           "Count": "Int:5"
         }
       },
-      "PD:EC-21B": {
+      "PD:ratnapura": {
         "WallType:bricks": {
           "Count": "Int:3451"
         },
@@ -15191,7 +15191,7 @@
           "Count": "Int:0"
         }
       },
-      "PD:EC-15C": {
+      "PD:yapahuwa": {
         "WallType:bricks": {
           "Count": "Int:42886"
         },
@@ -15226,7 +15226,7 @@
           "Count": "Int:4"
         }
       },
-      "PD:EC-16C": {
+      "PD:chilaw": {
         "WallType:bricks": {
           "Count": "Int:34214"
         },
@@ -15261,7 +15261,7 @@
           "Count": "Int:7"
         }
       },
-      "PD:EC-02D": {
+      "PD:divulapitiya": {
         "WallType:bricks": {
           "Count": "Int:22964"
         },
@@ -15296,7 +15296,7 @@
           "Count": "Int:8"
         }
       },
-      "PD:EC-17D": {
+      "PD:anuradhapura_west": {
         "WallType:bricks": {
           "Count": "Int:34478"
         },
@@ -15331,7 +15331,7 @@
           "Count": "Int:2"
         }
       },
-      "PD:EC-17C": {
+      "PD:anuradhapura_east": {
         "WallType:bricks": {
           "Count": "Int:35686"
         },
@@ -15366,7 +15366,7 @@
           "Count": "Int:5"
         }
       },
-      "PD:EC-01O": {
+      "PD:moratuwa": {
         "WallType:bricks": {
           "Count": "Int:15107"
         },
@@ -15401,7 +15401,7 @@
           "Count": "Int:5"
         }
       },
-      "PD:EC-03F": {
+      "PD:kalutara": {
         "WallType:bricks": {
           "Count": "Int:9148"
         },
@@ -15436,7 +15436,7 @@
           "Count": "Int:6"
         }
       },
-      "PD:EC-21D": {
+      "PD:balangoda": {
         "WallType:bricks": {
           "Count": "Int:7571"
         },
@@ -15471,7 +15471,7 @@
           "Count": "Int:4"
         }
       },
-      "PD:EC-19A": {
+      "PD:mahiyanganaya": {
         "WallType:bricks": {
           "Count": "Int:37053"
         },
@@ -15506,7 +15506,7 @@
           "Count": "Int:4"
         }
       },
-      "PD:EC-03A": {
+      "PD:panadura": {
         "WallType:bricks": {
           "Count": "Int:10908"
         },
@@ -15541,7 +15541,7 @@
           "Count": "Int:8"
         }
       },
-      "PD:EC-15A": {
+      "PD:galgamuwa": {
         "WallType:bricks": {
           "Count": "Int:38882"
         },
@@ -15576,7 +15576,7 @@
           "Count": "Int:3"
         }
       },
-      "PD:EC-03E": {
+      "PD:mathugama": {
         "WallType:bricks": {
           "Count": "Int:2840"
         },
@@ -15611,7 +15611,7 @@
           "Count": "Int:8"
         }
       },
-      "PD:EC-03G": {
+      "PD:beruwala": {
         "WallType:bricks": {
           "Count": "Int:7246"
         },
@@ -15646,7 +15646,7 @@
           "Count": "Int:5"
         }
       },
-      "PD:EC-21E": {
+      "PD:rakwana": {
         "WallType:bricks": {
           "Count": "Int:13736"
         },
@@ -15681,7 +15681,7 @@
           "Count": "Int:1"
         }
       },
-      "PD:EC-09A": {
+      "PD:mulkirigala": {
         "WallType:bricks": {
           "Count": "Int:34579"
         },
@@ -15716,7 +15716,7 @@
           "Count": "Int:2"
         }
       },
-      "PD:EC-15I": {
+      "PD:kuliyapitiya": {
         "WallType:bricks": {
           "Count": "Int:35456"
         },
@@ -15751,7 +15751,7 @@
           "Count": "Int:1"
         }
       },
-      "PD:EC-15D": {
+      "PD:hiriyala": {
         "WallType:bricks": {
           "Count": "Int:35970"
         },
@@ -15786,7 +15786,7 @@
           "Count": "Int:5"
         }
       },
-      "PD:EC-04F": {
+      "PD:kundasale": {
         "WallType:bricks": {
           "Count": "Int:17667"
         },
@@ -15821,7 +15821,7 @@
           "Count": "Int:5"
         }
       },
-      "PD:EC-14B": {
+      "PD:trincomalee": {
         "WallType:bricks": {
           "Count": "Int:9198"
         },
@@ -15856,7 +15856,7 @@
           "Count": "Int:34"
         }
       },
-      "PD:EC-15H": {
+      "PD:katugampola": {
         "WallType:bricks": {
           "Count": "Int:28124"
         },
@@ -15891,7 +15891,7 @@
           "Count": "Int:5"
         }
       },
-      "PD:EC-07I": {
+      "PD:akmeemana": {
         "WallType:bricks": {
           "Count": "Int:11273"
         },
@@ -15926,7 +15926,7 @@
           "Count": "Int:4"
         }
       },
-      "PD:EC-01B": {
+      "PD:colombo_central": {
         "WallType:bricks": {
           "Count": "Int:9223"
         },
@@ -15961,7 +15961,7 @@
           "Count": "Int:21"
         }
       },
-      "PD:EC-15B": {
+      "PD:nikaweratiya": {
         "WallType:bricks": {
           "Count": "Int:36445"
         },
@@ -15996,7 +15996,7 @@
           "Count": "Int:0"
         }
       },
-      "PD:EC-16E": {
+      "PD:wennappuwa": {
         "WallType:bricks": {
           "Count": "Int:28169"
         },
@@ -16031,7 +16031,7 @@
           "Count": "Int:23"
         }
       },
-      "PD:EC-04L": {
+      "PD:gampola": {
         "WallType:bricks": {
           "Count": "Int:3833"
         },
@@ -16066,7 +16066,7 @@
           "Count": "Int:5"
         }
       },
-      "PD:EC-07E": {
+      "PD:hiniduma": {
         "WallType:bricks": {
           "Count": "Int:10534"
         },
@@ -16101,7 +16101,7 @@
           "Count": "Int:1"
         }
       },
-      "PD:EC-08A": {
+      "PD:deniyaya": {
         "WallType:bricks": {
           "Count": "Int:11236"
         },
@@ -16136,7 +16136,7 @@
           "Count": "Int:0"
         }
       },
-      "PD:EC-03H": {
+      "PD:agalawatta": {
         "WallType:bricks": {
           "Count": "Int:1701"
         },
@@ -16171,7 +16171,7 @@
           "Count": "Int:2"
         }
       },
-      "PD:EC-17A": {
+      "PD:medawachchiya": {
         "WallType:bricks": {
           "Count": "Int:30045"
         },
@@ -16206,7 +16206,7 @@
           "Count": "Int:1"
         }
       },
-      "PD:EC-13B": {
+      "PD:samanthurai": {
         "WallType:bricks": {
           "Count": "Int:30420"
         },
@@ -16241,7 +16241,7 @@
           "Count": "Int:3"
         }
       },
-      "PD:EC-02M": {
+      "PD:kelaniya": {
         "WallType:bricks": {
           "Count": "Int:11619"
         },
@@ -16276,7 +16276,7 @@
           "Count": "Int:10"
         }
       },
-      "PD:EC-21A": {
+      "PD:eheliyagoda": {
         "WallType:bricks": {
           "Count": "Int:1648"
         },
@@ -16311,7 +16311,7 @@
           "Count": "Int:1"
         }
       },
-      "PD:EC-10K": {
+      "PD:kilinochchi": {
         "WallType:bricks": {
           "Count": "Int:445"
         },
@@ -16346,7 +16346,7 @@
           "Count": "Int:11"
         }
       },
-      "PD:EC-07F": {
+      "PD:baddegama": {
         "WallType:bricks": {
           "Count": "Int:16114"
         },
@@ -16381,7 +16381,7 @@
           "Count": "Int:2"
         }
       },
-      "PD:EC-20A": {
+      "PD:bibile": {
         "WallType:bricks": {
           "Count": "Int:30781"
         },
@@ -16416,7 +16416,7 @@
           "Count": "Int:1"
         }
       },
-      "PD:EC-15M": {
+      "PD:mawathagama": {
         "WallType:bricks": {
           "Count": "Int:30657"
         },
@@ -16451,7 +16451,7 @@
           "Count": "Int:4"
         }
       },
-      "PD:EC-15J": {
+      "PD:dambadeniya": {
         "WallType:bricks": {
           "Count": "Int:29626"
         },
@@ -16486,7 +16486,7 @@
           "Count": "Int:1"
         }
       },
-      "PD:EC-02B": {
+      "PD:negombo": {
         "WallType:bricks": {
           "Count": "Int:25704"
         },
@@ -16521,7 +16521,7 @@
           "Count": "Int:0"
         }
       },
-      "PD:EC-15L": {
+      "PD:kurunegala": {
         "WallType:bricks": {
           "Count": "Int:31692"
         },
@@ -16556,7 +16556,7 @@
           "Count": "Int:4"
         }
       },
-      "PD:EC-12C": {
+      "PD:paddiruppu": {
         "WallType:bricks": {
           "Count": "Int:31674"
         },
@@ -16591,7 +16591,7 @@
           "Count": "Int:40"
         }
       },
-      "PD:EC-04M": {
+      "PD:nawalapitiya": {
         "WallType:bricks": {
           "Count": "Int:3405"
         },
@@ -16626,7 +16626,7 @@
           "Count": "Int:0"
         }
       },
-      "PD:EC-15G": {
+      "PD:bingiriya": {
         "WallType:bricks": {
           "Count": "Int:29729"
         },
@@ -16661,7 +16661,7 @@
           "Count": "Int:2"
         }
       },
-      "PD:EC-08B": {
+      "PD:hakmana": {
         "WallType:bricks": {
           "Count": "Int:23374"
         },
@@ -16696,7 +16696,7 @@
           "Count": "Int:2"
         }
       },
-      "PD:EC-05D": {
+      "PD:rattota": {
         "WallType:bricks": {
           "Count": "Int:21131"
         },
@@ -16731,7 +16731,7 @@
           "Count": "Int:6"
         }
       },
-      "PD:EC-17G": {
+      "PD:kekirawa": {
         "WallType:bricks": {
           "Count": "Int:28074"
         },
@@ -16766,7 +16766,7 @@
           "Count": "Int:1"
         }
       },
-      "PD:EC-08C": {
+      "PD:akuressa": {
         "WallType:bricks": {
           "Count": "Int:11270"
         },
@@ -16801,7 +16801,7 @@
           "Count": "Int:2"
         }
       },
-      "PD:EC-11C": {
+      "PD:mullaitivu": {
         "WallType:bricks": {
           "Count": "Int:2868"
         },
@@ -16836,7 +16836,7 @@
           "Count": "Int:40"
         }
       },
-      "PD:EC-18A": {
+      "PD:minneriya": {
         "WallType:bricks": {
           "Count": "Int:30408"
         },
@@ -16871,7 +16871,7 @@
           "Count": "Int:3"
         }
       },
-      "PD:EC-08G": {
+      "PD:weligama": {
         "WallType:bricks": {
           "Count": "Int:16986"
         },
@@ -16906,7 +16906,7 @@
           "Count": "Int:2"
         }
       },
-      "PD:EC-16D": {
+      "PD:nattandiya": {
         "WallType:bricks": {
           "Count": "Int:23858"
         },
@@ -16941,7 +16941,7 @@
           "Count": "Int:6"
         }
       },
-      "PD:EC-17B": {
+      "PD:horowpothana": {
         "WallType:bricks": {
           "Count": "Int:29104"
         },
@@ -16976,7 +16976,7 @@
           "Count": "Int:4"
         }
       },
-      "PD:EC-21F": {
+      "PD:nivithigala": {
         "WallType:bricks": {
           "Count": "Int:3513"
         },
@@ -17011,7 +17011,7 @@
           "Count": "Int:0"
         }
       },
-      "PD:EC-01A": {
+      "PD:colombo_north": {
         "WallType:bricks": {
           "Count": "Int:11090"
         },
@@ -17046,7 +17046,7 @@
           "Count": "Int:4"
         }
       },
-      "PD:EC-21C": {
+      "PD:pelmadulla": {
         "WallType:bricks": {
           "Count": "Int:4266"
         },
@@ -17081,7 +17081,7 @@
           "Count": "Int:9"
         }
       },
-      "PD:EC-22E": {
+      "PD:mawanella": {
         "WallType:bricks": {
           "Count": "Int:24545"
         },
@@ -17116,7 +17116,7 @@
           "Count": "Int:5"
         }
       },
-      "PD:EC-07D": {
+      "PD:bentara_elpitiya": {
         "WallType:bricks": {
           "Count": "Int:7135"
         },
@@ -17151,7 +17151,7 @@
           "Count": "Int:0"
         }
       },
-      "PD:EC-03D": {
+      "PD:bulathsinhala": {
         "WallType:bricks": {
           "Count": "Int:1305"
         },
@@ -17186,7 +17186,7 @@
           "Count": "Int:4"
         }
       },
-      "PD:EC-22A": {
+      "PD:dedigama": {
         "WallType:bricks": {
           "Count": "Int:15488"
         },
@@ -17221,7 +17221,7 @@
           "Count": "Int:5"
         }
       },
-      "PD:EC-08F": {
+      "PD:matara": {
         "WallType:bricks": {
           "Count": "Int:22712"
         },
@@ -17256,7 +17256,7 @@
           "Count": "Int:2"
         }
       },
-      "PD:EC-11A": {
+      "PD:mannar": {
         "WallType:bricks": {
           "Count": "Int:760"
         },
@@ -17291,7 +17291,7 @@
           "Count": "Int:19"
         }
       },
-      "PD:EC-14A": {
+      "PD:seruvila": {
         "WallType:bricks": {
           "Count": "Int:23124"
         },
@@ -17326,7 +17326,7 @@
           "Count": "Int:11"
         }
       },
-      "PD:EC-04C": {
+      "PD:pathadumbara": {
         "WallType:bricks": {
           "Count": "Int:17993"
         },
@@ -17361,7 +17361,7 @@
           "Count": "Int:1"
         }
       },
-      "PD:EC-18B": {
+      "PD:medirigiriya": {
         "WallType:bricks": {
           "Count": "Int:29617"
         },
@@ -17396,7 +17396,7 @@
           "Count": "Int:0"
         }
       },
-      "PD:EC-05C": {
+      "PD:matale": {
         "WallType:bricks": {
           "Count": "Int:23470"
         },
@@ -17431,7 +17431,7 @@
           "Count": "Int:3"
         }
       },
-      "PD:EC-04K": {
+      "PD:udunuwara": {
         "WallType:bricks": {
           "Count": "Int:10352"
         },
@@ -17466,7 +17466,7 @@
           "Count": "Int:1"
         }
       },
-      "PD:EC-15E": {
+      "PD:wariyapola": {
         "WallType:bricks": {
           "Count": "Int:29487"
         },
@@ -17501,7 +17501,7 @@
           "Count": "Int:2"
         }
       },
-      "PD:EC-19H": {
+      "PD:bandarawela": {
         "WallType:bricks": {
           "Count": "Int:8226"
         },
@@ -17536,7 +17536,7 @@
           "Count": "Int:1"
         }
       },
-      "PD:EC-04J": {
+      "PD:yatinuwara": {
         "WallType:bricks": {
           "Count": "Int:9815"
         },
@@ -17571,7 +17571,7 @@
           "Count": "Int:2"
         }
       },
-      "PD:EC-07J": {
+      "PD:habaraduwa": {
         "WallType:bricks": {
           "Count": "Int:8378"
         },
@@ -17606,7 +17606,7 @@
           "Count": "Int:4"
         }
       },
-      "PD:EC-21G": {
+      "PD:kalawana": {
         "WallType:bricks": {
           "Count": "Int:997"
         },
@@ -17641,7 +17641,7 @@
           "Count": "Int:1"
         }
       },
-      "PD:EC-13C": {
+      "PD:kalmunai": {
         "WallType:bricks": {
           "Count": "Int:27206"
         },
@@ -17676,7 +17676,7 @@
           "Count": "Int:4"
         }
       },
-      "PD:EC-06D": {
+      "PD:walapane": {
         "WallType:bricks": {
           "Count": "Int:8337"
         },
@@ -17711,7 +17711,7 @@
           "Count": "Int:4"
         }
       },
-      "PD:EC-15K": {
+      "PD:polgahawela": {
         "WallType:bricks": {
           "Count": "Int:25144"
         },
@@ -17746,7 +17746,7 @@
           "Count": "Int:2"
         }
       },
-      "PD:EC-15F": {
+      "PD:panduwasnuwara": {
         "WallType:bricks": {
           "Count": "Int:27758"
         },
@@ -17781,7 +17781,7 @@
           "Count": "Int:2"
         }
       },
-      "PD:EC-08D": {
+      "PD:kamburupitiya": {
         "WallType:bricks": {
           "Count": "Int:19899"
         },
@@ -17816,7 +17816,7 @@
           "Count": "Int:5"
         }
       },
-      "PD:EC-09B": {
+      "PD:beliatta": {
         "WallType:bricks": {
           "Count": "Int:24032"
         },
@@ -17851,7 +17851,7 @@
           "Count": "Int:0"
         }
       },
-      "PD:EC-19G": {
+      "PD:welimada": {
         "WallType:bricks": {
           "Count": "Int:7704"
         },
@@ -17886,7 +17886,7 @@
           "Count": "Int:4"
         }
       },
-      "PD:EC-22H": {
+      "PD:ruwanwella": {
         "WallType:bricks": {
           "Count": "Int:1257"
         },
@@ -17921,7 +17921,7 @@
           "Count": "Int:5"
         }
       },
-      "PD:EC-07C": {
+      "PD:karandeniya": {
         "WallType:bricks": {
           "Count": "Int:6009"
         },
@@ -17956,7 +17956,7 @@
           "Count": "Int:3"
         }
       },
-      "PD:EC-04H": {
+      "PD:senkadagala": {
         "WallType:bricks": {
           "Count": "Int:11947"
         },
@@ -17991,7 +17991,7 @@
           "Count": "Int:3"
         }
       },
-      "PD:EC-07B": {
+      "PD:ambalangoda": {
         "WallType:bricks": {
           "Count": "Int:7764"
         },
@@ -18026,7 +18026,7 @@
           "Count": "Int:0"
         }
       },
-      "PD:EC-05B": {
+      "PD:laggala": {
         "WallType:bricks": {
           "Count": "Int:22477"
         },
@@ -18061,7 +18061,7 @@
           "Count": "Int:1"
         }
       },
-      "PD:EC-08E": {
+      "PD:devinuwara": {
         "WallType:bricks": {
           "Count": "Int:17764"
         },
@@ -18096,7 +18096,7 @@
           "Count": "Int:2"
         }
       },
-      "PD:EC-06B": {
+      "PD:kothmale": {
         "WallType:bricks": {
           "Count": "Int:1097"
         },
@@ -18131,7 +18131,7 @@
           "Count": "Int:6"
         }
       },
-      "PD:EC-01I": {
+      "PD:kotte": {
         "WallType:bricks": {
           "Count": "Int:12818"
         },
@@ -18166,7 +18166,7 @@
           "Count": "Int:3"
         }
       },
-      "PD:EC-22G": {
+      "PD:yatiyanthota": {
         "WallType:bricks": {
           "Count": "Int:1759"
         },
@@ -18201,7 +18201,7 @@
           "Count": "Int:2"
         }
       },
-      "PD:EC-07G": {
+      "PD:ratgama": {
         "WallType:bricks": {
           "Count": "Int:7281"
         },
@@ -18236,7 +18236,7 @@
           "Count": "Int:0"
         }
       },
-      "PD:EC-17F": {
+      "PD:mihinthale": {
         "WallType:bricks": {
           "Count": "Int:22030"
         },
@@ -18271,7 +18271,7 @@
           "Count": "Int:0"
         }
       },
-      "PD:EC-15N": {
+      "PD:dodangaslanda": {
         "WallType:bricks": {
           "Count": "Int:23671"
         },
@@ -18306,7 +18306,7 @@
           "Count": "Int:3"
         }
       },
-      "PD:EC-22C": {
+      "PD:kegalle": {
         "WallType:bricks": {
           "Count": "Int:14114"
         },
@@ -18341,7 +18341,7 @@
           "Count": "Int:4"
         }
       },
-      "PD:EC-07H": {
+      "PD:galle": {
         "WallType:bricks": {
           "Count": "Int:11323"
         },
@@ -18376,7 +18376,7 @@
           "Count": "Int:6"
         }
       },
-      "PD:EC-22I": {
+      "PD:deraniyagala": {
         "WallType:bricks": {
           "Count": "Int:988"
         },
@@ -18411,7 +18411,7 @@
           "Count": "Int:3"
         }
       },
-      "PD:EC-19E": {
+      "PD:hali_ela": {
         "WallType:bricks": {
           "Count": "Int:6995"
         },
@@ -18446,7 +18446,7 @@
           "Count": "Int:0"
         }
       },
-      "PD:EC-06C": {
+      "PD:hanguranketha": {
         "WallType:bricks": {
           "Count": "Int:5110"
         },
@@ -18481,7 +18481,7 @@
           "Count": "Int:2"
         }
       },
-      "PD:EC-01F": {
+      "PD:dehiwala": {
         "WallType:bricks": {
           "Count": "Int:11526"
         },
@@ -18516,7 +18516,7 @@
           "Count": "Int:4"
         }
       },
-      "PD:EC-04G": {
+      "PD:hewaheta": {
         "WallType:bricks": {
           "Count": "Int:3732"
         },
@@ -18551,7 +18551,7 @@
           "Count": "Int:3"
         }
       },
-      "PD:EC-01G": {
+      "PD:ratmalana": {
         "WallType:bricks": {
           "Count": "Int:8707"
         },
@@ -18586,7 +18586,7 @@
           "Count": "Int:0"
         }
       },
-      "PD:EC-22D": {
+      "PD:rambukkana": {
         "WallType:bricks": {
           "Count": "Int:19218"
         },
@@ -18621,7 +18621,7 @@
           "Count": "Int:0"
         }
       },
-      "PD:EC-19I": {
+      "PD:haputale": {
         "WallType:bricks": {
           "Count": "Int:5828"
         },
@@ -18656,7 +18656,7 @@
           "Count": "Int:3"
         }
       },
-      "PD:EC-22B": {
+      "PD:galigamuwa": {
         "WallType:bricks": {
           "Count": "Int:13700"
         },
@@ -18691,7 +18691,7 @@
           "Count": "Int:1"
         }
       },
-      "PD:EC-01D": {
+      "PD:colombo_east": {
         "WallType:bricks": {
           "Count": "Int:7691"
         },
@@ -18726,7 +18726,7 @@
           "Count": "Int:2"
         }
       },
-      "PD:EC-04D": {
+      "PD:ududumbara": {
         "WallType:bricks": {
           "Count": "Int:17072"
         },
@@ -18761,7 +18761,7 @@
           "Count": "Int:0"
         }
       },
-      "PD:EC-19F": {
+      "PD:uva_paranagama": {
         "WallType:bricks": {
           "Count": "Int:8007"
         },
@@ -18796,7 +18796,7 @@
           "Count": "Int:1"
         }
       },
-      "PD:EC-19C": {
+      "PD:passara": {
         "WallType:bricks": {
           "Count": "Int:5946"
         },
@@ -18831,7 +18831,7 @@
           "Count": "Int:3"
         }
       },
-      "PD:EC-19D": {
+      "PD:badulla": {
         "WallType:bricks": {
           "Count": "Int:6510"
         },
@@ -18866,7 +18866,7 @@
           "Count": "Int:1"
         }
       },
-      "PD:EC-10D": {
+      "PD:manipay": {
         "WallType:bricks": {
           "Count": "Int:351"
         },
@@ -18901,7 +18901,7 @@
           "Count": "Int:6"
         }
       },
-      "PD:EC-19B": {
+      "PD:viyaluwa": {
         "WallType:bricks": {
           "Count": "Int:13927"
         },
@@ -18936,7 +18936,7 @@
           "Count": "Int:0"
         }
       },
-      "PD:EC-10E": {
+      "PD:kopay": {
         "WallType:bricks": {
           "Count": "Int:390"
         },
@@ -18971,7 +18971,7 @@
           "Count": "Int:37"
         }
       },
-      "PD:EC-22F": {
+      "PD:aranayaka": {
         "WallType:bricks": {
           "Count": "Int:14253"
         },
@@ -19006,7 +19006,7 @@
           "Count": "Int:1"
         }
       },
-      "PD:EC-04A": {
+      "PD:galagedara": {
         "WallType:bricks": {
           "Count": "Int:14256"
         },
@@ -19041,7 +19041,7 @@
           "Count": "Int:2"
         }
       },
-      "PD:EC-10H": {
+      "PD:chavakachcheri": {
         "WallType:bricks": {
           "Count": "Int:256"
         },
@@ -19076,7 +19076,7 @@
           "Count": "Int:3"
         }
       },
-      "PD:EC-07A": {
+      "PD:balapitiya": {
         "WallType:bricks": {
           "Count": "Int:3510"
         },
@@ -19111,7 +19111,7 @@
           "Count": "Int:0"
         }
       },
-      "PD:EC-10I": {
+      "PD:nallur": {
         "WallType:bricks": {
           "Count": "Int:207"
         },
@@ -19146,7 +19146,7 @@
           "Count": "Int:8"
         }
       },
-      "PD:EC-04E": {
+      "PD:teldeniya": {
         "WallType:bricks": {
           "Count": "Int:5421"
         },
@@ -19181,7 +19181,7 @@
           "Count": "Int:0"
         }
       },
-      "PD:EC-01C": {
+      "PD:borella": {
         "WallType:bricks": {
           "Count": "Int:5591"
         },
@@ -19216,7 +19216,7 @@
           "Count": "Int:4"
         }
       },
-      "PD:EC-10B": {
+      "PD:vaddukoddai": {
         "WallType:bricks": {
           "Count": "Int:356"
         },
@@ -19251,7 +19251,7 @@
           "Count": "Int:17"
         }
       },
-      "PD:EC-01E": {
+      "PD:colombo_west": {
         "WallType:bricks": {
           "Count": "Int:6047"
         },
@@ -19286,7 +19286,7 @@
           "Count": "Int:6"
         }
       },
-      "PD:EC-10C": {
+      "PD:kankesanthurai": {
         "WallType:bricks": {
           "Count": "Int:180"
         },
@@ -19321,7 +19321,7 @@
           "Count": "Int:13"
         }
       },
-      "PD:EC-10G": {
+      "PD:point_pedro": {
         "WallType:bricks": {
           "Count": "Int:136"
         },
@@ -19356,7 +19356,7 @@
           "Count": "Int:16"
         }
       },
-      "PD:EC-10F": {
+      "PD:udupiddy": {
         "WallType:bricks": {
           "Count": "Int:304"
         },
@@ -19391,7 +19391,7 @@
           "Count": "Int:3"
         }
       },
-      "PD:EC-04I": {
+      "PD:mahanuwara": {
         "WallType:bricks": {
           "Count": "Int:5673"
         },
@@ -19426,7 +19426,7 @@
           "Count": "Int:0"
         }
       },
-      "PD:EC-10J": {
+      "PD:jaffna": {
         "WallType:bricks": {
           "Count": "Int:181"
         },
@@ -19461,7 +19461,7 @@
           "Count": "Int:6"
         }
       },
-      "PD:EC-10A": {
+      "PD:kayts": {
         "WallType:bricks": {
           "Count": "Int:107"
         },

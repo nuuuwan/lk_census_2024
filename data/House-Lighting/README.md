@@ -1,7 +1,7 @@
 # House-Lighting
 
 ![CPH](https://img.shields.io/badge/CPH-2024-blue)
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--07--26-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--07--27-green)
 
 *House-Lighting, 2024 Census of Population and Housing, Department of Census and Statistics, Sri Lanka*
 
@@ -11,7 +11,7 @@
 {
     "House": {
         "Time:2024": {
-            "Country:LK": {
+            "Country:sri_lanka": {
                 "Lighting:electricity_grid": {
                     "Count": "Int:5987585"
                 },
@@ -34,14 +34,14 @@
                     "Count": "Int:13196"
                 }
             },
-            "Province:LK-1": {
+            "Province:western": {
                 "Lighting:electricity_grid": {
                     "Count": "Int:1682433"
                 },
 ...
 ```
 
-- Source File: [House-Lighting/lanka_data.json (292.3 KB)](../../data/House-Lighting/lanka_data.json)
+- Source File: [House-Lighting/lanka_data.json (294.3 KB)](../../data/House-Lighting/lanka_data.json)
 
 ## Structured Data (similar to original layout)
 

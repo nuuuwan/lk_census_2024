@@ -1,7 +1,7 @@
 {
   "Person": {
     "Time:2024": {
-      "Country:LK": {
+      "Country:sri_lanka": {
         "Sex:male": {
           "Count": "Int:10512344"
         },
@@ -9,7 +9,7 @@
           "Count": "Int:11269456"
         }
       },
-      "Province:LK-1": {
+      "Province:western": {
         "Sex:male": {
           "Count": "Int:2961374"
         },
@@ -17,7 +17,7 @@
           "Count": "Int:3155967"
         }
       },
-      "Province:LK-2": {
+      "Province:central": {
         "Sex:male": {
           "Count": "Int:1298405"
         },
@@ -25,7 +25,7 @@
           "Count": "Int:1415640"
         }
       },
-      "Province:LK-3": {
+      "Province:southern": {
         "Sex:male": {
           "Count": "Int:1258830"
         },
@@ -33,7 +33,7 @@
           "Count": "Int:1347849"
         }
       },
-      "Province:LK-6": {
+      "Province:north_western": {
         "Sex:male": {
           "Count": "Int:1243316"
         },
@@ -41,7 +41,7 @@
           "Count": "Int:1343656"
         }
       },
-      "Province:LK-9": {
+      "Province:sabaragamuwa": {
         "Sex:male": {
           "Count": "Int:978537"
         },
@@ -49,7 +49,7 @@
           "Count": "Int:1037362"
         }
       },
-      "Province:LK-5": {
+      "Province:eastern": {
         "Sex:male": {
           "Count": "Int:850607"
         },
@@ -57,7 +57,7 @@
           "Count": "Int:932607"
         }
       },
-      "Province:LK-7": {
+      "Province:north_central": {
         "Sex:male": {
           "Count": "Int:686257"
         },
@@ -65,7 +65,7 @@
           "Count": "Int:721353"
         }
       },
-      "Province:LK-8": {
+      "Province:uva": {
         "Sex:male": {
           "Count": "Int:683745"
         },
@@ -73,7 +73,7 @@
           "Count": "Int:716147"
         }
       },
-      "Province:LK-4": {
+      "Province:northern": {
         "Sex:male": {
           "Count": "Int:551273"
         },
@@ -81,7 +81,7 @@
           "Count": "Int:598875"
         }
       },
-      "District:LK-12": {
+      "District:gampaha": {
         "Sex:male": {
           "Count": "Int:1175469"
         },
@@ -89,7 +89,7 @@
           "Count": "Int:1260673"
         }
       },
-      "District:LK-11": {
+      "District:colombo": {
         "Sex:male": {
           "Count": "Int:1154799"
         },
@@ -97,7 +97,7 @@
           "Count": "Int:1220616"
         }
       },
-      "District:LK-61": {
+      "District:kurunegala": {
         "Sex:male": {
           "Count": "Int:849072"
         },
@@ -105,7 +105,7 @@
           "Count": "Int:919084"
         }
       },
-      "District:LK-21": {
+      "District:kandy": {
         "Sex:male": {
           "Count": "Int:696713"
         },
@@ -113,7 +113,7 @@
           "Count": "Int:765182"
         }
       },
-      "District:LK-13": {
+      "District:kalutara": {
         "Sex:male": {
           "Count": "Int:631106"
         },
@@ -121,7 +121,7 @@
           "Count": "Int:674678"
         }
       },
-      "District:LK-91": {
+      "District:ratnapura": {
         "Sex:male": {
           "Count": "Int:562459"
         },
@@ -129,7 +129,7 @@
           "Count": "Int:582964"
         }
       },
-      "District:LK-31": {
+      "District:galle": {
         "Sex:male": {
           "Count": "Int:527640"
         },
@@ -137,7 +137,7 @@
           "Count": "Int:569732"
         }
       },
-      "District:LK-71": {
+      "District:anuradhapura": {
         "Sex:male": {
           "Count": "Int:466571"
         },
@@ -145,7 +145,7 @@
           "Count": "Int:493509"
         }
       },
-      "District:LK-81": {
+      "District:badulla": {
         "Sex:male": {
           "Count": "Int:422818"
         },
@@ -153,7 +153,7 @@
           "Count": "Int:449489"
         }
       },
-      "District:LK-92": {
+      "District:kegalle": {
         "Sex:male": {
           "Count": "Int:416078"
         },
@@ -161,7 +161,7 @@
           "Count": "Int:454398"
         }
       },
-      "District:LK-32": {
+      "District:matara": {
         "Sex:male": {
           "Count": "Int:401980"
         },
@@ -169,7 +169,7 @@
           "Count": "Int:435909"
         }
       },
-      "District:LK-62": {
+      "District:puttalam": {
         "Sex:male": {
           "Count": "Int:394244"
         },
@@ -177,7 +177,7 @@
           "Count": "Int:424572"
         }
       },
-      "District:LK-52": {
+      "District:ampara": {
         "Sex:male": {
           "Count": "Int:354018"
         },
@@ -185,7 +185,7 @@
           "Count": "Int:390533"
         }
       },
-      "District:LK-23": {
+      "District:nuwara_eliya": {
         "Sex:male": {
           "Count": "Int:346471"
         },
@@ -193,7 +193,7 @@
           "Count": "Int:378809"
         }
       },
-      "District:LK-33": {
+      "District:hambantota": {
         "Sex:male": {
           "Count": "Int:329210"
         },
@@ -201,7 +201,7 @@
           "Count": "Int:342208"
         }
       },
-      "District:LK-51": {
+      "District:batticaloa": {
         "Sex:male": {
           "Count": "Int:278885"
         },
@@ -209,7 +209,7 @@
           "Count": "Int:317033"
         }
       },
-      "District:LK-41": {
+      "District:jaffna": {
         "Sex:male": {
           "Count": "Int:281553"
         },
@@ -217,7 +217,7 @@
           "Count": "Int:313198"
         }
       },
-      "District:LK-82": {
+      "District:monaragala": {
         "Sex:male": {
           "Count": "Int:260927"
         },
@@ -225,7 +225,7 @@
           "Count": "Int:266658"
         }
       },
-      "District:LK-22": {
+      "District:matale": {
         "Sex:male": {
           "Count": "Int:255221"
         },
@@ -233,7 +233,7 @@
           "Count": "Int:271649"
         }
       },
-      "District:LK-72": {
+      "District:polonnaruwa": {
         "Sex:male": {
           "Count": "Int:219686"
         },
@@ -241,7 +241,7 @@
           "Count": "Int:227844"
         }
       },
-      "District:LK-53": {
+      "District:trincomalee": {
         "Sex:male": {
           "Count": "Int:217704"
         },
@@ -249,7 +249,7 @@
           "Count": "Int:225041"
         }
       },
-      "District:LK-43": {
+      "District:vavuniya": {
         "Sex:male": {
           "Count": "Int:82831"
         },
@@ -257,7 +257,7 @@
           "Count": "Int:89481"
         }
       },
-      "District:LK-45": {
+      "District:kilinochchi": {
         "Sex:male": {
           "Count": "Int:66124"
         },
@@ -265,7 +265,7 @@
           "Count": "Int:70586"
         }
       },
-      "District:LK-42": {
+      "District:mannar": {
         "Sex:male": {
           "Count": "Int:61047"
         },
@@ -273,7 +273,7 @@
           "Count": "Int:62709"
         }
       },
-      "District:LK-44": {
+      "District:mullaitivu": {
         "Sex:male": {
           "Count": "Int:59718"
         },
@@ -281,7 +281,7 @@
           "Count": "Int:62901"
         }
       },
-      "DSD:LK-1103": {
+      "DSD:colombo": {
         "Sex:male": {
           "Count": "Int:145398"
         },
@@ -289,7 +289,7 @@
           "Count": "Int:146691"
         }
       },
-      "DSD:LK-1112": {
+      "DSD:homagama": {
         "Sex:male": {
           "Count": "Int:136794"
         },
@@ -297,7 +297,7 @@
           "Count": "Int:143977"
         }
       },
-      "DSD:LK-1109": {
+      "DSD:kaduwela": {
         "Sex:male": {
           "Count": "Int:135711"
         },
@@ -305,7 +305,7 @@
           "Count": "Int:142207"
         }
       },
-      "DSD:LK-1136": {
+      "DSD:kesbewa": {
         "Sex:male": {
           "Count": "Int:126461"
         },
@@ -313,7 +313,7 @@
           "Count": "Int:137080"
         }
       },
-      "DSD:LK-1206": {
+      "DSD:katana": {
         "Sex:male": {
           "Count": "Int:116933"
         },
@@ -321,7 +321,7 @@
           "Count": "Int:124286"
         }
       },
-      "DSD:LK-1233": {
+      "DSD:mahara": {
         "Sex:male": {
           "Count": "Int:107736"
         },
@@ -329,7 +329,7 @@
           "Count": "Int:115324"
         }
       },
-      "DSD:LK-1127": {
+      "DSD:thimbirigasyaya": {
         "Sex:male": {
           "Count": "Int:105978"
         },
@@ -337,7 +337,7 @@
           "Count": "Int:111140"
         }
       },
-      "DSD:LK-1106": {
+      "DSD:kolonnawa": {
         "Sex:male": {
           "Count": "Int:104663"
         },
@@ -345,7 +345,7 @@
           "Count": "Int:109407"
         }
       },
-      "DSD:LK-1239": {
+      "DSD:biyagama": {
         "Sex:male": {
           "Count": "Int:102168"
         },
@@ -353,7 +353,7 @@
           "Count": "Int:104987"
         }
       },
-      "DSD:LK-1224": {
+      "DSD:gampaha": {
         "Sex:male": {
           "Count": "Int:97910"
         },
@@ -361,7 +361,7 @@
           "Count": "Int:107700"
         }
       },
-      "DSD:LK-1221": {
+      "DSD:ja_ela": {
         "Sex:male": {
           "Count": "Int:98114"
         },
@@ -369,7 +369,7 @@
           "Count": "Int:106692"
         }
       },
-      "DSD:LK-1215": {
+      "DSD:minuwangoda": {
         "Sex:male": {
           "Count": "Int:95427"
         },
@@ -377,7 +377,7 @@
           "Count": "Int:103347"
         }
       },
-      "DSD:LK-1227": {
+      "DSD:attanagalla": {
         "Sex:male": {
           "Count": "Int:94666"
         },
@@ -385,7 +385,7 @@
           "Count": "Int:103059"
         }
       },
-      "DSD:LK-1121": {
+      "DSD:maharagama": {
         "Sex:male": {
           "Count": "Int:93230"
         },
@@ -393,7 +393,7 @@
           "Count": "Int:103270"
         }
       },
-      "DSD:LK-1303": {
+      "DSD:panadura": {
         "Sex:male": {
           "Count": "Int:89759"
         },
@@ -401,7 +401,7 @@
           "Count": "Int:97716"
         }
       },
-      "DSD:LK-1218": {
+      "DSD:wattala": {
         "Sex:male": {
           "Count": "Int:88408"
         },
@@ -409,7 +409,7 @@
           "Count": "Int:94097"
         }
       },
-      "DSD:LK-1324": {
+      "DSD:beruwala": {
         "Sex:male": {
           "Count": "Int:88567"
         },
@@ -417,7 +417,7 @@
           "Count": "Int:92253"
         }
       },
-      "DSD:LK-1212": {
+      "DSD:mirigama": {
         "Sex:male": {
           "Count": "Int:84701"
         },
@@ -425,7 +425,7 @@
           "Count": "Int:92046"
         }
       },
-      "DSD:LK-1230": {
+      "DSD:dompe": {
         "Sex:male": {
           "Count": "Int:82380"
         },
@@ -433,7 +433,7 @@
           "Count": "Int:87497"
         }
       },
-      "DSD:LK-1321": {
+      "DSD:kalutara": {
         "Sex:male": {
           "Count": "Int:79889"
         },
@@ -441,7 +441,7 @@
           "Count": "Int:86735"
         }
       },
-      "DSD:LK-2314": {
+      "DSD:norwood": {
         "Sex:male": {
           "Count": "Int:75707"
         },
@@ -449,7 +449,7 @@
           "Count": "Int:85660"
         }
       },
-      "DSD:LK-1133": {
+      "DSD:moratuwa": {
         "Sex:male": {
           "Count": "Int:77580"
         },
@@ -457,7 +457,7 @@
           "Count": "Int:82619"
         }
       },
-      "DSD:LK-9148": {
+      "DSD:embilipitiya": {
         "Sex:male": {
           "Count": "Int:78481"
         },
@@ -465,7 +465,7 @@
           "Count": "Int:81527"
         }
       },
-      "DSD:LK-1209": {
+      "DSD:divulapitiya": {
         "Sex:male": {
           "Count": "Int:75924"
         },
@@ -473,7 +473,7 @@
           "Count": "Int:81033"
         }
       },
-      "DSD:LK-2130": {
+      "DSD:gangawata_korale": {
         "Sex:male": {
           "Count": "Int:71662"
         },
@@ -481,7 +481,7 @@
           "Count": "Int:81667"
         }
       },
-      "DSD:LK-2127": {
+      "DSD:kundasale": {
         "Sex:male": {
           "Count": "Int:68276"
         },
@@ -489,7 +489,7 @@
           "Count": "Int:76107"
         }
       },
-      "DSD:LK-1203": {
+      "DSD:negombo": {
         "Sex:male": {
           "Count": "Int:66137"
         },
@@ -497,7 +497,7 @@
           "Count": "Int:71815"
         }
       },
-      "DSD:LK-6178": {
+      "DSD:pannala": {
         "Sex:male": {
           "Count": "Int:64982"
         },
@@ -505,7 +505,7 @@
           "Count": "Int:70863"
         }
       },
-      "DSD:LK-1236": {
+      "DSD:kelaniya": {
         "Sex:male": {
           "Count": "Int:64965"
         },
@@ -513,7 +513,7 @@
           "Count": "Int:68790"
         }
       },
-      "DSD:LK-1309": {
+      "DSD:horana": {
         "Sex:male": {
           "Count": "Int:63947"
         },
@@ -521,7 +521,7 @@
           "Count": "Int:69738"
         }
       },
-      "DSD:LK-2313": {
+      "DSD:thalawakele": {
         "Sex:male": {
           "Count": "Int:61832"
         },
@@ -529,7 +529,7 @@
           "Count": "Int:67699"
         }
       },
-      "DSD:LK-9206": {
+      "DSD:mawanella": {
         "Sex:male": {
           "Count": "Int:59753"
         },
@@ -537,7 +537,7 @@
           "Count": "Int:66273"
         }
       },
-      "DSD:LK-1306": {
+      "DSD:bandaragama": {
         "Sex:male": {
           "Count": "Int:60177"
         },
@@ -545,7 +545,7 @@
           "Count": "Int:63956"
         }
       },
-      "DSD:LK-3242": {
+      "DSD:matara_four_gravets": {
         "Sex:male": {
           "Count": "Int:58394"
         },
@@ -553,7 +553,7 @@
           "Count": "Int:65474"
         }
       },
-      "DSD:LK-1115": {
+      "DSD:seethawaka": {
         "Sex:male": {
           "Count": "Int:59493"
         },
@@ -561,7 +561,7 @@
           "Count": "Int:62635"
         }
       },
-      "DSD:LK-9112": {
+      "DSD:ratnapura": {
         "Sex:male": {
           "Count": "Int:59557"
         },
@@ -569,7 +569,7 @@
           "Count": "Int:61609"
         }
       },
-      "DSD:LK-2139": {
+      "DSD:udunuwara": {
         "Sex:male": {
           "Count": "Int:58322"
         },
@@ -577,7 +577,7 @@
           "Count": "Int:62696"
         }
       },
-      "DSD:LK-9218": {
+      "DSD:warakapola": {
         "Sex:male": {
           "Count": "Int:56128"
         },
@@ -585,7 +585,7 @@
           "Count": "Int:61839"
         }
       },
-      "DSD:LK-4309": {
+      "DSD:vavuniya": {
         "Sex:male": {
           "Count": "Int:55905"
         },
@@ -593,7 +593,7 @@
           "Count": "Int:61086"
         }
       },
-      "DSD:LK-2136": {
+      "DSD:yatinuwara": {
         "Sex:male": {
           "Count": "Int:53808"
         },
@@ -601,7 +601,7 @@
           "Count": "Int:58834"
         }
       },
-      "DSD:LK-3139": {
+      "DSD:galle_4_gravets": {
         "Sex:male": {
           "Count": "Int:52217"
         },
@@ -609,7 +609,7 @@
           "Count": "Int:56104"
         }
       },
-      "DSD:LK-8130": {
+      "DSD:welimada": {
         "Sex:male": {
           "Count": "Int:51300"
         },
@@ -617,7 +617,7 @@
           "Count": "Int:54210"
         }
       },
-      "DSD:LK-2151": {
+      "DSD:udapalatha": {
         "Sex:male": {
           "Count": "Int:48900"
         },
@@ -625,7 +625,7 @@
           "Count": "Int:54281"
         }
       },
-      "DSD:LK-5315": {
+      "DSD:town_and_gravets": {
         "Sex:male": {
           "Count": "Int:48331"
         },
@@ -633,7 +633,7 @@
           "Count": "Int:51939"
         }
       },
-      "DSD:LK-9106": {
+      "DSD:kuruvita": {
         "Sex:male": {
           "Count": "Int:48516"
         },
@@ -641,7 +641,7 @@
           "Count": "Int:49450"
         }
       },
-      "DSD:LK-6203": {
+      "DSD:kalpitiya": {
         "Sex:male": {
           "Count": "Int:47804"
         },
@@ -649,7 +649,7 @@
           "Count": "Int:49191"
         }
       },
-      "DSD:LK-1124": {
+      "DSD:sri_jayawardanapura_kotte": {
         "Sex:male": {
           "Count": "Int:45927"
         },
@@ -657,7 +657,7 @@
           "Count": "Int:50262"
         }
       },
-      "DSD:LK-6163": {
+      "DSD:rideegama": {
         "Sex:male": {
           "Count": "Int:46185"
         },
@@ -665,7 +665,7 @@
           "Count": "Int:49775"
         }
       },
-      "DSD:LK-5118": {
+      "DSD:manmunai_north": {
         "Sex:male": {
           "Count": "Int:44402"
         },
@@ -673,7 +673,7 @@
           "Count": "Int:50705"
         }
       },
-      "DSD:LK-6215": {
+      "DSD:puttalam": {
         "Sex:male": {
           "Count": "Int:45989"
         },
@@ -681,7 +681,7 @@
           "Count": "Int:48788"
         }
       },
-      "DSD:LK-9212": {
+      "DSD:kegalle": {
         "Sex:male": {
           "Count": "Int:44608"
         },
@@ -689,7 +689,7 @@
           "Count": "Int:49706"
         }
       },
-      "DSD:LK-5112": {
+      "DSD:eravur_pattu": {
         "Sex:male": {
           "Count": "Int:43683"
         },
@@ -697,7 +697,7 @@
           "Count": "Int:50554"
         }
       },
-      "DSD:LK-8124": {
+      "DSD:hali_ela": {
         "Sex:male": {
           "Count": "Int:44945"
         },
@@ -705,7 +705,7 @@
           "Count": "Int:49281"
         }
       },
-      "DSD:LK-6130": {
+      "DSD:ibbagamuwa": {
         "Sex:male": {
           "Count": "Int:45364"
         },
@@ -713,7 +713,7 @@
           "Count": "Int:48803"
         }
       },
-      "DSD:LK-2133": {
+      "DSD:harispattuwa": {
         "Sex:male": {
           "Count": "Int:44644"
         },
@@ -721,7 +721,7 @@
           "Count": "Int:49377"
         }
       },
-      "DSD:LK-9124": {
+      "DSD:pelmadulla": {
         "Sex:male": {
           "Count": "Int:46407"
         },
@@ -729,7 +729,7 @@
           "Count": "Int:47411"
         }
       },
-      "DSD:LK-1130": {
+      "DSD:dehiwala": {
         "Sex:male": {
           "Count": "Int:45175"
         },
@@ -737,7 +737,7 @@
           "Count": "Int:48640"
         }
       },
-      "DSD:LK-2112": {
+      "DSD:pathadumbara": {
         "Sex:male": {
           "Count": "Int:44157"
         },
@@ -745,7 +745,7 @@
           "Count": "Int:49319"
         }
       },
-      "DSD:LK-7215": {
+      "DSD:thamankaduwa": {
         "Sex:male": {
           "Count": "Int:44786"
         },
@@ -753,7 +753,7 @@
           "Count": "Int:47270"
         }
       },
-      "DSD:LK-8103": {
+      "DSD:mahiyanganaya": {
         "Sex:male": {
           "Count": "Int:44008"
         },
@@ -761,7 +761,7 @@
           "Count": "Int:45074"
         }
       },
-      "DSD:LK-6154": {
+      "DSD:kurunegala": {
         "Sex:male": {
           "Count": "Int:42611"
         },
@@ -769,7 +769,7 @@
           "Count": "Int:46388"
         }
       },
-      "DSD:LK-2312": {
+      "DSD:nuwara_eliya": {
         "Sex:male": {
           "Count": "Int:43244"
         },
@@ -777,7 +777,7 @@
           "Count": "Int:45088"
         }
       },
-      "DSD:LK-1131": {
+      "DSD:ratmalana": {
         "Sex:male": {
           "Count": "Int:42938"
         },
@@ -785,7 +785,7 @@
           "Count": "Int:45125"
         }
       },
-      "DSD:LK-9203": {
+      "DSD:rambukkana": {
         "Sex:male": {
           "Count": "Int:41309"
         },
@@ -793,7 +793,7 @@
           "Count": "Int:45746"
         }
       },
-      "DSD:LK-5324": {
+      "DSD:kinniya": {
         "Sex:male": {
           "Count": "Int:43372"
         },
@@ -801,7 +801,7 @@
           "Count": "Int:43132"
         }
       },
-      "DSD:LK-6127": {
+      "DSD:polpitigama": {
         "Sex:male": {
           "Count": "Int:42170"
         },
@@ -809,7 +809,7 @@
           "Count": "Int:44241"
         }
       },
-      "DSD:LK-3145": {
+      "DSD:akmeemana": {
         "Sex:male": {
           "Count": "Int:41187"
         },
@@ -817,7 +817,7 @@
           "Count": "Int:44949"
         }
       },
-      "DSD:LK-1330": {
+      "DSD:matugama": {
         "Sex:male": {
           "Count": "Int:41648"
         },
@@ -825,7 +825,7 @@
           "Count": "Int:44417"
         }
       },
-      "DSD:LK-7212": {
+      "DSD:dimbulagala": {
         "Sex:male": {
           "Count": "Int:42635"
         },
@@ -833,7 +833,7 @@
           "Count": "Int:43272"
         }
       },
-      "DSD:LK-9230": {
+      "DSD:dehiowita": {
         "Sex:male": {
           "Count": "Int:41523"
         },
@@ -841,7 +841,7 @@
           "Count": "Int:43444"
         }
       },
-      "DSD:LK-8121": {
+      "DSD:badulla": {
         "Sex:male": {
           "Count": "Int:38537"
         },
@@ -849,7 +849,7 @@
           "Count": "Int:44496"
         }
       },
-      "DSD:LK-6172": {
+      "DSD:kuliyapitiya_west": {
         "Sex:male": {
           "Count": "Int:38801"
         },
@@ -857,7 +857,7 @@
           "Count": "Int:43786"
         }
       },
-      "DSD:LK-8127": {
+      "DSD:uvaparanagama": {
         "Sex:male": {
           "Count": "Int:39841"
         },
@@ -865,7 +865,7 @@
           "Count": "Int:42228"
         }
       },
-      "DSD:LK-2206": {
+      "DSD:dambulla": {
         "Sex:male": {
           "Count": "Int:40580"
         },
@@ -873,7 +873,7 @@
           "Count": "Int:40659"
         }
       },
-      "DSD:LK-3315": {
+      "DSD:ambalantota": {
         "Sex:male": {
           "Count": "Int:40042"
         },
@@ -881,7 +881,7 @@
           "Count": "Int:40464"
         }
       },
-      "DSD:LK-2218": {
+      "DSD:matale": {
         "Sex:male": {
           "Count": "Int:38083"
         },
@@ -889,7 +889,7 @@
           "Count": "Int:42293"
         }
       },
-      "DSD:LK-3333": {
+      "DSD:tangalle": {
         "Sex:male": {
           "Count": "Int:38735"
         },
@@ -897,7 +897,7 @@
           "Count": "Int:40808"
         }
       },
-      "DSD:LK-2203": {
+      "DSD:galewela": {
         "Sex:male": {
           "Count": "Int:38162"
         },
@@ -905,7 +905,7 @@
           "Count": "Int:40477"
         }
       },
-      "DSD:LK-9142": {
+      "DSD:godakawela": {
         "Sex:male": {
           "Count": "Int:37951"
         },
@@ -913,7 +913,7 @@
           "Count": "Int:40590"
         }
       },
-      "DSD:LK-7133": {
+      "DSD:nuwaragam_palatha_east": {
         "Sex:male": {
           "Count": "Int:36940"
         },
@@ -921,7 +921,7 @@
           "Count": "Int:39198"
         }
       },
-      "DSD:LK-3239": {
+      "DSD:weligama": {
         "Sex:male": {
           "Count": "Int:36967"
         },
@@ -929,7 +929,7 @@
           "Count": "Int:39169"
         }
       },
-      "DSD:LK-4118": {
+      "DSD:valikamam_east_kopay": {
         "Sex:male": {
           "Count": "Int:36084"
         },
@@ -937,7 +937,7 @@
           "Count": "Int:39895"
         }
       },
-      "DSD:LK-9118": {
+      "DSD:balangoda": {
         "Sex:male": {
           "Count": "Int:36403"
         },
@@ -945,7 +945,7 @@
           "Count": "Int:38490"
         }
       },
-      "DSD:LK-4509": {
+      "DSD:karachchi": {
         "Sex:male": {
           "Count": "Int:35842"
         },
@@ -953,7 +953,7 @@
           "Count": "Int:38789"
         }
       },
-      "DSD:LK-3309": {
+      "DSD:thissamaharama": {
         "Sex:male": {
           "Count": "Int:36909"
         },
@@ -961,7 +961,7 @@
           "Count": "Int:37266"
         }
       },
-      "DSD:LK-9103": {
+      "DSD:eheliyagoda": {
         "Sex:male": {
           "Count": "Int:36492"
         },
@@ -969,7 +969,7 @@
           "Count": "Int:37579"
         }
       },
-      "DSD:LK-9215": {
+      "DSD:galigamuwa": {
         "Sex:male": {
           "Count": "Int:35048"
         },
@@ -977,7 +977,7 @@
           "Count": "Int:38730"
         }
       },
-      "DSD:LK-8221": {
+      "DSD:wellawaya": {
         "Sex:male": {
           "Count": "Int:36227"
         },
@@ -985,7 +985,7 @@
           "Count": "Int:37053"
         }
       },
-      "DSD:LK-1118": {
+      "DSD:padukka": {
         "Sex:male": {
           "Count": "Int:35451"
         },
@@ -993,7 +993,7 @@
           "Count": "Int:37563"
         }
       },
-      "DSD:LK-4133": {
+      "DSD:nallur": {
         "Sex:male": {
           "Count": "Int:33568"
         },
@@ -1001,7 +1001,7 @@
           "Count": "Int:39316"
         }
       },
-      "DSD:LK-5218": {
+      "DSD:sammanthurai": {
         "Sex:male": {
           "Count": "Int:33553"
         },
@@ -1009,7 +1009,7 @@
           "Count": "Int:39241"
         }
       },
-      "DSD:LK-6218": {
+      "DSD:mundel": {
         "Sex:male": {
           "Count": "Int:34947"
         },
@@ -1017,7 +1017,7 @@
           "Count": "Int:37623"
         }
       },
-      "DSD:LK-7206": {
+      "DSD:medirigiriya": {
         "Sex:male": {
           "Count": "Int:35670"
         },
@@ -1025,7 +1025,7 @@
           "Count": "Int:36812"
         }
       },
-      "DSD:LK-2233": {
+      "DSD:ukuwela": {
         "Sex:male": {
           "Count": "Int:34176"
         },
@@ -1033,7 +1033,7 @@
           "Count": "Int:38137"
         }
       },
-      "DSD:LK-5327": {
+      "DSD:muthur": {
         "Sex:male": {
           "Count": "Int:35544"
         },
@@ -1041,7 +1041,7 @@
           "Count": "Int:36337"
         }
       },
-      "DSD:LK-7115": {
+      "DSD:nuwaragam_palatha_central": {
         "Sex:male": {
           "Count": "Int:35162"
         },
@@ -1049,7 +1049,7 @@
           "Count": "Int:36367"
         }
       },
-      "DSD:LK-6145": {
+      "DSD:panduwasnuwara_west": {
         "Sex:male": {
           "Count": "Int:34301"
         },
@@ -1057,7 +1057,7 @@
           "Count": "Int:36885"
         }
       },
-      "DSD:LK-2109": {
+      "DSD:akurana": {
         "Sex:male": {
           "Count": "Int:33539"
         },
@@ -1065,7 +1065,7 @@
           "Count": "Int:37471"
         }
       },
-      "DSD:LK-6160": {
+      "DSD:mawathagama": {
         "Sex:male": {
           "Count": "Int:33784"
         },
@@ -1073,7 +1073,7 @@
           "Count": "Int:37083"
         }
       },
-      "DSD:LK-7203": {
+      "DSD:higurakgoda": {
         "Sex:male": {
           "Count": "Int:34397"
         },
@@ -1081,7 +1081,7 @@
           "Count": "Int:36254"
         }
       },
-      "DSD:LK-9209": {
+      "DSD:aranayake": {
         "Sex:male": {
           "Count": "Int:32609"
         },
@@ -1089,7 +1089,7 @@
           "Count": "Int:36466"
         }
       },
-      "DSD:LK-3106": {
+      "DSD:balapitiya": {
         "Sex:male": {
           "Count": "Int:32452"
         },
@@ -1097,7 +1097,7 @@
           "Count": "Int:35698"
         }
       },
-      "DSD:LK-4130": {
+      "DSD:thenmaradchi_chavakachcheri": {
         "Sex:male": {
           "Count": "Int:32108"
         },
@@ -1105,7 +1105,7 @@
           "Count": "Int:35674"
         }
       },
-      "DSD:LK-6187": {
+      "DSD:polgahawela": {
         "Sex:male": {
           "Count": "Int:32176"
         },
@@ -1113,7 +1113,7 @@
           "Count": "Int:35289"
         }
       },
-      "DSD:LK-5203": {
+      "DSD:dehiattakandiya": {
         "Sex:male": {
           "Count": "Int:33196"
         },
@@ -1121,7 +1121,7 @@
           "Count": "Int:34078"
         }
       },
-      "DSD:LK-3312": {
+      "DSD:hambantota": {
         "Sex:male": {
           "Count": "Int:33392"
         },
@@ -1129,7 +1129,7 @@
           "Count": "Int:33815"
         }
       },
-      "DSD:LK-1327": {
+      "DSD:dodangoda": {
         "Sex:male": {
           "Count": "Int:32546"
         },
@@ -1137,7 +1137,7 @@
           "Count": "Int:34543"
         }
       },
-      "DSD:LK-6142": {
+      "DSD:bingiriya": {
         "Sex:male": {
           "Count": "Int:31869"
         },
@@ -1145,7 +1145,7 @@
           "Count": "Int:34855"
         }
       },
-      "DSD:LK-3112": {
+      "DSD:elpitiya": {
         "Sex:male": {
           "Count": "Int:32028"
         },
@@ -1153,7 +1153,7 @@
           "Count": "Int:34643"
         }
       },
-      "DSD:LK-6136": {
+      "DSD:wariyapola": {
         "Sex:male": {
           "Count": "Int:31986"
         },
@@ -1161,7 +1161,7 @@
           "Count": "Int:34502"
         }
       },
-      "DSD:LK-9221": {
+      "DSD:ruwanwella": {
         "Sex:male": {
           "Count": "Int:31671"
         },
@@ -1169,7 +1169,7 @@
           "Count": "Int:34126"
         }
       },
-      "DSD:LK-6184": {
+      "DSD:alawwa": {
         "Sex:male": {
           "Count": "Int:31625"
         },
@@ -1177,7 +1177,7 @@
           "Count": "Int:34064"
         }
       },
-      "DSD:LK-2157": {
+      "DSD:pasbagekorale": {
         "Sex:male": {
           "Count": "Int:30883"
         },
@@ -1185,7 +1185,7 @@
           "Count": "Int:34670"
         }
       },
-      "DSD:LK-1312": {
+      "DSD:bulathsinhala": {
         "Sex:male": {
           "Count": "Int:31911"
         },
@@ -1193,7 +1193,7 @@
           "Count": "Int:33639"
         }
       },
-      "DSD:LK-6242": {
+      "DSD:nattandiya": {
         "Sex:male": {
           "Count": "Int:30820"
         },
@@ -1201,7 +1201,7 @@
           "Count": "Int:34680"
         }
       },
-      "DSD:LK-8133": {
+      "DSD:bandarawela": {
         "Sex:male": {
           "Count": "Int:31527"
         },
@@ -1209,7 +1209,7 @@
           "Count": "Int:33961"
         }
       },
-      "DSD:LK-7154": {
+      "DSD:kekirawa": {
         "Sex:male": {
           "Count": "Int:31751"
         },
@@ -1217,7 +1217,7 @@
           "Count": "Int:33566"
         }
       },
-      "DSD:LK-2309": {
+      "DSD:walapane": {
         "Sex:male": {
           "Count": "Int:31686"
         },
@@ -1225,7 +1225,7 @@
           "Count": "Int:33601"
         }
       },
-      "DSD:LK-6245": {
+      "DSD:wennappuwa": {
         "Sex:male": {
           "Count": "Int:30482"
         },
@@ -1233,7 +1233,7 @@
           "Count": "Int:34286"
         }
       },
-      "DSD:LK-9115": {
+      "DSD:imbulpe": {
         "Sex:male": {
           "Count": "Int:30398"
         },
@@ -1241,7 +1241,7 @@
           "Count": "Int:34157"
         }
       },
-      "DSD:LK-2124": {
+      "DSD:medadumbara": {
         "Sex:male": {
           "Count": "Int:31415"
         },
@@ -1249,7 +1249,7 @@
           "Count": "Int:33124"
         }
       },
-      "DSD:LK-6124": {
+      "DSD:maho": {
         "Sex:male": {
           "Count": "Int:31117"
         },
@@ -1257,7 +1257,7 @@
           "Count": "Int:33005"
         }
       },
-      "DSD:LK-3109": {
+      "DSD:karandeniya": {
         "Sex:male": {
           "Count": "Int:30467"
         },
@@ -1265,7 +1265,7 @@
           "Count": "Int:33395"
         }
       },
-      "DSD:LK-6233": {
+      "DSD:chilaw": {
         "Sex:male": {
           "Count": "Int:30199"
         },
@@ -1273,7 +1273,7 @@
           "Count": "Int:33440"
         }
       },
-      "DSD:LK-3154": {
+      "DSD:habaraduwa": {
         "Sex:male": {
           "Count": "Int:30710"
         },
@@ -1281,7 +1281,7 @@
           "Count": "Int:32592"
         }
       },
-      "DSD:LK-8212": {
+      "DSD:siyambalanduwa": {
         "Sex:male": {
           "Count": "Int:31502"
         },
@@ -1289,7 +1289,7 @@
           "Count": "Int:31553"
         }
       },
-      "DSD:LK-5136": {
+      "DSD:manmunai_south_and_eruvil_pattu": {
         "Sex:male": {
           "Count": "Int:29562"
         },
@@ -1297,7 +1297,7 @@
           "Count": "Int:33358"
         }
       },
-      "DSD:LK-6248": {
+      "DSD:dankotuwa": {
         "Sex:male": {
           "Count": "Int:30006"
         },
@@ -1305,7 +1305,7 @@
           "Count": "Int:32867"
         }
       },
-      "DSD:LK-9227": {
+      "DSD:yatiyantota": {
         "Sex:male": {
           "Count": "Int:30352"
         },
@@ -1313,7 +1313,7 @@
           "Count": "Int:31903"
         }
       },
-      "DSD:LK-5212": {
+      "DSD:uhana": {
         "Sex:male": {
           "Count": "Int:30167"
         },
@@ -1321,7 +1321,7 @@
           "Count": "Int:32049"
         }
       },
-      "DSD:LK-6106": {
+      "DSD:galgamuwa": {
         "Sex:male": {
           "Count": "Int:30170"
         },
@@ -1329,7 +1329,7 @@
           "Count": "Int:31589"
         }
       },
-      "DSD:LK-2303": {
+      "DSD:kothmale_east": {
         "Sex:male": {
           "Count": "Int:29574"
         },
@@ -1337,7 +1337,7 @@
           "Count": "Int:32168"
         }
       },
-      "DSD:LK-6169": {
+      "DSD:kuliyapitiya_east": {
         "Sex:male": {
           "Count": "Int:29449"
         },
@@ -1345,7 +1345,7 @@
           "Count": "Int:31774"
         }
       },
-      "DSD:LK-7148": {
+      "DSD:thalawa": {
         "Sex:male": {
           "Count": "Int:29803"
         },
@@ -1353,7 +1353,7 @@
           "Count": "Int:31413"
         }
       },
-      "DSD:LK-3209": {
+      "DSD:pasgoda": {
         "Sex:male": {
           "Count": "Int:29936"
         },
@@ -1361,7 +1361,7 @@
           "Count": "Int:31235"
         }
       },
-      "DSD:LK-3206": {
+      "DSD:kotapola": {
         "Sex:male": {
           "Count": "Int:29750"
         },
@@ -1369,7 +1369,7 @@
           "Count": "Int:31252"
         }
       },
-      "DSD:LK-8106": {
+      "DSD:rideemaliyadda": {
         "Sex:male": {
           "Count": "Int:30196"
         },
@@ -1377,7 +1377,7 @@
           "Count": "Int:30686"
         }
       },
-      "DSD:LK-2145": {
+      "DSD:pathahewaheta": {
         "Sex:male": {
           "Count": "Int:29235"
         },
@@ -1385,7 +1385,7 @@
           "Count": "Int:31404"
         }
       },
-      "DSD:LK-8224": {
+      "DSD:buttala": {
         "Sex:male": {
           "Count": "Int:30180"
         },
@@ -1393,7 +1393,7 @@
           "Count": "Int:30426"
         }
       },
-      "DSD:LK-2106": {
+      "DSD:poojapitiya": {
         "Sex:male": {
           "Count": "Int:28572"
         },
@@ -1401,7 +1401,7 @@
           "Count": "Int:31744"
         }
       },
-      "DSD:LK-6181": {
+      "DSD:narammala": {
         "Sex:male": {
           "Count": "Int:28489"
         },
@@ -1409,7 +1409,7 @@
           "Count": "Int:31317"
         }
       },
-      "DSD:LK-3133": {
+      "DSD:ambalangoda": {
         "Sex:male": {
           "Count": "Int:28447"
         },
@@ -1417,7 +1417,7 @@
           "Count": "Int:31170"
         }
       },
-      "DSD:LK-6157": {
+      "DSD:mallawapitiya": {
         "Sex:male": {
           "Count": "Int:28294"
         },
@@ -1425,7 +1425,7 @@
           "Count": "Int:31197"
         }
       },
-      "DSD:LK-9136": {
+      "DSD:nivithigala": {
         "Sex:male": {
           "Count": "Int:29447"
         },
@@ -1433,7 +1433,7 @@
           "Count": "Int:29995"
         }
       },
-      "DSD:LK-2154": {
+      "DSD:ganga_ihala_korale": {
         "Sex:male": {
           "Count": "Int:28610"
         },
@@ -1441,7 +1441,7 @@
           "Count": "Int:30535"
         }
       },
-      "DSD:LK-2306": {
+      "DSD:hanguranketa": {
         "Sex:male": {
           "Count": "Int:28087"
         },
@@ -1449,7 +1449,7 @@
           "Count": "Int:30844"
         }
       },
-      "DSD:LK-3330": {
+      "DSD:beliatta": {
         "Sex:male": {
           "Count": "Int:28018"
         },
@@ -1457,7 +1457,7 @@
           "Count": "Int:30657"
         }
       },
-      "DSD:LK-1310": {
+      "DSD:ingiriya": {
         "Sex:male": {
           "Count": "Int:28621"
         },
@@ -1465,7 +1465,7 @@
           "Count": "Int:29740"
         }
       },
-      "DSD:LK-3142": {
+      "DSD:bope_poddala": {
         "Sex:male": {
           "Count": "Int:27448"
         },
@@ -1473,7 +1473,7 @@
           "Count": "Int:30442"
         }
       },
-      "DSD:LK-4203": {
+      "DSD:mannar_town": {
         "Sex:male": {
           "Count": "Int:28448"
         },
@@ -1481,7 +1481,7 @@
           "Count": "Int:29324"
         }
       },
-      "DSD:LK-8215": {
+      "DSD:monaragala": {
         "Sex:male": {
           "Count": "Int:28080"
         },
@@ -1489,7 +1489,7 @@
           "Count": "Int:28871"
         }
       },
-      "DSD:LK-3248": {
+      "DSD:dikwella": {
         "Sex:male": {
           "Count": "Int:27172"
         },
@@ -1497,7 +1497,7 @@
           "Count": "Int:29296"
         }
       },
-      "DSD:LK-1318": {
+      "DSD:millaniya": {
         "Sex:male": {
           "Count": "Int:27180"
         },
@@ -1505,7 +1505,7 @@
           "Count": "Int:28986"
         }
       },
-      "DSD:LK-3221": {
+      "DSD:welipitiya": {
         "Sex:male": {
           "Count": "Int:26995"
         },
@@ -1513,7 +1513,7 @@
           "Count": "Int:28965"
         }
       },
-      "DSD:LK-7139": {
+      "DSD:nochchiyagama": {
         "Sex:male": {
           "Count": "Int:27099"
         },
@@ -1521,7 +1521,7 @@
           "Count": "Int:28372"
         }
       },
-      "DSD:LK-2121": {
+      "DSD:minipe": {
         "Sex:male": {
           "Count": "Int:27066"
         },
@@ -1529,7 +1529,7 @@
           "Count": "Int:28276"
         }
       },
-      "DSD:LK-1339": {
+      "DSD:walallawita": {
         "Sex:male": {
           "Count": "Int:26682"
         },
@@ -1537,7 +1537,7 @@
           "Count": "Int:28651"
         }
       },
-      "DSD:LK-6175": {
+      "DSD:udubaddawa": {
         "Sex:male": {
           "Count": "Int:25970"
         },
@@ -1545,7 +1545,7 @@
           "Count": "Int:28496"
         }
       },
-      "DSD:LK-2230": {
+      "DSD:rattota": {
         "Sex:male": {
           "Count": "Int:25566"
         },
@@ -1553,7 +1553,7 @@
           "Count": "Int:28084"
         }
       },
-      "DSD:LK-3218": {
+      "DSD:akuressa": {
         "Sex:male": {
           "Count": "Int:25798"
         },
@@ -1561,7 +1561,7 @@
           "Count": "Int:27840"
         }
       },
-      "DSD:LK-3318": {
+      "DSD:angunakolapelessa": {
         "Sex:male": {
           "Count": "Int:26073"
         },
@@ -1569,7 +1569,7 @@
           "Count": "Int:27336"
         }
       },
-      "DSD:LK-5233": {
+      "DSD:addalaichenai": {
         "Sex:male": {
           "Count": "Int:24354"
         },
@@ -1577,7 +1577,7 @@
           "Count": "Int:28860"
         }
       },
-      "DSD:LK-5224": {
+      "DSD:kalmunai": {
         "Sex:male": {
           "Count": "Int:24929"
         },
@@ -1585,7 +1585,7 @@
           "Count": "Int:27869"
         }
       },
-      "DSD:LK-2142": {
+      "DSD:doluwa": {
         "Sex:male": {
           "Count": "Int:25517"
         },
@@ -1593,7 +1593,7 @@
           "Count": "Int:27267"
         }
       },
-      "DSD:LK-3303": {
+      "DSD:sooriyawewa": {
         "Sex:male": {
           "Count": "Int:26096"
         },
@@ -1601,7 +1601,7 @@
           "Count": "Int:26613"
         }
       },
-      "DSD:LK-7109": {
+      "DSD:medawachchiya": {
         "Sex:male": {
           "Count": "Int:25193"
         },
@@ -1609,7 +1609,7 @@
           "Count": "Int:27303"
         }
       },
-      "DSD:LK-3324": {
+      "DSD:katuwana": {
         "Sex:male": {
           "Count": "Int:25414"
         },
@@ -1617,7 +1617,7 @@
           "Count": "Int:26755"
         }
       },
-      "DSD:LK-4109": {
+      "DSD:valikamam_south_west_sandilipay": {
         "Sex:male": {
           "Count": "Int:24726"
         },
@@ -1625,7 +1625,7 @@
           "Count": "Int:27395"
         }
       },
-      "DSD:LK-3124": {
+      "DSD:nagoda": {
         "Sex:male": {
           "Count": "Int:24957"
         },
@@ -1633,7 +1633,7 @@
           "Count": "Int:27074"
         }
       },
-      "DSD:LK-7127": {
+      "DSD:galenbidunuwewa": {
         "Sex:male": {
           "Count": "Int:25535"
         },
@@ -1641,7 +1641,7 @@
           "Count": "Int:26417"
         }
       },
-      "DSD:LK-3212": {
+      "DSD:mulatiyana": {
         "Sex:male": {
           "Count": "Int:25086"
         },
@@ -1649,7 +1649,7 @@
           "Count": "Int:26746"
         }
       },
-      "DSD:LK-1336": {
+      "DSD:palindanuwara": {
         "Sex:male": {
           "Count": "Int:24879"
         },
@@ -1657,7 +1657,7 @@
           "Count": "Int:26292"
         }
       },
-      "DSD:LK-3127": {
+      "DSD:baddegama": {
         "Sex:male": {
           "Count": "Int:24515"
         },
@@ -1665,7 +1665,7 @@
           "Count": "Int:26441"
         }
       },
-      "DSD:LK-5321": {
+      "DSD:kantale": {
         "Sex:male": {
           "Count": "Int:24912"
         },
@@ -1673,7 +1673,7 @@
           "Count": "Int:25928"
         }
       },
-      "DSD:LK-9133": {
+      "DSD:kalawana": {
         "Sex:male": {
           "Count": "Int:25109"
         },
@@ -1681,7 +1681,7 @@
           "Count": "Int:25644"
         }
       },
-      "DSD:LK-4115": {
+      "DSD:valikamam_south_uduvil": {
         "Sex:male": {
           "Count": "Int:23792"
         },
@@ -1689,7 +1689,7 @@
           "Count": "Int:26748"
         }
       },
-      "DSD:LK-9151": {
+      "DSD:kolonna": {
         "Sex:male": {
           "Count": "Int:24937"
         },
@@ -1697,7 +1697,7 @@
           "Count": "Int:25131"
         }
       },
-      "DSD:LK-3103": {
+      "DSD:bentota": {
         "Sex:male": {
           "Count": "Int:24041"
         },
@@ -1705,7 +1705,7 @@
           "Count": "Int:25609"
         }
       },
-      "DSD:LK-8118": {
+      "DSD:passara": {
         "Sex:male": {
           "Count": "Int:23888"
         },
@@ -1713,7 +1713,7 @@
           "Count": "Int:25748"
         }
       },
-      "DSD:LK-8136": {
+      "DSD:ella": {
         "Sex:male": {
           "Count": "Int:24611"
         },
@@ -1721,7 +1721,7 @@
           "Count": "Int:24828"
         }
       },
-      "DSD:LK-8233": {
+      "DSD:sevanagala": {
         "Sex:male": {
           "Count": "Int:24121"
         },
@@ -1729,7 +1729,7 @@
           "Count": "Int:25255"
         }
       },
-      "DSD:LK-3245": {
+      "DSD:devinuwara": {
         "Sex:male": {
           "Count": "Int:23405"
         },
@@ -1737,7 +1737,7 @@
           "Count": "Int:25869"
         }
       },
-      "DSD:LK-6236": {
+      "DSD:madampe": {
         "Sex:male": {
           "Count": "Int:23581"
         },
@@ -1745,7 +1745,7 @@
           "Count": "Int:25413"
         }
       },
-      "DSD:LK-3203": {
+      "DSD:pitabaddara": {
         "Sex:male": {
           "Count": "Int:23765"
         },
@@ -1753,7 +1753,7 @@
           "Count": "Int:25102"
         }
       },
-      "DSD:LK-6239": {
+      "DSD:mahawewa": {
         "Sex:male": {
           "Count": "Int:23005"
         },
@@ -1761,7 +1761,7 @@
           "Count": "Int:25828"
         }
       },
-      "DSD:LK-7218": {
+      "DSD:elahera": {
         "Sex:male": {
           "Count": "Int:24213"
         },
@@ -1769,7 +1769,7 @@
           "Count": "Int:24352"
         }
       },
-      "DSD:LK-4136": {
+      "DSD:jaffna": {
         "Sex:male": {
           "Count": "Int:23413"
         },
@@ -1777,7 +1777,7 @@
           "Count": "Int:25130"
         }
       },
-      "DSD:LK-8139": {
+      "DSD:haputale": {
         "Sex:male": {
           "Count": "Int:23375"
         },
@@ -1785,7 +1785,7 @@
           "Count": "Int:24905"
         }
       },
-      "DSD:LK-3321": {
+      "DSD:weeraketiya": {
         "Sex:male": {
           "Count": "Int:23407"
         },
@@ -1793,7 +1793,7 @@
           "Count": "Int:24834"
         }
       },
-      "DSD:LK-3151": {
+      "DSD:imaduwa": {
         "Sex:male": {
           "Count": "Int:23107"
         },
@@ -1801,7 +1801,7 @@
           "Count": "Int:25097"
         }
       },
-      "DSD:LK-3325": {
+      "DSD:walasmulla": {
         "Sex:male": {
           "Count": "Int:23330"
         },
@@ -1809,7 +1809,7 @@
           "Count": "Int:24539"
         }
       },
-      "DSD:LK-5215": {
+      "DSD:ampara": {
         "Sex:male": {
           "Count": "Int:23103"
         },
@@ -1817,7 +1817,7 @@
           "Count": "Int:24765"
         }
       },
-      "DSD:LK-8203": {
+      "DSD:bibile": {
         "Sex:male": {
           "Count": "Int:22915"
         },
@@ -1825,7 +1825,7 @@
           "Count": "Int:24351"
         }
       },
-      "DSD:LK-7145": {
+      "DSD:thambuththegama": {
         "Sex:male": {
           "Count": "Int:22964"
         },
@@ -1833,7 +1833,7 @@
           "Count": "Int:24097"
         }
       },
-      "DSD:LK-3148": {
+      "DSD:yakkalamulla": {
         "Sex:male": {
           "Count": "Int:22656"
         },
@@ -1841,7 +1841,7 @@
           "Count": "Int:24031"
         }
       },
-      "DSD:LK-8218": {
+      "DSD:badalkumbura": {
         "Sex:male": {
           "Count": "Int:22894"
         },
@@ -1849,7 +1849,7 @@
           "Count": "Int:23701"
         }
       },
-      "DSD:LK-9224": {
+      "DSD:bulathkohipitiya": {
         "Sex:male": {
           "Count": "Int:21696"
         },
@@ -1857,7 +1857,7 @@
           "Count": "Int:23541"
         }
       },
-      "DSD:LK-4106": {
+      "DSD:valikamam_west_chankanai": {
         "Sex:male": {
           "Count": "Int:21577"
         },
@@ -1865,7 +1865,7 @@
           "Count": "Int:23583"
         }
       },
-      "DSD:LK-5236": {
+      "DSD:akkaraipattu": {
         "Sex:male": {
           "Count": "Int:21075"
         },
@@ -1873,7 +1873,7 @@
           "Count": "Int:23904"
         }
       },
-      "DSD:LK-4112": {
+      "DSD:valikamam_north_thllippalai": {
         "Sex:male": {
           "Count": "Int:21548"
         },
@@ -1881,7 +1881,7 @@
           "Count": "Int:23366"
         }
       },
-      "DSD:LK-7121": {
+      "DSD:kahatagasdigiliya": {
         "Sex:male": {
           "Count": "Int:21457"
         },
@@ -1889,7 +1889,7 @@
           "Count": "Int:23446"
         }
       },
-      "DSD:LK-5124": {
+      "DSD:kattankudy": {
         "Sex:male": {
           "Count": "Int:20439"
         },
@@ -1897,7 +1897,7 @@
           "Count": "Int:24355"
         }
       },
-      "DSD:LK-8209": {
+      "DSD:medagama": {
         "Sex:male": {
           "Count": "Int:22055"
         },
@@ -1905,7 +1905,7 @@
           "Count": "Int:22559"
         }
       },
-      "DSD:LK-7130": {
+      "DSD:mihinthale": {
         "Sex:male": {
           "Count": "Int:20640"
         },
@@ -1913,7 +1913,7 @@
           "Count": "Int:23467"
         }
       },
-      "DSD:LK-9233": {
+      "DSD:deraniyagala": {
         "Sex:male": {
           "Count": "Int:21381"
         },
@@ -1921,7 +1921,7 @@
           "Count": "Int:22624"
         }
       },
-      "DSD:LK-9139": {
+      "DSD:kahawattha": {
         "Sex:male": {
           "Count": "Int:21532"
         },
@@ -1929,7 +1929,7 @@
           "Count": "Int:22176"
         }
       },
-      "DSD:LK-6224": {
+      "DSD:anamaduwa": {
         "Sex:male": {
           "Count": "Int:21161"
         },
@@ -1937,7 +1937,7 @@
           "Count": "Int:22365"
         }
       },
-      "DSD:LK-6133": {
+      "DSD:ganewatta": {
         "Sex:male": {
           "Count": "Int:20904"
         },
@@ -1945,7 +1945,7 @@
           "Count": "Int:22527"
         }
       },
-      "DSD:LK-6121": {
+      "DSD:nikaweratiya": {
         "Sex:male": {
           "Count": "Int:20876"
         },
@@ -1953,7 +1953,7 @@
           "Count": "Int:22526"
         }
       },
-      "DSD:LK-4127": {
+      "DSD:vadamaradchi_north_point_pedro": {
         "Sex:male": {
           "Count": "Int:20308"
         },
@@ -1961,7 +1961,7 @@
           "Count": "Int:23061"
         }
       },
-      "DSD:LK-5248": {
+      "DSD:pottuvil": {
         "Sex:male": {
           "Count": "Int:20726"
         },
@@ -1969,7 +1969,7 @@
           "Count": "Int:22182"
         }
       },
-      "DSD:LK-3227": {
+      "DSD:kaburupitiya": {
         "Sex:male": {
           "Count": "Int:20232"
         },
@@ -1977,7 +1977,7 @@
           "Count": "Int:22584"
         }
       },
-      "DSD:LK-6230": {
+      "DSD:arachchikattuwa": {
         "Sex:male": {
           "Count": "Int:20727"
         },
@@ -1985,7 +1985,7 @@
           "Count": "Int:22022"
         }
       },
-      "DSD:LK-2315": {
+      "DSD:ambagamuwa_korale": {
         "Sex:male": {
           "Count": "Int:19982"
         },
@@ -1993,7 +1993,7 @@
           "Count": "Int:22556"
         }
       },
-      "DSD:LK-2310": {
+      "DSD:nildandahinna": {
         "Sex:male": {
           "Count": "Int:20410"
         },
@@ -2001,7 +2001,7 @@
           "Count": "Int:22012"
         }
       },
-      "DSD:LK-7160": {
+      "DSD:ipalogama": {
         "Sex:male": {
           "Count": "Int:19918"
         },
@@ -2009,7 +2009,7 @@
           "Count": "Int:22043"
         }
       },
-      "DSD:LK-2302": {
+      "DSD:kothmale_west": {
         "Sex:male": {
           "Count": "Int:20009"
         },
@@ -2017,7 +2017,7 @@
           "Count": "Int:21946"
         }
       },
-      "DSD:LK-6151": {
+      "DSD:maspotha": {
         "Sex:male": {
           "Count": "Int:19669"
         },
@@ -2025,7 +2025,7 @@
           "Count": "Int:22204"
         }
       },
-      "DSD:LK-3137": {
+      "DSD:rathgama": {
         "Sex:male": {
           "Count": "Int:20052"
         },
@@ -2033,7 +2033,7 @@
           "Count": "Int:21404"
         }
       },
-      "DSD:LK-7124": {
+      "DSD:horowpathana": {
         "Sex:male": {
           "Count": "Int:20134"
         },
@@ -2041,7 +2041,7 @@
           "Count": "Int:21127"
         }
       },
-      "DSD:LK-4121": {
+      "DSD:vadamaradchchi_south_west_karaveddy": {
         "Sex:male": {
           "Count": "Int:19240"
         },
@@ -2049,7 +2049,7 @@
           "Count": "Int:21862"
         }
       },
-      "DSD:LK-6139": {
+      "DSD:kobeigane": {
         "Sex:male": {
           "Count": "Int:19810"
         },
@@ -2057,7 +2057,7 @@
           "Count": "Int:20859"
         }
       },
-      "DSD:LK-5242": {
+      "DSD:damana": {
         "Sex:male": {
           "Count": "Int:19809"
         },
@@ -2065,7 +2065,7 @@
           "Count": "Int:20516"
         }
       },
-      "DSD:LK-5306": {
+      "DSD:kuchchaweli": {
         "Sex:male": {
           "Count": "Int:19641"
         },
@@ -2073,7 +2073,7 @@
           "Count": "Int:20232"
         }
       },
-      "DSD:LK-7118": {
+      "DSD:rambewa": {
         "Sex:male": {
           "Count": "Int:19449"
         },
@@ -2081,7 +2081,7 @@
           "Count": "Int:20412"
         }
       },
-      "DSD:LK-7209": {
+      "DSD:lankapura": {
         "Sex:male": {
           "Count": "Int:18971"
         },
@@ -2089,7 +2089,7 @@
           "Count": "Int:20702"
         }
       },
-      "DSD:LK-4409": {
+      "DSD:puthukkudiyiruppu": {
         "Sex:male": {
           "Count": "Int:19023"
         },
@@ -2097,7 +2097,7 @@
           "Count": "Int:20509"
         }
       },
-      "DSD:LK-7163": {
+      "DSD:galnewa": {
         "Sex:male": {
           "Count": "Int:19107"
         },
@@ -2105,7 +2105,7 @@
           "Count": "Int:20351"
         }
       },
-      "DSD:LK-6149": {
+      "DSD:bamunakotuwa": {
         "Sex:male": {
           "Count": "Int:18912"
         },
@@ -2113,7 +2113,7 @@
           "Count": "Int:20530"
         }
       },
-      "DSD:LK-8142": {
+      "DSD:haldummulla": {
         "Sex:male": {
           "Count": "Int:19103"
         },
@@ -2121,7 +2121,7 @@
           "Count": "Int:19675"
         }
       },
-      "DSD:LK-2103": {
+      "DSD:tumpane": {
         "Sex:male": {
           "Count": "Int:18515"
         },
@@ -2129,7 +2129,7 @@
           "Count": "Int:20261"
         }
       },
-      "DSD:LK-5133": {
+      "DSD:porativu_pattu": {
         "Sex:male": {
           "Count": "Int:16822"
         },
@@ -2137,7 +2137,7 @@
           "Count": "Int:21805"
         }
       },
-      "DSD:LK-7166": {
+      "DSD:palagala": {
         "Sex:male": {
           "Count": "Int:18736"
         },
@@ -2145,7 +2145,7 @@
           "Count": "Int:19733"
         }
       },
-      "DSD:LK-9127": {
+      "DSD:elapatha": {
         "Sex:male": {
           "Count": "Int:19138"
         },
@@ -2153,7 +2153,7 @@
           "Count": "Int:19291"
         }
       },
-      "DSD:LK-7210": {
+      "DSD:welikanda": {
         "Sex:male": {
           "Count": "Int:19014"
         },
@@ -2161,7 +2161,7 @@
           "Count": "Int:19182"
         }
       },
-      "DSD:LK-3306": {
+      "DSD:lunugamwehera": {
         "Sex:male": {
           "Count": "Int:18366"
         },
@@ -2169,7 +2169,7 @@
           "Count": "Int:18557"
         }
       },
-      "DSD:LK-4415": {
+      "DSD:maritimepattu": {
         "Sex:male": {
           "Count": "Int:17842"
         },
@@ -2177,7 +2177,7 @@
           "Count": "Int:18971"
         }
       },
-      "DSD:LK-1315": {
+      "DSD:madurawala": {
         "Sex:male": {
           "Count": "Int:17764"
         },
@@ -2185,7 +2185,7 @@
           "Count": "Int:18959"
         }
       },
-      "DSD:LK-6166": {
+      "DSD:weerabugedara": {
         "Sex:male": {
           "Count": "Int:17387"
         },
@@ -2193,7 +2193,7 @@
           "Count": "Int:19203"
         }
       },
-      "DSD:LK-1333": {
+      "DSD:agalawatta": {
         "Sex:male": {
           "Count": "Int:17536"
         },
@@ -2201,7 +2201,7 @@
           "Count": "Int:19053"
         }
       },
-      "DSD:LK-5127": {
+      "DSD:manmunai_pattu": {
         "Sex:male": {
           "Count": "Int:16945"
         },
@@ -2209,7 +2209,7 @@
           "Count": "Int:19588"
         }
       },
-      "DSD:LK-8206": {
+      "DSD:madulla": {
         "Sex:male": {
           "Count": "Int:18117"
         },
@@ -2217,7 +2217,7 @@
           "Count": "Int:18329"
         }
       },
-      "DSD:LK-7142": {
+      "DSD:rajanganaya": {
         "Sex:male": {
           "Count": "Int:17567"
         },
@@ -2225,7 +2225,7 @@
           "Count": "Int:18669"
         }
       },
-      "DSD:LK-3224": {
+      "DSD:malimbada": {
         "Sex:male": {
           "Count": "Int:17025"
         },
@@ -2233,7 +2233,7 @@
           "Count": "Int:19103"
         }
       },
-      "DSD:LK-3115": {
+      "DSD:niyagama": {
         "Sex:male": {
           "Count": "Int:17371"
         },
@@ -2241,7 +2241,7 @@
           "Count": "Int:18380"
         }
       },
-      "DSD:LK-6103": {
+      "DSD:giribawa": {
         "Sex:male": {
           "Count": "Int:17094"
         },
@@ -2249,7 +2249,7 @@
           "Count": "Int:17835"
         }
       },
-      "DSD:LK-3236": {
+      "DSD:thihagoda": {
         "Sex:male": {
           "Count": "Int:16250"
         },
@@ -2257,7 +2257,7 @@
           "Count": "Int:18056"
         }
       },
-      "DSD:LK-9145": {
+      "DSD:weligepola": {
         "Sex:male": {
           "Count": "Int:16987"
         },
@@ -2265,7 +2265,7 @@
           "Count": "Int:17181"
         }
       },
-      "DSD:LK-2227": {
+      "DSD:wilgamuwa": {
         "Sex:male": {
           "Count": "Int:16747"
         },
@@ -2273,7 +2273,7 @@
           "Count": "Int:16968"
         }
       },
-      "DSD:LK-5318": {
+      "DSD:thambalagamuwa": {
         "Sex:male": {
           "Count": "Int:16508"
         },
@@ -2281,7 +2281,7 @@
           "Count": "Int:17128"
         }
       },
-      "DSD:LK-9109": {
+      "DSD:kiriella": {
         "Sex:male": {
           "Count": "Int:16571"
         },
@@ -2289,7 +2289,7 @@
           "Count": "Int:17060"
         }
       },
-      "DSD:LK-3135": {
+      "DSD:madampagama": {
         "Sex:male": {
           "Count": "Int:16011"
         },
@@ -2297,7 +2297,7 @@
           "Count": "Int:17397"
         }
       },
-      "DSD:LK-2307": {
+      "DSD:mathurata": {
         "Sex:male": {
           "Count": "Int:15940"
         },
@@ -2305,7 +2305,7 @@
           "Count": "Int:17235"
         }
       },
-      "DSD:LK-3230": {
+      "DSD:hakmana": {
         "Sex:male": {
           "Count": "Int:15709"
         },
@@ -2313,7 +2313,7 @@
           "Count": "Int:17276"
         }
       },
-      "DSD:LK-5121": {
+      "DSD:manmunai_west": {
         "Sex:male": {
           "Count": "Int:15905"
         },
@@ -2321,7 +2321,7 @@
           "Count": "Int:16926"
         }
       },
-      "DSD:LK-3215": {
+      "DSD:athuraliya": {
         "Sex:male": {
           "Count": "Int:15603"
         },
@@ -2329,7 +2329,7 @@
           "Count": "Int:17208"
         }
       },
-      "DSD:LK-2215": {
+      "DSD:yatawatta": {
         "Sex:male": {
           "Count": "Int:15636"
         },
@@ -2337,7 +2337,7 @@
           "Count": "Int:16779"
         }
       },
-      "DSD:LK-2148": {
+      "DSD:deltota": {
         "Sex:male": {
           "Count": "Int:14732"
         },
@@ -2345,7 +2345,7 @@
           "Count": "Int:17172"
         }
       },
-      "DSD:LK-8119": {
+      "DSD:lunugala": {
         "Sex:male": {
           "Count": "Int:15199"
         },
@@ -2353,7 +2353,7 @@
           "Count": "Int:16682"
         }
       },
-      "DSD:LK-6148": {
+      "DSD:panduwasnuwara_east": {
         "Sex:male": {
           "Count": "Int:15304"
         },
@@ -2361,7 +2361,7 @@
           "Count": "Int:16486"
         }
       },
-      "DSD:LK-2212": {
+      "DSD:pallepola": {
         "Sex:male": {
           "Count": "Int:15156"
         },
@@ -2369,7 +2369,7 @@
           "Count": "Int:16473"
         }
       },
-      "DSD:LK-5221": {
+      "DSD:kalmunai_north": {
         "Sex:male": {
           "Count": "Int:14355"
         },
@@ -2377,7 +2377,7 @@
           "Count": "Int:17201"
         }
       },
-      "DSD:LK-8230": {
+      "DSD:thanamalwila": {
         "Sex:male": {
           "Count": "Int:15636"
         },
@@ -2385,7 +2385,7 @@
           "Count": "Int:15602"
         }
       },
-      "DSD:LK-2134": {
+      "DSD:hatharaliyadda": {
         "Sex:male": {
           "Count": "Int:15152"
         },
@@ -2393,7 +2393,7 @@
           "Count": "Int:15989"
         }
       },
-      "DSD:LK-7151": {
+      "DSD:thirappane": {
         "Sex:male": {
           "Count": "Int:15315"
         },
@@ -2401,7 +2401,7 @@
           "Count": "Int:15806"
         }
       },
-      "DSD:LK-3118": {
+      "DSD:thawalama": {
         "Sex:male": {
           "Count": "Int:15109"
         },
@@ -2409,7 +2409,7 @@
           "Count": "Int:15880"
         }
       },
-      "DSD:LK-2209": {
+      "DSD:naula": {
         "Sex:male": {
           "Count": "Int:15142"
         },
@@ -2417,7 +2417,7 @@
           "Count": "Int:15576"
         }
       },
-      "DSD:LK-5230": {
+      "DSD:nintavur": {
         "Sex:male": {
           "Count": "Int:13749"
         },
@@ -2425,7 +2425,7 @@
           "Count": "Int:16922"
         }
       },
-      "DSD:LK-5104": {
+      "DSD:koralai_pattu_central": {
         "Sex:male": {
           "Count": "Int:14751"
         },
@@ -2433,7 +2433,7 @@
           "Count": "Int:15852"
         }
       },
-      "DSD:LK-9130": {
+      "DSD:ayagama": {
         "Sex:male": {
           "Count": "Int:14878"
         },
@@ -2441,7 +2441,7 @@
           "Count": "Int:15066"
         }
       },
-      "DSD:LK-5225": {
+      "DSD:sainthamaruthu": {
         "Sex:male": {
           "Count": "Int:14054"
         },
@@ -2449,7 +2449,7 @@
           "Count": "Int:15819"
         }
       },
-      "DSD:LK-3130": {
+      "DSD:welivitiya_divitura": {
         "Sex:male": {
           "Count": "Int:14133"
         },
@@ -2457,7 +2457,7 @@
           "Count": "Int:15223"
         }
       },
-      "DSD:LK-5245": {
+      "DSD:tirukkovil": {
         "Sex:male": {
           "Count": "Int:14087"
         },
@@ -2465,7 +2465,7 @@
           "Count": "Int:15165"
         }
       },
-      "DSD:LK-5109": {
+      "DSD:koralai_pattu": {
         "Sex:male": {
           "Count": "Int:14086"
         },
@@ -2473,7 +2473,7 @@
           "Count": "Int:14676"
         }
       },
-      "DSD:LK-6109": {
+      "DSD:ehetuwewa": {
         "Sex:male": {
           "Count": "Int:13786"
         },
@@ -2481,7 +2481,7 @@
           "Count": "Int:14531"
         }
       },
-      "DSD:LK-5110": {
+      "DSD:koralai_pattu_south": {
         "Sex:male": {
           "Count": "Int:13597"
         },
@@ -2489,7 +2489,7 @@
           "Count": "Int:14705"
         }
       },
-      "DSD:LK-7136": {
+      "DSD:nachchaduwa": {
         "Sex:male": {
           "Count": "Int:13634"
         },
@@ -2497,7 +2497,7 @@
           "Count": "Int:14632"
         }
       },
-      "DSD:LK-6227": {
+      "DSD:pallama": {
         "Sex:male": {
           "Count": "Int:13415"
         },
@@ -2505,7 +2505,7 @@
           "Count": "Int:14523"
         }
       },
-      "DSD:LK-3121": {
+      "DSD:neluwa": {
         "Sex:male": {
           "Count": "Int:13755"
         },
@@ -2513,7 +2513,7 @@
           "Count": "Int:13991"
         }
       },
-      "DSD:LK-3128": {
+      "DSD:wanduramba": {
         "Sex:male": {
           "Count": "Int:13375"
         },
@@ -2521,7 +2521,7 @@
           "Count": "Int:14327"
         }
       },
-      "DSD:LK-9121": {
+      "DSD:opanayake": {
         "Sex:male": {
           "Count": "Int:13215"
         },
@@ -2529,7 +2529,7 @@
           "Count": "Int:14029"
         }
       },
-      "DSD:LK-8112": {
+      "DSD:kandeketiya": {
         "Sex:male": {
           "Count": "Int:13291"
         },
@@ -2537,7 +2537,7 @@
           "Count": "Int:13622"
         }
       },
-      "DSD:LK-5130": {
+      "DSD:manmunai_south_west": {
         "Sex:male": {
           "Count": "Int:12311"
         },
@@ -2545,7 +2545,7 @@
           "Count": "Int:14365"
         }
       },
-      "DSD:LK-5115": {
+      "DSD:eravur_town": {
         "Sex:male": {
           "Count": "Int:12218"
         },
@@ -2553,7 +2553,7 @@
           "Count": "Int:14250"
         }
       },
-      "DSD:LK-7106": {
+      "DSD:kebithigollewa": {
         "Sex:male": {
           "Count": "Int:13144"
         },
@@ -2561,7 +2561,7 @@
           "Count": "Int:13288"
         }
       },
-      "DSD:LK-6209": {
+      "DSD:karuwalagaswewa": {
         "Sex:male": {
           "Count": "Int:12961"
         },
@@ -2569,7 +2569,7 @@
           "Count": "Int:13264"
         }
       },
-      "DSD:LK-3136": {
+      "DSD:hikkaduwa": {
         "Sex:male": {
           "Count": "Int:12570"
         },
@@ -2577,7 +2577,7 @@
           "Count": "Int:13646"
         }
       },
-      "DSD:LK-4312": {
+      "DSD:vengalacheddikulam": {
         "Sex:male": {
           "Count": "Int:12458"
         },
@@ -2585,7 +2585,7 @@
           "Count": "Int:13312"
         }
       },
-      "DSD:LK-2115": {
+      "DSD:panvila": {
         "Sex:male": {
           "Count": "Int:12295"
         },
@@ -2593,7 +2593,7 @@
           "Count": "Int:13355"
         }
       },
-      "DSD:LK-6112": {
+      "DSD:ambanpola": {
         "Sex:male": {
           "Count": "Int:12306"
         },
@@ -2601,7 +2601,7 @@
           "Count": "Int:13209"
         }
       },
-      "DSD:LK-5103": {
+      "DSD:koralai_pattu_north": {
         "Sex:male": {
           "Count": "Int:12494"
         },
@@ -2609,7 +2609,7 @@
           "Count": "Int:12981"
         }
       },
-      "DSD:LK-4506": {
+      "DSD:kandavalai": {
         "Sex:male": {
           "Count": "Int:12025"
         },
@@ -2617,7 +2617,7 @@
           "Count": "Int:12896"
         }
       },
-      "DSD:LK-6118": {
+      "DSD:rasnayakapura": {
         "Sex:male": {
           "Count": "Int:12084"
         },
@@ -2625,7 +2625,7 @@
           "Count": "Int:12828"
         }
       },
-      "DSD:LK-5239": {
+      "DSD:alayadivembu": {
         "Sex:male": {
           "Count": "Int:11868"
         },
@@ -2633,7 +2633,7 @@
           "Count": "Int:12970"
         }
       },
-      "DSD:LK-5106": {
+      "DSD:koralai_pattu_west": {
         "Sex:male": {
           "Count": "Int:11670"
         },
@@ -2641,7 +2641,7 @@
           "Count": "Int:12913"
         }
       },
-      "DSD:LK-7103": {
+      "DSD:padaviya": {
         "Sex:male": {
           "Count": "Int:11888"
         },
@@ -2649,7 +2649,7 @@
           "Count": "Int:12605"
         }
       },
-      "DSD:LK-8115": {
+      "DSD:soranathota": {
         "Sex:male": {
           "Count": "Int:11780"
         },
@@ -2657,7 +2657,7 @@
           "Count": "Int:12627"
         }
       },
-      "DSD:LK-7112": {
+      "DSD:mahawilachchiya": {
         "Sex:male": {
           "Count": "Int:12016"
         },
@@ -2665,7 +2665,7 @@
           "Count": "Int:12178"
         }
       },
-      "DSD:LK-4512": {
+      "DSD:poonakary": {
         "Sex:male": {
           "Count": "Int:11927"
         },
@@ -2673,7 +2673,7 @@
           "Count": "Int:12186"
         }
       },
-      "DSD:LK-6115": {
+      "DSD:kotawehera": {
         "Sex:male": {
           "Count": "Int:11597"
         },
@@ -2681,7 +2681,7 @@
           "Count": "Int:12434"
         }
       },
-      "DSD:LK-5209": {
+      "DSD:mahaoya": {
         "Sex:male": {
           "Count": "Int:11877"
         },
@@ -2689,7 +2689,7 @@
           "Count": "Int:11838"
         }
       },
-      "DSD:LK-3134": {
+      "DSD:gonapinuwala": {
         "Sex:male": {
           "Count": "Int:11032"
         },
@@ -2697,7 +2697,7 @@
           "Count": "Int:12239"
         }
       },
-      "DSD:LK-2118": {
+      "DSD:ududumbara": {
         "Sex:male": {
           "Count": "Int:11413"
         },
@@ -2705,7 +2705,7 @@
           "Count": "Int:11633"
         }
       },
-      "DSD:LK-8109": {
+      "DSD:meegahakiula": {
         "Sex:male": {
           "Count": "Int:11217"
         },
@@ -2713,7 +2713,7 @@
           "Count": "Int:11466"
         }
       },
-      "DSD:LK-6221": {
+      "DSD:mahakumbukkadawala": {
         "Sex:male": {
           "Count": "Int:10741"
         },
@@ -2721,7 +2721,7 @@
           "Count": "Int:11126"
         }
       },
-      "DSD:LK-5216": {
+      "DSD:navithanveli": {
         "Sex:male": {
           "Count": "Int:10053"
         },
@@ -2729,7 +2729,7 @@
           "Count": "Int:11803"
         }
       },
-      "DSD:LK-5206": {
+      "DSD:padiyathalawa": {
         "Sex:male": {
           "Count": "Int:10246"
         },
@@ -2737,7 +2737,7 @@
           "Count": "Int:10588"
         }
       },
-      "DSD:LK-3233": {
+      "DSD:kirinda_puhulwella": {
         "Sex:male": {
           "Count": "Int:9893"
         },
@@ -2745,7 +2745,7 @@
           "Count": "Int:10734"
         }
       },
-      "DSD:LK-3327": {
+      "DSD:okewela": {
         "Sex:male": {
           "Count": "Int:9428"
         },
@@ -2753,7 +2753,7 @@
           "Count": "Int:10564"
         }
       },
-      "DSD:LK-6206": {
+      "DSD:vanathavilluwa": {
         "Sex:male": {
           "Count": "Int:9758"
         },
@@ -2761,7 +2761,7 @@
           "Count": "Int:10233"
         }
       },
-      "DSD:LK-4212": {
+      "DSD:nanaddan": {
         "Sex:male": {
           "Count": "Int:9674"
         },
@@ -2769,7 +2769,7 @@
           "Count": "Int:10000"
         }
       },
-      "DSD:LK-5227": {
+      "DSD:karaitivu": {
         "Sex:male": {
           "Count": "Int:9211"
         },
@@ -2777,7 +2777,7 @@
           "Count": "Int:10282"
         }
       },
-      "DSD:LK-4206": {
+      "DSD:manthai_west": {
         "Sex:male": {
           "Count": "Int:9130"
         },
@@ -2785,7 +2785,7 @@
           "Count": "Int:9544"
         }
       },
-      "DSD:LK-8227": {
+      "DSD:katharagama": {
         "Sex:male": {
           "Count": "Int:9200"
         },
@@ -2793,7 +2793,7 @@
           "Count": "Int:8958"
         }
       },
-      "DSD:LK-4412": {
+      "DSD:oddusuddan": {
         "Sex:male": {
           "Count": "Int:8987"
         },
@@ -2801,7 +2801,7 @@
           "Count": "Int:9162"
         }
       },
-      "DSD:LK-4215": {
+      "DSD:musali": {
         "Sex:male": {
           "Count": "Int:9108"
         },
@@ -2809,7 +2809,7 @@
           "Count": "Int:9035"
         }
       },
-      "DSD:LK-7157": {
+      "DSD:palugaswewa": {
         "Sex:male": {
           "Count": "Int:9119"
         },
@@ -2817,7 +2817,7 @@
           "Count": "Int:9019"
         }
       },
-      "DSD:LK-5234": {
+      "DSD:irakkamam": {
         "Sex:male": {
           "Count": "Int:8435"
         },
@@ -2825,7 +2825,7 @@
           "Count": "Int:9236"
         }
       },
-      "DSD:LK-6212": {
+      "DSD:nawagattegama": {
         "Sex:male": {
           "Count": "Int:8648"
         },
@@ -2833,7 +2833,7 @@
           "Count": "Int:8923"
         }
       },
-      "DSD:LK-4139": {
+      "DSD:islands_south_velanai": {
         "Sex:male": {
           "Count": "Int:8065"
         },
@@ -2841,7 +2841,7 @@
           "Count": "Int:8535"
         }
       },
-      "DSD:LK-2224": {
+      "DSD:laggala": {
         "Sex:male": {
           "Count": "Int:8320"
         },
@@ -2849,7 +2849,7 @@
           "Count": "Int:7980"
         }
       },
-      "DSD:LK-5330": {
+      "DSD:seruvila": {
         "Sex:male": {
           "Count": "Int:7811"
         },
@@ -2857,7 +2857,7 @@
           "Count": "Int:8196"
         }
       },
-      "DSD:LK-2221": {
+      "DSD:ambanganga": {
         "Sex:male": {
           "Count": "Int:7653"
         },
@@ -2865,7 +2865,7 @@
           "Count": "Int:8223"
         }
       },
-      "DSD:LK-4306": {
+      "DSD:vavuniya_south": {
         "Sex:male": {
           "Count": "Int:7157"
         },
@@ -2873,7 +2873,7 @@
           "Count": "Int:7685"
         }
       },
-      "DSD:LK-4303": {
+      "DSD:vavuniya_north": {
         "Sex:male": {
           "Count": "Int:7311"
         },
@@ -2881,7 +2881,7 @@
           "Count": "Int:7398"
         }
       },
-      "DSD:LK-5333": {
+      "DSD:verugal": {
         "Sex:male": {
           "Count": "Int:6886"
         },
@@ -2889,7 +2889,7 @@
           "Count": "Int:7176"
         }
       },
-      "DSD:LK-4124": {
+      "DSD:vadamaradchchi_east": {
         "Sex:male": {
           "Count": "Int:6472"
         },
@@ -2897,7 +2897,7 @@
           "Count": "Int:7065"
         }
       },
-      "DSD:LK-4503": {
+      "DSD:pachchilaipalli": {
         "Sex:male": {
           "Count": "Int:6330"
         },
@@ -2905,7 +2905,7 @@
           "Count": "Int:6715"
         }
       },
-      "DSD:LK-9119": {
+      "DSD:kalthota": {
         "Sex:male": {
           "Count": "Int:6440"
         },
@@ -2913,7 +2913,7 @@
           "Count": "Int:6578"
         }
       },
-      "DSD:LK-5303": {
+      "DSD:padavi_sri_pura": {
         "Sex:male": {
           "Count": "Int:5918"
         },
@@ -2921,7 +2921,7 @@
           "Count": "Int:6163"
         }
       },
-      "DSD:LK-5251": {
+      "DSD:lahugala": {
         "Sex:male": {
           "Count": "Int:5171"
         },
@@ -2929,7 +2929,7 @@
           "Count": "Int:5245"
         }
       },
-      "DSD:LK-4403": {
+      "DSD:thunukkai": {
         "Sex:male": {
           "Count": "Int:5038"
         },
@@ -2937,7 +2937,7 @@
           "Count": "Int:5372"
         }
       },
-      "DSD:LK-4418": {
+      "DSD:welioya": {
         "Sex:male": {
           "Count": "Int:5029"
         },
@@ -2945,7 +2945,7 @@
           "Count": "Int:5036"
         }
       },
-      "DSD:LK-4103": {
+      "DSD:islands_north_kayts": {
         "Sex:male": {
           "Count": "Int:4804"
         },
@@ -2953,7 +2953,7 @@
           "Count": "Int:5127"
         }
       },
-      "DSD:LK-4209": {
+      "DSD:madhu": {
         "Sex:male": {
           "Count": "Int:4687"
         },
@@ -2961,7 +2961,7 @@
           "Count": "Int:4806"
         }
       },
-      "DSD:LK-5312": {
+      "DSD:morawewa": {
         "Sex:male": {
           "Count": "Int:4618"
         },
@@ -2969,7 +2969,7 @@
           "Count": "Int:4575"
         }
       },
-      "DSD:LK-4104": {
+      "DSD:karainagar": {
         "Sex:male": {
           "Count": "Int:4278"
         },
@@ -2977,7 +2977,7 @@
           "Count": "Int:4853"
         }
       },
-      "DSD:LK-5309": {
+      "DSD:gomarankadawala": {
         "Sex:male": {
           "Count": "Int:4163"
         },
@@ -2985,7 +2985,7 @@
           "Count": "Int:4235"
         }
       },
-      "DSD:LK-4406": {
+      "DSD:manthai_east": {
         "Sex:male": {
           "Count": "Int:3799"
         },
@@ -2993,7 +2993,7 @@
           "Count": "Int:3851"
         }
       },
-      "DSD:LK-4142": {
+      "DSD:delft": {
         "Sex:male": {
           "Count": "Int:1570"
         },
@@ -3001,7 +3001,7 @@
           "Count": "Int:1588"
         }
       },
-      "ED:EC-02": {
+      "ED:gampaha": {
         "Sex:male": {
           "Count": "Int:1175469"
         },
@@ -3009,7 +3009,7 @@
           "Count": "Int:1260673"
         }
       },
-      "ED:EC-01": {
+      "ED:colombo": {
         "Sex:male": {
           "Count": "Int:1154799"
         },
@@ -3017,7 +3017,7 @@
           "Count": "Int:1220616"
         }
       },
-      "ED:EC-15": {
+      "ED:kurunegala": {
         "Sex:male": {
           "Count": "Int:849072"
         },
@@ -3025,7 +3025,7 @@
           "Count": "Int:919084"
         }
       },
-      "ED:EC-04": {
+      "ED:kandy": {
         "Sex:male": {
           "Count": "Int:696713"
         },
@@ -3033,7 +3033,7 @@
           "Count": "Int:765182"
         }
       },
-      "ED:EC-03": {
+      "ED:kalutara": {
         "Sex:male": {
           "Count": "Int:631106"
         },
@@ -3041,7 +3041,7 @@
           "Count": "Int:674678"
         }
       },
-      "ED:EC-21": {
+      "ED:ratnapura": {
         "Sex:male": {
           "Count": "Int:562459"
         },
@@ -3049,7 +3049,7 @@
           "Count": "Int:582964"
         }
       },
-      "ED:EC-07": {
+      "ED:galle": {
         "Sex:male": {
           "Count": "Int:527640"
         },
@@ -3057,7 +3057,7 @@
           "Count": "Int:569732"
         }
       },
-      "ED:EC-17": {
+      "ED:anuradhapura": {
         "Sex:male": {
           "Count": "Int:466571"
         },
@@ -3065,7 +3065,7 @@
           "Count": "Int:493509"
         }
       },
-      "ED:EC-19": {
+      "ED:badulla": {
         "Sex:male": {
           "Count": "Int:422818"
         },
@@ -3073,7 +3073,7 @@
           "Count": "Int:449489"
         }
       },
-      "ED:EC-22": {
+      "ED:kegalle": {
         "Sex:male": {
           "Count": "Int:416078"
         },
@@ -3081,7 +3081,7 @@
           "Count": "Int:454398"
         }
       },
-      "ED:EC-08": {
+      "ED:matara": {
         "Sex:male": {
           "Count": "Int:401980"
         },
@@ -3089,7 +3089,7 @@
           "Count": "Int:435909"
         }
       },
-      "ED:EC-16": {
+      "ED:puttalam": {
         "Sex:male": {
           "Count": "Int:394244"
         },
@@ -3097,7 +3097,7 @@
           "Count": "Int:424572"
         }
       },
-      "ED:EC-13": {
+      "ED:digamadulla": {
         "Sex:male": {
           "Count": "Int:354018"
         },
@@ -3105,7 +3105,7 @@
           "Count": "Int:390533"
         }
       },
-      "ED:EC-10": {
+      "ED:jaffna": {
         "Sex:male": {
           "Count": "Int:347677"
         },
@@ -3113,7 +3113,7 @@
           "Count": "Int:383784"
         }
       },
-      "ED:EC-06": {
+      "ED:nuwara_eliya": {
         "Sex:male": {
           "Count": "Int:346471"
         },
@@ -3121,7 +3121,7 @@
           "Count": "Int:378809"
         }
       },
-      "ED:EC-09": {
+      "ED:hambantota": {
         "Sex:male": {
           "Count": "Int:329210"
         },
@@ -3129,7 +3129,7 @@
           "Count": "Int:342208"
         }
       },
-      "ED:EC-12": {
+      "ED:batticaloa": {
         "Sex:male": {
           "Count": "Int:277263"
         },
@@ -3137,7 +3137,7 @@
           "Count": "Int:315108"
         }
       },
-      "ED:EC-20": {
+      "ED:moneragala": {
         "Sex:male": {
           "Count": "Int:260927"
         },
@@ -3145,7 +3145,7 @@
           "Count": "Int:266658"
         }
       },
-      "ED:EC-05": {
+      "ED:matale": {
         "Sex:male": {
           "Count": "Int:255221"
         },
@@ -3153,7 +3153,7 @@
           "Count": "Int:271649"
         }
       },
-      "ED:EC-18": {
+      "ED:polonnaruwa": {
         "Sex:male": {
           "Count": "Int:219686"
         },
@@ -3161,7 +3161,7 @@
           "Count": "Int:227844"
         }
       },
-      "ED:EC-14": {
+      "ED:trincomalee": {
         "Sex:male": {
           "Count": "Int:217704"
         },
@@ -3169,7 +3169,7 @@
           "Count": "Int:225041"
         }
       },
-      "ED:EC-11": {
+      "ED:vanni": {
         "Sex:male": {
           "Count": "Int:203494"
         },
@@ -3177,7 +3177,7 @@
           "Count": "Int:214997"
         }
       },
-      "PD:EC-06A": {
+      "PD:nuwara_eliya_maskeliya": {
         "Sex:male": {
           "Count": "Int:200765"
         },
@@ -3185,7 +3185,7 @@
           "Count": "Int:221003"
         }
       },
-      "PD:EC-12B": {
+      "PD:batticaloa": {
         "Sex:male": {
           "Count": "Int:133635"
         },
@@ -3193,7 +3193,7 @@
           "Count": "Int:152190"
         }
       },
-      "PD:EC-01L": {
+      "PD:homagama": {
         "Sex:male": {
           "Count": "Int:136794"
         },
@@ -3201,7 +3201,7 @@
           "Count": "Int:143977"
         }
       },
-      "PD:EC-01J": {
+      "PD:kaduwela": {
         "Sex:male": {
           "Count": "Int:135711"
         },
@@ -3209,7 +3209,7 @@
           "Count": "Int:142207"
         }
       },
-      "PD:EC-01N": {
+      "PD:kesbewa": {
         "Sex:male": {
           "Count": "Int:126461"
         },
@@ -3217,7 +3217,7 @@
           "Count": "Int:137080"
         }
       },
-      "PD:EC-16A": {
+      "PD:puttalam": {
         "Sex:male": {
           "Count": "Int:127362"
         },
@@ -3225,7 +3225,7 @@
           "Count": "Int:133882"
         }
       },
-      "PD:EC-13D": {
+      "PD:pothuvil": {
         "Sex:male": {
           "Count": "Int:118194"
         },
@@ -3233,7 +3233,7 @@
           "Count": "Int:132139"
         }
       },
-      "PD:EC-09D": {
+      "PD:thissamaharama": {
         "Sex:male": {
           "Count": "Int:124052"
         },
@@ -3241,7 +3241,7 @@
           "Count": "Int:125761"
         }
       },
-      "PD:EC-13A": {
+      "PD:ampara": {
         "Sex:male": {
           "Count": "Int:118987"
         },
@@ -3249,7 +3249,7 @@
           "Count": "Int:124162"
         }
       },
-      "PD:EC-02C": {
+      "PD:katana": {
         "Sex:male": {
           "Count": "Int:116933"
         },
@@ -3257,7 +3257,7 @@
           "Count": "Int:124286"
         }
       },
-      "PD:EC-20C": {
+      "PD:wellawaya": {
         "Sex:male": {
           "Count": "Int:115364"
         },
@@ -3265,7 +3265,7 @@
           "Count": "Int:117294"
         }
       },
-      "PD:EC-04B": {
+      "PD:harispattuwa": {
         "Sex:male": {
           "Count": "Int:106755"
         },
@@ -3273,7 +3273,7 @@
           "Count": "Int:118592"
         }
       },
-      "PD:EC-02J": {
+      "PD:mahara": {
         "Sex:male": {
           "Count": "Int:107736"
         },
@@ -3281,7 +3281,7 @@
           "Count": "Int:115324"
         }
       },
-      "PD:EC-18C": {
+      "PD:polonnaruwa": {
         "Sex:male": {
           "Count": "Int:106435"
         },
@@ -3289,7 +3289,7 @@
           "Count": "Int:109724"
         }
       },
-      "PD:EC-01H": {
+      "PD:kolonnawa": {
         "Sex:male": {
           "Count": "Int:104663"
         },
@@ -3297,7 +3297,7 @@
           "Count": "Int:109407"
         }
       },
-      "PD:EC-21H": {
+      "PD:kolonna": {
         "Sex:male": {
           "Count": "Int:103418"
         },
@@ -3305,7 +3305,7 @@
           "Count": "Int:106658"
         }
       },
-      "PD:EC-02L": {
+      "PD:biyagama": {
         "Sex:male": {
           "Count": "Int:102168"
         },
@@ -3313,7 +3313,7 @@
           "Count": "Int:104987"
         }
       },
-      "PD:EC-02H": {
+      "PD:gampaha": {
         "Sex:male": {
           "Count": "Int:97910"
         },
@@ -3321,7 +3321,7 @@
           "Count": "Int:107700"
         }
       },
-      "PD:EC-03B": {
+      "PD:bandaragama": {
         "Sex:male": {
           "Count": "Int:99426"
         },
@@ -3329,7 +3329,7 @@
           "Count": "Int:105931"
         }
       },
-      "PD:EC-02I": {
+      "PD:ja_ela": {
         "Sex:male": {
           "Count": "Int:98114"
         },
@@ -3337,7 +3337,7 @@
           "Count": "Int:106692"
         }
       },
-      "PD:EC-02F": {
+      "PD:minuwangoda": {
         "Sex:male": {
           "Count": "Int:95427"
         },
@@ -3345,7 +3345,7 @@
           "Count": "Int:103347"
         }
       },
-      "PD:EC-02G": {
+      "PD:attanagalla": {
         "Sex:male": {
           "Count": "Int:94666"
         },
@@ -3353,7 +3353,7 @@
           "Count": "Int:103059"
         }
       },
-      "PD:EC-01M": {
+      "PD:maharagama": {
         "Sex:male": {
           "Count": "Int:93230"
         },
@@ -3361,7 +3361,7 @@
           "Count": "Int:103270"
         }
       },
-      "PD:EC-01K": {
+      "PD:avissawella": {
         "Sex:male": {
           "Count": "Int:94944"
         },
@@ -3369,7 +3369,7 @@
           "Count": "Int:100198"
         }
       },
-      "PD:EC-03C": {
+      "PD:horana": {
         "Sex:male": {
           "Count": "Int:92568"
         },
@@ -3377,7 +3377,7 @@
           "Count": "Int:99478"
         }
       },
-      "PD:EC-05A": {
+      "PD:dambulla": {
         "Sex:male": {
           "Count": "Int:93898"
         },
@@ -3385,7 +3385,7 @@
           "Count": "Int:97609"
         }
       },
-      "PD:EC-14C": {
+      "PD:muttur": {
         "Sex:male": {
           "Count": "Int:92162"
         },
@@ -3393,7 +3393,7 @@
           "Count": "Int:93068"
         }
       },
-      "PD:EC-02A": {
+      "PD:wattala": {
         "Sex:male": {
           "Count": "Int:88408"
         },
@@ -3401,7 +3401,7 @@
           "Count": "Int:94097"
         }
       },
-      "PD:EC-03G": {
+      "PD:beruwala": {
         "Sex:male": {
           "Count": "Int:88567"
         },
@@ -3409,7 +3409,7 @@
           "Count": "Int:92253"
         }
       },
-      "PD:EC-12A": {
+      "PD:kalkudah": {
         "Sex:male": {
           "Count": "Int:84933"
         },
@@ -3417,7 +3417,7 @@
           "Count": "Int:93390"
         }
       },
-      "PD:EC-02E": {
+      "PD:mirigama": {
         "Sex:male": {
           "Count": "Int:84701"
         },
@@ -3425,7 +3425,7 @@
           "Count": "Int:92046"
         }
       },
-      "PD:EC-17E": {
+      "PD:kalawewa": {
         "Sex:male": {
           "Count": "Int:84262"
         },
@@ -3433,7 +3433,7 @@
           "Count": "Int:89960"
         }
       },
-      "PD:EC-09C": {
+      "PD:tangalle": {
         "Sex:male": {
           "Count": "Int:85292"
         },
@@ -3441,7 +3441,7 @@
           "Count": "Int:87948"
         }
       },
-      "PD:EC-11B": {
+      "PD:vavuniya": {
         "Sex:male": {
           "Count": "Int:82831"
         },
@@ -3449,7 +3449,7 @@
           "Count": "Int:89481"
         }
       },
-      "PD:EC-02K": {
+      "PD:dompe": {
         "Sex:male": {
           "Count": "Int:82380"
         },
@@ -3457,7 +3457,7 @@
           "Count": "Int:87497"
         }
       },
-      "PD:EC-21B": {
+      "PD:ratnapura": {
         "Sex:male": {
           "Count": "Int:83839"
         },
@@ -3465,7 +3465,7 @@
           "Count": "Int:85940"
         }
       },
-      "PD:EC-03F": {
+      "PD:kalutara": {
         "Sex:male": {
           "Count": "Int:79889"
         },
@@ -3473,7 +3473,7 @@
           "Count": "Int:86735"
         }
       },
-      "PD:EC-20B": {
+      "PD:monaragala": {
         "Sex:male": {
           "Count": "Int:82476"
         },
@@ -3481,7 +3481,7 @@
           "Count": "Int:84125"
         }
       },
-      "PD:EC-01B": {
+      "PD:colombo_central": {
         "Sex:male": {
           "Count": "Int:82734"
         },
@@ -3489,7 +3489,7 @@
           "Count": "Int:82008"
         }
       },
-      "PD:EC-03A": {
+      "PD:panadura": {
         "Sex:male": {
           "Count": "Int:77690"
         },
@@ -3497,7 +3497,7 @@
           "Count": "Int:84727"
         }
       },
-      "PD:EC-16B": {
+      "PD:anamaduwa": {
         "Sex:male": {
           "Count": "Int:78062"
         },
@@ -3505,7 +3505,7 @@
           "Count": "Int:82154"
         }
       },
-      "PD:EC-01O": {
+      "PD:moratuwa": {
         "Sex:male": {
           "Count": "Int:77580"
         },
@@ -3513,7 +3513,7 @@
           "Count": "Int:82619"
         }
       },
-      "PD:EC-15C": {
+      "PD:yapahuwa": {
         "Sex:male": {
           "Count": "Int:76527"
         },
@@ -3521,7 +3521,7 @@
           "Count": "Int:80995"
         }
       },
-      "PD:EC-17C": {
+      "PD:anuradhapura_east": {
         "Sex:male": {
           "Count": "Int:76169"
         },
@@ -3529,7 +3529,7 @@
           "Count": "Int:81090"
         }
       },
-      "PD:EC-02D": {
+      "PD:divulapitiya": {
         "Sex:male": {
           "Count": "Int:75924"
         },
@@ -3537,7 +3537,7 @@
           "Count": "Int:81033"
         }
       },
-      "PD:EC-17D": {
+      "PD:anuradhapura_west": {
         "Sex:male": {
           "Count": "Int:76852"
         },
@@ -3545,7 +3545,7 @@
           "Count": "Int:79187"
         }
       },
-      "PD:EC-16C": {
+      "PD:chilaw": {
         "Sex:male": {
           "Count": "Int:74507"
         },
@@ -3553,7 +3553,7 @@
           "Count": "Int:80875"
         }
       },
-      "PD:EC-03E": {
+      "PD:mathugama": {
         "Sex:male": {
           "Count": "Int:74194"
         },
@@ -3561,7 +3561,7 @@
           "Count": "Int:78960"
         }
       },
-      "PD:EC-21D": {
+      "PD:balangoda": {
         "Sex:male": {
           "Count": "Int:73241"
         },
@@ -3569,7 +3569,7 @@
           "Count": "Int:79225"
         }
       },
-      "PD:EC-19A": {
+      "PD:mahiyanganaya": {
         "Sex:male": {
           "Count": "Int:74204"
         },
@@ -3577,7 +3577,7 @@
           "Count": "Int:75760"
         }
       },
-      "PD:EC-04L": {
+      "PD:gampola": {
         "Sex:male": {
           "Count": "Int:69236"
         },
@@ -3585,7 +3585,7 @@
           "Count": "Int:76194"
         }
       },
-      "PD:EC-14B": {
+      "PD:trincomalee": {
         "Sex:male": {
           "Count": "Int:70007"
         },
@@ -3593,7 +3593,7 @@
           "Count": "Int:74452"
         }
       },
-      "PD:EC-04F": {
+      "PD:kundasale": {
         "Sex:male": {
           "Count": "Int:68276"
         },
@@ -3601,7 +3601,7 @@
           "Count": "Int:76107"
         }
       },
-      "PD:EC-07I": {
+      "PD:akmeemana": {
         "Sex:male": {
           "Count": "Int:68635"
         },
@@ -3609,7 +3609,7 @@
           "Count": "Int:75391"
         }
       },
-      "PD:EC-15I": {
+      "PD:kuliyapitiya": {
         "Sex:male": {
           "Count": "Int:68250"
         },
@@ -3617,7 +3617,7 @@
           "Count": "Int:75560"
         }
       },
-      "PD:EC-15A": {
+      "PD:galgamuwa": {
         "Sex:male": {
           "Count": "Int:70116"
         },
@@ -3625,7 +3625,7 @@
           "Count": "Int:73415"
         }
       },
-      "PD:EC-09A": {
+      "PD:mulkirigala": {
         "Sex:male": {
           "Count": "Int:69802"
         },
@@ -3633,7 +3633,7 @@
           "Count": "Int:73526"
         }
       },
-      "PD:EC-21E": {
+      "PD:rakwana": {
         "Sex:male": {
           "Count": "Int:68153"
         },
@@ -3641,7 +3641,7 @@
           "Count": "Int:71800"
         }
       },
-      "PD:EC-02B": {
+      "PD:negombo": {
         "Sex:male": {
           "Count": "Int:66137"
         },
@@ -3649,7 +3649,7 @@
           "Count": "Int:71815"
         }
       },
-      "PD:EC-15D": {
+      "PD:hiriyala": {
         "Sex:male": {
           "Count": "Int:66268"
         },
@@ -3657,7 +3657,7 @@
           "Count": "Int:71330"
         }
       },
-      "PD:EC-13B": {
+      "PD:samanthurai": {
         "Sex:male": {
           "Count": "Int:63499"
         },
@@ -3665,7 +3665,7 @@
           "Count": "Int:73343"
         }
       },
-      "PD:EC-10K": {
+      "PD:kilinochchi": {
         "Sex:male": {
           "Count": "Int:66124"
         },
@@ -3673,7 +3673,7 @@
           "Count": "Int:70586"
         }
       },
-      "PD:EC-15H": {
+      "PD:katugampola": {
         "Sex:male": {
           "Count": "Int:64982"
         },
@@ -3681,7 +3681,7 @@
           "Count": "Int:70863"
         }
       },
-      "PD:EC-04M": {
+      "PD:nawalapitiya": {
         "Sex:male": {
           "Count": "Int:64674"
         },
@@ -3689,7 +3689,7 @@
           "Count": "Int:70559"
         }
       },
-      "PD:EC-02M": {
+      "PD:kelaniya": {
         "Sex:male": {
           "Count": "Int:64965"
         },
@@ -3697,7 +3697,7 @@
           "Count": "Int:68790"
         }
       },
-      "PD:EC-15B": {
+      "PD:nikaweratiya": {
         "Sex:male": {
           "Count": "Int:64367"
         },
@@ -3705,7 +3705,7 @@
           "Count": "Int:68647"
         }
       },
-      "PD:EC-08G": {
+      "PD:weligama": {
         "Sex:male": {
           "Count": "Int:63962"
         },
@@ -3713,7 +3713,7 @@
           "Count": "Int:68134"
         }
       },
-      "PD:EC-21A": {
+      "PD:eheliyagoda": {
         "Sex:male": {
           "Count": "Int:64907"
         },
@@ -3721,7 +3721,7 @@
           "Count": "Int:67116"
         }
       },
-      "PD:EC-01A": {
+      "PD:colombo_north": {
         "Sex:male": {
           "Count": "Int:64097"
         },
@@ -3729,7 +3729,7 @@
           "Count": "Int:66899"
         }
       },
-      "PD:EC-15L": {
+      "PD:kurunegala": {
         "Sex:male": {
           "Count": "Int:62280"
         },
@@ -3737,7 +3737,7 @@
           "Count": "Int:68592"
         }
       },
-      "PD:EC-03H": {
+      "PD:agalawatta": {
         "Sex:male": {
           "Count": "Int:63156"
         },
@@ -3745,7 +3745,7 @@
           "Count": "Int:67551"
         }
       },
-      "PD:EC-15M": {
+      "PD:mawathagama": {
         "Sex:male": {
           "Count": "Int:62078"
         },
@@ -3753,7 +3753,7 @@
           "Count": "Int:68280"
         }
       },
-      "PD:EC-17A": {
+      "PD:medawachchiya": {
         "Sex:male": {
           "Count": "Int:62957"
         },
@@ -3761,7 +3761,7 @@
           "Count": "Int:66529"
         }
       },
-      "PD:EC-20A": {
+      "PD:bibile": {
         "Sex:male": {
           "Count": "Int:63087"
         },
@@ -3769,7 +3769,7 @@
           "Count": "Int:65239"
         }
       },
-      "PD:EC-12C": {
+      "PD:paddiruppu": {
         "Sex:male": {
           "Count": "Int:58695"
         },
@@ -3777,7 +3777,7 @@
           "Count": "Int:69528"
         }
       },
-      "PD:EC-07F": {
+      "PD:baddegama": {
         "Sex:male": {
           "Count": "Int:61839"
         },
@@ -3785,7 +3785,7 @@
           "Count": "Int:66057"
         }
       },
-      "PD:EC-16E": {
+      "PD:wennappuwa": {
         "Sex:male": {
           "Count": "Int:60488"
         },
@@ -3793,7 +3793,7 @@
           "Count": "Int:67153"
         }
       },
-      "PD:EC-08A": {
+      "PD:deniyaya": {
         "Sex:male": {
           "Count": "Int:62123"
         },
@@ -3801,7 +3801,7 @@
           "Count": "Int:65401"
         }
       },
-      "PD:EC-07E": {
+      "PD:hiniduma": {
         "Sex:male": {
           "Count": "Int:61572"
         },
@@ -3809,7 +3809,7 @@
           "Count": "Int:65167"
         }
       },
-      "PD:EC-22E": {
+      "PD:mawanella": {
         "Sex:male": {
           "Count": "Int:59753"
         },
@@ -3817,7 +3817,7 @@
           "Count": "Int:66273"
         }
       },
-      "PD:EC-15J": {
+      "PD:dambadeniya": {
         "Sex:male": {
           "Count": "Int:60114"
         },
@@ -3825,7 +3825,7 @@
           "Count": "Int:65381"
         }
       },
-      "PD:EC-08F": {
+      "PD:matara": {
         "Sex:male": {
           "Count": "Int:58394"
         },
@@ -3833,7 +3833,7 @@
           "Count": "Int:65474"
         }
       },
-      "PD:EC-11A": {
+      "PD:mannar": {
         "Sex:male": {
           "Count": "Int:61047"
         },
@@ -3841,7 +3841,7 @@
           "Count": "Int:62709"
         }
       },
-      "PD:EC-05D": {
+      "PD:rattota": {
         "Sex:male": {
           "Count": "Int:58529"
         },
@@ -3849,7 +3849,7 @@
           "Count": "Int:64791"
         }
       },
-      "PD:EC-17B": {
+      "PD:horowpothana": {
         "Sex:male": {
           "Count": "Int:59729"
         },
@@ -3857,7 +3857,7 @@
           "Count": "Int:63078"
         }
       },
-      "PD:EC-08C": {
+      "PD:akuressa": {
         "Sex:male": {
           "Count": "Int:58426"
         },
@@ -3865,7 +3865,7 @@
           "Count": "Int:64151"
         }
       },
-      "PD:EC-11C": {
+      "PD:mullaitivu": {
         "Sex:male": {
           "Count": "Int:59616"
         },
@@ -3873,7 +3873,7 @@
           "Count": "Int:62807"
         }
       },
-      "PD:EC-17G": {
+      "PD:kekirawa": {
         "Sex:male": {
           "Count": "Int:59175"
         },
@@ -3881,7 +3881,7 @@
           "Count": "Int:62309"
         }
       },
-      "PD:EC-15G": {
+      "PD:bingiriya": {
         "Sex:male": {
           "Count": "Int:57839"
         },
@@ -3889,7 +3889,7 @@
           "Count": "Int:63351"
         }
       },
-      "PD:EC-04K": {
+      "PD:udunuwara": {
         "Sex:male": {
           "Count": "Int:58322"
         },
@@ -3897,7 +3897,7 @@
           "Count": "Int:62696"
         }
       },
-      "PD:EC-08B": {
+      "PD:hakmana": {
         "Sex:male": {
           "Count": "Int:58592"
         },
@@ -3905,7 +3905,7 @@
           "Count": "Int:62361"
         }
       },
-      "PD:EC-21F": {
+      "PD:nivithigala": {
         "Sex:male": {
           "Count": "Int:59386"
         },
@@ -3913,7 +3913,7 @@
           "Count": "Int:60644"
         }
       },
-      "PD:EC-18A": {
+      "PD:minneriya": {
         "Sex:male": {
           "Count": "Int:58610"
         },
@@ -3921,7 +3921,7 @@
           "Count": "Int:60606"
         }
       },
-      "PD:EC-21C": {
+      "PD:pelmadulla": {
         "Sex:male": {
           "Count": "Int:58797"
         },
@@ -3929,7 +3929,7 @@
           "Count": "Int:60053"
         }
       },
-      "PD:EC-22A": {
+      "PD:dedigama": {
         "Sex:male": {
           "Count": "Int:56128"
         },
@@ -3937,7 +3937,7 @@
           "Count": "Int:61839"
         }
       },
-      "PD:EC-04C": {
+      "PD:pathadumbara": {
         "Sex:male": {
           "Count": "Int:55607"
         },
@@ -3945,7 +3945,7 @@
           "Count": "Int:61639"
         }
       },
-      "PD:EC-07D": {
+      "PD:bentara_elpitiya": {
         "Sex:male": {
           "Count": "Int:56069"
         },
@@ -3953,7 +3953,7 @@
           "Count": "Int:60252"
         }
       },
-      "PD:EC-05C": {
+      "PD:matale": {
         "Sex:male": {
           "Count": "Int:54932"
         },
@@ -3961,7 +3961,7 @@
           "Count": "Int:60502"
         }
       },
-      "PD:EC-19H": {
+      "PD:bandarawela": {
         "Sex:male": {
           "Count": "Int:56138"
         },
@@ -3969,7 +3969,7 @@
           "Count": "Int:58789"
         }
       },
-      "PD:EC-03D": {
+      "PD:bulathsinhala": {
         "Sex:male": {
           "Count": "Int:55616"
         },
@@ -3977,7 +3977,7 @@
           "Count": "Int:59043"
         }
       },
-      "PD:EC-16D": {
+      "PD:nattandiya": {
         "Sex:male": {
           "Count": "Int:53825"
         },
@@ -3985,7 +3985,7 @@
           "Count": "Int:60508"
         }
       },
-      "PD:EC-13C": {
+      "PD:kalmunai": {
         "Sex:male": {
           "Count": "Int:53338"
         },
@@ -3993,7 +3993,7 @@
           "Count": "Int:60889"
         }
       },
-      "PD:EC-14A": {
+      "PD:seruvila": {
         "Sex:male": {
           "Count": "Int:55535"
         },
@@ -4001,7 +4001,7 @@
           "Count": "Int:57521"
         }
       },
-      "PD:EC-04J": {
+      "PD:yatinuwara": {
         "Sex:male": {
           "Count": "Int:53808"
         },
@@ -4009,7 +4009,7 @@
           "Count": "Int:58834"
         }
       },
-      "PD:EC-18B": {
+      "PD:medirigiriya": {
         "Sex:male": {
           "Count": "Int:54641"
         },
@@ -4017,7 +4017,7 @@
           "Count": "Int:57514"
         }
       },
-      "PD:EC-07J": {
+      "PD:habaraduwa": {
         "Sex:male": {
           "Count": "Int:53817"
         },
@@ -4025,7 +4025,7 @@
           "Count": "Int:57689"
         }
       },
-      "PD:EC-04H": {
+      "PD:senkadagala": {
         "Sex:male": {
           "Count": "Int:50503"
         },
@@ -4033,7 +4033,7 @@
           "Count": "Int:58553"
         }
       },
-      "PD:EC-07H": {
+      "PD:galle": {
         "Sex:male": {
           "Count": "Int:52217"
         },
@@ -4041,7 +4041,7 @@
           "Count": "Int:56104"
         }
       },
-      "PD:EC-06D": {
+      "PD:walapane": {
         "Sex:male": {
           "Count": "Int:52096"
         },
@@ -4049,7 +4049,7 @@
           "Count": "Int:55613"
         }
       },
-      "PD:EC-15E": {
+      "PD:wariyapola": {
         "Sex:male": {
           "Count": "Int:50898"
         },
@@ -4057,7 +4057,7 @@
           "Count": "Int:55032"
         }
       },
-      "PD:EC-08E": {
+      "PD:devinuwara": {
         "Sex:male": {
           "Count": "Int:50577"
         },
@@ -4065,7 +4065,7 @@
           "Count": "Int:55165"
         }
       },
-      "PD:EC-19G": {
+      "PD:welimada": {
         "Sex:male": {
           "Count": "Int:51300"
         },
@@ -4073,7 +4073,7 @@
           "Count": "Int:54210"
         }
       },
-      "PD:EC-08D": {
+      "PD:kamburupitiya": {
         "Sex:male": {
           "Count": "Int:49906"
         },
@@ -4081,7 +4081,7 @@
           "Count": "Int:55223"
         }
       },
-      "PD:EC-09B": {
+      "PD:beliatta": {
         "Sex:male": {
           "Count": "Int:50064"
         },
@@ -4089,7 +4089,7 @@
           "Count": "Int:54973"
         }
       },
-      "PD:EC-15K": {
+      "PD:polgahawela": {
         "Sex:male": {
           "Count": "Int:49563"
         },
@@ -4097,7 +4097,7 @@
           "Count": "Int:54492"
         }
       },
-      "PD:EC-06B": {
+      "PD:kothmale": {
         "Sex:male": {
           "Count": "Int:49583"
         },
@@ -4105,7 +4105,7 @@
           "Count": "Int:54114"
         }
       },
-      "PD:EC-22H": {
+      "PD:ruwanwella": {
         "Sex:male": {
           "Count": "Int:49760"
         },
@@ -4113,7 +4113,7 @@
           "Count": "Int:53400"
         }
       },
-      "PD:EC-15F": {
+      "PD:panduwasnuwara": {
         "Sex:male": {
           "Count": "Int:49605"
         },
@@ -4121,7 +4121,7 @@
           "Count": "Int:53371"
         }
       },
-      "PD:EC-21G": {
+      "PD:kalawana": {
         "Sex:male": {
           "Count": "Int:50718"
         },
@@ -4129,7 +4129,7 @@
           "Count": "Int:51528"
         }
       },
-      "PD:EC-07G": {
+      "PD:ratgama": {
         "Sex:male": {
           "Count": "Int:48633"
         },
@@ -4137,7 +4137,7 @@
           "Count": "Int:52447"
         }
       },
-      "PD:EC-07B": {
+      "PD:ambalangoda": {
         "Sex:male": {
           "Count": "Int:47806"
         },
@@ -4145,7 +4145,7 @@
           "Count": "Int:52309"
         }
       },
-      "PD:EC-17F": {
+      "PD:mihinthale": {
         "Sex:male": {
           "Count": "Int:47427"
         },
@@ -4153,7 +4153,7 @@
           "Count": "Int:51356"
         }
       },
-      "PD:EC-22G": {
+      "PD:yatiyanthota": {
         "Sex:male": {
           "Count": "Int:47075"
         },
@@ -4161,7 +4161,7 @@
           "Count": "Int:49982"
         }
       },
-      "PD:EC-05B": {
+      "PD:laggala": {
         "Sex:male": {
           "Count": "Int:47862"
         },
@@ -4169,7 +4169,7 @@
           "Count": "Int:48747"
         }
       },
-      "PD:EC-01I": {
+      "PD:kotte": {
         "Sex:male": {
           "Count": "Int:45927"
         },
@@ -4177,7 +4177,7 @@
           "Count": "Int:50262"
         }
       },
-      "PD:EC-15N": {
+      "PD:dodangaslanda": {
         "Sex:male": {
           "Count": "Int:46185"
         },
@@ -4185,7 +4185,7 @@
           "Count": "Int:49775"
         }
       },
-      "PD:EC-22C": {
+      "PD:kegalle": {
         "Sex:male": {
           "Count": "Int:44608"
         },
@@ -4193,7 +4193,7 @@
           "Count": "Int:49706"
         }
       },
-      "PD:EC-19E": {
+      "PD:hali_ela": {
         "Sex:male": {
           "Count": "Int:44945"
         },
@@ -4201,7 +4201,7 @@
           "Count": "Int:49281"
         }
       },
-      "PD:EC-01F": {
+      "PD:dehiwala": {
         "Sex:male": {
           "Count": "Int:45175"
         },
@@ -4209,7 +4209,7 @@
           "Count": "Int:48640"
         }
       },
-      "PD:EC-07C": {
+      "PD:karandeniya": {
         "Sex:male": {
           "Count": "Int:44600"
         },
@@ -4217,7 +4217,7 @@
           "Count": "Int:48618"
         }
       },
-      "PD:EC-04G": {
+      "PD:hewaheta": {
         "Sex:male": {
           "Count": "Int:43967"
         },
@@ -4225,7 +4225,7 @@
           "Count": "Int:48576"
         }
       },
-      "PD:EC-06C": {
+      "PD:hanguranketha": {
         "Sex:male": {
           "Count": "Int:44027"
         },
@@ -4233,7 +4233,7 @@
           "Count": "Int:48079"
         }
       },
-      "PD:EC-22I": {
+      "PD:deraniyagala": {
         "Sex:male": {
           "Count": "Int:44815"
         },
@@ -4241,7 +4241,7 @@
           "Count": "Int:46794"
         }
       },
-      "PD:EC-01G": {
+      "PD:ratmalana": {
         "Sex:male": {
           "Count": "Int:42938"
         },
@@ -4249,7 +4249,7 @@
           "Count": "Int:45125"
         }
       },
-      "PD:EC-19I": {
+      "PD:haputale": {
         "Sex:male": {
           "Count": "Int:42478"
         },
@@ -4257,7 +4257,7 @@
           "Count": "Int:44580"
         }
       },
-      "PD:EC-22D": {
+      "PD:rambukkana": {
         "Sex:male": {
           "Count": "Int:41309"
         },
@@ -4265,7 +4265,7 @@
           "Count": "Int:45746"
         }
       },
-      "PD:EC-01D": {
+      "PD:colombo_east": {
         "Sex:male": {
           "Count": "Int:40297"
         },
@@ -4273,7 +4273,7 @@
           "Count": "Int:44380"
         }
       },
-      "PD:EC-22B": {
+      "PD:galigamuwa": {
         "Sex:male": {
           "Count": "Int:40021"
         },
@@ -4281,7 +4281,7 @@
           "Count": "Int:44192"
         }
       },
-      "PD:EC-19D": {
+      "PD:badulla": {
         "Sex:male": {
           "Count": "Int:38537"
         },
@@ -4289,7 +4289,7 @@
           "Count": "Int:44496"
         }
       },
-      "PD:EC-19F": {
+      "PD:uva_paranagama": {
         "Sex:male": {
           "Count": "Int:39841"
         },
@@ -4297,7 +4297,7 @@
           "Count": "Int:42228"
         }
       },
-      "PD:EC-19C": {
+      "PD:passara": {
         "Sex:male": {
           "Count": "Int:39087"
         },
@@ -4305,7 +4305,7 @@
           "Count": "Int:42430"
         }
       },
-      "PD:EC-10E": {
+      "PD:kopay": {
         "Sex:male": {
           "Count": "Int:38373"
         },
@@ -4313,7 +4313,7 @@
           "Count": "Int:42323"
         }
       },
-      "PD:EC-10D": {
+      "PD:manipay": {
         "Sex:male": {
           "Count": "Int:37216"
         },
@@ -4321,7 +4321,7 @@
           "Count": "Int:41721"
         }
       },
-      "PD:EC-04D": {
+      "PD:ududumbara": {
         "Sex:male": {
           "Count": "Int:38479"
         },
@@ -4329,7 +4329,7 @@
           "Count": "Int:39909"
         }
       },
-      "PD:EC-19B": {
+      "PD:viyaluwa": {
         "Sex:male": {
           "Count": "Int:36288"
         },
@@ -4337,7 +4337,7 @@
           "Count": "Int:37715"
         }
       },
-      "PD:EC-10I": {
+      "PD:nallur": {
         "Sex:male": {
           "Count": "Int:33568"
         },
@@ -4345,7 +4345,7 @@
           "Count": "Int:39316"
         }
       },
-      "PD:EC-01C": {
+      "PD:borella": {
         "Sex:male": {
           "Count": "Int:36976"
         },
@@ -4353,7 +4353,7 @@
           "Count": "Int:35113"
         }
       },
-      "PD:EC-04A": {
+      "PD:galagedara": {
         "Sex:male": {
           "Count": "Int:33667"
         },
@@ -4361,7 +4361,7 @@
           "Count": "Int:36250"
         }
       },
-      "PD:EC-22F": {
+      "PD:aranayaka": {
         "Sex:male": {
           "Count": "Int:32609"
         },
@@ -4369,7 +4369,7 @@
           "Count": "Int:36466"
         }
       },
-      "PD:EC-07A": {
+      "PD:balapitiya": {
         "Sex:male": {
           "Count": "Int:32452"
         },
@@ -4377,7 +4377,7 @@
           "Count": "Int:35698"
         }
       },
-      "PD:EC-10H": {
+      "PD:chavakachcheri": {
         "Sex:male": {
           "Count": "Int:32108"
         },
@@ -4385,7 +4385,7 @@
           "Count": "Int:35674"
         }
       },
-      "PD:EC-04E": {
+      "PD:teldeniya": {
         "Sex:male": {
           "Count": "Int:31415"
         },
@@ -4393,7 +4393,7 @@
           "Count": "Int:33124"
         }
       },
-      "PD:EC-10B": {
+      "PD:vaddukoddai": {
         "Sex:male": {
           "Count": "Int:30228"
         },
@@ -4401,7 +4401,7 @@
           "Count": "Int:33268"
         }
       },
-      "PD:EC-01E": {
+      "PD:colombo_west": {
         "Sex:male": {
           "Count": "Int:27272"
         },
@@ -4409,7 +4409,7 @@
           "Count": "Int:29431"
         }
       },
-      "PD:EC-10C": {
+      "PD:kankesanthurai": {
         "Sex:male": {
           "Count": "Int:26188"
         },
@@ -4417,7 +4417,7 @@
           "Count": "Int:28528"
         }
       },
-      "PD:EC-10G": {
+      "PD:point_pedro": {
         "Sex:male": {
           "Count": "Int:23279"
         },
@@ -4425,7 +4425,7 @@
           "Count": "Int:26120"
         }
       },
-      "PD:EC-10F": {
+      "PD:udupiddy": {
         "Sex:male": {
           "Count": "Int:22741"
         },
@@ -4433,7 +4433,7 @@
           "Count": "Int:25868"
         }
       },
-      "PD:EC-10J": {
+      "PD:jaffna": {
         "Sex:male": {
           "Count": "Int:23413"
         },
@@ -4441,7 +4441,7 @@
           "Count": "Int:25130"
         }
       },
-      "PD:EC-04I": {
+      "PD:mahanuwara": {
         "Sex:male": {
           "Count": "Int:22004"
         },
@@ -4449,7 +4449,7 @@
           "Count": "Int:24149"
         }
       },
-      "PD:EC-10A": {
+      "PD:kayts": {
         "Sex:male": {
           "Count": "Int:14439"
         },

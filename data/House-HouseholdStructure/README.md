@@ -1,7 +1,7 @@
 # House-HouseholdStructure
 
 ![CPH](https://img.shields.io/badge/CPH-2024-blue)
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--07--26-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--07--27-green)
 
 *House-HouseholdStructure, 2024 Census of Population and Housing, Department of Census and Statistics, Sri Lanka*
 
@@ -11,7 +11,7 @@
 {
     "House": {
         "Time:2024": {
-            "Country:LK": {
+            "Country:sri_lanka": {
                 "HouseholdStructure:single_house_single_storeyed": {
                     "Count": "Int:4958009"
                 },
@@ -41,7 +41,7 @@
 ...
 ```
 
-- Source File: [lanka_data.json (561.7 KB)](../../data/House-HouseholdStructure/lanka_data.json)
+- Source File: [lanka_data.json (563.7 KB)](../../data/House-HouseholdStructure/lanka_data.json)
 
 ## Structured Data (similar to original layout)
 

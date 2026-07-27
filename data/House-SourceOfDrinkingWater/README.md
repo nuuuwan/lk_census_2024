@@ -1,7 +1,7 @@
 # House-SourceOfDrinkingWater
 
 ![CPH](https://img.shields.io/badge/CPH-2024-blue)
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--07--26-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--07--27-green)
 
 *House-SourceOfDrinkingWater, 2024 Census of Population and Housing, Department of Census and Statistics, Sri Lanka*
 
@@ -11,7 +11,7 @@
 {
     "House": {
         "Time:2024": {
-            "Country:LK": {
+            "Country:sri_lanka": {
                 "SourceOfDrinkingWater:protected_well": {
                     "Count": "Int:1624506"
                 },
@@ -41,7 +41,7 @@
 ...
 ```
 
-- Source File: [lanka_data.json (749.4 KB)](../../data/House-SourceOfDrinkingWater/lanka_data.json)
+- Source File: [lanka_data.json (751.4 KB)](../../data/House-SourceOfDrinkingWater/lanka_data.json)
 
 ## Structured Data (similar to original layout)
 

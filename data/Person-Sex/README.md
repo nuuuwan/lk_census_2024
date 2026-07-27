@@ -1,7 +1,7 @@
 # Person-Sex
 
 ![CPH](https://img.shields.io/badge/CPH-2024-blue)
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--07--26-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--07--27-green)
 
 *Person-Sex, 2024 Census of Population and Housing, Department of Census and Statistics, Sri Lanka*
 
@@ -11,7 +11,7 @@
 {
     "Person": {
         "Time:2024": {
-            "Country:LK": {
+            "Country:sri_lanka": {
                 "Sex:male": {
                     "Count": "Int:10512344"
                 },
@@ -19,7 +19,7 @@
                     "Count": "Int:11269456"
                 }
             },
-            "Province:LK-1": {
+            "Province:western": {
                 "Sex:male": {
                     "Count": "Int:2961374"
                 },
@@ -27,7 +27,7 @@
                     "Count": "Int:3155967"
                 }
             },
-            "Province:LK-2": {
+            "Province:central": {
                 "Sex:male": {
                     "Count": "Int:1298405"
                 },
@@ -35,13 +35,13 @@
                     "Count": "Int:1415640"
                 }
             },
-            "Province:LK-3": {
+            "Province:southern": {
                 "Sex:male": {
                     "Count": "Int:1258830"
 ...
 ```
 
-- Source File: [Person-Sex/lanka_data.json (87.5 KB)](../../data/Person-Sex/lanka_data.json)
+- Source File: [Person-Sex/lanka_data.json (89.5 KB)](../../data/Person-Sex/lanka_data.json)
 
 ## Structured Data (similar to original layout)
 

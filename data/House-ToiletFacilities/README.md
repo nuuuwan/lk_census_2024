@@ -1,7 +1,7 @@
 # House-ToiletFacilities
 
 ![CPH](https://img.shields.io/badge/CPH-2024-blue)
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--07--26-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--07--27-green)
 
 *House-ToiletFacilities, 2024 Census of Population and Housing, Department of Census and Statistics, Sri Lanka*
 
@@ -11,7 +11,7 @@
 {
     "House": {
         "Time:2024": {
-            "Country:LK": {
+            "Country:sri_lanka": {
                 "ToiletFacilities:within_unit_exclusive": {
                     "Count": "Int:3798777"
                 },
@@ -34,14 +34,14 @@
                     "Count": "Int:13326"
                 }
             },
-            "Province:LK-1": {
+            "Province:western": {
                 "ToiletFacilities:within_unit_exclusive": {
                     "Count": "Int:1402581"
                 },
 ...
 ```
 
-- Source File: [lanka_data.json (353.0 KB)](../../data/House-ToiletFacilities/lanka_data.json)
+- Source File: [lanka_data.json (355.0 KB)](../../data/House-ToiletFacilities/lanka_data.json)
 
 ## Structured Data (similar to original layout)
 
