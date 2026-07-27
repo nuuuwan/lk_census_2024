@@ -1,7 +1,7 @@
 {
   "Person": {
     "Time:2024": {
-      "District:LK-11": {
+      "District:colombo": {
         "IsEconomicallyActive:employed": {
           "Count": "Int:867111"
         },
@@ -9,7 +9,7 @@
           "Count": "Int:53635"
         }
       },
-      "District:LK-12": {
+      "District:gampaha": {
         "IsEconomicallyActive:employed": {
           "Count": "Int:889380"
         },
@@ -17,7 +17,7 @@
           "Count": "Int:52943"
         }
       },
-      "District:LK-13": {
+      "District:kalutara": {
         "IsEconomicallyActive:employed": {
           "Count": "Int:462465"
         },
@@ -25,7 +25,7 @@
           "Count": "Int:26157"
         }
       },
-      "District:LK-21": {
+      "District:kandy": {
         "IsEconomicallyActive:employed": {
           "Count": "Int:477418"
         },
@@ -33,7 +33,7 @@
           "Count": "Int:35467"
         }
       },
-      "District:LK-22": {
+      "District:matale": {
         "IsEconomicallyActive:employed": {
           "Count": "Int:186449"
         },
@@ -41,7 +41,7 @@
           "Count": "Int:10062"
         }
       },
-      "District:LK-23": {
+      "District:nuwara_eliya": {
         "IsEconomicallyActive:employed": {
           "Count": "Int:251699"
         },
@@ -49,7 +49,7 @@
           "Count": "Int:25234"
         }
       },
-      "District:LK-31": {
+      "District:galle": {
         "IsEconomicallyActive:employed": {
           "Count": "Int:389323"
         },
@@ -57,7 +57,7 @@
           "Count": "Int:23061"
         }
       },
-      "District:LK-32": {
+      "District:matara": {
         "IsEconomicallyActive:employed": {
           "Count": "Int:300965"
         },
@@ -65,7 +65,7 @@
           "Count": "Int:18307"
         }
       },
-      "District:LK-33": {
+      "District:hambantota": {
         "IsEconomicallyActive:employed": {
           "Count": "Int:221480"
         },
@@ -73,7 +73,7 @@
           "Count": "Int:16993"
         }
       },
-      "District:LK-41": {
+      "District:jaffna": {
         "IsEconomicallyActive:employed": {
           "Count": "Int:183239"
         },
@@ -81,7 +81,7 @@
           "Count": "Int:13246"
         }
       },
-      "District:LK-42": {
+      "District:mannar": {
         "IsEconomicallyActive:employed": {
           "Count": "Int:39588"
         },
@@ -89,7 +89,7 @@
           "Count": "Int:3192"
         }
       },
-      "District:LK-43": {
+      "District:vavuniya": {
         "IsEconomicallyActive:employed": {
           "Count": "Int:56825"
         },
@@ -97,7 +97,7 @@
           "Count": "Int:4556"
         }
       },
-      "District:LK-44": {
+      "District:mullaitivu": {
         "IsEconomicallyActive:employed": {
           "Count": "Int:41835"
         },
@@ -105,7 +105,7 @@
           "Count": "Int:3888"
         }
       },
-      "District:LK-45": {
+      "District:kilinochchi": {
         "IsEconomicallyActive:employed": {
           "Count": "Int:46445"
         },
@@ -113,7 +113,7 @@
           "Count": "Int:4092"
         }
       },
-      "District:LK-51": {
+      "District:batticaloa": {
         "IsEconomicallyActive:employed": {
           "Count": "Int:172013"
         },
@@ -121,7 +121,7 @@
           "Count": "Int:19222"
         }
       },
-      "District:LK-52": {
+      "District:ampara": {
         "IsEconomicallyActive:employed": {
           "Count": "Int:225377"
         },
@@ -129,7 +129,7 @@
           "Count": "Int:21493"
         }
       },
-      "District:LK-53": {
+      "District:trincomalee": {
         "IsEconomicallyActive:employed": {
           "Count": "Int:124470"
         },
@@ -137,7 +137,7 @@
           "Count": "Int:13147"
         }
       },
-      "District:LK-61": {
+      "District:kurunegala": {
         "IsEconomicallyActive:employed": {
           "Count": "Int:666793"
         },
@@ -145,7 +145,7 @@
           "Count": "Int:32660"
         }
       },
-      "District:LK-62": {
+      "District:puttalam": {
         "IsEconomicallyActive:employed": {
           "Count": "Int:273661"
         },
@@ -153,7 +153,7 @@
           "Count": "Int:21421"
         }
       },
-      "District:LK-71": {
+      "District:anuradhapura": {
         "IsEconomicallyActive:employed": {
           "Count": "Int:359363"
         },
@@ -161,7 +161,7 @@
           "Count": "Int:16258"
         }
       },
-      "District:LK-72": {
+      "District:polonnaruwa": {
         "IsEconomicallyActive:employed": {
           "Count": "Int:156426"
         },
@@ -169,7 +169,7 @@
           "Count": "Int:9360"
         }
       },
-      "District:LK-81": {
+      "District:badulla": {
         "IsEconomicallyActive:employed": {
           "Count": "Int:322489"
         },
@@ -177,7 +177,7 @@
           "Count": "Int:18461"
         }
       },
-      "District:LK-82": {
+      "District:monaragala": {
         "IsEconomicallyActive:employed": {
           "Count": "Int:203553"
         },
@@ -185,7 +185,7 @@
           "Count": "Int:8299"
         }
       },
-      "District:LK-91": {
+      "District:ratnapura": {
         "IsEconomicallyActive:employed": {
           "Count": "Int:432107"
         },
@@ -193,7 +193,7 @@
           "Count": "Int:22828"
         }
       },
-      "District:LK-92": {
+      "District:kegalle": {
         "IsEconomicallyActive:employed": {
           "Count": "Int:320758"
         },

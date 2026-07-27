@@ -1,7 +1,7 @@
 {
   "Person": {
     "Time:2024": {
-      "District:LK-11": {
+      "District:colombo": {
         "NonCommunicableDisease:diabetes": {
           "Count": "Int:254111"
         },
@@ -33,7 +33,7 @@
           "Count": "Int:4750"
         }
       },
-      "District:LK-12": {
+      "District:gampaha": {
         "NonCommunicableDisease:diabetes": {
           "Count": "Int:255771"
         },
@@ -65,7 +65,7 @@
           "Count": "Int:4872"
         }
       },
-      "District:LK-13": {
+      "District:kalutara": {
         "NonCommunicableDisease:diabetes": {
           "Count": "Int:120125"
         },
@@ -97,7 +97,7 @@
           "Count": "Int:3917"
         }
       },
-      "District:LK-21": {
+      "District:kandy": {
         "NonCommunicableDisease:diabetes": {
           "Count": "Int:128634"
         },
@@ -129,7 +129,7 @@
           "Count": "Int:4385"
         }
       },
-      "District:LK-22": {
+      "District:matale": {
         "NonCommunicableDisease:diabetes": {
           "Count": "Int:41094"
         },
@@ -161,7 +161,7 @@
           "Count": "Int:1581"
         }
       },
-      "District:LK-23": {
+      "District:nuwara_eliya": {
         "NonCommunicableDisease:diabetes": {
           "Count": "Int:39164"
         },
@@ -193,7 +193,7 @@
           "Count": "Int:3626"
         }
       },
-      "District:LK-31": {
+      "District:galle": {
         "NonCommunicableDisease:diabetes": {
           "Count": "Int:87778"
         },
@@ -225,7 +225,7 @@
           "Count": "Int:3292"
         }
       },
-      "District:LK-32": {
+      "District:matara": {
         "NonCommunicableDisease:diabetes": {
           "Count": "Int:70372"
         },
@@ -257,7 +257,7 @@
           "Count": "Int:3351"
         }
       },
-      "District:LK-33": {
+      "District:hambantota": {
         "NonCommunicableDisease:diabetes": {
           "Count": "Int:53711"
         },
@@ -289,7 +289,7 @@
           "Count": "Int:2014"
         }
       },
-      "District:LK-41": {
+      "District:jaffna": {
         "NonCommunicableDisease:diabetes": {
           "Count": "Int:61849"
         },
@@ -321,7 +321,7 @@
           "Count": "Int:2973"
         }
       },
-      "District:LK-42": {
+      "District:mannar": {
         "NonCommunicableDisease:diabetes": {
           "Count": "Int:9529"
         },
@@ -353,7 +353,7 @@
           "Count": "Int:495"
         }
       },
-      "District:LK-43": {
+      "District:vavuniya": {
         "NonCommunicableDisease:diabetes": {
           "Count": "Int:12921"
         },
@@ -385,7 +385,7 @@
           "Count": "Int:861"
         }
       },
-      "District:LK-44": {
+      "District:mullaitivu": {
         "NonCommunicableDisease:diabetes": {
           "Count": "Int:8461"
         },
@@ -417,7 +417,7 @@
           "Count": "Int:858"
         }
       },
-      "District:LK-45": {
+      "District:kilinochchi": {
         "NonCommunicableDisease:diabetes": {
           "Count": "Int:8886"
         },
@@ -449,7 +449,7 @@
           "Count": "Int:820"
         }
       },
-      "District:LK-51": {
+      "District:batticaloa": {
         "NonCommunicableDisease:diabetes": {
           "Count": "Int:42308"
         },
@@ -481,7 +481,7 @@
           "Count": "Int:2384"
         }
       },
-      "District:LK-52": {
+      "District:ampara": {
         "NonCommunicableDisease:diabetes": {
           "Count": "Int:61796"
         },
@@ -513,7 +513,7 @@
           "Count": "Int:2234"
         }
       },
-      "District:LK-53": {
+      "District:trincomalee": {
         "NonCommunicableDisease:diabetes": {
           "Count": "Int:29662"
         },
@@ -545,7 +545,7 @@
           "Count": "Int:1328"
         }
       },
-      "District:LK-61": {
+      "District:kurunegala": {
         "NonCommunicableDisease:diabetes": {
           "Count": "Int:139674"
         },
@@ -577,7 +577,7 @@
           "Count": "Int:3536"
         }
       },
-      "District:LK-62": {
+      "District:puttalam": {
         "NonCommunicableDisease:diabetes": {
           "Count": "Int:67134"
         },
@@ -609,7 +609,7 @@
           "Count": "Int:1637"
         }
       },
-      "District:LK-71": {
+      "District:anuradhapura": {
         "NonCommunicableDisease:diabetes": {
           "Count": "Int:69113"
         },
@@ -641,7 +641,7 @@
           "Count": "Int:1920"
         }
       },
-      "District:LK-72": {
+      "District:polonnaruwa": {
         "NonCommunicableDisease:diabetes": {
           "Count": "Int:34905"
         },
@@ -673,7 +673,7 @@
           "Count": "Int:895"
         }
       },
-      "District:LK-81": {
+      "District:badulla": {
         "NonCommunicableDisease:diabetes": {
           "Count": "Int:60184"
         },
@@ -705,7 +705,7 @@
           "Count": "Int:3489"
         }
       },
-      "District:LK-82": {
+      "District:monaragala": {
         "NonCommunicableDisease:diabetes": {
           "Count": "Int:34817"
         },
@@ -737,7 +737,7 @@
           "Count": "Int:1583"
         }
       },
-      "District:LK-91": {
+      "District:ratnapura": {
         "NonCommunicableDisease:diabetes": {
           "Count": "Int:85894"
         },
@@ -769,7 +769,7 @@
           "Count": "Int:4581"
         }
       },
-      "District:LK-92": {
+      "District:kegalle": {
         "NonCommunicableDisease:diabetes": {
           "Count": "Int:74856"
         },

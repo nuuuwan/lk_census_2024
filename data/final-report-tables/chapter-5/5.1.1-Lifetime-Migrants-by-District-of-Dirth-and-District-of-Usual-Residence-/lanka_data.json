@@ -1,7 +1,7 @@
 {
   "Person": {
     "Time:2024": {
-      "District:LK-11": {
+      "District:colombo": {
         "MigrationStatus:local": {
           "Count": "Int:1876288"
         },
@@ -12,7 +12,7 @@
           "Count": "Int:491236"
         }
       },
-      "District:LK-12": {
+      "District:gampaha": {
         "MigrationStatus:local": {
           "Count": "Int:1941334"
         },
@@ -23,7 +23,7 @@
           "Count": "Int:490861"
         }
       },
-      "District:LK-13": {
+      "District:kalutara": {
         "MigrationStatus:local": {
           "Count": "Int:1123880"
         },
@@ -34,7 +34,7 @@
           "Count": "Int:180877"
         }
       },
-      "District:LK-21": {
+      "District:kandy": {
         "MigrationStatus:local": {
           "Count": "Int:1302243"
         },
@@ -45,7 +45,7 @@
           "Count": "Int:157921"
         }
       },
-      "District:LK-22": {
+      "District:matale": {
         "MigrationStatus:local": {
           "Count": "Int:448233"
         },
@@ -56,7 +56,7 @@
           "Count": "Int:78262"
         }
       },
-      "District:LK-23": {
+      "District:nuwara_eliya": {
         "MigrationStatus:local": {
           "Count": "Int:672433"
         },
@@ -67,7 +67,7 @@
           "Count": "Int:52570"
         }
       },
-      "District:LK-31": {
+      "District:galle": {
         "MigrationStatus:local": {
           "Count": "Int:1008225"
         },
@@ -78,7 +78,7 @@
           "Count": "Int:88038"
         }
       },
-      "District:LK-32": {
+      "District:matara": {
         "MigrationStatus:local": {
           "Count": "Int:754961"
         },
@@ -89,7 +89,7 @@
           "Count": "Int:82457"
         }
       },
-      "District:LK-33": {
+      "District:hambantota": {
         "MigrationStatus:local": {
           "Count": "Int:606207"
         },
@@ -100,7 +100,7 @@
           "Count": "Int:64982"
         }
       },
-      "District:LK-41": {
+      "District:jaffna": {
         "MigrationStatus:local": {
           "Count": "Int:567486"
         },
@@ -111,7 +111,7 @@
           "Count": "Int:26104"
         }
       },
-      "District:LK-42": {
+      "District:mannar": {
         "MigrationStatus:local": {
           "Count": "Int:107846"
         },
@@ -122,7 +122,7 @@
           "Count": "Int:15367"
         }
       },
-      "District:LK-43": {
+      "District:vavuniya": {
         "MigrationStatus:local": {
           "Count": "Int:121244"
         },
@@ -133,7 +133,7 @@
           "Count": "Int:50012"
         }
       },
-      "District:LK-44": {
+      "District:mullaitivu": {
         "MigrationStatus:local": {
           "Count": "Int:93185"
         },
@@ -144,7 +144,7 @@
           "Count": "Int:29279"
         }
       },
-      "District:LK-45": {
+      "District:kilinochchi": {
         "MigrationStatus:local": {
           "Count": "Int:103674"
         },
@@ -155,7 +155,7 @@
           "Count": "Int:32723"
         }
       },
-      "District:LK-51": {
+      "District:batticaloa": {
         "MigrationStatus:local": {
           "Count": "Int:576636"
         },
@@ -166,7 +166,7 @@
           "Count": "Int:19036"
         }
       },
-      "District:LK-52": {
+      "District:ampara": {
         "MigrationStatus:local": {
           "Count": "Int:672037"
         },
@@ -177,7 +177,7 @@
           "Count": "Int:72267"
         }
       },
-      "District:LK-53": {
+      "District:trincomalee": {
         "MigrationStatus:local": {
           "Count": "Int:408509"
         },
@@ -188,7 +188,7 @@
           "Count": "Int:33634"
         }
       },
-      "District:LK-61": {
+      "District:kurunegala": {
         "MigrationStatus:local": {
           "Count": "Int:1574556"
         },
@@ -199,7 +199,7 @@
           "Count": "Int:192409"
         }
       },
-      "District:LK-62": {
+      "District:puttalam": {
         "MigrationStatus:local": {
           "Count": "Int:717800"
         },
@@ -210,7 +210,7 @@
           "Count": "Int:99666"
         }
       },
-      "District:LK-71": {
+      "District:anuradhapura": {
         "MigrationStatus:local": {
           "Count": "Int:814641"
         },
@@ -221,7 +221,7 @@
           "Count": "Int:144866"
         }
       },
-      "District:LK-72": {
+      "District:polonnaruwa": {
         "MigrationStatus:local": {
           "Count": "Int:353730"
         },
@@ -232,7 +232,7 @@
           "Count": "Int:93574"
         }
       },
-      "District:LK-81": {
+      "District:badulla": {
         "MigrationStatus:local": {
           "Count": "Int:801537"
         },
@@ -243,7 +243,7 @@
           "Count": "Int:70437"
         }
       },
-      "District:LK-82": {
+      "District:monaragala": {
         "MigrationStatus:local": {
           "Count": "Int:446067"
         },
@@ -254,7 +254,7 @@
           "Count": "Int:81392"
         }
       },
-      "District:LK-91": {
+      "District:ratnapura": {
         "MigrationStatus:local": {
           "Count": "Int:1055938"
         },
@@ -265,7 +265,7 @@
           "Count": "Int:89081"
         }
       },
-      "District:LK-92": {
+      "District:kegalle": {
         "MigrationStatus:local": {
           "Count": "Int:774260"
         },

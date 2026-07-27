@@ -1,7 +1,7 @@
 {
   "Person": {
     "Time:2024": {
-      "District:LK-11": {
+      "District:colombo": {
         "TimeDurationGroup:0To4Years": {
           "Count": "Int:149236"
         },
@@ -12,7 +12,7 @@
           "Count": "Int:305038"
         }
       },
-      "District:LK-12": {
+      "District:gampaha": {
         "TimeDurationGroup:0To4Years": {
           "Count": "Int:139859"
         },
@@ -23,7 +23,7 @@
           "Count": "Int:313338"
         }
       },
-      "District:LK-13": {
+      "District:kalutara": {
         "TimeDurationGroup:0To4Years": {
           "Count": "Int:47096"
         },
@@ -34,7 +34,7 @@
           "Count": "Int:116743"
         }
       },
-      "District:LK-21": {
+      "District:kandy": {
         "TimeDurationGroup:0To4Years": {
           "Count": "Int:44174"
         },
@@ -45,7 +45,7 @@
           "Count": "Int:106067"
         }
       },
-      "District:LK-22": {
+      "District:matale": {
         "TimeDurationGroup:0To4Years": {
           "Count": "Int:17519"
         },
@@ -56,7 +56,7 @@
           "Count": "Int:54976"
         }
       },
-      "District:LK-23": {
+      "District:nuwara_eliya": {
         "TimeDurationGroup:0To4Years": {
           "Count": "Int:13415"
         },
@@ -67,7 +67,7 @@
           "Count": "Int:40266"
         }
       },
-      "District:LK-31": {
+      "District:galle": {
         "TimeDurationGroup:0To4Years": {
           "Count": "Int:24208"
         },
@@ -78,7 +78,7 @@
           "Count": "Int:58454"
         }
       },
-      "District:LK-32": {
+      "District:matara": {
         "TimeDurationGroup:0To4Years": {
           "Count": "Int:24796"
         },
@@ -89,7 +89,7 @@
           "Count": "Int:58573"
         }
       },
-      "District:LK-33": {
+      "District:hambantota": {
         "TimeDurationGroup:0To4Years": {
           "Count": "Int:15048"
         },
@@ -100,7 +100,7 @@
           "Count": "Int:44796"
         }
       },
-      "District:LK-41": {
+      "District:jaffna": {
         "TimeDurationGroup:0To4Years": {
           "Count": "Int:10935"
         },
@@ -111,7 +111,7 @@
           "Count": "Int:14630"
         }
       },
-      "District:LK-42": {
+      "District:mannar": {
         "TimeDurationGroup:0To4Years": {
           "Count": "Int:3292"
         },
@@ -122,7 +122,7 @@
           "Count": "Int:17060"
         }
       },
-      "District:LK-43": {
+      "District:vavuniya": {
         "TimeDurationGroup:0To4Years": {
           "Count": "Int:9395"
         },
@@ -133,7 +133,7 @@
           "Count": "Int:29552"
         }
       },
-      "District:LK-44": {
+      "District:mullaitivu": {
         "TimeDurationGroup:0To4Years": {
           "Count": "Int:5132"
         },
@@ -144,7 +144,7 @@
           "Count": "Int:19749"
         }
       },
-      "District:LK-45": {
+      "District:kilinochchi": {
         "TimeDurationGroup:0To4Years": {
           "Count": "Int:6423"
         },
@@ -155,7 +155,7 @@
           "Count": "Int:41168"
         }
       },
-      "District:LK-51": {
+      "District:batticaloa": {
         "TimeDurationGroup:0To4Years": {
           "Count": "Int:9791"
         },
@@ -166,7 +166,7 @@
           "Count": "Int:8236"
         }
       },
-      "District:LK-52": {
+      "District:ampara": {
         "TimeDurationGroup:0To4Years": {
           "Count": "Int:15547"
         },
@@ -177,7 +177,7 @@
           "Count": "Int:54115"
         }
       },
-      "District:LK-53": {
+      "District:trincomalee": {
         "TimeDurationGroup:0To4Years": {
           "Count": "Int:8426"
         },
@@ -188,7 +188,7 @@
           "Count": "Int:22224"
         }
       },
-      "District:LK-61": {
+      "District:kurunegala": {
         "TimeDurationGroup:0To4Years": {
           "Count": "Int:53587"
         },
@@ -199,7 +199,7 @@
           "Count": "Int:125269"
         }
       },
-      "District:LK-62": {
+      "District:puttalam": {
         "TimeDurationGroup:0To4Years": {
           "Count": "Int:24566"
         },
@@ -210,7 +210,7 @@
           "Count": "Int:68381"
         }
       },
-      "District:LK-71": {
+      "District:anuradhapura": {
         "TimeDurationGroup:0To4Years": {
           "Count": "Int:32249"
         },
@@ -221,7 +221,7 @@
           "Count": "Int:104547"
         }
       },
-      "District:LK-72": {
+      "District:polonnaruwa": {
         "TimeDurationGroup:0To4Years": {
           "Count": "Int:12868"
         },
@@ -232,7 +232,7 @@
           "Count": "Int:75393"
         }
       },
-      "District:LK-81": {
+      "District:badulla": {
         "TimeDurationGroup:0To4Years": {
           "Count": "Int:20503"
         },
@@ -243,7 +243,7 @@
           "Count": "Int:44860"
         }
       },
-      "District:LK-82": {
+      "District:monaragala": {
         "TimeDurationGroup:0To4Years": {
           "Count": "Int:15604"
         },
@@ -254,7 +254,7 @@
           "Count": "Int:59771"
         }
       },
-      "District:LK-91": {
+      "District:ratnapura": {
         "TimeDurationGroup:0To4Years": {
           "Count": "Int:23481"
         },
@@ -265,7 +265,7 @@
           "Count": "Int:60260"
         }
       },
-      "District:LK-92": {
+      "District:kegalle": {
         "TimeDurationGroup:0To4Years": {
           "Count": "Int:22537"
         },

@@ -1,7 +1,7 @@
 {
   "House": {
     "Time:2024": {
-      "District:LK-11": {
+      "District:colombo": {
         "OwnershipStatus:owned_by_a_household_member": {
           "Percent": "Percent:0.76"
         },
@@ -21,7 +21,7 @@
           "Percent": "Percent:0.005"
         }
       },
-      "District:LK-12": {
+      "District:gampaha": {
         "OwnershipStatus:owned_by_a_household_member": {
           "Percent": "Percent:0.816"
         },
@@ -41,7 +41,7 @@
           "Percent": "Percent:0.007"
         }
       },
-      "District:LK-13": {
+      "District:kalutara": {
         "OwnershipStatus:owned_by_a_household_member": {
           "Percent": "Percent:0.868"
         },
@@ -61,7 +61,7 @@
           "Percent": "Percent:0.008"
         }
       },
-      "District:LK-21": {
+      "District:kandy": {
         "OwnershipStatus:owned_by_a_household_member": {
           "Percent": "Percent:0.846"
         },
@@ -81,7 +81,7 @@
           "Percent": "Percent:0.014"
         }
       },
-      "District:LK-22": {
+      "District:matale": {
         "OwnershipStatus:owned_by_a_household_member": {
           "Percent": "Percent:0.867"
         },
@@ -101,7 +101,7 @@
           "Percent": "Percent:0.012"
         }
       },
-      "District:LK-23": {
+      "District:nuwara_eliya": {
         "OwnershipStatus:owned_by_a_household_member": {
           "Percent": "Percent:0.522"
         },
@@ -121,7 +121,7 @@
           "Percent": "Percent:0.008"
         }
       },
-      "District:LK-31": {
+      "District:galle": {
         "OwnershipStatus:owned_by_a_household_member": {
           "Percent": "Percent:0.895"
         },
@@ -141,7 +141,7 @@
           "Percent": "Percent:0.013"
         }
       },
-      "District:LK-32": {
+      "District:matara": {
         "OwnershipStatus:owned_by_a_household_member": {
           "Percent": "Percent:0.888"
         },
@@ -161,7 +161,7 @@
           "Percent": "Percent:0.016"
         }
       },
-      "District:LK-33": {
+      "District:hambantota": {
         "OwnershipStatus:owned_by_a_household_member": {
           "Percent": "Percent:0.933"
         },
@@ -181,7 +181,7 @@
           "Percent": "Percent:0.009"
         }
       },
-      "District:LK-41": {
+      "District:jaffna": {
         "OwnershipStatus:owned_by_a_household_member": {
           "Percent": "Percent:0.744"
         },
@@ -201,7 +201,7 @@
           "Percent": "Percent:0.007"
         }
       },
-      "District:LK-42": {
+      "District:mannar": {
         "OwnershipStatus:owned_by_a_household_member": {
           "Percent": "Percent:0.87"
         },
@@ -221,7 +221,7 @@
           "Percent": "Percent:0.005"
         }
       },
-      "District:LK-43": {
+      "District:vavuniya": {
         "OwnershipStatus:owned_by_a_household_member": {
           "Percent": "Percent:0.835"
         },
@@ -241,7 +241,7 @@
           "Percent": "Percent:0.004"
         }
       },
-      "District:LK-44": {
+      "District:mullaitivu": {
         "OwnershipStatus:owned_by_a_household_member": {
           "Percent": "Percent:0.894"
         },
@@ -261,7 +261,7 @@
           "Percent": "Percent:0.003"
         }
       },
-      "District:LK-45": {
+      "District:kilinochchi": {
         "OwnershipStatus:owned_by_a_household_member": {
           "Percent": "Percent:0.89"
         },
@@ -281,7 +281,7 @@
           "Percent": "Percent:0.005"
         }
       },
-      "District:LK-51": {
+      "District:batticaloa": {
         "OwnershipStatus:owned_by_a_household_member": {
           "Percent": "Percent:0.877"
         },
@@ -301,7 +301,7 @@
           "Percent": "Percent:0.006"
         }
       },
-      "District:LK-52": {
+      "District:ampara": {
         "OwnershipStatus:owned_by_a_household_member": {
           "Percent": "Percent:0.909"
         },
@@ -321,7 +321,7 @@
           "Percent": "Percent:0.003"
         }
       },
-      "District:LK-53": {
+      "District:trincomalee": {
         "OwnershipStatus:owned_by_a_household_member": {
           "Percent": "Percent:0.887"
         },
@@ -341,7 +341,7 @@
           "Percent": "Percent:0.005"
         }
       },
-      "District:LK-61": {
+      "District:kurunegala": {
         "OwnershipStatus:owned_by_a_household_member": {
           "Percent": "Percent:0.912"
         },
@@ -361,7 +361,7 @@
           "Percent": "Percent:0.013"
         }
       },
-      "District:LK-62": {
+      "District:puttalam": {
         "OwnershipStatus:owned_by_a_household_member": {
           "Percent": "Percent:0.872"
         },
@@ -381,7 +381,7 @@
           "Percent": "Percent:0.009"
         }
       },
-      "District:LK-71": {
+      "District:anuradhapura": {
         "OwnershipStatus:owned_by_a_household_member": {
           "Percent": "Percent:0.915"
         },
@@ -401,7 +401,7 @@
           "Percent": "Percent:0.007"
         }
       },
-      "District:LK-72": {
+      "District:polonnaruwa": {
         "OwnershipStatus:owned_by_a_household_member": {
           "Percent": "Percent:0.933"
         },
@@ -421,7 +421,7 @@
           "Percent": "Percent:0.007"
         }
       },
-      "District:LK-81": {
+      "District:badulla": {
         "OwnershipStatus:owned_by_a_household_member": {
           "Percent": "Percent:0.805"
         },
@@ -441,7 +441,7 @@
           "Percent": "Percent:0.014"
         }
       },
-      "District:LK-82": {
+      "District:monaragala": {
         "OwnershipStatus:owned_by_a_household_member": {
           "Percent": "Percent:0.915"
         },
@@ -461,7 +461,7 @@
           "Percent": "Percent:0.009"
         }
       },
-      "District:LK-91": {
+      "District:ratnapura": {
         "OwnershipStatus:owned_by_a_household_member": {
           "Percent": "Percent:0.855"
         },
@@ -481,7 +481,7 @@
           "Percent": "Percent:0.012"
         }
       },
-      "District:LK-92": {
+      "District:kegalle": {
         "OwnershipStatus:owned_by_a_household_member": {
           "Percent": "Percent:0.869"
         },

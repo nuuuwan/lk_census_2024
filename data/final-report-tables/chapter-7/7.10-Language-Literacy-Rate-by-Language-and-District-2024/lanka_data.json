@@ -1,7 +1,7 @@
 {
   "Person": {
     "Time:2024": {
-      "District:LK-11": {
+      "District:colombo": {
         "LanguageLiteracy:at_least_one_language": {
           "CountLiterate": "Int:2109420"
         },
@@ -15,7 +15,7 @@
           "CountLiterate": "Int:1587413"
         }
       },
-      "District:LK-12": {
+      "District:gampaha": {
         "LanguageLiteracy:at_least_one_language": {
           "CountLiterate": "Int:2145366"
         },
@@ -29,7 +29,7 @@
           "CountLiterate": "Int:1457721"
         }
       },
-      "District:LK-13": {
+      "District:kalutara": {
         "LanguageLiteracy:at_least_one_language": {
           "CountLiterate": "Int:1134376"
         },
@@ -43,7 +43,7 @@
           "CountLiterate": "Int:719782"
         }
       },
-      "District:LK-21": {
+      "District:kandy": {
         "LanguageLiteracy:at_least_one_language": {
           "CountLiterate": "Int:1243128"
         },
@@ -57,7 +57,7 @@
           "CountLiterate": "Int:826202"
         }
       },
-      "District:LK-22": {
+      "District:matale": {
         "LanguageLiteracy:at_least_one_language": {
           "CountLiterate": "Int:441434"
         },
@@ -71,7 +71,7 @@
           "CountLiterate": "Int:250161"
         }
       },
-      "District:LK-23": {
+      "District:nuwara_eliya": {
         "LanguageLiteracy:at_least_one_language": {
           "CountLiterate": "Int:583916"
         },
@@ -85,7 +85,7 @@
           "CountLiterate": "Int:293830"
         }
       },
-      "District:LK-31": {
+      "District:galle": {
         "LanguageLiteracy:at_least_one_language": {
           "CountLiterate": "Int:941772"
         },
@@ -99,7 +99,7 @@
           "CountLiterate": "Int:571996"
         }
       },
-      "District:LK-32": {
+      "District:matara": {
         "LanguageLiteracy:at_least_one_language": {
           "CountLiterate": "Int:711046"
         },
@@ -113,7 +113,7 @@
           "CountLiterate": "Int:404952"
         }
       },
-      "District:LK-33": {
+      "District:hambantota": {
         "LanguageLiteracy:at_least_one_language": {
           "CountLiterate": "Int:561698"
         },
@@ -127,7 +127,7 @@
           "CountLiterate": "Int:300497"
         }
       },
-      "District:LK-41": {
+      "District:jaffna": {
         "LanguageLiteracy:at_least_one_language": {
           "CountLiterate": "Int:512116"
         },
@@ -141,7 +141,7 @@
           "CountLiterate": "Int:213599"
         }
       },
-      "District:LK-42": {
+      "District:mannar": {
         "LanguageLiteracy:at_least_one_language": {
           "CountLiterate": "Int:102841"
         },
@@ -155,7 +155,7 @@
           "CountLiterate": "Int:34698"
         }
       },
-      "District:LK-43": {
+      "District:vavuniya": {
         "LanguageLiteracy:at_least_one_language": {
           "CountLiterate": "Int:144117"
         },
@@ -169,7 +169,7 @@
           "CountLiterate": "Int:64282"
         }
       },
-      "District:LK-44": {
+      "District:mullaitivu": {
         "LanguageLiteracy:at_least_one_language": {
           "CountLiterate": "Int:102831"
         },
@@ -183,7 +183,7 @@
           "CountLiterate": "Int:33502"
         }
       },
-      "District:LK-45": {
+      "District:kilinochchi": {
         "LanguageLiteracy:at_least_one_language": {
           "CountLiterate": "Int:114947"
         },
@@ -197,7 +197,7 @@
           "CountLiterate": "Int:39730"
         }
       },
-      "District:LK-51": {
+      "District:batticaloa": {
         "LanguageLiteracy:at_least_one_language": {
           "CountLiterate": "Int:463603"
         },
@@ -211,7 +211,7 @@
           "CountLiterate": "Int:208046"
         }
       },
-      "District:LK-52": {
+      "District:ampara": {
         "LanguageLiteracy:at_least_one_language": {
           "CountLiterate": "Int:593642"
         },
@@ -225,7 +225,7 @@
           "CountLiterate": "Int:315450"
         }
       },
-      "District:LK-53": {
+      "District:trincomalee": {
         "LanguageLiteracy:at_least_one_language": {
           "CountLiterate": "Int:351036"
         },
@@ -239,7 +239,7 @@
           "CountLiterate": "Int:155485"
         }
       },
-      "District:LK-61": {
+      "District:kurunegala": {
         "LanguageLiteracy:at_least_one_language": {
           "CountLiterate": "Int:1514796"
         },
@@ -253,7 +253,7 @@
           "CountLiterate": "Int:861627"
         }
       },
-      "District:LK-62": {
+      "District:puttalam": {
         "LanguageLiteracy:at_least_one_language": {
           "CountLiterate": "Int:683962"
         },
@@ -267,7 +267,7 @@
           "CountLiterate": "Int:355688"
         }
       },
-      "District:LK-71": {
+      "District:anuradhapura": {
         "LanguageLiteracy:at_least_one_language": {
           "CountLiterate": "Int:807666"
         },
@@ -281,7 +281,7 @@
           "CountLiterate": "Int:431527"
         }
       },
-      "District:LK-72": {
+      "District:polonnaruwa": {
         "LanguageLiteracy:at_least_one_language": {
           "CountLiterate": "Int:373794"
         },
@@ -295,7 +295,7 @@
           "CountLiterate": "Int:180360"
         }
       },
-      "District:LK-81": {
+      "District:badulla": {
         "LanguageLiteracy:at_least_one_language": {
           "CountLiterate": "Int:725345"
         },
@@ -309,7 +309,7 @@
           "CountLiterate": "Int:405073"
         }
       },
-      "District:LK-82": {
+      "District:monaragala": {
         "LanguageLiteracy:at_least_one_language": {
           "CountLiterate": "Int:435724"
         },
@@ -323,7 +323,7 @@
           "CountLiterate": "Int:223714"
         }
       },
-      "District:LK-91": {
+      "District:ratnapura": {
         "LanguageLiteracy:at_least_one_language": {
           "CountLiterate": "Int:972985"
         },
@@ -337,7 +337,7 @@
           "CountLiterate": "Int:510566"
         }
       },
-      "District:LK-92": {
+      "District:kegalle": {
         "LanguageLiteracy:at_least_one_language": {
           "CountLiterate": "Int:752375"
         },

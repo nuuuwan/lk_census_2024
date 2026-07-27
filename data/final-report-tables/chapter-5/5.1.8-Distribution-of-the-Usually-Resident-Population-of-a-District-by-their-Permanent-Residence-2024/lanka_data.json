@@ -1,7 +1,7 @@
 {
   "Person": {
     "Time:2024": {
-      "District:LK-11": {
+      "District:colombo": {
         "ResidentRelativeToDistrict:in_district": {
           "Count": "Int:2244323"
         },
@@ -9,7 +9,7 @@
           "Count": "Int:130546"
         }
       },
-      "District:LK-12": {
+      "District:gampaha": {
         "ResidentRelativeToDistrict:in_district": {
           "Count": "Int:2340241"
         },
@@ -17,7 +17,7 @@
           "Count": "Int:95672"
         }
       },
-      "District:LK-13": {
+      "District:kalutara": {
         "ResidentRelativeToDistrict:in_district": {
           "Count": "Int:1287854"
         },
@@ -25,7 +25,7 @@
           "Count": "Int:17854"
         }
       },
-      "District:LK-21": {
+      "District:kandy": {
         "ResidentRelativeToDistrict:in_district": {
           "Count": "Int:1434821"
         },
@@ -33,7 +33,7 @@
           "Count": "Int:26934"
         }
       },
-      "District:LK-22": {
+      "District:matale": {
         "ResidentRelativeToDistrict:in_district": {
           "Count": "Int:518870"
         },
@@ -41,7 +41,7 @@
           "Count": "Int:7979"
         }
       },
-      "District:LK-23": {
+      "District:nuwara_eliya": {
         "ResidentRelativeToDistrict:in_district": {
           "Count": "Int:719906"
         },
@@ -49,7 +49,7 @@
           "Count": "Int:5345"
         }
       },
-      "District:LK-31": {
+      "District:galle": {
         "ResidentRelativeToDistrict:in_district": {
           "Count": "Int:1084085"
         },
@@ -57,7 +57,7 @@
           "Count": "Int:13140"
         }
       },
-      "District:LK-32": {
+      "District:matara": {
         "ResidentRelativeToDistrict:in_district": {
           "Count": "Int:825062"
         },
@@ -65,7 +65,7 @@
           "Count": "Int:12694"
         }
       },
-      "District:LK-33": {
+      "District:hambantota": {
         "ResidentRelativeToDistrict:in_district": {
           "Count": "Int:664855"
         },
@@ -73,7 +73,7 @@
           "Count": "Int:6528"
         }
       },
-      "District:LK-41": {
+      "District:jaffna": {
         "ResidentRelativeToDistrict:in_district": {
           "Count": "Int:585641"
         },
@@ -81,7 +81,7 @@
           "Count": "Int:9058"
         }
       },
-      "District:LK-42": {
+      "District:mannar": {
         "ResidentRelativeToDistrict:in_district": {
           "Count": "Int:122800"
         },
@@ -89,7 +89,7 @@
           "Count": "Int:952"
         }
       },
-      "District:LK-43": {
+      "District:vavuniya": {
         "ResidentRelativeToDistrict:in_district": {
           "Count": "Int:168602"
         },
@@ -97,7 +97,7 @@
           "Count": "Int:3678"
         }
       },
-      "District:LK-44": {
+      "District:mullaitivu": {
         "ResidentRelativeToDistrict:in_district": {
           "Count": "Int:120696"
         },
@@ -105,7 +105,7 @@
           "Count": "Int:1921"
         }
       },
-      "District:LK-45": {
+      "District:kilinochchi": {
         "ResidentRelativeToDistrict:in_district": {
           "Count": "Int:132107"
         },
@@ -113,7 +113,7 @@
           "Count": "Int:4603"
         }
       },
-      "District:LK-51": {
+      "District:batticaloa": {
         "ResidentRelativeToDistrict:in_district": {
           "Count": "Int:588704"
         },
@@ -121,7 +121,7 @@
           "Count": "Int:7185"
         }
       },
-      "District:LK-52": {
+      "District:ampara": {
         "ResidentRelativeToDistrict:in_district": {
           "Count": "Int:735399"
         },
@@ -129,7 +129,7 @@
           "Count": "Int:9132"
         }
       },
-      "District:LK-53": {
+      "District:trincomalee": {
         "ResidentRelativeToDistrict:in_district": {
           "Count": "Int:438683"
         },
@@ -137,7 +137,7 @@
           "Count": "Int:4039"
         }
       },
-      "District:LK-61": {
+      "District:kurunegala": {
         "ResidentRelativeToDistrict:in_district": {
           "Count": "Int:1742683"
         },
@@ -145,7 +145,7 @@
           "Count": "Int:25340"
         }
       },
-      "District:LK-62": {
+      "District:puttalam": {
         "ResidentRelativeToDistrict:in_district": {
           "Count": "Int:805775"
         },
@@ -153,7 +153,7 @@
           "Count": "Int:12928"
         }
       },
-      "District:LK-71": {
+      "District:anuradhapura": {
         "ResidentRelativeToDistrict:in_district": {
           "Count": "Int:944348"
         },
@@ -161,7 +161,7 @@
           "Count": "Int:15553"
         }
       },
-      "District:LK-72": {
+      "District:polonnaruwa": {
         "ResidentRelativeToDistrict:in_district": {
           "Count": "Int:441668"
         },
@@ -169,7 +169,7 @@
           "Count": "Int:5835"
         }
       },
-      "District:LK-81": {
+      "District:badulla": {
         "ResidentRelativeToDistrict:in_district": {
           "Count": "Int:861106"
         },
@@ -177,7 +177,7 @@
           "Count": "Int:11133"
         }
       },
-      "District:LK-82": {
+      "District:monaragala": {
         "ResidentRelativeToDistrict:in_district": {
           "Count": "Int:522063"
         },
@@ -185,7 +185,7 @@
           "Count": "Int:5469"
         }
       },
-      "District:LK-91": {
+      "District:ratnapura": {
         "ResidentRelativeToDistrict:in_district": {
           "Count": "Int:1134639"
         },
@@ -193,7 +193,7 @@
           "Count": "Int:10613"
         }
       },
-      "District:LK-92": {
+      "District:kegalle": {
         "ResidentRelativeToDistrict:in_district": {
           "Count": "Int:860518"
         },

@@ -1,6 +1,6 @@
 {
   "District": {
-    "District:LK-11": {
+    "District:colombo": {
       "Time:1871": {
         "IsExisting": "Bool:True"
       },
@@ -47,54 +47,7 @@
         "IsExisting": "Bool:True"
       }
     },
-    "District:LK-12-Negombo": {
-      "Time:1871": {
-        "IsExisting": "Bool:False"
-      },
-      "Time:1881": {
-        "IsExisting": "Bool:True"
-      },
-      "Time:1891": {
-        "IsExisting": "Bool:True"
-      },
-      "Time:1901": {
-        "IsExisting": "Bool:False"
-      },
-      "Time:1911": {
-        "IsExisting": "Bool:False"
-      },
-      "Time:1921": {
-        "IsExisting": "Bool:False"
-      },
-      "Time:1931": {
-        "IsExisting": "Bool:False"
-      },
-      "Time:1946": {
-        "IsExisting": "Bool:False"
-      },
-      "Time:1953": {
-        "IsExisting": "Bool:False"
-      },
-      "Time:1963": {
-        "IsExisting": "Bool:False"
-      },
-      "Time:1971": {
-        "IsExisting": "Bool:False"
-      },
-      "Time:1981": {
-        "IsExisting": "Bool:False"
-      },
-      "Time:2001": {
-        "IsExisting": "Bool:False"
-      },
-      "Time:2012": {
-        "IsExisting": "Bool:False"
-      },
-      "Time:2024": {
-        "IsExisting": "Bool:False"
-      }
-    },
-    "District:LK-12": {
+    "District:gampaha": {
       "Time:1871": {
         "IsExisting": "Bool:False"
       },
@@ -141,7 +94,7 @@
         "IsExisting": "Bool:True"
       }
     },
-    "District:LK-13": {
+    "District:kalutara": {
       "Time:1871": {
         "IsExisting": "Bool:False"
       },
@@ -188,7 +141,7 @@
         "IsExisting": "Bool:True"
       }
     },
-    "District:LK-21": {
+    "District:kandy": {
       "Time:1871": {
         "IsExisting": "Bool:True"
       },
@@ -235,7 +188,7 @@
         "IsExisting": "Bool:True"
       }
     },
-    "District:LK-22": {
+    "District:matale": {
       "Time:1871": {
         "IsExisting": "Bool:True"
       },
@@ -282,7 +235,7 @@
         "IsExisting": "Bool:True"
       }
     },
-    "District:LK-23": {
+    "District:nuwara_eliya": {
       "Time:1871": {
         "IsExisting": "Bool:True"
       },
@@ -329,7 +282,7 @@
         "IsExisting": "Bool:True"
       }
     },
-    "District:LK-81": {
+    "District:badulla": {
       "Time:1871": {
         "IsExisting": "Bool:True"
       },
@@ -376,7 +329,7 @@
         "IsExisting": "Bool:True"
       }
     },
-    "District:LK-31": {
+    "District:galle": {
       "Time:1871": {
         "IsExisting": "Bool:True"
       },
@@ -423,7 +376,7 @@
         "IsExisting": "Bool:True"
       }
     },
-    "District:LK-32": {
+    "District:matara": {
       "Time:1871": {
         "IsExisting": "Bool:True"
       },
@@ -470,7 +423,7 @@
         "IsExisting": "Bool:True"
       }
     },
-    "District:LK-33": {
+    "District:hambantota": {
       "Time:1871": {
         "IsExisting": "Bool:True"
       },
@@ -517,7 +470,7 @@
         "IsExisting": "Bool:True"
       }
     },
-    "District:LK-41": {
+    "District:jaffna": {
       "Time:1871": {
         "IsExisting": "Bool:True"
       },
@@ -564,7 +517,7 @@
         "IsExisting": "Bool:True"
       }
     },
-    "District:LK-42": {
+    "District:mannar": {
       "Time:1871": {
         "IsExisting": "Bool:True"
       },
@@ -611,7 +564,7 @@
         "IsExisting": "Bool:True"
       }
     },
-    "District:LK-43": {
+    "District:vavuniya": {
       "Time:1871": {
         "IsExisting": "Bool:False"
       },
@@ -658,7 +611,7 @@
         "IsExisting": "Bool:True"
       }
     },
-    "District:LK-44": {
+    "District:mullaitivu": {
       "Time:1871": {
         "IsExisting": "Bool:True"
       },
@@ -705,7 +658,7 @@
         "IsExisting": "Bool:True"
       }
     },
-    "District:LK-45": {
+    "District:kilinochchi": {
       "Time:1871": {
         "IsExisting": "Bool:False"
       },
@@ -752,7 +705,7 @@
         "IsExisting": "Bool:True"
       }
     },
-    "District:LK-51": {
+    "District:batticaloa": {
       "Time:1871": {
         "IsExisting": "Bool:True"
       },
@@ -799,7 +752,7 @@
         "IsExisting": "Bool:True"
       }
     },
-    "District:LK-52": {
+    "District:ampara": {
       "Time:1871": {
         "IsExisting": "Bool:False"
       },
@@ -846,7 +799,7 @@
         "IsExisting": "Bool:True"
       }
     },
-    "District:LK-53": {
+    "District:trincomalee": {
       "Time:1871": {
         "IsExisting": "Bool:True"
       },
@@ -893,7 +846,7 @@
         "IsExisting": "Bool:True"
       }
     },
-    "District:LK-61": {
+    "District:kurunegala": {
       "Time:1871": {
         "IsExisting": "Bool:True"
       },
@@ -940,7 +893,7 @@
         "IsExisting": "Bool:True"
       }
     },
-    "District:LK-62": {
+    "District:puttalam": {
       "Time:1871": {
         "IsExisting": "Bool:True"
       },
@@ -987,54 +940,7 @@
         "IsExisting": "Bool:True"
       }
     },
-    "District:LK-62-Chilaw": {
-      "Time:1871": {
-        "IsExisting": "Bool:False"
-      },
-      "Time:1881": {
-        "IsExisting": "Bool:False"
-      },
-      "Time:1891": {
-        "IsExisting": "Bool:True"
-      },
-      "Time:1901": {
-        "IsExisting": "Bool:True"
-      },
-      "Time:1911": {
-        "IsExisting": "Bool:True"
-      },
-      "Time:1921": {
-        "IsExisting": "Bool:True"
-      },
-      "Time:1931": {
-        "IsExisting": "Bool:True"
-      },
-      "Time:1946": {
-        "IsExisting": "Bool:True"
-      },
-      "Time:1953": {
-        "IsExisting": "Bool:True"
-      },
-      "Time:1963": {
-        "IsExisting": "Bool:False"
-      },
-      "Time:1971": {
-        "IsExisting": "Bool:False"
-      },
-      "Time:1981": {
-        "IsExisting": "Bool:False"
-      },
-      "Time:2001": {
-        "IsExisting": "Bool:False"
-      },
-      "Time:2012": {
-        "IsExisting": "Bool:False"
-      },
-      "Time:2024": {
-        "IsExisting": "Bool:False"
-      }
-    },
-    "District:LK-71": {
+    "District:anuradhapura": {
       "Time:1871": {
         "IsExisting": "Bool:True"
       },
@@ -1081,7 +987,7 @@
         "IsExisting": "Bool:True"
       }
     },
-    "District:LK-72": {
+    "District:polonnaruwa": {
       "Time:1871": {
         "IsExisting": "Bool:False"
       },
@@ -1128,7 +1034,7 @@
         "IsExisting": "Bool:True"
       }
     },
-    "District:LK-82": {
+    "District:monaragala": {
       "Time:1871": {
         "IsExisting": "Bool:False"
       },
@@ -1175,7 +1081,7 @@
         "IsExisting": "Bool:True"
       }
     },
-    "District:LK-91": {
+    "District:ratnapura": {
       "Time:1871": {
         "IsExisting": "Bool:True"
       },
@@ -1222,7 +1128,7 @@
         "IsExisting": "Bool:True"
       }
     },
-    "District:LK-92": {
+    "District:kegalle": {
       "Time:1871": {
         "IsExisting": "Bool:True"
       },

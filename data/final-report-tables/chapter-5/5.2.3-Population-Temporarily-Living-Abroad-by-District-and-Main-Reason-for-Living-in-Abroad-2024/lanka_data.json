@@ -1,7 +1,7 @@
 {
   "Person": {
     "Time:2024": {
-      "District:LK-11": {
+      "District:colombo": {
         "EmmigrationReason:employment": {
           "Count": "Int:51449"
         },
@@ -15,7 +15,7 @@
           "Count": "Int:421"
         }
       },
-      "District:LK-12": {
+      "District:gampaha": {
         "EmmigrationReason:employment": {
           "Count": "Int:67844"
         },
@@ -29,7 +29,7 @@
           "Count": "Int:311"
         }
       },
-      "District:LK-13": {
+      "District:kalutara": {
         "EmmigrationReason:employment": {
           "Count": "Int:34819"
         },
@@ -43,7 +43,7 @@
           "Count": "Int:111"
         }
       },
-      "District:LK-21": {
+      "District:kandy": {
         "EmmigrationReason:employment": {
           "Count": "Int:48904"
         },
@@ -57,7 +57,7 @@
           "Count": "Int:193"
         }
       },
-      "District:LK-22": {
+      "District:matale": {
         "EmmigrationReason:employment": {
           "Count": "Int:18526"
         },
@@ -71,7 +71,7 @@
           "Count": "Int:53"
         }
       },
-      "District:LK-23": {
+      "District:nuwara_eliya": {
         "EmmigrationReason:employment": {
           "Count": "Int:15895"
         },
@@ -85,7 +85,7 @@
           "Count": "Int:44"
         }
       },
-      "District:LK-31": {
+      "District:galle": {
         "EmmigrationReason:employment": {
           "Count": "Int:35722"
         },
@@ -99,7 +99,7 @@
           "Count": "Int:113"
         }
       },
-      "District:LK-32": {
+      "District:matara": {
         "EmmigrationReason:employment": {
           "Count": "Int:18282"
         },
@@ -113,7 +113,7 @@
           "Count": "Int:53"
         }
       },
-      "District:LK-33": {
+      "District:hambantota": {
         "EmmigrationReason:employment": {
           "Count": "Int:12606"
         },
@@ -127,7 +127,7 @@
           "Count": "Int:33"
         }
       },
-      "District:LK-41": {
+      "District:jaffna": {
         "EmmigrationReason:employment": {
           "Count": "Int:7653"
         },
@@ -141,7 +141,7 @@
           "Count": "Int:306"
         }
       },
-      "District:LK-42": {
+      "District:mannar": {
         "EmmigrationReason:employment": {
           "Count": "Int:1506"
         },
@@ -155,7 +155,7 @@
           "Count": "Int:21"
         }
       },
-      "District:LK-43": {
+      "District:vavuniya": {
         "EmmigrationReason:employment": {
           "Count": "Int:2950"
         },
@@ -169,7 +169,7 @@
           "Count": "Int:99"
         }
       },
-      "District:LK-44": {
+      "District:mullaitivu": {
         "EmmigrationReason:employment": {
           "Count": "Int:1215"
         },
@@ -183,7 +183,7 @@
           "Count": "Int:27"
         }
       },
-      "District:LK-45": {
+      "District:kilinochchi": {
         "EmmigrationReason:employment": {
           "Count": "Int:1309"
         },
@@ -197,7 +197,7 @@
           "Count": "Int:58"
         }
       },
-      "District:LK-51": {
+      "District:batticaloa": {
         "EmmigrationReason:employment": {
           "Count": "Int:26980"
         },
@@ -211,7 +211,7 @@
           "Count": "Int:44"
         }
       },
-      "District:LK-52": {
+      "District:ampara": {
         "EmmigrationReason:employment": {
           "Count": "Int:29074"
         },
@@ -225,7 +225,7 @@
           "Count": "Int:40"
         }
       },
-      "District:LK-53": {
+      "District:trincomalee": {
         "EmmigrationReason:employment": {
           "Count": "Int:10886"
         },
@@ -239,7 +239,7 @@
           "Count": "Int:47"
         }
       },
-      "District:LK-61": {
+      "District:kurunegala": {
         "EmmigrationReason:employment": {
           "Count": "Int:57039"
         },
@@ -253,7 +253,7 @@
           "Count": "Int:130"
         }
       },
-      "District:LK-62": {
+      "District:puttalam": {
         "EmmigrationReason:employment": {
           "Count": "Int:40874"
         },
@@ -267,7 +267,7 @@
           "Count": "Int:135"
         }
       },
-      "District:LK-71": {
+      "District:anuradhapura": {
         "EmmigrationReason:employment": {
           "Count": "Int:24102"
         },
@@ -281,7 +281,7 @@
           "Count": "Int:57"
         }
       },
-      "District:LK-72": {
+      "District:polonnaruwa": {
         "EmmigrationReason:employment": {
           "Count": "Int:12558"
         },
@@ -295,7 +295,7 @@
           "Count": "Int:22"
         }
       },
-      "District:LK-81": {
+      "District:badulla": {
         "EmmigrationReason:employment": {
           "Count": "Int:12233"
         },
@@ -309,7 +309,7 @@
           "Count": "Int:36"
         }
       },
-      "District:LK-82": {
+      "District:monaragala": {
         "EmmigrationReason:employment": {
           "Count": "Int:4503"
         },
@@ -323,7 +323,7 @@
           "Count": "Int:9"
         }
       },
-      "District:LK-91": {
+      "District:ratnapura": {
         "EmmigrationReason:employment": {
           "Count": "Int:16927"
         },
@@ -337,7 +337,7 @@
           "Count": "Int:39"
         }
       },
-      "District:LK-92": {
+      "District:kegalle": {
         "EmmigrationReason:employment": {
           "Count": "Int:24063"
         },

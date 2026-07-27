@@ -1,7 +1,7 @@
 {
   "Person": {
     "Time:2024": {
-      "District:LK-11": {
+      "District:colombo": {
         "HighestEducationLevel3:no_schooling": {
           "Count": "Int:9113"
         },
@@ -18,7 +18,7 @@
           "Count": "Int:243813"
         }
       },
-      "District:LK-12": {
+      "District:gampaha": {
         "HighestEducationLevel3:no_schooling": {
           "Count": "Int:6336"
         },
@@ -35,7 +35,7 @@
           "Count": "Int:187218"
         }
       },
-      "District:LK-13": {
+      "District:kalutara": {
         "HighestEducationLevel3:no_schooling": {
           "Count": "Int:6052"
         },
@@ -52,7 +52,7 @@
           "Count": "Int:77570"
         }
       },
-      "District:LK-21": {
+      "District:kandy": {
         "HighestEducationLevel3:no_schooling": {
           "Count": "Int:11896"
         },
@@ -69,7 +69,7 @@
           "Count": "Int:94900"
         }
       },
-      "District:LK-22": {
+      "District:matale": {
         "HighestEducationLevel3:no_schooling": {
           "Count": "Int:5233"
         },
@@ -86,7 +86,7 @@
           "Count": "Int:23492"
         }
       },
-      "District:LK-23": {
+      "District:nuwara_eliya": {
         "HighestEducationLevel3:no_schooling": {
           "Count": "Int:15552"
         },
@@ -103,7 +103,7 @@
           "Count": "Int:21200"
         }
       },
-      "District:LK-31": {
+      "District:galle": {
         "HighestEducationLevel3:no_schooling": {
           "Count": "Int:7209"
         },
@@ -120,7 +120,7 @@
           "Count": "Int:61203"
         }
       },
-      "District:LK-32": {
+      "District:matara": {
         "HighestEducationLevel3:no_schooling": {
           "Count": "Int:7407"
         },
@@ -137,7 +137,7 @@
           "Count": "Int:42016"
         }
       },
-      "District:LK-33": {
+      "District:hambantota": {
         "HighestEducationLevel3:no_schooling": {
           "Count": "Int:6415"
         },
@@ -154,7 +154,7 @@
           "Count": "Int:26553"
         }
       },
-      "District:LK-41": {
+      "District:jaffna": {
         "HighestEducationLevel3:no_schooling": {
           "Count": "Int:865"
         },
@@ -171,7 +171,7 @@
           "Count": "Int:27616"
         }
       },
-      "District:LK-42": {
+      "District:mannar": {
         "HighestEducationLevel3:no_schooling": {
           "Count": "Int:502"
         },
@@ -188,7 +188,7 @@
           "Count": "Int:4651"
         }
       },
-      "District:LK-43": {
+      "District:vavuniya": {
         "HighestEducationLevel3:no_schooling": {
           "Count": "Int:1188"
         },
@@ -205,7 +205,7 @@
           "Count": "Int:7484"
         }
       },
-      "District:LK-44": {
+      "District:mullaitivu": {
         "HighestEducationLevel3:no_schooling": {
           "Count": "Int:629"
         },
@@ -222,7 +222,7 @@
           "Count": "Int:2852"
         }
       },
-      "District:LK-45": {
+      "District:kilinochchi": {
         "HighestEducationLevel3:no_schooling": {
           "Count": "Int:520"
         },
@@ -239,7 +239,7 @@
           "Count": "Int:3181"
         }
       },
-      "District:LK-51": {
+      "District:batticaloa": {
         "HighestEducationLevel3:no_schooling": {
           "Count": "Int:11078"
         },
@@ -256,7 +256,7 @@
           "Count": "Int:26165"
         }
       },
-      "District:LK-52": {
+      "District:ampara": {
         "HighestEducationLevel3:no_schooling": {
           "Count": "Int:8048"
         },
@@ -273,7 +273,7 @@
           "Count": "Int:38189"
         }
       },
-      "District:LK-53": {
+      "District:trincomalee": {
         "HighestEducationLevel3:no_schooling": {
           "Count": "Int:5050"
         },
@@ -290,7 +290,7 @@
           "Count": "Int:18598"
         }
       },
-      "District:LK-61": {
+      "District:kurunegala": {
         "HighestEducationLevel3:no_schooling": {
           "Count": "Int:10288"
         },
@@ -307,7 +307,7 @@
           "Count": "Int:101495"
         }
       },
-      "District:LK-62": {
+      "District:puttalam": {
         "HighestEducationLevel3:no_schooling": {
           "Count": "Int:6331"
         },
@@ -324,7 +324,7 @@
           "Count": "Int:32625"
         }
       },
-      "District:LK-71": {
+      "District:anuradhapura": {
         "HighestEducationLevel3:no_schooling": {
           "Count": "Int:6783"
         },
@@ -341,7 +341,7 @@
           "Count": "Int:39622"
         }
       },
-      "District:LK-72": {
+      "District:polonnaruwa": {
         "HighestEducationLevel3:no_schooling": {
           "Count": "Int:4100"
         },
@@ -358,7 +358,7 @@
           "Count": "Int:14922"
         }
       },
-      "District:LK-81": {
+      "District:badulla": {
         "HighestEducationLevel3:no_schooling": {
           "Count": "Int:15310"
         },
@@ -375,7 +375,7 @@
           "Count": "Int:39255"
         }
       },
-      "District:LK-82": {
+      "District:monaragala": {
         "HighestEducationLevel3:no_schooling": {
           "Count": "Int:7459"
         },
@@ -392,7 +392,7 @@
           "Count": "Int:18564"
         }
       },
-      "District:LK-91": {
+      "District:ratnapura": {
         "HighestEducationLevel3:no_schooling": {
           "Count": "Int:15130"
         },
@@ -409,7 +409,7 @@
           "Count": "Int:47194"
         }
       },
-      "District:LK-92": {
+      "District:kegalle": {
         "HighestEducationLevel3:no_schooling": {
           "Count": "Int:5650"
         },

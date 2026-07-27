@@ -1,7 +1,7 @@
 {
   "District": {
     "Time:2012": {
-      "District:LK-11": {
+      "District:colombo": {
         "AdministrativeEntity:assistant_government_agend_divisions": {
           "Count": "Int:13"
         },
@@ -18,7 +18,7 @@
           "Count": "Int:3"
         }
       },
-      "District:LK-12": {
+      "District:gampaha": {
         "AdministrativeEntity:assistant_government_agend_divisions": {
           "Count": "Int:13"
         },
@@ -35,7 +35,7 @@
           "Count": "Int:12"
         }
       },
-      "District:LK-13": {
+      "District:kalutara": {
         "AdministrativeEntity:assistant_government_agend_divisions": {
           "Count": "Int:14"
         },
@@ -52,7 +52,7 @@
           "Count": "Int:12"
         }
       },
-      "District:LK-21": {
+      "District:kandy": {
         "AdministrativeEntity:assistant_government_agend_divisions": {
           "Count": "Int:20"
         },
@@ -69,7 +69,7 @@
           "Count": "Int:17"
         }
       },
-      "District:LK-22": {
+      "District:matale": {
         "AdministrativeEntity:assistant_government_agend_divisions": {
           "Count": "Int:11"
         },
@@ -86,7 +86,7 @@
           "Count": "Int:11"
         }
       },
-      "District:LK-23": {
+      "District:nuwara_eliya": {
         "AdministrativeEntity:assistant_government_agend_divisions": {
           "Count": "Int:5"
         },
@@ -103,7 +103,7 @@
           "Count": "Int:5"
         }
       },
-      "District:LK-31": {
+      "District:galle": {
         "AdministrativeEntity:assistant_government_agend_divisions": {
           "Count": "Int:19"
         },
@@ -120,7 +120,7 @@
           "Count": "Int:17"
         }
       },
-      "District:LK-32": {
+      "District:matara": {
         "AdministrativeEntity:assistant_government_agend_divisions": {
           "Count": "Int:16"
         },
@@ -137,7 +137,7 @@
           "Count": "Int:15"
         }
       },
-      "District:LK-33": {
+      "District:hambantota": {
         "AdministrativeEntity:assistant_government_agend_divisions": {
           "Count": "Int:12"
         },
@@ -154,7 +154,7 @@
           "Count": "Int:10"
         }
       },
-      "District:LK-41": {
+      "District:jaffna": {
         "AdministrativeEntity:assistant_government_agend_divisions": {
           "Count": "Int:15"
         },
@@ -171,7 +171,7 @@
           "Count": "Int:13"
         }
       },
-      "District:LK-42": {
+      "District:mannar": {
         "AdministrativeEntity:assistant_government_agend_divisions": {
           "Count": "Int:5"
         },
@@ -188,7 +188,7 @@
           "Count": "Int:4"
         }
       },
-      "District:LK-43": {
+      "District:vavuniya": {
         "AdministrativeEntity:assistant_government_agend_divisions": {
           "Count": "Int:4"
         },
@@ -205,7 +205,7 @@
           "Count": "Int:4"
         }
       },
-      "District:LK-44": {
+      "District:mullaitivu": {
         "AdministrativeEntity:assistant_government_agend_divisions": {
           "Count": "Int:6"
         },
@@ -222,7 +222,7 @@
           "Count": "Int:4"
         }
       },
-      "District:LK-45": {
+      "District:kilinochchi": {
         "AdministrativeEntity:assistant_government_agend_divisions": {
           "Count": "Int:4"
         },
@@ -239,7 +239,7 @@
           "Count": "Int:3"
         }
       },
-      "District:LK-51": {
+      "District:batticaloa": {
         "AdministrativeEntity:assistant_government_agend_divisions": {
           "Count": "Int:14"
         },
@@ -256,7 +256,7 @@
           "Count": "Int:9"
         }
       },
-      "District:LK-52": {
+      "District:ampara": {
         "AdministrativeEntity:assistant_government_agend_divisions": {
           "Count": "Int:20"
         },
@@ -273,7 +273,7 @@
           "Count": "Int:17"
         }
       },
-      "District:LK-53": {
+      "District:trincomalee": {
         "AdministrativeEntity:assistant_government_agend_divisions": {
           "Count": "Int:11"
         },
@@ -290,7 +290,7 @@
           "Count": "Int:11"
         }
       },
-      "District:LK-61": {
+      "District:kurunegala": {
         "AdministrativeEntity:assistant_government_agend_divisions": {
           "Count": "Int:30"
         },
@@ -307,7 +307,7 @@
           "Count": "Int:19"
         }
       },
-      "District:LK-62": {
+      "District:puttalam": {
         "AdministrativeEntity:assistant_government_agend_divisions": {
           "Count": "Int:16"
         },
@@ -324,7 +324,7 @@
           "Count": "Int:10"
         }
       },
-      "District:LK-71": {
+      "District:anuradhapura": {
         "AdministrativeEntity:assistant_government_agend_divisions": {
           "Count": "Int:22"
         },
@@ -341,7 +341,7 @@
           "Count": "Int:18"
         }
       },
-      "District:LK-72": {
+      "District:polonnaruwa": {
         "AdministrativeEntity:assistant_government_agend_divisions": {
           "Count": "Int:7"
         },
@@ -358,7 +358,7 @@
           "Count": "Int:7"
         }
       },
-      "District:LK-81": {
+      "District:badulla": {
         "AdministrativeEntity:assistant_government_agend_divisions": {
           "Count": "Int:15"
         },
@@ -375,7 +375,7 @@
           "Count": "Int:15"
         }
       },
-      "District:LK-82": {
+      "District:monaragala": {
         "AdministrativeEntity:assistant_government_agend_divisions": {
           "Count": "Int:11"
         },
@@ -392,7 +392,7 @@
           "Count": "Int:10"
         }
       },
-      "District:LK-91": {
+      "District:ratnapura": {
         "AdministrativeEntity:assistant_government_agend_divisions": {
           "Count": "Int:17"
         },
@@ -409,7 +409,7 @@
           "Count": "Int:14"
         }
       },
-      "District:LK-92": {
+      "District:kegalle": {
         "AdministrativeEntity:assistant_government_agend_divisions": {
           "Count": "Int:11"
         },
