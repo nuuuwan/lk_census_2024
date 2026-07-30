@@ -1,12 +1,15 @@
 import os
 
+from propcache import cached_property
 from utils_future import JSONFile, Log
 
-from .FinalReportTableDataAggregateMixin import \
-    FinalReportTableDataAggregateMixin
+from .FinalReportTableDataAggregateMixin import (
+    FinalReportTableDataAggregateMixin,
+)
 from .FinalReportTableDataFieldsMixin import FinalReportTableDataFieldsMixin
-from .FinalReportTableDataOtherValuesMixin import \
-    FinalReportTableDataOtherValuesMixin
+from .FinalReportTableDataOtherValuesMixin import (
+    FinalReportTableDataOtherValuesMixin,
+)
 from .FinalReportTableDataRowMixin import FinalReportTableDataRowMixin
 
 log = Log("FinalReportTableDataMixin")
@@ -42,13 +45,20 @@ class FinalReportTableDataMixin(
             + f" found only {len(d_list)}"
         )
 
+    @cached_property
+    def is_can_build_data(self):
+        if not (bool(self.raw_data_list) and bool(self.has_complete_fields)):
+            return False
+        if self.is_complicated:
+            return False
+
+        return True
+
     def build_data(self, force=False):
         if self.data_file.exists() and not force:
             return
 
-        if not (bool(self.raw_data_list) and bool(self.has_complete_fields)):
-            return
-        if self.is_complicated:
+        if not self.is_can_build_data:
             return
 
         log.debug("-" * 40)

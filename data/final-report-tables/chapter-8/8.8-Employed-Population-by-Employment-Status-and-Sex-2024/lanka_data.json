@@ -1,0 +1,46 @@
+{
+  "Person": {
+    "Time:2024": {
+      "EmploymentStatus:government_or_semi_government_paid_employee": {
+        "Sex:male": {
+          "EmployedCount": "Int:741649"
+        },
+        "Sex:female": {
+          "EmployedCount": "Int:591757"
+        }
+      },
+      "EmploymentStatus:private_sector_paid_employee": {
+        "Sex:male": {
+          "EmployedCount": "Int:2248841"
+        },
+        "Sex:female": {
+          "EmployedCount": "Int:995932"
+        }
+      },
+      "EmploymentStatus:employer": {
+        "Sex:male": {
+          "EmployedCount": "Int:242488"
+        },
+        "Sex:female": {
+          "EmployedCount": "Int:35380"
+        }
+      },
+      "EmploymentStatus:own_account_worker": {
+        "Sex:male": {
+          "EmployedCount": "Int:1906739"
+        },
+        "Sex:female": {
+          "EmployedCount": "Int:500875"
+        }
+      },
+      "EmploymentStatus:contributing_to_family_enterprise": {
+        "Sex:male": {
+          "EmployedCount": "Int:177986"
+        },
+        "Sex:female": {
+          "EmployedCount": "Int:229585"
+        }
+      }
+    }
+  }
+}

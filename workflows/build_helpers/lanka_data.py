@@ -1,7 +1,4 @@
-import json
-
 from lk_census.final_report.table import FinalReportTable
-from lk_census.readme import ReadMe
 
 if __name__ == "__main__":
 
@@ -9,14 +6,11 @@ if __name__ == "__main__":
 
     for table in table_list:
 
-        print("-" * 32)
-        print(table.table_num, table.table_name)
-        print("-" * 32)
-
         if table.build_status == 3:
-            table.build_data()
-            table.data_file.open("code")
-            break
+            if table.is_can_build_data:
+                table.build_data()
+                table.data_file.open("code")
+                break
 
         if table.build_status == 4:
             if table.is_lanka_data_fields_complete:
@@ -25,6 +19,9 @@ if __name__ == "__main__":
                 break
 
         if table.build_status == 5:
+            print("-" * 32)
+            print(table.table_num, table.table_name)
+            print("-" * 32)
 
             if "house" not in table.table_name.lower():
                 continue
