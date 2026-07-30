@@ -13,7 +13,7 @@
     "gce_al",
     "_ignore"
   ],
-  "entity_class_name": "Person",
+  "entity_class_name": "House",
   "time_value": "2024",
   "row_dim_class_name": "District",
   "row_dim_key": "region_id",

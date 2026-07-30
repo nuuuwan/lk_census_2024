@@ -1,10 +1,12 @@
 import os
+from functools import cached_property
 
 from ds import StandardTableAdapter
 from utils_future import JSONFile, Log
 
-from lk_census.final_report.table.lanka_data.FinalReportLankaMetaDataMixin import \
-    FinalReportLankaMetaDataMixin
+from lk_census.final_report.table.lanka_data.FinalReportLankaMetaDataMixin import (
+    FinalReportLankaMetaDataMixin,
+)
 
 log = Log("FinalReportLankaDataMixin")
 
@@ -19,14 +21,22 @@ class FinalReportLankaDataMixin(FinalReportLankaMetaDataMixin):
             )
         )
 
+    @cached_property
+    def is_can_build_lanka_data(self) -> bool:
+        if not self.data_list:
+            return False
+        if not self.is_lanka_data_fields_complete:
+            return False
+        if self.lanka_data_pass:
+            return False
+
+        return True
+
     def build_lanka_data(self, force=False):
         if self.lanka_data_file.exists() and not force:
             return
-        if not self.data_list:
-            return
-        if not self.is_lanka_data_fields_complete:
-            return
-        if self.lanka_data_pass:
+
+        if not self.is_can_build_lanka_data:
             return
 
         datumset = StandardTableAdapter.build_datumset(
