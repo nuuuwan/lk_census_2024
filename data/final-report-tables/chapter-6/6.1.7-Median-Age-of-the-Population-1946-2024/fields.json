@@ -8,5 +8,6 @@
   "row_dim_key": "census_year",
   "col_dim_class_name": "Sex",
   "cell_label": "MedianAge",
-  "cell_class_name": "Float"
+  "cell_class_name": "Float",
+  "is_lanka_data_verified": true
 }
