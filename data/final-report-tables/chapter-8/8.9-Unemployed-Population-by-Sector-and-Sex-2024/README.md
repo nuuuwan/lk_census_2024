@@ -1,9 +1,85 @@
 # Unemployed Population by Sector and Sex, 2024
 
 ![CPH](https://img.shields.io/badge/CPH-2024-blue)
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--07--20-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--07--30-green)
 
 *Table 8.9, Final Report, 2024 Census of Population and Housing, Department of Census and Statistics, Sri Lanka*
+
+## Structured Data formatted for [Lanka Data API](https://github.com/nuuuwan/lanka_data)
+
+```json
+{
+    "Person": {
+        "Time:2024": {
+            "Sector:urban": {
+                "Sex:male": {
+                    "UnemployedCount": "Int:43342"
+                },
+                "Sex:female": {
+                    "UnemployedCount": "Int:44965"
+                }
+            },
+            "Sector:estate_urban": {
+                "Sex:male": {
+                    "UnemployedCount": "Int:151"
+                },
+                "Sex:female": {
+                    "UnemployedCount": "Int:112"
+                }
+            },
+            "Sector:rural": {
+                "Sex:male": {
+                    "UnemployedCount": "Int:175144"
+                },
+                "Sex:female": {
+                    "UnemployedCount": "Int:199089"
+                }
+            },
+            "Sector:estate_rural": {
+                "Sex:male": {
+                    "UnemployedCount": "Int:14034"
+...
+```
+
+- Source File: [lanka_data.json (785.0 B)](../../../../data/final-report-tables/chapter-8/8.9-Unemployed-Population-by-Sector-and-Sex-2024/lanka_data.json)
+
+## Structured Data (similar to original layout)
+
+```json
+[
+    {
+        "sector": "Urban",
+        "values": {
+            "male": 43342,
+            "female": 44965
+        },
+        "total_value": 88307
+    },
+    {
+        "sector": "Estate - Urban",
+        "values": {
+            "male": 151,
+            "female": 112
+        },
+        "total_value": 263
+    },
+    {
+        "sector": "Rural",
+        "values": {
+            "male": 175144,
+            "female": 199089
+        },
+        "total_value": 374233
+    },
+    {
+        "sector": "Estate - Rural",
+        "values": {
+            "male": 14034,
+            "female": 14872
+...
+```
+
+- Source File: [data.json (509.0 B)](../../../../data/final-report-tables/chapter-8/8.9-Unemployed-Population-by-Sector-and-Sex-2024/data.json)
 
 ## Raw Data (directly scraped from PDF)
 
@@ -40,13 +116,13 @@
         "the reference period but were actively seeking employment and have taken steps to find employment in",
 ...
 ```
-- Source File: [raw_data.json (1.9 KB)](../../../../data/final-report-tables/chapter-8/8.9-Unemployed-Population-by-Sector-and-Sex,-2024/raw_data.json)
+- Source File: [raw_data.json (1.9 KB)](../../../../data/final-report-tables/chapter-8/8.9-Unemployed-Population-by-Sector-and-Sex-2024/raw_data.json)
 
 ## Original PDF Page
 
-![Download the original PDF](../../../../data/final-report-tables/chapter-8/8.9-Unemployed-Population-by-Sector-and-Sex,-2024/original.png)
+![Download the original PDF](../../../../data/final-report-tables/chapter-8/8.9-Unemployed-Population-by-Sector-and-Sex-2024/original.png)
 
-- Source File: [original.pdf (53.2 KB)](../../../../data/final-report-tables/chapter-8/8.9-Unemployed-Population-by-Sector-and-Sex,-2024/original.pdf)
+- Source File: [original.pdf (53.2 KB)](../../../../data/final-report-tables/chapter-8/8.9-Unemployed-Population-by-Sector-and-Sex-2024/original.pdf)
 
 ## Source
 

@@ -1,9 +1,63 @@
 # Economically Active and Inactive Population by Sex, 2024
 
 ![CPH](https://img.shields.io/badge/CPH-2024-blue)
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--07--20-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--07--30-green)
 
 *Table 8.1, Final Report, 2024 Census of Population and Housing, Department of Census and Statistics, Sri Lanka*
+
+## Structured Data formatted for [Lanka Data API](https://github.com/nuuuwan/lanka_data)
+
+```json
+{
+    "Person": {
+        "Time:2024": {
+            "Sex:male": {
+                "IsEconomicallyActive:economically_active": {
+                    "Count": "Int:5550374"
+                },
+                "IsEconomicallyActive:economically_inactive": {
+                    "Count": "Int:2681440"
+                }
+            },
+            "Sex:female": {
+                "IsEconomicallyActive:economically_active": {
+                    "Count": "Int:2612567"
+                },
+                "IsEconomicallyActive:economically_inactive": {
+                    "Count": "Int:6430580"
+                }
+            }
+        }
+    }
+}
+```
+
+- Source File: [lanka_data.json (499.0 B)](../../../../data/final-report-tables/chapter-8/8.1-Economically-Active-and-Inactive-Population-by-Sex-2024/lanka_data.json)
+
+## Structured Data (similar to original layout)
+
+```json
+[
+    {
+        "sex": "Male",
+        "values": {
+            "economically_active": 5550374,
+            "economically_inactive": 2681440
+        },
+        "total_value": 8231814
+    },
+    {
+        "sex": "Female",
+        "values": {
+            "economically_active": 2612567,
+            "economically_inactive": 6430580
+        },
+        "total_value": 9043147
+    }
+]
+```
+
+- Source File: [data.json (314.0 B)](../../../../data/final-report-tables/chapter-8/8.1-Economically-Active-and-Inactive-Population-by-Sex-2024/data.json)
 
 ## Raw Data (directly scraped from PDF)
 
@@ -40,13 +94,13 @@
         "",
 ...
 ```
-- Source File: [raw_data.json (2.0 KB)](../../../../data/final-report-tables/chapter-8/8.1-Economically-Active-and-Inactive-Population-by-Sex,-2024/raw_data.json)
+- Source File: [raw_data.json (2.0 KB)](../../../../data/final-report-tables/chapter-8/8.1-Economically-Active-and-Inactive-Population-by-Sex-2024/raw_data.json)
 
 ## Original PDF Page
 
-![Download the original PDF](../../../../data/final-report-tables/chapter-8/8.1-Economically-Active-and-Inactive-Population-by-Sex,-2024/original.png)
+![Download the original PDF](../../../../data/final-report-tables/chapter-8/8.1-Economically-Active-and-Inactive-Population-by-Sex-2024/original.png)
 
-- Source File: [original.pdf (32.3 KB)](../../../../data/final-report-tables/chapter-8/8.1-Economically-Active-and-Inactive-Population-by-Sex,-2024/original.pdf)
+- Source File: [original.pdf (32.3 KB)](../../../../data/final-report-tables/chapter-8/8.1-Economically-Active-and-Inactive-Population-by-Sex-2024/original.pdf)
 
 ## Source
 

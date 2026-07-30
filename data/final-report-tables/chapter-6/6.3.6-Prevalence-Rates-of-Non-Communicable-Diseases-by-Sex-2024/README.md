@@ -1,15 +1,15 @@
 # Prevalence Rates of Non-Communicable Diseases by Sex, 2024
 
 ![CPH](https://img.shields.io/badge/CPH-2024-blue)
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--07--20-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--07--30-green)
 
 *Table 6.3.6, Final Report, 2024 Census of Population and Housing, Department of Census and Statistics, Sri Lanka*
 
 ## Original PDF Page
 
-![Download the original PDF](../../../../data/final-report-tables/chapter-6/6.3.6-Prevalence-Rates-of-Non-Communicable-Diseases-by-Sex,-2024/original.png)
+![Download the original PDF](../../../../data/final-report-tables/chapter-6/6.3.6-Prevalence-Rates-of-Non-Communicable-Diseases-by-Sex-2024/original.png)
 
-- Source File: [original.pdf (60.9 KB)](../../../../data/final-report-tables/chapter-6/6.3.6-Prevalence-Rates-of-Non-Communicable-Diseases-by-Sex,-2024/original.pdf)
+- Source File: [original.pdf (60.9 KB)](../../../../data/final-report-tables/chapter-6/6.3.6-Prevalence-Rates-of-Non-Communicable-Diseases-by-Sex-2024/original.pdf)
 
 (Table 1 on this page.)
 

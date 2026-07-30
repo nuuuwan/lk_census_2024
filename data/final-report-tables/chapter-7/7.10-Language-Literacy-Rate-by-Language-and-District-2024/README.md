@@ -1,9 +1,85 @@
 # Language Literacy Rate by Language and District, 2024
 
 ![CPH](https://img.shields.io/badge/CPH-2024-blue)
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--07--20-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--07--30-green)
 
 *Table 7.10, Final Report, 2024 Census of Population and Housing, Department of Census and Statistics, Sri Lanka*
+
+## Structured Data formatted for [Lanka Data API](https://github.com/nuuuwan/lanka_data)
+
+```json
+{
+    "Person": {
+        "Time:2024": {
+            "District:colombo": {
+                "LanguageLiteracy:at_least_one_language": {
+                    "CountLiterate": "Int:2109420"
+                },
+                "LanguageLiteracy:sinhala": {
+                    "CountLiterate": "Int:2013148"
+                },
+                "LanguageLiteracy:tamil": {
+                    "CountLiterate": "Int:887839"
+                },
+                "LanguageLiteracy:english": {
+                    "CountLiterate": "Int:1587413"
+                }
+            },
+            "District:gampaha": {
+                "LanguageLiteracy:at_least_one_language": {
+                    "CountLiterate": "Int:2145366"
+                },
+                "LanguageLiteracy:sinhala": {
+                    "CountLiterate": "Int:2106319"
+                },
+                "LanguageLiteracy:tamil": {
+                    "CountLiterate": "Int:713676"
+                },
+                "LanguageLiteracy:english": {
+                    "CountLiterate": "Int:1457721"
+                }
+...
+```
+
+- Source File: [lanka_data.json (9.9 KB)](../../../../data/final-report-tables/chapter-7/7.10-Language-Literacy-Rate-by-Language-and-District-2024/lanka_data.json)
+
+## Structured Data (similar to original layout)
+
+```json
+[
+    {
+        "region_id": "LK-11",
+        "region_name": "Colombo",
+        "region_ent_type": "district",
+        "values": {
+            "at_least_one_language": 2109420,
+            "sinhala": 2013148,
+            "tamil": 887839,
+            "english": 1587413
+        },
+        "total_description": "Population aged 10 and over",
+        "total_value": 2139371
+    },
+    {
+        "region_id": "LK-12",
+        "region_name": "Gampaha",
+        "region_ent_type": "district",
+        "values": {
+            "at_least_one_language": 2145366,
+            "sinhala": 2106319,
+            "tamil": 713676,
+            "english": 1457721
+        },
+        "total_description": "Population aged 10 and over",
+        "total_value": 2169227
+    },
+    {
+        "region_id": "LK-13",
+        "region_name": "Kalutara",
+...
+```
+
+- Source File: [data.json (7.8 KB)](../../../../data/final-report-tables/chapter-7/7.10-Language-Literacy-Rate-by-Language-and-District-2024/data.json)
 
 ## Raw Data (directly scraped from PDF)
 
@@ -40,13 +116,13 @@
         "Tamil",
 ...
 ```
-- Source File: [raw_data.json (2.9 KB)](../../../../data/final-report-tables/chapter-7/7.10-Language-Literacy-Rate-by-Language-and-District,-2024/raw_data.json)
+- Source File: [raw_data.json (2.9 KB)](../../../../data/final-report-tables/chapter-7/7.10-Language-Literacy-Rate-by-Language-and-District-2024/raw_data.json)
 
 ## Original PDF Page
 
-![Download the original PDF](../../../../data/final-report-tables/chapter-7/7.10-Language-Literacy-Rate-by-Language-and-District,-2024/original.png)
+![Download the original PDF](../../../../data/final-report-tables/chapter-7/7.10-Language-Literacy-Rate-by-Language-and-District-2024/original.png)
 
-- Source File: [original.pdf (47.1 KB)](../../../../data/final-report-tables/chapter-7/7.10-Language-Literacy-Rate-by-Language-and-District,-2024/original.pdf)
+- Source File: [original.pdf (47.1 KB)](../../../../data/final-report-tables/chapter-7/7.10-Language-Literacy-Rate-by-Language-and-District-2024/original.pdf)
 
 ## Source
 

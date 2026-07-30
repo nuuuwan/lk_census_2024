@@ -1,15 +1,128 @@
 # Percentage Distribution of Households by the Main Method of Disposing Liquid Waste, 2024
 
 ![CPH](https://img.shields.io/badge/CPH-2024-blue)
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--07--20-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--07--30-green)
 
 *Table 11.18, Final Report, 2024 Census of Population and Housing, Department of Census and Statistics, Sri Lanka*
 
+## Structured Data formatted for [Lanka Data API](https://github.com/nuuuwan/lanka_data)
+
+```json
+{
+    "Person": {
+        "Time:2024": {
+            "Sector:urban": {
+                "LiquidWasteDisposal:to_a_properly_closed_pit": {
+                    "Percent": "Percent:0.462"
+                },
+                "LiquidWasteDisposal:open_pit": {
+                    "Percent": "Percent:0.025"
+                },
+                "LiquidWasteDisposal:within_the_premises": {
+                    "Percent": "Percent:0.237"
+                },
+                "LiquidWasteDisposal:connected_to_a_piped_sewer": {
+                    "Percent": "Percent:0.085"
+                },
+                "LiquidWasteDisposal:to_a_stream_or_spring_or_river_or_sea": {
+                    "Percent": "Percent:0.015"
+                },
+                "LiquidWasteDisposal:to_a_drain_on_road": {
+                    "Percent": "Percent:0.173"
+                },
+                "LiquidWasteDisposal:other": {
+                    "Percent": "Percent:0.003"
+                }
+            },
+            "Sector:estate_urban": {
+                "LiquidWasteDisposal:to_a_properly_closed_pit": {
+                    "Percent": "Percent:0.11"
+                },
+...
+```
+
+- Source File: [lanka_data.json (3.0 KB)](../../../../data/final-report-tables/chapter-11/11.18-Percentage-Distribution-of-Households-by-the-Main-Method-of-Disposing-Liquid-Waste-2024/lanka_data.json)
+
+## Structured Data (similar to original layout)
+
+```json
+[
+    {
+        "sector": "Sri Lanka",
+        "values": {
+            "p_to_a_properly_closed_pit": 0.267,
+            "p_open_pit": 0.071,
+            "p_within_the_premises": 0.573,
+            "p_connected_to_a_piped_sewer": 0.015,
+            "p_to_a_stream_or_spring_or_river_or_sea": 0.011,
+            "p_to_a_drain_on_road": 0.061,
+            "p_other": 0.002
+        }
+    },
+    {
+        "sector": "Urban",
+        "values": {
+            "p_to_a_properly_closed_pit": 0.462,
+            "p_open_pit": 0.025,
+            "p_within_the_premises": 0.237,
+            "p_connected_to_a_piped_sewer": 0.085,
+            "p_to_a_stream_or_spring_or_river_or_sea": 0.015,
+            "p_to_a_drain_on_road": 0.173,
+            "p_other": 0.003
+        }
+    },
+    {
+        "sector": "Estate- Urban",
+        "values": {
+            "p_to_a_properly_closed_pit": 0.11,
+            "p_open_pit": 0.059,
+...
+```
+
+- Source File: [data.json (1.6 KB)](../../../../data/final-report-tables/chapter-11/11.18-Percentage-Distribution-of-Households-by-the-Main-Method-of-Disposing-Liquid-Waste-2024/data.json)
+
+## Raw Data (directly scraped from PDF)
+
+```json
+[
+    [
+        "",
+        "",
+        "",
+        "",
+        "Main Method of Disposing Liquid Waste",
+        "",
+        "",
+        "",
+        "",
+        ""
+    ],
+    [
+        "Sector",
+        "Total",
+        "To a \nproperly",
+        "Open pit",
+        "Within the",
+        "Connected \nto a piped",
+        "To a \nstream/sprin",
+        "",
+        "To a drain",
+        "Other"
+    ],
+    [
+        "",
+        "",
+        "closed pit",
+        "",
+...
+```
+- Source File: [raw_data.json (1.0 KB)](../../../../data/final-report-tables/chapter-11/11.18-Percentage-Distribution-of-Households-by-the-Main-Method-of-Disposing-Liquid-Waste-2024/raw_data.json)
+
 ## Original PDF Page
 
-![Download the original PDF](../../../../data/final-report-tables/chapter-11/11.18-Percentage-Distribution-of-Households-by-the-Main-Method-of-Disposing-Liquid-Waste,-2024/original.png)
+![Download the original PDF](../../../../data/final-report-tables/chapter-11/11.18-Percentage-Distribution-of-Households-by-the-Main-Method-of-Disposing-Liquid-Waste-2024/original.png)
 
-- Source File: [original.pdf (55.3 KB)](../../../../data/final-report-tables/chapter-11/11.18-Percentage-Distribution-of-Households-by-the-Main-Method-of-Disposing-Liquid-Waste,-2024/original.pdf)
+- Source File: [original.pdf (55.3 KB)](../../../../data/final-report-tables/chapter-11/11.18-Percentage-Distribution-of-Households-by-the-Main-Method-of-Disposing-Liquid-Waste-2024/original.pdf)
 
 (Table 0 on this page.)
 

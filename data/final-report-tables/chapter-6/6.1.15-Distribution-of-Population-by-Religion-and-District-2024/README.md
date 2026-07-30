@@ -1,9 +1,85 @@
 # Distribution of Population by Religion and District, 2024
 
 ![CPH](https://img.shields.io/badge/CPH-2024-blue)
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--07--20-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--07--30-green)
 
 *Table 6.1.15, Final Report, 2024 Census of Population and Housing, Department of Census and Statistics, Sri Lanka*
+
+## Structured Data formatted for [Lanka Data API](https://github.com/nuuuwan/lanka_data)
+
+```json
+{
+    "Person": {
+        "Time:2024": {
+            "District:colombo": {
+                "Religion:buddhist": {
+                    "Count": "Int:1682524"
+                },
+                "Religion:hindu": {
+                    "Count": "Int:197759"
+                },
+                "Religion:islam": {
+                    "Count": "Int:298422"
+                },
+                "Religion:roman_catholic": {
+                    "Count": "Int:139882"
+                },
+                "Religion:other_christian": {
+                    "Count": "Int:55624"
+                },
+                "Religion:other": {
+                    "Count": "Int:1204"
+                }
+            },
+            "District:gampaha": {
+                "Religion:buddhist": {
+                    "Count": "Int:1744475"
+                },
+                "Religion:hindu": {
+                    "Count": "Int:69429"
+                },
+...
+```
+
+- Source File: [lanka_data.json (11.7 KB)](../../../../data/final-report-tables/chapter-6/6.1.15-Distribution-of-Population-by-Religion-and-District-2024/lanka_data.json)
+
+## Structured Data (similar to original layout)
+
+```json
+[
+    {
+        "region_id": "LK-11",
+        "region_name": "Colombo",
+        "region_ent_type": "district",
+        "values": {
+            "buddhist": 1682524,
+            "hindu": 197759,
+            "islam": 298422,
+            "roman_catholic": 139882,
+            "other_christian": 55624,
+            "other": 1204
+        },
+        "total_value": 2375415
+    },
+    {
+        "region_id": "LK-12",
+        "region_name": "Gampaha",
+        "region_ent_type": "district",
+        "values": {
+            "buddhist": 1744475,
+            "hindu": 69429,
+            "islam": 134422,
+            "roman_catholic": 442291,
+            "other_christian": 44540,
+            "other": 985
+        },
+        "total_value": 2436142
+    },
+    {
+...
+```
+
+- Source File: [data.json (17.0 KB)](../../../../data/final-report-tables/chapter-6/6.1.15-Distribution-of-Population-by-Religion-and-District-2024/data.json)
 
 ## Raw Data (directly scraped from PDF)
 
@@ -40,13 +116,13 @@
         "3,956"
 ...
 ```
-- Source File: [raw_data.json (4.8 KB)](../../../../data/final-report-tables/chapter-6/6.1.15-Distribution-of-Population-by-Religion-and-District,-2024/raw_data.json)
+- Source File: [raw_data.json (4.8 KB)](../../../../data/final-report-tables/chapter-6/6.1.15-Distribution-of-Population-by-Religion-and-District-2024/raw_data.json)
 
 ## Original PDF Page
 
-![Download the original PDF](../../../../data/final-report-tables/chapter-6/6.1.15-Distribution-of-Population-by-Religion-and-District,-2024/original.png)
+![Download the original PDF](../../../../data/final-report-tables/chapter-6/6.1.15-Distribution-of-Population-by-Religion-and-District-2024/original.png)
 
-- Source File: [original.pdf (29.8 KB)](../../../../data/final-report-tables/chapter-6/6.1.15-Distribution-of-Population-by-Religion-and-District,-2024/original.pdf)
+- Source File: [original.pdf (29.8 KB)](../../../../data/final-report-tables/chapter-6/6.1.15-Distribution-of-Population-by-Religion-and-District-2024/original.pdf)
 
 ## Source
 

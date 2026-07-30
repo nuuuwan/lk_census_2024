@@ -1,9 +1,85 @@
 # Percentage Distribution of Population by Age Group, 1946–2024
 
 ![CPH](https://img.shields.io/badge/CPH-2024-blue)
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--07--20-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--07--30-green)
 
 *Table 6.1.4, Final Report, 2024 Census of Population and Housing, Department of Census and Statistics, Sri Lanka*
+
+## Structured Data formatted for [Lanka Data API](https://github.com/nuuuwan/lanka_data)
+
+```json
+{
+    "Person": {
+        "Time:1946": {
+            "AgeGroup:0To125Years": {
+                "Percent": "Float:100.0"
+            },
+            "AgeGroup:0To4Years": {
+                "Percent": "Float:12.9"
+            },
+            "AgeGroup:5To9Years": {
+                "Percent": "Float:12.2"
+            },
+            "AgeGroup:10To14Years": {
+                "Percent": "Float:12.1"
+            },
+            "AgeGroup:15To19Years": {
+                "Percent": "Float:10.2"
+            },
+            "AgeGroup:20To24Years": {
+                "Percent": "Float:9.6"
+            },
+            "AgeGroup:25To29Years": {
+                "Percent": "Float:8.7"
+            },
+            "AgeGroup:30To34Years": {
+                "Percent": "Float:6.8"
+            },
+            "AgeGroup:35To39Years": {
+                "Percent": "Float:7.0"
+            },
+...
+```
+
+- Source File: [lanka_data.json (8.1 KB)](../../../../data/final-report-tables/chapter-6/6.1.4-Percentage-Distribution-of-Population-by-Age-Group-1946-2024/lanka_data.json)
+
+## Structured Data (similar to original layout)
+
+```json
+[
+    {
+        "age_group": "Sri Lanka",
+        "values": {
+            "1946": 100.0,
+            "1953": 100.0,
+            "1963": 100.0,
+            "1971": 100.0,
+            "1981": 100.0,
+            "2001": 100.0,
+            "2012": 100.0,
+            "2024": 100.0
+        }
+    },
+    {
+        "age_group": "00-04",
+        "values": {
+            "1946": 12.9,
+            "1953": 14.9,
+            "1963": 15.2,
+            "1971": 13.1,
+            "1981": 12.5,
+            "2001": 8.5,
+            "2012": 8.6,
+            "2024": 5.6
+        }
+    },
+    {
+        "age_group": "05-09",
+        "values": {
+...
+```
+
+- Source File: [data.json (2.9 KB)](../../../../data/final-report-tables/chapter-6/6.1.4-Percentage-Distribution-of-Population-by-Age-Group-1946-2024/data.json)
 
 ## Raw Data (directly scraped from PDF)
 
@@ -40,13 +116,13 @@
         "",
 ...
 ```
-- Source File: [raw_data.json (2.8 KB)](../../../../data/final-report-tables/chapter-6/6.1.4-Percentage-Distribution-of-Population-by-Age-Group,-1946–2024/raw_data.json)
+- Source File: [raw_data.json (2.8 KB)](../../../../data/final-report-tables/chapter-6/6.1.4-Percentage-Distribution-of-Population-by-Age-Group-1946-2024/raw_data.json)
 
 ## Original PDF Page
 
-![Download the original PDF](../../../../data/final-report-tables/chapter-6/6.1.4-Percentage-Distribution-of-Population-by-Age-Group,-1946–2024/original.png)
+![Download the original PDF](../../../../data/final-report-tables/chapter-6/6.1.4-Percentage-Distribution-of-Population-by-Age-Group-1946-2024/original.png)
 
-- Source File: [original.pdf (71.1 KB)](../../../../data/final-report-tables/chapter-6/6.1.4-Percentage-Distribution-of-Population-by-Age-Group,-1946–2024/original.pdf)
+- Source File: [original.pdf (71.1 KB)](../../../../data/final-report-tables/chapter-6/6.1.4-Percentage-Distribution-of-Population-by-Age-Group-1946-2024/original.pdf)
 
 ## Source
 

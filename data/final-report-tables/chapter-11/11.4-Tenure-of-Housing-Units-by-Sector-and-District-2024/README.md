@@ -1,9 +1,85 @@
 # Tenure of Housing Units by Sector and District, 2024
 
 ![CPH](https://img.shields.io/badge/CPH-2024-blue)
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--07--20-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--07--30-green)
 
 *Table 11.4, Final Report, 2024 Census of Population and Housing, Department of Census and Statistics, Sri Lanka*
+
+## Structured Data formatted for [Lanka Data API](https://github.com/nuuuwan/lanka_data)
+
+```json
+{
+    "House": {
+        "Time:2024": {
+            "District:colombo": {
+                "OwnershipStatus:owned_by_a_household_member": {
+                    "Percent": "Percent:0.76"
+                },
+                "OwnershipStatus:rent_or_lease_government_owned": {
+                    "Percent": "Percent:0.035"
+                },
+                "OwnershipStatus:rent_or_lease_privately_owned": {
+                    "Percent": "Percent:0.166"
+                },
+                "OwnershipStatus:rent_or_lease_free_of_rent": {
+                    "Percent": "Percent:0.024"
+                },
+                "OwnershipStatus:encroached": {
+                    "Percent": "Percent:0.01"
+                },
+                "OwnershipStatus:other": {
+                    "Percent": "Percent:0.005"
+                }
+            },
+            "District:gampaha": {
+                "OwnershipStatus:owned_by_a_household_member": {
+                    "Percent": "Percent:0.816"
+                },
+                "OwnershipStatus:rent_or_lease_government_owned": {
+                    "Percent": "Percent:0.022"
+                },
+...
+```
+
+- Source File: [lanka_data.json (15.5 KB)](../../../../data/final-report-tables/chapter-11/11.4-Tenure-of-Housing-Units-by-Sector-and-District-2024/lanka_data.json)
+
+## Structured Data (similar to original layout)
+
+```json
+[
+    {
+        "region_id": "LK-11",
+        "region_name": "Colombo",
+        "region_ent_type": "district",
+        "values": {
+            "p_owned_by_a_household_member": 0.76,
+            "p_rent_or_lease_government_owned": 0.035,
+            "p_rent_or_lease_privately_owned": 0.166,
+            "p_rent_or_lease_free_of_rent": 0.024,
+            "p_encroached": 0.01,
+            "p_other": 0.005
+        }
+    },
+    {
+        "region_id": "LK-12",
+        "region_name": "Gampaha",
+        "region_ent_type": "district",
+        "values": {
+            "p_owned_by_a_household_member": 0.816,
+            "p_rent_or_lease_government_owned": 0.022,
+            "p_rent_or_lease_privately_owned": 0.125,
+            "p_rent_or_lease_free_of_rent": 0.022,
+            "p_encroached": 0.008,
+            "p_other": 0.007
+        }
+    },
+    {
+        "region_id": "LK-13",
+        "region_name": "Kalutara",
+...
+```
+
+- Source File: [data.json (21.1 KB)](../../../../data/final-report-tables/chapter-11/11.4-Tenure-of-Housing-Units-by-Sector-and-District-2024/data.json)
 
 ## Raw Data (directly scraped from PDF)
 
@@ -40,13 +116,13 @@
         ""
 ...
 ```
-- Source File: [raw_data.json (5.8 KB)](../../../../data/final-report-tables/chapter-11/11.4-Tenure-of-Housing-Units-by-Sector-and-District,-2024/raw_data.json)
+- Source File: [raw_data.json (5.8 KB)](../../../../data/final-report-tables/chapter-11/11.4-Tenure-of-Housing-Units-by-Sector-and-District-2024/raw_data.json)
 
 ## Original PDF Page
 
-![Download the original PDF](../../../../data/final-report-tables/chapter-11/11.4-Tenure-of-Housing-Units-by-Sector-and-District,-2024/original.png)
+![Download the original PDF](../../../../data/final-report-tables/chapter-11/11.4-Tenure-of-Housing-Units-by-Sector-and-District-2024/original.png)
 
-- Source File: [original.pdf (76.2 KB)](../../../../data/final-report-tables/chapter-11/11.4-Tenure-of-Housing-Units-by-Sector-and-District,-2024/original.pdf)
+- Source File: [original.pdf (76.2 KB)](../../../../data/final-report-tables/chapter-11/11.4-Tenure-of-Housing-Units-by-Sector-and-District-2024/original.pdf)
 
 ## Source
 

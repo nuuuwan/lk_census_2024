@@ -1,9 +1,47 @@
 # Age-Specific Fertility Rates (ASFR), 2012 and 2024
 
 ![CPH](https://img.shields.io/badge/CPH-2024-blue)
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--07--20-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--07--30-green)
 
 *Table 9.14, Final Report, 2024 Census of Population and Housing, Department of Census and Statistics, Sri Lanka*
+
+## Structured Data (similar to original layout)
+
+```json
+[
+    {
+        "age_group": "15-19",
+        "values": {
+            "fertility_rate_per_k_1981": 38.0,
+            "fertility_rate_per_k_2012": 36.0,
+            "fertility_rate_per_k_2024": 7.0
+        }
+    },
+    {
+        "age_group": "20-24",
+        "values": {
+            "fertility_rate_per_k_1981": 177.0,
+            "fertility_rate_per_k_2012": 107.0,
+            "fertility_rate_per_k_2024": 41.0
+        }
+    },
+    {
+        "age_group": "25-29",
+        "values": {
+            "fertility_rate_per_k_1981": 226.0,
+            "fertility_rate_per_k_2012": 147.0,
+            "fertility_rate_per_k_2024": 86.0
+        }
+    },
+    {
+        "age_group": "30-34",
+        "values": {
+            "fertility_rate_per_k_1981": 204.0,
+            "fertility_rate_per_k_2012": 118.0,
+...
+```
+
+- Source File: [data.json (1.2 KB)](../../../../data/final-report-tables/chapter-9/9.14-Age-Specific-Fertility-Rates-ASFR-2012-and-2024/data.json)
 
 ## Raw Data (directly scraped from PDF)
 
@@ -40,13 +78,13 @@
         ""
 ...
 ```
-- Source File: [raw_data.json (1.3 KB)](../../../../data/final-report-tables/chapter-9/9.14-Age-Specific-Fertility-Rates-(ASFR),-2012-and-2024/raw_data.json)
+- Source File: [raw_data.json (1.3 KB)](../../../../data/final-report-tables/chapter-9/9.14-Age-Specific-Fertility-Rates-ASFR-2012-and-2024/raw_data.json)
 
 ## Original PDF Page
 
-![Download the original PDF](../../../../data/final-report-tables/chapter-9/9.14-Age-Specific-Fertility-Rates-(ASFR),-2012-and-2024/original.png)
+![Download the original PDF](../../../../data/final-report-tables/chapter-9/9.14-Age-Specific-Fertility-Rates-ASFR-2012-and-2024/original.png)
 
-- Source File: [original.pdf (48.9 KB)](../../../../data/final-report-tables/chapter-9/9.14-Age-Specific-Fertility-Rates-(ASFR),-2012-and-2024/original.pdf)
+- Source File: [original.pdf (48.9 KB)](../../../../data/final-report-tables/chapter-9/9.14-Age-Specific-Fertility-Rates-ASFR-2012-and-2024/original.pdf)
 
 ## Source
 

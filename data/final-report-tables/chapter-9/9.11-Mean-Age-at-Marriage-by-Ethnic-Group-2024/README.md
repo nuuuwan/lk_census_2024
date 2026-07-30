@@ -1,52 +1,15 @@
 # Mean Age at Marriage by Ethnic Group, 2024
 
 ![CPH](https://img.shields.io/badge/CPH-2024-blue)
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--07--20-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--07--30-green)
 
 *Table 9.11, Final Report, 2024 Census of Population and Housing, Department of Census and Statistics, Sri Lanka*
 
-## Raw Data (directly scraped from PDF)
-
-```json
-[
-    [
-        "",
-        "Table 9.11 : Mean Age at Marriage by Ethnic Group, 2024",
-        ""
-    ],
-    [
-        "Ethnic group",
-        "Male (Years)",
-        "Female (Years)"
-    ],
-    [
-        "Sinhalese",
-        "29.5",
-        "26.1"
-    ],
-    [
-        "Sri Lanka Tamil",
-        "29.0",
-        "25.1"
-    ],
-    [
-        "Indian Tamil/Malaiyaga Thamilar",
-        "28.5",
-        "24.7"
-    ],
-    [
-        "Sri Lanka Moor/Muslim",
-        "27.2",
-        "23.4"
-...
-```
-- Source File: [raw_data.json (441.0 B)](../../../../data/final-report-tables/chapter-9/9.11-Mean-Age-at-Marriage-by-Ethnic-Group,-2024/raw_data.json)
-
 ## Original PDF Page
 
-![Download the original PDF](../../../../data/final-report-tables/chapter-9/9.11-Mean-Age-at-Marriage-by-Ethnic-Group,-2024/original.png)
+![Download the original PDF](../../../../data/final-report-tables/chapter-9/9.11-Mean-Age-at-Marriage-by-Ethnic-Group-2024/original.png)
 
-- Source File: [original.pdf (80.7 KB)](../../../../data/final-report-tables/chapter-9/9.11-Mean-Age-at-Marriage-by-Ethnic-Group,-2024/original.pdf)
+- Source File: [original.pdf (80.7 KB)](../../../../data/final-report-tables/chapter-9/9.11-Mean-Age-at-Marriage-by-Ethnic-Group-2024/original.pdf)
 
 (Table 0 on this page.)
 

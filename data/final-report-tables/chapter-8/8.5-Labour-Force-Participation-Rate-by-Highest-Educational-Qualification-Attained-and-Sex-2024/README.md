@@ -1,9 +1,47 @@
 # Labour Force Participation Rate, by Highest Educational Qualification Attained and Sex, 2024
 
 ![CPH](https://img.shields.io/badge/CPH-2024-blue)
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--07--20-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--07--30-green)
 
 *Table 8.5, Final Report, 2024 Census of Population and Housing, Department of Census and Statistics, Sri Lanka*
+
+## Structured Data (similar to original layout)
+
+```json
+[
+    {
+        "level_of_education": "Never attended School",
+        "values": {
+            "p_male_labour_force_participation_rate": 0.486,
+            "p_female_labour_force_participation_rate": 0.192
+        }
+    },
+    {
+        "level_of_education": "Studied in a special school/special unit",
+        "values": {
+            "p_male_labour_force_participation_rate": 0.251,
+            "p_female_labour_force_participation_rate": 0.223
+        }
+    },
+    {
+        "level_of_education": "Passed Grade 1 - 5",
+        "values": {
+            "p_male_labour_force_participation_rate": 0.623,
+            "p_female_labour_force_participation_rate": 0.206
+        }
+    },
+    {
+        "level_of_education": "Passed Grade 6 - 8",
+        "values": {
+            "p_male_labour_force_participation_rate": 0.701,
+            "p_female_labour_force_participation_rate": 0.221
+        }
+    },
+    {
+...
+```
+
+- Source File: [data.json (1.5 KB)](../../../../data/final-report-tables/chapter-8/8.5-Labour-Force-Participation-Rate-by-Highest-Educational-Qualification-Attained-and-Sex-2024/data.json)
 
 ## Raw Data (directly scraped from PDF)
 
@@ -40,13 +78,13 @@
     [
 ...
 ```
-- Source File: [raw_data.json (2.2 KB)](../../../../data/final-report-tables/chapter-8/8.5-Labour-Force-Participation-Rate,-by-Highest-Educational-Qualification-Attained-and-Sex,-2024/raw_data.json)
+- Source File: [raw_data.json (2.2 KB)](../../../../data/final-report-tables/chapter-8/8.5-Labour-Force-Participation-Rate-by-Highest-Educational-Qualification-Attained-and-Sex-2024/raw_data.json)
 
 ## Original PDF Page
 
-![Download the original PDF](../../../../data/final-report-tables/chapter-8/8.5-Labour-Force-Participation-Rate,-by-Highest-Educational-Qualification-Attained-and-Sex,-2024/original.png)
+![Download the original PDF](../../../../data/final-report-tables/chapter-8/8.5-Labour-Force-Participation-Rate-by-Highest-Educational-Qualification-Attained-and-Sex-2024/original.png)
 
-- Source File: [original.pdf (46.7 KB)](../../../../data/final-report-tables/chapter-8/8.5-Labour-Force-Participation-Rate,-by-Highest-Educational-Qualification-Attained-and-Sex,-2024/original.pdf)
+- Source File: [original.pdf (46.7 KB)](../../../../data/final-report-tables/chapter-8/8.5-Labour-Force-Participation-Rate-by-Highest-Educational-Qualification-Attained-and-Sex-2024/original.pdf)
 
 ## Source
 

@@ -1,7 +1,7 @@
 # Marital Status by Ethnic group and Sex,
 
 ![CPH](https://img.shields.io/badge/CPH-2024-blue)
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--07--20-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--07--30-green)
 
 *Table 9.2, Final Report, 2024 Census of Population and Housing, Department of Census and Statistics, Sri Lanka*
 
@@ -40,13 +40,13 @@
         "",
 ...
 ```
-- Source File: [raw_data.json (10.7 KB)](../../../../data/final-report-tables/chapter-9/9.2-Marital-Status-by-Ethnic-group-and-Sex,/raw_data.json)
+- Source File: [raw_data.json (10.7 KB)](../../../../data/final-report-tables/chapter-9/9.2-Marital-Status-by-Ethnic-group-and-Sex-/raw_data.json)
 
 ## Original PDF Page
 
-![Download the original PDF](../../../../data/final-report-tables/chapter-9/9.2-Marital-Status-by-Ethnic-group-and-Sex,/original.png)
+![Download the original PDF](../../../../data/final-report-tables/chapter-9/9.2-Marital-Status-by-Ethnic-group-and-Sex-/original.png)
 
-- Source File: [original.pdf (59.9 KB)](../../../../data/final-report-tables/chapter-9/9.2-Marital-Status-by-Ethnic-group-and-Sex,/original.pdf)
+- Source File: [original.pdf (59.9 KB)](../../../../data/final-report-tables/chapter-9/9.2-Marital-Status-by-Ethnic-group-and-Sex-/original.pdf)
 
 ## Source
 

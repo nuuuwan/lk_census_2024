@@ -1,9 +1,81 @@
 # Economically Inactive Population by Main Reason for Inactivity, 2024
 
 ![CPH](https://img.shields.io/badge/CPH-2024-blue)
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--07--20-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--07--30-green)
 
 *Table 8.11, Final Report, 2024 Census of Population and Housing, Department of Census and Statistics, Sri Lanka*
+
+## Structured Data formatted for [Lanka Data API](https://github.com/nuuuwan/lanka_data)
+
+```json
+{
+    "Person": {
+        "Time:2024": {
+            "EconomicInactivityReason:engaged_in_household_work_or_childcare_or_elder_care": {
+                "Count": "Int:3358527"
+            },
+            "EconomicInactivityReason:engage_in_educational_or_vocational_training": {
+                "Count": "Int:2365048"
+            },
+            "EconomicInactivityReason:unable_or_too_old_to_work_or_retired": {
+                "Count": "Int:2190230"
+            },
+            "EconomicInactivityReason:long_term_illness_or_disabled": {
+                "Count": "Int:517647"
+            },
+            "EconomicInactivityReason:does_not_want_or_interest_to_do_any_economic_activity": {
+                "Count": "Int:447121"
+            },
+            "EconomicInactivityReason:other": {
+                "Count": "Int:173895"
+            },
+            "EconomicInactivityReason:income_recipient_such_as_from_investment_rental_and_interest": {
+                "Count": "Int:59552"
+            }
+        }
+    }
+}
+```
+
+- Source File: [lanka_data.json (858.0 B)](../../../../data/final-report-tables/chapter-8/8.11-Economically-Inactive-Population-by-Main-Reason-for-Inactivity-2024/lanka_data.json)
+
+## Structured Data (similar to original layout)
+
+```json
+[
+    {
+        "reason_for_being_inactive": "Engaged in Household work/Childcare/Elder Care",
+        "values": {
+            "population": 3358527
+        }
+    },
+    {
+        "reason_for_being_inactive": "Engage in educational/Vocational training",
+        "values": {
+            "population": 2365048
+        }
+    },
+    {
+        "reason_for_being_inactive": "Unable/Too old to work/Retired",
+        "values": {
+            "population": 2190230
+        }
+    },
+    {
+        "reason_for_being_inactive": "Long term illness/Disabled",
+        "values": {
+            "population": 517647
+        }
+    },
+    {
+        "reason_for_being_inactive": "Does not want/interest to do any economic activity",
+        "values": {
+            "population": 447121
+        }
+...
+```
+
+- Source File: [data.json (928.0 B)](../../../../data/final-report-tables/chapter-8/8.11-Economically-Inactive-Population-by-Main-Reason-for-Inactivity-2024/data.json)
 
 ## Raw Data (directly scraped from PDF)
 
@@ -40,13 +112,13 @@
         "9,112,020",
 ...
 ```
-- Source File: [raw_data.json (1.8 KB)](../../../../data/final-report-tables/chapter-8/8.11-Economically-Inactive-Population-by-Main-Reason-for-Inactivity,-2024/raw_data.json)
+- Source File: [raw_data.json (1.8 KB)](../../../../data/final-report-tables/chapter-8/8.11-Economically-Inactive-Population-by-Main-Reason-for-Inactivity-2024/raw_data.json)
 
 ## Original PDF Page
 
-![Download the original PDF](../../../../data/final-report-tables/chapter-8/8.11-Economically-Inactive-Population-by-Main-Reason-for-Inactivity,-2024/original.png)
+![Download the original PDF](../../../../data/final-report-tables/chapter-8/8.11-Economically-Inactive-Population-by-Main-Reason-for-Inactivity-2024/original.png)
 
-- Source File: [original.pdf (32.2 KB)](../../../../data/final-report-tables/chapter-8/8.11-Economically-Inactive-Population-by-Main-Reason-for-Inactivity,-2024/original.pdf)
+- Source File: [original.pdf (32.2 KB)](../../../../data/final-report-tables/chapter-8/8.11-Economically-Inactive-Population-by-Main-Reason-for-Inactivity-2024/original.pdf)
 
 ## Source
 

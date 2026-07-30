@@ -1,9 +1,47 @@
 # Computer and Digital Literacy Rate by District, 2024
 
 ![CPH](https://img.shields.io/badge/CPH-2024-blue)
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--07--20-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--07--30-green)
 
 *Table 7.13, Final Report, 2024 Census of Population and Housing, Department of Census and Statistics, Sri Lanka*
+
+## Structured Data (similar to original layout)
+
+```json
+[
+    {
+        "region_id": "LK-11",
+        "region_name": "Colombo",
+        "region_ent_type": "district",
+        "values": {
+            "population_aged_5_and_over": 2271290,
+            "computer_literacy_rate": 51.0,
+            "digital_literacy_rate": 78.7
+        }
+    },
+    {
+        "region_id": "LK-12",
+        "region_name": "Gampaha",
+        "region_ent_type": "district",
+        "values": {
+            "population_aged_5_and_over": 2319190,
+            "computer_literacy_rate": 42.7,
+            "digital_literacy_rate": 73.7
+        }
+    },
+    {
+        "region_id": "LK-13",
+        "region_name": "Kalutara",
+        "region_ent_type": "district",
+        "values": {
+            "population_aged_5_and_over": 1239745,
+            "computer_literacy_rate": 37.1,
+            "digital_literacy_rate": 69.1
+        }
+...
+```
+
+- Source File: [data.json (5.9 KB)](../../../../data/final-report-tables/chapter-7/7.13-Computer-and-Digital-Literacy-Rate-by-District-2024/data.json)
 
 ## Raw Data (directly scraped from PDF)
 
@@ -40,13 +78,13 @@
         "73.7"
 ...
 ```
-- Source File: [raw_data.json (1.9 KB)](../../../../data/final-report-tables/chapter-7/7.13-Computer-and-Digital-Literacy-Rate-by-District,-2024/raw_data.json)
+- Source File: [raw_data.json (1.9 KB)](../../../../data/final-report-tables/chapter-7/7.13-Computer-and-Digital-Literacy-Rate-by-District-2024/raw_data.json)
 
 ## Original PDF Page
 
-![Download the original PDF](../../../../data/final-report-tables/chapter-7/7.13-Computer-and-Digital-Literacy-Rate-by-District,-2024/original.png)
+![Download the original PDF](../../../../data/final-report-tables/chapter-7/7.13-Computer-and-Digital-Literacy-Rate-by-District-2024/original.png)
 
-- Source File: [original.pdf (60.6 KB)](../../../../data/final-report-tables/chapter-7/7.13-Computer-and-Digital-Literacy-Rate-by-District,-2024/original.pdf)
+- Source File: [original.pdf (60.6 KB)](../../../../data/final-report-tables/chapter-7/7.13-Computer-and-Digital-Literacy-Rate-by-District-2024/original.pdf)
 
 (Table 1 on this page.)
 

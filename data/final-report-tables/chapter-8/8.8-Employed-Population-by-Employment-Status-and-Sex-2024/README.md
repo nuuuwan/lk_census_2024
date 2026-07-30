@@ -1,9 +1,47 @@
 # Employed Population by Employment Status and Sex, 2024
 
 ![CPH](https://img.shields.io/badge/CPH-2024-blue)
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--07--20-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--07--30-green)
 
 *Table 8.8, Final Report, 2024 Census of Population and Housing, Department of Census and Statistics, Sri Lanka*
+
+## Structured Data (similar to original layout)
+
+```json
+[
+    {
+        "employment_status": "Government/Semi-Government Paid Employee",
+        "values": {
+            "male": 741649,
+            "female": 591757
+        },
+        "total_value": 1333406
+    },
+    {
+        "employment_status": "Private Sector Paid Employee",
+        "values": {
+            "male": 2248841,
+            "female": 995932
+        },
+        "total_value": 3244773
+    },
+    {
+        "employment_status": "Employer",
+        "values": {
+            "male": 242488,
+            "female": 35380
+        },
+        "total_value": 277868
+    },
+    {
+        "employment_status": "Own Account Worker",
+        "values": {
+            "male": 1906739,
+            "female": 500875
+...
+```
+
+- Source File: [data.json (793.0 B)](../../../../data/final-report-tables/chapter-8/8.8-Employed-Population-by-Employment-Status-and-Sex-2024/data.json)
 
 ## Raw Data (directly scraped from PDF)
 
@@ -40,13 +78,13 @@
         "Government/Semi-Government Paid Employee",
 ...
 ```
-- Source File: [raw_data.json (911.0 B)](../../../../data/final-report-tables/chapter-8/8.8-Employed-Population-by-Employment-Status-and-Sex,-2024/raw_data.json)
+- Source File: [raw_data.json (911.0 B)](../../../../data/final-report-tables/chapter-8/8.8-Employed-Population-by-Employment-Status-and-Sex-2024/raw_data.json)
 
 ## Original PDF Page
 
-![Download the original PDF](../../../../data/final-report-tables/chapter-8/8.8-Employed-Population-by-Employment-Status-and-Sex,-2024/original.png)
+![Download the original PDF](../../../../data/final-report-tables/chapter-8/8.8-Employed-Population-by-Employment-Status-and-Sex-2024/original.png)
 
-- Source File: [original.pdf (54.7 KB)](../../../../data/final-report-tables/chapter-8/8.8-Employed-Population-by-Employment-Status-and-Sex,-2024/original.pdf)
+- Source File: [original.pdf (54.7 KB)](../../../../data/final-report-tables/chapter-8/8.8-Employed-Population-by-Employment-Status-and-Sex-2024/original.pdf)
 
 ## Source
 

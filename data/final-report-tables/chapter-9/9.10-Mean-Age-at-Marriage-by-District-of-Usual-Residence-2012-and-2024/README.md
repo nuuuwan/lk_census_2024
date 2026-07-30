@@ -1,9 +1,47 @@
 # Mean Age at Marriage by District of Usual Residence, 2012 and 2024
 
 ![CPH](https://img.shields.io/badge/CPH-2024-blue)
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--07--20-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--07--30-green)
 
 *Table 9.10, Final Report, 2024 Census of Population and Housing, Department of Census and Statistics, Sri Lanka*
+
+## Structured Data (similar to original layout)
+
+```json
+[
+    {
+        "region_id": "LK-11",
+        "region_name": "Colombo",
+        "region_ent_type": "district",
+        "values": {
+            "avg_age_male_2012": 28.0,
+            "avg_age_female_2012": 24.9,
+            "avg_age_male_2024": 30.1,
+            "avg_age_female_2024": 27.2
+        }
+    },
+    {
+        "region_id": "LK-12",
+        "region_name": "Gampaha",
+        "region_ent_type": "district",
+        "values": {
+            "avg_age_male_2012": 27.5,
+            "avg_age_female_2012": 24.3,
+            "avg_age_male_2024": 29.7,
+            "avg_age_female_2024": 26.5
+        }
+    },
+    {
+        "region_id": "LK-13",
+        "region_name": "Kalutara",
+        "region_ent_type": "district",
+        "values": {
+            "avg_age_male_2012": 27.2,
+            "avg_age_female_2012": 23.7,
+...
+```
+
+- Source File: [data.json (6.3 KB)](../../../../data/final-report-tables/chapter-9/9.10-Mean-Age-at-Marriage-by-District-of-Usual-Residence-2012-and-2024/data.json)
 
 ## Raw Data (directly scraped from PDF)
 
@@ -40,13 +78,13 @@
     [
 ...
 ```
-- Source File: [raw_data.json (2.6 KB)](../../../../data/final-report-tables/chapter-9/9.10-Mean-Age-at-Marriage-by-District-of-Usual-Residence,-2012-and-2024/raw_data.json)
+- Source File: [raw_data.json (2.6 KB)](../../../../data/final-report-tables/chapter-9/9.10-Mean-Age-at-Marriage-by-District-of-Usual-Residence-2012-and-2024/raw_data.json)
 
 ## Original PDF Page
 
-![Download the original PDF](../../../../data/final-report-tables/chapter-9/9.10-Mean-Age-at-Marriage-by-District-of-Usual-Residence,-2012-and-2024/original.png)
+![Download the original PDF](../../../../data/final-report-tables/chapter-9/9.10-Mean-Age-at-Marriage-by-District-of-Usual-Residence-2012-and-2024/original.png)
 
-- Source File: [original.pdf (80.7 KB)](../../../../data/final-report-tables/chapter-9/9.10-Mean-Age-at-Marriage-by-District-of-Usual-Residence,-2012-and-2024/original.pdf)
+- Source File: [original.pdf (80.7 KB)](../../../../data/final-report-tables/chapter-9/9.10-Mean-Age-at-Marriage-by-District-of-Usual-Residence-2012-and-2024/original.pdf)
 
 ## Source
 

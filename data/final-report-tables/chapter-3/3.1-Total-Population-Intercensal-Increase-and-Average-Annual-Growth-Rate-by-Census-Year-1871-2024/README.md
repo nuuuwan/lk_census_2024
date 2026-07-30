@@ -1,9 +1,47 @@
 # Total Population, Intercensal Increase and Average Annual Growth Rate by Census Year, 1871 - 2024
 
 ![CPH](https://img.shields.io/badge/CPH-2024-blue)
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--07--20-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--07--30-green)
 
 *Table 3.1, Final Report, 2024 Census of Population and Housing, Department of Census and Statistics, Sri Lanka*
+
+## Structured Data (similar to original layout)
+
+```json
+[
+    {
+        "census_date": "27 March 1871",
+        "values": {
+            "total_population": 2400380
+        },
+        "total_value": 2400380
+    },
+    {
+        "census_date": "17 February 1881",
+        "values": {
+            "total_population": 2759738
+        },
+        "total_value": 2759738
+    },
+    {
+        "census_date": "26 February 1891",
+        "values": {
+            "total_population": 3007789
+        },
+        "total_value": 3007789
+    },
+    {
+        "census_date": "01 March 1901",
+        "values": {
+            "total_population": 3565954
+        },
+        "total_value": 3565954
+    },
+    {
+...
+```
+
+- Source File: [data.json (2.0 KB)](../../../../data/final-report-tables/chapter-3/3.1-Total-Population-Intercensal-Increase-and-Average-Annual-Growth-Rate-by-Census-Year-1871-2024/data.json)
 
 ## Raw Data (directly scraped from PDF)
 
@@ -40,13 +78,13 @@
     [
 ...
 ```
-- Source File: [raw_data.json (3.0 KB)](../../../../data/final-report-tables/chapter-3/3.1-Total-Population,-Intercensal-Increase-and-Average-Annual-Growth-Rate-by-Census-Year,-1871---2024/raw_data.json)
+- Source File: [raw_data.json (3.0 KB)](../../../../data/final-report-tables/chapter-3/3.1-Total-Population-Intercensal-Increase-and-Average-Annual-Growth-Rate-by-Census-Year-1871-2024/raw_data.json)
 
 ## Original PDF Page
 
-![Download the original PDF](../../../../data/final-report-tables/chapter-3/3.1-Total-Population,-Intercensal-Increase-and-Average-Annual-Growth-Rate-by-Census-Year,-1871---2024/original.png)
+![Download the original PDF](../../../../data/final-report-tables/chapter-3/3.1-Total-Population-Intercensal-Increase-and-Average-Annual-Growth-Rate-by-Census-Year-1871-2024/original.png)
 
-- Source File: [original.pdf (83.6 KB)](../../../../data/final-report-tables/chapter-3/3.1-Total-Population,-Intercensal-Increase-and-Average-Annual-Growth-Rate-by-Census-Year,-1871---2024/original.pdf)
+- Source File: [original.pdf (83.6 KB)](../../../../data/final-report-tables/chapter-3/3.1-Total-Population-Intercensal-Increase-and-Average-Annual-Growth-Rate-by-Census-Year-1871-2024/original.pdf)
 
 ## Source
 

@@ -1,9 +1,47 @@
 # Population Aged 15 Years and Over by Marital Status and Sex, 2012 and 2024
 
 ![CPH](https://img.shields.io/badge/CPH-2024-blue)
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--07--20-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--07--30-green)
 
 *Table 9.3, Final Report, 2024 Census of Population and Housing, Department of Census and Statistics, Sri Lanka*
+
+## Structured Data (similar to original layout)
+
+```json
+[
+    {
+        "marital_status": "Never married",
+        "values": {
+            "male_2012": 2179099,
+            "female_2012": 1748503,
+            "male_2024": 2527794,
+            "female_2024": 2065535
+        }
+    },
+    {
+        "marital_status": "Married",
+        "values": {
+            "male_2012": 4921044,
+            "female_2012": 5401061,
+            "male_2024": 5417431,
+            "female_2024": 5743629
+        }
+    },
+    {
+        "marital_status": "Widow",
+        "values": {
+            "male_2012": 97532,
+            "female_2012": 695415,
+            "male_2024": 175421,
+            "female_2024": 1058997
+        }
+    },
+    {
+        "marital_status": "Divorced",
+...
+```
+
+- Source File: [data.json (1.1 KB)](../../../../data/final-report-tables/chapter-9/9.3-Population-Aged-15-Years-and-Over-by-Marital-Status-and-Sex-2012-and-2024/data.json)
 
 ## Raw Data (directly scraped from PDF)
 
@@ -40,13 +78,13 @@
         "",
 ...
 ```
-- Source File: [raw_data.json (2.3 KB)](../../../../data/final-report-tables/chapter-9/9.3-Population-Aged-15-Years-and-Over-by-Marital-Status-and-Sex,-2012-and-2024/raw_data.json)
+- Source File: [raw_data.json (2.3 KB)](../../../../data/final-report-tables/chapter-9/9.3-Population-Aged-15-Years-and-Over-by-Marital-Status-and-Sex-2012-and-2024/raw_data.json)
 
 ## Original PDF Page
 
-![Download the original PDF](../../../../data/final-report-tables/chapter-9/9.3-Population-Aged-15-Years-and-Over-by-Marital-Status-and-Sex,-2012-and-2024/original.png)
+![Download the original PDF](../../../../data/final-report-tables/chapter-9/9.3-Population-Aged-15-Years-and-Over-by-Marital-Status-and-Sex-2012-and-2024/original.png)
 
-- Source File: [original.pdf (125.1 KB)](../../../../data/final-report-tables/chapter-9/9.3-Population-Aged-15-Years-and-Over-by-Marital-Status-and-Sex,-2012-and-2024/original.pdf)
+- Source File: [original.pdf (125.1 KB)](../../../../data/final-report-tables/chapter-9/9.3-Population-Aged-15-Years-and-Over-by-Marital-Status-and-Sex-2012-and-2024/original.pdf)
 
 ## Source
 

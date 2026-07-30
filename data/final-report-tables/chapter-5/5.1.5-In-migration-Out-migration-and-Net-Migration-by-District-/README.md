@@ -1,9 +1,85 @@
 # In-migration, Out-migration, and Net Migration by District,
 
 ![CPH](https://img.shields.io/badge/CPH-2024-blue)
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--07--20-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--07--30-green)
 
 *Table 5.1.5, Final Report, 2024 Census of Population and Housing, Department of Census and Statistics, Sri Lanka*
+
+## Structured Data formatted for [Lanka Data API](https://github.com/nuuuwan/lanka_data)
+
+```json
+{
+    "Person": {
+        "Time:2024": {
+            "District:colombo": {
+                "MigrationDirection:in_migrants": {
+                    "Count": "Int:519379"
+                },
+                "MigrationDirection:out_migrants": {
+                    "Count": "Int:384245"
+                }
+            },
+            "District:gampaha": {
+                "MigrationDirection:in_migrants": {
+                    "Count": "Int:524737"
+                },
+                "MigrationDirection:out_migrants": {
+                    "Count": "Int:155712"
+                }
+            },
+            "District:kalutara": {
+                "MigrationDirection:in_migrants": {
+                    "Count": "Int:192833"
+                },
+                "MigrationDirection:out_migrants": {
+                    "Count": "Int:126566"
+                }
+            },
+            "District:kandy": {
+                "MigrationDirection:in_migrants": {
+                    "Count": "Int:172489"
+...
+```
+
+- Source File: [lanka_data.json (5.2 KB)](../../../../data/final-report-tables/chapter-5/5.1.5-In-migration-Out-migration-and-Net-Migration-by-District-/lanka_data.json)
+
+## Structured Data (similar to original layout)
+
+```json
+[
+    {
+        "region_id": "LK-11",
+        "region_name": "Colombo",
+        "region_ent_type": "district",
+        "values": {
+            "in_migrants": 519379,
+            "out_migrants": 384245
+        }
+    },
+    {
+        "region_id": "LK-12",
+        "region_name": "Gampaha",
+        "region_ent_type": "district",
+        "values": {
+            "in_migrants": 524737,
+            "out_migrants": 155712
+        }
+    },
+    {
+        "region_id": "LK-13",
+        "region_name": "Kalutara",
+        "region_ent_type": "district",
+        "values": {
+            "in_migrants": 192833,
+            "out_migrants": 126566
+        }
+    },
+    {
+        "region_id": "LK-21",
+...
+```
+
+- Source File: [data.json (4.4 KB)](../../../../data/final-report-tables/chapter-5/5.1.5-In-migration-Out-migration-and-Net-Migration-by-District-/data.json)
 
 ## Raw Data (directly scraped from PDF)
 
@@ -40,13 +116,13 @@
         "+66,267"
 ...
 ```
-- Source File: [raw_data.json (3.1 KB)](../../../../data/final-report-tables/chapter-5/5.1.5-In-migration,-Out-migration,-and-Net-Migration-by-District,/raw_data.json)
+- Source File: [raw_data.json (3.1 KB)](../../../../data/final-report-tables/chapter-5/5.1.5-In-migration-Out-migration-and-Net-Migration-by-District-/raw_data.json)
 
 ## Original PDF Page
 
-![Download the original PDF](../../../../data/final-report-tables/chapter-5/5.1.5-In-migration,-Out-migration,-and-Net-Migration-by-District,/original.png)
+![Download the original PDF](../../../../data/final-report-tables/chapter-5/5.1.5-In-migration-Out-migration-and-Net-Migration-by-District-/original.png)
 
-- Source File: [original.pdf (23.2 KB)](../../../../data/final-report-tables/chapter-5/5.1.5-In-migration,-Out-migration,-and-Net-Migration-by-District,/original.pdf)
+- Source File: [original.pdf (23.2 KB)](../../../../data/final-report-tables/chapter-5/5.1.5-In-migration-Out-migration-and-Net-Migration-by-District-/original.pdf)
 
 ## Source
 

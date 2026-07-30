@@ -1,9 +1,36 @@
 # Total Fertility Rate (TFR), 1981, 2012 and 2024
 
 ![CPH](https://img.shields.io/badge/CPH-2024-blue)
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--07--20-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--07--30-green)
 
 *Table 9.15, Final Report, 2024 Census of Population and Housing, Department of Census and Statistics, Sri Lanka*
+
+## Structured Data (similar to original layout)
+
+```json
+[
+    {
+        "census_year": "1981",
+        "values": {
+            "total_fertility_rate": 3.3
+        }
+    },
+    {
+        "census_year": "2012",
+        "values": {
+            "total_fertility_rate": 2.4
+        }
+    },
+    {
+        "census_year": "2024",
+        "values": {
+            "total_fertility_rate": 1.3
+        }
+    }
+]
+```
+
+- Source File: [data.json (278.0 B)](../../../../data/final-report-tables/chapter-9/9.15-Total-Fertility-Rate-TFR-1981-2012-and-2024/data.json)
 
 ## Raw Data (directly scraped from PDF)
 
@@ -40,13 +67,13 @@
     [
 ...
 ```
-- Source File: [raw_data.json (1.8 KB)](../../../../data/final-report-tables/chapter-9/9.15-Total-Fertility-Rate-(TFR),-1981,-2012-and-2024/raw_data.json)
+- Source File: [raw_data.json (1.8 KB)](../../../../data/final-report-tables/chapter-9/9.15-Total-Fertility-Rate-TFR-1981-2012-and-2024/raw_data.json)
 
 ## Original PDF Page
 
-![Download the original PDF](../../../../data/final-report-tables/chapter-9/9.15-Total-Fertility-Rate-(TFR),-1981,-2012-and-2024/original.png)
+![Download the original PDF](../../../../data/final-report-tables/chapter-9/9.15-Total-Fertility-Rate-TFR-1981-2012-and-2024/original.png)
 
-- Source File: [original.pdf (124.3 KB)](../../../../data/final-report-tables/chapter-9/9.15-Total-Fertility-Rate-(TFR),-1981,-2012-and-2024/original.pdf)
+- Source File: [original.pdf (124.3 KB)](../../../../data/final-report-tables/chapter-9/9.15-Total-Fertility-Rate-TFR-1981-2012-and-2024/original.pdf)
 
 ## Source
 

@@ -1,9 +1,85 @@
 # Distribution of the Usually Resident Population of a District by their Permanent Residence, 2024
 
 ![CPH](https://img.shields.io/badge/CPH-2024-blue)
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--07--20-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--07--30-green)
 
 *Table 5.1.8, Final Report, 2024 Census of Population and Housing, Department of Census and Statistics, Sri Lanka*
+
+## Structured Data formatted for [Lanka Data API](https://github.com/nuuuwan/lanka_data)
+
+```json
+{
+    "Person": {
+        "Time:2024": {
+            "District:colombo": {
+                "ResidentRelativeToDistrict:in_district": {
+                    "Count": "Int:2244323"
+                },
+                "ResidentRelativeToDistrict:in_other_district": {
+                    "Count": "Int:130546"
+                }
+            },
+            "District:gampaha": {
+                "ResidentRelativeToDistrict:in_district": {
+                    "Count": "Int:2340241"
+                },
+                "ResidentRelativeToDistrict:in_other_district": {
+                    "Count": "Int:95672"
+                }
+            },
+            "District:kalutara": {
+                "ResidentRelativeToDistrict:in_district": {
+                    "Count": "Int:1287854"
+                },
+                "ResidentRelativeToDistrict:in_other_district": {
+                    "Count": "Int:17854"
+                }
+            },
+            "District:kandy": {
+                "ResidentRelativeToDistrict:in_district": {
+                    "Count": "Int:1434821"
+...
+```
+
+- Source File: [lanka_data.json (5.7 KB)](../../../../data/final-report-tables/chapter-5/5.1.8-Distribution-of-the-Usually-Resident-Population-of-a-District-by-their-Permanent-Residence-2024/lanka_data.json)
+
+## Structured Data (similar to original layout)
+
+```json
+[
+    {
+        "region_id": "LK-11",
+        "region_name": "Colombo",
+        "region_ent_type": "district",
+        "values": {
+            "in_district": 2244323,
+            "in_other_district": 130546
+        },
+        "total_value": 2374869
+    },
+    {
+        "region_id": "LK-12",
+        "region_name": "Gampaha",
+        "region_ent_type": "district",
+        "values": {
+            "in_district": 2340241,
+            "in_other_district": 95672
+        },
+        "total_value": 2435913
+    },
+    {
+        "region_id": "LK-13",
+        "region_name": "Kalutara",
+        "region_ent_type": "district",
+        "values": {
+            "in_district": 1287854,
+            "in_other_district": 17854
+        },
+        "total_value": 1305708
+...
+```
+
+- Source File: [data.json (5.2 KB)](../../../../data/final-report-tables/chapter-5/5.1.8-Distribution-of-the-Usually-Resident-Population-of-a-District-by-their-Permanent-Residence-2024/data.json)
 
 ## Raw Data (directly scraped from PDF)
 
@@ -40,13 +116,13 @@
     ],
 ...
 ```
-- Source File: [raw_data.json (3.3 KB)](../../../../data/final-report-tables/chapter-5/5.1.8-Distribution-of-the-Usually-Resident-Population-of-a-District-by-their-Permanent-Residence,-2024/raw_data.json)
+- Source File: [raw_data.json (3.3 KB)](../../../../data/final-report-tables/chapter-5/5.1.8-Distribution-of-the-Usually-Resident-Population-of-a-District-by-their-Permanent-Residence-2024/raw_data.json)
 
 ## Original PDF Page
 
-![Download the original PDF](../../../../data/final-report-tables/chapter-5/5.1.8-Distribution-of-the-Usually-Resident-Population-of-a-District-by-their-Permanent-Residence,-2024/original.png)
+![Download the original PDF](../../../../data/final-report-tables/chapter-5/5.1.8-Distribution-of-the-Usually-Resident-Population-of-a-District-by-their-Permanent-Residence-2024/original.png)
 
-- Source File: [original.pdf (47.4 KB)](../../../../data/final-report-tables/chapter-5/5.1.8-Distribution-of-the-Usually-Resident-Population-of-a-District-by-their-Permanent-Residence,-2024/original.pdf)
+- Source File: [original.pdf (47.4 KB)](../../../../data/final-report-tables/chapter-5/5.1.8-Distribution-of-the-Usually-Resident-Population-of-a-District-by-their-Permanent-Residence-2024/original.pdf)
 
 ## Source
 

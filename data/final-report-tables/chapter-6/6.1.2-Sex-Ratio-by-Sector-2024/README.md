@@ -1,9 +1,72 @@
 # Sex Ratio by Sector, 2024
 
 ![CPH](https://img.shields.io/badge/CPH-2024-blue)
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--07--20-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--07--30-green)
 
 *Table 6.1.2, Final Report, 2024 Census of Population and Housing, Department of Census and Statistics, Sri Lanka*
+
+## Structured Data formatted for [Lanka Data API](https://github.com/nuuuwan/lanka_data)
+
+```json
+{
+    "Person": {
+        "Time:2024": {
+            "Sector:urban": {
+                "SexRatio": "Float:92.8"
+            },
+            "Sector:rural": {
+                "SexRatio": "Float:93.3"
+            },
+            "Sector:estate_rural": {
+                "SexRatio": "Float:94.4"
+            },
+            "Sector:estate_urban": {
+                "SexRatio": "Float:98.4"
+            }
+        }
+    }
+}
+```
+
+- Source File: [lanka_data.json (323.0 B)](../../../../data/final-report-tables/chapter-6/6.1.2-Sex-Ratio-by-Sector-2024/lanka_data.json)
+
+## Structured Data (similar to original layout)
+
+```json
+[
+    {
+        "sector": "Sri Lanka",
+        "values": {
+            "sex_ratio": 93.3
+        }
+    },
+    {
+        "sector": "Urban",
+        "values": {
+            "sex_ratio": 92.8
+        }
+    },
+    {
+        "sector": "Rural",
+        "values": {
+            "sex_ratio": 93.3
+        }
+    },
+    {
+        "sector": "Estate Rural",
+        "values": {
+            "sex_ratio": 94.4
+        }
+    },
+    {
+        "sector": "Estate Urban",
+        "values": {
+            "sex_ratio": 98.4
+        }
+...
+```
+
+- Source File: [data.json (410.0 B)](../../../../data/final-report-tables/chapter-6/6.1.2-Sex-Ratio-by-Sector-2024/data.json)
 
 ## Raw Data (directly scraped from PDF)
 
@@ -40,13 +103,13 @@
         "",
 ...
 ```
-- Source File: [raw_data.json (1.7 KB)](../../../../data/final-report-tables/chapter-6/6.1.2-Sex-Ratio-by-Sector,-2024/raw_data.json)
+- Source File: [raw_data.json (1.7 KB)](../../../../data/final-report-tables/chapter-6/6.1.2-Sex-Ratio-by-Sector-2024/raw_data.json)
 
 ## Original PDF Page
 
-![Download the original PDF](../../../../data/final-report-tables/chapter-6/6.1.2-Sex-Ratio-by-Sector,-2024/original.png)
+![Download the original PDF](../../../../data/final-report-tables/chapter-6/6.1.2-Sex-Ratio-by-Sector-2024/original.png)
 
-- Source File: [original.pdf (37.6 KB)](../../../../data/final-report-tables/chapter-6/6.1.2-Sex-Ratio-by-Sector,-2024/original.pdf)
+- Source File: [original.pdf (37.6 KB)](../../../../data/final-report-tables/chapter-6/6.1.2-Sex-Ratio-by-Sector-2024/original.pdf)
 
 ## Source
 

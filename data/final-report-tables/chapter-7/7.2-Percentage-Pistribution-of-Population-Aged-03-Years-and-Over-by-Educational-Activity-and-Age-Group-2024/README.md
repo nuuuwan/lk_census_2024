@@ -1,9 +1,85 @@
 # Percentage Pistribution of Population Aged 03 Years and Over by Educational Activity and Age Group, 2024
 
 ![CPH](https://img.shields.io/badge/CPH-2024-blue)
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--07--20-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--07--30-green)
 
 *Table 7.2, Final Report, 2024 Census of Population and Housing, Department of Census and Statistics, Sri Lanka*
+
+## Structured Data formatted for [Lanka Data API](https://github.com/nuuuwan/lanka_data)
+
+```json
+{
+    "Person": {
+        "Time:2024": {
+            "AgeGroup:3To4Years": {
+                "EducationActivity:preschool_education": {
+                    "Count": "Int:239687"
+                },
+                "EducationActivity:school_education": {
+                    "Count": "Int:0"
+                },
+                "EducationActivity:degree_or_postgraduate_education": {
+                    "Count": "Int:0"
+                },
+                "EducationActivity:vocational_training_or_technical_education": {
+                    "Count": "Int:0"
+                },
+                "EducationActivity:other_educational_activity": {
+                    "Count": "Int:568"
+                },
+                "EducationActivity:not_studying": {
+                    "Count": "Int:327724"
+                }
+            },
+            "AgeGroup:5To14Years": {
+                "EducationActivity:preschool_education": {
+                    "Count": "Int:243587"
+                },
+                "EducationActivity:school_education": {
+                    "Count": "Int:2909880"
+                },
+...
+```
+
+- Source File: [lanka_data.json (3.1 KB)](../../../../data/final-report-tables/chapter-7/7.2-Percentage-Pistribution-of-Population-Aged-03-Years-and-Over-by-Educational-Activity-and-Age-Group-2024/lanka_data.json)
+
+## Structured Data (similar to original layout)
+
+```json
+[
+    {
+        "age_group": "3 - 4",
+        "values": {
+            "pre_school": 239687,
+            "school_education": 0,
+            "undergraduate_or_postgraduate_education": 0,
+            "vocational_training_or_technical_education": 0,
+            "other_educational_activity": 568,
+            "not_studying": 327724
+        },
+        "total_value": 567979
+    },
+    {
+        "age_group": "5 -14",
+        "values": {
+            "pre_school": 243587,
+            "school_education": 2909880,
+            "undergraduate_or_postgraduate_education": 0,
+            "vocational_training_or_technical_education": 0,
+            "other_educational_activity": 23042,
+            "not_studying": 115210
+        },
+        "total_value": 3291719
+    },
+    {
+        "age_group": "15 -18",
+        "values": {
+            "pre_school": 0,
+            "school_education": 1148649,
+...
+```
+
+- Source File: [data.json (1.6 KB)](../../../../data/final-report-tables/chapter-7/7.2-Percentage-Pistribution-of-Population-Aged-03-Years-and-Over-by-Educational-Activity-and-Age-Group-2024/data.json)
 
 ## Raw Data (directly scraped from PDF)
 
@@ -40,13 +116,13 @@
         "",
 ...
 ```
-- Source File: [raw_data.json (1.8 KB)](../../../../data/final-report-tables/chapter-7/7.2-Percentage-Pistribution-of-Population-Aged-03-Years-and-Over-by-Educational-Activity-and-Age-Group,-2024/raw_data.json)
+- Source File: [raw_data.json (1.8 KB)](../../../../data/final-report-tables/chapter-7/7.2-Percentage-Pistribution-of-Population-Aged-03-Years-and-Over-by-Educational-Activity-and-Age-Group-2024/raw_data.json)
 
 ## Original PDF Page
 
-![Download the original PDF](../../../../data/final-report-tables/chapter-7/7.2-Percentage-Pistribution-of-Population-Aged-03-Years-and-Over-by-Educational-Activity-and-Age-Group,-2024/original.png)
+![Download the original PDF](../../../../data/final-report-tables/chapter-7/7.2-Percentage-Pistribution-of-Population-Aged-03-Years-and-Over-by-Educational-Activity-and-Age-Group-2024/original.png)
 
-- Source File: [original.pdf (87.6 KB)](../../../../data/final-report-tables/chapter-7/7.2-Percentage-Pistribution-of-Population-Aged-03-Years-and-Over-by-Educational-Activity-and-Age-Group,-2024/original.pdf)
+- Source File: [original.pdf (87.6 KB)](../../../../data/final-report-tables/chapter-7/7.2-Percentage-Pistribution-of-Population-Aged-03-Years-and-Over-by-Educational-Activity-and-Age-Group-2024/original.pdf)
 
 (Table 0 on this page.)
 

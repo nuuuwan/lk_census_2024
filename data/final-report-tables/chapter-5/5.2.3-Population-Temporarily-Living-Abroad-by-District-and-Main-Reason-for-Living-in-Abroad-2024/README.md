@@ -1,9 +1,85 @@
 # Population Temporarily Living Abroad by District and Main Reason for Living in Abroad, 2024
 
 ![CPH](https://img.shields.io/badge/CPH-2024-blue)
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--07--20-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--07--30-green)
 
 *Table 5.2.3, Final Report, 2024 Census of Population and Housing, Department of Census and Statistics, Sri Lanka*
+
+## Structured Data formatted for [Lanka Data API](https://github.com/nuuuwan/lanka_data)
+
+```json
+{
+    "Person": {
+        "Time:2024": {
+            "District:colombo": {
+                "EmmigrationReason:employment": {
+                    "Count": "Int:51449"
+                },
+                "EmmigrationReason:education": {
+                    "Count": "Int:12339"
+                },
+                "EmmigrationReason:accompanying_family_member_in_need": {
+                    "Count": "Int:7230"
+                },
+                "EmmigrationReason:other": {
+                    "Count": "Int:421"
+                }
+            },
+            "District:gampaha": {
+                "EmmigrationReason:employment": {
+                    "Count": "Int:67844"
+                },
+                "EmmigrationReason:education": {
+                    "Count": "Int:10894"
+                },
+                "EmmigrationReason:accompanying_family_member_in_need": {
+                    "Count": "Int:7028"
+                },
+                "EmmigrationReason:other": {
+                    "Count": "Int:311"
+                }
+...
+```
+
+- Source File: [lanka_data.json (9.4 KB)](../../../../data/final-report-tables/chapter-5/5.2.3-Population-Temporarily-Living-Abroad-by-District-and-Main-Reason-for-Living-in-Abroad-2024/lanka_data.json)
+
+## Structured Data (similar to original layout)
+
+```json
+[
+    {
+        "region_id": "LK-11",
+        "region_name": "Colombo",
+        "region_ent_type": "district",
+        "values": {
+            "employment": 51449,
+            "education": 12339,
+            "accompanying_family_member_in_need": 7230,
+            "other": 421
+        },
+        "total_value": 71439
+    },
+    {
+        "region_id": "LK-12",
+        "region_name": "Gampaha",
+        "region_ent_type": "district",
+        "values": {
+            "employment": 67844,
+            "education": 10894,
+            "accompanying_family_member_in_need": 7028,
+            "other": 311
+        },
+        "total_value": 86077
+    },
+    {
+        "region_id": "LK-13",
+        "region_name": "Kalutara",
+        "region_ent_type": "district",
+        "values": {
+...
+```
+
+- Source File: [data.json (14.8 KB)](../../../../data/final-report-tables/chapter-5/5.2.3-Population-Temporarily-Living-Abroad-by-District-and-Main-Reason-for-Living-in-Abroad-2024/data.json)
 
 ## Raw Data (directly scraped from PDF)
 
@@ -40,13 +116,13 @@
         "(2,491), migrated temporarily for other reasons."
 ...
 ```
-- Source File: [raw_data.json (5.0 KB)](../../../../data/final-report-tables/chapter-5/5.2.3-Population-Temporarily-Living-Abroad-by-District-and-Main-Reason-for-Living-in-Abroad,-2024/raw_data.json)
+- Source File: [raw_data.json (5.0 KB)](../../../../data/final-report-tables/chapter-5/5.2.3-Population-Temporarily-Living-Abroad-by-District-and-Main-Reason-for-Living-in-Abroad-2024/raw_data.json)
 
 ## Original PDF Page
 
-![Download the original PDF](../../../../data/final-report-tables/chapter-5/5.2.3-Population-Temporarily-Living-Abroad-by-District-and-Main-Reason-for-Living-in-Abroad,-2024/original.png)
+![Download the original PDF](../../../../data/final-report-tables/chapter-5/5.2.3-Population-Temporarily-Living-Abroad-by-District-and-Main-Reason-for-Living-in-Abroad-2024/original.png)
 
-- Source File: [original.pdf (56.5 KB)](../../../../data/final-report-tables/chapter-5/5.2.3-Population-Temporarily-Living-Abroad-by-District-and-Main-Reason-for-Living-in-Abroad,-2024/original.pdf)
+- Source File: [original.pdf (56.5 KB)](../../../../data/final-report-tables/chapter-5/5.2.3-Population-Temporarily-Living-Abroad-by-District-and-Main-Reason-for-Living-in-Abroad-2024/original.pdf)
 
 ## Source
 

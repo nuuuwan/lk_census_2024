@@ -1,9 +1,85 @@
 # Employed Population, by Highest Educational Attainment and Sex, 2024
 
 ![CPH](https://img.shields.io/badge/CPH-2024-blue)
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--07--20-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--07--30-green)
 
 *Table 8.7, Final Report, 2024 Census of Population and Housing, Department of Census and Statistics, Sri Lanka*
+
+## Structured Data formatted for [Lanka Data API](https://github.com/nuuuwan/lanka_data)
+
+```json
+{
+    "Person": {
+        "Time:2024": {
+            "HighestEducationLevel2:never_attended_school": {
+                "Sex:male": {
+                    "EmployedCount": "Int:67915"
+                },
+                "Sex:female": {
+                    "EmployedCount": "Int:49378"
+                }
+            },
+            "HighestEducationLevel2:studied_in_a_special_school_or_special_unit": {
+                "Sex:male": {
+                    "EmployedCount": "Int:3923"
+                },
+                "Sex:female": {
+                    "EmployedCount": "Int:2719"
+                }
+            },
+            "HighestEducationLevel2:passed_grade_1_5": {
+                "Sex:male": {
+                    "EmployedCount": "Int:493163"
+                },
+                "Sex:female": {
+                    "EmployedCount": "Int:183967"
+                }
+            },
+            "HighestEducationLevel2:passed_grade_6_8": {
+                "Sex:male": {
+                    "EmployedCount": "Int:618673"
+...
+```
+
+- Source File: [lanka_data.json (1.7 KB)](../../../../data/final-report-tables/chapter-8/8.7-Employed-Population-by-Highest-Educational-Attainment-and-Sex-2024/lanka_data.json)
+
+## Structured Data (similar to original layout)
+
+```json
+[
+    {
+        "educational_level": "Never attended School",
+        "values": {
+            "male": 67915,
+            "female": 49378
+        },
+        "total_value": 117293
+    },
+    {
+        "educational_level": "Studied in a special school / special unit",
+        "values": {
+            "male": 3923,
+            "female": 2719
+        },
+        "total_value": 6642
+    },
+    {
+        "educational_level": "Passed Grade 1 - 5",
+        "values": {
+            "male": 493163,
+            "female": 183967
+        },
+        "total_value": 677130
+    },
+    {
+        "educational_level": "Passed Grade 6 - 8",
+        "values": {
+            "male": 618673,
+            "female": 171412
+...
+```
+
+- Source File: [data.json (1.2 KB)](../../../../data/final-report-tables/chapter-8/8.7-Employed-Population-by-Highest-Educational-Attainment-and-Sex-2024/data.json)
 
 ## Raw Data (directly scraped from PDF)
 
@@ -40,13 +116,13 @@
         "Total",
 ...
 ```
-- Source File: [raw_data.json (2.2 KB)](../../../../data/final-report-tables/chapter-8/8.7-Employed-Population,-by-Highest-Educational-Attainment-and-Sex,-2024/raw_data.json)
+- Source File: [raw_data.json (2.2 KB)](../../../../data/final-report-tables/chapter-8/8.7-Employed-Population-by-Highest-Educational-Attainment-and-Sex-2024/raw_data.json)
 
 ## Original PDF Page
 
-![Download the original PDF](../../../../data/final-report-tables/chapter-8/8.7-Employed-Population,-by-Highest-Educational-Attainment-and-Sex,-2024/original.png)
+![Download the original PDF](../../../../data/final-report-tables/chapter-8/8.7-Employed-Population-by-Highest-Educational-Attainment-and-Sex-2024/original.png)
 
-- Source File: [original.pdf (60.8 KB)](../../../../data/final-report-tables/chapter-8/8.7-Employed-Population,-by-Highest-Educational-Attainment-and-Sex,-2024/original.pdf)
+- Source File: [original.pdf (60.8 KB)](../../../../data/final-report-tables/chapter-8/8.7-Employed-Population-by-Highest-Educational-Attainment-and-Sex-2024/original.pdf)
 
 ## Source
 

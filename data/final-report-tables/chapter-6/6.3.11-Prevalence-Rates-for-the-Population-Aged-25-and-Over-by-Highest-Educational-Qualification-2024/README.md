@@ -1,9 +1,85 @@
 # Prevalence Rates for the Population Aged 25 and Over by Highest Educational Qualification, 2024
 
 ![CPH](https://img.shields.io/badge/CPH-2024-blue)
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--07--20-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--07--30-green)
 
 *Table 6.3.11, Final Report, 2024 Census of Population and Housing, Department of Census and Statistics, Sri Lanka*
+
+## Structured Data formatted for [Lanka Data API](https://github.com/nuuuwan/lanka_data)
+
+```json
+{
+    "Person": {
+        "Time:2024": {
+            "HighestEducationLevel:never_attended_school": {
+                "NonCommunicableDisease:diabetes": {
+                    "Count": "Int:70779"
+                },
+                "NonCommunicableDisease:high_cholesterol": {
+                    "Count": "Int:71178"
+                },
+                "NonCommunicableDisease:high_blood_pressure": {
+                    "Count": "Int:109967"
+                },
+                "NonCommunicableDisease:heart_disease": {
+                    "Count": "Int:24792"
+                },
+                "NonCommunicableDisease:kidney_disease": {
+                    "Count": "Int:9597"
+                },
+                "NonCommunicableDisease:thalassemia": {
+                    "Count": "Int:800"
+                },
+                "NonCommunicableDisease:cancer": {
+                    "Count": "Int:3999"
+                },
+                "NonCommunicableDisease:stroke": {
+                    "Count": "Int:12396"
+                },
+                "NonCommunicableDisease:asthma": {
+                    "Count": "Int:25992"
+...
+```
+
+- Source File: [lanka_data.json (6.6 KB)](../../../../data/final-report-tables/chapter-6/6.3.11-Prevalence-Rates-for-the-Population-Aged-25-and-Over-by-Highest-Educational-Qualification-2024/lanka_data.json)
+
+## Structured Data (similar to original layout)
+
+```json
+[
+    {
+        "education": "Population aged 25 and over*",
+        "values": {
+            "diabetes": 1844590,
+            "high_cholesterol": 1789114,
+            "high_blood_pressure": 2191318,
+            "heart_disease": 513157,
+            "kidney_disease": 166429,
+            "thalassemia": 13869,
+            "cancer": 83215,
+            "stroke": 124822,
+            "asthma": 332858,
+            "epilepsy": 41607
+        },
+        "total_value": 13869099
+    },
+    {
+        "education": "Never attended school",
+        "values": {
+            "diabetes": 70779,
+            "high_cholesterol": 71178,
+            "high_blood_pressure": 109967,
+            "heart_disease": 24792,
+            "kidney_disease": 9597,
+            "thalassemia": 800,
+            "cancer": 3999,
+            "stroke": 12396,
+            "asthma": 25992,
+            "epilepsy": 5998
+...
+```
+
+- Source File: [data.json (2.9 KB)](../../../../data/final-report-tables/chapter-6/6.3.11-Prevalence-Rates-for-the-Population-Aged-25-and-Over-by-Highest-Educational-Qualification-2024/data.json)
 
 ## Raw Data (directly scraped from PDF)
 
@@ -40,13 +116,13 @@
     [
 ...
 ```
-- Source File: [raw_data.json (1.7 KB)](../../../../data/final-report-tables/chapter-6/6.3.11-Prevalence-Rates-for-the-Population-Aged-25-and-Over-by-Highest-Educational-Qualification,-2024/raw_data.json)
+- Source File: [raw_data.json (1.7 KB)](../../../../data/final-report-tables/chapter-6/6.3.11-Prevalence-Rates-for-the-Population-Aged-25-and-Over-by-Highest-Educational-Qualification-2024/raw_data.json)
 
 ## Original PDF Page
 
-![Download the original PDF](../../../../data/final-report-tables/chapter-6/6.3.11-Prevalence-Rates-for-the-Population-Aged-25-and-Over-by-Highest-Educational-Qualification,-2024/original.png)
+![Download the original PDF](../../../../data/final-report-tables/chapter-6/6.3.11-Prevalence-Rates-for-the-Population-Aged-25-and-Over-by-Highest-Educational-Qualification-2024/original.png)
 
-- Source File: [original.pdf (61.9 KB)](../../../../data/final-report-tables/chapter-6/6.3.11-Prevalence-Rates-for-the-Population-Aged-25-and-Over-by-Highest-Educational-Qualification,-2024/original.pdf)
+- Source File: [original.pdf (61.9 KB)](../../../../data/final-report-tables/chapter-6/6.3.11-Prevalence-Rates-for-the-Population-Aged-25-and-Over-by-Highest-Educational-Qualification-2024/original.pdf)
 
 ## Source
 

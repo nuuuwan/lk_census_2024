@@ -1,9 +1,47 @@
 # Number of Occupied Housing Units & Permanently Closed/Vacant Housing Units by District, 2012 and 2024
 
 ![CPH](https://img.shields.io/badge/CPH-2024-blue)
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--07--20-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--07--30-green)
 
 *Table 11.2, Final Report, 2024 Census of Population and Housing, Department of Census and Statistics, Sri Lanka*
+
+## Structured Data (similar to original layout)
+
+```json
+[
+    {
+        "region_id": "LK-11",
+        "region_name": "Colombo",
+        "region_ent_type": "district",
+        "values": {
+            "occupied_2012": 562550,
+            "permanently_closed_or_vacant_2012": 78052,
+            "occupied_2024": 654051,
+            "permanently_closed_or_vacant_2024": 113837
+        }
+    },
+    {
+        "region_id": "LK-12",
+        "region_name": "Gampaha",
+        "region_ent_type": "district",
+        "values": {
+            "occupied_2012": 598674,
+            "permanently_closed_or_vacant_2012": 65355,
+            "occupied_2024": 683025,
+            "permanently_closed_or_vacant_2024": 102557
+        }
+    },
+    {
+        "region_id": "LK-13",
+        "region_name": "Kalutara",
+        "region_ent_type": "district",
+        "values": {
+            "occupied_2012": 302371,
+            "permanently_closed_or_vacant_2012": 35199,
+...
+```
+
+- Source File: [data.json (15.7 KB)](../../../../data/final-report-tables/chapter-11/11.2-Number-of-Occupied-Housing-Units-Permanently-Closed-Vacant-Housing-Units-by-District-2012-and-2024/data.json)
 
 ## Raw Data (directly scraped from PDF)
 
@@ -40,13 +78,13 @@
         "permanently",
 ...
 ```
-- Source File: [raw_data.json (2.9 KB)](../../../../data/final-report-tables/chapter-11/11.2-Number-of-Occupied-Housing-Units-&-Permanently-Closed/Vacant-Housing-Units-by-District,-2012-and-2024/raw_data.json)
+- Source File: [raw_data.json (2.9 KB)](../../../../data/final-report-tables/chapter-11/11.2-Number-of-Occupied-Housing-Units-Permanently-Closed-Vacant-Housing-Units-by-District-2012-and-2024/raw_data.json)
 
 ## Original PDF Page
 
-![Download the original PDF](../../../../data/final-report-tables/chapter-11/11.2-Number-of-Occupied-Housing-Units-&-Permanently-Closed/Vacant-Housing-Units-by-District,-2012-and-2024/original.png)
+![Download the original PDF](../../../../data/final-report-tables/chapter-11/11.2-Number-of-Occupied-Housing-Units-Permanently-Closed-Vacant-Housing-Units-by-District-2012-and-2024/original.png)
 
-- Source File: [original.pdf (80.6 KB)](../../../../data/final-report-tables/chapter-11/11.2-Number-of-Occupied-Housing-Units-&-Permanently-Closed/Vacant-Housing-Units-by-District,-2012-and-2024/original.pdf)
+- Source File: [original.pdf (80.6 KB)](../../../../data/final-report-tables/chapter-11/11.2-Number-of-Occupied-Housing-Units-Permanently-Closed-Vacant-Housing-Units-by-District-2012-and-2024/original.pdf)
 
 ## Source
 

@@ -1,9 +1,85 @@
 # Population Aged 3 Years and Over by Sex and Educational Activity During the Census Reference Period,
 
 ![CPH](https://img.shields.io/badge/CPH-2024-blue)
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--07--20-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--07--30-green)
 
 *Table 7.1, Final Report, 2024 Census of Population and Housing, Department of Census and Statistics, Sri Lanka*
+
+## Structured Data formatted for [Lanka Data API](https://github.com/nuuuwan/lanka_data)
+
+```json
+{
+    "Person": {
+        "Time:2024": {
+            "EducationActivity:preschool_education": {
+                "Sex:male": {
+                    "Count": "Int:243648"
+                },
+                "Sex:female": {
+                    "Count": "Int:238458"
+                }
+            },
+            "EducationActivity:school_education": {
+                "Sex:male": {
+                    "Count": "Int:2157831"
+                },
+                "Sex:female": {
+                    "Count": "Int:2193394"
+                }
+            },
+            "EducationActivity:degree_or_postgraduate_education": {
+                "Sex:male": {
+                    "Count": "Int:120745"
+                },
+                "Sex:female": {
+                    "Count": "Int:200244"
+                }
+            },
+            "EducationActivity:vocational_training_or_technical_education": {
+                "Sex:male": {
+                    "Count": "Int:70149"
+...
+```
+
+- Source File: [lanka_data.json (1.2 KB)](../../../../data/final-report-tables/chapter-7/7.1-Population-Aged-3-Years-and-Over-by-Sex-and-Educational-Activity-During-the-Census-Reference-Period-/lanka_data.json)
+
+## Structured Data (similar to original layout)
+
+```json
+[
+    {
+        "educational_activity": "Preschool education",
+        "values": {
+            "male": 243648,
+            "female": 238458
+        },
+        "total_value": 482106
+    },
+    {
+        "educational_activity": "School education",
+        "values": {
+            "male": 2157831,
+            "female": 2193394
+        },
+        "total_value": 4351225
+    },
+    {
+        "educational_activity": "Degree/Postgraduate education",
+        "values": {
+            "male": 120745,
+            "female": 200244
+        },
+        "total_value": 320989
+    },
+    {
+        "educational_activity": "Vocational training/Technical education",
+        "values": {
+            "male": 70149,
+            "female": 52308
+...
+```
+
+- Source File: [data.json (958.0 B)](../../../../data/final-report-tables/chapter-7/7.1-Population-Aged-3-Years-and-Over-by-Sex-and-Educational-Activity-During-the-Census-Reference-Period-/data.json)
 
 ## Raw Data (directly scraped from PDF)
 
@@ -40,13 +116,13 @@
         "on  literacy  in  the  main  languages  used  in  Sri  Lanka  \u201cSinhala,\u201d  \u201cTamil,\u201d  and  \u201cEnglish\u201d  as  well  as  on"
 ...
 ```
-- Source File: [raw_data.json (2.3 KB)](../../../../data/final-report-tables/chapter-7/7.1-Population-Aged-3-Years-and-Over-by-Sex-and-Educational-Activity-During-the-Census-Reference-Period,/raw_data.json)
+- Source File: [raw_data.json (2.3 KB)](../../../../data/final-report-tables/chapter-7/7.1-Population-Aged-3-Years-and-Over-by-Sex-and-Educational-Activity-During-the-Census-Reference-Period-/raw_data.json)
 
 ## Original PDF Page
 
-![Download the original PDF](../../../../data/final-report-tables/chapter-7/7.1-Population-Aged-3-Years-and-Over-by-Sex-and-Educational-Activity-During-the-Census-Reference-Period,/original.png)
+![Download the original PDF](../../../../data/final-report-tables/chapter-7/7.1-Population-Aged-3-Years-and-Over-by-Sex-and-Educational-Activity-During-the-Census-Reference-Period-/original.png)
 
-- Source File: [original.pdf (63.3 KB)](../../../../data/final-report-tables/chapter-7/7.1-Population-Aged-3-Years-and-Over-by-Sex-and-Educational-Activity-During-the-Census-Reference-Period,/original.pdf)
+- Source File: [original.pdf (63.3 KB)](../../../../data/final-report-tables/chapter-7/7.1-Population-Aged-3-Years-and-Over-by-Sex-and-Educational-Activity-During-the-Census-Reference-Period-/original.pdf)
 
 ## Source
 
