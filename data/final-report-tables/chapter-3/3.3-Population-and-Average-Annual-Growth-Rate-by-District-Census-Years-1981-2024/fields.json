@@ -16,5 +16,6 @@
   "row_dim_key": "region_id",
   "col_dim_class_name": "Time",
   "cell_label": "Count",
-  "cell_class_name": "Int"
+  "cell_class_name": "Int",
+  "is_lanka_data_verified": true
 }
