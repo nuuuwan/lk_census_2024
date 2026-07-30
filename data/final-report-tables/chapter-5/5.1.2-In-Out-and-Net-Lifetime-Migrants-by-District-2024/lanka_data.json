@@ -2,202 +2,202 @@
   "Person": {
     "Time:2024": {
       "District:colombo": {
-        "MigrationDirection:in_migrants": {
+        "MigrationLifetimeDirection:in_migrants": {
           "Count": "Int:491236"
         },
-        "MigrationDirection:out_migrants": {
+        "MigrationLifetimeDirection:out_migrants": {
           "Count": "Int:299712"
         }
       },
       "District:gampaha": {
-        "MigrationDirection:in_migrants": {
+        "MigrationLifetimeDirection:in_migrants": {
           "Count": "Int:490861"
         },
-        "MigrationDirection:out_migrants": {
+        "MigrationLifetimeDirection:out_migrants": {
           "Count": "Int:133333"
         }
       },
       "District:kalutara": {
-        "MigrationDirection:in_migrants": {
+        "MigrationLifetimeDirection:in_migrants": {
           "Count": "Int:180877"
         },
-        "MigrationDirection:out_migrants": {
+        "MigrationLifetimeDirection:out_migrants": {
           "Count": "Int:118645"
         }
       },
       "District:kandy": {
-        "MigrationDirection:in_migrants": {
+        "MigrationLifetimeDirection:in_migrants": {
           "Count": "Int:157921"
         },
-        "MigrationDirection:out_migrants": {
+        "MigrationLifetimeDirection:out_migrants": {
           "Count": "Int:282795"
         }
       },
       "District:matale": {
-        "MigrationDirection:in_migrants": {
+        "MigrationLifetimeDirection:in_migrants": {
           "Count": "Int:78262"
         },
-        "MigrationDirection:out_migrants": {
+        "MigrationLifetimeDirection:out_migrants": {
           "Count": "Int:100663"
         }
       },
       "District:nuwara_eliya": {
-        "MigrationDirection:in_migrants": {
+        "MigrationLifetimeDirection:in_migrants": {
           "Count": "Int:52570"
         },
-        "MigrationDirection:out_migrants": {
+        "MigrationLifetimeDirection:out_migrants": {
           "Count": "Int:163618"
         }
       },
       "District:galle": {
-        "MigrationDirection:in_migrants": {
+        "MigrationLifetimeDirection:in_migrants": {
           "Count": "Int:88038"
         },
-        "MigrationDirection:out_migrants": {
+        "MigrationLifetimeDirection:out_migrants": {
           "Count": "Int:180517"
         }
       },
       "District:matara": {
-        "MigrationDirection:in_migrants": {
+        "MigrationLifetimeDirection:in_migrants": {
           "Count": "Int:82457"
         },
-        "MigrationDirection:out_migrants": {
+        "MigrationLifetimeDirection:out_migrants": {
           "Count": "Int:201297"
         }
       },
       "District:hambantota": {
-        "MigrationDirection:in_migrants": {
+        "MigrationLifetimeDirection:in_migrants": {
           "Count": "Int:64982"
         },
-        "MigrationDirection:out_migrants": {
+        "MigrationLifetimeDirection:out_migrants": {
           "Count": "Int:103658"
         }
       },
       "District:jaffna": {
-        "MigrationDirection:in_migrants": {
+        "MigrationLifetimeDirection:in_migrants": {
           "Count": "Int:26104"
         },
-        "MigrationDirection:out_migrants": {
+        "MigrationLifetimeDirection:out_migrants": {
           "Count": "Int:79449"
         }
       },
       "District:mannar": {
-        "MigrationDirection:in_migrants": {
+        "MigrationLifetimeDirection:in_migrants": {
           "Count": "Int:15367"
         },
-        "MigrationDirection:out_migrants": {
+        "MigrationLifetimeDirection:out_migrants": {
           "Count": "Int:21727"
         }
       },
       "District:vavuniya": {
-        "MigrationDirection:in_migrants": {
+        "MigrationLifetimeDirection:in_migrants": {
           "Count": "Int:50012"
         },
-        "MigrationDirection:out_migrants": {
+        "MigrationLifetimeDirection:out_migrants": {
           "Count": "Int:18648"
         }
       },
       "District:mullaitivu": {
-        "MigrationDirection:in_migrants": {
+        "MigrationLifetimeDirection:in_migrants": {
           "Count": "Int:29279"
         },
-        "MigrationDirection:out_migrants": {
+        "MigrationLifetimeDirection:out_migrants": {
           "Count": "Int:16148"
         }
       },
       "District:kilinochchi": {
-        "MigrationDirection:in_migrants": {
+        "MigrationLifetimeDirection:in_migrants": {
           "Count": "Int:32723"
         },
-        "MigrationDirection:out_migrants": {
+        "MigrationLifetimeDirection:out_migrants": {
           "Count": "Int:16569"
         }
       },
       "District:batticaloa": {
-        "MigrationDirection:in_migrants": {
+        "MigrationLifetimeDirection:in_migrants": {
           "Count": "Int:19036"
         },
-        "MigrationDirection:out_migrants": {
+        "MigrationLifetimeDirection:out_migrants": {
           "Count": "Int:25693"
         }
       },
       "District:ampara": {
-        "MigrationDirection:in_migrants": {
+        "MigrationLifetimeDirection:in_migrants": {
           "Count": "Int:72267"
         },
-        "MigrationDirection:out_migrants": {
+        "MigrationLifetimeDirection:out_migrants": {
           "Count": "Int:53579"
         }
       },
       "District:trincomalee": {
-        "MigrationDirection:in_migrants": {
+        "MigrationLifetimeDirection:in_migrants": {
           "Count": "Int:33634"
         },
-        "MigrationDirection:out_migrants": {
+        "MigrationLifetimeDirection:out_migrants": {
           "Count": "Int:38886"
         }
       },
       "District:kurunegala": {
-        "MigrationDirection:in_migrants": {
+        "MigrationLifetimeDirection:in_migrants": {
           "Count": "Int:192409"
         },
-        "MigrationDirection:out_migrants": {
+        "MigrationLifetimeDirection:out_migrants": {
           "Count": "Int:201885"
         }
       },
       "District:puttalam": {
-        "MigrationDirection:in_migrants": {
+        "MigrationLifetimeDirection:in_migrants": {
           "Count": "Int:99666"
         },
-        "MigrationDirection:out_migrants": {
+        "MigrationLifetimeDirection:out_migrants": {
           "Count": "Int:75940"
         }
       },
       "District:anuradhapura": {
-        "MigrationDirection:in_migrants": {
+        "MigrationLifetimeDirection:in_migrants": {
           "Count": "Int:144866"
         },
-        "MigrationDirection:out_migrants": {
+        "MigrationLifetimeDirection:out_migrants": {
           "Count": "Int:111341"
         }
       },
       "District:polonnaruwa": {
-        "MigrationDirection:in_migrants": {
+        "MigrationLifetimeDirection:in_migrants": {
           "Count": "Int:93574"
         },
-        "MigrationDirection:out_migrants": {
+        "MigrationLifetimeDirection:out_migrants": {
           "Count": "Int:57093"
         }
       },
       "District:badulla": {
-        "MigrationDirection:in_migrants": {
+        "MigrationLifetimeDirection:in_migrants": {
           "Count": "Int:70437"
         },
-        "MigrationDirection:out_migrants": {
+        "MigrationLifetimeDirection:out_migrants": {
           "Count": "Int:158792"
         }
       },
       "District:monaragala": {
-        "MigrationDirection:in_migrants": {
+        "MigrationLifetimeDirection:in_migrants": {
           "Count": "Int:81392"
         },
-        "MigrationDirection:out_migrants": {
+        "MigrationLifetimeDirection:out_migrants": {
           "Count": "Int:61391"
         }
       },
       "District:ratnapura": {
-        "MigrationDirection:in_migrants": {
+        "MigrationLifetimeDirection:in_migrants": {
           "Count": "Int:89081"
         },
-        "MigrationDirection:out_migrants": {
+        "MigrationLifetimeDirection:out_migrants": {
           "Count": "Int:151811"
         }
       },
       "District:kegalle": {
-        "MigrationDirection:in_migrants": {
+        "MigrationLifetimeDirection:in_migrants": {
           "Count": "Int:95773"
         },
-        "MigrationDirection:out_migrants": {
+        "MigrationLifetimeDirection:out_migrants": {
           "Count": "Int:159634"
         }
       }
