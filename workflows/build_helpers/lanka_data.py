@@ -27,7 +27,6 @@ if __name__ == "__main__":
                     break
 
         if table.build_status == 5:
-
             if table.is_lanka_data_verified:
                 continue
 
