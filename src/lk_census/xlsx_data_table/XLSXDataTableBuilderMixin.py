@@ -14,6 +14,7 @@ class XLSXDataTableBuilderMixin:
     def clean(self):
         self.data_file.delete()
         self.lanka_data_file.delete()
+        self.readme_file.delete()
 
     @classmethod
     def build_all(cls):

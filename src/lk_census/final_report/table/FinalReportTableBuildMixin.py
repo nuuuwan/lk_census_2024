@@ -6,6 +6,7 @@ class FinalReportTableBuildMixin:
         self.raw_data_file.delete()
         self.data_file.delete()
         self.lanka_data_file.delete()
+        self.readme_file.delete()
 
     def build(self, force=False):
         self.build_original_pdf(force)
