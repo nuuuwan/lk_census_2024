@@ -1,6 +1,6 @@
 {
   "primary_keys": ["census_date"],
-  "other_keys": ["total_population", "_ignore", "_ignore", "_ignore"],
+  "other_keys": ["population", "_ignore", "_ignore", "_ignore"],
   "entity_class_name": "Person",
   "time_value": "<FromRow>",
   "row_dim_class_name": "Time",
