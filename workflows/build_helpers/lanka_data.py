@@ -41,7 +41,7 @@ if __name__ == "__main__":
             log.info("-" * 32)
 
             table.fields_file.open("code")
-            table.lanka_data_file.remove()
+            table.lanka_data_file.delete()
             table.original_pdf_file.open("code")
 
             break
