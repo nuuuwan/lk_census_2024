@@ -12,7 +12,7 @@ if __name__ == "__main__":
 
         if table.build_status == 3:
             if table.is_can_build_data:
-                log.warning(f"{table} build_data...")
+                log.error(f"{table} build_data...")
                 table.build_data()
                 table.data_file.open("code")
                 break
@@ -20,7 +20,7 @@ if __name__ == "__main__":
         if table.build_status == 4:
             if table.is_lanka_data_fields_complete:
                 if table.is_can_build_lanka_data:
-                    log.warning(f"{table} build_lanka_data...")
+                    log.error(f"{table} build_lanka_data...")
                     table.data_file.open("code")
                     table.build_lanka_data()
                     table.lanka_data_file.open("code")
@@ -28,20 +28,19 @@ if __name__ == "__main__":
 
         if table.build_status == 5:
 
-            if "house" not in table.table_name.lower():
-                continue
-
-            fields = table.fields
-            entity_class_name = fields.get("entity_class_name", "")
-            if entity_class_name == "House":
+            if table.is_lanka_data_verified:
                 continue
 
             log.info("-" * 32)
             log.info(f"table.table_num={table.table_num}")
             log.info("-" * 32)
 
+            fields = table.fields
+            fields["is_lanka_data_verified"] = False
+            table.fields_file.write(fields)
+
             table.fields_file.open("code")
-            table.lanka_data_file.delete()
             table.original_pdf_file.open("code")
+            table.lanka_data_file.open("code")
 
             break

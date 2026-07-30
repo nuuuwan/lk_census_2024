@@ -23,6 +23,7 @@
   "row_dim_class_name": "District",
   "row_dim_key": "region_id",
   "col_dim_class_name": "Time",
-  "cell_label": "IsExisting",
-  "cell_class_name": "Bool"
+  "cell_label": "IsIn",
+  "cell_class_name": "Bool",
+  "is_lanka_data_verified": true
 }

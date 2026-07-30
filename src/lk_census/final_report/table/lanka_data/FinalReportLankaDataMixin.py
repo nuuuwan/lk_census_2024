@@ -61,3 +61,7 @@ class FinalReportLankaDataMixin(FinalReportLankaMetaDataMixin):
         if not self.lanka_data_file.exists():
             return {}
         return self.lanka_data_file.read()
+
+    @property
+    def is_lanka_data_verified(self):
+        return self.fields.get("is_lanka_data_verified", False)
