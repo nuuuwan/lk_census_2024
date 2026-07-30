@@ -7,5 +7,6 @@
   "row_dim_key": "age_group",
   "col_dim_class_name": "Sex",
   "cell_label": "CountEconomicallyActive",
-  "cell_class_name": "Int"
+  "cell_class_name": "Int",
+  "is_lanka_data_verified": true
 }

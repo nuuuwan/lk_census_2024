@@ -8,5 +8,6 @@
   "row_dim_key": "region_id",
   "col_dim_class_name": "AgeGroup",
   "cell_label": "PercentInPreschool",
-  "cell_class_name": "Percent"
+  "cell_class_name": "Percent",
+  "is_lanka_data_verified": true
 }
