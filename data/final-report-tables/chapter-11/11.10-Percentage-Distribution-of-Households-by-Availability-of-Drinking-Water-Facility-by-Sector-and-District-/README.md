@@ -9,7 +9,7 @@
 
 ```json
 {
-    "Person": {
+    "House": {
         "Time:2024": {
             "District:colombo": {
                 "SourceOfDrinkingWater:within_housing_unit": {

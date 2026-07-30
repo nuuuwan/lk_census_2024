@@ -5,6 +5,44 @@
 
 *Table 3.1, Final Report, 2024 Census of Population and Housing, Department of Census and Statistics, Sri Lanka*
 
+## Structured Data formatted for [Lanka Data API](https://github.com/nuuuwan/lanka_data)
+
+```json
+{
+    "Person": {
+        "Time:1871": {
+            "Count": "Int:2400380"
+        },
+        "Time:1881": {
+            "Count": "Int:2759738"
+        },
+        "Time:1891": {
+            "Count": "Int:3007789"
+        },
+        "Time:1901": {
+            "Count": "Int:3565954"
+        },
+        "Time:1911": {
+            "Count": "Int:4106350"
+        },
+        "Time:1921": {
+            "Count": "Int:4498605"
+        },
+        "Time:1931": {
+            "Count": "Int:5306871"
+        },
+        "Time:1946": {
+            "Count": "Int:6657339"
+        },
+        "Time:1953": {
+            "Count": "Int:8097895"
+        },
+        "Time:1963": {
+...
+```
+
+- Source File: [lanka_data.json (851.0 B)](../../../../data/final-report-tables/chapter-3/3.1-Total-Population-Intercensal-Increase-and-Average-Annual-Growth-Rate-by-Census-Year-1871-2024/lanka_data.json)
+
 ## Structured Data (similar to original layout)
 
 ```json
@@ -12,28 +50,28 @@
     {
         "census_date": "27 March 1871",
         "values": {
-            "total_population": 2400380
+            "population": 2400380
         },
         "total_value": 2400380
     },
     {
         "census_date": "17 February 1881",
         "values": {
-            "total_population": 2759738
+            "population": 2759738
         },
         "total_value": 2759738
     },
     {
         "census_date": "26 February 1891",
         "values": {
-            "total_population": 3007789
+            "population": 3007789
         },
         "total_value": 3007789
     },
     {
         "census_date": "01 March 1901",
         "values": {
-            "total_population": 3565954
+            "population": 3565954
         },
         "total_value": 3565954
     },

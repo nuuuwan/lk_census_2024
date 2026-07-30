@@ -11,17 +11,6 @@
 {
     "Person": {
         "Time:2024": {
-            "AgeGroup:0To125Years": {
-                "SingleOrMultipleDisabilities:with_single_disability": {
-                    "Count": "Int:452247"
-                },
-                "SingleOrMultipleDisabilities:with_more_than_one_disability": {
-                    "Count": "Int:275046"
-                },
-                "SingleOrMultipleDisabilities:no_disability": {
-                    "Count": "Int:19839387"
-                }
-            },
             "AgeGroup:5To9Years": {
                 "SingleOrMultipleDisabilities:with_single_disability": {
                     "Count": "Int:7320"
@@ -38,10 +27,21 @@
                     "Count": "Int:6995"
                 },
                 "SingleOrMultipleDisabilities:with_more_than_one_disability": {
+                    "Count": "Int:6400"
+                },
+                "SingleOrMultipleDisabilities:no_disability": {
+                    "Count": "Int:1721801"
+                }
+            },
+            "AgeGroup:15To19Years": {
+                "SingleOrMultipleDisabilities:with_single_disability": {
+                    "Count": "Int:7643"
+                },
+                "SingleOrMultipleDisabilities:with_more_than_one_disability": {
 ...
 ```
 
-- Source File: [lanka_data.json (6.0 KB)](../../../../data/final-report-tables/chapter-6/6.2.8-Distribution-of-Persons-with-a-Single-Disability-and-with-Multiple-Disabilities-by-Age-Group-2024/lanka_data.json)
+- Source File: [lanka_data.json (5.7 KB)](../../../../data/final-report-tables/chapter-6/6.2.8-Distribution-of-Persons-with-a-Single-Disability-and-with-Multiple-Disabilities-by-Age-Group-2024/lanka_data.json)
 
 ## Structured Data (similar to original layout)
 

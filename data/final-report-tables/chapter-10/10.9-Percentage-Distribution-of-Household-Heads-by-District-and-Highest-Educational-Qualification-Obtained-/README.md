@@ -9,7 +9,7 @@
 
 ```json
 {
-    "Person": {
+    "House": {
         "Time:2024": {
             "District:colombo": {
                 "HighestEducationLevel3:no_schooling": {

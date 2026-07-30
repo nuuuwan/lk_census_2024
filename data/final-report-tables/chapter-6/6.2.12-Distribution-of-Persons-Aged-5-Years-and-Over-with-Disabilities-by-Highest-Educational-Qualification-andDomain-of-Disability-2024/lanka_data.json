@@ -93,6 +93,52 @@
           "Count": "Int:4452750"
         }
       },
+      "HighestEducationLevel:g_c_e_o_or_l_or_equivalent": {
+        "DisabilityTypes:difficulty_in_seeing": {
+          "Count": "Int:20120"
+        },
+        "DisabilityTypes:difficulty_in_hearing": {
+          "Count": "Int:10246"
+        },
+        "DisabilityTypes:difficulty_in_walking_or_climbing_steps": {
+          "Count": "Int:53684"
+        },
+        "DisabilityTypes:difficulty_in_remembering_or_concentrating": {
+          "Count": "Int:11951"
+        },
+        "DisabilityTypes:difficulty_in_selfcare_such_as_washing_or_dressing": {
+          "Count": "Int:17462"
+        },
+        "DisabilityTypes:difficulty_in_communicating_with_others": {
+          "Count": "Int:6739"
+        },
+        "DisabilityTypes:no_disability": {
+          "Count": "Int:4146115"
+        }
+      },
+      "HighestEducationLevel:g_c_e_a_or_l_or_equivalent": {
+        "DisabilityTypes:difficulty_in_seeing": {
+          "Count": "Int:9754"
+        },
+        "DisabilityTypes:difficulty_in_hearing": {
+          "Count": "Int:4577"
+        },
+        "DisabilityTypes:difficulty_in_walking_or_climbing_steps": {
+          "Count": "Int:25683"
+        },
+        "DisabilityTypes:difficulty_in_remembering_or_concentrating": {
+          "Count": "Int:6207"
+        },
+        "DisabilityTypes:difficulty_in_selfcare_such_as_washing_or_dressing": {
+          "Count": "Int:9369"
+        },
+        "DisabilityTypes:difficulty_in_communicating_with_others": {
+          "Count": "Int:3538"
+        },
+        "DisabilityTypes:no_disability": {
+          "Count": "Int:3498137"
+        }
+      },
       "HighestEducationLevel:degree_and_above": {
         "DisabilityTypes:difficulty_in_seeing": {
           "Count": "Int:2316"

@@ -41,7 +41,7 @@
 ...
 ```
 
-- Source File: [lanka_data.json (22.7 KB)](../../../../data/final-report-tables/chapter-1/1.1.2-The-Questions-and-Topics-Included-in-the-Censuses-of-Sri-Lanka-1871-2024/lanka_data.json)
+- Source File: [lanka_data.json (23.8 KB)](../../../../data/final-report-tables/chapter-1/1.1.2-The-Questions-and-Topics-Included-in-the-Censuses-of-Sri-Lanka-1871-2024/lanka_data.json)
 
 ## Structured Data (similar to original layout)
 

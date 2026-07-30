@@ -9,7 +9,7 @@
 
 ```json
 {
-    "Person": {
+    "House": {
         "Time:2024": {
             "Sector:urban": {
                 "HouseholdAppliances:radio": {

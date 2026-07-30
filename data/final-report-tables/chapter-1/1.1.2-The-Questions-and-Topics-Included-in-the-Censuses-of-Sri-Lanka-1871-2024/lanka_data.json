@@ -470,6 +470,53 @@
         "WasTopicIncluded": "Bool:True"
       }
     },
+    "CensusTopic:n_i_c_no": {
+      "Time:1871": {
+        "WasTopicIncluded": "Bool:False"
+      },
+      "Time:1881": {
+        "WasTopicIncluded": "Bool:False"
+      },
+      "Time:1891": {
+        "WasTopicIncluded": "Bool:False"
+      },
+      "Time:1901": {
+        "WasTopicIncluded": "Bool:False"
+      },
+      "Time:1911": {
+        "WasTopicIncluded": "Bool:False"
+      },
+      "Time:1921": {
+        "WasTopicIncluded": "Bool:False"
+      },
+      "Time:1931": {
+        "WasTopicIncluded": "Bool:False"
+      },
+      "Time:1946": {
+        "WasTopicIncluded": "Bool:False"
+      },
+      "Time:1953": {
+        "WasTopicIncluded": "Bool:False"
+      },
+      "Time:1963": {
+        "WasTopicIncluded": "Bool:False"
+      },
+      "Time:1971": {
+        "WasTopicIncluded": "Bool:False"
+      },
+      "Time:1981": {
+        "WasTopicIncluded": "Bool:False"
+      },
+      "Time:2001": {
+        "WasTopicIncluded": "Bool:False"
+      },
+      "Time:2012": {
+        "WasTopicIncluded": "Bool:True"
+      },
+      "Time:2024": {
+        "WasTopicIncluded": "Bool:True"
+      }
+    },
     "CensusTopic:status_of_clergy_or_priest": {
       "Time:1871": {
         "WasTopicIncluded": "Bool:False"

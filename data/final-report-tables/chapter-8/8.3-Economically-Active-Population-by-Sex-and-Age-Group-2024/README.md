@@ -11,14 +11,6 @@
 {
     "Person": {
         "Time:2024": {
-            "AgeGroup:0To125Years": {
-                "Sex:male": {
-                    "CountEconomicallyActive": "Int:5550374"
-                },
-                "Sex:female": {
-                    "CountEconomicallyActive": "Int:2612567"
-                }
-            },
             "AgeGroup:15To19Years": {
                 "Sex:male": {
                     "CountEconomicallyActive": "Int:105358"
@@ -38,10 +30,18 @@
             "AgeGroup:25To29Years": {
                 "Sex:male": {
                     "CountEconomicallyActive": "Int:548881"
+                },
+                "Sex:female": {
+                    "CountEconomicallyActive": "Int:289710"
+                }
+            },
+            "AgeGroup:30To34Years": {
+                "Sex:male": {
+                    "CountEconomicallyActive": "Int:627056"
 ...
 ```
 
-- Source File: [lanka_data.json (2.9 KB)](../../../../data/final-report-tables/chapter-8/8.3-Economically-Active-Population-by-Sex-and-Age-Group-2024/lanka_data.json)
+- Source File: [lanka_data.json (2.7 KB)](../../../../data/final-report-tables/chapter-8/8.3-Economically-Active-Population-by-Sex-and-Age-Group-2024/lanka_data.json)
 
 ## Structured Data (similar to original layout)
 

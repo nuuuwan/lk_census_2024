@@ -9,7 +9,7 @@
 
 ```json
 {
-    "Person": {
+    "House": {
         "Time:2024": {
             "Sector:urban": {
                 "LiquidWasteDisposal:to_a_properly_closed_pit": {
@@ -41,7 +41,7 @@
 ...
 ```
 
-- Source File: [lanka_data.json (3.0 KB)](../../../../data/final-report-tables/chapter-11/11.18-Percentage-Distribution-of-Households-by-the-Main-Method-of-Disposing-Liquid-Waste-2024/lanka_data.json)
+- Source File: [lanka_data.json (2.9 KB)](../../../../data/final-report-tables/chapter-11/11.18-Percentage-Distribution-of-Households-by-the-Main-Method-of-Disposing-Liquid-Waste-2024/lanka_data.json)
 
 ## Structured Data (similar to original layout)
 

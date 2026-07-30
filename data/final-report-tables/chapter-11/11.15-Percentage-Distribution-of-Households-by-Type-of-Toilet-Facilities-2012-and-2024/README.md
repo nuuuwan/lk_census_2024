@@ -9,7 +9,7 @@
 
 ```json
 {
-    "Person": {
+    "House": {
         "Time:2012": {
             "ToiletFacilities:within_the_housing_unit_exclusively_for_the_household": {
                 "Count": "Int:1748249"

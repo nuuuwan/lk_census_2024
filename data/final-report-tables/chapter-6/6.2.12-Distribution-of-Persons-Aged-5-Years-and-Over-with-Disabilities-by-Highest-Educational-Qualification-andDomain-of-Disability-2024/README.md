@@ -41,7 +41,7 @@
 ...
 ```
 
-- Source File: [lanka_data.json (3.9 KB)](../../../../data/final-report-tables/chapter-6/6.2.12-Distribution-of-Persons-Aged-5-Years-and-Over-with-Disabilities-by-Highest-Educational-Qualification-andDomain-of-Disability-2024/lanka_data.json)
+- Source File: [lanka_data.json (5.4 KB)](../../../../data/final-report-tables/chapter-6/6.2.12-Distribution-of-Persons-Aged-5-Years-and-Over-with-Disabilities-by-Highest-Educational-Qualification-andDomain-of-Disability-2024/lanka_data.json)
 
 ## Structured Data (similar to original layout)
 

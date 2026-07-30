@@ -11,37 +11,37 @@
 {
     "Person": {
         "Time:2024": {
-            "AgeGroup:0To125Years": {
-                "DisabilityTypes:difficulty_in_seeing": {
-                    "Count": "Int:192578"
-                },
-                "DisabilityTypes:difficulty_in_hearing": {
-                    "Count": "Int:130097"
-                },
-                "DisabilityTypes:difficulty_in_walking_or_climbing_steps": {
-                    "Count": "Int:447969"
-                },
-                "DisabilityTypes:difficulty_in_remembering_or_concentrating": {
-                    "Count": "Int:167826"
-                },
-                "DisabilityTypes:difficulty_in_selfcare_such_as_washing_or_dressing": {
-                    "Count": "Int:189292"
-                },
-                "DisabilityTypes:difficulty_in_communicating_with_others": {
-                    "Count": "Int:112798"
-                },
-                "DisabilityTypes:no_disability": {
-                    "Count": "Int:19326120"
-                }
-            },
             "AgeGroup:5To9Years": {
                 "DisabilityTypes:difficulty_in_seeing": {
                     "Count": "Int:2513"
                 },
+                "DisabilityTypes:difficulty_in_hearing": {
+                    "Count": "Int:1693"
+                },
+                "DisabilityTypes:difficulty_in_walking_or_climbing_steps": {
+                    "Count": "Int:3685"
+                },
+                "DisabilityTypes:difficulty_in_remembering_or_concentrating": {
+                    "Count": "Int:4215"
+                },
+                "DisabilityTypes:difficulty_in_selfcare_such_as_washing_or_dressing": {
+                    "Count": "Int:6959"
+                },
+                "DisabilityTypes:difficulty_in_communicating_with_others": {
+                    "Count": "Int:5358"
+                },
+                "DisabilityTypes:no_disability": {
+                    "Count": "Int:1532100"
+                }
+            },
+            "AgeGroup:10To14Years": {
+                "DisabilityTypes:difficulty_in_seeing": {
+                    "Count": "Int:3145"
+                },
 ...
 ```
 
-- Source File: [lanka_data.json (12.8 KB)](../../../../data/final-report-tables/chapter-6/6.2.7-Distribution-of-Persons-Aged-5-Years-and-Over-with-Disabilities-by-Age-Group-and-Domain-of-Disability-/lanka_data.json)
+- Source File: [lanka_data.json (12.0 KB)](../../../../data/final-report-tables/chapter-6/6.2.7-Distribution-of-Persons-Aged-5-Years-and-Over-with-Disabilities-by-Age-Group-and-Domain-of-Disability-/lanka_data.json)
 
 ## Structured Data (similar to original layout)
 

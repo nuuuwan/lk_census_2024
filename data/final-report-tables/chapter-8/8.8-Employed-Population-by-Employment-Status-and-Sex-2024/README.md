@@ -5,6 +5,44 @@
 
 *Table 8.8, Final Report, 2024 Census of Population and Housing, Department of Census and Statistics, Sri Lanka*
 
+## Structured Data formatted for [Lanka Data API](https://github.com/nuuuwan/lanka_data)
+
+```json
+{
+    "Person": {
+        "Time:2024": {
+            "EmploymentStatus:government_or_semi_government_paid_employee": {
+                "Sex:male": {
+                    "EmployedCount": "Int:741649"
+                },
+                "Sex:female": {
+                    "EmployedCount": "Int:591757"
+                }
+            },
+            "EmploymentStatus:private_sector_paid_employee": {
+                "Sex:male": {
+                    "EmployedCount": "Int:2248841"
+                },
+                "Sex:female": {
+                    "EmployedCount": "Int:995932"
+                }
+            },
+            "EmploymentStatus:employer": {
+                "Sex:male": {
+                    "EmployedCount": "Int:242488"
+                },
+                "Sex:female": {
+                    "EmployedCount": "Int:35380"
+                }
+            },
+            "EmploymentStatus:own_account_worker": {
+                "Sex:male": {
+                    "EmployedCount": "Int:1906739"
+...
+```
+
+- Source File: [lanka_data.json (1.1 KB)](../../../../data/final-report-tables/chapter-8/8.8-Employed-Population-by-Employment-Status-and-Sex-2024/lanka_data.json)
+
 ## Structured Data (similar to original layout)
 
 ```json

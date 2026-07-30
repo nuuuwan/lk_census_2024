@@ -78,7 +78,8 @@
     "data/House-SourceOfDrinkingWater/lanka_data.json"
   ],
   "House/Time*District*SourceOfDrinkingWater/Count": [
-    "data/House-SourceOfDrinkingWater/lanka_data.json"
+    "data/House-SourceOfDrinkingWater/lanka_data.json",
+    "data/final-report-tables/chapter-11/11.10-Percentage-Distribution-of-Households-by-Availability-of-Drinking-Water-Facility-by-Sector-and-District-/lanka_data.json"
   ],
   "House/Time*DSD*SourceOfDrinkingWater/Count": [
     "data/House-SourceOfDrinkingWater/lanka_data.json"
@@ -246,22 +247,20 @@
     "data/final-report-tables/chapter-11/11.1-Number-of-Occupied-Housing-Units-by-Sector-2012-and-2024/lanka_data.json",
     "data/final-report-tables/chapter-3/3.5-Distribution-of-Population-by-Sector-2012-and-2024/lanka_data.json"
   ],
-  "Person/Time*District*SourceOfDrinkingWater/Count": [
-    "data/final-report-tables/chapter-11/11.10-Percentage-Distribution-of-Households-by-Availability-of-Drinking-Water-Facility-by-Sector-and-District-/lanka_data.json"
-  ],
   "Person/Time*District*TypeOfUnit/Count": [
     "data/final-report-tables/chapter-11/11.7-of-Housing-Units-and-Status-of-Housing-Units-by-Sector-and-District-2024/lanka_data.json"
   ],
-  "Person/Time*Sector*LiquidWasteDisposal/Percent": [
+  "House/Time*Sector*LiquidWasteDisposal/Percent": [
     "data/final-report-tables/chapter-11/11.18-Percentage-Distribution-of-Households-by-the-Main-Method-of-Disposing-Liquid-Waste-2024/lanka_data.json"
   ],
   "Person/Time/Count": [
-    "data/final-report-tables/chapter-11/11.3-Number-of-Housing-Units-by-the-Year-of-Construction-2024/lanka_data.json"
+    "data/final-report-tables/chapter-11/11.3-Number-of-Housing-Units-by-the-Year-of-Construction-2024/lanka_data.json",
+    "data/final-report-tables/chapter-3/3.1-Total-Population-Intercensal-Increase-and-Average-Annual-Growth-Rate-by-Census-Year-1871-2024/lanka_data.json"
   ],
-  "Person/Time*SourceOfDrinkingWater*WaterSupplyAvailability/Count": [
+  "House/Time*SourceOfDrinkingWater*WaterSupplyAvailability/Count": [
     "data/final-report-tables/chapter-11/11.11-Distribution-of-Households-in-Sri-Lanka-s-ability-to-Obtain-Drinking-Water-Throughout-the-Year-2024/lanka_data.json"
   ],
-  "Person/Time*ToiletFacilities/Count": [
+  "House/Time*ToiletFacilities/Count": [
     "data/final-report-tables/chapter-11/11.15-Percentage-Distribution-of-Households-by-Type-of-Toilet-Facilities-2012-and-2024/lanka_data.json"
   ],
   "House/Sector*Time/OwnedByMembersPercent": [
@@ -270,14 +269,17 @@
   "House/Time*District*OwnershipStatus/Percent": [
     "data/final-report-tables/chapter-11/11.4-Tenure-of-Housing-Units-by-Sector-and-District-2024/lanka_data.json"
   ],
-  "Person/Time*SourceOfDrinkingWater/Count": [
+  "House/Time*SourceOfDrinkingWater/Count": [
     "data/final-report-tables/chapter-11/11.9-Distribution-of-Households-by-Main-Source-of-Drinking-Water-2024/lanka_data.json"
   ],
-  "Person/Time*Sector*HouseholdAppliances/Percent": [
+  "House/Time*Sector*HouseholdAppliances/Percent": [
     "data/final-report-tables/chapter-11/11.19-Percentage-Distribution-of-Households-Using-Communication-Technology-Equipment-and-Vehicles-by-Sector-2024/lanka_data.json"
   ],
   "Person/Time*Sector*OneRoomOrMore/Count": [
     "data/final-report-tables/chapter-11/11.8-in-Housing-Units-by-Sector-2024/lanka_data.json"
+  ],
+  "Person/Time*EmploymentStatus*Sex/EmployedCount": [
+    "data/final-report-tables/chapter-8/8.8-Employed-Population-by-Employment-Status-and-Sex-2024/lanka_data.json"
   ],
   "Person/Time*EconomicInactivityReason/Count": [
     "data/final-report-tables/chapter-8/8.11-Economically-Inactive-Population-by-Main-Reason-for-Inactivity-2024/lanka_data.json"
@@ -303,10 +305,10 @@
   "Person/Time*AgeGroup*Sex/CountEconomicallyActive": [
     "data/final-report-tables/chapter-8/8.3-Economically-Active-Population-by-Sex-and-Age-Group-2024/lanka_data.json"
   ],
-  "Person/Time*District*HighestEducationLevel3/Count": [
+  "House/Time*District*HighestEducationLevel3/Count": [
     "data/final-report-tables/chapter-10/10.9-Percentage-Distribution-of-Household-Heads-by-District-and-Highest-Educational-Qualification-Obtained-/lanka_data.json"
   ],
-  "Person/Time*Sector*HighestEducationLevel3/Count": [
+  "House/Time*Sector*HighestEducationLevel3/Count": [
     "data/final-report-tables/chapter-10/10.8-Percentage-Distribution-of-Household-Heads-by-Highest-Educational-Qualification-Obtained-and-Sector-2024/lanka_data.json"
   ],
   "House/Time*District*HouseholdType/Count": [

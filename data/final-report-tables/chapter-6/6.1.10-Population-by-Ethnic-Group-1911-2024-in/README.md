@@ -17,6 +17,12 @@
             "Ethnicity:sri_lanka_tamil": {
                 "Count": "Int:528000"
             },
+            "Ethnicity:ind_and_malaiyaga_tamil": {
+                "Count": "Int:531000"
+            },
+            "Ethnicity:sri_lanka_moor_or_muslim": {
+                "Count": "Int:233900"
+            },
             "Ethnicity:indian_muslim": {
                 "Count": "Int:32700"
             },
@@ -32,16 +38,10 @@
         },
         "Time:1921": {
             "Ethnicity:low_country_sinhalese": {
-                "Count": "Int:1927100"
-            },
-            "Ethnicity:sri_lanka_tamil": {
-                "Count": "Int:517299"
-            },
-            "Ethnicity:indian_muslim": {
 ...
 ```
 
-- Source File: [lanka_data.json (5.0 KB)](../../../../data/final-report-tables/chapter-6/6.1.10-Population-by-Ethnic-Group-1911-2024-in/lanka_data.json)
+- Source File: [lanka_data.json (6.8 KB)](../../../../data/final-report-tables/chapter-6/6.1.10-Population-by-Ethnic-Group-1911-2024-in/lanka_data.json)
 
 ## Structured Data (similar to original layout)
 

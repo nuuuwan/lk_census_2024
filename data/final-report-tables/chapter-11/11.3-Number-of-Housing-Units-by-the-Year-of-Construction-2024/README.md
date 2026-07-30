@@ -10,9 +10,6 @@
 ```json
 {
     "Person": {
-        "Time:tal*": {
-            "Count": "Int:6029330"
-        },
         "Time:2024": {
             "Count": "Int:107031"
         },
@@ -38,10 +35,13 @@
             "Count": "Int:780280"
         },
         "Time:2008": {
+            "Count": "Int:669943"
+        },
+        "Time:2003": {
 ...
 ```
 
-- Source File: [lanka_data.json (778.0 B)](../../../../data/final-report-tables/chapter-11/11.3-Number-of-Housing-Units-by-the-Year-of-Construction-2024/lanka_data.json)
+- Source File: [lanka_data.json (723.0 B)](../../../../data/final-report-tables/chapter-11/11.3-Number-of-Housing-Units-by-the-Year-of-Construction-2024/lanka_data.json)
 
 ## Structured Data (similar to original layout)
 

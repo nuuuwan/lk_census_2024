@@ -17,6 +17,9 @@
             "Ethnicity:sri_lanka_tamil": {
                 "Count": "Int:2681627"
             },
+            "Ethnicity:ind_and_malaiyaga_tamil": {
+                "Count": "Int:600360"
+            },
             "Ethnicity:sri_lanka_moor_or_muslim": {
                 "Count": "Int:2283246"
             },
@@ -35,13 +38,10 @@
             "Ethnicity:veddahs": {
                 "Count": "Int:1373"
             },
-            "Ethnicity:other": {
-                "Count": "Int:9160"
-            }
 ...
 ```
 
-- Source File: [lanka_data.json (682.0 B)](../../../../data/final-report-tables/chapter-6/6.1.8-Population-Distribution-by-Ethnic-Group-2024/lanka_data.json)
+- Source File: [lanka_data.json (766.0 B)](../../../../data/final-report-tables/chapter-6/6.1.8-Population-Distribution-by-Ethnic-Group-2024/lanka_data.json)
 
 ## Structured Data (similar to original layout)
 

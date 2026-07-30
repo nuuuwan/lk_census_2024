@@ -9,7 +9,7 @@
 
 ```json
 {
-    "Person": {
+    "House": {
         "Time:2024": {
             "SourceOfDrinkingWater:ground_water": {
                 "WaterSupplyAvailability:households_with_water_supply_throughout_the_year": {
@@ -40,7 +40,7 @@
 }
 ```
 
-- Source File: [lanka_data.json (998.0 B)](../../../../data/final-report-tables/chapter-11/11.11-Distribution-of-Households-in-Sri-Lanka-s-ability-to-Obtain-Drinking-Water-Throughout-the-Year-2024/lanka_data.json)
+- Source File: [lanka_data.json (997.0 B)](../../../../data/final-report-tables/chapter-11/11.11-Distribution-of-Households-in-Sri-Lanka-s-ability-to-Obtain-Drinking-Water-Throughout-the-Year-2024/lanka_data.json)
 
 ## Structured Data (similar to original layout)
 

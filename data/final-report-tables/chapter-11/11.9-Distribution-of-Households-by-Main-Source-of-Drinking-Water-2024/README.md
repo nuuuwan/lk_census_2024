@@ -9,7 +9,7 @@
 
 ```json
 {
-    "Person": {
+    "House": {
         "Time:2024": {
             "SourceOfDrinkingWater:protected_well": {
                 "Count": "Int:1624506"
@@ -23,21 +23,25 @@
             "SourceOfDrinkingWater:tube_well": {
                 "Count": "Int:270401"
             },
-            "SourceOfDrinkingWater:bottled_water": {
-                "Count": "Int:63753"
+            "SourceOfDrinkingWater:spring_or_fountain": {
+                "Count": "Int:230268"
             },
-            "SourceOfDrinkingWater:bowser": {
-                "Count": "Int:31208"
+            "SourceOfDrinkingWater:pipe_borne_water_national_water_supply_and_drainage_board": {
+                "Count": "Int:2374349"
             },
-            "SourceOfDrinkingWater:other": {
-                "Count": "Int:761"
-            }
-        }
-    }
-}
+            "SourceOfDrinkingWater:pipe_borne_water_local_authority": {
+                "Count": "Int:100764"
+            },
+            "SourceOfDrinkingWater:pipe_borne_water_community_based_organization": {
+                "Count": "Int:419247"
+            },
+            "SourceOfDrinkingWater:pipe_borne_water_private_water_supply_project": {
+                "Count": "Int:130394"
+            },
+...
 ```
 
-- Source File: [lanka_data.json (633.0 B)](../../../../data/final-report-tables/chapter-11/11.9-Distribution-of-Households-by-Main-Source-of-Drinking-Water-2024/lanka_data.json)
+- Source File: [lanka_data.json (1.4 KB)](../../../../data/final-report-tables/chapter-11/11.9-Distribution-of-Households-by-Main-Source-of-Drinking-Water-2024/lanka_data.json)
 
 ## Structured Data (similar to original layout)
 

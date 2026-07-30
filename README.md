@@ -43,7 +43,7 @@
 
 ### Chapter 3
 
-- 🟡 Table 3.1 - [Total Population, Intercensal Increase and Average Annual Growth Rate by Census Year, 1871 - 2024](data/final-report-tables/chapter-3/3.1-Total-Population-Intercensal-Increase-and-Average-Annual-Growth-Rate-by-Census-Year-1871-2024)
+- ✅ Table 3.1 - [Total Population, Intercensal Increase and Average Annual Growth Rate by Census Year, 1871 - 2024](data/final-report-tables/chapter-3/3.1-Total-Population-Intercensal-Increase-and-Average-Annual-Growth-Rate-by-Census-Year-1871-2024)
 - ✅ Table 3.2 - [Distribution of Population by Province and District, 2024](data/final-report-tables/chapter-3/3.2-Distribution-of-Population-by-Province-and-District-2024)
 - ✅ Table 3.3 - [Population and Average Annual Growth Rate by District, Census Years 1981- 2024](data/final-report-tables/chapter-3/3.3-Population-and-Average-Annual-Growth-Rate-by-District-Census-Years-1981-2024)
 - ✅ Table 3.4 - [Population Density by District, 1981, 2001, 2012 and 2024](data/final-report-tables/chapter-3/3.4-Population-Density-by-District-1981-2001-2012-and-2024)
@@ -136,7 +136,7 @@
 - 🟡 Table 8.5 - [Labour Force Participation Rate, by Highest Educational Qualification Attained and Sex, 2024](data/final-report-tables/chapter-8/8.5-Labour-Force-Participation-Rate-by-Highest-Educational-Qualification-Attained-and-Sex-2024)
 - ✅ Table 8.6 - [Employed Population by Sector and Sex, 2024](data/final-report-tables/chapter-8/8.6-Employed-Population-by-Sector-and-Sex-2024)
 - ✅ Table 8.7 - [Employed Population, by Highest Educational Attainment and Sex, 2024](data/final-report-tables/chapter-8/8.7-Employed-Population-by-Highest-Educational-Attainment-and-Sex-2024)
-- 🟡 Table 8.8 - [Employed Population by Employment Status and Sex, 2024](data/final-report-tables/chapter-8/8.8-Employed-Population-by-Employment-Status-and-Sex-2024)
+- ✅ Table 8.8 - [Employed Population by Employment Status and Sex, 2024](data/final-report-tables/chapter-8/8.8-Employed-Population-by-Employment-Status-and-Sex-2024)
 - ✅ Table 8.9 - [Unemployed Population by Sector and Sex, 2024](data/final-report-tables/chapter-8/8.9-Unemployed-Population-by-Sector-and-Sex-2024)
 - ✅ Table 8.10 - [Employment Rate and Unemployment Rate by District, 2024](data/final-report-tables/chapter-8/8.10-Employment-Rate-and-Unemployment-Rate-by-District-2024)
 - ✅ Table 8.11 - [Economically Inactive Population by Main Reason for Inactivity, 2024](data/final-report-tables/chapter-8/8.11-Economically-Inactive-Population-by-Main-Reason-for-Inactivity-2024)
@@ -213,8 +213,8 @@
 | **1**/5 | 🟤 Raw data is missing | **5** | 5 | **3.5%** | #8B4513 |
 | **2**/5 | 🔴 Raw data is difficult to parse | **22** | 22 | **15.5%** | #FF0000 |
 | **3**/5 | 🟠 Data is missing | **1** | 1 | **0.7%** | #FFA500 |
-| **4**/5 | 🟡 Lanka data is missing | **41** | 41 | **28.9%** | #FFFF00 |
-| **5**/5 | ✅ All Stages Complete | **73** | 73 | **51.4%** | #00c000 |
+| **4**/5 | 🟡 Lanka data is missing | **39** | 39 | **27.5%** | #FFFF00 |
+| **5**/5 | ✅ All Stages Complete | **75** | 75 | **52.8%** | #00c000 |
 
 
 ```mermaid
@@ -223,8 +223,8 @@ pie title Final Report Build Status
 "🟤 Raw data is missing" : 5
     "🔴 Raw data is difficult to parse" : 22
     "🟠 Data is missing" : 1
-    "🟡 Lanka data is missing" : 41
-    "✅ All Stages Complete" : 73
+    "🟡 Lanka data is missing" : 39
+    "✅ All Stages Complete" : 75
 ```
     
 ![Maintainer](https://img.shields.io/badge/maintainer-nuuuwan-red)

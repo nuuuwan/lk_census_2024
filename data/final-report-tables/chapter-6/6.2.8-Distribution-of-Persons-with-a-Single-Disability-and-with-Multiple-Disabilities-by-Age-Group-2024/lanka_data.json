@@ -1,17 +1,6 @@
 {
   "Person": {
     "Time:2024": {
-      "AgeGroup:0To125Years": {
-        "SingleOrMultipleDisabilities:with_single_disability": {
-          "Count": "Int:452247"
-        },
-        "SingleOrMultipleDisabilities:with_more_than_one_disability": {
-          "Count": "Int:275046"
-        },
-        "SingleOrMultipleDisabilities:no_disability": {
-          "Count": "Int:19839387"
-        }
-      },
       "AgeGroup:5To9Years": {
         "SingleOrMultipleDisabilities:with_single_disability": {
           "Count": "Int:7320"

@@ -11,9 +11,6 @@
 {
     "Person": {
         "Time:1946": {
-            "AgeGroup:0To125Years": {
-                "Percent": "Float:100.0"
-            },
             "AgeGroup:0To4Years": {
                 "Percent": "Float:12.9"
             },
@@ -38,10 +35,13 @@
             "AgeGroup:35To39Years": {
                 "Percent": "Float:7.0"
             },
+            "AgeGroup:40To44Years": {
+                "Percent": "Float:4.8"
+            },
 ...
 ```
 
-- Source File: [lanka_data.json (8.1 KB)](../../../../data/final-report-tables/chapter-6/6.1.4-Percentage-Distribution-of-Population-by-Age-Group-1946-2024/lanka_data.json)
+- Source File: [lanka_data.json (7.5 KB)](../../../../data/final-report-tables/chapter-6/6.1.4-Percentage-Distribution-of-Population-by-Age-Group-1946-2024/lanka_data.json)
 
 ## Structured Data (similar to original layout)
 

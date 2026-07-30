@@ -1,14 +1,6 @@
 {
   "Person": {
     "Time:2024": {
-      "AgeGroup:0To125Years": {
-        "Sex:male": {
-          "CountEconomicallyActive": "Int:5550374"
-        },
-        "Sex:female": {
-          "CountEconomicallyActive": "Int:2612567"
-        }
-      },
       "AgeGroup:15To19Years": {
         "Sex:male": {
           "CountEconomicallyActive": "Int:105358"
