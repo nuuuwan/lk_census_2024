@@ -11,28 +11,25 @@ class LankaDataMetadata:
     def _get_files_for_xlsx(cls):
         lanka_data_files = []
         dir_data = Directory("data")
-        for child_name in dir_data:
-            if child_name == "final-report-tables":
+        for child_dir in dir_data:
+            if child_dir.path.endswith("final-report-tables"):
                 continue
-            child_dir = Directory(dir_data, child_name)
             lanka_data_file = JSONFile(child_dir, "lanka_data.json")
             if lanka_data_file.exists():
                 lanka_data_files.append(lanka_data_file)
 
+        print(len(lanka_data_files))
         return lanka_data_files
 
     @classmethod
     def _get_files_for_final_report(cls):
         lanka_data_files = []
-        dir_data = Directory("data", "final-report-tables")
-        for child_name in dir_data:
-            child_dir = Directory(dir_data, child_name)
-            for child_name2 in child_dir:
-                child_dir2 = Directory(child_dir, child_name2)
+        for child_dir in Directory("data", "final-report-tables"):
+            for child_dir2 in child_dir:
                 lanka_data_file = JSONFile(child_dir2, "lanka_data.json")
                 if lanka_data_file.exists():
                     lanka_data_files.append(lanka_data_file)
-
+        print(len(lanka_data_files))
         return lanka_data_files
 
     @classmethod
@@ -67,3 +64,7 @@ class LankaDataMetadata:
 
         LankaDataMetadata.METADATA_FILE.write(idx)
         log.info(f"Wrote {LankaDataMetadata.METADATA_FILE}")
+
+
+if __name__ == "__main__":
+    LankaDataMetadata.build()
