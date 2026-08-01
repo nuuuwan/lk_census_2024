@@ -23,7 +23,7 @@
         "NonCommunicableDisease:cancer": {
           "Count": "Int:9099"
         },
-        "NonCommunicableDisease:stroke": {
+        "NonCommunicableDisease:stroke_or_paralysis": {
           "Count": "Int:9099"
         },
         "NonCommunicableDisease:asthma": {
@@ -55,7 +55,7 @@
         "NonCommunicableDisease:cancer": {
           "Count": "Int:55802"
         },
-        "NonCommunicableDisease:stroke": {
+        "NonCommunicableDisease:stroke_or_paralysis": {
           "Count": "Int:89283"
         },
         "NonCommunicableDisease:asthma": {
@@ -87,7 +87,7 @@
         "NonCommunicableDisease:cancer": {
           "Count": "Int:14809"
         },
-        "NonCommunicableDisease:stroke": {
+        "NonCommunicableDisease:stroke_or_paralysis": {
           "Count": "Int:25917"
         },
         "NonCommunicableDisease:asthma": {
@@ -119,7 +119,7 @@
         "NonCommunicableDisease:cancer": {
           "Count": "Int:520"
         },
-        "NonCommunicableDisease:stroke": {
+        "NonCommunicableDisease:stroke_or_paralysis": {
           "Count": "Int:520"
         },
         "NonCommunicableDisease:asthma": {
@@ -151,7 +151,7 @@
         "NonCommunicableDisease:cancer": {
           "Count": "Int:359"
         },
-        "NonCommunicableDisease:stroke": {
+        "NonCommunicableDisease:stroke_or_paralysis": {
           "Count": "Int:314"
         },
         "NonCommunicableDisease:asthma": {
@@ -161,7 +161,7 @@
           "Count": "Int:269"
         }
       },
-      "MaritalStatus:separated_not_legally": {
+      "MaritalStatus:separated_not_legal": {
         "NonCommunicableDisease:diabetes": {
           "Count": "Int:16999"
         },
@@ -183,7 +183,7 @@
         "NonCommunicableDisease:cancer": {
           "Count": "Int:1333"
         },
-        "NonCommunicableDisease:stroke": {
+        "NonCommunicableDisease:stroke_or_paralysis": {
           "Count": "Int:1333"
         },
         "NonCommunicableDisease:asthma": {

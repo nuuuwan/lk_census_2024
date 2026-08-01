@@ -2,16 +2,16 @@
   "House": {
     "Time:2024": {
       "District:colombo": {
-        "OwnershipStatus:owned_by_a_household_member": {
+        "OwnershipStatus:owned_by_household": {
           "Percent": "Percent:0.76"
         },
-        "OwnershipStatus:rent_or_lease_government_owned": {
+        "OwnershipStatus:rent_government": {
           "Percent": "Percent:0.035"
         },
-        "OwnershipStatus:rent_or_lease_privately_owned": {
+        "OwnershipStatus:rent_private": {
           "Percent": "Percent:0.166"
         },
-        "OwnershipStatus:rent_or_lease_free_of_rent": {
+        "OwnershipStatus:rent_free": {
           "Percent": "Percent:0.024"
         },
         "OwnershipStatus:encroached": {
@@ -22,16 +22,16 @@
         }
       },
       "District:gampaha": {
-        "OwnershipStatus:owned_by_a_household_member": {
+        "OwnershipStatus:owned_by_household": {
           "Percent": "Percent:0.816"
         },
-        "OwnershipStatus:rent_or_lease_government_owned": {
+        "OwnershipStatus:rent_government": {
           "Percent": "Percent:0.022"
         },
-        "OwnershipStatus:rent_or_lease_privately_owned": {
+        "OwnershipStatus:rent_private": {
           "Percent": "Percent:0.125"
         },
-        "OwnershipStatus:rent_or_lease_free_of_rent": {
+        "OwnershipStatus:rent_free": {
           "Percent": "Percent:0.022"
         },
         "OwnershipStatus:encroached": {
@@ -42,16 +42,16 @@
         }
       },
       "District:kalutara": {
-        "OwnershipStatus:owned_by_a_household_member": {
+        "OwnershipStatus:owned_by_household": {
           "Percent": "Percent:0.868"
         },
-        "OwnershipStatus:rent_or_lease_government_owned": {
+        "OwnershipStatus:rent_government": {
           "Percent": "Percent:0.019"
         },
-        "OwnershipStatus:rent_or_lease_privately_owned": {
+        "OwnershipStatus:rent_private": {
           "Percent": "Percent:0.059"
         },
-        "OwnershipStatus:rent_or_lease_free_of_rent": {
+        "OwnershipStatus:rent_free": {
           "Percent": "Percent:0.041"
         },
         "OwnershipStatus:encroached": {
@@ -62,16 +62,16 @@
         }
       },
       "District:kandy": {
-        "OwnershipStatus:owned_by_a_household_member": {
+        "OwnershipStatus:owned_by_household": {
           "Percent": "Percent:0.846"
         },
-        "OwnershipStatus:rent_or_lease_government_owned": {
+        "OwnershipStatus:rent_government": {
           "Percent": "Percent:0.03"
         },
-        "OwnershipStatus:rent_or_lease_privately_owned": {
+        "OwnershipStatus:rent_private": {
           "Percent": "Percent:0.053"
         },
-        "OwnershipStatus:rent_or_lease_free_of_rent": {
+        "OwnershipStatus:rent_free": {
           "Percent": "Percent:0.05"
         },
         "OwnershipStatus:encroached": {
@@ -82,16 +82,16 @@
         }
       },
       "District:matale": {
-        "OwnershipStatus:owned_by_a_household_member": {
+        "OwnershipStatus:owned_by_household": {
           "Percent": "Percent:0.867"
         },
-        "OwnershipStatus:rent_or_lease_government_owned": {
+        "OwnershipStatus:rent_government": {
           "Percent": "Percent:0.017"
         },
-        "OwnershipStatus:rent_or_lease_privately_owned": {
+        "OwnershipStatus:rent_private": {
           "Percent": "Percent:0.038"
         },
-        "OwnershipStatus:rent_or_lease_free_of_rent": {
+        "OwnershipStatus:rent_free": {
           "Percent": "Percent:0.059"
         },
         "OwnershipStatus:encroached": {
@@ -102,16 +102,16 @@
         }
       },
       "District:nuwara_eliya": {
-        "OwnershipStatus:owned_by_a_household_member": {
+        "OwnershipStatus:owned_by_household": {
           "Percent": "Percent:0.522"
         },
-        "OwnershipStatus:rent_or_lease_government_owned": {
+        "OwnershipStatus:rent_government": {
           "Percent": "Percent:0.021"
         },
-        "OwnershipStatus:rent_or_lease_privately_owned": {
+        "OwnershipStatus:rent_private": {
           "Percent": "Percent:0.044"
         },
-        "OwnershipStatus:rent_or_lease_free_of_rent": {
+        "OwnershipStatus:rent_free": {
           "Percent": "Percent:0.398"
         },
         "OwnershipStatus:encroached": {
@@ -122,16 +122,16 @@
         }
       },
       "District:galle": {
-        "OwnershipStatus:owned_by_a_household_member": {
+        "OwnershipStatus:owned_by_household": {
           "Percent": "Percent:0.895"
         },
-        "OwnershipStatus:rent_or_lease_government_owned": {
+        "OwnershipStatus:rent_government": {
           "Percent": "Percent:0.014"
         },
-        "OwnershipStatus:rent_or_lease_privately_owned": {
+        "OwnershipStatus:rent_private": {
           "Percent": "Percent:0.041"
         },
-        "OwnershipStatus:rent_or_lease_free_of_rent": {
+        "OwnershipStatus:rent_free": {
           "Percent": "Percent:0.032"
         },
         "OwnershipStatus:encroached": {
@@ -142,16 +142,16 @@
         }
       },
       "District:matara": {
-        "OwnershipStatus:owned_by_a_household_member": {
+        "OwnershipStatus:owned_by_household": {
           "Percent": "Percent:0.888"
         },
-        "OwnershipStatus:rent_or_lease_government_owned": {
+        "OwnershipStatus:rent_government": {
           "Percent": "Percent:0.015"
         },
-        "OwnershipStatus:rent_or_lease_privately_owned": {
+        "OwnershipStatus:rent_private": {
           "Percent": "Percent:0.037"
         },
-        "OwnershipStatus:rent_or_lease_free_of_rent": {
+        "OwnershipStatus:rent_free": {
           "Percent": "Percent:0.04"
         },
         "OwnershipStatus:encroached": {
@@ -162,16 +162,16 @@
         }
       },
       "District:hambantota": {
-        "OwnershipStatus:owned_by_a_household_member": {
+        "OwnershipStatus:owned_by_household": {
           "Percent": "Percent:0.933"
         },
-        "OwnershipStatus:rent_or_lease_government_owned": {
+        "OwnershipStatus:rent_government": {
           "Percent": "Percent:0.013"
         },
-        "OwnershipStatus:rent_or_lease_privately_owned": {
+        "OwnershipStatus:rent_private": {
           "Percent": "Percent:0.022"
         },
-        "OwnershipStatus:rent_or_lease_free_of_rent": {
+        "OwnershipStatus:rent_free": {
           "Percent": "Percent:0.015"
         },
         "OwnershipStatus:encroached": {
@@ -182,16 +182,16 @@
         }
       },
       "District:jaffna": {
-        "OwnershipStatus:owned_by_a_household_member": {
+        "OwnershipStatus:owned_by_household": {
           "Percent": "Percent:0.744"
         },
-        "OwnershipStatus:rent_or_lease_government_owned": {
+        "OwnershipStatus:rent_government": {
           "Percent": "Percent:0.021"
         },
-        "OwnershipStatus:rent_or_lease_privately_owned": {
+        "OwnershipStatus:rent_private": {
           "Percent": "Percent:0.087"
         },
-        "OwnershipStatus:rent_or_lease_free_of_rent": {
+        "OwnershipStatus:rent_free": {
           "Percent": "Percent:0.138"
         },
         "OwnershipStatus:encroached": {
@@ -202,16 +202,16 @@
         }
       },
       "District:mannar": {
-        "OwnershipStatus:owned_by_a_household_member": {
+        "OwnershipStatus:owned_by_household": {
           "Percent": "Percent:0.87"
         },
-        "OwnershipStatus:rent_or_lease_government_owned": {
+        "OwnershipStatus:rent_government": {
           "Percent": "Percent:0.016"
         },
-        "OwnershipStatus:rent_or_lease_privately_owned": {
+        "OwnershipStatus:rent_private": {
           "Percent": "Percent:0.047"
         },
-        "OwnershipStatus:rent_or_lease_free_of_rent": {
+        "OwnershipStatus:rent_free": {
           "Percent": "Percent:0.061"
         },
         "OwnershipStatus:encroached": {
@@ -222,16 +222,16 @@
         }
       },
       "District:vavuniya": {
-        "OwnershipStatus:owned_by_a_household_member": {
+        "OwnershipStatus:owned_by_household": {
           "Percent": "Percent:0.835"
         },
-        "OwnershipStatus:rent_or_lease_government_owned": {
+        "OwnershipStatus:rent_government": {
           "Percent": "Percent:0.025"
         },
-        "OwnershipStatus:rent_or_lease_privately_owned": {
+        "OwnershipStatus:rent_private": {
           "Percent": "Percent:0.072"
         },
-        "OwnershipStatus:rent_or_lease_free_of_rent": {
+        "OwnershipStatus:rent_free": {
           "Percent": "Percent:0.06"
         },
         "OwnershipStatus:encroached": {
@@ -242,16 +242,16 @@
         }
       },
       "District:mullaitivu": {
-        "OwnershipStatus:owned_by_a_household_member": {
+        "OwnershipStatus:owned_by_household": {
           "Percent": "Percent:0.894"
         },
-        "OwnershipStatus:rent_or_lease_government_owned": {
+        "OwnershipStatus:rent_government": {
           "Percent": "Percent:0.015"
         },
-        "OwnershipStatus:rent_or_lease_privately_owned": {
+        "OwnershipStatus:rent_private": {
           "Percent": "Percent:0.03"
         },
-        "OwnershipStatus:rent_or_lease_free_of_rent": {
+        "OwnershipStatus:rent_free": {
           "Percent": "Percent:0.054"
         },
         "OwnershipStatus:encroached": {
@@ -262,16 +262,16 @@
         }
       },
       "District:kilinochchi": {
-        "OwnershipStatus:owned_by_a_household_member": {
+        "OwnershipStatus:owned_by_household": {
           "Percent": "Percent:0.89"
         },
-        "OwnershipStatus:rent_or_lease_government_owned": {
+        "OwnershipStatus:rent_government": {
           "Percent": "Percent:0.012"
         },
-        "OwnershipStatus:rent_or_lease_privately_owned": {
+        "OwnershipStatus:rent_private": {
           "Percent": "Percent:0.036"
         },
-        "OwnershipStatus:rent_or_lease_free_of_rent": {
+        "OwnershipStatus:rent_free": {
           "Percent": "Percent:0.054"
         },
         "OwnershipStatus:encroached": {
@@ -282,16 +282,16 @@
         }
       },
       "District:batticaloa": {
-        "OwnershipStatus:owned_by_a_household_member": {
+        "OwnershipStatus:owned_by_household": {
           "Percent": "Percent:0.877"
         },
-        "OwnershipStatus:rent_or_lease_government_owned": {
+        "OwnershipStatus:rent_government": {
           "Percent": "Percent:0.015"
         },
-        "OwnershipStatus:rent_or_lease_privately_owned": {
+        "OwnershipStatus:rent_private": {
           "Percent": "Percent:0.035"
         },
-        "OwnershipStatus:rent_or_lease_free_of_rent": {
+        "OwnershipStatus:rent_free": {
           "Percent": "Percent:0.066"
         },
         "OwnershipStatus:encroached": {
@@ -302,16 +302,16 @@
         }
       },
       "District:ampara": {
-        "OwnershipStatus:owned_by_a_household_member": {
+        "OwnershipStatus:owned_by_household": {
           "Percent": "Percent:0.909"
         },
-        "OwnershipStatus:rent_or_lease_government_owned": {
+        "OwnershipStatus:rent_government": {
           "Percent": "Percent:0.012"
         },
-        "OwnershipStatus:rent_or_lease_privately_owned": {
+        "OwnershipStatus:rent_private": {
           "Percent": "Percent:0.027"
         },
-        "OwnershipStatus:rent_or_lease_free_of_rent": {
+        "OwnershipStatus:rent_free": {
           "Percent": "Percent:0.043"
         },
         "OwnershipStatus:encroached": {
@@ -322,16 +322,16 @@
         }
       },
       "District:trincomalee": {
-        "OwnershipStatus:owned_by_a_household_member": {
+        "OwnershipStatus:owned_by_household": {
           "Percent": "Percent:0.887"
         },
-        "OwnershipStatus:rent_or_lease_government_owned": {
+        "OwnershipStatus:rent_government": {
           "Percent": "Percent:0.022"
         },
-        "OwnershipStatus:rent_or_lease_privately_owned": {
+        "OwnershipStatus:rent_private": {
           "Percent": "Percent:0.037"
         },
-        "OwnershipStatus:rent_or_lease_free_of_rent": {
+        "OwnershipStatus:rent_free": {
           "Percent": "Percent:0.045"
         },
         "OwnershipStatus:encroached": {
@@ -342,16 +342,16 @@
         }
       },
       "District:kurunegala": {
-        "OwnershipStatus:owned_by_a_household_member": {
+        "OwnershipStatus:owned_by_household": {
           "Percent": "Percent:0.912"
         },
-        "OwnershipStatus:rent_or_lease_government_owned": {
+        "OwnershipStatus:rent_government": {
           "Percent": "Percent:0.011"
         },
-        "OwnershipStatus:rent_or_lease_privately_owned": {
+        "OwnershipStatus:rent_private": {
           "Percent": "Percent:0.031"
         },
-        "OwnershipStatus:rent_or_lease_free_of_rent": {
+        "OwnershipStatus:rent_free": {
           "Percent": "Percent:0.027"
         },
         "OwnershipStatus:encroached": {
@@ -362,16 +362,16 @@
         }
       },
       "District:puttalam": {
-        "OwnershipStatus:owned_by_a_household_member": {
+        "OwnershipStatus:owned_by_household": {
           "Percent": "Percent:0.872"
         },
-        "OwnershipStatus:rent_or_lease_government_owned": {
+        "OwnershipStatus:rent_government": {
           "Percent": "Percent:0.014"
         },
-        "OwnershipStatus:rent_or_lease_privately_owned": {
+        "OwnershipStatus:rent_private": {
           "Percent": "Percent:0.052"
         },
-        "OwnershipStatus:rent_or_lease_free_of_rent": {
+        "OwnershipStatus:rent_free": {
           "Percent": "Percent:0.046"
         },
         "OwnershipStatus:encroached": {
@@ -382,16 +382,16 @@
         }
       },
       "District:anuradhapura": {
-        "OwnershipStatus:owned_by_a_household_member": {
+        "OwnershipStatus:owned_by_household": {
           "Percent": "Percent:0.915"
         },
-        "OwnershipStatus:rent_or_lease_government_owned": {
+        "OwnershipStatus:rent_government": {
           "Percent": "Percent:0.019"
         },
-        "OwnershipStatus:rent_or_lease_privately_owned": {
+        "OwnershipStatus:rent_private": {
           "Percent": "Percent:0.025"
         },
-        "OwnershipStatus:rent_or_lease_free_of_rent": {
+        "OwnershipStatus:rent_free": {
           "Percent": "Percent:0.025"
         },
         "OwnershipStatus:encroached": {
@@ -402,16 +402,16 @@
         }
       },
       "District:polonnaruwa": {
-        "OwnershipStatus:owned_by_a_household_member": {
+        "OwnershipStatus:owned_by_household": {
           "Percent": "Percent:0.933"
         },
-        "OwnershipStatus:rent_or_lease_government_owned": {
+        "OwnershipStatus:rent_government": {
           "Percent": "Percent:0.016"
         },
-        "OwnershipStatus:rent_or_lease_privately_owned": {
+        "OwnershipStatus:rent_private": {
           "Percent": "Percent:0.019"
         },
-        "OwnershipStatus:rent_or_lease_free_of_rent": {
+        "OwnershipStatus:rent_free": {
           "Percent": "Percent:0.012"
         },
         "OwnershipStatus:encroached": {
@@ -422,16 +422,16 @@
         }
       },
       "District:badulla": {
-        "OwnershipStatus:owned_by_a_household_member": {
+        "OwnershipStatus:owned_by_household": {
           "Percent": "Percent:0.805"
         },
-        "OwnershipStatus:rent_or_lease_government_owned": {
+        "OwnershipStatus:rent_government": {
           "Percent": "Percent:0.024"
         },
-        "OwnershipStatus:rent_or_lease_privately_owned": {
+        "OwnershipStatus:rent_private": {
           "Percent": "Percent:0.039"
         },
-        "OwnershipStatus:rent_or_lease_free_of_rent": {
+        "OwnershipStatus:rent_free": {
           "Percent": "Percent:0.108"
         },
         "OwnershipStatus:encroached": {
@@ -442,16 +442,16 @@
         }
       },
       "District:monaragala": {
-        "OwnershipStatus:owned_by_a_household_member": {
+        "OwnershipStatus:owned_by_household": {
           "Percent": "Percent:0.915"
         },
-        "OwnershipStatus:rent_or_lease_government_owned": {
+        "OwnershipStatus:rent_government": {
           "Percent": "Percent:0.014"
         },
-        "OwnershipStatus:rent_or_lease_privately_owned": {
+        "OwnershipStatus:rent_private": {
           "Percent": "Percent:0.019"
         },
-        "OwnershipStatus:rent_or_lease_free_of_rent": {
+        "OwnershipStatus:rent_free": {
           "Percent": "Percent:0.027"
         },
         "OwnershipStatus:encroached": {
@@ -462,16 +462,16 @@
         }
       },
       "District:ratnapura": {
-        "OwnershipStatus:owned_by_a_household_member": {
+        "OwnershipStatus:owned_by_household": {
           "Percent": "Percent:0.855"
         },
-        "OwnershipStatus:rent_or_lease_government_owned": {
+        "OwnershipStatus:rent_government": {
           "Percent": "Percent:0.023"
         },
-        "OwnershipStatus:rent_or_lease_privately_owned": {
+        "OwnershipStatus:rent_private": {
           "Percent": "Percent:0.04"
         },
-        "OwnershipStatus:rent_or_lease_free_of_rent": {
+        "OwnershipStatus:rent_free": {
           "Percent": "Percent:0.057"
         },
         "OwnershipStatus:encroached": {
@@ -482,16 +482,16 @@
         }
       },
       "District:kegalle": {
-        "OwnershipStatus:owned_by_a_household_member": {
+        "OwnershipStatus:owned_by_household": {
           "Percent": "Percent:0.869"
         },
-        "OwnershipStatus:rent_or_lease_government_owned": {
+        "OwnershipStatus:rent_government": {
           "Percent": "Percent:0.021"
         },
-        "OwnershipStatus:rent_or_lease_privately_owned": {
+        "OwnershipStatus:rent_private": {
           "Percent": "Percent:0.039"
         },
-        "OwnershipStatus:rent_or_lease_free_of_rent": {
+        "OwnershipStatus:rent_free": {
           "Percent": "Percent:0.051"
         },
         "OwnershipStatus:encroached": {

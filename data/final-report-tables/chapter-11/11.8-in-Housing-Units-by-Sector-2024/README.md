@@ -1,7 +1,7 @@
 # in Housing Units by Sector, 2024
 
 ![CPH](https://img.shields.io/badge/CPH-2024-blue)
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--07--30-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--08--01-green)
 
 *Table 11.8, Final Report, 2024 Census of Population and Housing, Department of Census and Statistics, Sri Lanka*
 
@@ -15,7 +15,7 @@
                 "OneRoomOrMore:with_only_one_room": {
                     "Count": "Int:80249"
                 },
-                "OneRoomOrMore:with_only_more_than_one_room": {
+                "OneRoomOrMore:more_than_one_room": {
                     "Count": "Int:945081"
                 }
             },
@@ -23,7 +23,7 @@
                 "OneRoomOrMore:with_only_one_room": {
                     "Count": "Int:377"
                 },
-                "OneRoomOrMore:with_only_more_than_one_room": {
+                "OneRoomOrMore:more_than_one_room": {
                     "Count": "Int:2656"
                 }
             },
@@ -31,7 +31,7 @@
                 "OneRoomOrMore:with_only_one_room": {
                     "Count": "Int:251344"
                 },
-                "OneRoomOrMore:with_only_more_than_one_room": {
+                "OneRoomOrMore:more_than_one_room": {
                     "Count": "Int:4521992"
                 }
             },
@@ -41,7 +41,7 @@
 ...
 ```
 
-- Source File: [lanka_data.json (933.0 B)](../../../../data/final-report-tables/chapter-11/11.8-in-Housing-Units-by-Sector-2024/lanka_data.json)
+- Source File: [lanka_data.json (893.0 B)](../../../../data/final-report-tables/chapter-11/11.8-in-Housing-Units-by-Sector-2024/lanka_data.json)
 
 ## Structured Data (similar to original layout)
 

@@ -1,7 +1,7 @@
 {
   "Person": {
     "Time:2024": {
-      "EmploymentStatus:government_paid_employee": {
+      "EmploymentStatus:govt_employee": {
         "NonCommunicableDisease:diabetes": {
           "Count": "Int:70924"
         },
@@ -23,7 +23,7 @@
         "NonCommunicableDisease:cancer": {
           "Count": "Int:2325"
         },
-        "NonCommunicableDisease:stroke": {
+        "NonCommunicableDisease:stroke_or_paralysis": {
           "Count": "Int:1163"
         },
         "NonCommunicableDisease:asthma": {
@@ -33,7 +33,7 @@
           "Count": "Int:1163"
         }
       },
-      "EmploymentStatus:semi_government_paid_employee": {
+      "EmploymentStatus:semi_govt_employee": {
         "NonCommunicableDisease:diabetes": {
           "Count": "Int:12974"
         },
@@ -55,7 +55,7 @@
         "NonCommunicableDisease:cancer": {
           "Count": "Int:341"
         },
-        "NonCommunicableDisease:stroke": {
+        "NonCommunicableDisease:stroke_or_paralysis": {
           "Count": "Int:171"
         },
         "NonCommunicableDisease:asthma": {
@@ -65,7 +65,7 @@
           "Count": "Int:171"
         }
       },
-      "EmploymentStatus:paid_employee_private_sector": {
+      "EmploymentStatus:private_employee": {
         "NonCommunicableDisease:diabetes": {
           "Count": "Int:188169"
         },
@@ -87,7 +87,7 @@
         "NonCommunicableDisease:cancer": {
           "Count": "Int:6489"
         },
-        "NonCommunicableDisease:stroke": {
+        "NonCommunicableDisease:stroke_or_paralysis": {
           "Count": "Int:3244"
         },
         "NonCommunicableDisease:asthma": {
@@ -97,7 +97,7 @@
           "Count": "Int:9733"
         }
       },
-      "EmploymentStatus:employer_have_employees": {
+      "EmploymentStatus:employer": {
         "NonCommunicableDisease:diabetes": {
           "Count": "Int:38346"
         },
@@ -119,7 +119,7 @@
         "NonCommunicableDisease:cancer": {
           "Count": "Int:556"
         },
-        "NonCommunicableDisease:stroke": {
+        "NonCommunicableDisease:stroke_or_paralysis": {
           "Count": "Int:556"
         },
         "NonCommunicableDisease:asthma": {
@@ -129,7 +129,7 @@
           "Count": "Int:278"
         }
       },
-      "EmploymentStatus:own_account_worker_don't_have_employees": {
+      "EmploymentStatus:own_account_worker": {
         "NonCommunicableDisease:diabetes": {
           "Count": "Int:250392"
         },
@@ -151,7 +151,7 @@
         "NonCommunicableDisease:cancer": {
           "Count": "Int:7223"
         },
-        "NonCommunicableDisease:stroke": {
+        "NonCommunicableDisease:stroke_or_paralysis": {
           "Count": "Int:7223"
         },
         "NonCommunicableDisease:asthma": {
@@ -161,7 +161,7 @@
           "Count": "Int:7223"
         }
       },
-      "EmploymentStatus:contributing_to_family_enterprise_unpaid_family_worker": {
+      "EmploymentStatus:family_enterprise": {
         "NonCommunicableDisease:diabetes": {
           "Count": "Int:39127"
         },
@@ -183,7 +183,7 @@
         "NonCommunicableDisease:cancer": {
           "Count": "Int:1630"
         },
-        "NonCommunicableDisease:stroke": {
+        "NonCommunicableDisease:stroke_or_paralysis": {
           "Count": "Int:815"
         },
         "NonCommunicableDisease:asthma": {

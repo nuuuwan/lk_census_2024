@@ -1,7 +1,7 @@
 {
   "Person": {
     "Time:2024": {
-      "HighestEducationLevel:never_attended_school": {
+      "HighestEducationLevel:no_schooling": {
         "NonCommunicableDisease:diabetes": {
           "Count": "Int:70779"
         },
@@ -23,7 +23,7 @@
         "NonCommunicableDisease:cancer": {
           "Count": "Int:3999"
         },
-        "NonCommunicableDisease:stroke": {
+        "NonCommunicableDisease:stroke_or_paralysis": {
           "Count": "Int:12396"
         },
         "NonCommunicableDisease:asthma": {
@@ -55,7 +55,7 @@
         "NonCommunicableDisease:cancer": {
           "Count": "Int:17211"
         },
-        "NonCommunicableDisease:stroke": {
+        "NonCommunicableDisease:stroke_or_paralysis": {
           "Count": "Int:37864"
         },
         "NonCommunicableDisease:asthma": {
@@ -87,7 +87,7 @@
         "NonCommunicableDisease:cancer": {
           "Count": "Int:14898"
         },
-        "NonCommunicableDisease:stroke": {
+        "NonCommunicableDisease:stroke_or_paralysis": {
           "Count": "Int:24830"
         },
         "NonCommunicableDisease:asthma": {
@@ -119,7 +119,7 @@
         "NonCommunicableDisease:cancer": {
           "Count": "Int:20313"
         },
-        "NonCommunicableDisease:stroke": {
+        "NonCommunicableDisease:stroke_or_paralysis": {
           "Count": "Int:23698"
         },
         "NonCommunicableDisease:asthma": {
@@ -129,7 +129,7 @@
           "Count": "Int:10156"
         }
       },
-      "HighestEducationLevel:g_c_e_o_or_l_or_equal": {
+      "HighestEducationLevel:gce_o_or_l": {
         "NonCommunicableDisease:diabetes": {
           "Count": "Int:378788"
         },
@@ -151,7 +151,7 @@
         "NonCommunicableDisease:cancer": {
           "Count": "Int:15274"
         },
-        "NonCommunicableDisease:stroke": {
+        "NonCommunicableDisease:stroke_or_paralysis": {
           "Count": "Int:15274"
         },
         "NonCommunicableDisease:asthma": {
@@ -161,7 +161,7 @@
           "Count": "Int:6109"
         }
       },
-      "HighestEducationLevel:g_c_e_a_or_l_or_equal": {
+      "HighestEducationLevel:gce_a_or_l": {
         "NonCommunicableDisease:diabetes": {
           "Count": "Int:259669"
         },
@@ -183,7 +183,7 @@
         "NonCommunicableDisease:cancer": {
           "Count": "Int:10708"
         },
-        "NonCommunicableDisease:stroke": {
+        "NonCommunicableDisease:stroke_or_paralysis": {
           "Count": "Int:8031"
         },
         "NonCommunicableDisease:asthma": {
@@ -215,7 +215,7 @@
         "NonCommunicableDisease:cancer": {
           "Count": "Int:1917"
         },
-        "NonCommunicableDisease:stroke": {
+        "NonCommunicableDisease:stroke_or_paralysis": {
           "Count": "Int:1917"
         },
         "NonCommunicableDisease:asthma": {

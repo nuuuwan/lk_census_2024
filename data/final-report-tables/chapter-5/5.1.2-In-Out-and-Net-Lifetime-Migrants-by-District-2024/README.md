@@ -1,7 +1,7 @@
 # In, Out and Net Lifetime Migrants by District, 2024
 
 ![CPH](https://img.shields.io/badge/CPH-2024-blue)
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--07--30-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--08--01-green)
 
 *Table 5.1.2, Final Report, 2024 Census of Population and Housing, Department of Census and Statistics, Sri Lanka*
 
@@ -12,36 +12,36 @@
     "Person": {
         "Time:2024": {
             "District:colombo": {
-                "MigrationDirection:in_migrants": {
+                "MigrationLifetimeDirection:in_migrants": {
                     "Count": "Int:491236"
                 },
-                "MigrationDirection:out_migrants": {
+                "MigrationLifetimeDirection:out_migrants": {
                     "Count": "Int:299712"
                 }
             },
             "District:gampaha": {
-                "MigrationDirection:in_migrants": {
+                "MigrationLifetimeDirection:in_migrants": {
                     "Count": "Int:490861"
                 },
-                "MigrationDirection:out_migrants": {
+                "MigrationLifetimeDirection:out_migrants": {
                     "Count": "Int:133333"
                 }
             },
             "District:kalutara": {
-                "MigrationDirection:in_migrants": {
+                "MigrationLifetimeDirection:in_migrants": {
                     "Count": "Int:180877"
                 },
-                "MigrationDirection:out_migrants": {
+                "MigrationLifetimeDirection:out_migrants": {
                     "Count": "Int:118645"
                 }
             },
             "District:kandy": {
-                "MigrationDirection:in_migrants": {
+                "MigrationLifetimeDirection:in_migrants": {
                     "Count": "Int:157921"
 ...
 ```
 
-- Source File: [lanka_data.json (5.2 KB)](../../../../data/final-report-tables/chapter-5/5.1.2-In-Out-and-Net-Lifetime-Migrants-by-District-2024/lanka_data.json)
+- Source File: [lanka_data.json (5.6 KB)](../../../../data/final-report-tables/chapter-5/5.1.2-In-Out-and-Net-Lifetime-Migrants-by-District-2024/lanka_data.json)
 
 ## Structured Data (similar to original layout)
 

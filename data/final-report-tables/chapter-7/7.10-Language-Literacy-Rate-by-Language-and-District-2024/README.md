@@ -1,7 +1,7 @@
 # Language Literacy Rate by Language and District, 2024
 
 ![CPH](https://img.shields.io/badge/CPH-2024-blue)
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--07--30-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--08--01-green)
 
 *Table 7.10, Final Report, 2024 Census of Population and Housing, Department of Census and Statistics, Sri Lanka*
 
@@ -12,7 +12,7 @@
     "Person": {
         "Time:2024": {
             "District:colombo": {
-                "LanguageLiteracy:at_least_one_language": {
+                "LanguageLiteracy:any_language": {
                     "CountLiterate": "Int:2109420"
                 },
                 "LanguageLiteracy:sinhala": {
@@ -26,7 +26,7 @@
                 }
             },
             "District:gampaha": {
-                "LanguageLiteracy:at_least_one_language": {
+                "LanguageLiteracy:any_language": {
                     "CountLiterate": "Int:2145366"
                 },
                 "LanguageLiteracy:sinhala": {
@@ -41,7 +41,7 @@
 ...
 ```
 
-- Source File: [lanka_data.json (9.9 KB)](../../../../data/final-report-tables/chapter-7/7.10-Language-Literacy-Rate-by-Language-and-District-2024/lanka_data.json)
+- Source File: [lanka_data.json (9.7 KB)](../../../../data/final-report-tables/chapter-7/7.10-Language-Literacy-Rate-by-Language-and-District-2024/lanka_data.json)
 
 ## Structured Data (similar to original layout)
 

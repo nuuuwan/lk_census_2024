@@ -1,7 +1,7 @@
 # Population Aged 3 Years and Over by Sex and Educational Activity During the Census Reference Period,
 
 ![CPH](https://img.shields.io/badge/CPH-2024-blue)
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--07--30-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--08--01-green)
 
 *Table 7.1, Final Report, 2024 Census of Population and Housing, Department of Census and Statistics, Sri Lanka*
 
@@ -27,7 +27,7 @@
                     "Count": "Int:2193394"
                 }
             },
-            "EducationActivity:degree_or_postgraduate_education": {
+            "EducationActivity:degree_or_postgrad": {
                 "Sex:male": {
                     "Count": "Int:120745"
                 },
@@ -35,13 +35,13 @@
                     "Count": "Int:200244"
                 }
             },
-            "EducationActivity:vocational_training_or_technical_education": {
+            "EducationActivity:vocational_training": {
                 "Sex:male": {
                     "Count": "Int:70149"
 ...
 ```
 
-- Source File: [lanka_data.json (1.2 KB)](../../../../data/final-report-tables/chapter-7/7.1-Population-Aged-3-Years-and-Over-by-Sex-and-Educational-Activity-During-the-Census-Reference-Period-/lanka_data.json)
+- Source File: [lanka_data.json (1.1 KB)](../../../../data/final-report-tables/chapter-7/7.1-Population-Aged-3-Years-and-Over-by-Sex-and-Educational-Activity-During-the-Census-Reference-Period-/lanka_data.json)
 
 ## Structured Data (similar to original layout)
 

@@ -1,7 +1,7 @@
 # Percentage Pistribution of Population Aged 03 Years and Over by Educational Activity and Age Group, 2024
 
 ![CPH](https://img.shields.io/badge/CPH-2024-blue)
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--07--30-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--08--01-green)
 
 *Table 7.2, Final Report, 2024 Census of Population and Housing, Department of Census and Statistics, Sri Lanka*
 
@@ -18,13 +18,13 @@
                 "EducationActivity:school_education": {
                     "Count": "Int:0"
                 },
-                "EducationActivity:degree_or_postgraduate_education": {
+                "EducationActivity:degree_or_postgrad": {
                     "Count": "Int:0"
                 },
-                "EducationActivity:vocational_training_or_technical_education": {
+                "EducationActivity:vocational_training": {
                     "Count": "Int:0"
                 },
-                "EducationActivity:other_educational_activity": {
+                "EducationActivity:other_education": {
                     "Count": "Int:568"
                 },
                 "EducationActivity:not_studying": {
@@ -41,7 +41,7 @@
 ...
 ```
 
-- Source File: [lanka_data.json (3.1 KB)](../../../../data/final-report-tables/chapter-7/7.2-Percentage-Pistribution-of-Population-Aged-03-Years-and-Over-by-Educational-Activity-and-Age-Group-2024/lanka_data.json)
+- Source File: [lanka_data.json (2.9 KB)](../../../../data/final-report-tables/chapter-7/7.2-Percentage-Pistribution-of-Population-Aged-03-Years-and-Over-by-Educational-Activity-and-Age-Group-2024/lanka_data.json)
 
 ## Structured Data (similar to original layout)
 

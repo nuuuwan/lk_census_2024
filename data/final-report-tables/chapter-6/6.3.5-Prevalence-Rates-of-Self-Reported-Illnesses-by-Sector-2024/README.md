@@ -1,7 +1,7 @@
 # Prevalence Rates of Self-Reported Illnesses by Sector, 2024
 
 ![CPH](https://img.shields.io/badge/CPH-2024-blue)
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--07--30-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--08--01-green)
 
 *Table 6.3.5, Final Report, 2024 Census of Population and Housing, Department of Census and Statistics, Sri Lanka*
 
@@ -33,7 +33,7 @@
                 "NonCommunicableDisease:cancer": {
                     "Count": "Int:11453"
                 },
-                "NonCommunicableDisease:stroke": {
+                "NonCommunicableDisease:stroke_or_paralysis": {
                     "Count": "Int:15271"
                 },
                 "NonCommunicableDisease:asthma": {

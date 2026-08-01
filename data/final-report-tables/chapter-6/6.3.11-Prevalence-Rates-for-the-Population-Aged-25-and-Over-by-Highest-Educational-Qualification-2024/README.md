@@ -1,7 +1,7 @@
 # Prevalence Rates for the Population Aged 25 and Over by Highest Educational Qualification, 2024
 
 ![CPH](https://img.shields.io/badge/CPH-2024-blue)
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--07--30-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--08--01-green)
 
 *Table 6.3.11, Final Report, 2024 Census of Population and Housing, Department of Census and Statistics, Sri Lanka*
 
@@ -11,7 +11,7 @@
 {
     "Person": {
         "Time:2024": {
-            "HighestEducationLevel:never_attended_school": {
+            "HighestEducationLevel:no_schooling": {
                 "NonCommunicableDisease:diabetes": {
                     "Count": "Int:70779"
                 },
@@ -33,7 +33,7 @@
                 "NonCommunicableDisease:cancer": {
                     "Count": "Int:3999"
                 },
-                "NonCommunicableDisease:stroke": {
+                "NonCommunicableDisease:stroke_or_paralysis": {
                     "Count": "Int:12396"
                 },
                 "NonCommunicableDisease:asthma": {

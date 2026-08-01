@@ -1,7 +1,7 @@
 # Population Temporarily Living Abroad by District and Sex, 2024
 
 ![CPH](https://img.shields.io/badge/CPH-2024-blue)
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--07--30-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--08--01-green)
 
 *Table 5.2.1, Final Report, 2024 Census of Population and Housing, Department of Census and Statistics, Sri Lanka*
 
@@ -13,35 +13,35 @@
         "Time:2024": {
             "District:colombo": {
                 "Sex:male": {
-                    "Count": "Int:43531"
+                    "CountTemporarilyLivingAbroad": "Int:43531"
                 },
                 "Sex:female": {
-                    "Count": "Int:27908"
+                    "CountTemporarilyLivingAbroad": "Int:27908"
                 }
             },
             "District:gampaha": {
                 "Sex:male": {
-                    "Count": "Int:54734"
+                    "CountTemporarilyLivingAbroad": "Int:54734"
                 },
                 "Sex:female": {
-                    "Count": "Int:31343"
+                    "CountTemporarilyLivingAbroad": "Int:31343"
                 }
             },
             "District:kalutara": {
                 "Sex:male": {
-                    "Count": "Int:25238"
+                    "CountTemporarilyLivingAbroad": "Int:25238"
                 },
                 "Sex:female": {
-                    "Count": "Int:16114"
+                    "CountTemporarilyLivingAbroad": "Int:16114"
                 }
             },
             "District:kandy": {
                 "Sex:male": {
-                    "Count": "Int:35518"
+                    "CountTemporarilyLivingAbroad": "Int:35518"
 ...
 ```
 
-- Source File: [lanka_data.json (4.1 KB)](../../../../data/final-report-tables/chapter-5/5.2.1-Population-Temporarily-Living-Abroad-by-District-and-Sex-2024/lanka_data.json)
+- Source File: [lanka_data.json (5.2 KB)](../../../../data/final-report-tables/chapter-5/5.2.1-Population-Temporarily-Living-Abroad-by-District-and-Sex-2024/lanka_data.json)
 
 ## Structured Data (similar to original layout)
 

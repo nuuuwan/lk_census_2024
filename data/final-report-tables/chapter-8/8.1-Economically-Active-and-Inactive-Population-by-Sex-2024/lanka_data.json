@@ -5,7 +5,7 @@
         "IsEconomicallyActive:economically_active": {
           "Count": "Int:5550374"
         },
-        "IsEconomicallyActive:economically_inactive": {
+        "IsEconomicallyActive:inactive": {
           "Count": "Int:2681440"
         }
       },
@@ -13,7 +13,7 @@
         "IsEconomicallyActive:economically_active": {
           "Count": "Int:2612567"
         },
-        "IsEconomicallyActive:economically_inactive": {
+        "IsEconomicallyActive:inactive": {
           "Count": "Int:6430580"
         }
       }

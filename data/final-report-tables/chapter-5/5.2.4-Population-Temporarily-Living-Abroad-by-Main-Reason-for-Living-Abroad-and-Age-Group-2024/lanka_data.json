@@ -8,7 +8,7 @@
         "EmmigrationReason:education": {
           "Count": "Int:1486"
         },
-        "EmmigrationReason:accompanying_family_member_in_need": {
+        "EmmigrationReason:family_in_need": {
           "Count": "Int:17862"
         },
         "EmmigrationReason:other": {
@@ -22,7 +22,7 @@
         "EmmigrationReason:education": {
           "Count": "Int:38053"
         },
-        "EmmigrationReason:accompanying_family_member_in_need": {
+        "EmmigrationReason:family_in_need": {
           "Count": "Int:6348"
         },
         "EmmigrationReason:other": {
@@ -36,7 +36,7 @@
         "EmmigrationReason:education": {
           "Count": "Int:14042"
         },
-        "EmmigrationReason:accompanying_family_member_in_need": {
+        "EmmigrationReason:family_in_need": {
           "Count": "Int:10530"
         },
         "EmmigrationReason:other": {
@@ -50,7 +50,7 @@
         "EmmigrationReason:education": {
           "Count": "Int:40"
         },
-        "EmmigrationReason:accompanying_family_member_in_need": {
+        "EmmigrationReason:family_in_need": {
           "Count": "Int:3478"
         },
         "EmmigrationReason:other": {

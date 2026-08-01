@@ -1,7 +1,7 @@
 # Evolution of the Number of Administrative Districts In Sri Lanka from 1871 to 2024
 
 ![CPH](https://img.shields.io/badge/CPH-2024-blue)
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--07--30-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--08--01-green)
 
 *Table 2.1, Final Report, 2024 Census of Population and Housing, Department of Census and Statistics, Sri Lanka*
 
@@ -12,36 +12,36 @@
     "District": {
         "District:colombo": {
             "Time:1871": {
-                "IsExisting": "Bool:True"
+                "IsIn": "Bool:True"
             },
             "Time:1881": {
-                "IsExisting": "Bool:True"
+                "IsIn": "Bool:True"
             },
             "Time:1891": {
-                "IsExisting": "Bool:True"
+                "IsIn": "Bool:True"
             },
             "Time:1901": {
-                "IsExisting": "Bool:True"
+                "IsIn": "Bool:True"
             },
             "Time:1911": {
-                "IsExisting": "Bool:True"
+                "IsIn": "Bool:True"
             },
             "Time:1921": {
-                "IsExisting": "Bool:True"
+                "IsIn": "Bool:True"
             },
             "Time:1931": {
-                "IsExisting": "Bool:True"
+                "IsIn": "Bool:True"
             },
             "Time:1946": {
-                "IsExisting": "Bool:True"
+                "IsIn": "Bool:True"
             },
             "Time:1953": {
-                "IsExisting": "Bool:True"
+                "IsIn": "Bool:True"
             },
 ...
 ```
 
-- Source File: [lanka_data.json (24.3 KB)](../../../../data/final-report-tables/chapter-2/2.1-Evolution-of-the-Number-of-Administrative-Districts-In-Sri-Lanka-from-1871-to-2024/lanka_data.json)
+- Source File: [lanka_data.json (22.1 KB)](../../../../data/final-report-tables/chapter-2/2.1-Evolution-of-the-Number-of-Administrative-Districts-In-Sri-Lanka-from-1871-to-2024/lanka_data.json)
 
 ## Structured Data (similar to original layout)
 

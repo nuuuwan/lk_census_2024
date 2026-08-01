@@ -2,7 +2,7 @@
   "Person": {
     "Time:2024": {
       "District:colombo": {
-        "LanguageLiteracy:at_least_one_language": {
+        "LanguageLiteracy:any_language": {
           "CountLiterate": "Int:2109420"
         },
         "LanguageLiteracy:sinhala": {
@@ -16,7 +16,7 @@
         }
       },
       "District:gampaha": {
-        "LanguageLiteracy:at_least_one_language": {
+        "LanguageLiteracy:any_language": {
           "CountLiterate": "Int:2145366"
         },
         "LanguageLiteracy:sinhala": {
@@ -30,7 +30,7 @@
         }
       },
       "District:kalutara": {
-        "LanguageLiteracy:at_least_one_language": {
+        "LanguageLiteracy:any_language": {
           "CountLiterate": "Int:1134376"
         },
         "LanguageLiteracy:sinhala": {
@@ -44,7 +44,7 @@
         }
       },
       "District:kandy": {
-        "LanguageLiteracy:at_least_one_language": {
+        "LanguageLiteracy:any_language": {
           "CountLiterate": "Int:1243128"
         },
         "LanguageLiteracy:sinhala": {
@@ -58,7 +58,7 @@
         }
       },
       "District:matale": {
-        "LanguageLiteracy:at_least_one_language": {
+        "LanguageLiteracy:any_language": {
           "CountLiterate": "Int:441434"
         },
         "LanguageLiteracy:sinhala": {
@@ -72,7 +72,7 @@
         }
       },
       "District:nuwara_eliya": {
-        "LanguageLiteracy:at_least_one_language": {
+        "LanguageLiteracy:any_language": {
           "CountLiterate": "Int:583916"
         },
         "LanguageLiteracy:sinhala": {
@@ -86,7 +86,7 @@
         }
       },
       "District:galle": {
-        "LanguageLiteracy:at_least_one_language": {
+        "LanguageLiteracy:any_language": {
           "CountLiterate": "Int:941772"
         },
         "LanguageLiteracy:sinhala": {
@@ -100,7 +100,7 @@
         }
       },
       "District:matara": {
-        "LanguageLiteracy:at_least_one_language": {
+        "LanguageLiteracy:any_language": {
           "CountLiterate": "Int:711046"
         },
         "LanguageLiteracy:sinhala": {
@@ -114,7 +114,7 @@
         }
       },
       "District:hambantota": {
-        "LanguageLiteracy:at_least_one_language": {
+        "LanguageLiteracy:any_language": {
           "CountLiterate": "Int:561698"
         },
         "LanguageLiteracy:sinhala": {
@@ -128,7 +128,7 @@
         }
       },
       "District:jaffna": {
-        "LanguageLiteracy:at_least_one_language": {
+        "LanguageLiteracy:any_language": {
           "CountLiterate": "Int:512116"
         },
         "LanguageLiteracy:sinhala": {
@@ -142,7 +142,7 @@
         }
       },
       "District:mannar": {
-        "LanguageLiteracy:at_least_one_language": {
+        "LanguageLiteracy:any_language": {
           "CountLiterate": "Int:102841"
         },
         "LanguageLiteracy:sinhala": {
@@ -156,7 +156,7 @@
         }
       },
       "District:vavuniya": {
-        "LanguageLiteracy:at_least_one_language": {
+        "LanguageLiteracy:any_language": {
           "CountLiterate": "Int:144117"
         },
         "LanguageLiteracy:sinhala": {
@@ -170,7 +170,7 @@
         }
       },
       "District:mullaitivu": {
-        "LanguageLiteracy:at_least_one_language": {
+        "LanguageLiteracy:any_language": {
           "CountLiterate": "Int:102831"
         },
         "LanguageLiteracy:sinhala": {
@@ -184,7 +184,7 @@
         }
       },
       "District:kilinochchi": {
-        "LanguageLiteracy:at_least_one_language": {
+        "LanguageLiteracy:any_language": {
           "CountLiterate": "Int:114947"
         },
         "LanguageLiteracy:sinhala": {
@@ -198,7 +198,7 @@
         }
       },
       "District:batticaloa": {
-        "LanguageLiteracy:at_least_one_language": {
+        "LanguageLiteracy:any_language": {
           "CountLiterate": "Int:463603"
         },
         "LanguageLiteracy:sinhala": {
@@ -212,7 +212,7 @@
         }
       },
       "District:ampara": {
-        "LanguageLiteracy:at_least_one_language": {
+        "LanguageLiteracy:any_language": {
           "CountLiterate": "Int:593642"
         },
         "LanguageLiteracy:sinhala": {
@@ -226,7 +226,7 @@
         }
       },
       "District:trincomalee": {
-        "LanguageLiteracy:at_least_one_language": {
+        "LanguageLiteracy:any_language": {
           "CountLiterate": "Int:351036"
         },
         "LanguageLiteracy:sinhala": {
@@ -240,7 +240,7 @@
         }
       },
       "District:kurunegala": {
-        "LanguageLiteracy:at_least_one_language": {
+        "LanguageLiteracy:any_language": {
           "CountLiterate": "Int:1514796"
         },
         "LanguageLiteracy:sinhala": {
@@ -254,7 +254,7 @@
         }
       },
       "District:puttalam": {
-        "LanguageLiteracy:at_least_one_language": {
+        "LanguageLiteracy:any_language": {
           "CountLiterate": "Int:683962"
         },
         "LanguageLiteracy:sinhala": {
@@ -268,7 +268,7 @@
         }
       },
       "District:anuradhapura": {
-        "LanguageLiteracy:at_least_one_language": {
+        "LanguageLiteracy:any_language": {
           "CountLiterate": "Int:807666"
         },
         "LanguageLiteracy:sinhala": {
@@ -282,7 +282,7 @@
         }
       },
       "District:polonnaruwa": {
-        "LanguageLiteracy:at_least_one_language": {
+        "LanguageLiteracy:any_language": {
           "CountLiterate": "Int:373794"
         },
         "LanguageLiteracy:sinhala": {
@@ -296,7 +296,7 @@
         }
       },
       "District:badulla": {
-        "LanguageLiteracy:at_least_one_language": {
+        "LanguageLiteracy:any_language": {
           "CountLiterate": "Int:725345"
         },
         "LanguageLiteracy:sinhala": {
@@ -310,7 +310,7 @@
         }
       },
       "District:monaragala": {
-        "LanguageLiteracy:at_least_one_language": {
+        "LanguageLiteracy:any_language": {
           "CountLiterate": "Int:435724"
         },
         "LanguageLiteracy:sinhala": {
@@ -324,7 +324,7 @@
         }
       },
       "District:ratnapura": {
-        "LanguageLiteracy:at_least_one_language": {
+        "LanguageLiteracy:any_language": {
           "CountLiterate": "Int:972985"
         },
         "LanguageLiteracy:sinhala": {
@@ -338,7 +338,7 @@
         }
       },
       "District:kegalle": {
-        "LanguageLiteracy:at_least_one_language": {
+        "LanguageLiteracy:any_language": {
           "CountLiterate": "Int:752375"
         },
         "LanguageLiteracy:sinhala": {

@@ -23,7 +23,7 @@
         "NonCommunicableDisease:cancer": {
           "Count": "Int:64570"
         },
-        "NonCommunicableDisease:stroke": {
+        "NonCommunicableDisease:stroke_or_paralysis": {
           "Count": "Int:96855"
         },
         "NonCommunicableDisease:asthma": {
@@ -55,7 +55,7 @@
         "NonCommunicableDisease:cancer": {
           "Count": "Int:8044"
         },
-        "NonCommunicableDisease:stroke": {
+        "NonCommunicableDisease:stroke_or_paralysis": {
           "Count": "Int:16088"
         },
         "NonCommunicableDisease:asthma": {
@@ -65,7 +65,7 @@
           "Count": "Int:10725"
         }
       },
-      "Ethnicity:sri_lanka_moor_or_muslim": {
+      "Ethnicity:sri_lanka_muslim": {
         "NonCommunicableDisease:diabetes": {
           "Count": "Int:210041"
         },
@@ -87,7 +87,7 @@
         "NonCommunicableDisease:cancer": {
           "Count": "Int:4566"
         },
-        "NonCommunicableDisease:stroke": {
+        "NonCommunicableDisease:stroke_or_paralysis": {
           "Count": "Int:9132"
         },
         "NonCommunicableDisease:asthma": {
@@ -119,7 +119,7 @@
         "NonCommunicableDisease:cancer": {
           "Count": "Int:159"
         },
-        "NonCommunicableDisease:stroke": {
+        "NonCommunicableDisease:stroke_or_paralysis": {
           "Count": "Int:190"
         },
         "NonCommunicableDisease:asthma": {
@@ -151,7 +151,7 @@
         "NonCommunicableDisease:cancer": {
           "Count": "Int:107"
         },
-        "NonCommunicableDisease:stroke": {
+        "NonCommunicableDisease:stroke_or_paralysis": {
           "Count": "Int:133"
         },
         "NonCommunicableDisease:asthma": {
@@ -183,7 +183,7 @@
         "NonCommunicableDisease:cancer": {
           "Count": "Int:7"
         },
-        "NonCommunicableDisease:stroke": {
+        "NonCommunicableDisease:stroke_or_paralysis": {
           "Count": "Int:17"
         },
         "NonCommunicableDisease:asthma": {
@@ -215,7 +215,7 @@
         "NonCommunicableDisease:cancer": {
           "Count": "Int:2"
         },
-        "NonCommunicableDisease:stroke": {
+        "NonCommunicableDisease:stroke_or_paralysis": {
           "Count": "Int:8"
         },
         "NonCommunicableDisease:asthma": {
@@ -247,7 +247,7 @@
         "NonCommunicableDisease:cancer": {
           "Count": "Int:4"
         },
-        "NonCommunicableDisease:stroke": {
+        "NonCommunicableDisease:stroke_or_paralysis": {
           "Count": "Int:16"
         },
         "NonCommunicableDisease:asthma": {
@@ -279,7 +279,7 @@
         "NonCommunicableDisease:cancer": {
           "Count": "Int:27"
         },
-        "NonCommunicableDisease:stroke": {
+        "NonCommunicableDisease:stroke_or_paralysis": {
           "Count": "Int:27"
         },
         "NonCommunicableDisease:asthma": {

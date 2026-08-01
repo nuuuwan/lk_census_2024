@@ -1,7 +1,7 @@
 # Distribution of Households by Main Source of Drinking Water, 2024
 
 ![CPH](https://img.shields.io/badge/CPH-2024-blue)
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--07--30-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--08--01-green)
 
 *Table 11.9, Final Report, 2024 Census of Population and Housing, Department of Census and Statistics, Sri Lanka*
 
@@ -26,22 +26,22 @@
             "SourceOfDrinkingWater:spring_or_fountain": {
                 "Count": "Int:230268"
             },
-            "SourceOfDrinkingWater:pipe_borne_water_national_water_supply_and_drainage_board": {
+            "SourceOfDrinkingWater:pipe_borne_nwsdb": {
                 "Count": "Int:2374349"
             },
-            "SourceOfDrinkingWater:pipe_borne_water_local_authority": {
+            "SourceOfDrinkingWater:pipe_borne_local": {
                 "Count": "Int:100764"
             },
-            "SourceOfDrinkingWater:pipe_borne_water_community_based_organization": {
+            "SourceOfDrinkingWater:pipe_borne_comm": {
                 "Count": "Int:419247"
             },
-            "SourceOfDrinkingWater:pipe_borne_water_private_water_supply_project": {
+            "SourceOfDrinkingWater:pipe_borne_private": {
                 "Count": "Int:130394"
             },
 ...
 ```
 
-- Source File: [lanka_data.json (1.4 KB)](../../../../data/final-report-tables/chapter-11/11.9-Distribution-of-Households-by-Main-Source-of-Drinking-Water-2024/lanka_data.json)
+- Source File: [lanka_data.json (1.3 KB)](../../../../data/final-report-tables/chapter-11/11.9-Distribution-of-Households-by-Main-Source-of-Drinking-Water-2024/lanka_data.json)
 
 ## Structured Data (similar to original layout)
 

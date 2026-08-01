@@ -1,7 +1,7 @@
 # House-SourceOfDrinkingWater
 
 ![CPH](https://img.shields.io/badge/CPH-2024-blue)
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--07--30-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--08--01-green)
 
 *House-SourceOfDrinkingWater, 2024 Census of Population and Housing, Department of Census and Statistics, Sri Lanka*
 
@@ -24,16 +24,16 @@
                 "SourceOfDrinkingWater:tube_well": {
                     "Count": "Int:270401"
                 },
-                "SourceOfDrinkingWater:spring_fountain": {
+                "SourceOfDrinkingWater:spring_or_fountain": {
                     "Count": "Int:230268"
                 },
                 "SourceOfDrinkingWater:pipe_borne_nwsdb": {
                     "Count": "Int:2374349"
                 },
-                "SourceOfDrinkingWater:pipe_borne_local_authority": {
+                "SourceOfDrinkingWater:pipe_borne_local": {
                     "Count": "Int:100764"
                 },
-                "SourceOfDrinkingWater:pipe_borne_community": {
+                "SourceOfDrinkingWater:pipe_borne_comm": {
                     "Count": "Int:419247"
                 },
                 "SourceOfDrinkingWater:pipe_borne_private": {
@@ -41,7 +41,7 @@
 ...
 ```
 
-- Source File: [lanka_data.json (751.4 KB)](../../data/House-SourceOfDrinkingWater/lanka_data.json)
+- Source File: [lanka_data.json (744.8 KB)](../../data/House-SourceOfDrinkingWater/lanka_data.json)
 
 ## Structured Data (similar to original layout)
 

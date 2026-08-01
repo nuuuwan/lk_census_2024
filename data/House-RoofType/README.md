@@ -1,7 +1,7 @@
 # House-RoofType
 
 ![CPH](https://img.shields.io/badge/CPH-2024-blue)
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--07--30-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--08--01-green)
 
 *House-RoofType, 2024 Census of Population and Housing, Department of Census and Statistics, Sri Lanka*
 
@@ -27,7 +27,7 @@
                 "RoofType:metal_sheet": {
                     "Count": "Int:163735"
                 },
-                "RoofType:cadjan_palmyrah_straw": {
+                "RoofType:cadjan_palmyrah": {
                     "Count": "Int:88820"
                 },
                 "RoofType:other": {
@@ -41,7 +41,7 @@
 ...
 ```
 
-- Source File: [House-RoofType/lanka_data.json (341.2 KB)](../../data/House-RoofType/lanka_data.json)
+- Source File: [House-RoofType/lanka_data.json (337.9 KB)](../../data/House-RoofType/lanka_data.json)
 
 ## Structured Data (similar to original layout)
 

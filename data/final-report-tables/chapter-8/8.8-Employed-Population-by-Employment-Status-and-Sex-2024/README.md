@@ -1,7 +1,7 @@
 # Employed Population by Employment Status and Sex, 2024
 
 ![CPH](https://img.shields.io/badge/CPH-2024-blue)
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--07--30-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--08--01-green)
 
 *Table 8.8, Final Report, 2024 Census of Population and Housing, Department of Census and Statistics, Sri Lanka*
 
@@ -11,7 +11,7 @@
 {
     "Person": {
         "Time:2024": {
-            "EmploymentStatus:government_or_semi_government_paid_employee": {
+            "EmploymentStatus:govt_or_semi_govt": {
                 "Sex:male": {
                     "EmployedCount": "Int:741649"
                 },
@@ -19,7 +19,7 @@
                     "EmployedCount": "Int:591757"
                 }
             },
-            "EmploymentStatus:private_sector_paid_employee": {
+            "EmploymentStatus:private_employee": {
                 "Sex:male": {
                     "EmployedCount": "Int:2248841"
                 },
@@ -41,7 +41,7 @@
 ...
 ```
 
-- Source File: [lanka_data.json (1.1 KB)](../../../../data/final-report-tables/chapter-8/8.8-Employed-Population-by-Employment-Status-and-Sex-2024/lanka_data.json)
+- Source File: [lanka_data.json (1.0 KB)](../../../../data/final-report-tables/chapter-8/8.8-Employed-Population-by-Employment-Status-and-Sex-2024/lanka_data.json)
 
 ## Structured Data (similar to original layout)
 

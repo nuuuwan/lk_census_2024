@@ -1,7 +1,7 @@
 # Distribution of Households in Sri Lanka's ability to Obtain Drinking Water Throughout the Year, 2024
 
 ![CPH](https://img.shields.io/badge/CPH-2024-blue)
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--07--30-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--08--01-green)
 
 *Table 11.11, Final Report, 2024 Census of Population and Housing, Department of Census and Statistics, Sri Lanka*
 
@@ -12,26 +12,26 @@
     "House": {
         "Time:2024": {
             "SourceOfDrinkingWater:ground_water": {
-                "WaterSupplyAvailability:households_with_water_supply_throughout_the_year": {
+                "WaterSupplyAvailability:water_all_year": {
                     "Count": "Int:2361822"
                 },
-                "WaterSupplyAvailability:households_with_no_water_suppply_for_at_least_one_month": {
+                "WaterSupplyAvailability:water_shortage": {
                     "Count": "Int:108486"
                 }
             },
             "SourceOfDrinkingWater:pipe_borne_water": {
-                "WaterSupplyAvailability:households_with_water_supply_throughout_the_year": {
+                "WaterSupplyAvailability:water_all_year": {
                     "Count": "Int:2959509"
                 },
-                "WaterSupplyAvailability:households_with_no_water_suppply_for_at_least_one_month": {
+                "WaterSupplyAvailability:water_shortage": {
                     "Count": "Int:65245"
                 }
             },
             "SourceOfDrinkingWater:other": {
-                "WaterSupplyAvailability:households_with_water_supply_throughout_the_year": {
+                "WaterSupplyAvailability:water_all_year": {
                     "Count": "Int:53210"
                 },
-                "WaterSupplyAvailability:households_with_no_water_suppply_for_at_least_one_month": {
+                "WaterSupplyAvailability:water_shortage": {
                     "Count": "Int:11233"
                 }
             }
@@ -40,7 +40,7 @@
 }
 ```
 
-- Source File: [lanka_data.json (997.0 B)](../../../../data/final-report-tables/chapter-11/11.11-Distribution-of-Households-in-Sri-Lanka-s-ability-to-Obtain-Drinking-Water-Throughout-the-Year-2024/lanka_data.json)
+- Source File: [lanka_data.json (772.0 B)](../../../../data/final-report-tables/chapter-11/11.11-Distribution-of-Households-in-Sri-Lanka-s-ability-to-Obtain-Drinking-Water-Throughout-the-Year-2024/lanka_data.json)
 
 ## Structured Data (similar to original layout)
 

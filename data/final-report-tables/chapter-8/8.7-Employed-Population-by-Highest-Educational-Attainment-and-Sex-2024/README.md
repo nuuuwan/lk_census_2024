@@ -1,7 +1,7 @@
 # Employed Population, by Highest Educational Attainment and Sex, 2024
 
 ![CPH](https://img.shields.io/badge/CPH-2024-blue)
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--07--30-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--08--01-green)
 
 *Table 8.7, Final Report, 2024 Census of Population and Housing, Department of Census and Statistics, Sri Lanka*
 
@@ -11,7 +11,7 @@
 {
     "Person": {
         "Time:2024": {
-            "HighestEducationLevel2:never_attended_school": {
+            "HighestEducationLevel2:never_attended": {
                 "Sex:male": {
                     "EmployedCount": "Int:67915"
                 },
@@ -19,7 +19,7 @@
                     "EmployedCount": "Int:49378"
                 }
             },
-            "HighestEducationLevel2:studied_in_a_special_school_or_special_unit": {
+            "HighestEducationLevel2:special_school": {
                 "Sex:male": {
                     "EmployedCount": "Int:3923"
                 },

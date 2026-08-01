@@ -5,7 +5,7 @@
         "OneRoomOrMore:with_only_one_room": {
           "Count": "Int:80249"
         },
-        "OneRoomOrMore:with_only_more_than_one_room": {
+        "OneRoomOrMore:more_than_one_room": {
           "Count": "Int:945081"
         }
       },
@@ -13,7 +13,7 @@
         "OneRoomOrMore:with_only_one_room": {
           "Count": "Int:377"
         },
-        "OneRoomOrMore:with_only_more_than_one_room": {
+        "OneRoomOrMore:more_than_one_room": {
           "Count": "Int:2656"
         }
       },
@@ -21,7 +21,7 @@
         "OneRoomOrMore:with_only_one_room": {
           "Count": "Int:251344"
         },
-        "OneRoomOrMore:with_only_more_than_one_room": {
+        "OneRoomOrMore:more_than_one_room": {
           "Count": "Int:4521992"
         }
       },
@@ -29,7 +29,7 @@
         "OneRoomOrMore:with_only_one_room": {
           "Count": "Int:26388"
         },
-        "OneRoomOrMore:with_only_more_than_one_room": {
+        "OneRoomOrMore:more_than_one_room": {
           "Count": "Int:202454"
         }
       }

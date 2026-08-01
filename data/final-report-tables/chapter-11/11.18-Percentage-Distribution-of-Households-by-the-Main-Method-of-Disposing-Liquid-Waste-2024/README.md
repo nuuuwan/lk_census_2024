@@ -1,7 +1,7 @@
 # Percentage Distribution of Households by the Main Method of Disposing Liquid Waste, 2024
 
 ![CPH](https://img.shields.io/badge/CPH-2024-blue)
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--07--30-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--08--01-green)
 
 *Table 11.18, Final Report, 2024 Census of Population and Housing, Department of Census and Statistics, Sri Lanka*
 
@@ -12,7 +12,7 @@
     "House": {
         "Time:2024": {
             "Sector:urban": {
-                "LiquidWasteDisposal:to_a_properly_closed_pit": {
+                "LiquidWasteDisposal:closed_pit": {
                     "Percent": "Percent:0.462"
                 },
                 "LiquidWasteDisposal:open_pit": {
@@ -21,10 +21,10 @@
                 "LiquidWasteDisposal:within_the_premises": {
                     "Percent": "Percent:0.237"
                 },
-                "LiquidWasteDisposal:connected_to_a_piped_sewer": {
+                "LiquidWasteDisposal:piped_sewer": {
                     "Percent": "Percent:0.085"
                 },
-                "LiquidWasteDisposal:to_a_stream_or_spring_or_river_or_sea": {
+                "LiquidWasteDisposal:natural_water": {
                     "Percent": "Percent:0.015"
                 },
                 "LiquidWasteDisposal:to_a_drain_on_road": {
@@ -35,13 +35,13 @@
                 }
             },
             "Sector:estate_urban": {
-                "LiquidWasteDisposal:to_a_properly_closed_pit": {
+                "LiquidWasteDisposal:closed_pit": {
                     "Percent": "Percent:0.11"
                 },
 ...
 ```
 
-- Source File: [lanka_data.json (2.9 KB)](../../../../data/final-report-tables/chapter-11/11.18-Percentage-Distribution-of-Households-by-the-Main-Method-of-Disposing-Liquid-Waste-2024/lanka_data.json)
+- Source File: [lanka_data.json (2.7 KB)](../../../../data/final-report-tables/chapter-11/11.18-Percentage-Distribution-of-Households-by-the-Main-Method-of-Disposing-Liquid-Waste-2024/lanka_data.json)
 
 ## Structured Data (similar to original layout)
 

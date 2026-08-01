@@ -1,7 +1,7 @@
 # Tenure of Housing Units by Sector and District, 2024
 
 ![CPH](https://img.shields.io/badge/CPH-2024-blue)
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--07--30-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--08--01-green)
 
 *Table 11.4, Final Report, 2024 Census of Population and Housing, Department of Census and Statistics, Sri Lanka*
 
@@ -12,16 +12,16 @@
     "House": {
         "Time:2024": {
             "District:colombo": {
-                "OwnershipStatus:owned_by_a_household_member": {
+                "OwnershipStatus:owned_by_household": {
                     "Percent": "Percent:0.76"
                 },
-                "OwnershipStatus:rent_or_lease_government_owned": {
+                "OwnershipStatus:rent_government": {
                     "Percent": "Percent:0.035"
                 },
-                "OwnershipStatus:rent_or_lease_privately_owned": {
+                "OwnershipStatus:rent_private": {
                     "Percent": "Percent:0.166"
                 },
-                "OwnershipStatus:rent_or_lease_free_of_rent": {
+                "OwnershipStatus:rent_free": {
                     "Percent": "Percent:0.024"
                 },
                 "OwnershipStatus:encroached": {
@@ -32,16 +32,16 @@
                 }
             },
             "District:gampaha": {
-                "OwnershipStatus:owned_by_a_household_member": {
+                "OwnershipStatus:owned_by_household": {
                     "Percent": "Percent:0.816"
                 },
-                "OwnershipStatus:rent_or_lease_government_owned": {
+                "OwnershipStatus:rent_government": {
                     "Percent": "Percent:0.022"
                 },
 ...
 ```
 
-- Source File: [lanka_data.json (15.5 KB)](../../../../data/final-report-tables/chapter-11/11.4-Tenure-of-Housing-Units-by-Sector-and-District-2024/lanka_data.json)
+- Source File: [lanka_data.json (14.1 KB)](../../../../data/final-report-tables/chapter-11/11.4-Tenure-of-Housing-Units-by-Sector-and-District-2024/lanka_data.json)
 
 ## Structured Data (similar to original layout)
 

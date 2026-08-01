@@ -1,7 +1,7 @@
 # Lifetime Migrants by District of Dirth and District of Usual Residence,
 
 ![CPH](https://img.shields.io/badge/CPH-2024-blue)
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--07--30-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--08--01-green)
 
 *Table 5.1.1, Final Report, 2024 Census of Population and Housing, Department of Census and Statistics, Sri Lanka*
 

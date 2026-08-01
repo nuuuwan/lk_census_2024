@@ -1,7 +1,7 @@
 # House-ToiletFacilities
 
 ![CPH](https://img.shields.io/badge/CPH-2024-blue)
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--07--30-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--08--01-green)
 
 *House-ToiletFacilities, 2024 Census of Population and Housing, Department of Census and Statistics, Sri Lanka*
 
@@ -12,16 +12,16 @@
     "House": {
         "Time:2024": {
             "Country:sri_lanka": {
-                "ToiletFacilities:within_unit_exclusive": {
+                "ToiletFacilities:housing_unit_private": {
                     "Count": "Int:3798777"
                 },
-                "ToiletFacilities:within_unit_shared": {
+                "ToiletFacilities:housing_unit_shared": {
                     "Count": "Int:157456"
                 },
-                "ToiletFacilities:within_premises_exclusive": {
+                "ToiletFacilities:premises_exclusive": {
                     "Count": "Int:1832587"
                 },
-                "ToiletFacilities:within_premises_shared": {
+                "ToiletFacilities:premises_shared": {
                     "Count": "Int:197678"
                 },
                 "ToiletFacilities:no_toilet_sharing": {
@@ -30,12 +30,12 @@
                 "ToiletFacilities:common_public": {
                     "Count": "Int:9567"
                 },
-                "ToiletFacilities:none": {
+                "ToiletFacilities:not_using_a_toilet": {
                     "Count": "Int:13326"
                 }
             },
             "Province:western": {
-                "ToiletFacilities:within_unit_exclusive": {
+                "ToiletFacilities:housing_unit_private": {
                     "Count": "Int:1402581"
                 },
 ...

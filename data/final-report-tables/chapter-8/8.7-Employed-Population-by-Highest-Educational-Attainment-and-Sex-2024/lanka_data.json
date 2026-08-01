@@ -1,7 +1,7 @@
 {
   "Person": {
     "Time:2024": {
-      "HighestEducationLevel2:never_attended_school": {
+      "HighestEducationLevel2:never_attended": {
         "Sex:male": {
           "EmployedCount": "Int:67915"
         },
@@ -9,7 +9,7 @@
           "EmployedCount": "Int:49378"
         }
       },
-      "HighestEducationLevel2:studied_in_a_special_school_or_special_unit": {
+      "HighestEducationLevel2:special_school": {
         "Sex:male": {
           "EmployedCount": "Int:3923"
         },

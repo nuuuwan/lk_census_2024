@@ -1,7 +1,7 @@
 # Person-Ethnicity
 
 ![CPH](https://img.shields.io/badge/CPH-2024-blue)
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--07--30-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--08--01-green)
 
 *Person-Ethnicity, 2024 Census of Population and Housing, Department of Census and Statistics, Sri Lanka*
 
@@ -18,10 +18,10 @@
                 "Ethnicity:sri_lanka_tamil": {
                     "Count": "Int:2665574"
                 },
-                "Ethnicity:ind_and_malaiyaga_tamil": {
+                "Ethnicity:indian_tamil": {
                     "Count": "Int:590087"
                 },
-                "Ethnicity:sri_lanka_moor_or_muslim": {
+                "Ethnicity:sri_lanka_muslim": {
                     "Count": "Int:2274372"
                 },
                 "Ethnicity:burgher": {
@@ -41,7 +41,7 @@
 ...
 ```
 
-- Source File: [lanka_data.json (427.2 KB)](../../data/Person-Ethnicity/lanka_data.json)
+- Source File: [lanka_data.json (416.9 KB)](../../data/Person-Ethnicity/lanka_data.json)
 
 ## Structured Data (similar to original layout)
 

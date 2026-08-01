@@ -2,727 +2,727 @@
   "Person": {
     "Time:2024": {
       "District:colombo": {
-        "CensusOfficer:deputy_census_commissioners": {
+        "CensusOfficer:area_supervisors": {
           "Count": "Int:14"
         },
-        "CensusOfficer:assistant_census_commissioners": {
+        "CensusOfficer:asst_commissioners": {
           "Count": "Int:14"
         },
-        "CensusOfficer:technical_staff_zonal_supervisors_and_district_statistical_branch_head": {
+        "CensusOfficer:circle_officers": {
           "Count": "Int:18"
         },
-        "CensusOfficer:technical_staff_divisional_census_officer": {
+        "CensusOfficer:deputy_commissioners": {
           "Count": "Int:13"
         },
-        "CensusOfficer:technical_staff_area_supervisors": {
+        "CensusOfficer:divisional_officer": {
           "Count": "Int:53"
         },
-        "CensusOfficer:technical_staff_circle_officers": {
+        "CensusOfficer:enumerators_byoad": {
           "Count": "Int:98"
         },
-        "CensusOfficer:other_non_technical_staff": {
+        "CensusOfficer:enumerators_capi": {
           "Count": "Int:70"
         },
-        "CensusOfficer:enumerators_who_used_tablet_computers_capi": {
+        "CensusOfficer:other_non_technical": {
           "Count": "Int:1104"
         },
-        "CensusOfficer:enumerators_who_used_smart_phones_byoad": {
+        "CensusOfficer:zonal_supervisors": {
           "Count": "Int:1986"
         }
       },
       "District:gampaha": {
-        "CensusOfficer:deputy_census_commissioners": {
+        "CensusOfficer:area_supervisors": {
           "Count": "Int:14"
         },
-        "CensusOfficer:assistant_census_commissioners": {
+        "CensusOfficer:asst_commissioners": {
           "Count": "Int:14"
         },
-        "CensusOfficer:technical_staff_zonal_supervisors_and_district_statistical_branch_head": {
+        "CensusOfficer:circle_officers": {
           "Count": "Int:13"
         },
-        "CensusOfficer:technical_staff_divisional_census_officer": {
+        "CensusOfficer:deputy_commissioners": {
           "Count": "Int:13"
         },
-        "CensusOfficer:technical_staff_area_supervisors": {
+        "CensusOfficer:divisional_officer": {
           "Count": "Int:48"
         },
-        "CensusOfficer:technical_staff_circle_officers": {
+        "CensusOfficer:enumerators_byoad": {
           "Count": "Int:90"
         },
-        "CensusOfficer:other_non_technical_staff": {
+        "CensusOfficer:enumerators_capi": {
           "Count": "Int:70"
         },
-        "CensusOfficer:enumerators_who_used_tablet_computers_capi": {
+        "CensusOfficer:other_non_technical": {
           "Count": "Int:1493"
         },
-        "CensusOfficer:enumerators_who_used_smart_phones_byoad": {
+        "CensusOfficer:zonal_supervisors": {
           "Count": "Int:1572"
         }
       },
       "District:kalutara": {
-        "CensusOfficer:deputy_census_commissioners": {
+        "CensusOfficer:area_supervisors": {
           "Count": "Int:15"
         },
-        "CensusOfficer:assistant_census_commissioners": {
+        "CensusOfficer:asst_commissioners": {
           "Count": "Int:15"
         },
-        "CensusOfficer:technical_staff_zonal_supervisors_and_district_statistical_branch_head": {
+        "CensusOfficer:circle_officers": {
           "Count": "Int:5"
         },
-        "CensusOfficer:technical_staff_divisional_census_officer": {
+        "CensusOfficer:deputy_commissioners": {
           "Count": "Int:14"
         },
-        "CensusOfficer:technical_staff_area_supervisors": {
+        "CensusOfficer:divisional_officer": {
           "Count": "Int:29"
         },
-        "CensusOfficer:technical_staff_circle_officers": {
+        "CensusOfficer:enumerators_byoad": {
           "Count": "Int:51"
         },
-        "CensusOfficer:other_non_technical_staff": {
+        "CensusOfficer:enumerators_capi": {
           "Count": "Int:75"
         },
-        "CensusOfficer:enumerators_who_used_tablet_computers_capi": {
+        "CensusOfficer:other_non_technical": {
           "Count": "Int:792"
         },
-        "CensusOfficer:enumerators_who_used_smart_phones_byoad": {
+        "CensusOfficer:zonal_supervisors": {
           "Count": "Int:836"
         }
       },
       "District:kandy": {
-        "CensusOfficer:deputy_census_commissioners": {
+        "CensusOfficer:area_supervisors": {
           "Count": "Int:21"
         },
-        "CensusOfficer:assistant_census_commissioners": {
+        "CensusOfficer:asst_commissioners": {
           "Count": "Int:21"
         },
-        "CensusOfficer:technical_staff_zonal_supervisors_and_district_statistical_branch_head": {
+        "CensusOfficer:circle_officers": {
           "Count": "Int:6"
         },
-        "CensusOfficer:technical_staff_divisional_census_officer": {
+        "CensusOfficer:deputy_commissioners": {
           "Count": "Int:20"
         },
-        "CensusOfficer:technical_staff_area_supervisors": {
+        "CensusOfficer:divisional_officer": {
           "Count": "Int:36"
         },
-        "CensusOfficer:technical_staff_circle_officers": {
+        "CensusOfficer:enumerators_byoad": {
           "Count": "Int:63"
         },
-        "CensusOfficer:other_non_technical_staff": {
+        "CensusOfficer:enumerators_capi": {
           "Count": "Int:105"
         },
-        "CensusOfficer:enumerators_who_used_tablet_computers_capi": {
+        "CensusOfficer:other_non_technical": {
           "Count": "Int:1056"
         },
-        "CensusOfficer:enumerators_who_used_smart_phones_byoad": {
+        "CensusOfficer:zonal_supervisors": {
           "Count": "Int:779"
         }
       },
       "District:matale": {
-        "CensusOfficer:deputy_census_commissioners": {
+        "CensusOfficer:area_supervisors": {
           "Count": "Int:12"
         },
-        "CensusOfficer:assistant_census_commissioners": {
+        "CensusOfficer:asst_commissioners": {
           "Count": "Int:12"
         },
-        "CensusOfficer:technical_staff_zonal_supervisors_and_district_statistical_branch_head": {
+        "CensusOfficer:circle_officers": {
           "Count": "Int:3"
         },
-        "CensusOfficer:technical_staff_divisional_census_officer": {
+        "CensusOfficer:deputy_commissioners": {
           "Count": "Int:11"
         },
-        "CensusOfficer:technical_staff_area_supervisors": {
+        "CensusOfficer:divisional_officer": {
           "Count": "Int:16"
         },
-        "CensusOfficer:technical_staff_circle_officers": {
+        "CensusOfficer:enumerators_byoad": {
           "Count": "Int:27"
         },
-        "CensusOfficer:other_non_technical_staff": {
+        "CensusOfficer:enumerators_capi": {
           "Count": "Int:60"
         },
-        "CensusOfficer:enumerators_who_used_tablet_computers_capi": {
+        "CensusOfficer:other_non_technical": {
           "Count": "Int:432"
         },
-        "CensusOfficer:enumerators_who_used_smart_phones_byoad": {
+        "CensusOfficer:zonal_supervisors": {
           "Count": "Int:317"
         }
       },
       "District:nuwara_eliya": {
-        "CensusOfficer:deputy_census_commissioners": {
+        "CensusOfficer:area_supervisors": {
           "Count": "Int:11"
         },
-        "CensusOfficer:assistant_census_commissioners": {
+        "CensusOfficer:asst_commissioners": {
           "Count": "Int:11"
         },
-        "CensusOfficer:technical_staff_zonal_supervisors_and_district_statistical_branch_head": {
+        "CensusOfficer:circle_officers": {
           "Count": "Int:4"
         },
-        "CensusOfficer:technical_staff_divisional_census_officer": {
+        "CensusOfficer:deputy_commissioners": {
           "Count": "Int:10"
         },
-        "CensusOfficer:technical_staff_area_supervisors": {
+        "CensusOfficer:divisional_officer": {
           "Count": "Int:19"
         },
-        "CensusOfficer:technical_staff_circle_officers": {
+        "CensusOfficer:enumerators_byoad": {
           "Count": "Int:35"
         },
-        "CensusOfficer:other_non_technical_staff": {
+        "CensusOfficer:enumerators_capi": {
           "Count": "Int:55"
         },
-        "CensusOfficer:enumerators_who_used_tablet_computers_capi": {
+        "CensusOfficer:other_non_technical": {
           "Count": "Int:557"
         },
-        "CensusOfficer:enumerators_who_used_smart_phones_byoad": {
+        "CensusOfficer:zonal_supervisors": {
           "Count": "Int:431"
         }
       },
       "District:galle": {
-        "CensusOfficer:deputy_census_commissioners": {
+        "CensusOfficer:area_supervisors": {
           "Count": "Int:23"
         },
-        "CensusOfficer:assistant_census_commissioners": {
+        "CensusOfficer:asst_commissioners": {
           "Count": "Int:23"
         },
-        "CensusOfficer:technical_staff_zonal_supervisors_and_district_statistical_branch_head": {
+        "CensusOfficer:circle_officers": {
           "Count": "Int:5"
         },
-        "CensusOfficer:technical_staff_divisional_census_officer": {
+        "CensusOfficer:deputy_commissioners": {
           "Count": "Int:22"
         },
-        "CensusOfficer:technical_staff_area_supervisors": {
+        "CensusOfficer:divisional_officer": {
           "Count": "Int:32"
         },
-        "CensusOfficer:technical_staff_circle_officers": {
+        "CensusOfficer:enumerators_byoad": {
           "Count": "Int:55"
         },
-        "CensusOfficer:other_non_technical_staff": {
+        "CensusOfficer:enumerators_capi": {
           "Count": "Int:115"
         },
-        "CensusOfficer:enumerators_who_used_tablet_computers_capi": {
+        "CensusOfficer:other_non_technical": {
           "Count": "Int:836"
         },
-        "CensusOfficer:enumerators_who_used_smart_phones_byoad": {
+        "CensusOfficer:zonal_supervisors": {
           "Count": "Int:642"
         }
       },
       "District:matara": {
-        "CensusOfficer:deputy_census_commissioners": {
+        "CensusOfficer:area_supervisors": {
           "Count": "Int:17"
         },
-        "CensusOfficer:assistant_census_commissioners": {
+        "CensusOfficer:asst_commissioners": {
           "Count": "Int:17"
         },
-        "CensusOfficer:technical_staff_zonal_supervisors_and_district_statistical_branch_head": {
+        "CensusOfficer:circle_officers": {
           "Count": "Int:4"
         },
-        "CensusOfficer:technical_staff_divisional_census_officer": {
+        "CensusOfficer:deputy_commissioners": {
           "Count": "Int:16"
         },
-        "CensusOfficer:technical_staff_area_supervisors": {
+        "CensusOfficer:divisional_officer": {
           "Count": "Int:23"
         },
-        "CensusOfficer:technical_staff_circle_officers": {
+        "CensusOfficer:enumerators_byoad": {
           "Count": "Int:40"
         },
-        "CensusOfficer:other_non_technical_staff": {
+        "CensusOfficer:enumerators_capi": {
           "Count": "Int:85"
         },
-        "CensusOfficer:enumerators_who_used_tablet_computers_capi": {
+        "CensusOfficer:other_non_technical": {
           "Count": "Int:626"
         },
-        "CensusOfficer:enumerators_who_used_smart_phones_byoad": {
+        "CensusOfficer:zonal_supervisors": {
           "Count": "Int:497"
         }
       },
       "District:hambantota": {
-        "CensusOfficer:deputy_census_commissioners": {
+        "CensusOfficer:area_supervisors": {
           "Count": "Int:13"
         },
-        "CensusOfficer:assistant_census_commissioners": {
+        "CensusOfficer:asst_commissioners": {
           "Count": "Int:13"
         },
-        "CensusOfficer:technical_staff_zonal_supervisors_and_district_statistical_branch_head": {
+        "CensusOfficer:circle_officers": {
           "Count": "Int:3"
         },
-        "CensusOfficer:technical_staff_divisional_census_officer": {
+        "CensusOfficer:deputy_commissioners": {
           "Count": "Int:12"
         },
-        "CensusOfficer:technical_staff_area_supervisors": {
+        "CensusOfficer:divisional_officer": {
           "Count": "Int:19"
         },
-        "CensusOfficer:technical_staff_circle_officers": {
+        "CensusOfficer:enumerators_byoad": {
           "Count": "Int:31"
         },
-        "CensusOfficer:other_non_technical_staff": {
+        "CensusOfficer:enumerators_capi": {
           "Count": "Int:65"
         },
-        "CensusOfficer:enumerators_who_used_tablet_computers_capi": {
+        "CensusOfficer:other_non_technical": {
           "Count": "Int:488"
         },
-        "CensusOfficer:enumerators_who_used_smart_phones_byoad": {
+        "CensusOfficer:zonal_supervisors": {
           "Count": "Int:435"
         }
       },
       "District:jaffna": {
-        "CensusOfficer:deputy_census_commissioners": {
+        "CensusOfficer:area_supervisors": {
           "Count": "Int:16"
         },
-        "CensusOfficer:assistant_census_commissioners": {
+        "CensusOfficer:asst_commissioners": {
           "Count": "Int:16"
         },
-        "CensusOfficer:technical_staff_zonal_supervisors_and_district_statistical_branch_head": {
+        "CensusOfficer:circle_officers": {
           "Count": "Int:3"
         },
-        "CensusOfficer:technical_staff_divisional_census_officer": {
+        "CensusOfficer:deputy_commissioners": {
           "Count": "Int:15"
         },
-        "CensusOfficer:technical_staff_area_supervisors": {
+        "CensusOfficer:divisional_officer": {
           "Count": "Int:18"
         },
-        "CensusOfficer:technical_staff_circle_officers": {
+        "CensusOfficer:enumerators_byoad": {
           "Count": "Int:28"
         },
-        "CensusOfficer:other_non_technical_staff": {
+        "CensusOfficer:enumerators_capi": {
           "Count": "Int:80"
         },
-        "CensusOfficer:enumerators_who_used_tablet_computers_capi": {
+        "CensusOfficer:other_non_technical": {
           "Count": "Int:431"
         },
-        "CensusOfficer:enumerators_who_used_smart_phones_byoad": {
+        "CensusOfficer:zonal_supervisors": {
           "Count": "Int:375"
         }
       },
       "District:mannar": {
-        "CensusOfficer:deputy_census_commissioners": {
+        "CensusOfficer:area_supervisors": {
           "Count": "Int:6"
         },
-        "CensusOfficer:assistant_census_commissioners": {
+        "CensusOfficer:asst_commissioners": {
           "Count": "Int:6"
         },
-        "CensusOfficer:technical_staff_zonal_supervisors_and_district_statistical_branch_head": {
+        "CensusOfficer:circle_officers": {
           "Count": "Int:2"
         },
-        "CensusOfficer:technical_staff_divisional_census_officer": {
+        "CensusOfficer:deputy_commissioners": {
           "Count": "Int:5"
         },
-        "CensusOfficer:technical_staff_area_supervisors": {
+        "CensusOfficer:divisional_officer": {
           "Count": "Int:5"
         },
-        "CensusOfficer:technical_staff_circle_officers": {
+        "CensusOfficer:enumerators_byoad": {
           "Count": "Int:6"
         },
-        "CensusOfficer:other_non_technical_staff": {
+        "CensusOfficer:enumerators_capi": {
           "Count": "Int:30"
         },
-        "CensusOfficer:enumerators_who_used_tablet_computers_capi": {
+        "CensusOfficer:other_non_technical": {
           "Count": "Int:103"
         },
-        "CensusOfficer:enumerators_who_used_smart_phones_byoad": {
+        "CensusOfficer:zonal_supervisors": {
           "Count": "Int:87"
         }
       },
       "District:vavuniya": {
-        "CensusOfficer:deputy_census_commissioners": {
+        "CensusOfficer:area_supervisors": {
           "Count": "Int:5"
         },
-        "CensusOfficer:assistant_census_commissioners": {
+        "CensusOfficer:asst_commissioners": {
           "Count": "Int:5"
         },
-        "CensusOfficer:technical_staff_zonal_supervisors_and_district_statistical_branch_head": {
+        "CensusOfficer:circle_officers": {
           "Count": "Int:2"
         },
-        "CensusOfficer:technical_staff_divisional_census_officer": {
+        "CensusOfficer:deputy_commissioners": {
           "Count": "Int:4"
         },
-        "CensusOfficer:technical_staff_area_supervisors": {
+        "CensusOfficer:divisional_officer": {
           "Count": "Int:6"
         },
-        "CensusOfficer:technical_staff_circle_officers": {
+        "CensusOfficer:enumerators_byoad": {
           "Count": "Int:10"
         },
-        "CensusOfficer:other_non_technical_staff": {
+        "CensusOfficer:enumerators_capi": {
           "Count": "Int:25"
         },
-        "CensusOfficer:enumerators_who_used_tablet_computers_capi": {
+        "CensusOfficer:other_non_technical": {
           "Count": "Int:117"
         },
-        "CensusOfficer:enumerators_who_used_smart_phones_byoad": {
+        "CensusOfficer:zonal_supervisors": {
           "Count": "Int:152"
         }
       },
       "District:mullaitivu": {
-        "CensusOfficer:deputy_census_commissioners": {
+        "CensusOfficer:area_supervisors": {
           "Count": "Int:7"
         },
-        "CensusOfficer:assistant_census_commissioners": {
+        "CensusOfficer:asst_commissioners": {
           "Count": "Int:7"
         },
-        "CensusOfficer:technical_staff_zonal_supervisors_and_district_statistical_branch_head": {
+        "CensusOfficer:circle_officers": {
           "Count": "Int:2"
         },
-        "CensusOfficer:technical_staff_divisional_census_officer": {
+        "CensusOfficer:deputy_commissioners": {
           "Count": "Int:6"
         },
-        "CensusOfficer:technical_staff_area_supervisors": {
+        "CensusOfficer:divisional_officer": {
           "Count": "Int:6"
         },
-        "CensusOfficer:technical_staff_circle_officers": {
+        "CensusOfficer:enumerators_byoad": {
           "Count": "Int:8"
         },
-        "CensusOfficer:other_non_technical_staff": {
+        "CensusOfficer:enumerators_capi": {
           "Count": "Int:35"
         },
-        "CensusOfficer:enumerators_who_used_tablet_computers_capi": {
+        "CensusOfficer:other_non_technical": {
           "Count": "Int:117"
         },
-        "CensusOfficer:enumerators_who_used_smart_phones_byoad": {
+        "CensusOfficer:zonal_supervisors": {
           "Count": "Int:89"
         }
       },
       "District:kilinochchi": {
-        "CensusOfficer:deputy_census_commissioners": {
+        "CensusOfficer:area_supervisors": {
           "Count": "Int:5"
         },
-        "CensusOfficer:assistant_census_commissioners": {
+        "CensusOfficer:asst_commissioners": {
           "Count": "Int:5"
         },
-        "CensusOfficer:technical_staff_zonal_supervisors_and_district_statistical_branch_head": {
+        "CensusOfficer:circle_officers": {
           "Count": "Int:2"
         },
-        "CensusOfficer:technical_staff_divisional_census_officer": {
+        "CensusOfficer:deputy_commissioners": {
           "Count": "Int:4"
         },
-        "CensusOfficer:technical_staff_area_supervisors": {
+        "CensusOfficer:divisional_officer": {
           "Count": "Int:5"
         },
-        "CensusOfficer:technical_staff_circle_officers": {
+        "CensusOfficer:enumerators_byoad": {
           "Count": "Int:6"
         },
-        "CensusOfficer:other_non_technical_staff": {
+        "CensusOfficer:enumerators_capi": {
           "Count": "Int:25"
         },
-        "CensusOfficer:enumerators_who_used_tablet_computers_capi": {
+        "CensusOfficer:other_non_technical": {
           "Count": "Int:97"
         },
-        "CensusOfficer:enumerators_who_used_smart_phones_byoad": {
+        "CensusOfficer:zonal_supervisors": {
           "Count": "Int:103"
         }
       },
       "District:batticaloa": {
-        "CensusOfficer:deputy_census_commissioners": {
+        "CensusOfficer:area_supervisors": {
           "Count": "Int:15"
         },
-        "CensusOfficer:assistant_census_commissioners": {
+        "CensusOfficer:asst_commissioners": {
           "Count": "Int:15"
         },
-        "CensusOfficer:technical_staff_zonal_supervisors_and_district_statistical_branch_head": {
+        "CensusOfficer:circle_officers": {
           "Count": "Int:3"
         },
-        "CensusOfficer:technical_staff_divisional_census_officer": {
+        "CensusOfficer:deputy_commissioners": {
           "Count": "Int:14"
         },
-        "CensusOfficer:technical_staff_area_supervisors": {
+        "CensusOfficer:divisional_officer": {
           "Count": "Int:18"
         },
-        "CensusOfficer:technical_staff_circle_officers": {
+        "CensusOfficer:enumerators_byoad": {
           "Count": "Int:31"
         },
-        "CensusOfficer:other_non_technical_staff": {
+        "CensusOfficer:enumerators_capi": {
           "Count": "Int:75"
         },
-        "CensusOfficer:enumerators_who_used_tablet_computers_capi": {
+        "CensusOfficer:other_non_technical": {
           "Count": "Int:445"
         },
-        "CensusOfficer:enumerators_who_used_smart_phones_byoad": {
+        "CensusOfficer:zonal_supervisors": {
           "Count": "Int:391"
         }
       },
       "District:ampara": {
-        "CensusOfficer:deputy_census_commissioners": {
+        "CensusOfficer:area_supervisors": {
           "Count": "Int:21"
         },
-        "CensusOfficer:assistant_census_commissioners": {
+        "CensusOfficer:asst_commissioners": {
           "Count": "Int:21"
         },
-        "CensusOfficer:technical_staff_zonal_supervisors_and_district_statistical_branch_head": {
+        "CensusOfficer:circle_officers": {
           "Count": "Int:4"
         },
-        "CensusOfficer:technical_staff_divisional_census_officer": {
+        "CensusOfficer:deputy_commissioners": {
           "Count": "Int:20"
         },
-        "CensusOfficer:technical_staff_area_supervisors": {
+        "CensusOfficer:divisional_officer": {
           "Count": "Int:23"
         },
-        "CensusOfficer:technical_staff_circle_officers": {
+        "CensusOfficer:enumerators_byoad": {
           "Count": "Int:34"
         },
-        "CensusOfficer:other_non_technical_staff": {
+        "CensusOfficer:enumerators_capi": {
           "Count": "Int:105"
         },
-        "CensusOfficer:enumerators_who_used_tablet_computers_capi": {
+        "CensusOfficer:other_non_technical": {
           "Count": "Int:492"
         },
-        "CensusOfficer:enumerators_who_used_smart_phones_byoad": {
+        "CensusOfficer:zonal_supervisors": {
           "Count": "Int:529"
         }
       },
       "District:trincomalee": {
-        "CensusOfficer:deputy_census_commissioners": {
+        "CensusOfficer:area_supervisors": {
           "Count": "Int:12"
         },
-        "CensusOfficer:assistant_census_commissioners": {
+        "CensusOfficer:asst_commissioners": {
           "Count": "Int:12"
         },
-        "CensusOfficer:technical_staff_zonal_supervisors_and_district_statistical_branch_head": {
+        "CensusOfficer:circle_officers": {
           "Count": "Int:3"
         },
-        "CensusOfficer:technical_staff_divisional_census_officer": {
+        "CensusOfficer:deputy_commissioners": {
           "Count": "Int:11"
         },
-        "CensusOfficer:technical_staff_area_supervisors": {
+        "CensusOfficer:divisional_officer": {
           "Count": "Int:15"
         },
-        "CensusOfficer:technical_staff_circle_officers": {
+        "CensusOfficer:enumerators_byoad": {
           "Count": "Int:22"
         },
-        "CensusOfficer:other_non_technical_staff": {
+        "CensusOfficer:enumerators_capi": {
           "Count": "Int:60"
         },
-        "CensusOfficer:enumerators_who_used_tablet_computers_capi": {
+        "CensusOfficer:other_non_technical": {
           "Count": "Int:288"
         },
-        "CensusOfficer:enumerators_who_used_smart_phones_byoad": {
+        "CensusOfficer:zonal_supervisors": {
           "Count": "Int:329"
         }
       },
       "District:kurunegala": {
-        "CensusOfficer:deputy_census_commissioners": {
+        "CensusOfficer:area_supervisors": {
           "Count": "Int:31"
         },
-        "CensusOfficer:assistant_census_commissioners": {
+        "CensusOfficer:asst_commissioners": {
           "Count": "Int:31"
         },
-        "CensusOfficer:technical_staff_zonal_supervisors_and_district_statistical_branch_head": {
+        "CensusOfficer:circle_officers": {
           "Count": "Int:8"
         },
-        "CensusOfficer:technical_staff_divisional_census_officer": {
+        "CensusOfficer:deputy_commissioners": {
           "Count": "Int:30"
         },
-        "CensusOfficer:technical_staff_area_supervisors": {
+        "CensusOfficer:divisional_officer": {
           "Count": "Int:54"
         },
-        "CensusOfficer:technical_staff_circle_officers": {
+        "CensusOfficer:enumerators_byoad": {
           "Count": "Int:94"
         },
-        "CensusOfficer:other_non_technical_staff": {
+        "CensusOfficer:enumerators_capi": {
           "Count": "Int:155"
         },
-        "CensusOfficer:enumerators_who_used_tablet_computers_capi": {
+        "CensusOfficer:other_non_technical": {
           "Count": "Int:1478"
         },
-        "CensusOfficer:enumerators_who_used_smart_phones_byoad": {
+        "CensusOfficer:zonal_supervisors": {
           "Count": "Int:1052"
         }
       },
       "District:puttalam": {
-        "CensusOfficer:deputy_census_commissioners": {
+        "CensusOfficer:area_supervisors": {
           "Count": "Int:17"
         },
-        "CensusOfficer:assistant_census_commissioners": {
+        "CensusOfficer:asst_commissioners": {
           "Count": "Int:17"
         },
-        "CensusOfficer:technical_staff_zonal_supervisors_and_district_statistical_branch_head": {
+        "CensusOfficer:circle_officers": {
           "Count": "Int:4"
         },
-        "CensusOfficer:technical_staff_divisional_census_officer": {
+        "CensusOfficer:deputy_commissioners": {
           "Count": "Int:16"
         },
-        "CensusOfficer:technical_staff_area_supervisors": {
+        "CensusOfficer:divisional_officer": {
           "Count": "Int:24"
         },
-        "CensusOfficer:technical_staff_circle_officers": {
+        "CensusOfficer:enumerators_byoad": {
           "Count": "Int:37"
         },
-        "CensusOfficer:other_non_technical_staff": {
+        "CensusOfficer:enumerators_capi": {
           "Count": "Int:85"
         },
-        "CensusOfficer:enumerators_who_used_tablet_computers_capi": {
+        "CensusOfficer:other_non_technical": {
           "Count": "Int:589"
         },
-        "CensusOfficer:enumerators_who_used_smart_phones_byoad": {
+        "CensusOfficer:zonal_supervisors": {
           "Count": "Int:581"
         }
       },
       "District:anuradhapura": {
-        "CensusOfficer:deputy_census_commissioners": {
+        "CensusOfficer:area_supervisors": {
           "Count": "Int:23"
         },
-        "CensusOfficer:assistant_census_commissioners": {
+        "CensusOfficer:asst_commissioners": {
           "Count": "Int:23"
         },
-        "CensusOfficer:technical_staff_zonal_supervisors_and_district_statistical_branch_head": {
+        "CensusOfficer:circle_officers": {
           "Count": "Int:5"
         },
-        "CensusOfficer:technical_staff_divisional_census_officer": {
+        "CensusOfficer:deputy_commissioners": {
           "Count": "Int:22"
         },
-        "CensusOfficer:technical_staff_area_supervisors": {
+        "CensusOfficer:divisional_officer": {
           "Count": "Int:33"
         },
-        "CensusOfficer:technical_staff_circle_officers": {
+        "CensusOfficer:enumerators_byoad": {
           "Count": "Int:57"
         },
-        "CensusOfficer:other_non_technical_staff": {
+        "CensusOfficer:enumerators_capi": {
           "Count": "Int:115"
         },
-        "CensusOfficer:enumerators_who_used_tablet_computers_capi": {
+        "CensusOfficer:other_non_technical": {
           "Count": "Int:812"
         },
-        "CensusOfficer:enumerators_who_used_smart_phones_byoad": {
+        "CensusOfficer:zonal_supervisors": {
           "Count": "Int:655"
         }
       },
       "District:polonnaruwa": {
-        "CensusOfficer:deputy_census_commissioners": {
+        "CensusOfficer:area_supervisors": {
           "Count": "Int:8"
         },
-        "CensusOfficer:assistant_census_commissioners": {
+        "CensusOfficer:asst_commissioners": {
           "Count": "Int:8"
         },
-        "CensusOfficer:technical_staff_zonal_supervisors_and_district_statistical_branch_head": {
+        "CensusOfficer:circle_officers": {
           "Count": "Int:3"
         },
-        "CensusOfficer:technical_staff_divisional_census_officer": {
+        "CensusOfficer:deputy_commissioners": {
           "Count": "Int:7"
         },
-        "CensusOfficer:technical_staff_area_supervisors": {
+        "CensusOfficer:divisional_officer": {
           "Count": "Int:12"
         },
-        "CensusOfficer:technical_staff_circle_officers": {
+        "CensusOfficer:enumerators_byoad": {
           "Count": "Int:22"
         },
-        "CensusOfficer:other_non_technical_staff": {
+        "CensusOfficer:enumerators_capi": {
           "Count": "Int:40"
         },
-        "CensusOfficer:enumerators_who_used_tablet_computers_capi": {
+        "CensusOfficer:other_non_technical": {
           "Count": "Int:323"
         },
-        "CensusOfficer:enumerators_who_used_smart_phones_byoad": {
+        "CensusOfficer:zonal_supervisors": {
           "Count": "Int:330"
         }
       },
       "District:badulla": {
-        "CensusOfficer:deputy_census_commissioners": {
+        "CensusOfficer:area_supervisors": {
           "Count": "Int:16"
         },
-        "CensusOfficer:assistant_census_commissioners": {
+        "CensusOfficer:asst_commissioners": {
           "Count": "Int:16"
         },
-        "CensusOfficer:technical_staff_zonal_supervisors_and_district_statistical_branch_head": {
+        "CensusOfficer:circle_officers": {
           "Count": "Int:4"
         },
-        "CensusOfficer:technical_staff_divisional_census_officer": {
+        "CensusOfficer:deputy_commissioners": {
           "Count": "Int:15"
         },
-        "CensusOfficer:technical_staff_area_supervisors": {
+        "CensusOfficer:divisional_officer": {
           "Count": "Int:28"
         },
-        "CensusOfficer:technical_staff_circle_officers": {
+        "CensusOfficer:enumerators_byoad": {
           "Count": "Int:46"
         },
-        "CensusOfficer:other_non_technical_staff": {
+        "CensusOfficer:enumerators_capi": {
           "Count": "Int:80"
         },
-        "CensusOfficer:enumerators_who_used_tablet_computers_capi": {
+        "CensusOfficer:other_non_technical": {
           "Count": "Int:661"
         },
-        "CensusOfficer:enumerators_who_used_smart_phones_byoad": {
+        "CensusOfficer:zonal_supervisors": {
           "Count": "Int:552"
         }
       },
       "District:monaragala": {
-        "CensusOfficer:deputy_census_commissioners": {
+        "CensusOfficer:area_supervisors": {
           "Count": "Int:12"
         },
-        "CensusOfficer:assistant_census_commissioners": {
+        "CensusOfficer:asst_commissioners": {
           "Count": "Int:12"
         },
-        "CensusOfficer:technical_staff_zonal_supervisors_and_district_statistical_branch_head": {
+        "CensusOfficer:circle_officers": {
           "Count": "Int:3"
         },
-        "CensusOfficer:technical_staff_divisional_census_officer": {
+        "CensusOfficer:deputy_commissioners": {
           "Count": "Int:11"
         },
-        "CensusOfficer:technical_staff_area_supervisors": {
+        "CensusOfficer:divisional_officer": {
           "Count": "Int:17"
         },
-        "CensusOfficer:technical_staff_circle_officers": {
+        "CensusOfficer:enumerators_byoad": {
           "Count": "Int:27"
         },
-        "CensusOfficer:other_non_technical_staff": {
+        "CensusOfficer:enumerators_capi": {
           "Count": "Int:60"
         },
-        "CensusOfficer:enumerators_who_used_tablet_computers_capi": {
+        "CensusOfficer:other_non_technical": {
           "Count": "Int:381"
         },
-        "CensusOfficer:enumerators_who_used_smart_phones_byoad": {
+        "CensusOfficer:zonal_supervisors": {
           "Count": "Int:406"
         }
       },
       "District:ratnapura": {
-        "CensusOfficer:deputy_census_commissioners": {
+        "CensusOfficer:area_supervisors": {
           "Count": "Int:19"
         },
-        "CensusOfficer:assistant_census_commissioners": {
+        "CensusOfficer:asst_commissioners": {
           "Count": "Int:19"
         },
-        "CensusOfficer:technical_staff_zonal_supervisors_and_district_statistical_branch_head": {
+        "CensusOfficer:circle_officers": {
           "Count": "Int:6"
         },
-        "CensusOfficer:technical_staff_divisional_census_officer": {
+        "CensusOfficer:deputy_commissioners": {
           "Count": "Int:18"
         },
-        "CensusOfficer:technical_staff_area_supervisors": {
+        "CensusOfficer:divisional_officer": {
           "Count": "Int:36"
         },
-        "CensusOfficer:technical_staff_circle_officers": {
+        "CensusOfficer:enumerators_byoad": {
           "Count": "Int:62"
         },
-        "CensusOfficer:other_non_technical_staff": {
+        "CensusOfficer:enumerators_capi": {
           "Count": "Int:95"
         },
-        "CensusOfficer:enumerators_who_used_tablet_computers_capi": {
+        "CensusOfficer:other_non_technical": {
           "Count": "Int:895"
         },
-        "CensusOfficer:enumerators_who_used_smart_phones_byoad": {
+        "CensusOfficer:zonal_supervisors": {
           "Count": "Int:781"
         }
       },
       "District:kegalle": {
-        "CensusOfficer:deputy_census_commissioners": {
+        "CensusOfficer:area_supervisors": {
           "Count": "Int:12"
         },
-        "CensusOfficer:assistant_census_commissioners": {
+        "CensusOfficer:asst_commissioners": {
           "Count": "Int:12"
         },
-        "CensusOfficer:technical_staff_zonal_supervisors_and_district_statistical_branch_head": {
+        "CensusOfficer:circle_officers": {
           "Count": "Int:5"
         },
-        "CensusOfficer:technical_staff_divisional_census_officer": {
+        "CensusOfficer:deputy_commissioners": {
           "Count": "Int:11"
         },
-        "CensusOfficer:technical_staff_area_supervisors": {
+        "CensusOfficer:divisional_officer": {
           "Count": "Int:26"
         },
-        "CensusOfficer:technical_staff_circle_officers": {
+        "CensusOfficer:enumerators_byoad": {
           "Count": "Int:46"
         },
-        "CensusOfficer:other_non_technical_staff": {
+        "CensusOfficer:enumerators_capi": {
           "Count": "Int:60"
         },
-        "CensusOfficer:enumerators_who_used_tablet_computers_capi": {
+        "CensusOfficer:other_non_technical": {
           "Count": "Int:708"
         },
-        "CensusOfficer:enumerators_who_used_smart_phones_byoad": {
+        "CensusOfficer:zonal_supervisors": {
           "Count": "Int:487"
         }
       }

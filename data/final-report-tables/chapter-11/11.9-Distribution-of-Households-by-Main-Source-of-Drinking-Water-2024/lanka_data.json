@@ -16,28 +16,28 @@
       "SourceOfDrinkingWater:spring_or_fountain": {
         "Count": "Int:230268"
       },
-      "SourceOfDrinkingWater:pipe_borne_water_national_water_supply_and_drainage_board": {
+      "SourceOfDrinkingWater:pipe_borne_nwsdb": {
         "Count": "Int:2374349"
       },
-      "SourceOfDrinkingWater:pipe_borne_water_local_authority": {
+      "SourceOfDrinkingWater:pipe_borne_local": {
         "Count": "Int:100764"
       },
-      "SourceOfDrinkingWater:pipe_borne_water_community_based_organization": {
+      "SourceOfDrinkingWater:pipe_borne_comm": {
         "Count": "Int:419247"
       },
-      "SourceOfDrinkingWater:pipe_borne_water_private_water_supply_project": {
+      "SourceOfDrinkingWater:pipe_borne_private": {
         "Count": "Int:130394"
       },
-      "SourceOfDrinkingWater:tank_or_river_or_streams": {
+      "SourceOfDrinkingWater:tank_river_stream": {
         "Count": "Int:59336"
       },
-      "SourceOfDrinkingWater:rainwater": {
+      "SourceOfDrinkingWater:rain_water": {
         "Count": "Int:4346"
       },
       "SourceOfDrinkingWater:bottled_water": {
         "Count": "Int:63753"
       },
-      "SourceOfDrinkingWater:filter_water_r_o_plant": {
+      "SourceOfDrinkingWater:filter_ro": {
         "Count": "Int:456849"
       },
       "SourceOfDrinkingWater:bowser": {

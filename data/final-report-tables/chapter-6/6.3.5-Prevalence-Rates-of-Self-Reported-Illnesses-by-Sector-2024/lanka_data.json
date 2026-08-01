@@ -23,7 +23,7 @@
         "NonCommunicableDisease:cancer": {
           "Count": "Int:11453"
         },
-        "NonCommunicableDisease:stroke": {
+        "NonCommunicableDisease:stroke_or_paralysis": {
           "Count": "Int:15271"
         },
         "NonCommunicableDisease:asthma": {
@@ -55,7 +55,7 @@
         "NonCommunicableDisease:cancer": {
           "Count": "Int:68384"
         },
-        "NonCommunicableDisease:stroke": {
+        "NonCommunicableDisease:stroke_or_paralysis": {
           "Count": "Int:102576"
         },
         "NonCommunicableDisease:asthma": {
@@ -87,7 +87,7 @@
         "NonCommunicableDisease:cancer": {
           "Count": "Int:2597"
         },
-        "NonCommunicableDisease:stroke": {
+        "NonCommunicableDisease:stroke_or_paralysis": {
           "Count": "Int:6925"
         },
         "NonCommunicableDisease:asthma": {

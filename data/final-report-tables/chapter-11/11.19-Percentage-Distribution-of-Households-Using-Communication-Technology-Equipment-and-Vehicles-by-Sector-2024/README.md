@@ -1,7 +1,7 @@
 # Percentage Distribution of Households Using Communication Technology Equipment and Vehicles by Sector,2024
 
 ![CPH](https://img.shields.io/badge/CPH-2024-blue)
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--07--30-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--08--01-green)
 
 *Table 11.19, Final Report, 2024 Census of Population and Housing, Department of Census and Statistics, Sri Lanka*
 
@@ -41,7 +41,7 @@
 ...
 ```
 
-- Source File: [lanka_data.json (5.1 KB)](../../../../data/final-report-tables/chapter-11/11.19-Percentage-Distribution-of-Households-Using-Communication-Technology-Equipment-and-Vehicles-by-Sector-2024/lanka_data.json)
+- Source File: [lanka_data.json (5.0 KB)](../../../../data/final-report-tables/chapter-11/11.19-Percentage-Distribution-of-Households-Using-Communication-Technology-Equipment-and-Vehicles-by-Sector-2024/lanka_data.json)
 
 ## Structured Data (similar to original layout)
 

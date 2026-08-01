@@ -1,7 +1,7 @@
 # Distribution of Persons with a Single Disability and with Multiple Disabilities by Age Group, 2024
 
 ![CPH](https://img.shields.io/badge/CPH-2024-blue)
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--07--30-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--08--01-green)
 
 *Table 6.2.8, Final Report, 2024 Census of Population and Housing, Department of Census and Statistics, Sri Lanka*
 
@@ -12,10 +12,10 @@
     "Person": {
         "Time:2024": {
             "AgeGroup:5To9Years": {
-                "SingleOrMultipleDisabilities:with_single_disability": {
+                "SingleOrMultipleDisabilities:single_disability": {
                     "Count": "Int:7320"
                 },
-                "SingleOrMultipleDisabilities:with_more_than_one_disability": {
+                "SingleOrMultipleDisabilities:multi_disability": {
                     "Count": "Int:5419"
                 },
                 "SingleOrMultipleDisabilities:no_disability": {
@@ -23,10 +23,10 @@
                 }
             },
             "AgeGroup:10To14Years": {
-                "SingleOrMultipleDisabilities:with_single_disability": {
+                "SingleOrMultipleDisabilities:single_disability": {
                     "Count": "Int:6995"
                 },
-                "SingleOrMultipleDisabilities:with_more_than_one_disability": {
+                "SingleOrMultipleDisabilities:multi_disability": {
                     "Count": "Int:6400"
                 },
                 "SingleOrMultipleDisabilities:no_disability": {
@@ -34,14 +34,14 @@
                 }
             },
             "AgeGroup:15To19Years": {
-                "SingleOrMultipleDisabilities:with_single_disability": {
+                "SingleOrMultipleDisabilities:single_disability": {
                     "Count": "Int:7643"
                 },
-                "SingleOrMultipleDisabilities:with_more_than_one_disability": {
+                "SingleOrMultipleDisabilities:multi_disability": {
 ...
 ```
 
-- Source File: [lanka_data.json (5.7 KB)](../../../../data/final-report-tables/chapter-6/6.2.8-Distribution-of-Persons-with-a-Single-Disability-and-with-Multiple-Disabilities-by-Age-Group-2024/lanka_data.json)
+- Source File: [lanka_data.json (5.4 KB)](../../../../data/final-report-tables/chapter-6/6.2.8-Distribution-of-Persons-with-a-Single-Disability-and-with-Multiple-Disabilities-by-Age-Group-2024/lanka_data.json)
 
 ## Structured Data (similar to original layout)
 

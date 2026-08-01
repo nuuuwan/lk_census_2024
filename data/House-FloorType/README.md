@@ -1,7 +1,7 @@
 # House-FloorType
 
 ![CPH](https://img.shields.io/badge/CPH-2024-blue)
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--07--30-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--08--01-green)
 
 *House-FloorType, 2024 Census of Population and Housing, Department of Census and Statistics, Sri Lanka*
 
@@ -15,7 +15,7 @@
                 "FloorType:cement": {
                     "Count": "Int:3710163"
                 },
-                "FloorType:terrazzo_tile_granite_wood_finished": {
+                "FloorType:terrazzo_wood": {
                     "Count": "Int:1692659"
                 },
                 "FloorType:concrete": {
@@ -41,7 +41,7 @@
 ...
 ```
 
-- Source File: [lanka_data.json (337.5 KB)](../../data/House-FloorType/lanka_data.json)
+- Source File: [lanka_data.json (325.6 KB)](../../data/House-FloorType/lanka_data.json)
 
 ## Structured Data (similar to original layout)
 

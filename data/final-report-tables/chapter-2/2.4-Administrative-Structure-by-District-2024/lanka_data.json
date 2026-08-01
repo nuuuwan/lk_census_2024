@@ -2,427 +2,427 @@
   "AdministrativeEntity": {
     "Time:2024": {
       "District:colombo": {
-        "AdministrativeEntity:assistant_government_agend_divisions": {
+        "AdministrativeEntity:asst_govt_divisions": {
           "Count": "Int:13"
         },
-        "AdministrativeEntity:grama_sevaka_divisions": {
+        "AdministrativeEntity:gs_divisions": {
           "Count": "Int:557"
         },
         "AdministrativeEntity:municipal_councils": {
           "Count": "Int:5"
         },
-        "AdministrativeEntity:urban_councils": {
+        "AdministrativeEntity:town_councils": {
           "Count": "Int:5"
         },
-        "AdministrativeEntity:town_councils": {
+        "AdministrativeEntity:urban_councils": {
           "Count": "Int:3"
         }
       },
       "District:gampaha": {
-        "AdministrativeEntity:assistant_government_agend_divisions": {
+        "AdministrativeEntity:asst_govt_divisions": {
           "Count": "Int:13"
         },
-        "AdministrativeEntity:grama_sevaka_divisions": {
+        "AdministrativeEntity:gs_divisions": {
           "Count": "Int:1177"
         },
         "AdministrativeEntity:municipal_councils": {
           "Count": "Int:2"
         },
-        "AdministrativeEntity:urban_councils": {
+        "AdministrativeEntity:town_councils": {
           "Count": "Int:5"
         },
-        "AdministrativeEntity:town_councils": {
+        "AdministrativeEntity:urban_councils": {
           "Count": "Int:12"
         }
       },
       "District:kalutara": {
-        "AdministrativeEntity:assistant_government_agend_divisions": {
+        "AdministrativeEntity:asst_govt_divisions": {
           "Count": "Int:14"
         },
-        "AdministrativeEntity:grama_sevaka_divisions": {
+        "AdministrativeEntity:gs_divisions": {
           "Count": "Int:762"
         },
         "AdministrativeEntity:municipal_councils": {
           "Count": "Int:13"
         },
-        "AdministrativeEntity:urban_councils": {
+        "AdministrativeEntity:town_councils": {
           "Count": "Int:33"
         },
-        "AdministrativeEntity:town_councils": {
+        "AdministrativeEntity:urban_councils": {
           "Count": "Int:13"
         }
       },
       "District:kandy": {
-        "AdministrativeEntity:assistant_government_agend_divisions": {
+        "AdministrativeEntity:asst_govt_divisions": {
           "Count": "Int:20"
         },
-        "AdministrativeEntity:grama_sevaka_divisions": {
+        "AdministrativeEntity:gs_divisions": {
           "Count": "Int:1187"
         },
         "AdministrativeEntity:municipal_councils": {
           "Count": "Int:1"
         },
-        "AdministrativeEntity:urban_councils": {
+        "AdministrativeEntity:town_councils": {
           "Count": "Int:4"
         },
-        "AdministrativeEntity:town_councils": {
+        "AdministrativeEntity:urban_councils": {
           "Count": "Int:17"
         }
       },
       "District:matale": {
-        "AdministrativeEntity:assistant_government_agend_divisions": {
+        "AdministrativeEntity:asst_govt_divisions": {
           "Count": "Int:11"
         },
-        "AdministrativeEntity:grama_sevaka_divisions": {
+        "AdministrativeEntity:gs_divisions": {
           "Count": "Int:5321"
         },
         "AdministrativeEntity:municipal_councils": {
           "Count": "Int:2"
         },
-        "AdministrativeEntity:urban_councils": {
+        "AdministrativeEntity:town_councils": {
           "Count": "Int:0"
         },
-        "AdministrativeEntity:town_councils": {
+        "AdministrativeEntity:urban_councils": {
           "Count": "Int:11"
         }
       },
       "District:nuwara_eliya": {
-        "AdministrativeEntity:assistant_government_agend_divisions": {
+        "AdministrativeEntity:asst_govt_divisions": {
           "Count": "Int:10"
         },
-        "AdministrativeEntity:grama_sevaka_divisions": {
+        "AdministrativeEntity:gs_divisions": {
           "Count": "Int:491"
         },
         "AdministrativeEntity:municipal_councils": {
           "Count": "Int:1"
         },
-        "AdministrativeEntity:urban_councils": {
+        "AdministrativeEntity:town_councils": {
           "Count": "Int:2"
         },
-        "AdministrativeEntity:town_councils": {
+        "AdministrativeEntity:urban_councils": {
           "Count": "Int:9"
         }
       },
       "District:galle": {
-        "AdministrativeEntity:assistant_government_agend_divisions": {
+        "AdministrativeEntity:asst_govt_divisions": {
           "Count": "Int:22"
         },
-        "AdministrativeEntity:grama_sevaka_divisions": {
+        "AdministrativeEntity:gs_divisions": {
           "Count": "Int:895"
         },
         "AdministrativeEntity:municipal_councils": {
           "Count": "Int:1"
         },
-        "AdministrativeEntity:urban_councils": {
+        "AdministrativeEntity:town_councils": {
           "Count": "Int:2"
         },
-        "AdministrativeEntity:town_councils": {
+        "AdministrativeEntity:urban_councils": {
           "Count": "Int:17"
         }
       },
       "District:matara": {
-        "AdministrativeEntity:assistant_government_agend_divisions": {
+        "AdministrativeEntity:asst_govt_divisions": {
           "Count": "Int:16"
         },
-        "AdministrativeEntity:grama_sevaka_divisions": {
+        "AdministrativeEntity:gs_divisions": {
           "Count": "Int:650"
         },
         "AdministrativeEntity:municipal_councils": {
           "Count": "Int:1"
         },
-        "AdministrativeEntity:urban_councils": {
+        "AdministrativeEntity:town_councils": {
           "Count": "Int:1"
         },
-        "AdministrativeEntity:town_councils": {
+        "AdministrativeEntity:urban_councils": {
           "Count": "Int:14"
         }
       },
       "District:hambantota": {
-        "AdministrativeEntity:assistant_government_agend_divisions": {
+        "AdministrativeEntity:asst_govt_divisions": {
           "Count": "Int:12"
         },
-        "AdministrativeEntity:grama_sevaka_divisions": {
+        "AdministrativeEntity:gs_divisions": {
           "Count": "Int:576"
         },
         "AdministrativeEntity:municipal_councils": {
           "Count": "Int:1"
         },
-        "AdministrativeEntity:urban_councils": {
+        "AdministrativeEntity:town_councils": {
           "Count": "Int:1"
         },
-        "AdministrativeEntity:town_councils": {
+        "AdministrativeEntity:urban_councils": {
           "Count": "Int:10"
         }
       },
       "District:jaffna": {
-        "AdministrativeEntity:assistant_government_agend_divisions": {
+        "AdministrativeEntity:asst_govt_divisions": {
           "Count": "Int:15"
         },
-        "AdministrativeEntity:grama_sevaka_divisions": {
+        "AdministrativeEntity:gs_divisions": {
           "Count": "Int:435"
         },
         "AdministrativeEntity:municipal_councils": {
           "Count": "Int:1"
         },
-        "AdministrativeEntity:urban_councils": {
+        "AdministrativeEntity:town_councils": {
           "Count": "Int:3"
         },
-        "AdministrativeEntity:town_councils": {
+        "AdministrativeEntity:urban_councils": {
           "Count": "Int:13"
         }
       },
       "District:mannar": {
-        "AdministrativeEntity:assistant_government_agend_divisions": {
+        "AdministrativeEntity:asst_govt_divisions": {
           "Count": "Int:5"
         },
-        "AdministrativeEntity:grama_sevaka_divisions": {
+        "AdministrativeEntity:gs_divisions": {
           "Count": "Int:153"
         },
         "AdministrativeEntity:municipal_councils": {
           "Count": "Int:0"
         },
-        "AdministrativeEntity:urban_councils": {
+        "AdministrativeEntity:town_councils": {
           "Count": "Int:1"
         },
-        "AdministrativeEntity:town_councils": {
+        "AdministrativeEntity:urban_councils": {
           "Count": "Int:4"
         }
       },
       "District:vavuniya": {
-        "AdministrativeEntity:assistant_government_agend_divisions": {
+        "AdministrativeEntity:asst_govt_divisions": {
           "Count": "Int:4"
         },
-        "AdministrativeEntity:grama_sevaka_divisions": {
+        "AdministrativeEntity:gs_divisions": {
           "Count": "Int:102"
         },
         "AdministrativeEntity:municipal_councils": {
           "Count": "Int:13"
         },
-        "AdministrativeEntity:urban_councils": {
+        "AdministrativeEntity:town_councils": {
           "Count": "Int:-3"
         },
-        "AdministrativeEntity:town_councils": {
+        "AdministrativeEntity:urban_councils": {
           "Count": "Int:4"
         }
       },
       "District:mullaitivu": {
-        "AdministrativeEntity:assistant_government_agend_divisions": {
+        "AdministrativeEntity:asst_govt_divisions": {
           "Count": "Int:6"
         },
-        "AdministrativeEntity:grama_sevaka_divisions": {
+        "AdministrativeEntity:gs_divisions": {
           "Count": "Int:136"
         },
         "AdministrativeEntity:municipal_councils": {
           "Count": "Int:0"
         },
-        "AdministrativeEntity:urban_councils": {
+        "AdministrativeEntity:town_councils": {
           "Count": "Int:0"
         },
-        "AdministrativeEntity:town_councils": {
+        "AdministrativeEntity:urban_councils": {
           "Count": "Int:5"
         }
       },
       "District:kilinochchi": {
-        "AdministrativeEntity:assistant_government_agend_divisions": {
+        "AdministrativeEntity:asst_govt_divisions": {
           "Count": "Int:4"
         },
-        "AdministrativeEntity:grama_sevaka_divisions": {
+        "AdministrativeEntity:gs_divisions": {
           "Count": "Int:95"
         },
         "AdministrativeEntity:municipal_councils": {
           "Count": "Int:0"
         },
-        "AdministrativeEntity:urban_councils": {
+        "AdministrativeEntity:town_councils": {
           "Count": "Int:0"
         },
-        "AdministrativeEntity:town_councils": {
+        "AdministrativeEntity:urban_councils": {
           "Count": "Int:3"
         }
       },
       "District:batticaloa": {
-        "AdministrativeEntity:assistant_government_agend_divisions": {
+        "AdministrativeEntity:asst_govt_divisions": {
           "Count": "Int:14"
         },
-        "AdministrativeEntity:grama_sevaka_divisions": {
+        "AdministrativeEntity:gs_divisions": {
           "Count": "Int:3462"
         },
         "AdministrativeEntity:municipal_councils": {
           "Count": "Int:1"
         },
-        "AdministrativeEntity:urban_councils": {
+        "AdministrativeEntity:town_councils": {
           "Count": "Int:2"
         },
-        "AdministrativeEntity:town_councils": {
+        "AdministrativeEntity:urban_councils": {
           "Count": "Int:9"
         }
       },
       "District:ampara": {
-        "AdministrativeEntity:assistant_government_agend_divisions": {
+        "AdministrativeEntity:asst_govt_divisions": {
           "Count": "Int:204"
         },
-        "AdministrativeEntity:grama_sevaka_divisions": {
+        "AdministrativeEntity:gs_divisions": {
           "Count": "Int:503"
         },
         "AdministrativeEntity:municipal_councils": {
           "Count": "Int:2"
         },
-        "AdministrativeEntity:urban_councils": {
+        "AdministrativeEntity:town_councils": {
           "Count": "Int:1"
         },
-        "AdministrativeEntity:town_councils": {
+        "AdministrativeEntity:urban_councils": {
           "Count": "Int:17"
         }
       },
       "District:trincomalee": {
-        "AdministrativeEntity:assistant_government_agend_divisions": {
+        "AdministrativeEntity:asst_govt_divisions": {
           "Count": "Int:11"
         },
-        "AdministrativeEntity:grama_sevaka_divisions": {
+        "AdministrativeEntity:gs_divisions": {
           "Count": "Int:230"
         },
         "AdministrativeEntity:municipal_councils": {
           "Count": "Int:13"
         },
-        "AdministrativeEntity:urban_councils": {
+        "AdministrativeEntity:town_councils": {
           "Count": "Int:13"
         },
-        "AdministrativeEntity:town_councils": {
+        "AdministrativeEntity:urban_councils": {
           "Count": "Int:11"
         }
       },
       "District:kurunegala": {
-        "AdministrativeEntity:assistant_government_agend_divisions": {
+        "AdministrativeEntity:asst_govt_divisions": {
           "Count": "Int:30"
         },
-        "AdministrativeEntity:grama_sevaka_divisions": {
+        "AdministrativeEntity:gs_divisions": {
           "Count": "Int:1610"
         },
         "AdministrativeEntity:municipal_councils": {
           "Count": "Int:1"
         },
-        "AdministrativeEntity:urban_councils": {
+        "AdministrativeEntity:town_councils": {
           "Count": "Int:1"
         },
-        "AdministrativeEntity:town_councils": {
+        "AdministrativeEntity:urban_councils": {
           "Count": "Int:19"
         }
       },
       "District:puttalam": {
-        "AdministrativeEntity:assistant_government_agend_divisions": {
+        "AdministrativeEntity:asst_govt_divisions": {
           "Count": "Int:16"
         },
-        "AdministrativeEntity:grama_sevaka_divisions": {
+        "AdministrativeEntity:gs_divisions": {
           "Count": "Int:548"
         },
         "AdministrativeEntity:municipal_councils": {
           "Count": "Int:13"
         },
-        "AdministrativeEntity:urban_councils": {
+        "AdministrativeEntity:town_councils": {
           "Count": "Int:13"
         },
-        "AdministrativeEntity:town_councils": {
+        "AdministrativeEntity:urban_councils": {
           "Count": "Int:10"
         }
       },
       "District:anuradhapura": {
-        "AdministrativeEntity:assistant_government_agend_divisions": {
+        "AdministrativeEntity:asst_govt_divisions": {
           "Count": "Int:22"
         },
-        "AdministrativeEntity:grama_sevaka_divisions": {
+        "AdministrativeEntity:gs_divisions": {
           "Count": "Int:694"
         },
         "AdministrativeEntity:municipal_councils": {
           "Count": "Int:1"
         },
-        "AdministrativeEntity:urban_councils": {
+        "AdministrativeEntity:town_councils": {
           "Count": "Int:0"
         },
-        "AdministrativeEntity:town_councils": {
+        "AdministrativeEntity:urban_councils": {
           "Count": "Int:18"
         }
       },
       "District:polonnaruwa": {
-        "AdministrativeEntity:assistant_government_agend_divisions": {
+        "AdministrativeEntity:asst_govt_divisions": {
           "Count": "Int:7"
         },
-        "AdministrativeEntity:grama_sevaka_divisions": {
+        "AdministrativeEntity:gs_divisions": {
           "Count": "Int:295"
         },
         "AdministrativeEntity:municipal_councils": {
           "Count": "Int:1"
         },
-        "AdministrativeEntity:urban_councils": {
+        "AdministrativeEntity:town_councils": {
           "Count": "Int:0"
         },
-        "AdministrativeEntity:town_councils": {
+        "AdministrativeEntity:urban_councils": {
           "Count": "Int:7"
         }
       },
       "District:badulla": {
-        "AdministrativeEntity:assistant_government_agend_divisions": {
+        "AdministrativeEntity:asst_govt_divisions": {
           "Count": "Int:15"
         },
-        "AdministrativeEntity:grama_sevaka_divisions": {
+        "AdministrativeEntity:gs_divisions": {
           "Count": "Int:567"
         },
         "AdministrativeEntity:municipal_councils": {
           "Count": "Int:2"
         },
-        "AdministrativeEntity:urban_councils": {
+        "AdministrativeEntity:town_councils": {
           "Count": "Int:1"
         },
-        "AdministrativeEntity:town_councils": {
+        "AdministrativeEntity:urban_councils": {
           "Count": "Int:15"
         }
       },
       "District:monaragala": {
-        "AdministrativeEntity:assistant_government_agend_divisions": {
+        "AdministrativeEntity:asst_govt_divisions": {
           "Count": "Int:11"
         },
-        "AdministrativeEntity:grama_sevaka_divisions": {
+        "AdministrativeEntity:gs_divisions": {
           "Count": "Int:319"
         },
         "AdministrativeEntity:municipal_councils": {
           "Count": "Int:0"
         },
-        "AdministrativeEntity:urban_councils": {
+        "AdministrativeEntity:town_councils": {
           "Count": "Int:0"
         },
-        "AdministrativeEntity:town_councils": {
+        "AdministrativeEntity:urban_councils": {
           "Count": "Int:10"
         }
       },
       "District:ratnapura": {
-        "AdministrativeEntity:assistant_government_agend_divisions": {
+        "AdministrativeEntity:asst_govt_divisions": {
           "Count": "Int:18"
         },
-        "AdministrativeEntity:grama_sevaka_divisions": {
+        "AdministrativeEntity:gs_divisions": {
           "Count": "Int:575"
         },
         "AdministrativeEntity:municipal_councils": {
           "Count": "Int:1"
         },
-        "AdministrativeEntity:urban_councils": {
+        "AdministrativeEntity:town_councils": {
           "Count": "Int:2"
         },
-        "AdministrativeEntity:town_councils": {
+        "AdministrativeEntity:urban_councils": {
           "Count": "Int:14"
         }
       },
       "District:kegalle": {
-        "AdministrativeEntity:assistant_government_agend_divisions": {
+        "AdministrativeEntity:asst_govt_divisions": {
           "Count": "Int:11"
         },
-        "AdministrativeEntity:grama_sevaka_divisions": {
+        "AdministrativeEntity:gs_divisions": {
           "Count": "Int:573"
         },
         "AdministrativeEntity:municipal_councils": {
           "Count": "Int:13"
         },
-        "AdministrativeEntity:urban_councils": {
+        "AdministrativeEntity:town_councils": {
           "Count": "Int:-3"
         },
-        "AdministrativeEntity:town_councils": {
+        "AdministrativeEntity:urban_councils": {
           "Count": "Int:11"
         }
       }

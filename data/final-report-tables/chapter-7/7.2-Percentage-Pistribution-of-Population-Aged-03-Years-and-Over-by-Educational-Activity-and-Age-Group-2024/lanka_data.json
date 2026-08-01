@@ -8,13 +8,13 @@
         "EducationActivity:school_education": {
           "Count": "Int:0"
         },
-        "EducationActivity:degree_or_postgraduate_education": {
+        "EducationActivity:degree_or_postgrad": {
           "Count": "Int:0"
         },
-        "EducationActivity:vocational_training_or_technical_education": {
+        "EducationActivity:vocational_training": {
           "Count": "Int:0"
         },
-        "EducationActivity:other_educational_activity": {
+        "EducationActivity:other_education": {
           "Count": "Int:568"
         },
         "EducationActivity:not_studying": {
@@ -28,13 +28,13 @@
         "EducationActivity:school_education": {
           "Count": "Int:2909880"
         },
-        "EducationActivity:degree_or_postgraduate_education": {
+        "EducationActivity:degree_or_postgrad": {
           "Count": "Int:0"
         },
-        "EducationActivity:vocational_training_or_technical_education": {
+        "EducationActivity:vocational_training": {
           "Count": "Int:0"
         },
-        "EducationActivity:other_educational_activity": {
+        "EducationActivity:other_education": {
           "Count": "Int:23042"
         },
         "EducationActivity:not_studying": {
@@ -48,13 +48,13 @@
         "EducationActivity:school_education": {
           "Count": "Int:1148649"
         },
-        "EducationActivity:degree_or_postgraduate_education": {
+        "EducationActivity:degree_or_postgrad": {
           "Count": "Int:4340"
         },
-        "EducationActivity:vocational_training_or_technical_education": {
+        "EducationActivity:vocational_training": {
           "Count": "Int:14467"
         },
-        "EducationActivity:other_educational_activity": {
+        "EducationActivity:other_education": {
           "Count": "Int:33273"
         },
         "EducationActivity:not_studying": {
@@ -68,13 +68,13 @@
         "EducationActivity:school_education": {
           "Count": "Int:295504"
         },
-        "EducationActivity:degree_or_postgraduate_education": {
+        "EducationActivity:degree_or_postgrad": {
           "Count": "Int:213311"
         },
-        "EducationActivity:vocational_training_or_technical_education": {
+        "EducationActivity:vocational_training": {
           "Count": "Int:82193"
         },
-        "EducationActivity:other_educational_activity": {
+        "EducationActivity:other_education": {
           "Count": "Int:115462"
         },
         "EducationActivity:not_studying": {
@@ -88,13 +88,13 @@
         "EducationActivity:school_education": {
           "Count": "Int:0"
         },
-        "EducationActivity:degree_or_postgraduate_education": {
+        "EducationActivity:degree_or_postgrad": {
           "Count": "Int:110971"
         },
-        "EducationActivity:vocational_training_or_technical_education": {
+        "EducationActivity:vocational_training": {
           "Count": "Int:27743"
         },
-        "EducationActivity:other_educational_activity": {
+        "EducationActivity:other_education": {
           "Count": "Int:97099"
         },
         "EducationActivity:not_studying": {

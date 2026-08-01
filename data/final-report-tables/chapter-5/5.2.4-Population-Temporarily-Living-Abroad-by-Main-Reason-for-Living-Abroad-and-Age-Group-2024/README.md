@@ -1,7 +1,7 @@
 # Population Temporarily Living Abroad by Main Reason for Living Abroad and Age Group, 2024
 
 ![CPH](https://img.shields.io/badge/CPH-2024-blue)
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--07--30-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--08--01-green)
 
 *Table 5.2.4, Final Report, 2024 Census of Population and Housing, Department of Census and Statistics, Sri Lanka*
 
@@ -18,7 +18,7 @@
                 "EmmigrationReason:education": {
                     "Count": "Int:1486"
                 },
-                "EmmigrationReason:accompanying_family_member_in_need": {
+                "EmmigrationReason:family_in_need": {
                     "Count": "Int:17862"
                 },
                 "EmmigrationReason:other": {
@@ -32,7 +32,7 @@
                 "EmmigrationReason:education": {
                     "Count": "Int:38053"
                 },
-                "EmmigrationReason:accompanying_family_member_in_need": {
+                "EmmigrationReason:family_in_need": {
                     "Count": "Int:6348"
                 },
                 "EmmigrationReason:other": {
@@ -41,7 +41,7 @@
 ...
 ```
 
-- Source File: [lanka_data.json (1.6 KB)](../../../../data/final-report-tables/chapter-5/5.2.4-Population-Temporarily-Living-Abroad-by-Main-Reason-for-Living-Abroad-and-Age-Group-2024/lanka_data.json)
+- Source File: [lanka_data.json (1.5 KB)](../../../../data/final-report-tables/chapter-5/5.2.4-Population-Temporarily-Living-Abroad-by-Main-Reason-for-Living-Abroad-and-Age-Group-2024/lanka_data.json)
 
 ## Structured Data (similar to original layout)
 

@@ -1,7 +1,7 @@
 # Administrative Structure by District, 1981
 
 ![CPH](https://img.shields.io/badge/CPH-2024-blue)
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--07--30-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--08--01-green)
 
 *Table 2.2, Final Report, 2024 Census of Population and Housing, Department of Census and Statistics, Sri Lanka*
 
@@ -9,30 +9,30 @@
 
 ```json
 {
-    "District": {
+    "AdministrativeEntity": {
         "Time:1981": {
             "District:colombo": {
-                "AdministrativeEntity:assistant_government_agend_divisions": {
+                "AdministrativeEntity:asst_govt_divisions": {
                     "Count": "Int:8"
                 },
-                "AdministrativeEntity:grama_sevaka_divisions": {
+                "AdministrativeEntity:gs_divisions": {
                     "Count": "Int:121"
                 },
                 "AdministrativeEntity:municipal_councils": {
                     "Count": "Int:2"
                 },
-                "AdministrativeEntity:urban_councils": {
+                "AdministrativeEntity:town_councils": {
                     "Count": "Int:4"
                 },
-                "AdministrativeEntity:town_councils": {
+                "AdministrativeEntity:urban_councils": {
                     "Count": "Int:6"
                 }
             },
             "District:gampaha": {
-                "AdministrativeEntity:assistant_government_agend_divisions": {
+                "AdministrativeEntity:asst_govt_divisions": {
                     "Count": "Int:13"
                 },
-                "AdministrativeEntity:grama_sevaka_divisions": {
+                "AdministrativeEntity:gs_divisions": {
                     "Count": "Int:389"
                 },
                 "AdministrativeEntity:municipal_councils": {
@@ -41,7 +41,7 @@
 ...
 ```
 
-- Source File: [lanka_data.json (11.9 KB)](../../../../data/final-report-tables/chapter-2/2.2-Administrative-Structure-by-District-1981/lanka_data.json)
+- Source File: [lanka_data.json (11.3 KB)](../../../../data/final-report-tables/chapter-2/2.2-Administrative-Structure-by-District-1981/lanka_data.json)
 
 ## Structured Data (similar to original layout)
 
@@ -52,11 +52,11 @@
         "region_name": "Colombo",
         "region_ent_type": "district",
         "values": {
-            "AdministrativeEntity:assistant_government_agend_divisions": 8,
-            "AdministrativeEntity:grama_sevaka_divisions": 121,
+            "AdministrativeEntity:asst_govt_divisions": 8,
+            "AdministrativeEntity:gs_divisions": 121,
             "AdministrativeEntity:municipal_councils": 2,
-            "AdministrativeEntity:urban_councils": 4,
-            "AdministrativeEntity:town_councils": 6
+            "AdministrativeEntity:town_councils": 4,
+            "AdministrativeEntity:urban_councils": 6
         },
         "total_value": 141
     },
@@ -65,11 +65,11 @@
         "region_name": "Gampaha",
         "region_ent_type": "district",
         "values": {
-            "AdministrativeEntity:assistant_government_agend_divisions": 13,
-            "AdministrativeEntity:grama_sevaka_divisions": 389,
+            "AdministrativeEntity:asst_govt_divisions": 13,
+            "AdministrativeEntity:gs_divisions": 389,
             "AdministrativeEntity:municipal_councils": 1,
-            "AdministrativeEntity:urban_councils": 6,
-            "AdministrativeEntity:town_councils": 9
+            "AdministrativeEntity:town_councils": 6,
+            "AdministrativeEntity:urban_councils": 9
         },
         "total_value": 418
     },
@@ -79,7 +79,7 @@
 ...
 ```
 
-- Source File: [data.json (22.9 KB)](../../../../data/final-report-tables/chapter-2/2.2-Administrative-Structure-by-District-1981/data.json)
+- Source File: [data.json (21.4 KB)](../../../../data/final-report-tables/chapter-2/2.2-Administrative-Structure-by-District-1981/data.json)
 
 ## Raw Data (directly scraped from PDF)
 

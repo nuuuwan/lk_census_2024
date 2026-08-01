@@ -17,7 +17,7 @@
           "Count": "Int:2193394"
         }
       },
-      "EducationActivity:degree_or_postgraduate_education": {
+      "EducationActivity:degree_or_postgrad": {
         "Sex:male": {
           "Count": "Int:120745"
         },
@@ -25,7 +25,7 @@
           "Count": "Int:200244"
         }
       },
-      "EducationActivity:vocational_training_or_technical_education": {
+      "EducationActivity:vocational_training": {
         "Sex:male": {
           "Count": "Int:70149"
         },
@@ -33,7 +33,7 @@
           "Count": "Int:52308"
         }
       },
-      "EducationActivity:other_educational_activity": {
+      "EducationActivity:other_education": {
         "Sex:male": {
           "Count": "Int:125671"
         },

@@ -1,7 +1,7 @@
 {
   "Person": {
     "Time:2024": {
-      "EmploymentStatus:government_or_semi_government_paid_employee": {
+      "EmploymentStatus:govt_or_semi_govt": {
         "Sex:male": {
           "EmployedCount": "Int:741649"
         },
@@ -9,7 +9,7 @@
           "EmployedCount": "Int:591757"
         }
       },
-      "EmploymentStatus:private_sector_paid_employee": {
+      "EmploymentStatus:private_employee": {
         "Sex:male": {
           "EmployedCount": "Int:2248841"
         },
@@ -33,7 +33,7 @@
           "EmployedCount": "Int:500875"
         }
       },
-      "EmploymentStatus:contributing_to_family_enterprise": {
+      "EmploymentStatus:family_enterprise": {
         "Sex:male": {
           "EmployedCount": "Int:177986"
         },

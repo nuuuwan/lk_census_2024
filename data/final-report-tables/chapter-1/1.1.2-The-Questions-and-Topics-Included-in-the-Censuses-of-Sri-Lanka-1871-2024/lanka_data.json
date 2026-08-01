@@ -47,7 +47,7 @@
         "IsIn": "Bool:False"
       }
     },
-    "CensusTopic:demographic_and_personal_information": {
+    "CensusTopic:demographic_info": {
       "Time:1871": {
         "IsIn": "Bool:False"
       },
@@ -141,7 +141,7 @@
         "IsIn": "Bool:True"
       }
     },
-    "CensusTopic:relationship_to_head_of_the_household": {
+    "CensusTopic:relationship_head": {
       "Time:1871": {
         "IsIn": "Bool:True"
       },
@@ -517,7 +517,7 @@
         "IsIn": "Bool:True"
       }
     },
-    "CensusTopic:status_of_clergy_or_priest": {
+    "CensusTopic:clergy_or_priest": {
       "Time:1871": {
         "IsIn": "Bool:False"
       },
@@ -564,7 +564,7 @@
         "IsIn": "Bool:True"
       }
     },
-    "CensusTopic:educational_characteristics": {
+    "CensusTopic:education_chars": {
       "Time:1871": {
         "IsIn": "Bool:False"
       },
@@ -611,7 +611,7 @@
         "IsIn": "Bool:False"
       }
     },
-    "CensusTopic:ability_to_speak_sinhala_and_tamil": {
+    "CensusTopic:speak_sinhala_tamil": {
       "Time:1871": {
         "IsIn": "Bool:False"
       },
@@ -658,7 +658,7 @@
         "IsIn": "Bool:False"
       }
     },
-    "CensusTopic:ability_to_speak_english": {
+    "CensusTopic:speak_english": {
       "Time:1871": {
         "IsIn": "Bool:False"
       },
@@ -705,7 +705,7 @@
         "IsIn": "Bool:False"
       }
     },
-    "CensusTopic:ability_to_speak_sinhala_english_and_tamil": {
+    "CensusTopic:speak_all_languages": {
       "Time:1871": {
         "IsIn": "Bool:False"
       },
@@ -846,7 +846,7 @@
         "IsIn": "Bool:False"
       }
     },
-    "CensusTopic:sinhala_english_and_tamil_literacy": {
+    "CensusTopic:all_literacy": {
       "Time:1871": {
         "IsIn": "Bool:False"
       },
@@ -987,7 +987,7 @@
         "IsIn": "Bool:True"
       }
     },
-    "CensusTopic:vocational_and_apprenticeship_qualification": {
+    "CensusTopic:vocational_quals": {
       "Time:1871": {
         "IsIn": "Bool:False"
       },

@@ -1,7 +1,7 @@
 # Prevalence Rates of Non-Communicable Diseases by Marital Status, 2024
 
 ![CPH](https://img.shields.io/badge/CPH-2024-blue)
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--07--30-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--08--01-green)
 
 *Table 6.3.9, Final Report, 2024 Census of Population and Housing, Department of Census and Statistics, Sri Lanka*
 
@@ -33,7 +33,7 @@
                 "NonCommunicableDisease:cancer": {
                     "Count": "Int:9099"
                 },
-                "NonCommunicableDisease:stroke": {
+                "NonCommunicableDisease:stroke_or_paralysis": {
                     "Count": "Int:9099"
                 },
                 "NonCommunicableDisease:asthma": {
@@ -41,7 +41,7 @@
 ...
 ```
 
-- Source File: [lanka_data.json (5.5 KB)](../../../../data/final-report-tables/chapter-6/6.3.9-Prevalence-Rates-of-Non-Communicable-Diseases-by-Marital-Status-2024/lanka_data.json)
+- Source File: [lanka_data.json (5.6 KB)](../../../../data/final-report-tables/chapter-6/6.3.9-Prevalence-Rates-of-Non-Communicable-Diseases-by-Marital-Status-2024/lanka_data.json)
 
 ## Structured Data (similar to original layout)
 
