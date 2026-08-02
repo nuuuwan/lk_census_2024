@@ -2,6 +2,7 @@ import os
 from functools import cached_property
 
 from ds import ThingFactory
+from ds.thing.Thing import Thing
 from utils_future import JSONFile
 
 
@@ -42,7 +43,11 @@ class FinalReportTableDataFieldsMixin:
 
         dim_class = ThingFactory[dim_class_name]
         other_keys = dim_class.list()
-        return [t.to_kvpair() for t in other_keys]
+        return [
+            t.to_kvpair()
+            for t in other_keys
+            if t.get_value() != Thing.SPECIAL_VALUE_EXCLUDED_SMALL
+        ]
 
     @cached_property
     def error_key(self):

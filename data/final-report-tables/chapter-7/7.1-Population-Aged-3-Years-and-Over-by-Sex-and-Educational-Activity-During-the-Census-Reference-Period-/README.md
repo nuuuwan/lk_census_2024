@@ -1,7 +1,7 @@
 # Population Aged 3 Years and Over by Sex and Educational Activity During the Census Reference Period,
 
 ![CPH](https://img.shields.io/badge/CPH-2024-blue)
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--08--01-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--08--02-green)
 
 *Table 7.1, Final Report, 2024 Census of Population and Housing, Department of Census and Statistics, Sri Lanka*
 
