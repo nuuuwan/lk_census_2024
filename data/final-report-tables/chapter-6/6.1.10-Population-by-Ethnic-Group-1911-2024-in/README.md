@@ -1,7 +1,7 @@
 # Population by Ethnic Group, 1911 - 2024 (in
 
 ![CPH](https://img.shields.io/badge/CPH-2024-blue)
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--08--02-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--08--05-green)
 
 *Table 6.1.10, Final Report, 2024 Census of Population and Housing, Department of Census and Statistics, Sri Lanka*
 
@@ -13,6 +13,9 @@
         "Time:1911": {
             "Ethnicity:low_country_sinhala": {
                 "Count": "Int:1716900"
+            },
+            "Ethnicity:up_country_sinhala": {
+                "Count": "Int:998600"
             },
             "Ethnicity:sri_lanka_tamil": {
                 "Count": "Int:528000"
@@ -35,13 +38,10 @@
             "Ethnicity:malay": {
                 "Count": "Int:13000"
             }
-        },
-        "Time:1921": {
-            "Ethnicity:low_country_sinhala": {
 ...
 ```
 
-- Source File: [lanka_data.json (6.6 KB)](../../../../data/final-report-tables/chapter-6/6.1.10-Population-by-Ethnic-Group-1911-2024-in/lanka_data.json)
+- Source File: [lanka_data.json (7.4 KB)](../../../../data/final-report-tables/chapter-6/6.1.10-Population-by-Ethnic-Group-1911-2024-in/lanka_data.json)
 
 ## Structured Data (similar to original layout)
 
@@ -79,7 +79,7 @@
 ...
 ```
 
-- Source File: [data.json (4.5 KB)](../../../../data/final-report-tables/chapter-6/6.1.10-Population-by-Ethnic-Group-1911-2024-in/data.json)
+- Source File: [data.json (5.1 KB)](../../../../data/final-report-tables/chapter-6/6.1.10-Population-by-Ethnic-Group-1911-2024-in/data.json)
 
 ## Raw Data (directly scraped from PDF)
 
